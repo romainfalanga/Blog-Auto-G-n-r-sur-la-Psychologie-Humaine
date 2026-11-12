@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "character_id": "florence",
+  "reviewer": "review_florence",
+  "reviewed_on": "2026-11-12",
+  "status": "revision_requested",
+  "summary": "Lecture indépendante complète de la charte, du modèle, du dossier, du plan, du brief et des douze épisodes. Le fond clinique est solide : diagnostic attribué à Florence et non à la personne exposée, distinction inquiétude/tromperie, motivations sans excuse, autonomie et protection non négociables, coordination sans transposition juridique britannique, preuves limitées sans taux ni protocole ; aucun procédé, accès, lien, âge, genre, parole ou nouvelle de la personne exposée n’est inventé. Les douze facettes sont distinctes et les raccords du cahier (première épreuve, légendes, sommaire, harmonisation, pages 1–16 puis 17–24, épreuve complète, retour écrit, page 14, remise) et des délais (quinze jours, trois semaines puis quinze jours) tiennent. Les numéros 3114, 15 et 112, absents du dossier, sont réels en France et adaptés ; la question de sécurité de l’épisode 7 est pertinente ; la feuille de nuits et le café restent des détails anodins non prescriptifs ; Cathy reste non clinique ; l’envie d’envoyer le cahier (ép. 12) ne contient aucun mode de contact. Corrections demandées : les épisodes 1 à 6 restent écrits en formules procédurales et en négations plutôt qu’en actions et dialogues, au point d’être peu compréhensibles pour un lecteur arrivant directement ; la coordination de l’épisode 6 doit devenir une action lisible ; le miroir de l’épisode 2 doit partir de la scène ; un raccord de jours est à corriger à l’épisode 9. Cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de déploiement.",
+  "files": {
+    "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+    "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+    "editorial/clinical/florence.json": "eb829eaf3a423d067b4bf67f2dbe25a8fd855324fe07be112787179bc96ac877"
+  },
+  "findings": [
+    {
+      "episode": 1,
+      "issue": "Lecteur arrivant directement : la scène repose sur des formules procédurales (« dans le cadre déjà validé », « les décisions de protection sont déjà effectives », « Derain lui demande de préciser ce qu’elle a compris », « Florence répond, sans raconter de procédé… ») au lieu d’actions et de paroles. On ne sait ni où elle travaille concrètement, ni que Derain est psychiatre avant la fin du paragraphe, ni ce que Florence répond. Exemples des manifestations trop génériques (« Elle décrit les épreuves du cahier »).",
+      "requested_change": "Réécrire l’ouverture avec lieux et gestes concrets (bureau du service municipal, cabinet de la psychiatre), présenter Derain comme psychiatre dès sa première mention, expliquer en une phrase simple que des professionnels assurent la protection de la personne exposée et que Florence doit respecter ces décisions, et faire entendre la réponse de Florence au discours direct, sans détail de procédé ni de mesure. Rendre les deux exemples de chaque manifestation situés dans la scène."
+    },
+    {
+      "episode": 2,
+      "issue": "Ouverture et développement en grande partie narrés par négations et résumés (« Elle n’ajoute ni scène ancienne ni détail de fabrication », « L’entretien reste centré sur… ») ; Marc n’est pas situé (psychologue de l’équipe spécialisée, lieu). Le miroir s’ouvre sur un conseil général (« Une personne qui entend parler d’un désaccord médical… ») qui ne part d’aucun geste ou parole de la scène.",
+      "requested_change": "Présenter Marc et le lieu dès la première phrase, remplacer les formules négatives par l’échange réel (question de Marc, hésitation et reformulation de Florence au discours direct). Ancrer le miroir dans un geste visible : par exemple Cathy recevant les légendes, ou un proche entendant Florence dire « je voulais que sa santé soit prise au sérieux », avec une réponse qu’il pourrait dire et sa limite."
+    },
+    {
+      "episode": 3,
+      "issue": "La consultation est résumée par des formules (« Elle reprend avec elle les questions utiles à son évaluation », « La médecin lui demande de laisser ouverte celle des motivations ») sans qu’on entende une question de Derain ni une réponse de Florence au-delà de la phrase d’ouverture ; le lecteur ne voit pas comment l’exploration se déroule.",
+      "requested_change": "Montrer au moins une ou deux questions concrètes de Derain et les réponses de Florence au discours direct (sans motif imposé, sans récit d’enfance, sans procédé), puis la phrase par laquelle Florence reconnaît que l’absence de gain ne suffit pas. Situer le cabinet et le bureau où attend le sommaire."
+    },
+    {
+      "episode": 4,
+      "issue": "Le récit insère des commentaires d’auteur à la place de l’action (« Rien n’est dit ici de ce que souhaite la personne exposée… Cette absence d’information n’est pas une invitation à la remplir », « sans la transformer en projet d’envoi ») ; Marc n’est pas présenté et la réponse de Marc reste rapportée.",
+      "requested_change": "Supprimer les phrases métanarratives de l’ouverture, présenter Marc comme psychologue de son équipe spécialisée, faire entendre la question de Marc et la réponse de Florence sur le besoin d’être comprise, et montrer un geste concret de déception (sans contact, message ni intermédiaire)."
+    },
+    {
+      "episode": 5,
+      "issue": "Après une entrée concrète (agenda, téléphone, « J’ai pensé ne pas venir »), le cœur du rendez-vous est résumé par des formules (« Il accueille ce qu’elle permet d’aborder et revient avec elle aux responsabilités et aux limites effectives », « Le rendez-vous ne devient ni une confession exhaustive ni… ») sans parole de Marc ni précision de ce que Florence redoutait.",
+      "requested_change": "Faire entendre une question de Marc et la précision de Florence sur les formulations qu’elle préfère encore employer (bonnes intentions plutôt que responsabilité), puis la façon dont Marc rappelle sa responsabilité, en dialogue, sans récit de procédé. Retirer les phrases qui disent ce que le rendez-vous n’est pas."
+    },
+    {
+      "episode": 6,
+      "issue": "La coordination exigée par le plan n’est pas lisible comme une action : « L’échange prévu avec Nora est effectivement réalisé par la psychiatre. Les professionnelles reprennent les éléments nécessaires à leurs fonctions et confirment la suite applicable. » On ignore quand et comment l’échange a lieu et ce que Florence apprend concrètement (« les consignes qui la concernent » restent opaques).",
+      "requested_change": "Situer l’échange dans la scène (par exemple Derain explique qu’elle appelle Nora à la fin de la consultation comme prévu, puis revient vers Florence) et donner une réponse compréhensible sans inventer de mesure : les décisions restent les mêmes, l’assiduité n’est pas un critère pour les modifier, toute question sur ces décisions s’adresse à Nora par le canal indiqué, et Florence ne reçoit aucune information sur la personne exposée. Garder la fonction et le service de Nora non précisés."
+    },
+    {
+      "episode": 9,
+      "issue": "Raccord de jours : Cathy demande si Florence a passé un bon week-end alors que les pages 17 à 24 ont été « imprimées la veille » et rendues « mardi » ; si la pause a lieu le lundi, l’impression tomberait un dimanche.",
+      "requested_change": "Préciser le jour de la pause et ajuster l’impression (par exemple « imprimées vendredi ») ou la question sur le week-end, pour garder un enchaînement de jours cohérent avec l’épisode 8."
+    }
+  ],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Diagnostic établi et protection distincte",
+      "opening_quote": "Florence lit la première épreuve à voix basse. Le titre, Regards de quartier, occupe le haut de la page.",
+      "ending_quote": "Florence conserve le rendez-vous suivant et vérifie avec Derain les décisions qui la concernent. Rien n’est modifié en échange de sa présence.",
+      "continuity_note": "La première épreuve et la date confirmée à Cathy ouvrent bien la chaîne du cahier (épreuve, légendes, sommaire). Mais la scène reste abstraite pour un lecteur arrivant directement : « le cadre déjà validé », « les décisions de protection sont déjà effectives », « Florence répond » sans que l’on entende sa réponse.",
+      "clinical_note": "Attribution du diagnostic à Florence et non à la personne exposée conforme au CDDR p.596 ; aucun procédé ni acte décrit. En revanche l’explication et les exemples (« Elle décrit les épreuves du cahier ») restent génériques et la manifestation visible de la facette se résume à une phrase récitée.",
+      "relatives_note": "Phrase de Cathy concrète et sobre, ancrée dans la date transmise ; renvoi clinique et sécurité aux professionnels respecté."
+    },
+    {
+      "number": 2,
+      "focus": "Inquiétude et tromperie identifiée",
+      "opening_quote": "Marc demande à Florence ce qui lui est resté de l’entretien avec la psychiatre. Elle répond qu’elle voulait que la santé d’autrui soit prise au sérieux.",
+      "ending_quote": "Florence dit à Marc qu’elle ne veut plus utiliser l’inquiétude comme seule description des faits établis. Le psychologue poursuit l’entretien à partir de cette distinction.",
+      "continuity_note": "Le rappel « la semaine précédente » raccorde à l’épisode 1 et les premières légendes partent à Cathy comme annoncé. Le lieu (cabinet de Marc) et son métier n’apparaissent qu’indirectement ; plusieurs phrases décrivent ce qui n’est pas fait plutôt qu’une action.",
+      "clinical_note": "Distinction inquiétude/tromperie identifiée conforme au CDDR p.597 ; mention RCPCH 3.1 correctement limitée à l’absence d’amalgame avec le cadre pédiatrique, sans attribuer d’âge.",
+      "relatives_note": "La première phrase du miroir (« Une personne qui entend parler d’un désaccord médical… ») n’est pas ancrée dans la scène : personne n’y entend un désaccord médical. La réponse de Cathy est concrète."
+    },
+    {
+      "number": 3,
+      "focus": "Motivations et responsabilité",
+      "opening_quote": "« Je n’avais rien à gagner matériellement. »",
+      "ending_quote": "Florence accepte de garder la question des motivations ouverte avec Derain. Elle ne conclut plus, dans cet échange, que l’absence de gain matériel suffirait à l’innocenter.",
+      "continuity_note": "Le sommaire attend au bureau puis part à Cathy, conforme au plan ; la réplique d’ouverture est forte. Le passage « Elle reprend avec elle les questions utiles à son évaluation » remplace l’échange par une formule : on ne voit aucune question de Derain.",
+      "clinical_note": "Motivations non réduites à la récompense extérieure (CDDR p.596–597), pas de cause unique, pas de récit d’enfance ; responsabilité maintenue. Correct.",
+      "relatives_note": "Réponse de Cathy concrète sur l’ordre des pages ; renvoi d’une question de responsabilité au suivi spécialisé, sans enquête : sûr."
+    },
+    {
+      "number": 4,
+      "focus": "Autonomie de la personne exposée",
+      "opening_quote": "Florence a reçu les remarques de Cathy sur le sommaire. Deux pages doivent changer d’ordre et une légende reste à raccourcir.",
+      "ending_quote": "Florence ne sollicite aucune transmission à la personne exposée. Elle dit à Marc qu’elle aura besoin de revenir sur son attente de reconnaissance.",
+      "continuity_note": "Les remarques de Cathy (deux pages à inverser, une légende à raccourcir) sont reprises et le sommaire est renvoyé : bon raccord concret. La scène contient toutefois des commentaires d’auteur (« Cette absence d’information n’est pas une invitation à la remplir ») au lieu de gestes ou de paroles.",
+      "clinical_note": "Autonomie de la personne exposée respectée : pas de lettre, d’intermédiaire ni de pardon ; aucun état ou souhait de cette personne n’est inventé. Conforme au dossier.",
+      "relatives_note": "Le refus de porter un message est formulé dans des mots qu’un proche peut dire ; Cathy n’est pas intermédiaire. Sûr et concret."
+    },
+    {
+      "number": 5,
+      "focus": "Ambivalence et alliance clinique",
+      "opening_quote": "Le rappel du rendez-vous est déjà inscrit dans l’agenda. Florence le regarde en préparant les légendes à harmoniser.",
+      "ending_quote": "Le rendez-vous a lieu et Marc fixe avec Florence la prochaine étape du travail. Les questions ne sont pas toutes résolues.",
+      "continuity_note": "L’agenda, le téléphone posé et « J’ai pensé ne pas venir » rendent l’ambivalence visible ; le délai d’harmonisation ajusté prépare l’épisode 6. Le cœur de l’entretien reste résumé (« revient avec elle aux responsabilités et aux limites effectives ») sans rien de ce qui est dit.",
+      "clinical_note": "Ambivalence travaillée dans l’alliance sans approbation du dommage ni exigence de confession (CR223 p.29–31) ; non présentée comme signe diagnostique.",
+      "relatives_note": "Cathy note le délai sans contrôler l’assiduité ; limite claire et réplique concrète."
+    },
+    {
+      "number": 6,
+      "focus": "Coordination clinique et protection",
+      "opening_quote": "Florence arrive avec une question notée dans son agenda personnel. Elle a maintenu ses derniers rendez-vous, même celui qu’elle avait pensé annuler.",
+      "ending_quote": "Derain et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence vérifie les consignes qui lui sont adressées.",
+      "continuity_note": "La question de l’assiduité raccorde aux rendez-vous maintenus (ép. 5) et la date de l’épreuve harmonisée part à Cathy. Mais l’échange avec Nora est rapporté au passif (« effectivement réalisé par la psychiatre ») sans moment, moyen ni contenu compréhensible ; « la suite applicable » et « les consignes qui la concernent » restent opaques.",
+      "clinical_note": "Coordination et rôles distincts conformes au CR223 p.6 et 26–27, sans transposer de règle juridique britannique ; pas d’information privée sur la personne exposée transmise. Le principe est juste, mais l’action réelle exigée par le plan n’est pas lisible.",
+      "relatives_note": "Cathy ne reçoit que l’échéance ; rappel du droit à la vie privée de la personne exposée. Sûr."
+    },
+    {
+      "number": 7,
+      "focus": "Reconnaître sa propre détresse",
+      "opening_quote": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes.",
+      "ending_quote": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée.",
+      "continuity_note": "Mardi, deuxième étage, vingt-quatre pages, la virgule du marché page 9 : scène concrète. Raccord juste avec la consultation de coordination « de la semaine dernière » ; envoi des pages 1–16 et annonce d’une date pour 17–24.",
+      "clinical_note": "Détresse propre travaillée comme telle, non causale ni spécifique du trouble (CR223 p.29–31). La question systématique sur les idées de se faire du mal, la réponse négative notée et le rappel du secrétariat, du 3114 et du 15 sont adaptés et réels en France ; le récit se situe implicitement en France (service municipal, médecin traitant).",
+      "relatives_note": "Dîner proposé jeudi, soutien ordinaire non thérapeutique ; conduite à tenir en cas d’envie de se faire du mal (3114, 15) claire ; refus de transmettre un message à la personne exposée. Concret et sûr."
+    },
+    {
+      "number": 8,
+      "focus": "Besoins médicaux légitimes",
+      "opening_quote": "Dans la salle d’attente du centre de consultation, Florence tient une feuille pliée en quatre. Elle y a noté ses nuits des deux dernières semaines, au crayon, comme elle annote une épreuve : endormie vers une heure, réveillée à quatre, parfois de nouveau à cinq.",
+      "ending_quote": "Derain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général.",
+      "continuity_note": "La feuille de nuits (deux semaines), les deux fautes laissées et la proposition « mardi prochain » pour les pages 17–24 tiennent la promesse de l’épisode 7. Le point « dans quinze jours » est repris à l’épisode 10.",
+      "clinical_note": "Diagnostic imposé à autrui non assimilé à un trouble imposé à soi ; coexistence maladie réelle et trouble factice (CDDR p.593/596) citée sans comorbidité inventée. Questions sur coucher, appétit, douleurs, humeur, café : évaluation ordinaire, sans prescription ni conseil d’hygiène prescriptif. Orientation vers le médecin traitant et le 15 pertinente.",
+      "relatives_note": "Phrase du proche ancrée dans la crainte de ne pas être crue ; il ne juge pas la fatigue ni ne propose de remède ; Cathy accepte l’échéance sans demander de motif."
+    },
+    {
+      "number": 9,
+      "focus": "Soutien social et limites",
+      "opening_quote": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, imprimées la veille.",
+      "ending_quote": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire.",
+      "continuity_note": "Les pages 17–24 rendues « mardi, comme elle l’avait proposé » raccordent à l’épisode 8 ; la ligne de carnet pour Marc « mardi » est cohérente avec le rythme hebdomadaire. Petit accroc : Cathy demande comment s’est passé le week-end alors que les pages ont été « imprimées la veille », ce qui placerait l’impression un dimanche si la pause est le lundi.",
+      "clinical_note": "Retentissement social présenté comme possible et non universel ; Cathy reste strictement non clinique, ne surveille pas et ne garde aucun secret. Conforme aux choix du dossier.",
+      "relatives_note": "Le geste de Cathy (dire ce qu’on peut offrir avant la limite) est concret. Le recours au 112 en cas de danger immédiat est réel ; il diffère du 15 des épisodes 7–8 mais reste valable pour un danger visant autrui, sans inviter le collègue à évaluer seul."
+    },
+    {
+      "number": 10,
+      "focus": "Choix de soin et preuves limitées",
+      "opening_quote": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ?",
+      "ending_quote": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre.",
+      "continuity_note": "Feuille de nuits « complétée depuis quinze jours » : raccord exact avec l’épisode 8 ; médecin traitant jeudi, épreuve complète de vingt-quatre pages envoyée pour le retour écrit collectif.",
+      "clinical_note": "Preuves limitées surtout issues de cas, aucun taux, durée ni protocole (CR223 p.29–33) ; séparation information, choix du soin, évaluation du risque et protection. La réduction du café vient de Florence, non d’une prescription.",
+      "relatives_note": "Le proche n’annonce ni guérison ni échec et renvoie la question à la psychiatre ; Cathy répond sur le cahier. Concret."
+    },
+    {
+      "number": 11,
+      "focus": "Changements observés et vigilance durable",
+      "opening_quote": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve.",
+      "ending_quote": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes.",
+      "continuity_note": "Retour écrit lundi, point avec Derain le surlendemain, page 14 de l’arrêt de bus corrigée ; prochain rendez-vous psychiatrique « dans trois semaines », compatible avec « dans quinze jours » à l’épisode 12 si une semaine s’écoule.",
+      "clinical_note": "Réussite professionnelle et assiduité ne mesurent pas le risque ; pas de prédiction individuelle ni d’échec annoncé ; coordination avec Nora poursuivie sans modification. Conforme.",
+      "relatives_note": "Félicitation sans conclusion clinique, exemples de phrases à éviter ; appréciation du risque laissée aux professionnels."
+    },
+    {
+      "number": 12,
+      "focus": "Participation ordinaire et suivi durable",
+      "opening_quote": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle.",
+      "ending_quote": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement.",
+      "continuity_note": "Remise le vendredi, « Merci pour la page 14 », boîte d’archives reprenant toutes les étapes du cahier ; rendez-vous de Marc mardi à seize heures et Derain dans quinze jours. L’envie d’envoyer le cahier est nommée sans aucun moyen ni circuit de contact, et notée pour Marc.",
+      "clinical_note": "Activité indépendante non transformée en réparation ni preuve d’innocuité ; aucune levée de mesure, nouvelle ou réconciliation ; la personne exposée reste sans genre, âge, parole ni nouvelles (l’accord « qu’elle voie » ne renvoie qu’à « la personne »).",
+      "relatives_note": "Félicitation pour ce qui est vrai, moment ordinaire proposé, refus de porter le cahier à la personne exposée en une phrase concrète. Sûr."
+    }
+  ]
+}

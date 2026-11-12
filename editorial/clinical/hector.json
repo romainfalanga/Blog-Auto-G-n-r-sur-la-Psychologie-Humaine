@@ -1,0 +1,118 @@
+{
+  "character_id": "hector",
+  "bio": "Hector, 77 ans, est charpentier retraité. Hospitalisé pour une infection pulmonaire, il a traversé un delirium : en quelques heures, son attention, son orientation et sa conscience de ce qui l’entourait ont changé, avec des variations d’un moment à l’autre. L’équipe hospitalière en a recherché les causes. De retour chez lui, il reprend des habitudes simples et prépare la caisse d’outils promise à son neveu Julien. Il déteste qu’on plaisante sur des souvenirs qu’il ne reconnaît pas et préfère qu’on lui explique doucement ce qui s’est passé.",
+  "profile_topics": [
+    "Delirium",
+    "Attention et orientation qui fluctuent",
+    "Causes médicales recherchées en urgence",
+    "Récupération progressive au quotidien",
+    "Souvenirs manquants de l’épisode"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "hector-changement-soudain-confusion-hopital",
+      "title": "Un changement soudain de l’attention en quelques heures à l’hôpital",
+      "description": "À midi, Hector détaillait la caisse promise ; le soir, il ne suit plus son neveu. Un changement aussi rapide se signale à l’équipe sans attendre.",
+      "context": "le deuxième soir à l’hôpital",
+      "topics": [
+        "Delirium",
+        "changement brutal",
+        "signaler à l’équipe"
+      ],
+      "clinical_intro": "Quand une personne âgée hospitalisée change en quelques heures, au point de ne plus suivre une conversation ni savoir où elle se trouve, ce changement compte plus que l’état lui-même. Chez Hector, soigné pour une infection pulmonaire, le contraste entre midi et le soir alerte son neveu. L’équipe évalue ce qui se passe ; aucun nom n’est encore posé.",
+      "opening": "À midi, au deuxième jour de son hospitalisation pour une infection pulmonaire, Hector Ménard, 77 ans, charpentier retraité, avait encore l’œil d’un homme qui vérifie un aplomb. Julien, son neveu, professeur de technologie qui rénove une longère à vingt minutes de Saumur, lui avait apporté le journal. Hector avait repoussé le journal et parlé de la caisse d’outils qu’il a construite en 1979 et qu’il a promis de lui préparer : « Le rabot dans le fond, le trusquin couché à gauche, et les ciseaux à bois du plus étroit au plus large. Le six, le douze, le vingt, le trente. Pas autrement. » Il avait même corrigé Julien, qui avait dit le vingt-cinq.\n\nÀ vingt heures, Julien revient après sa réunion de parents d’élèves. Hector est assis dans le lit, les yeux ouverts, mais son regard ne s’arrête sur rien. Julien lui raconte sa journée ; au milieu de la deuxième phrase, Hector le coupe : « Où est-ce que j’ai rangé le trusquin ? » Julien répond qu’il est à l’atelier, dans la caisse. Hector hoche la tête, puis redemande la même chose une minute plus tard. Il dit que le chantier attend, que la bâche va s’envoler, et il tire le drap à deux mains comme on tend une toile sur une charpente ouverte.\n\nJulien cherche l’homme de midi, celui qui corrigeait un chiffre. Il ne le retrouve pas. Il pense d’abord à la fatigue, puis se rappelle la précision des ciseaux à bois. Ce n’est pas le même Hector. Il appuie sur la sonnette. Nadia, l’infirmière de nuit du service de médecine, entre quelques instants plus tard.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement rapide qui tranche avec l’habitude",
+          "text": "Un changement de l’attention, de l’orientation et de la conscience de ce qui entoure une personne, apparu en quelques heures ou quelques jours, n’est pas une simple fatigue de fin de journée. Chez une personne âgée hospitalisée, il appelle une évaluation médicale rapide, parce qu’il peut traduire un problème de santé qui se joue maintenant. Ce qui oriente les soignants n’est pas un symptôme isolé, mais la différence avec la personne telle qu’on la connaît. Dans la chambre d’Hector, l’état du soir ne dit rien à lui seul ; c’est sa distance avec l’homme de midi qui alerte. Julien n’a pas à savoir ce que cela signifie. Il a vu quelque chose que l’équipe ne pouvait pas voir : la précision d’Hector quelques heures plus tôt. C’est cette information qu’il apporte, et c’est à l’équipe d’examiner Hector et d’en tirer une conclusion."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un tel changement devient-il visible pour un proche ?",
+          "points": [
+            {
+              "heading": "L’attention ne tient plus le fil",
+              "text": "La personne peut ne plus suivre une phrase jusqu’au bout, alors qu’elle discutait normalement peu avant.",
+              "examples": [
+                "Hector coupe Julien au milieu de sa deuxième phrase pour poser une question sans lien.",
+                "Il hoche la tête à la réponse sur le trusquin, puis repose la même question une minute plus tard."
+              ]
+            },
+            {
+              "heading": "Le lieu et le moment se brouillent",
+              "text": "L’orientation peut se décaler : la personne se croit ailleurs, ou à un autre moment de sa vie.",
+              "examples": [
+                "Dans une chambre d’hôpital, Hector parle d’un chantier qui l’attend dehors.",
+                "Il pense que la bâche va s’envoler, comme sur une charpente ouverte sous le vent."
+              ]
+            },
+            {
+              "heading": "Le contraste avec quelques heures plus tôt",
+              "text": "Le signe le plus parlant pour l’entourage est souvent la comparaison avec un moment récent et précis.",
+              "examples": [
+                "À midi, Hector corrigeait le chiffre d’un ciseau à bois ; à vingt heures, il ne retient pas une réponse.",
+                "Le geste du soir, tirer le drap comme une toile, n’existait pas pendant la visite du déjeuner."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre un changement brutal à l’équipe",
+          "points": [
+            {
+              "heading": "Décrire la différence entre deux moments",
+              "objective": "Donner aux soignants un point de comparaison qu’ils n’ont pas.",
+              "exercise": [
+                "Dire à l’infirmière l’heure où la personne allait encore comme d’habitude.",
+                "Citer une phrase ou un geste précis de ce moment-là.",
+                "Décrire ce qui a changé depuis, avec les mots les plus simples possibles."
+              ],
+              "benefit": "Un contraste daté aide l’équipe à situer le changement ; il ne remplace pas son examen."
+            },
+            {
+              "heading": "Dire ce qui est habituel chez la personne",
+              "objective": "Éviter que l’état du soir soit pris pour sa façon d’être ordinaire.",
+              "exercise": [
+                "Préciser si la personne vit seule, se déplace, lit ou bricole d’ordinaire.",
+                "Signaler qu’elle n’avait jamais eu ce type de confusion auparavant, si c’est le cas.",
+                "Laisser un numéro où l’on peut être joint pour compléter ces informations."
+              ],
+              "benefit": "L’équipe peut mieux mesurer l’écart avec le fonctionnement habituel de la personne."
+            },
+            {
+              "heading": "Laisser l’évaluation aux soignants",
+              "objective": "Ne pas chercher seul ce qui provoque le changement.",
+              "exercise": [
+                "Appeler l’infirmière présente dès que le changement inquiète, sans attendre le lendemain.",
+                "Répondre à ses questions sans avancer d’explication à sa place.",
+                "Demander quand et par qui des nouvelles pourront être données."
+              ],
+              "benefit": "Le proche reste un témoin utile, et l’enquête médicale reste entre les mains de l’équipe."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Ce qu’il disait à midi",
+      "ending": "Nadia se présente à Hector, lui dit qu’il est à l’hôpital de Saumur et qu’il fait nuit. Elle lui pose quelques questions courtes, prend sa tension et sa température, puis demande à Julien depuis quand il le trouve ainsi. « À midi, il allait bien. Il me récitait l’ordre de ses outils. » Nadia note l’heure, vingt heures, et dit qu’elle prévient tout de suite le médecin de garde. Elle sort ; Julien entend sa voix au téléphone dans le couloir. Pendant que le médecin de garde examine Hector, Julien écrit dans son téléphone ce qu’il a entendu à midi : le six, le douze, le vingt, le trente. Il veut pouvoir le redire exactement. Il reste ensuite jusqu’à vingt-deux heures. Hector finit par lâcher le drap et par fermer les yeux. Avant de partir, Julien laisse son numéro à Nadia, au poste de soins. Personne ne lui a dit ce que c’était. On lui a dit qu’on cherchait.",
+      "conclusion": "Un changement de l’attention et de l’orientation apparu en quelques heures se signale sans attendre, parce que le contraste avec la personne habituelle est une information précieuse. Pour Hector, ce premier soir ne reçoit pas encore de nom : l’équipe examine, et Julien garde par écrit l’homme de midi.",
+      "mirror": [
+        "Devant le drap tiré comme une bâche, Julien n’a pas raisonné Hector ni cherché une explication. Il a sonné, puis il a pu dire à Nadia : « À midi, il allait bien. Il me récitait l’ordre de ses outils. » Un proche peut faire la même chose : comparer avec un moment récent, le dire à l’infirmière présente et laisser son numéro. Il n’a pas à savoir ce qui se passe, seulement à le signaler vite. Il peut ensuite rester un moment, en parlant doucement, puis rentrer chez lui."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "has-confusion-aigue"
+      ],
+      "continuity": {
+        "choice": "Julien appelle Nadia, qui note l’heure du changement et prévient le médecin de garde ; Julien garde dans son téléphone ce qu’Hector disait à midi et laisse son numéro au service.",
+        "next": "Le lendemain matin, plus clair, Hector demandera qu’on lui explique doucement ce qui s’est passé ce soir-là."
+      },
+      "clinical_focus": "Un changement soudain par rapport à l’Hector habituel",
+      "diagnostic_stage": "under_assessment"
+    }
+  ]
+}

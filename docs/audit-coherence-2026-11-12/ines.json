@@ -1,0 +1,362 @@
+{
+  "character_id": "ines",
+  "type": "origine",
+  "auditor": "audit_o3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Inès, 30 ans (née en 1996), bibliothécaire, en couple avec Clara depuis trois ans ; elles vivent ensemble. Proches : Cécile (amie), Lucie (collègue de l'accueil). Clara a une activité associative.",
+    "arc_summary": "Du 1er septembre au 14 octobre 2026, Inès apprend d'abord à dire non dans l'intimité (arrêter, refuser une pratique, refuser sans prétexte), puis à protéger un espace (carnet, image du corps, fatigue, séparation) et enfin à demander (présence, mots d'affection, réparation, moments partagés). La progression est cohérente, sans contradiction factuelle, et la dernière scène montre un couple qui sait laisser chacune choisir.",
+    "arc_issues": [
+      "Le parcours est très homogène : presque chaque épisode revient au même principe (une limite ou un bon moment ne crée ni dette ni promesse). Les épisodes 1, 3 et 10 d'une part, 2 et 12 d'autre part, se recoupent.",
+      "Le présent est employé systématiquement pour des faits passés (« Quelques minutes plus tôt, Inès propose », « Clara évoque », « qu'elle échoue la veille »), ce qui brouille la chronologie dans chaque épisode.",
+      "Deux situations clés restent non dites : la démarche de Clara (épisode 6) et la conversation de la veille (épisode 9).",
+      "Les sections de techniques sont longues et répètent dans chaque épisode les mêmes précautions (pression, représailles, soutien individuel) ; elles sont justes mais alourdissent la lecture.",
+      "Inès n'a presque aucune vie hors du couple (travail réduit à quelques scènes, Cécile et Lucie à peine présentées).",
+      "Rubrique « Du côté des proches » : concrète, ancrée dans chaque scène et respectueuse du consentement ; Clara n'est jamais placée en thérapeute."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis.md",
+      "focus": "consentement révocable : interrompre un moment intime qu'on a soi-même proposé",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Chambre au-dessus d'une petite gare, radiateur qui claque, demande d'une couverture à la place du mot « arrêter », puis la phrase dite et respectée : tout est situé. Âge, métier et durée du couple sont posés dès le deuxième paragraphe.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Quelques minutes plus tôt, Inès propose elle-même de se retrouver sous la couette.",
+          "problem": "Le présent employé pour un fait antérieur brouille la chronologie de la scène ; le procédé revient dans tout le parcours.",
+          "fix": "Écrire « Quelques minutes plus tôt, Inès a proposé elle-même… »."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple.md",
+      "focus": "différence de désir : deux inquiétudes (devoir accepter, déranger en proposant) derrière un choix de trajet",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La sortie du cinéma et le trajet (rentrer à deux ou rejoindre les amies sur la place) rendent le décalage concret ; la découverte de la crainte de Clara est bien amenée. La visite de la médiathèque et le refus suivant donnent un dénouement nuancé.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Clara lui propose de rentrer ensemble sans passer par la place où leurs amies les attendent.",
+          "problem": "L'invitation implicite de Clara n'est comprise que grâce à la phrase de narrateur qui suit (« L’une imagine une proximité intime ») ; un mot de Clara rendrait la scène autonome.",
+          "fix": "Faire dire à Clara une phrase explicite, par exemple « On rentre direct ? J'ai envie d'être avec toi ce soir »."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-parler-limite-intime.md",
+      "focus": "poser une limite intime nette et corriger un « on verra » qui ne correspondait pas à son choix",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le gravillon sur la passerelle, le « on verra » regretté et la reformulation de Clara (« tu ne veux pas que je te relance ») sont clairs. La dernière phrase réintroduit pourtant un doute sur ce que Clara a compris.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "elle lui demande plutôt si elle a compris de quel geste elles parlaient.",
+          "problem": "Après la reformulation explicite de Clara, cette question finale laisse croire que la limite reste ambiguë et affaiblit la fin.",
+          "fix": "Remplacer par une question sur le ton : « elle lui demande plutôt si la phrase lui a paru sèche »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Quelques jours plus tôt, Clara évoque une idée après avoir lu un témoignage.",
+          "problem": "Présent pour un fait passé (« évoque ») ; même tournure plus loin (« ce dont tu me parles l’autre jour »).",
+          "fix": "Mettre au passé composé : « Clara a évoqué », « ce dont tu m’as parlé »."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-vie-privee-couple.md",
+      "focus": "vie privée dans le couple : garder un carnet personnel sans couper le partage",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le carnet vert retourné, la question de Clara, l'étagère choisie puis le rempotage du dimanche suivent un fil simple ; la distinction entre « comprendre ton état » et « lire tes pages » est montrée dans le dialogue.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite.md",
+      "focus": "image du corps et surveillance de son apparence pendant l'intimité",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La photo à la piscine, le pli du maillot agrandi à deux doigts, le tram et la phrase dite pendant l'étreinte rendent le mécanisme visible. Cécile, nouvelle amie, n'est pas présentée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Cécile lui montre la photo qu’elles viennent de faire près du bassin extérieur.",
+          "problem": "Cécile apparaît sans qu'on sache qui elle est (amie, collègue) ; elle revient aux épisodes 11 et dans la rubrique proches.",
+          "fix": "Ajouter : « Cécile, son amie depuis la fac, lui montre… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il lui a semblé plus simple de dire ce qu’elle ne veut pas voir circuler depuis la discussion du carnet avec Clara.",
+          "problem": "Rappel de l'épisode 4 placé au milieu de la scène, qui interrompt l'action.",
+          "fix": "Déplacer ce rappel dans la section d'explication ou le supprimer."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective.md",
+      "focus": "fatigue et disponibilité affective : dire ce qu'on peut offrir après une journée bruyante",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le chariot qui grince, la question « Tu m'écoutes ? », la fourchette ramassée et la pause de vingt minutes sont concrets. Mais la « difficulté » de Clara, son « dossier » et sa « démarche difficile » ne sont jamais précisés : on ne sait pas ce que Clara demande ni pourquoi c'est urgent.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Sa compagne commence à raconter les étapes d’une démarche difficile.",
+          "problem": "Le sujet de la démarche (administrative, médicale, professionnelle ?) n'est jamais donné ; le lecteur ne peut pas juger de l'urgence, ni comprendre les « deux piles » et la « personne compétente » du dénouement.",
+          "fix": "Nommer la démarche en une phrase, par exemple « un recours contre la caisse d'allocations, à envoyer avant vendredi »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Dans le vestiaire de la bibliothèque, Inès répond qu’elle rentre bientôt et ajoute un cœur.",
+          "problem": "Inès répond à un message qui n'est pas montré.",
+          "fix": "Écrire d'abord le message de Clara : « Clara lui écrit : “Tu pourras regarder mon dossier ce soir ?” »."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire.md",
+      "focus": "sécurité affective : formuler une demande de présence précise et limitée",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La clé qui glisse, le « ça va » préparé, la contestation de la règle de réservation et la demande « dix minutes, sans chercher de solution » sont clairs ; la boîte aux lettres et le square donnent une fin concrète.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Dans la rue, elle avait décidé d’en parler à Lucie.",
+          "problem": "Lucie n'est présentée comme collègue qu'une section plus loin.",
+          "fix": "Écrire « à Lucie, sa collègue de l'accueil »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Inès peut examiner cette amélioration sans y voir la preuve qu’elle échoue la veille.",
+          "problem": "Présent pour un fait passé (« échoue la veille ») ; même chose pour « Elle lui offre une présence ».",
+          "fix": "Écrire « qu'elle a échoué la veille », « Elle lui a offert »."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite.md",
+      "focus": "crainte du jugement : oser dire une préférence affective sans la tourner en dérision",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La carte barrée, le « C'est idiot, mais… » répété mentalement, la phrase dite en pliant le linge et la réponse inattendue de Clara (les titres de romans au bord du canal) forment un épisode net. Le deuxième paragraphe est confus.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle peut dire à Clara qu’elle préfère garder son carnet fermé. Sur la carte, les mots qu’elle écrit ne protègent rien; ils disent quelque chose qu’elle aimerait.",
+          "problem": "Le rapprochement avec le carnet de l'épisode 4 est elliptique et coupe la scène ; le lecteur autonome ne comprend pas l'allusion.",
+          "fix": "Remplacer par : « Dire non lui est devenu plus facile ; dire ce qu'elle aime la gêne davantage »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Se moquer de soi avant de recevoir une réponse",
+          "problem": "L'humour comme protection rejoint un ressort déjà présent dans le parcours (ajouter des précautions, rendre une parole révocable aux épisodes 3 et 10) ; l'angle reste distinct mais gagnerait à être signalé.",
+          "fix": "Ajouter une phrase qui distingue : ici Inès protège une demande, pas un refus."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante.md",
+      "focus": "réparer une conversation blessante : reconnaître une accusation généralisante et l'ironie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La fermeture du sac isotherme, le « Tu veux toujours tout gérer » et l'ironie qui suit sont vivants ; l'excuse et le marché suivant sont nets. Mais la « conversation de la veille » qui explique l'irritation d'Inès n'est jamais dite, et « la conversation plus personnelle qui les préoccupe » reste mystérieuse.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Inès se sent encore observée après leur conversation de la veille.",
+          "problem": "Le lecteur ne sait pas de quelle conversation il s'agit ; or c'est la clé de la réaction injuste. Les mentions « après une confidence » et « la conversation plus personnelle qui les préoccupe » renvoient au même vide.",
+          "fix": "Préciser en une phrase : par exemple « la veille, elle a raconté à Clara une dispute avec sa mère et Clara lui a posé une question après l'autre »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Au marché, tu proposes ton aide. Je réponds que tu veux toujours tout gérer",
+          "problem": "Le présent dans l'excuse rend la reconnaissance moins nette (« tu proposes » au lieu de « tu as proposé »).",
+          "fix": "Mettre l'excuse au passé composé."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-dire-non-sans-preuve.md",
+      "focus": "refuser sans fournir de prétexte : corriger un faux mal de tête",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le faux « mal de tête », le store que Clara propose de baisser et la correction (« je n'ai pas mal à la tête ») montrent très clairement comment un prétexte entraîne de mauvaises solutions. Le rempotage et l'excuse au repas ferment bien l'épisode.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "À la gare, Inès avait dit qu’elle voulait s’arrêter, et Clara s’était arrêtée.",
+          "problem": "Le principe (un refus n'a pas à être justifié) est déjà posé à l'épisode 1 (« une phrase complète sans preuve à la fin ») et à l'épisode 3. L'angle propre ici, le prétexte inventé, mériterait d'être davantage mis en avant dans le titre et la définition.",
+          "fix": "Recentrer la définition sur le prétexte (excuse inventée et ses effets) plutôt que sur le droit au refus, déjà traité."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles.md",
+      "focus": "confiance et espace personnel pendant une séparation de quatre jours et au retour",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Valise sur le quai, accord de contact minimal, photo du roman sans réponse rapide, soirée de lecture avec Cécile, retrouvailles en deux temps avec la portion gardée : l'épisode se suit sans effort et illustre un aspect nouveau (l'absence).",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/ines-moments-partages-sans-obligation.md",
+      "focus": "moment partagé sans obligation : une sortie au musée qui ne doit rien prouver",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Billets d'exposition, tram immobilisé, machines sonores, rendez-vous manqué au mauvais escalier : la journée est claire et la fin modeste convient. L'idée centrale (un temps commun sans résultat attendu) était déjà la troisième technique de l'épisode 2.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Un moment partagé sans obligation est un temps choisi ensemble dont la valeur ne dépend pas d’un comportement imposé ensuite",
+          "problem": "L'épisode 2 propose déjà « Créer un rendez-vous sans résultat attendu » (visite de la médiathèque) et l'épisode 1 pose qu'un bon moment ne crée « aucune dette intime » ; l'épisode final reprend ces deux idées au lieu d'un aspect nouveau.",
+          "fix": "Recentrer sur ce qui est propre à cet épisode : l'attente que la journée prouve les progrès du couple (« examen à réussir ») et le temps séparé à l'intérieur d'une sortie commune ; retirer ou raccourcir la technique 3 de l'épisode 2."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Pour Inès, cette question traverse les derniers mois.",
+          "problem": "Le parcours couvre six semaines (1er septembre – 14 octobre).",
+          "fix": "Écrire « ces dernières semaines »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Le moment partagé n’a pas commencé qu’il porte déjà une liste de résultats à atteindre.",
+          "problem": "Dernier épisode du parcours : la conclusion ne fait pas de bilan de l'arc (ce qu'Inès sait faire maintenant par rapport au week-end de la gare).",
+          "fix": "Ajouter dans la conclusion deux phrases qui relient la journée au musée au premier épisode."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet de douze épisodes. Aucun épisode à ajouter ni à retirer ; pour réduire la répétition, différencier l'épisode 12 de la troisième technique de l'épisode 2 (voir l'entrée de l'épisode 12) et centrer l'épisode 10 sur le prétexte inventé plutôt que sur le droit au refus déjà posé à l'épisode 1.",
+  "verdict": "corrections_mineures"
+}

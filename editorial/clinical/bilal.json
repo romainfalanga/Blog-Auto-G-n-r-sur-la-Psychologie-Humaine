@@ -1,0 +1,117 @@
+{
+  "character_id": "bilal",
+  "bio": "Bilal, 54 ans, est sculpteur sur bois et reprend l’atelier qu’il partage avec son associée Martine après un problème de santé évalué. Son trouble amnésique est déjà diagnostiqué : les informations nouvelles lui échappent alors que ses savoirs anciens du métier restent disponibles. Il construit avec six habitants un banc collectif pour le jardin de la maison de quartier. Avec son équipe de réadaptation, il teste des façons de garder les décisions visibles, apprend à dire quand il lui faut un rappel écrit et choisit les tâches qu’il délègue.",
+  "profile_topics": [
+    "Trouble amnésique",
+    "Retenir les informations nouvelles",
+    "Effort de compensation",
+    "Aides externes choisies",
+    "Décisions visibles et partagées"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "bilal-retenir-information-nouvelle-livraison-chene",
+      "title": "Retenir une information nouvelle quand la livraison du chêne change",
+      "description": "Bilal attend un camion de chêne qui ne viendra que mercredi : le report annoncé vendredi ne lui est pas resté, et deux voisins sont déjà là.",
+      "context": "à l’atelier un lundi matin",
+      "topics": [
+        "Trouble amnésique",
+        "information nouvelle",
+        "décision écrite"
+      ],
+      "clinical_focus": "Retenir une information nouvelle",
+      "clinical_intro": "Le trouble amnésique se manifeste d’abord par une difficulté marquée à acquérir et à garder des informations nouvelles, alors que le raisonnement et les autres capacités restent disponibles. Chez Bilal, sculpteur dont le diagnostic est déjà posé, un changement de date expliqué de vive voix ne laisse pas de trace. Noter la décision au moment où elle est prise devient un appui concret.",
+      "opening": "Lundi, sept heures et demie, rue des Tanneurs. Bilal a ouvert en grand la porte cochère de l’atelier et poussé l’établi de Martine contre le mur pour laisser passer les plateaux. Il connaît le trajet du camion par cœur : marche arrière depuis la rue, le rétroviseur qui frôle la gouttière, puis l’arrêt juste avant la grille d’égout. Trente ans de livraisons de bois lui ont appris où poser les tréteaux pour que le chêne ne touche jamais le sol mouillé.\n\nÀ huit heures, Jonas, vingt-quatre ans, apprenti menuisier et l’un des six habitants du projet de banc, arrive avec Rachid, retraité de la voirie, les gants déjà enfilés. Bilal leur a envoyé un message samedi pour qu’ils l’aident à décharger. Ils boivent un café debout et regardent la rue vide.\n\nMartine Roussel, son associée ébéniste, entre par la petite porte, son casque de vélo à la main. Elle s’arrête devant les tréteaux.\n\n« Bilal, le scieur a repoussé au mercredi. Je te l’ai dit vendredi, ici, à côté de la ponceuse. Il avait un camion en panne. »\n\nBilal la regarde. Il revoit très bien la ponceuse, il ne revoit pas la conversation. Pas un mot, pas son visage à elle, rien. Ce n’est pas qu’il l’a écoutée d’une oreille : il sait qu’il écoute Martine quand elle parle de bois. C’est un vide net, comme une planche où l’on chercherait un trait de crayon qu’on n’a jamais tracé.\n\nJonas fait semblant de regarder son téléphone. Rachid dit que ce n’est pas grave, qu’il habite à deux rues. Bilal sent pourtant la chaleur lui monter au cou. Il a dérangé deux personnes pour un camion qui n’existe pas, et il ne peut même pas dire à quel moment il a perdu l’information.\n\n« Tu as raison de me le redire, souffle-t-il à Martine. Mais redire ne suffira pas. Il faut que ça soit écrit quelque part où je regarde. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une information récente qui ne s’inscrit pas",
+          "text": "Dans le trouble amnésique, la mémoire est nettement altérée par rapport à ce qui est attendu pour l’âge et au niveau antérieur de la personne, sans autre atteinte cognitive significative : c’est surtout la capacité à acquérir et retenir des informations nouvelles qui est touchée. Le diagnostic repose sur une évaluation clinique, pas sur un oubli observé à la maison ou au travail. Chez Bilal, il a été posé par son équipe avant ce retour à l’atelier. Ce lundi, le report de livraison n’a pas été mal entendu ni jugé sans intérêt : la conversation de vendredi ne s’est pas fixée. Son savoir-faire de livraison, ancien, reste disponible ; la décision nouvelle, elle, demande un support extérieur pour durer jusqu’au mercredi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une information nouvelle peut-elle disparaître ?",
+          "points": [
+            {
+              "heading": "Une décision entendue mais absente ensuite",
+              "text": "L’information a été donnée clairement, mais elle n’est plus accessible quelques jours plus tard, sans le sentiment d’avoir oublié.",
+              "examples": [
+                "Bilal ne retrouve aucune trace du report annoncé par Martine à côté de la ponceuse.",
+                "Il prépare les tréteaux pour une livraison qu’il croit toujours prévue lundi."
+              ]
+            },
+            {
+              "heading": "Des actions engagées sur une donnée périmée",
+              "text": "Quand l’information nouvelle manque, la personne agit avec cohérence à partir de ce qu’elle sait encore, ce qui entraîne d’autres personnes.",
+              "examples": [
+                "Samedi, il a convoqué Jonas et Rachid pour décharger le chêne.",
+                "Il pousse l’établi de Martine pour un passage dont personne n’a besoin ce matin."
+              ]
+            },
+            {
+              "heading": "Un contraste avec le reste de ses capacités",
+              "text": "Le trouble se distingue d’un désintérêt ou d’une distraction générale : le jugement et les savoirs anciens fonctionnent.",
+              "examples": [
+                "Il connaît par cœur la manœuvre du camion dans la cour et la place des tréteaux.",
+                "Il comprend tout de suite ce qui s’est passé et cherche lui-même une solution écrite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une décision nouvelle accessible",
+          "points": [
+            {
+              "heading": "Noter la décision au moment où elle tombe",
+              "objective": "Fixer l’information avant qu’elle ait le temps de se perdre.",
+              "exercise": [
+                "Dès qu’une date change, poser l’outil et l’écrire avant de reprendre le travail.",
+                "Écrire la décision avec la personne qui l’annonce, en relisant ensemble.",
+                "Ajouter qui est concerné et ce qu’il faut prévenir."
+              ],
+              "benefit": "Une trace écrite peut remplacer la conversation perdue, sans prétendre réparer la mémoire."
+            },
+            {
+              "heading": "Un seul endroit visible pour les décisions",
+              "objective": "Éviter de chercher une information dans plusieurs supports.",
+              "exercise": [
+                "Choisir un support fixe, à un endroit où le regard passe chaque jour.",
+                "Y reporter seulement les décisions qui engagent le travail ou d’autres personnes.",
+                "Effacer ce qui est terminé à un moment choisi, par exemple le vendredi soir."
+              ],
+              "benefit": "Le même emplacement peut devenir une habitude de vérification, qui reste à réévaluer avec l’équipe de réadaptation."
+            },
+            {
+              "heading": "Prévenir par écrit les personnes concernées",
+              "objective": "Ne pas dépendre d’un souvenir pour annuler ou déplacer un rendez-vous.",
+              "exercise": [
+                "Envoyer un message court dès que la décision est notée.",
+                "Indiquer la nouvelle date et l’heure, sans se justifier.",
+                "Garder le message envoyé comme preuve consultable plus tard."
+              ],
+              "benefit": "Chacun dispose de la même information, ce qui limite les déplacements inutiles."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La date à la craie",
+      "ending": "Martine décroche une vieille ardoise noire qui servait autrefois à afficher les prix au marché de Noël et la visse à côté de l’établi de Bilal, à hauteur d’yeux. Bilal prend la craie. Ensemble, ils écrivent : « Chêne : livraison mercredi, 8 h. » Martine relit à voix haute ; il ajoute dessous, de sa main, ce que les habitants ont voté jeudi dernier selon le compte rendu d’Odile, l’animatrice de la maison de quartier : « Lattes du dossier : 45 cm. » Puis il envoie lui-même le message à Jonas et Rachid : « Pardon pour ce matin. Le chêne arrive mercredi à 8 h. Vous pouvez venir ? » Rachid répond par un pouce levé, Jonas par « ok chef ». Bilal remet l’établi de Martine à sa place. Il ne sait pas s’il pensera à regarder l’ardoise mercredi. Il sait seulement qu’elle sera là, à côté de ses gouges.",
+      "conclusion": "Cet épisode montre le cœur du trouble amnésique : une information nouvelle, clairement donnée, peut ne pas se fixer, alors que les gestes et le jugement restent intacts. L’ardoise ne guérit rien ; elle rend la décision visible pour Bilal et pour ceux qui travaillent avec lui.",
+      "mirror": [
+        "Quand Martine retrouve les tréteaux en place, elle peut éviter le « je te l’avais dit » et proposer tout de suite : « On l’écrit ensemble, là, maintenant ? » Rachid montre aussi un geste utile en disant que ce n’est pas grave, sans interroger Bilal sur ce qu’il a retenu. Un proche peut offrir d’écrire avec la personne, mais il n’a pas à devenir son agenda ni à vérifier ses souvenirs ; si l’arrangement devient trop lourd, il peut le dire et en parler avec elle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal et Martine vissent l’ardoise noire à côté de l’établi et y écrivent la livraison du mercredi à 8 h et la longueur de 45 cm votée pour les lattes ; Bilal prévient lui-même Jonas et Rachid par message.",
+        "next": "Mercredi, le chêne arrive : Bilal montre à Jonas comment lire le fil du bois, mais la longueur votée doit être vérifiée sur l’ardoise."
+      },
+      "diagnostic_stage": "known"
+    }
+  ]
+}

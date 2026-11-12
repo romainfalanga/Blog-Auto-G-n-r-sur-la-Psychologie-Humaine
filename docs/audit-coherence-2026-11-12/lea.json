@@ -1,0 +1,503 @@
+{
+  "character_id": "lea",
+  "type": "origine",
+  "auditor": "audit_o4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Léa, née en 2002 (23 ans), étudiante en master de psychologie clinique à Paris, vit seule en studio ; en couple avec Youssef (ingénieur, parcours propre) ; amie proche Zoé ; mère Anne, père Michel, divorcés quand elle avait six ans ; le Dr Moreau (professeur / tuteur) ; bénévole dans une association où elle croise Antoine.",
+    "arc_summary": "Épisodes 1 à 6 : l'amitié avec Zoé, de la peur du rejet à la codépendance (déjeuner annulé, place au fond de l'amphi, cafétéria, nuit sur le dossier de Zoé). Épisodes 7 à 10 : le couple avec Youssef, d'une confidence mal reçue à des remarques sur son corps qu'il nie (gaslighting), puis des disputes où Léa apprend à interrompre l'échange et à appeler Zoé. Épisodes 11 et 12 : colère dans l'association, puis décision sur un stage à Grenoble alors que Youssef part pour Lyon.",
+    "arc_issues": [
+      "Raccord croisé avec le parcours de Youssef : dans l'épisode 8, Youssef fait des remarques sur le corps de Léa pendant l'intimité, les nie et met en cause sa mémoire, et le texte précise que ce n'est « pas la première fois ». Le parcours de Youssef (épisodes du 23 et 26 avril, 9 et 18 mai) le montre au même moment en partenaire attentif qui cherche ses mots ; rien n'y fait écho. Le personnage partagé devient contradictoire.",
+      "Le gaslighting de l'épisode 8 n'est jamais traité ensuite : les épisodes 9 et 10 reprennent des disputes sur des « remarques » non précisées, l'épisode 10 conclut sur « il explique son stress au travail » et l'épisode 12 range l'épisode parmi les souvenirs. Un lecteur peut comprendre que ces agissements relèvent d'un conflit ordinaire à nuancer.",
+      "Youssef est absent des épisodes 1 à 6 alors que la fiche le donne comme compagnon et que son propre parcours montre Léa dès mars (café du 15 mars, annonces à Lyon le 22 mars). Le déménagement de Youssef à Lyon, envisagé à deux en mars dans son parcours, n'apparaît chez Léa qu'à l'épisode 12.",
+      "Le statut du Dr Moreau change d'un épisode à l'autre : « enseignements » (3), « séances de travail » (6), « tutorat » (9), « supervision » (10), « son professeur » (7), bureau aux « affiches de psychothérapie » (12). L'épisode 11 ajoute une « analyse personnelle ». Le lecteur ne sait pas s'il s'agit d'un enseignant ou d'un thérapeute.",
+      "Répétition : les épisodes 3, 4 et 5 montrent la même situation (Zoé avec d'autres étudiants, Léa qui s'installe à l'écart) ; les épisodes 8, 9 et 10 la même dispute sur une remarque de Youssef. Les épisodes 11 et 12 citent le « blog » ou le « dernier billet » de Léa, ce qui brouille la fiction."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales.md",
+      "focus": "Peur du rejet en société : après une fête où sa phrase s'est perdue dans la musique, Léa hésite à écrire à Zoé qui tarde.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène de départ (chaise laissée libre, phrase couverte par la musique) et la fin (Léa répète sa phrase jusqu'au bout pendant que Zoé se penche) sont claires. Le deuxième paragraphe est un résumé biographique abstrait ; Zoé n'est pas présentée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Ce malaise, elle le connaissait bien. Depuis le divorce de ses parents quand elle avait 6 ans, elle avait appris à rester en retrait",
+          "problem": "Paragraphe d'exposition qui remplace la scène et installe d'emblée une explication causale (divorce → peur du rejet) que la partie théorique nuance ensuite.",
+          "fix": "Réduire à une phrase et la placer après la scène : « Elle a souvent eu ce réflexe de se taire. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Léa attend Zoé à la terrasse près de la fac.",
+          "problem": "Zoé, qui occupe la moitié du parcours, n'est pas présentée.",
+          "fix": "« Léa attend Zoé, son amie de promotion, à la terrasse… »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents.md",
+      "focus": "Sentiment d'abandon émotionnel : dans le garage de sa mère Anne, un dessin d'enfance réveille le souvenir des disputes parentales.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'objet déclencheur (dessin, personnage à l'écart) est fort. Mais Michel n'est jamais présenté comme le père, la chronologie du retour est confuse (soir, quelques jours plus tard, puis retour au garage après le séparateur) et la question annoncée (« si elle se souvient de ce jour-là ») n'est jamais posée.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Le dessin retourne dans le carton. Léa ne sait toujours pas si Anne se rappelle le même après-midi qu’elle. Elle lui demande si elle peut emporter la boîte dans son studio.",
+          "problem": "Après un retour situé « le soir même » puis « quelques jours plus tard », la fin revient dans le garage ; la demande d'emporter la boîte a déjà été faite au début. La décision de la scène (poser ou non la question à Anne) reste floue.",
+          "fix": "Remettre la scène du garage avant le soir et la conclure : Léa demande à Anne si elle se souvient, Anne répond qu'elle ne sait plus ; Léa emporte la boîte. Puis le carnet le soir."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "lorsqu’Anne commence à reparler du conflit avec Michel",
+          "problem": "Michel n'est pas présenté ; on comprend seulement à l'épisode 3 qu'il s'agit du père.",
+          "fix": "« … du conflit avec Michel, le père de Léa »"
+        },
+        {
+          "severity": "majeur",
+          "type": "clinique",
+          "quote": "La cartographie lui permet de réaliser que son désir de sauver tout le monde est une réponse à son propre manque.",
+          "problem": "Le retour affirme comme acquise la causalité que la partie théorique déclare indémontrable (« ne permettent pas de déduire d'une scène d'enfance… »).",
+          "fix": "« Elle se demande si son envie d'aider a quelque chose à voir avec ce manque. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Depuis cette discussion sur une terrasse quelques jours plus tôt, où elle a appris à nommer son sentiment de rejet face à l'indifférence perçue de Zoé",
+          "problem": "Dans l'épisode 1, le sentiment de rejet portait sur la fête, et Zoé n'était pas indifférente.",
+          "fix": "« … où elle avait raconté à Zoé la phrase perdue à la fête »"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations.md",
+      "focus": "Déception en amitié : Zoé annule leur déjeuner puis Léa la voit rire à la bibliothèque avec trois étudiants.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La situation est limpide (message « Désolée, je ne peux pas », Zoé à la bibliothèque) et la décision finale est concrète (message envoyé, pas de réponse). Le Dr Moreau surgit sans présentation, et le retour est long, introspectif, avec des certitudes d'origine que l'article récuse.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle repense aux enseignements du Dr Moreau sur les schémas relationnels.",
+          "problem": "Première mention du Dr Moreau, sans fonction ; il revient dans six épisodes avec des rôles différents.",
+          "fix": "« … aux cours du Dr Moreau, sa professeure de psychopathologie, sur… » et garder ce rôle dans tout le parcours."
+        },
+        {
+          "severity": "majeur",
+          "type": "clinique",
+          "quote": "Elle reconnaît le schéma de parentification qu'elle a subi enfant",
+          "problem": "Le texte établit une parentification comme fait biographique, alors que l'épisode 2 n'en montrait qu'un souvenir et récusait l'inférence.",
+          "fix": "« Elle se demande si elle ne refait pas avec Zoé ce qu'elle faisait enfant entre ses parents. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Ce n'est pas le rejet brûlant qu'elle a ressenti sur cette terrasse la semaine dernière",
+          "problem": "Le rejet de l'épisode 1 avait été ressenti à la fête, pas à la terrasse.",
+          "fix": "« … qu'elle a ressenti à la fête la semaine dernière »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "\"Quand j'ai vu que tu étais à la bibliothèque alors que je pensais que tu voulais être seule",
+          "problem": "La phrase type ne correspond pas à la scène (Léa croyait que Zoé était partie en urgence).",
+          "fix": "« … alors que je pensais que tu avais dû partir en urgence »"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir.md",
+      "focus": "Jalousie : en amphithéâtre, Léa s'installe au fond pendant que Zoé rit avec un étudiant qui lui montre son exposé.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène se comprend seule (place libre près de Zoé, stylo cherché, phrase « Je vois que tu as déjà quelqu'un »). La fin est claire (Léa dit sa peur, Zoé s'adoucit). Le problème est la répétition de l'épisode 3 et l'absence d'un vrai conflit alors que le contexte annoncé est « en situation de conflit ».",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "À la bibliothèque, elle avait vu la même tête penchée après l’annulation de leur déjeuner. Elle s’était installée hors de vue.",
+          "problem": "Même configuration que l'épisode 3 (Zoé avec un ou des étudiants, Léa à l'écart), répétée encore à l'épisode 5. L'aspect « conflit » n'est pas mis en scène.",
+          "fix": "Ouvrir sur un désaccord réel : Zoé annonce qu'elle fera l'exposé avec l'étudiant et non avec Léa, et Léa lui répond sèchement. Cela distingue l'épisode et justifie le contexte."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "reproduisant ce retrait qu'elle avait déjà expérimenté à la bibliothèque après la déception ressentie à la bibliothèque",
+          "problem": "Répétition de « à la bibliothèque » dans la même phrase.",
+          "fix": "« … reproduisant le retrait qu'elle avait eu à la bibliothèque »"
+        },
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "Elle comprend que la jalousie qu'elle ressent n'est pas dirigée contre Zoé, mais contre ce fantôme du passé qui lui murmure qu'elle est remplaçable.",
+          "problem": "Interprétation causale affirmée, contraire à la prudence de la partie théorique.",
+          "fix": "« Elle se demande si cette peur d'être remplaçable ne date pas de bien avant Zoé. »"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie.md",
+      "focus": "Lecture de pensée : à la cafétéria, Léa conclut que Zoé la trouve ennuyeuse parce qu'elle revient au cahier de deux étudiants.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture (plateau posé de travers près du distributeur) est claire, mais c'est la troisième scène où Zoé est avec d'autres et Léa se met à l'écart. Le retour contient une contradiction (« elle choisit de rester » puis sort), le « blog » de Léa et un effet « presque immédiat » qui contredit la prudence de l'article.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Zoé lève les yeux puis revient au cahier posé entre les deux étudiants d’en face. Léa change de direction avant d’être arrivée.",
+          "problem": "Troisième scène consécutive du même type (épisodes 3, 4, 5).",
+          "fix": "Changer de situation pour la lecture de pensée : Zoé répond « ok » à un long message de Léa, ou Anne soupire au téléphone ; Léa en déduit ce qu'elles pensent."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle sort son carnet, celui où elle note ses réflexions pour son blog",
+          "problem": "La mention d'un blog de Léa est nouvelle et rapproche le personnage du site lui-même ; elle revient aux épisodes 11 et 12 (« dernier billet », « blog personnel ») sans être expliquée.",
+          "fix": "Supprimer « pour son blog » (« son carnet de notes ») ici et dans les épisodes 11 et 12."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Au lieu de fuir la cafétéria comme elle l'aurait fait autrefois, elle choisit de rester. Elle décide même de faire quelque chose de radical pour elle : elle se lève, range son plateau",
+          "problem": "« Elle choisit de rester » puis elle part : la décision est contradictoire.",
+          "fix": "« Au lieu de partir par l'autre porte, elle passe près de la table de Zoé. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "L'effet est presque immédiat. La sensation d'étouffement diminue.",
+          "problem": "Promesse d'efficacité que la technique elle-même récuse (« sans imposer une conclusion positive »).",
+          "fix": "« La sensation d'étouffement ne disparaît pas, mais elle peut finir son repas. »"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie.md",
+      "focus": "Codépendance en amitié : à deux heures du matin, Léa refait la mise en page du dossier de Zoé endormie au lieu de réviser son examen.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène nette (deux pages promises devenues mise en page, papier sur ses propres notes) et décision claire (fichier envoyé, ordinateur gardé, envie résistée d'aider encore). Un passage d'analyse fait parler Zoé alors qu'elle dort.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Cette fois, elle demande à Zoé si elle souhaite continuer à en parler ou passer à autre chose.",
+          "problem": "Zoé dort pendant toute la scène ; cette réplique ne peut pas se situer « cette fois ».",
+          "fix": "Mettre au conditionnel : « Quand Zoé s'interrompt, Léa pourrait lui demander… »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle se revoit petite fille dans le garage d'Anne, triant ses dessins d'enfance",
+          "problem": "Dans l'épisode 2, c'est l'adulte qui trie les cartons ; l'enfant était près du radiateur pendant les disputes.",
+          "fix": "« Elle repense au dessin retrouvé dans le garage d'Anne »"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure.md",
+      "focus": "Sentiment de trahison en couple : Léa confie à Youssef sa peur de n'être qu'une option ; il répond en parlant de son stage et du Dr Moreau.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Youssef apparaît enfin, et la scène est simple (canapé du studio, réponse à côté, « Tu peux juste m'écouter deux minutes ? »). La réponse analytique de Youssef concorde avec son parcours (alexithymie). L'ouverture surdimensionne toutefois l'événement avec le vocabulaire de la trahison.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "c'est une rupture brutale du pacte de sécurité qu'elle pensait avoir tissé avec lui",
+          "problem": "Une réponse maladroite à une confidence est présentée comme « la plus cruelle des déloyautés » ; la partie théorique reconnaît ensuite que ce n'est pas une trahison. La scène illustre plutôt un besoin d'écoute manqué.",
+          "fix": "Garder le mot « trahison » comme ressenti de Léa mais retirer les superlatifs ; ou choisir une scène de vraie trahison (Youssef a raconté sa confidence à Nicolas)."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle attend encore une réponse quand il lui demande si elle en a parlé au Dr Moreau.",
+          "problem": "Premier épisode avec Youssef dans ce parcours alors que son propre parcours le montre avec Léa depuis le 15 mars et parle de projets à Lyon ; rien ici ne situe le couple (durée, projet de déménagement).",
+          "fix": "Ajouter une phrase de contexte : « Ils sont ensemble depuis deux ans ; depuis qu'il parle du poste à Lyon, elle a peur… »"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite.md",
+      "focus": "Gaslighting dans l'intimité : Léa demande à Youssef de cesser ses remarques sur son corps ; il nie les avoir faites et met en cause sa mémoire.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène est claire et grave (demande précise, déni, « pas la première fois ») ; la fin (manteau pris, appel à Zoé depuis la rue, « Je veux juste en parler ailleurs ») est juste et les ressources de sécurité sont présentes. Le problème est le raccord avec le personnage de Youssef.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "continuite",
+          "quote": "Ce n’est pas la première fois qu’une discussion sur ses paroles devient une discussion sur sa mémoire.",
+          "problem": "Youssef est un personnage partagé : son parcours le montre à la même période en partenaire qui cherche ses mots, apprend la granularité émotionnelle et prépare son départ à Lyon avec Léa, sans aucune remarque sur son corps ni déni. Faire de lui l'auteur répété de gaslighting crée une contradiction forte entre les deux parcours.",
+          "fix": "Décider avec le pilote : soit l'auteur des agissements n'est pas Youssef (un ancien compagnon dont Léa reconnaît le schéma, ou un autre proche), soit le parcours de Youssef doit en porter la trace et la suite du parcours de Léa doit traiter ces agissements comme tels (voir épisodes 9, 10, 12)."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "dans la pénombre de son propre appartement",
+          "problem": "Léa vit en studio ; « appartement » flotte.",
+          "fix": "« dans la pénombre de son studio »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux.md",
+      "focus": "Dépendance affective vs anxiété d'attachement : après une remarque sèche et un silence de Youssef, Léa résiste à l'envie de réécrire et interrompt une discussion qui revient à sa mémoire.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'enjeu (deuxième message à ne pas envoyer, phrase « Je ne veux pas continuer comme ça ») est clair, et la dernière phrase (« une partie d'elle aurait préféré que ce soit Youssef ») est forte. Mais le lieu change sans transition (salle avec un voisin, puis son studio), la « remarque sèche » n'est jamais dite, et le retour décrit des techniques au lieu de paroles.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Cette fois, elle reprend la technique de la cartographie émotionnelle : elle nomme son émotion, indique son intensité, et pose une demande concrète. Quand il emploie une reformulation défensive, elle utilise la pause, se rappelant l'exercice sur la régulation impulsive.",
+          "problem": "Le moment décisif est raconté comme une liste de procédés ; on n'entend ni l'émotion nommée, ni la demande, ni ce que dit Youssef. « L'exercice sur la régulation impulsive » n'existe pas dans le parcours.",
+          "fix": "Donner les répliques : « Hier, quand tu as dit que je m'habillais pour qu'on me regarde, j'ai eu honte. J'ai besoin que tu ne commentes plus mes vêtements. » Puis la réponse de Youssef."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "une remarque sèche hier soir, puis un silence de plusieurs heures qu'elle relit encore",
+          "problem": "La remarque à l'origine de l'épisode n'est jamais précisée ; le lecteur ne sait pas sur quoi porte la dispute.",
+          "fix": "Citer la remarque en une phrase dès l'ouverture."
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Youssef lui demande à nouveau si elle ne se souvient pas mal.",
+          "problem": "Même mécanique que l'épisode 8 (remarque, déni sur la mémoire, sortie, appel à Zoé). L'aspect propre au concept (relire, réécrire, chercher une garantie) est présent dans l'ouverture mais disparaît dans la résolution.",
+          "fix": "Centrer la résolution sur la recherche de garantie : Léa n'envoie pas le deuxième message et attend la visite de Youssef ; le déni sur la mémoire peut être évoqué sans être rejoué."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le cliquetis régulier casse la présence du voisin qui répète une leçon à voix basse.",
+          "problem": "La scène semble se passer en bibliothèque, puis « Léa ouvre la fenêtre de son studio ».",
+          "fix": "Situer d'emblée : « Dans son studio, Léa tapote… Derrière la cloison, le voisin répète une leçon. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit.md",
+      "focus": "Pensée tout-ou-rien en conflit : après une dispute avec Youssef, Léa oscille entre « il va partir » et « faire comme si rien ne s'était passé ».",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est concrète et juste (tomates rangées, mug sous le robinet, les deux phrases extrêmes). Le retour devient un bilan (« acquis précieux », supervision) et la conversation décisive avec Youssef est résumée sans répliques ; la « solution concrète » n'est pas dite.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Léa utilise le recadrage et lui propose une solution concrète, limitée dans le temps.",
+          "problem": "La décision est abstraite : on ne sait ni ce que Léa propose ni ce que Youssef répond. Le paragraphe précédent (« conserve des acquis précieux », « En supervision avec le Dr Moreau ») est un résumé de parcours.",
+          "fix": "Écrire l'échange : Youssef dit qu'il est épuisé par la reprise après son arrêt ; Léa demande qu'ils reparlent de la remarque dimanche, vingt minutes, téléphones éteints ; il accepte ou refuse."
+        },
+        {
+          "severity": "majeur",
+          "type": "clinique",
+          "quote": "il ne nie pas sa vulnérabilité, il explique son stress au travail",
+          "problem": "Dans la continuité de l'épisode 8 (remarques sur son corps, déni répété), présenter la suite comme un conflit ordinaire où Youssef « explique son stress » et où Léa travaille ses distorsions peut laisser croire que la cible doit nuancer sa lecture. La phrase « il ne nie pas sa vulnérabilité » est en outre obscure (celle de qui ?).",
+          "fix": "Si l'épisode 8 est maintenu, préciser que la remarque de la veille est d'une autre nature, ou montrer Youssef reconnaissant ses paroles ; remplacer par « il ne nie pas ce qu'il a dit ; il parle de son stress au travail »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Ils se sont disputés à propos d’une remarque de la veille.",
+          "problem": "Troisième épisode d'affilée ouvert par une « remarque » de Youssef non précisée.",
+          "fix": "Préciser le sujet de la dispute (date de départ à Lyon, place de Léa dans ce projet), ce qui raccorde aussi au parcours de Youssef."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit.md",
+      "focus": "Rage en conflit : dans une réunion associative, Léa bout quand Antoine propose de reporter un dossier de violences conjugales et demande qui prend la suite.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'enjeu est compréhensible (report d'un dossier sensible, question sur l'évaluation de l'urgence) et la prudence sur la confidentialité est bonne. Mais Antoine et l'association ne sont pas présentés, l'ouverture renvoie au « dernier billet » de Léa, et le retour se termine sur une technique à « quatre rubriques » jamais définie.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "comme elle l'a exploré dans son dernier billet",
+          "problem": "Référence méta au blog qui rompt la fiction.",
+          "fix": "« comme elle l'a remarqué dans son carnet »"
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Léa intègre aussi le cartographe émotionnel comme réflexe rapide. À chaque nouvelle irruption de colère, elle reprend mentalement les quatre rubriques et choisit une action qui préserve son équilibre.",
+          "problem": "« Quatre rubriques » ne correspondent à aucune technique de l'épisode ; le paragraphe généralise au lieu de conclure la scène.",
+          "fix": "Supprimer ce paragraphe ; finir sur la note laissée à la référente et la question qu'elle prépare pour Antoine."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La réunion de l’association a commencé tard. Quand Antoine propose",
+          "problem": "Ni l'association (aide aux victimes ?) ni le rôle d'Antoine ne sont précisés.",
+          "fix": "« La réunion de l'association d'aide aux victimes où Léa est bénévole a commencé tard. Quand Antoine, le coordinateur, propose… »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Elle cite brièvement des faits, propose un créneau de dix minutes et demande un engagement précis.",
+          "problem": "Formule abstraite au moment de la prise de parole.",
+          "fix": "Donner la phrase : « Qui appelle la référente ce soir, et à quelle heure on se redit où on en est ? »"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante.md",
+      "focus": "Scénarios « et si » : Léa doit répondre le jour même à un stage à Grenoble alors que Youssef prépare son départ pour Lyon.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le dilemme est bien posé (réponse attendue aujourd'hui, Lyon, studio, bénévolat). La fin reste floue : on ne sait pas si Léa répond dans le délai, et le dernier paragraphe est un bilan abstrait. Le statut du Dr Moreau reste indécis.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "De retour au studio, Léa prépare sa réponse au stage et note deux questions sur les trajets et la convention.",
+          "problem": "La réponse était « attendue aujourd'hui » ; la scène finit sans qu'on sache si Léa accepte, demande un délai ou refuse.",
+          "fix": "Écrire la décision : « Elle répond qu'elle accepte sous réserve de la convention et envoie ses deux questions », ou « elle demande deux jours, qu'on lui accorde »."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle a déjà expliqué ce processus sur son blog personnel",
+          "problem": "Deuxième référence au blog ; brouille la frontière entre personnage et site.",
+          "fix": "Supprimer la mention du blog."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Youssef qui prépare de son côté son départ pour Lyon. Ils n’ont pas décidé de vivre ensemble.",
+          "problem": "Correct par rapport au parcours de Youssef, mais c'est la première mention de Lyon chez Léa, alors que dans le parcours de Youssef (22 mars) elle regardait déjà des annonces à Lyon avec lui.",
+          "fix": "Rappeler en une phrase ce projet dans un épisode antérieur (7 ou 10) ou ici : « En mars, elle regardait encore des annonces à Lyon avec lui. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Elle dirige désormais sa peur avec des outils.",
+          "problem": "Conclusion de transformation qui contredit la scène (la décision n'est pas prise).",
+          "fix": "Supprimer le dernier paragraphe du retour."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents. Surnombre de scènes identiques avec Zoé (3, 4, 5) et avec Youssef (8, 9, 10). Proposer de remplacer l'épisode 5 (lecture de pensée) par une scène avec Youssef au printemps (lecture de pensée sur son silence au sujet de Lyon), ce qui ferait entrer le couple plus tôt et raccorderait au parcours de Youssef. Trancher l'épisode 8 avec le pilote et le rédacteur de Youssef : changer l'auteur des agissements, ou les assumer dans les deux parcours et consacrer l'épisode 10 à leurs suites (Léa demande un temps de séparation, Zoé l'accompagne vers une association). Fixer le rôle du Dr Moreau (professeure et tutrice de mémoire) et retirer les mentions du blog.",
+  "verdict": "corrections_majeures"
+}
