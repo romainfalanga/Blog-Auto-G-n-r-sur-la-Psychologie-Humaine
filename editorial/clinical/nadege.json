@@ -744,6 +744,112 @@
       },
       "clinical_focus": "Ajuster les risques en cuisine avec l’ergothérapeute",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "nadege-manque-elan-apathie-humeur-fatigue",
+      "title": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
+      "description": "En février, le cahier bleu reste fermé et Nadège repousse la vidéo : un manque d’élan que l’équipe doit évaluer avant toute conclusion.",
+      "context": "chez elle un mercredi de février",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "manque d’élan",
+        "humeur et fatigue"
+      ],
+      "clinical_intro": "Un manque d’élan durable peut accompagner une démence liée à une maladie cérébrovasculaire, sous la forme d’une apathie, de troubles de l’humeur ou d’anxiété, mais il peut aussi venir de la fatigue, d’une douleur ou d’autre chose. C’est à l’équipe de soins de l’évaluer. En février, Nadège laisse son cahier fermé, et son filleul ne sait plus s’il doit insister ou renoncer.",
+      "opening": "Le mercredi 10 février, le cahier bleu est fermé sur le buffet de la salle à manger, sous la corbeille à fruits. Il n’a pas bougé depuis deux semaines. La fiche plastifiée de la Tatin, qu’Inès Morel, l’ergothérapeute, a rapportée lors de sa deuxième visite, a glissé sous une pile de courrier qu’on n’a pas ouverte : la facture d’eau, une publicité pour des fenêtres, une carte de vœux tardive d’Odile.\n\nBastien, son filleul graphiste, est arrivé à quatorze heures avec son trépied. Il a refusé une commande pour garder ce mercredi libre ; il a une maquette à rendre vendredi et il travaillera tard jeudi. Il demande si l’on tourne la Tatin aujourd’hui. Nadège, dans son fauteuil, répond qu’on la fera plus tard. C’est ce qu’elle a dit le mercredi précédent.\n\n« Tu es triste ? demande-t-il. — Non. Je ne crois pas. » Elle cherche. Elle a regardé une émission de cuisine hier soir et elle a ri. Elle a mangé avec appétit. Elle dort à peu près, se réveille parfois tôt. Ce n’est pas du chagrin, dit-elle, c’est plutôt que commencer lui paraît une montagne. Sortir le beurre, peser, allumer le four : tout cela, elle sait le faire, mais elle n’arrive pas à se lever pour le premier geste. Elle ajoute qu’elle est fatiguée depuis Noël, sans savoir de quoi.\n\nBastien reste debout avec le trépied replié sous le bras. Il se demande s’il doit insister, comme on pousse un ami à aller courir, ou si le projet est fini et qu’il faut le lui dire. Il n’ose ni l’un ni l’autre. Il pense à sa maquette de vendredi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un manque d’élan à faire examiner plutôt qu’à interpréter",
+          "text": "Les changements de comportement et d’humeur sont fréquents au cours d’une démence : apathie, c’est-à-dire perte d’intérêt ou d’initiative, troubles de l’humeur, anxiété ou troubles du sommeil peuvent justifier une attention clinique, et une maladie cérébrovasculaire peut aussi s’associer à une dépression, qui pèse sur le fonctionnement et peut se soigner. La fatigue, une douleur, un problème de sommeil ou une autre affection sont également à rechercher. Ces pistes se distinguent par une évaluation de l’équipe, pas par l’intuition d’un proche. Chez Nadège, la scène montre une difficulté à démarrer plutôt qu’une perte de plaisir déclarée, avec une fatigue depuis Noël et des réveils précoces. Ce sont des faits à décrire aux soignants, sans étiquette posée par Bastien ni par elle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un manque d’élan se remarque-t-il au quotidien ?",
+          "points": [
+            {
+              "heading": "Une difficulté à démarrer",
+              "text": "L’activité reste connue et souhaitée, mais le premier geste semble demander une énergie qui manque.",
+              "examples": [
+                "Nadège repousse la vidéo de la Tatin deux mercredis de suite en disant « plus tard ».",
+                "Elle décrit le fait de sortir le beurre et de peser comme une montagne, alors qu’elle sait tout faire."
+              ]
+            },
+            {
+              "heading": "Un plaisir encore possible une fois lancé",
+              "text": "Ne pas commencer ne signifie pas toujours ne plus rien aimer ; l’intérêt peut revenir pendant l’activité.",
+              "examples": [
+                "Elle a ri devant une émission de cuisine la veille au soir.",
+                "Elle dit ne pas se sentir malheureuse, mais fatiguée depuis Noël, sans savoir pourquoi."
+              ]
+            },
+            {
+              "heading": "Un malentendu avec l’entourage",
+              "text": "Les proches peuvent lire ce manque d’élan comme un désintérêt pour eux ou pour le projet commun.",
+              "examples": [
+                "Bastien a refusé une commande pour garder son mercredi et se demande si le projet est terminé.",
+                "Il hésite entre insister comme avec un ami et renoncer, sans oser lui en parler."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à un manque d’élan sans le juger",
+          "points": [
+            {
+              "heading": "Décrire les changements à l’équipe",
+              "objective": "Permettre aux soignants d’évaluer ce qui se passe à partir de faits précis.",
+              "exercise": [
+                "Noter depuis quand le changement dure et ce qui a été abandonné.",
+                "Ajouter ce qui va encore : appétit, plaisir, rires, sommeil, douleurs éventuelles.",
+                "Appeler soi-même la consultation ou le médecin traitant, ou accepter qu’un proche le fasse avec son accord."
+              ],
+              "benefit": "L’équipe dispose d’éléments concrets pour chercher une cause et proposer une réponse, y compris un soin si une dépression était repérée."
+            },
+            {
+              "heading": "Tester un démarrage très court",
+              "objective": "Réduire la marche du premier geste.",
+              "exercise": [
+                "Proposer à quelqu’un de confiance de faire la toute première étape, comme sortir et peser les ingrédients.",
+                "Rejoindre l’activité quand on le souhaite, sans obligation de la finir.",
+                "S’arrêter sans se justifier si l’envie ne vient pas."
+              ],
+              "benefit": "Le démarrage devient plus accessible, sans que cela tienne lieu d’évaluation ni de traitement."
+            },
+            {
+              "heading": "Distinguer ne plus vouloir et ne pas arriver à commencer",
+              "objective": "Éviter que le projet soit abandonné sur un malentendu.",
+              "exercise": [
+                "Poser la question directement : « Tu ne veux plus, ou tu n’arrives pas à t’y mettre ? »",
+                "Accepter la réponse, y compris « je ne sais pas ».",
+                "Convenir d’une date pour en reparler, sans pression entre-temps."
+              ],
+              "benefit": "La personne garde la décision sur son projet, et le proche sait mieux comment se situer."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La pesée de Bastien",
+      "ending": "Bastien pose le trépied contre le mur. « Tu ne veux plus faire le projet, ou tu n’arrives pas à commencer ? — Je n’arrive pas à commencer. » Il propose de ne rien filmer et de peser lui-même les ingrédients des sablés ; elle viendra si elle veut. Il sort le beurre, la farine, la balance. Au bout d’un quart d’heure, Nadège se lève et vient sabler la pâte. Elle termine les cœurs, les fait cuire, en emballe six pour Josette, sa voisine. La Tatin n’est pas tournée. Le jeudi matin, elle appelle elle-même le secrétariat de la consultation mémoire. La docteure Leclerc la rappelle le lendemain, écoute, et propose un entretien sur l’humeur et la fatigue le lundi 15 mars, en lui demandant de signaler d’ici là toute aggravation au docteur Benali, son médecin traitant. Rien n’est conclu. Bastien, lui, dit qu’il viendra le 24 février, pas le 17.",
+      "conclusion": "Un manque d’élan au cours d’une démence peut avoir plusieurs origines et relève d’une évaluation par l’équipe. Nadège distingue elle-même ne plus vouloir et ne pas arriver à commencer, accepte un démarrage partagé et porte la question aux soignants, sans que la réponse soit encore connue.",
+      "mirror": [
+        "Le trépied replié sous le bras, Bastien a trouvé la question qui ouvre la porte : « Tu ne veux plus, ou tu n’arrives pas à commencer ? » Il peut aussi proposer un geste qui n’engage à rien, comme peser la farine sans caméra, et dire : « Tu viens si tu veux, sinon on goûte juste. » Il n’a pas à décider s’il s’agit de tristesse ou d’apathie. Il a aussi le droit de protéger son travail en espaçant ses venues, comme il le fait pour le 17."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-tnc-fiche2",
+        "aha-vci-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège accepte que Bastien commence la pesée des sablés, termine la fournée, et appelle elle-même la consultation ; la docteure Leclerc fixe un entretien sur l’humeur et la fatigue au lundi 15 mars ; la Tatin n’est pas filmée et Bastien saute le mercredi 17 février.",
+        "next": "Le samedi 6 mars, au marché, Josette remarque un changement soudain dans la main et la parole de Nadège."
+      },
+      "clinical_focus": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
+      "diagnostic_stage": "known"
     }
   ]
 }

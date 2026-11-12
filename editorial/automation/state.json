@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 930,
+  "revision": 939,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5602,9 +5602,9 @@
     "anne": {
       "character_id": "anne",
       "code": "6D83",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "ab94d9af6998405eb933714bafbcedb3",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_anne"
@@ -5613,7 +5613,21 @@
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "ab94d9af6998405eb933714bafbcedb3",
+          "owner": "personnage_anne",
+          "validated_at": "2026-11-12T10:41:54Z",
+          "validation": {
+            "character_id": "anne",
+            "files": {
+              "editorial/clinical/designs/anne.json": "e589c168524931de6f54ca26d46e7bda62de3a6b1163447ad1bda097cf454ec9",
+              "editorial/clinical/dossiers/anne.json": "293da73e9d38ccd48b0632f4523ed43accbcefd99c45db0043fa53cae8f763f5"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -5626,9 +5640,9 @@
     "oumar": {
       "character_id": "oumar",
       "code": "6D84",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "99b53c1dd095432785a848ccfa2833c6",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_oumar"
@@ -5637,7 +5651,21 @@
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "99b53c1dd095432785a848ccfa2833c6",
+          "owner": "personnage_oumar",
+          "validated_at": "2026-11-12T10:41:51Z",
+          "validation": {
+            "character_id": "oumar",
+            "files": {
+              "editorial/clinical/designs/oumar.json": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+              "editorial/clinical/dossiers/oumar.json": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -5652,12 +5680,14 @@
       "code": "6D85.0",
       "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "d90436fd451d4ee9a787f3914bbf5ef2",
       "owners": {
         "character": [
           "personnage_amaury"
         ],
-        "story": [],
+        "story": [
+          "story_amaury"
+        ],
         "review": []
       },
       "revision_rounds": 0,
@@ -108511,8 +108541,8 @@
       "snapshot_sha256": "b8ac4b8b4d515e823a153b5886e8c934a16de079e74a901d018ad9eb13a97190",
       "status": "active",
       "token_sha256": "2b1b0299c58ae886458e3f844db54c540fda991126d9bec10203f4d9b40bba5b",
-      "heartbeat_at": "2026-11-12T10:40:44Z",
-      "expires_at": "2026-11-12T11:40:44Z",
+      "heartbeat_at": "2026-11-12T10:41:42Z",
+      "expires_at": "2026-11-12T11:41:42Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:01Z",
@@ -108648,6 +108678,20 @@
           "observed": {
             "manuscript_sha256": "c1d5b7660f0a0f80774cc8e2c54820857002696130214d04a1002ec875addfba",
             "episodes_present": 10,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:41:42Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "a0eab7ed606365f52525803ddd289c0462e05375c2d8b55a40a6ed1de4629cd5"
+          },
+          "observed": {
+            "manuscript_sha256": "a0eab7ed606365f52525803ddd289c0462e05375c2d8b55a40a6ed1de4629cd5",
+            "episodes_present": 11,
             "manuscript_readable": true,
             "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
             "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
@@ -109057,8 +109101,8 @@
       "snapshot_sha256": "7fd1e3ea5d3ffb9cf6d303c5ab29df59f0602e50e3157d1b5da02984f30e7ce7",
       "status": "active",
       "token_sha256": "eb6e3b7e8d161931a3b6c992498e38b3e68959cdf92a932c3d21d06b36a7e35e",
-      "heartbeat_at": "2026-11-12T10:41:01Z",
-      "expires_at": "2026-11-12T11:41:01Z",
+      "heartbeat_at": "2026-11-12T10:42:01Z",
+      "expires_at": "2026-11-12T11:42:01Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:03Z",
@@ -109194,6 +109238,20 @@
           "observed": {
             "manuscript_sha256": "561a8f60b726670373d5bd15d15687120e4b21ec953a4983afd48f8e9ef62546",
             "episodes_present": 10,
+            "manuscript_readable": true,
+            "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+            "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:42:01Z",
+          "outputs": {
+            "editorial/clinical/bilal.json": "8f5072ab5eb8a069169edf2621f042b66d948bead795da2020923711ad191555"
+          },
+          "observed": {
+            "manuscript_sha256": "8f5072ab5eb8a069169edf2621f042b66d948bead795da2020923711ad191555",
+            "episodes_present": 11,
             "manuscript_readable": true,
             "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
             "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
@@ -113826,8 +113884,8 @@
       "snapshot_sha256": "ffc5b392b2c4babe5e2b02e8f785edfe0f0093bc6a7be32371fd00c0a6754a1f",
       "status": "active",
       "token_sha256": "26ce0b0500fe9bcce350081662ae1808420520ce1150b1362fc74fe72f5f2f0e",
-      "heartbeat_at": "2026-11-12T10:40:53Z",
-      "expires_at": "2026-11-12T11:40:53Z",
+      "heartbeat_at": "2026-11-12T10:41:41Z",
+      "expires_at": "2026-11-12T11:41:41Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:35:37Z",
@@ -113921,6 +113979,20 @@
           "observed": {
             "manuscript_sha256": "a5f6e3f4480bee783bee0959630ae8fd034b4e84275cc55930ca598d1e896290",
             "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+            "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:41:41Z",
+          "outputs": {
+            "editorial/clinical/nadege.json": "5626962f1550f4a655623b48611fd941a26b11e4f314756bc81ff2c7d5f5cd96"
+          },
+          "observed": {
+            "manuscript_sha256": "5626962f1550f4a655623b48611fd941a26b11e4f314756bc81ff2c7d5f5cd96",
+            "episodes_present": 8,
             "manuscript_readable": true,
             "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
             "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
@@ -114073,10 +114145,19 @@
         }
       },
       "snapshot_sha256": "96f54285fd28d970b6f158d62a1b801ae6659d5e1d56fb33529f91880b429cbf",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "eb2abe5ea40793c76d9af7138b951dec9de9e59e889668b6d88a181d8ae6bc2d",
       "heartbeat_at": "2026-11-12T10:32:41Z",
-      "expires_at": "2026-11-12T11:32:41Z"
+      "expires_at": "2026-11-12T11:32:41Z",
+      "finished_at": "2026-11-12T10:41:54Z",
+      "validation": {
+        "character_id": "anne",
+        "files": {
+          "editorial/clinical/designs/anne.json": "e589c168524931de6f54ca26d46e7bda62de3a6b1163447ad1bda097cf454ec9",
+          "editorial/clinical/dossiers/anne.json": "293da73e9d38ccd48b0632f4523ed43accbcefd99c45db0043fa53cae8f763f5"
+        },
+        "episodes": 12
+      }
     },
     "99b53c1dd095432785a848ccfa2833c6": {
       "id": "99b53c1dd095432785a848ccfa2833c6",
@@ -114225,10 +114306,19 @@
         }
       },
       "snapshot_sha256": "bb86235b3a07df50e8e41ddca999aedcb4c10c1d137c434da1f7f0e0735662a7",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "5d58ed22ba68af0f5cd5ff2812795f5566efccd1820d9b38504111054eba9713",
       "heartbeat_at": "2026-11-12T10:32:42Z",
-      "expires_at": "2026-11-12T11:32:42Z"
+      "expires_at": "2026-11-12T11:32:42Z",
+      "finished_at": "2026-11-12T10:41:51Z",
+      "validation": {
+        "character_id": "oumar",
+        "files": {
+          "editorial/clinical/designs/oumar.json": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+          "editorial/clinical/dossiers/oumar.json": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269"
+        },
+        "episodes": 12
+      }
     },
     "6ced274bb8184f578c8ce0c4015feedb": {
       "id": "6ced274bb8184f578c8ce0c4015feedb",
@@ -126900,7 +126990,429 @@
         "findings": [],
         "reviewer": "review_serge"
       }
+    },
+    "d90436fd451d4ee9a787f3914bbf5ef2": {
+      "id": "d90436fd451d4ee9a787f3914bbf5ef2",
+      "character_id": "amaury",
+      "role": "story",
+      "owner": "story_amaury",
+      "created_at": "2026-11-12T10:41:54Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "101b6ee850555f94233d2fc2df24d556bdff3a35655aa9ce082fa6613f147324",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "65f69034e51733a15a24b9e93e3fc8beb7ce545db7736d81a160a52218a3f6e1",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/amaury.json": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+          "editorial/clinical/dossiers/amaury.json": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-amaury",
+            "character": {
+              "id": "amaury",
+              "name": "Amaury",
+              "code": "6D85.0",
+              "related_codes": [
+                "6D85"
+              ],
+              "wave": 22,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 70,
+                "setting": "Ancien conducteur de bus, il participe à la mémoire d'un réseau de transports.",
+                "independent_goal": "Faire écouter ses souvenirs de lignes à deux jeunes documentaristes.",
+                "tension": "Il veut choisir l'heure où il se sent plus dispos et ce que le groupe peut partager après la rencontre.",
+                "supports": "Documentaristes, partenaire et équipe spécialisée Parkinson.",
+                "trajectory": "Les aidants écoutent les préférences, ajustent la durée et adaptent la réalisation lorsque l'attention devient moins disponible.",
+                "guardrail": "Ne pas confondre tous les troubles cognitifs associés à Parkinson avec une démence. Distinguer l'évaluation spécialisée.",
+                "occupation": "ancien conducteur de bus"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1494928041",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Amaury, 70 ans, a conduit des bus pendant trente-quatre ans à Saint-Étienne, surtout sur une ligne qu’il appelle encore « la 9 de Montreynaud ». Il vit en appartement avec sa compagne Rosa Ferreira, 67 ans, ancienne aide-comptable, qui chante dans une chorale le jeudi et ne veut pas devenir son infirmière. L’association fictive Mémoire des lignes, présidée par Gérard Vial, ancien contrôleur, réunit d’anciens agents dans une salle prêtée près d’un ancien dépôt. Deux jeunes documentaristes, Soizic Teyssier (réalisatrice) et Wassim Rey (son et image), y enregistrent les souvenirs de conducteurs ; Amaury veut leur faire écouter ses lignes : le premier service de 5 h 10, la neige de 1985, les écoliers du terminus, la poinçonneuse et les feuilles de service qu’il a gardées dans une boîte en fer. Gérard voudrait une seule longue journée de tournage ; Amaury veut choisir l’heure où il se sent plus dispos et décider ce que le groupe pourra montrer après la rencontre. Sa maladie de Parkinson a été diagnostiquée il y a neuf ans ; un trouble cognitif léger a été noté il y a quatre ans ; la docteure Aubertin, neurologue, a posé il y a un an le diagnostic de démence due à la maladie de Parkinson, considérée comme légère par l’équipe. L’équipe spécialisée Parkinson comprend aussi Sabine Ferrand, infirmière de coordination joignable par téléphone, Quentin Delorme, orthophoniste, et Mme Chassagne, psychologue ; le docteur Pons est son médecin traitant. Voix : phrases courtes, humour de conducteur (« on ne part pas avant l’heure »), noms d’arrêts et numéros de services ; ces images sont les siennes, jamais une explication du trouble. Faits mis en scène : fluctuations et choix de l’heure, voix faible et lenteur, attention qui s’épuise, organisation du récit, lecture d’un plan, visage peu expressif, différence entre trouble léger et démence, hallucinations mineures signalées, somnolence de l’après-midi, moins d’élan évalué par la psychologue, aggravation brusque avec appel au 15 et hospitalisation, partage choisi et souhaits pour la suite. À écarter : prendre la lenteur pour de l’oubli ou un visage figé pour de l’indifférence, confondre trouble léger et démence, attribuer une aggravation brusque à l’évolution, nommer un médicament ou une dose, faire de Rosa une soignante permanente ou des documentaristes des évaluateurs, promettre que l’aménagement ralentit la maladie. Fin : le film de vingt minutes, monté à partir de séances courtes du matin, est projeté à l’association avec les passages qu’Amaury a validés ; il garde hors du film l’épisode de l’hôpital et rédige avec l’équipe des souhaits révisables, en sachant que la démence suit l’évolution de sa maladie de Parkinson.",
+            "dossier": {
+              "name": "Démence due à la maladie de Parkinson",
+              "aliases": [
+                "6D85.0",
+                "Démence parkinsonienne",
+                "Démence associée à la maladie de Parkinson",
+                "Dementia due to Parkinson disease",
+                "Parkinson’s disease dementia"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6d85-0",
+                "oms-cddr-hrb",
+                "nice-ng71",
+                "nice-ng97",
+                "has-parkinson-2016",
+                "emre-2007",
+                "litvan-2012",
+                "service-public-15"
+              ],
+              "points": [
+                "Vérification individuelle du 12 novembre 2026 : lecture du texte original anglais des CDDR (PDF OMS déposé au HRB, téléchargé et extrait localement, empreinte b66e7a5d…709b), pages imprimées 608–611, 618–621, 627–628 et 634–636 ; lecture des recommandations NICE NG71 et NG97 en ligne ; lecture du guide HAS du parcours de soins Parkinson (PDF de 86 pages, version de septembre 2016, pages citées) ; lecture du texte intégral de Litvan 2012 sur PMC ; lecture du seul résumé PubMed d’Emre 2007 (texte intégral non consulté : ses critères détaillés ne sont pas cités) ; lecture de la fiche Service Public F33954 (vérifiée le 25 août 2026 selon la page). Lien MMS 2026-01 : interface dynamique non extraite ; l’intitulé français « Démence due à la maladie de Parkinson » est repris du registre canonique local. Les paraphrases françaises des textes anglais ne sont pas une traduction officielle.",
+                "CDDR p. 618 : la démence suppose une altération marquée d’au moins deux domaines cognitifs, en déclin par rapport au niveau antérieur ; la mémoire n’est pas seule en jeu (fonctions exécutives, attention, langage, cognition sociale et jugement, vitesse psychomotrice, capacités visuoperceptives ou visuospatiales). L’évaluation s’appuie sur la personne, un informant, l’observation clinique et des tests normés ou une évaluation quantifiée. p. 620 : la démence se distingue du trouble neurocognitif léger parce que l’altération est assez sévère pour gêner nettement le fonctionnement personnel, familial, social ou professionnel ; p. 634 : dans les formes légères, le fonctionnement n’est maintenu qu’au prix d’un effort supplémentaire important (stratégies de compensation).",
+                "CDDR p. 628, 6D85.0 : toutes les exigences de la démence sont remplies ; la démence est présumée attribuable à une maladie de Parkinson sous-jacente (tests neuropsychologiques, imagerie, examens, antécédents familiaux ou histoire clinique). Caractéristiques additionnelles : elle se développe chez des personnes ayant une maladie de Parkinson idiopathique et se caractérise souvent par une atteinte de l’attention, de la mémoire, des fonctions exécutives et visuospatiales ; des changements de l’affect, une apathie et des hallucinations peuvent être présents ; le début est insidieux et survient typiquement un an ou plus après les signes moteurs parkinsoniens ; l’évolution suit souvent celle de la maladie de Parkinson. Le diagnostic 8A00.0 du chapitre 8 est aussi attribué. Résumé d’Emre 2007 : mêmes domaines, pas d’examen complémentaire spécifique au diagnostic. Le diagnostic d’Amaury est déjà établi par sa neurologue ; aucun signe n’est présenté comme liste permettant de conclure sur soi ou un proche.",
+                "Garde-fou du canon. CDDR p. 608–609, 6D71 : un trouble neurocognitif léger (« mild cognitive impairment » ailleurs) est une atteinte légère d’un ou plusieurs domaines, qui ne gêne pas significativement les activités ; p. 610 : son évolution peut être stable, progressive ou s’améliorer, et il peut précéder une démence. Litvan 2012 : dans la maladie de Parkinson, il existe un spectre allant du trouble cognitif léger à la démence ; l’absence de retentissement fonctionnel significatif est la caractéristique principale qui les sépare ; séparer la part cognitive et la part motrice d’une difficulté fonctionnelle est difficile et demande encore des études. Le récit ne confond donc pas tout trouble cognitif lié à Parkinson avec une démence : Amaury a eu un trouble léger noté quelques années avant le diagnostic actuel ; c’est l’évaluation spécialisée, pas l’entourage, qui a posé la démence.",
+                "Litvan 2012, « PD-Associated Comorbidities » : l’anxiété et le ralentissement cognitif pendant les périodes « off » peuvent dégrader les performances aux tests, d’où une évaluation idéalement en période « on » ; troubles de l’humeur, apathie, psychose et trouble du sommeil paradoxal sont fréquents. HAS 2016 p. 20 : les fluctuations motrices sont déroutantes et demandent d’expliquer pourquoi la personne peut faire un geste à un moment et plus à un autre ; p. 20–21 : régularité des horaires de prise et carnet de suivi ; p. 24 : fluctuations de fin de dose et « on-off », avis du neurologue. NICE NG71 1.3.9 : avis spécialisé avant de modifier un traitement en cas de fluctuations. Usage éditorial : Amaury choisit l’heure des séances selon ses périodes plus disponibles ; le récit ne décrit aucun médicament, aucune dose, aucun horaire de prise précis.",
+                "HAS 2016 p. 35–36 : la dysarthrie hypokinétique apparaît précocement et insidieusement (baisse d’intensité, monotonie, voix voilée) et peut entraîner retrait social ; une prise en charge orthophonique précoce aide à maintenir la parole. p. 66 : à l’hôpital, hypophonie, dysarthrie et lenteur du temps de réponse peuvent être interprétées à tort comme une confusion ; les problèmes de communication doivent être discutés dès l’admission. NICE NG71 1.7.7–1.7.9 : orthophonie pour la communication, aides à la communication selon l’évolution ; 1.1.3 : informations orales et écrites adaptées, car cognition, communication ou humeur peuvent être touchées. Le récit distingue la voix faible et la lenteur à répondre d’un oubli.",
+                "HAS 2016 p. 25 : la dépression est fréquente dans la maladie de Parkinson et difficile à repérer, car réduction de l’expression du visage et des émotions, manque de motivation et ralentissement sont communs aux deux ; les proches sont invités à donner des informations ; soutien psychologique, psychothérapie possible selon préférences et degré d’altération cognitive. CDDR p. 635–636 : spécificateurs 6D86.1 (humeur) et 6D86.3 (apathie, indifférence ou manque d’intérêt cliniquement significatifs) lorsque ces signes deviennent une cible de soins. Le récit ne tranche jamais entre apathie et dépression : la psychologue et la neurologue évaluent ; un visage peu expressif n’est pas lu comme de l’indifférence.",
+                "HAS 2016 p. 27–28 : les troubles psychotiques peuvent être liés aux médicaments dopaminergiques ou à la démence ; ils sont souvent précédés d’hallucinations « mineures » (sensation de présence, hallucinations de passage) qui peuvent rester stables longtemps ; informer tôt la personne et ses aidants ; exclure d’autres causes (infection, déshydratation, trouble métabolique, autres médicaments, dépression) ; adresser rapidement au neurologue. NICE NG71 1.5.12–1.5.14 : demander aux revues et après un changement de traitement si la personne a des hallucinations ; évaluation médicale générale ; ne pas traiter des hallucinations bien tolérées par la personne et son entourage. NICE NG71 1.5.20 et NG97 1.7.4 : certains antipsychotiques peuvent aggraver les signes moteurs, avec parfois des réactions de sensibilité graves dans la démence parkinsonienne. Usage strict : aucune molécule, dose ou modification n’est mentionnée ; Amaury signale l’expérience à l’infirmière de coordination, l’équipe décide.",
+                "HAS 2016 p. 29 : la démence de la maladie de Parkinson est progressive, de survenue tardive (l’âge est le facteur de risque essentiel), avec majoration du syndrome dysexécutif, altération visuospatiale, difficultés de concentration, somnolence diurne, hallucinations visuelles et épisodes délirants ; traiter toute condition qui aggrave la cognition (dépression, infection aiguë, fécalome, rétention d’urines) et réévaluer avec un spécialiste les médicaments qui peuvent l’aggraver. p. 30 : somnolence diurne, parfois liée à certains traitements ; maintenir activités régulières et lien social, éviter les longues siestes. NICE NG71 1.5.1 : en cas de somnolence diurne ou d’endormissement soudain, ne pas conduire et penser aux risques. Les pourcentages de la fiche HAS ne sont pas repris dans les articles.",
+                "CDDR p. 620 : une personne atteinte de démence a un risque accru de delirium ; une altération aiguë de l’attention, de l’orientation et de la conscience demande une évaluation de sa cause. HAS 2016 p. 66 : motifs d’hospitalisation urgente dont changement aigu de l’état mental, infection, chute, épuisement de l’aidant ; p. 66 : risque de ne pas recevoir le bon traitement au bon moment ; patients et familles fournissent les noms, doses et horaires ; NICE NG71 1.3.2 et 1.3.4 : ne pas interrompre brutalement les antiparkinsoniens, horaires respectés à l’hôpital, ajustements discutés avec un spécialiste ; NICE NG97 1.9.1 : risque accru de delirium à l’hôpital. Service Public F33954 : urgence médicale, le 15 (Samu), ou le 112. Dans la scène, Rosa appelle le 15 sans attendre ; l’aggravation n’est pas présumée être l’évolution de la démence ; les soignants cherchent la cause. La feuille d’horaires est un document de l’équipe, jamais reproduit dans l’article.",
+                "NICE NG97 1.1.1–1.1.2 et 1.1.7 : encourager la personne à donner son avis, adapter la communication, demander son accord pour partager les informations, avec qui et lesquelles ; 1.4.1 : activités adaptées aux préférences ; 1.4.4 : ergothérapie ou réhabilitation cognitive pour soutenir les capacités. NICE NG71 1.1.1 : la communication vise à faire participer la personne aux choix ; 1.1.5–1.1.6 : plan de soins concerté et point de contact accessible, possiblement une infirmière spécialisée ; 1.7.1 : contact continu et information fiable ; 1.7.5–1.7.6 : ergothérapie spécifique. Dans la série, l’infirmière de coordination de l’équipe spécialisée Parkinson est ce point de contact ; les aménagements du tournage sont des arrangements d’organisation, pas des traitements démontrés.",
+                "Aidants : HAS 2016 p. 68 : la maladie retentit sur les proches, avec risque d’épuisement ; leur prêter attention de façon continue. NICE NG71 1.1.4 : informer les proches de leur droit à une évaluation et à du répit ; NG97 1.11.1–1.11.2 : psychoéducation et soutien adaptés aux besoins des aidants. Rosa a sa propre vie et ses limites ; elle peut passer le relais. Évolution et anticipation : CDDR p. 628 (l’évolution suit souvent celle de la maladie de Parkinson) et p. 634 (sévérité appréciée par l’examen et un informant ; démence légère compatible avec une vie à domicile avec soutien) ; NICE NG71 1.9.1–1.9.4 et NG97 1.1.12–1.1.13 : parler du pronostic, des souhaits et de l’anticipation, réviser ces choix à chaque revue, soins palliatifs envisageables à tout stade. Aucune vitesse d’évolution n’est promise ; rien ne présente un aménagement réussi comme un ralentissement de la maladie.",
+                "Limites : CDDR consultées en anglais ; Emre 2007 lu en résumé seulement ; Litvan 2012 propose des critères de recherche à valider ; NICE est britannique (DVLA, droit des aidants, Lasting Power of Attorney non transposés en France) ; le guide HAS date de 2016 et comporte des données chiffrées et des stratégies médicamenteuses qui ne sont pas reprises. Aucune règle française sur le droit à l’image, la conduite ou la protection juridique n’est inventée : l’accord pour le film relève d’un échange fictif entre Amaury et les documentaristes, sans présentation comme procédure légale. Architecture : 1 fluctuations et choix de l’heure, 2 voix faible et réponse lente, 3 attention soutenue qui s’épuise, 4 fonctions exécutives pour ordonner un récit, 5 difficultés visuospatiales devant un plan, 6 visage peu expressif, 7 distinction trouble léger et démence, 8 hallucinations mineures signalées, 9 somnolence diurne, 10 moins d’élan à évaluer, 11 aggravation brusque et hospitalisation, 12 partage choisi et anticipation de l’évolution. Ces axes ne sont pas douze symptômes à cocher."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6d85-0": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6D85.0 Démence due à la maladie de Parkinson, lien canonique français",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#1494928041"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 608–611 (6D71 trouble neurocognitif léger), 618–621 (exigences générales et frontières de la démence), 628 (6D85.0) et 634–636 (sévérité et spécificateurs 6D86) ; document original au dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "nice-ng71": {
+                "title": "NICE NG71, Parkinson’s disease in adults, recommandations 1.1.1–1.1.6, 1.3.2, 1.3.4, 1.3.8–1.3.9, 1.5.1, 1.5.12–1.5.14, 1.5.20–1.5.25, 1.7.1, 1.7.5–1.7.9 et 1.9.1–1.9.4",
+                "url": "https://www.nice.org.uk/guidance/ng71/chapter/Recommendations"
+              },
+              "nice-ng97": {
+                "title": "NICE NG97, Dementia: assessment, management and support for people living with dementia and their carers, recommandations 1.1.1–1.1.2, 1.1.7, 1.1.12–1.1.13, 1.3.1, 1.4.1, 1.4.4, 1.7.1, 1.7.4, 1.9.1 et 1.11.1–1.11.2",
+                "url": "https://www.nice.org.uk/guidance/ng97/chapter/Recommendations"
+              },
+              "has-parkinson-2016": {
+                "title": "HAS, Guide du parcours de soins – Maladie de Parkinson, septembre 2016, p. 20–21 (information), 24 (complications motrices), 25 (dépression), 27–30 (troubles psychotiques, démence, sommeil), 35–36 (dysarthrie), 66 (hospitalisation) et 68 (aidants)",
+                "url": "https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_parkinson.pdf"
+              },
+              "emre-2007": {
+                "title": "Emre et al., Clinical diagnostic criteria for dementia associated with Parkinson’s disease, Movement Disorders 2007;22(12):1689-1707, DOI 10.1002/mds.21507 ; résumé PubMed 17542011 seulement",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17542011/"
+              },
+              "litvan-2012": {
+                "title": "Litvan et al., Diagnostic criteria for mild cognitive impairment in Parkinson’s disease: Movement Disorder Society Task Force guidelines, Movement Disorders 2012;27(3):349-356, DOI 10.1002/mds.24893 ; texte intégral PMC, sections introduction, PD-MCI Criteria, Absence of Significant Functional Decline et PD-Associated Comorbidities",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3641655/"
+              },
+              "service-public-15": {
+                "title": "Service Public, fiche F33954, numéros d’urgence : urgence médicale, le 15 (Samu) ; 112",
+                "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/amaury.json",
+              "dossier": "editorial/clinical/dossiers/amaury.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "amaury",
+            "code": "6D85.0",
+            "article_format": 2,
+            "bio": "Amaury, 70 ans, ancien conducteur de bus à Saint-Étienne, veut faire écouter ses souvenirs de lignes à deux jeunes documentaristes pour l’association Mémoire des lignes. Sa démence due à la maladie de Parkinson est déjà diagnostiquée : selon l’heure, sa pensée ralentit, sa voix faiblit et un récit bien connu se met en désordre. Avec sa compagne Rosa et l’équipe spécialisée Parkinson qui le suit, il choisit le moment des séances, leur durée et ce que le groupe pourra montrer.",
+            "profile_topics": [
+              "Démence due à la maladie de Parkinson",
+              "Choisir ses heures quand les capacités fluctuent",
+              "Voix faible et lenteur prises pour de l’oubli",
+              "Attention et organisation d’un récit",
+              "Accord sur ce que le film partagera"
+            ],
+            "voice": "Des phrases courtes, l’humour d’un conducteur qui tient ses horaires (« on ne part pas avant l’heure ») et les noms d’arrêts récités dans l’ordre. Ces images sont celles d’Amaury, jamais une explication du trouble. Il raconte volontiers la neige de 1985 ou les écoliers du terminus, se tait sur sa santé quand il le décide et préfère une question à la fois.",
+            "series_goal": "Terminer avec Soizic Teyssier et Wassim Rey un film de vingt minutes sur ses lignes, tourné en séances courtes le matin, projeté d’abord à l’association avec les seuls passages qu’il a validés, tout en distinguant les variations de ses capacités des aggravations qui demandent un avis et en préparant avec l’équipe des souhaits révisables pour la suite.",
+            "continuity_rules": [
+              "Diagnostic établi avant la série : known aux douze épisodes. Maladie de Parkinson diagnostiquée il y a neuf ans ; trouble cognitif léger noté il y a quatre ans ; démence due à la maladie de Parkinson posée il y a un an par la docteure Aubertin, considérée comme légère par l’équipe au début. Aucun stade, aucune vitesse d’évolution et aucun diagnostic supplémentaire ne sont déduits d’une scène.",
+              "Personnes : Rosa Ferreira, 67 ans, compagne, ancienne aide-comptable, chorale le jeudi, a ses limites et peut passer le relais ; Soizic Teyssier, réalisatrice, et Wassim Rey, son et image ; Gérard Vial, président de l’association Mémoire des lignes ; docteure Aubertin, neurologue ; Sabine Ferrand, infirmière de coordination de l’équipe spécialisée Parkinson ; Quentin Delorme, orthophoniste (à partir de 2) ; Mme Chassagne, psychologue (10) ; docteur Pons, médecin traitant. Aucun proche ni documentariste ne joue au diagnosticien ou ne modifie un traitement.",
+              "Objets et lieux : salle de l’association près d’un ancien dépôt ; boîte en fer de feuilles de service ; casquette posée sur la table comme signal de pause (3) ; fiches d’étapes (4) ; copie agrandie du plan de 1987 avec la 9 surlignée (5) ; ancien bus de l’association ; micro-cravate (2) ; feuille d’horaires de traitement préparée avec l’équipe, jamais reproduite (11).",
+              "Décisions : séances le matin à dix heures dès 1 ; quarante minutes avec pause dès 3 ; une étape par séance dès 4 ; Amaury ne conduit plus la voiture de l’association dès 9 ; hôpital après appel au 15 en 11, cause infectieuse trouvée par les soignants et non présumée ; l’hôpital reste hors du film ; projection à l’association avant toute diffusion en ligne en 12.",
+              "Aucun nom de médicament, aucune dose, aucun horaire de prise ni modification de traitement. Les expériences de présence (8) sont signalées à l’équipe, jamais confrontées ni confirmées ; Amaury décide qui en est informé. Le manque d’élan (10) n’est tranché ni en apathie ni en dépression par un proche. Les aménagements sont des arrangements d’organisation, sans efficacité thérapeutique revendiquée.",
+              "Fin : film de vingt minutes projeté à l’association avec les passages validés par Amaury ; souhaits révisables confiés à Rosa et au docteur Pons ; la démence suit l’évolution de la maladie de Parkinson et Amaury continue de choisir ce qu’il partage."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Choisir l’heure selon les fluctuations de la journée",
+                "scene": "Dans la salle de l’association Mémoire des lignes, à Saint-Étienne, Gérard Vial a fixé le premier enregistrement à quinze heures. Amaury, 70 ans, ancien conducteur de bus, arrive avec sa boîte en fer de feuilles de service. Le matin, il racontait à Rosa le premier départ de 5 h 10 sans chercher ses mots. Devant le micro de Wassim Rey, ses gestes ralentissent, la réponse tarde, et il demande à Soizic Teyssier de répéter sa question. Gérard propose de « pousser jusqu’à dix-huit heures pour tout boucler ».",
+                "development": "Dans la démence due à la maladie de Parkinson, les capacités disponibles peuvent varier au cours de la journée, et les périodes où les signes moteurs reviennent peuvent s’accompagner d’un ralentissement de la pensée. L’explication part de cette variation, puis revient au contraste entre le récit du matin et la séance de l’après-midi. Trois appuis : repérer avec Amaury ses moments plus disponibles ; organiser les rendez-vous autour de ces moments plutôt que de l’horaire du groupe ; signaler les variations à l’équipe spécialisée sans toucher au traitement. Aucun horaire de prise ni médicament n’est décrit.",
+                "ending": "Amaury arrête la séance au bout de vingt minutes et annonce qu’il ne reviendra que le matin, à dix heures. Gérard accepte à contrecœur de déplacer le planning ; Soizic note l’heure sur le calendrier du film.",
+                "next": "À dix heures, le récit de la neige de 1985 se heurte à une autre difficulté : la voix d’Amaury ne porte plus jusqu’au micro.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "litvan-2012",
+                  "has-parkinson-2016",
+                  "nice-ng71"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "Voix faible et réponse lente prises pour un oubli",
+                "scene": "Le jeudi suivant, à dix heures, Amaury raconte la neige de 1985 sur la côte de Montreynaud. Wassim retire son casque : la voix est si basse qu’il n’entend qu’un souffle. Soizic enchaîne trois questions pendant qu’Amaury cherche encore le début de sa phrase. Il se tait. Gérard, à côté, glisse : « Il ne s’en souvient plus, passons aux autres. » Amaury se souvient très bien du bus resté en travers ; c’est la phrase qui met du temps à sortir, et sa voix qui ne suit pas.",
+                "development": "La voix plus faible et monotone de la maladie de Parkinson et la lenteur à répondre peuvent être prises à tort pour un oubli ou une confusion. L’explication distingue ce que la personne sait de ce qu’elle peut dire à ce moment-là, puis revient à la neige de 1985. Trois appuis : laisser le temps de répondre et poser une question à la fois ; adapter le matériel plutôt que demander de crier ; s’appuyer sur l’orthophonie, que l’équipe peut proposer. Aucune évaluation de la mémoire par le groupe.",
+                "ending": "Amaury demande à Gérard de le laisser finir et accepte un micro-cravate. Il prend rendez-vous avec Quentin Delorme, l’orthophoniste de l’équipe, et propose à Soizic de lui montrer d’un geste quand il a terminé.",
+                "next": "La séance suivante dure plus longtemps, et c’est la fin de l’heure qui devient difficile.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "has-parkinson-2016",
+                  "nice-ng71"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Une attention qui s’épuise au fil de la séance",
+                "scene": "Pour gagner du temps, Gérard a prévu une séance d’une heure et demie sur les écoliers du terminus. Pendant les trente premières minutes, Amaury raconte la petite Fatou qui faisait ses devoirs sur la banquette du fond. Ensuite, il perd le fil quand Wassim déplace la lampe, recommence deux fois la même anecdote et regarde la porte. Il dit qu’il va bien, mais il pose sa casquette sur la table, comme à la fin d’un service.",
+                "development": "Dans cette démence, l’attention soutenue peut s’épuiser plus vite, et un récit bien commencé peut se défaire avec la durée ou les distractions. L’explication part de la difficulté à maintenir l’attention, puis revient à la casquette posée sur la table. Trois appuis : fixer une durée courte choisie avec Amaury ; réduire les changements autour de lui pendant la prise ; convenir d’un signal de pause qu’il peut utiliser sans se justifier. Aucune interprétation de la baisse d’attention comme de la mauvaise volonté.",
+                "ending": "Amaury fixe la règle : quarante minutes, une pause, et la casquette sur la table veut dire stop. Wassim règle la lumière avant son arrivée. Gérard grimace devant le calendrier, qui s’allonge de trois semaines.",
+                "next": "Avec des séances courtes, Soizic demande l’ordre de toute une journée de service, et l’organisation du récit pose problème.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "emre-2007",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Ordonner les étapes d’un récit de service",
+                "scene": "Soizic voudrait suivre une journée type : prise de service au dépôt, premier départ, coupure de midi, relève. Amaury connaît chaque étape, mais il commence par la relève, saute à la coupure et ne sait plus comment revenir au dépôt. Quand Soizic propose de reprendre dans l’ordre, il s’énerve contre lui-même : « Je l’ai fait dix mille fois, cette journée. » Les feuilles de service de la boîte en fer sont étalées en désordre sur la table.",
+                "development": "Les fonctions exécutives, qui servent à planifier, ordonner et passer d’une étape à l’autre, sont souvent touchées dans la démence due à la maladie de Parkinson, même quand les souvenirs restent présents. L’explication distingue le savoir ancien et la mise en ordre du récit, puis revient aux feuilles étalées. Trois appuis : découper le récit en étapes visibles ; traiter une étape par séance ; laisser Amaury choisir l’ordre final au montage. Aucun exercice cognitif présenté comme un traitement.",
+                "ending": "Amaury classe avec Rosa quatre feuilles de service dans l’ordre de la journée et en fait des fiches, une par étape. Il enregistrera une étape par séance et validera l’ordre au montage.",
+                "next": "La fiche du premier départ renvoie au plan du réseau de 1987, que Wassim veut filmer.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "emre-2007",
+                  "has-parkinson-2016"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Suivre un trajet sur un plan de réseau",
+                "scene": "Wassim a déplié le grand plan du réseau de 1987 sur la table pour qu’Amaury montre le trajet de la 9. Amaury connaît les arrêts par cœur et les récite dans l’ordre. Pourtant, son doigt glisse sur une ligne voisine, il confond deux couleurs proches et cherche le terminus au mauvais coin du plan. Il replie le papier d’un geste sec et dit qu’on n’a qu’à filmer les arrêts en voix seule.",
+                "development": "Les capacités visuospatiales, qui permettent de situer des lignes et des repères dans l’espace, font partie des domaines souvent atteints dans cette démence, sans que la mémoire des lieux disparaisse. L’explication sépare les arrêts qu’Amaury connaît et le plan qu’il doit lire, puis revient au papier replié. Trois appuis : simplifier ce qui est montré ; ajouter un repère tactile ou contrasté ; laisser la parole guider l’image plutôt que l’inverse. Aucun test visuel remis à l’entourage.",
+                "ending": "Amaury accepte une copie agrandie où seule la 9 est surlignée en noir. Il récite les arrêts pendant que Wassim suit le tracé à la caméra. Le grand plan d’origine reste replié dans la boîte en fer.",
+                "next": "Au visionnage des premiers rushs, Soizic s’inquiète de l’expression d’Amaury à l’image.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "emre-2007",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Un visage peu expressif n’est pas de l’indifférence",
+                "scene": "Soizic montre à Amaury et Rosa les premiers rushs dans la salle de l’association. Pendant qu’il raconte les écoliers du terminus, son visage reste presque immobile. Soizic propose avec précaution de couper ces plans : « On dirait que ça ne te touche pas. » Amaury répond qu’il avait la gorge serrée en parlant de Fatou. Rosa connaît ce visage qui ne bouge plus comme avant et sait que, derrière, il est souvent ému.",
+                "development": "Dans la maladie de Parkinson, l’expression du visage peut diminuer, et ce visage peu mobile peut être pris pour de l’indifférence ou de la tristesse sans l’être. L’explication part de ce décalage entre ce que la personne ressent et ce que son visage montre, puis revient aux rushs. Trois appuis : demander plutôt que lire le visage ; laisser la personne nommer ce qu’elle ressentait ; choisir avec elle comment le film la montre. Le récit ne présente pas ce visage comme un signe de dépression.",
+                "ending": "Amaury refuse qu’on coupe les plans. Il demande des images de ses mains sur le volant de l’ancien bus de l’association et une phrase à lui en voix off pour dire ce qu’il ressentait.",
+                "next": "Soizic veut maintenant écrire dans le texte du film le nom de la maladie, et Amaury hésite sur le mot démence.",
+                "source_refs": [
+                  "oms-cddr",
+                  "has-parkinson-2016",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Trouble cognitif léger ou démence : ce qui a changé",
+                "scene": "Avant la consultation de suivi chez la docteure Aubertin, Soizic demande à Amaury comment présenter sa maladie dans le film. Il dit « Parkinson » sans difficulté, mais bute sur « démence ». Il y a quatre ans, la neurologue avait parlé d’un trouble cognitif léger ; il continuait alors à tenir seul les comptes de l’association. Depuis l’an dernier, Rosa vérifie les factures avec lui. En consultation, Amaury pose lui-même la question : qu’est-ce qui a changé entre les deux mots ?",
+                "development": "Dans la maladie de Parkinson, des difficultés cognitives peuvent exister sans démence ; on parle de démence quand plusieurs domaines sont nettement touchés et que la vie quotidienne s’en trouve significativement gênée, ce que seule une évaluation spécialisée établit. L’explication part de ce spectre, puis revient aux comptes de l’association. Trois appuis : poser ses questions à la neurologue ; distinguer ce qui a changé dans la vie quotidienne ; choisir ses propres mots pour en parler. Aucun critère proposé pour conclure sur soi ou un proche.",
+                "ending": "La docteure Aubertin explique ce qui a fondé le diagnostic posé l’an dernier. Amaury décide que le film dira « démence due à la maladie de Parkinson » une seule fois, dans un carton qu’il rédige, et qu’il ne veut pas en faire le sujet du film.",
+                "next": "Quelques jours plus tard, dans le dépôt, Amaury croit sentir quelqu’un derrière lui.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "litvan-2012",
+                  "emre-2007"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Une présence fugace à signaler à l’équipe",
+                "scene": "Pendant une prise dans l’ancien bus de l’association, Amaury s’interrompt deux fois. Il a l’impression qu’un passager vient de monter par la porte arrière, et il se retourne : personne. Il ne raconte rien sur le moment. Le soir, il le confie à Rosa, gêné, en précisant que ce n’était pas effrayant, plutôt agaçant. Rosa se demande s’il faut en parler à Soizic ou appeler quelqu’un.",
+                "development": "Dans la maladie de Parkinson et sa démence, des expériences brèves comme la sensation d’une présence ou d’un passage au coin de l’œil peuvent survenir ; elles se signalent à l’équipe, qui en recherche les causes possibles, y compris médicamenteuses. L’explication part de ces expériences dites mineures, puis revient à la porte arrière du bus. Trois appuis : en parler sans honte à l’équipe ; noter les circonstances ; ne pas confronter ni confirmer. Aucun médicament, aucune modification de traitement n’est décrite.",
+                "ending": "Amaury appelle lui-même Sabine Ferrand, l’infirmière de coordination, qui en parle à la docteure Aubertin et lui propose un point lors du prochain suivi. Il décide de ne rien dire au groupe et Rosa respecte ce choix.",
+                "next": "Les séances reprennent, mais les après-midi de montage deviennent difficiles pour une autre raison : Amaury s’endort.",
+                "source_refs": [
+                  "oms-cddr",
+                  "has-parkinson-2016",
+                  "nice-ng71",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Somnolence de l’après-midi pendant le montage",
+                "scene": "Soizic a invité Amaury à choisir les plans sur l’ordinateur de l’association, à quatorze heures. Après le repas, il s’assoupit deux fois devant l’écran, se réveille en sursaut et valide un plan qu’il voulait couper. Gérard propose qu’il rentre en voiture avec la vieille Peugeot de l’association, qu’Amaury conduisait encore pour les sorties l’an passé. Rosa, à la chorale, n’est pas joignable.",
+                "development": "La somnolence pendant la journée fait partie des difficultés décrites dans la démence due à la maladie de Parkinson ; elle peut aussi être liée à certains traitements et compte dans les décisions de sécurité. L’explication part de cette somnolence, puis revient au plan validé par erreur et à la voiture. Trois appuis : placer les tâches qui demandent du jugement aux heures d’éveil ; garder des activités régulières plutôt que de longues siestes ; signaler la somnolence à l’équipe et ne pas prendre le volant. Aucun conseil médicamenteux.",
+                "ending": "Amaury refuse les clés et rentre en taxi. Il annule sa validation de l’après-midi, reporte le montage au matin et en parle à Sabine Ferrand au téléphone le lendemain.",
+                "next": "La semaine suivante, Amaury ne veut plus aller à l’association du tout.",
+                "source_refs": [
+                  "oms-cddr",
+                  "has-parkinson-2016",
+                  "nice-ng71"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Moins d’élan : apathie ou dépression à évaluer",
+                "scene": "Le mardi, Amaury reste dans son fauteuil quand Rosa lui rappelle la séance de dix heures. Il dit que ça ne vaut pas le déplacement et laisse sa boîte en fer sur l’étagère. Il ne se dit pas triste, simplement « sans moteur ». Rosa, qui a annulé deux répétitions de chorale ce mois-ci, s’agace puis s’inquiète. Elle se demande si elle doit insister ou appeler quelqu’un.",
+                "development": "Un manque d’élan peut relever de l’apathie, d’une dépression ou des deux, et les signes de la maladie de Parkinson se confondent parfois avec ceux de la dépression ; c’est l’équipe qui évalue. L’explication part de cette difficulté à distinguer, puis revient au fauteuil et à la boîte en fer. Trois appuis : décrire ce qui a changé sans conclure ; demander un avis à l’équipe ; proposer une activité courte choisie par Amaury. Le récit ne tranche pas et ne nomme aucun traitement.",
+                "ending": "Amaury accepte un rendez-vous avec Mme Chassagne, la psychologue de l’équipe, et propose à Soizic une séance de vingt minutes chez lui. Rosa reprend la chorale et demande à Sabine Ferrand des informations sur les solutions de répit.",
+                "next": "Avant la séance chez lui, Amaury se réveille un matin fiévreux et ne reconnaît plus l’heure ni la cuisine.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "has-parkinson-2016",
+                  "nice-ng71"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Une aggravation brusque demande un avis urgent",
+                "scene": "Un matin, Rosa trouve Amaury fiévreux, agité, incapable de dire quel jour on est ; il confond la cuisine avec le dépôt. La veille encore, il préparait la séance chez lui. Rosa pense d’abord que « c’est la maladie qui avance », puis compose le 15. Aux urgences, une infirmière prend sa voix faible et sa lenteur pour de la confusion supplémentaire. Rosa tend la feuille d’horaires de traitement préparée avec l’équipe et explique comment Amaury parle d’habitude.",
+                "development": "Chez une personne atteinte de démence, un changement brutal de l’attention, de l’orientation ou de la vigilance n’est pas présumé être l’évolution de la maladie : il demande une évaluation médicale rapide de sa cause. L’explication part de ce risque accru de confusion aiguë, puis revient à l’appel au 15 et à l’hôpital, où les horaires de traitement et la façon de communiquer comptent. Trois appuis : appeler le 15 sans attendre ; transmettre les documents de l’équipe ; dire aux soignants comment la personne communique d’habitude. Aucun médicament ni horaire n’est détaillé.",
+                "ending": "Les soignants trouvent une infection et la traitent ; Amaury rentre chez lui après quelques jours, encore fatigué. Il demande que l’hôpital ne figure pas dans le film et qu’on reporte la séance chez lui de deux semaines.",
+                "next": "De retour chez lui, Amaury veut finir le film et décider seul de ce que le groupe verra.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "has-parkinson-2016",
+                  "nice-ng71",
+                  "nice-ng97",
+                  "service-public-15"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Choisir ce qui sera partagé et anticiper la suite",
+                "scene": "Trois semaines après l’hôpital, Soizic et Wassim viennent chez Amaury un matin avec le montage de vingt minutes. Il regarde par séquences courtes, la casquette à portée de main. Il garde la neige de 1985, Fatou et les mains sur le volant ; il retire un passage où il cherche longuement le terminus. Gérard voudrait diffuser le film en ligne ; Amaury veut d’abord une projection à l’association. Le lendemain, il a rendez-vous avec la docteure Aubertin et Sabine Ferrand pour parler de la suite.",
+                "development": "La démence due à la maladie de Parkinson suit souvent l’évolution de la maladie de Parkinson elle-même, et le moment où la personne peut encore décider est celui où l’on prépare ses souhaits, révisables à chaque suivi. L’explication part de cette évolution, puis revient au montage validé. Trois appuis : décider avec la personne ce qui est partagé, avec qui et où ; écrire des souhaits pour les soins et la vie quotidienne ; les revoir régulièrement avec l’équipe. Aucune vitesse d’évolution n’est promise.",
+                "ending": "Le film est projeté à l’association avec les passages qu’Amaury a validés ; la diffusion en ligne attendra son accord écrit. Avec l’équipe, il rédige des souhaits révisables confiés à Rosa et au docteur Pons, en sachant que la maladie continue d’évoluer.",
+                "next": "Après la projection, Amaury propose d’écouter les souvenirs d’un ancien collègue, le matin, à dix heures.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng71",
+                  "nice-ng97",
+                  "has-parkinson-2016"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/amaury.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/amaury.json": null
+        }
+      },
+      "snapshot_sha256": "4dabdf46f54ccf4dcc7dfd041c9d12101b82896239b0abc86534b5e01fa830b5",
+      "status": "active",
+      "token_sha256": "8a4f6059d4c41c25578054d90bd4da5ee389d8174bc300983f7c2700e440aa0a",
+      "heartbeat_at": "2026-11-12T10:41:54Z",
+      "expires_at": "2026-11-12T11:41:54Z"
     }
   },
-  "updated_at": "2026-11-12T10:41:29Z"
+  "updated_at": "2026-11-12T10:42:01Z"
 }

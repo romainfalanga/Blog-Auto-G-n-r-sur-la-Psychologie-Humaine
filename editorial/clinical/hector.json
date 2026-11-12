@@ -1059,6 +1059,112 @@
       },
       "clinical_focus": "Un souvenir effrayant de l’épisode qui revient",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "hector-delirium-demence-vieillissement-distinction",
+      "title": "Le delirium n’est ni une démence ni la vieillesse",
+      "description": "Un mot cherché fait dire à Julien « c’est peut-être Alzheimer ». Hector l’emmène chez son médecin, qui distingue delirium, démence et âge.",
+      "context": "la sixième semaine à la maison",
+      "topics": [
+        "Delirium",
+        "démence",
+        "évaluation à distance"
+      ],
+      "clinical_intro": "Le delirium se distingue d’une démence et des changements ordinaires liés à l’âge : il commence brutalement, fluctue et tend à régresser quand sa cause est traitée. Une démence évolue plutôt progressivement. Seul un médecin peut faire la part des choses, parfois plus tard, une fois l’épisode passé. À la sixième semaine, une remarque de Julien pousse Hector à poser la question à son médecin traitant.",
+      "opening": "Le samedi de la sixième semaine à la maison, à onze heures, Hector Ménard, 77 ans, charpentier retraité qui a traversé un delirium pendant son hospitalisation à Saumur, nettoie le dernier outil de la caisse de 1979 avec Julien, son neveu. Trois tiroirs portent déjà leur étiquette : nettoyé, huilé. Il reste le quatrième. Hector tend la main vers l’établi. « Passe-moi le… le machin, là. Pour tracer parallèle au chant. » Il claque des doigts. Le mot ne vient pas. Julien prend l’outil, une tige de hêtre coulissant dans une tête avec sa pointe, et le lui donne. « Le trusquin. »\n\nPuis, presque pour lui-même, en essuyant ses mains sur son jean : « C’est peut-être le début d’Alzheimer. »\n\nHector se raidit. Il pose le trusquin sur l’établi, droit, parallèle au bord, comme il le ferait d’une pièce qu’on vient de lui reprocher. Il ne répond pas tout de suite. Il pense à Raymond, son ancien patron de chantier, qui, ses dernières années, ne reconnaissait plus ses propres ouvriers. Il pense à la chambre 12, dont il ne se souvient presque pas. Il pense au mot qu’il a cherché, un seul, un samedi matin. Il ne sait pas faire le tri entre tout cela, et il refuse que Julien le fasse à sa place, au-dessus d’une caisse d’outils.\n\n« Le docteur Garnier me revoit jeudi, dit-il enfin. Tu viens avec moi. Tu lui diras ce que tu vois. Et lui, il dira ce que c’est. »\n\nJulien, qui a un conseil de classe ce jeudi-là, dit qu’il s’arrangera avec un collègue.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Trois choses différentes qui peuvent se ressembler",
+          "text": "Le delirium, la démence et le vieillissement ordinaire peuvent tous toucher la pensée, mais ils ne se ressemblent pas dans leur façon d’apparaître et d’évoluer. Le delirium survient brutalement, en heures ou en jours, avec une confusion importante qui fluctue et tend à régresser quand sa cause est traitée. Une démence touche plutôt des capacités précises, de façon progressive, sur des mois ou des années. Le vieillissement normal s’accompagne de certains changements, comme chercher un mot plus souvent. Une personne qui a une démence peut aussi développer un delirium, et un delirium peut être suivi d’un risque accru de difficultés ultérieures, sans que cela permette de prédire l’avenir d’une personne. C’est pourquoi un médecin peut proposer une évaluation de la mémoire et du quotidien à distance de l’épisode. Pour Hector, ni lui ni Julien n’ont à trancher au-dessus d’un trusquin : un mot cherché un samedi n’est pas un diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion entre delirium, démence et âge s’installe-t-elle dans une famille ?",
+          "points": [
+            {
+              "heading": "Un oubli isolé devient une étiquette",
+              "text": "Après un delirium, chaque petite difficulté peut être lue comme le début d’une maladie.",
+              "examples": [
+                "Hector cherche le mot trusquin, et Julien parle aussitôt d’Alzheimer.",
+                "Un mot manqué un samedi matin pèse plus lourd que les six semaines de progrès."
+              ]
+            },
+            {
+              "heading": "Des souvenirs familiaux qui se mêlent",
+              "text": "L’histoire d’une personne connue atteinte de démence peut colorer la façon de voir l’épisode présent.",
+              "examples": [
+                "Hector repense à Raymond, son ancien patron, qui ne reconnaissait plus ses ouvriers.",
+                "Il confond un instant cette peur avec celle de ses nuits à l’hôpital."
+              ]
+            },
+            {
+              "heading": "Le besoin d’une parole médicale",
+              "text": "La personne et ses proches peuvent avoir besoin qu’un médecin dise ce qui est connu et ce qui ne l’est pas.",
+              "examples": [
+                "Hector refuse que Julien tranche à sa place au-dessus de la caisse.",
+                "Il lui demande de venir au rendez-vous pour décrire ce qu’il voit."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de la mémoire après un delirium",
+          "points": [
+            {
+              "heading": "Décrire des difficultés datées",
+              "objective": "Donner au médecin des faits plutôt qu’une inquiétude générale.",
+              "exercise": [
+                "Noter quelques difficultés récentes, avec le jour et la situation.",
+                "Ajouter ce qui est revenu depuis la sortie de l’hôpital.",
+                "Apporter cette liste au rendez-vous, avec l’accord de la personne."
+              ],
+              "benefit": "Le médecin peut comparer avec l’histoire de l’épisode et avec le fonctionnement habituel."
+            },
+            {
+              "heading": "Demander ce qui sera réévalué et quand",
+              "objective": "Savoir ce qui reste ouvert, sans attendre un verdict immédiat.",
+              "exercise": [
+                "Demander au médecin ce qu’il peut dire aujourd’hui et ce qu’il ne peut pas encore dire.",
+                "Lui demander si une évaluation à distance est prévue, et à quelle date.",
+                "Écrire cette date à un endroit que la personne a choisi."
+              ],
+              "benefit": "L’incertitude devient un rendez-vous, plutôt qu’une question qui revient chaque jour."
+            },
+            {
+              "heading": "Éviter les étiquettes à la maison",
+              "objective": "Préserver la dignité de la personne au quotidien.",
+              "exercise": [
+                "Ne pas nommer de maladie devant un oubli.",
+                "Convenir ensemble d’une phrase à dire quand une difficulté inquiète.",
+                "Garder les questions pour le médecin plutôt que de commenter chaque mot cherché."
+              ],
+              "benefit": "La conversation familiale redevient un lieu de vie plutôt qu’un examen permanent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "On en parle au docteur",
+      "ending": "Le jeudi, à quatorze heures, Julien est assis à côté d’Hector dans le cabinet du docteur Garnier, médecin traitant d’Hector depuis vingt ans. Hector dit d’emblée que Julien peut tout entendre. Julien raconte le mot cherché, puis, à la demande du médecin, ce qu’il voit depuis la sortie : plus de fatigue au début, moins maintenant ; les tiroirs triés un par un ; la soupe du soir de nouveau faite chaque jour. Le docteur Garnier explique la différence entre un delirium, qui commence en quelques heures et fluctue, une démence, qui avance lentement, et l’âge, qui fait parfois chercher un mot. Il dit qu’il ne voit pas aujourd’hui de quoi conclure, ni dans un sens ni dans l’autre, et qu’il ne fera pas de pronostic. Il propose une consultation dédiée à la mémoire et au quotidien dans trois mois, à distance de l’épisode. Hector accepte et note la date au crayon plat sur un papier qu’il glisse dans son portefeuille. Sur le parking, Julien s’excuse : « Je n’aurais pas dû dire ce mot. » Hector répond : « La prochaine fois, tu dis : on en parle au docteur. » Ils conviennent de ne plus commenter les oublis à la maison et de garder leurs questions pour le docteur Garnier. Le quatrième tiroir attend samedi.",
+      "conclusion": "Un delirium ne se confond ni avec une démence ni avec la vieillesse, même s’il peut appeler une évaluation de la mémoire plus tard, à distance de l’épisode. Hector refuse qu’une étiquette soit posée au-dessus de sa caisse, et choisit de laisser son médecin dire ce qui est connu, ce qui ne l’est pas, et quand on en reparlera.",
+      "mirror": [
+        "Julien a laissé échapper le mot Alzheimer devant un trusquin. Un proche inquiet peut garder sa question sans l’imposer et dire : « Ça m’inquiète un peu. Tu veux qu’on en parle au docteur ? » Il peut, si la personne le souhaite, l’accompagner au rendez-vous et décrire des faits précis, datés. Il évite de commenter chaque oubli à la maison. S’il s’est trompé de mot, il peut s’excuser simplement. Le diagnostic, et l’incertitude qui reste, appartiennent au médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-confusion-aigue",
+        "sign-157",
+        "nice-cg103"
+      ],
+      "continuity": {
+        "choice": "Hector emmène Julien chez le docteur Garnier ; le médecin distingue delirium, démence et âge, ne conclut pas et propose une consultation mémoire et quotidien dans trois mois, qu’Hector accepte ; Julien s’excuse et ils conviennent de dire « on en parle au docteur ».",
+        "next": "Avant de remettre la caisse, Hector voudra savoir avec le docteur Garnier quoi faire si un tel changement brutal recommençait."
+      },
+      "clinical_focus": "Le delirium n’est ni une démence ni la vieillesse",
+      "diagnostic_stage": "known"
     }
   ]
 }

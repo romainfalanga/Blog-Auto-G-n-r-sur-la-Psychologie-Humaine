@@ -1049,6 +1049,110 @@
         "next": "À l’atelier, les finitions approchent : il reste à percer les fixations et à commander la quincaillerie, et Bilal doit décider quelles tâches il garde."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "bilal-deleguer-tache-sans-perdre-sa-place-quincaillerie",
+      "title": "Déléguer une tâche sans perdre sa place de sculpteur",
+      "description": "Deux commandes identiques de vis, des fixations à percer : Martine propose de s’en charger. Bilal craint qu’on finisse par lui retirer le banc.",
+      "context": "à l’atelier pendant les finitions",
+      "topics": [
+        "Trouble amnésique",
+        "délégation",
+        "évolution incertaine"
+      ],
+      "clinical_focus": "Déléguer une tâche sans perdre sa place",
+      "clinical_intro": "Selon sa cause, un trouble amnésique peut rester relativement stable, progresser ou parfois s’améliorer : aucun avenir précis ne se lit dans un oubli ou une réussite. La réadaptation aide à analyser les exigences du travail et à répartir les tâches. Bilal, dont le diagnostic est établi, choisit lui-même ce qu’il confie, sans renoncer à son rôle.",
+      "opening": "Mardi, quinze heures. Onze semaines après la livraison du chêne, le banc est presque là : trois mètres d’assise en chêne huilé sur les tréteaux, les montants du dossier rainurés. Les six lattes sculptées par les habitants, la carpe de Karim comme le soleil de Lucie, sont reparties chez leurs auteurs pour une dernière couche d’huile ; on les glissera dans les rainures au jardin, le jour de la pose. Il reste les accoudoirs à sculpter, les fixations au sol à percer dans les pieds, et la quincaillerie à commander : tire-fonds inox, platines, chevilles pour la dalle du jardin.\n\nSur l’étagère du fond, deux boîtes de tire-fonds identiques, même référence, même étiquette de chez Brunet, la quincaillerie du boulevard Béranger. Bilal les a commandées toutes les deux le mois dernier, à neuf jours d’écart. Il ne se souvient d’aucune des deux commandes.\n\nMartine Roussel, son associée ébéniste, pose les bons de commande sur l’établi. « Je peux m’occuper de la quincaillerie. Je fais les devis de toute façon. Et le perçage des pieds, Jonas peut le faire, il en a besoin pour son diplôme. »\n\nJonas, l’apprenti menuisier du projet, lève la tête de sa ponceuse. Il ne dit rien.\n\nBilal ne répond pas tout de suite. Il caresse le bord d’un accoudoir encore brut. « Et après, ce sera quoi ? Les vis aujourd’hui, le perçage demain, et dans un mois vous me laisserez balayer les copeaux. C’est mon banc, Martine. »\n\nElle ne recule pas. « C’est notre banc, et c’est toi qui l’as dessiné. Je ne te retire rien. Je te propose deux tâches, pas tout le reste. »\n\nBilal sort le carnet rouge. À la page du rendez-vous de la semaine dernière avec la docteure Vasseur, la neuropsychologue de son équipe, il a noté de sa main : « Pas d’avenir écrit dans un oubli. On ajuste le travail, pas la personne. » Il relit la phrase deux fois. Il a peur qu’on décide pour lui, et peur aussi d’une troisième boîte de vis.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un avenir qu’on ne lit pas dans une erreur",
+          "text": "L’évolution d’un trouble amnésique dépend de sa cause : les symptômes peuvent rester relativement stables, progresser, ou parfois s’améliorer selon les cas et les traitements disponibles. Une erreur isolée, comme une réussite, ne permet pas de prédire la suite ; seule l’équipe de soins peut situer l’évolution, avec le temps et les évaluations. Les recommandations de réadaptation proposent d’analyser les exigences du métier, d’adapter les stratégies et d’aménager les tâches. Pour Bilal, deux commandes en double ne disent rien de l’avenir : elles montrent que la quincaillerie repose sur des informations nouvelles et répétées, là où la sculpture repose sur son savoir. Déléguer, dans ce cadre, est un choix d’organisation et non une perte de place."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question de déléguer se pose-t-elle au travail ?",
+          "points": [
+            {
+              "heading": "Des tâches qui reposent sur l’information nouvelle",
+              "text": "Certaines tâches exigent de retenir ce qu’on a déjà fait ou demandé, plus que de savoir faire.",
+              "examples": [
+                "Bilal commande deux fois les mêmes tire-fonds à neuf jours d’écart.",
+                "Il ne se souvient d’aucune des deux commandes passées chez Brunet."
+              ]
+            },
+            {
+              "heading": "La peur d’un retrait progressif",
+              "text": "Une proposition d’aide peut être vécue comme le premier pas d’une mise à l’écart.",
+              "examples": [
+                "Bilal imagine qu’on finira par ne lui laisser que les copeaux à balayer.",
+                "Il répond « c’est mon banc » avant même de discuter les deux tâches proposées."
+              ]
+            },
+            {
+              "heading": "Une incertitude sur l’avenir qui pèse sur le choix",
+              "text": "Ne pas savoir comment le trouble évoluera peut rendre chaque délégation définitive en apparence.",
+              "examples": [
+                "Il relit la phrase notée après le rendez-vous avec la docteure Vasseur.",
+                "Il redoute à la fois de perdre sa place et d’accumuler les erreurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour déléguer en restant maître du projet",
+          "points": [
+            {
+              "heading": "Distinguer les tâches selon ce qu’elles demandent",
+              "objective": "Voir quelles tâches dépendent surtout d’informations nouvelles.",
+              "exercise": [
+                "Lister les tâches restantes avec l’associée ou l’équipe.",
+                "Marquer celles qui exigent de suivre des commandes, des délais ou des références.",
+                "Marquer celles qui reposent sur le savoir-faire et le jugement."
+              ],
+              "benefit": "La répartition peut s’appuyer sur la nature des tâches plutôt que sur la peur de mal faire."
+            },
+            {
+              "heading": "Choisir soi-même ce qu’on délègue",
+              "objective": "Garder la décision, même quand on confie l’exécution.",
+              "exercise": [
+                "Proposer soi-même les tâches à confier, parmi celles marquées.",
+                "Nommer celles que l’on garde et pourquoi elles comptent.",
+                "Prévoir un moment pour revoir ce choix avec l’ergothérapeute."
+              ],
+              "benefit": "La délégation reste un choix révisable, et non une décision prise à la place de la personne."
+            },
+            {
+              "heading": "Écrire qui fait quoi",
+              "objective": "Rendre la répartition visible et vérifiable par tous.",
+              "exercise": [
+                "Inscrire chaque tâche avec le nom de la personne et une date.",
+                "Placer cette répartition sur le support commun de l’atelier.",
+                "Cocher chaque tâche terminée en présence de celui qui l’a faite."
+              ],
+              "benefit": "Chacun peut retrouver sa part sans dépendre du souvenir des autres."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les noms à côté des tâches",
+      "ending": "Bilal referme le carnet. « D’accord. Mais c’est moi qui écris. » Il va à l’ardoise, efface une ligne terminée, et écrit en dessous : « Quincaillerie : Martine, commande jeudi. Perçage des pieds : Jonas, vendredi, avec moi à côté. Accoudoirs : Bilal. Assemblage final : Bilal. » Il ajoute, après réflexion : « Transport : camionnette de Nordine. » Il se tourne vers Jonas. « Tu perceras, mais je règle la profondeur avec toi et je regarde. Si je dis stop, tu t’arrêtes. » Jonas sourit pour la première fois de l’après-midi. Martine rapporte le lendemain la boîte en double chez Brunet ; le vendeur la reprend. Jeudi, elle passe une seule commande et colle le bon sous l’ardoise. Vendredi, Jonas perce les quatre pieds pendant que Bilal tient l’équerre et compte à voix haute. Le soir, Bilal commence le premier accoudoir, une feuille de chêne qui s’enroule. Il ne sait pas ce qu’il pourra encore faire seul l’an prochain. Ce soir, il sculpte.",
+      "conclusion": "Selon la cause, l’évolution d’un trouble amnésique reste incertaine, et aucun oubli ne l’écrit à l’avance. En choisissant lui-même ce qu’il délègue et en l’écrivant sur l’ardoise, Bilal confie la quincaillerie et le perçage tout en gardant la sculpture et l’assemblage du banc.",
+      "mirror": [
+        "Martine a proposé deux tâches précises, sans prendre tout le reste, et a laissé Bilal écrire lui-même la répartition. Un proche ou un collègue peut faire de même : « Je peux prendre ça, si tu veux. Qu’est-ce que tu gardes ? » Il évite de décider seul de ce que l’autre ne peut plus faire. Il peut aussi dire ses propres limites et rappeler que la répartition se revoit, avec la personne et, si elle le souhaite, avec son équipe de réadaptation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal écrit sur l’ardoise la répartition : commande de quincaillerie à Martine (une seule commande, jeudi), perçage des pieds à Jonas le vendredi sous sa supervision, sculpture des accoudoirs et assemblage final pour lui, transport par la camionnette de Nordine.",
+        "next": "Le jour de la pose au jardin, chaque participant devra retrouver seul l’ordre des étapes et des décisions, y compris ceux qui ont manqué la dernière réunion."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }
