@@ -1,0 +1,166 @@
+{
+  "character_id": "stephane",
+  "type": "origine",
+  "auditor": "audit_o8",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Né le 25 avril 1980 (45 ans jusqu'en avril 2026, 46 ensuite ; les âges cités aux ép. 1, 5, 9 et 11 sont exacts), commercial grands comptes dans une multinationale. Marié à Sandrine, père de Maxime (15 ans). Grand frère Philippe, comparé à lui depuis l'enfance. Parents vieillissants dans un pavillon de banlieue parisienne. Collègue principal : Marc ; supérieur : le directeur commercial.",
+    "arc_summary": "Stéphane passe d'une recherche d'approbation au travail (ép. 1) à une série de jugements sociaux : se croire observé, réprouver Marc, avoir honte, idéaliser Antoine, juger Marc trop vite. Le dossier Lemoine sert de fil professionnel : conflit avec Marc (ép. 6), plan défendu par effet IKEA (ép. 7), perte du contrat (ép. 9). Côté famille, il apprend à répondre honnêtement à sa mère, à proposer une sortie à Maxime et à quitter la maison de ses parents à l'heure prévue.",
+    "arc_issues": [
+      "Le parcours compte onze épisodes ; il manque un douzième épisode qui referme les fils ouverts (Philippe, jamais présent en scène ; la suite professionnelle après Lemoine).",
+      "Les liens entre épisodes passent souvent par un rappel abstrait ou méta (« les derniers articles qu'il a lus », « lors du précédent chapitre ») plutôt que par un fait de sa vie.",
+      "Plusieurs titres de fonction ou de relation varient : « cadre dirigeant » (ép. 9) alors qu'il est commercial grands comptes, « sa compagne Sandrine » (ép. 11) alors qu'ils sont mariés, « séminaire » (ép. 5) pour le cocktail de l'ép. 3, « profil Instagram » (ép. 10) pour un « fil d'actualité professionnel » (ép. 5).",
+      "Le Marc qui fait une remarque répugnante sur un client (ép. 3) devient un partenaire de dossier sans que ce différend soit repris (ép. 6, 7, 10)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail.md",
+      "focus": "recherche d'approbation au travail : accepter une tâche avant de regarder sa charge",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Présentation complète (âge, métier, Sandrine, Maxime, Philippe), enjeu concret (compte rendu pour le lendemain contre rendez-vous de Maxime à 18 h) et fin ouverte mais nette (« Il ne sait toujours pas qui prendra le compte rendu »).",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "le rendez-vous de Maxime, noté à dix-huit heures", "problem": "Le lecteur ne sait pas de quel rendez-vous il s'agit (médecin, match, école). L'enjeu personnel reste abstrait.", "fix": "Préciser une fois : « le match de Maxime, noté à dix-huit heures »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il aperçoit son collègue Marc, qui a suivi la négociation de bout en bout", "problem": "La négociation n'est pas identifiée ; on ne sait pas si c'est le deal félicité au début.", "fix": "« qui a suivi avec lui la négociation du compte rendu client »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-en-societe.md",
+      "focus": "effet spotlight après une hésitation sur un tarif pendant un cocktail professionnel",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'hésitation sur le tarif illustre bien le concept, mais le lieu n'est jamais nommé (badges, cocktail, « carnet de visite »). L'invitée et la directrice marketing semblent être deux personnes puis se confondent. Le retour contredit les techniques.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Il tente l'expérience de laisser passer une phrase moins élégante et note la réaction.", "problem": "La technique 1 précise qu'« Il ne provoque ni erreur ni malaise pour tester les autres » et qu'elle « ne demande aucune série d'expositions graduées ». Le retour présente pourtant un « test comportemental » et la conclusion parle d'« expériences graduées ».", "fix": "Supprimer le « test comportemental » et la mention des « expériences graduées » ; garder la conversation avec la directrice marketing comme seul essai."},
+        {"severity": "majeur", "type": "continuite", "quote": "Il a utilisé l'astuce d'anticipation cognitive consistant à lister les pires scénarios et leur probabilité réelle.", "problem": "Cette technique n'apparaît pas à l'ép. 1, qui propose l'intervalle avant de répondre, la note de priorités et la demande d'arbitrage.", "fix": "« Depuis la réunion où il avait demandé quel dossier décaler, il prend un temps avant de répondre. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Le bruit des verres, des rires rapprochés et le cliquetis discret des badges remplissent la salle.", "problem": "Le type d'événement (salon, soirée clients, cocktail de networking) n'est pas dit. On ne sait pas non plus si « l'invitée » et « la directrice marketing qui lui a laissé sa carte » sont la même personne.", "fix": "Nommer l'événement (« au cocktail de networking organisé par un client ») et écrire « l'invitée, directrice marketing chez… »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il raconte cette petite expérience et comment Marc a ri d'une remarque anodine.", "problem": "Marc tenait une autre table et n'a pas assisté à la conversation ; ce rire arrive sans scène.", "fix": "Supprimer la mention de Marc ou montrer le moment où il rejoint Stéphane."},
+        {"severity": "mineur", "type": "trame", "quote": "Lors d'une pause, un collègue reçoit des compliments ; Stéphane interprète les éclats de rire", "problem": "Les manifestations 2 et 3 donnent des exemples génériques (pause, dîner professionnel) sans lien avec la scène, ni liste d'exemples.", "fix": "Prendre deux exemples dans la soirée : il cherche Marc pour avoir son avis, il répète une anecdote à l'invitée au lieu d'écouter."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales.md",
+      "focus": "dégoût moral face à la remarque d'un collègue sur un client",
+      "structure": {"scene": "faible", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le lecteur ne sait jamais ce que Marc a dit. La remarque qui déclenche tout le dégoût reste muette, le cocktail n'est nommé que dans les manifestations, et la mise au point du lendemain porte sur des « points éthiques » non précisés.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Marc attend que le serveur se soit éloigné pour répéter la remarque qu’il a faite sur un client.", "problem": "Le contenu de la remarque n'est jamais donné. Le lecteur ne peut pas comprendre pourquoi Stéphane éprouve du dégoût, ni si c'est une moquerie ou une pratique douteuse (« Le récit de Marc sur la manière d'obtenir un contrat » n'apparaît que dans les manifestations).", "fix": "Écrire la remarque (par exemple, Marc raconte en riant qu'il a laissé un client signer en lui cachant une clause de pénalité) et situer la scène au cocktail dès la première phrase."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Il s'exprime avec clarté sur les points éthiques qui le dérangent, sans passer par les détours diplomatiques habituels.", "problem": "Le retour reste abstrait : on ne sait ni ce que Stéphane dit, ni ce que Marc répond, ni ce qui est décidé sur le dossier.", "fix": "Donner sa phrase (« Je ne veux pas qu'on reprenne cette clause sans l'expliquer au client ») et la réponse de Marc."},
+        {"severity": "mineur", "type": "trame", "quote": "Cette distinction ne veut pas dire qu'une personne ou sa proximité constitue une contamination.", "problem": "La définition ne revient pas à la scène pour dire en quoi la réaction de Stéphane relève du domaine moral.", "fix": "Ajouter une phrase qui relie le domaine moral à la remarque de Marc sur le client."},
+        {"severity": "mineur", "type": "continuite", "quote": "il ne se dirige pas immédiatement vers son verre de whisky habituel", "problem": "Une habitude de boire le soir apparaît ici sans suite (l'ép. 9 évoque l'alcool de façon générale). Ce détail est lourd pour être lâché sans contexte.", "fix": "Supprimer le détail ou le reprendre dans un épisode ultérieur."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe.md",
+      "focus": "honte liée à l'imperfection : avouer qu'un tarif manque au dîner client",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le tarif manquant et la phrase « je préfère vérifier » sont concrets et bien liés à la honte. L'ouverture renvoie toutefois aux dates de publication des articles, et le retour enchaîne deux « lendemain » dans un ordre confus.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Il se remémore les derniers articles qu'il a lus et les exercices qu'il a commencés depuis le 9 mars et le 18 mars", "problem": "Le personnage se souvient des articles de son propre parcours et de leurs dates de publication : cela casse la fiction et n'apprend rien au lecteur.", "fix": "« Il repense à la réunion où le directeur avait félicité un autre, puis au cocktail où il avait cru que tous avaient remarqué son hésitation. »"},
+        {"severity": "majeur", "type": "comprehension", "quote": "Le lendemain, autour du déjeuner avec Sandrine, il raconte l'anecdote qu'il a choisie de partager lors d'une réunion d'équipe", "problem": "Le paragraphe suivant commence aussi par « Le lendemain » ; on ne sait pas si la réunion d'équipe a eu lieu avant ce déjeuner, ni pourquoi Maxime « passe » un jour de semaine. L'envoi du tarif « convenu » n'est jamais montré : Stéphane n'a pas eu le bureau au téléphone.", "fix": "Ordonner : le soir, dîner ; le lendemain matin, appel au bureau et courriel au client avec le tarif confirmé ; le soir, récit à Sandrine."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Plus tard, il utilise la reformulation bienveillante quand une remarque d'un collègue évoque le succès de Philippe.", "problem": "On ne comprend pas pourquoi un collègue parlerait de son frère.", "fix": "Remplacer par une pensée de Stéphane sur Philippe pendant le dîner."},
+        {"severity": "mineur", "type": "trame", "quote": "il a utilisé ses compétences narratives pour transformer une imperfection en capital de confiance", "problem": "La technique 3 met en garde contre un récit « destiné à obtenir de la gratitude ou à garantir la confiance » ; le retour en fait pourtant un gain stratégique.", "fix": "« il a raconté l'erreur sans chercher à s'en servir »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux.md",
+      "focus": "effet de halo devant la publication d'un entrepreneur admiré",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La photo d'Antoine devant la baie vitrée et le glissement vers « une relation idéale avec ses enfants » illustrent bien le halo. La fin, avec la manette retrouvée et le jeu de Maxime, est concrète.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Cette nouvelle clarté lui rappelle son récent séminaire où il avait ressenti un dégoût profond pour les méthodes de Marc.", "problem": "À l'ép. 3, la scène se passe dans un cocktail, pas dans un séminaire. Ce paragraphe de rappel n'ajoute rien à la scène.", "fix": "Supprimer le paragraphe ou écrire « le cocktail où la remarque de Marc l'avait écœuré »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il lui dit qu’Antoine a l’air à l’aise en entretien", "problem": "Rien n'indique que la publication montre un entretien : la scène décrit une photo devant une baie vitrée.", "fix": "Préciser que la publication relaie une interview vidéo d'Antoine, ou dire « à l'aise devant l'objectif »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit.md",
+      "focus": "biais d'attribution fondamentale envers un collègue en retard sur un contrat",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Épisode clair : le dossier Lemoine, la panne du serveur et la vérification de l'heure du dernier envoi montrent le passage de l'étiquette à la situation. La fin, avec la deuxième ligne de l'exercice de Maxime, reprend le même mouvement à la maison.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "ignorant totalement que le serveur de l'entreprise a subi une panne majeure tout le week-end", "problem": "Le narrateur donne la cause avant que Stéphane la découvre, ce qui affaiblit la découverte du retour. Le mot « serveur » arrive aussi après le serveur de restaurant de l'ép. 3.", "fix": "« ignorant encore le message de l'équipe informatique sur la panne du serveur de fichiers ce week-end »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie.md",
+      "focus": "effet IKEA : surévaluer son plan Lemoine parce qu'il l'a construit seul",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "absent", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le retour tourne autour des « corrections de Marc », de « la date du rappel » et de l'appel au service juridique, qui n'apparaissent pas dans la scène d'ouverture, où seul le directeur interroge les coûts. Le lecteur doit reconstituer une réunion qu'il n'a pas vue.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Stéphane affiche côte à côte son plan de reprise pour Lemoine et les corrections de Marc.", "problem": "La scène montre le directeur qui questionne « la viabilité de certains coûts » ; Marc n'y propose rien. Le retour affirme pourtant qu'« il n'a pas répondu à la question de Marc sur la date du rappel ».", "fix": "Ajouter à l'ouverture la proposition de Marc d'avancer l'appel au service juridique et la réplique de Stéphane sur ses soirées de travail."},
+        {"severity": "majeur", "type": "trame", "quote": "Si les désaccords se répètent au travail, Stéphane peut en parler à un collègue ou demander un retour sur sa façon de décider.", "problem": "La conclusion se limite au renvoi vers un tiers ; elle ne résume pas ce que l'épisode montre ni ce que la nouvelle version du plan change pour Lemoine.", "fix": "Ajouter deux phrases : tenir à ce qu'on a construit est compréhensible ; en acceptant une version 2, Stéphane prépare la visite chez Lemoine avec Marc."},
+        {"severity": "mineur", "type": "continuite", "quote": "délaissant les parties de golf dominicales", "problem": "Le golf apparaît ici sans avoir été présenté. Il revient ensuite à l'ép. 9 (club, practice) : c'est cohérent, mais à introduire comme une habitude.", "fix": "Garder et ajouter « au club où il joue chaque dimanche »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents.md",
+      "focus": "rationalisation avec ses parents : invoquer le travail pour ne pas dire qu'il n'a pas organisé une sortie avec Maxime",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La question de la mère (« s'il verra Maxime ce week-end ») et la réponse « Je ne lui ai pas encore demandé » sont parlantes. Mais un « séjour avec Philippe » sert d'exemple principal sans avoir jamais été raconté, et l'ouverture répète deux fois la même phrase.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Stéphane attribue son refus d'un séjour avec Philippe à son planning.", "problem": "Ce séjour et ce refus n'existent ni dans la scène ni dans les épisodes précédents ; la définition s'appuie sur un événement inconnu du lecteur. La manifestation 3 le reprend.", "fix": "Introduire dans la scène la proposition de la mère (« Philippe vous invite tous en Bretagne en juin ») et la réponse de Stéphane sur son planning."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il protège son image auprès d'eux sans se rendre compte qu'il édulcore la vérité : il affirme que la charge est maîtrisée alors qu'un rapport reste à moitié fini.", "problem": "Cette phrase répète mot pour mot l'information de la phrase précédente.", "fix": "Supprimer la seconde phrase."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Aujourd'hui, le carillon de la porte d'entrée grince quand Stéphane passe le portail des parents.", "problem": "Image confuse (carillon de porte, portail) et lieu non situé ; à l'ép. 11, les parents vivent en banlieue parisienne et Stéphane s'y rend en train.", "fix": "« Le portail du pavillon de ses parents, en banlieue, grince quand Stéphane le pousse. »"},
+        {"severity": "mineur", "type": "trame", "quote": "il convertit son besoin de contrôle en protocole d'entraînement émotionnel", "problem": "Le paragraphe sur le « petit contrat » avec Sandrine est abstrait et ne montre pas d'échange.", "fix": "Donner la phrase que Stéphane montre à Sandrine et sa réponse."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie.md",
+      "focus": "réaction de régression (appel plaintif à sa mère) après la perte du contrat Lemoine",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La voiture devant le club de golf, la voix qui devient plaintive et l'appel à la mère plutôt qu'à Sandrine sont forts. Le retour, trois jours plus tard, est lisible, mais une phrase est confuse et la position de Stéphane dans la pièce se contredit.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Il a quarante-six ans, il est cadre dirigeant", "problem": "Stéphane est « commercial grands comptes » selon sa fiche et les ép. 1, 5 et 11. « Cadre dirigeant » change son statut.", "fix": "« il est commercial grands comptes depuis vingt ans »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Cette sensation de honte, qu'il avait pourtant identifiée comme une stratégie de défense lors de sa dernière présentation client", "problem": "Phrase incompréhensible : la honte n'est pas une stratégie de défense, et l'ép. 4 se passe pendant un dîner, pas lors d'une présentation.", "fix": "« Cette honte, qu'il avait appris à reconnaître au dîner client où un tarif lui manquait »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il reste près de la porte.", "problem": "Le paragraphe précédent le place « assis dans le salon, près du bureau de Maxime ». « Il a également préparé deux explications qu'elle ne lui a pas demandées » laisse aussi le lecteur deviner qu'il s'agit de sa mère.", "fix": "Supprimer « Il reste près de la porte » et écrire « deux explications que sa mère ne lui a pas demandées »."},
+        {"severity": "mineur", "type": "trame", "quote": "C'est dans ces zones d'ombre que se construit la véritable résilience, celle qui ne craint plus le jugement des autres parce qu'elle a trouvé sa propre source de validation interne.", "problem": "Cette formule générale contredit la prudence de l'épisode (« Ces réactions ne permettent pas à elles seules de déterminer leur origine »).", "fix": "Supprimer ce paragraphe."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition.md",
+      "focus": "comparaison sociale ascendante injuste (salle de sport, collègues, match de Maxime)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La salle de musculation et l'homme du banc voisin forment une scène lisible. La fin avec Maxime et la passe à montrer est réussie. Le paragraphe central du retour résume des techniques au lieu de montrer une action.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Au travail, face à Marc et à un nouveau dossier, il applique le miroir contextuel : il décrit sobrement les faits, propose une action commune et s'abstient de la lecture hostile", "problem": "Le paragraphe est procédural : on ne sait pas quel dossier, ce qui est dit ni ce que Marc répond. « Il relit sa fiche de preuves et annonce une compétence » est tout aussi vague.", "fix": "Montrer un échange bref : le dossier nommé, une phrase de Stéphane sur les chiffres et la réponse de Marc."},
+        {"severity": "mineur", "type": "continuite", "quote": "face au profil Instagram d'Antoine", "problem": "À l'ép. 5, Antoine apparaît sur le « fil d'actualité professionnel » de Stéphane, pas sur Instagram.", "fix": "« face à la publication d'Antoine sur son fil professionnel »."},
+        {"severity": "mineur", "type": "trame", "quote": "Il peut interpréter un compliment porté à un pair comme une dévalorisation implicite, ce qui alimente des pensées suggérant qu'on essaie de le placer en second plan.", "problem": "La manifestation 3 n'a qu'un exemple générique au lieu de deux exemples tirés de la scène.", "fix": "Ajouter deux exemples : le collègue félicité le 9 mars, le dossier partagé avec Marc."},
+        {"severity": "mineur", "type": "trame", "quote": "Si vous vous reconnaissez dans ces comparaisons qui altèrent le plaisir et la confiance", "problem": "La conclusion ne résume pas l'épisode et ne situe pas son dénouement dans le parcours avant les conseils.", "fix": "Ajouter une phrase sur ce que Stéphane a fait (noter un réglage plutôt que se classer, écouter Maxime)."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes.md",
+      "focus": "loyauté familiale qui fait excuser des remarques blessantes (ancien angle « syndrome de Stockholm », recadré)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La visite, la pique sur Philippe, la facture sans justificatif et le train de seize heures donnent une scène claire avec une décision nette. Seuls quelques raccords sont faux.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "face aux critiques de sa compagne Sandrine", "problem": "Sandrine est son épouse (fiche : « Marié à sandrine »).", "fix": "« de sa femme Sandrine »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "À la gare, Stéphane hésite entre monter dans le train et revenir finir le classeur.", "problem": "Le paragraphe précédent dit qu'il a aidé son père à « refermer le classeur de factures ». Le dossier n'est plus à finir.", "fix": "« revenir régler la facture sans justificatif »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "tentait de lui ouvrir les yeux sur l'emprise qu'ils exercent encore sur lui", "problem": "Le mot « emprise » est lourd, il n'est jamais étayé et l'épisode le relativise ensuite. Sandrine n'est pas montrée.", "fix": "« tentait de lui dire combien il revenait épuisé de ces visites »."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Onze épisodes : il en manque un, à placer en douzième position puisque l'arc reste ouvert après la visite aux parents. Les concepts déjà traités sont l'approbation, le spotlight, le dégoût, la honte et l'imperfection, le halo, l'attribution fondamentale, l'effet IKEA, la rationalisation, la régression, la comparaison et la loyauté familiale. Une seule émotion (dégoût) figure dans la catégorie « Comprendre et maîtriser ses émotions ». Proposition : une émotion, la FIERTÉ (accepter une réussite sans attendre de validation). Scène possible : Stéphane signe un nouveau compte après Lemoine, avec Marc. Le directeur ne dit rien en réunion ; le soir, il raconte la signature à Maxime avant d'en parler à ses parents, puis reçoit l'appel de Philippe, enfin présent en scène. Cet épisode boucle l'ép. 1 (« est-ce que j'ai fait assez ? ») sans répéter la comparaison de l'ép. 10. Alternative : l'ENVIE ou la jalousie fraternelle lors d'une fête de famille avec Philippe, en la distinguant nettement de la comparaison de l'ép. 10.",
+  "verdict": "corrections_majeures"
+}

@@ -1,0 +1,196 @@
+{
+  "character_id": "camille",
+  "type": "origine",
+  "auditor": "audit_o2",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Camille, née le 5 mars 1984 (42 ans pendant le parcours, mars-mai 2026), infirmière en cardiologie à l'hôpital, à qui l'on propose un poste de cadre de santé. Mariée à David, mère de Léo (10 ans) et d'Emma (7 ans). Mère exigeante, Françoise, elle-même infirmière d'après les ép. 5 et 6. Collègues : Nathalie (collègue et amie), Suzanne, Julie.",
+    "arc_summary": "Après une garde où elle se sent « vide », Camille apprend à accepter des relais (David, Nathalie) et à reconnaître ses pièges de pensée face aux enfants (toux de Léo, cris, lait renversé) et à sa propre santé (gêne thoracique évaluée). Parallèlement, une proposition de poste de cadre traverse la série : elle passe d'une enveloppe qui l'inquiète (ép. 4) à un mail de confirmation et à des questions envoyées à la direction (ép. 13). La relation avec Françoise sert de fil d'explication, avec un épisode centré sur un appel (ép. 10). La progression est cohérente, mais les fins se ressemblent beaucoup (accepter que David ou une collègue prenne le relais).",
+    "arc_issues": [
+      "Le post-it « vide » de l'ép. 1 est rappelé dans presque tous les épisodes, à un endroit différent à chaque fois : « coin de papier » au poste (ép. 1), « post-it… dans le box de cardiologie » puis « post-it vide collé sur le bord du moniteur » (ép. 2), « post-it collé sur son bureau de cardiologie » (ép. 10). Il faut fixer un seul objet et un seul lieu, et alléger ces rappels.",
+      "Les ouvertures rappellent longuement les épisodes précédents (« depuis son dernier article », « chapitre 4 », dates du 18 mars, du 5 avril, du 19 avril, du 27 avril). Cela retarde la scène et casse parfois la fiction.",
+      "Plusieurs retours ont une chronologie qui revient en arrière après la fin : départ en voiture puis retour au poste (ép. 5), arrivée à la maison puis badge repris à l'hôpital (ép. 6), soirée puis lacets du matin (ép. 8), départ de la maison puis torchon (ép. 9).",
+      "La même résolution, « accepter qu'un autre prenne le relais », conclut les ép. 1, 5, 7, 9 et 11. Les aspects psychologiques changent, mais l'action finale est presque toujours identique.",
+      "La décision sur le poste de cadre (ép. 4 et 13) se répète : même casier, mêmes mercredis comptés, même calendrier ouvert avec David, et le rendez-vous annoncé à l'ép. 4 n'est jamais raconté.",
+      "Une thérapeute apparaît à l'ép. 10 sans avoir jamais été mentionnée. On ne sait pas depuis quand Camille consulte ni pourquoi.",
+      "Le parcours compte 13 épisodes au lieu de 12."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie.md",
+      "focus": "fatigue de compassion : sentiment de vide et de distance après une garde éprouvante",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La scène est forte : le stéthoscope sur les genoux, le patient qui attend une réponse, le mot « vide ». Le retour mélange les lieux (« rentre chez elle » puis « Dans le vestiaire », puis le dîner, puis de nouveau le vestiaire) et cite des acquis que le personnage n'a pas encore (exigences élevées, outils pour apaiser ses pensées). La famille qui attend dans la scène d'ouverture disparaît.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "David lui écrit que la douche des enfants est déjà faite. Camille range son badge et lui demande s’il reste de quoi dîner.", "problem": "Ce paragraphe final la replace au vestiaire alors que le retour l'a déjà montrée à table avec Emma puis « la semaine suivante ». La chronologie revient en arrière.", "fix": "Placer cette scène du vestiaire juste après le rituel du badge, avant le repas, et supprimer le paragraphe de synthèse « La semaine suivante… »."},
+        {"severity": "majeur", "type": "continuite", "quote": "Ce mot fait écho à ce qu'elle a appris sur ses exigences élevées : accepter que faire de son mieux est déjà bien assez.", "problem": "C'est le premier épisode : Camille n'a encore rien appris. Plus loin, « les outils appris pour apaiser ses pensées » renvoie à la catastrophisation (ép. 3), qui vient plus tard.", "fix": "Supprimer ces deux renvois ou les rattacher à un fait de la scène (par exemple la remarque de Nathalie)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Aujourd’hui, elle hésite à passer le relais alors qu’une famille attend de lui parler.", "problem": "« Lui » est ambigu (Camille ou le patient ?). Le retour ne dit pas si elle a vu la famille ou passé le relais.", "fix": "Écrire « attend de parler avec elle » et ajouter au retour une phrase sur la décision prise pour cette famille."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes.md",
+      "focus": "sentiment d'imposture après des félicitations de l'équipe",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le geste de descendre à la ligne suivante pour vérifier que les collègues sont cités montre très bien la minimisation. Mais on ne sait jamais ce qu'a fait Camille (« la procédure du jour »). Suzanne n'est présentée qu'au retour. Camille répond deux fois à Suzanne, avec des contenus différents.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "depuis son dernier article, elle a nommé sa fatigue de compassion", "problem": "Le personnage « a un article » : c'est un renvoi éditorial dans la fiction.", "fix": "Remplacer par « depuis sa garde du 15 mars »."},
+        {"severity": "majeur", "type": "comprehension", "quote": "On la félicite pour son rôle dans la procédure du jour.", "problem": "Le succès n'est jamais décrit, alors que tout l'épisode porte sur la reconnaissance de sa contribution. Le lecteur ne sait pas ce qu'elle a coordonné.", "fix": "Ajouter une phrase concrète et non identifiante, par exemple : elle a réparti les tâches de l'équipe pendant une prise en charge urgente en salle de cardiologie."},
+        {"severity": "majeur", "type": "trame", "quote": "Camille remercie Suzanne et lui dit ce qu’elle a repéré pendant le soin.", "problem": "Au début du retour, elle a déjà répondu « merci » à Suzanne « sans ajouter d'explication ». La dernière réponse contredit la première.", "fix": "Garder une seule réponse : soit le simple « merci », soit le merci suivi de la tâche nommée."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Le message d’équipe cite Camille dans la deuxième ligne. Elle descend directement à la troisième pour vérifier si Suzanne et les autres y figurent.", "problem": "Suzanne est nommée sans être présentée ; on ne l'apprend infirmière de nuit qu'au retour.", "fix": "Écrire « si Suzanne, l'infirmière de nuit qui l'a secondée, et les autres y figurent »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/catastrophisation-avec-enfants.md",
+      "focus": "catastrophisation : la toux de Léo devient aussitôt une hospitalisation imaginée",
+      "structure": {"scene": "faible", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'idée est claire : une toux banale fait surgir l'image d'un patient qui cherche son souffle. Mais le moment de la journée change dans la scène (four du soir, puis « lunchboxes pour l'école », puis « cette après-midi »), David « se rapproche » puis « passe la tête dans la cuisine ». La conduite finale pour la toux reste floue.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Aujourd'hui, en préparant les lunchboxes pour l'école, elle sent les scénarios se multiplier.", "problem": "La scène s'ouvre sur David qui éteint le four et sur le repas ; les lunchboxes et « cette après-midi » situent la scène le matin. Le lecteur ne sait plus quand on est.", "fix": "Choisir un moment (par exemple le soir, préparation des lunchboxes du lendemain) et remplacer « cette après-midi » par « demain »."},
+        {"severity": "majeur", "type": "trame", "quote": "Le journal des preuves, qu'elle utilise pour la première fois, lui montre que la plupart des scénarios catastrophiques ne surviennent pas", "problem": "Une première utilisation ne peut pas montrer une tendance. La phrase remplace l'action par un bilan. On ignore aussi si Camille a demandé un avis médical pour Léo.", "fix": "Remplacer par une décision concrète : « Ils décident d'appeler le médecin s'il a de la fièvre ou du mal à respirer ; pour l'instant, Léo finit son histoire. »"},
+        {"severity": "mineur", "type": "continuite", "quote": "Elle se souvient de la main de Nathalie sur son épaule au box de cardiologie ; ce jour-là, elle avait refusé l'aide par automatisme.", "problem": "À l'ép. 1, l'aide refusée est celle de David (la douche des enfants). Nathalie avait seulement posé la main sur son épaule.", "fix": "Écrire « ce jour-là, elle avait refusé l'aide de David par automatisme »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Elle utilise aussi une des stratégies qu'elle a adoptées après le 18 mars", "problem": "Renvoi par date de publication.", "fix": "Remplacer par « depuis les félicitations de l'équipe »."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-face-decision-importante-camille.md",
+      "focus": "biais de négativité face à la proposition de poste de cadre",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'enveloppe ressortie du sac avant même de fermer le casier pose clairement l'enjeu. La phrase dite à Nathalie (« Ça m'intéresse ») et les trois questions écrites au dos de l'enveloppe donnent une fin nette.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "celui qu'elle utilise pour noter ses gratitudes depuis qu'elle a compris l'importance de prendre soin d'elle", "problem": "Aucun épisode n'a montré de carnet de gratitude (l'ép. 2 parle d'un journal de preuves).", "fix": "Écrire « le carnet où elle note ses preuves depuis les félicitations de mars »."},
+        {"severity": "mineur", "type": "trame", "quote": "Le biais de négativité face à une décision importante perd de son emprise alors que la liste des joies possibles s'allonge sous sa plume.", "problem": "La technique demande de ne pas compter les points (un bénéfice, un risque, une question). La phrase contredit l'exercice et ressemble à une formule de référencement.", "fix": "Remplacer par « Une seule ligne de bénéfice suffit à lui rappeler pourquoi elle a gardé l'enveloppe »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Camille pense surtout à un conflit possible avec une collègue.", "problem": "Ce conflit n'apparaît pas dans la scène d'ouverture, qui parle des nuits et de la place auprès des patients.", "fix": "Ajouter une phrase dans la scène sur la crainte d'un conflit avec l'équipe ou relier l'exemple aux nuits."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-maladie.md",
+      "focus": "sacrifice de soi : ne pas prendre sa pause, ne pas passer la main à la relève",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La bouteille encore pleine et le quatrième regard à la perfusion de Monsieur Laroche montrent très bien l'oubli de soi. Le retour se termine deux fois : Camille marche vers sa voiture, puis on revient au poste au moment où Nathalie montre ses notes.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Quand Nathalie lui montre qu’elle a ses notes, Camille a encore envie de retourner jeter un œil dans la chambre. Elle prend sa bouteille et sort avec la relève suivante.", "problem": "Le paragraphe précédent la montre déjà sur le parking, déterminée à ne pas faire demi-tour. Le retour au poste casse la chronologie et la conclusion.", "fix": "Placer ce paragraphe avant la marche vers la voiture, ou le supprimer en gardant « Avant de démarrer, elle boit enfin un peu » comme dernière phrase."},
+        {"severity": "mineur", "type": "continuite", "quote": "Mais ce matin, elle se remémore sa réflexion sur le biais de négativité qu'elle a exploré récemment.", "problem": "Renvoi éditorial (« exploré ») et sans rapport avec la transmission en cours.", "fix": "Supprimer la phrase."},
+        {"severity": "mineur", "type": "repetition", "quote": "Elle rationalise ce comportement en se disant que sa réussite lors de la procédure complexe du 18 mars 2026 n'était qu'un coup de chance", "problem": "Reprend l'aspect de l'ép. 2 (imposture) au lieu de rester sur le sacrifice de soi.", "fix": "Remplacer par un exemple propre à l'abnégation (rester après l'heure pour finir le dossier d'un collègue)."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie.md",
+      "focus": "vulnérabilité au danger (schéma de Young) : peur de la maladie pour soi, avec évaluation médicale d'une gêne thoracique",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La gêne thoracique remarquée en accrochant le badge, à 14 h 15, est un bon départ, et la priorité donnée à l'évaluation est claire. Les « deux explications » restent vagues. La fin la ramène de la maison au poste puis dans l'escalier.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Quand le relais est assuré, Camille retrouve son badge au poste. Elle le met dans sa poche et relit les consignes qui lui ont été données.", "problem": "La phrase précédente la montre déjà à la maison, accueillie par Léo et Emma. Ce retour à l'hôpital est incompréhensible. « En rentrant, Camille remercie Nathalie » est ambigu (Nathalie n'est pas chez elle).", "fix": "Ordonner ainsi : évaluation, badge repris au poste, remerciement à Nathalie avant de partir, escalier, puis arrivée à la maison en dernier."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Deux explications lui viennent.", "problem": "On ne sait pas lesquelles. Le retour évoque plus tard « le café ou le manque de sommeil ».", "fix": "Les nommer dès l'ouverture : « le café avalé trop vite, ou son cœur »."},
+        {"severity": "mineur", "type": "continuite", "quote": "au milieu des moniteurs qui bipent", "problem": "Elle est isolée dans la réserve de matériel, sans moniteurs.", "fix": "Supprimer « au milieu des moniteurs qui bipent »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-enfants-caracteristiques-developper.md",
+      "focus": "attachement sécure : être une base de sécurité qui laisse les enfants explorer",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le dinosaure à trois pattes et Camille qui retient sa remarque pour voir la suite du jeu illustrent bien la base de sécurité. La fin sur le tapis avec Emma est concrète. Seule une phrase lyrique (« la lumière tranquille qu'elle dégage ») dilue l'action.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "mais de la lumière tranquille qu'elle dégage maintenant qu'elle a appris à s'ancrer dans la sécurité", "problem": "Formule abstraite à la place d'un geste.", "fix": "Supprimer la fin de phrase après « pomme coupée en quartiers »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Camille ferme son dossier de cardiologie.", "problem": "Elle travaille à la maison sur un dossier patient (« fiche de suivi »), ce qui pose une question de confidentialité que les autres épisodes soulignent.", "fix": "Remplacer par « son dossier de candidature au poste de cadre » ou « son planning »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille.md",
+      "focus": "déplacement : la colère d'une garde reportée sur Léo à cause de ses chaussures",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le lien entre le reproche reçu au service et le cri sur Léo est clair, et l'excuse sans « mais » est très bien écrite. Le retour passe au « soir venu » puis revient aux lacets et au départ pour le foot.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Camille attend que Léo ait noué ses lacets. Elle lui tient la porte et lui demande s’il veut qu’elle l’accompagne jusqu’au terrain.", "problem": "Vient après « Le soir venu, alors qu'elle prépare les repas ». La chronologie revient en arrière à l'heure du foot.", "fix": "Placer ce paragraphe juste après l'excuse et finir sur la soirée, ou supprimer le paragraphe « Le soir venu »."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "ce même sentiment d'imposture qui la hante après chaque succès professionnel", "problem": "Le ressort de la scène est le reproche d'une famille, pas un succès. Le rappel de l'imposture est plaqué.", "fix": "Supprimer cette fin de phrase."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Ce n'est pas la première fois que cela arrive. Le 19 avril dernier, elle savourait pourtant un moment de tendresse avec David", "problem": "Les deux phrases ne s'enchaînent pas : la première parle des cris, la seconde d'un bon moment.", "fix": "Écrire « Il y a cinq jours encore, elle s'était retenue de crier pendant le jeu du dinosaure »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il veut descendre jusqu’au hall le premier.", "problem": "Le « hall » suggère un immeuble, alors que d'autres épisodes évoquent un jardin et une terrasse.", "fix": "Remplacer « hall » par « portail »."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille.md",
+      "focus": "auto-compassion (Neff) face à sa fatigue quand Léo renverse son bol",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est excellente : la phrase prête, le souvenir des chaussures et « Cette fois, elle demande où est le torchon ». Le retour se dilue dans un bilan de parcours (« Le chemin parcouru… immense ») et se termine après son départ par une scène de torchon.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Elle quitte la maison pour son service de cardiologie, non plus avec le poids du monde sur les épaules", "problem": "Le paragraphe suivant la montre encore dans la cuisine, prenant le torchon des mains de David. Le résumé abstrait prend la place de la fin de scène.", "fix": "Supprimer ce paragraphe de bilan et finir sur le torchon posé au bord de l'évier."},
+        {"severity": "mineur", "type": "continuite", "quote": "Elle se souvient de la vulnérabilité qu'elle ressentait au service de cardiologie face à Monsieur Laroche", "problem": "Monsieur Laroche relève de l'ép. 5 (sacrifice de soi) ; la vulnérabilité au danger concerne la gêne thoracique de l'ép. 6.", "fix": "Écrire « Elle se souvient de la nuit auprès de Monsieur Laroche, de cette envie de se sacrifier »."},
+        {"severity": "mineur", "type": "continuite", "quote": "moins mécanique que ceux qu'elle affichait en mars lorsqu'elle était paralysée par le biais de négativité", "problem": "En mars, le sourire mécanique est lié à la fatigue de compassion (ép. 1), pas au biais de négativité.", "fix": "Remplacer « par le biais de négativité » par « par la fatigue »."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes.md",
+      "focus": "malaise face aux remarques de Françoise ; l'article écarte le refoulement et traite le choix de taire une émotion",
+      "structure": {"scene": "faible", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'appel de Françoise sur le parking, avec la comptine d'Emma, est concret. On ne sait pas si la voiture roule ou non (« reste garée », « Sur le trajet, les bras autour du volant », « encore garés »). La thérapeute surgit sans présentation. L'épisode dit lui-même que la scène n'illustre pas le refoulement.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Choisir de taire une émotion que l’on ressent n’est pas la même chose.", "problem": "L'article explique que le refoulement est inconscient, puis montre uniquement des choix conscients de taire une émotion. Le concept annoncé n'est pas illustré : la scène traite la répression volontaire ou la limite posée à un parent.", "fix": "Renommer l'aspect traité (« taire ce qu'on ressent devant ses parents » ou « poser une limite à un parent critique ») dans le titre, le sujet et l'explication, ou présenter le refoulement comme une notion théorique dont la scène montre seulement la confusion fréquente avec la répression."},
+        {"severity": "majeur", "type": "continuite", "quote": "Sur le trajet, les bras autour du volant, Camille repense au post-it", "problem": "Elle « reste garée » pour répondre, et le retour dit « pendant qu'ils sont encore garés ». On ne sait pas si elle conduit.", "fix": "Remplacer « Sur le trajet » par « Moteur coupé »."},
+        {"severity": "majeur", "type": "continuite", "quote": "Lors d’un échange avec sa thérapeute", "problem": "Aucun épisode précédent ne mentionne de suivi psychologique. Il apparaît ici comme un fait acquis.", "fix": "Présenter le suivi en une phrase dans la scène (« Camille voit une psychologue depuis avril, après la gêne thoracique ») ou le remplacer par une démarche à venir."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Le mot qui germe dans son esprit est familier désormais : refoulement avec ses parents.", "problem": "Formule de mot-clé, peu naturelle dans la pensée du personnage, et que l'article contredit ensuite.", "fix": "Supprimer la phrase."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche.md",
+      "focus": "compassion : rester présente auprès de l'épouse d'un patient et lui demander ce qui l'aiderait",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "L'ouverture devant la chambre 412 est bien posée. Mais l'échange central n'a jamais lieu : on ne lit ni la question « qu'est-ce qui vous aiderait ? » ni la réponse de l'épouse, alors que le titre du retour est « Ce que l'épouse veut savoir ». Le retour enchaîne ensuite trois fins (vestiaire, square et maison, garde suivante).",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle confie les questions de l’épouse à Julie.", "problem": "Les questions de l'épouse ne sont jamais dites ni montrées. La décision et sa conséquence restent invisibles, et la phrase « Elle a été présente, elle a agi avec justesse, et elle s'est protégée » remplace la scène.", "fix": "Écrire l'échange en trois répliques : Camille demande ce qui l'aiderait, l'épouse dit vouloir savoir si le cardiologue repassera avant ce soir, Camille transmet cette question à Julie."},
+        {"severity": "majeur", "type": "repetition", "quote": "Camille ne se voit plus comme l’infirmière qui doit avoir toutes les réponses.", "problem": "La sous-partie « humanité commune » reprend une dimension de l'auto-compassion (ép. 9). La compassion au travail recoupe largement l'ép. 1 (fatigue de compassion, sas de fin de garde, mot envoyé à David).", "fix": "Si l'épisode est gardé, recentrer les manifestations sur ce qui distingue la compassion de l'empathie éprouvée (agir pour l'autre sans absorber sa détresse) et supprimer le sas de transition, déjà traité à l'ép. 1."},
+        {"severity": "mineur", "type": "comprehension", "quote": "La prochaine fois qu’elle repasse devant la chambre, la porte est fermée.", "problem": "Le sens est ambigu (repos, aggravation, décès ?). L'ép. 13 parle ensuite de la « fin de vie de Monsieur Girard », ce que cet épisode ne dit pas.", "fix": "Préciser l'état du patient ou supprimer la phrase."},
+        {"severity": "mineur", "type": "comprehension", "quote": "elle peut demander à Julie de reprendre une question", "problem": "Julie est nommée dans les manifestations avant d'être présentée (« sa collègue Julie » n'arrive qu'au retour).", "fix": "Présenter Julie dans la scène d'ouverture (« Julie, l'infirmière qui prend le secteur après elle »)."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille.md",
+      "focus": "filtre mental : ne retenir que « Tu es encore très fatiguée » dans une discussion avec David sur les vacances",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'assiette tenue, la phrase isolée et la proposition de vacances oubliée montrent très précisément l'abstraction sélective. La question posée à David dans le salon et sa réponse (« alléger leur semaine ») donnent une fin claire.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Camille se souvient de sa discussion avec Nathalie, sa collègue, sur la compassion il y a quelques jours.", "problem": "Dans l'ép. 11, Camille ne parle pas avec Nathalie mais avec l'épouse de Monsieur Girard et avec Julie.", "fix": "Écrire « Camille se souvient de la chambre de Monsieur Girard, il y a quelques jours »."},
+        {"severity": "mineur", "type": "repetition", "quote": "Seule cette unique critique, réelle ou perçue, brille comme un néon rouge dans l'obscurité de sa pensée.", "problem": "Le mécanisme (un détail négatif qui efface le reste) est proche de l'ép. 4, qui parlait déjà d'« une sorte de filtre qui ne laisse passer que les débris du futur ».", "fix": "Retirer le mot « filtre » de l'ép. 4 pour garder la distinction entre les deux épisodes."}
+      ]
+    },
+    {
+      "number": 13,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante.md",
+      "focus": "inquiétude (rumination, hyper-organisation) après la confirmation écrite du poste de cadre",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le mail avec délai et les mercredis comptés devant le casier posent la situation. L'ouverture contient un renvoi au « chapitre 4 ». Le retour change de lieu sans transition (salle d'archives, tram, maison) et invente une « fin de vie » de Monsieur Girard.",
+      "issues": [
+        {"severity": "bloquant", "type": "continuite", "quote": "le dilemme du poste de cadre, chapitre 4,", "problem": "Renvoi explicite à la numérotation des épisodes dans la pensée du personnage : la fiction est rompue.", "fix": "Supprimer « le dilemme du poste de cadre, chapitre 4, » et écrire « le jour de l'enveloppe, fin mars »."},
+        {"severity": "majeur", "type": "continuite", "quote": "Elle repense à la manière dont elle a récemment géré la fin de vie de Monsieur Girard.", "problem": "L'ép. 11 ne parle pas de fin de vie, seulement d'une épouse inquiète et d'une porte fermée.", "fix": "Écrire « la manière dont elle a écouté l'épouse de Monsieur Girard »."},
+        {"severity": "majeur", "type": "repetition", "quote": "Devant son casier, Camille compte les mercredis du mois sur son téléphone", "problem": "Même lieu, même geste et même fin (calendrier des mercredis avec David, attente des horaires) qu'à l'ép. 4. Le rendez-vous prévu à l'ép. 4 n'est pas raconté, si bien qu'on ne voit pas d'avancée.", "fix": "Ouvrir sur ce que Camille a appris au rendez-vous de l'ép. 4, et terminer sur une décision (accepter avec conditions, demander une période d'essai, ou refuser) plutôt que sur une nouvelle attente."},
+        {"severity": "mineur", "type": "continuite", "quote": "Dans le tram, Camille note qu’elle ne peut pas prévoir ce que dira Françoise.", "problem": "Plus haut, elle rentre « dans le bus du retour ».", "fix": "Harmoniser en « bus »."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Il y a un épisode de trop (13 sur 12). Je propose de retirer l'ép. 11 (compassion face à la maladie). C'est le récit le moins compréhensible (l'échange avec l'épouse n'est pas montré), et ses aspects recoupent l'ép. 1 (fatigue de compassion, sas de fin de garde, mot envoyé à David) et l'ép. 9 (humanité commune de l'auto-compassion). Si on le retire, il faut corriger dans l'ép. 13 la référence à Monsieur Girard et à Julie (remplacer par le relais de Nathalie lors de la gêne thoracique de l'ép. 6) et dans l'ép. 12 la référence à la discussion « sur la compassion ». Autre option : fusionner les ép. 4 et 13, qui portent sur la même décision dans le même décor. Mais l'ép. 13 sert de conclusion au parcours ; il vaut mieux le garder et le faire aboutir à une décision.",
+  "verdict": "corrections_majeures"
+}

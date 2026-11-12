@@ -1049,6 +1049,214 @@
         "choice": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
         "next": "Un retour favorable sur le cahier risque ensuite de donner à un progrès matériel une portée clinique excessive."
       }
+    },
+    {
+      "number": 11,
+      "slug": "florence-changements-vigilance",
+      "title": "Changements observés : un bon retour ne mesure pas le risque",
+      "description": "Le cahier reçoit un retour favorable. Florence voudrait en faire une preuve de changement ; sa psychiatre sépare la réussite et l’évaluation.",
+      "context": "après le retour écrit, au point de suivi",
+      "topics": [
+        "Évaluation des changements",
+        "Vigilance durable",
+        "Réussite professionnelle"
+      ],
+      "clinical_intro": "Une réussite professionnelle, un discours plus juste ou une présence régulière aux rendez-vous ne démontrent pas, à eux seuls, que le risque a disparu. Les changements s’apprécient dans leur contexte et dans la durée, par les professionnels concernés. Les connaissances actuelles ne permettent pas de prédire avec certitude l’évolution d’une personne, ni dans un sens ni dans l’autre.",
+      "opening": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve. « Légendes cohérentes et justes, belle harmonisation. Une seule correction : page 14, la légende de l’arrêt de bus passe sur deux lignes. » Elle souligne « belle harmonisation » au crayon, puis la relit.\n\nDans le bus du soir, elle fait des comptes. Le cahier est presque fini. Elle n’a manqué aucun rendez-vous depuis le début du chantier, même celui qu’elle avait pensé annuler. Elle parle de sa responsabilité sans se réfugier derrière l’inquiétude. Ses nuits sont un peu plus régulières, et son médecin traitant, vu comme prévu, lui a dit de revenir si elles se dégradaient. Elle se surprend à penser : voilà, tout a changé. La phrase lui plaît et l’inquiète à la fois.\n\nLe surlendemain, au point de suivi prévu avec la docteure Derain, sa psychiatre, elle pose la feuille imprimée sur le bureau. « Je voudrais que ça compte, dit-elle. Le cahier, les rendez-vous. Je voudrais que ce soit la preuve que je ne suis plus la même. » Derain lit le retour et sourit brièvement. « Je suis contente pour le cahier. C’est votre travail, et il est réussi. Mais je ne peux pas évaluer la sécurité de quelqu’un d’autre avec la qualité d’une maquette. »\n\nElle reprend avec Florence ce qui relève du suivi : la façon dont elle parle aujourd’hui des faits établis, les moments où elle revient encore à ses bonnes intentions, la détresse dont elle a parlé à Marc, le psychologue de l’équipe, les nuits qui se stabilisent un peu. Elle note ce qui a bougé et ce qui reste fragile. Puis elle rappelle que la coordination avec Nora, la référente de protection, se poursuit comme prévu, dans le même cadre. Rien n’est modifié aujourd’hui. Florence demande si cela veut dire qu’elle a échoué. Derain répond que non : cela veut dire qu’on observe dans la durée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Apprécier un changement demande du temps et du contexte",
+          "text": "Ce qu’une personne réussit dans un domaine ne mesure pas ce qui se passe dans un autre. Un cahier bien corrigé, une assiduité constante et un discours plus juste peuvent être de vrais changements ; ils ne démontrent pas pour autant la disparition du risque. Le suivi apprécie les évolutions dans leur contexte et dans la durée, et les connaissances ne permettent aucune prédiction individuelle certaine. La psychiatre ne balaie pas les progrès de Florence et ne lui annonce pas d’échec : elle les situe, et laisse la protection à la coordination qui existe déjà."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une réussite peut-elle prendre une portée excessive ?",
+          "points": [
+            {
+              "heading": "Le compliment devient un argument",
+              "text": "Une remarque sur le travail est relue comme un jugement sur la personne.",
+              "examples": [
+                "Florence souligne « belle harmonisation » et relit la phrase plusieurs fois.",
+                "Elle apporte le retour imprimé à sa consultation psychiatrique."
+              ]
+            },
+            {
+              "heading": "Additionner les signes",
+              "text": "Des éléments réels sont mis bout à bout pour conclure trop vite.",
+              "examples": [
+                "Dans le bus, elle compte ses rendez-vous maintenus.",
+                "Elle ajoute ses nuits plus régulières et se dit que tout a changé."
+              ]
+            },
+            {
+              "heading": "Une évaluation qui situe",
+              "text": "La psychiatre distingue ce qui a évolué et ce qui reste à suivre, sans conclure à la place du temps.",
+              "examples": [
+                "Derain note la parole plus précise et ce qui reste fragile.",
+                "Elle rappelle que la coordination avec Nora se poursuit dans le même cadre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir un progrès sans lui faire tout porter",
+          "points": [
+            {
+              "heading": "Nommer le domaine du progrès",
+              "objective": "Donner à chaque réussite sa juste portée.",
+              "exercise": [
+                "Écrire en une phrase ce qui a réussi.",
+                "Préciser dans quel domaine cette réussite compte.",
+                "Se demander à qui revient l’évaluation des autres domaines."
+              ],
+              "benefit": "La satisfaction reste légitime sans servir de preuve ailleurs."
+            },
+            {
+              "heading": "Apporter l’envie de conclure au suivi",
+              "objective": "Partager le désir d’une preuve plutôt que de conclure seul.",
+              "exercise": [
+                "Dire au professionnel ce que l’on aimerait que ce progrès démontre.",
+                "Écouter ce que lui observe dans le suivi.",
+                "Noter ce qui a bougé et ce qui reste fragile."
+              ],
+              "benefit": "Le progrès est reconnu sans court-circuiter l’évaluation."
+            },
+            {
+              "heading": "Garder les engagements en place",
+              "objective": "Ne pas relâcher le cadre après une bonne nouvelle.",
+              "exercise": [
+                "Vérifier la date du prochain rendez-vous.",
+                "Relire les consignes qui restent en vigueur.",
+                "Adresser toute question sur ces consignes au professionnel concerné."
+              ],
+              "benefit": "Le suivi continue au même rythme, quelle que soit l’humeur du jour."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Page 14, l’arrêt de bus",
+      "ending": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+      "conclusion": "Les changements de Florence sont réels et méritent d’être vus, mais ils ne valent pas preuve de sécurité. En maintenant le suivi et les décisions effectives après une bonne nouvelle, elle laisse à chaque responsabilité son lieu et donne à sa correction sa valeur exacte.",
+      "mirror": [
+        "Quand Florence montre le retour favorable, un proche peut s’en réjouir sans en tirer de conclusion : « Bravo pour le cahier, tu as bien travaillé. » Il évite d’ajouter « tu vois, tu as changé » ou « alors tout est réglé », qui donneraient au travail une portée clinique. Cathy peut répondre à la correction de la page 14 par un simple accusé de réception. L’appréciation du risque et la protection restent aux professionnels, qui poursuivent leur travail."
+      ],
+      "clinical_focus": "Changements observés et vigilance durable",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+        "next": "La remise finale peut fermer l’engagement matériel tout en laissant soin et protection à leurs équipes."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "florence-participation-suivi-durable",
+      "title": "Participation ordinaire : un engagement tenu, un suivi qui continue",
+      "description": "Le cahier est reçu. Florence range les épreuves, garde son rendez-vous et ne cherche pas à faire parvenir le résultat à la personne exposée.",
+      "context": "au service municipal, le jour de la remise",
+      "topics": [
+        "Engagement tenu",
+        "Suivi au long cours",
+        "Vie ordinaire"
+      ],
+      "clinical_intro": "Une activité indépendante, comme un travail mené jusqu’au bout, peut garder sa valeur sans devenir une réparation, une preuve que tout danger a disparu ou un moyen d’obtenir quelque chose d’autrui. Le diagnostic ne résume pas une personne, et reconnaître sa vie ordinaire ne diminue pas sa responsabilité. Les soins et les décisions de protection continuent indépendamment de cette réussite.",
+      "opening": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle. Le cahier corrigé est validé, la mise en page finale part la semaine prochaine. Merci pour la page 14. » Elle repart vers la réunion du service. Le mot « reçu » reste sur le bureau comme un tampon.\n\nFlorence range les épreuves de Regards de quartier dans une boîte d’archives grise : la première épreuve, les légendes annotées, le sommaire, l’épreuve harmonisée, les pages 17 à 24, la version complète, le retour écrit. Elle note sur l’étiquette « Regards de quartier, épreuves » et la date. Ses gestes sont lents et précis, ceux d’un travail fini.\n\nEn fermant la boîte, une pensée familière lui vient : elle pourrait garder un exemplaire imprimé et faire en sorte qu’il parvienne à la personne exposée, pour qu’elle voie. Florence reconnaît cette envie. C’est la même attente de reconnaissance que celle dont elle a parlé à Marc, son psychologue, des semaines plus tôt. Elle ne la suit pas. La personne exposée n’a rien à voir avec ce cahier, ni à juger, ni à recevoir. Florence ouvre son carnet personnel et écrit une ligne pour mardi : « Envie d’envoyer le cahier. Pas fait. »\n\nPuis elle vérifie son agenda. Mardi, Marc, à seize heures. Dans quinze jours, la docteure Derain. La remise du cahier ne change ni ces rendez-vous ni les décisions de protection, qui restent appliquées. Elle le sait sans avoir besoin de le demander.\n\nEn quittant le service, elle passe à la médiathèque du quartier et emprunte un court recueil de nouvelles, choisi pour sa couverture et parce qu’elle aime les textes brefs. Assise sur un banc du square, elle en lit la première phrase à voix basse, pour elle seule.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réussite peut compter sans servir de monnaie",
+          "text": "Un engagement indépendant peut avoir de la valeur pour une personne en soin sans devenir réparation, preuve d’innocuité ou monnaie d’échange dans une relation. Le cahier Regards de quartier est un travail municipal : sa remise clôt une tâche, pas un parcours. Le diagnostic de Florence ne la résume pas ; elle a un métier, des goûts, des lectures. Cette humanité ne réduit pas sa responsabilité. Les soins et les décisions de protection restent effectifs, et l’autonomie de la personne exposée n’est pas utilisée pour conclure l’histoire de Florence : cette personne n’a ni à voir le cahier, ni à en dire quoi que ce soit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un engagement tenu reste-t-il à sa place ?",
+          "points": [
+            {
+              "heading": "Une remise qui clôt une tâche",
+              "text": "La validation du cahier ferme le travail prévu, et seulement lui.",
+              "examples": [
+                "Cathy annonce que la mise en page finale part la semaine prochaine.",
+                "Florence étiquette la boîte d’archives des épreuves avec le titre et la date."
+              ]
+            },
+            {
+              "heading": "Une ancienne envie revient",
+              "text": "La fin du projet réveille l’attente de reconnaissance déjà travaillée en séance.",
+              "examples": [
+                "Florence imagine faire parvenir un exemplaire à la personne exposée.",
+                "Elle n’en fait rien et note l’envie pour son entretien avec Marc."
+              ]
+            },
+            {
+              "heading": "La vie ordinaire continue",
+              "text": "Le suivi et les goûts personnels coexistent avec le travail achevé.",
+              "examples": [
+                "Elle vérifie ses rendez-vous de mardi et de dans quinze jours.",
+                "Elle emprunte un recueil de nouvelles et en lit une phrase à voix basse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour terminer un projet sans lui donner une autre mission",
+          "points": [
+            {
+              "heading": "Clore le projet concrètement",
+              "objective": "Marquer la fin d’une tâche par des gestes simples.",
+              "exercise": [
+                "Ranger les documents de travail au même endroit.",
+                "Les étiqueter avec le nom du projet et la date.",
+                "Remercier les collègues concernés pour le travail fait ensemble."
+              ],
+              "benefit": "La fin du projet est nette et ne reste pas en suspens."
+            },
+            {
+              "heading": "Repérer l’envie de faire porter le résultat à autrui",
+              "objective": "Ne pas transformer une réussite en message.",
+              "exercise": [
+                "Remarquer l’envie d’envoyer ou de montrer le résultat à une personne précise.",
+                "Se demander à quel besoin personnel cette envie répond.",
+                "La noter pour l’entretien de suivi plutôt que d’agir."
+              ],
+              "benefit": "Les limites établies sont respectées et le besoin trouve un lieu où être travaillé."
+            },
+            {
+              "heading": "Garder ses rendez-vous après la réussite",
+              "objective": "Ne pas laisser une bonne nouvelle desserrer le suivi.",
+              "exercise": [
+                "Vérifier les dates des prochains rendez-vous.",
+                "Les inscrire dans l’agenda avec un rappel.",
+                "Prévoir aussi une activité personnelle pour la fin de semaine."
+              ],
+              "benefit": "Le soin continue, et la vie ordinaire trouve sa place à côté de lui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une boîte grise et un recueil ouvert",
+      "ending": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+      "conclusion": "La série se termine sur un engagement tenu et un parcours de soin ouvert. Florence a mené le cahier jusqu’au bout sans lui faire porter une réparation ou une preuve. Sa responsabilité, ses soins et la protection de la personne exposée continuent, chacun à sa place, sans promesse de guérison.",
+      "mirror": [
+        "Le jour où Florence annonce la fin du cahier, un proche peut la féliciter pour ce qui est vrai : « Tu as tenu jusqu’au bout, c’est un beau travail. » Il peut aussi lui proposer un moment ordinaire, une promenade ou un café, sans lien avec le soin. Si elle évoque l’envie d’envoyer le cahier à la personne exposée, il ne s’en charge pas et ne l’y encourage pas : « Ça, c’est à travailler avec ton équipe. » La personne exposée n’a rien à recevoir ni à dire."
+      ],
+      "clinical_focus": "Participation ordinaire et suivi durable",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+        "next": "La série se termine sur un engagement tenu et un parcours de soin ouvert, sans promettre guérison ni accès à autrui."
+      }
     }
   ]
 }

@@ -4,157 +4,132 @@
   "reviewer": "review_sylvain",
   "reviewed_on": "2026-11-12",
   "status": "revision_requested",
-  "summary": "Lecture indépendante complète de la charte, du modèle d’alexithymie, du brief, du dossier, du design et des douze épisodes. Les douze aspects sont distincts et visibles dans les scènes (persistance, détresse, frontière du consentement, contrôle et schéma, travail, honte, changement de santé, décision de soin, soutien limité, prévention effective, fluctuation, participation adaptée). Le diagnostic connu est respecté ; aucun acte, victime, antécédent judiciaire, comorbidité ou contenu sexuel n’est ajouté ; la définition CDDR n’apparaît que dans l’explication. Les limites WFSBP 2020 sont restituées sans protocole ni taux. Les conseils aux proches sont concrets, consentis et rappellent les relais et urgences quand le risque est en jeu. Corrections demandées : lisibilité autonome (rôle de Maud aux épisodes 1 et 5), un miroir à reformuler (épisode 4), trois raccords ou formulations (épisodes 7, 9, 10) et un intertitre (épisode 11). Cette relecture éditoriale ne constitue pas une expertise clinique individuelle.",
+  "summary": "Seconde relecture indépendante complète des douze épisodes avec la charte, l’article modèle, le dossier (CDDR p.571–572 et 583–585, WFSBP 2020) et le design. Six des sept corrections demandées sont appliquées sans nouveau défaut : rôle de Maud précisé en 1 et 5, miroir de Karim conditionné et sans attestation de conformité en 4, ambiguïté levée en 9, raccord des contacts de remplacement corrigé en 10, intertitre de fin retitré en 11. La correction de l’épisode 7 n’est appliquée qu’à l’ouverture : un exemple de manifestation conserve l’antécédent de fatigue déjà rapportée. Un raccord de sélection reste ambigu dans l’ouverture de l’épisode 1. Les douze aspects restent distincts, aucun acte, contact, accès à autrui, comorbidité ou protocole n’est ajouté ; consentement, confidentialité limitée, rôle limité de Karim, relais professionnels et urgences sont préservés. Deux corrections ponctuelles restent en attente ; cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de publication.",
   "files": {
     "editorial/clinical/designs/sylvain.json": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
     "editorial/clinical/dossiers/sylvain.json": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
-    "editorial/clinical/sylvain.json": "f156d1e6117be2ca5726c09e62d7056ed8fb610187f25fa4107b9ad63037f49b"
+    "editorial/clinical/sylvain.json": "369b49745ede4de6d5b7ade166f93eb9c572017193cb4814722ffcb7da140c39"
   },
   "findings": [
     {
-      "episode": 1,
-      "issue": "Un lecteur arrivant directement sur l’épisode 1 ne sait pas qui est Maud : elle reçoit le message final sans que son rôle de formatrice et coordinatrice du groupe soit dit dans la scène, l’explication ou la fin.",
-      "requested_change": "À la première mention de Maud dans la scène d’ouverture ou dans la fin, préciser brièvement qu’elle anime la formation de photographie et coordonne la promenade du groupe adulte (par exemple « Maud, qui anime sa formation »)."
-    },
-    {
-      "episode": 4,
-      "issue": "Le miroir fait dire à Karim « Tu as respecté ce que Maud avait demandé » sans supposer que Sylvain lui en a parlé ; Karim y apparaît comme informé des consignes du groupe et en position d’attester une conformité, ce qui contredit son rôle de soutien limité et la circulation restreinte des informations. Maud n’a d’ailleurs rien demandé personnellement à Sylvain : elle a fixé un cadre commun.",
-      "requested_change": "Conditionner la réponse au partage choisi par Sylvain (« Si Sylvain lui raconte la réunion… ») et faire porter la phrase sur ce que Sylvain dit avoir fait, par exemple « Tu as confirmé les légendes et laissé la suite ouverte, c’est une décision réelle », sans référence à une consigne de Maud."
-    },
-    {
-      "episode": 5,
-      "issue": "Dans la scène, Maud est nommée (« négocier cette tâche avec Maud ») sans indication de son rôle ; un lecteur arrivant sur l’épisode peut la prendre pour une collègue de l’atelier, à côté de la responsable.",
-      "requested_change": "Ajouter à la première mention de Maud dans l’ouverture une apposition courte situant qu’elle anime la formation de photographie et attend le carnet."
-    },
-    {
       "episode": 7,
-      "issue": "Raccord : la fatigue du matin est dite « différente de ce qu’il avait déjà décrit », alors qu’aucun épisode antérieur ne mentionne une fatigue décrite au suivi ; l’épisode 2 et l’appel de l’épisode 6 portent sur les préoccupations et la détresse.",
-      "requested_change": "Remplacer par une comparaison sans antécédent inventé, par exemple « différente de sa fatigue habituelle après une journée à l’atelier »."
+      "issue": "La correction précédente n’a été appliquée qu’à l’ouverture : dans la section « Comment garder une place à ce qui est nouveau ? », le second exemple de « Une observation diffère de la période précédente » dit encore « Il distingue cette fatigue de ce qu’il avait déjà rapporté », ce qui réintroduit une fatigue décrite antérieurement au suivi, absente des épisodes 1 à 6.",
+      "requested_change": "Aligner l’exemple sur l’ouverture corrigée, par exemple « Il distingue cette fatigue de sa fatigue habituelle après une journée à l’atelier »."
     },
     {
-      "episode": 9,
-      "issue": "Dans la dernière phrase de l’ouverture, « parce qu’il les aime et souhaite prendre des nouvelles » rapporte grammaticalement « les » aux six images ; le sens voulu (l’affection de Karim pour Sylvain) est ambigu.",
-      "requested_change": "Reformuler, par exemple : « son ami ne devient pas, parce qu’il tient à lui et souhaite prendre de ses nouvelles, la personne chargée de garantir… »."
-    },
-    {
-      "episode": 10,
-      "issue": "La vérification des contacts quand le contact habituel ne répond pas est présentée comme une question nouvelle (scène, exemple « Il doit demander les alternatives au contact habituel », technique 3) alors que l’épisode 9 se termine sur cette vérification déjà faite avec l’équipe ; le raccord laisse croire que l’étape n’a pas eu lieu.",
-      "requested_change": "Indiquer que ces contacts ont été vérifiés après l’échange avec Karim et recentrer la question nouvelle de l’épisode 10 sur ce qui n’a pas encore été fixé : comment interrompre la participation et qui prévient Maud si la situation l’exige ; ajuster l’exemple de manifestation en conséquence."
-    },
-    {
-      "episode": 11,
-      "issue": "L’intertitre de fin « Le nom retiré de la présence physique » est une formule peu compréhensible ; la charte demande un titre tiré du geste ou de la décision de la scène.",
-      "requested_change": "Retitrer à partir du geste, par exemple « Le message envoyé avant l’organisation finale » ou « La présence retirée du programme »."
+      "episode": 1,
+      "issue": "Raccord sur la sélection : l’ouverture dit « Six photographies de végétaux déjà prises doivent former un carnet », puis « Il lui reste à choisir les autres ». Un lecteur comprend que les six images sont déjà fixées, alors que la sélection est encore en cours en 8 (« Il doit choisir celles qui formeront le carnet », « il termine la sélection des six images ») et en 9 (« si la sélection avance »).",
+      "requested_change": "Reformuler pour indiquer que le carnet réunira six images choisies parmi ses photographies de végétaux déjà prises, la feuille de hêtre ouvrant le carnet, et qu’il lui reste à choisir les autres et à rédiger les légendes."
     }
   ],
   "episode_checks": [
     {
       "number": 1,
       "focus": "Un schéma persiste malgré la tâche",
-      "opening_quote": "La feuille de hêtre occupe presque toute l’image. Sylvain aime la lumière terne qui laisse voir les nervures sans leur donner un air de révélation.",
-      "ending_quote": "Le dossier vert se referme sur une petite avancée réelle ; les préoccupations ne se sont pas effacées avec le dernier mot.",
-      "continuity_note": "Le hêtre, le dossier vert, l’agenda et le rendez-vous déjà fixé avec la docteure Perrin installent le projet ; le message à Maud sans confirmation de présence prépare l’épisode 2. En revanche, le rôle de Maud n’est jamais dit dans cet épisode, ce qui gêne le lecteur arrivant directement.",
-      "clinical_note": "La persistance est visible dans la phrase arrêtée après trois mots et l’envie d’allonger la séance. La définition CDDR p.583 est donnée sobrement dans l’explication seulement ; précision photographique explicitement exclue des signes. Aucun contenu sexuel décrit.",
-      "relatives_note": "Le message de Maud porte sur les six images et la participation sans interpréter le rythme ; Karim demande seulement s’il faut transmettre au rendez-vous, sans réclamer le contenu. Ancré dans le message envoyé."
+      "opening_quote": "La feuille de hêtre occupe presque toute l’image. Sylvain aime la lumière terne qui laisse voir les nervures sans leur donner un air de révélation",
+      "ending_quote": "Sylvain termine seulement la légende du hêtre. Il écrit à Maud, qui anime sa formation de photographie et coordonne la promenade du groupe adulte, qu’il prépare six images, sans confirmer sa présence à la promenade",
+      "continuity_note": "L’ouverture installe le dossier vert, le hêtre, la note de suivi séparée et le rendez-vous déjà inscrit avec la docteure Perrin ; la fin envoie à Maud, désormais présentée comme animatrice de la formation et coordinatrice de la promenade, l’annonce des six images sans confirmer la présence. Seule ambiguïté restante : « Six photographies de végétaux déjà prises doivent former un carnet », suivi de « Il lui reste à choisir les autres », laisse croire que les six images sont déjà fixées alors que la sélection s’achève en 8.",
+      "clinical_note": "La définition CDDR p.583 (schéma durable, ciblé, intense, personne non consentante) apparaît seulement dans l’explication ; une pensée isolée, une crainte ou une préférence consensuelle sont écartées, et le goût de la précision n’est pas un signe. Les trois appuis (noter, limiter, conserver le rendez-vous) ne revendiquent aucun effet de soin.",
+      "relatives_note": "La phrase de Maud porte sur la tâche annoncée et ne commente pas le rythme ; Karim est conditionné au partage de Sylvain et ne réclame pas le contenu des préoccupations."
     },
     {
       "number": 2,
       "focus": "La détresse mérite une demande de soin",
-      "opening_quote": "Le dossier vert reste posé sur les genoux de Sylvain. Il l’a apporté par habitude, puis se demande pourquoi.",
-      "ending_quote": "Ce rendez-vous n’a pas effacé la détresse, mais elle n’est plus réduite au retard d’une légende.",
-      "continuity_note": "La légende terminée de l’épisode 1 ouvre l’entretien et la note « destinée au suivi » est reprise ; la réunion pédagogique est annoncée. Le dossier vert posé sur la chaise libre donne un geste clair.",
-      "clinical_note": "La détresse marquée est distinguée de toute mise en acte, conforme au CDDR p.583 ; la phrase « pas très pratique » puis sa correction rendent la minimisation perceptible. Aucun aveu public ni récit graphique.",
-      "relatives_note": "La question « Tu as pu dire ce qui te pesait ? » est concrète et laisse Sylvain libre de ne pas restituer l’entretien ; la limite de Karim est posée. Ancrage correct sur le retour de rendez-vous."
+      "opening_quote": "Le dossier vert reste posé sur les genoux de Sylvain. Il l’a apporté par habitude, puis se demande pourquoi",
+      "ending_quote": "Sylvain décrit le retentissement à l’équipe et conserve le suivi. Il vérifie les modalités de contact avant de partir",
+      "continuity_note": "Le dossier vert apporté puis posé sur la chaise libre reprend directement l’objet de l’épisode 1 et la note personnelle ; la vérification des contacts en fin d’entretien prépare les relais de 9 et 11. Le dossier reste fermé, conformément au design.",
+      "clinical_note": "La détresse est distinguée de la compétence au travail et le diagnostic n’est jamais utilisé pour présumer un acte, conformément au CDDR p.583 (mise en acte ou détresse marquée). Le tri préoccupation/émotion/fait reste un appui de communication.",
+      "relatives_note": "La question « Tu as pu dire ce qui te pesait ? » est conditionnée au choix de Sylvain de parler, sans restitution exigée ; Karim n’est pas chargé de tout porter ni d’évaluer le besoin de soin."
     },
     {
       "number": 3,
       "focus": "Le consentement garde une portée précise",
-      "opening_quote": "Maud partage un document pendant la réunion à distance. Les participants sont tous adultes ; chacun présente les images qu’il souhaite proposer au groupe.",
-      "ending_quote": "Son inscription demeure réelle ; elle ne transforme pas les décisions encore ouvertes en autorisations déjà reçues.",
-      "continuity_note": "La date des légendes notée sous le titre et le cadre fixé par Maud reprennent l’annonce de l’épisode 2 ; la déception prépare la question de l’épisode 4. Le rôle d’organisatrice de Maud se lit ici dans la scène.",
-      "clinical_note": "La frontière des contacts consentis est expliquée sans scène ; l’explication affirme qu’un accord à une formation n’est jamais un consentement sexuel, conforme au dossier. La scène montre la tentation d’élargir une inscription, sans critère diagnostique tiré des échanges.",
-      "relatives_note": "La phrase de Maud distingue remise et présence ; les participants ne deviennent pas confidents et une limite reste valable malgré la déception. Proposition sûre et liée à la réunion."
+      "opening_quote": "Maud partage un document pendant la réunion à distance. Les participants sont tous adultes ; chacun présente les images qu’il souhaite proposer au groupe",
+      "ending_quote": "Sylvain confirme à Maud qu’il prépare les six légendes. Il accepte qu’elle conserve l’organisation de la promenade et ne demande aucune confidence aux autres",
+      "continuity_note": "La réunion à distance suit le rendez-vous (« Depuis le rendez-vous ») ; Maud donne une date pour les légendes, reprise en 5 et 6. La distinction remise / échanges / présence annoncée ici prépare l’accord séparé de 10.",
+      "clinical_note": "L’explication reprend l’exclusion des contacts consentis (CDDR p.583) et sépare clairement accord pédagogique et consentement sexuel ; aucune scène de contact ni accès à autrui. Les accords de groupe ne sont pas présentés comme critères.",
+      "relatives_note": "Maud maintient un cadre sans recevoir de détails de santé ; les participants ne deviennent pas confidents ; la limite reste valable malgré la déception. Formulation concrète et sûre."
     },
     {
       "number": 4,
       "focus": "Une décision tenue ne supprime pas le trouble",
-      "opening_quote": "Sylvain pose deux nouvelles feuilles devant lui : sa note de suivi et la réponse de Maud sur les légendes. Il explique à la docteure Perrin qu’il n’a pas insisté pendant la réunion.",
-      "ending_quote": "Elle lui permet néanmoins de poursuivre le carnet sans lui demander de décider si les soins ont encore un sens.",
-      "continuity_note": "Les deux feuilles (note de suivi, réponse de Maud) reprennent l’épisode 3 ; deux légendes prêtes marquent la progression. Le commentaire de santé retiré du verso d’une légende est un bon geste de séparation.",
-      "clinical_note": "Contrôle comportemental et schéma distingués conformément au CDDR p.584, sans ajout de trouble du comportement sexuel compulsif ni test de résistance. L’agacement « pourquoi est-ce encore difficile ? » rend la facette visible.",
-      "relatives_note": "Le miroir fait dire à Karim « Tu as respecté ce que Maud avait demandé » sans condition de partage par Sylvain : Karim y apparaît comme évaluateur de conformité à des consignes qu’il n’est pas censé connaître. Correction demandée."
+      "opening_quote": "Sylvain pose deux nouvelles feuilles devant lui : sa note de suivi et la réponse de Maud sur les légendes. Il explique à la docteure Perrin qu’il n’a pas insisté pendant la réunion",
+      "ending_quote": "Sylvain garde ses engagements et confirme le prochain contact. Les deux légendes prêtes rejoignent le dossier vert ; son commentaire personnel reste dans les notes de soin",
+      "continuity_note": "Les deux feuilles (note de suivi et réponse de Maud) relient la réunion de 3 au suivi ; deux légendes prêtes, le commentaire de santé retiré du verso. Raccord juste avec la sélection encore en cours.",
+      "clinical_note": "Distinction contrôle comportemental / schéma conforme au CDDR p.584, avec refus explicite d’ajouter un trouble du comportement sexuel compulsif et de tout test de résistance impliquant autrui.",
+      "relatives_note": "Correction précédente appliquée : le miroir est conditionné au récit de Sylvain et porte sur ce qu’il a fait (confirmer les légendes, laisser la suite ouverte), sans référence à une consigne de Maud ni attestation de conformité par Karim ; il peut renvoyer la demande de certification à l’équipe."
     },
     {
       "number": 5,
       "focus": "Le retentissement professionnel demande un ajustement",
-      "opening_quote": "Le tableau de contrôle devait être transmis en fin de matinée. Sylvain regarde les lignes encore incomplètes avant d’ouvrir le message de sa responsable.",
-      "ending_quote": "L’agenda est moins rempli, mais il reste à parler au cabinet de ce que cette journée lui a coûté.",
-      "continuity_note": "Le report de la mise en page facultative avec Maud reprend le dossier vert et prépare la honte de l’épisode 6 (« ce que cette journée lui a coûté »). Maud est nommée sans que son rôle de formatrice soit indiqué dans le récit.",
-      "clinical_note": "Retentissement professionnel présenté comme possible, ni nécessaire ni suffisant (CDDR p.571–572). Les vérifications requises sont maintenues, aucune validation fictive ni procédure industrielle inventée ; la responsable ne demande pas de diagnostic.",
-      "relatives_note": "La phrase de la responsable porte sur l’ordre de remise et ne sollicite aucun dossier médical ; Maud peut accepter ou refuser. Aucune des deux n’est garante. Concret et sûr."
+      "opening_quote": "Le tableau de contrôle devait être transmis en fin de matinée. Sylvain regarde les lignes encore incomplètes avant d’ouvrir le message de sa responsable",
+      "ending_quote": "La responsable accepte la remise répartie du tableau et maintient les vérifications requises. Sylvain note les étapes convenues",
+      "continuity_note": "Correction appliquée : Maud est située à sa première mention (« qui anime la formation de photographie et attend le carnet »). La remise en deux temps et le report de la mise en page facultative sont repris en 6 (« la mise en page du carnet a été reportée »).",
+      "clinical_note": "Retentissement professionnel présenté comme possible, ni nécessaire ni suffisant (CDDR p.571–572) ; les vérifications requises sont maintenues, aucune validation fictive ni droit administratif inventé.",
+      "relatives_note": "La responsable répond sur la tâche visible sans solliciter de dossier médical ; Maud peut accepter ou refuser ; aucune des deux ne devient garante."
     },
     {
       "number": 6,
       "focus": "La honte peut réduire la parole clinique",
-      "opening_quote": "« Semaine chargée. »",
-      "ending_quote": "La honte reste présente, mais elle n’a pas réduit l’appel aux deux mots du début.",
-      "continuity_note": "« Semaine chargée » reprend le tableau et le report de l’épisode 5 ; l’appel débouche sur le rendez-vous de l’épisode 7 ; la question de confidentialité est effectivement reprise ensuite. Raccord conforme au plan.",
-      "clinical_note": "La honte est présentée comme expérience individuelle, non comme symptôme universel ; la confidentialité est demandée sans promesse de secret absolu, et les démarches en cas de danger sont questionnées. Aucun droit juridique inventé.",
-      "relatives_note": "Karim demande seulement si le cabinet a été joint et n’a pas à promettre le secret face à un danger ; Maud confirme une date sans interpréter. Ancrage sur l’appel convenu."
+      "opening_quote": "« Semaine chargée. » Sylvain relit les deux mots notés pour l’appel convenu avec le cabinet",
+      "ending_quote": "Le cabinet organise un rendez-vous adapté à la demande transmise. Sylvain en note la date et garde sa question sur la confidentialité pour la reprendre avec la médecin",
+      "continuity_note": "« Semaine chargée » reprend explicitement le tableau et la mise en page reportée de 5 ; l’appel conduit au rendez-vous de 7 où la question de confidentialité est effectivement reprise. Maud reçoit seulement une date réaliste des légendes.",
+      "clinical_note": "La honte est présentée comme l’expérience de Sylvain et non comme un symptôme universel ; la confidentialité est cadrée sans promesse de secret absolu ni règle juridique inventée, conformément au dossier.",
+      "relatives_note": "Karim pose une question fermée sur le fait d’avoir joint le cabinet, sans exiger de détails ni promettre un secret face au danger ; Maud confirme la date sans interpréter le silence."
     },
     {
       "number": 7,
       "focus": "Un changement récent mérite son propre bilan",
-      "opening_quote": "Le rendez-vous organisé après l’appel commence par ce que Sylvain voulait transmettre. Les préoccupations ont pris davantage de place et il a eu du mal à en parler.",
-      "ending_quote": "Il sait mieux ce qu’il doit transmettre, sans prétendre avoir trouvé à lui seul l’explication de ses nuits.",
-      "continuity_note": "La confidentialité de l’épisode 6 est traitée en ouverture, puis le sommeil ; la présence reste ouverte comme prévu. Petit défaut : la fatigue est dite « différente de ce qu’il avait déjà décrit », alors qu’aucune fatigue n’a été décrite auparavant.",
-      "clinical_note": "Évaluation d’un changement récent pour lui-même (CDDR p.584–585) : la tentation de tout rattacher au trouble connu est visible, la médecin reprend la chronologie ; aucun épisode maniaque, substance ou démence ajouté, aucune liste d’autodiagnostic, aucune modification seule d’un traitement.",
-      "relatives_note": "Karim ne doit ni chercher de cause, ni surveiller les nuits, ni conseiller un traitement ; Maud n’interprète pas l’absence de confirmation. Proposition concrète, limitée au récit de la fatigue."
+      "opening_quote": "Le rendez-vous organisé après l’appel commence par ce que Sylvain voulait transmettre. Les préoccupations ont pris davantage de place et il a eu du mal à en parler",
+      "ending_quote": "La réévaluation a lieu et Sylvain repart avec des suites précisées par l’équipe. Aucun nouveau diagnostic n’est annoncé dans le récit",
+      "continuity_note": "Correction partiellement appliquée : l’ouverture compare désormais la fatigue à « sa fatigue habituelle après une journée à l’atelier », mais l’exemple de manifestation conserve « Il distingue cette fatigue de ce qu’il avait déjà rapporté », qui réintroduit l’antécédent de suivi non raconté. La reprise de la confidentialité et des préoccupations raccorde bien avec 6.",
+      "clinical_note": "Le changement de sommeil est évalué pour lui-même (CDDR p.584–585) sans manie, démence ou substances ajoutées, sans grille d’autodiagnostic ni modification de traitement par Sylvain ; aucun nouveau diagnostic annoncé.",
+      "relatives_note": "Karim demande s’il a pu expliquer la différence au rendez-vous, sans surveiller les nuits ni identifier une cause ; Maud continue d’organiser les légendes sans interpréter un résultat médical."
     },
     {
       "number": 8,
       "focus": "Le soin se choisit sans garantie totale",
-      "opening_quote": "Au point suivant, Sylvain a apporté une liste de questions. Il en a écrit trois, puis ajouté la date de la promenade au bas de la page.",
-      "ending_quote": "Le dossier vert contient désormais un ensemble cohérent ; les questions de soin restent dans leur propre cadre.",
-      "continuity_note": "Les suites de l’épisode 7 et la date de la promenade structurent la liste de questions ; la sélection achevée, hêtre en premier et souche moussue en dernier, respecte le canon et prépare l’épisode 9.",
-      "clinical_note": "Les limites WFSBP 2020 (petites études, populations hétérogènes souvent médico-légales, appréciation individuelle) sont restituées sans taux, protocole ni médicament ; aucun calendrier de guérison. Le calendrier du groupe ne commande pas le soin.",
-      "relatives_note": "Karim vérifie la compréhension sans choisir une option ; Maud discute l’ordre des images sans conclusion sur la santé. Sûr et ancré dans la demande « qui règle tout »."
+      "opening_quote": "Au point suivant, Sylvain a apporté une liste de questions. Il en a écrit trois, puis ajouté la date de la promenade au bas de la page",
+      "ending_quote": "Sylvain confirme la poursuite du suivi et la prochaine étape. Chez lui, il termine la sélection des six images : le hêtre ouvre le carnet et la souche moussue le ferme",
+      "continuity_note": "La date de la promenade notée sous trois questions relie l’attente au calendrier ; la sélection des six images est terminée chez lui, hêtre en tête et souche moussue en fin, ce qui prépare la rangée visible en 9.",
+      "clinical_note": "Les limites de WFSBP 2020 (études petites ou non contrôlées, populations hétérogènes souvent médico-légales) sont respectées : aucun protocole, médicament, taux ou délai de guérison ; « Aucun traitement n’est prescrit dans cet article ».",
+      "relatives_note": "Karim vérifie la compréhension de l’étape sans choisir à la place de Sylvain ; Maud peut discuter l’ordre des images ; la formation et l’amitié n’imposent pas de calendrier au soin."
     },
     {
       "number": 9,
       "focus": "Le soutien ne transfère pas la responsabilité",
-      "opening_quote": "Les six images sont alignées sur la table de Sylvain quand Karim l’appelle. Son ami demande si la sélection avance.",
-      "ending_quote": "La sélection du carnet reste une nouvelle qu’il pourra partager, pas un rapport à faire approuver.",
-      "continuity_note": "Les six images alignées et la souche moussue reprennent la sélection de l’épisode 8 ; l’appel limité et la vérification des contacts en l’absence de Karim préparent l’épisode 10. Une tournure ambiguë (« parce qu’il les aime ») reste à corriger.",
-      "clinical_note": "Retentissement relationnel et rôle choisi, révisable et retirable, conformes au dossier ; l’affection ne transfère pas la responsabilité. Le relais urgences figure dans la technique 3. Aucune personne exposée sollicitée.",
-      "relatives_note": "La phrase de Karim refuse la vérification quotidienne et la décision sur la promenade, prévoit le retrait de l’accord et refuse le secret absolu face au danger. Très bien ancré dans la demande formulée."
+      "opening_quote": "Les six images sont alignées sur la table de Sylvain quand Karim l’appelle. Son ami demande si la sélection avance",
+      "ending_quote": "Ils fixent un appel limité, sans obligation de passer en revue chaque journée. Sylvain vérifie ensuite avec l’équipe les contacts à utiliser lorsque Karim n’est pas disponible",
+      "continuity_note": "Les six images alignées et la souche moussue en bout de rangée reprennent la fin de 8. Correction appliquée : la dernière phrase rapporte sans ambiguïté l’affection à Karim (« parce qu’il tient à lui »). La vérification des contacts quand Karim n’est pas disponible est faite en fin d’épisode et explicitement rappelée en 10.",
+      "clinical_note": "L’explication sépare affection, compétence d’évaluation et responsabilité des comportements ; la technique 3 garde le recours immédiat et les urgences en danger immédiat, conformément au dossier.",
+      "relatives_note": "La phrase de Karim est concrète (appel convenu, pas de vérification quotidienne ni de décision sur la promenade) ; il peut retirer son accord et n’a pas à compenser par une autre surveillance."
     },
     {
       "number": 10,
       "focus": "La prévention exige des décisions effectives",
-      "opening_quote": "Sylvain avait écrit « faire attention » en haut de sa note.",
-      "ending_quote": "Le carnet peut maintenant servir au groupe même si la modalité de participation change ; cette possibilité existe dans l’organisation, pas seulement dans ses intentions.",
-      "continuity_note": "La conversation avec Karim est reprise ; l’accord de Maud sur la remise indépendante prépare le retrait de l’épisode 11. Mais la question des contacts quand le contact habituel ne répond pas reprend presque mot pour mot ce que l’épisode 9 dit déjà avoir vérifié.",
-      "clinical_note": "Prévention individualisée sans score de risque, procédure d’aptitude ni détail d’accès à des personnes ; interruption de la participation et urgences en danger immédiat, conformes aux limites pratiques du dossier. Aucune efficacité revendiquée.",
-      "relatives_note": "La phrase de Maud porte sur le travail pédagogique et elle ne fait surveiller personne ; Karim garde son rôle limité et les relais priment. Concret et sûr."
+      "opening_quote": "Sylvain avait écrit « faire attention » en haut de sa note. Au rendez-vous, la formule lui paraît moins claire qu’elle ne l’était chez lui",
+      "ending_quote": "Maud accepte la remise des six images et un court échange à distance sur les légendes. Sylvain note cet accord séparément de sa présence physique, toujours conditionnelle",
+      "continuity_note": "Correction appliquée : l’ouverture indique que les contacts de remplacement ont déjà été vérifiés après l’échange avec Karim et recentre la question sur l’interruption de la participation et sur qui prévient Maud ; l’exemple de manifestation suit. L’accord de Maud sur une remise indépendante prépare 11.",
+      "clinical_note": "La prévention reste individualisée sans score de risque, procédure d’aptitude ni accès détaillé à des personnes ; interruption et aide immédiate en cas de crainte de danger, urgences en danger immédiat, selon le dossier.",
+      "relatives_note": "Maud formule un accord pédagogique précis et n’a pas à demander aux participants de surveiller ; Karim garde son rôle limité et les relais priment sur les promesses amicales."
     },
     {
       "number": 11,
       "focus": "Une fluctuation conduit à réviser la participation",
-      "opening_quote": "Quelques jours avant la promenade, Sylvain rouvre la légende de la souche moussue. Les six images sont choisies et le carnet approche de sa fin.",
-      "ending_quote": "Le travail et la prévention conservent chacun leurs conséquences.",
-      "continuity_note": "La souche moussue, les contacts vérifiés et la remise séparée en épisode 10 sont réellement utilisés ; Maud est prévenue avant l’organisation finale, conforme au plan. Le titre final « Le nom retiré de la présence physique » est peu clair.",
-      "clinical_note": "Fluctuation distinguée d’une rechute en acte et d’un pronostic tiré d’une bonne journée (CDDR p.584–585) ; le point clinique précède la décision ; aucun essai sur place. Le retrait n’est pas présenté comme prescription universelle.",
-      "relatives_note": "Maud ne négocie pas un retour et ne charge pas le groupe ; Karim reconnaît la déception sans garantir une tentative ; relais immédiat et urgences rappelés. Ancré dans le message de retrait."
+      "opening_quote": "Quelques jours avant la promenade, Sylvain rouvre la légende de la souche moussue. Les six images sont choisies et le carnet approche de sa fin",
+      "ending_quote": "Maud retire la présence physique de Sylvain du programme. Les six images restent attendues et le court échange à distance est confirmé séparément",
+      "continuity_note": "La fluctuation survient quelques jours avant la promenade, alors que le carnet est presque fini ; les modalités de contact vérifiées en 9 et 10 sont utilisées, le point clinique précède la décision et Maud est prévenue avant l’organisation finale. Correction appliquée : l’intertitre est devenu « La présence retirée du programme ».",
+      "clinical_note": "La hausse des préoccupations n’est pas transformée en rechute en acte et aucune bonne journée ne sert de pronostic (CDDR p.584–585) ; aucun essai sur place ni épreuve impliquant autrui.",
+      "relatives_note": "Maud confirme le retrait et la contribution séparée sans négocier un retour ; Karim reconnaît la déception sans devenir garant ; le relais professionnel et les urgences sont rappelés."
     },
     {
       "number": 12,
       "focus": "Un projet accompli laisse le suivi ouvert",
-      "opening_quote": "Sylvain vérifie le titre du fichier avant de l’envoyer à Maud : Après la pluie. Les six images sont dans l’ordre prévu, du hêtre à la souche moussue.",
-      "ending_quote": "Sur une feuille de travail, il note une idée de série sur les arbres en hiver, sans s’inscrire à une nouvelle sortie ni retirer les limites convenues.",
-      "continuity_note": "Le fichier remis, l’échange à distance, la correction du hêtre et la phrase « six images, pas une forêt entière » ferment les fils ; la promenade n’est pas réintroduite, le rendez-vous demeure et la série sur les arbres en hiver reste une idée. Résolution conforme au canon.",
-      "clinical_note": "La réussite ne vaut ni guérison ni risque nul ni droit général à un aménagement ; les soins et la prévention continuent. Aucune affirmation clinique au-delà du dossier.",
-      "relatives_note": "Maud remercie sans commenter la santé ni présenter la promenade comme récompense manquée ; Karim peut parler du projet lors de l’appel convenu, sans contrôle rétrospectif. Concret et respectueux."
+      "opening_quote": "Sylvain vérifie le titre du fichier avant de l’envoyer à Maud : Après la pluie. Les six images sont dans l’ordre prévu, du hêtre à la souche moussue",
+      "ending_quote": "Maud confirme la réception du carnet de six images pour le groupe adulte et son utilisation comme support pédagogique. Sylvain termine l’échange et ferme le dossier vert",
+      "continuity_note": "La remise du fichier Après la pluie, l’ordre hêtre-souche, l’échange à distance à l’heure convenue et la présence retirée en 11 sont respectés ; la série hivernale reste une idée notée sans réinscription, conforme au canon.",
+      "clinical_note": "La réussite du carnet n’est présentée ni comme guérison ni comme risque nul ni comme traitement validé ; le rendez-vous et la prévention sont maintenus, conformément au CDDR p.584–585 sur l’évolution.",
+      "relatives_note": "Maud remercie sans commenter la santé ni présenter la promenade comme récompense manquée ; Karim, lors de l’appel convenu, parle du projet si tous deux le souhaitent, sans contrôle rétrospectif."
     }
   ]
 }
