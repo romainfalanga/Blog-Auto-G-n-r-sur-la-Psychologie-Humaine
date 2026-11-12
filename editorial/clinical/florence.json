@@ -633,6 +633,110 @@
         "choice": "Derain et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence vérifie les consignes qui lui sont adressées. Elle écrit ensuite à Cathy la date de l’épreuve harmonisée, sans lui transmettre le contenu clinique ni attendre une appréciation de son assiduité. La collègue organise le cahier. Florence garde la clarification professionnelle pour le suivi et respecte les décisions en vigueur.",
         "next": "La place laissée hors du rôle de responsable de la santé d’autrui permet à Florence de parler de sa propre détresse."
       }
+    },
+    {
+      "number": 7,
+      "slug": "florence-detresse-propre",
+      "title": "Détresse personnelle : une souffrance qui a sa place dans le soin",
+      "description": "Florence commence par parler des besoins d’autrui, puis dit qu’elle se sent seule. Marc traite cette souffrance comme la sienne.",
+      "context": "au bureau puis chez le psychologue",
+      "topics": [
+        "Détresse personnelle",
+        "Solitude",
+        "Sécurité de la personne suivie"
+      ],
+      "clinical_intro": "Une personne suivie pour un trouble factice imposé à autrui peut aussi traverser une souffrance personnelle : solitude, malaise, fatigue. Cette détresse peut être travaillée dans le soin comme la sienne. Elle n’explique pas les faits établis, ne définit pas le trouble et ne dit rien, à elle seule, du risque. Elle n’a pas non plus à être apaisée par la personne exposée.",
+      "opening": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes. La légende tient en une ligne. Florence la lit une fois, deux fois, trois fois. Elle ne sait plus si la virgule est utile.\n\nElle s’est réveillée avant le jour. La consultation de la semaine dernière lui revient par morceaux : la docteure Derain, sa psychiatre, qui distinguait son propre rôle de celui de Nora, la référente de protection ; les décisions confirmées ; rien de modifié. Tout était clair. C’est peut-être pour cela qu’elle ne sait plus quoi faire de ses mains.\n\nL’après-midi, elle retrouve Marc, le psychologue de son équipe spécialisée, dans le petit bureau aux stores beiges où ils se voient chaque semaine. Elle s’assoit et commence : « Ce qui serait le mieux, pour la personne, ce serait… » Elle s’arrête. Marc attend sans finir la phrase à sa place.\n\n« Je recommence à parler de ce qui serait bon pour quelqu’un d’autre, dit-elle. Ce n’est pas à moi d’en décider. » Puis, plus bas : « En fait, je me sens seule. Depuis la dernière consultation, je ne sais plus où me mettre. »\n\nMarc lui demande à quoi ressemble cette solitude, concrètement. Florence parle des soirées où son téléphone reste muet, du dîner qu’elle saute, de la radio qu’elle laisse allumée pour entendre une voix dans la cuisine. Il l’écoute, puis pose la question qu’il pose à toute personne qui décrit ce genre de journées : lui arrive-t-il de penser à se faire du mal ? Florence répond que non, qu’elle est surtout fatiguée et vide. Marc le note et lui rappelle le numéro du secrétariat de l’équipe, puis le 3114, la ligne nationale de prévention du suicide, si un soir devenait trop lourd, et le 15 en cas d’urgence. Ensuite il revient à elle : ce qu’elle ressent mérite une place dans le suivi, à côté de sa responsabilité, pas à sa place.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une souffrance personnelle a sa place dans le suivi",
+          "text": "Le suivi d’une personne ayant ce diagnostic peut aborder sa détresse propre sans détourner l’attention des besoins de la personne exposée. Les deux questions coexistent : ce que Florence ressent aujourd’hui et ce dont elle est responsable. La solitude et le sentiment d’être déstabilisée ne sont pas des signes spécifiques du trouble ; ils ne forment pas une cause qui l’excuserait et ne permettent pas d’évaluer le risque. Dans la scène, Marc fait deux choses distinctes : il vérifie la sécurité de Florence elle-même, puis il examine avec elle ce qui pourrait l’aider au quotidien. Il ne suggère à aucun moment que quelqu’un d’autre vienne combler ce manque."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la détresse propre se fait-elle entendre ?",
+          "points": [
+            {
+              "heading": "Une phrase qui commence par autrui",
+              "text": "Florence a pris l’habitude de parler des besoins d’une autre personne avant les siens, même quand elle vient pour elle.",
+              "examples": [
+                "Elle ouvre l’entretien par « ce qui serait le mieux, pour la personne ».",
+                "Elle s’interrompt d’elle-même et dit que ce n’est pas à elle d’en décider."
+              ]
+            },
+            {
+              "heading": "Un travail ordinaire qui n’avance plus",
+              "text": "La fatigue et le malaise se voient d’abord dans des tâches simples, sans être propres au trouble.",
+              "examples": [
+                "Au bureau, elle relit trois fois la légende du marché sans trancher pour une virgule.",
+                "Réveillée avant le jour, elle repasse en pensée la consultation précédente."
+              ]
+            },
+            {
+              "heading": "Une solitude décrite en gestes",
+              "text": "Marc demande des faits du quotidien plutôt qu’un mot général, ce qui rend la détresse évaluable.",
+              "examples": [
+                "Florence parle du téléphone muet et du dîner qu’elle saute.",
+                "Elle laisse la radio allumée pour entendre une voix dans la cuisine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire place à sa détresse dans le soin",
+          "points": [
+            {
+              "heading": "Repérer à qui s’adresse sa première phrase",
+              "objective": "Remarquer quand on parle d’autrui pour éviter de parler de soi.",
+              "exercise": [
+                "Noter avant l’entretien la phrase par laquelle on compte commencer.",
+                "Vérifier si elle concerne ses propres besoins ou ceux d’une autre personne.",
+                "Si elle concerne autrui, chercher ce que l’on ressent soi-même et commencer par là."
+              ],
+              "benefit": "L’entretien peut porter sur ce qui appartient vraiment à la personne suivie."
+            },
+            {
+              "heading": "Décrire une journée plutôt qu’un état",
+              "objective": "Donner au professionnel des éléments concrets sur le malaise.",
+              "exercise": [
+                "Choisir une journée récente.",
+                "Noter trois moments où la solitude ou la fatigue se sont fait sentir.",
+                "Apporter cette liste au rendez-vous sans chercher à l’expliquer seul."
+              ],
+              "benefit": "Le soignant peut évaluer la détresse et proposer des appuis adaptés."
+            },
+            {
+              "heading": "Garder les numéros d’aide à portée de main",
+              "objective": "Savoir qui joindre si la détresse s’aggrave entre deux rendez-vous.",
+              "exercise": [
+                "Noter le numéro de l’équipe qui assure le suivi.",
+                "Ajouter le 3114 pour une détresse suicidaire et le 15 pour une urgence.",
+                "Dire au professionnel si les soirées difficiles deviennent plus fréquentes."
+              ],
+              "benefit": "La personne n’attend pas seule le prochain rendez-vous si un soir devient trop lourd."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Seize pages envoyées, huit qui restent",
+      "ending": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+      "conclusion": "La détresse de Florence est réelle et mérite d’être soignée. Elle ne réduit pas sa responsabilité et n’a pas à être soulagée par la personne exposée. En la disant à Marc plutôt qu’en parlant à la place d’autrui, Florence ouvre un travail sur ses propres besoins, tandis que le cahier avance à son rythme.",
+      "mirror": [
+        "Si Florence confie à un proche qu’elle se sent seule, il peut répondre : « Merci de me le dire. Tu en as parlé à ton équipe ? Et si on dînait ensemble jeudi ? » Partager un repas reste un soutien ordinaire, pas une thérapie. Si elle évoque l’envie de se faire du mal, le proche ne garde pas cela pour lui : il l’encourage à appeler le 3114 et, en cas de danger immédiat, appelle le 15. Il ne propose jamais de transmettre un message à la personne exposée pour apaiser Florence."
+      ],
+      "clinical_focus": "Reconnaître sa propre détresse",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+        "next": "Un changement de sommeil l’amène à poser une question de santé pour elle-même, sans l’attribuer automatiquement au trouble."
+      }
     }
   ]
 }

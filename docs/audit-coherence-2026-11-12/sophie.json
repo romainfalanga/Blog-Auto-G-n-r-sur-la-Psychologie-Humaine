@@ -1,0 +1,184 @@
+{
+  "character_id": "sophie",
+  "type": "origine",
+  "auditor": "audit_o8",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Née en 1998 (28 ans en 2026), développeuse web dans une startup parisienne, vit seule dans le 11e arrondissement. Proches : Claire (amie et collègue), Marc (collègue développeur), ses parents à Nantes (père ingénieur, retraité de 70 ans ; mère enseignante), Julie (ancienne collègue devenue responsable d'équipe).",
+    "arc_summary": "Sophie part d'une surpensée autour d'une démo et d'un doute sur ses compétences, candidate au poste de directrice technique d'une association (ép. 2), essuie un refus (ép. 9) et apprend à tenir une limite avec ses parents (ép. 4, 5, 12). En parallèle, sa relation de travail avec Marc se dégrade (rejet de sa base de données, puis moquerie publique) tandis que Claire devient l'appui principal. La série se clôt sur un appel avec son père où elle cesse de chercher à convaincre.",
+    "arc_issues": [
+      "Le rôle de Marc varie sans transition : relecteur bienveillant à l'ép. 1 (« Marc la soutient en relisant ses travaux quand il le peut »), puis il rejette « d'un revers de main désinvolte » sa base à l'ép. 7 et l'imite publiquement à l'ép. 8. Aucun épisode ne montre ce qui a changé.",
+      "La moquerie de l'ép. 8 laisse ouverte la question d'un signalement (« Elle n'a pas encore décidé si elle parlera à Marc »). Les épisodes 9 à 12 la rappellent comme un souvenir sans dire si Sophie a parlé à quelqu'un ni si les remarques ont continué, alors que l'ép. 11 mentionne encore « une remarque piquante en réunion ».",
+      "Plusieurs épisodes renvoient à la série elle-même plutôt qu'à la vie de Sophie (« Depuis l'épisode sur l'effet Dunning-Kruger », « lors de l'épisode d'overthinking », « lors du premier chapitre »).",
+      "L'entretien pour le poste à l'association (évoqué aux ép. 4 et 9) n'est jamais situé. Le lecteur apprend à l'ép. 4 qu'il a déjà eu lieu."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail.md",
+      "focus": "surpensée (rumination et anticipation) la veille d'une démo",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La scène de 21 h est claire : Marc et Claire sont présentés, et l'enjeu est concret (une entrée de test à écrire avant la démo). Seule la fin du retour s'éloigne de la scène pour énumérer des progrès génériques.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "Quand la pensée revient, elle la note sans se juger, prend trois respirations profondes, puis reprend.", "problem": "La technique 2 précise qu'« aucun nombre de répétitions ni fermeture des yeux n'est nécessaire » ; le retour réintroduit un rituel chiffré qui n'est pas dans les techniques.", "fix": "Remplacer par « elle la note sans se juger, puis revient au test »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "En équipe, Sophie propose désormais un rituel simple : une règle de \"code freeze\" avant la démo", "problem": "Le dernier paragraphe résume des progrès abstraits et futurs (« Ses collègues remarquent qu'elle paraît plus sereine ») au lieu de clore la scène du test.", "fix": "Raccourcir ce paragraphe et finir sur le cas ajouté par Marc dans le ticket et l'inquiétude qui reste."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante.md",
+      "focus": "évaluation de ses propres compétences avant une candidature (effet Dunning-Kruger, présenté avec ses limites)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "On comprend la candidature et l'appel à Julie. L'ouverture reste abstraite (« sa boussole interne était déréglée ») et le retour commence par un geste jamais mentionné, puis se contredit sur l'endroit où se trouve Sophie.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Sophie revient à son bureau après avoir déroulé son tapis.", "problem": "Le tapis (de yoga) n'apparaît nulle part dans la scène d'ouverture ; deux phrases plus loin, « Elle se lève et retourne vers son bureau » alors qu'elle y est déjà.", "fix": "Supprimer « après avoir déroulé son tapis » ou l'introduire dans l'ouverture, et supprimer « Elle se lève et retourne vers son bureau. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "D'un côté, elle se sent paradoxalement experte sur certains sujets complexes qu'elle ne maîtrise qu'en surface, et de l'autre, elle minimise ses véritables compétences techniques", "problem": "Phrase abstraite qui ne dit pas quels sujets. L'exemple concret (système de gestion de projet) n'arrive qu'au paragraphe suivant.", "fix": "Remplacer par le fait concret : la case « expérience de coordination » et le volet budget qu'elle connaît mal."},
+        {"severity": "mineur", "type": "trame", "quote": "Si vous constatez que ces biais cognitifs ou que l'analyse excessive entravent durablement", "problem": "La conclusion se limite au renvoi vers un psychologue. Elle ne dit pas ce que l'épisode a montré ni ce que la candidature envoyée change pour la suite.", "fix": "Ajouter deux phrases : Sophie distingue ce qu'elle sait décrire de ce qu'elle ignore et attend désormais la réponse de l'association."},
+        {"severity": "mineur", "type": "continuite", "quote": "s'épuisant à traquer la moindre faille dans son travail pour Marc", "problem": "Marc est un collègue (ép. 1), pas le destinataire de son travail ; la formule suggère une hiérarchie.", "fix": "« dans le code qu'elle devait présenter »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets.md",
+      "focus": "anxiété au travail sous forme de vérifications et de vigilance aux réactions des collègues",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "La situation de départ (message de Marc sur l'API) est claire, mais elle reprend presque à l'identique l'ép. 1, et l'ordre des événements du retour est incohérent : Claire souhaite bonne chance pour une présentation qui vient d'avoir lieu.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Au déjeuner, Claire lui souhaite bonne chance pour la présentation.", "problem": "Le paragraphe précédent raconte déjà la démonstration en réunion (« En réunion, la démonstration se bloque une seconde »). La chronologie pause → réunion → déjeuner rend ce souhait incompréhensible. Le lecteur ne sait plus si la démo est passée.", "fix": "Placer le déjeuner avant la réunion, ou faire dire à Claire « Ça s'est bien passé, la démo ? »."},
+        {"severity": "majeur", "type": "repetition", "quote": "quand elle pense à la réunion de demain, ses scénarios mentaux se multiplient : le code buggé, la remarque de Marc", "problem": "Même dispositif que l'ép. 1 (question de Marc sur un cas de test, démo du lendemain, carnet, relectures). L'aspect propre à l'anxiété (attention aux réactions, fatigue) est noyé dans une deuxième veille de démo.", "fix": "Ancrer la scène dans un autre moment (réunion d'équipe ou point individuel sans démo), centrée sur la surveillance du silence de Marc et la fatigue d'attention."},
+        {"severity": "majeur", "type": "continuite", "quote": "la proposition de candidature qu'elle hésite encore à finaliser", "problem": "À l'ép. 2, Sophie envoie sa candidature deux jours après le 18 mars ; l'ép. 3 est daté du 20 mars et la note « de la veille sur la candidature » suggère qu'elle est déjà traitée.", "fix": "« la candidature qu'elle vient d'envoyer et dont elle attend la réponse »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Claire lui dit qu’elle a déjà vérifié le cas du champ vide, et qu’elle le montrera si on le lui demande.", "problem": "Le pronom « elle » est ambigu : on ne sait pas si c'est Claire ou Sophie qui a vérifié le cas. Le « test d'hypothèse » dont elles parlent (envoi d'un patch avec un retour à 24 h) n'a pas eu lieu dans le récit.", "fix": "« Sophie raconte qu'elle a déjà vérifié le cas du champ vide et qu'elle le montrera si on le lui demande », et supprimer la mention du test d'hypothèse."},
+        {"severity": "mineur", "type": "trame", "quote": "Concrètement, elle peut prendre ces formes :", "problem": "Les sous-parties 1 à 3 annoncent une liste (« Cela se manifeste de façon discrète : », « Les signes concrets incluent : ») qui ne suit pas.", "fix": "Supprimer ces trois phrases introductives orphelines."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Depuis l'épisode sur l'effet Dunning-Kruger il y a quelques jours", "problem": "Le texte renvoie à la série plutôt qu'à un événement de la vie de Sophie.", "fix": "« Depuis qu'elle a préparé sa candidature il y a quelques jours »."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents.md",
+      "focus": "schéma d'exigences élevées réactivé par les questions des parents sur la candidature",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le déjeuner à Nantes est concret et lisible : la question du père, la remarque de la mère sur le « relief », puis la tarte trop cuite. Le geste de la tarte montre bien le schéma chez la mère elle-même.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Elle a finalement envoyé sa candidature après avoir discuté avec Claire", "problem": "À l'ép. 2, c'est l'échange avec Julie, ancienne collègue responsable d'équipe, qui précède l'envoi (« Deux jours plus tard, après un échange avec Julie, Sophie envoie sa candidature »).", "fix": "Remplacer « avec Claire » par « avec Julie »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle a déjà rouvert son dossier deux fois depuis l’entretien.", "problem": "Le lecteur découvre qu'un entretien a eu lieu sans aucune indication de date ni de contenu, à part une question.", "fix": "« depuis l'entretien de la semaine dernière avec l'association »."},
+        {"severity": "mineur", "type": "trame", "quote": "L'exercice consiste à écrire une lettre courte ou quelques phrases à vous-même", "problem": "La technique 1 n'a ni objectif, ni étapes, ni utilité séparés ; la technique 2 propose de noter « la qualité » d'un repas.", "fix": "Ajouter à la technique 1 trois étapes appliquées au déjeuner (repérer la phrase « dossier sans relief », écrire ce qu'elle dirait à Claire, relire avant le dessert) et une phrase d'utilité."},
+        {"severity": "mineur", "type": "trame", "quote": "Pendant ce repas, Sophie trouve une marge de manœuvre : elle peut être présente à table sans devoir faire le bilan de sa carrière.", "problem": "La conclusion tient en deux phrases et ne relie pas l'épisode à l'attente de la réponse de l'association.", "fix": "Ajouter une phrase sur ce que la limite posée change pour la suite (attendre la réponse sans la commenter en famille)."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents.md",
+      "focus": "sacrifice de soi face à des parents qui vieillissent (anticiper les besoins, ne pas différer)",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La cuisine, le réfrigérateur, la pharmacie et le train forment une scène claire. En revanche, des objets changent d'une phrase à l'autre et le refus de la pharmacie est rapporté après coup, dans le train.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle n'a pas nettoyé le four, finalement.", "problem": "Il n'a jamais été question du four : la scène montre le réfrigérateur. De même, « Sophie redresse le manche de l’aspirateur » alors qu'elle est « agenouillée devant le vieux réfrigérateur, une éponge à la main ».", "fix": "Remplacer « le four » par « l'étagère du bas du réfrigérateur » et « redresse le manche de l'aspirateur » par « pose son éponge »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle y voit ses notes sur sa peur de perdre sa crédibilité, et pourtant, elle annule déjà silencieusement sa soirée de repos.", "problem": "Elle « consulte mentalement » un carnet resté dans le sac : cette formule abstraite remplace un geste.", "fix": "Supprimer la phrase sur le carnet et garder : « Elle annule déjà dans sa tête sa soirée de repos. »"},
+        {"severity": "mineur", "type": "trame", "quote": "expliquant gentiment qu'elle devait absolument attraper son train pour préparer sa réunion du lendemain", "problem": "La limite repose sur un prétexte professionnel, ce qui affaiblit la démonstration (s'inclure dans l'équation) annoncée par les techniques.", "fix": "Lui faire dire qu'elle a besoin de sa soirée et proposer que sa mère passe à la pharmacie avec ses courses."},
+        {"severity": "mineur", "type": "trame", "quote": "le sacrifice de soi décrit une tendance à privilégier les besoins des autres, au point de négliger régulièrement les siens.", "problem": "La section de définition ne revient pas à la scène (fatigue de la mère, soirée annulée).", "fix": "Ajouter une phrase reliant la définition au « oui » donné pour la pharmacie."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme.md",
+      "focus": "pensées automatiques négatives (généralisation, raisonnement émotionnel) un samedi soir seule",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La phrase « tu ne vaux rien techniquement » est bien mise en scène. Mais l'élément déclencheur est flou : l'ouverture parle d'une « alerte interne » (un sentiment), alors que la fin et la rubrique proches parlent d'une alerte réelle reçue sur l'ordinateur.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "une petite alerte interne la pousse à rouvrir son ordinateur portable", "problem": "Le retour écrit « L’alerte ne dit pas que c’est mon code » et la rubrique proches parle d'une alerte reçue le samedi soir. Le lecteur ne sait pas si une notification de supervision est arrivée ou si c'est une impression.", "fix": "Ouvrir sur un fait : « Une alerte de supervision s'affiche sur son téléphone : une erreur sur le service qu'elle a modifié vendredi. »"},
+        {"severity": "mineur", "type": "repetition", "quote": "Elle se dit qu'elle rate toujours ses intégrations du premier coup", "problem": "La généralisation (« toujours », « jamais ») revient à l'ép. 9 sous le nom de « généralisation abusive de la défaite » ; les deux épisodes se recouvrent sur ce point.", "fix": "Garder ici la généralisation et, à l'ép. 9, centrer la première manifestation sur la conviction globale d'échec propre au schéma."},
+        {"severity": "mineur", "type": "trame", "quote": "Elle doit lister sur une feuille deux colonnes avec les preuves qui soutiennent la pensée", "problem": "La technique 2 n'a ni objectif ni étapes, contrairement aux techniques 1 et 3.", "fix": "Ajouter un objectif et trois étapes appliquées à la ligne de code du vendredi."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit.md",
+      "focus": "décalage conscient entre colère et politesse en conflit (présenté sous l'étiquette « formation réactionnelle »)",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "On voit bien la réunion, le sourire et la réponse factuelle du lendemain. Mais l'article explique lui-même que la scène ne relève pas du concept annoncé, et le retour cite des répliques (« pas de souci », « s'être excusée ») qui ne figurent pas dans la scène.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Sophie, elle, sait qu’elle est en colère et sourit quand même.", "problem": "La formation réactionnelle suppose une impulsion qui reste hors de la conscience. L'article montre une colère consciente et le reconnaît (« ce décalage conscient ne suffit pas à établir une formation réactionnelle ») : le concept du titre n'est pas illustré.", "fix": "Soit retitrer l'épisode sur la suppression ou l'inhibition de la colère au travail, soit réécrire la scène pour que Sophie ne perçoive sa colère qu'après coup (gentillesse appuyée et zèle pour Marc, colère découverte le soir sur le tapis)."},
+        {"severity": "mineur", "type": "continuite", "quote": "Elle a écrit « pas de souci » à la fin de la réunion", "problem": "Dans la scène, Sophie dit qu'il « a probablement raison » et le remercie ; ni « pas de souci » écrit ni excuse ne sont montrés. « elle relit son propre message d’hier » renvoie à un message inexistant.", "fix": "Reprendre les mots de la scène (« tu as probablement raison, je vais tout reprendre ») et préciser qu'elle relit le compte rendu de réunion qu'elle a envoyé."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il vient de rejeter, d'un revers de main désinvolte, toute la structure de la nouvelle base de données", "problem": "Le Marc méprisant de cet épisode n'est pas raccordé au Marc de l'ép. 1, qui relisait son travail pour l'aider.", "fix": "Ajouter une phrase situant le changement (nouvelle responsabilité de Marc sur la refonte, tension de calendrier)."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi.md",
+      "focus": "humiliation après une moquerie publique d'un collègue",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'imitation par Marc et la présence de Claire sont nettes, et la responsabilité est bien placée. Le retour décrit des étapes (« tableau des preuves », « script ») de façon procédurale et laisse sans suite la question d'un signalement.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Après la réunion, Sophie suit les trois étapes qu'elle connaît maintenant bien. Elle ouvre son carnet sur la terrasse du bâtiment, écrit les faits observables, puis remplit le tableau des preuves.", "problem": "Le retour est procédural. Claire était sortie avec elle dans l'ouverture, et pourtant Sophie « appelle Claire pour répéter le script ». La phrase qu'elle prépare n'est jamais citée.", "fix": "Montrer la terrasse avec Claire, la phrase écrite (« je préfère qu'on discute de la technique ») et sa décision : parler ou non à un responsable."},
+        {"severity": "majeur", "type": "repetition", "quote": "Sophie remarque ce schéma quand elle propose de tout réécrire après la réunion", "problem": "La proposition de « tout reprendre » et le sourire d'excuse face à Marc reprennent la scène de l'ép. 7 au lieu d'un aspect propre à l'humiliation.", "fix": "Remplacer par une conduite propre à cette scène (éviter la présentation suivante, relire les messages de l'équipe pour y chercher un verdict)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "les notes prises lors de l'épisode d'overthinking lui servent d'ancrage", "problem": "Le texte renvoie à la série elle-même et énumère des acquis de façon abstraite.", "fix": "« les notes de la veille de la démo, en mars, lui servent d'ancrage »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Le lendemain, lors d'une courte réunion technique, Marc lance une remarque sarcastique.", "problem": "La conduite de Marc se répète, mais le retour ne dit pas si Sophie ou Claire en parlent à quelqu'un. Les épisodes suivants n'y reviennent pas.", "fix": "Ajouter une phrase de décision (Sophie demande à Claire de l'accompagner chez la responsable d'équipe, ou choisit d'attendre en gardant ses notes)."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec.md",
+      "focus": "sentiment et schéma d'échec après le refus de la candidature",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le courriel de refus, la phrase sur la gestion d'équipe et la spirale de pensées sont clairs. Le refus est cohérent avec l'ép. 2, où Sophie déclare ne pas avoir géré de recrutement. Seule l'arrivée de Claire n'est pas montrée.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle les montre à Claire en lui demandant de ne pas lui dire tout de suite que ce refus est une bonne chose.", "problem": "Sophie est seule chez elle depuis le début ; on ne sait pas si Claire est venue, si elles s'appellent ou si Sophie lui envoie une capture.", "fix": "« Elle envoie les deux phrases à Claire, qui l'appelle aussitôt »."},
+        {"severity": "mineur", "type": "continuite", "quote": "L’association a choisi quelqu’un qui a déjà dirigé une équipe", "problem": "Le mail cité dit seulement « nous recherchons une expérience plus affirmée en gestion d'équipe ». Le choix d'un autre candidat est une déduction présentée comme un fait.", "fix": "« L'association cherche quelqu'un qui a déjà dirigé une équipe »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "laisse son portfolio ouvert sur la table", "problem": "Le portfolio n'a pas été ouvert dans la scène.", "fix": "Montrer plus tôt Sophie ouvrant son portfolio pour chercher l'erreur, ou supprimer le détail."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent.md",
+      "focus": "heuristique d'affect devant un solde bancaire et une offre de placement",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La laverie, la notification et la date du paiement forment une scène nette, bien liée au concept. Le dernier paragraphe du retour introduit un autre événement, sans contexte, qui brouille la fin.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Lorsque Marc a récemment fait une remarque sur une dépense pour un atelier professionnel, la sensation de honte est remontée. Mais Sophie a appliqué la simulation en deux colonnes", "problem": "Cet épisode sur Marc et un atelier n'apparaît nulle part ailleurs. La « simulation en deux colonnes » et le « scénario rationnel » ne correspondent à aucune des trois techniques. La fin quitte la laverie.", "fix": "Supprimer ce paragraphe et finir sur Sophie qui retrouve Claire pour déjeuner en ayant noté le nom de l'offre à vérifier auprès de l'AMF."},
+        {"severity": "mineur", "type": "proches", "quote": "À la laverie, Sophie peut montrer à Claire la notification ou garder son écran pour elle.", "problem": "Dans l'article, Claire n'est pas à la laverie ; elle écrit pour demander à rejoindre Sophie avant le déjeuner.", "fix": "« Quand Claire la rejoint à la laverie, Sophie peut lui montrer la notification… »."},
+        {"severity": "mineur", "type": "trame", "quote": "Exemple concret : recevoir une dépense imprévue de 60 euros", "problem": "Exemple générique isolé ajouté avant la liste « Exemples concrets », sans lien avec la scène.", "fix": "Supprimer cette ligne."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes.md",
+      "focus": "sentiment d'imposture face au compliment d'une amie",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le salon de thé et le compliment sur le test sont clairs. Le retour enchaîne ensuite un second compliment, une « discussion de groupe sur une playlist » et un « échange de miroir » qui n'est expliqué nulle part.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "la Sophie d'aujourd'hui se rappelle l'échange de miroir et demande simplement à Claire", "problem": "Aucune technique ne s'appelle « échange de miroir ». Le terme revient au paragraphe suivant (« elle applique l'échange de miroir à voix basse »). La « discussion de groupe sur une playlist » et ses participants ne sont pas présentés.", "fix": "Remplacer par la technique 2 (« demander quel aspect a servi ») et situer la playlist (« au dîner avec Claire et deux amies, Inès et Paul… »)."},
+        {"severity": "majeur", "type": "continuite", "quote": "Elle se souvient de sa récente crise d'angoisse à la laverie face à ses comptes bancaires", "problem": "L'ép. 10 montre une inquiétude devant un solde, pas une crise d'angoisse. L'étiquette exagère et clinicise l'épisode précédent ; l'ép. 12 la reprend.", "fix": "« Elle se souvient de la matinée à la laverie, quand elle avait relu dix fois son solde »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Sophie répond automatiquement qu'elle a juste eu de la chance et qu'elle prépare déjà une punition future", "problem": "La phrase mêle ce qu'elle dit à Claire et ce qu'elle pense ; on ne sait pas si elle annonce la « punition » à voix haute.", "fix": "« Sophie répond qu'elle a juste eu de la chance. Dans sa tête, elle pense déjà à la prochaine tâche qui la démasquera. »"},
+        {"severity": "mineur", "type": "trame", "quote": "Ce comportement est typique : au lieu d'intégrer l'éloge, la personne le dissout dans une explication externe. Concrètement :", "problem": "Les trois manifestations se terminent par « Concrètement : » suivi directement de « Exemples concrets : ».", "fix": "Supprimer les trois « Concrètement : »."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents.md",
+      "focus": "recherche d'approbation parentale au téléphone avec son père",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'appel, le « c'est bien » neutre et la capture d'écran qu'elle n'envoie pas montrent bien le mécanisme. La fin sur le placard du père est concrète. Le deuxième paragraphe accumule des rappels qui alourdissent la scène.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "lui rappelant étrangement cette soirée de mai où elle s'était réfugiée dans une laverie automatique pour calmer une crise d'angoisse financière", "problem": "L'ép. 10 se passe « en fin de matinée » le 8 mai, et il ne s'agit pas d'une crise d'angoisse.", "fix": "« cette matinée de mai à la laverie où elle relisait son solde »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Lors de sa dernière visite, Sophie avait d’abord pensé annuler sa soirée pour passer à la pharmacie, avant de vérifier avec sa mère que la tâche pouvait attendre.", "problem": "À l'ép. 5, Sophie dit d'abord oui, puis refuse la pharmacie en invoquant son train ; elle ne « vérifie » pas avec sa mère.", "fix": "« avait d'abord accepté de passer à la pharmacie, avant de dire qu'elle devait prendre son train »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "lors du premier chapitre", "problem": "Le texte renvoie à la série plutôt qu'à la vie de Sophie.", "fix": "« après la veille de démo, en mars »."},
+        {"severity": "mineur", "type": "trame", "quote": "On peut vouloir l’approbation de ses proches pour toutes sortes de raisons.", "problem": "Dernier épisode : la conclusion ne referme pas l'arc (candidature refusée, Marc, limite avec les parents) et ne dit pas où en est Sophie.", "fix": "Ajouter deux phrases sur ce que Sophie garde de ces mois (envie d'encadrer, limites avec ses parents) et sur son projet suivant."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, aucun surnuméraire. Les ép. 1 et 3 se recouvrent fortement (veille de démo, question de Marc sur un cas de test). Il est conseillé de déplacer la scène de l'ép. 3 hors de la démo. Il manque aussi un raccord narratif sur la suite donnée à la moquerie de Marc (ép. 8) avant l'ép. 11.",
+  "verdict": "corrections_majeures"
+}

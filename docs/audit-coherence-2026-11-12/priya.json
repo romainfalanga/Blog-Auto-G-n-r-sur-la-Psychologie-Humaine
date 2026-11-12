@@ -1,0 +1,172 @@
+{
+  "character_id": "priya",
+  "type": "origine",
+  "auditor": "audit_o7",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Née en 1993 (33 ans), médecin généraliste en cabinet de ville (cabinet des Glycines), célibataire, vit seule. Proches : son père Raj (dont la santé inquiète, et qui semble lui-même médecin dans l’épisode 7), sa mère Anjali, sa sœur Anita, son amie Julie (secteur hospitalier), un ex, Damien, présenté par allusions comme quelqu’un dont il faut se protéger. Personnages de travail : Marc (candidat à l’association), Antoine (présentateur d’une procédure de télétransmission), Claire (patiente), la secrétaire.",
+    "arc_summary": "Priya commence par une distance dans l’intimité (ép. 1) et une inquiétude pour son père (ép. 2), puis traverse une série de décisions professionnelles : choisir un associé (Marc, ép. 4), réagir à une institution (ép. 5 à 7), envisager un poste de direction en clinique (ép. 8), puis un nouveau local (ép. 11). En parallèle, elle reprend contact avec Julie (ép. 3), s’ouvre un peu à un homme qu’elle fréquente (ép. 9) et laisse plus de place à une patiente (ép. 10). Chaque épisode se clôt sur une petite décision, mais aucun des fils ouverts (association avec Marc, poste en clinique, santé de Raj, nouveau local) n’est conclu.",
+    "arc_issues": [
+      "Le fil de l’association avec Marc est relancé d’épisode en épisode (ép. 4 « Elle demande un entretien à Marc pour le lendemain », ép. 5 « n’a toujours pas proposé de deuxième rendez-vous », ép. 6 « elle laisse un message à Marc », ép. 7 « il est prêt à reparler du partage des décisions », ép. 8 « Marc attend encore qu’elle lui propose une date ») puis disparaît sans issue. À l’épisode 11, un « bail du nouveau local » apparaît sans qu’on sache s’il s’agit du projet avec Marc, d’un projet seul, ni ce qu’est devenu le poste en clinique de l’épisode 8.",
+      "La santé de Raj n’est jamais située : l’épisode 2 évoque un séjour passé à l’hôpital et « des nouvelles de leur père cette semaine », l’épisode 11 fait demander par Anjali « si elle a des nouvelles de Raj ». Le lecteur ne sait pas si le père est malade aujourd’hui, ni de quoi, ni pourquoi Priya, médecin, n’a pas de nouvelles directes. L’épisode 7 fait en plus de Raj un médecin (« une consigne qu’il jugeait trop éloignée de ses patients ») sans que la fiche ni l’épisode 2 le disent.",
+      "Damien est cité dans presque tous les épisodes comme référence (ressemblance, méfiance, vulnérabilité) sans jamais être présenté : on comprend par déduction qu’il s’agit d’un ex contrôlant (« à l’époque où une hésitation suffisait pour qu’il décide à sa place », ép. 1 ; « personne violente », ép. 3). Une phrase de présentation dans l’épisode 1 ou 3 manque.",
+      "Les épisodes 5, 6 et 7 tournent autour du même objet (la procédure de télétransmission, le recommandé de l’Ordre, la question du logiciel) et du même thème « face à l’autorité ». Les concepts diffèrent (mépris, méfiance/abus, biais d’autorité) mais les scènes se ressemblent : Priya relit un document administratif, hésite, note une question en attente.",
+      "Les sections explicatives relient souvent l’épisode à un précédent par une phrase plaquée (ép. 2 « Il lui rappelle la distance qu’elle a prise après une soirée intime » ; ép. 5 « la froideur avec laquelle elle a mis une semaine à rappeler Julie » ; ép. 9 « une armure de mépris qu’elle avait déjà utilisée pour se protéger d’Antoine »), ce qui donne à Priya un portrait psychologique global que les scènes ne montrent pas.",
+      "Le parcours ne compte que 11 épisodes et le dernier n’est pas conclusif : la conclusion de l’épisode 11 est générique et ne résout pas l’enjeu de la série."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite.md",
+      "focus": "Attachement évitant-dédaigneux : donner un empêchement pratique au lieu de dire une préférence de distance après un moment intime.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La scène du lit, du verre et du pull est concrète et la décision finale (« Elle dit oui ») est nette. Seul le premier paragraphe commence par un « Il » non présenté ; l’homme n’est situé qu’au troisième paragraphe, et Damien est cité sans être présenté.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il vient de lui demander s’il peut rester.", "problem": "Le partenaire n’est présenté (« qu’elle fréquente depuis quelques semaines ») qu’au troisième paragraphe ; il reste sans prénom pendant tout l’épisode et on ne saura pas si c’est le même homme qu’à l’épisode 9.", "fix": "Présenter l’homme dès la première phrase (« L’homme qu’elle fréquente depuis quelques semaines vient de lui demander… ») et lui donner un prénom réutilisable à l’épisode 9."},
+        {"severity": "majeur", "type": "comprehension", "quote": "elle se souvient d’avoir cherché un prétexte du même genre avec Damien, à l’époque où une hésitation suffisait pour qu’il décide à sa place", "problem": "Damien, référence centrale du parcours, apparaît sans présentation ; le lecteur doit deviner qu’il s’agit d’un ex et que la relation était contrôlante.", "fix": "Ajouter une demi-phrase : « avec Damien, son ancien compagnon, à l’époque où… »."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Objectif : prendre une pause sans se demander de faire venir une émotion.", "problem": "La technique 1 (repère présent tiré du guide de l’OMS sur le stress) n’est pas liée à l’attachement ni à la scène ; elle pourrait figurer dans n’importe quel épisode.", "fix": "Ancrer le repère dans la scène (le verre, le bord du lit) et dire à quoi il sert ici : se donner le temps de distinguer l’horaire de travail de l’envie d’être seule."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse.md",
+      "focus": "Anxiété face à la maladie d’un proche, réactivée au cabinet : vérifications répétées et occupation qui remplacent la demande d’appui.",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Les gestes (troisième vérification du numéro, dossiers rangés) sont clairs, mais les liens familiaux sont donnés en désordre : Raj et Anjali apparaissent avant d’être identifiés, et l’on ne sait pas si le père est malade aujourd’hui.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Le jour où Raj attendait ses résultats à l’hôpital, Anjali lui avait dit la même chose. Sa mère avait parlé ensuite de sa place de parking", "problem": "Raj et Anjali ne sont pas présentés ; « Sa mère » peut désigner Anjali ou une troisième personne. Le fait que Raj soit le père n’est déduit que de « leur père » au paragraphe suivant.", "fix": "Écrire : « Le jour où son père, Raj, attendait ses résultats à l’hôpital, sa mère, Anjali, lui avait dit la même chose. Elle avait parlé ensuite… »."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle pense à demander à Anita si elle a eu des nouvelles de leur père cette semaine.", "problem": "L’enjeu reste flou : le séjour à l’hôpital est-il ancien ? Raj est-il malade maintenant ? Pourquoi Priya passe-t-elle par sa sœur pour avoir des nouvelles ? Le lecteur ne sait pas ce que Priya redoute.", "fix": "Situer en une phrase l’état actuel de Raj (par ex. un suivi en cours depuis l’hospitalisation de l’an dernier) et la raison pour laquelle Anita est l’interlocutrice."},
+        {"severity": "majeur", "type": "trame", "quote": "Elle complète le carnet de suivi, puis s’attarde sur une série de documents qui peuvent attendre demain. La secrétaire raccroche et lui demande si elle a encore besoin d’elle.", "problem": "La section « manifestations » reprend le récit avec une seconde intervention de la secrétaire, alors que la scène l’a déjà fait partir ; la chronologie se dédouble et la section explicative devient une suite de scène.", "fix": "Déplacer ces phrases dans la scène d’ouverture (ou les supprimer) et ouvrir la section par une phrase générale sur les manifestations."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Il lui rappelle la distance qu’elle a prise après une soirée intime.", "problem": "Rapprochement plaqué avec l’épisode 1 : rien dans la scène ne relie le classement des dossiers à la soirée intime.", "fix": "Supprimer la phrase et la suivante, ou les remplacer par un détail de la scène."},
+        {"severity": "mineur", "type": "trame", "quote": "Dans sa voiture à l’arrêt, Priya remarque ses doigts crispés sur le volant.", "problem": "La technique 3 introduit une scène (la voiture) qui anticipe le retour ; le lecteur ne sait plus si l’action a déjà eu lieu.", "fix": "Garder la voiture pour la section « Un appel à Anita » et formuler la technique au conditionnel."},
+        {"severity": "mineur", "type": "trame", "quote": "## Un appel à Anita", "problem": "L’intertitre annonce un appel alors que Priya envoie un message et que l’appel est reporté au lendemain.", "fix": "Intituler « Un message à Anita »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens.md",
+      "focus": "Sentiment de trahison en amitié quand une amie croise l’ex : retrait, ruminations, puis clarification d’une limite jamais dite.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le message de Julie, la question effacée et le refus sont clairs ; la scène de rappel règle la question (Julie n’a rien dit) et Priya formule sa limite. Deux points restent obscurs : la relation de Julie avec Priya n’est pas dite d’emblée et la question « pourquoi elle s’est arrêtée » est ambiguë.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Elle retrouve ici cette rigidité mentale qu'elle avait observée en traitant le dossier de pathologie chronique qui lui rappelait son père, Raj", "problem": "L’épisode 2 parle d’un patient qui attend des résultats d’examen, pas d’un « dossier de pathologie chronique » ; le rappel déforme l’épisode précédent. Le passage attribue aussi à Priya des ruminations « pendant ses consultations » sur ses collègues, absentes de la scène.", "fix": "Supprimer la phrase ou écrire « le dossier du patient qui attendait ses résultats » ; retirer la mention des collègues ou la montrer dans la scène."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Sa voix se raidit quand Priya lui demande pourquoi elle s’est arrêtée.", "problem": "On ne comprend pas qui s’arrête où (s’arrêter pour parler à Damien ?) ni pourquoi la voix de Julie se raidit.", "fix": "« … quand Priya lui demande pourquoi elle s’est arrêtée pour lui parler. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Priya descend les marches du cabinet en lisant le message de Julie.", "problem": "Julie n’est présentée comme amie que par le titre ; Damien, encore une fois, n’est pas présenté.", "fix": "« … le message de Julie, son amie depuis l’internat » et « Quand elle était avec Damien, son ex, … »."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante.md",
+      "focus": "Biais de disponibilité : un souvenir (Damien) et un litige lu la veille orientent l’examen d’une seule candidature d’associé.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "faible", "retour": "ok", "conclusion": "faible", "proches": "faible"},
+      "comprehension": 3,
+      "comprehension_note": "Le mécanisme est bien rendu (« appeler les références » écrit sur un seul dossier), mais la décision en jeu n’est jamais énoncée : on devine qu’il s’agit de choisir un associé pour le cabinet à partir de « litige entre associés ».",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "En salle de garde, Priya aligne les trois candidatures sur un bureau trop étroit.", "problem": "Le lecteur ne sait pas à quoi correspondent ces candidatures (associé, remplaçant, salarié ?) ni pourquoi Priya recrute. L’enjeu de la « décision importante » n’est pas posé.", "fix": "Ajouter une phrase : « Elle cherche un associé pour reprendre la moitié de la patientèle du cabinet des Glycines » (ou le motif exact)."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Un médecin comme Priya, régulièrement exposée à des revues professionnelles ou à des actualités médicales, peut être influencée par des cas isolés de fautes professionnelles", "problem": "Paragraphe générique sur les médias, peu lié à la scène (un seul récit de litige lu la veille).", "fix": "Réduire à ce que montre la scène : le récit du litige, ce qu’elle en retient et ce qu’elle en ignore."},
+        {"severity": "mineur", "type": "proches", "quote": "Si Priya parle à Julie du litige qu’elle a lu en salle de garde", "problem": "Julie n’apparaît pas dans la scène et le litige a été lu « la veille », pas en salle de garde ; la rubrique n’est pas ancrée dans l’épisode.", "fix": "Ancrer la rubrique dans un proche de la scène (un confrère de garde) ou corriger : « le litige qu’elle a lu la veille »."},
+        {"severity": "mineur", "type": "trame", "quote": "Un souvenir peut suggérer une bonne question. Pour estimer un risque, il faut chercher des informations qui portent sur la décision actuelle", "problem": "Conclusion de deux phrases qui ne dit rien de ce que la décision change pour Priya.", "fix": "Ajouter une phrase sur l’entretien prévu avec Marc et ce qui reste à vérifier pour l’association."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense.md",
+      "focus": "Mépris : remarque micro coupé contre un présentateur institutionnel, qui remplace la question de travail.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La remarque « Qu’il vienne passer un mardi ici » et la question finale sont claires. En revanche Antoine n’est jamais situé (de quelle institution ?), ce qui affaiblit l’« autorité » annoncée, et la dernière phrase sur le numéro est ambiguë.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Sur l’écran, Antoine présente la nouvelle procédure de télétransmission.", "problem": "On ignore qui est Antoine et quelle institution il représente (Assurance maladie, éditeur du logiciel ?) ; or l’épisode porte sur le mépris « face à l’autorité ».", "fix": "« Antoine, le référent de la caisse d’Assurance maladie, présente… » (ou l’institution exacte)."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "L'ironie permet à Priya de dire son désaccord à une collègue sans avoir à l'exprimer pendant la réunion.", "problem": "Aucune collègue n’est présente dans la scène ; la manifestation décrit une situation qui n’a pas lieu. Même chose pour « Ce mécanisme rappelle la froideur avec laquelle elle a mis une semaine à rappeler Julie », rapprochement plaqué.", "fix": "Supprimer ces deux phrases ou les remplacer par la remarque micro coupé et la phrase effacée du chat."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle laisse son numéro là où elle pourra le retrouver.", "problem": "« son numéro » peut désigner le numéro de Marc ou celui de Priya.", "fix": "« Elle laisse le numéro de Marc en haut du dossier. »"}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite.md",
+      "focus": "Schéma méfiance/abus : un recommandé de l’Ordre lu comme une mise en cause personnelle.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "faible"},
+      "comprehension": 2,
+      "comprehension_note": "On suit Priya relisant un courrier, mais on n’apprend jamais ce qu’il demande : « changements informatiques », « vérification », puis « Le contrôle décrit est une mesure commune ». Le lecteur ne sait pas ce qu’elle craignait ni ce qui la rassure.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Le contrôle décrit est une mesure commune. Un point reste obscur : elle ne sait pas si le logiciel déjà installé suffit.", "problem": "Le contenu du courrier reste abstrait du début à la fin ; la résolution ne dit pas ce qui est contrôlé ni ce qui est demandé. La phrase « À la ligne qu’elle vient de lire, le sujet de la phrase se trouve en haut de la page précédente » est en plus difficile à suivre.", "fix": "Nommer l’objet : par ex. « une vérification de conformité des logiciels de télétransmission dans tous les cabinets du département » et montrer la phrase qui, relue avec la page précédente, s’adresse à tous les cabinets."},
+        {"severity": "majeur", "type": "repetition", "quote": "Quatre jours plus tôt, en visioconférence, elle avait cru qu’Antoine passait volontairement sur les difficultés des médecins.", "problem": "Même cadre que l’épisode 5 (logiciel, Antoine, question en attente, dossier de Marc mis de côté) et la troisième manifestation reprend explicitement le mépris de l’épisode 5. L’aspect « méfiance » n’est pas assez distingué du « mépris ».", "fix": "Donner à la méfiance une scène propre (le recommandé seul, sans revenir à Antoine) et supprimer la sous-partie « La contre-attaque préemptive par le mépris »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Priya limite ses interactions avec ses collègues ou les instances représentatives au strict minimum. Elle refuse de déléguer, de demander de l'aide ou de s'impliquer dans des projets collectifs", "problem": "Généralisation sur le caractère de Priya que rien ne montre dans le parcours (elle cherche justement un associé et rejoint une visioconférence collective).", "fix": "Supprimer ces deux phrases et garder l’hésitation à demander à qui la mesure s’applique."},
+        {"severity": "mineur", "type": "proches", "quote": "Si Priya lui montre les deux pages du recommandé, une consœur peut lire avec elle", "problem": "Aucune consœur n’apparaît dans la scène ; la rubrique invente le proche.", "fix": "Introduire dans la scène une consœur du cabinet ou la secrétaire, ou adresser la rubrique à Marc à qui elle laisse un message."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya.md",
+      "focus": "Biais d’autorité : copier une recommandation à cause de la signature d’un professeur admiré par son père.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le geste central (copier une ligne parce que le nom est familier, puis s’arrêter sur un mot) illustre bien le biais. Le document n’est pas identifié au départ et Raj apparaît soudain comme médecin.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "À table, Raj pouvait s’agacer longtemps d’une consigne qu’il jugeait trop éloignée de ses patients.", "problem": "C’est la première fois que Raj est présenté comme soignant, sans que ce soit dit (ni dans la fiche ni dans l’épisode 2 où il est hospitalisé). Le lecteur ne sait pas que Raj est le père.", "fix": "« Son père, Raj, médecin lui aussi, pouvait s’agacer… », et vérifier la fiche du personnage."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Priya a imprimé le document pour préparer sa consultation de l’après-midi.", "problem": "« le document » n’est identifié comme une recommandation qu’au troisième paragraphe.", "fix": "« Priya a imprimé une recommandation sur … pour préparer sa consultation… »."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Priya observe cela chez certains confrères qui appliquent des protocoles sans les questionner", "problem": "Observation générale non montrée ; de même la « quête de perfectionnisme épuisante » de la troisième manifestation n’apparaît dans aucune scène.", "fix": "Supprimer ou rattacher à un détail de la scène."},
+        {"severity": "mineur", "type": "repetition", "quote": "La lettre du 11 avril dépasse d’une pochette.", "problem": "Troisième épisode consécutif sur le même courrier et la même question de logiciel.", "fix": "Réduire la place du courrier de l’Ordre à une phrase et centrer la scène sur la recommandation et le patient."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante.md",
+      "focus": "Biais du survivant : une brochure ne montre que les médecins restés en poste de direction.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La question « Qui est parti ? » écrite sous la brochure rend le concept immédiatement compréhensible, et la rencontre avec Julie apporte le cas manquant sans trancher. Reste à comprendre pourquoi Priya envisage ce poste alors qu’elle prépare une association.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Trois généralistes y racontent pourquoi ils ont accepté un poste de direction.", "problem": "Le projet de poste en clinique surgit alors que Priya cherche un associé pour son cabinet depuis l’épisode 4 ; le texte ne dit pas comment les deux projets s’articulent, et le poste n’est plus jamais mentionné après l’épisode 11.", "fix": "Ajouter une phrase qui situe l’offre (reçue comment, alternative à l’association ou complément) et la reprendre dans l’épisode final."},
+        {"severity": "mineur", "type": "trame", "quote": "Le médecin évoqué par Julie peut apporter un autre récit sans permettre de calculer un taux à partir d’un seul cas.", "problem": "Exemple qui anticipe le retour à la scène ; le lecteur n’a pas encore rencontré ce médecin.", "fix": "Remplacer par un exemple tiré de la brochure."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes.md",
+      "focus": "Vulnérabilité : répondre par le travail à une question personnelle, puis revenir sur la réponse plus tard.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le dîner, le formulaire réimprimé et la casserole du dahl rendent bien la réponse détournée ; le retour (« Le dimanche, je cuisine ») est simple et clair. L’homme n’a pas de nom et l’on ignore si c’est celui de l’épisode 1.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Certaines personnes testent leur partenaire pour mesurer sa fiabilité avant d'exposer un besoin profond. Cela peut prendre la forme d'ironie, de petites provocations ou de blagues acides", "problem": "La troisième manifestation (tests, humour acide, « armure de mépris ») ne correspond à rien dans la scène ; les deux exemples sont au conditionnel et inventés.", "fix": "Remplacer par une manifestation visible dans la scène, par ex. le message « bien rentrée » commencé trop tôt dans le bus, ou la question sur les enfants posée trop tard."},
+        {"severity": "mineur", "type": "continuite", "quote": "Au restaurant, l’homme en face de Priya lui demande ce qui lui plaît en dehors du travail.", "problem": "Partenaire anonyme ; « en couple » et « son compagnon » (rubrique proches) surestiment une relation de quelques rendez-vous ; le lien avec l’homme de l’épisode 1 n’est pas dit.", "fix": "Donner un prénom et préciser « l’homme qu’elle voit depuis deux mois, le même que… » ; dans la rubrique, remplacer « son compagnon » par son prénom."},
+        {"severity": "mineur", "type": "repetition", "quote": "Lors de la sélection d’un associé, des souvenirs faciles à rappeler avaient orienté ses questions", "problem": "Rappel du biais de disponibilité sans rapport avec la scène intime.", "fix": "Supprimer la phrase."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie.md",
+      "focus": "Indifférence apparente du soignant : conclure une consultation avant que la patiente ait dit sa difficulté pratique.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La scène avec Claire (« Et pour le bus ? ») est vivante et claire. Le retour à la scène est en revanche abstrait : une « consultation suivante » sans patient identifié et un « appel » à Claire qui n’a pas été annoncé.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "À la consultation suivante, Priya arrive au même moment où elle voudrait déjà proposer une suite. Elle laisse finir la phrase qu’elle allait interrompre. Une information sur les heures de travail change le créneau qu’elle peut proposer.", "problem": "Phrases procédurales : on ne sait pas qui est le patient suivant, quelle phrase il dit, ni ce qui change. La décision n’est pas montrée.", "fix": "Montrer le patient suivant (prénom, phrase dite, créneau modifié) en deux ou trois phrases concrètes."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Lorsqu’elle reprend le dossier de Claire, elle vérifie avec elle comment sera organisé le retour avant de terminer l’appel.", "problem": "Claire est partie ; l’« appel » surgit sans contexte (qui appelle, quand, pourquoi).", "fix": "« En fin de journée, elle rappelle Claire et lui demande si un rendez-vous à 10 h lui permettrait de rentrer sans correspondance. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Le désir d’en finir lui rappelle celui qu’elle a eu de quitter la visioconférence", "problem": "« désir d’en finir » est ambigu (expression qui évoque aussi des idées suicidaires) et le rappel d’Antoine est plaqué.", "fix": "« L’envie d’abréger la consultation… » et supprimer la comparaison avec la visioconférence."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante.md",
+      "focus": "Rationalisation : « trop cher » comme raison unique avancée pour écarter un nouveau local, alors que la crainte de la réaction de la mère compte aussi.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le geste de la note « Trop cher, à expliquer à maman » est parlant, mais le projet de « nouveau local » n’a jamais été présenté et l’on ne comprend pas pourquoi la mère de Priya aurait son mot à dire sur le bail de son cabinet. Dernier épisode publié sans résolution.",
+      "issues": [
+        {"severity": "bloquant", "type": "continuite", "quote": "Priya a imprimé le bail du nouveau local et entouré le loyer.", "problem": "Le « nouveau local » n’a été annoncé dans aucun épisode. On ne sait pas s’il est lié à l’association avec Marc (ép. 4 à 8) ou s’il la remplace, ni ce qu’est devenu le poste en clinique (ép. 8) ; l’épisode final ouvre un troisième projet au lieu de fermer les deux premiers.", "fix": "Relier explicitement le local à la décision précédente (« Depuis qu’elle a renoncé au poste de la clinique et que Marc a accepté de s’associer, ils cherchent un local… ») ou annoncer ce projet dans un épisode antérieur."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle a écrit « Trop cher, à expliquer à maman » sur une seule ligne.", "problem": "Pourquoi Priya devrait-elle expliquer son bail à sa mère ? L’enjeu familial (attente des parents, aide financière, avis de Raj médecin ?) n’est pas posé et le geste de barrer puis recopier les mots reste opaque.", "fix": "Situer l’attente d’Anjali en une phrase (par ex. ses parents ont aidé à financer son installation) et dire ce que Priya veut éviter en écrivant « trop cher »."},
+        {"severity": "majeur", "type": "continuite", "quote": "Pour une personnalité qui cherche à plaire comme Priya, cela signifie souvent justifier le renoncement à ses propres besoins par le souci du bien-être des autres.", "problem": "Le portrait « qui cherche à plaire » contredit le reste du parcours (distance, méfiance, mépris de l’autorité) et n’est montré nulle part.", "fix": "Supprimer l’étiquette et rester sur la crainte précise de la réaction d’Anjali."},
+        {"severity": "majeur", "type": "trame", "quote": "Une décision peut faire intervenir des raisons pratiques et des craintes relationnelles à la fois.", "problem": "La conclusion du dernier épisode est générique : elle ne dit rien de l’ensemble du parcours ni de ce que Priya décide pour son cabinet, Marc, la clinique ou son père.", "fix": "Ajouter un dénouement de parcours (ou un douzième épisode, voir missing_or_extra) qui ferme l’enjeu professionnel et situe la relation avec la famille."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Quand elle rappelle Anjali, sa mère lui demande d’abord si elle a des nouvelles de Raj.", "problem": "Relance la question de la santé de Raj sans jamais la situer (voir arc_issues).", "fix": "Dire en une phrase où en est Raj."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours de 11 épisodes : il manque un douzième épisode qui ferme l’arc. Concepts déjà traités : attachement évitant, anxiété, trahison, disponibilité, mépris, méfiance/abus, biais d’autorité, biais du survivant, vulnérabilité, indifférence, rationalisation. Proposition : un épisode « Peur de l’engagement face à une décision importante » (ou « aversion à la perte / biais du statu quo ») dans lequel Priya tranche entre l’association avec Marc, le poste de direction en clinique et le nouveau local, en signant ou en renonçant, et rappelle son père Raj pour lui annoncer ce qu’elle fait (ce qui permet aussi de situer enfin son état de santé). Alternative, si l’on préfère alléger la série administrative : fusionner les épisodes 5 et 6 (mépris et méfiance autour du même logiciel) et écrire deux épisodes nouveaux, dont l’un sur l’ex Damien présenté explicitement (par ex. « hypervigilance après une relation de contrôle », avec un appui spécialisé).",
+  "verdict": "corrections_majeures"
+}

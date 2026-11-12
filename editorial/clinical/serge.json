@@ -842,6 +842,320 @@
           ]
         }
       ]
+    },
+    {
+      "number": 9,
+      "slug": "serge-sommeil-moral-evaluation",
+      "title": "Un sommeil perturbé et un moral bas méritent leur propre évaluation",
+      "description": "Serge dort mal et n’a plus d’élan devant le calendrier. Inès et Armand examinent ces changements sans les rattacher d’office au trouble factice.",
+      "context": "lors d’un point de suivi avec Inès et Armand",
+      "topics": [
+        "Sommeil et moral",
+        "Évaluation séparée",
+        "Contact en cas de changement"
+      ],
+      "clinical_intro": "Une personne qui a un trouble factice imposé à soi-même peut aussi traverser d’autres difficultés, psychiques ou médicales. Un sommeil qui se dérègle ou un moral qui baisse ne se déduisent pas du diagnostic connu : ils ne prouvent ni une tromperie ni une autre maladie. Ils demandent une évaluation propre, menée par chaque professionnel dans son rôle, à partir de ce que la personne rapporte et de ce que l’équipe observe.",
+      "opening": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Le docteur Armand, le médecin qui coordonne ses soins, s’est joint à eux pour la première demi-heure, comme ils l’avaient décidé à la fin de la consultation pour la gêne physique. Serge a apporté son agenda et, par habitude, une copie du calendrier des promenades pliée en trois. Il la laisse dans sa poche.\n\n« La dernière fois, vous avez parlé de votre sommeil et de votre moral, dit Inès. Racontez-nous comment se passent vos journées en ce moment. »\n\nSerge commence par des horaires, parce que c’est ce qu’il sait donner. Depuis environ trois semaines, il s’endort tard et se réveille vers quatre heures sans parvenir à se rendormir. À l’accueil de la résidence, il tient son poste, mais il relit deux fois le nom d’un visiteur avant de l’inscrire au registre. Le soir, la mise en page promise à Mireille, qui coordonne le groupe de promenade, l’attend sur la table. La tâche est claire : aligner les dates confirmées et reporter les horaires transmis par le volontaire. Il ouvre le fichier, regarde la première case, puis referme l’ordinateur sans rien avoir changé. Ce n’est pas difficile. C’est l’élan qui manque.\n\nIl s’arrête au milieu d’une phrase. « J’ai peur que vous pensiez que j’en rajoute. Que ça fasse partie du trouble. » Armand répond que ce qu’il décrit sera examiné pour lui-même. Il l’interroge sur la gêne de la semaine passée, sur ce qui a changé dans ses journées et sur les traitements qu’il prend déjà. Inès lui demande ce qu’il fait encore avec plaisir, qui il voit, ce qui l’aide un peu. Elle lui pose aussi, simplement, une question qu’elle pose dans ce genre d’entretien : lui arrive-t-il d’avoir des idées de se faire du mal ? Serge prend le temps d’y penser, puis répond que non.\n\nPersonne ne lui annonce un nom de maladie. Inès explique qu’elle note ce qu’il rapporte et ce qu’elle observe, et qu’il est trop tôt pour conclure. Armand garde la partie médicale ; elle garde l’humeur et ce qu’elle change dans sa vie.",
+      "clinical_focus": "Évaluer la santé psychique associée",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Serge décrit son sommeil et son moral à Inès et Armand ; un point à trois semaines et des contacts écrits sont fixés sans diagnostic ajouté ; il limite auprès de Mireille sa tâche à la mise en page, livrée dans dix jours.",
+        "next": "Avant de livrer cette mise en page, Serge veut comprendre ce que le travail psychothérapeutique peut viser et ce qu’aucun soin ne peut lui promettre."
+      },
+      "ending_title": "Une date de suivi et une carte dans le portefeuille",
+      "ending": "Avant la fin de l’entretien, Inès fixe un nouveau point dans trois semaines pour reprendre le sommeil et le moral. Sur une carte de rendez-vous, elle écrit le contact du cabinet à utiliser si son état change d’ici là et, en dessous, les numéros d’urgence. Armand précise la suite médicale de la gêne évaluée la semaine précédente. Aucun diagnostic nouveau n’est posé ce jour-là : Serge repart avec une période à observer et une date. Le soir, il glisse la carte dans son portefeuille, puis répond enfin à Mireille : « Je reprends seulement la mise en page des dates confirmées. Je te l’envoie dans dix jours. » Il ne parle ni de ses nuits ni de l’entretien. Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
+      "conclusion": "Un sommeil perturbé et un moral bas peuvent accompagner un trouble factice sans en être la preuve ni la conséquence obligée. Serge apprend à décrire ces changements avec des repères concrets, laisse l’équipe les évaluer selon ses rôles et garde une tâche de calendrier à sa mesure, sans que le groupe surveille son humeur.",
+      "mirror": [
+        "Mireille ne connaît de cette journée que le message de Serge : la mise en page arrivera dans dix jours. Elle peut répondre sur la tâche : « D’accord pour dix jours. Préviens-moi si la date bouge. » Elle n’a pas à lui demander comment il dort ni à guetter son humeur dans ses messages. Si un jour il lui confie qu’il va très mal ou qu’il pense à se faire du mal, elle peut lui dire : « Je ne peux pas évaluer ça. On appelle maintenant ton médecin ou le 15. »"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement psychique s’examine pour lui-même",
+          "text": "D’autres difficultés, médicales ou psychiques, peuvent accompagner un trouble factice ; elles ne se devinent pas à partir de lui et ne se présument pas non plus. Dans le bureau d’Inès, ce que Serge rapporte constitue un point de départ : l’endormissement tardif, les réveils à quatre heures, l’ordinateur refermé devant une tâche pourtant simple. Armand examine ce qui relève du médical, Inès l’humeur et son retentissement. Aucun des deux ne fait de cette fatigue un indice de sincérité ou d’exagération, ni de ce récit un diagnostic immédiat. Il faudra observer la période et réévaluer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un sommeil perturbé et un moral bas apparaissent-ils au quotidien ?",
+          "points": [
+            {
+              "heading": "Le sommeil change d’horaire",
+              "text": "Serge décrit d’abord des heures, parce que c’est ce qu’il sait repérer le plus facilement.",
+              "examples": [
+                "Depuis environ trois semaines, il s’endort tard et se réveille vers quatre heures.",
+                "À l’accueil de la résidence, il relit deux fois le nom d’un visiteur avant de l’inscrire au registre."
+              ]
+            },
+            {
+              "heading": "L’élan manque devant une tâche claire",
+              "text": "La difficulté ne vient pas de la complexité du travail, mais de la mise en route.",
+              "examples": [
+                "Il ouvre le fichier du calendrier et le referme sans avoir déplacé une seule case.",
+                "Il laisse plusieurs jours sans réponse un message de Mireille qui ne demandait qu’une date."
+              ]
+            },
+            {
+              "heading": "La peur d’être mal interprété s’ajoute",
+              "text": "Serge redoute que sa fatigue soit lue comme une nouvelle exagération, ce qui pourrait le pousser à se taire.",
+              "examples": [
+                "Il s’interrompt pour dire qu’il a peur qu’on pense qu’il « en rajoute ».",
+                "Il commence chaque nouvelle information par « je ne sais pas si c’est important »."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer l’évaluation d’un changement psychique",
+          "points": [
+            {
+              "heading": "Situer la période",
+              "objective": "Donner aux professionnels un repère dans le temps plutôt qu’une impression générale.",
+              "exercise": [
+                "Noter à partir de quand le sommeil ou le moral ont changé, même approximativement.",
+                "Indiquer ce qui s’est passé à la même période, sans en tirer soi-même une cause.",
+                "Apporter ces notes au rendez-vous et les lire si les mots manquent sur le moment."
+              ],
+              "benefit": "L’équipe peut comparer avec les semaines précédentes au lieu de partir d’un « ça ne va pas » difficile à situer."
+            },
+            {
+              "heading": "Décrire l’impact quotidien",
+              "objective": "Montrer ce que le changement modifie concrètement dans les journées.",
+              "exercise": [
+                "Choisir deux ou trois activités ordinaires : le travail, les repas, une tâche en cours.",
+                "Dire ce qui s’y passe désormais, avec un exemple récent pour chacune.",
+                "Signaler aussi ce qui continue de fonctionner ou de faire plaisir."
+              ],
+              "benefit": "La description reste concrète et laisse aux professionnels le soin d’en tirer, ou non, une conclusion."
+            },
+            {
+              "heading": "Suivre la réévaluation proposée",
+              "objective": "Inscrire le changement dans un suivi plutôt que le juger seul.",
+              "exercise": [
+                "Noter la date du prochain point et le contact à utiliser entre-temps.",
+                "Demander quels changements doivent amener à reprendre contact plus tôt.",
+                "En cas d’idées de se faire du mal ou de détresse aiguë, appeler le 15 ou le 3114 sans attendre le rendez-vous."
+              ],
+              "benefit": "Le changement est revu dans la durée, et une aggravation trouve une réponse immédiate plutôt qu’un exercice solitaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slug": "serge-objectifs-soin-preuves-limitees",
+      "title": "Une thérapie se définit par des objectifs, pas par une garantie",
+      "description": "Serge demande si une thérapie peut garantir qu’il ne transmettra plus d’information inexacte. Inès et Armand lui précisent objectifs et limites.",
+      "context": "en séance avec Inès puis au cabinet d’Armand",
+      "topics": [
+        "Objectifs de soin",
+        "Limites des connaissances",
+        "Réévaluation"
+      ],
+      "clinical_intro": "Le soin d’un trouble factice imposé à soi-même ne suit pas un protocole unique dont l’efficacité serait démontrée pour tous. Les connaissances reposent surtout sur des descriptions de cas et de petites séries. Un accompagnement psychothérapeutique se construit donc autour d’objectifs précis, discutés avec la personne et revus régulièrement, tandis que le médecin garde la responsabilité des décisions médicales. Aucun soin ne peut promettre qu’une difficulté ne reviendra jamais.",
+      "opening": "Huit jours après le point de suivi, Serge arrive à sa séance avec Inès, la psychologue, une feuille pliée en quatre dans la main. Il y a écrit sa question la veille, à la table de la cuisine, à côté de l’ordinateur où la mise en page du calendrier des promenades avance enfin, case après case. Il a souligné deux fois un mot.\n\nIl déplie la feuille et lit : « Est-ce que la thérapie peut me garantir que je ne donnerai plus jamais une information fausse sur ma santé ? »\n\nInès ne répond ni oui ni non tout de suite. Elle lui demande ce qu’il espère en posant la question ainsi. Serge dit qu’il voudrait être sûr. Sûr de ne plus devoir corriger quoi que ce soit, sûr que le docteur Armand, qui coordonne ses soins, n’aura plus à vérifier. Inès lui explique alors ce qu’elle peut proposer : un travail sur des objectifs qu’ils choisissent ensemble. Elle en écrit trois sur une feuille. Repérer le moment où l’envie de présenter sa santé autrement apparaît. Trouver d’autres façons de demander de la présence. Pouvoir dire à l’équipe une difficulté sans craindre d’être rejeté. Elle ajoute qu’on connaît encore mal ce qui aide le plus dans ce trouble : on dispose surtout d’histoires de patients décrites une à une, pas d’études qui permettraient de promettre un résultat. C’est pour cela qu’ils referont le point régulièrement.\n\nSerge demande s’il existe un médicament « pour ça ». Inès répond que cette question revient à Armand.\n\nLe lendemain matin, au cabinet, Serge la lui pose. Armand ne lui prescrit rien en ce sens. Il explique qu’aucun médicament n’a montré qu’il traitait ce trouble lui-même. Si un autre problème de santé demandait un traitement, ils en parleraient à part, et cela ne dirait rien en soi sur le trouble factice. Le médecin fait aussi le point sur la gêne évaluée deux semaines plus tôt et rappelle le rendez-vous prévu pour le sommeil et le moral.\n\nSerge recopie les trois objectifs dans son agenda. Il aurait préféré une garantie. Il a une liste, une date et des personnes à qui poser ses questions.",
+      "clinical_focus": "Objectifs de soin et preuves limitées",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "eastwood-2008",
+        "liu-2025",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Serge accepte un travail avec Inès sur trois objectifs écrits, une réévaluation dans deux mois et l’avis d’Armand pour toute question médicale ; il envoie à Mireille la version relisible du calendrier.",
+        "next": "La relecture favorable du groupe sera suivie d’un moment où l’ancienne manière de solliciter de l’attention lui paraîtra de nouveau attirante."
+      },
+      "ending_title": "Le calendrier part sans certificat",
+      "ending": "Serge dit à Inès qu’il poursuit les séances autour des trois objectifs. Ils fixent une réévaluation dans deux mois pour voir ce qui aide, ce qui coince et ce qu’il faudrait changer. Le soir, il termine la mise en page : toutes les dates confirmées sont alignées, deux cases restent marquées « à vérifier par le volontaire ». Il écrit à Mireille : « Voici la version relisible du calendrier. Les deux cases en gris attendent encore une confirmation. » Avant d’envoyer, il a ajouté une ligne : « Je crois que ça va mieux. » Il l’efface. Ce document parle des promenades, pas de son trouble, et le terminer ne prouve pas que celui-ci a disparu. Il appuie sur « envoyer ». Certaines nuits sont un peu meilleures, d’autres non ; le point prévu dans une douzaine de jours reste à son agenda.",
+      "conclusion": "Les connaissances sur le soin du trouble factice restent limitées : aucune méthode ne garantit l’absence de rechute ni ne vaut pour tout le monde. Serge troque sa demande de garantie contre des objectifs écrits, une date de réévaluation et des interlocuteurs identifiés, et livre son calendrier sans en faire la preuve d’une guérison.",
+      "mirror": [
+        "Mireille reçoit la version relisible avec ses deux cases grises. Elle peut répondre sur le document : « Merci, c’est clair. Je le fais relire au groupe et je te dis s’il reste une date à corriger. » Elle n’a pas à le féliciter d’aller mieux ni à lui demander où en est sa thérapie. Si Serge lui demande un jour si elle pense que le soin va « marcher », elle peut lui dire : « Je ne sais pas, c’est une question pour ceux qui te suivent. Ici, ton calendrier nous sert vraiment. »"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un objectif de soin remplace une promesse de résultat",
+          "text": "Lorsqu’on ne dispose pas de preuves solides pour une méthode, le soin repose sur des buts précis, ajustés à la personne et revus avec elle. La question de Serge cherche un « jamais » que personne ne peut lui offrir. Inès répond par trois objectifs qu’il peut observer dans sa vie, et Armand sépare clairement deux choses : traiter une éventuelle autre maladie et agir sur le trouble factice. Les appuis d’organisation qu’il utilise pour le calendrier ne constituent pas, à eux seuls, une psychothérapie. La réévaluation prévue permet de corriger le cap sans attendre une rechute pour en parler."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente d’une garantie se manifeste-t-elle face au soin ?",
+          "points": [
+            {
+              "heading": "La question cherche un « jamais »",
+              "text": "Serge voudrait une promesse définitive plutôt qu’un objectif atteignable.",
+              "examples": [
+                "Il demande à Inès si la thérapie garantit qu’il ne donnera « plus jamais » une information fausse sur sa santé.",
+                "Il a souligné deux fois le mot « jamais » sur la feuille préparée la veille."
+              ]
+            },
+            {
+              "heading": "Le traitement est imaginé comme un objet unique",
+              "text": "L’idée d’un remède précis paraît plus rassurante qu’un travail à ajuster au fil du temps.",
+              "examples": [
+                "Il demande s’il existe un médicament « pour ça ».",
+                "Il compare la thérapie à une réparation dont il sortirait avec un certificat."
+              ]
+            },
+            {
+              "heading": "Une réussite pratique est prise pour une preuve",
+              "text": "Un projet qui avance peut être confondu avec la fin du trouble.",
+              "examples": [
+                "Devant la mise en page presque terminée, il écrit « je crois que ça va mieux » dans son message à Mireille.",
+                "Il se demande si espacer les séances serait logique maintenant que les dates sont alignées."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter d’un objectif de soin",
+          "points": [
+            {
+              "heading": "Demander l’objectif précis",
+              "objective": "Savoir ce que la démarche cherche à changer concrètement.",
+              "exercise": [
+                "Écrire sa question telle qu’elle vient, même si elle paraît trop grande.",
+                "Demander au professionnel ce que la démarche vise dans les prochains mois.",
+                "Reformuler cet objectif avec ses propres mots et vérifier qu’il a bien été compris."
+              ],
+              "benefit": "Une attente vague devient un but que l’on peut suivre, discuter et modifier."
+            },
+            {
+              "heading": "Parler des limites et des difficultés",
+              "objective": "Connaître ce que le soin ne peut pas promettre et ce qu’il faudra signaler.",
+              "exercise": [
+                "Demander ce que l’on sait, et ce que l’on ignore, de l’effet de la démarche proposée.",
+                "Repérer avec le professionnel les difficultés à lui signaler entre deux séances.",
+                "Adresser au médecin les questions sur un éventuel traitement plutôt que de chercher une réponse seul."
+              ],
+              "benefit": "Les déceptions possibles sont anticipées et ne sont pas vécues comme un échec qu’il faudrait cacher."
+            },
+            {
+              "heading": "Fixer une réévaluation",
+              "objective": "Revoir régulièrement si la démarche convient toujours.",
+              "exercise": [
+                "Convenir d’une date pour faire le point sur les objectifs.",
+                "Noter d’ici là ce qui a aidé et ce qui a été difficile.",
+                "À cette date, décider avec le professionnel de poursuivre, d’ajuster ou de changer d’approche."
+              ],
+              "benefit": "Le soin peut évoluer avec la situation au lieu de reposer sur une promesse faite au départ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "slug": "serge-fluctuation-retour-difficulte",
+      "title": "Une difficulté peut revenir après une période plus simple",
+      "description": "Après une relecture favorable, Serge sent revenir l’envie de présenter sa santé autrement. Il écrit à l’équipe pour dire cette difficulté.",
+      "context": "chez lui, le soir de la relecture du calendrier",
+      "topics": [
+        "Fluctuations",
+        "Demande directe",
+        "Maintien du suivi"
+      ],
+      "clinical_intro": "L’évolution d’un trouble factice imposé à soi-même est encore mal connue : elle peut se faire par périodes ou durer, et personne ne peut en prédire le cours pour une personne donnée. Une phase plus calme ne prouve pas la guérison, et le retour d’une difficulté n’efface pas les décisions responsables déjà prises. Ce qui compte alors est de pouvoir en parler à l’équipe de soins plutôt que de se juger seul.",
+      "opening": "Le message de Mireille arrive à dix-huit heures. Le groupe de promenade a relu le calendrier. « Tout le monde le trouve très clair. Les deux cases grises sont confirmées. Il reste une seule chose : la sortie aux étangs est notée le samedi, alors qu’on avait choisi le dimanche. » Serge relit le message debout dans l’entrée, encore en veste. Il sourit. Il répond qu’il corrigera la date dans la soirée.\n\nPuis l’appartement devient très calme. Le calendrier est presque fini. Personne n’a besoin de lui demander un horaire cette semaine. Il range les feuillets dans leur pochette, s’assoit, et le silence lui paraît plus lourd que pendant les semaines de travail. Il pense aux périodes où ses rendez-vous remplissaient son agenda et où l’on prenait de ses nouvelles presque chaque jour.\n\nIl ouvre la messagerie du cabinet, celle que le docteur Armand et Inès lui ont indiquée pour les contacts entre les rendez-vous. Il commence un message au médecin. Au bout de deux lignes, il s’arrête. Ce qu’il est en train d’écrire ne correspond pas à ce qu’il ressent. Il reconnaît l’envie, ancienne et précise : présenter sa santé autrement qu’elle n’est, pour que quelqu’un s’occupe de lui ce soir. Il n’envoie pas ces lignes. Il les efface une à une.\n\nIl reste un moment devant l’écran vide. Une pensée revient : si l’envie est encore là, tout ce qu’il a corrigé depuis le début ne servait peut-être à rien. Il sort de son portefeuille la carte de rendez-vous d’Inès et regarde le premier des trois objectifs recopiés dans son agenda : repérer le moment où l’envie apparaît. C’est ce moment-là.\n\nIl écrit un autre message, adressé à l’équipe : « Je n’ai pas de nouveau symptôme. Ce soir, j’ai eu envie de vous écrire quelque chose d’inexact pour avoir de l’attention. Je ne l’ai pas envoyé. Je préfère vous dire ce qui se passe vraiment. » Il hésite longtemps sur la dernière phrase, puis l’envoie telle quelle.",
+      "clinical_focus": "Fluctuations et retour d’une difficulté",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Serge efface le message inexact et écrit à l’équipe la difficulté réelle ; Inès le rappelle, maintient le suivi et prévoit de reprendre la demande de présence ; il corrige la date des étangs pour Mireille.",
+        "next": "Le calendrier peut être finalisé et accepté ; le prochain rendez-vous de suivi reste fixé au-delà de la livraison."
+      },
+      "ending_title": "La sortie aux étangs remise au dimanche",
+      "ending": "Le lendemain, à midi, Inès le rappelle comme elle l’a proposé en réponse à son message. L’échange dure un quart d’heure. Elle ne le félicite pas et ne lui fait pas de reproche. Elle lui demande ce qui s’est passé juste avant l’envie ; Serge parle du silence de l’appartement après le message de Mireille. Elle lui dit qu’elle en a informé Armand, comme convenu dans leur suivi, et qu’ils reprendront la question de la présence à la prochaine séance, maintenue à la même date. Elle rappelle qu’une gêne nouvelle passe toujours par le contact médical habituel. Le soir, Serge déplace la sortie aux étangs du samedi au dimanche, vérifie l’alignement des cases et renvoie le fichier à Mireille. Il sait que l’envie peut revenir. Cette fois, il a envoyé ce qui était vrai.",
+      "conclusion": "Le cours d’un trouble factice peut fluctuer, et une réussite ne garantit pas que les difficultés soient parties. Serge transmet une difficulté réelle plutôt qu’une information inexacte, l’équipe y répond, et il termine la correction attendue sans présenter cette soirée comme une preuve qu’il serait guéri ou qu’il aurait échoué.",
+      "mirror": [
+        "Ce soir-là, Claude ne sait rien du message envoyé au cabinet. Si Serge lui écrit « c’est un peu vide depuis que le calendrier est fini », il peut répondre ce qu’il est prêt à offrir : « Ce soir je ne peux pas, mais on peut prendre un café la semaine prochaine. » Il n’a pas à lui demander s’il « a tenu », à relire ses échanges avec les soignants ni à rester joignable en permanence. S’il entend parler d’une gêne nouvelle ou d’une détresse forte, il peut l’orienter vers le cabinet ou le 15."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une période plus calme ne clôt pas l’évolution",
+          "text": "Le cours d’un trouble factice reste mal documenté : il peut connaître des pauses et des retours, sans qu’un pronostic individuel soit possible. Chez Serge, l’envie revient après une réussite, au moment où le travail du calendrier ne lui donne plus de raison d’être sollicité. Cette réapparition ne signifie pas que ses corrections étaient vaines. Elle montre plutôt l’utilité d’un cadre où il peut dire la difficulté elle-même. L’équipe apprécie ce besoin actuel ; Serge n’a pas à décider seul s’il est guéri ou en échec."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté peut-elle revenir après une réussite ?",
+          "points": [
+            {
+              "heading": "Le calme qui suit une étape franchie",
+              "text": "La fin d’un projet peut laisser un vide où l’ancien besoin de présence reprend de la place.",
+              "examples": [
+                "Le message de Mireille est chaleureux, puis personne n’appelle de la soirée.",
+                "Serge range les feuillets dans leur pochette et ne voit plus pourquoi on le contacterait cette semaine."
+              ]
+            },
+            {
+              "heading": "L’envie de déformer réapparaît",
+              "text": "Présenter sa santé de façon inexacte revient à l’esprit comme un moyen d’obtenir de l’attention.",
+              "examples": [
+                "Il commence un message à Armand et s’arrête parce que les mots ne correspondent pas à ce qu’il vit.",
+                "Il repense aux semaines où ses rendez-vous remplissaient son agenda et où l’on prenait souvent de ses nouvelles."
+              ]
+            },
+            {
+              "heading": "Le retour de l’envie n’efface pas le chemin parcouru",
+              "text": "Une difficulté revenue ne transforme pas toutes les décisions précédentes en échec.",
+              "examples": [
+                "Serge se demande un instant si ce qu’il a corrigé depuis le début ne servait à rien.",
+                "Il retrouve pourtant dans son agenda l’objectif noté avec Inès et reconnaît le moment qu’il décrit."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire face au retour d’une difficulté",
+          "points": [
+            {
+              "heading": "Dire le besoin directement",
+              "objective": "Transmettre la difficulté réelle plutôt qu’un récit inexact.",
+              "exercise": [
+                "S’arrêter avant d’envoyer un message qui ne correspond pas à ce que l’on vit.",
+                "Écrire en une ou deux phrases ce qui se passe vraiment : le besoin, l’envie, le moment.",
+                "L’envoyer par le canal convenu avec l’équipe de soins."
+              ],
+              "benefit": "L’équipe peut répondre à ce qui se passe réellement, et la demande d’attention trouve une réponse honnête."
+            },
+            {
+              "heading": "Reprendre le cadre avec l’équipe",
+              "objective": "Ajuster le suivi à la période que l’on traverse.",
+              "exercise": [
+                "Accepter l’échange proposé par le professionnel, même bref.",
+                "Raconter ce qui s’est passé juste avant l’envie, si on le sait.",
+                "Convenir avec lui de ce qui change, ou non, dans les prochains rendez-vous."
+              ],
+              "benefit": "La difficulté est reprise dans un cadre déjà connu au lieu d’être portée seul."
+            },
+            {
+              "heading": "Garder le suivi plutôt que se juger",
+              "objective": "Éviter de conclure soi-même à la guérison ou à l’échec.",
+              "exercise": [
+                "Noter que la difficulté est revenue, sans en tirer de verdict sur soi.",
+                "Maintenir les rendez-vous déjà fixés, y compris quand tout semble aller bien.",
+                "Pour une gêne nouvelle ou une urgence, utiliser les contacts médicaux habituels ou le 15, comme avant."
+              ],
+              "benefit": "Le suivi reste stable pendant les fluctuations et les besoins de soin réels gardent leur accès."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

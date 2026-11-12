@@ -1,0 +1,455 @@
+{
+  "character_id": "eloi",
+  "type": "origine",
+  "auditor": "audit_o3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Éloi, 19 ans (né en 2007), apprenti cuisinier dans un restaurant, logé en foyer de jeunes travailleurs. Proches et repères : Cédric (chef de partie), Quentin (autre apprenti), Nora (référente du foyer), Agnès (responsable de la réception), une formatrice du centre de formation et une conseillère d'orientation, tous deux sans prénom.",
+    "arc_summary": "Éloi passe d'une peur d'être jugé à chaque retour (épisodes 1 à 4) à une façon plus située de lire ses essais, ses erreurs et ses comparaisons. Le milieu du parcours explore sa motivation, ses buts d'apprentissage et la demande d'aide ; la fin ouvre sur l'orientation, la reconnaissance de compétences et une marge d'autonomie convenue avec Cédric. La progression est cohérente et sans contradiction factuelle, mais très peu incarnée.",
+    "arc_issues": [
+      "Aucune préparation, aucun plat ni restaurant n'est jamais nommé : « le lot », « la préparation », « la portion », « les fiches » reviennent dans presque tous les épisodes, ce qui rend plusieurs scènes (2, 8, 12) abstraites et procédurales.",
+      "Plusieurs épisodes traitent un aspect très proche : essai limité et validé (2, 8, 12) ; apprentissage contre démonstration (6 et 8) ; séance de fiche de calcul au centre (3 et 6) ; accueil des résidents au foyer (11 et 12).",
+      "Les fins se ressemblent : un court échange au foyer avec Nora ou Quentin qui laisse la question en suspens (1, 2, 4, 7, 8, 10), souvent sans décision visible.",
+      "Le présent est souvent employé pour des faits passés (« qu'Éloi rencontre récemment », « ce que Quentin pratique auparavant »), ce qui brouille la chronologie.",
+      "Le lieu de vie de Quentin n'est pas établi : apprenti au restaurant à l'épisode 1, il apparaît au foyer aux épisodes 2, 5 et 8.",
+      "Les proches sont concrets et respectueux du consentement (Nora laisse choisir, Quentin propose sans imposer) ; la rubrique ne pose pas de problème."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage.md",
+      "focus": "recevoir un retour d'apprentissage (Hattie et Timperley) : distinguer remarque sur le résultat, critère et jugement sur soi",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène lisible : Cédric coupe vite et régulièrement, Éloi obtient des morceaux irréguliers et accélère. La chute (« s'ils avaient les mêmes légumes à couper ») est claire. Il manque seulement de savoir ce qu'on coupe et qui est Cédric.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le couteau de Cédric produit un bruit régulier contre la planche.",
+          "problem": "Cédric n'est jamais présenté (chef de partie, restaurant où Éloi est apprenti) et le légume coupé n'est jamais nommé ; le lecteur qui arrive par cet épisode ne sait pas où il est.",
+          "fix": "Ajouter dans le premier ou le deuxième paragraphe : « Cédric, le chef de partie du restaurant où Éloi fait son apprentissage » et nommer la préparation (par exemple des carottes en mirepoix)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il ne connaît pourtant pas tout ce que Quentin pratique auparavant dans d'autres contextes.",
+          "problem": "Le présent à la place du passé rend la phrase confuse ; Quentin apparaît sans être situé dans la scène.",
+          "fix": "Écrire « ce que Quentin a pratiqué auparavant » et préciser qu'il est l'autre apprenti de la brigade."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais.md",
+      "focus": "sentiment d'efficacité personnelle (Bandura) appuyé sur des essais limités et validés",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Le « lot » qu'Éloi prépare n'est jamais identifié (quelle préparation, combien, pour quel service) ; la « ligne » de la liste et la « scène imaginée » restent opaques. On ne voit pas ce qu'il réussit ni ce que Cédric lui fait reprendre.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "La ligne qu’il veut prendre en charge est près du bas.",
+          "problem": "Le lecteur ne sait pas de quelle préparation il s'agit ; tout l'épisode repose ensuite sur « le lot » sans jamais dire ce qu'il contient, ce qui rend l'essai et sa validation abstraits.",
+          "fix": "Nommer la préparation dès la scène (par exemple « la ligne “brunoise de légumes pour vingt couverts” ») et faire porter la validation de Cédric sur un critère visible (taille, assaisonnement, quantité)."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Dans cette scène imaginée, son essai actuel devient trop petit pour compter.",
+          "problem": "Formule procédurale qui remplace l'action : on ne comprend pas qu'Éloi se projette dans un futur service. Le passage suivant (« Il commence à préparer en cherchant des signes ») ne montre aucun geste.",
+          "fix": "Montrer la projection par une pensée concrète (« Il se voit déjà au passe un samedi soir, trois bons à la fois ») puis un geste précis pendant la préparation."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Cédric valide plusieurs éléments du lot et demande un ajustement sur un autre.",
+          "problem": "Le dénouement ne dit ni ce qui est validé ni ce qui doit être ajusté ; la conséquence de la décision reste invisible et la fin (« presque fini un lot seul ») flotte.",
+          "fix": "Nommer l'élément validé et l'ajustement demandé (par exemple « la taille est bonne, l'assaisonnement est à reprendre ») et faire raconter ce détail à Quentin."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Au foyer, Éloi raconte à Quentin qu’il a presque fini un lot seul.",
+          "problem": "Quentin est présenté comme apprenti en cuisine ; rien n'indique qu'il habite aussi le foyer, alors qu'il y réapparaît (épisodes 5 et 8).",
+          "fix": "Préciser une fois (épisode 1 ou 2) que Quentin loge lui aussi au foyer, ou situer cet échange ailleurs."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/eloi-expliquer-echec.md",
+      "focus": "attributions causales après un échec (Weiner) : passer de « je ne suis pas fait pour ça » à une cause examinable",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La fiche de quantités ratée au centre de formation, le changement du nombre de convives et le contrôle final absent sont concrets ; la deuxième ligne fausse et la question préparée donnent une fin nette.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Une feuille suffit à effacer le lot qu'il sait vérifier.",
+          "problem": "Renvoi à l'épisode 2 dont le « lot » n'a jamais été défini ; le lecteur autonome ne comprend pas l'allusion.",
+          "fix": "Remplacer par l'acquis concret de l'épisode précédent une fois celui-ci précisé (par exemple « la brunoise que Cédric a validée »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La formatrice lui demande de décrire la méthode qu'il emploie pour remplir la fiche.",
+          "problem": "La formatrice, personnage récurrent (épisodes 3, 6, 8), n'a jamais de prénom ni de matière ; la nature de la fiche (fiche technique de recette) n'est dite que dans la description.",
+          "fix": "Donner un prénom à la formatrice et écrire « la fiche technique du velouté, à adapter de quatre à douze convives »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Bernard Weiner propose une théorie des attributions liée à la motivation et aux émotions.",
+          "problem": "Weiner est repris comme cadre principal à l'épisode 10 ; les deux épisodes restent distincts mais l'appui théorique se répète.",
+          "fix": "À l'épisode 10, citer plutôt une source sur les attentes ou la sécurité psychologique et garder Weiner ici."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues.md",
+      "focus": "comparaison sociale ascendante (Festinger) au travail",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "On comprend qu'Éloi compare sa cadence à celle de Cédric derrière un stand, mais l'événement (salon, marché, fête locale ?) et ce qui est servi ne sont jamais dits. La fin dévie vers le plaisir de parler à un visiteur et ne montre pas l'effet de la nouvelle échelle.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Trois portions quittent le stand pendant qu’Éloi termine la sienne.",
+          "problem": "Le stand, le public et le plat servi ne sont pas présentés ; « un stand culinaire » n'apparaît que dans la description et « l'événement local » qu'à l'épisode 9.",
+          "fix": "Situer l'événement en une phrase (par exemple « le stand du restaurant au marché des producteurs, où ils servent des verrines de taboulé »)."
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Le stand aurait sans doute avancé plus vite s’il s’en était tenu à servir. Sur le moment, il n’avait pas envie d’écourter cet échange.",
+          "problem": "La scène finale parle du plaisir d'un échange avec une visiteuse, pas de la comparaison ; la décision liée au concept (revenir à son critère, questionner Cédric) est racontée au paragraphe précédent sans conséquence visible.",
+          "fix": "Conclure sur un geste lié à la comparaison : Éloi regarde de nouveau Cédric, se remet à son repère de portion, et note la question sur l'ordre des préparations qu'il posera ; garder le visiteur comme détail secondaire."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il sait analyser une fiche ratée sans se condamner entièrement.",
+          "problem": "Rappel méta de l'épisode précédent formulé comme un acquis abstrait, qui coupe la scène.",
+          "fix": "Supprimer ou remplacer par une image concrète (« Il pense à la ligne entourée sur sa fiche de la semaine dernière »)."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet.md",
+      "focus": "motivation intrinsèque et extrinsèque (Ryan et Deci) : intérêt, sens, revenu et fatigue",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'odeur de menthe et le concours de Quentin donnent un point d'ancrage, mais les deux préparations comparées et le concours ne sont jamais décrits ; la décision principale (ne pas s'inscrire) est annoncée dans une technique, pas dans le retour à la scène.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Il décide de ne pas s'inscrire au concours pour l'instant et explique simplement qu'il garde ses forces pour la formation actuelle.",
+          "problem": "La décision et sa conséquence sont placées dans la technique 3 ; le retour à la scène ne montre plus qu'une conversation sans choix, et la fin sur l'invitation de Nora reste en suspens.",
+          "fix": "Déplacer cette décision dans « L’odeur de menthe revient » : Éloi répond à Quentin dans le couloir, avec la conséquence (Quentin s'inscrit seul, Éloi garde son samedi)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il soulève encore le couvercle pour comparer avec l’autre préparation.",
+          "problem": "Les deux préparations ne sont pas nommées ; la curiosité sensorielle, cœur de la motivation intrinsèque, reste vague.",
+          "fix": "Nommer les deux préparations (par exemple « le taboulé à la menthe fraîche et celui à la menthe séchée »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Quentin parle d'un concours qui le passionne.",
+          "problem": "Le concours (régional, de jeunes apprentis ?) et ce qu'il demanderait ne sont jamais précisés, alors que tout le dilemme en dépend.",
+          "fix": "Préciser : « le concours régional des apprentis, avec des entraînements le dimanche »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/eloi-apprendre-prouver-valeur.md",
+      "focus": "buts d'apprentissage contre buts de performance (Dweck et Leggett)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le choix entre deux fiches au centre est compréhensible, mais il reprend presque la même situation que l'épisode 3 (fiche de calcul, formatrice) ; le dernier paragraphe au restaurant ne dit pas quelle tâche il retrouve.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Sous la pile, une autre fiche lui demanderait d’expliquer où il a perdu le fil lors du dernier calcul.",
+          "problem": "Même lieu, même interlocutrice et même objet (fiche de calcul) qu'à l'épisode 3 ; l'épisode 8 traite aussi apprentissage contre performance. Le lecteur du parcours a l'impression de relire la même séance.",
+          "fix": "Changer d'objet : par exemple un exercice pratique au centre (dresser une assiette évaluée par un jury d'élèves) où Éloi choisit la recette qu'il maîtrise plutôt que la technique nouvelle."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Carol Dweck et Ellen Leggett proposent un cadre de recherche qui relie les buts poursuivis à la manière d'aborder les difficultés.",
+          "problem": "Deux paragraphes consécutifs ouvrent sur les mêmes auteurs, ce qui donne une impression de doublon.",
+          "fix": "Fusionner les deux premiers paragraphes de la section."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Au restaurant, Éloi retrouve une tâche qu’il fait presque sans y penser.",
+          "problem": "Fin imprécise : quelle tâche, et quel lien avec le choix fait au centre ?",
+          "fix": "Nommer la tâche et relier : « Au restaurant, il épluche les pommes de terre sans y penser ; le soir, il ressort la fiche et entoure la ligne à revoir. »"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/eloi-demander-aide-debutant.md",
+      "focus": "demande d'aide adaptée (Newman, Edmondson) : nommer le fait, sa limite et l'appui attendu",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La livraison avec une référence de remplacement, le livreur qui tend le stylo et Agnès qui supervise la réception rendent l'enjeu clair ; on comprend qu'Éloi ne signe pas et apprend à formuler. Seule la scène finale au foyer reste obscure.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Au foyer, Nora propose de relire sa démarche de formation.",
+          "problem": "On ne sait pas quel document Nora relit (dossier, lettre, demande d'aide ?), et le geste final (« il reprend la feuille ») ne dit pas ce qu'Éloi décide.",
+          "fix": "Préciser l'objet (par exemple « son dossier de demande d'aide au logement ») et la phrase qui pose problème."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Éloi reconnaît la quantité, mais pas la référence proposée en remplacement.",
+          "problem": "Le produit remplacé n'est pas nommé ; l'enjeu (allergène, qualité) resterait plus concret avec un exemple.",
+          "fix": "Nommer le produit (par exemple « une crème à 30 % remplacée par une crème végétale »)."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/eloi-progression-droit-essai.md",
+      "focus": "distinction apprentissage et performance (Soderstrom et Bjork), droit à l'essai en simulation",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Les « cartes de commandes » d'une simulation au centre ne sont jamais expliquées (que représentent-elles, quel ordre faut-il trouver ?) ; les « dépendances » et « transitions » restent abstraites. La fin (Quentin, le carnet, le moment prévu en cuisine) ne montre pas de résultat.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Les cartes de commandes se mélangent sur la table.",
+          "problem": "Le lecteur ne sait pas ce qu'est l'exercice : ordonner les étapes d'un service ? lancer des bons ? Sans cela, l'erreur et la progression restent invisibles.",
+          "fix": "Décrire l'exercice en une phrase : « chaque carte porte une étape d'un menu à envoyer ; il faut les ranger dans l'ordre où la cuisine doit les lancer »."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il aimerait encore trouver l’ordre des cartes tout seul. Il leur reste un moment prévu pour en parler en cuisine.",
+          "problem": "Fin floue : on ne sait pas si Éloi accepte l'aide de Quentin, s'arrête, ni ce que la simulation a changé.",
+          "fix": "Terminer sur une décision claire : il referme le carnet, va manger avec Quentin, et note une question précise pour Cédric."
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Elle ne se confond pas toujours avec une amélioration visible à chaque essai.",
+          "problem": "Le message (une performance moins fluide n'est pas une régression, l'essai sert à apprendre) recoupe fortement les épisodes 2 et 6.",
+          "fix": "Recentrer sur l'aspect propre de l'épisode : l'effet de la réduction des aides et de l'espacement, avec une seconde séance montrant ce qui est resté disponible."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/eloi-orientation-valeurs.md",
+      "focus": "valeurs et choix d'orientation (Schwartz ; modèle de Lent, Brown et Hackett)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les brochures, la conseillère, la peur de paraître peu ambitieux et le dernier bus donnent une scène concrète ; la fin (il range la brochure sur l'accompagnement, rature deux questions) montre une décision limitée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Deux brochures restent ouvertes sur les genoux d’Éloi.",
+          "problem": "Les deux établissements ne sont pas caractérisés (restaurant gastronomique, cuisine collective ?) ; la comparaison des valeurs gagnerait à opposer deux cadres reconnaissables.",
+          "fix": "Caractériser chaque brochure en une phrase (par exemple « une brasserie du centre-ville » et « la cuisine centrale d'un hôpital »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Une conseillère lui demande ce qui compte dans son prochain choix.",
+          "problem": "On ne sait pas où a lieu l'entretien ni ce qui amène ce « prochain choix » (fin de contrat, deuxième année ?).",
+          "fix": "Situer : « la conseillère du centre de formation, qui reçoit les apprentis avant la fin de leur première année »."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur.md",
+      "focus": "attente apprise d'un reproche après une erreur et contre-expérience",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Deux portions manquantes sur le plateau, l'hésitation avant de prévenir et la réponse factuelle de Cédric forment une scène nette ; l'écart entre la prévision et le retour reçu est bien rendu.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "« Dis-moi ce qui est prêt et ce que demande le bon », répond Cédric.",
+          "problem": "« Répond » alors qu'Éloi n'a encore rien dit : le moment où il prévient est sauté.",
+          "fix": "Ajouter une phrase : « Éloi lève la main : “Il en manque deux.” »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/eloi-competences-transferables.md",
+      "focus": "compétences transférables (Barnett et Ceci) : décrire une action, ses appuis et sa portée",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La rubrique vide et l'exemple de la livraison sont clairs ; en revanche on ignore à quoi sert la « fiche de parcours » et à quel entretien elle prépare, et l'accueil des nouveaux résidents est très peu montré.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "La rubrique « compétences » reste vide.",
+          "problem": "Le document et son but (CV, dossier d'entrée en deuxième année, candidature ?) ne sont jamais dits ; la dernière phrase évoque un entretien sans contexte.",
+          "fix": "Préciser dès la première phrase : « la rubrique “compétences” de son dossier de candidature pour le poste de commis à la rentrée »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Un groupe prépare aussi un accueil pour de nouveaux résidents.",
+          "problem": "L'accueil des résidents sert de cadre aux épisodes 11 et 12 avec la même difficulté (savoir qui confirme une information).",
+          "fix": "Garder l'accueil ici et donner à l'épisode 12 une autre situation de marge de décision, en cuisine."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/eloi-autonomie-cadre-soutien.md",
+      "focus": "autonomie soutenue par une structure (Deci et Ryan ; Jang, Reeve et Deci)",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Les « deux fiches » tenues devant Cédric, le « lot connu » et la « dépendance qu'il ne prévoit pas » ne sont jamais concrétisés ; l'essai d'autonomie, censé clore le parcours, se lit comme un protocole.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Éloi tient les deux fiches devant Cédric.",
+          "problem": "Les deux fiches ne sont pas identifiées (fiches techniques ? exercices ?) et le lecteur ne sait pas ce qu'Éloi choisit de travailler.",
+          "fix": "Nommer les deux options (par exemple « la mise en place des entrées froides, qu'il connaît, et le lancement du fond de veau ») et dire celle qu'il choisit."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Pendant l'essai, Éloi rencontre une dépendance qu'il ne prévoit pas.",
+          "problem": "Phrase procédurale à la place de l'action : on ne voit ni l'imprévu ni la correction de Cédric.",
+          "fix": "Montrer l'imprévu : « le four est occupé par la viande, il doit décaler la cuisson des légumes » et la consigne précise de Cédric."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il ne veut ni demander une permission pour chaque détail ni se prouver qu'il peut tout faire seul.",
+          "problem": "L'épisode final ne fait pas de bilan de l'année ni ne situe Éloi par rapport aux choix d'orientation de l'épisode 9 (brochures, rendez-vous).",
+          "fix": "Ajouter dans la conclusion une phrase reliant cette marge d'autonomie au rendez-vous d'orientation et à la suite de son contrat."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet de douze épisodes. Pas d'épisode à ajouter ; pour réduire les répétitions, recentrer l'épisode 8 sur l'espacement et le retrait progressif des aides (avec une seconde séance montrant ce qui est resté acquis) et donner à l'épisode 6 une situation pratique distincte des fiches de calcul de l'épisode 3.",
+  "verdict": "corrections_majeures"
+}
