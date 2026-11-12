@@ -324,6 +324,111 @@
       },
       "clinical_focus": "Des repères visibles pour retrouver où l’on est",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "hector-fluctuation-aggravation-du-soir",
+      "title": "Une confusion qui fluctue et revient à la tombée du jour",
+      "description": "Le matin, Hector discute des rabots au téléphone ; le soir, il veut fermer l’atelier. Les variations du delirium au fil de la journée trompent.",
+      "context": "le quatrième jour à l’hôpital",
+      "topics": [
+        "Delirium",
+        "fluctuations",
+        "rythme veille-sommeil"
+      ],
+      "clinical_intro": "Le delirium ne suit pas une ligne droite : la confusion peut s’atténuer quelques heures puis revenir, souvent plus marquée en fin de journée, avec un sommeil déréglé. Une bonne matinée ne signifie donc pas que l’épisode est terminé. Le quatrième jour, Julien, rassuré par un appel du matin, découvre le soir un oncle qu’il ne reconnaît plus, et apprend que ces variations sont attendues.",
+      "opening": "Le quatrième jour, à neuf heures, Hector Ménard, 77 ans, charpentier retraité hospitalisé à Saumur pour une infection pulmonaire, appelle lui-même Julien, son neveu, depuis le téléphone de la chambre. Il a ses lunettes sur le nez et la case du jour entourée en face de lui. Il veut parler de la caisse d’outils promise. « Le rabot de 1979, celui à la semelle en charme, tu le prends. L’autre, le petit, il a le fer fatigué. Je ne le mets pas. » Julien, dans la salle des professeurs, sourit en raccrochant. Il écrit à sa sœur Anne, qui vit à Lyon : « Il a retrouvé ses mots de charpentier. »\n\nL’après-midi, Hector dort. Il se réveille à peine pour le goûter, se rendort sur le côté, la photo de l’atelier hors de son champ.\n\nJulien arrive à dix-neuf heures. Le jour tombe derrière la fenêtre. Hector a les jambes hors du lit et cherche le sol du pied. « Il faut que j’aille fermer l’atelier. Les volets sont restés ouverts. » Julien lui dit qu’il est à l’hôpital, qu’il est le soir. Hector regarde l’horloge, pourtant dégagée depuis la veille, et dit qu’il est six heures du matin. Il commence une phrase sur les volets, puis une autre sur Bernard, son ancien compagnon de chantier, puis s’arrête, la bouche ouverte, sans finir ni l’une ni l’autre. Julien sent le matin lui échapper. Il ne comprend pas comment l’homme du rabot en charme peut être celui-ci. Il appuie sur la sonnette, et Nadia, l’infirmière de nuit, arrive.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des heures claires qui ne signent pas la fin",
+          "text": "Une des particularités du delirium est sa fluctuation : sur vingt-quatre heures, l’attention et l’orientation peuvent s’améliorer, puis se dégrader à nouveau, souvent en fin de journée ou la nuit. Le rythme veille-sommeil peut aussi se dérégler, avec une somnolence dans la journée et une agitation le soir. Ces variations font partie de ce que l’équipe observe et note ; elles ne veulent pas dire que l’état s’aggrave à coup sûr, ni qu’il s’est amélioré pour de bon le matin. Pour Julien, l’appel de neuf heures semblait une preuve de retour. Le soir lui montre l’autre face du même épisode. Il n’a pas à interpréter cet écart seul : il peut le décrire, avec les heures, et laisser l’équipe en tenir compte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les fluctuations du delirium apparaissent-elles dans une même journée ?",
+          "points": [
+            {
+              "heading": "Un matin presque habituel",
+              "text": "La personne peut retrouver, pendant quelques heures, une partie de son attention et de ses mots.",
+              "examples": [
+                "À neuf heures, Hector choisit le rabot à la semelle en charme et écarte celui au fer fatigué.",
+                "Il compose lui-même le numéro de Julien depuis le téléphone de la chambre."
+              ]
+            },
+            {
+              "heading": "Une journée qui s’endort",
+              "text": "Le rythme du sommeil peut se décaler, avec une somnolence marquée l’après-midi.",
+              "examples": [
+                "Hector se réveille à peine pour le goûter et se rendort aussitôt.",
+                "Il dort tourné vers le mur, la photo de l’atelier hors de son regard."
+              ]
+            },
+            {
+              "heading": "Un soir où tout se dérobe",
+              "text": "En fin de journée, la confusion peut revenir plus fort, avec de l’agitation.",
+              "examples": [
+                "Hector veut se lever pour aller fermer les volets de l’atelier.",
+                "Il lit six heures du matin sur une horloge qui indique sept heures du soir et ne termine aucune phrase."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accompagner les variations d’un delirium",
+          "points": [
+            {
+              "heading": "Noter les heures claires et les heures difficiles",
+              "objective": "Donner à l’équipe une image de la journée entière.",
+              "exercise": [
+                "Écrire l’heure de chaque visite ou appel dans un carnet.",
+                "Ajouter une phrase sur ce que la personne disait ou faisait à ce moment.",
+                "Montrer le carnet à l’infirmière quand elle le demande ou quand un changement inquiète."
+              ],
+              "benefit": "Les variations deviennent visibles sans que le proche ait à les interpréter."
+            },
+            {
+              "heading": "Adoucir la lumière du soir",
+              "objective": "Éviter que la nuit tombe d’un coup dans une pièce inconnue.",
+              "exercise": [
+                "Demander à l’équipe si une veilleuse peut rester allumée la nuit.",
+                "Laisser les repères de la chambre éclairés et visibles depuis le lit.",
+                "Fermer les volets doucement en disant l’heure, plutôt que d’éteindre sans un mot."
+              ],
+              "benefit": "La pièce reste reconnaissable plus longtemps, sans prétendre empêcher la confusion."
+            },
+            {
+              "heading": "Signaler plutôt que conclure",
+              "objective": "Ne pas tirer seul une conclusion d’un bon ou d’un mauvais moment.",
+              "exercise": [
+                "Appeler l’infirmière quand un changement apparaît, même après une bonne matinée.",
+                "Lui dire ce qui différait du matin, avec les heures.",
+                "Attendre l’avis de l’équipe avant d’annoncer une amélioration ou une aggravation à la famille."
+              ],
+              "benefit": "Le proche évite de passer de l’espoir à l’alarme à chaque variation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet commencé à dix-neuf heures",
+      "ending": "Nadia s’accroupit près du lit, se présente et dit : « Il est sept heures du soir, monsieur Ménard. L’atelier est fermé, votre neveu est là. » Elle allume la veilleuse au-dessus de la tête de lit, note dans le dossier l’heure et ce qu’elle voit, puis explique à Julien dans le couloir que ces variations au fil de la journée sont attendues dans un delirium, que l’équipe les suit et que la docteure Roussel les verra demain. Vers vingt et une heures, Hector est plus calme. Julien lui demande s’il veut qu’il passe aussi en début de soirée. « Si tu peux. Pas tous les soirs. T’as ta longère. » Julien et Nadia conviennent qu’il viendra vers dix-neuf heures les jours où son planning de chantier le permet, et qu’il préviendra le service quand il ne pourra pas. En sortant, Julien achète au distributeur du hall un petit carnet à spirale. Sur la première page, il écrit : neuf heures, choisit le rabot en charme ; après-midi, dort ; dix-neuf heures, veut fermer l’atelier, ne finit pas ses phrases. Il efface le message qu’il comptait envoyer à Anne et lui écrit seulement que les soirs sont plus difficiles.",
+      "conclusion": "La confusion du delirium peut varier fortement d’une heure à l’autre, souvent en s’accentuant le soir, et un matin clair ne clôt pas l’épisode. Julien accepte de ne pas lire chaque moment comme un verdict ; il commence un carnet d’heures et revient le soir quand il le peut.",
+      "mirror": [
+        "Après le message joyeux du matin, Julien aurait pu se décourager le soir. Un proche peut garder les deux moments sans les opposer et dire à l’infirmière : « Ce matin, il choisissait ses rabots ; ce soir, il ne finit pas ses phrases. » Il peut aussi demander s’il est utile qu’il passe à l’heure où la nuit tombe, en disant franchement quand il ne pourra pas venir. Ses notes servent à décrire, pas à évaluer. Il peut s’accorder des soirs chez lui sans culpabilité."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-confusion-aigue",
+        "sign-157"
+      ],
+      "continuity": {
+        "choice": "Avec l’accord d’Hector, Julien passera vers dix-neuf heures quand son planning le permet ; une veilleuse reste allumée ; Julien commence un carnet à spirale où il note les heures claires et difficiles.",
+        "next": "La nuit suivante, le bruit du chariot de soins dans le couloir prendra pour Hector une autre forme."
+      },
+      "clinical_focus": "Les symptômes fluctuent et s’aggravent le soir",
+      "diagnostic_stage": "known"
     }
   ]
 }

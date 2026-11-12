@@ -319,6 +319,110 @@
         "next": "En comparant ses notes avec celles de Martine, Bilal découvrira qu’il croit parfois avoir prévenu quelqu’un alors qu’il ne l’a pas fait : Rachid n’a jamais entendu la date de retour de sa latte."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "bilal-croire-se-souvenir-information-manque-latte-rachid",
+      "title": "Croire se souvenir alors que l’information manque : la latte de Rachid",
+      "description": "Bilal est certain d’avoir donné à Rachid la date de retour de sa latte. Rachid ne l’a jamais entendue et se sent accusé : qui croire ?",
+      "context": "à l’atelier pendant le retour des lattes",
+      "topics": [
+        "Trouble amnésique",
+        "certitude trompeuse",
+        "trace partagée"
+      ],
+      "clinical_focus": "Croire se souvenir alors que l’information manque",
+      "clinical_intro": "Le trouble amnésique ne s’accompagne pas toujours d’une perception exacte de ses propres oublis : une personne peut être sûre d’avoir dit ou entendu une chose qui n’a pas eu lieu, ou se tromper sur l’origine d’une information. Bilal, dont le diagnostic est établi, découvre ce décalage face à Rachid. Il ne s’agit ni de mensonge ni de déni.",
+      "opening": "Mercredi, seize heures. Trois semaines ont passé depuis la livraison du chêne. Sur l’établi du fond, quatre lattes sculptées par les participants attendent déjà leur rainure : les feuilles de vigne de Thérèse, la carpe de Karim, les initiales entrelacées de Germaine, le soleil un peu bancal de Lucie. Il en manque deux, celle de Jonas et celle de Rachid.\n\nRachid, retraité de la voirie et l’un des six habitants du banc, passe la tête par la porte cochère pour rendre une serre-joint empruntée. Bilal l’accueille avec un sourire.\n\n« Ta latte, n’oublie pas, c’est pour demain jeudi. Je te l’ai dit samedi, à la séance du jardin. »\n\nRachid pose la serre-joint. « Samedi, tu ne m’as rien dit. On a parlé de la pluie et des pommes du jardin. Jeudi, c’est la première fois que je l’entends. »\n\nBilal sent la scène très nettement : le jardin, Rachid près du composteur, sa propre voix annonçant jeudi. Il le voit comme s’il y était. « Je t’assure que si. Tu avais ton bonnet vert. »\n\n« Mon bonnet, peut-être. Mais je ne suis pas sourd, Bilal. Si tu m’avais donné une date, je l’aurais notée. Tu me fais passer pour celui qui traîne. »\n\nLe ton monte d’un cran. Martine Roussel, l’associée ébéniste de Bilal, vernit un tiroir dans l’angle. Elle n’était pas au jardin samedi. Elle pose son pinceau, regarde l’un puis l’autre, et ne dit rien : elle ne veut ni contredire son associé devant un participant, ni donner tort à Rachid sans savoir.\n\nBilal sort le carnet rouge de la poche de son tablier et feuillette les pages de samedi. Il y a l’heure de la séance, la couleur du vernis votée, le nom de Lucie à côté de « gouge de 8 ». Rien sur Rachid. Rien sur jeudi. Il regarde la page vide longtemps. Son souvenir, lui, est toujours là, net et faux peut-être.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le sentiment de souvenir ne correspond pas aux faits",
+          "text": "Chez une personne qui vit un trouble amnésique, la plainte ou la certitude ne correspond pas toujours à ce qui s’est réellement passé : la conscience des difficultés peut être modifiée, la perception de ses propres capacités erronée, et la source d’une information mal attribuée. Une personne peut aussi ne pas repérer certains oublis. Ce décalage fait partie des caractéristiques décrites par l’OMS ; il ne relève ni du mensonge ni du refus d’admettre le trouble. Bilal a peut-être pensé à prévenir Rachid, l’a peut-être dit à quelqu’un d’autre, ou a reconstruit une scène plausible : personne ne peut le trancher depuis l’atelier. L’ampleur de ce décalage se discute avec l’équipe de réadaptation, qui dispose d’une évaluation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une certitude peut-elle reposer sur une information absente ?",
+          "points": [
+            {
+              "heading": "Un souvenir détaillé mais non confirmé",
+              "text": "Le sentiment d’avoir dit quelque chose peut s’accompagner de détails précis, sans être confirmé par les autres ni par les notes.",
+              "examples": [
+                "Bilal revoit Rachid près du composteur avec son bonnet vert.",
+                "Le carnet rouge de samedi ne mentionne ni Rachid ni le jeudi."
+              ]
+            },
+            {
+              "heading": "Une source mal attribuée",
+              "text": "Une intention, une pensée ou une phrase dite à quelqu’un d’autre peut être rangée comme un échange qui a eu lieu.",
+              "examples": [
+                "La date du jeudi existe bien dans le planning de Bilal, mais personne ne sait qui l’a entendue.",
+                "Il est sûr d’avoir parlé, alors que Rachid se rappelle une conversation sur la pluie et les pommes du jardin."
+              ]
+            },
+            {
+              "heading": "Un conflit qui touche l’autre personne",
+              "text": "Le décalage ne reste pas intérieur : il peut faire porter à l’autre la responsabilité d’un oubli.",
+              "examples": [
+                "Rachid se sent accusé de traîner et rappelle qu’il note toujours ses dates.",
+                "Martine se retrouve prise entre son associé et un participant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour sortir d’une certitude contestée",
+          "points": [
+            {
+              "heading": "S’appuyer sur une trace partagée",
+              "objective": "Remplacer le face-à-face des souvenirs par un support que chacun peut consulter.",
+              "exercise": [
+                "Noter chaque engagement pris avec une autre personne, avec son nom et la date.",
+                "Le reporter sur le support commun, ici l’ardoise.",
+                "Faire relire la ligne par la personne concernée quand elle est présente."
+              ],
+              "benefit": "La question n’est plus de savoir qui se souvient le mieux, mais ce qui est écrit."
+            },
+            {
+              "heading": "Dire une incertitude plutôt qu’une certitude",
+              "objective": "Éviter de transformer un doute en accusation.",
+              "exercise": [
+                "Remplacer « je te l’ai dit » par « je crois te l’avoir dit ».",
+                "Reconnaître quand la trace écrite manque.",
+                "Proposer une solution pour la suite au lieu de chercher qui a raison."
+              ],
+              "benefit": "La relation peut être préservée même quand le fait reste incertain."
+            },
+            {
+              "heading": "En parler à l’équipe de réadaptation",
+              "objective": "Faire évaluer le décalage par ceux qui en ont les moyens.",
+              "exercise": [
+                "Noter la situation concrète, sans conclure sur sa cause.",
+                "L’apporter à la prochaine séance avec l’ergothérapeute.",
+                "Discuter avec lui des engagements qui méritent un récapitulatif écrit."
+              ],
+              "benefit": "Les proches n’ont pas à arbitrer seuls ; l’équipe peut ajuster les aides si besoin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Lundi prochain, écrit à la craie",
+      "ending": "Bilal referme le carnet. « Rachid, je ne suis plus sûr de te l’avoir dit. Je le croyais vraiment, mais ce n’est écrit nulle part. Pardon. » Rachid hausse les épaules, encore un peu froissé. Bilal va jusqu’à l’ardoise et écrit : « Latte de Rachid : retour lundi, 10 h. » Il tend la craie : « Tu me dis si ça te va ? » Rachid relit, hoche la tête et ajoute lui-même, d’une écriture penchée : « OK — R. » Après son départ, Bilal se tourne vers Martine. « Tu pourrais faire un récapitulatif écrit à la fin de notre réunion du lundi ? Une fois par semaine, pas plus. Ce qu’on a décidé, qui fait quoi. Je le colle sous l’ardoise. » Martine accepte, à condition que ce soit une feuille simple et qu’il la relise avec elle. Jeudi, Bilal en parlera à Hugo Marchal, l’ergothérapeute de son équipe de réadaptation. Il ne sait toujours pas ce qui s’est passé samedi au jardin.",
+      "conclusion": "Le trouble amnésique peut s’accompagner d’une certitude que les faits ne confirment pas. En disant son incertitude à Rachid et en demandant un récapitulatif hebdomadaire, Bilal déplace le conflit vers une trace commune, sans prétendre retrouver la vérité de samedi.",
+      "mirror": [
+        "Martine n’a pas tranché, et c’était juste : elle n’était pas au jardin et ne pouvait pas savoir. Dans une situation semblable, un proche peut dire : « Je ne sais pas ce qui s’est dit, mais on peut l’écrire maintenant. » Il évite d’accuser l’un ou l’autre et de jouer l’arbitre des souvenirs. Il peut accepter un récapitulatif écrit, comme Martine, en fixant ses limites : une fois par semaine, une feuille simple, relue ensemble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal reconnaît son incertitude devant Rachid, fixe avec lui le retour de sa latte au lundi 10 h sur l’ardoise, et obtient de Martine un récapitulatif écrit d’une feuille à la fin de la réunion du lundi, collé sous l’ardoise ; il prévoit d’en parler à Hugo jeudi.",
+        "next": "Récapitulatifs, ardoise et carnet rouge finissent par lui coûter beaucoup d’énergie : un soir, à la maison, il ne peut plus rien écouter de nouveau."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

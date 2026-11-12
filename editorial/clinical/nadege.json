@@ -1,0 +1,118 @@
+{
+  "character_id": "nadege",
+  "bio": "Nadège, 68 ans, ancienne pâtissière à Saumur, aime encore expliquer à son filleul Bastien pourquoi un geste réussit. Elle vit avec une démence due à une maladie cérébrovasculaire, diagnostiquée l’an dernier : ses souvenirs restent riches, mais planifier une recette, suivre une conversation rapide ou faire des comptes lui demande plus d’effort selon les jours. Elle choisit six recettes de son cahier bleu et la forme de leur transmission. Avec l’ergothérapeute et l’équipe de consultation mémoire, elle ajuste les risques sans laisser ses proches décider à sa place.",
+  "profile_topics": [
+    "Démence due à une maladie cérébrovasculaire",
+    "Planification et fonctions exécutives",
+    "Lenteur et attention partagée",
+    "Décisions soutenues et autonomie",
+    "Risques ajustés et évolution variable"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "nadege-planifier-recette-etapes-demence-vasculaire",
+      "title": "Planifier une recette quand les étapes se chevauchent",
+      "description": "Devant le Paris-Brest, Nadège connaît chaque geste mais perd l’ordre des étapes : la planification devient l’effort principal de sa démence vasculaire.",
+      "context": "dans sa cuisine un mercredi de novembre",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "planification",
+        "fonctions exécutives"
+      ],
+      "clinical_intro": "Dans une démence due à une maladie cérébrovasculaire, organiser plusieurs étapes dans le bon ordre peut devenir plus coûteux que réaliser chacune d’elles. Nadège, dont le diagnostic a été posé l’an dernier, sait encore faire une pâte à choux les yeux fermés. Ce qui se brouille, ce mercredi, c’est l’enchaînement : qu’est-ce qui doit refroidir, qu’est-ce qui attend, qu’est-ce qui commence maintenant.",
+      "opening": "Le cahier bleu est ouvert à la page du Paris-Brest, celle où une tache de beurre a rendu transparent le mot « praliné ». Ce mercredi de novembre, dans la cuisine de la rue du Portail-Louis, Nadège a sorti la casserole en cuivre, le fouet, le sac à douille et le minuteur rouge. Bastien, son filleul, graphiste indépendant qui vient chez elle chaque mercredi, s’est assis au bout de la table avec un carnet de croquis. Il veut comprendre la recette avant de la mettre en page.\n\nLa pâte à choux, elle la fait depuis quarante ans, dont trente à la pâtisserie Delaunay, près des quais. Elle dessèche la panade sans regarder, ajoute les œufs un à un, juge la consistance au ruban qui tombe de la spatule. « Une pâte se respecte, dit-elle, elle te dit quand elle est prête. » La couronne part au four. Le minuteur rouge tourne.\n\nC’est là que tout se met à parler en même temps. La crème doit être cuite et refroidie avant d’être montée au beurre. Le praliné attend dans son bocal. Les choux ont encore vingt-cinq minutes. Faut-il lancer la crème maintenant pour qu’elle ait le temps de refroidir, ou attendre que le four soit libre ? Elle regarde le lait dans le pot, puis la page, puis le four. Chaque geste est là, intact. C’est l’ordre qui ne vient pas. D’habitude, certains jours, il se range tout seul.\n\n« Je peux m’occuper de la crème, si tu veux », propose Bastien en se levant à moitié. Nadège pose le fouet sur le plan de travail, un peu trop fort. « Assieds-toi. Je ne t’ai pas demandé de finir ma recette. » Bastien se rassoit. Le minuteur continue de tourner.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’ordre des étapes demande plus d’effort que les gestes",
+          "text": "Les fonctions exécutives permettent de planifier, d’ordonner des étapes et de mener plusieurs tâches en parallèle ; dans une démence liée à une atteinte des petits vaisseaux du cerveau, elles font partie des capacités souvent touchées, avec l’attention et la vitesse de traitement. La mémoire des gestes appris peut rester riche pendant que l’organisation devient laborieuse. Chez Nadège, l’équipe de consultation mémoire a posé ce diagnostic l’an dernier, à partir de l’examen, de l’imagerie et de son histoire. Ce mercredi montre ce que cela change dans une recette : la difficulté n’est pas de savoir monter une crème, mais de décider ce qui commence pendant que la couronne cuit. Cela varie selon les jours, la fatigue et le contexte, et une journée moins fluide ne se résume pas au diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la planification se brouille-t-elle dans une recette à plusieurs temps ?",
+          "points": [
+            {
+              "heading": "L’enchaînement se perd alors que les gestes restent sûrs",
+              "text": "Une personne peut réussir chaque étape isolée et hésiter sur celle qui doit venir ensuite, surtout quand l’ordre dépend de délais.",
+              "examples": [
+                "Nadège dessèche la panade et incorpore les œufs sans regarder la page, puis ne sait plus si la crème passe avant ou après la cuisson des choux.",
+                "Elle lit la recette du cahier bleu ligne par ligne mais n’arrive pas à en tirer un ordre de travail pour l’après-midi."
+              ]
+            },
+            {
+              "heading": "Les attentes simultanées se superposent",
+              "text": "Quand plusieurs préparations doivent cuire, refroidir ou reposer en même temps, il faut garder en tête plusieurs horloges à la fois.",
+              "examples": [
+                "La couronne a vingt-cinq minutes de four pendant que la crème devrait déjà refroidir et que le praliné attend dans son bocal.",
+                "Le minuteur rouge ne compte qu’un seul temps, celui des choux, et ne dit rien de la crème qu’il faudrait lancer."
+              ]
+            },
+            {
+              "heading": "Une interruption oblige à tout reconstruire",
+              "text": "Après une pause ou une question, retrouver où l’on en était peut demander de reprendre tout le plan depuis le début.",
+              "examples": [
+                "Quand Bastien propose son aide, Nadège doit relire la page pour se resituer entre le lait et le four.",
+                "Après avoir posé le fouet, elle regarde successivement le pot de lait, le cahier et la porte du four avant de retrouver l’étape suivante."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la main sur une recette à plusieurs étapes",
+          "points": [
+            {
+              "heading": "Écrire l’ordre avant d’allumer le four",
+              "objective": "Séparer le moment où l’on organise du moment où l’on exécute.",
+              "exercise": [
+                "La veille ou le matin, lire la recette et recopier sur une fiche à part les étapes dans l’ordre où on les fera, pas dans celui du livre.",
+                "Noter à côté de chaque étape ce qui doit être prêt avant de la commencer.",
+                "Poser la fiche près du plan de travail et cocher chaque étape terminée."
+              ],
+              "benefit": "L’ordre n’a plus à être reconstruit pendant que la cuisson tourne ; c’est un aménagement à essayer et à ajuster, pas un traitement."
+            },
+            {
+              "heading": "Ne mener qu’une préparation en parallèle",
+              "objective": "Réduire le nombre d’horloges à surveiller en même temps.",
+              "exercise": [
+                "Repérer dans la recette les préparations qui peuvent se faire un autre jour, comme une crème ou un praliné.",
+                "Les répartir sur deux séances plutôt qu’une seule longue après-midi.",
+                "Garder pour chaque séance une seule cuisson et un seul temps à minuter."
+              ],
+              "benefit": "La séance devient plus courte et plus lisible, au prix d’une recette étalée sur plusieurs jours."
+            },
+            {
+              "heading": "Décider soi-même qui fait quoi",
+              "objective": "Recevoir de l’aide sans perdre la direction de sa recette.",
+              "exercise": [
+                "Avant de commencer, dire à la personne présente quel rôle on lui confie, par exemple lire l’étape suivante à voix haute.",
+                "Dire aussi ce qu’on ne veut pas qu’elle fasse sans demander.",
+                "Revoir ce partage à la fin de la séance, en disant ce qui a aidé ou gêné."
+              ],
+              "benefit": "L’aide arrive au moment choisi, et l’entourage n’a pas à deviner ni à évaluer ce que la personne peut faire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche du Paris-Brest",
+      "ending": "Nadège prend une feuille quadrillée dans le tiroir et écrit, en lettres capitales : « 1. Choux au four. 2. Pendant ce temps : rien. 3. Crème : mercredi prochain, seule. » Elle décide que la couronne sera garnie ce soir d’une simple chantilly et que la crème au praliné aura sa propre séance. Bastien demande s’il peut photographier la fiche pour le futur carnet ; elle accepte. Quand le minuteur sonne, elle sort la couronne, dorée, et la pose sur la grille. La recette complète n’est pas faite aujourd’hui, et elle le regrette un peu. Puis elle ouvre le cahier bleu à la dernière page et écrit en haut : « Recettes à transmettre ». En dessous, un seul nom pour l’instant : Paris-Brest.",
+      "conclusion": "Une démence due à une maladie cérébrovasculaire peut toucher l’organisation des étapes bien avant le savoir-faire. Ce premier épisode montre Nadège choisir de découper sa recette plutôt que de céder la main, et ouvrir la liste qui donnera sa direction à tout le projet de transmission.",
+      "mirror": [
+        "Quand Nadège pose le fouet, Bastien pourrait rester assis et demander : « Tu veux que je lise l’étape suivante à voix haute, ou que je me taise jusqu’à ce que tu me dises ? » Proposer un rôle précis laisse la recette entre ses mains. Il n’a pas à vérifier ce qu’elle sait encore faire ni à interpréter une journée difficile ; s’il s’inquiète durablement, il peut lui demander si elle souhaite en parler à l’équipe qui la suit."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "has-tnc-fiche2"
+      ],
+      "continuity": {
+        "choice": "Nadège découpe le Paris-Brest en deux séances, écrit une première fiche d’ordre que Bastien photographie, et ouvre dans le cahier bleu la liste « Recettes à transmettre » avec le Paris-Brest.",
+        "next": "Dimanche, Odile appelle de Nantes et doute du diagnostic parce que Nadège se souvient de tout."
+      },
+      "clinical_focus": "Planifier une recette quand les étapes se chevauchent",
+      "diagnostic_stage": "known"
+    }
+  ]
+}

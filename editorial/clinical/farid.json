@@ -113,6 +113,111 @@
         "next": "Dimanche à neuf heures, Anis revient ; Farid voudra rendre présentable le poste à cadran vert de 1953 pour la visite de Gilles Perrot, et c’est l’évaluation de l’espace qui le trompera."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "farid-capacites-visuospatiales-cadran-etagere",
+      "title": "Les distances qui trompent : aligner un cadran et poser un poste",
+      "description": "Farid connaît chaque station gravée sur son cadran, mais l’aiguille reste décalée. Ce que la démence à corps de Lewy change dans la perception de l’espace.",
+      "context": "à l’atelier, la veille d’une visite",
+      "topics": [
+        "capacités visuospatiales",
+        "savoir et perception",
+        "repère tactile"
+      ],
+      "clinical_focus": "Évaluer les distances et l’alignement d’un cadran",
+      "clinical_intro": "Dans la démence à corps de Lewy, apprécier une distance, un alignement ou la position d’un objet peut devenir difficile, parfois davantage que se souvenir. Farid sait exactement ce que son poste à cadran vert doit montrer, mais son évaluation de l’espace le trompe. Distinguer ce qu’il sait de ce qu’il voit lui permet de garder la main sur le réglage.",
+      "opening": "Dimanche, neuf heures. Anis, le fils de Farid, professeur de technologie, est revenu comme promis. Avant tout, Farid lui tend le transistor rouge et dicte son étiquette d’une traite : « 1961, offert par un chauffeur de car, boîtier fêlé recollé. » Il laisse une ligne vide : « origine du haut-parleur, à vérifier. » La question de la veille est close.\n\nPuis il sort de l’étagère le poste à cadran vert de 1953, celui qu’il veut montrer en premier à Gilles Perrot, le président du musée associatif Les Lampes du Faubourg, qui vient lundi matin. Le cadran porte une trentaine de stations gravées en lettres dorées. Farid les récite sans les regarder : Luxembourg, Monte-Carlo, Sottens, Droitwich. « L’aiguille doit tomber pile sur Paris, c’est comme ça qu’on le présentait en vitrine. »\n\nIl tourne le bouton, s’arrête, satisfait. Anis se penche : l’aiguille est à un bon centimètre à gauche, entre deux noms. Farid recommence et s’arrête au même endroit. Il soulève ensuite le poste pour le reposer au milieu de l’étagère ; le boîtier se retrouve au bord, une patte dans le vide. Anis le retient. Farid le reprend, le repose, presque au même endroit.\n\n« C’est mes mains, dit-il en les regardant. Elles ne font plus ce que je leur dis. » Il serre et desserre les doigts, agacé. Anis voit pourtant que ses mains sont sûres : c’est la place qu’il vise qui n’est pas la bonne.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Voir où sont les choses, une capacité à part entière",
+          "text": "Estimer une distance, juger qu’un objet est centré ou qu’une aiguille est alignée relève de capacités visuospatiales et visuoperceptives distinctes de la mémoire. Dans la démence due à une maladie à corps de Lewy, ces capacités sont souvent plus touchées que la mémoire, ce qui distingue fréquemment cette démence de la maladie d’Alzheimer. Une personne peut alors réciter parfaitement les noms d’un cadran tout en plaçant l’aiguille à côté. Chez Farid, la scène sépare deux choses que l’on croit liées : le savoir, intact, sur ce que le poste doit montrer, et la perception, qui l’induit en erreur sur l’endroit exact. Attribuer l’erreur à ses mains l’amène à douter d’un geste qui reste précis. Seule l’équipe de soins peut évaluer ces capacités ; à la maison, il s’agit d’aménager la tâche."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté d’espace se remarque-t-elle à l’atelier ?",
+          "points": [
+            {
+              "heading": "Un alignement jugé juste alors qu’il ne l’est pas",
+              "text": "La personne croit avoir obtenu la bonne position et s’arrête, sans voir l’écart.",
+              "examples": [
+                "Farid arrête l’aiguille à un centimètre de Paris et se déclare satisfait.",
+                "Il recommence et s’arrête au même endroit décalé."
+              ]
+            },
+            {
+              "heading": "Des distances mal estimées",
+              "text": "Poser un objet au bon endroit demande de juger la profondeur et les bords, ce qui peut devenir incertain.",
+              "examples": [
+                "Le poste se retrouve au bord de l’étagère, une patte dans le vide.",
+                "Au second essai, Farid le repose presque au même endroit."
+              ]
+            },
+            {
+              "heading": "Un savoir qui reste vif à côté",
+              "text": "La mémoire des objets peut contraster avec l’erreur de perception, ce qui déroute l’entourage.",
+              "examples": [
+                "Farid récite les stations gravées sans regarder le cadran.",
+                "Il se souvient de la façon dont le poste était présenté en vitrine en 1953."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la main quand l’espace trompe",
+          "points": [
+            {
+              "heading": "Séparer ce qu’il sait de ce qu’il voit",
+              "objective": "Éviter que Farid doute de son savoir ou de ses mains à cause d’une erreur de perception.",
+              "exercise": [
+                "Lui laisser dire ce que le poste doit montrer, par exemple l’aiguille sur Paris.",
+                "Décrire ensuite simplement l’écart observé, sans parler d’erreur.",
+                "Lui laisser choisir s’il veut corriger seul ou avec une aide."
+              ],
+              "benefit": "Le savoir de Farid reste reconnu, et la difficulté devient un problème pratique."
+            },
+            {
+              "heading": "Un repère que l’on touche",
+              "objective": "Remplacer une estimation visuelle incertaine par un repère choisi par Farid.",
+              "exercise": [
+                "Lui demander quel repère lui conviendrait : une bande, une cale, une marque.",
+                "L’installer avec lui à l’endroit qu’il désigne quand il a le temps de vérifier.",
+                "Vérifier après quelques jours que ce repère l’aide encore."
+              ],
+              "benefit": "Un gabarit peut rendre le rangement plus sûr ; il n’améliore pas la perception elle-même."
+            },
+            {
+              "heading": "Demander une lecture, pas une reprise",
+              "objective": "Obtenir une vérification visuelle sans qu’un proche reprenne la tâche.",
+              "exercise": [
+                "Convenir de ce que le proche doit dire : « à gauche », « à droite », « dessus ».",
+                "Laisser les mains de Farid sur le bouton pendant que le proche lit.",
+                "Signaler à la neurologue, si Farid l’accepte, que ces erreurs d’espace reviennent."
+              ],
+              "benefit": "Chacun garde sa place : Farid règle, Anis lit, l’équipe de soins évalue."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La bande de carton au milieu de l’étagère",
+      "ending": "Farid découpe une bande dans un carton d’étiquettes et la colle au centre de l’étagère, là où Anis lui indique le milieu. Il passe le doigt dessus deux fois. Puis il pose le poste : le pied gauche touche la bande, le boîtier est droit. « On ne fait pas confiance à l’œil, on fait confiance au gabarit », dit-il.\n\nPour l’aiguille, il demande à Anis de ne pas toucher au bouton. « Tu me lis seulement où elle est. » Anis dit « un peu à gauche », puis « encore », puis « dessus ». Farid garde le réglage final pour lui et lâche le bouton. Le résultat tient. Ce qui reste incertain, c’est demain : Gilles parlera, ouvrira des postes, et Farid ne sait pas encore ce que cela lui demandera.",
+      "conclusion": "Dans la démence à corps de Lewy, la perception de l’espace peut se dérégler alors que la mémoire des objets reste vive. Farid ne renonce pas à préparer son poste à cadran vert : il s’appuie sur un repère tactile et sur la lecture d’Anis, et il garde le dernier geste.",
+      "mirror": [
+        "Quand Farid accuse ses mains, Anis pourrait le contredire ou reprendre le bouton. Il peut plutôt dire : « Tes mains sont sûres. Tu veux que je te lise où est l’aiguille ? » Lire une position sans toucher, ou désigner le milieu d’une étagère, aide sans retirer la tâche. Le proche n’a pas à tester la vue ou l’orientation de la personne à la maison ; s’il remarque que ces erreurs se répètent, il peut proposer d’en parler ensemble à la neurologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "has-fiche13-comportement"
+      ],
+      "continuity": {
+        "choice": "Farid colle une bande de carton au centre de l’étagère comme repère et demande à Anis de lui lire seulement la position de l’aiguille ; l’étiquette du transistor rouge est faite, avec une ligne à vérifier sur l’origine du haut-parleur.",
+        "next": "Lundi matin, Gilles Perrot visite l’atelier seul avec Farid ; il parlera de vitrines et de restauration tout en ouvrant un poste, et Farid devra suivre deux choses à la fois."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }
