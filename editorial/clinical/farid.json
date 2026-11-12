@@ -743,6 +743,111 @@
         "next": "Le jeudi suivant, pendant la visite de Mme Diallo et avant l’arrivée d’Hugo, Farid tombera en voulant attraper le transistor rouge sur l’étagère haute, et une réponse urgente sera nécessaire."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "farid-chute-absence-reponse-appel-15",
+      "title": "Une chute suivie d’une absence de réponse demande un avis urgent",
+      "description": "Farid tombe en attrapant un transistor et ne répond plus quelques secondes. Mme Diallo appelle le 15 : la cause doit être cherchée par les médecins.",
+      "context": "à l’atelier, un jeudi matin",
+      "topics": [
+        "chute et malaise",
+        "appeler le 15",
+        "ne pas présumer la cause"
+      ],
+      "clinical_focus": "Une chute soudaine demande un avis urgent",
+      "clinical_intro": "Quand une personne tombe et ne répond plus, même quelques secondes, il faut un avis médical urgent pour en chercher la cause. Un diagnostic déjà connu ne permet pas de deviner ce qui s’est passé. Chez Farid, une chute pendant la visite de l’assistante de soins oblige à suspendre le projet du jour et à laisser les médecins décider.",
+      "opening": "Jeudi, neuf heures quarante. Mme Diallo, assistante de soins en gérontologie de l’équipe de soutien au domicile, est arrivée à neuf heures comme chaque semaine. Farid lui a parlé du poste qui glissait dans son rêve et de la table de chevet déplacée ; il plaisantait sur la lampe « enfin à l’abri ». Puis il l’a entraînée dans l’atelier : il veut compléter l’étiquette du transistor rouge, la ligne restée vide sur l’origine du haut-parleur. Hugo Lambert, l’ergothérapeute, doit passer à onze heures.\n\nLe transistor est sur l’étagère haute. Farid se lève vite de son tabouret et tend le bras. Il chancelle, sa main manque le rebord, et il tombe sur le côté, contre le pied de l’établi. Mme Diallo est à deux pas. Elle s’agenouille, l’appelle par son nom. Farid ne répond pas. Ses yeux sont ouverts mais ne la regardent pas. Elle compte dans sa tête : quatre, cinq, six secondes.\n\nPuis il cligne des yeux et la voit. « Ce n’est rien. Aidez-moi à me relever, je veux finir l’étiquette. » Sa voix est un peu pâteuse. Il essaie de prendre appui sur le tabouret.\n\nMme Diallo pose une main sur son épaule. « Restez allongé, monsieur Farid. Je reste là. » Elle a déjà son téléphone dans l’autre main. Elle ne cherche pas à savoir pourquoi il est tombé. Elle sait seulement qu’il n’a pas répondu pendant plusieurs secondes, et que ce n’est pas à elle d’en décider.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une chute avec perte de réponse n’est pas un incident ordinaire",
+          "text": "Une chute suivie d’une absence de réponse, même brève, demande un avis médical urgent, quel que soit l’âge ou le diagnostic déjà connu. Dans la démence à corps de Lewy, des chutes répétées, des malaises ou des épisodes transitoires où la personne ne répond plus font partie des signes possibles ; mais ils sont parfois difficiles à distinguer d’un vrai malaise, et bien d’autres causes peuvent provoquer une chute. Une personne atteinte de démence est aussi plus exposée à une confusion aiguë, qui se distingue de son état habituel et doit être évaluée. Mme Diallo ne choisit donc entre aucune de ces hypothèses. Elle part de ce qu’elle a vu : un homme qui allait bien à neuf heures, une chute en se levant vite, six secondes sans réponse, une voix pâteuse. Ce sont ces faits que le médecin régulateur du 15 a besoin de connaître pour décider de la suite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître qu’une chute appelle une réponse urgente ?",
+          "points": [
+            {
+              "heading": "Un moment sans réponse",
+              "text": "La personne ne réagit plus à son nom ou à la voix, même pendant quelques secondes.",
+              "examples": [
+                "Farid a les yeux ouverts mais ne regarde pas Mme Diallo qui l’appelle.",
+                "Elle compte six secondes avant qu’il cligne des yeux."
+              ]
+            },
+            {
+              "heading": "Un changement par rapport à l’habitude",
+              "text": "Après la chute, la personne n’est pas tout à fait comme quelques minutes plus tôt.",
+              "examples": [
+                "Sa voix est pâteuse alors qu’il plaisantait juste avant.",
+                "À neuf heures, il racontait sa nuit avec précision."
+              ]
+            },
+            {
+              "heading": "Une envie de minimiser",
+              "text": "La personne peut vouloir reprendre aussitôt son activité, ce qui ne dit rien de la cause.",
+              "examples": [
+                "Farid dit que ce n’est rien et veut finir l’étiquette.",
+                "Il essaie de se relever en s’appuyant sur le tabouret."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à une chute inquiétante",
+          "points": [
+            {
+              "heading": "Appeler le 15 et suivre les consignes",
+              "objective": "Obtenir sans délai l’avis d’un médecin régulateur.",
+              "exercise": [
+                "Appeler le 15, ou le 112, dès que la personne ne répond pas ou paraît changée.",
+                "Rester près d’elle et ne pas la relever sans l’accord du régulateur.",
+                "Répondre aux questions et faire ce qui est demandé jusqu’à l’arrivée des secours."
+              ],
+              "benefit": "La décision repose sur un médecin, pas sur une supposition à partir du diagnostic."
+            },
+            {
+              "heading": "Transmettre l’état habituel et l’heure",
+              "objective": "Permettre aux soignants de mesurer le changement.",
+              "exercise": [
+                "Dire à quelle heure la chute a eu lieu et combien de temps la personne n’a pas répondu.",
+                "Décrire comment elle était juste avant, en mots simples.",
+                "Préciser le diagnostic connu et où se trouvent la liste des traitements et le contact du neurologue."
+              ],
+              "benefit": "Les équipes disposent d’un point de comparaison pour chercher la cause."
+            },
+            {
+              "heading": "Reporter les engagements ordinaires",
+              "objective": "Libérer la journée pour l’évaluation médicale.",
+              "exercise": [
+                "Prévenir les personnes attendues que la visite est annulée.",
+                "Laisser l’objet ou la tâche en cours en place, sans chercher à la terminer.",
+                "Prévenir le proche désigné, en lui disant seulement ce qui est sûr."
+              ],
+              "benefit": "Rien d’autre ne vient compliquer la prise en charge ; le projet attendra."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’étiquette attend sur l’établi",
+      "ending": "Mme Diallo appelle le 15 sans attendre. Au médecin régulateur, elle dit l’heure, la chute en se levant, les six secondes sans réponse, la voix pâteuse, et qu’il allait comme d’habitude à neuf heures. Elle précise que Farid a une démence à corps de Lewy suivie par une neurologue, que la liste de ses traitements est sur le réfrigérateur et que sa carte est dans son portefeuille. On lui demande de ne pas le relever, de rester près de lui et de rappeler si quelque chose change. Elle le fait.\n\nPendant l’attente, elle appelle Anis, le fils de Farid, au collège : « Votre père est tombé, il a été quelques secondes sans répondre, les secours arrivent. Il parle. » Elle prévient aussi le secrétariat pour qu’Hugo ne vienne pas à onze heures. Farid proteste encore un peu, puis se tait. L’équipe des secours l’examine et décide de l’emmener aux urgences. Mme Diallo glisse son portefeuille dans la poche de sa veste. Sur l’établi, l’étiquette du transistor rouge reste avec sa ligne vide.",
+      "conclusion": "Une chute avec absence de réponse demande un avis urgent, et sa cause n’est pas déduite de la démence à corps de Lewy déjà connue. Mme Diallo appelle le 15, transmet des faits précis et reporte le reste de la matinée ; Farid part aux urgences, son projet suspendu pour la journée.",
+      "mirror": [
+        "Farid voulait se relever et finir son étiquette. Un proche présent peut répondre : « On la finira plus tard. Pour l’instant, je reste avec toi et j’appelle le 15. » Il n’a pas à deviner si la chute vient de la maladie ou d’autre chose, ni à attendre de voir si cela passe. Une fois les secours prévenus, il peut dire ce qu’il a vu, l’heure et l’état habituel, puis laisser les soignants décider, même si la personne minimise."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "service-public-15",
+        "mckeith-2017"
+      ],
+      "continuity": {
+        "choice": "Mme Diallo appelle le 15 sans attendre, transmet l’heure, les six secondes sans réponse et l’état habituel, signale le diagnostic, la liste des traitements sur le réfrigérateur et la carte dans le portefeuille. Elle prévient Anis et annule la visite d’Hugo. Les secours conduisent Farid aux urgences ; l’étiquette du transistor rouge reste inachevée.",
+        "next": "Aux urgences, Anis arrivera du collège ; un soignant lui demandera les traitements et ce qu’on sait de la maladie, et il devra transmettre le diagnostic et le contact de la neurologue avant que les équipes décident."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

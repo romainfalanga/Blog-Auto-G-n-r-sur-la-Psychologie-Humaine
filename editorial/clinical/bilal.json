@@ -841,6 +841,110 @@
         "next": "À la maison, une nouvelle importante d’Inès, sa fille, va lui échapper malgré les aides de l’atelier."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "bilal-oublier-nouvelle-familiale-importante-poste-ines",
+      "title": "Oublier une nouvelle familiale importante sans qu’elle compte moins",
+      "description": "Bilal appelle sa fille pour la féliciter de son nouveau poste. Inès lui répond qu’il l’a déjà fait dimanche, à table : il se tait, honteux.",
+      "context": "au téléphone puis autour du buffet",
+      "topics": [
+        "Trouble amnésique",
+        "vie familiale",
+        "carnet familial"
+      ],
+      "clinical_focus": "Oublier une nouvelle familiale importante",
+      "clinical_intro": "Le trouble amnésique ne s’arrête pas à la porte de l’atelier : une nouvelle familiale récente, même heureuse et chargée d’émotion, peut ne pas être retenue. Cet oubli ne mesure pas l’attachement de la personne. Bilal, dont le diagnostic est établi, en fait l’expérience avec sa fille et cherche avec sa famille une trace qui ne transforme personne en secrétaire.",
+      "opening": "Mercredi, dix-neuf heures, rue Colbert. Neuf semaines après la livraison du chêne, Bilal rentre de l’atelier et trouve Samia, sa femme, professeure de mathématiques, en train de corriger des copies sur la table du salon. Elle lève la tête : « Inès a signé son contrat aujourd’hui. Elle m’a envoyé une photo du stylo. »\n\nUn contrat. Bilal ne sait pas de quoi elle parle, mais il comprend qu’il s’agit d’une bonne nouvelle pour leur fille. Inès, vingt-sept ans, vit à Lyon depuis ses études ; elle cherchait depuis des mois un poste dans un bureau d’études. Il sort son téléphone, tout content, et l’appelle.\n\n« Ma fille ! Ta mère me dit que tu as un poste ! Bravo, je suis tellement fier. C’est où ? Tu commences quand ? »\n\nUn silence. Puis la voix d’Inès, très douce, presque prudente.\n\n« Papa… Je te l’ai annoncé dimanche, à table, quand je suis venue déjeuner. Tu m’avais déjà félicitée. Tu avais même sorti le cidre de la cave et tu avais trinqué en disant que les bureaux d’études avaient besoin de gens qui savent lire un plan. »\n\nBilal s’assoit sur l’accoudoir du canapé. Dimanche. Il cherche et ne trouve rien : ni le cidre, ni la phrase sur les plans, ni le visage de sa fille au moment de l’annonce. Le repas lui-même est une page blanche. Ce qu’il ressent n’est pas de l’agacement contre lui-même, comme pour les cotes de l’atelier. C’est de la honte, épaisse, la sensation d’avoir laissé tomber un moment qu’elle avait préparé pour lui.\n\nIl se tait trop longtemps. Inès reprend : « C’est rien, papa. Ça me fait plaisir que tu sois fier deux fois. »\n\nIl entend qu’elle essaie de le protéger. Il entend aussi, sous la gentillesse, une petite peine qu’elle n’ose pas montrer. Samia, de l’autre côté de la table, a posé son stylo rouge.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une nouvelle qui compte peut aussi s’effacer",
+          "text": "Le trouble amnésique a un retentissement significatif dans la vie personnelle et familiale, pas seulement au travail. Une information récente peut ne pas être retenue même lorsqu’elle est importante et chargée d’émotion pour la personne et pour ses proches. Cet oubli ne dit rien de l’intérêt ou de l’affection qu’elle porte à la nouvelle. Les recommandations de réadaptation insistent sur l’information et le soutien des proches, pour qu’ils comprennent l’impact des troubles dans la vie quotidienne. Bilal était présent dimanche, heureux, il a trinqué. C’est la trace de ce moment qui manque. Inès, elle, a vécu deux fois l’annonce, et la seconde fois un peu seule."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’oubli d’une nouvelle familiale touche-t-il chacun ?",
+          "points": [
+            {
+              "heading": "Une joie sincère mais répétée",
+              "text": "La personne peut réagir avec la même émotion qu’à la première annonce, sans savoir qu’elle l’a déjà exprimée.",
+              "examples": [
+                "Bilal appelle Inès, tout content, pour la féliciter d’un poste qu’il croit découvrir.",
+                "Il pose les questions qu’il avait sans doute déjà posées dimanche."
+              ]
+            },
+            {
+              "heading": "Une honte qui n’est pas celle de l’atelier",
+              "text": "Oublier un moment partagé avec un proche peut peser plus lourd qu’oublier une information pratique.",
+              "examples": [
+                "Bilal ressent de la honte, pas l’agacement des cotes perdues.",
+                "Il se tait trop longtemps au téléphone, faute de savoir quoi dire."
+              ]
+            },
+            {
+              "heading": "Une peine discrète du côté du proche",
+              "text": "Le proche peut chercher à protéger la personne en minimisant ce qu’il ressent.",
+              "examples": [
+                "Inès répond que cela lui fait plaisir qu’il soit fier deux fois.",
+                "Sous sa gentillesse, Bilal entend une peine qu’elle n’ose pas dire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder les nouvelles qui comptent en famille",
+          "points": [
+            {
+              "heading": "Nommer la peine des deux côtés",
+              "objective": "Éviter que chacun garde pour soi ce que l’oubli a fait.",
+              "exercise": [
+                "Dire simplement ce que l’on ressent, sans s’accabler.",
+                "Laisser le proche dire, s’il le souhaite, ce que cela lui a fait.",
+                "Reconnaître que l’oubli ne mesure pas l’attachement."
+              ],
+              "benefit": "La conversation peut rester un lien plutôt qu’un malaise silencieux."
+            },
+            {
+              "heading": "Garder une trace des nouvelles importantes",
+              "objective": "Disposer d’un endroit où les événements familiaux restent consultables.",
+              "exercise": [
+                "Choisir un carnet réservé à la famille, distinct de celui du travail.",
+                "Le poser à un endroit de passage dans la maison.",
+                "Y noter seulement les nouvelles qui comptent, avec la date."
+              ],
+              "benefit": "Les nouvelles peuvent être relues sans devoir les redemander, ce qui ne remplace pas le moment vécu."
+            },
+            {
+              "heading": "Choisir ensemble qui écrit",
+              "objective": "Partager la trace sans transformer un proche en secrétaire.",
+              "exercise": [
+                "Décider que la personne qui annonce une nouvelle l’écrit elle-même quand elle est là.",
+                "Au téléphone, prévoir que la personne concernée écrive pendant l’appel.",
+                "Fixer un moment de relecture qui convient à tous."
+              ],
+              "benefit": "Chacun garde un rôle choisi et limité, et peut le revoir si l’arrangement pèse."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet du buffet",
+      "ending": "Bilal finit par parler. « Inès, j’ai honte. Pas parce que j’ai oublié la date d’un camion. Parce que c’était ton moment. Je suis fier, ça, je le sais, même sans me souvenir de dimanche. » Inès répond qu’elle a eu un peu de peine, et que ça va mieux de pouvoir le dire. Puis elle lui redit, sans se presser, qu’elle commence le 5 janvier. Après l’appel, Samia sort du tiroir un carnet à couverture verte. « Pas question que je devienne ton agenda, tu le sais. Mais un carnet de famille, je veux bien. » Ils le posent sur le buffet, à côté de la corbeille à clés. Bilal y écrit la première ligne de sa main, avec ce qu’Inès vient de lui redire :« Inès : poste au bureau d’études, commence le 5 janvier. Annoncé le dimanche, cidre. » Au téléphone, le lendemain, Inès promet d’écrire elle-même ses nouvelles importantes dans le carnet quand elle vient ; quand elle appelle, c’est lui qui écrit pendant l’appel. Le samedi matin, au café, il relit la page et rappelle sa fille pour lui demander comment s’appelle son futur chef. Cette question-là est nouvelle.",
+      "conclusion": "Une nouvelle familiale peut s’effacer chez une personne vivant un trouble amnésique sans qu’elle compte moins pour elle. En nommant leur peine et en posant un carnet sur le buffet, Bilal, Samia et Inès gardent une trace commune, sans que personne devienne le secrétaire de l’autre.",
+      "mirror": [
+        "Inès a montré une réponse possible : ne pas faire semblant que l’annonce était nouvelle, la rappeler doucement, puis accepter de dire sa peine quand son père l’y invite. Un proche peut dire : « Je te l’ai déjà annoncé, et je suis contente que tu sois fier. » Il peut aussi écrire lui-même sa nouvelle dans le carnet familial lors de sa venue. Il n’a pas à prendre en charge toutes les nouvelles de la famille ; chacun choisit ce qu’il écrit et peut dire quand c’est trop."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal et Samia posent sur le buffet un carnet familial à couverture verte ; Inès y écrira ses nouvelles importantes quand elle vient, Bilal écrit lui-même pendant les appels et relit le carnet le samedi matin au café.",
+        "next": "Au déjeuner du dimanche, Nordine, le frère de Bilal, voudra l’aider en le pressant de questions pour faire revenir ce qu’il a oublié."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

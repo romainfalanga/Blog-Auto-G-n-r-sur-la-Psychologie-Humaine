@@ -533,6 +533,111 @@
       },
       "clinical_focus": "Une démence légère invisible pour qui la connaît peu",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "nadege-decision-soutenue-proches-tranchent",
+      "title": "Décider avec soutien quand les proches tranchent",
+      "description": "Bastien et Odile ont retiré la tarte Tatin du projet sans elle : Nadège reconnaît le risque du caramel, mais réclame sa place dans la décision.",
+      "context": "dans sa cuisine un mercredi de janvier",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "décision soutenue",
+        "droit de participer"
+      ],
+      "clinical_intro": "Vivre avec une démence ne retire pas le droit d’être informé de façon adaptée et de participer aux décisions qui vous concernent. Les proches peuvent avoir des inquiétudes justes, mais les exprimer n’est pas trancher à la place de la personne. Nadège le rappelle le jour où son filleul arrive avec une liste de recettes d’où l’on a retiré, sans elle, la tarte de sa mère.",
+      "opening": "Avant Noël, Nadège avait complété la liste au dos du cahier bleu : les sablés de Lucienne, la pâte à choux, le Paris-Brest, la tarte Tatin, la crème pâtissière et le quatre-quarts. Six recettes, six pages tachées. Le lundi 4 janvier, à la consultation mémoire, la docteure Leclerc, sa neurologue, a repris sa question sur les factures ; Nadège a décidé de mettre le loyer et l’électricité en prélèvement et de garder le reste à la main. La docteure lui a aussi proposé des visites à domicile d’une ergothérapeute, Inès Morel. La première est fixée au mardi 19 janvier.\n\nCe mercredi, Bastien, son filleul graphiste, arrive avec une chemise cartonnée. Il en sort une feuille imprimée, joliment mise en page, intitulée « Recettes adaptées ». Il y en a cinq. La Tatin a disparu.\n\n« Odile et moi, on en a parlé au téléphone dimanche, dit-il en évitant son regard. Le caramel à cent quatre-vingts degrés, retourner le moule brûlant… On s’est dit que c’était trop risqué, maintenant. » Odile, sa sœur aînée qui vit à Nantes, ne lui en a rien dit dimanche dernier. Nadège reste debout près du buffet. Elle a peur du caramel, elle aussi, depuis l’automne ; une fois, elle a oublié la casserole sur le feu le temps de répondre au téléphone. Elle ne l’a dit à personne. Mais ce n’est pas cela qui lui serre la gorge.\n\nElle prend le cahier bleu, l’ouvre à la page de la Tatin, celle où l’écriture de Lucienne, leur mère, est restée au crayon, et le pose ouvert devant Bastien. La tarte des dimanches, retournée sur le plat ébréché. « Qui a décidé ? » demande-t-elle. Bastien ne répond pas tout de suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "S’inquiéter pour quelqu’un n’est pas décider à sa place",
+          "text": "Une personne vivant avec une démence a droit à une information adaptée et à participer aux décisions qui la concernent ; ses proches peuvent l’aider à comparer les options, exprimer leurs craintes et proposer des supports, mais ils ne tranchent pas à sa place. Chez Nadège, l’inquiétude de Bastien et d’Odile repose sur un risque réel : un caramel très chaud demande une attention soutenue, et Nadège elle-même s’en méfie. Ce qui blesse, c’est la méthode. La décision a été prise au téléphone, entre deux personnes qui l’aiment, sans elle. Un soutien à la décision commence par mettre le risque précis sur la table, devant la personne, et par chercher avec elle ce qui pourrait le réduire, éventuellement avec un professionnel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une décision prise sans la personne se manifeste-t-elle dans la famille ?",
+          "points": [
+            {
+              "heading": "Une décision prise en son absence",
+              "text": "Par souci de protéger, des proches peuvent régler une question entre eux et présenter ensuite le résultat.",
+              "examples": [
+                "Bastien arrive avec une liste imprimée de cinq recettes « adaptées » où la Tatin a disparu.",
+                "Odile et lui en ont parlé dimanche au téléphone, sans que Nadège soit au courant."
+              ]
+            },
+            {
+              "heading": "Une inquiétude légitime mais mal partagée",
+              "text": "Le risque qui motive les proches peut être réel ; c’est sa façon d’être traité qui crée le conflit.",
+              "examples": [
+                "Nadège a elle-même peur du caramel depuis qu’elle a oublié une casserole sur le feu cet automne.",
+                "Elle ne l’avait dit à personne, et personne ne lui a demandé ce qu’elle en pensait."
+              ]
+            },
+            {
+              "heading": "Le besoin de supports pour comparer",
+              "text": "Pour décider, la personne peut avoir besoin de voir les options posées clairement plutôt que d’en entendre une seule.",
+              "examples": [
+                "La feuille de Bastien ne présente qu’une liste finale, sans alternative à discuter.",
+                "Nadège pose le cahier ouvert à la page de la Tatin pour remettre la recette au milieu de la table."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décider ensemble d’un risque",
+          "points": [
+            {
+              "heading": "Poser les options sur papier",
+              "objective": "Rendre la décision visible et comparable.",
+              "exercise": [
+                "Écrire en colonnes les options possibles, y compris celle de garder la recette telle quelle.",
+                "Noter pour chacune ce qui inquiète et ce qui compte pour la personne.",
+                "Laisser la personne choisir, ou dire qu’elle veut plus d’informations avant."
+              ],
+              "benefit": "La discussion porte sur des choix concrets plutôt que sur une liste déjà tranchée."
+            },
+            {
+              "heading": "Nommer le risque précis",
+              "objective": "Distinguer ce qui est réellement dangereux de ce qui inquiète en général.",
+              "exercise": [
+                "Dire exactement à quel moment de la recette se situe le risque, par exemple le caramel ou le démoulage.",
+                "Demander à la personne si elle partage cette crainte et ce qu’elle a déjà remarqué.",
+                "Chercher ensemble si une partie seulement de la recette pose problème."
+              ],
+              "benefit": "On peut aménager un passage au lieu de supprimer toute une activité qui compte."
+            },
+            {
+              "heading": "Demander l’avis d’un professionnel compétent",
+              "objective": "Appuyer la décision sur une observation plutôt que sur une supposition.",
+              "exercise": [
+                "Identifier le professionnel qui peut observer la situation réelle, comme un ergothérapeute.",
+                "Lui transmettre la question avec l’accord de la personne.",
+                "Attendre son observation avant de décider, et en reparler tous ensemble."
+              ],
+              "benefit": "L’inquiétude des proches est prise au sérieux sans qu’elle remplace la parole de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La page de la Tatin",
+      "ending": "Bastien finit par dire : « C’est nous. Tu as raison, on aurait dû t’en parler. » Nadège s’assoit. « J’ai peur du caramel, moi aussi. Une fois, j’ai oublié la casserole. Mais la Tatin reste dans la liste. Ce qu’on change, on le décide avec Inès Morel, l’ergothérapeute, le 19. Elle viendra voir comment je la fais, ici. » Elle reprend la feuille imprimée, barre le titre « Recettes adaptées » et écrit à la main, en bas : « 6. Tarte Tatin, à revoir avec l’ergothérapeute. » Bastien s’excuse encore et dit qu’il est toujours inquiet ; il ne veut pas qu’elle se brûle. Elle répond qu’elle non plus. Le soir, au téléphone, elle dira à Odile la même chose, sans élever la voix, et Odile répondra seulement : « On verra ce que dit ton ergothérapeute. »",
+      "conclusion": "Le soutien à la décision ne consiste pas à décider à la place de quelqu’un, même pour un risque réel. Nadège reconnaît sa propre crainte, garde la Tatin dans son projet et confie l’examen du caramel à une professionnelle qui viendra l’observer chez elle.",
+      "mirror": [
+        "Devant le cahier ouvert à la page de la Tatin, Bastien aurait pu commencer autrement : « Le caramel me fait peur pour toi. On regarde ensemble ce qu’on peut changer ? » Dire sa crainte sans apporter la solution déjà imprimée laisse la place à celle de Nadège. Un proche peut aussi reconnaître une erreur sans se justifier longuement, comme Bastien finit par le faire. Il garde le droit d’être inquiet et de le dire, et peut, si elle l’accepte, transmettre son inquiétude à l’ergothérapeute."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche7"
+      ],
+      "continuity": {
+        "choice": "Nadège garde la Tatin dans la liste des six recettes et confie l’examen du risque du caramel à Inès Morel, lors de sa visite du mardi 19 janvier ; Bastien s’excuse et garde son inquiétude.",
+        "next": "Le mardi 19 janvier, Inès Morel observe Nadège préparer la Tatin dans sa cuisine."
+      },
+      "clinical_focus": "Décider avec soutien quand les proches tranchent",
+      "diagnostic_stage": "known"
     }
   ]
 }

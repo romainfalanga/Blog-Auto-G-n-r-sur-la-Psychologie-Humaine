@@ -752,6 +752,16 @@
       "design_sha256": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
       "independent_review_sha256": "c6a686f0857b3016c54506e4330864dac250eed0378c2db77a43ac1b0ede1099",
       "review": "Relecture indépendante review_serge acceptée après trois tours de corrections (rôles présentés, scènes concrètes, relais 3114/15, raccords)"
+    },
+    "florence": {
+      "date": "2026-11-12",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7",
+      "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+      "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+      "independent_review_sha256": "e746e6f33bfdd2ef0bdc2c62bdd8da6cdd303b2cbe7237f26c4f20bc6c1a3d5c",
+      "review": "Relecture indépendante review_florence acceptée après deux tours de corrections (scènes en actions et dialogues, protection de la personne exposée, raccords)"
     }
   }
 }

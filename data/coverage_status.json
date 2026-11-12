@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1455,
-    "characters": 122,
-    "clinical_arcs": 89,
-    "clinical_episodes": 1068,
+    "articles": 1467,
+    "characters": 123,
+    "clinical_arcs": 90,
+    "clinical_episodes": 1080,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 85,
-    "clinical_cases_pending": 65,
+    "icd11_primary_arcs": 86,
+    "clinical_cases_pending": 64,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -200,8 +200,7 @@
       "codes": 3,
       "statuses": {
         "no_standalone_arc_planned": 1,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 1
+        "published_primary_arc": 2
       }
     },
     {
@@ -11430,12 +11429,30 @@
       "label": "Trouble factice imposé à autrui",
       "group_id": "BlockL1-6D5",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "florence"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "florence",
+        "name": "Florence",
+        "reviewed_on": "2026-11-12",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/florence-ambivalence-alliance",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-autonomie-personne-exposee",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-besoins-medicaux-legitimes",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-changements-vigilance",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-choix-soin-preuves-limitees",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-coordination-protection",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-detresse-propre",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-diagnostic-protection",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-inquietude-tromperie",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-motivations-responsabilite",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-participation-suivi-durable",
+          "posts/comprendre-et-maitriser-ses-emotions/florence-soutien-social-limites"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#775605963"
     },
     {
@@ -12686,13 +12703,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "florence",
-      "name": "Florence",
-      "code": "6D51",
-      "label": "Trouble factice imposé à autrui",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "hector",
       "name": "Hector",

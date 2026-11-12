@@ -16883,6 +16883,487 @@
       "3. La pratique de la vulnérabilité choisie"
     ]
   },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-ambivalence-alliance": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Ambivalence",
+      "Alliance clinique",
+      "Continuité du soin"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ae4ca92cf5ec5f14325d2d006dd1457d684cdc1de9e00d2180a5bb55c6dea102",
+    "summary": "Mercredi matin, au service municipal, le rappel s’affiche sur l’écran de Florence : « Marc, 14 h ». À côté du clavier, les légendes du cahier Regards de quartier attendent en pile, annotées au crayon, pour être harmonisées. Depuis la séance sur son attente de reconnaissance, Florence redoute de retrouver la même déception.\n\n[…]\n\nMarc propose de revoir Florence la semaine suivante et note la question des bonnes intentions comme point de départ. Tout n’est pas réglé. De retour au bureau, Florence écrit à Cathy, la coordinatrice éditoriale : « L’harmonisation des légendes me prendra plus de temps que prévu. Je te redonne une date d’ici quelques jours. » Cathy répond : « D’accord, je décale la relecture. » Florence ne lui demande pas de vérifier sa présence aux consultations. Elle retourne son téléphone et reprend la première légende de la pile.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mercredi matin, au service municipal, le rappel s’affiche sur l’écran de Florence : « Marc, 14 h ». À côté du clavier, les légendes du cahier Regards de quartier attendent en pile, annotées au crayon, pour être harmonisées. Depuis la séance sur son attente de reconnaissance, Florence redoute de retrouver la même déception.",
+        "start": 2,
+        "end": 326
+      },
+      {
+        "quote": "Marc propose de revoir Florence la semaine suivante et note la question des bonnes intentions comme point de départ. Tout n’est pas réglé. De retour au bureau, Florence écrit à Cathy, la coordinatrice éditoriale : « L’harmonisation des légendes me prendra plus de temps que prévu. Je te redonne une date d’ici quelques jours. » Cathy répond : « D’accord, je décale la relecture. » Florence ne lui demande pas de vérifier sa présence aux consultations. Elle retourne son téléphone et reprend la première légende de la pile.",
+        "start": 4399,
+        "end": 4921
+      }
+    ],
+    "canonical_concept": "Ambivalence et alliance clinique",
+    "context": "avant et pendant le rendez-vous",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour aborder une hésitation dans le suivi",
+      "3. Préserver la suite pratique"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-autonomie-personne-exposee": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Autonomie",
+      "Attente de reconnaissance",
+      "Limites de protection"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "58d8897f8b20365f3c7f5ffbf368a6f28b9e6ce4bac7d83b61e7e7d5b22be99e",
+    "summary": "Sur le bureau de Florence, au service municipal, le sommaire de Regards de quartier est revenu avec les remarques de Cathy, la coordinatrice éditoriale, au stylo vert : inverser les pages 6 et 7, raccourcir le titre du dessin de la fontaine. Florence range la feuille dans son dossier de travail et part pour le centre de consultation.\n\n[…]\n\nFlorence ne demande ni message ni intermédiaire. Elle dit à Marc : « J’aurai besoin de revenir sur cette attente. » Il l’inscrit pour une prochaine séance. Le lendemain, au service, elle inverse les pages 6 et 7, raccourcit le titre de la fontaine et renvoie le sommaire à Cathy. Le document va à la personne qui l’attend pour le cahier. Le soir, la déception est encore là ; les décisions de protection, elles, restent appliquées.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur le bureau de Florence, au service municipal, le sommaire de Regards de quartier est revenu avec les remarques de Cathy, la coordinatrice éditoriale, au stylo vert : inverser les pages 6 et 7, raccourcir le titre du dessin de la fontaine. Florence range la feuille dans son dossier de travail et part pour le centre de consultation.",
+        "start": 2,
+        "end": 337
+      },
+      {
+        "quote": "Florence ne demande ni message ni intermédiaire. Elle dit à Marc : « J’aurai besoin de revenir sur cette attente. » Il l’inscrit pour une prochaine séance. Le lendemain, au service, elle inverse les pages 6 et 7, raccourcit le titre de la fontaine et renvoie le sommaire à Cathy. Le document va à la personne qui l’attend pour le cahier. Le soir, la déception est encore là ; les décisions de protection, elles, restent appliquées.",
+        "start": 4409,
+        "end": 4840
+      }
+    ],
+    "canonical_concept": "Autonomie de la personne exposée",
+    "context": "avec le psychologue de l’équipe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une attente de reconnaissance dans le soin"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-besoins-medicaux-legitimes": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Sommeil",
+      "Soins pour soi",
+      "Parole médicale"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4e32114d69cb9e96604ef03667fe1ee69dcf04ab9b1237502f0450f0ee393802",
+    "summary": "Dans la salle d’attente du centre de consultation, Florence tient une feuille pliée en quatre. Elle y a noté ses nuits des deux dernières semaines, au crayon, comme elle annote une épreuve : endormie vers une heure, réveillée à quatre, parfois de nouveau à cinq. Cinq nuits sur sept. Au service municipal, l’après-midi, elle a laissé passer deux fautes dans une page de Regards de quartier qu’elle connaissait presque par cœur ; Cathy, la coordinatrice du cahier, les a corrigées sans commentaire.\n\n[…]\n\nDerain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente du centre de consultation, Florence tient une feuille pliée en quatre. Elle y a noté ses nuits des deux dernières semaines, au crayon, comme elle annote une épreuve : endormie vers une heure, réveillée à quatre, parfois de nouveau à cinq. Cinq nuits sur sept. Au service municipal, l’après-midi, elle a laissé passer deux fautes dans une page de Regards de quartier qu’elle connaissait presque par cœur ; Cathy, la coordinatrice du cahier, les a corrigées sans commentaire.",
+        "start": 2,
+        "end": 499
+      },
+      {
+        "quote": "Derain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
+        "start": 4772,
+        "end": 5346
+      }
+    ],
+    "canonical_concept": "Besoins médicaux légitimes",
+    "context": "en consultation psychiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler de sa santé quand on craint de ne pas être cru"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-changements-vigilance": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Évaluation des changements",
+      "Vigilance durable",
+      "Réussite professionnelle"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "001bc09fb5e4f36a6d889fd50a7fac50498c4b045a8f22800e20eaa122561173",
+    "summary": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve. « Légendes cohérentes et justes, belle harmonisation. Une seule correction : page 14, la légende de l’arrêt de bus passe sur deux lignes. » Elle souligne « belle harmonisation » au crayon, puis la relit.\n\n[…]\n\nFlorence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve. « Légendes cohérentes et justes, belle harmonisation. Une seule correction : page 14, la légende de l’arrêt de bus passe sur deux lignes. » Elle souligne « belle harmonisation » au crayon, puis la relit.",
+        "start": 2,
+        "end": 404
+      },
+      {
+        "quote": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+        "start": 4573,
+        "end": 5081
+      }
+    ],
+    "canonical_concept": "Changements observés et vigilance durable",
+    "context": "après le retour écrit, au point de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir un progrès sans lui faire tout porter"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-choix-soin-preuves-limitees": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Objectifs du soin",
+      "Limites des connaissances",
+      "Décision partagée"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "547a61351e3626dc1c25c63b8715ec9cacaada6bb430b0046bfa9d5f1a0df533",
+    "summary": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ? 2. Combien de temps cela va durer ? 3. Est-ce que ça marche ? » Elle a aussi apporté sa feuille de nuits, complétée depuis quinze jours, comme la docteure Derain le lui avait proposé.\n\n[…]\n\nEn sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ? 2. Combien de temps cela va durer ? 3. Est-ce que ça marche ? » Elle a aussi apporté sa feuille de nuits, complétée depuis quinze jours, comme la docteure Derain le lui avait proposé.",
+        "start": 2,
+        "end": 352
+      },
+      {
+        "quote": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+        "start": 4605,
+        "end": 5126
+      }
+    ],
+    "canonical_concept": "Choix de soin et preuves limitées",
+    "context": "en consultation psychiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une question sur son traitement"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-coordination-protection": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Coordination",
+      "Informations encadrées",
+      "Protection indépendante"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dea1d63fb2b96ddbbf4bbdde208a8688eccdce0d3b2d26b490e491826925e1fb",
+    "summary": "Dans le cabinet de la docteure Derain, sa psychiatre, Florence ouvre son agenda à la page où elle a noté sa question. Elle la lit presque mot pour mot : « Je viens à tous mes rendez-vous. Est-ce que ça peut changer les décisions de protection ? »\n\n[…]\n\nDerain et Nora gardent chacune leur responsabilité, et les décisions déjà en place restent appliquées. Dans le tram du retour, Florence relit sa note : « Décisions inchangées. Questions de protection : Nora. » Au bureau, elle écrit à Cathy : « Je t’envoie l’épreuve harmonisée en deux fois ; la première partie la semaine prochaine. » Elle ne lui parle ni de la consultation ni de l’appel. Cathy répond qu’elle note la date. Florence pose son agenda à côté de la pile de légendes et respecte les décisions en vigueur.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans le cabinet de la docteure Derain, sa psychiatre, Florence ouvre son agenda à la page où elle a noté sa question. Elle la lit presque mot pour mot : « Je viens à tous mes rendez-vous. Est-ce que ça peut changer les décisions de protection ? »",
+        "start": 2,
+        "end": 248
+      },
+      {
+        "quote": "Derain et Nora gardent chacune leur responsabilité, et les décisions déjà en place restent appliquées. Dans le tram du retour, Florence relit sa note : « Décisions inchangées. Questions de protection : Nora. » Au bureau, elle écrit à Cathy : « Je t’envoie l’épreuve harmonisée en deux fois ; la première partie la semaine prochaine. » Elle ne lui parle ni de la consultation ni de l’appel. Cathy répond qu’elle note la date. Florence pose son agenda à côté de la pile de légendes et respecte les décisions en vigueur.",
+        "start": 4580,
+        "end": 5097
+      }
+    ],
+    "canonical_concept": "Coordination clinique et protection",
+    "context": "au point de coordination prévu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour comprendre une coordination professionnelle"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-detresse-propre": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Détresse personnelle",
+      "Solitude",
+      "Sécurité de la personne suivie"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "359aaecbbf6b63a34282c7da1d70fcf062b318e89049ff319fde8ce2a2aa86cb",
+    "summary": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes. La légende tient en une ligne. Florence la lit une fois, deux fois, trois fois. Elle ne sait plus si la virgule est utile.\n\n[…]\n\nFlorence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes. La légende tient en une ligne. Florence la lit une fois, deux fois, trois fois. Elle ne sait plus si la virgule est utile.",
+        "start": 2,
+        "end": 492
+      },
+      {
+        "quote": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+        "start": 5203,
+        "end": 5765
+      }
+    ],
+    "canonical_concept": "Reconnaître sa propre détresse",
+    "context": "au bureau puis chez le psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire place à sa détresse dans le soin"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-diagnostic-protection": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Diagnostic établi",
+      "Protection",
+      "Responsabilité"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ab13cc88c7cfda5c85fefc25e0fb1e0e3fc56e006d34f8b85a7f0263402b8599",
+    "summary": "Au deuxième étage du service municipal, Florence lit à voix basse la première épreuve de Regards de quartier, le cahier de dessins que la ville prépare avec les habitants. Elle est correctrice : elle relit les textes, puis rend les épreuves à Cathy, la coordinatrice éditoriale. Sous le premier dessin, un banc devant la boulangerie, la légende fait trois lignes. Florence la barre, écrit « Le banc du matin » dans la marge, hésite. Il est onze heures. Elle glisse l’épreuve dans son sac.\n\n[…]\n\nEn partant, Florence prend au secrétariat son rendez-vous suivant, avec Marc, le psychologue de l’équipe. Les décisions de protection restent celles qu’elle vient de reformuler ; sa venue ne les modifie pas. De retour au bureau, elle écrit à Cathy : « Tu auras la première épreuve corrigée jeudi. » Cathy répond : « Parfait, je cale la suite. » Florence garde « Le banc du matin » pour la première légende. C’est une légende pour le cahier, et elle la laisse à cette place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au deuxième étage du service municipal, Florence lit à voix basse la première épreuve de Regards de quartier, le cahier de dessins que la ville prépare avec les habitants. Elle est correctrice : elle relit les textes, puis rend les épreuves à Cathy, la coordinatrice éditoriale. Sous le premier dessin, un banc devant la boulangerie, la légende fait trois lignes. Florence la barre, écrit « Le banc du matin » dans la marge, hésite. Il est onze heures. Elle glisse l’épreuve dans son sac.",
+        "start": 2,
+        "end": 490
+      },
+      {
+        "quote": "En partant, Florence prend au secrétariat son rendez-vous suivant, avec Marc, le psychologue de l’équipe. Les décisions de protection restent celles qu’elle vient de reformuler ; sa venue ne les modifie pas. De retour au bureau, elle écrit à Cathy : « Tu auras la première épreuve corrigée jeudi. » Cathy répond : « Parfait, je cale la suite. » Florence garde « Le banc du matin » pour la première légende. C’est une légende pour le cahier, et elle la laisse à cette place.",
+        "start": 4465,
+        "end": 4938
+      }
+    ],
+    "canonical_concept": "Diagnostic établi et protection distincte",
+    "context": "avant et pendant la consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un entretien sans déplacer la responsabilité"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-inquietude-tromperie": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Inquiétude",
+      "Tromperie identifiée",
+      "Parole clinique"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9939addd80b254bd982fa16ba826c41cca00045ed19ae061529395fe93b89386",
+    "summary": "Marc, le psychologue de l’équipe spécialisée qui suit Florence, la reçoit dans un petit bureau aux stores beiges, au premier étage du centre de consultation. Une semaine a passé depuis le rendez-vous avec la docteure Derain, sa psychiatre. Marc lui demande ce qui lui en est resté.\n\n[…]\n\nAvant de partir, Florence dit à Marc : « Je ne veux plus parler seulement d’inquiétude. » Il note qu’ils repartiront de là la prochaine fois. Le lendemain, au bureau, elle termine les premières légendes du cahier et les envoie à Cathy, la coordinatrice éditoriale : « Voici les légendes des pages 1 à 8. » Cathy répond : « Reçu, merci. » C’est une remise de travail. Elle ne dit rien de la santé de Florence, et la protection de la personne exposée reste ce qu’elle était.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marc, le psychologue de l’équipe spécialisée qui suit Florence, la reçoit dans un petit bureau aux stores beiges, au premier étage du centre de consultation. Une semaine a passé depuis le rendez-vous avec la docteure Derain, sa psychiatre. Marc lui demande ce qui lui en est resté.",
+        "start": 2,
+        "end": 283
+      },
+      {
+        "quote": "Avant de partir, Florence dit à Marc : « Je ne veux plus parler seulement d’inquiétude. » Il note qu’ils repartiront de là la prochaine fois. Le lendemain, au bureau, elle termine les premières légendes du cahier et les envoie à Cathy, la coordinatrice éditoriale : « Voici les légendes des pages 1 à 8. » Cathy répond : « Reçu, merci. » C’est une remise de travail. Elle ne dit rien de la santé de Florence, et la protection de la personne exposée reste ce qu’elle était.",
+        "start": 4374,
+        "end": 4846
+      }
+    ],
+    "canonical_concept": "Inquiétude et tromperie identifiée",
+    "context": "à l’entretien avec le psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une formulation en consultation"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-motivations-responsabilite": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Motivations",
+      "Responsabilité",
+      "Évaluation individuelle"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c8a16efe798af59add18cbbe9cc26763b6e18e8a8491a4ee1ceb2cbaf262f3b4",
+    "summary": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase dans le tram. Elle la prononce dès qu’elle s’assoit dans le cabinet de la docteure Derain, sa psychiatre, au centre de consultation. Elle espère qu’elle rendra plus supportable ce qui a été établi : avoir trompé des soignants en présentant une autre personne comme malade.\n\n[…]\n\nFlorence accepte de laisser la question des motivations ouverte jusqu’au prochain rendez-vous. Dans le tram, elle note dans son carnet : « Pas de gain ne veut pas dire pas de responsabilité. » De retour au bureau, elle vérifie l’ordre des vingt-quatre titres et envoie le sommaire à Cathy : « Voici la version à examiner. » Elle n’ajoute rien. Le sommaire est un document de travail pour le service ; il ne part vers personne d’autre et ne servira pas de preuve à la consultation suivante.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase dans le tram. Elle la prononce dès qu’elle s’assoit dans le cabinet de la docteure Derain, sa psychiatre, au centre de consultation. Elle espère qu’elle rendra plus supportable ce qui a été établi : avoir trompé des soignants en présentant une autre personne comme malade.",
+        "start": 2,
+        "end": 351
+      },
+      {
+        "quote": "Florence accepte de laisser la question des motivations ouverte jusqu’au prochain rendez-vous. Dans le tram, elle note dans son carnet : « Pas de gain ne veut pas dire pas de responsabilité. » De retour au bureau, elle vérifie l’ordre des vingt-quatre titres et envoie le sommaire à Cathy : « Voici la version à examiner. » Elle n’ajoute rien. Le sommaire est un document de travail pour le service ; il ne part vers personne d’autre et ne servira pas de preuve à la consultation suivante.",
+        "start": 4131,
+        "end": 4620
+      }
+    ],
+    "canonical_concept": "Motivations et responsabilité",
+    "context": "pendant la consultation psychiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour examiner une justification avec le soignant"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-participation-suivi-durable": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Engagement tenu",
+      "Suivi au long cours",
+      "Vie ordinaire"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e25492773621096dcbaf46f7a24ed07bb454f29b0e2b25050892b2d4180e5f17",
+    "summary": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle. Le cahier corrigé est validé, la mise en page finale part la semaine prochaine. Merci pour la page 14. » Elle repart vers la réunion du service. Le mot « reçu » reste sur le bureau comme un tampon.\n\n[…]\n\nLe cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle. Le cahier corrigé est validé, la mise en page finale part la semaine prochaine. Merci pour la page 14. » Elle repart vers la réunion du service. Le mot « reçu » reste sur le bureau comme un tampon.",
+        "start": 2,
+        "end": 360
+      },
+      {
+        "quote": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+        "start": 4528,
+        "end": 4998
+      }
+    ],
+    "canonical_concept": "Participation ordinaire et suivi durable",
+    "context": "au service municipal, le jour de la remise",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour terminer un projet sans lui donner une autre mission"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-soutien-social-limites": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Soutien social",
+      "Limites d’une collègue",
+      "Relations ordinaires"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9dd777266712d0ee981bcf7cd451afcbba0509b81e2ea3556c5fc2ebb04ff7e4",
+    "summary": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, qu’elle a imprimées vendredi. C’est lundi matin. Florence, la correctrice du cahier, les lui avait rendues mardi dernier, comme elle l’avait proposé. Il reste à reprendre ensemble deux légendes trop longues, dont celle du kiosque du parc sous la neige.\n\n[…]\n\nFlorence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, qu’elle a imprimées vendredi. C’est lundi matin. Florence, la correctrice du cahier, les lui avait rendues mardi dernier, comme elle l’avait proposé. Il reste à reprendre ensemble deux légendes trop longues, dont celle du kiosque du parc sous la neige.",
+        "start": 2,
+        "end": 456
+      },
+      {
+        "quote": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+        "start": 4500,
+        "end": 4932
+      }
+    ],
+    "canonical_concept": "Soutien social et limites",
+    "context": "à la pause café du service municipal",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un soutien ordinaire sans le surcharger"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions": {
     "character": "Nadia",
     "character_id": "nadia",

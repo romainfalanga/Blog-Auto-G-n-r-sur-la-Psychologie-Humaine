@@ -2581,6 +2581,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "8d655a1075c368dd5592ff4ed569358dec604d99caf2978773079e7b2a7df12f"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-ambivalence-alliance": {
+    "text": "Une personne peut vouloir de l’aide tout en redoutant certains sujets du suivi. Cette ambivalence se travaille avec le professionnel ; elle n’est pas, en elle-même, un signe spécifique du trouble factice imposé à autrui. Accueillir une difficulté à parler ne signifie ni approuver le dommage ni remettre en cause les décisions de protection.",
+    "source_heading": "Ambivalence et alliance clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ae4ca92cf5ec5f14325d2d006dd1457d684cdc1de9e00d2180a5bb55c6dea102"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-autonomie-personne-exposee": {
+    "text": "La personne exposée à un trouble factice imposé à autrui n’a pas à participer au soin de la personne diagnostiquée. Elle ne doit ni écouter ses explications, ni rassurer, ni pardonner. Un souhait de reconnaissance peut être travaillé en consultation, sans devenir un droit au contact ou une raison de modifier la protection.",
+    "source_heading": "Autonomie de la personne exposée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "58d8897f8b20365f3c7f5ffbf368a6f28b9e6ce4bac7d83b61e7e7d5b22be99e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-besoins-medicaux-legitimes": {
+    "text": "Le diagnostic de trouble factice imposé à autrui concerne la façon dont une personne a présenté la santé d’une autre. Il ne prouve pas que ses propres plaintes sont inventées et ne justifie pas de lui refuser des soins. Quand elle signale un symptôme, celui-ci s’évalue comme pour tout patient : en l’écoutant, en posant des questions, puis en décidant d’une suite.",
+    "source_heading": "Besoins médicaux légitimes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4e32114d69cb9e96604ef03667fe1ee69dcf04ab9b1237502f0450f0ee393802"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-changements-vigilance": {
+    "text": "Une réussite professionnelle, un discours plus juste ou une présence régulière aux rendez-vous ne démontrent pas, à eux seuls, que le risque a disparu. Les changements s’apprécient dans leur contexte et dans la durée, par les professionnels concernés. Les connaissances actuelles ne permettent pas de prédire avec certitude l’évolution d’une personne, ni dans un sens ni dans l’autre.",
+    "source_heading": "Changements observés et vigilance durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "001bc09fb5e4f36a6d889fd50a7fac50498c4b045a8f22800e20eaa122561173"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-choix-soin-preuves-limitees": {
+    "text": "Pour les adultes qui ont présenté la santé d’autrui de façon trompeuse, les connaissances sur les traitements restent limitées et reposent surtout sur des descriptions de cas. Aucun protocole ne garantit un résultat ou une durée. Le soin se construit à partir d’une évaluation individuelle et reste distinct de l’évaluation du risque et des décisions de protection, qui relèvent d’autres responsabilités.",
+    "source_heading": "Choix de soin et preuves limitées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "547a61351e3626dc1c25c63b8715ec9cacaada6bb430b0046bfa9d5f1a0df533"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-coordination-protection": {
+    "text": "Le suivi clinique et la protection nécessitent des rôles identifiables et des échanges adaptés. La présence régulière d’une personne aux rendez-vous ne suffit pas à modifier les décisions concernant la sécurité d’autrui. Les professionnels expliquent le cadre applicable aux informations, sans promettre un secret absolu ni faire dépendre toute transmission du seul souhait de la personne suivie.",
+    "source_heading": "Coordination clinique et protection",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dea1d63fb2b96ddbbf4bbdde208a8688eccdce0d3b2d26b490e491826925e1fb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-detresse-propre": {
+    "text": "Une personne suivie pour un trouble factice imposé à autrui peut aussi traverser une souffrance personnelle : solitude, malaise, fatigue. Cette détresse peut être travaillée dans le soin comme la sienne. Elle n’explique pas les faits établis, ne définit pas le trouble et ne dit rien, à elle seule, du risque. Elle n’a pas non plus à être apaisée par la personne exposée.",
+    "source_heading": "Reconnaître sa propre détresse",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "359aaecbbf6b63a34282c7da1d70fcf062b318e89049ff319fde8ce2a2aa86cb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-diagnostic-protection": {
+    "text": "Le trouble factice imposé à autrui est diagnostiqué chez la personne qui présente intentionnellement une autre personne comme malade sur la base d’une tromperie identifiée. La personne exposée n’est pas porteuse de ce diagnostic. Le suivi de la première et la protection de la seconde ont des objectifs distincts, sans échange entre assiduité au soin et sécurité.",
+    "source_heading": "Diagnostic établi et protection distincte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ab13cc88c7cfda5c85fefc25e0fb1e0e3fc56e006d34f8b85a7f0263402b8599"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-inquietude-tromperie": {
+    "text": "Une inquiétude pour la santé, une demande insistante de soins ou un désaccord médical ne suffisent pas à établir un trouble factice imposé à autrui. Celui-ci nécessite une tromperie intentionnelle identifiée. Cette distinction protège contre les accusations improvisées tout en empêchant qu’une inquiétude invoquée efface des faits déjà établis.",
+    "source_heading": "Inquiétude et tromperie identifiée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9939addd80b254bd982fa16ba826c41cca00045ed19ae061529395fe93b89386"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-motivations-responsabilite": {
+    "text": "Le trouble factice imposé à autrui ne se définit pas par une tromperie uniquement motivée par une récompense extérieure évidente. Cela ne signifie ni que la conduite serait involontaire ni que ses conséquences disparaîtraient. Les motivations demandent une exploration individuelle ; aucune explication unique ne peut être déduite du seul diagnostic.",
+    "source_heading": "Motivations et responsabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c8a16efe798af59add18cbbe9cc26763b6e18e8a8491a4ee1ceb2cbaf262f3b4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-participation-suivi-durable": {
+    "text": "Une activité indépendante, comme un travail mené jusqu’au bout, peut garder sa valeur sans devenir une réparation, une preuve que tout danger a disparu ou un moyen d’obtenir quelque chose d’autrui. Le diagnostic ne résume pas une personne, et reconnaître sa vie ordinaire ne diminue pas sa responsabilité. Les soins et les décisions de protection continuent indépendamment de cette réussite.",
+    "source_heading": "Participation ordinaire et suivi durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e25492773621096dcbaf46f7a24ed07bb454f29b0e2b25050892b2d4180e5f17"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-soutien-social-limites": {
+    "text": "Un parcours de soin long et un cadre de protection peuvent réduire le cercle des personnes avec qui l’on parle, sans que ce soit le cas pour tout le monde. Une collègue peut offrir un soutien ordinaire, une conversation ou un café, sans devenir confidente permanente, soignante ou surveillante. Poser cette limite n’est pas un rejet et ne demande à personne de garder un secret.",
+    "source_heading": "Soutien social et limites",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9dd777266712d0ee981bcf7cd451afcbba0509b81e2ea3556c5fc2ebb04ff7e4"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions": {
     "text": "La frustration peut surgir quand quelque chose contrarie une attente ou fait obstacle à un but. La théorie de Dollard et ses collègues, formulée en 1939 puis révisée notamment par Berkowitz, propose que la frustration puisse contribuer à des réactions agressives dans certaines conditions.",
     "source_heading": "Qu'est-ce que la frustration avec ses enfants ?",
