@@ -1,0 +1,338 @@
+{
+  "character_id": "clemence",
+  "type": "clinique",
+  "auditor": "audit_c4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Clémence, 23 ans, étudiante en histoire de l’art, tient les fiches d’un ciné-club ; suivie par une équipe spécialisée pour une anorexie mentale diagnostiquée avant la série. Entourage : Baya (amie qui choisit le film de fin), la référente du club (jamais nommée), une étudiante du montage, une camarade de cours.",
+    "arc_summary": "La série suit la préparation d’une soirée de ciné-club : le film de l’embrasure choisi par Clémence, la comédie puis le court métrage au rideau choisis par Baya. Les épisodes passent de la peur du poids qui envahit l’activité, l’anticipation des repas, la honte après une remarque et l’évitement du groupe, à un fil médical (fatigue signalée, malaise avec appel des secours, reprise après évaluation) et se terminent par une soirée réussie où un rire de la salle fait découvrir une main dans le cadre. Le fil du suivi et la prudence clinique sont cohérents, mais le trouble est souvent raconté en phrases générales plutôt que montré, et plusieurs scènes sont dominées par la logistique du programme.",
+    "arc_issues": [
+      "Le vécu de l’anorexie est surtout résumé (« Elle avait eu peur de prendre du poids ») ; les scènes concrètes portent sur horaires, fiches et copies, ce qui rend la difficulté peu perceptible dans les épisodes 1, 3, 4 et 10.",
+      "Les épisodes 2 et 8 traitent tous deux l’anticipation anxieuse d’un repas collectif déclenchée par un changement d’organisation.",
+      "La référente du club n’a jamais de prénom alors qu’elle est présente dans presque tous les épisodes ; le « service », « l’équipe » et « la personne qui la reçoit » restent indistincts.",
+      "Le résultat de l’évaluation de la fatigue (ép. 6) n’est jamais repris avant le malaise (ép. 9) ; l’épisode 10 ne dit pas où Clémence a été évaluée ni ce qu’on lui a recommandé, ce qui laisse un trou dans la chronologie du suivi."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-case-douverture.md",
+      "focus": "Peur de prendre du poids qui occupe l’attention et prend la place d’une activité aimée",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le personnage dans l’embrasure et la case vide pour Baya donnent un ancrage, mais la peur elle-même est résumée en une phrase au plus-que-parfait et l’organisation de la soirée par la référente est confuse.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle avait eu peur de prendre du poids. Des heures plus tard, il lui restait surtout des fragments de la conversation sur le film qu’elle aimait.",
+          "problem": "L’aspect central est énoncé, non montré ; aucune scène ne fait percevoir la peur pendant le repas ou au moment où le créneau s’affiche.",
+          "fix": "Montrer un instant vécu : en voyant le créneau, Clémence se revoit compter ce qu’il restait dans son assiette pendant que Baya parlait du film, et ne retrouve plus la réplique qu’elle voulait citer."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La référente du club a réservé une soirée. Elle voudrait que le programme soit discuté avec quelqu’un d’autre, y compris la place de l’accueil et de la discussion après les films.",
+          "problem": "Phrase administrative ; on comprend mal que la référente demande un programme à deux voix.",
+          "fix": "« La référente a réservé une soirée et voudrait que deux bénévoles en composent le programme. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Clémence est suivie pour une anorexie mentale diagnostiquée avant cette préparation.",
+          "problem": "Formulation procédurale qui date mal le diagnostic.",
+          "fix": "« Clémence est suivie depuis l’an dernier pour une anorexie mentale. »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-horaire-dans-le-fil.md",
+      "focus": "Anxiété anticipatoire d’un repas collectif déclenchée par un changement d’horaire",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La phrase ambiguë sur le foyer, l’affiche et le message qui ne concordent pas, puis la réponse de Clémence qui ramène Baya à l’organisation montrent bien l’anticipation ; le retour à l’extrait est clair.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-noms-sur-le-carnet.md",
+      "focus": "Mettre des mots sur le retentissement et savoir qui contacter dans l’équipe",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Scène presque entièrement procédurale : deux noms de contact dans deux pages, « la personne qui la reçoit », une question sur qui joindre. Le lecteur ne sait ni qui reçoit Clémence ni ce qu’elle raconte vraiment ; l’aspect de l’anorexie illustré n’est pas identifiable.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Au dernier rendez-vous, elle a noté le nom de la personne avec qui elle devait reprendre une question sur ses études. Au téléphone, un autre nom lui a été donné pour une question sur sa santé.",
+          "problem": "L’épisode porte sur l’organisation des soins (quel contact) plutôt que sur une facette du trouble ; le titre annonce le retentissement mais la scène ne le montre pas.",
+          "fix": "Recentrer sur ce que Clémence raconte : décrire la scène de la bibliothèque en dialogue avec la professionnelle (ce qu’elle n’a pas pu lire, ce qui revenait en boucle), et ramener la question du contact à une phrase."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "La personne qui la reçoit connaît la date du prochain point médical.",
+          "problem": "Rôle indéterminé (psychologue ? diététicienne ? infirmière ?) ; la consultation reste désincarnée.",
+          "fix": "Nommer la fonction : « La psychologue de l’équipe, Mme X, connaît déjà la date du prochain point médical. »"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-fiche-pour-baya.md",
+      "focus": "Retrouver un intérêt personnel que l’anorexie laisse au second plan",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La flèche de Baya entre le banc et le poteau est un bon détail, mais l’échange sur les films est difficile à suivre et la soirée accaparée par les pensées n’est qu’évoquée.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Clémence s’attendait à ce que le film réponde au premier par un cadre fixe ou un silence.",
+          "problem": "On ne comprend pas quel film « répond » à quel autre ; le lecteur perd le fil du programme.",
+          "fix": "« Clémence s’attendait à ce que la comédie de Baya réponde à son film d’ouverture par un plan fixe ou un silence. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "La veille, Clémence s’était couchée avec le souvenir de ce qu’elle avait mangé qui revenait dès qu’elle essayait de penser à autre chose.",
+          "problem": "Seule trace du trouble dans la scène, racontée au passé ; le contraste avec la curiosité retrouvée reste peu sensible.",
+          "fix": "Faire revenir brièvement cette pensée pendant la discussion avec Baya, puis montrer la flèche qui la ramène au film."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-affiche-retournee.md",
+      "focus": "Honte corporelle prolongée après une remarque sur l’apparence",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’affiche retournée, la phrase qui se répète au moment de lire l’horaire et l’accord discret avec Baya rendent la honte et la réponse compréhensibles sans reproduire la remarque.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle se demande pourtant si les autres la regardent encore et ce que la remarque a fait remarquer.",
+          "problem": "Tournure abstraite et redondante.",
+          "fix": "« Elle se demande si les autres la regardent encore. »"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-page-du-cours.md",
+      "focus": "Fatigue inhabituelle, conséquence physique possible à faire évaluer",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "faible"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le palier où Clémence s’arrête, le crayon resté sur la page précédente et l’appel depuis le hall donnent un enchaînement clair et prudent. La rubrique proches imagine Baya absente de la scène.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "proches",
+          "quote": "Si Clémence parle de la fatigue à Baya, celle-ci peut demander",
+          "problem": "Baya n’est pas dans la scène ; la camarade du catalogue l’est et aurait pu porter le miroir.",
+          "fix": "Ancrer la rubrique sur la camarade qui propose un autre créneau pour le catalogue, ou faire apparaître Baya dans le retour."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-fauteuils-du-foyer.md",
+      "focus": "Évitement social par crainte des commentaires sur l’alimentation",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La tasse qui passe de main en main, l’étudiante de la gare et l’introduction limitée de Baya rendent l’évitement et l’appui compréhensibles.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "redoute que quelqu’un lui demande ce qu’elle a mangé comme l’autre soir",
+          "problem": "À l’épisode 5, la remarque portait sur l’apparence, pas sur ce qu’elle mangeait ; « l’autre soir » renvoie à un épisode non identifié.",
+          "fix": "Préciser « comme lors du repas après la séance d’octobre » (épisode 2) ou relier à la remarque sur son apparence."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-titre-efface.md",
+      "focus": "Incertitude d’un changement de programme qui ravive la crainte d’un repas",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le titre effacé et la proposition de secours présentée « comme si elle venait d’être approuvée » sont bien vus ; mais l’épisode reprend presque à l’identique le mécanisme de l’épisode 2.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Elle se demande déjà si cette nouvelle préparation prolongera la soirée jusqu’au moment où les autres décideront de manger ensemble. Aucun message ne l’annonce.",
+          "problem": "Même aspect que l’épisode 2 (anticipation d’un repas collectif non annoncé, déclenchée par un changement d’organisation).",
+          "fix": "Recentrer l’épisode sur un autre aspect : le besoin de contrôle et de rigidité face à l’imprévu (vouloir fixer seule le programme), en retirant la crainte du repas ou en la réduisant à une mention."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-boitier-au-sol.md",
+      "focus": "Malaise : urgence médicale dont la cause n’est pas présumée à partir du diagnostic",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Scène exemplaire de clarté : le boîtier qui tombe, l’affaissement, Baya qui appelle avec l’adresse, la référente à la porte ; qui fait quoi est net et l’appel aux secours est montré dans la scène.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-rendez-vous-apres.md",
+      "focus": "Sentiment d’exposition après un malaise et choix de ce qu’on partage",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Le lecteur ignore où Clémence a été évaluée, ce que dit le document et qui elle rencontre ; « qui va reprendre les informations » et « quel contact prendra la suite » remplacent l’action. La fin se contredit sur le moment de la confirmation.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Pendant l’entretien, elle pose le document sur la table et demande qui va reprendre les informations.",
+          "problem": "Formulation procédurale qui ne dit pas ce qui se passe ni avec qui ; le lecteur ne comprend pas l’issue de l’évaluation médicale.",
+          "fix": "Nommer le lieu et l’interlocutrice (« la médecin de l’équipe ») et donner une recommandation concrète, par exemple un point la semaine suivante et une soirée possible si elle reste assise."
+        },
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Elle transmet la fiche à la référente et lui dit qu’elle confirmera sa présence après ce rendez-vous.",
+          "problem": "Le rendez-vous vient d’avoir lieu ; dire qu’elle confirmera « après ce rendez-vous » est incohérent.",
+          "fix": "« …et lui dit qu’elle confirmera sa présence après le point prévu la semaine prochaine. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "La pensée que tout le monde pourrait la voir désormais comme la fille qui a fait un malaise lui serre le ventre.",
+          "problem": "Seule phrase qui montre l’exposition ressentie ; l’aspect annoncé reste en arrière-plan.",
+          "fix": "Développer un moment où Clémence relit son long brouillon et en efface les détails un à un."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-programme-plie.md",
+      "focus": "Reprise après le malaise sans vouloir tout assurer par culpabilité",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La feuille prévue « si Baya oubliait d’expliquer le rideau » montre bien l’envie de tout reprendre ; la répartition (accueil à la référente, parole à chacune) est claire.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/clemence-question-dans-le-noir.md",
+      "focus": "Plaisir retrouvé dans l’activité alors que des préoccupations persistent",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La main dans le dernier plan découverte grâce au rire de la salle est une belle fin ; le rendez-vous à venir et la crainte du prochain repas restent présents sans écraser la soirée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Le suivi peut aussi parler de ce qui redonne du plaisir",
+          "problem": "Proche de l’épisode 4 (intérêts personnels comme objectifs du suivi).",
+          "fix": "Insister sur ce qui est nouveau ici : le plaisir vient d’un regard extérieur inattendu, pas d’un projet qu’elle contrôle."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet de douze épisodes ; aucun ajout ni retrait. L’épisode 8 doublonne l’épisode 2 : le recentrer sur la rigidité et le besoin de contrôle face à l’imprévu, ou sur un autre aspect documenté non traité (place des repas dans le plan de soins, ambivalence envers les soins, effet du froid ou des changements physiques remarqués par Clémence elle-même, annoncés dans la fiche).",
+  "verdict": "corrections_majeures"
+}

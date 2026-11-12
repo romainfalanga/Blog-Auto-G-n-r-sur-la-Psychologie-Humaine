@@ -323,6 +323,636 @@
       },
       "clinical_focus": "Reconnaître moins bien des visages et des objets connus",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "anne-lire-mots-irreguliers-dyslexie-surface",
+      "title": "Lire les mots irréguliers comme ils s’écrivent",
+      "description": "En lisant les titres d’une bande-annonce, Anne fait sonner le l de « fils » et dit « août » en deux syllabes : la lecture suit la règle.",
+      "context": "un enregistrement à la médiathèque",
+      "topics": [
+        "lecture à voix haute",
+        "mots irréguliers",
+        "partage des tâches"
+      ],
+      "clinical_intro": "En français, beaucoup de mots ne se prononcent pas comme ils s’écrivent, et on les lit correctement parce qu’on les connaît. Quand le sens des mots s’efface, la lecture peut revenir aux règles d’orthographe et déformer ces mots irréguliers. Chez Anne, atteinte d’une démence frontotemporale, ce changement apparaît pendant l’enregistrement d’une bande-annonce, alors que sa voix reste claire et posée.",
+      "opening": "Le mardi suivant, à quatorze heures, Anne pousse la porte du bureau de Pascal Viard, à la médiathèque centrale du réseau des Coteaux. Pascal, son successeur à la direction du réseau, prépare un podcast avec une vingtaine de Rencontres du jeudi et voudrait une bande-annonce où l’on entende la voix de celle qui les a programmées. Un technicien du service culturel a installé un micro sur le bureau, à côté d’une pile de magazines. Pascal tend à Anne une feuille imprimée : la liste des titres retenus.\n\nAnne s’assoit, ajuste ses lunettes. Elle aime ce genre d’exercice ; pendant vingt ans, elle a présenté les conférenciers sans une note. Le technicien lève le pouce.\n\n« Rencontres du jeudi, 1991-2012. Premier titre : Le fils du meunier, une enfance sur la Loire. » Elle fait sonner le l de « fils », comme dans un fil à coudre suivi d’un s. « Deuxième titre : Un mois d’août sur les levées. » Elle dit « a-oût », en deux syllabes bien détachées. Au troisième titre, elle lit le nom du conférencier, Henri de Broglie, exactement comme il s’écrit, avec un g et un l, alors qu’elle l’avait accueilli deux fois et l’appelait « monsieur de Breuil ».\n\nSa voix est parfaite : posée, chaude, sans hésitation. C’est ce qui rend la scène étrange. Le technicien arrête l’enregistrement et propose de relancer la prise. Anne relit, plus lentement, et prononce les mêmes mots de la même façon.\n\nPascal se penche, gêné. « On pourrait peut-être faire sans la liste, Anne. Tu improvises, tu fais ça si bien. » Il le dit gentiment. Anne pose la feuille. Elle a compris qu’elle s’est trompée sans savoir où.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la lecture revient aux règles d’orthographe",
+          "text": "Lire un mot irrégulier suppose de le reconnaître, car son orthographe ne suffit pas à indiquer sa prononciation. Quand la mémoire du sens des mots s’altère, la lecture peut s’appuyer sur les règles générales de correspondance entre lettres et sons : les mots irréguliers sont alors lus comme ils s’écrivent. Ce phénomène, appelé dyslexie de surface, est décrit dans la forme de démence frontotemporale qui touche d’abord le sens des mots, et il peut aussi toucher l’écriture. Les exemples de cet épisode, « fils », « août » ou « Broglie », sont des exemples français choisis pour la série. Dans le bureau de Pascal, la voix d’Anne reste claire et régulière ; c’est la connaissance de ces mots particuliers qui ne guide plus la lecture, si bien qu’elle relit les mêmes erreurs sans les entendre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une lecture régularisée se repère-t-elle à voix haute ?",
+          "points": [
+            {
+              "heading": "Les lettres muettes se mettent à sonner",
+              "text": "Une lettre qui ne se prononce pas d’habitude est lue parce qu’elle est écrite.",
+              "examples": [
+                "Anne fait sonner le l de « fils » dans le titre sur le meunier.",
+                "Dans une phrase de la liste, elle prononce le p de « sept » dans « sept conférences »."
+              ]
+            },
+            {
+              "heading": "Les noms propres irréguliers sont déformés",
+              "text": "Les noms de famille à prononciation ancienne ou particulière sont lus selon la règle, même quand on les a souvent entendus.",
+              "examples": [
+                "Elle lit « Broglie » avec un g et un l, alors qu’elle disait « Breuil » en accueillant ce conférencier.",
+                "Elle lit « Craon », la ville d’une intervenante, en deux syllabes, alors qu’on y dit « Cran »."
+              ]
+            },
+            {
+              "heading": "Une voix assurée qui ne se corrige pas",
+              "text": "Comme l’erreur ne vient ni de la voix ni de l’attention, la relecture reproduit souvent la même prononciation.",
+              "examples": [
+                "À la deuxième prise, Anne relit « a-oût » en deux syllabes, plus lentement mais de la même façon.",
+                "Elle comprend qu’il y a un problème au regard du technicien, sans repérer le mot concerné."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une lecture à voix haute",
+          "points": [
+            {
+              "heading": "Préparer les mots difficiles",
+              "objective": "Éviter la surprise devant un mot irrégulier.",
+              "exercise": [
+                "Repérer à l’avance les noms propres et les mots à lettres muettes.",
+                "Écrire à côté une transcription simple, comme « fis » ou « Breuil ».",
+                "Proposer la feuille annotée à Anne quelques jours avant, si elle le souhaite."
+              ],
+              "benefit": "Anne peut lire en connaissant les pièges, sans les découvrir devant le micro."
+            },
+            {
+              "heading": "Partager la lecture",
+              "objective": "Répartir les passages selon ce qui est plus facile pour chacun.",
+              "exercise": [
+                "Lister les parties de l’enregistrement : titres, noms, introduction.",
+                "Demander à Anne lesquelles elle veut garder.",
+                "Confier les autres à une autre voix, sans le présenter comme un retrait."
+              ],
+              "benefit": "L’enregistrement garde sa voix là où elle compte le plus pour elle."
+            },
+            {
+              "heading": "Garder sa part sans papier",
+              "objective": "Laisser Anne parler avec ses propres mots quand la lecture est le seul obstacle.",
+              "exercise": [
+                "Lui proposer de présenter le sujet librement, en une minute.",
+                "Se mettre d’accord sur les trois idées à dire.",
+                "Enregistrer plusieurs prises si elle le souhaite et la laisser choisir."
+              ],
+              "benefit": "Ce partage de rôles est un arrangement de travail ; il ne modifie pas l’évolution du trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux prises sans la feuille",
+      "ending": "Anne repousse la feuille vers Pascal. « Tu lis les titres. Moi, je fais l’introduction. Sans papier. » Pascal hésite, puis accepte. Ils se mettent d’accord sur trois idées : les jeudis soir, la salle Saint-Pierre, les voix des habitants. À la première prise, Anne parle une minute vingt et s’arrête sur un mot qu’elle ne trouve pas, « le petit appareil sur la table », puis repart. À la deuxième, elle dit « l’enregistreur » sans chercher et termine en une minute pile. Pascal lit ensuite les titres, avec « fis » et « Breuil ». La bande-annonce est montée le soir même. Pascal répète qu’il n’en gardera qu’une vingtaine de cassettes ; Anne répond qu’elle n’a encore rien décidé.",
+      "conclusion": "Cet épisode montre que la lecture des mots irréguliers peut suivre la règle quand leur sens se perd, même avec une voix intacte. En partageant l’enregistrement, Anne garde la partie qui porte sa parole et laisse les titres à Pascal, sans régler la question des archives.",
+      "mirror": [
+        "Quand Pascal propose « On pourrait faire sans la liste », il peut aller plus loin et demander : « Quelle partie veux-tu garder, et laquelle je lis ? » Préparer la feuille avec les noms difficiles annotés, quelques jours avant, aide sans corriger Anne devant le technicien. Un proche n’a pas à pointer chaque mot mal lu ; il peut proposer de lire avec elle, ou à sa place, pour les passages qu’elle choisit."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "gorno-tempini-2011",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Anne laisse Pascal lire les titres et enregistre elle-même l’introduction sans papier ; la bande-annonce est enregistrée en deux prises le mardi, et la répartition des cassettes reste ouverte.",
+        "next": "Le dimanche, Clémence, sa fille, colle des post-it de rappel sur le frigo et se demande si sa mère oublie aussi les rendez-vous."
+      },
+      "clinical_focus": "Lire les mots irréguliers comme ils s’écrivent",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "anne-memoire-evenements-recents-preservee-mots",
+      "title": "Une mémoire du quotidien mieux préservée que le sens des mots",
+      "description": "Anne décolle les post-it de sa fille en citant chaque date et chaque heure, mais ne trouve pas le mot « frigo » : un profil qui surprend Clémence.",
+      "context": "un dimanche avec sa fille",
+      "topics": [
+        "mémoire des événements",
+        "différence avec Alzheimer",
+        "aides choisies"
+      ],
+      "clinical_intro": "On associe souvent démence et oublis des rendez-vous, parce que c’est le profil le plus connu de la maladie d’Alzheimer. Dans la démence frontotemporale qui touche d’abord le sens des mots, la mémoire des événements récents est souvent mieux préservée au début. Chez Anne, ce contraste surprend sa fille, qui avait préparé des aides pour un autre trouble que le sien.",
+      "opening": "Le dimanche, Clémence Lebreton arrive de Nantes par le train de dix heures. La fille d’Anne, trente-trois ans, paysagiste, vient presque chaque semaine déjeuner à Chalonnes-sur-Loire ; elle repart le soir pour un chantier du lundi. Cette fois, elle a acheté un bloc de post-it jaunes à la gare. Pendant qu’Anne prépare le café, elle en colle quatre sur la porte du frigo : « Jeudi 10 h, Yann passe chercher les fiches », « Mercredi 15 h, Solange », « Bande-annonce avec Pascal : mardi ? », « Appeler le centre mémoire ».\n\nClémence a passé la semaine à lire des témoignages en ligne, presque tous sur la maladie d’Alzheimer : des parents qui oublient le jour, qui reposent la même question dix fois. Elle veut prendre de l’avance.\n\nAnne revient avec deux tasses, regarde la porte, et commence à décoller. « Yann, c’est jeudi à dix heures, oui. Il me l’a proposé par courrier, la lettre est arrivée jeudi dernier, je lui ai répondu vendredi. » Elle décolle le deuxième. « Solange, mon amie, vient tous les mercredis à quinze heures, je ne risque pas de l’oublier. » Le troisième : « La bande-annonce, c’était mardi. Deux prises. Pascal a lu les titres, j’ai fait l’introduction. Elle est montée. » Elle froisse le papier. « Le centre mémoire, j’ai déjà un rendez-vous avec la docteure Kervella, ma neurologue. La date est dans mon agenda, page de janvier. »\n\nPuis elle tapote la porte blanche. « Et tu peux me dire comment s’appelle cette armoire ? La grande armoire froide, là. »\n\nClémence reste la tasse à la main. « Le frigo, maman. » Elle ne comprend plus rien : sa mère sait tout de sa semaine, à l’heure près, et ne sait plus nommer l’appareil devant lequel elles se tiennent.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux mémoires qui ne s’effacent pas au même rythme",
+          "text": "La mémoire des événements vécus et la mémoire du sens des mots sont deux systèmes distincts, que la maladie peut toucher de façon inégale. Dans l’aphasie progressive qui touche d’abord le sens des mots, une perte marquée de la mémoire des événements au début ne fait pas partie du tableau habituel : Anne peut donc se souvenir de la lettre de Yann et des deux prises du mardi, tout en cherchant le mot « frigo ». Ce profil diffère de celui que l’on associe le plus souvent à la maladie d’Alzheimer, ce qui explique l’erreur de Clémence. Il ne vaut pas pour toutes les personnes et peut évoluer avec le temps. C’est l’équipe du centre mémoire qui suit ces changements ; les aides du quotidien se choisissent avec Anne selon ce qui lui manque vraiment."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment se voit ce décalage entre souvenirs et mots ?",
+          "points": [
+            {
+              "heading": "L’agenda reste en place",
+              "text": "Les dates, les heures et l’ordre des événements récents peuvent rester précis.",
+              "examples": [
+                "Anne rappelle que la lettre de Yann est arrivée jeudi dernier et qu’elle a répondu vendredi.",
+                "Elle sait que son rendez-vous au centre mémoire est noté en janvier dans son agenda."
+              ]
+            },
+            {
+              "heading": "Le mot courant manque au milieu du souvenir",
+              "text": "Un mot de tous les jours peut faire défaut alors que le récit autour reste exact.",
+              "examples": [
+                "Anne appelle le frigo « la grande armoire froide ».",
+                "Elle raconte l’enregistrement du mardi sans retrouver le mot « micro », qu’elle remplace par « le petit appareil »."
+              ]
+            },
+            {
+              "heading": "Des aides mal ajustées",
+              "text": "Les proches peuvent préparer des aides pour un autre profil, utiles en théorie mais inutiles ou vexantes en pratique.",
+              "examples": [
+                "Clémence colle des rappels de dates qu’Anne connaît déjà.",
+                "Elle ajoute un point d’interrogation à un rendez-vous déjà passé, que sa mère corrige aussitôt."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir des aides utiles avec la personne",
+          "points": [
+            {
+              "heading": "Demander avant d’ajouter",
+              "objective": "Laisser Anne décider des aides qui lui servent.",
+              "exercise": [
+                "Proposer une aide en la décrivant, sans l’installer d’abord.",
+                "Demander à Anne ce qui lui manque en ce moment.",
+                "Retirer sans discuter ce qu’elle refuse."
+              ],
+              "benefit": "Les aides répondent à ses besoins réels et ne la placent pas sous surveillance."
+            },
+            {
+              "heading": "Écrire les noms plutôt que les dates",
+              "objective": "Réserver l’écrit à ce qui lui échappe.",
+              "exercise": [
+                "Repérer avec Anne les mots et les noms qu’elle cherche souvent.",
+                "Les écrire lisiblement, avec un rôle, comme « Yann, archives ».",
+                "Les placer là où elle en a besoin, à l’endroit qu’elle choisit."
+              ],
+              "benefit": "Le support vise ce qui est difficile pour elle, sans encombrer ce qu’elle sait encore."
+            },
+            {
+              "heading": "Transmettre un fait observé, avec son accord",
+              "objective": "Informer l’équipe d’un changement sans l’interpréter.",
+              "exercise": [
+                "Noter un fait précis et daté, comme un mot du quotidien cherché.",
+                "Demander à Anne si elle veut le dire elle-même ou que le proche le mentionne.",
+                "Laisser l’équipe du centre mémoire en évaluer le sens."
+              ],
+              "benefit": "L’information arrive aux professionnels sans que le proche joue au diagnosticien."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux post-it sur la porte",
+      "ending": "Anne retire les quatre rappels et demande à Clémence deux post-it neufs, sur lesquels sa fille écrit : « Yann Le Goff, archives » et « Pascal Viard, le réseau ». Anne garde ces deux-là et les colle elle-même à côté de l’interrupteur de l’entrée, près du téléphone. « Ce sont les noms qui m’échappent, pas les jours. » Clémence s’excuse d’avoir lu sur la mauvaise maladie. Elle promet de demander avant d’ajouter une aide, et Anne accepte qu’elle mentionne le mot « frigo » à la consultation de janvier, si elle vient. Le soir, dans le train du retour, Clémence efface de son téléphone les pages sur les rappels de dates. Elle ne sait toujours pas ce qui viendra ensuite, ni à quel rythme.",
+      "conclusion": "Cet épisode montre que, dans cette forme de démence frontotemporale, la mémoire des événements récents peut rester plus solide que le sens des mots, au moins au début. Les deux post-it choisis par Anne visent les noms, et Clémence apprend à demander avant d’aider.",
+      "mirror": [
+        "Devant les post-it qu’Anne décolle un à un, Clémence peut demander : « Lesquels te servent, et lesquels je retire ? » Lire sur la maladie aide à comprendre, mais une autre forme de démence ne décrit pas sa mère. Un proche peut proposer une aide, la laisser refuser, et noter un fait simple, comme un mot cherché, pour qu’Anne le dise elle-même ou l’autorise à le dire à son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "gorno-tempini-2011",
+        "has-fiche2-apparentees"
+      ],
+      "continuity": {
+        "choice": "Anne garde deux post-it portant les noms de Yann et de Pascal, près du téléphone, retire les rappels de dates ; Clémence demandera avant d’ajouter une aide et pourra mentionner le mot cherché à la consultation de janvier, avec l’accord d’Anne.",
+        "next": "Le mercredi suivant, Solange arrive bouleversée et Anne ne semble pas le remarquer."
+      },
+      "clinical_focus": "Une mémoire du quotidien mieux préservée que les mots",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "anne-empathie-diminuee-peine-des-proches",
+      "title": "Percevoir moins la peine de ceux qu’on aime",
+      "description": "Solange arrive les yeux rouges, son frère hospitalisé ; Anne enchaîne sur des jaquettes mal rangées. Un changement d’empathie qui blesse sans être voulu.",
+      "context": "un mercredi où l’amie arrive bouleversée",
+      "topics": [
+        "empathie diminuée",
+        "blessure de l’aidante",
+        "faits transmis avec accord"
+      ],
+      "clinical_intro": "Les maladies frontotemporales peuvent modifier la façon de percevoir les émotions des autres et d’y répondre. Les proches décrivent alors une distance qu’ils ne reconnaissent pas, ou des paroles qui blessent. Chez Anne, dont la démence frontotemporale touche d’abord le sens des mots, ce changement apparaît un mercredi où son amie a besoin d’être écoutée.",
+      "opening": "Ce mercredi-là, Solange Ferrand sonne à quinze heures vingt. L’amie d’Anne, soixante-six ans, ancienne régisseuse son du réseau des médiathèques, vient chaque semaine écouter avec elle une cassette des Rencontres du jeudi. Elle n’est jamais en retard. Elle a les yeux rouges et garde son écharpe en entrant.\n\n« Excuse-moi. Michel a été hospitalisé cette nuit, à Angers. Mon frère. Ils ne savent pas encore ce qu’il a au cœur. » Elle le dit en posant son manteau sur la chaise de l’entrée, la voix cassée.\n\nAnne est déjà dans le salon, la boîte de 2003 à la main. « Tu as vu les jaquettes de la série sur les marais ? Tu les as remises dans le désordre la semaine dernière. La 88 est avant la 86. » Elle glisse la cassette dans le lecteur. « On commence, on a vingt minutes de retard. »\n\nSolange reste debout près de la porte. Elle attend un mot sur Michel, une main sur le bras, la question que l’Anne d’avant aurait posée tout de suite : « Il est dans quel service ? » Rien ne vient. Anne règle le volume, ouvre son carnet pour le résumé de trois phrases, vérifie la cote de la boîte.\n\nAu bout d’un long silence, Solange dit doucement : « Je ne te reconnais plus, Anne. » Anne lève les yeux, surprise, puis répond que la bande est lancée.\n\nSolange part à seize heures sans avoir écrit le résumé. Dans sa voiture, sur le parking de l’église, elle appelle Clémence, la fille d’Anne, à Nantes. Elle ne parle pas de diagnostic ; elle raconte la scène, et dit qu’elle a mal. Au bout du fil, Clémence se tait, puis se rappelle à voix haute les années d’avant le diagnostic : à cinquante-huit ans, au travail, tout le monde avait parlé de dureté, d’épuisement, de dépression.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement neurologique, pas une froideur choisie",
+          "text": "Les maladies frontotemporales peuvent diminuer la capacité à percevoir les émotions d’autrui et à y répondre, ce qui se traduit par une réponse moindre aux besoins des autres, des propos blessants ou une distance que les proches ne reconnaissent pas. Ce changement, lié à l’atteinte cérébrale, n’est ni de l’indifférence choisie ni de la mauvaise volonté. Il peut accompagner la forme qui touche d’abord le sens des mots ; Anne n’a pas reçu un autre diagnostic pour autant, et c’est à son équipe d’évaluer ce qui change. Avant le diagnostic, ce type de changement a souvent été pris pour un trait de caractère, un épuisement ou une dépression. Ce mercredi, Anne voit le manteau posé et entend la phrase sur Michel, mais la peine de Solange ne déclenche pas la réponse que leur amitié laissait attendre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une empathie diminuée se fait-elle sentir dans une amitié ?",
+          "points": [
+            {
+              "heading": "La peine de l’autre passe inaperçue",
+              "text": "Une émotion exprimée clairement peut ne pas modifier le cours de l’échange.",
+              "examples": [
+                "Solange annonce l’hospitalisation de son frère et Anne parle aussitôt de la cassette de 2003.",
+                "Les yeux rouges et l’écharpe gardée n’interrompent pas le réglage du volume."
+              ]
+            },
+            {
+              "heading": "Des paroles qui blessent sans intention",
+              "text": "Une remarque pratique ou un reproche peut arriver au moment le plus douloureux pour l’autre.",
+              "examples": [
+                "Anne reproche à Solange d’avoir inversé les jaquettes 86 et 88.",
+                "Elle répond « la bande est lancée » quand Solange dit ne plus la reconnaître."
+              ]
+            },
+            {
+              "heading": "Une distance ressentie par les proches",
+              "text": "L’entourage décrit une personne différente de celle qu’il connaissait, sans pouvoir désigner un fait unique.",
+              "examples": [
+                "Solange attend la question sur le service hospitalier que l’Anne d’avant aurait posée.",
+                "Clémence se souvient qu’au travail, avant le diagnostic, on parlait de dureté."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour dire sa peine à une personne dont l’empathie change",
+          "points": [
+            {
+              "heading": "Nommer l’émotion et le besoin",
+              "objective": "Rendre explicite ce que la personne ne perçoit plus d’elle-même.",
+              "exercise": [
+                "Préparer une phrase courte qui dit l’émotion : « Je suis triste ».",
+                "Ajouter le besoin concret : « J’ai besoin qu’on parle de mon frère dix minutes ».",
+                "La dire au début de la visite, avant toute activité."
+              ],
+              "benefit": "Anne reçoit une demande claire à laquelle elle peut répondre, même si l’élan ne vient pas d’elle."
+            },
+            {
+              "heading": "Noter des faits pour l’équipe, avec accord",
+              "objective": "Transmettre un changement sans l’interpréter ni agir dans le dos d’Anne.",
+              "exercise": [
+                "Écrire ce qui s’est passé, avec la date et les mots prononcés.",
+                "Demander à Anne si ce fait peut être mentionné à son rendez-vous.",
+                "Laisser la neurologue évaluer ce qu’il signifie."
+              ],
+              "benefit": "L’équipe dispose d’observations concrètes et Anne garde la main sur ce qui est partagé."
+            },
+            {
+              "heading": "Protéger aussi l’aidante",
+              "objective": "Reconnaître que la blessure de Solange est réelle.",
+              "exercise": [
+                "Dire à quelqu’un de confiance ce que la scène a fait ressentir.",
+                "S’autoriser à écourter une visite quand on n’a plus la force.",
+                "Chercher un soutien pour soi, sans attendre d’être épuisée."
+              ],
+              "benefit": "L’amitié peut continuer sans que Solange se taise sur sa propre peine."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Dix minutes pour Michel",
+      "ending": "Le dimanche, Clémence raconte à sa mère l’appel de Solange, sans détour. Anne écoute, fronce les sourcils : elle se souvient de l’écharpe, pas d’avoir blessé. Clémence demande si elle peut mentionner ce changement au rendez-vous du centre mémoire. Anne réfléchit longtemps, puis dit oui, « des faits, pas des adjectifs ». Le mercredi suivant, Solange sonne à quinze heures et commence dans l’entrée par la phrase qu’elle a préparée dans la voiture : « Aujourd’hui je suis triste. J’ai besoin qu’on parle dix minutes de Michel avant la cassette. » Anne pose la boîte de 2003 sur la table. Elle demande dans quel service il est, puis écoute. Au bout de dix minutes, elle regarde la pendule et lance la bande. Solange sait que l’élan ne reviendra peut-être pas de lui-même.",
+      "conclusion": "Cet épisode montre qu’une empathie diminuée peut être un effet de la maladie et non une froideur choisie. La phrase préparée de Solange et l’accord d’Anne pour transmettre des faits ne réparent pas la relation ; ils lui donnent une forme où chacune peut encore être entendue.",
+      "mirror": [
+        "Quand Solange pose son manteau et que la peine passe inaperçue, elle peut dire simplement : « Je suis triste, j’ai besoin qu’on parle de Michel avant la cassette. » Elle n’a pas à deviner si Anne fait exprès ni à le lui reprocher. Si elle décrit la scène à Clémence ou à l’équipe, ce sont des faits, transmis avec l’accord d’Anne. Elle a aussi le droit de partir plus tôt et de chercher du soutien pour elle-même."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rascovsky-2011",
+        "has-fiche2-apparentees"
+      ],
+      "continuity": {
+        "choice": "Anne autorise Clémence à mentionner au rendez-vous du centre mémoire, en faits, le mercredi où elle n’a pas réagi à la peine de Solange ; Solange ouvre désormais les visites par une phrase qui dit son émotion et son besoin, et Anne lui accorde dix minutes sur Michel.",
+        "next": "Les mercredis prennent une forme plus fixe, qu’Anne défend désormais avec une insistance nouvelle."
+      },
+      "clinical_focus": "Percevoir moins la peine de ceux qu’on aime",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "anne-routines-rigides-gout-sucre-changement",
+      "title": "Routines rigides et goût nouveau pour le sucré",
+      "description": "Anne refuse la cassette quand Solange arrive à 15 h 10 et finit chaque paquet de madeleines : des changements à signaler, pas des caprices.",
+      "context": "un mercredi d’écoute retardé par un bouchon",
+      "topics": [
+        "rituels rigides",
+        "attirance pour le sucré",
+        "signaler un changement"
+      ],
+      "clinical_intro": "Des habitudes qui se figent en rituels et un goût soudain pour le sucré peuvent faire partie des changements de comportement observés dans les démences frontotemporales. Ils ne relèvent pas du caprice. Chez Anne, dont la maladie touche d’abord le sens des mots, ces changements apparaissent autour du rendez-vous du mercredi, et c’est l’équipe qui pourra les évaluer.",
+      "opening": "Depuis trois semaines, les mercredis ont pris une forme qu’Anne ne discute plus. À quinze heures, Solange Ferrand, son amie et ancienne régisseuse son du réseau des médiathèques, doit être assise dans le fauteuil vert, à gauche de la cheminée. Anne occupe le fauteuil en cuir. Sur la table basse, un paquet de madeleines pur beurre, toujours la même marque, toujours ouvert au même moment, quand la bande démarre. Anne, qui pendant vingt ans a refusé les gâteaux des pots de fin de conférence, finit maintenant le paquet entier avant la fin de la face B. Solange en a pris une, la première semaine ; depuis, elle n’y touche plus.\n\nIl y a aussi les étagères. Dans le bureau, les cent quarante cassettes des Rencontres du jeudi ne suivent plus la numérotation que Yann Le Goff, le responsable des archives intercommunales, avait établie sur la fiche d’inventaire. Anne les a rangées par couleur de jaquette : les vertes, puis les bleues, puis les blanches. La 61, « Le fleuve et ses mots », se trouve maintenant entre une conférence de 2009 et une autre de 1993.\n\nCe mercredi, un camion s’est mis en travers sur la levée, à l’entrée de Chalonnes-sur-Loire. Solange arrive à quinze heures dix, essoufflée, en s’excusant dès la porte.\n\nAnne est debout à la fenêtre du salon. La cassette est sur la table, le paquet de madeleines fermé. « Il est quinze heures dix.\n— Je sais, il y avait un bouchon. On lance ?\n— Non. C’est trois heures. Pas trois heures dix. »\n\nElle ne crie pas. Elle reste à la fenêtre, les bras croisés, à regarder la rue. Solange s’assoit dans le fauteuil vert et attend. À quinze heures quarante, Anne ouvre le paquet, mange une madeleine, puis une autre, et ne lance toujours pas la bande.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’habitude devient un rituel et le goût change",
+          "text": "Les démences frontotemporales peuvent s’accompagner de comportements répétitifs ou ritualisés, comme des horaires fixes ou des rangements précis, et de changements alimentaires, notamment une attirance nouvelle pour le sucré. Ces changements traduisent l’atteinte cérébrale, pas une exigence capricieuse. Anne n’a pas reçu de diagnostic de forme comportementale ; ces traits sont des changements possibles de sa forme, que l’équipe du centre mémoire évaluera. Il faut distinguer une préférence ancienne, qu’on respecte, d’un changement nouveau qui mérite d’être signalé. Le goût d’Anne pour les cotes et les horaires est ancien ; le refus de lancer une cassette pour dix minutes de retard, le paquet de madeleines terminé et le classement par couleur sont nouveaux."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment ces changements de routine et d’alimentation se remarquent-ils ?",
+          "points": [
+            {
+              "heading": "Un horaire qui ne souffre plus d’écart",
+              "text": "Un rendez-vous habituel peut devenir intouchable, et le moindre décalage empêcher l’activité.",
+              "examples": [
+                "Anne refuse de lancer la bande parce que Solange arrive à quinze heures dix.",
+                "Elle exige le fauteuil vert pour Solange et le fauteuil en cuir pour elle."
+              ]
+            },
+            {
+              "heading": "Un rangement qui remplace l’ordre établi",
+              "text": "Un nouveau système de classement peut s’imposer, même s’il défait un travail partagé.",
+              "examples": [
+                "Les cassettes sont rangées par couleur de jaquette et non plus par numéro.",
+                "La cassette 61 se retrouve entre une conférence de 2009 et une de 1993."
+              ]
+            },
+            {
+              "heading": "Un goût nouveau pour le sucré",
+              "text": "Une personne peut se tourner vers les aliments sucrés alors que ce n’était pas son habitude.",
+              "examples": [
+                "Anne finit le paquet de madeleines à chaque séance, elle qui refusait les gâteaux des pots de conférence.",
+                "Elle exige toujours la même marque, ouverte au même moment."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vivre avec des rituels nouveaux sans les combattre",
+          "points": [
+            {
+              "heading": "Garder les rituels qui apaisent",
+              "objective": "Respecter ce qui rend la visite prévisible pour Anne.",
+              "exercise": [
+                "Repérer avec Anne les éléments auxquels elle tient : heure, fauteuils, cassette.",
+                "Les conserver tant qu’ils ne mettent personne en difficulté.",
+                "Discuter avec elle des éléments qui gênent un autre, comme le classement de Yann."
+              ],
+              "benefit": "La visite reste possible et Anne garde des repères qu’elle a choisis."
+            },
+            {
+              "heading": "Prévenir avant l’heure",
+              "objective": "Éviter qu’un retard soit découvert à l’heure du rituel.",
+              "exercise": [
+                "Envoyer un message dès qu’un retard est probable.",
+                "Indiquer l’heure d’arrivée prévue.",
+                "Laisser Anne décider de commencer plus tard ou de raccourcir."
+              ],
+              "benefit": "Le changement est annoncé, ce qui laisse à Anne le temps de l’intégrer."
+            },
+            {
+              "heading": "Noter un changement alimentaire pour l’équipe",
+              "objective": "Transmettre un fait nouveau sans imposer de régime.",
+              "exercise": [
+                "Noter ce qui a changé et depuis quand, en faits précis.",
+                "Demander à Anne si cette note peut être lue à sa consultation.",
+                "Laisser la neurologue décider de ce qu’il faut évaluer."
+              ],
+              "benefit": "L’équipe peut rechercher les causes d’un changement nouveau ; les proches n’ont pas à surveiller les repas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un message avant quinze heures",
+      "ending": "À seize heures, Anne s’assoit enfin. Elles conviennent ensemble que quinze heures reste quinze heures, mais que Solange enverra un message dès qu’elle se saura en retard ; Anne décidera alors si l’on commence ou si l’on écoute seulement une face. Le jeudi, Yann passe chercher les fiches et découvre les étagères colorées. Il propose d’ajouter la couleur de la jaquette comme second classement sur la fiche, à côté du numéro ; Anne accepte. Le dimanche, Clémence, sa fille, trouve trois paquets vides dans la poubelle de la cuisine. Elle demande à sa mère si elle peut l’écrire pour la consultation. Anne hausse les épaules : « Écris-le. Ce sont des madeleines, pas un crime. » Clémence note le fait, sans autre commentaire. Le mercredi suivant, Solange arrive à l’heure ; le paquet est terminé avant la face B.",
+      "conclusion": "Cet épisode montre que des rituels rigides et un goût nouveau pour le sucré peuvent accompagner la maladie, sans relever de la mauvaise humeur. Le message de Solange et le second classement de Yann aménagent le quotidien ; le changement alimentaire, lui, est confié à l’équipe.",
+      "mirror": [
+        "Quand Anne reste à la fenêtre à quinze heures dix, Solange peut s’asseoir sans discuter et dire : « Je t’envoie un message la prochaine fois. Tu me dis si on commence. » Elle n’a pas à confisquer les madeleines ni à surveiller les repas. Si un proche remarque un changement nouveau, comme un goût pour le sucré, il note le fait et demande à Anne s’il peut le transmettre à son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rascovsky-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Quinze heures reste l’heure de l’écoute, Solange prévient de tout retard par message ; Yann ajoute la couleur de jaquette comme second classement ; Clémence note, avec l’accord d’Anne, les paquets de madeleines pour la consultation.",
+        "next": "Une nuit, Anne commande sur internet plusieurs appareils dont elle n’a pas besoin."
+      },
+      "clinical_focus": "Routines rigides et goût nouveau pour le sucré",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "anne-achats-impulsifs-risques-mal-percus",
+      "title": "Achats impulsifs et risques mal perçus",
+      "description": "Cinq platines à cassettes commandées en une nuit s’empilent devant la porte d’Anne, qui ne voit pas le problème : un risque mal perçu, pas une tromperie.",
+      "context": "un mardi soir devant cinq colis",
+      "topics": [
+        "achats impulsifs",
+        "conscience des risques",
+        "droit de rétractation"
+      ],
+      "clinical_intro": "Les démences frontotemporales peuvent s’accompagner d’achats impulsifs, faits sans égard pour leurs conséquences, et d’une conscience réduite de ces changements. La personne ne ment pas : son évaluation du risque est modifiée. Chez Anne, dont la maladie touche d’abord le sens des mots, ce changement possible apparaît un mardi soir, devant une pile de colis.",
+      "opening": "Le mardi, à dix-huit heures, la voisine d’en face, Mme Gautier, appelle Clémence à Nantes. Elle a son numéro depuis l’hiver où le chauffe-eau d’Anne avait lâché. « Je ne veux pas me mêler de ce qui ne me regarde pas, mais il y a cinq gros cartons devant la porte de votre mère depuis midi. Elle ne les a pas rentrés. » Clémence, la fille d’Anne, paysagiste, quitte son chantier plus tôt et arrive à Chalonnes-sur-Loire vers vingt heures.\n\nLes cartons sont dans l’entrée maintenant. Anne les a ouverts au cutter. Dans chacun, la même platine à cassettes double, noire, neuve, avec le même mode d’emploi plié en accordéon. Sur la commode, les deux platines qu’Anne possède déjà, dont celle que Solange préfère pour les mercredis.\n\n« Tu as commandé ça quand ?\n— Dimanche soir. Vers deux heures du matin, je crois. Le site proposait une remise si on en prenait plusieurs.\n— Cinq, maman ?\n— Pour les archives. Yann aura besoin de lecteurs pour numériser. Et si l’une tombe en panne. »\n\nClémence trouve le récapitulatif de commande sur la tablette, ouverte sur le canapé. Le total dépasse neuf cents euros. Elle le lit à voix haute. Anne hausse les épaules : « C’est pour le travail. Ce n’est pas une folie. » Elle ne paraît ni gênée ni inquiète. Elle remet les modes d’emploi dans les cartons avec soin, comme on range des fiches.\n\nQuand Clémence demande, doucement, s’il faudrait regarder ensemble ses comptes, Anne se raidit. « Mon argent, c’est mon affaire. Je dirigeais un budget de deux millions, Clémence. » Elle quitte la pièce et va mettre la bouilloire en route. Clémence reste seule au milieu des cartons ouverts.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un jugement du risque modifié, pas une volonté de tromper",
+          "text": "Dans les démences frontotemporales, des actes impulsifs peuvent apparaître, comme des achats faits sans égard pour leurs conséquences, et la personne peut avoir moins conscience de ces changements. Elle ne cherche ni à tromper ni à provoquer : c’est son évaluation du risque et des suites de ses actes qui est modifiée. Anne n’a pas de diagnostic de forme comportementale ; ce changement possible de sa forme sera évalué par son équipe. Pour une démence considérée comme légère, les finances et les décisions complexes peuvent devenir plus difficiles, alors même que la personne paraît la même à ceux qui la connaissent peu. Devant les cartons, Anne justifie l’achat par les archives et ne voit pas le montant comme un problème ; son refus de parler d’argent protège aussi son autonomie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des achats impulsifs et une moindre perception du risque se manifestent-ils ?",
+          "points": [
+            {
+              "heading": "Un achat multiplié sans besoin réel",
+              "text": "Une commande peut être répétée ou démesurée par rapport à l’usage, souvent à un moment inhabituel.",
+              "examples": [
+                "Anne commande cinq platines identiques vers deux heures du matin.",
+                "Elle en possède déjà deux, dont une utilisée chaque mercredi."
+              ]
+            },
+            {
+              "heading": "Une justification sincère",
+              "text": "La personne donne une raison qui lui paraît suffisante, sans percevoir l’écart avec la situation.",
+              "examples": [
+                "Anne explique que Yann aura besoin de lecteurs pour numériser.",
+                "Elle dit « ce n’est pas une folie » après que Clémence a lu le total."
+              ]
+            },
+            {
+              "heading": "Un refus de parler de l’argent",
+              "text": "Évoquer les finances peut être vécu comme une remise en cause de l’autonomie.",
+              "examples": [
+                "Anne rappelle qu’elle a dirigé un budget de deux millions.",
+                "Elle quitte la pièce quand Clémence propose de regarder ses comptes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à un achat impulsif sans humilier",
+          "points": [
+            {
+              "heading": "Parler des faits, pas de la personne",
+              "objective": "Décrire la situation sans porter de jugement sur Anne.",
+              "exercise": [
+                "Nommer ce qui est là : cinq cartons, deux platines déjà à la maison.",
+                "Demander à Anne ce dont les archives ont réellement besoin.",
+                "Éviter les mots comme « folie » ou « n’importe quoi »."
+              ],
+              "benefit": "La discussion porte sur les platines, et Anne n’a pas à défendre sa personne."
+            },
+            {
+              "heading": "Utiliser le droit de rétractation",
+              "objective": "Annuler ce qui n’est pas utile pendant que c’est encore possible.",
+              "exercise": [
+                "Vérifier avec Anne la date de livraison et les conditions de retour du site.",
+                "Rappeler que, pour un achat à distance, le délai de rétractation est d’au moins quatorze jours, sauf exceptions.",
+                "Laisser Anne choisir combien d’appareils garder et remplir le formulaire avec elle."
+              ],
+              "benefit": "L’argent peut revenir sans que la décision lui soit retirée."
+            },
+            {
+              "heading": "Préparer des protections avec l’équipe",
+              "objective": "Anticiper sans décider à sa place.",
+              "exercise": [
+                "Proposer à Anne de parler elle-même de ses dépenses à sa neurologue.",
+                "Lui demander qui elle veut voir à ses côtés pour cet échange.",
+                "Laisser à Anne le choix d’en parler ou non à sa banque."
+              ],
+              "benefit": "Les décisions de protection se préparent avec elle et avec des professionnels."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quatre cartons refermés",
+      "ending": "Après la tisane, Anne revient dans l’entrée. Clémence ne parle plus des comptes ; elle montre seulement les deux platines sur la commode et les cinq cartons. « Les archives en ont besoin de combien ? » Anne réfléchit. « Une. Pour Yann. Les nôtres suffisent pour les mercredis. » Sur la tablette, elles retrouvent les conditions de retour : la livraison date du jour, le délai de rétractation court encore. Anne remplit elle-même le formulaire pour quatre appareils ; Clémence imprime les étiquettes. Le jeudi, les quatre cartons partent au relais colis. Anne refuse toujours que Clémence regarde ses comptes. Mais elle décide d’écrire le lendemain au secrétariat du centre mémoire pour que l’argent soit à l’ordre du jour de son rendez-vous de janvier avec la docteure Kervella, et elle autorise Clémence à l’accompagner. Le remboursement n’est pas encore arrivé.",
+      "conclusion": "Cet épisode montre que des achats impulsifs et une perception réduite du risque peuvent accompagner la maladie, sans intention de tromper. Le retour des quatre platines répare la dépense ; la question de l’argent, Anne choisit de la porter elle-même devant sa neurologue.",
+      "mirror": [
+        "Devant les cartons ouverts, Clémence peut éviter « Qu’est-ce qui t’a pris ? » et demander : « Les archives en ont besoin de combien ? » Elle peut aider à exercer le droit de rétractation, en laissant Anne remplir le formulaire. Elle n’a pas à prendre le contrôle des comptes. Si sa mère refuse d’en parler, elle peut proposer qu’elle aborde elle-même le sujet avec sa neurologue, et l’accompagner si Anne le souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rascovsky-2011",
+        "service-public-retractation"
+      ],
+      "continuity": {
+        "choice": "Anne renvoie quatre platines dans le délai de rétractation et en garde une pour les archives ; elle refuse que Clémence regarde ses comptes mais demande par écrit que l’argent soit abordé au rendez-vous de janvier avec la docteure Kervella, où Clémence l’accompagnera.",
+        "next": "La consultation au centre mémoire d’Angers ouvrira une question que Clémence n’osait pas poser."
+      },
+      "clinical_focus": "Achats impulsifs et risques mal perçus",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "anne-cause-genetique-decisions-distinctes-consultation",
+      "title": "Une cause parfois génétique et deux décisions distinctes",
+      "description": "Au centre mémoire, Anne venait parler d’argent ; sa fille demande si la maladie se transmet. La neurologue sépare les deux questions et les deux décisions.",
+      "context": "une consultation au centre mémoire d’Angers",
+      "topics": [
+        "cause génétique possible",
+        "décision personnelle",
+        "consultation de génétique"
+      ],
+      "clinical_intro": "La démence frontotemporale a une cause génétique chez certaines personnes, ce qui peut conduire l’équipe à proposer une consultation spécialisée. La décision de la personne malade et celle de ses enfants restent distinctes et se prennent avec des professionnels de génétique. Chez Anne, la question surgit à la fin d’une consultation où elle était venue parler d’autre chose.",
+      "opening": "Le jeudi de janvier prévu de longue date, à neuf heures et demie, Anne et Clémence s’assoient dans le bureau de la docteure Claire Kervella, la neurologue qui suit Anne au centre mémoire d’Angers depuis le diagnostic. Clémence, sa fille, a pris sa matinée. Sur les genoux d’Anne, une chemise cartonnée qu’elle a préparée elle-même, avec des intercalaires : « platines », « madeleines », « mercredi de Solange ».\n\nC’est Anne qui parle. Elle raconte les cinq cartons, les quatre renvoyés dans le délai, le remboursement arrivé la semaine dernière. Elle dit qu’elle finit les paquets de madeleines, que sa fille l’a noté et qu’elle est d’accord pour qu’on en parle. Elle lit la phrase de Clémence sur le mercredi où Solange, son amie qui vient écouter les cassettes chaque semaine, est arrivée en pleurs : « Maman a parlé des jaquettes et n’a pas demandé de nouvelles de Michel. » Elle ajoute : « Je ne m’en suis pas rendu compte. » La docteure Kervella pose des questions précises : depuis quand, à quelle heure, le sommeil, une douleur, un changement de traitement. Elle note, sans commenter.\n\nPuis Anne referme la chemise. « Et pour l’argent, je voulais savoir ce que je dois prévoir. Je refuse qu’on me retire mes comptes. » La neurologue répond qu’on en reparlera, que rien ne se décidera sans elle.\n\nC’est au moment de se lever que Clémence parle, très vite, comme on saute dans l’eau froide. « Est-ce que ça se transmet ? Est-ce que je dois faire un test, moi ? »\n\nAnne se raidit sur sa chaise. Elle regarde sa fille comme si elle venait de lire à voix haute une page de son agenda. « Je suis venue pour mon argent, Clémence. Pas pour ton avenir. » Le silence dure. La docteure Kervella se rassoit, pose son stylo, et dit : « Je vais répondre aux deux. L’une après l’autre. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une cause génétique chez certaines personnes, deux décisions séparées",
+          "text": "La démence frontotemporale a une cause génétique chez certaines personnes, et l’équipe peut alors évoquer une consultation de génétique. Cette possibilité ne signifie pas qu’une cause génétique est présente chez Anne, et la consultation ne se décide pas dans l’urgence. Surtout, la question concerne deux personnes différentes : Anne peut choisir d’explorer ou non cette piste pour elle-même, et Clémence peut, de son côté, demander à rencontrer des professionnels de génétique pour réfléchir à sa propre situation. Ces deux décisions sont distinctes, se prennent sans pression familiale et avec des spécialistes. Dans le bureau, la question de Clémence arrive au moment où Anne défend son autonomie financière ; son raidissement vient aussi de là : le sujet de sa fille semble effacer le sien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question génétique se glisse-t-elle dans une famille ?",
+          "points": [
+            {
+              "heading": "Une question longtemps retenue",
+              "text": "Un enfant peut garder longtemps la question de la transmission avant de la poser, souvent à un moment inattendu.",
+              "examples": [
+                "Clémence parle au moment de se lever, très vite.",
+                "Elle n’avait pas prévenu sa mère qu’elle voulait aborder ce sujet."
+              ]
+            },
+            {
+              "heading": "Deux sujets qui se télescopent",
+              "text": "Dans une même consultation, la question d’un proche peut recouvrir celle que la personne malade était venue poser.",
+              "examples": [
+                "Anne était venue parler de son argent et de son autonomie.",
+                "Elle dit « Je suis venue pour mon argent, pas pour ton avenir »."
+              ]
+            },
+            {
+              "heading": "Le besoin d’une réponse séparée",
+              "text": "Chaque personne a besoin que sa question soit traitée pour elle-même, avec son propre temps.",
+              "examples": [
+                "La neurologue annonce qu’elle répondra aux deux, l’une après l’autre.",
+                "Anne demande du temps, quand Clémence veut agir tout de suite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour aborder la question génétique sans pression",
+          "points": [
+            {
+              "heading": "Séparer les sujets d’une consultation",
+              "objective": "Laisser à chaque question son temps et son destinataire.",
+              "exercise": [
+                "Lister avant le rendez-vous les questions de chacun.",
+                "Convenir de l’ordre avec la personne malade.",
+                "Garder une question à part pour un autre rendez-vous si elle déborde."
+              ],
+              "benefit": "Anne peut traiter ce qu’elle était venue dire, et Clémence obtenir une réponse sans la prendre de court."
+            },
+            {
+              "heading": "Laisser à chacun le temps de décider",
+              "objective": "Éviter qu’une décision personnelle devienne une obligation familiale.",
+              "exercise": [
+                "Dire clairement : « Ta décision ne dépend pas de la mienne ».",
+                "Ne fixer aucune échéance à l’autre.",
+                "Rapporter les choix aux professionnels de génétique, pas au repas de famille."
+              ],
+              "benefit": "Chaque décision reste libre et peut être reprise plus tard."
+            },
+            {
+              "heading": "Préparer ses questions par écrit",
+              "objective": "Arriver à la consultation spécialisée avec ce qui compte pour soi.",
+              "exercise": [
+                "Noter ses questions sans chercher les réponses sur internet.",
+                "Indiquer ce que l’on souhaite savoir et ce que l’on ne souhaite pas savoir.",
+                "Apporter cette feuille au professionnel de génétique."
+              ],
+              "benefit": "L’échange part des besoins de la personne, sans chiffres trouvés au hasard."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux rendez-vous, pas un seul",
+      "ending": "La docteure Kervella répond d’abord à Anne : on parlera au prochain rendez-vous des façons de préparer la suite pour ses affaires, avec elle, sans rien lui retirer. Puis à Clémence : la maladie a une cause génétique chez certaines personnes ; une consultation de génétique existe pour en parler, pour Anne si elle le souhaite, et pour Clémence de son côté. Anne demande du temps. « Je vous répondrai pour moi plus tard. » La neurologue l’écrit dans le dossier. Elle donne à Clémence les coordonnées de la consultation de génétique du CHU. Dans le parking, Clémence dit qu’elle appellera, mais que ce n’est pas une condition pour sa mère. Anne ne répond pas. Le lendemain, Clémence prend rendez-vous pour mars. La neurologue a noté les madeleines, les platines et le mercredi de Solange, et propose à Anne de voir une orthophoniste libérale, Delphine Arnoux.",
+      "conclusion": "Cet épisode montre qu’une cause génétique peut exister chez certaines personnes atteintes de démence frontotemporale, et que la décision de la personne et celle de ses enfants sont séparées. Anne garde son temps ; Clémence avance de son côté, avec des professionnels.",
+      "mirror": [
+        "Quand Clémence pose sa question en se levant, elle peut ajouter : « Ce que je déciderai ne dépend pas de toi. » Un enfant a le droit de s’informer pour lui-même auprès de professionnels de génétique, sans demander à son parent de faire un examen. Il peut aussi choisir un autre moment que la consultation de sa mère, pour que la question d’Anne, ce jour-là, ne soit pas recouverte par la sienne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche2-apparentees"
+      ],
+      "continuity": {
+        "choice": "Anne demande du temps avant de décider d’une consultation de génétique pour elle-même ; Clémence prend de son côté rendez-vous en mars à la consultation de génétique du CHU, sans en faire une condition ; la neurologue note les changements et propose l’orthophoniste Delphine Arnoux ; les mesures pour l’argent seront préparées au prochain rendez-vous.",
+        "next": "Delphine Arnoux, orthophoniste, viendra un mercredi assister à l’écoute avec Solange."
+      },
+      "clinical_focus": "Une cause parfois génétique : la question de Clémence",
+      "diagnostic_stage": "known"
     }
   ]
 }
