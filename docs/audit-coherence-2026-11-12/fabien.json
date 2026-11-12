@@ -1,0 +1,503 @@
+{
+  "character_id": "fabien",
+  "type": "origine",
+  "auditor": "audit_o3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Fabien, 50 ans (né le 19 juin 1975), cadre RH dans une usine près de Lyon, divorcé de Véronique depuis environ deux ans, installé dans un nouvel appartement. Enfants : Marine (20 ans) et Lucas (17 ans, élève de terminale qui attend une admission, joue des matchs). Père veuf ou séparé (statut de la mère jamais établi), collègue Julie (responsable d'atelier), ami Bernard, un ancien collègue, un consultant externe.",
+    "arc_summary": "Au printemps 2026, Fabien renonce à relancer Véronique, remarque le silence hérité de son père et s'ouvre timidement à un cercle de lecture. Au travail comme avec Lucas, il apprend à lire ce que disent vraiment les autres (Julie, l'opératrice, le consultant) plutôt qu'à apaiser ou expliquer d'en haut. Le parcours se termine sur une limite posée à son père. La progression est perceptible, mais beaucoup d'ouvertures sont des récapitulatifs analytiques plutôt que des scènes.",
+    "arc_issues": [
+      "Parcours de onze épisodes : il en manque un (voir missing_or_extra).",
+      "Les ouvertures des épisodes 3, 5, 7, 9 et 10 récapitulent les concepts des épisodes précédents (« biais du coût irrécupérable », « position -/+ », « scénario de vie »), comme si Fabien lisait ses propres articles ; plusieurs de ces rappels sont inexacts (réunion avec Julie, « altercation » avec le consultant).",
+      "Contradiction de statut : la parentification est affirmée comme un fait aux épisodes 7 et 10, puis présentée comme une hypothèse non démontrable à l'épisode 11.",
+      "Un « burn-out » apparaît dans les conclusions de l'épisode 6 puis à l'épisode 7 sans avoir jamais été établi.",
+      "La mère de Fabien n'est jamais située, alors qu'elle intervient dans les épisodes 2 et 10.",
+      "Marine, pourtant l'un des deux enfants, n'a presque aucun rôle actif (film reporté, lampe dans un carton).",
+      "Le silence du père sert de clé d'explication à presque tous les épisodes (2, 3, 5, 6, 7, 9, 10, 11), ce qui réduit la distinction entre les concepts.",
+      "Les conclusions de plusieurs épisodes (2, 3, 4, 5, 8) passent à un registre motivationnel générique (« cette évolution est à votre portée ») sans retour à la scène.",
+      "Rubrique proches : globalement concrète et respectueuse du consentement ; celle de l'épisode 7 est rédigée du point de vue de Fabien (« Fabien peut reconnaître… ») et non d'un proche."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture.md",
+      "focus": "biais du coût irrécupérable : vouloir relancer le couple au nom des samedis de travaux passés",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le brouillon « On a quand même construit tout ça ensemble » rend le biais très lisible. Mais Véronique n'est jamais présentée comme l'ex-épouse, on ne sait pas que la maison des travaux est désormais celle de Véronique, et le film avec Marine et la platine surgissent dans les manifestations avant d'exister dans le récit.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Véronique avait proposé de la faire raboter la dernière fois qu’ils en avaient parlé.",
+          "problem": "Premier épisode du parcours : Véronique n'est pas présentée (ex-épouse, divorce, depuis quand), ni le fait que la maison familiale est restée chez elle. Le lecteur ne comprend pas pourquoi Fabien « laisse » ses enfants chez leur mère.",
+          "fix": "Ajouter une phrase d'exposition : « Depuis le divorce, Véronique garde la maison qu'ils ont rénovée ensemble ; Fabien vit dans un appartement de l'autre côté du parc »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "il repousserait le film avec Marine pour rester disponible à une réponse que Véronique n’a pas annoncée. Il laisserait la platine dans le carton",
+          "problem": "Le film et la platine apparaissent pour la première fois dans les manifestations ; le lecteur ne les connaît pas encore.",
+          "fix": "Glisser dans la scène d'ouverture une mention du film prévu avec Marine et du carton de disques non déballé."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un soutien.",
+          "problem": "Conclusion très courte comparée au modèle : elle ne dit pas ce que l'épisode apprend au lecteur ni où il place Fabien dans son parcours.",
+          "fix": "Ajouter deux phrases de synthèse sur la différence entre valeur d'un souvenir et raison d'une décision actuelle."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide.md",
+      "focus": "apprentissage familial du silence (transmissions intergénérationnelles) entre le père de Fabien, Fabien et Lucas",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le déjeuner muet chez le père et la télévision allumée devant une question gênante sont concrets ; la réponse du père en débarrassant est forte. Mais la mère est absente sans explication et la question « quand je me disputais avec maman » est ambiguë ; le retour se fait avec Marine alors que la description annonce Lucas.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "« Tu te souviens de ce que tu faisais quand je me disputais avec maman ? »",
+          "problem": "On ne sait pas si Fabien parle de ses propres disputes avec sa mère ou des disputes entre ses parents ; la mère n'est jamais située (décédée, séparée, absente ce jour-là). La réponse du père (« peur d'aggraver la dispute ») reste donc floue.",
+          "fix": "Préciser : « quand maman et toi vous disputiez » et dire en une phrase où est la mère (par exemple « depuis la mort de sa mère, il y a six ans, le déjeuner se fait à deux »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il y a dix jours, en déambulant dans le parc comme il l'avait fait pour analyser son attachement au passé, il pensait avoir saisi l'essentiel de ses blocages.",
+          "problem": "Renvoi méta à l'épisode précédent qui présente le personnage comme lecteur de ses propres articles ; il n'aide pas à comprendre la scène.",
+          "fix": "Remplacer par un souvenir concret : « Dix jours plus tôt, il avait effacé un message à Véronique sur un banc du parc »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Fabien peut parler brièvement de ce qui le concerne, à hauteur d’enfant",
+          "problem": "Marine a 20 ans et Lucas 17 ; « à hauteur d'enfant » ne correspond pas à leur âge.",
+          "fix": "Écrire « avec des mots adaptés à des jeunes adultes »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Chaque petit pas vers une communication plus authentique est une fissure dans le mur des répétitions familiales.",
+          "problem": "Conclusion généraliste et emphatique (« bagages qui ne vous appartiennent pas ») qui ne revient pas à l'appel à Marine.",
+          "fix": "Remplacer le deuxième paragraphe par une phrase sur ce que la réponse du père a changé dans l'appel à Marine."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude.md",
+      "focus": "isolement social et sentiment de ne pas appartenir à un groupe hors du cadre professionnel",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Le balcon et le rire du voisin posent bien le sentiment d'étrangeté, mais la scène est surtout un résumé des épisodes précédents avec dates. Le retour se passe au cercle de lecture, jamais introduit dans l'ouverture, et le documentaire avec un ancien collègue arrive sans préparation.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Au cercle de lecture, Fabien se souvient surtout de l’emplacement des chaises. Le premier soir, il a parlé à la personne qui lui en a rapproché une, puis il est rentré.",
+          "problem": "La décision clé (aller au cercle de lecture) n'est jamais montrée : la scène s'arrête sur le balcon et le retour commence après une première séance déjà passée hors champ.",
+          "fix": "Terminer la scène par la découverte du cercle (affiche dans le hall, invitation déclinée) et faire du retour la première séance montrée."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Depuis sa promenade du 8 mars il y a quelques semaines, où il a reconnu le biais du coût irrécupérable qui l'empêchait de tracer une ligne claire après son divorce",
+          "problem": "Le deuxième paragraphe récapitule les épisodes 1 et 2 avec leurs concepts et leurs dates ; ce n'est pas une action et le lecteur qui arrive ici ne comprend pas ces renvois.",
+          "fix": "Réduire à une phrase concrète (le brouillon effacé, le déjeuner chez son père) et supprimer les noms de concepts et les dates."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il repense parfois à Véronique et aux meubles qu'il a rachetés à l'identique",
+          "problem": "Détail nouveau qui contredit l'image d'un appartement neuf encore en cartons (platine non branchée à l'épisode 1, cartons à l'épisode 10).",
+          "fix": "Supprimer « rachetés à l'identique » ou le remplacer par « aux meubles qu'il a laissés dans la maison »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "comme la distance géographique des enfants ou la rupture",
+          "problem": "Les enfants vivent chez leur mère à une traversée de parc (épisode 1) : la « distance géographique » n'est pas établie.",
+          "fix": "Écrire « le temps réduit passé avec les enfants »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Cette évolution est à votre portée.",
+          "problem": "Conclusion promotionnelle (« interventions concrètes, mesurables ») qui contraste avec les précautions du corps de l'article.",
+          "fix": "Conclure sur l'inscription de Fabien à la séance suivante et sur ce qui reste incertain."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie.md",
+      "focus": "envie dans les études, vécue par Lucas et accompagnée par Fabien",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La fin (Fabien retrouve la page du montage, Lucas garde le manuel) est nette. L'ouverture superpose trois déclencheurs (résultat d'admission d'un camarade, une note, un exercice fini par un autre) et des paragraphes mal ordonnés, si bien qu'on ne sait pas exactement ce que Lucas envie.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Lucas serre le bord de la table. Fabien pense qu’il est en colère contre le professeur, puis remarque le nom d’un camarade dans ce qu’il vient de dire. « C’est la note qui t’agace, ou autre chose ? »",
+          "problem": "Ce paragraphe introduit un professeur et une note jamais mentionnés, entre l'admission en école de commerce et l'exercice de physique ; il est placé avant le paragraphe où Fabien pose son livre, ce qui casse la chronologie.",
+          "fix": "Choisir un déclencheur unique (l'admission du camarade ou l'exercice terminé) et replacer ce paragraphe après « Lucas finit par poser son téléphone »."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Il lui raconte un entretien qu’il a préparé très longtemps et dont un collègue a obtenu le poste.",
+          "problem": "Dans un parcours centré sur Fabien, l'envie est surtout vécue par Lucas ; l'expérience propre de Fabien tient en une phrase.",
+          "fix": "Développer d'une ou deux phrases ce que Fabien a ressenti à l'époque, pour que l'épisode illustre aussi son rapport à l'envie."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il se remémore ses récentes réflexions sur le biais du coût irrécupérable et sur son isolement passé.",
+          "problem": "Renvoi méta aux concepts des épisodes précédents, sans contenu concret.",
+          "fix": "Supprimer la phrase."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Chaque progrès vers une meilleure compréhension de soi est une victoire sur l'ombre de la comparaison.",
+          "problem": "Conclusion générique qui ne revient ni à Lucas ni à Fabien.",
+          "fix": "Remplacer par une phrase sur ce que Fabien a appris en aidant sans comparer."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir.md",
+      "focus": "mépris perçu au travail : distinguer ce qui est observé de ce qui est supposé",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le regard du jeune consultant et la question finale (« quel passage du compte rendu ») sont concrets. Mais l'objet de la réunion change : la scène parle d'une proposition de médiation sociale rejetée, le dénouement d'un chiffre du compte rendu et des ateliers.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Le consultant vient de rejeter sa proposition de médiation sociale d'un revers de main",
+          "problem": "On ne sait pas pourquoi un consultant externe est là, ce qu'est cette « médiation sociale », ni le lien avec le chiffre discuté au dénouement.",
+          "fix": "Préciser en une phrase la mission du consultant (par exemple un audit des horaires d'atelier) et relier la proposition de Fabien au chiffre contesté."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "le silence laissé par Véronique et le départ partiel de Marine et Lucas",
+          "problem": "« Départ partiel » des enfants est obscur : ils vivent chez leur mère depuis le divorce.",
+          "fix": "Écrire « les week-ends sans Marine et Lucas »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "exactement comme il l'avait fait en restant accroché aux ruines de son mariage",
+          "problem": "Le troisième paragraphe accumule les renvois (père, biais du coût irrécupérable, divorce) et remplace l'action par l'analyse.",
+          "fix": "Couper ce paragraphe à « Il s’arrête pour distinguer ce qu’il a vu de ce qu’il en a déduit » et ajouter un geste."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "il est possible de transformer ces interactions toxiques en opportunités de croissance",
+          "problem": "Deuxième paragraphe de conclusion emphatique et contradictoire avec la prudence du texte sur l'intention du consultant.",
+          "fix": "Remplacer par une phrase sur la note datée prise par Fabien et ce qu'elle lui permettra si les remarques se répètent."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit.md",
+      "focus": "obligations rigides (« je dois », « il faut ») dans un conflit de planning de vacances",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le sac de Lucas, le message de Véronique et le ton trop sec sont concrets ; le dénouement (Lucas avait déjà envoyé l'horaire du match) est clair. Le match et le verre arrivent sans préparation, et la conclusion invente un burn-out.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "même après cinquante ans et des épreuves marquantes comme un divorce ou un début de burn-out",
+          "problem": "Le « début de burn-out » n'apparaît dans aucun épisode antérieur ; il réapparaît ensuite comme acquis (« burn-out latent » à l'épisode 7).",
+          "fix": "Supprimer la mention ou l'installer explicitement dans un épisode antérieur (fatigue au travail signalée par le médecin)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Lucas répond qu’il lui a déjà envoyé l’horaire du match.",
+          "problem": "Le match de Lucas (quel sport, quand) n'est pas présent dans la scène d'ouverture, alors que c'est la clé du dénouement.",
+          "fix": "Dans l'ouverture : « Lucas râle : il a un match de handball le samedi 11, il l'a écrit hier »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Fabien laisse le verre près de l’évier.",
+          "problem": "Le verre n'a jamais été mentionné.",
+          "fix": "Ajouter un verre dans la scène d'ouverture ou supprimer le geste."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille.md",
+      "focus": "scénario de vie (Berne) : règle apprise de se taire et réparation auprès de Lucas",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "faible"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le retour est réussi : Fabien reconnaît son ton devant Lucas qui cherche ses clés. L'ouverture, en revanche, est un monologue intérieur d'analyse sans action et affirme comme un fait que Fabien est un « ancien enfant parentifié ».",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "En tant qu'ancien enfant parentifié, il a appris à s'oublier pour porter les fardeaux des autres.",
+          "problem": "Le concept de l'épisode 11 (parentification) est affirmé ici comme établi, alors que l'épisode 11 le présente comme une hypothèse à examiner ; le parcours se répète et se contredit.",
+          "fix": "Retirer « ancien enfant parentifié » ici et à l'épisode 10 ; parler seulement de la règle « montrer le moins possible » propre au scénario de vie."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Son esprit analytique tourne à plein régime, cherchant le fil rouge entre son divorce avec Véronique, son burn-out latent et cette sensation d'être un spectateur de sa propre existence familiale.",
+          "problem": "La scène remplace l'action par une analyse abstraite et accumule les concepts ; le « burn-out latent » est une donnée non établie.",
+          "fix": "Remplacer par une action : Fabien relit le SMS d'annulation, commence trois réponses, puis range les dossiers."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Lucas, dix-sept ans, lui a envoyé un message laconique plus tôt dans la journée pour annuler leur sortie au cinéma.",
+          "problem": "Aux épisodes 1 et 2, la sortie au cinéma était prévue avec Marine.",
+          "fix": "Écrire « leur sortie au match » ou préciser qu'il s'agit d'une autre séance prévue avec Lucas."
+        },
+        {
+          "severity": "mineur",
+          "type": "proches",
+          "quote": "Fabien peut reconnaître qu’il avait déjà donné l’horaire du match et reprendre l’organisation avec Véronique.",
+          "problem": "La rubrique « Du côté des proches » de cet épisode parle de ce que Fabien peut faire, pas de ce que Lucas (le proche présent) peut faire ou dire.",
+          "fix": "Réécrire du point de vue de Lucas : par exemple accepter l'excuse sans devoir rassurer son père, dire s'il veut ou non reparler des vacances."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle.md",
+      "focus": "positions de vie (Ernst) : passer de l'effacement (-/+) à un échange où chacun compte",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "L'idée (Fabien s'excuse au lieu de répondre aux deux questions de Julie) est bonne, mais Julie n'est jamais présentée, la directive et la « bascule » ne sont pas expliquées, et le lecteur ne sait pas ce qui change dans l'atelier.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "comprehension",
+          "quote": "Julie lui répond pendant qu’il cherche la deuxième pièce jointe. Dans l’atelier, elle ne voit pas comment appliquer la directive.",
+          "problem": "Personnage nouveau sans présentation (responsable d'atelier ?), directive non décrite, « bascule » et « poste » non définis : la scène est incompréhensible pour un lecteur qui arrive ici.",
+          "fix": "Ouvrir par : « Julie, responsable de l'atelier de montage, répond au courriel où Fabien annonce le passage aux nouveaux horaires d'équipe le 4 mai »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Chaque fois que vous choisissez la position gagnant et gagnant, vous honorez votre valeur et celle de ceux qui vous entourent.",
+          "problem": "Conclusion générique qui ne revient pas au créneau convenu avec Julie.",
+          "fix": "Conclure sur le rendez-vous du lendemain à la relève et ce qu'il reste à régler."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi.md",
+      "focus": "malédiction du savoir : présenter une décision d'horaires sans le contexte que l'équipe n'a pas",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le dénouement à l'atelier (un même mot désigne deux tâches différentes selon les équipes) illustre très bien le biais. L'ouverture reste floue (quelle décision, quels termes techniques) et la conclusion revendique des résultats non montrés.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Il se rappelle la réunion de la semaine dernière où Julie, la responsable d'équipe, lui avait renvoyé un courriel sec.",
+          "problem": "À l'épisode 8, il s'agit d'un échange de courriels, pas d'une réunion, et le message de Julie posait deux questions précises ; le « courriel sec » réécrit la scène.",
+          "fix": "Écrire « le courriel où Julie lui posait deux questions qu'il avait d'abord mal lues »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il énonce des termes techniques avec la précision d'un cadre RH qui connaît son dossier",
+          "problem": "On ne sait pas quelle décision est présentée ni à qui (« quatre visages ») ; le lecteur doit attendre les manifestations pour deviner un changement d'horaires.",
+          "fix": "Préciser dès la première phrase : « devant quatre chefs d'équipe, il présente la nouvelle rotation des horaires »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "la capuche de son pull col roulé froissée par le geste",
+          "problem": "Détail incohérent (un col roulé n'a pas de capuche).",
+          "fix": "Supprimer « la capuche de »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il n’a pas besoin de sortir un post-it.",
+          "problem": "Le post-it n'a aucun antécédent ; la chute est incompréhensible.",
+          "fix": "Supprimer la phrase ou introduire plus haut l'habitude de Fabien de tout résumer sur des post-it."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Les retours sont concrets : moins de mails de clarification, des échanges plus calmes en réunion et une confiance qui se rétablit progressivement",
+          "problem": "La conclusion affirme des résultats non montrés et contredit le ton prudent du retour.",
+          "fix": "Limiter la conclusion au mot corrigé avec l'opératrice et à ce qui reste à vérifier."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme.md",
+      "focus": "compulsion de répétition (Freud) comme lecture possible d'un retour à l'isolement un jour férié",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le jour férié seul, l'omelette, la lampe de Marine installée et le message à Bernard donnent un dénouement concret. L'ouverture est encombrée de rappels inexacts des épisodes précédents et Bernard apparaît sans présentation.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Il se souvient de cette réunion avec Julie, il y a quelques jours, où il avait réalisé que son expertise créait un mur entre lui et les autres.",
+          "problem": "La réunion de la malédiction du savoir (épisode 9) n'était pas avec Julie ; l'« altercation avec le consultant externe » plus loin ne correspond pas non plus à l'épisode 5, où Fabien pose calmement une question.",
+          "fix": "Écrire « la réunion de rotation où personne n'avait compris son vocabulaire » et remplacer « altercation » par « l'échange avec le consultant »."
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "C'est comme si, au fond de lui, une partie de son esprit cherchait activement à recréer l'inconfort familier de son enfance d'enfant parentifié.",
+          "problem": "Reprend comme acquise la parentification, sujet de l'épisode 11, et le silence paternel déjà traité aux épisodes 2, 3, 5 et 7.",
+          "fix": "Retirer « d'enfant parentifié » et centrer la répétition sur un fait du présent (refuser les invitations de Bernard)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "décline souvent les invitations de son ami Bernard",
+          "problem": "Bernard apparaît pour la première fois dans les manifestations sans qu'on sache qui il est.",
+          "fix": "Présenter Bernard dans la scène : « Bernard, son ami de l'aviron, lui a encore écrit ce matin »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "comme il était seul face aux angoisses de sa mère étant petit",
+          "problem": "La mère n'a jamais été située dans le parcours (absente du déjeuner de l'épisode 2) ; ce détail clinique arrive sans contexte.",
+          "fix": "Établir une fois la situation de la mère (décès, séparation) dans l'épisode 2 ou retirer cette mention."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema.md",
+      "focus": "parentification passée et aide actuelle au père : définir un périmètre d'aide",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène concrète et lisible : le père déplie une facture, Fabien prend toute la pile, puis se rassoit pour expliquer une seule lettre. La limite posée (« pas ce temps cette semaine ») et le nom du service noté sur l'enveloppe donnent une fin claire.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Une difficulté présente ne permet pas à elle seule de conclure à ce qui s’est joué durant l’enfance.",
+          "problem": "Le parcours a déjà affirmé la parentification de Fabien (épisodes 7 et 10) ; cet épisode, plus prudent, arrive comme une redite et se contredit avec eux.",
+          "fix": "Corriger les épisodes 7 et 10 (voir ces entrées) pour que ce soit ici que la question soit posée pour la première fois."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Sortir de ce rôle de pilier demande de déconstruire des décennies de réflexes.",
+          "problem": "Phrase qui affirme une histoire d'enfance que le texte s'interdit ensuite de conclure.",
+          "fix": "Écrire « Ajuster l'aide demande parfois de changer des réflexes anciens »."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Il manque un douzième épisode. Proposition : un épisode « Comprendre et maîtriser ses émotions » sur la culpabilité parentale après un divorce, centré sur Marine, à placer entre les épisodes 9 et 10 (début mai). Scène : Marine, 20 ans, vient déposer la lampe qu'elle a choisie pour l'appartement et annonce qu'elle passera l'été chez sa mère ; Fabien se reproche d'avoir « cassé la famille » et propose aussitôt de tout réorganiser. Ce concept n'est pas encore traité, il donne enfin un rôle actif à Marine et prépare la lampe en carton de l'épisode 10.",
+  "verdict": "corrections_majeures"
+}

@@ -945,6 +945,110 @@
         "choice": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
         "next": "Au suivi, elle demande quelles options de soin sont réellement adaptées, plutôt qu’une garantie de changement rapide."
       }
+    },
+    {
+      "number": 10,
+      "slug": "florence-choix-soin-preuves-limitees",
+      "title": "Choix de soin : ce qu’une prise en charge peut et ne peut pas garantir",
+      "description": "Florence demande à sa psychiatre ce que le suivi peut garantir. Derain explique objectifs et limites des connaissances, puis reprend son sommeil.",
+      "context": "en consultation psychiatrique",
+      "topics": [
+        "Objectifs du soin",
+        "Limites des connaissances",
+        "Décision partagée"
+      ],
+      "clinical_intro": "Pour les adultes qui ont présenté la santé d’autrui de façon trompeuse, les connaissances sur les traitements restent limitées et reposent surtout sur des descriptions de cas. Aucun protocole ne garantit un résultat ou une durée. Le soin se construit à partir d’une évaluation individuelle et reste distinct de l’évaluation du risque et des décisions de protection, qui relèvent d’autres responsabilités.",
+      "opening": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ? 2. Combien de temps cela va durer ? 3. Est-ce que ça marche ? » Elle a aussi apporté sa feuille de nuits, complétée depuis quinze jours, comme la docteure Derain le lui avait proposé.\n\nDans le cabinet, elle pose la fiche sur le bureau avant même de s’asseoir. La psychiatre lit les trois questions et les prend dans l’ordre. Le travail avec Marc, le psychologue de l’équipe, cherche à comprendre ce qui a conduit aux conduites établies, à aider Florence à en parler sans les atténuer, à faire place à sa propre détresse et à tenir le cadre qui existe. Florence note. Pour la durée, Derain répond qu’elle ne peut pas donner de date de fin : l’équipe réévaluera régulièrement avec elle. Pour la troisième question, elle prend un moment. « Honnêtement, on dispose de peu d’études. Ce qu’on sait vient surtout de situations individuelles. Je ne peux pas vous donner un pourcentage de réussite, et je ne veux pas vous en inventer un. »\n\nFlorence attendait un chiffre. Elle demande si, au moins, un bon déroulement du suivi changera les décisions de protection. Derain répète ce qu’elle a expliqué lors de la coordination : l’évaluation du risque et la protection relèvent d’autres responsabilités, notamment celle de Nora, la référente de protection, et ne se décident pas dans ce cabinet sur la seule base de son assiduité.\n\nPuis la psychiatre prend la feuille de nuits. Les réveils à quatre heures sont moins fréquents la deuxième semaine, sans être réguliers. Florence a réduit le café de l’après-midi ; elle voit son médecin traitant jeudi pour l’examen général conseillé. Derain pose quelques questions, note les réponses et propose de poursuivre l’observation, puis d’en reparler au prochain rendez-vous.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Choisir un soin sans promesse de résultat",
+          "text": "Une prise en charge peut se choisir à partir d’objectifs clairs, même quand les preuves scientifiques sont limitées. Pour les adultes concernés par un trouble factice imposé à autrui, les données disponibles proviennent surtout de cas individuels : elles ne fournissent ni taux de réussite, ni durée type, ni protocole garanti. Derain sépare quatre choses que Florence avait tendance à mélanger : l’information médicale qu’elle peut recevoir, le choix du soin qu’elle construit avec l’équipe, l’évaluation du risque et les décisions de protection, qui ne dépendent pas d’elle. Le sommeil, lui, reste une question de santé suivie pour elle-même."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente d’une garantie apparaît-elle en consultation ?",
+          "points": [
+            {
+              "heading": "Chercher un chiffre",
+              "text": "Florence espère qu’une donnée précise rendra le soin prévisible.",
+              "examples": [
+                "Elle écrit « Est-ce que ça marche ? » en troisième question sur sa fiche.",
+                "Elle reste silencieuse quand Derain refuse d’inventer un pourcentage."
+              ]
+            },
+            {
+              "heading": "Lier soin et protection",
+              "text": "Elle voudrait qu’un suivi réussi entraîne une conséquence sur les décisions de protection.",
+              "examples": [
+                "Elle demande si un bon déroulement changera ces décisions.",
+                "Derain la renvoie à la répartition des rôles déjà expliquée avec Nora."
+              ]
+            },
+            {
+              "heading": "Des objectifs qui se formulent",
+              "text": "La consultation remplace la promesse par des buts concrets et une suite décidée ensemble.",
+              "examples": [
+                "Florence note sur sa fiche les objectifs du travail avec Marc.",
+                "La feuille de nuits est relue et l’observation se poursuit jusqu’au prochain rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une question sur son traitement",
+          "points": [
+            {
+              "heading": "Écrire ses questions à l’avance",
+              "objective": "Ne pas repartir sans avoir posé ce qui compte.",
+              "exercise": [
+                "Noter trois questions sur une fiche.",
+                "Les numéroter par ordre d’importance.",
+                "Poser la fiche sur le bureau au début du rendez-vous."
+              ],
+              "benefit": "Le temps de consultation sert aux questions réelles plutôt qu’à les retrouver."
+            },
+            {
+              "heading": "Faire préciser ce qui est connu",
+              "objective": "Distinguer ce que le soignant sait de ce qu’il ne peut pas promettre.",
+              "exercise": [
+                "Demander sur quoi repose une recommandation.",
+                "Accepter qu’une réponse soit « on ne sait pas encore ».",
+                "Noter ce qui reste ouvert pour en reparler."
+              ],
+              "benefit": "La décision de soin repose sur une information honnête, même incomplète."
+            },
+            {
+              "heading": "Reformuler les objectifs",
+              "objective": "Repartir avec une idée claire de ce qui est attendu du suivi.",
+              "exercise": [
+                "Résumer les objectifs avec ses propres mots.",
+                "Les relire au professionnel pour vérifier.",
+                "Garder la liste pour le prochain entretien avec l’équipe."
+              ],
+              "benefit": "Le suivi a un cap, même sans date de fin garantie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une fiche bristol relue dans le couloir",
+      "ending": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+      "conclusion": "Florence apprend à choisir son soin sans garantie : des objectifs clairs, des réponses honnêtes et un suivi réévalué. Ce choix ne décide pas de la protection, et la remise de l’épreuve complète reste une étape du cahier, pas un résultat clinique.",
+      "mirror": [
+        "Si Florence demande à un proche « Tu crois que ça va marcher ? », il n’a pas à répondre à la place de l’équipe. Il peut dire : « Je ne sais pas. Pose la question à ta psychiatre ; et moi, je suis là pour parler d’autre chose aussi. » Il évite de promettre une guérison comme de prédire un échec. Cathy, de son côté, reçoit l’épreuve et répond sur le cahier : « Merci, je la transmets à l’équipe pour le retour écrit. »"
+      ],
+      "clinical_focus": "Choix de soin et preuves limitées",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+        "next": "Un retour favorable sur le cahier risque ensuite de donner à un progrès matériel une portée clinique excessive."
+      }
     }
   ]
 }
