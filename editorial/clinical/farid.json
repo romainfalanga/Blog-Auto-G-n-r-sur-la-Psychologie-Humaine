@@ -1,0 +1,118 @@
+{
+  "character_id": "farid",
+  "bio": "Farid, 74 ans, ancien réparateur de radios, trie ses douze derniers postes avec son fils Anis dans l’atelier de sa maison. Sa démence due à une maladie à corps de Lewy est déjà diagnostiquée : son attention varie d’une heure à l’autre, l’espace le trompe parfois et il voit certains soirs ce que les autres ne voient pas. Il veut donner ses radios à un musée associatif qui les montrera sans toutes les modifier. Avec sa neurologue et une équipe de soutien au domicile, il garde ses choix et le droit de ne pas tout raconter.",
+  "profile_topics": [
+    "Démence due à une maladie à corps de Lewy",
+    "Fluctuations de l’attention et de la vigilance",
+    "Hallucinations visuelles accueillies sans confrontation",
+    "Partager ce qu’on a observé avec l’accord de la personne",
+    "Soutien prévisible et projet de don"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "farid-fluctuations-vigilance-journee-atelier",
+      "title": "Des fluctuations de la vigilance d’une heure à l’autre",
+      "description": "Le matin, Farid dicte sans peine l’histoire de ses radios ; l’après-midi, il fixe l’établi. Comprendre les fluctuations de la démence à corps de Lewy.",
+      "context": "à l’atelier, un samedi de tri",
+      "topics": [
+        "Démence due à une maladie à corps de Lewy",
+        "fluctuations de l’attention",
+        "organiser la journée"
+      ],
+      "clinical_focus": "Fluctuations de la vigilance au cours d’une même journée",
+      "clinical_intro": "Dans la démence due à une maladie à corps de Lewy, l’attention et l’éveil peuvent varier nettement d’un moment à l’autre de la même journée, sans effort en moins ni oubli isolé. Farid, dont le diagnostic est déjà posé, raconte ses radios avec précision le matin et décroche l’après-midi. Comprendre ce contraste aide son fils à ajuster le travail plutôt qu’à le juger.",
+      "opening": "À neuf heures, l’ancien garage de la maison de Villeurbanne sent encore la poussière chaude et le vernis. Farid, 74 ans, a passé quarante ans à réparer des postes de radio ; il en garde douze sur l’étagère du fond, les derniers qu’il veut donner au musée associatif Les Lampes du Faubourg. Anis, son fils, professeur de technologie dans un collège, a apporté des étiquettes de carton et un feutre noir. C’est samedi : ils ont la journée.\n\nFarid prend le premier poste, un poste en noyer de 1949, et dicte sans hésiter : « Acheté à une veuve de la Croix-Rousse, condensateurs changés en 1987, ne pas toucher au haut-parleur, il est d’origine. » Le deuxième, le troisième suivent au même rythme. Anis écrit, rit à une remarque sur un client qui voulait « plus de basses dans les informations ». Il a l’impression de retrouver l’atelier de son enfance.\n\nAprès le déjeuner, Anis pose sur l’établi le petit transistor rouge. Farid le regarde longtemps. Il répond « oui, la bakélite » alors qu’Anis lui demandait l’année, puis commence une phrase sur un marché du dimanche et la laisse en suspens. Son regard reste sur le bois de l’établi, comme s’il attendait qu’une lampe chauffe. Anis pose le feutre.\n\n« Papa, ce matin tu savais tout. Tu m’as donné les dates de trois postes sans réfléchir. »\n\nFarid lève les yeux, met un temps à répondre. « Ce matin, c’était ce matin. » Le ton n’est pas agacé ; il est lent, un peu loin. Anis sent monter une impatience qu’il n’aime pas chez lui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’attention monte et descend sans prévenir",
+          "text": "Dans la démence due à une maladie à corps de Lewy, la cognition, l’attention et l’éveil peuvent fluctuer de façon spontanée : la personne paraît par moments alerte et précise, puis somnolente, absente ou au discours plus décousu, sans que rien dans la situation ne l’explique. Ces variations font partie des signes centraux décrits par les cliniciens et se distinguent d’un manque de motivation comme d’un simple trou de mémoire. Elles sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes. Pour Farid, le savoir sur ses postes n’a pas disparu entre le matin et l’après-midi : c’est l’accès à ce savoir, l’état d’éveil qui le porte, qui a baissé. Le rapprochement que fait Anis, « tu savais tout », est compréhensible, mais il transforme une variation du trouble en reproche implicite. Seul le médecin qui suit Farid peut apprécier ces fluctuations ; l’entourage peut en revanche rapporter ce qu’il observe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les fluctuations se voient-elles dans une journée de tri ?",
+          "points": [
+            {
+              "heading": "Un contraste entre deux moments proches",
+              "text": "La même tâche peut être facile à une heure et difficile quelques heures plus tard, avec la même personne et les mêmes objets.",
+              "examples": [
+                "À neuf heures, Farid dicte trois étiquettes complètes, dates et pièces d’origine comprises.",
+                "Après le déjeuner, il ne retrouve pas l’année du transistor rouge, qu’il connaît pourtant."
+              ]
+            },
+            {
+              "heading": "Un regard fixe ou une absence",
+              "text": "La baisse de vigilance se remarque parfois avant toute erreur, par un regard qui reste posé ou un temps de réponse allongé.",
+              "examples": [
+                "Farid fixe le bois de l’établi plusieurs secondes sans regarder le poste.",
+                "Il met un long moment avant de répondre à Anis, d’une voix plus lente."
+              ]
+            },
+            {
+              "heading": "Une parole qui se défait",
+              "text": "Le discours peut devenir moins organisé : une réponse à côté, une idée qui commence et ne se termine pas.",
+              "examples": [
+                "Il répond « la bakélite » à une question portant sur l’année du poste.",
+                "Il entame une histoire de marché du dimanche et laisse la phrase en suspens."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour travailler avec des moments plus ou moins favorables",
+          "points": [
+            {
+              "heading": "Repérer avec Farid ses meilleurs moments",
+              "objective": "Placer les tâches qui demandent le plus d’attention là où elles ont le plus de chances d’aboutir.",
+              "exercise": [
+                "Demander à Farid à quels moments il se sent le plus clair pour dicter.",
+                "Prévoir les étiquettes et les décisions dans ces créneaux, sans en faire une règle rigide.",
+                "Revoir ensemble cet arrangement après quelques semaines de tri."
+              ],
+              "benefit": "Le travail peut avancer sans épreuve de force ; cela ne modifie pas le trouble lui-même."
+            },
+            {
+              "heading": "Raccourcir sans annuler",
+              "objective": "Garder une place à Farid dans le projet quand son attention baisse.",
+              "exercise": [
+                "Proposer une seule action simple, comme ranger un poste déjà étiqueté.",
+                "Laisser la décision difficile pour un autre moment, en le disant clairement.",
+                "Arrêter la séance si Farid le demande ou paraît très fatigué."
+              ],
+              "benefit": "La tâche reste la sienne, à une taille qui convient au moment."
+            },
+            {
+              "heading": "Noter des faits plutôt que des jugements",
+              "objective": "Disposer d’observations utiles pour le médecin qui suit Farid, avec son accord.",
+              "exercise": [
+                "Écrire l’heure à laquelle le changement est apparu.",
+                "Décrire ce qui a été vu, par exemple un regard fixe ou une phrase interrompue.",
+                "Demander à Farid s’il accepte que ces notes soient montrées à sa neurologue."
+              ],
+              "benefit": "Des faits datés peuvent aider l’équipe de soins, sans transformer le proche en évaluateur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le transistor rouge attendra demain",
+      "ending": "Farid repousse doucement le transistor rouge vers Anis. « Les étiquettes, on les fait le matin. Celui-là, demain. » Anis ouvre la bouche pour dire qu’il n’aura peut-être pas le temps, puis se tait. Il range le poste sur l’étagère, son carton vierge glissé sous la poignée.\n\nIls passent la fin de l’après-midi à dépoussiérer les boîtiers déjà notés, un travail que Farid fait sans parler, à son rythme. Sur son téléphone, Anis écrit seulement : « samedi, vers 14 h 30, regard fixe, réponses à côté ». Il n’ajoute pas « alors que ce matin… ». En partant, il dit qu’il reviendra demain à neuf heures. Farid hoche la tête sans savoir encore dans quel état il se réveillera.",
+      "conclusion": "Les fluctuations de la démence à corps de Lewy font alterner, dans la même journée, des moments de grande précision et des moments d’absence. Farid ne perd pas son savoir de réparateur ; il décide de placer le travail exigeant le matin, et Anis commence à noter l’heure au lieu de comparer.",
+      "mirror": [
+        "Quand Anis dit « ce matin tu savais tout », il exprime sa surprise, mais Farid entend une comparaison qu’il ne peut pas contrôler. Un proche peut plutôt dire : « On s’arrête là pour les dates, tu veux qu’on dépoussière ou qu’on fasse une pause ? » Noter l’heure d’un changement, sans commentaire, suffit souvent. Le proche n’a pas à mesurer ces variations : il les rapporte au médecin si la personne l’accepte, et il peut aussi s’accorder une pause quand son impatience monte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "has-fiche2-apparentees"
+      ],
+      "continuity": {
+        "choice": "Farid réserve l’étiquetage aux matinées et laisse le transistor rouge pour le dimanche ; Anis note sur son téléphone l’heure du changement (samedi vers 14 h 30) sans comparer à voix haute.",
+        "next": "Dimanche à neuf heures, Anis revient ; Farid voudra rendre présentable le poste à cadran vert de 1953 pour la visite de Gilles Perrot, et c’est l’évaluation de l’espace qui le trompera."
+      },
+      "diagnostic_stage": "known"
+    }
+  ]
+}

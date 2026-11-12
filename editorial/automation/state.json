@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 848,
+  "revision": 854,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5257,9 +5257,9 @@
     "serge": {
       "character_id": "serge",
       "code": "6D50",
-      "stage": "story",
+      "stage": "review",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "2a57289951ba4ed78dff2d5786b5180e",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_serge"
@@ -5287,15 +5287,15 @@
           }
         },
         "story": {
-          "job_id": "b4131f6153e6488c97ce7f384468cafb",
+          "job_id": "2a57289951ba4ed78dff2d5786b5180e",
           "owner": "story_serge",
-          "validated_at": "2026-11-12T10:26:23Z",
+          "validated_at": "2026-11-12T10:34:30Z",
           "validation": {
             "character_id": "serge",
             "files": {
               "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
               "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
-              "editorial/clinical/serge.json": "c5b7e5478ce2cf8b807c4cbb1c7bfd69383940f4e300605a8faa07ed85429028"
+              "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52"
             },
             "episodes": 12
           }
@@ -110921,10 +110921,50 @@
         }
       },
       "snapshot_sha256": "c61eb3897bc66871d776746fc86667f0536c852fa534f70e6f5183859d40f9a8",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "d9d68a890445170c28ac63218f9d39dd0789b203e89be2f3a29136a43b37c2c8",
-      "heartbeat_at": "2026-11-12T10:31:32Z",
-      "expires_at": "2026-11-12T11:31:32Z"
+      "heartbeat_at": "2026-11-12T10:34:29Z",
+      "expires_at": "2026-11-12T11:34:29Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-12T10:34:16Z",
+          "outputs": {
+            "editorial/clinical/serge.json": "6f2a52dfffd24626bb6bf0ddf18445ebedd51027c4072db1f75eceba2c17b08c"
+          },
+          "observed": {
+            "manuscript_sha256": "6f2a52dfffd24626bb6bf0ddf18445ebedd51027c4072db1f75eceba2c17b08c",
+            "episodes_present": 12,
+            "manuscript_readable": true,
+            "design_sha256": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+            "dossier_sha256": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+            "review_sha256": "7a71bef5de3892d69af9709a7951aad06a41406fdd4979877b440816550b1c95"
+          }
+        },
+        {
+          "at": "2026-11-12T10:34:29Z",
+          "outputs": {
+            "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52"
+          },
+          "observed": {
+            "manuscript_sha256": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52",
+            "episodes_present": 12,
+            "manuscript_readable": true,
+            "design_sha256": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+            "dossier_sha256": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+            "review_sha256": "7a71bef5de3892d69af9709a7951aad06a41406fdd4979877b440816550b1c95"
+          }
+        }
+      ],
+      "finished_at": "2026-11-12T10:34:30Z",
+      "validation": {
+        "character_id": "serge",
+        "files": {
+          "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+          "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52"
+        },
+        "episodes": 12
+      }
     },
     "b2b6e460d55247e4a69bc2f588910981": {
       "id": "b2b6e460d55247e4a69bc2f588910981",
@@ -111351,8 +111391,24 @@
       "snapshot_sha256": "e9a822d41eb38f38186da73bb702a0116a2c855713e88cb27216a92933b44d6a",
       "status": "active",
       "token_sha256": "80232141c4159c2f4e8ab667d5303cef4ef96b884170b64ce89ed467dbe61143",
-      "heartbeat_at": "2026-11-12T10:32:03Z",
-      "expires_at": "2026-11-12T11:32:03Z"
+      "heartbeat_at": "2026-11-12T10:34:28Z",
+      "expires_at": "2026-11-12T11:34:28Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-12T10:34:28Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "660ace5aabcf5fad4d47a2db80f55dc2cbb472a80ec7b99163f14de4c7ad9c95"
+          },
+          "observed": {
+            "manuscript_sha256": "660ace5aabcf5fad4d47a2db80f55dc2cbb472a80ec7b99163f14de4c7ad9c95",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        }
+      ]
     },
     "a2ff13290a174a67a24ec2ad3658ead8": {
       "id": "a2ff13290a174a67a24ec2ad3658ead8",
@@ -115930,5 +115986,5 @@
       "expires_at": "2026-11-12T11:33:54Z"
     }
   },
-  "updated_at": "2026-11-12T10:33:54Z"
+  "updated_at": "2026-11-12T10:34:30Z"
 }
