@@ -751,7 +751,7 @@
       ],
       "clinical_focus": "Choisir ses aides externes",
       "clinical_intro": "Les aides externes, comme les agendas, les listes, les calendriers ou les rappels sur téléphone, font partie des stratégies recommandées en réadaptation de la mémoire. Leur choix dépend des tâches et des préférences de la personne. Bilal, dont le trouble amnésique est déjà diagnostiqué, découvre une limite de son carnet et négocie l’aide qu’il accepte.",
-      "opening": "Mercredi, huit heures. Bilal ouvre la porte cochère de l’atelier et trouve, en allumant son téléphone, un message d’Odile, l’animatrice de la maison de quartier : « On t’a attendu hier soir au jardin. Pas grave, on a choisi l’emplacement des pieds sans toi. Jonas, notre apprenti menuisier, a fait un croquis. »\n\nHier soir. Mardi, dix-huit heures trente, la séance collective du banc. Il reste immobile, la clé encore dans la serrure. Il décroche son tablier du clou, sort le carnet rouge, retire l’élastique. Page de lundi : « Mardi 18 h 30, jardin, séance. Apporter plan. » C’était écrit. Seulement, depuis l’arrangement avec Hugo, il ferme le carnet à dix-sept heures et le laisse dans la poche du tablier, et le tablier reste à l’atelier. Hier, à dix-sept heures, il a passé l’élastique, accroché le tablier, et il est rentré dîner. L’information a passé la nuit à deux mètres de l’établi.\n\nÀ dix heures, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe pour leur séance hebdomadaire. Bilal lui raconte sans détour et lui tend le carnet ouvert à la bonne page.\n\nHugo réfléchit. « Le carnet marche quand tu l’as sous les yeux. Le soir, il dort ici. On pourrait mettre des alarmes sur ton téléphone : la séance du mardi, les rendez-vous, les livraisons. »\n\nBilal fait la grimace. Il déteste les sonneries. À l’atelier, elles couvrent le bruit de la gouge sur le bois, celui qui lui dit si le fil part bien. Et il imagine son téléphone lui dicter sa journée, sonner pour tout, décider à sa place quand il doit penser à quoi. « Je ne veux pas devenir une machine qu’on programme, Hugo. Le bois me parle, pas le téléphone. »\n\nHugo ne range pas son idée. Il pose une autre question : « Alors dis-moi où le carnet ne suffit pas. Seulement là. »",
+      "opening": "Mercredi, huit heures. Bilal ouvre la porte cochère de l’atelier et trouve, en allumant son téléphone, un message d’Odile, l’animatrice de la maison de quartier : « On t’a attendu hier soir au jardin. Pas grave, on a choisi l’emplacement des pieds sans toi. Jonas, notre apprenti menuisier, a fait un croquis. »\n\nHier soir. Mardi, dix-huit heures trente, la séance collective du banc. Il reste immobile, la clé encore dans la serrure. Il décroche son tablier du clou, sort le carnet rouge, retire l’élastique. Page de lundi : « Mardi 18 h 30, jardin, séance. Apporter plan. » C’était écrit. Seulement, depuis l’arrangement avec Hugo, il ferme le carnet à dix-sept heures et le laisse dans la poche du tablier, et le tablier reste à l’atelier. Hier, à dix-sept heures, il a passé l’élastique, accroché le tablier, et il est rentré dîner. L’information a passé la nuit à deux mètres de l’établi.\n\nLe lendemain, jeudi, à dix heures, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe pour leur séance hebdomadaire. Bilal lui raconte sans détour et lui tend le carnet ouvert à la bonne page.\n\nHugo réfléchit. « Le carnet marche quand tu l’as sous les yeux. Le soir, il dort ici. On pourrait mettre des alarmes sur ton téléphone : la séance du mardi, les rendez-vous, les livraisons. »\n\nBilal fait la grimace. Il déteste les sonneries. À l’atelier, elles couvrent le bruit de la gouge sur le bois, celui qui lui dit si le fil part bien. Et il imagine son téléphone lui dicter sa journée, sonner pour tout, décider à sa place quand il doit penser à quoi. « Je ne veux pas devenir une machine qu’on programme, Hugo. Le bois me parle, pas le téléphone. »\n\nHugo ne range pas son idée. Il pose une autre question : « Alors dis-moi où le carnet ne suffit pas. Seulement là. »",
       "sections": [
         {
           "role": "explanation",
@@ -1151,6 +1151,111 @@
       "continuity": {
         "choice": "Bilal écrit sur l’ardoise la répartition : commande de quincaillerie à Martine (une seule commande, jeudi), perçage des pieds à Jonas le vendredi sous sa supervision, sculpture des accoudoirs et assemblage final pour lui, transport par la camionnette de Nordine.",
         "next": "Le jour de la pose au jardin, chaque participant devra retrouver seul l’ordre des étapes et des décisions, y compris ceux qui ont manqué la dernière réunion."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "bilal-garder-decisions-visibles-groupe-pose-du-banc",
+      "title": "Garder les décisions visibles pour tout le groupe le jour de la pose",
+      "description": "Au jardin, deux habitants ne savent plus dans quel ordre poser les lattes, et Bilal non plus. Il sort la fiche des étapes et l’accroche au grillage.",
+      "context": "au jardin de la maison de quartier",
+      "topics": [
+        "Trouble amnésique",
+        "repères partagés",
+        "participation au projet"
+      ],
+      "clinical_focus": "Garder les décisions visibles pour tout le groupe",
+      "clinical_intro": "Les stratégies d’environnement, comme les routines et les repères visibles, font partie des appuis proposés en réadaptation de la mémoire. Un support affiché sert aussi à ceux qui n’ont aucun trouble. Le jour de la pose du banc, Bilal, dont le trouble amnésique est connu, partage avec tout le groupe une fiche qui ne dépend de la mémoire de personne.",
+      "opening": "Samedi, dix heures. Treize semaines après la livraison du chêne, la camionnette blanche de Nordine, le frère de Bilal, recule dans l’allée du jardin partagé de la maison de quartier. Un mètre soixante de large : le rétroviseur frôle le tilleul, mais ça passe. Jonas, l’apprenti menuisier, et Rachid, le retraité de la voirie, descendent l’assise du banc sur leurs épaules et la posent sur la dalle, entre le tilleul et la bordure.\n\nLes autres habitants du projet arrivent un par un, chacun avec sa latte sculptée enveloppée dans un torchon : Thérèse et ses feuilles de vigne, Karim et sa carpe, Germaine et ses initiales entrelacées, Lucie et son soleil. Odile, l’animatrice de la maison de quartier, a apporté du café dans un thermos. Martine Roussel, l’associée ébéniste de Bilal, vérifie les platines de la quincaillerie qu’elle a commandée.\n\nKarim déballe sa carpe et demande : « On les met dans quel ordre, déjà ? J’étais pas là mardi. » Germaine non plus n’était pas à la dernière réunion. Elle croit que la sienne va au milieu. Thérèse pense que non. Lucie hausse les épaules.\n\nTout le monde se tourne vers Bilal. C’est son banc, c’est lui qui sait.\n\nBilal regarde les six lattes posées dans l’herbe. Le carnet rouge dit qu’il était à la réunion de mardi : le rappel de dix-sept heures l’y a envoyé. Mais l’ordre voté ce soir-là ne lui revient pas plus qu’à Karim. Il sent revenir la chaleur au cou du premier lundi, devant les tréteaux vides.\n\nPuis il glisse la main dans la poche de son tablier. À côté du carnet rouge, il y a une feuille pliée en quatre, plastifiée au ruban adhésif large comme celle de la défonceuse. Jeudi, avec Martine, il a recopié dessus le compte rendu d’Odile et la ligne de l’ardoise. En haut, en lettres capitales : « POSE DU BANC — LES ÉTAPES ».",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un repère affiché qui sert à tout le monde",
+          "text": "Les recommandations de réadaptation de la mémoire comprennent des stratégies d’environnement : routines, repères visibles, organisation des lieux, à côté des aides externes comme les listes et les calendriers. Ces appuis visent la participation aux activités réelles de la personne, avec son accord et, quand c’est approprié, avec ses proches. Un support partagé a une autre qualité : il ne désigne personne. Au jardin, Karim et Germaine ont manqué une réunion, et Bilal ne retrouve pas l’ordre voté. Avec une fiche à hauteur des yeux, la question n’est plus de savoir qui se souvient, mais ce que le groupe a décidé. Ce repère n’efface pas le trouble ; il rend le projet accessible à chacun."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le manque de repère commun se voit-il dans un groupe ?",
+          "points": [
+            {
+              "heading": "Des absences qui créent des versions différentes",
+              "text": "Dans un groupe, ceux qui ont manqué une décision la reconstruisent chacun à sa façon.",
+              "examples": [
+                "Germaine croit que sa latte va au milieu ; Thérèse pense le contraire.",
+                "Karim n’était pas là mardi et demande l’ordre à voix haute."
+              ]
+            },
+            {
+              "heading": "Un regard qui se tourne vers une seule personne",
+              "text": "Le groupe peut attendre de l’animateur ou du responsable qu’il détienne toute la mémoire du projet.",
+              "examples": [
+                "Tout le monde se tourne vers Bilal parce que c’est son banc.",
+                "Bilal sent revenir la gêne du premier lundi devant les tréteaux vides."
+              ]
+            },
+            {
+              "heading": "Une présence qui ne garantit pas le souvenir",
+              "text": "Avoir assisté à une décision ne suffit pas à la retenir quand l’information nouvelle ne se fixe pas.",
+              "examples": [
+                "Le rappel du mardi a conduit Bilal à la réunion, mais l’ordre voté lui échappe.",
+                "Seule la fiche recopiée jeudi avec Martine garde la décision."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder les décisions d’un groupe visibles",
+          "points": [
+            {
+              "heading": "Afficher l’ordre des étapes à hauteur des yeux",
+              "objective": "Rendre la séquence lisible sans avoir à la demander.",
+              "exercise": [
+                "Écrire chaque étape sur une ligne, avec les noms concernés.",
+                "Fixer la fiche sur le lieu même du travail, à hauteur des yeux.",
+                "Lire la première étape à voix haute avant de commencer."
+              ],
+              "benefit": "Chacun peut retrouver sa place seul, qu’il ait ou non un trouble de la mémoire."
+            },
+            {
+              "heading": "Faire valider la fiche par le groupe",
+              "objective": "Transformer une note personnelle en décision commune.",
+              "exercise": [
+                "Demander à chacun de relire sa ligne.",
+                "Corriger ensemble ce qui ne correspond pas au vote.",
+                "Faire signer ou parapher la fiche par les présents."
+              ],
+              "benefit": "La fiche devient la référence du groupe, et personne n’a à arbitrer entre les souvenirs."
+            },
+            {
+              "heading": "Garder une trace pour la suite",
+              "objective": "Ne pas perdre les décisions une fois le projet terminé.",
+              "exercise": [
+                "Conserver la fiche et les comptes rendus dans un même dossier.",
+                "Noter les idées de suite sans les décider le jour même.",
+                "Fixer avec les personnes concernées un moment pour en reparler."
+              ],
+              "benefit": "Le prochain projet peut partir des décisions déjà prises, sans promettre que tout sera plus simple."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche accrochée au grillage",
+      "ending": "Bilal déplie la fiche et l’accroche avec deux pinces à linge au grillage du jardin, à hauteur des yeux. « Je ne m’en souviens pas non plus, dit-il. C’est pour ça qu’on l’a écrit. » Il lit la troisième ligne à voix haute : « Lattes, de gauche à droite : Thérèse, Karim, Germaine, Lucie, Rachid, Jonas. » Germaine rit : elle n’est pas au milieu, mais presque. Chacun relit sa ligne ; Odile demande à tous de parapher la fiche au feutre. Puis on suit les étapes. Jonas visse les platines dans les trous qu’il a percés. Les six lattes s’emboîtent une à une sur les languettes, chacun la sienne. Bilal fixe les deux accoudoirs, la feuille de chêne qui s’enroule. À midi, le banc est posé. Rachid s’assoit le premier. Plus tard, Bilal rapporte la fiche à l’atelier et la colle sous l’ardoise, qui reste l’outil de tout le monde, Martine comprise. Le soir, avant que le carnet rouge se ferme, il écrit : « Une table pour le même jardin ? À décider avec Odile et Martine, au printemps. » Jeudi, il a rendez-vous avec Hugo, comme toutes les semaines.",
+      "conclusion": "Un repère visible et validé par le groupe rend un projet accessible à tous, y compris à une personne vivant un trouble amnésique. Le banc est posé avec les six lattes ; la mémoire de Bilal n’est pas déclarée guérie, le suivi continue, et le projet de table reste une idée à décider plus tard.",
+      "mirror": [
+        "Quand tout le monde s’est tourné vers Bilal, un participant aurait pu dire : « On regarde la fiche ensemble ? », pour que personne ne porte seul la mémoire du groupe. Odile a montré un autre geste utile : faire parapher la fiche par chacun, sans désigner qui avait oublié. Un proche peut proposer d’afficher une décision ou de la relire avec la personne ; il n’a pas à tenir à sa place tous les comptes rendus. Il peut aussi passer le relais à l’équipe de réadaptation quand une aide ne suffit plus."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236",
+        "cicerone-2019"
+      ],
+      "continuity": {
+        "choice": "Bilal affiche au grillage la fiche des étapes recopiée avec Martine, la fait parapher par le groupe ; le banc est posé avec les six lattes dans l’ordre voté, la fiche rejoint l’ardoise de l’atelier, qui reste un outil commun.",
+        "next": "Le parcours se clôt sur le banc installé ; le suivi hebdomadaire avec Hugo continue et le projet de table pour le même jardin reste une idée à décider au printemps avec Odile et Martine."
       },
       "diagnostic_stage": "known"
     }

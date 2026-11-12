@@ -1164,6 +1164,111 @@
         "next": "Quelques semaines plus tard, un mardi matin, les douze postes seront présentés au musée Les Lampes du Faubourg, avant la signature de la convention, en sachant que la maladie continuera d’évoluer."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "farid-evolution-progressive-souhaits-anticipes-don",
+      "title": "Une évolution progressive et des souhaits écrits pour la suite",
+      "description": "Au musée, Farid présente son poste à cadran vert puis s’assoit. La convention signée, il écrit ses souhaits pour la suite, révisables, sans prédire l’avenir.",
+      "context": "au musée, un mardi matin",
+      "topics": [
+        "évolution progressive",
+        "souhaits anticipés",
+        "garder ses choix"
+      ],
+      "clinical_focus": "Anticiper l’évolution en gardant ses choix",
+      "clinical_intro": "La démence due à une maladie à corps de Lewy est en général progressive, à un rythme que personne ne peut prédire pour une personne donnée. Parler tôt de ses préférences pour la suite, les écrire et pouvoir les modifier permet de garder ses choix au premier plan. Le jour du don de ses radios, Farid se demande aussi ce qu’il veut pour les années qui viennent.",
+      "opening": "Mardi, dix heures. La salle du rez-de-chaussée du musée associatif Les Lampes du Faubourg sent la cire et le café. Les douze postes de Farid sont alignés sur trois tables couvertes de feutre gris, chacun avec son étiquette de carton. Anis, son fils, professeur de technologie, a posé une demi-journée pour l’occasion. Gilles Perrot, le président du musée, a fait venir une dizaine de bénévoles.\n\nNeuf postes sont tels que Farid les a gardés : le poste en noyer de 1949, le gros poste de salon, les autres. Trois ont été remis en marche par Maryse, la technicienne bénévole du musée, au cours de deux matinées à l’atelier où Farid dictait les réglages et où elle tenait le fer. En ouvrant le transistor rouge, elle a trouvé une marque sous le haut-parleur ; Farid a enfin rempli la ligne vide de l’étiquette.\n\nIl commence par le poste à cadran vert de 1953. Maryse a posé l’aiguille sur Paris. Farid raconte en quelques phrases la vitrine d’autrefois, les stations gravées, Luxembourg, Monte-Carlo, Sottens. « Et surtout, n’y touchez pas : il marche, il est d’origine, on le laisse chauffer et on écoute. » Les bénévoles rient.\n\nAu bout de dix minutes, sa phrase ralentit. Il cherche le nom d’une rue, ne le trouve pas, sent l’attention qui baisse comme une lampe qui refroidit. Il ne s’excuse pas. Il tire une chaise et s’assoit. Anis ne finit pas la phrase pour lui. Maryse met en marche la bakélite crème, et la salle écoute un moment une voix d’aujourd’hui sortir d’un poste de 1950.\n\nPlus tard, Gilles s’approche avec la convention et un stylo. « Vous reviendrez nous voir ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une maladie qui évolue, des choix qui restent à soi",
+          "text": "La plupart des démences, dont celle due à une maladie à corps de Lewy, sont progressives : les difficultés tendent à s’accentuer avec le temps, selon un rythme propre à chaque personne et que ni l’entourage ni le médecin ne peuvent fixer à l’avance. Les recommandations proposent de donner tôt, puis régulièrement, l’occasion de parler de ses souhaits pour les soins et la vie à venir, de les écrire et de les réviser. Ces souhaits ne ralentissent pas la maladie ; ils permettent que les décisions futures s’appuient sur ce que la personne a dit elle-même, au moment où elle pouvait le formuler à sa façon. Pour Farid, la présentation montre les deux faces : une parole encore vive sur son métier et une fatigue qui l’oblige à s’asseoir. La question de Gilles, « vous reviendrez ? », n’a pas de réponse certaine ; elle invite à dire ce qui compte, sans promettre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’évolution se mêle-t-elle aux moments importants ?",
+          "points": [
+            {
+              "heading": "Une compétence vive à côté de la fatigue",
+              "text": "Le même moment peut réunir un savoir intact et une limite nouvelle.",
+              "examples": [
+                "Farid présente le poste à cadran vert avec humour et précision.",
+                "Au bout de dix minutes, il cherche un nom de rue et s’assoit."
+              ]
+            },
+            {
+              "heading": "Des questions sur l’avenir posées par d’autres",
+              "text": "L’entourage interroge souvent la suite, parfois sans le vouloir.",
+              "examples": [
+                "Gilles demande à Farid s’il reviendra au musée.",
+                "Anis se demande combien de temps son père pourra vivre seul avec ce soutien."
+              ]
+            },
+            {
+              "heading": "Des décisions qui comptent maintenant",
+              "text": "Certaines décisions peuvent être prises et écrites tant que la personne les formule elle-même.",
+              "examples": [
+                "Farid a fixé le sort de ses postes par une lettre signée.",
+                "Il veut aussi dire ce qu’il souhaite pour son atelier et ses soins."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour écrire ses souhaits sans prédire l’avenir",
+          "points": [
+            {
+              "heading": "Nommer ce qui compte",
+              "objective": "Mettre par écrit les préférences de Farid, dans ses mots.",
+              "exercise": [
+                "Lister ce qui lui importe au quotidien : lieux, horaires, manières de lui parler.",
+                "Ajouter ce qu’il ne veut pas, comme être contredit sur ce qu’il voit.",
+                "Relire la page à voix haute et corriger ce qui ne lui ressemble pas."
+              ],
+              "benefit": "Les décisions futures peuvent s’appuyer sur sa propre parole."
+            },
+            {
+              "heading": "Choisir avec qui partager ces souhaits",
+              "objective": "Que les bonnes personnes connaissent la page, avec son accord.",
+              "exercise": [
+                "Désigner les personnes qui recevront une copie.",
+                "Prévoir de la remettre au médecin qui le suit, pour son dossier.",
+                "Dire ce qui reste privé, même dans ce document."
+              ],
+              "benefit": "La page circule là où elle peut servir, sans dépasser ce qu’il autorise."
+            },
+            {
+              "heading": "Prévoir une date pour les revoir",
+              "objective": "Garder des souhaits révisables, puisque la situation évolue.",
+              "exercise": [
+                "Inscrire une date de relecture sur la page.",
+                "Accepter de les modifier plus tôt si Farid le demande.",
+                "Revoir la page avec l’équipe de soins lors d’une consultation."
+              ],
+              "benefit": "Les souhaits restent les siens au fil du temps, sans promesse sur l’évolution."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une page de souhaits sur la table de la cuisine",
+      "ending": "Farid signe la convention : neuf postes exposés en l’état, trois en marche, chacun avec son étiquette d’origine. Puis il répond à Gilles : « Je reviendrai un matin, si j’en ai envie. Et je ne raconterai pas forcément mes nuits. » Gilles rit et lui tend la main.\n\nLe jeudi suivant, à neuf heures, Mme Diallo, l’assistante de soins de l’équipe à domicile, s’assoit avec lui à la table de la cuisine pour la version longue de la visite. Farid a envie d’écrire. Ensemble, ils remplissent une page : le matin pour les choses importantes ; une question à la fois ; l’atelier ouvert tant qu’il le souhaite, le fer rangé ; qu’on ne le contredise pas et qu’on ne lui donne pas raison sur ce qu’il voit le soir ; la carte de la docteure Tissier à montrer à toute équipe ; le droit de ne pas raconter la veille. En bas : « à relire dans six mois, ou avant si je le demande ».\n\nMardi soir, il en donne une copie à Anis, qui la range avec la carte, sans la commenter. Une autre part au secrétariat de la docteure Tissier, sa neurologue, pour le rendez-vous de suivi. Farid sait que la maladie continuera d’avancer, à un rythme que personne ne lui a promis. Il sait aussi où sont ses radios, et ce qu’il a écrit.",
+      "conclusion": "La démence à corps de Lewy évolue, et rien dans le soutien mis en place ne promet de la ralentir. Farid a pourtant mené son don à son terme selon ses conditions, et il a écrit, avec l’équipe, des souhaits révisables qui gardent sa voix au centre des décisions à venir.",
+      "mirror": [
+        "Quand Farid s’est assis au milieu de sa présentation, Anis n’a pas terminé sa phrase à sa place. Un proche peut faire de même, puis, plus tard, recevoir une page de souhaits sans la discuter tout de suite : « Merci. Je la garde avec ta carte. On la relira quand tu voudras. » Il n’a pas à deviner la suite ni à la préparer seul. Il peut demander à l’équipe de soins ce qu’on peut prévoir, et garder pour lui une part de sa propre vie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche13-comportement"
+      ],
+      "continuity": {
+        "choice": "La convention est signée : neuf postes en l’état, trois remis en marche par Maryse selon les notes de Farid. Farid dit à Gilles qu’il reviendra un matin s’il en a envie, sans forcément raconter ses nuits. Le jeudi, il rédige avec Mme Diallo une page de souhaits révisable dans six mois, remise à Anis le mardi soir et au secrétariat de la docteure Tissier.",
+        "next": "Le don est accompli ; la suite reste ouverte, avec un soutien régulier le jeudi, Anis le mardi soir, des souhaits écrits et révisables, et le droit de Farid de choisir ce qu’il partage."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }
