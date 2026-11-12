@@ -750,6 +750,112 @@
       },
       "number": 7,
       "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-bilan-stable-sans-promesse-recuperation",
+      "title": "Un bilan stable ne promet pas de récupération",
+      "description": "Au bilan de juillet, les résultats d’Oumar sont proches de l’an dernier. Il demande s’il va « tout récupérer » : sa gériatre ne peut pas le promettre.",
+      "context": "un jeudi de juillet au bilan de suivi",
+      "topics": [
+        "évolution d’une démence",
+        "bilan de suivi répété",
+        "garder les aides qui fonctionnent"
+      ],
+      "clinical_focus": "Un bilan stable, sans promesse de récupération",
+      "clinical_intro": "L’évolution d’une démence dépend de sa cause : beaucoup progressent, d’autres restent stables. Dans les troubles cognitifs liés à l’alcool, certaines études décrivent une stabilité, parfois une amélioration partielle de quelques domaines quand l’abstinence est maintenue, mais rien ne peut être promis à une personne. Pour Oumar, un bilan rassurant ouvre une question qu’aucun médecin ne peut trancher d’avance.",
+      "opening": "Le jeudi du bilan, Oumar est arrivé à la consultation mémoire vingt minutes en avance, avec son carnet de questions et la feuille des trois phrases dans son portefeuille. Jean-Paul Le Goff, son ami de trente ans, l’a accompagné en tramway et attend dans le couloir ; Oumar a préféré passer les épreuves seul.\n\nIl est rentré de l’hôpital à la fin mai. Les premiers jours au Clos des Mauves, il cherchait ses mots plus que d’habitude, oubliait l’heure de l’arrosage, s’endormait l’après-midi dans le fauteuil du salon. Odette Bréhier, sa voisine de bac, arrosait les fèves à sa place sans rien dire. Au bout d’une dizaine de jours, il a retrouvé son pas, ses phrases et ses agacements ordinaires. Mais depuis, une peur ne le quitte pas : que ce matin de mai lui ait pris quelque chose pour de bon.\n\nLe matin, il a recopié des figures, dessiné une horloge, retenu des listes de mots, relié des chiffres et des lettres dans l’ordre sur une feuille. Il a senti certaines épreuves glisser comme l’an dernier, d’autres lui sembler un peu moins rugueuses, sans savoir s’il se trompait.\n\nL’après-midi, la docteure Claire Morvan, la gériatre qui le suit depuis deux ans, pose les résultats devant elle. Elle lui dit qu’ils sont comparables à ceux de l’an dernier, avec un peu plus d’aisance sur deux épreuves. Rien ne montre de perte depuis le dernier bilan. Oumar respire. Puis il ouvre son carnet à la page où il a écrit, en capitales : « TOUT RÉCUPÉRER ? » Il lit la question à voix haute. « Si je continue sans alcool, est-ce que je vais tout récupérer ? Les plans, les chiffres, le reste ? » La docteure ne répond pas tout de suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Stable ne veut pas dire guéri",
+          "text": "La plupart des démences s’aggravent avec le temps, mais certaines restent stables, et l’évolution dépend de la cause. Pour les troubles cognitifs liés à l’alcool, quelques études rapportent, sur un à deux ans d’abstinence, une stabilité, voire une amélioration partielle de certains domaines. Les mêmes travaux indiquent que les personnes plus âgées récupèrent moins, que les fonctions exécutives, la mémoire de travail et les capacités perceptives restent souvent touchées, et qu’une reprise de la consommation fragilise ces gains. C’est pourquoi l’évaluation est répétée dans le temps : elle montre une tendance à un moment donné, pas une trajectoire garantie. Le bilan d’Oumar est rassurant, d’autant qu’il passe après l’épisode de mai, mais il ne dit pas ce qui se passera ensuite. Sa question « tout récupérer » mélange un espoir légitime et une promesse que personne ne peut faire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un bilan rassurant peut-il être mal compris ?",
+          "points": [
+            {
+              "heading": "L’espoir d’un retour complet",
+              "text": "Après une période difficile, un résultat stable peut être entendu comme le début d’une guérison.",
+              "examples": [
+                "Oumar écrit en capitales « tout récupérer ? » dans son carnet.",
+                "Il associe directement la poursuite de son abstinence à la disparition des troubles."
+              ]
+            },
+            {
+              "heading": "La peur d’avoir perdu du terrain",
+              "text": "Un événement aigu peut laisser la crainte durable d’une aggravation, même quand l’état habituel est revenu.",
+              "examples": [
+                "Depuis son retour de l’hôpital, Oumar craint que le matin de mai lui ait pris quelque chose.",
+                "Pendant les épreuves, il ne sait pas s’il réussit mieux ou s’il se trompe."
+              ]
+            },
+            {
+              "heading": "La tentation de lâcher les aides",
+              "text": "Se sentir mieux peut donner envie d’abandonner des adaptations qui contribuent justement à ce mieux-être.",
+              "examples": [
+                "Oumar se demande s’il a encore besoin de la fiche d’étapes punaisée dans l’abri.",
+                "Il pense à reprendre seul les comptes de la cagnotte sans le cahier de Jean-Paul."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour recevoir un résultat de bilan",
+          "points": [
+            {
+              "heading": "Demander ce qui a changé et ce qui reste",
+              "objective": "Comprendre le résultat dans le détail au lieu de le résumer à bon ou mauvais.",
+              "exercise": [
+                "Demander au médecin quelles épreuves ont évolué et lesquelles sont identiques.",
+                "Écrire la réponse en deux listes dans son carnet.",
+                "Relire ces listes avant d’en parler à ses proches."
+              ],
+              "benefit": "Un résultat détaillé peut éviter de transformer une stabilité en promesse ou en échec."
+            },
+            {
+              "heading": "Garder les aides qui fonctionnent",
+              "objective": "Ne pas fragiliser le quotidien sur la foi d’un seul résultat.",
+              "exercise": [
+                "Lister les aides en place et ce que chacune facilite.",
+                "Pour chacune, se demander ce qui se passerait sans elle la semaine suivante.",
+                "Décider avec l’équipe, et non seul, de tout allègement."
+              ],
+              "benefit": "Maintenir les adaptations peut protéger l’énergie gagnée, même si l’on se sent mieux."
+            },
+            {
+              "heading": "Prévoir le prochain bilan",
+              "objective": "Inscrire le résultat dans un suivi plutôt que dans une conclusion définitive.",
+              "exercise": [
+                "Demander la date approximative du prochain bilan.",
+                "La noter dans son agenda et sur le plan d’aide.",
+                "Ouvrir une page du carnet pour les questions à poser ce jour-là."
+              ],
+              "benefit": "Savoir qu’une nouvelle évaluation viendra peut aider à supporter l’incertitude ; tout changement brutal d’ici là reste à signaler sans attendre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche reste punaisée",
+      "ending": "La docteure Morvan répond qu’elle ne peut pas lui promettre de récupération. Elle dit que son abstinence est une part importante de son suivi, que certaines personnes gagnent un peu d’aisance et que d’autres restent comme elles sont, et que le prochain bilan, dans un an, dira l’évolution. Elle ajoute que les plans et les chiffres lui coûteront sans doute encore. Oumar écrit dans son carnet, sous la question : « Pas de promesse. Comparable à l’an dernier. Prochain bilan : juillet. »\n\nDans le tramway du retour, il raconte tout à Jean-Paul. Jean-Paul demande s’il veut arrêter le cahier de la cagnotte, maintenant que ça va mieux. Oumar réfléchit jusqu’à l’arrêt de Rezé. « Non. On ne retire pas le tuteur parce que la tige a tenu un orage. » Le soir, il passe à l’abri vérifier que la fiche d’étapes est toujours punaisée au-dessus de l’établi. Elle y est. Il sait que la peur de mai reviendra parfois, et que le bilan de l’an prochain peut dire autre chose.",
+      "conclusion": "L’épisode montre qu’un bilan stable dans une démence liée à l’alcool est une bonne nouvelle sans être une promesse de récupération. Oumar décide de garder la fiche d’étapes et la double signature, et attend le prochain bilan sans savoir ce qu’il dira.",
+      "mirror": [
+        "Dans le tramway, Jean-Paul propose d’arrêter le cahier « maintenant que ça va mieux ». C’est une marque de confiance, mais elle pourrait retirer un appui utile. Un proche peut plutôt demander : « Qu’est-ce que la docteure a dit de ce qui reste pareil ? », puis laisser la personne décider de ses aides. Il n’a pas à annoncer une guérison ni à surveiller les progrès. S’il remarque un changement brutal, il le signale à l’équipe sans en déduire la cause."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-cg115",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "La docteure Morvan juge le bilan comparable à celui de l’an dernier, sans promesse de récupération, et fixe le prochain bilan en juillet de l’année suivante. Oumar décide de garder la fiche d’étapes et la double signature avec Jean-Paul.",
+        "next": "Le chêne coupé à mesure arrive de Bouaye ; pour poser les lattes, Oumar doit s’agenouiller près du banc, et son équilibre l’inquiète."
+      },
+      "number": 8,
+      "diagnostic_stage": "known"
     }
   ]
 }

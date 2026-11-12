@@ -636,6 +636,111 @@
         "next": "Après cette semaine, Clarisse n’ouvre plus le troisième carton pendant deux semaines."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "clarisse-apathie-huntington-carton-ferme",
+      "title": "Quand l’élan manque sans que la volonté cède",
+      "description": "Le troisième carton reste fermé deux semaines et Viviane parle de manque d’effort : l’apathie de la maladie de Huntington n’est pas de la paresse.",
+      "context": "un samedi, devant le carton fermé",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "apathie",
+        "routine et point de départ"
+      ],
+      "clinical_focus": "Quand l’élan manque sans que la volonté cède",
+      "clinical_intro": "Avoir envie de commencer quelque chose suppose un élan que l’on ne remarque qu’au moment où il manque. Dans la maladie de Huntington, l’apathie réduit l’intérêt, la spontanéité et l’engagement vers un but, sans que la personne soit forcément triste et sans qu’elle ait renoncé. Pour l’entourage, cela ressemble à un manque d’effort. Pendant deux semaines, Clarisse ne touche pas au troisième carton.",
+      "opening": "Le samedi, à onze heures, Viviane, la sœur cadette de Clarisse, professeure de piano à Saint-Nazaire, pose son sac dans l’entrée et bute contre le troisième carton. Il est à la même place qu’il y a deux semaines, le couvercle fermé, une fine couche de poussière sur le scotch. Au-dessus de la table, la liste écrite au dos du calque est restée à l’étape trois, sans coche. Sur le calendrier mural, en rouge, Yannick a fait inscrire la date de remise définitive des cinq documents au groupe de l’Atelier des Quais : dans dix jours.\n\nClarisse est sur le canapé, habillée, les mains sur les genoux. La télévision est éteinte. « Je n’ai envie de rien, dit-elle. Je ne suis pas triste. Je n’ai juste pas envie. » Viviane soulève le couvercle : sur le dessus, les plans de la médiathèque de Rezé, ceux que Clarisse lui avait montrés cent fois, qu’elle appelait « mon meilleur axe ». Clarisse les regarde sans se lever. « Ils ne me disent plus rien. »\n\nViviane sent la fatigue de la semaine, les élèves, la route. Elle a lu, sur le site d’une association, qu’il ne fallait pas faire à la place. Elle ne sait plus ce qu’il faut faire. Elle lâche : « Tu ne fais plus aucun effort. » Clarisse ne répond pas. Elle ne se défend pas, ne s’énerve pas, ne pleure pas. Elle regarde le carton. Viviane aurait préféré une colère comme celle que Clarisse lui a racontée, celle du mardi à l’Atelier ; ce silence-là lui paraît pire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un élan qui manque, une volonté intacte",
+          "text": "L’apathie se définit comme une réduction des comportements orientés vers un but : moins d’intérêt, moins de spontanéité, moins d’initiative. Dans la maladie de Huntington, c’est l’un des symptômes les plus fréquents, surtout à mesure que la maladie avance, et c’est l’un des rares qui tend à s’accentuer plutôt qu’à fluctuer. Elle n’est ni de la paresse ni un renoncement ; elle peut même alterner avec l’irritabilité, comme deux faces d’une même difficulté, ou survenir après une période de surcharge. Elle se distingue aussi de la dépression, même si les deux peuvent coexister, ce qui justifie que l’équipe de soins vérifie. Clarisse ne se dit pas triste ; elle ne trouve pas de point de départ, et la colère du mardi précédent, suivie de nuits courtes, a peut-être épuisé ce qui restait d’élan. Le reproche de Viviane vise une volonté qui, elle, n’a pas changé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’apathie se distingue-t-elle d’un manque de volonté ?",
+          "points": [
+            {
+              "heading": "L’intérêt s’éteint, même pour ce qu’on aimait",
+              "text": "L’apathie touche aussi les activités qui comptaient beaucoup, ce qui rend le changement particulièrement visible pour les proches.",
+              "examples": [
+                "Les plans de la médiathèque, que Clarisse appelait « mon meilleur axe », ne l’attirent plus.",
+                "Elle regarde le carton ouvert par Viviane sans se lever du canapé."
+              ]
+            },
+            {
+              "heading": "Pas de tristesse déclarée",
+              "text": "La personne peut décrire une absence d’envie sans humeur triste, ce qui oriente vers l’apathie sans exclure une dépression à faire évaluer.",
+              "examples": [
+                "Clarisse dit : « Je ne suis pas triste. Je n’ai juste pas envie. »",
+                "Elle ne pleure pas et ne s’énerve pas quand sa sœur lui fait un reproche."
+              ]
+            },
+            {
+              "heading": "Un conflit qui naît de l’interprétation",
+              "text": "L’apathie est une source fréquente de tension familiale, parce qu’elle ressemble à un désengagement volontaire.",
+              "examples": [
+                "Viviane dit « Tu ne fais plus aucun effort » en voyant la liste arrêtée à l’étape trois.",
+                "Elle trouve le silence de sa sœur plus difficile à supporter qu’une colère."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour relancer une activité quand l’élan manque",
+          "points": [
+            {
+              "heading": "Donner un point de départ concret",
+              "objective": "Remplacer l’envie qui ne vient pas par un repère extérieur.",
+              "exercise": [
+                "Fixer une heure précise pour commencer, convenue avec la personne.",
+                "Faire faire au proche le premier geste matériel, comme ouvrir le carton.",
+                "Laisser à la personne toutes les décisions qui suivent."
+              ],
+              "benefit": "Un démarrage extérieur peut permettre à l’activité de se dérouler ; il ne crée pas l’élan durablement."
+            },
+            {
+              "heading": "Installer une routine courte",
+              "objective": "Rendre l’activité prévisible et limitée dans le temps.",
+              "exercise": [
+                "Prévoir la même plage horaire, le même lieu et la même durée à chaque séance.",
+                "Annoncer à l’avance la fin de la séance.",
+                "Noter ce qui a été fait, même si c’est peu."
+              ],
+              "benefit": "Les activités structurées sont souvent plus faciles à suivre que celles qu’il faudrait lancer seul."
+            },
+            {
+              "heading": "Faire vérifier par l’équipe",
+              "objective": "Ne pas confondre apathie et dépression, ni laisser l’entourage seul face au changement.",
+              "exercise": [
+                "Décrire au neurologue depuis quand l’élan manque et pour quelles activités.",
+                "Lui laisser évaluer s’il s’agit aussi d’une humeur dépressive.",
+                "Demander à l’assistante sociale quelles aides peuvent intervenir à domicile."
+              ],
+              "benefit": "L’équipe peut repérer une dépression qui se soigne et proposer un appui professionnel au quotidien."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Dix heures, le carton ouvert",
+      "ending": "Le soir, au lieu de rentrer, Viviane reste dormir dans la petite chambre. Avant de se coucher, elle frappe à la porte de sa sœur. « Je retire ce que j’ai dit. Je ne sais pas faire avec ça. » Elles fixent un rendez-vous, que Clarisse écrit elle-même au calendrier : « Dimanche 10 h, carton trois. » Le dimanche à dix heures, Viviane ouvre le carton et sort les rouleaux un par un. Clarisse choisit, Viviane note. Le carton est trié en une heure : deux écoles retenues, la médiathèque laissée de côté sans regret apparent. Clarisse coche l’étape trois. Le lundi, elle appelle elle-même le secrétariat de la consultation et obtient un rendez-vous le jeudi. La docteure Lebreton, sa neurologue au CHU, l’interroge longuement sur son humeur, son sommeil, ses envies ; elle ne retrouve pas de dépression ce jour-là et lui demande de revenir si les choses changent. Nathalie Kerjean, l’assistante sociale de la consultation, lui parle d’un service d’accompagnement à domicile. Clarisse prend la brochure et accepte d’étudier la proposition, sans rien signer.",
+      "conclusion": "Cet épisode montre que l’apathie, fréquente dans la maladie de Huntington, est une baisse d’élan et non un manque de volonté. Un point de départ fixé par Viviane permet de trier le troisième carton ; l’équipe vérifie l’absence de dépression et Clarisse garde la décision sur l’aide à domicile.",
+      "mirror": [
+        "Viviane a dit « Tu ne fais plus aucun effort », puis l’a retiré le soir même. Devant un carton qui reste fermé, un proche peut proposer un démarrage plutôt qu’un reproche : « Demain à dix heures, j’ouvre le carton, toi tu choisis. » Il peut faire le premier geste sans prendre les décisions. Il n’a pas à deviner s’il s’agit d’apathie ou de dépression : c’est à l’équipe de soins de l’évaluer. Il peut aussi dire ses propres limites, et accepter qu’un service professionnel prenne une part du quotidien."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Viviane retire son reproche ; le dimanche à 10 h, elle ouvre le troisième carton, Clarisse choisit et le tri est fait en une heure. Le jeudi, la docteure Lebreton ne retrouve pas de dépression ce jour-là ; Clarisse accepte d’étudier le service d’accompagnement à domicile proposé par Mme Kerjean.",
+        "next": "Le carton rouvert et les cinq documents presque arrêtés, une teinte de rambarde sur l’épreuve de l’affiche va occuper toutes ses pensées."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

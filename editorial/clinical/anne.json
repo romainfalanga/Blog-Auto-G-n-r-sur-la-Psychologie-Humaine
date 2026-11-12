@@ -743,6 +743,111 @@
       },
       "clinical_focus": "Routines rigides et goût nouveau pour le sucré",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "anne-achats-impulsifs-risques-mal-percus",
+      "title": "Achats impulsifs et risques mal perçus",
+      "description": "Cinq platines à cassettes commandées en une nuit s’empilent devant la porte d’Anne, qui ne voit pas le problème : un risque mal perçu, pas une tromperie.",
+      "context": "un mardi soir devant cinq colis",
+      "topics": [
+        "achats impulsifs",
+        "conscience des risques",
+        "droit de rétractation"
+      ],
+      "clinical_intro": "Les démences frontotemporales peuvent s’accompagner d’achats impulsifs, faits sans égard pour leurs conséquences, et d’une conscience réduite de ces changements. La personne ne ment pas : son évaluation du risque est modifiée. Chez Anne, dont la maladie touche d’abord le sens des mots, ce changement possible apparaît un mardi soir, devant une pile de colis.",
+      "opening": "Le mardi, à dix-huit heures, la voisine d’en face, Mme Gautier, appelle Clémence à Nantes. Elle a son numéro depuis l’hiver où le chauffe-eau d’Anne avait lâché. « Je ne veux pas me mêler de ce qui ne me regarde pas, mais il y a cinq gros cartons devant la porte de votre mère depuis midi. Elle ne les a pas rentrés. » Clémence, la fille d’Anne, paysagiste, quitte son chantier plus tôt et arrive à Chalonnes-sur-Loire vers vingt heures.\n\nLes cartons sont dans l’entrée maintenant. Anne les a ouverts au cutter. Dans chacun, la même platine à cassettes double, noire, neuve, avec le même mode d’emploi plié en accordéon. Sur la commode, les deux platines qu’Anne possède déjà, dont celle que Solange préfère pour les mercredis.\n\n« Tu as commandé ça quand ?\n— Dimanche soir. Vers deux heures du matin, je crois. Le site proposait une remise si on en prenait plusieurs.\n— Cinq, maman ?\n— Pour les archives. Yann aura besoin de lecteurs pour numériser. Et si l’une tombe en panne. »\n\nClémence trouve le récapitulatif de commande sur la tablette, ouverte sur le canapé. Le total dépasse neuf cents euros. Elle le lit à voix haute. Anne hausse les épaules : « C’est pour le travail. Ce n’est pas une folie. » Elle ne paraît ni gênée ni inquiète. Elle remet les modes d’emploi dans les cartons avec soin, comme on range des fiches.\n\nQuand Clémence demande, doucement, s’il faudrait regarder ensemble ses comptes, Anne se raidit. « Mon argent, c’est mon affaire. Je dirigeais un budget de deux millions, Clémence. » Elle quitte la pièce et va mettre la bouilloire en route. Clémence reste seule au milieu des cartons ouverts.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un jugement du risque modifié, pas une volonté de tromper",
+          "text": "Dans les démences frontotemporales, des actes impulsifs peuvent apparaître, comme des achats faits sans égard pour leurs conséquences, et la personne peut avoir moins conscience de ces changements. Elle ne cherche ni à tromper ni à provoquer : c’est son évaluation du risque et des suites de ses actes qui est modifiée. Anne n’a pas de diagnostic de forme comportementale ; ce changement possible de sa forme sera évalué par son équipe. Pour une démence considérée comme légère, les finances et les décisions complexes peuvent devenir plus difficiles, alors même que la personne paraît la même à ceux qui la connaissent peu. Devant les cartons, Anne justifie l’achat par les archives et ne voit pas le montant comme un problème ; son refus de parler d’argent protège aussi son autonomie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des achats impulsifs et une moindre perception du risque se manifestent-ils ?",
+          "points": [
+            {
+              "heading": "Un achat multiplié sans besoin réel",
+              "text": "Une commande peut être répétée ou démesurée par rapport à l’usage, souvent à un moment inhabituel.",
+              "examples": [
+                "Anne commande cinq platines identiques vers deux heures du matin.",
+                "Elle en possède déjà deux, dont une utilisée chaque mercredi."
+              ]
+            },
+            {
+              "heading": "Une justification sincère",
+              "text": "La personne donne une raison qui lui paraît suffisante, sans percevoir l’écart avec la situation.",
+              "examples": [
+                "Anne explique que Yann aura besoin de lecteurs pour numériser.",
+                "Elle dit « ce n’est pas une folie » après que Clémence a lu le total."
+              ]
+            },
+            {
+              "heading": "Un refus de parler de l’argent",
+              "text": "Évoquer les finances peut être vécu comme une remise en cause de l’autonomie.",
+              "examples": [
+                "Anne rappelle qu’elle a dirigé un budget de deux millions.",
+                "Elle quitte la pièce quand Clémence propose de regarder ses comptes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à un achat impulsif sans humilier",
+          "points": [
+            {
+              "heading": "Parler des faits, pas de la personne",
+              "objective": "Décrire la situation sans porter de jugement sur Anne.",
+              "exercise": [
+                "Nommer ce qui est là : cinq cartons, deux platines déjà à la maison.",
+                "Demander à Anne ce dont les archives ont réellement besoin.",
+                "Éviter les mots comme « folie » ou « n’importe quoi »."
+              ],
+              "benefit": "La discussion porte sur les platines, et Anne n’a pas à défendre sa personne."
+            },
+            {
+              "heading": "Utiliser le droit de rétractation",
+              "objective": "Annuler ce qui n’est pas utile pendant que c’est encore possible.",
+              "exercise": [
+                "Vérifier avec Anne la date de livraison et les conditions de retour du site.",
+                "Rappeler que, pour un achat à distance, le délai de rétractation est d’au moins quatorze jours, sauf exceptions.",
+                "Laisser Anne choisir combien d’appareils garder et remplir le formulaire avec elle."
+              ],
+              "benefit": "L’argent peut revenir sans que la décision lui soit retirée."
+            },
+            {
+              "heading": "Préparer des protections avec l’équipe",
+              "objective": "Anticiper sans décider à sa place.",
+              "exercise": [
+                "Proposer à Anne de parler elle-même de ses dépenses à sa neurologue.",
+                "Lui demander qui elle veut voir à ses côtés pour cet échange.",
+                "Laisser à Anne le choix d’en parler ou non à sa banque."
+              ],
+              "benefit": "Les décisions de protection se préparent avec elle et avec des professionnels."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quatre cartons refermés",
+      "ending": "Après la tisane, Anne revient dans l’entrée. Clémence ne parle plus des comptes ; elle montre seulement les deux platines sur la commode et les cinq cartons. « Les archives en ont besoin de combien ? » Anne réfléchit. « Une. Pour Yann. Les nôtres suffisent pour les mercredis. » Sur la tablette, elles retrouvent les conditions de retour : la livraison date du jour, le délai de rétractation court encore. Anne remplit elle-même le formulaire pour quatre appareils ; Clémence imprime les étiquettes. Le jeudi, les quatre cartons partent au relais colis. Anne refuse toujours que Clémence regarde ses comptes. Mais elle décide d’écrire le lendemain au secrétariat du centre mémoire pour que l’argent soit à l’ordre du jour de son rendez-vous de janvier avec la docteure Kervella, et elle autorise Clémence à l’accompagner. Le remboursement n’est pas encore arrivé.",
+      "conclusion": "Cet épisode montre que des achats impulsifs et une perception réduite du risque peuvent accompagner la maladie, sans intention de tromper. Le retour des quatre platines répare la dépense ; la question de l’argent, Anne choisit de la porter elle-même devant sa neurologue.",
+      "mirror": [
+        "Devant les cartons ouverts, Clémence peut éviter « Qu’est-ce qui t’a pris ? » et demander : « Les archives en ont besoin de combien ? » Elle peut aider à exercer le droit de rétractation, en laissant Anne remplir le formulaire. Elle n’a pas à prendre le contrôle des comptes. Si sa mère refuse d’en parler, elle peut proposer qu’elle aborde elle-même le sujet avec sa neurologue, et l’accompagner si Anne le souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rascovsky-2011",
+        "service-public-retractation"
+      ],
+      "continuity": {
+        "choice": "Anne renvoie quatre platines dans le délai de rétractation et en garde une pour les archives ; elle refuse que Clémence regarde ses comptes mais demande par écrit que l’argent soit abordé au rendez-vous de janvier avec la docteure Kervella, où Clémence l’accompagnera.",
+        "next": "La consultation au centre mémoire d’Angers ouvrira une question que Clémence n’osait pas poser."
+      },
+      "clinical_focus": "Achats impulsifs et risques mal perçus",
+      "diagnostic_stage": "known"
     }
   ]
 }
