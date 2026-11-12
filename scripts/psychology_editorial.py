@@ -540,6 +540,11 @@ def integrate(root: Path, check: bool = False) -> list[str]:
     for path in (root / 'content/posts').rglob('*.md'):
         if f'editorial_pack: {PACK}' in path.read_text()[:2000] and path not in expected_posts:
             raise EditorialError(f'Article {PACK} sans publication enregistrée : {path.relative_to(root)}')
+    # The rendered articles must pass the same checks as the v10 pack articles.
+    for path in expected_posts:
+        _, front, body = outputs[path].split('---', 2)
+        issues, _ = check_article(path, yaml.safe_load(front), body.strip())
+        require(not issues, f'{path.relative_to(root)} : ' + '; '.join(issues))
     stale = [path for path, value in outputs.items() if not path.exists() or path.read_text() != value]
     if check:
         require(not stale, 'Parcours psychologie à régénérer : ' + ', '.join(p.relative_to(root).as_posix() for p in stale))
@@ -547,11 +552,6 @@ def integrate(root: Path, check: bool = False) -> list[str]:
         for path in stale:
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text(outputs[path])
-        # The rendered article must pass the same checks as the v10 pack articles.
-        for path in expected_posts:
-            meta = yaml.safe_load(path.read_text().split('---', 2)[1])
-            issues, _ = check_article(path, meta, path.read_text().split('---', 2)[2].strip())
-            require(not issues, f'{path.relative_to(root)} : ' + '; '.join(issues))
     return [p.relative_to(root).as_posix() for p in stale]
 
 

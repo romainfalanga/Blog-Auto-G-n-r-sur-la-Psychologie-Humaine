@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 1056,
+  "revision": 1057,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -128734,8 +128734,8 @@
       "snapshot_sha256": "88bcf52a2eed24fd23b562e66286f109ac6b07df283d1bf48fd6c89350389c27",
       "status": "active",
       "token_sha256": "b63f7989e293cec2e689ace05bb846ed175280099fdde9f316d0d49f9198ad7f",
-      "heartbeat_at": "2026-11-12T10:52:12Z",
-      "expires_at": "2026-11-12T11:52:12Z",
+      "heartbeat_at": "2026-11-12T10:52:13Z",
+      "expires_at": "2026-11-12T11:52:13Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:45:28Z",
@@ -137783,5 +137783,5 @@
       }
     }
   },
-  "updated_at": "2026-11-12T10:52:12Z"
+  "updated_at": "2026-11-12T10:52:13Z"
 }
