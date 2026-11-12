@@ -1,0 +1,207 @@
+{
+ "schema_version": 1,
+ "character_id": "mona",
+ "code": "6D85.3",
+ "article_format": 2,
+ "bio": "Mona, 60 ans, gérante salariée d’une épicerie coopérative de Nantes, transmet ses méthodes à Kilian, le nouveau coordinateur. Sa démence due au virus de l'immunodéficience humaine, diagnostiquée et suivie au CHU, ralentit sa pensée, rend l’organisation plus coûteuse et fait glisser les informations nouvelles. Elle veut laisser un classeur de rangement qui permette à l’équipe de tourner sans elle et à elle de rester coopératrice. Avec Rozenn, sa compagne, et une équipe spécialisée, elle parle de ses besoins concrets sans dévoiler son statut à la coopérative.",
+ "profile_topics": [
+  "Démence due au virus de l'immunodéficience humaine",
+  "Pensée ralentie, attention et organisation plus coûteuses",
+  "Dire ses besoins sans dévoiler son statut de santé",
+  "Transmettre une méthode et alléger un accord trop lourd",
+  "Suivi spécialisé, autres causes et observance soutenue"
+ ],
+ "voice": "Une parole directe, chaleureuse et ironique, nourrie des mots du magasin : la rotation, le premier entré premier sorti, la réserve qui respire. Ces images sont celles de Mona, jamais une explication du trouble. Elle préfère montrer un geste plutôt que parler d’elle, dit volontiers « ça, c’est mon affaire » quand on la questionne sur sa santé et tient à ce que personne ne décide à sa place.",
+ "series_goal": "Laisser au Panier de Chantenay le classeur vert, une méthode de rangement zone par zone avec étiquettes de couleur que Kilian et les coopérateurs savent utiliser sans elle, revenir sur un accord trop ambitieux sans révéler son diagnostic, et organiser une présence choisie au magasin, deux matinées par mois au rayon vrac avec Perrine, tout en gardant ses questions de santé avec son équipe de soins.",
+ "continuity_rules": [
+  "Diagnostic établi avant la série : known aux douze épisodes. Mona a 60 ans, gérante salariée depuis douze ans du Panier de Chantenay, épicerie coopérative associative de Nantes ; elle vit avec le VIH depuis plus de vingt ans ; sa démence, diagnostiquée huit mois avant la série, est considérée comme légère par l’équipe au début. Aucun stade, aucune vitesse d’évolution, aucun pronostic individuel n’est déduit d’une scène.",
+  "Personnes : Rozenn, compagne depuis vingt ans, libraire, connaît le diagnostic et garde sa propre vie ; Kilian Tanguy, 31 ans, coordinateur salarié qui reprend la gestion ; Hélène Carré, présidente du conseil collégial ; Perrine Quéméner, coopératrice depuis l’ouverture, ancienne magasinière, seule membre informée par Mona à partir de 10 ; docteur Paul Achard, infectiologue au CHU, coordonne le suivi ; Mme Solène Guéret, neuropsychologue ; docteure Lemaître, médecin du travail. Aucun proche ne joue au diagnosticien ni ne touche au traitement.",
+  "Confidentialité : la coopérative ne connaît pas le diagnostic ; Kilian et Hélène savent seulement que Mona a des « raisons médicales » à partir de 6, et la proposition écrite de la médecine du travail en 7 ne mentionne aucun diagnostic. Rozenn ne parle à l’équipe de soins qu’avec l’accord de Mona (8). Perrine apprend le statut en 10 par choix de Mona et le garde pour elle. Le VIH n’est jamais présenté comme un risque pour la clientèle ou l’équipe.",
+  "Objets et lieux : la réserve et la chambre froide du magasin, le rayon vrac, la caisse et son nouveau logiciel (4) ; le classeur vert « méthode zone par zone » commencé en 2, suivant le trajet d’ouverture du magasin ; les étiquettes de couleur des bacs ; le marque-page « où j’en suis » (3) ; la fiche-étapes plastifiée du logiciel (4) ; le pilulier semainier et l’alarme reliée au café du matin (9) ; la carte de contacts dans le sac de Mona, sans diagnostic écrit (11).",
+  "Chronologie : livraisons du mardi en 1 ; écriture du classeur à la maison en 2 ; séance au vrac en 3 ; formation au logiciel en 4 ; conseil collégial et accord du samedi en 5, abandonné en 6 ; visite à la médecine du travail en 7 et passage à mi-temps le matin ; consultation de suivi au CHU en 8 avec orientation vers un examen du sommeil ; doute sur une prise en 9 ; confidence à Perrine en 10 ; confusion avec fièvre, appel au 15 par Perrine et hospitalisation de quelques jours en 11 ; fin du contrat salarié à la fin de l’année, bilan de contrôle et présence choisie en 12.",
+  "Santé : aucun nom de médicament, aucune dose, aucun ajout ou arrêt ; en cas de doute sur une prise, Mona appelle l’équipe ou la pharmacie. La confusion de 11 n’est pas expliquée par le diagnostic : les soignants en recherchent la cause, que le récit ne détaille pas. Les aménagements sont des arrangements d’organisation, sans effet thérapeutique revendiqué.",
+  "Fin : le classeur vert est adopté par l’équipe et Kilian le met à jour ; Mona quitte son poste salarié et reste coopératrice deux matinées par mois au vrac avec Perrine ; ses souhaits pour la suite sont écrits, révisables, partagés avec Rozenn et le docteur Achard ; l’évolution reste incertaine et Mona choisit ce qu’elle partage."
+ ],
+ "episodes": [
+  {
+   "number": 1,
+   "focus": "Une pensée ralentie quand les livraisons s’enchaînent",
+   "scene": "Mardi, sept heures, dans la réserve du Panier de Chantenay. Le livreur de fruits et celui des produits secs arrivent en même temps. Kilian, à son troisième jour, enchaîne les questions : où va la palette, qui signe, que fait-on du carton de yaourts abîmé. Mona connaît chaque réponse, mais elle lui vient avec un temps de retard ; Kilian finit ses phrases à sa place et range les yaourts au mauvais endroit.",
+   "development": "Ralentissement de la vitesse de traitement de l’information, typique du profil sous-cortical décrit pour cette démence et distinct d’un oubli ou d’un manque de compétence. L’explication part de la différence entre savoir et répondre vite, puis revient au chassé-croisé des deux livreurs. Trois appuis : une question à la fois, un temps de réponse accordé sans finir les phrases, une fiche des livraisons qui porte les réponses habituelles. Aucun test, aucun stade.",
+   "ending": "Mona demande à Kilian d’attendre sa réponse et de décaler la livraison des produits secs d’une demi-heure. Le soir, elle décide d’écrire sa méthode dans un classeur pour que les réponses existent ailleurs que dans sa tête.",
+   "next": "Écrire le classeur à la maison mettra en jeu non plus la vitesse, mais l’organisation de tout ce qu’elle sait.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "antinori-2007",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 2,
+   "focus": "Organiser un classeur quand les priorités s’emmêlent",
+   "scene": "Un dimanche, sur la table de la cuisine, Mona ouvre le classeur vert devant ses notes éparses. Elle commence par le vrac, passe à la chambre froide, revient aux dates limites, puis ne sait plus quel chapitre doit venir en premier. Elle qui organisait seule l’inventaire de tout le magasin reste une heure sur la première page. Rozenn, qui lit à côté, propose de tout classer par ordre alphabétique ; Mona refuse sèchement.",
+   "development": "Atteinte des fonctions exécutives : planifier, hiérarchiser, garder un plan d’ensemble en tête. L’explication part de ce que demande la mise en ordre d’un savoir, puis revient au classeur qui ne trouve pas son premier chapitre. Trois appuis : partir d’un trajet concret plutôt que d’un plan abstrait, un chapitre par séance, une décision à la fois. Rozenn propose sans imposer.",
+   "ending": "Mona choisit de suivre le trajet d’ouverture du magasin, de la porte de la réserve à la caisse : une zone par chapitre, une séance par zone. Elle s’excuse auprès de Rozenn et lui demande seulement de lui poser la question « et ensuite ? ».",
+   "next": "La première zone, le rayon vrac, doit être montrée à Kilian en plein magasin, là où les interruptions ne manquent pas.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "antinori-2007",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 3,
+   "focus": "Perdre le fil après une interruption",
+   "scene": "Jeudi matin, au rayon vrac, Mona montre à Kilian comment faire tourner les bacs de lentilles et de farine avec les étiquettes de couleur. Une coopératrice l’interpelle pour un remboursement, puis le téléphone sonne. Quand elle revient au bac, elle ne sait plus si elle a déjà vidé l’ancien stock et recommence l’étape. Kilian lui fait remarquer qu’elle l’a déjà fait ; une cliente les regarde.",
+   "development": "Difficulté d’attention : maintenir le fil d’une tâche et la reprendre après une interruption, différente d’une perte de mémoire globale. L’explication part de l’attention comme fil tendu entre deux étapes, puis revient au bac recommencé. Trois appuis : un marque-page « où j’en suis », des interruptions mises en attente pendant la séance, une étape cochée sur la fiche avant de répondre à quelqu’un.",
+   "ending": "Mona glisse un marque-page dans le bac et demande à Kilian de prendre le téléphone et les remboursements pendant les séances de transmission. La séance suivante se fait avant l’ouverture.",
+   "next": "Le conseil installe un nouveau logiciel de caisse : il faudra apprendre une procédure qu’elle n’a jamais faite.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "antinori-2007",
+    "cns-anrs-comorbidites-2024"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 4,
+   "focus": "Apprendre une procédure nouvelle à la caisse",
+   "scene": "Le prestataire forme l’équipe au nouveau logiciel de caisse pendant deux heures, un lundi soir. Les coopérateurs prennent des notes, rient des menus. Mona refait sans y penser les gestes de l’ancien système et oublie, dix minutes après l’explication, comment enregistrer un avoir. Elle reconnaît pourtant l’écran dès qu’on lui montre le bouton. En rentrant, elle dit à Rozenn qu’elle n’y arrivera jamais.",
+   "development": "Difficulté d’apprentissage d’informations nouvelles, décrite dans cette démence, alors que les savoir-faire anciens restent disponibles et que les indices aident à retrouver. L’explication part du contraste entre l’ancien geste automatique et la nouvelle étape qui glisse, puis revient à l’avoir oublié. Trois appuis : une fiche-étapes plastifiée avec captures, un entraînement répété au calme, la possibilité de choisir ce que l’on apprend. Mention de la réadaptation cognitive avec un professionnel comme piste à discuter.",
+   "ending": "Mona s’entraîne deux fois avant l’ouverture avec la fiche-étapes, puis décide de laisser la caisse et le logiciel à Kilian. Elle garde ce qu’elle veut transmettre : le rangement.",
+   "next": "Au conseil collégial, Hélène va pourtant lui proposer de reprendre davantage de tâches qu’elle n’en a laissé.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "cns-comorbidites-2019",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 5,
+   "focus": "Un fonctionnement maintenu au prix d’efforts épuisants",
+   "scene": "Au conseil collégial, Hélène propose que Mona garde les commandes du samedi, forme trois nouveaux bénévoles et prépare l’inventaire de fin de trimestre. Flattée, Mona accepte. Le samedi suivant, elle tient : listes doublées, vérifications triples, pause sautée. Aucun client ne remarque rien. À dix-neuf heures, Rozenn la trouve endormie tout habillée sur le canapé, la liste des commandes encore dans la main.",
+   "development": "Dans une démence légère, le fonctionnement peut n’être maintenu qu’au prix d’efforts supplémentaires importants et de stratégies de compensation ; les difficultés restent invisibles pour ceux qui connaissent peu la personne. L’explication part de ce coût caché, puis revient au samedi réussi qui la laisse vidée. Trois appuis : mesurer le coût d’une tâche et non seulement sa réussite, distinguer ce qu’elle veut garder de ce qu’elle accepte par fierté, prévoir un temps de récupération.",
+   "ending": "Le dimanche, Mona dit à Rozenn qu’elle a accepté trop. Elle décide de revenir sur l’accord du samedi, sans savoir encore comment le dire au conseil sans parler de sa santé.",
+   "next": "Il faudra demander à Hélène des aménagements concrets sans dévoiler le diagnostic.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "antinori-2007",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 6,
+   "focus": "Dire ses besoins sans dévoiler son diagnostic",
+   "scene": "Dans le petit bureau derrière la caisse, Mona a préparé trois phrases sur une fiche : une seule tâche par service, les demandes par écrit, plus de commandes du samedi. Hélène écoute, puis demande doucement : « Tu es malade ? Tu peux nous le dire. » Mona sent la question lui serrer la gorge. Elle répond que c’est médical, qu’elle n’en dira pas plus, et revient à ses trois besoins.",
+   "development": "La confidentialité du statut de santé est un droit : la personne peut exprimer des besoins concrets sans divulguer son diagnostic, et l’état de santé est un critère de discrimination prohibé. L’explication part de la différence entre besoin d’organisation et information médicale, puis revient à la question d’Hélène. Trois appuis : préparer des besoins observables, une phrase de limite polie et répétable, une trace écrite de l’accord. Le Défenseur des droits est mentionné comme recours, sans conflit dans la scène.",
+   "ending": "Hélène accepte de retirer les commandes du samedi et de passer les demandes par écrit. Pour ses horaires de salariée, Mona comprend qu’il faut un autre interlocuteur que le conseil et prend rendez-vous elle-même à la médecine du travail.",
+   "next": "La visite à la médecine du travail doit déboucher sur un aménagement écrit sans diagnostic transmis à l’association.",
+   "source_refs": [
+    "oms-cddr",
+    "service-public-discrimination",
+    "service-public-secret-medical",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 7,
+   "focus": "Aménager son temps de travail avec la médecine du travail",
+   "scene": "Au service de santé au travail, la docteure Lemaître écoute Mona décrire ses journées : les matinées où elle est efficace, les fins d’après-midi où les erreurs s’accumulent, la clôture de caisse qu’elle redoute. Mona a apporté, avec son accord, un courrier du docteur Achard. Elle demande ce que l’association saura. La médecin lui explique ce qu’elle peut écrire et ce qu’elle n’écrira pas.",
+   "development": "Le salarié peut solliciter lui-même la médecine du travail ; le médecin du travail peut proposer des aménagements du poste et du temps de travail et ne communique pas à l’employeur les informations médicales recueillies. L’explication part de ce circuit, puis revient aux matinées et aux fins d’après-midi de Mona. Trois appuis : décrire des situations de travail précises, discuter des propositions avant leur envoi, garder une copie de la proposition écrite.",
+   "ending": "La proposition écrite recommande un mi-temps le matin et pas de clôture de caisse seule, sans diagnostic. Hélène et Kilian l’appliquent. Mona décide aussi de quitter son poste salarié à la fin de l’année pour rester coopératrice.",
+   "next": "À la consultation de suivi, Mona signale que certains mois sont plus difficiles ; le docteur Achard va poser d’autres questions que celles qu’elle attendait.",
+   "source_refs": [
+    "oms-cddr",
+    "service-public-medecine-travail",
+    "service-public-secret-medical",
+    "oms-cddr-hrb"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 8,
+   "focus": "Rechercher ce qui d’autre pèse sur la cognition",
+   "scene": "Au CHU, Mona raconte au docteur Achard un mois plus brumeux que les autres. Elle s’attend à ce qu’il dise « c’est le VIH ». Il lui pose plutôt des questions sur son sommeil, son humeur, sa tension et ce qu’elle boit. Mona s’agace : pourquoi chercher ailleurs ? Rozenn, venue avec son accord, hésite à parler des pauses de respiration qu’elle entend la nuit.",
+   "development": "Chez une personne vivant avec le VIH, les difficultés cognitives peuvent être aggravées par d’autres facteurs contributifs (sommeil, humeur, facteurs vasculaires, autres affections), que les recommandations demandent de rechercher systématiquement. L’explication part de cette recherche, puis revient à l’agacement de Mona. Trois appuis : préparer avec la personne ce qu’on veut signaler, laisser l’équipe interpréter, distinguer un fait observé d’une conclusion. Aucun résultat d’examen annoncé à la place des soignants.",
+   "ending": "Mona demande à Rozenn de dire ce qu’elle a entendu la nuit. Le docteur Achard l’oriente vers un examen du sommeil et un dépistage de l’humeur. Mona accepte, sans être sûre que cela change quoi que ce soit.",
+   "next": "Le passage au mi-temps a bouleversé ses matinées, et avec elles l’heure de son traitement.",
+   "source_refs": [
+    "oms-cddr",
+    "cns-anrs-comorbidites-2024",
+    "eacs-2023",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 9,
+   "focus": "Garder le fil de son traitement quotidien",
+   "scene": "Un mercredi, premier jour du nouvel horaire, Mona part au magasin plus tard qu’avant. À dix heures, entre deux bacs, elle ne sait plus si elle a pris son traitement du matin. La boîte est restée à la maison. Elle pense appeler Rozenn pour qu’elle vérifie, puis se ravise : elle ne veut pas que sa compagne devienne la gardienne de ses comprimés. Elle appelle la pharmacie.",
+   "development": "Les troubles neurocognitifs peuvent fragiliser l’observance du traitement, surtout quand une routine change ; l’accompagnement de l’observance fait partie de la prise en charge. L’explication part du lien entre routine et mémoire de la prise, puis revient au doute de dix heures. Trois appuis : relier la prise à un geste fixe, un pilulier qu’elle remplit elle-même, appeler l’équipe ou la pharmacie en cas de doute plutôt que décider seule. Aucun nom de médicament, aucune dose, aucune conduite à tenir chiffrée.",
+   "ending": "La pharmacienne lui dit d’en parler avec l’équipe, qui lui donne la conduite à tenir. Mona achète un pilulier semainier et relie l’alarme de son téléphone au café du matin. Rozenn n’a rien à vérifier.",
+   "next": "Dans le bureau du magasin, le pilulier oublié sur le bureau va exposer Mona à une question qu’elle redoutait.",
+   "source_refs": [
+    "oms-cddr",
+    "cns-comorbidites-2019",
+    "eacs-2023",
+    "cns-anrs-comorbidites-2024"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 10,
+   "focus": "Stigmatisation du VIH et peur d’être exposée",
+   "scene": "Un coopérateur trouve le pilulier sur le bureau et plaisante devant le rayon vrac : « On sait au moins ce qu’on mange ici ? » Personne ne relève, mais Mona sent la peur d’autrefois revenir : être découverte, qu’on la regarde servir la farine autrement. Elle pense tout arrêter. Perrine, qui range les bocaux à côté, remarque son visage fermé et lui propose un café dans la réserve.",
+   "development": "La stigmatisation du VIH pèse sur la vie sociale et peut rendre la révélation risquée ; elle repose souvent sur des craintes infondées, puisque le virus ne se transmet pas par les contacts ordinaires ni par le partage de nourriture. Personne n’est tenu de révéler son statut à la coopérative. L’explication part de cette peur, puis revient à la plaisanterie du vrac. Trois appuis : distinguer le danger réel de la crainte, choisir librement à qui dire et quoi, préparer une réponse aux remarques.",
+   "ending": "Dans la réserve, Mona choisit de tout dire à Perrine, et à elle seule. Perrine écoute, garde le secret et propose d’être son relais au magasin. Le pilulier reste désormais dans le sac de Mona.",
+   "next": "Quelques semaines plus tard, c’est Perrine qui trouvera Mona dans la réserve, dans un état qu’elle ne lui a jamais vu.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-vih-aide-memoire",
+    "service-public-discrimination",
+    "eacs-2023"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 11,
+   "focus": "Confusion soudaine avec fièvre : un avis urgent",
+   "scene": "Un jeudi matin, Perrine trouve Mona assise sur une caisse dans la réserve, brûlante, qui ne sait plus quel jour on est et demande où sont passés les livreurs d’il y a dix ans. La veille, elle allait bien. Kilian propose d’attendre que ça passe : « c’est peut-être sa fatigue ». Perrine compose le 15, répond aux questions du régulateur et appelle Rozenn ensuite.",
+   "development": "Un changement brutal de l’attention, de l’orientation et de la conscience n’est pas l’évolution attendue d’une démence : il évoque un delirium, dont le risque est accru, et demande une évaluation urgente de sa cause. L’explication part de la différence entre changement lent et changement soudain, puis revient à la réserve. Trois appuis : repérer la rupture avec la veille, appeler le 15 sans attendre, transmettre les contacts et les faits observés. L’origine n’est pas présumée à partir du diagnostic connu.",
+   "ending": "Mona est hospitalisée quelques jours ; l’équipe recherche et traite la cause. À son retour, encore fatiguée, elle remercie Perrine et glisse dans son sac une carte avec les numéros de Rozenn et du service, sans diagnostic écrit.",
+   "next": "La fin de l’année approche, avec la fin de son contrat, un bilan de contrôle et la question de sa place future au magasin.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "service-public-15",
+    "cns-anrs-comorbidites-2024"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 12,
+   "focus": "Une évolution variable et une présence choisie",
+   "scene": "Décembre. Mona passe son bilan de contrôle avec Mme Guéret, qui lui explique que certains points ont bougé, d’autres non, et qu’elle ne peut pas lui prédire la suite. Le soir de son départ, au Panier de Chantenay, Kilian présente le classeur vert à l’équipe et montre qu’il l’a déjà mis à jour. Hélène demande à Mona ce qu’elle veut faire maintenant. Mona a préparé sa réponse.",
+   "development": "L’évolution de cette démence varie : déclin progressif, amélioration ou fluctuations dans le temps, un déclin rapide étant rare avec les traitements antirétroviraux ; aucun pronostic individuel ne se déduit d’une scène. Planifier tôt et réviser ses souhaits permet de garder la main. L’explication part de cette incertitude, puis revient au classeur et au départ. Trois appuis : choisir une présence limitée et révisable, écrire ses souhaits avec l’équipe, dire à qui s’adresser si les besoins changent.",
+   "ending": "Mona choisit deux matinées par mois au rayon vrac avec Perrine. Elle a écrit ses souhaits pour la suite, révisables, avec Rozenn et le docteur Achard. Elle quitte son poste et reste coopératrice, sans savoir comment les mois suivants évolueront.",
+   "next": "Fin de la série : le classeur vit sans elle, et Mona continue de choisir ce qu’elle partage et le temps qu’elle donne.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "cns-anrs-comorbidites-2024"
+   ],
+   "diagnostic_stage": "known"
+  }
+ ]
+}
