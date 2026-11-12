@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 805,
+  "revision": 811,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5096,9 +5096,9 @@
     "sylvain": {
       "character_id": "sylvain",
       "code": "6D34",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "60b2f138d99442d18a1611de44859ed5",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_sylvain"
@@ -5140,31 +5140,20 @@
           }
         },
         "review": {
-          "job_id": "46184a48702445268124f99a237227e1",
+          "job_id": "60b2f138d99442d18a1611de44859ed5",
           "owner": "review_sylvain",
-          "validated_at": "2026-11-12T10:28:36Z",
+          "validated_at": "2026-11-12T10:30:35Z",
           "validation": {
             "character_id": "sylvain",
             "files": {
               "editorial/clinical/designs/sylvain.json": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
               "editorial/clinical/dossiers/sylvain.json": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
-              "editorial/clinical/sylvain.json": "369b49745ede4de6d5b7ade166f93eb9c572017193cb4814722ffcb7da140c39",
-              "editorial/clinical/reviews/sylvain.json": "d674c495112c5f4a21fb3a83cf5339772c3fd46634dde4b898cebd3736f3bf78"
+              "editorial/clinical/sylvain.json": "d936b7e15af621fdfe66d07fa9d73caca105bffb40b9836c5afd179b9def9d0a",
+              "editorial/clinical/reviews/sylvain.json": "23dee71b8db5db34c8f3c5e6e6c16f6e2de381b5f04a52b113e75a1b19c1866d"
             },
             "episodes": 12,
-            "status": "revision_requested",
-            "findings": [
-              {
-                "episode": 7,
-                "issue": "La correction précédente n’a été appliquée qu’à l’ouverture : dans la section « Comment garder une place à ce qui est nouveau ? », le second exemple de « Une observation diffère de la période précédente » dit encore « Il distingue cette fatigue de ce qu’il avait déjà rapporté », ce qui réintroduit une fatigue décrite antérieurement au suivi, absente des épisodes 1 à 6.",
-                "requested_change": "Aligner l’exemple sur l’ouverture corrigée, par exemple « Il distingue cette fatigue de sa fatigue habituelle après une journée à l’atelier »."
-              },
-              {
-                "episode": 1,
-                "issue": "Raccord sur la sélection : l’ouverture dit « Six photographies de végétaux déjà prises doivent former un carnet », puis « Il lui reste à choisir les autres ». Un lecteur comprend que les six images sont déjà fixées, alors que la sélection est encore en cours en 8 (« Il doit choisir celles qui formeront le carnet », « il termine la sélection des six images ») et en 9 (« si la sélection avance »).",
-                "requested_change": "Reformuler pour indiquer que le carnet réunira six images choisies parmi ses photographies de végétaux déjà prises, la feuille de hêtre ouvrant le carnet, et qu’il lui reste à choisir les autres et à rédiger les légendes."
-              }
-            ],
+            "status": "passed",
+            "findings": [],
             "reviewer": "review_sylvain"
           }
         }
@@ -5176,19 +5165,7 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      },
-      "findings": [
-        {
-          "episode": 7,
-          "issue": "La correction précédente n’a été appliquée qu’à l’ouverture : dans la section « Comment garder une place à ce qui est nouveau ? », le second exemple de « Une observation diffère de la période précédente » dit encore « Il distingue cette fatigue de ce qu’il avait déjà rapporté », ce qui réintroduit une fatigue décrite antérieurement au suivi, absente des épisodes 1 à 6.",
-          "requested_change": "Aligner l’exemple sur l’ouverture corrigée, par exemple « Il distingue cette fatigue de sa fatigue habituelle après une journée à l’atelier »."
-        },
-        {
-          "episode": 1,
-          "issue": "Raccord sur la sélection : l’ouverture dit « Six photographies de végétaux déjà prises doivent former un carnet », puis « Il lui reste à choisir les autres ». Un lecteur comprend que les six images sont déjà fixées, alors que la sélection est encore en cours en 8 (« Il doit choisir celles qui formeront le carnet », « il termine la sélection des six images ») et en 9 (« si la sélection avance »).",
-          "requested_change": "Reformuler pour indiquer que le carnet réunira six images choisies parmi ses photographies de végétaux déjà prises, la feuille de hêtre ouvrant le carnet, et qu’il lui reste à choisir les autres et à rédiger les légendes."
-        }
-      ]
+      }
     },
     "loubna": {
       "character_id": "loubna",
@@ -5574,12 +5551,14 @@
       "code": "6D72",
       "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "3b3645c5bf71478dabf0103d5a6b4b7d",
       "owners": {
         "character": [
           "personnage_bilal"
         ],
-        "story": [],
+        "story": [
+          "story_bilal"
+        ],
         "review": []
       },
       "revision_rounds": 0,
@@ -107961,10 +107940,24 @@
         }
       },
       "snapshot_sha256": "111682885aa98f6bef2be65223100ca41cfde642dd54c2952cfa7116db3b7873",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "c35af4d7bdffb7e0e2931cae3776817ff2c22b9adbaf4fceb4300a344898b827",
       "heartbeat_at": "2026-11-12T10:29:45Z",
-      "expires_at": "2026-11-12T11:29:45Z"
+      "expires_at": "2026-11-12T11:29:45Z",
+      "finished_at": "2026-11-12T10:30:35Z",
+      "validation": {
+        "character_id": "sylvain",
+        "files": {
+          "editorial/clinical/designs/sylvain.json": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+          "editorial/clinical/dossiers/sylvain.json": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+          "editorial/clinical/sylvain.json": "d936b7e15af621fdfe66d07fa9d73caca105bffb40b9836c5afd179b9def9d0a",
+          "editorial/clinical/reviews/sylvain.json": "23dee71b8db5db34c8f3c5e6e6c16f6e2de381b5f04a52b113e75a1b19c1866d"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_sylvain"
+      }
     },
     "55bafd6fb9e747399e9c4e4a988e91ca": {
       "id": "55bafd6fb9e747399e9c4e4a988e91ca",
@@ -108379,7 +108372,411 @@
       "token_sha256": "2b1b0299c58ae886458e3f844db54c540fda991126d9bec10203f4d9b40bba5b",
       "heartbeat_at": "2026-11-12T10:29:45Z",
       "expires_at": "2026-11-12T11:29:45Z"
+    },
+    "3b3645c5bf71478dabf0103d5a6b4b7d": {
+      "id": "3b3645c5bf71478dabf0103d5a6b4b7d",
+      "character_id": "bilal",
+      "role": "story",
+      "owner": "story_bilal",
+      "created_at": "2026-11-12T10:30:33Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "101b6ee850555f94233d2fc2df24d556bdff3a35655aa9ce082fa6613f147324",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "65f69034e51733a15a24b9e93e3fc8beb7ce545db7736d81a160a52218a3f6e1",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/bilal.json": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+          "editorial/clinical/dossiers/bilal.json": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-bilal",
+            "character": {
+              "id": "bilal",
+              "name": "Bilal",
+              "code": "6D72",
+              "related_codes": [
+                "6D72.0",
+                "6D72.1",
+                "6D72.10",
+                "6D72.11",
+                "6D72.12",
+                "6D72.13"
+              ],
+              "wave": 21,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 54,
+                "setting": "Sculpteur sur bois, revient à son atelier après un problème de santé évalué.",
+                "independent_goal": "Achever un banc collectif en gardant des repères accessibles à tous les participants.",
+                "tension": "Ses compétences manuelles restent disponibles, mais des informations récentes lui échappent et il préfère un rappel écrit.",
+                "supports": "Associée Martine et équipe de réadaptation.",
+                "trajectory": "Teste des façons de garder les décisions visibles, apprend à indiquer quand il lui faut de l'aide et délègue des tâches choisies.",
+                "guardrail": "Distinguer l'amnésie d'étiologies médicales et les tableaux dissociatifs. Aucun test à domicile ni évocation suggestive.",
+                "occupation": "sculpteur sur bois"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#386330688",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Bilal, 54 ans, est sculpteur sur bois ; il partage avec son associée Martine Roussel un atelier de la rue des Tanneurs, à Tours, où il revient après un problème de santé évalué dont il garde la cause pour lui et pour son équipe de réadaptation (Hugo Marchal, ergothérapeute, et la docteure Anne Vasseur, neuropsychologue). Son trouble amnésique est déjà diagnostiqué : les informations nouvelles et récentes lui échappent, alors que ses savoirs anciens de sculpteur et son raisonnement restent disponibles ; il préfère un rappel écrit à une explication répétée. Son projet indépendant est un banc collectif en chêne de trois mètres pour le jardin partagé de la maison de quartier, construit avec six habitants coordonnés par Odile, animatrice de la maison de quartier, dont Jonas, 24 ans, apprenti menuisier ; chaque participant sculpte une latte du dossier, chaque décision est notée sur l’ardoise noire de l’atelier et dans un carnet à spirale rouge qu’il garde dans la poche de son tablier. Il dit volontiers : le bois se souvient des coups, moi je note. Samia, sa femme, professeure de mathématiques, refuse de devenir son agenda ; leur fille Inès, 27 ans, vit à Lyon ; son frère Nordine, chaleureux et insistant, croit qu’il suffirait de se concentrer. Le récit montre une présentation possible du trouble, sans étiologie inventée, sans substance, sans test à domicile ni évocation suggestive, sans pronostic ni promesse d’amélioration. Les adaptations sont des choix discutés et révisables ; les proches ne sont ni évaluateurs ni secrétaires. Décisions qui se suivent : ardoise des décisions (1), carnet rouge sur le moment (3), demande de récapitulatif écrit à Martine (4), journée découpée et pause fixe (5), bilan de suivi en tenant compte de sa langue (6), apprentissage guidé de la nouvelle défonceuse (7), un seul rappel téléphonique choisi (8), carnet familial partagé (9), refus des questions pièges de Nordine (10), délégation du perçage et de la commande de quincaillerie à Martine et Jonas (11), fiche des étapes affichée et banc achevé avec tous les participants (12). À la fin, le banc est posé au jardin, l’ardoise reste un outil commun, et Bilal envisage un prochain projet sans que sa mémoire soit déclarée guérie.",
+            "dossier": {
+              "name": "Trouble amnésique",
+              "aliases": [
+                "6D72",
+                "Amnestic disorder",
+                "Trouble amnésique dû à des maladies classées ailleurs"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6d72",
+                "oms-cddr-hrb",
+                "nice-ng236",
+                "incog-memoire-2023",
+                "cicerone-2019",
+                "service-public-urgences"
+              ],
+              "points": [
+                "Vérification individuelle du 12 novembre 2026 : lecture du texte original anglais des CDDR (PDF OMS au dépôt HRB, extrait localement), pages imprimées 599–602 (introduction du groupe, considérations culturelles et liées au sexe ou au genre), 611 (frontière du trouble neurocognitif léger avec le trouble amnésique) et 612–616 (6D72 et sous-catégories). Lien MMS 2026-01 consulté : interface dynamique sans extraction du texte ; l’intitulé français Trouble amnésique et les libellés des sous-codes sont repris du registre canonique local. Les paraphrases françaises ci-dessous ne sont pas une traduction officielle.",
+                "CDDR p.612, exigences essentielles : altération marquée de la mémoire par rapport à ce qui est attendu pour l’âge et au niveau neurocognitif antérieur, en l’absence d’autre altération neurocognitive significative ; déclin net par rapport au fonctionnement antérieur ; capacité réduite à acquérir, apprendre et/ou retenir des informations nouvelles. Les preuves associent les informations de la personne, d’un informateur ou l’observation clinique et une performance mnésique nettement altérée aux tests neuropsychologiques standardisés ou, à défaut, à une autre évaluation clinique quantifiée. Le diagnostic de Bilal est établi avant la série ; aucun lecteur ni proche ne peut s’en servir pour conclure sur soi ou sur un tiers.",
+                "CDDR p.612 : les symptômes ne sont pas mieux expliqués par une perturbation de la conscience, un état mental modifié, un ictus amnésique transitoire (au plus 48 heures, le plus souvent résolu en 6 heures), un délirium, une démence, une intoxication ou un sevrage, ou un autre trouble mental (trouble psychotique, trouble de l’humeur, trouble de stress post-traumatique, trouble dissociatif). Le retentissement est significatif dans la vie personnelle, familiale, sociale, professionnelle ; dans les formes légères, le fonctionnement n’est maintenu qu’au prix d’un effort supplémentaire important, par exemple des stratégies compensatoires. L’effort de Bilal pour tenir l’atelier est donc un aspect réel du trouble, non un manque de volonté.",
+                "CDDR p.613, caractéristiques additionnelles : l’incapacité à rappeler des informations apprises auparavant peut exister ou non ; la mémoire récente est typiquement plus atteinte que la mémoire ancienne ; la capacité à rappeler immédiatement une quantité limitée d’informations est habituellement relativement préservée. Le récit peut montrer Bilal répéter correctement une cote sur le moment puis ne plus la retrouver plus tard, et garder l’accès à des savoirs anciens du métier. Les CDDR ne parlent pas explicitement de mémoire des gestes ou mémoire procédurale : la conservation des compétences manuelles vient du canon et ne doit pas être présentée comme une règle du trouble.",
+                "CDDR p.613 : les plaintes subjectives ne correspondent pas toujours à l’altération mesurée, du fait d’une conscience modifiée des difficultés, d’une perception erronée de ses capacités ou d’une mauvaise attribution de la source des symptômes ; une personne peut aussi ne pas reconnaître ou signaler des oublis présents. Le récit montre ce décalage sans faire de Bilal quelqu’un qui nie, et sans transformer Martine ou sa famille en évaluateurs. Les tests ou l’évaluation quantifiée peuvent être nécessaires pour préciser l’ampleur, le profil et la distinction avec d’autres troubles neurocognitifs.",
+                "CDDR p.613, seuil de normalité : le vieillissement normal s’accompagne de certains changements de mémoire ; le diagnostic ne s’applique pas si la performance correspond aux normes de l’âge. Bilal a 54 ans : ne pas présenter tout oubli à cet âge comme pathologique ni inviter le lecteur à comparer ses propres oublis. Note p.613 et p.615 : lorsque le trouble est dû à une maladie, affection ou lésion classée ailleurs, le code de cette cause est attribué en plus.",
+                "CDDR pp.613–614, évolution : début brutal (par exemple accident vasculaire cérébral ou traumatisme) ou progressif (substances, carences nutritionnelles) ; symptômes relativement stables ou progressifs selon la cause ; amélioration possible dans certains cas selon l’étiologie et les traitements disponibles ; quand l’altération s’aggrave progressivement, elle peut précéder une démence. Le canon parle d’un problème de santé évalué suivi d’un retour à l’atelier avec une équipe de réadaptation : la cause médicale est connue de l’équipe et Bilal choisit de ne pas la détailler. Ne pas inventer d’étiologie, de pronostic, de guérison ni de déclin annoncé ; aucun lien avec l’alcool, un médicament ou une autre substance. Les sous-codes 6D72.1x rattachés au personnage par le registre sont des renvois de classification, pas des éléments de son histoire.",
+                "CDDR pp.601–602 et p.614 : la performance lors de l’évaluation varie selon des facteurs culturels et linguistiques (items étrangers à une culture, limites de traduction et d’adaptation, compréhension des consignes) ; les tests doivent être normés pour la population concernée, faute de quoi le jugement clinique prend plus de place ; les attentes familiales et sociales face aux changements cognitifs varient, et un entourage qui compense peut masquer les difficultés. Les facteurs liés au sexe ou au genre sont aussi à considérer. Bilal parle français et l’arabe de sa famille ; le bilan de suivi peut en tenir compte sans que le récit livre d’items de test, de score ou de seuil.",
+                "CDDR pp.614–615, frontières : le délirium se distingue par une perturbation de l’attention, de l’orientation et de la vigilance avec confusion importante ou atteinte globale ; le trouble neurocognitif léger par un déclin léger avec peu ou pas de retentissement, souvent non limité à la mémoire ; la démence par l’atteinte d’au moins deux domaines cognitifs. L’amnésie dissociative concerne l’impossibilité de rappeler des souvenirs autobiographiques importants, typiquement d’événements récents traumatiques ou stressants, incompatible avec l’oubli ordinaire et souvent précédée d’un facteur de stress ; le trouble amnésique touche sélectivement l’apprentissage d’informations nouvelles, avec relative préservation du passé. L’ictus amnésique transitoire est temporaire, le trouble amnésique persistant. Ces distinctions appartiennent aux cliniciens : aucun proche ne cherche une cause émotionnelle, aucune évocation suggestive ne tente de faire revenir un souvenir.",
+                "CDDR pp.615–616 : 6D72.0 suppose des preuves issues de l’histoire, de l’examen ou des examens complémentaires qu’une affection médicale capable de produire une altération mnésique en est la cause, avec une évolution compatible ; exemples cités : maladies du système nerveux (accident vasculaire cérébral ischémique, épilepsie, encéphalopathie hypoxique-ischémique), lésion intracrânienne, infections comme la méningite, maladies endocriniennes, métaboliques, tumeurs, carences en vitamine B1 ou B12. La liste n’est jamais déroulée dans un article comme grille de recherche de cause.",
+                "Changement brutal : un nouvel état de confusion, de somnolence inhabituelle ou un changement soudain ne doit pas être attribué au trouble connu ; il relève d’un avis médical rapide et, en cas d’urgence, du 15 (Samu) ou du 112, le 114 étant accessible par application, internet ou SMS aux personnes sourdes, malentendantes ou aphasiques (Service Public, page vérifiée le 25 août 2026). La série ne met pas en scène d’urgence pour Bilal ; cette règle figure dans les continuités et les conseils, non comme épisode.",
+                "NICE NG236, recommandations lues le 12 novembre 2026 : 1.5.1 dépistage puis évaluation détaillée avant un programme ; 1.5.2 éducation et soutien de la personne et de ses proches pour comprendre l’ampleur et l’impact des troubles cognitifs, qui peuvent varier selon le moment et le lieu ; 1.5.5 évaluer la mémoire lorsque l’altération affecte la vie quotidienne ; 1.5.6 interventions centrées sur les tâches fonctionnelles : conscience de l’altération, apprentissage sans erreur et techniques d’élaboration, aides externes (agendas, listes, calendriers, alarmes), stratégies d’environnement (routines, repères) ; 1.2.19–1.2.20 séances liées aux objectifs de la personne, adaptées à la fatigue et à l’humeur, avec son accord, et implication des proches quand c’est approprié ; 1.16.4–1.16.5 analyser les exigences du métier, adapter les stratégies de mémoire, aménagements et reprise progressive. Limite : guideline britannique propre à l’accident vasculaire cérébral ; le canon ne nomme pas la cause, ces repères sont transposés comme principes de réadaptation, sans droit du travail français ni dispositif britannique.",
+                "INCOG 2.0 partie V mémoire (résumé PubMed lu ; texte intégral sous abonnement, non consulté) : recommandations pour le traumatisme crânien modéré à sévère ; stratégies compensatoires internes individuelles ou multiples ; stratégies externes comme stratégie principale en cas d’altération sévère, avec préférence pour les rappels électroniques ; enseignement des stratégies adapté aux besoins fonctionnels et contextuels en limitant les erreurs ; entraînement informatique seulement guidé par un thérapeute ; médicaments et stimulation non transposés. Cicerone 2019 (résumé PubMed lu) : revue systématique traumatisme crânien et accident vasculaire cérébral ; standard de pratique pour les stratégies compensatoires des déficits mnésiques légers et pour la réadaptation neuropsychologique globale. Limites : populations définies par la cause, hétérogènes, niveau de preuve variable ; aucune efficacité, durée ou taux n’est promis à Bilal ; ses choix (ardoise, carnet rouge, rappel téléphonique, essais guidés) sont des arrangements fictifs discutés avec son équipe, pas des protocoles validés.",
+                "Proches et partenaires : Martine est associée, pas soignante ; Samia, Inès, Nordine et les participants du banc ne testent pas la mémoire de Bilal, ne lui posent pas de questions pièges et ne décident pas à sa place. Les informations de santé ne sont partagées qu’avec son accord et au niveau utile à la tâche ; il peut dire qu’il a besoin d’un rappel écrit sans expliquer sa cause. L’équipe de réadaptation évalue et ajuste ; les proches peuvent proposer une aide, la limiter et passer le relais.",
+                "Architecture des douze aspects, distincte des parcours d’Armand (démence, plusieurs domaines, désorientation, recherche de mots, confusion soudaine, retour d’hôpital) et de Mireille (déclin léger sans retentissement significatif, attention, planification, mot cherché, intentions) : 1 acquisition d’une information nouvelle (manifestation centrale) ; 2 contraste mémoire ancienne et récente, autres capacités préservées (profil) ; 3 rappel immédiat préservé puis perte après délai (mécanisme) ; 4 conscience modifiée des oublis (caractéristique additionnelle) ; 5 effort compensatoire et fatigue (retentissement, seuil des formes légères) ; 6 bilan de suivi et facteurs culturels et linguistiques (évaluation) ; 7 apprentissage sans erreur d’une procédure nouvelle (réadaptation) ; 8 choix d’aides externes (réadaptation) ; 9 lacunes dans les nouvelles familiales (retentissement familial) ; 10 questions insistantes et frontière dissociative (différentiel, garde-fou) ; 11 délégation et évolution stable incertaine (retentissement professionnel, évolution) ; 12 repères visibles partagés et participation (projet). Ce ne sont pas douze symptômes : chaque scène montre la difficulté avant la démarche pratique."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6d72": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6D72 Trouble amnésique, lien canonique français",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#386330688"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, ISBN 9789240077263, groupe des troubles neurocognitifs pages imprimées 599–602, 611 et 612–616 (6D72) ; document original au dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "nice-ng236": {
+                "title": "NICE NG236, Stroke rehabilitation in adults (2023), recommandations 1.2.19–1.2.20, 1.5.1–1.5.2, 1.5.5–1.5.6 et 1.16.4–1.16.5",
+                "url": "https://www.nice.org.uk/guidance/ng236/chapter/Recommendations"
+              },
+              "incog-memoire-2023": {
+                "title": "Velikonja et al., INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury, Part V: Memory, J Head Trauma Rehabil 2023;38(1):83–102, DOI 10.1097/HTR.0000000000000837 (résumé PubMed 36594861)",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36594861/"
+              },
+              "cicerone-2019": {
+                "title": "Cicerone et al., Evidence-Based Cognitive Rehabilitation: Systematic Review of the Literature From 2009 Through 2014, Arch Phys Med Rehabil 2019;100(8):1515–1533, DOI 10.1016/j.apmr.2019.02.011 (résumé PubMed 30926291)",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30926291/"
+              },
+              "service-public-urgences": {
+                "title": "Service Public, numéros d’urgence : urgence médicale le 15 (Samu), le 112, le 114 pour les personnes sourdes, malentendantes ou aphasiques (vérifié le 25 août 2026)",
+                "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/bilal.json",
+              "dossier": "editorial/clinical/dossiers/bilal.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "bilal",
+            "code": "6D72",
+            "article_format": 2,
+            "bio": "Bilal, 54 ans, est sculpteur sur bois et reprend l’atelier qu’il partage avec son associée Martine après un problème de santé évalué. Son trouble amnésique est déjà diagnostiqué : les informations nouvelles lui échappent alors que ses savoirs anciens du métier restent disponibles. Il construit avec six habitants un banc collectif pour le jardin de la maison de quartier. Avec son équipe de réadaptation, il teste des façons de garder les décisions visibles, apprend à dire quand il lui faut un rappel écrit et choisit les tâches qu’il délègue.",
+            "profile_topics": [
+              "Trouble amnésique",
+              "Retenir les informations nouvelles",
+              "Effort de compensation",
+              "Aides externes choisies",
+              "Décisions visibles et partagées"
+            ],
+            "voice": "Une parole d’artisan, concrète, lente quand il le faut, avec un humour sobre sur le bois qui garde la trace des coups pendant que lui doit noter. Bilal parle de fil du bois, de tenons et de copeaux plutôt que de mémoire ; il dit ce dont il a besoin sans se justifier et refuse qu’on parle de lui à la troisième personne quand il est dans la pièce.",
+            "series_goal": "Achever et poser au jardin de la maison de quartier le banc collectif en chêne, avec les lattes sculptées des six participants, en gardant toutes les décisions visibles et accessibles à chacun, et en déléguant les tâches que Bilal choisit sans perdre sa place de sculpteur.",
+            "continuity_rules": [
+              "Diagnostic établi avant la série : known aux douze épisodes. Âge 54 ans, métier de sculpteur sur bois, atelier partagé avec Martine rue des Tanneurs à Tours, retour après un problème de santé évalué. La cause est connue de l’équipe et Bilal ne la détaille pas ; aucune étiologie, substance, alcool, médicament, comorbidité, pronostic ou guérison n’est inventé.",
+              "Objets fixes : l’ardoise noire des décisions à côté de l’établi (dès l’épisode 1), le carnet à spirale rouge dans la poche du tablier (dès l’épisode 3), le plan du banc de trois mètres en chêne avec six lattes de dossier sculptées par les participants, la défonceuse neuve (épisode 7), le rappel téléphonique unique du mardi (épisode 8), le carnet familial sur le buffet (épisode 9), la fiche des étapes affichée au jardin (épisode 12).",
+              "Entourage : Martine Roussel, associée et ébéniste, n’est ni soignante ni secrétaire ; Samia, femme de Bilal et professeure de mathématiques, refuse de devenir son agenda ; Inès, leur fille de 27 ans, vit à Lyon ; Nordine, son frère, aime insister ; Odile anime la maison de quartier et coordonne les six habitants, dont Jonas, 24 ans, apprenti menuisier, et Rachid, retraité de la voirie. Hugo Marchal, ergothérapeute, et la docteure Anne Vasseur, neuropsychologue, forment l’équipe de réadaptation.",
+              "Personne ne teste la mémoire de Bilal à la maison ou à l’atelier, ne pose de question piège et ne tente de faire revenir un souvenir par suggestion. Les informations de santé ne circulent qu’avec son accord et au niveau utile à la tâche ; dire qu’il lui faut un rappel écrit ne l’oblige pas à expliquer sa cause.",
+              "Tout changement brutal (confusion nouvelle, somnolence inhabituelle, malaise) relève d’un avis médical rapide ou du 15, sans être attribué au trouble connu. La série ne met en scène aucune urgence ; les conseils aux proches peuvent rappeler cette règle.",
+              "Les aides (ardoise, carnet, rappel, fiche, essais guidés, répartition des tâches) sont des arrangements fictifs discutés avec l’équipe et réévalués ; elles ne sont pas des traitements démontrés et ne promettent aucune amélioration. Une aide qui fonctionne à l’atelier peut ne pas suffire ailleurs.",
+              "Chronologie sur environ trois mois, de la livraison du chêne à la pose du banc : sciage et débit en 1 à 3, assemblages et lattes en 4 à 8, finitions et perçage en 9 à 11, pose au jardin en 12. Le bilan de suivi de 6 conduit à l’essai de 7 et au choix de 8 ; la délégation de 11 reste effective en 12."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Retenir une information nouvelle",
+                "scene": "Lundi matin, le chêne du banc n’est pas livré. Martine rappelle à Bilal qu’elle lui a expliqué vendredi le report au mercredi ; il n’en garde aucune trace et a déjà convoqué deux habitants pour décharger. Il connaît par cœur le chemin du camion dans la cour, pas la conversation de vendredi.",
+                "development": "Difficulté centrale à acquérir et retenir des informations nouvelles, en l’absence d’autre atteinte cognitive significative. L’explication part de cette définition générale, puis distingue cet oubli d’une distraction ou d’un désintérêt. Trois appuis : noter une décision au moment où elle est prise ; la garder au même endroit visible ; prévenir les personnes concernées par écrit.",
+                "ending": "Bilal accroche une ardoise noire à côté de l’établi et y écrit avec Martine la nouvelle date de livraison ; il envoie lui-même un message aux deux habitants pour décaler leur venue.",
+                "next": "Le mercredi, le chêne arrive et le contraste entre ses gestes anciens et ce qu’il vient d’apprendre devient visible.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "Souvenirs anciens disponibles, faits récents fragiles",
+                "scene": "Devant les plateaux de chêne, Bilal explique à Jonas comment lire le fil du bois comme son maître d’apprentissage le lui a montré il y a trente ans. Jonas lui demande quelle longueur les participants ont votée la semaine dernière ; Bilal hésite, puis cherche l’ardoise.",
+                "development": "La mémoire récente est typiquement plus atteinte que la mémoire ancienne, et les autres capacités restent disponibles : ce profil distingue le trouble amnésique d’une démence ou d’un déclin global. La compétence manuelle conservée relève du canon, pas d’une règle générale. Trois appuis : séparer ce qu’il sait du métier et ce qui a été décidé récemment ; vérifier les décisions récentes sur un support ; valoriser la transmission de ses savoirs.",
+                "ending": "Bilal trace les coupes de mémoire de métier et vérifie la longueur votée sur l’ardoise avant de scier ; Jonas copie la cote sur le plateau.",
+                "next": "Pendant le débit, Bilal répète une cote sans erreur, mais il la perdra après une interruption.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Rappel immédiat préservé, oubli après un délai",
+                "scene": "Odile appelle l’atelier pour donner les mesures exactes de l’allée du jardin. Bilal les répète correctement au téléphone. Une demi-heure plus tard, après un passage au fournisseur de vis, il ne retrouve ni les chiffres ni le fait d’avoir eu l’appel.",
+                "development": "La capacité à rappeler immédiatement une petite quantité d’informations est souvent relativement préservée, alors que leur rétention après un délai fait défaut ; répéter juste ne garantit pas de retenir. Trois appuis : écrire pendant l’appel plutôt qu’après ; relire la note avant de passer à autre chose ; demander à l’interlocuteur de confirmer par écrit.",
+                "ending": "Bilal rappelle Odile, s’excuse sans détour et note les mesures dans un carnet à spirale rouge qu’il glisse dans la poche de son tablier ; elle accepte d’envoyer aussi un message.",
+                "next": "En comparant ses notes avec celles de Martine, il découvrira qu’il croit parfois avoir dit des choses qu’il n’a pas dites.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "incog-memoire-2023"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Croire se souvenir alors que l’information manque",
+                "scene": "Bilal est sûr d’avoir prévenu Rachid que sa latte devait être rendue jeudi. Rachid ne l’a jamais entendu et se vexe d’être accusé. Martine, présente, ne sait pas lequel croire et ne veut pas trancher à la place de son associé.",
+                "development": "Le ressenti de ses propres oublis ne correspond pas toujours aux faits : une conscience modifiée des difficultés ou une mauvaise attribution de la source d’une information peuvent exister. L’explication évite d’en faire du déni. Trois appuis : appuyer les engagements sur une trace écrite partagée ; formuler une incertitude plutôt qu’une certitude ; en parler à l’équipe de réadaptation.",
+                "ending": "Bilal dit à Rachid qu’il n’est plus sûr de lui avoir parlé et lui propose une nouvelle date écrite sur l’ardoise. Il demande à Martine un récapitulatif écrit en fin de réunion, une fois par semaine.",
+                "next": "Les récapitulatifs, les vérifications et le carnet finissent par lui coûter beaucoup d’énergie en fin de journée.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Effort de compensation et fatigue du soir",
+                "scene": "À dix-huit heures, Bilal relit trois fois le carnet rouge, l’ardoise et le message d’Odile avant de fermer l’atelier. À la maison, Samia lui parle du conseil de classe ; il l’arrête, épuisé, et dit qu’il ne peut plus rien noter aujourd’hui.",
+                "development": "Dans les formes où le fonctionnement est maintenu, il l’est au prix d’un effort supplémentaire important, par exemple des stratégies compensatoires : la fatigue fait partie du retentissement. Trois appuis : repérer les moments de la journée où l’effort est le plus coûteux ; découper les tâches de mémoire ; prévoir une pause fixe et en parler à l’ergothérapeute.",
+                "ending": "Avec Hugo, Bilal décide de concentrer les vérifications à midi et de fermer le carnet à dix-sept heures ; Samia et lui conviennent de reparler des nouvelles importantes le samedi matin.",
+                "next": "Le bilan de suivi prévu avec la docteure Vasseur doit préciser ce qui a changé depuis son retour.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Bilan de suivi attentif à la langue",
+                "scene": "Au service de réadaptation, la docteure Vasseur propose un bilan de suivi. Bilal comprend mal une consigne longue et se sent jugé sur un mot qu’il dirait d’abord en arabe, la langue de sa mère. Il hésite à le dire, puis demande qu’on reformule.",
+                "development": "L’évaluation repose sur l’histoire de la personne, des observations et une évaluation quantifiée ou des tests standardisés ; la langue, la culture et la compréhension des consignes influencent les résultats et doivent être prises en compte. Aucun item, score ou seuil n’est donné. Trois appuis : préparer des exemples de la vie réelle ; signaler une difficulté de compréhension ; demander ce que le bilan permet de décider.",
+                "ending": "La neuropsychologue reformule et note ses remarques sur la langue ; elle explique que le bilan sert à ajuster les objectifs de réadaptation. Bilal ressort avec l’idée d’apprendre autrement le maniement de la défonceuse neuve.",
+                "next": "À l’atelier, Hugo et Martine préparent un apprentissage de la machine qui évite les essais au hasard.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Apprendre une procédure nouvelle sans essais au hasard",
+                "scene": "La défonceuse neuve doit creuser les rainures des lattes. Bilal veut faire comme d’habitude : essayer, se tromper, recommencer. Martine a déjà vu une erreur de réglage revenir le lendemain comme si c’était la bonne manière.",
+                "development": "Pour une personne qui retient mal les informations nouvelles, une erreur faite pendant l’apprentissage peut se fixer à la place de la bonne étape ; les recommandations de réadaptation évoquent un apprentissage qui limite les erreurs et reste centré sur la tâche réelle. Trois appuis : écrire les étapes avant de commencer ; être guidé pas à pas les premières fois ; retirer l’aide progressivement. Les règles de sécurité de la machine restent celles du fabricant.",
+                "ending": "Martine guide Bilal étape par étape sur une chute de chêne, avec une fiche plastifiée scotchée sur la machine. Il réussit trois rainures ; il garde la fiche, même s’il sait déjà le geste.",
+                "next": "Hugo lui propose ensuite d’ajouter un rappel sur son téléphone, ce qu’il accueille avec méfiance.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236",
+                  "incog-memoire-2023"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Choisir ses aides externes",
+                "scene": "Bilal a manqué la séance collective du mardi soir au jardin : le carnet rouge était resté dans le tablier, à l’atelier. Hugo propose des alarmes sur le téléphone ; Bilal déteste les sonneries et craint qu’elles décident à sa place.",
+                "development": "Les aides externes (agendas, listes, calendriers, alarmes, rappels électroniques) sont recommandées en réadaptation de la mémoire, mais leur choix dépend des préférences et des tâches de la personne. Trois appuis : lister les situations où le carnet ne suffit pas ; essayer une seule aide pour une seule tâche ; réévaluer après quelques semaines.",
+                "ending": "Bilal accepte un unique rappel le mardi à dix-sept heures, avec un message qu’il rédige lui-même, et refuse les autres alarmes. Le carnet reste son outil principal.",
+                "next": "À la maison, une nouvelle importante d’Inès va lui échapper malgré ces aides de l’atelier.",
+                "source_refs": [
+                  "oms-cddr",
+                  "incog-memoire-2023",
+                  "cicerone-2019"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Oublier une nouvelle familiale importante",
+                "scene": "Au téléphone, Bilal félicite Inès pour un poste qu’elle a obtenu à Lyon. Elle répond doucement qu’elle le lui a annoncé dimanche, à table, et qu’il l’avait déjà félicitée. Bilal se tait, honteux d’avoir perdu un moment qui comptait pour elle.",
+                "development": "Le trouble touche aussi la vie familiale : une nouvelle récente, même chargée d’émotion, peut ne pas être retenue, sans que cela dise l’importance que la personne y accorde. Trois appuis : nommer la peine des deux côtés ; garder une trace des nouvelles importantes ; choisir ensemble qui l’écrit, sans transformer la famille en secrétariat.",
+                "ending": "Bilal et Samia posent sur le buffet un carnet familial ; Inès accepte d’y écrire elle-même ses nouvelles importantes lorsqu’elle vient, et Bilal relit le carnet le samedi matin.",
+                "next": "Lors d’un repas, Nordine voudra l’aider en le pressant de questions pour faire revenir ce qu’il a oublié.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Questions insistantes et souvenirs suggérés",
+                "scene": "Au déjeuner du dimanche, Nordine interroge Bilal : tu te rappelles ce que je t’ai dit sur la voiture, fais un effort, tu bloques à cause de l’hôpital. Bilal finit par répondre oui pour qu’il arrête, puis se rend compte qu’il ne sait plus ce qu’il a lui-même raconté.",
+                "development": "Le trouble amnésique touche l’apprentissage d’informations nouvelles ; l’amnésie dissociative, autre diagnostic, concerne des souvenirs autobiographiques importants liés à un stress. Cette distinction appartient aux professionnels. Presser quelqu’un de questions ou lui suggérer une réponse peut brouiller ce qu’il sait. Trois appuis : dire qu’on ne sait pas plutôt que deviner ; demander une information plutôt qu’une performance ; poser une limite claire.",
+                "ending": "Bilal dit à Nordine qu’il préfère qu’on lui redise une information plutôt qu’on lui demande de s’en souvenir. Nordine se vexe, puis propose de lui envoyer un message pour les prochaines nouvelles.",
+                "next": "À l’atelier, les finitions approchent et Bilal doit décider quelles tâches il garde.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Déléguer une tâche sans perdre sa place",
+                "scene": "Il reste à percer les fixations au sol et à commander la quincaillerie. Bilal a commandé deux fois les mêmes vis le mois dernier. Martine propose de s’en charger ; il craint qu’on finisse par lui retirer tout le projet.",
+                "development": "Selon la cause, l’évolution peut rester relativement stable, progresser ou parfois s’améliorer : aucun avenir précis ne se déduit d’un oubli ou d’une réussite. Dans ce cadre, la réadaptation aide à analyser les exigences du travail et à répartir les tâches. Trois appuis : distinguer les tâches qui reposent sur des informations nouvelles ; choisir soi-même ce qu’on délègue ; écrire qui fait quoi.",
+                "ending": "Bilal confie la commande à Martine et le perçage à Jonas sous sa supervision ; il garde la sculpture des accoudoirs et l’assemblage final. La répartition est écrite sur l’ardoise.",
+                "next": "Le jour de la pose, il faut que chaque participant puisse retrouver seul les étapes et les décisions.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Garder les décisions visibles pour tout le groupe",
+                "scene": "Au jardin de la maison de quartier, les six participants arrivent avec leurs lattes sculptées. Deux d’entre eux ont manqué la dernière réunion et ne savent plus dans quel ordre les poser. Bilal, qui ne s’en souvient pas non plus, sort la fiche des étapes.",
+                "development": "Les stratégies d’environnement, comme les routines et les repères visibles, peuvent soutenir la participation ; un support partagé sert aussi aux personnes sans trouble de la mémoire. Trois appuis : afficher l’ordre des étapes à hauteur des yeux ; faire valider la fiche par le groupe ; garder une trace des décisions pour la suite.",
+                "ending": "Le banc est posé et chaque latte trouve sa place grâce à la fiche que tout le monde consulte. Bilal laisse l’ardoise à l’atelier comme outil commun et note dans le carnet rouge l’idée d’une table pour le même jardin, sans considérer sa mémoire comme guérie.",
+                "next": "Le parcours se clôt sur le banc installé ; le suivi avec l’équipe de réadaptation continue et le projet de table reste une idée à décider plus tard.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng236",
+                  "cicerone-2019"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/bilal.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/bilal.json": null
+        }
+      },
+      "snapshot_sha256": "7fd1e3ea5d3ffb9cf6d303c5ab29df59f0602e50e3157d1b5da02984f30e7ce7",
+      "status": "active",
+      "token_sha256": "eb6e3b7e8d161931a3b6c992498e38b3e68959cdf92a932c3d21d06b36a7e35e",
+      "heartbeat_at": "2026-11-12T10:30:33Z",
+      "expires_at": "2026-11-12T11:30:33Z"
     }
   },
-  "updated_at": "2026-11-12T10:29:48Z"
+  "updated_at": "2026-11-12T10:30:35Z"
 }

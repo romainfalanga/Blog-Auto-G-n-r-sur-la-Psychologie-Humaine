@@ -1,0 +1,490 @@
+{
+  "character_id": "monique",
+  "type": "origine",
+  "auditor": "audit_o6",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "62 ans, ancienne professeure de français, bénévole à la bibliothèque municipale, veuve de Jean-Claude depuis environ trois ans ; fille Isabelle (petite-fille Lola), fils François, voisine et amie Geneviève, ancien collègue Jacques avec qui une relation commence ; bénévoles Claire et Antoine.",
+    "arc_summary": "Les épisodes 1 à 6 suivent une veuve qui peine à reprendre les petites décisions, cherche une faute dans la maladie de Jean-Claude puis repère des prudences héritées de sa mère (pessimisme, argent, plaisir différé) et une solitude qu’elle entretient. À partir de l’épisode 7, la relation avec Jacques devient le fil principal : rendez-vous au salon de thé, proposition d’habiter ensemble, repas de famille où il prend place, consultation du notaire. La série se termine sur une photo de Bretagne et un week-end d’essai toujours à venir, sans que la décision de vie commune soit montrée.",
+    "arc_issues": [
+      "François, le fils, est cité dès l’épisode 1 (« À côté de celui de François ») mais n’est présenté comme « son fils » qu’au milieu de l’épisode 8 ; il n’apparaît en scène qu’à l’épisode 9.",
+      "Saut chronologique entre l’épisode 7 (Monique doute que Jacques la voie autrement qu’en ancienne collègue) et l’épisode 8 (Jacques propose d’habiter ensemble) sans indication du temps écoulé.",
+      "L’héritage maternel de prudence revient aux épisodes 3, 5, 6 et 9 (formules de la mère, retenue devant la dépense, recette de la mère) : quatre épisodes sur le même ressort, avec une hésitation mère/père à l’épisode 6.",
+      "Les épisodes 8, 11 et 12 tournent autour de la même décision (vendre la maison / vivre avec Jacques) et le week-end d’essai annoncé aux épisodes 8, 11 et 12 n’est jamais raconté : l’arc ne se conclut pas.",
+      "Les épisodes 2 et 12 reprennent le même geste (scruter un document de Jean-Claude pour y trouver le signe de ce qui aurait dû être vu, la même phrase « Si seulement on avait commencé plus tôt… »).",
+      "Plusieurs sections Manifestations et Conclusions gardent des restes d’anciennes versions qui attribuent à Monique une « culpabilité générationnelle » ou une origine dans l’enfance, que le texte récent récuse (épisodes 3, 9, 10, 12)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main.md",
+      "focus": "Impuissance dans les petites décisions du deuil : un carnet de Jean-Claude, un message inachevé à Isabelle",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "faible",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La cuisine, le carnet et le message bloqué sur « Je voulais te demander » se suivent bien, mais on ignore quel numéro elle cherche, qui est François, et la fin remplace le message à Isabelle par une bouteille d’eau et une « amie » anonyme : la décision n’est pas lisible.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle pose une bouteille d’eau sur sa table de nuit.",
+          "problem": "Le geste final n’est relié ni à la scène ni à l’impuissance ; le message commencé à Isabelle, enjeu de l’ouverture, reste en suspens et le contact final se fait avec « une amie » jamais nommée.",
+          "fix": "Conclure sur le message à Isabelle (envoyé, ou remplacé consciemment par un appel à Geneviève) et expliquer la bouteille (« pour ne pas avoir à redescendre la nuit ») ou la supprimer."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "À côté de celui de François, il y a deux années barrées.",
+          "problem": "François n’est pas présenté ; le lecteur ne sait pas qu’il s’agit du fils de Monique.",
+          "fix": "« À côté de celui de François, leur fils, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Ce matin à la bibliothèque, une lectrice lui a demandé si son livre arriverait vendredi.",
+          "problem": "Rien n’indique que Monique y est bénévole (précisé seulement à l’épisode 4) : une retraitée qui gère un registre de réservations surprend.",
+          "fix": "« Ce matin, pendant sa permanence de bénévole à la bibliothèque, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Relire une photo pour ne rien oublier peut se prolonger sans répondre à la question pratique pour laquelle elle avait ouvert le tiroir.",
+          "problem": "Photo et tiroir n’existent pas dans la scène ; l’exemple est plaqué.",
+          "fix": "Remplacer par le carnet ouvert à la page des anniversaires alors qu’elle cherchait le garagiste à la lettre G."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-monde-juste-deuil-causes.md",
+      "focus": "Biais du monde juste : chercher qui a « fauté » dans la maladie de Jean-Claude",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "faible",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La découverte du papier et de la convocation raturée est concrète ; mais Geneviève arrive sans être présentée et la scène montre surtout la recherche d’un responsable d’un retard, pas l’idée que chacun reçoit ce qu’il mérite.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Pendant quelques secondes, elle tient là un retard, quelqu’un qui l’a décidé et le début d’une explication.",
+          "problem": "La scène illustre la recherche d’une faute après coup (proche du biais rétrospectif de l’épisode 12), pas la croyance en un monde juste ; la dimension morale (« pourquoi lui alors qu’il était bon ») n’apparaît que dans les manifestations.",
+          "fix": "Mettre en scène la pensée morale : Monique se surprend à penser « il faisait tout comme il fallait » et à chercher ce qu’ils auraient « mal fait » pour mériter cela ; alléger la piste du retard, réservée à l’épisode 12."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La sonnette retentit. Geneviève apporte des madeleines encore tièdes",
+          "problem": "Geneviève n’est pas présentée dans cet épisode.",
+          "fix": "« Geneviève, sa voisine, apporte … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Elle explore les pages du carnet comme si elle pouvait y débusquer le point précis",
+          "problem": "La scène porte sur les dossiers médicaux, pas sur le carnet de l’épisode 1.",
+          "fix": "« Elle explore les pages du dossier médical … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Monique, attachée aux règles et aux valeurs familiales, est tentée de construire un récit",
+          "problem": "Trait affirmé sans appui dans la scène ni dans la fiche.",
+          "fix": "Supprimer l’apposition ou l’ancrer dans un détail montré."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-parents-education-psychologie.md",
+      "focus": "Pessimisme hérité de la mère : prévoir la panne, couper la parole à Isabelle",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Cimetière, démarrage difficile, appel à Isabelle : la scène est claire et la fin montre une décision nette (demander d’abord ce qu’a dit le patron).",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Elle a compris, en triant les carnets de Jean-Claude, que chercher un responsable au chaos était une impasse",
+          "problem": "Renvoi méta à l’épisode 2, inexact (il s’agissait de dossiers médicaux) et incompréhensible pour qui arrive sur cet article ; l’épisode 2 ne montre d’ailleurs aucune telle compréhension.",
+          "fix": "Supprimer cette phrase et la mention de « son travail sur le biais du monde juste »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "### 2. La loyauté invisible envers la souffrance parentale",
+          "problem": "Anticipe le concept de l’épisode 9 (loyautés invisibles) et brouille la distinction entre les épisodes.",
+          "fix": "Renommer en « L’attachement aux formules familiales » et réserver la loyauté invisible à l’épisode 9."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "La formule « on ne peut pas tout avoir » pourrait limiter une envie actuelle",
+          "problem": "Formule absente de la scène.",
+          "fix": "Reprendre « pourvu que ça dure », effectivement présente."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-interactions-societe.md",
+      "focus": "Isolement et solitude ressentie : hésiter à accepter le thé de Geneviève",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le bourguignon pour quatre, le message effacé et la réponse à Isabelle rendent l’hésitation concrète ; le lieu du thé et le sort de la barquette restent flous.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Quand Geneviève sonne, Monique lui dit qu’elle viendra prendre un thé",
+          "problem": "Le thé était prévu « chez Geneviève », puis Geneviève « passe » et sonne : on ne sait pas qui va chez qui.",
+          "fix": "« Quand Geneviève sonne pour l’emmener chez elle, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La barquette reviendra un autre jour.",
+          "problem": "Phrase ambiguë : Monique a emporté la barquette ; l’a-t-elle donnée, rapportée ?",
+          "fix": "« Elle rapporte la barquette ; elle la proposera une autre fois. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Monique, 62 ans, explore les racines de son isolement social. Découvrez comment l'éducation et l'enfance influencent nos interactions sociales actuelles.",
+          "problem": "La description promet une cause dans l’enfance que l’article récuse explicitement.",
+          "fix": "Aligner la description sur l’article (solitude après le deuil et la retraite)."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances.md",
+      "focus": "Gratitude et finances : la chaudière réparée et la ligne de facture",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "faible",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "On comprend qu’une facture ne correspond pas au devis, mais l’enjeu (écart, montant) est noyé dans des détails opaques ; la gratitude se réduit à une main sur le radiateur et au « bon thé ».",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Sur l’enveloppe où elle avait recopié le prix annoncé, la somme s’arrête au pli. Elle a dû relever la main pour tenir le rabat.",
+          "problem": "Détails obscurs à la place de l’enjeu : on ne sait ni de combien la facture dépasse, ni quelle ligne pose question.",
+          "fix": "Énoncer l’écart : « La facture dépasse le devis de cent vingt euros : une ligne “pièce” n’y figurait pas. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Elle s’arrête pour poser la main sur la fonte chaude.",
+          "problem": "La gratitude n’occupe qu’un geste ; la scène et le retour portent sur la vérification comptable.",
+          "fix": "Faire nommer à Monique ce qu’elle apprécie (maison chaude, technicien venu vite, ce que Jean-Claude faisait autrefois) et relier le « bon thé » final à cette reconnaissance."
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "« On ne sait pas ce qui peut arriver », disait sa mère.",
+          "problem": "Troisième épisode bâti sur une formule de prudence maternelle (épisodes 3, 5, 6) ; les épisodes 5 et 6 traitent tous deux la retenue héritée face à la dépense.",
+          "fix": "Retirer la formule maternelle de l’épisode 5 et ancrer la gratitude ailleurs (la réparation, Jean-Claude qui gérait la chaudière)."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-enfants-comprendre.md",
+      "focus": "Transmission familiale : « le plaisir peut attendre » devant le glacier avec Lola",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène vivante et décision claire (deux glaces, « J’ai changé d’avis ») ; seul le parent à l’origine de la règle change d’un paragraphe à l’autre.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Monique entend dans sa propre hésitation une phrase que son père répétait.",
+          "problem": "La scène tient le collier de sa mère et l’épisode 5 attribue la prudence à la mère.",
+          "fix": "« … une phrase que sa mère répétait. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Isabelle et François ne sont pas condamnés à interpréter l’argent comme leur mère.",
+          "problem": "François n’est toujours pas présenté.",
+          "fix": "« Ses enfants, Isabelle et François, … »."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique.md",
+      "focus": "Sentiment d’illégitimité dans l’intimité naissante avec Jacques",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le salon de thé, le collier, la main qui frôle et la limite du train sont clairs ; Jacques est bien présenté comme ancien collègue.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Il cherche ses mots, et elle suppose déjà qu’il ne la voit que comme une ancienne collègue.",
+          "problem": "La scène montre une minimisation de l’intérêt de Jacques ; la peur d’être « démasquée » ou de ne pas mériter sa place, cœur du sentiment d’imposture, n’est pas mise en scène.",
+          "fix": "Ajouter une pensée d’illégitimité explicite (« qu’est-ce qu’il ferait d’une veuve de soixante-deux ans ») et un moment où elle attend d’être « découverte »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "comme l'externalisation de la critique intérieure ou la focalisation sensorielle",
+          "problem": "« Focalisation sensorielle » ne figure pas parmi les techniques (la troisième est « un appui volontaire dans la rencontre »).",
+          "fix": "Reprendre l’intitulé réel de la technique."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-normalite-decision-importante-monique.md",
+      "focus": "Biais du statu quo : rester dans la maison ou vivre avec Jacques",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La brochure, la marche de l’entrée et l’appel retenu à François posent bien la décision ; le retour (deux nuits d’essai) est net.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Jacques a parlé d’habiter ensemble.",
+          "problem": "À l’épisode 7, Monique doute encore qu’il la voie autrement qu’en collègue ; le saut vers un projet de vie commune n’est ni daté ni expliqué.",
+          "fix": "Situer le temps écoulé : « Depuis l’automne, ils se voient presque chaque jour ; dimanche, Jacques a parlé d’habiter ensemble. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Monique, par exemple, balaie l'idée d'avoir moins de ménage à faire dans un appartement moderne",
+          "problem": "Contredit la scène, où elle « aimerait ne plus avoir tout cet entretien ».",
+          "fix": "Aligner l’exemple sur la scène (elle pèse l’entretien mais revient toujours au lieu de lecture)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle prend le téléphone pour appeler François.",
+          "problem": "François n’est présenté comme son fils que dans la section suivante.",
+          "fix": "« … pour appeler son fils, François. »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille.md",
+      "focus": "Loyautés invisibles : la place de Jean-Claude à la table du repas de famille",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La préparation (cocotte, couvert déplacé puis remis) est précise, mais le retour ne dit pas où Jacques s’assoit ni ce que Monique décide de la place de Jean-Claude ; la fin s’arrête sur le gâteau.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Lola demande le gâteau. Monique se lève pour aller le chercher.",
+          "problem": "Le retour ne tranche pas l’enjeu posé (la place de Jean-Claude, la loyauté) ; la seule décision rapportée (« je rentrerai le soir ») répète l’épisode 7.",
+          "fix": "Montrer où Jacques s’assoit finalement et ce que Monique choisit (garder la place pour elle, la laisser à Jacques en le disant), avec une réaction d’un des enfants."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle lui laisse sa place.",
+          "problem": "Le « lui » renvoie à la photo, dont on ne sait pas encore qu’elle montre Jean-Claude.",
+          "fix": "« Elle laisse la photo de Jean-Claude à sa place sur le meuble. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Le fait de tomber malade ne permet pas d’inférer une loyauté cachée.",
+          "problem": "Phrase sans rapport avec la scène (personne n’est malade).",
+          "fix": "Supprimer."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Comprendre les loyautés invisibles en période de fêtes",
+          "problem": "Le titre annonce les fêtes ; la scène est un déjeuner ordinaire.",
+          "fix": "Préciser l’occasion (anniversaire, Pâques) ou retirer « en période de fêtes »."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions.md",
+      "focus": "Charge mentale émotionnelle dans le bénévolat : absorber la tension entre Claire et Antoine",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "faible",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Claire, Antoine, la réserve et le festival sont présentés ; la limite posée (« je n’ai pas décidé des emplacements ») et la marche reportée avec Jacques forment une fin claire.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Pour Monique, cela s'inscrit dans sa culpabilité générationnelle et sa peur de la solitude.",
+          "problem": "Le paragraphe attribue la charge à une loyauté familiale (« cette loyauté invisible qui la pousse à se sacrifier »), ce que la conclusion récuse (« Cela ne permet pas d’en déduire une origine dans son enfance »).",
+          "fix": "Supprimer les deux dernières phrases du paragraphe et rester sur la scène de la réserve."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Monique passe des heures à imaginer les réactions de ses collaborateurs.",
+          "problem": "Généralisation non montrée, vocabulaire d’entreprise inadapté à une bénévole.",
+          "fix": "« Monique imagine les réactions de Claire et d’Antoine avant qu’ils aient parlé. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Ils n’ont plus besoin qu’elle retourne à la bibliothèque aujourd’hui.",
+          "problem": "Phrase obscure (qui « ils » ? les cartons ?).",
+          "fix": "« Personne n’a besoin qu’elle retourne à la bibliothèque aujourd’hui. »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante.md",
+      "focus": "Règle du pic et de la fin : les nuits de la perte pèsent sur la décision de vendre",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Salle d’attente du notaire, souvenirs des deux nuits, soirée bourguignon : la scène illustre bien le concept et la fin (questions, trajet à tester) est claire.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Monique demande à l’accueil du notaire si le rendez-vous engage une démarche.",
+          "problem": "On ne sait pas pourquoi elle consulte un notaire alors qu’à l’épisode 8 l’idée de vendre était « trop avancée ».",
+          "fix": "Ajouter une phrase : « Elle a pris rendez-vous pour savoir, sans rien signer, ce qu’impliquerait une vente. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "En confrontant le pic et la fin à une cartographie complète, à des fins alternatives et à un témoin neutre",
+          "problem": "La technique 3 précise justement « sans faire d’Isabelle un témoin neutre » ; la conclusion reprend une ancienne version.",
+          "fix": "Réécrire selon les techniques actuelles (scènes ordinaires, organisations du quotidien, avis sur une question précise)."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse.md",
+      "focus": "Biais rétrospectif : chercher sur une photo de Bretagne le signe de la maladie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "faible",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La photo, la main crispée et les deux colonnes séparées sont claires ; mais l’épisode final laisse en suspens la décision de vie commune préparée depuis l’épisode 8.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Elle pose le tirage à côté du carnet où elle avait copié la phrase de Jean-Claude en mars.",
+          "problem": "Même ressort que l’épisode 2 (scruter un document de Jean-Claude pour trouver ce qui aurait dû être vu, même phrase « Si seulement… ») ; les deux épisodes se recouvrent.",
+          "fix": "Recentrer l’épisode 2 sur la dimension morale du monde juste et, ici, retirer le rappel de la phrase pour garder la seule photo ; donner au retour une décision qui clôt l’arc (le week-end d’essai a eu lieu, ce qu’elle en retient)."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Chez Monique, cela prend la forme d'une culpabilité générationnelle",
+          "problem": "Reste d’une ancienne version (avec « Après une rupture »), sans rapport avec la scène.",
+          "fix": "Supprimer et ancrer l’exemple dans la photo."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "elle pense moins à la dispute du même soir",
+          "problem": "Dans la scène, le désaccord porte sur la route du retour, en voiture, pas sur une dispute du soir.",
+          "fix": "« elle pense moins au désaccord sur la route du retour »."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, aucun manquant ni surnuméraire. Recentrages proposés plutôt qu’ajouts : (1) épisode 5 à détacher de l’héritage maternel déjà traité aux épisodes 3, 6 et 9 ; (2) épisode 2 à recentrer sur la croyance morale (« il était bon »), l’épisode 12 gardant la recherche d’indices ; (3) l’épisode 12 étant le dernier, son retour devrait montrer le week-end d’essai chez Jacques annoncé depuis l’épisode 8 et une décision (rester chez elle en continuant la relation, ou poursuivre le projet), pour fermer l’arc.",
+  "verdict": "corrections_majeures"
+}

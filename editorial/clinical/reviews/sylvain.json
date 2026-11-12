@@ -3,32 +3,21 @@
   "character_id": "sylvain",
   "reviewer": "review_sylvain",
   "reviewed_on": "2026-11-12",
-  "status": "revision_requested",
-  "summary": "Seconde relecture indépendante complète des douze épisodes avec la charte, l’article modèle, le dossier (CDDR p.571–572 et 583–585, WFSBP 2020) et le design. Six des sept corrections demandées sont appliquées sans nouveau défaut : rôle de Maud précisé en 1 et 5, miroir de Karim conditionné et sans attestation de conformité en 4, ambiguïté levée en 9, raccord des contacts de remplacement corrigé en 10, intertitre de fin retitré en 11. La correction de l’épisode 7 n’est appliquée qu’à l’ouverture : un exemple de manifestation conserve l’antécédent de fatigue déjà rapportée. Un raccord de sélection reste ambigu dans l’ouverture de l’épisode 1. Les douze aspects restent distincts, aucun acte, contact, accès à autrui, comorbidité ou protocole n’est ajouté ; consentement, confidentialité limitée, rôle limité de Karim, relais professionnels et urgences sont préservés. Deux corrections ponctuelles restent en attente ; cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de publication.",
+  "status": "passed",
+  "summary": "Troisième vérification indépendante après deux relectures complètes des douze épisodes avec la charte, l’article modèle, le dossier (CDDR p.571–572 et 583–585, WFSBP 2020) et le design. Le diff contre le commit 57732e3, identique au manuscrit relu intégralement à la deuxième relecture, ne modifie que deux passages : l’ouverture de l’épisode 1 précise que le carnet réunira six images choisies parmi des photographies déjà prises, et l’exemple de manifestation de l’épisode 7 compare la fatigue à sa fatigue habituelle après l’atelier. Les épisodes 1 et 7 ont été relus en entier ; les deux corrections sont appliquées sans nouveau défaut, comme les sept de la première relecture. Les douze aspects restent distincts ; aucun acte, contact, accès à autrui, comorbidité ou protocole n’est ajouté ; consentement, confidentialité limitée, rôle limité de Karim, relais professionnels et urgences sont préservés. Aucune correction ouverte ; cette acceptation éditoriale ne constitue ni expertise clinique individuelle ni preuve de publication ou de déploiement.",
   "files": {
     "editorial/clinical/designs/sylvain.json": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
     "editorial/clinical/dossiers/sylvain.json": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
-    "editorial/clinical/sylvain.json": "369b49745ede4de6d5b7ade166f93eb9c572017193cb4814722ffcb7da140c39"
+    "editorial/clinical/sylvain.json": "d936b7e15af621fdfe66d07fa9d73caca105bffb40b9836c5afd179b9def9d0a"
   },
-  "findings": [
-    {
-      "episode": 7,
-      "issue": "La correction précédente n’a été appliquée qu’à l’ouverture : dans la section « Comment garder une place à ce qui est nouveau ? », le second exemple de « Une observation diffère de la période précédente » dit encore « Il distingue cette fatigue de ce qu’il avait déjà rapporté », ce qui réintroduit une fatigue décrite antérieurement au suivi, absente des épisodes 1 à 6.",
-      "requested_change": "Aligner l’exemple sur l’ouverture corrigée, par exemple « Il distingue cette fatigue de sa fatigue habituelle après une journée à l’atelier »."
-    },
-    {
-      "episode": 1,
-      "issue": "Raccord sur la sélection : l’ouverture dit « Six photographies de végétaux déjà prises doivent former un carnet », puis « Il lui reste à choisir les autres ». Un lecteur comprend que les six images sont déjà fixées, alors que la sélection est encore en cours en 8 (« Il doit choisir celles qui formeront le carnet », « il termine la sélection des six images ») et en 9 (« si la sélection avance »).",
-      "requested_change": "Reformuler pour indiquer que le carnet réunira six images choisies parmi ses photographies de végétaux déjà prises, la feuille de hêtre ouvrant le carnet, et qu’il lui reste à choisir les autres et à rédiger les légendes."
-    }
-  ],
+  "findings": [],
   "episode_checks": [
     {
       "number": 1,
       "focus": "Un schéma persiste malgré la tâche",
       "opening_quote": "La feuille de hêtre occupe presque toute l’image. Sylvain aime la lumière terne qui laisse voir les nervures sans leur donner un air de révélation",
       "ending_quote": "Sylvain termine seulement la légende du hêtre. Il écrit à Maud, qui anime sa formation de photographie et coordonne la promenade du groupe adulte, qu’il prépare six images, sans confirmer sa présence à la promenade",
-      "continuity_note": "L’ouverture installe le dossier vert, le hêtre, la note de suivi séparée et le rendez-vous déjà inscrit avec la docteure Perrin ; la fin envoie à Maud, désormais présentée comme animatrice de la formation et coordinatrice de la promenade, l’annonce des six images sans confirmer la présence. Seule ambiguïté restante : « Six photographies de végétaux déjà prises doivent former un carnet », suivi de « Il lui reste à choisir les autres », laisse croire que les six images sont déjà fixées alors que la sélection s’achève en 8.",
+      "continuity_note": "L’ouverture installe le dossier vert, le hêtre, la note de suivi séparée et le rendez-vous déjà inscrit avec la docteure Perrin ; la fin envoie à Maud, présentée comme animatrice de la formation et coordinatrice de la promenade, l’annonce des six images sans confirmer la présence. Correction de la deuxième relecture appliquée : le carnet « réunira six images choisies parmi ses photographies de végétaux déjà prises », le hêtre l’ouvrant, ce qui raccorde avec la sélection achevée en 8 et encore en cours en 9.",
       "clinical_note": "La définition CDDR p.583 (schéma durable, ciblé, intense, personne non consentante) apparaît seulement dans l’explication ; une pensée isolée, une crainte ou une préférence consensuelle sont écartées, et le goût de la précision n’est pas un signe. Les trois appuis (noter, limiter, conserver le rendez-vous) ne revendiquent aucun effet de soin.",
       "relatives_note": "La phrase de Maud porte sur la tâche annoncée et ne commente pas le rythme ; Karim est conditionné au partage de Sylvain et ne réclame pas le contenu des préoccupations."
     },
@@ -82,7 +71,7 @@
       "focus": "Un changement récent mérite son propre bilan",
       "opening_quote": "Le rendez-vous organisé après l’appel commence par ce que Sylvain voulait transmettre. Les préoccupations ont pris davantage de place et il a eu du mal à en parler",
       "ending_quote": "La réévaluation a lieu et Sylvain repart avec des suites précisées par l’équipe. Aucun nouveau diagnostic n’est annoncé dans le récit",
-      "continuity_note": "Correction partiellement appliquée : l’ouverture compare désormais la fatigue à « sa fatigue habituelle après une journée à l’atelier », mais l’exemple de manifestation conserve « Il distingue cette fatigue de ce qu’il avait déjà rapporté », qui réintroduit l’antécédent de suivi non raconté. La reprise de la confidentialité et des préoccupations raccorde bien avec 6.",
+      "continuity_note": "Correction entièrement appliquée : l’ouverture et l’exemple de manifestation comparent désormais la fatigue à « sa fatigue habituelle après une journée à l’atelier », sans antécédent de suivi inventé. La reprise de la confidentialité et des préoccupations raccorde bien avec l’appel de 6.",
       "clinical_note": "Le changement de sommeil est évalué pour lui-même (CDDR p.584–585) sans manie, démence ou substances ajoutées, sans grille d’autodiagnostic ni modification de traitement par Sylvain ; aucun nouveau diagnostic annoncé.",
       "relatives_note": "Karim demande s’il a pu expliquer la différence au rendez-vous, sans surveiller les nuits ni identifier une cause ; Maud continue d’organiser les légendes sans interpréter un résultat médical."
     },
