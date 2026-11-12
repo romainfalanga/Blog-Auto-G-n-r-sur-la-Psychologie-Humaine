@@ -1,0 +1,436 @@
+{
+  "character_id": "hugo",
+  "type": "origine",
+  "auditor": "audit_o3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Hugo, 27 ans (né le 8 février 1999), guitariste semi-professionnel et serveur dans un bar. Récemment séparé de Chloé, qui chante dans son groupe ; Théo, son frère ; Samba, batteur et ami proche, qui rejoint un groupe rival pour la tournée d'été ; son père Alain, évoqué comme exigeant.",
+    "arc_summary": "De mars à mai 2026, Hugo traverse le vide de la rupture, oscille entre idéalisation et rejet de Chloé, puis apprend à poser une question au lieu de conclure (« On doit parler »). La répétition gâchée, l'annonce de Samba et le message envoyé après le Melody l'amènent à accepter la limite posée par Chloé (messages seulement pour les répétitions). La fin du parcours se déplace vers Samba et les réseaux sociaux, sans clôture de l'histoire avec Chloé.",
+    "arc_issues": [
+      "Parcours de onze épisodes : il en manque un (voir missing_or_extra).",
+      "La composition du groupe n'est jamais présentée (Chloé chanteuse, Samba batteur), alors que la plupart des scènes reposent sur elle ; Samba apparaît dès l'épisode 2 sans présentation.",
+      "Le statut de la relation est flou : séparés dès l'épisode 1, les épisodes 2 et 3 décrivent pourtant un « couple » encore en cours.",
+      "Les ouvertures des épisodes 2, 3, 5, 9, 10 et 11 récapitulent les concepts déjà vus, avec des renvois parfois inexacts (confrontation « avec Théo », discussion avec Chloé jamais montrée).",
+      "Un geste violent (guitare jetée) est évoqué à l'épisode 8 et dans sa rubrique proches sans exister dans le récit.",
+      "Le père Alain est convoqué comme cause dans de nombreux épisodes, sous des formes différentes.",
+      "La rubrique « Du côté des proches » est concrète et respecte bien le consentement de Chloé (elle peut écourter, limiter les contacts) ; Théo et Samba ne deviennent jamais messagers."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse.md",
+      "focus": "vide intérieur après une rupture : perte des repères et difficulté à décrire ce qu'on ressent",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène très concrète (chaises montées sur les tables, banc humide, étui entre les genoux, appel manqué de Théo) ; le message final à Théo donne une petite décision claire. Seul manque : on ne sait pas que Chloé est l'ex-compagne ni depuis quand elle est partie.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Chez lui, il y a une cafetière à vider et la place de Chloé sur le canapé.",
+          "problem": "Chloé n'est présentée que par cette « place » ; le lecteur ne sait pas qu'il s'agit d'une rupture récente ni que Chloé chante dans son groupe, ce qui compte pour toute la suite.",
+          "fix": "Ajouter : « la place de Chloé sur le canapé, vide depuis qu'elle est partie il y a dix jours »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Il n'y a pas de délai obligatoire pour aller mieux.",
+          "problem": "La conclusion se réduit à deux phrases et ne résume pas ce que l'épisode fait comprendre du vide intérieur.",
+          "fix": "Ajouter une phrase reliant le message à Théo à la distinction entre manque d'envie et besoin d'une présence limitée."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/idealisation-devaluation-en-couple.md",
+      "focus": "idéalisation et dévaluation : le rire de Chloé fait basculer l'image qu'Hugo a d'elle",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le rire de Chloé au bar et le brouillon accusateur rangé sous le comptoir sont clairs. Mais l'ouverture glisse vers des images abstraites (« Sa tête rétrécit »), les manifestations décrivent un couple encore ensemble alors qu'ils sont séparés, et Samba apparaît sans présentation.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "En l'espace d'un battement de cymbale, une note discordante arrive.",
+          "problem": "Le deuxième paragraphe remplace l'action par des métaphores (« Sa tête rétrécit », « La guitare sensible à l'intérieur de lui vibre différemment ») ; on ne voit pas ce qu'Hugo fait, et l'écriture du message accusateur, clé du dénouement, n'est jamais montrée.",
+          "fix": "Remplacer par des gestes : Hugo pose un verre trop fort, sort son téléphone sous le comptoir et tape « Tu te moques de moi devant tes amis »."
+        },
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Si Chloé passe une soirée avec des collègues après un concert, Hugo lit chaque photo qu'elle poste comme une menace.",
+          "problem": "Les manifestations décrivent un couple en cours (soirées, concert annulé « pour rester chez elle ») alors que l'épisode pose la séparation ; le lecteur ne sait plus s'ils sont ensemble.",
+          "fix": "Mettre ces exemples au passé (« Quand ils étaient ensemble… ») ou les remplacer par des situations post-rupture."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il peut relire sa note seul, en parler à Théo ou à Samba",
+          "problem": "Samba est nommé pour la première fois sans qu'on sache qu'il est le batteur du groupe.",
+          "fix": "Écrire « à Samba, le batteur du groupe »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Depuis la scène sur le banc du parc la semaine dernière, où sa guitare reposait à côté de lui et Théo avait essayé de l'appeler sans succès, Hugo a appris à nommer son vide intérieur.",
+          "problem": "Renvoi méta à l'épisode précédent et au concept qu'il a « appris » ; ce n'est pas une information de scène.",
+          "fix": "Supprimer la phrase ou la réduire à « Depuis le soir du banc, il dort mal »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "L'espoir ici n'est pas une promesse de perfection, mais la certitude que les schémas se travaillent.",
+          "problem": "Conclusion générique qui ne revient pas à la conversation du lendemain avec Chloé.",
+          "fix": "Conclure sur l'aveu « je n'ai pas osé » et ce qu'il laisse ouvert."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple.md",
+      "focus": "raisonnement émotionnel : la peur transforme « On doit parler » en certitude de rupture",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le message « On doit parler », les mains moites et la réponse finale (le programme de la répétition) sont très lisibles. L'ouverture est encombrée de deux paragraphes de récapitulation et d'analyse, et le statut du couple (« un couple fragile ») contredit la séparation.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Douze jours plus tôt, sur un banc du parc, il avait reconnu ce vide qui le saisit après une rupture. Puis, en travaillant au bar quelques jours plus tard, il avait compris qu'il basculait d'une adoration totale à une colère vive quand il percevait un manque d'attention.",
+          "problem": "La scène récapitule les concepts des deux épisodes précédents au lieu de montrer Hugo ; l'action (ouvrir le carnet, attendre) est noyée.",
+          "fix": "Supprimer ce passage et le paragraphe sur « ce qu'on appelle le raisonnement émotionnel » ; montrer à la place un brouillon de réponse qu'il commence."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "dans un couple fragile, il a l'habitude de déclencher des ruptures dramatiques",
+          "problem": "Hugo et Chloé sont séparés depuis l'épisode 1 ; « couple fragile » brouille leur situation.",
+          "fix": "Écrire « dans un lien déjà fragilisé par la rupture »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "En passant au studio, il raconte à Théo à quel point il s’était senti sûr de la rupture. Samba lui demande s’il a encore besoin d’un moment avant de commencer.",
+          "problem": "Théo (le frère) apparaît au studio sans raison et Samba n'est toujours pas présenté.",
+          "fix": "Préciser que Théo l'accompagne au studio ce soir-là et présenter Samba comme batteur."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions.md",
+      "focus": "schéma d'abandon et d'instabilité (Young) : attendre le départ de l'autre et le provoquer",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Excellente scène de répétition : le sourire de Chloé, la pédale de volume poussée, la guitare qui couvre la voix, Samba qui arrête. L'échec du dénouement (Chloé sort) est net et assumé.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Hugo espère parfois retrouver Chloé et prépare aussi une façon de ne pas paraître attendre.",
+          "problem": "Cette troisième manifestation (rapprochement et retrait) est exactement le sujet de l'épisode 7 sur l'ambivalence.",
+          "fix": "Remplacer par une autre manifestation du schéma : surveiller les signes de fin dans d'autres liens (Samba, Théo)."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Comme Hugo, vous avez peut-être construit des forteresses pour vous protéger d'une douleur ancienne",
+          "problem": "Conclusion métaphorique qui suppose une douleur ancienne que le texte s'interdit d'établir.",
+          "fix": "Garder seulement le paragraphe sur la peur et la réponse choisie, et ajouter ce que la répétition interrompue change pour la suite."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale.md",
+      "focus": "sentiment de trahison quand Samba rejoint un groupe rival pour la tournée",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les coulisses du tremplin, l'annonce sur Samba et la question factuelle avant de monter sur scène sont claires. Le titre du retour situe la conversation « après le tremplin » alors qu'elle a lieu avant le passage.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il y a quelques semaines, Hugo luttait encore contre son propre sabotage lors d'une répétition avec Chloé",
+          "problem": "La répétition gâchée (épisode 4) date du 2 avril, six jours avant le tremplin du 8 avril.",
+          "fix": "Écrire « Six jours plus tôt »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "## La conversation après le tremplin",
+          "problem": "Le texte de la section place la conversation avant le passage d'Hugo (« Un bénévole annonce à Hugo qu'il va jouer »).",
+          "fix": "Renommer la section « Derrière la porte des coulisses »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Samba, son ami le plus proche dans le milieu, vient de confirmer qu'il intègre le groupe rival pour la tournée d'été.",
+          "problem": "On ne sait pas que Samba est le batteur du groupe d'Hugo ni comment Hugo l'apprend (« vient de confirmer » à qui ?).",
+          "fix": "Préciser : « Samba, le batteur de leur groupe, a confirmé sur la page du groupe rival qu'il partait en tournée avec eux »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "on retire aux autres le pouvoir de nous briser émotionnellement",
+          "problem": "Conclusion qui contredit le corps du texte (la blessure est réelle et légitime).",
+          "fix": "Supprimer ce paragraphe."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie.md",
+      "focus": "euphorie après un concert réussi et décision impulsive d'écrire à Chloé",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Concert au Melody, câble enroulé, étui qui ne ferme pas, message « Je t'aime » envoyé avant le métro : on suit tout. Le dénouement (il garde la joie, ne rajoute rien, éloigne le téléphone) est précis, et l'encadré sur les signes à faire examiner est utile.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse.md",
+      "focus": "ambivalence après une rupture : vouloir appeler Chloé et vouloir la bloquer",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Matin après le Melody : menu « Bloquer le contact », deuxième tasse remise en haut de l'étagère, « Salut » non envoyé. La scène montre l'ambivalence par des gestes et la fin (deux lignes au carnet, rejoindre Samba) est claire.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo.md",
+      "focus": "états du Moi (Berne) : préparer des reproches puis demander à Chloé ce qu'elle accepte",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'escalier du studio, les trois reproches préparés et l'accord final (messages seulement pour les répétitions) sont clairs. Mais l'article et la rubrique proches parlent de « jeter une guitare » et d'un « geste violent » qui n'a jamais eu lieu dans le parcours, ce qui laisse croire qu'Hugo a été violent.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Jeter une guitare peut blesser ou effrayer : interrompre et se mettre en sécurité passe en premier.",
+          "problem": "Aucun épisode ne montre Hugo jeter un instrument ; la description, la conclusion (« Après un geste violent, la personne qui l'a commis… ») et la rubrique proches suggèrent un fait absent du récit. Le lecteur ne sait plus ce qui s'est passé.",
+          "fix": "Retirer la mention de la guitare jetée et du « geste violent » ; garder un avertissement général sur l'intimidation sans l'imputer à Hugo."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Comme Hugo, vous pouvez apprendre à identifier quel état du Moi vous gouverne",
+          "problem": "Contredit la technique 1 qui refuse de déterminer « quel état le « gouverne » ».",
+          "fix": "Remplacer par « repérer ce que vos mots expriment »."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Il a prévu le moment où elle devrait lui donner raison.",
+          "problem": "La scène montre bien la préparation de reproches mais pas le passage d'un état à l'autre ; le lien avec Parent, Adulte, Enfant reste porté par les manifestations.",
+          "fix": "Ajouter dans la scène une phrase qu'Hugo s'entend dire avec le ton de son père et une phrase d'enfant blessé, avant la question factuelle."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo.md",
+      "focus": "humour défensif : une pique sur l'« entrée théâtrale » de Chloé à la place de dire ce qui le touche",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "On ne comprend pas pourquoi Chloé vient chercher des cartons dans le local technique du bar où Hugo travaille, ni ce qu'est la dispute qui « dérape ». L'imitation qu'elle reproche au dénouement n'a pas été montrée. L'excuse finale est en revanche nette.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "il est en pause entre deux services au bar quand Chloé descend les escaliers, les mains pleines de cartons.",
+          "problem": "Les affaires de Chloé devraient se trouver à l'appartement (épisode 7) ; le lieu et la raison de sa venue ne sont pas expliqués.",
+          "fix": "Situer la scène à l'appartement, ou préciser que Chloé avait laissé des affaires dans la réserve du bar où ils stockaient le matériel du groupe."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Chloé repose un carton et riposte sans humour. La conversation dérape, chacun pousse ses lignes.",
+          "problem": "Résumé abstrait à la place du dialogue : on ignore ce que dit Chloé, ce que reproche chacun, et l'imitation qui motive la réplique finale (« pas venue pour se faire imiter ») n'est jamais montrée.",
+          "fix": "Écrire deux répliques : la demande de Chloé (« Tu peux me laisser passer ? »), l'imitation de son ton par Hugo, puis sa réponse sèche."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "après la répétition ratée du 02 avril et la confrontation qu'il a préparée avec Théo au studio",
+          "problem": "À l'épisode 8, la conversation préparée était avec Chloé ; Théo n'était que dans l'escalier.",
+          "fix": "Écrire « la conversation préparée avec Chloé au studio »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Hugo sent son Enfant blessé frémir ; son Parent critique évoque les attentes de son père Alain.",
+          "problem": "Vocabulaire de l'épisode précédent plaqué sur la scène, sans geste.",
+          "fix": "Remplacer par une sensation et une pensée concrètes."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Enfin, si ces difficultés persistent ou si la souffrance vous semble trop lourde",
+          "problem": "Deux paragraphes successifs renvoient vers un professionnel ; la conclusion ne situe pas l'épisode dans le parcours.",
+          "fix": "Fusionner les deux paragraphes et ajouter une phrase sur la remarque reprise au bar."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux.md",
+      "focus": "personnalisation : Hugo s'attribue la cause de son absence sur l'affiche d'un concert",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La boutique de partitions, l'image agrandie jusqu'aux pixels, la phrase déformée pendant le service et la date découverte avec Samba forment une histoire claire. Quelques exemples généraux ne collent pas au personnage.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Pour une personne timide et sensible, ces images ne restent pas des images",
+          "problem": "Hugo n'a jamais été décrit comme timide : il est sur scène, parle au public et aux clients.",
+          "fix": "Écrire « Pour Hugo, qui guette déjà les signes d'éloignement »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Cette réaction est d'autant plus vive qu'il porte encore la cicatrice du 8 avril, quand il avait perçu le départ de Samba vers un groupe rival comme une trahison identitaire totale",
+          "problem": "Renvoi daté à l'épisode 5 avec son vocabulaire ; l'exemple d'un post de Samba n'appartient pas à la scène.",
+          "fix": "Supprimer la phrase de renvoi."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Comme Hugo, vous pouvez apprendre à lire les écrans avec moins d'assaut intérieur et plus de clairvoyance.",
+          "problem": "Formule générique ; la conclusion ne reprend pas le choix de laisser la question ouverte pendant la répétition.",
+          "fix": "Terminer sur cette décision."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement.md",
+      "focus": "prédiction négative en amitié : croire que Samba partira sans lui parler",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "faible",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le couloir du festival, la main qui retombe, la bouteille d'eau et les cinq minutes convenues sont concrets. Les deux paragraphes d'analyse au milieu de la scène alourdissent l'ouverture, et l'épisode recoupe celui du « On doit parler ».",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Il se dit que ce soir est le point final de leur amitié.",
+          "problem": "Même mécanisme que l'épisode 3 (une crainte devient une issue certaine), avec Samba à la place de Chloé ; la différence entre prédire l'avenir et raisonnement émotionnel n'est pas rendue visible.",
+          "fix": "Dans la section concept, montrer explicitement ce qui distingue la prédiction (un scénario futur détaillé) du raisonnement émotionnel (« je le sens, donc c'est vrai »), et le faire voir dans la scène par l'image du parking."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il repense à cette discussion avec Chloé où il avait compris que son cerveau aimait créer des drames pour se protéger d'une éventuelle douleur.",
+          "problem": "Renvoi méta à une discussion qui n'existe dans aucun épisode sous cette forme.",
+          "fix": "Supprimer la phrase."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Depuis que son ami a rejoint un groupe rival le mois dernier, chaque interaction ressemble à une marche sur des œufs.",
+          "problem": "À l'épisode 10, Hugo et Samba répètent et parlent normalement de l'affiche.",
+          "fix": "Écrire « Depuis l'annonce de la tournée, ils évitent de parler des dates »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "l'ombre de son père Alain plane toujours : si la performance n'est pas parfaite, l'affection disparaît",
+          "problem": "Le père sert d'explication à de nombreux épisodes (2, 3, 5, 9, 11) avec des versions différentes (réactions guettées, froncements de sourcils, encouragements contre trophées).",
+          "fix": "Fixer une version unique du père et la limiter aux épisodes où elle éclaire la scène."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Il manque un douzième épisode, et l'histoire avec Chloé reste sans clôture après l'épisode 9. Proposition : un épisode final « Comprendre et maîtriser ses émotions » sur la jalousie après une rupture, distinct de la trahison (rivalité professionnelle) et de l'abandon. Scène : au dernier concert avant la tournée, Chloé arrive avec une nouvelle personne ; Hugo a envie de vérifier son profil et de lui écrire, puis s'en tient à l'accord des messages limités aux répétitions et parle à Théo. L'épisode permettrait de conclure l'arc amoureux en montrant le respect durable de la limite posée à l'épisode 8.",
+  "verdict": "corrections_majeures"
+}

@@ -1,0 +1,453 @@
+{
+  "character_id": "isabelle",
+  "type": "origine",
+  "auditor": "audit_o4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Isabelle, née en 1978 (47 ans), psychologue scolaire dans un collège ; divorcée de Laurent, père de Théo (16 ans) qui vit avec elle ; en couple avec Aurélie au début du parcours puis séparée (épisode 8) ; mère Geneviève ; amie Catherine ; collègue Claire (CPE).",
+    "arc_summary": "Le parcours suit Isabelle entre trois cercles : le couple avec Aurélie (inquiétude d'attachement, puis rupture), le collège (biais d'attribution, fatigue de compassion, biais de groupe) et sa mère Geneviève (parentification, reproches, deuil, empathie). Elle apprend à différer une réponse, à demander un relais et à poser des limites concrètes. La seconde moitié traite la séparation d'avec Aurélie et ses effets (déconnexion, manque).",
+    "arc_issues": [
+      "La rupture avec Aurélie, événement central de la seconde moitié, n'est jamais montrée : l'épisode 7 (18 avril) n'en dit rien et l'épisode 8 (23 avril) s'ouvre sur « Depuis qu'Aurélie est partie ». Le lecteur du parcours apprend la séparation après coup, sans scène ni contexte.",
+      "Catherine apparaît dès les épisodes 2 et 4 sans présentation (« Elle peut parler de sa façon de travailler avec Catherine », « Catherine lui propose de raccompagner Théo ») ; elle n'est identifiée comme amie qu'à l'épisode 7.",
+      "Trois épisodes avec Geneviève (3, 9, 10), plus l'épisode 6, reposent sur la même mécanique : des papiers ou une lettre que la mère présente, et Isabelle qui reporte au lendemain ou laisse le dossier de côté. Les concepts diffèrent, mais l'action se répète.",
+      "Certains retours enchaînent des actions procédurales résumées (supervision, équipe qui « examine », plan conçu « ensemble ») au lieu d'une scène (épisodes 2 et 4)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple.md",
+      "focus": "Anxiété d'attachement (hyperactivation) : Isabelle attend un signe d'Aurélie, partie faire des courses, après une dispute.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène lisible : téléphone vérifié, message effacé, phrase « À tout à l'heure » relue, portière qui claque. La fin (rendez-vous fixé au lendemain, inquiétude qui revient pendant la lecture) est nette. Seul Théo n'est pas situé : le lecteur ne sait pas qu'il est son fils.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Au bout du couloir, Théo rit dans son casque.",
+          "problem": "Premier épisode du parcours : Théo apparaît sans lien indiqué avec Isabelle, alors qu'il revient dans presque tous les épisodes.",
+          "fix": "Écrire « Au bout du couloir, son fils Théo, seize ans, rit dans son casque. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Isabelle a appris à dire à Aurélie : « Quand tu ne réponds pas, je me sens un peu inquiète, j’aimerais savoir que tout va bien. »",
+          "problem": "La technique présente comme déjà acquis (« a appris ») ce que la scène finale montre pour la première fois ; même chose pour « Isabelle a commencé à pratiquer la marche en nature ». Cela brouille la chronologie de l'épisode.",
+          "fix": "Mettre au conditionnel : « Isabelle pourrait dire à Aurélie… » et « Isabelle peut choisir une marche ou quelques pages… »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole.md",
+      "focus": "Biais d'attribution fondamentale : Isabelle pense « manque de motivation » devant les absences de Mathieu, un élève.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est concrète (relevé d'absences, sac sur les genoux, écran tourné vers Mathieu). Le retour se déplace au « lendemain » alors que la scène s'arrêtait sur une question posée dans le bureau, puis résume un plan familial, une parenthèse sur Aurélie et une mention de Catherine que le lecteur ne connaît pas.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Isabelle applique ces techniques dès le lendemain. Elle prend son carnet et, au lieu de noter Mathieu comme paresseux, elle remplit une grille de contexte",
+          "problem": "La scène s'arrête sur la question posée à Mathieu, présent dans le bureau ; le retour repart du « lendemain » et décrit des étapes (grille, trois vérifications, entretien familial, plan) au lieu de montrer la réponse de Mathieu dans la scène ouverte.",
+          "fix": "Reprendre dans le même bureau : Mathieu répond à la question sur le premier cours manqué (son petit frère à garder) ; Isabelle note l'obstacle et lui propose une rencontre avec sa famille. Résumer le plan en une phrase."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle peut parler de sa façon de travailler avec Catherine sans lui transmettre d’informations sur Mathieu.",
+          "problem": "Catherine apparaît sans aucune présentation (collègue ? amie ?). Le lecteur ne peut pas comprendre l'enjeu de confidentialité.",
+          "fix": "Présenter Catherine à sa première mention : « avec son amie Catherine, qui ne travaille pas au collège, ». Sinon retirer la phrase."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Ensemble, ils conçoivent un plan simple : prévenir le collège si la garde change et proposer à Mathieu un rattrapage hebdomadaire.",
+          "problem": "Phrase de compte rendu (« ils conçoivent un plan ») qui remplace un échange : on ne sait pas qui propose quoi ni ce que Mathieu en pense.",
+          "fix": "Donner une réplique de Mathieu ou du parent qui accepte le rattrapage du mercredi, puis la décision."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions.md",
+      "focus": "Parentification : chez sa mère Geneviève, Isabelle reprend d'emblée le tri des factures, comme elle apaisait ses parents enfant.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Situation claire (factures sur le tapis, Théo qui demande s'il reste des pâtes). Le retour contient une réplique dont on ne sait pas qui la prononce, et l'on ignore ce qu'Isabelle a fait des factures « à échéance ».",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Geneviève lui tend le reste du classeur. « Celles-ci peuvent attendre. Tu veux qu’on regarde ensemble comment les ranger la prochaine fois ? » Sa mère fait la moue.",
+          "problem": "La réplique suit immédiatement un geste de Geneviève et se lit comme sa phrase, alors qu'elle est manifestement celle d'Isabelle (sa mère « fait la moue » ensuite). C'est le moment décisif de l'épisode.",
+          "fix": "Attribuer la réplique : « Isabelle repousse le classeur : « Celles-ci peuvent attendre… » »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Isabelle met les factures à échéance de côté.",
+          "problem": "On ne sait pas si elle les traite ce jour-là, les emporte ou les laisse ; la limite qu'elle pose reste floue.",
+          "fix": "Préciser : « Elle règle avec sa mère les deux factures qui arrivent à échéance et laisse le reste. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle n'est pas seulement la fille qui aide sa mère, elle est le pilier sur lequel une structure fragile s'appuie sans jamais demander si le pilier est fatigué.",
+          "problem": "Image abstraite qui résume le concept à la place d'une action ; elle anticipe aussi une conclusion que la partie théorique nuance ensuite.",
+          "fix": "Remplacer par un geste observable (elle ouvre la deuxième enveloppe pendant que sa mère parle du chauffage)."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences.md",
+      "focus": "Fatigue de compassion : après trois entretiens rapprochés, Isabelle n'arrive plus à finir son rapport et hésite à demander un relais.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est très précise (phrase inachevée, créneau qui chevauche, morceau de Théo). Le retour enchaîne en revanche des phrases procédurales (supervision, équipe qui examine) et fait intervenir Catherine sans qu'on sache qui elle est ; le morceau de Théo, pourtant annoncé comme enjeu de la soirée, n'est jamais repris.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Le soir, Catherine lui propose de raccompagner Théo un mercredi.",
+          "problem": "Catherine n'est toujours pas présentée ; on ne comprend pas pourquoi elle raccompagnerait Théo.",
+          "fix": "« Le soir, son amie Catherine, qui habite près du lycée de Théo, lui propose… »"
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "L’équipe examine comment ménager une pause et répartir les demandes.",
+          "problem": "Phrase procédurale qui remplace l'action : on ne sait ni qui décide ni ce qui change concrètement le lendemain.",
+          "fix": "Montrer une décision : « Claire prendra l'élève de 16 h ; Isabelle garde vingt minutes libres entre deux entretiens le jeudi. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Ce soir, elle espère avoir assez d’attention pour ça.",
+          "problem": "L'enjeu personnel (écouter le morceau de Théo) disparaît du retour, qui parle d'Aurélie à la place.",
+          "fix": "Ajouter une phrase finale : elle demande à Théo de remettre le morceau au début, ou lui dit qu'elle l'écoutera le lendemain."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre.md",
+      "focus": "Favoritisme envers son groupe : en salle des professeurs, Isabelle est tentée de rejoindre le « nous, les profs » contre les familles.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le mécanisme est bien rendu (le « ils », Claire qui durcit le ton, la peur d'être exclue) et la fin est claire (deux appels répartis). L'« incident de la veille » qui motive toute la réunion n'est jamais décrit, et un rappel attribue à l'épisode 1 une évolution avec Théo qui n'y figure pas.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Une réunion de crise vient de s'improviser suite à l'incident de la veille impliquant un groupe d'élèves de troisième.",
+          "problem": "L'événement déclencheur n'est jamais dit (bagarre ? dégradation ?). Le lecteur ne peut pas juger si la généralisation aux familles est disproportionnée, ce qui est le cœur du concept.",
+          "fix": "Nommer l'incident en une phrase : « trois élèves de troisième ont tagué la porte du gymnase et insulté le surveillant ». Reprendre ce fait dans « Une objection autour de la table »."
+        },
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Elle repense à son fils Théo, avec qui les tensions s'apaisent doucement depuis qu'elle a compris ses propres schémas d'attachement le mois dernier.",
+          "problem": "L'épisode sur l'attachement concernait Aurélie, pas Théo, et aucune tension avec Théo n'a été montrée.",
+          "fix": "Remplacer par « Elle repense à Aurélie et à l'heure qu'elles avaient fixée pour reparler de leur dispute » ou supprimer."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le professeur d’histoire, hausse le ton",
+          "problem": "Virgule fautive entre le sujet et le verbe.",
+          "fix": "« Le professeur d'histoire hausse le ton »"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme.md",
+      "focus": "Méthode ABCDE d'Ellis : seule le soir, Isabelle trie sa culpabilité face au reproche écrit de Geneviève et choisit de rappeler le lendemain.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Contexte bien posé (Théo chez son père Laurent, message de Geneviève cité, cinq colonnes). Le retour est clair et concret (message envoyé, téléphone laissé en bas). Quelques raccords inexacts.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle se souvient de sa promesse de mars : arrêter le cycle du sacrifice de soi.",
+          "problem": "Aucune promesse de ce type n'a été formulée dans l'épisode 3, qui se terminait sur un geste limité (classeur laissé chez Geneviève).",
+          "fix": "Écrire « Elle se souvient du classeur qu'elle avait laissé chez sa mère en mars »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle envoie le message et monte lire. Arrivée en haut, elle redescend chercher son téléphone",
+          "problem": "L'épisode parle d'un « appartement » et Isabelle est « seule dans son salon » ; la montée suggère une maison à étage. Le lieu de vie n'est pas fixé.",
+          "fix": "Remplacer « monte lire » par « va lire dans sa chambre », ou établir une fois que l'appartement est en duplex."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "C'est la même sensation que lorsqu'elle attendait les messages d'Aurélie il y a quelques semaines",
+          "problem": "Le parallèle avec l'épisode 1 reste juste, mais l'épisode reprend aussi la parentification, la fatigue de compassion et Mathieu, ce qui alourdit l'ouverture.",
+          "fix": "Garder un seul rappel (Aurélie) et retirer celui sur la fatigue de compassion."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle.md",
+      "focus": "Pensées automatiques négatives en amitié : au café, Isabelle prend les coups d'œil de Catherine à son téléphone pour de l'ennui.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène simple et vivante (téléphone retourné, addition tirée vers soi) et résolution claire (la sœur de Catherine attend des résultats, marche proposée). Quelques éléments cités dans l'analyse ne figurent pas dans la scène.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Catherine l’interrompt pour dire qu’elle n’a pas compris qui avait appelé.",
+          "problem": "Dans l'épisode 6, Geneviève a envoyé un message, personne n'a appelé.",
+          "fix": "« … qu'elle n'a pas compris qui avait écrit. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Isabelle se rappelle que Catherine a proposé de se voir et a posé des questions sur Théo.",
+          "problem": "Les « questions sur Théo » et les « rires partagés » servent de contre-preuves, mais n'apparaissent pas dans la scène.",
+          "fix": "Ajouter dans l'ouverture une ligne où Catherine demande des nouvelles de Théo et rit d'une anecdote."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse.md",
+      "focus": "Impressions d'irréalité et symptômes dissociatifs après la séparation d'avec Aurélie ; Isabelle décide de consulter.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Les épisodes de déconnexion sont concrets (dossier rangé sans souvenir, photocopie doublée, voix lointaines) et la prudence médicale est bonne. Mais la rupture qui justifie le contexte n'a jamais été montrée et l'ouverture change de lieu sans transition.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Depuis qu’Aurélie est partie, il lui arrive aussi d’entendre les voix comme si elles venaient du bout du couloir",
+          "problem": "La séparation est annoncée en subordonnée, cinq jours après un épisode où rien ne la laissait prévoir. Le lecteur du parcours ne sait ni quand ni comment elle a eu lieu.",
+          "fix": "Ajouter deux phrases de contexte : « Aurélie a rendu ses clés il y a dix jours, après une dernière dispute dans la cuisine. » Idéalement, montrer la séparation dans un épisode antérieur (voir missing_or_extra)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Dans la salle des professeurs, l'odeur du marc de thé flotte autour d'elle.",
+          "problem": "La scène vient de s'ouvrir dans son bureau ; le passage à la salle des professeurs n'est pas signalé.",
+          "fix": "« Un peu plus tard, dans la salle des professeurs… »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "où son empathie semblait s'être évaporée sous le poids des crises des élèves",
+          "problem": "L'épisode 4 précisait que la fatigue ne prouvait pas « une perte d'empathie » ; ce rappel contredit sa nuance.",
+          "fix": "« où elle avait eu du mal à rester disponible après trois entretiens »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Au collège, elle s’accorde un relais pour les rendez-vous qu’elle ne se sent pas en mesure de mener.",
+          "problem": "Formule abstraite : on ne sait pas à qui elle confie quels rendez-vous.",
+          "fix": "« Elle demande à Claire de recevoir l'élève de jeudi. »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter.md",
+      "focus": "Mépris : pendant le deuil de son frère, Geneviève rabaisse Isabelle (« Toi, la grande psychologue ») ; Isabelle nomme la blessure et reporte le tri.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Contexte clair (oncle mort dix jours plus tôt, papiers apportés), réplique de mépris explicite, retour concret (blessure nommée, dossier sur le buffet, tisane au jardin). Très lisible seul.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Isabelle propose de poser le dossier sur le buffet et de choisir un autre moment pour y revenir.",
+          "problem": "Troisième fois que la scène avec Geneviève se résout par des papiers mis de côté et reportés (épisode 3 : classeur ; épisode 6 : rappeler demain ; épisode 10 : lettre reprise demain). L'aspect traité (mépris) est distinct, l'action ne l'est pas.",
+          "fix": "Garder la limite verbale (« cette remarque me blesse ») comme décision, et donner une autre issue concrète : Isabelle quitte l'appartement après la tisane en laissant à sa mère le numéro du notaire, ou demande à un autre proche de reprendre les papiers."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents.md",
+      "focus": "Empathie cognitive vs affective : Isabelle comprend l'inquiétude de Geneviève pour une lettre de l'assurance maladie sans renoncer au dîner promis à Théo.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Ouverture concrète (sac de courses, lait renversé, « tu » ambigu). Le retour reste au mode du possible (« Isabelle peut entendre son souci ») et laisse une contradiction sur le délai vérifié. L'action recoupe fortement les épisodes 3 et 9.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Sur le canapé, Isabelle propose de reprendre la lettre après sa promenade demain.",
+          "problem": "Même issue que les épisodes 3, 6 et 9 (document de Geneviève, report au lendemain). Le concept d'empathie aurait pu s'illustrer autrement.",
+          "fix": "Faire porter la décision sur la distinction propre au concept : Isabelle dit à sa mère « Je vois que la date te fait peur » (empathie cognitive) puis sort cinq minutes sur le palier parce qu'elle se sent submergée (détresse personnelle), avant de répondre."
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Geneviève indique un délai. Isabelle peut entendre son souci et regarder avec elle s’il faut agir avant le lendemain.",
+          "problem": "Le retour reste au conditionnel au moment de l'action ; on ne sait pas ce qu'Isabelle fait.",
+          "fix": "Écrire l'action : « Geneviève montre la date du 12. Isabelle vérifie : il reste neuf jours. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle verra demain ce que la lettre demande exactement.",
+          "problem": "Contredit la phrase précédente selon laquelle elles ont vérifié que le délai permettait d'attendre.",
+          "fix": "« Elle lira le détail de la lettre demain. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "après sa promenade demain",
+          "problem": "On ne sait pas s'il s'agit de la promenade d'Isabelle ou de celle de Geneviève.",
+          "fix": "« après la promenade de Geneviève, demain à 15 h »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille.md",
+      "focus": "Fenêtre de tolérance : Isabelle, épuisée en rentrant, sent qu'elle va hausser le ton face à la réplique sèche de Théo et se donne une pause.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène brève et claire (céréales tombées, « Laisse-moi tranquille, maman », début de phrase trop fort). La fin est simple et convaincante (télécommande tendue). Le cadrage du concept comme image pédagogique est prudent.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "une habitude de médiatrice qu'elle porte depuis ses huit ans, cette époque où elle tentait déjà de réparer les silences entre ses parents",
+          "problem": "Le rappel de l'enfance parentifiée revient dans presque chaque épisode (3, 5, 6, 7, 11) et n'apporte rien ici.",
+          "fix": "Supprimer la proposition et garder « Isabelle tente une approche douce. »"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse.md",
+      "focus": "Réactions et pensées répétées après une rupture : au Luxembourg, Isabelle relit le dernier message d'Aurélie puis organise son samedi.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène bien située (banc, carnet, marché prévu avec Aurélie) et fin pratique (message à Catherine, pain pour Théo). La critique des « cinq blessures » est juste. Une partie de l'analyse reprend en revanche le thème de l'épisode 7 et fait de la rupture un deuxième épisode sur le même événement.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Lorsque Catherine met quelques heures à répondre, Isabelle pense d’abord qu’elle l’ennuie.",
+          "problem": "Toute la manifestation « Le silence reçoit parfois un sens trop vite » et la première technique reprennent l'épisode 7 (interprétation du téléphone de Catherine).",
+          "fix": "Remplacer par une manifestation propre à la rupture : objets d'Aurélie encore dans l'appartement, envie de lui écrire, habitudes à deux (le marché) qu'elle évite."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Isabelle s’assied sur un banc en bois face au bassin du Jardin du Luxembourg.",
+          "problem": "Première indication d'une ville (Paris) après onze épisodes ; rien ne la contredit, mais elle surgit tard.",
+          "fix": "Situer une fois le collège ou l'appartement à Paris dans un épisode antérieur (par exemple l'épisode 1)."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Les douze épisodes sont présents. Il manque la scène de la séparation d'avec Aurélie, qui conditionne les épisodes 8 et 12 : proposer de transformer l'épisode 10 (empathie cognitive vs affective, trop proche des épisodes 3 et 9) en un épisode « empathie cognitive vs affective en couple » où Isabelle comprend les raisons d'Aurélie au moment où celle-ci annonce son départ (avril), ou d'insérer cette annonce au début de l'épisode 8. À défaut, ajouter une phrase datée sur la séparation à la fin de l'épisode 7. Alléger aussi les retours avec Geneviève pour qu'ils ne finissent pas tous sur un report de papiers.",
+  "verdict": "corrections_majeures"
+}

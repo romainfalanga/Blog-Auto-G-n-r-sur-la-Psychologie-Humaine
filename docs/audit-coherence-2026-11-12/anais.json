@@ -1,0 +1,354 @@
+{
+  "character_id": "anais",
+  "type": "origine",
+  "auditor": "audit_o1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Née en 1980, 46 ans (âge répété dans chaque épisode). Agente d'accueil municipale, vit avec une polyarthrite diagnostiquée et suivie. Proches : son compagnon Benoît, son amie Mireille (association culturelle, exposition d'affiches) ; au travail, sa collègue Céline et sa responsable Gabrielle.",
+    "arc_summary": "Anaïs commence par ajuster sa fin de journée au guichet et accepter un relais sans dette. Elle apprend ensuite à trier les informations de santé, à se reposer avant de devoir le prouver, à s'engager dans l'exposition d'affiches à sa mesure et à décrire ses sensations avant une consultation. Elle formule des demandes d'aide concrètes, fait reconnaître un besoin invisible puis demande un aménagement de poste. Elle termine présente, à sa mesure, à l'exposition, avec un espoir sans promesse de guérison.",
+    "arc_issues": [
+      "Le fil de l'exposition (ép. 4, 8, 9, 12) et celui du guichet (ép. 1, 7, 11) sont cohérents et bien suivis ; aucune contradiction factuelle relevée.",
+      "Les précautions médicales (« selon les consignes qui la concernent », « dans le cadre approprié », « recommandations reçues ») reviennent plusieurs fois par épisode. Elles rendent certains retours abstraits et procéduraux (ép. 5, 10, 11), au point qu'on ne sait plus ce qui a été décidé.",
+      "Les ép. 1, 3 et 8 (rythme, repos, plan flexible) et les ép. 7 et 11 (reconnaissance au travail, aménagement) se recouvrent en partie.",
+      "Gabrielle est nommée dans la rubrique proches de l'ép. 1 et dans les techniques de l'ép. 7 avant d'être présentée comme responsable."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/anais-energie-rythme-maladie.md",
+      "focus": "adapter son rythme et son énergie avec une polyarthrite suivie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La fin de permanence est concrète (ticket coincé, dossiers à monter, « Je t’en dois une »). Céline et Benoît sont présentés à leur première mention. Le retour montre une décision précise : laisser Céline porter, garder la vérification, renoncer aux courses. La rubrique proches nomme une Gabrielle jamais présentée dans l'article.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "proches",
+          "quote": "proposer d’en parler ensemble à Gabrielle",
+          "problem": "Gabrielle n'apparaît pas dans l'article (qui dit seulement « la responsable ») ; elle n'est présentée qu'à l'ép. 7.",
+          "fix": "Écrire « à Gabrielle, leur responsable »."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante.md",
+      "focus": "incertitude de santé et tri des informations (témoignage transmis par une amie)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La feuille pliée tendue par Mireille, le témoignage aux promesses rapides et le dilemme (ranger ou chercher toute la soirée) sont clairs. La fin est nette : elle remercie, range la feuille avec les documents de consultation, et la conversation revient au programme culturel.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Mireille la tend à Anaïs avec une intention généreuse",
+          "problem": "Mireille n'est pas présentée (amie ? membre de l'association ?) ; son lien avec Anaïs ne se comprend que par déduction.",
+          "fix": "Écrire « Mireille, une amie de l'association culturelle, la tend… »."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos.md",
+      "focus": "fatigue et droit au repos sans devoir prouver l'épuisement",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène domestique claire (serviettes de travers, amis attendus dans une heure, Benoît qui demande « Toi, qu'est-ce qu'il te faut ? »). Le retour montre la phrase annoncée aux invités et le dessert confié à Mireille. Le concept est voisin de l'ép. 1 mais centré sur la légitimité du repos.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Après leur départ, Benoît confirme qu'ils peuvent laisser certaines choses pour le lendemain.",
+          "problem": "Le motif « reporter les tâches et ne pas créer de dette » reprend presque mot pour mot la technique 3 de l'ép. 1 (« Négocier un appui précis sans dette immédiate »).",
+          "fix": "Centrer la fin sur l'aspect propre à l'épisode (s'asseoir avant que la fatigue se voie) et retirer la discussion sur la dette."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets.md",
+      "focus": "engagement dans un projet avec des capacités fluctuantes",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L'affiche de bal aux lettres rouges ancre bien le projet d'exposition. On comprend l'enjeu (vouloir écrire sans promettre une version trop grande du rôle) et la décision (deux notices, pas de panneaux, point de révision).",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Anaïs suit du regard les lettres rouges et le nom d'une salle disparue. Anaïs voudrait retrouver à quel endroit on dansait.",
+          "problem": "Répétition du prénom en deux phrases consécutives.",
+          "fix": "Remplacer le second « Anaïs » par « Elle »."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations.md",
+      "focus": "décrire ses sensations sans les interpréter avant une consultation",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La préparation de la feuille est claire, et la phrase barrée (« Je me provoque sûrement tout cela ») illustre très bien le concept. Mais le retour de consultation est décrit de façon procédurale, avec une phrase méta sur le récit lui-même : on ne sait pas ce qui s'est dit ni ce qu'elle a compris.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Le récit ne détaille pas une décision médicale qui pourrait être reprise sans contexte.",
+          "problem": "Phrase méta, procédurale, qui remplace l'action. Avec « Le professionnel lui pose d'autres questions, évalue et replace ces éléments dans son suivi », le lecteur n'apprend rien de la consultation.",
+          "fix": "Remplacer par un fait concret et non prescriptif : la rhumatologue lui fait refaire le geste de saisir un dossier, lui propose de voir l'ergothérapeute et lui redit quand appeler le service."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "elle remplace « je ne tiens plus rien » par deux situations précises",
+          "problem": "Cette formule n'apparaît pas dans la préparation de la feuille, où les phrases citées sont « Ça repart » et « Je me provoque sûrement… ».",
+          "fix": "Écrire « elle remplace « Ça repart » par deux situations précises »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/anais-demande-aide-concrete.md",
+      "focus": "formuler une demande d'aide concrète (porter le sac au cinéma)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène très lisible : sac qui glisse, « Non, laisse, je me débrouille », puis reprise de la demande devant la salle. La décision et sa conséquence (Benoît porte le sac, elle garde les billets, ils parlent du film) sont nettes.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Benoît regarde les horaires et Anaïs hésite déjà à prononcer son prénom assez fort pour traverser le hall.",
+          "problem": "Redit la phrase précédente (« hésite à appeler Benoît, déjà près de la caisse »).",
+          "fix": "Supprimer l'une des deux phrases."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance.md",
+      "focus": "handicap invisible : faire reconnaître un besoin sans exposer sa santé",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le concept est bien posé, mais l'auteur de la remarque « Pourtant, vous avez l'air en forme » n'est jamais identifié (usager, agent technique, collègue ?), alors que tout l'épisode repose sur cette remarque. Gabrielle apparaît dans les techniques avant d'être présentée comme responsable dans le retour.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "« Pourtant, vous avez l'air en forme. » La remarque arrive au moment où Anaïs demande qu'on laisse un passage libre derrière l'accueil municipal.",
+          "problem": "On ne sait pas qui parle ni pourquoi cette personne décide de l'emplacement des cartons. L'article dit seulement « son interlocuteur ».",
+          "fix": "Identifier la personne dès la première phrase, par ex. « dit l'agent des services techniques venu livrer les cartons »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "demander un échange dans le cadre approprié avec Gabrielle",
+          "problem": "Première mention de Gabrielle, sans fonction ; elle n'est présentée comme « sa responsable » que dans le retour.",
+          "fix": "Présenter Gabrielle comme responsable à cette première mention."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "### 3. Chercher un cadre de reconnaissance adapté",
+          "problem": "La technique 3 (médecine de prévention, référent handicap) anticipe tout le contenu de l'ép. 11.",
+          "fix": "Réduire la technique 3 à un renvoi bref, ou la remplacer par une technique sur la réponse à une remarque répétée."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable.md",
+      "focus": "plans flexibles pour une journée variable",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le carnet aux trois adresses entourées de bleu rend la situation immédiatement claire. Le retour montre des choix précis (magasin barré, appel à Mireille, achats confiés à Benoît) et leurs conséquences.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle regarde les horaires, puis la notice de l'exposition qu'elle souhaite apporter à Mireille.",
+          "problem": "Redit « Ce matin, elle revient sur les horaires du centre culturel » deux phrases plus haut.",
+          "fix": "Supprimer « Elle regarde les horaires, puis » et garder « la notice… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Le mot « annuler » rassemble tout",
+          "problem": "Les ép. 1, 4 et 8 traitent tous de l'ajustement d'un programme à une énergie variable. Celui-ci est le plus quotidien ; la distinction avec l'ép. 4 (projet sur plusieurs semaines) mériterait une phrase.",
+          "fix": "Ajouter une phrase qui oppose la journée du samedi à l'engagement à long terme de l'ép. 4."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie.md",
+      "focus": "identité au-delà de la maladie (se présenter en quatre lignes)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La case « quelques mots sur vous » est un très bon objet pour le concept : on voit Anaïs commencer par sa maladie, effacer, puis écrire son métier. Mireille et Benoît réagissent de manière concrète. Fin claire.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs.md",
+      "focus": "activité physique adaptée reliée à ses valeurs",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est claire (photos de salles et de jardins, banc près du chemin) et la valeur (dehors, parler sans se presser) bien nommée. Mais l'entretien se termine sans décision lisible : on ne sait pas quelle activité est envisagée ni ce qui est convenu. Le texte enchaîne des formules procédurales.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "L'intervenante reprend avec elle les conditions à vérifier et le cadre de la proposition appropriée.",
+          "problem": "Phrase procédurale qui remplace l'action ; la fin ne dit ni quelle option est retenue ni la suite convenue (le texte précise surtout ce qu'elle « ne repart pas avec »).",
+          "fix": "Donner une décision concrète et non prescriptive : l'intervenante propose le groupe de marche du jardin le jeudi, sous réserve de l'accord du rhumatologue, et Anaïs repart avec un numéro à appeler pour le transport."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Après un premier essai approprié et encadré selon sa situation",
+          "problem": "Les précautions sont empilées (« approprié », « encadré », « selon sa situation ») au point de rendre la phrase abstraite ; ce tic revient dans tout l'épisode.",
+          "fix": "Garder une seule précaution par phrase : « Après un premier essai encadré »."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/anais-amenagement-travail.md",
+      "focus": "demander un aménagement de poste au travail",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La photocopie du guichet annotée est une bonne image. Mais la réunion avec Gabrielle reste générale : « Elles conviennent de la prochaine prise de contact et du retour attendu », sans date, interlocuteur ni mesure. L'épisode prolonge l'échange déjà annoncé à la fin de l'ép. 7.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elles conviennent de la prochaine prise de contact et du retour attendu.",
+          "problem": "Fin floue : le lecteur ne sait pas ce qui est décidé (rendez-vous avec la médecine de prévention ? rangement modifié ?).",
+          "fix": "Préciser : Gabrielle fait remonter l'étagère des dossiers à hauteur du guichet dès lundi, et Anaïs demande elle-même un rendez-vous au service de médecine préventive, qui la rappellera dans la semaine."
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Depuis la remarque sur son apparence, elles conviennent de reprendre le sujet dans un cadre approprié.",
+          "problem": "L'ép. 7 se termine déjà par l'échange avec Gabrielle (« demande quel cadre utiliser pour les besoins récurrents ») et sa technique 3 détaille le même circuit. Les deux épisodes se chevauchent sur l'aspect « faire examiner le poste ».",
+          "fix": "Alléger la technique 3 de l'ép. 7 (voir cet épisode) pour que l'ép. 11 porte seul la démarche d'aménagement."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste.md",
+      "focus": "espoir réaliste et soutien (présence aménagée à l'exposition)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Conclusion de parcours réussie : chaise près du panneau, question d'un visiteur sur le nom de la rue, relais à Mireille, départ choisi avec Benoît. On voit le lien avec les épisodes précédents sans récapitulatif lourd.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Mireille a posé sa propre copie du programme près du siège. Elle ne reste pas toute la durée de l'exposition.",
+          "problem": "« Elle » renvoie grammaticalement à Mireille alors qu'il s'agit d'Anaïs.",
+          "fix": "Écrire « Anaïs ne reste pas toute la durée de l'exposition »."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes : rien ne manque et rien n'est en trop. Pour réduire les chevauchements, alléger dans l'ép. 7 la partie « cadre de reconnaissance » au profit de l'ép. 11, plutôt que fusionner des épisodes.",
+  "verdict": "corrections_majeures"
+}
