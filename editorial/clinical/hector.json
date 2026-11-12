@@ -219,6 +219,111 @@
       },
       "clinical_focus": "Nommer le delirium et chercher ses causes médicales",
       "diagnostic_stage": "diagnosis_explained"
+    },
+    {
+      "number": 3,
+      "slug": "hector-reperes-visibles-reorientation-chambre",
+      "title": "Des repères visibles pour retrouver le jour et le lieu",
+      "description": "Hector demande deux fois quel jour on est et s’en vexe. Lunettes, horloge et objets de l’atelier l’aident à se repérer, sans traiter la cause.",
+      "context": "le troisième soir à l’hôpital",
+      "topics": [
+        "Delirium",
+        "orientation",
+        "objets familiers"
+      ],
+      "clinical_intro": "Pendant un delirium, une personne peut perdre ses repères de temps et de lieu, surtout si elle voit ou entend mal. Les soignants l’aident à se réorienter avec une horloge lisible, un calendrier, ses lunettes, son appareil auditif et des objets connus, pendant qu’ils traitent la cause. Le troisième soir, Hector choisit lui-même où poser ces repères dans sa chambre.",
+      "opening": "Le troisième soir, Julien, le neveu d’Hector, entre dans la chambre à dix-neuf heures quinze avec un sac en toile de l’épicerie du bourg. Il est passé à la maison de son oncle, près de Saumur, après ses cours. Dans le sac, il y a les lunettes qu’Hector, 77 ans, charpentier retraité hospitalisé pour une infection pulmonaire, avait oubliées sur la table de la cuisine le jour de son admission ; l’appareil auditif dans sa boîte bleue ; une photo de l’atelier au fond du jardin, avec l’établi et la caisse d’outils de 1979 posée dessus ; et le crayon plat de charpentier qui traîne d’habitude derrière son oreille.\n\nHector met les lunettes. Il regarde la chambre comme si on venait d’en changer les murs. « Quel jour on est ? » Julien répond. Hector répète le jour à voix basse. Dix minutes plus tard, pendant que Julien raconte que le couvreur viendra à la longère la semaine prochaine, Hector l’interrompt : « Et on est quel jour, là ? » Il entend sa propre question et serre la mâchoire. « Je l’ai déjà demandé, hein. » Il détourne la tête vers la fenêtre noire. Il déteste ça : demander deux fois, comme un apprenti qui n’a pas écouté.\n\nJulien cherche une horloge. Il y en a une, au-dessus de la porte, mais le pied de la perfusion et sa poche la cachent presque entièrement depuis le lit. Nadia, l’infirmière de nuit, qui commence son service, entre à ce moment pour prendre sa température. Elle remarque le regard d’Hector qui fouille la pièce.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Se réorienter avec ce que l’on voit et entend",
+          "text": "L’orientation dans le temps et dans l’espace fait partie de ce que le delirium peut perturber, et elle dépend beaucoup de ce que la personne perçoit autour d’elle. Une chambre d’hôpital offre peu d’indices : des murs semblables, des bruits inconnus, des jours qui se ressemblent. Si les lunettes ou l’appareil auditif manquent, ces indices deviennent encore plus rares. Les recommandations de soins proposent donc de rendre visibles une horloge et un calendrier, de redonner lunettes et appareil auditif, d’apporter des objets familiers et de rappeler en phrases courtes où l’on est et qui l’on est. Ces aménagements accompagnent le traitement de la cause par l’équipe ; ils ne le remplacent pas. Pour Hector, la question répétée sur le jour n’est pas une faute d’attention qu’il devrait corriger par volonté : c’est un repère qui manque, et que l’on peut placer dans son regard."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la perte de repères se manifeste-t-elle dans une chambre ?",
+          "points": [
+            {
+              "heading": "La même question revient",
+              "text": "La personne peut redemander une information qu’on vient de lui donner, sans la retenir.",
+              "examples": [
+                "Hector demande deux fois quel jour on est, à dix minutes d’intervalle.",
+                "Il s’en aperçoit et se vexe, comme si on le prenait en faute."
+              ]
+            },
+            {
+              "heading": "Les indices sont cachés ou absents",
+              "text": "L’environnement peut priver la personne des repères qui l’aideraient à se situer.",
+              "examples": [
+                "L’horloge de la chambre est masquée depuis le lit par le pied de la perfusion.",
+                "Les lunettes d’Hector sont restées trois jours sur la table de sa cuisine."
+              ]
+            },
+            {
+              "heading": "Un lieu qui ne ressemble à rien de connu",
+              "text": "Sans objet familier, une chambre peut rester étrangère même après plusieurs jours.",
+              "examples": [
+                "En mettant ses lunettes, Hector regarde la pièce comme si on en avait changé les murs.",
+                "Rien dans la chambre ne rappelle son atelier ni sa maison avant l’arrivée du sac de Julien."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre les repères visibles pendant un delirium",
+          "points": [
+            {
+              "heading": "Rendre les sens disponibles",
+              "objective": "Permettre à la personne de voir et d’entendre ce qui l’entoure.",
+              "exercise": [
+                "Vérifier avec l’équipe que les lunettes et l’appareil auditif sont dans la chambre.",
+                "Les poser à portée de main, au même endroit chaque jour.",
+                "Signaler à l’infirmière un appareil qui ne fonctionne pas ou des lunettes inadaptées."
+              ],
+              "benefit": "La personne peut capter plus d’indices sur l’heure, le lieu et les visages."
+            },
+            {
+              "heading": "Placer l’heure et la date dans le regard",
+              "objective": "Offrir une réponse visible à la question du jour.",
+              "exercise": [
+                "Demander à l’équipe si l’horloge peut être déplacée ou dégagée.",
+                "Accrocher un calendrier lisible en face du lit, avec l’accord de la personne.",
+                "Lui laisser marquer elle-même le jour, si elle le souhaite."
+              ],
+              "benefit": "La personne peut retrouver l’information seule, sans devoir la demander encore."
+            },
+            {
+              "heading": "Se présenter et situer en phrases courtes",
+              "objective": "Rappeler qui l’on est et où l’on se trouve sans faire la leçon.",
+              "exercise": [
+                "Dire son prénom et son lien en entrant, même pour un visiteur connu.",
+                "Indiquer le nom du service et le moment de la journée en une phrase.",
+                "Vérifier d’un mot que la phrase a été comprise, sans la transformer en interrogation."
+              ],
+              "benefit": "La réorientation devient un échange ordinaire plutôt qu’un examen qui humilie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le trait de crayon sur le calendrier",
+      "ending": "Nadia pose le thermomètre, se présente et dit : « Vous êtes au service de médecine de l’hôpital de Saumur, il est sept heures et demie du soir. » Elle propose de rapprocher l’horloge et va chercher au poste de soins un calendrier à grandes cases. Elle demande à Hector où il le veut. Il désigne le mur en face du lit, à la hauteur de ses yeux quand il est assis. Nadia écrit au feutre, sur une bande de papier collée sous le calendrier : « Service de médecine, chambre 12 ». Hector choisit ensuite la place de la photo de l’atelier, sur la tablette, tournée vers lui, et celle du crayon plat, dans le gobelet à côté. Puis il demande le calendrier une seconde et, avec le crayon, entoure la case du jour d’un trait épais, comme on marque un repère sur une poutre. Julien range la boîte de l’appareil auditif dans le tiroir de la table de nuit. Nadia rappelle que l’équipe continue de soigner l’infection ; ces repères n’y changent rien, ils aident seulement à se situer. Hector regarde la case entourée et ne redemande pas le jour avant le départ de Julien.",
+      "conclusion": "Perdre ses repères de temps et de lieu fait partie de ce que le delirium peut produire, et l’environnement peut aider à les retrouver. Hector n’est pas guéri par une horloge, mais il dispose désormais, dans son regard, de réponses qu’il a placées lui-même.",
+      "mirror": [
+        "Quand Hector s’est vexé de redemander le jour, Julien n’a pas répondu « je viens de te le dire ». Un proche peut redonner l’information simplement, puis chercher avec l’équipe où l’afficher : « On met le calendrier où tu veux ? » Apporter les lunettes, l’appareil auditif et un objet de la maison est un geste à sa portée. Il laisse aux soignants le traitement et ne fait pas de chaque visite un contrôle de mémoire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "continuity": {
+        "choice": "Hector choisit la place du calendrier, de la photo de l’atelier et du crayon plat ; il entoure la case du jour au crayon ; l’horloge est dégagée et le nom du service affiché sous le calendrier, chambre 12.",
+        "next": "Le lendemain, en fin de journée, ces repères seront mis à l’épreuve par une nouvelle baisse d’attention après une matinée claire."
+      },
+      "clinical_focus": "Des repères visibles pour retrouver où l’on est",
+      "diagnostic_stage": "known"
     }
   ]
 }

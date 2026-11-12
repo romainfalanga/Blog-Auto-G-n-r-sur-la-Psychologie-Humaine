@@ -215,6 +215,110 @@
         "next": "Pendant le débit, Odile appelle pour donner les mesures de l’allée : Bilal les répète juste au téléphone, puis les perd après un passage chez le fournisseur de vis."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "bilal-rappel-immediat-oubli-apres-delai-mesures-allee",
+      "title": "Rappel immédiat préservé et oubli après un délai : les mesures de l’allée",
+      "description": "Au téléphone, Bilal répète sans faute les mesures de l’allée. Une demi-heure plus tard, au retour de la quincaillerie, l’appel lui-même a disparu.",
+      "context": "entre l’atelier et la quincaillerie",
+      "topics": [
+        "Trouble amnésique",
+        "rappel immédiat",
+        "carnet sur le moment"
+      ],
+      "clinical_focus": "Rappel immédiat préservé, oubli après un délai",
+      "clinical_intro": "Dans le trouble amnésique, une personne peut souvent répéter correctement une petite quantité d’informations juste après les avoir entendues, puis ne plus les retrouver après un délai ou une interruption. Bilal, dont le diagnostic est connu, en fait l’expérience avec deux mesures données au téléphone. Répéter juste ne suffit pas : écrire pendant l’appel change la suite.",
+      "opening": "Jeudi, neuf heures douze. Le téléphone fixe de l’atelier sonne au moment où Bilal coupe le moteur de la scie à ruban. C’est Odile, l’animatrice de la maison de quartier qui coordonne les six habitants du banc. Elle est au jardin partagé, un mètre ruban à la main.\n\n« J’ai mesuré l’allée comme tu me l’avais demandé. Un mètre soixante de large. Et entre le tilleul et la bordure, trois mètres quarante. »\n\nBilal répète : « Un mètre soixante, trois mètres quarante. Donc le banc de trois mètres passe, avec vingt centimètres de chaque côté. » Odile confirme, contente. Il a fait le calcul sans effort ; les chiffres sonnent juste dans sa bouche. Il raccroche, reprend son tablier et part à pied chez Brunet, la quincaillerie du boulevard Béranger, chercher des échantillons de tire-fonds en inox. Jonas, l’apprenti menuisier qui débite avec lui depuis hier, reste à l’atelier pour poncer les chutes.\n\nAu comptoir, le vendeur lui montre trois modèles. Bilal compare les filetages, discute de la rouille au contact du tanin, pose des questions précises. Il revient une demi-heure plus tard, une boîte de vis dans chaque poche.\n\nJonas relève ses lunettes de protection. « Alors, ça passe dans l’allée, trois mètres ? »\n\nBilal fronce les sourcils. « Quelle allée ? Odile doit encore la mesurer. »\n\nJonas hésite. « Elle a appelé tout à l’heure. Tu lui as répété les chiffres. »\n\nBilal va jusqu’au téléphone fixe et fait défiler le journal des appels. Maison de quartier, 9 h 12, quatre minutes. Il regarde l’écran longtemps. Il n’y a rien derrière ces chiffres : ni la voix d’Odile, ni le calcul des vingt centimètres, ni le geste de raccrocher. La boîte de tire-fonds pèse dans sa poche comme une preuve qu’il était bien ailleurs pendant que l’appel s’effaçait.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Répéter juste ne veut pas dire retenir",
+          "text": "Dans le trouble amnésique, la capacité à rappeler immédiatement une quantité limitée d’informations est habituellement relativement préservée ; ce qui fait défaut, c’est leur rétention après un délai. Une personne peut donc répéter un numéro ou une mesure sans erreur et ne plus les retrouver une demi-heure plus tard. Au téléphone, Bilal a même calculé la marge de vingt centimètres : sur le moment, l’information était bien présente. Le passage à la quincaillerie, avec d’autres sujets et d’autres décisions, a suffi pour que l’appel ne laisse aucune trace. Ce n’est pas un manque d’attention pendant l’échange, mais une information qui n’a pas été conservée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une information retenue sur le moment s’efface-t-elle ensuite ?",
+          "points": [
+            {
+              "heading": "Une répétition exacte qui rassure à tort",
+              "text": "La réponse juste donnée sur le moment peut faire croire, à la personne comme à son interlocuteur, que l’information est acquise.",
+              "examples": [
+                "Bilal répète les deux mesures et en tire un calcul correct.",
+                "Odile raccroche contente, sans raison de douter qu’il s’en souviendra."
+              ]
+            },
+            {
+              "heading": "Un délai rempli par d’autres tâches",
+              "text": "Une interruption ou une activité prenante entre l’information et son usage peut suffire à la perdre.",
+              "examples": [
+                "Il discute filetage et rouille pendant une demi-heure chez Brunet.",
+                "Il rentre persuadé qu’Odile n’a pas encore mesuré l’allée."
+              ]
+            },
+            {
+              "heading": "L’événement lui-même peut manquer",
+              "text": "Ce ne sont pas seulement les chiffres qui disparaissent : le fait d’avoir eu l’échange peut aussi ne plus être accessible.",
+              "examples": [
+                "Il ne se souvient pas d’avoir décroché le téléphone fixe.",
+                "Seul le journal des appels lui montre l’heure et la durée de l’échange."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour qu’une information entendue dure après l’appel",
+          "points": [
+            {
+              "heading": "Écrire pendant l’appel",
+              "objective": "Placer la trace au moment où l’information est encore disponible.",
+              "exercise": [
+                "Garder de quoi noter dans une poche, pas sur un meuble.",
+                "Demander à l’interlocuteur de patienter le temps d’écrire.",
+                "Noter la date, l’heure, la personne et les chiffres."
+              ],
+              "benefit": "La note profite du moment où le rappel immédiat fonctionne encore ; elle ne garantit pas qu’on pensera à la relire."
+            },
+            {
+              "heading": "Relire avant de changer d’activité",
+              "objective": "Relier la note à la suite du travail.",
+              "exercise": [
+                "Avant de sortir ou de reprendre une machine, relire la dernière note.",
+                "Reporter l’information sur le support commun si elle concerne d’autres personnes.",
+                "Cocher la note une fois l’information utilisée."
+              ],
+              "benefit": "Ce passage peut éviter qu’une information reste enfermée dans un carnet que personne ne rouvre."
+            },
+            {
+              "heading": "Demander une confirmation écrite",
+              "objective": "Disposer d’une seconde trace qui ne dépend pas de soi.",
+              "exercise": [
+                "À la fin de l’appel, demander un message reprenant les chiffres.",
+                "Dire simplement qu’on préfère l’écrit, sans avoir à expliquer pourquoi.",
+                "Ranger le message à un endroit facile à retrouver."
+              ],
+              "benefit": "L’interlocuteur garde un rôle limité et clair, sans devenir responsable de la mémoire de l’autre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet rouge dans le tablier",
+      "ending": "Bilal ne fait pas semblant. Il sort du tiroir de Martine, son associée ébéniste partie ce matin chez un client, un carnet à spirale rouge, de ceux qu’elle achète par dix pour ses devis, et rappelle Odile. « C’est Bilal. Pardon, je dois te redemander les mesures de l’allée. Je les avais répétées, mais elles ne me sont pas restées. Je les écris cette fois. » Odile, au bout du fil, ne pose pas de question ; elle redonne lentement les deux chiffres. Il écrit : « Jeudi 9 h 12, Odile : allée 1,60 m, tilleul-bordure 3,40 m. Banc 3 m : ça passe. » Puis il demande : « Tu peux aussi me l’envoyer par message ? » Elle accepte. Il glisse le carnet dans la poche avant de son tablier, là où il range d’ordinaire son crayon. Le message d’Odile arrive deux minutes plus tard. Bilal ne sait pas encore s’il pensera à ouvrir le carnet ailleurs qu’à l’atelier.",
+      "conclusion": "Répéter juste et retenir sont deux choses distinctes dans le trouble amnésique : le rappel immédiat peut fonctionner alors que l’information se perd après un délai. Le carnet rouge, utilisé pendant l’appel, s’ajoute à l’ardoise pour les informations reçues loin de l’établi.",
+      "mirror": [
+        "Jonas a demandé une information réelle, « ça passe dans l’allée ? », sans piéger Bilal ; puis il a simplement dit ce qu’il avait entendu. C’est un geste possible : rapporter un fait, sans insister ni demander à l’autre de se souvenir. Odile, de son côté, redonne les chiffres sans questionner et envoie le message demandé. Un proche peut proposer : « Je te l’écris aussi ? », mais il n’a pas à vérifier plus tard que l’information est restée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "incog-memoire-2023"
+      ],
+      "continuity": {
+        "choice": "Bilal note pendant l’appel, dans un carnet à spirale rouge rangé dans la poche de son tablier, les mesures de l’allée (1,60 m de large, 3,40 m entre le tilleul et la bordure) et demande à Odile une confirmation par message.",
+        "next": "En comparant ses notes avec celles de Martine, Bilal découvrira qu’il croit parfois avoir prévenu quelqu’un alors qu’il ne l’a pas fait : Rachid n’a jamais entendu la date de retour de sa latte."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }
