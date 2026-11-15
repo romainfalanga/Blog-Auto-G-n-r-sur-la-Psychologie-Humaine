@@ -417,6 +417,208 @@
    "description": "Maladie grave, douleurs ou hospitalisations répétées dans l'enfance.",
    "examples": [],
    "ace": false
+  },
+  {
+   "id": "conflits_parents",
+   "group": "famille",
+   "label": "Disputes fréquentes entre les parents",
+   "description": "Tensions, cris ou silences hostiles entre les adultes, sans violence physique.",
+   "examples": [
+    "Repas tendus",
+    "Dispute dès qu'on rentrait"
+   ],
+   "ace": false
+  },
+  {
+   "id": "triangulation",
+   "group": "climat",
+   "label": "Être pris à partie dans les conflits des parents",
+   "description": "Servir de messager, de confident ou d'allié d'un parent contre l'autre.",
+   "examples": [
+    "« Dis à ton père que… »",
+    "Devoir choisir son camp"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parent_absent",
+   "group": "famille",
+   "label": "Parent très absent ou indisponible",
+   "description": "Un parent souvent absent (travail, départ, désintérêt) ou présent mais peu disponible.",
+   "examples": [
+    "Parent toujours au travail",
+    "Père ou mère parti"
+   ],
+   "ace": false
+  },
+  {
+   "id": "divorce",
+   "group": "famille",
+   "label": "Séparation des parents",
+   "description": "Divorce ou séparation, même sans conflit majeur.",
+   "examples": [
+    "Garde alternée",
+    "Déménagement après la séparation"
+   ],
+   "ace": true
+  },
+  {
+   "id": "famille_recomposee",
+   "group": "famille",
+   "label": "Famille recomposée difficile",
+   "description": "Arrivée d'un beau-parent ou de demi-frères et sœurs avec des tensions durables.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "demenagements",
+   "group": "contexte",
+   "label": "Déménagements et changements d'école répétés",
+   "description": "Changer souvent de lieu de vie, d'école ou d'amis.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "adoption",
+   "group": "famille",
+   "label": "Adoption",
+   "description": "Avoir été adopté, en particulier après des débuts de vie difficiles.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "violences_fratrie",
+   "group": "violences",
+   "label": "Violences ou humiliations dans la fratrie",
+   "description": "Coups, moqueries ou domination répétés de la part d'un frère ou d'une sœur.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "punitions_corporelles",
+   "group": "violences",
+   "label": "Punitions corporelles « ordinaires »",
+   "description": "Fessées, gifles ou tapes utilisées comme moyen d'éducation.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "pression_scolaire",
+   "group": "climat",
+   "label": "Pression scolaire ou de performance",
+   "description": "Résultats, sport ou activités vécus comme une exigence constante.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "emprise_religieuse",
+   "group": "climat",
+   "label": "Cadre religieux ou idéologique rigide",
+   "description": "Règles strictes, peur de la punition divine, isolement d'un groupe fermé.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "honte_famille",
+   "group": "ressentis",
+   "label": "Honte de sa famille",
+   "description": "Cacher sa maison, ses parents ou sa situation aux autres.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "debrouiller_seul",
+   "group": "ressentis",
+   "label": "Devoir se débrouiller seul trop tôt",
+   "description": "Ne pas pouvoir compter sur les adultes et gérer seul ses problèmes.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "pas_protege",
+   "group": "ressentis",
+   "label": "Ne pas se sentir protégé",
+   "description": "Penser qu'aucun adulte ne vous défendrait en cas de danger.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "se_sentir_different",
+   "group": "ressentis",
+   "label": "Se sentir différent des autres",
+   "description": "Impression de ne pas être à sa place, de ne ressembler à personne.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "enfant_sage",
+   "group": "ressentis",
+   "label": "Devoir être sage et ne pas déranger",
+   "description": "Se faire discret, ne rien demander pour ne pas peser.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "enfant_prefere_role",
+   "group": "ressentis",
+   "label": "Avoir un rôle fixe dans la famille",
+   "description": "Être « le fort », « le clown », « le problème » ou « celui qui réussit ».",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "moqueries_corps",
+   "group": "contexte",
+   "label": "Moqueries sur le corps ou l'apparence",
+   "description": "Remarques répétées sur le poids, le physique ou la puberté, à la maison ou à l'école.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "parent_malade_physique",
+   "group": "famille",
+   "label": "Parent gravement malade",
+   "description": "Maladie physique grave ou handicap d'un parent pendant l'enfance.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "isolement_social_enfant",
+   "group": "contexte",
+   "label": "Peu d'amis et peu d'activités",
+   "description": "Isolement social durable dans l'enfance ou l'adolescence.",
+   "examples": [],
+   "ace": false
+  }
+ ],
+ "domains": [
+  {
+   "id": "perceptions",
+   "label": "Perceptions et dissociation"
+  },
+  {
+   "id": "humeur",
+   "label": "Humeur"
+  },
+  {
+   "id": "anxiete",
+   "label": "Anxiété, peur et traumatisme"
+  },
+  {
+   "id": "relations",
+   "label": "Relations et attachement"
+  },
+  {
+   "id": "soi",
+   "label": "Image de soi"
+  },
+  {
+   "id": "emotions",
+   "label": "Émotions"
+  },
+  {
+   "id": "comportements",
+   "label": "Corps et comportements"
   }
  ],
  "outcomes": [
@@ -426,103 +628,118 @@
    "label": "Agoraphobie",
    "code": "6B02",
    "description": "La peur et l'évitement de lieux ou situations d'où il semble difficile de partir ou d'être aidé.",
-   "url": "/personnages/joachim/"
+   "url": "/personnages/joachim/",
+   "domain": "anxiete"
   },
   {
    "id": "anx_generale",
    "kind": "trouble",
    "label": "Anxiété ou troubles anxieux",
    "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée (CIM-11 6B00).",
-   "url": "/personnages/antonin/"
+   "url": "/personnages/antonin/",
+   "domain": "anxiete"
   },
   {
    "id": "pat_appeasement",
    "kind": "tendance",
    "label": "Apaiser autrui pour préserver sa sécurité",
    "description": "Accepter, flatter ou s’effacer pour réduire une tension relationnelle, en reconnaissant que cela peut être une protection face à un risque réel.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/",
+   "domain": "relations"
   },
   {
    "id": "att_anxieux",
    "kind": "attachement",
    "label": "Attachement anxieux",
    "description": "Craindre de perdre l'autre et chercher beaucoup de signes de son affection.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/",
+   "domain": "relations"
   },
   {
    "id": "att_desorganise",
    "kind": "attachement",
    "label": "Attachement désorganisé",
    "description": "Chercher la proximité tout en la craignant, avec des réactions contradictoires.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/",
+   "domain": "relations"
   },
   {
    "id": "att_evitant",
    "kind": "attachement",
    "label": "Attachement évitant",
    "description": "Garder ses distances et compter surtout sur soi pour ne pas dépendre des autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/",
+   "domain": "relations"
   },
   {
    "id": "pat_self_criticism",
    "kind": "tendance",
    "label": "Autocritique",
    "description": "Se juger globalement après une difficulté.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/",
+   "domain": "soi"
   },
   {
    "id": "ten_codependance",
    "kind": "tendance",
    "label": "Codépendance",
    "description": "S'oublier pour prendre en charge un proche en difficulté ; une notion clinique sans définition consensuelle.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/",
+   "domain": "relations"
   },
   {
    "id": "ten_externalisation",
    "kind": "tendance",
    "label": "Comportements d’opposition, d’agressivité ou antisociaux",
    "description": "Opposition, colères, agressivité ou conduites antisociales, observées dans l’enfance, l’adolescence ou plus tard ; elles relèvent parfois d’un trouble oppositionnel avec provocation (CIM-11 6C90).",
-   "url": "/personnages/ruben/"
+   "url": "/personnages/ruben/",
+   "domain": "comportements"
   },
   {
    "id": "pat_guilt",
    "kind": "tendance",
    "label": "Culpabilité",
    "description": "Se sentir fautif ou redevable au-delà de sa responsabilité.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/",
+   "domain": "soi"
   },
   {
    "id": "ten_alexithymie",
    "kind": "tendance",
    "label": "Difficulté à identifier et exprimer ses émotions (alexithymie)",
    "description": "Avoir du mal à reconnaître et à mettre des mots sur ce que l'on ressent.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/",
+   "domain": "emotions"
   },
   {
    "id": "pat_needs_expression",
    "kind": "tendance",
    "label": "Difficulté à reconnaître et exprimer ses besoins",
-   "description": "Mal percevoir ce dont on a besoin, ou ne pas oser le demander."
+   "description": "Mal percevoir ce dont on a besoin, ou ne pas oser le demander.",
+   "domain": "soi"
   },
   {
    "id": "pat_conflict",
    "kind": "tendance",
    "label": "Difficulté à vivre les désaccords",
    "description": "Éviter, redouter ou vivre comme une menace le moindre désaccord avec un proche.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/",
+   "domain": "relations"
   },
   {
    "id": "ten_dysregulation_emotionnelle",
    "kind": "tendance",
    "label": "Difficultés à réguler ses émotions",
-   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup."
+   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup.",
+   "domain": "emotions"
   },
   {
    "id": "ten_souffrance_enfance",
    "kind": "tendance",
    "label": "Difficultés émotionnelles ou de comportement dans l'enfance",
    "description": "Anxiété, tristesse, agitation ou opposition repérées pendant l'enfance ou l'adolescence.",
-   "url": null
+   "url": null,
+   "domain": "soi"
   },
   {
    "id": "icd_6a72",
@@ -530,7 +747,8 @@
    "label": "Dysthymie",
    "code": "6A72",
    "description": "Une humeur dépressive persistante, présente la plupart du temps pendant au moins deux ans.",
-   "url": "/personnages/timothee/"
+   "url": "/personnages/timothee/",
+   "domain": "humeur"
   },
   {
    "id": "icd_6c40_2",
@@ -538,27 +756,31 @@
    "label": "Dépendance à l'alcool",
    "code": "6C40.2",
    "description": "Une consommation d'alcool devenue difficile à contrôler malgré ses conséquences.",
-   "url": "/personnages/eric/"
+   "url": "/personnages/eric/",
+   "domain": "comportements"
   },
   {
    "id": "dep_generale",
    "kind": "trouble",
    "label": "Dépression ou symptômes dépressifs",
    "description": "Symptômes dépressifs durables ou épisodes dépressifs (CIM-11 6A70–6A71) : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
-   "url": "/personnages/louise/"
+   "url": "/personnages/louise/",
+   "domain": "humeur"
   },
   {
    "id": "ten_estime_soi",
    "kind": "tendance",
    "label": "Estime de soi fragilisée",
-   "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres."
+   "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres.",
+   "domain": "soi"
   },
   {
    "id": "ten_hypervigilance",
    "kind": "tendance",
    "label": "Hypervigilance à la menace",
    "description": "Repérer très vite les signes de danger, de colère ou de rejet, et réagir fortement.",
-   "url": null
+   "url": null,
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b23",
@@ -566,201 +788,230 @@
    "label": "Hypocondrie (anxiété liée à la santé)",
    "code": "6B23",
    "description": "La peur persistante d'avoir une maladie grave, malgré des examens rassurants.",
-   "url": "/personnages/lenaic/"
+   "url": "/personnages/lenaic/",
+   "domain": "anxiete"
   },
   {
    "id": "ten_conduites_suicidaires",
    "kind": "tendance",
    "label": "Idées suicidaires, tentatives ou automutilations",
    "description": "Idées de mort, projets ou tentatives de suicide.",
-   "note": "suicide"
+   "note": "suicide",
+   "domain": "humeur"
   },
   {
    "id": "pat_social_isolation",
    "kind": "tendance",
    "label": "Isolement social subi",
    "description": "Moins de liens et de soutien que ce que l’on souhaiterait.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/",
+   "domain": "relations"
   },
   {
    "id": "pat_perfectionism",
    "kind": "tendance",
    "label": "Perfectionnisme coûteux",
    "description": "Des exigences difficiles à assouplir malgré leur coût.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer/",
+   "domain": "soi"
   },
   {
    "id": "pat_abandonment_fear",
    "kind": "tendance",
    "label": "Peur de perdre le lien",
-   "description": "Inquiétude liée à une distance ou une séparation."
+   "description": "Inquiétude liée à une distance ou une séparation.",
+   "domain": "relations"
   },
   {
    "id": "ten_qualite_relationnelle",
    "kind": "tendance",
    "label": "Relations proches moins satisfaisantes",
-   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants."
+   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants.",
+   "domain": "relations"
   },
   {
    "id": "pat_parentification",
    "kind": "tendance",
    "label": "Responsabilités précoces (parentification)",
    "description": "Avoir pris enfant un rôle de parent, matériel ou émotionnel, auprès de sa famille.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/",
+   "domain": "soi"
   },
   {
    "id": "pat_emotional_suppression",
    "kind": "tendance",
    "label": "Retenir l’expression émotionnelle",
    "description": "Cacher ou contenir ses émotions pour se protéger ou préserver un lien.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/",
+   "domain": "emotions"
   },
   {
    "id": "ten_revictimisation",
    "kind": "tendance",
    "label": "Risque de nouvelles violences sexuelles",
    "description": "Subir à nouveau des violences sexuelles plus tard dans la vie ; la responsabilité en revient à l'agresseur.",
-   "url": null
+   "url": null,
+   "domain": "relations"
   },
   {
    "id": "pat_overresponsibility",
    "kind": "tendance",
    "label": "Rôle de sauveur",
    "description": "Se sentir tenu de résoudre les difficultés d’autrui au prix de ses besoins. « Sauveur » est un nom courant de ce processus possible, pas un syndrome clinique.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/",
+   "domain": "relations"
   },
   {
    "id": "sch_abandon",
    "kind": "schema",
    "label": "Schéma d'abandon et d'instabilité",
    "description": "Sentir que les personnes proches risquent de partir ou de ne pas rester fiables.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/",
+   "domain": "relations"
   },
   {
    "id": "sch_abnegation",
    "kind": "schema",
    "label": "Schéma d'abnégation",
    "description": "Faire passer les besoins des autres avant les siens, au point de s'oublier.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/",
+   "domain": "relations"
   },
   {
    "id": "sch_assujettissement",
    "kind": "schema",
    "label": "Schéma d'assujettissement",
    "description": "Taire ses besoins et ses avis pour éviter la colère ou le rejet.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/",
+   "domain": "relations"
   },
   {
    "id": "sch_exigences_elevees",
    "kind": "schema",
    "label": "Schéma d'exigences élevées",
    "description": "Pression constante pour atteindre des standards très élevés, avec une critique dure de soi.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/",
+   "domain": "soi"
   },
   {
    "id": "sch_imperfection",
    "kind": "schema",
    "label": "Schéma d'imperfection et de honte",
    "description": "Se sentir fondamentalement défectueux, mauvais ou indigne d'être aimé.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/",
+   "domain": "soi"
   },
   {
    "id": "sch_isolement",
    "kind": "schema",
    "label": "Schéma d'isolement social",
    "description": "Se sentir différent des autres et à l'écart des groupes.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/",
+   "domain": "relations"
   },
   {
    "id": "sch_echec",
    "kind": "schema",
    "label": "Schéma d'échec",
    "description": "Se croire moins capable que les autres et voué à échouer.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/",
+   "domain": "soi"
   },
   {
    "id": "sch_carence_affective",
    "kind": "schema",
    "label": "Schéma de carence affective",
    "description": "S'attendre à ne pas recevoir le soutien, l'attention ou la compréhension dont on a besoin.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/",
+   "domain": "soi"
   },
   {
    "id": "sch_controle_insuffisant",
    "kind": "schema",
    "label": "Schéma de contrôle de soi insuffisant",
    "description": "Difficulté à tolérer la frustration et à différer ses envies.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/",
+   "domain": "comportements"
   },
   {
    "id": "sch_droits_excessifs",
    "kind": "schema",
    "label": "Schéma de droits personnels excessifs",
    "description": "Se sentir au-dessus des règles de réciprocité.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/",
+   "domain": "soi"
   },
   {
    "id": "sch_dependance",
    "kind": "schema",
    "label": "Schéma de dépendance et d'incompétence",
    "description": "Se croire incapable de gérer seul les responsabilités du quotidien.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/",
+   "domain": "soi"
   },
   {
    "id": "sch_fusion",
    "kind": "schema",
    "label": "Schéma de fusion et de personnalité atrophiée",
    "description": "Une proximité avec un proche qui se paie par un manque d'identité propre.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/",
+   "domain": "relations"
   },
   {
    "id": "sch_mefiance",
    "kind": "schema",
    "label": "Schéma de méfiance et d'abus",
    "description": "S'attendre à être blessé, trompé, humilié ou exploité par les autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/",
+   "domain": "relations"
   },
   {
    "id": "sch_punition",
    "kind": "schema",
    "label": "Schéma de punition",
    "description": "Conviction que les erreurs méritent d'être durement punies.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/",
+   "domain": "soi"
   },
   {
    "id": "sch_recherche_approbation",
    "kind": "schema",
    "label": "Schéma de recherche d'approbation",
    "description": "Une estime de soi qui dépend surtout des réactions des autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/",
+   "domain": "relations"
   },
   {
    "id": "sch_surcontrole",
    "kind": "schema",
    "label": "Schéma de surcontrôle émotionnel",
    "description": "Retenir spontanéité et émotions pour éviter la désapprobation ou la perte de contrôle.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/",
+   "domain": "emotions"
   },
   {
    "id": "sch_vulnerabilite",
    "kind": "schema",
    "label": "Schéma de vulnérabilité au danger",
    "description": "Craindre en permanence une catastrophe contre laquelle on ne pourrait rien.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/",
+   "domain": "anxiete"
   },
   {
    "id": "pat_migration_adjustment",
    "kind": "tendance",
    "label": "Stress lié à l’adaptation après une migration",
    "description": "Difficultés à trouver sa place, à cumuler deux cultures ou à refaire un réseau après un changement de pays.",
-   "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/"
+   "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/",
+   "domain": "anxiete"
   },
   {
    "id": "ten_dissociation",
    "kind": "tendance",
    "label": "Symptômes dissociatifs",
    "description": "Se sentir déconnecté de soi, de son corps ou de ce qui se passe, avec des trous de mémoire.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/",
+   "domain": "perceptions"
   },
   {
    "id": "icd_6a60",
@@ -768,7 +1019,8 @@
    "label": "Trouble bipolaire de type I",
    "code": "6A60",
    "description": "Alternance d'épisodes maniaques et souvent dépressifs ; représente ici les troubles bipolaires.",
-   "url": "/personnages/emilien/"
+   "url": "/personnages/emilien/",
+   "domain": "humeur"
   },
   {
    "id": "icd_6b05",
@@ -776,7 +1028,8 @@
    "label": "Trouble d'anxiété de séparation",
    "code": "6B05",
    "description": "Une peur excessive d'être séparé des personnes auxquelles on est attaché.",
-   "url": "/personnages/rebecca/"
+   "url": "/personnages/rebecca/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b04",
@@ -784,7 +1037,8 @@
    "label": "Trouble d'anxiété sociale",
    "code": "6B04",
    "description": "Une peur marquée et durable du regard et du jugement des autres.",
-   "url": "/personnages/sacha/"
+   "url": "/personnages/sacha/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6c20",
@@ -792,7 +1046,8 @@
    "label": "Trouble de détresse physique",
    "code": "6C20",
    "description": "Des symptômes physiques pénibles qui occupent beaucoup de place et d'attention, au-delà de ce qu'explique un examen médical.",
-   "url": "/personnages/laure/"
+   "url": "/personnages/laure/",
+   "domain": "comportements"
   },
   {
    "id": "icd_6b43",
@@ -800,7 +1055,8 @@
    "label": "Trouble de l'adaptation",
    "code": "6B43",
    "description": "Une réaction difficile à un changement ou un stress de vie, avec préoccupations et difficultés à s'adapter.",
-   "url": "/personnages/elina/"
+   "url": "/personnages/elina/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b45",
@@ -809,7 +1065,8 @@
    "code": "6B45",
    "description": "Chez le jeune enfant, aller vers des adultes inconnus sans aucune réserve après des soins gravement insuffisants.",
    "url": "/personnages/thael/",
-   "note": "jeune_enfant"
+   "note": "jeune_enfant",
+   "domain": "relations"
   },
   {
    "id": "icd_6d11_5",
@@ -817,7 +1074,8 @@
    "label": "Trouble de la personnalité avec motif borderline",
    "code": "6D11.5",
    "description": "Des difficultés durables dans la manière de se vivre et d'être en relation, dont le type borderline.",
-   "url": "/personnages/mina/"
+   "url": "/personnages/mina/",
+   "domain": "relations"
   },
   {
    "id": "icd_6b40",
@@ -825,7 +1083,8 @@
    "label": "Trouble de stress post-traumatique",
    "code": "6B40",
    "description": "Revivre un événement terrifiant comme s'il se reproduisait, l'éviter et rester en alerte.",
-   "url": "/personnages/selma/"
+   "url": "/personnages/selma/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b41",
@@ -833,7 +1092,8 @@
    "label": "Trouble de stress post-traumatique complexe",
    "code": "6B41",
    "description": "Symptômes du stress post-traumatique avec, en plus, de grandes difficultés à réguler ses émotions, à se percevoir et à être proche des autres.",
-   "url": "/personnages/meriem/"
+   "url": "/personnages/meriem/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b64",
@@ -841,7 +1101,8 @@
    "label": "Trouble dissociatif de l'identité",
    "code": "6B64",
    "description": "Plusieurs états d'identité distincts qui prennent tour à tour le contrôle.",
-   "url": "/personnages/celeste/"
+   "url": "/personnages/celeste/",
+   "domain": "perceptions"
   },
   {
    "id": "icd_6b60",
@@ -849,7 +1110,8 @@
    "label": "Trouble dissociatif à symptômes neurologiques",
    "code": "6B60",
    "description": "Des symptômes comme une paralysie ou des crises, sans maladie neurologique qui les explique.",
-   "url": "/personnages/gaelle/"
+   "url": "/personnages/gaelle/",
+   "domain": "perceptions"
   },
   {
    "id": "icd_6b42",
@@ -857,7 +1119,8 @@
    "label": "Trouble du deuil prolongé",
    "code": "6B42",
    "description": "Un chagrin intense et envahissant qui dure bien au-delà de ce qui est attendu après un décès.",
-   "url": "/personnages/blandine/"
+   "url": "/personnages/blandine/",
+   "domain": "humeur"
   },
   {
    "id": "icd_6b01",
@@ -865,7 +1128,8 @@
    "label": "Trouble panique",
    "code": "6B01",
    "description": "Des attaques de panique répétées et inattendues, suivies d'une inquiétude à l'idée qu'elles reviennent.",
-   "url": "/personnages/jules/"
+   "url": "/personnages/jules/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b44",
@@ -874,7 +1138,8 @@
    "code": "6B44",
    "description": "Chez le jeune enfant, très peu chercher ou accepter le réconfort après des soins gravement insuffisants.",
    "url": "/personnages/basile/",
-   "note": "jeune_enfant"
+   "note": "jeune_enfant",
+   "domain": "relations"
   },
   {
    "id": "icd_6b81",
@@ -882,7 +1147,8 @@
    "label": "Troubles des conduites alimentaires",
    "code": "6B80–6B82",
    "description": "Boulimie, crises alimentaires, restrictions ou préoccupations envahissantes pour le poids et l’image du corps.",
-   "url": "/personnages/victoire/"
+   "url": "/personnages/victoire/",
+   "domain": "comportements"
   },
   {
    "id": "icd_6a20",
@@ -890,26 +1156,30 @@
    "label": "Troubles psychotiques (dont la schizophrénie)",
    "code": "6A20",
    "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic.",
-   "url": "/personnages/nils/"
+   "url": "/personnages/nils/",
+   "domain": "perceptions"
   },
   {
    "id": "ten_usage_substances",
    "kind": "tendance",
    "label": "Usage problématique d’alcool, de tabac ou de drogues",
    "description": "Consommer des substances de façon risquée ou difficile à contrôler.",
-   "url": "/personnages/eric/"
+   "url": "/personnages/eric/",
+   "domain": "comportements"
   },
   {
    "id": "pat_conditional_worth",
    "kind": "tendance",
    "label": "Valeur liée à la réussite",
-   "description": "Faire dépendre sa valeur de sa performance ou de son utilité."
+   "description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
+   "domain": "soi"
   },
   {
    "id": "ten_violences_couple",
    "kind": "tendance",
    "label": "Violences dans le couple à l'âge adulte",
-   "description": "Subir ou exercer des violences dans une relation de couple."
+   "description": "Subir ou exercer des violences dans une relation de couple.",
+   "domain": "relations"
   }
  ],
  "links": [

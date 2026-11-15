@@ -44,6 +44,27 @@ def page_exists(url: str) -> bool:
     return False
 
 
+DOMAINS = [
+    ("perceptions", "Perceptions et dissociation", r"psychot|6a2|dissoci|6b6"),
+    ("humeur", "Humeur", r"dep_|dysthym|bipolaire|suicid|6a7|6a6|deuil|6b42"),
+    ("anxiete", "Anxiété, peur et traumatisme", r"anx|panique|phobi|agoraphob|6b0|stress|6b4[0-3]|hypervigil|hypocondr|vulnerabilite"),
+    ("relations", "Relations et attachement", r"att_|attach|sauveur|overresponsib|codepend|dependance_aff|confiance|mefiance|abandon|intimit|couple|partenaire|relation|approbation|reassurance|violence|isolement|social|conflict|appeasement|assujett|abnegation|fusion|6b44|6b45|6d1"),
+    ("soi", "Image de soi", r"estime|honte|shame|imperfection|culpab|guilt|imposture|impostor|perfection|exigence|echec|conditional|critic|negativ|punition|droits|self_crit|carence|valeur"),
+    ("emotions", "Émotions", r"alexithym|emotion|regulation|colere|anger|suppress|detach|surcontrole"),
+    ("comportements", "Corps et comportements", r"substance|alcool|6c4|tabac|drogue|aliment|6b8|poids|obes|sommeil|sleep|douleur|sante|somat|6c2|ecran|jeu|travail|work|procrastin|externalis|antisoc|scolaire|sexual|sexuel|controle_insuffisant|impulsiv"),
+]
+
+
+def domain_of(outcome: dict) -> str:
+    if outcome.get("kind") == "attachement":
+        return "relations"
+    text = (outcome["id"] + " " + outcome.get("label", "")).lower()
+    for key, _, pattern in DOMAINS:
+        if re.search(pattern, text):
+            return key
+    return {"attachement": "relations", "schema": "soi"}.get(outcome.get("kind"), "soi")
+
+
 def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, sources: dict) -> list[str]:
     """Apply the pilot's traceable corrections after the independent review."""
     errors: list[str] = []
@@ -187,7 +208,8 @@ def build() -> tuple[dict, list[str]]:
         "weights": STRENGTHS,
         "groups": base["groups"],
         "factors": base["factors"],
-        "outcomes": sorted((o for o in outcomes.values() if o["id"] in used_outcomes), key=lambda o: o["label"]),
+        "domains": [{"id": k, "label": label} for k, label, _ in DOMAINS],
+        "outcomes": sorted(({**o, "domain": o.get("domain") or domain_of(o)} for o in outcomes.values() if o["id"] in used_outcomes), key=lambda o: o["label"]),
         "links": [links[k] for k in sorted(links)],
         "protections": protections,
         "notes": notes,
