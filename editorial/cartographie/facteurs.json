@@ -156,8 +156,8 @@
   {
    "id": "separation_conflit",
    "group": "famille",
-   "label": "Séparation parentale conflictuelle",
-   "description": "Divorce ou séparation avec conflits durables, ou perte de contact avec un parent.",
+   "label": "Séparation conflictuelle ou perte de contact avec un parent",
+   "description": "Séparation avec des conflits durables entre les parents, ou un parent que l'on ne voyait plus.",
    "examples": [
     "Être pris à partie",
     "Ne plus voir un parent"
@@ -447,8 +447,8 @@
   {
    "id": "divorce",
    "group": "famille",
-   "label": "Séparation des parents",
-   "description": "Divorce ou séparation, même sans conflit majeur.",
+   "label": "Séparation des parents sans conflit durable",
+   "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle, cochez plutôt la cause précédente.",
    "examples": [
     "Garde alternée",
     "Déménagement après la séparation"

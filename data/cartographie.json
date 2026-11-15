@@ -163,8 +163,8 @@
   {
    "id": "separation_conflit",
    "group": "famille",
-   "label": "Séparation parentale conflictuelle",
-   "description": "Divorce ou séparation avec conflits durables, ou perte de contact avec un parent.",
+   "label": "Séparation conflictuelle ou perte de contact avec un parent",
+   "description": "Séparation avec des conflits durables entre les parents, ou un parent que l'on ne voyait plus.",
    "examples": [
     "Être pris à partie",
     "Ne plus voir un parent"
@@ -454,8 +454,8 @@
   {
    "id": "divorce",
    "group": "famille",
-   "label": "Séparation des parents",
-   "description": "Divorce ou séparation, même sans conflit majeur.",
+   "label": "Séparation des parents sans conflit durable",
+   "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle, cochez plutôt la cause précédente.",
    "examples": [
     "Garde alternée",
     "Déménagement après la séparation"
@@ -2156,8 +2156,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie la perte des premiers liens ou leur instabilité à l'attente que les proches finiront par partir ; cela reste une hypothèse clinique, et beaucoup de personnes adoptées ne la vivent pas.",
    "sources": [
-    "young_schemas",
-    "vanijzendoorn2006"
+    "young_schemas"
    ]
   },
   {
@@ -2580,7 +2579,8 @@
    "summary": "Le modèle des schémas inclut, dans la carence affective, le manque de guidance et de soutien : l'attente que personne ne sera là pour aider.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "deces_proche",
@@ -2790,7 +2790,7 @@
    "factor": "divorce",
    "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Une méta-analyse de 54 études trouve un risque un peu plus élevé de dépression à l'âge adulte après une séparation des parents ; l'écart diminue au fil des décennies. Une grande part du risque passe par les conflits et les changements qui accompagnent la séparation.",
+   "summary": "Une méta-analyse de 54 études trouve un risque un peu plus élevé de dépression à l'âge adulte après une séparation des parents ; l'écart diminue au fil des décennies. Une partie du risque semble passer par les conflits et les changements qui accompagnent la séparation.",
    "sources": [
     "auersperg2019",
     "vandijk2020"
@@ -2854,19 +2854,9 @@
   },
   {
    "factor": "emprise_religieuse",
-   "outcome": "anx_generale",
-   "strength": "limitee",
-   "summary": "Des études transversales auprès d'anciens membres de groupes religieux ou autres très contrôlants trouvent davantage de détresse et de symptômes psychologiques chez ceux qui y ont subi des pressions psychologiques. Ce n'est pas la foi elle-même qui est en cause, mais l'emprise.",
-   "sources": [
-    "antelo2021",
-    "saldana2022"
-   ]
-  },
-  {
-   "factor": "emprise_religieuse",
    "outcome": "dep_generale",
    "strength": "limitee",
-   "summary": "Les anciens membres ayant subi une emprise psychologique dans un groupe fermé rapportent plus de symptômes de détresse et moins de bien-être, que le groupe soit religieux ou non et qu'ils y soient nés ou non.",
+   "summary": "Des études transversales auprès d'anciens membres de groupes très contrôlants, religieux ou non, trouvent plus de détresse et de symptômes psychologiques chez ceux qui y ont subi une emprise psychologique ; la baisse de bien-être ne dépend pas du fait d'y être né ou entré adulte. Ce n'est pas la foi elle-même qui est en cause, mais l'emprise.",
    "sources": [
     "antelo2021",
     "saldana2022"
@@ -2955,7 +2945,8 @@
    "summary": "Le modèle des schémas relie le besoin de tenir sa place pour être reconnu au schéma de recherche d'approbation.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "enfant_sage",
@@ -2996,7 +2987,8 @@
     "young2003",
     "carlucci2018",
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "enfant_sage",
@@ -3007,7 +2999,8 @@
     "carlucci2018",
     "young2003",
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "enfant_sage",
@@ -3017,7 +3010,8 @@
    "sources": [
     "carlucci2018",
     "young2003"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "exil",
@@ -3261,7 +3255,8 @@
    "summary": "Le modèle des schémas décrit le sentiment d'être mauvais ou inférieur et la honte qui l'accompagne ; avoir dû cacher sa famille peut nourrir l'idée qu'une part de soi doit rester cachée.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "honte_famille",
@@ -3270,7 +3265,8 @@
    "summary": "Cacher sa maison ou ses parents tient souvent les autres à distance ; le modèle des schémas y voit une origine possible du sentiment d'être à part.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "honte_famille",
@@ -3279,7 +3275,8 @@
    "summary": "Garder le secret sur sa situation familiale demande de surveiller ce que l'on montre et dit ; le modèle des schémas relie ce type d'expérience à une retenue émotionnelle durable.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "imprevisibilite",
@@ -3425,7 +3422,7 @@
    "summary": "Des cohortes montrent que l'isolement de l'enfance peut se prolonger à l'âge adulte chez une partie des personnes, et que les enfants de plus en plus isolés se sentent plus seuls à 18 ans ; beaucoup en sortent.",
    "sources": [
     "layyee2023",
-    "matthews2016"
+    "thompson2022"
    ]
   },
   {
@@ -3565,15 +3562,6 @@
   },
   {
    "factor": "moqueries_corps",
-   "outcome": "anx_generale",
-   "strength": "limitee",
-   "summary": "La stigmatisation liée au poids est associée chez les jeunes à plus de difficultés psychologiques, dont l'anxiété, dans des études de qualité inégale.",
-   "sources": [
-    "warnick2022"
-   ]
-  },
-  {
-   "factor": "moqueries_corps",
    "outcome": "dep_generale",
    "strength": "limitee",
    "summary": "Une méta-analyse trouve un lien modéré entre stigmatisation liée au poids et moins bonne santé mentale chez les jeunes ; la qualité des études est souvent faible.",
@@ -3585,7 +3573,7 @@
    "factor": "moqueries_corps",
    "outcome": "icd_6b81",
    "strength": "moderee",
-   "summary": "Des études suivies sur 5 et 15 ans relient les moqueries sur le poids à l'adolescence à plus de crises alimentaires, de régimes et de comportements de contrôle du poids à l'âge adulte, que les moqueries viennent des pairs ou de la famille. Une revue confirme ce lien, plus net dans les études transversales.",
+   "summary": "Des études suivies sur 5 et 15 ans relient les moqueries sur le poids à l'adolescence à plus de crises alimentaires, de régimes et de comportements de contrôle du poids à l'âge adulte, surtout chez les femmes, que les moqueries viennent des pairs ou de la famille. Une revue confirme ce lien, plus net dans les études transversales.",
    "sources": [
     "day2022",
     "haines2006",
@@ -3601,6 +3589,15 @@
    "sources": [
     "young_schemas",
     "day2022"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_estime_soi",
+   "strength": "limitee",
+   "summary": "Une méta-analyse relie la stigmatisation liée au poids chez les jeunes à une moins bonne santé mentale ; l'estime de soi est le domaine le plus étudié, avec l'image du corps. Les études sont souvent de qualité moyenne.",
+   "sources": [
+    "warnick2022"
    ]
   },
   {
@@ -4121,15 +4118,6 @@
   },
   {
    "factor": "parent_malade_physique",
-   "outcome": "icd_6b23",
-   "strength": "limitee",
-   "summary": "Des patients souffrant d'anxiété liée à la santé rapportent plus souvent des maladies graves dans leur entourage ou chez eux dans l'enfance ; ces données sont rétrospectives.",
-   "sources": [
-    "noyes2002"
-   ]
-  },
-  {
-   "factor": "parent_malade_physique",
    "outcome": "icd_6c20",
    "strength": "limitee",
    "summary": "Une cohorte britannique relie une mauvaise santé des parents pendant l'adolescence à des symptômes physiques sans explication médicale à 36 ans, peut-être parce que l'expérience de la maladie apprend à surveiller ses sensations.",
@@ -4415,7 +4403,8 @@
    "summary": "Dans le modèle des schémas, la carence affective comprend le manque de protection : l'absence d'adultes forts sur lesquels s'appuyer.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "pas_protege",
@@ -4424,7 +4413,8 @@
    "summary": "Ne pas se sentir défendu peut laisser l'attente que les autres risquent de blesser ou de profiter de soi.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "pas_protege",
@@ -4433,7 +4423,8 @@
    "summary": "Le modèle des schémas relie l'absence de protection dans l'enfance à la peur qu'une catastrophe survienne sans pouvoir l'empêcher.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "precarite",
@@ -4500,29 +4491,10 @@
    ]
   },
   {
-   "factor": "pression_scolaire",
-   "outcome": "ten_conduites_suicidaires",
-   "strength": "limitee",
-   "summary": "Certaines études relient la pression scolaire à des idées suicidaires ou à des automutilations à l'adolescence ; les preuves restent limitées.",
-   "sources": [
-    "steare2023"
-   ]
-  },
-  {
-   "factor": "punitions_corporelles",
-   "outcome": "anx_generale",
-   "strength": "moderee",
-   "summary": "Les punitions corporelles sont associées dans les méta-analyses à plus de problèmes de santé mentale, notamment anxieux, chez l'enfant comme plus tard.",
-   "sources": [
-    "gershoff2016",
-    "cuartas2025"
-   ]
-  },
-  {
    "factor": "punitions_corporelles",
    "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Les méta-analyses associent les punitions corporelles à davantage de difficultés de santé mentale chez l'enfant, dont des symptômes dépressifs ou anxieux, et chez l'adulte qui les a reçues.",
+   "summary": "Les méta-analyses associent les punitions corporelles à davantage de difficultés de santé mentale chez l'enfant, puis chez l'adulte qui les a reçues ; ces difficultés sont mesurées de façon globale et ne se limitent pas à la dépression.",
    "sources": [
     "gershoff2016",
     "cuartas2025"
@@ -4998,7 +4970,8 @@
    "summary": "Le schéma d'isolement social se définit par le sentiment d'être différent des autres et de ne faire partie d'aucun groupe ; ce ressenti dans l'enfance en est très proche.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "se_sentir_different",
@@ -7013,6 +6986,13 @@
    "read": "résumé"
   },
   {
+   "id": "thompson2022",
+   "citation": "Thompson KN, Odgers CL, Bryan BT, et al., 2022, Trajectories of childhood social isolation in a nationally representative cohort: associations with antecedents and early adulthood outcomes, JCPP Advances 2(2):e12073",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37431453/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "thorberg2011",
    "citation": "Thorberg FA, Young RM, Sullivan KA, Lyvers M, 2011, Parental bonding and alexithymia: a meta-analysis, European Psychiatry 26(3):187-193",
    "url": "https://pubmed.ncbi.nlm.nih.gov/21277748/",
@@ -7171,7 +7151,7 @@
    "citation": "Warnick JL, Darling KE, West CE, Jones L, Jelalian E, 2022, Weight stigma and mental health in youth: a systematic review and meta-analysis, Journal of Pediatric Psychology 47(3):237-255",
    "url": "https://pubmed.ncbi.nlm.nih.gov/34791368/",
    "type": "meta-analyse",
-   "read": "résumé"
+   "read": "résumé et texte intégral (partie méthodes et résultats)"
   },
   {
    "id": "webb2016",

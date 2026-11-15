@@ -110,7 +110,8 @@ def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, so
     pref = corr.get("definitional_prefix")
     if pref:
         for key, link in links.items():
-            if key[0].startswith(pref["factor"]) and key[1].startswith(pref["outcome"]):
+            ressenti = key[0].startswith(pref["factor"]) or factors.get(key[0], {}).get("group") == "ressentis"
+            if ressenti and key[1].startswith(pref["outcome"]):
                 links[key] = dict(link, definitional=True)
     labels: dict[str, str] = {}
     for oid, o in outcomes.items():

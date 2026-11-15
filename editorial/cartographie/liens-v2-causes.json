@@ -214,7 +214,7 @@
    "factor": "divorce",
    "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Une méta-analyse de 54 études trouve un risque un peu plus élevé de dépression à l'âge adulte après une séparation des parents ; l'écart diminue au fil des décennies. Une grande part du risque passe par les conflits et les changements qui accompagnent la séparation.",
+   "summary": "Une méta-analyse de 54 études trouve un risque un peu plus élevé de dépression à l'âge adulte après une séparation des parents ; l'écart diminue au fil des décennies. Une partie du risque semble passer par les conflits et les changements qui accompagnent la séparation.",
    "sources": [
     "auersperg2019",
     "vandijk2020"
@@ -400,8 +400,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie la perte des premiers liens ou leur instabilité à l'attente que les proches finiront par partir ; cela reste une hypothèse clinique, et beaucoup de personnes adoptées ne la vivent pas.",
    "sources": [
-    "young_schemas",
-    "vanijzendoorn2006"
+    "young_schemas"
    ]
   },
   {
@@ -469,17 +468,7 @@
    "factor": "punitions_corporelles",
    "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Les méta-analyses associent les punitions corporelles à davantage de difficultés de santé mentale chez l'enfant, dont des symptômes dépressifs ou anxieux, et chez l'adulte qui les a reçues.",
-   "sources": [
-    "gershoff2016",
-    "cuartas2025"
-   ]
-  },
-  {
-   "factor": "punitions_corporelles",
-   "outcome": "anx_generale",
-   "strength": "moderee",
-   "summary": "Les punitions corporelles sont associées dans les méta-analyses à plus de problèmes de santé mentale, notamment anxieux, chez l'enfant comme plus tard.",
+   "summary": "Les méta-analyses associent les punitions corporelles à davantage de difficultés de santé mentale chez l'enfant, puis chez l'adulte qui les a reçues ; ces difficultés sont mesurées de façon globale et ne se limitent pas à la dépression.",
    "sources": [
     "gershoff2016",
     "cuartas2025"
@@ -533,15 +522,6 @@
   },
   {
    "factor": "pression_scolaire",
-   "outcome": "ten_conduites_suicidaires",
-   "strength": "limitee",
-   "summary": "Certaines études relient la pression scolaire à des idées suicidaires ou à des automutilations à l'adolescence ; les preuves restent limitées.",
-   "sources": [
-    "steare2023"
-   ]
-  },
-  {
-   "factor": "pression_scolaire",
    "outcome": "pat_conditional_worth",
    "strength": "limitee",
    "summary": "Des études sur l'estime conditionnelle montrent que, quand l'approbation des parents dépend des notes, les adolescents s'investissent davantage par contrainte intérieure que par intérêt.",
@@ -560,19 +540,9 @@
   },
   {
    "factor": "emprise_religieuse",
-   "outcome": "anx_generale",
-   "strength": "limitee",
-   "summary": "Des études transversales auprès d'anciens membres de groupes religieux ou autres très contrôlants trouvent davantage de détresse et de symptômes psychologiques chez ceux qui y ont subi des pressions psychologiques. Ce n'est pas la foi elle-même qui est en cause, mais l'emprise.",
-   "sources": [
-    "antelo2021",
-    "saldana2022"
-   ]
-  },
-  {
-   "factor": "emprise_religieuse",
    "outcome": "dep_generale",
    "strength": "limitee",
-   "summary": "Les anciens membres ayant subi une emprise psychologique dans un groupe fermé rapportent plus de symptômes de détresse et moins de bien-être, que le groupe soit religieux ou non et qu'ils y soient nés ou non.",
+   "summary": "Des études transversales auprès d'anciens membres de groupes très contrôlants, religieux ou non, trouvent plus de détresse et de symptômes psychologiques chez ceux qui y ont subi une emprise psychologique ; la baisse de bien-être ne dépend pas du fait d'y être né ou entré adulte. Ce n'est pas la foi elle-même qui est en cause, mais l'emprise.",
    "sources": [
     "antelo2021",
     "saldana2022"
@@ -840,7 +810,7 @@
    "factor": "moqueries_corps",
    "outcome": "icd_6b81",
    "strength": "moderee",
-   "summary": "Des études suivies sur 5 et 15 ans relient les moqueries sur le poids à l'adolescence à plus de crises alimentaires, de régimes et de comportements de contrôle du poids à l'âge adulte, que les moqueries viennent des pairs ou de la famille. Une revue confirme ce lien, plus net dans les études transversales.",
+   "summary": "Des études suivies sur 5 et 15 ans relient les moqueries sur le poids à l'adolescence à plus de crises alimentaires, de régimes et de comportements de contrôle du poids à l'âge adulte, surtout chez les femmes, que les moqueries viennent des pairs ou de la famille. Une revue confirme ce lien, plus net dans les études transversales.",
    "sources": [
     "puhl2017",
     "haines2006",
@@ -858,9 +828,9 @@
   },
   {
    "factor": "moqueries_corps",
-   "outcome": "anx_generale",
+   "outcome": "ten_estime_soi",
    "strength": "limitee",
-   "summary": "La stigmatisation liée au poids est associée chez les jeunes à plus de difficultés psychologiques, dont l'anxiété, dans des études de qualité inégale.",
+   "summary": "Une méta-analyse relie la stigmatisation liée au poids chez les jeunes à une moins bonne santé mentale ; l'estime de soi est le domaine le plus étudié, avec l'image du corps. Les études sont souvent de qualité moyenne.",
    "sources": [
     "warnick2022"
    ]
@@ -913,15 +883,6 @@
    ]
   },
   {
-   "factor": "parent_malade_physique",
-   "outcome": "icd_6b23",
-   "strength": "limitee",
-   "summary": "Des patients souffrant d'anxiété liée à la santé rapportent plus souvent des maladies graves dans leur entourage ou chez eux dans l'enfance ; ces données sont rétrospectives.",
-   "sources": [
-    "noyes2002"
-   ]
-  },
-  {
    "factor": "isolement_social_enfant",
    "outcome": "dep_generale",
    "strength": "moderee",
@@ -948,7 +909,7 @@
    "summary": "Des cohortes montrent que l'isolement de l'enfance peut se prolonger à l'âge adulte chez une partie des personnes, et que les enfants de plus en plus isolés se sentent plus seuls à 18 ans ; beaucoup en sortent.",
    "sources": [
     "layyee2023",
-    "matthews2016"
+    "thompson2022"
    ]
   },
   {
@@ -1256,7 +1217,7 @@
    "citation": "Warnick JL, Darling KE, West CE, Jones L, Jelalian E, 2022, Weight stigma and mental health in youth: a systematic review and meta-analysis, Journal of Pediatric Psychology 47(3):237-255",
    "url": "https://pubmed.ncbi.nlm.nih.gov/34791368/",
    "type": "meta-analyse",
-   "read": "résumé"
+   "read": "résumé et texte intégral (partie méthodes et résultats)"
   },
   {
    "id": "puhl2017",
@@ -1290,6 +1251,13 @@
    "id": "layyee2023",
    "citation": "Lay-Yee R, Matthews T, Moffitt T, et al., 2023, Are trajectories of social isolation from childhood to mid-adulthood associated with adult depression or suicide outcomes, Social Psychiatry and Psychiatric Epidemiology 58(3):373-382",
    "url": "https://pubmed.ncbi.nlm.nih.gov/36456781/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "thompson2022",
+   "citation": "Thompson KN, Odgers CL, Bryan BT, et al., 2022, Trajectories of childhood social isolation in a nationally representative cohort: associations with antecedents and early adulthood outcomes, JCPP Advances 2(2):e12073",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37431453/",
    "type": "etude",
    "read": "résumé"
   },
