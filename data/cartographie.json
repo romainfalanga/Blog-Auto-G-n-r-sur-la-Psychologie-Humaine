@@ -2,6 +2,7 @@
  "schema_version": 1,
  "weights": {
   "forte": 3,
+  "critere": 2,
   "moderee": 2,
   "limitee": 1,
   "theorique": 1
@@ -382,11 +383,23 @@
    "ace": false
   },
   {
+   "id": "exil",
+   "group": "contexte",
+   "label": "Exil forcé, guerre ou persécution",
+   "description": "Fuir un pays en guerre ou une persécution, vivre un conflit armé ou un parcours d’exil difficile.",
+   "examples": [
+    "Bombardements, camps, séparation forcée de proches"
+   ],
+   "ace": false
+  },
+  {
    "id": "migration",
    "group": "contexte",
-   "label": "Exil, migration ou guerre",
-   "description": "Quitter son pays, vivre un conflit armé ou des conditions d'exil.",
-   "examples": [],
+   "label": "Migration ou changement de pays",
+   "description": "Quitter son pays ou sa région avec sa famille, sans persécution ni guerre.",
+   "examples": [
+    "Arriver dans un pays dont on ne parlait pas la langue"
+   ],
    "ace": false
   },
   {
@@ -416,18 +429,11 @@
    "url": "/personnages/joachim/"
   },
   {
-   "id": "ten_alexithymie",
-   "kind": "tendance",
-   "label": "Alexithymie",
-   "description": "Difficulté à identifier et à décrire ce que l'on ressent.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
-  },
-  {
-   "id": "ten_image_corps",
-   "kind": "tendance",
-   "label": "Alimentation perturbée et image du corps",
-   "description": "Se juger durement sur son apparence et avoir un rapport tendu à la nourriture.",
-   "url": null
+   "id": "anx_generale",
+   "kind": "trouble",
+   "label": "Anxiété ou troubles anxieux",
+   "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée (CIM-11 6B00).",
+   "url": "/personnages/antonin/"
   },
   {
    "id": "pat_appeasement",
@@ -465,28 +471,6 @@
    "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/"
   },
   {
-   "id": "icd_6b81",
-   "kind": "trouble",
-   "label": "Boulimie nerveuse",
-   "code": "6B81",
-   "description": "Crises alimentaires suivies de comportements pour compenser ; représente ici les troubles des conduites alimentaires.",
-   "url": "/personnages/victoire/"
-  },
-  {
-   "id": "pat_migration_adjustment",
-   "kind": "tendance",
-   "label": "Changer de pays ou de milieu de vie",
-   "description": "S'adapter à une nouvelle langue, de nouvelles règles et parfois des démarches incertaines.",
-   "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/"
-  },
-  {
-   "id": "pat_disclosure_choice",
-   "kind": "tendance",
-   "label": "Choisir à qui révéler une information personnelle",
-   "description": "Cacher ou dévoiler une partie de soi selon le danger perçu, ce qui peut devenir épuisant.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte/"
-  },
-  {
    "id": "ten_codependance",
    "kind": "tendance",
    "label": "Codépendance",
@@ -494,32 +478,11 @@
    "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/"
   },
   {
-   "id": "ten_comportements_antisociaux",
-   "kind": "tendance",
-   "label": "Comportements antisociaux",
-   "description": "Transgressions répétées des règles et des droits des autres pendant l'enfance ou l'adolescence.",
-   "url": null
-  },
-  {
    "id": "ten_externalisation",
    "kind": "tendance",
-   "label": "Comportements d'opposition ou d'agressivité",
-   "description": "Difficultés tournées vers l'extérieur : colères, opposition, transgressions.",
+   "label": "Comportements d’opposition, d’agressivité ou antisociaux",
+   "description": "Opposition, colères, agressivité ou conduites antisociales, observées dans l’enfance, l’adolescence ou plus tard ; elles relèvent parfois d’un trouble oppositionnel avec provocation (CIM-11 6C90).",
    "url": "/personnages/ruben/"
-  },
-  {
-   "id": "ten_alcool_adolescence",
-   "kind": "tendance",
-   "label": "Consommation d'alcool problématique à l'adolescence",
-   "description": "Début précoce ou usage plus important d'alcool pendant l'adolescence.",
-   "url": "/personnages/eric/"
-  },
-  {
-   "id": "ten_substances",
-   "kind": "tendance",
-   "label": "Consommation de tabac ou de drogues",
-   "description": "Recourir au tabac ou à des drogues, parfois pour apaiser une tension.",
-   "url": null
   },
   {
    "id": "pat_guilt",
@@ -529,11 +492,30 @@
    "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/"
   },
   {
-   "id": "ten_regulation_emotionnelle",
+   "id": "ten_alexithymie",
+   "kind": "tendance",
+   "label": "Difficulté à identifier et exprimer ses émotions (alexithymie)",
+   "description": "Avoir du mal à reconnaître et à mettre des mots sur ce que l'on ressent.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
+  },
+  {
+   "id": "pat_needs_expression",
+   "kind": "tendance",
+   "label": "Difficulté à reconnaître et exprimer ses besoins",
+   "description": "Mal percevoir ce dont on a besoin, ou ne pas oser le demander."
+  },
+  {
+   "id": "pat_conflict",
+   "kind": "tendance",
+   "label": "Difficulté à vivre les désaccords",
+   "description": "Éviter, redouter ou vivre comme une menace le moindre désaccord avec un proche.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/"
+  },
+  {
+   "id": "ten_dysregulation_emotionnelle",
    "kind": "tendance",
    "label": "Difficultés à réguler ses émotions",
-   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup.",
-   "url": null
+   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup."
   },
   {
    "id": "ten_souffrance_enfance",
@@ -541,13 +523,6 @@
    "label": "Difficultés émotionnelles ou de comportement dans l'enfance",
    "description": "Anxiété, tristesse, agitation ou opposition repérées pendant l'enfance ou l'adolescence.",
    "url": null
-  },
-  {
-   "id": "ten_dysregulation_emotionnelle",
-   "kind": "tendance",
-   "label": "Dysrégulation émotionnelle",
-   "description": "Émotions vécues très intensément et difficiles à apaiser ou à moduler.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/"
   },
   {
    "id": "icd_6a72",
@@ -568,17 +543,15 @@
   {
    "id": "dep_generale",
    "kind": "trouble",
-   "label": "Dépression",
-   "code": "6A70–6A71",
-   "description": "Épisodes dépressifs ou symptômes dépressifs durables : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
+   "label": "Dépression ou symptômes dépressifs",
+   "description": "Symptômes dépressifs durables ou épisodes dépressifs (CIM-11 6A70–6A71) : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
    "url": "/personnages/louise/"
   },
   {
    "id": "ten_estime_soi",
    "kind": "tendance",
    "label": "Estime de soi fragilisée",
-   "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/"
+   "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres."
   },
   {
    "id": "ten_hypervigilance",
@@ -596,39 +569,18 @@
    "url": "/personnages/lenaic/"
   },
   {
-   "id": "pat_emotional_identification",
+   "id": "ten_conduites_suicidaires",
    "kind": "tendance",
-   "label": "Identifier ses émotions (alexithymie)",
-   "description": "Avoir du mal à reconnaître et à mettre des mots sur ce que l'on ressent.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
-  },
-  {
-   "id": "pat_identity_transition",
-   "kind": "tendance",
-   "label": "Identité en évolution",
-   "description": "Redéfinir qui l’on est lors d’un changement.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie/"
-  },
-  {
-   "id": "ten_suicide_automutilation",
-   "kind": "tendance",
-   "label": "Idées suicidaires et automutilations",
-   "description": "Penser à mourir, tenter de se suicider ou se faire du mal pour soulager une souffrance.",
-   "url": null
+   "label": "Idées suicidaires, tentatives ou automutilations",
+   "description": "Idées de mort, projets ou tentatives de suicide.",
+   "note": "suicide"
   },
   {
    "id": "pat_social_isolation",
    "kind": "tendance",
-   "label": "Isolement subi",
-   "description": "Distinguer le manque de contacts ou de soutien souhaités d’un temps seul choisi, en tenant compte des contraintes de mobilité et de milieu.",
+   "label": "Isolement social subi",
+   "description": "Moins de liens et de soutien que ce que l’on souhaiterait.",
    "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/"
-  },
-  {
-   "id": "ten_conduites_suicidaires",
-   "kind": "tendance",
-   "label": "Pensées et gestes suicidaires",
-   "description": "Idées de mort, projets ou tentatives de suicide.",
-   "url": null
   },
   {
    "id": "pat_perfectionism",
@@ -641,29 +593,13 @@
    "id": "pat_abandonment_fear",
    "kind": "tendance",
    "label": "Peur de perdre le lien",
-   "description": "Inquiétude liée à une distance ou une séparation.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/"
-  },
-  {
-   "id": "pat_conflict",
-   "kind": "tendance",
-   "label": "Rapport au désaccord",
-   "description": "Éviter ou intensifier les conflits pour protéger quelque chose.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/"
-  },
-  {
-   "id": "pat_needs_expression",
-   "kind": "tendance",
-   "label": "Reconnaître ses besoins",
-   "description": "Identifier ses besoins avant de les négocier avec les autres.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet/"
+   "description": "Inquiétude liée à une distance ou une séparation."
   },
   {
    "id": "ten_qualite_relationnelle",
    "kind": "tendance",
    "label": "Relations proches moins satisfaisantes",
-   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire/"
+   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants."
   },
   {
    "id": "pat_parentification",
@@ -692,14 +628,6 @@
    "label": "Rôle de sauveur",
    "description": "Se sentir tenu de résoudre les difficultés d’autrui au prix de ses besoins. « Sauveur » est un nom courant de ce processus possible, pas un syndrome clinique.",
    "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/"
-  },
-  {
-   "id": "icd_6a20",
-   "kind": "trouble",
-   "label": "Schizophrénie",
-   "code": "6A20",
-   "description": "Un trouble psychotique : perception ou croyances qui se détachent de la réalité partagée.",
-   "url": "/personnages/nils/"
   },
   {
    "id": "sch_abandon",
@@ -821,6 +749,13 @@
    "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
   },
   {
+   "id": "pat_migration_adjustment",
+   "kind": "tendance",
+   "label": "Stress lié à l’adaptation après une migration",
+   "description": "Difficultés à trouver sa place, à cumuler deux cultures ou à refaire un réseau après un changement de pays.",
+   "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/"
+  },
+  {
    "id": "ten_dissociation",
    "kind": "tendance",
    "label": "Symptômes dissociatifs",
@@ -873,22 +808,15 @@
    "label": "Trouble de l'engagement social désinhibé",
    "code": "6B45",
    "description": "Chez le jeune enfant, aller vers des adultes inconnus sans aucune réserve après des soins gravement insuffisants.",
-   "url": "/personnages/thael/"
-  },
-  {
-   "id": "icd_6d10",
-   "kind": "trouble",
-   "label": "Trouble de la personnalité",
-   "code": "6D10",
-   "description": "Des difficultés durables dans la manière de se vivre et d'être en relation, dont le type borderline.",
-   "url": "/personnages/mina/"
+   "url": "/personnages/thael/",
+   "note": "jeune_enfant"
   },
   {
    "id": "icd_6d11_5",
    "kind": "trouble",
    "label": "Trouble de la personnalité avec motif borderline",
    "code": "6D11.5",
-   "description": "Une instabilité des relations, de l'image de soi et des émotions, avec une grande sensibilité au rejet.",
+   "description": "Des difficultés durables dans la manière de se vivre et d'être en relation, dont le type borderline.",
    "url": "/personnages/mina/"
   },
   {
@@ -932,14 +860,6 @@
    "url": "/personnages/blandine/"
   },
   {
-   "id": "icd_6c90",
-   "kind": "trouble",
-   "label": "Trouble oppositionnel avec provocation",
-   "code": "6C90",
-   "description": "Chez l'enfant, opposition, colère et défi persistants envers les adultes.",
-   "url": "/personnages/ruben/"
-  },
-  {
    "id": "icd_6b01",
    "kind": "trouble",
    "label": "Trouble panique",
@@ -953,36 +873,43 @@
    "label": "Trouble réactionnel de l'attachement",
    "code": "6B44",
    "description": "Chez le jeune enfant, très peu chercher ou accepter le réconfort après des soins gravement insuffisants.",
-   "url": "/personnages/basile/"
+   "url": "/personnages/basile/",
+   "note": "jeune_enfant"
   },
   {
-   "id": "anx_generale",
+   "id": "icd_6b81",
    "kind": "trouble",
-   "label": "Troubles anxieux",
-   "code": "6B00–6B05",
-   "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée.",
-   "url": "/personnages/antonin/"
+   "label": "Troubles des conduites alimentaires",
+   "code": "6B80–6B82",
+   "description": "Boulimie, crises alimentaires, restrictions ou préoccupations envahissantes pour le poids et l’image du corps.",
+   "url": "/personnages/victoire/"
+  },
+  {
+   "id": "icd_6a20",
+   "kind": "trouble",
+   "label": "Troubles psychotiques (dont la schizophrénie)",
+   "code": "6A20",
+   "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic.",
+   "url": "/personnages/nils/"
   },
   {
    "id": "ten_usage_substances",
    "kind": "tendance",
-   "label": "Usage problématique d'alcool ou de drogues",
+   "label": "Usage problématique d’alcool, de tabac ou de drogues",
    "description": "Consommer des substances de façon risquée ou difficile à contrôler.",
-   "url": null
+   "url": "/personnages/eric/"
   },
   {
    "id": "pat_conditional_worth",
    "kind": "tendance",
    "label": "Valeur liée à la réussite",
-   "description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle/"
+   "description": "Faire dépendre sa valeur de sa performance ou de son utilité."
   },
   {
    "id": "ten_violences_couple",
    "kind": "tendance",
    "label": "Violences dans le couple à l'âge adulte",
-   "description": "Subir ou exercer des violences dans une relation de couple.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/"
+   "description": "Subir ou exercer des violences dans une relation de couple."
   }
  ],
  "links": [
@@ -1001,6 +928,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie une éducation permissive et sans direction au schéma de contrôle de soi insuffisant.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -1011,16 +939,8 @@
    "strength": "theorique",
    "summary": "Dans le modèle de Young, l'absence de limites est aussi une origine du schéma de droits personnels excessifs.",
    "sources": [
+    "young2003",
     "carlucci2018"
-   ]
-  },
-  {
-   "factor": "absence_limites",
-   "outcome": "ten_alcool_adolescence",
-   "strength": "moderee",
-   "summary": "Peu de supervision et d'implication parentales sont associées, dans des études suivies dans le temps, à une consommation d'alcool plus précoce ou plus importante à l'adolescence.",
-   "sources": [
-    "yap2017"
    ]
   },
   {
@@ -1030,6 +950,15 @@
    "summary": "Une éducation permissive ou désengagée est associée à plus de comportements d'opposition ou de transgression chez l'enfant et l'adolescent.",
    "sources": [
     "pinquart2017"
+   ]
+  },
+  {
+   "factor": "absence_limites",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "Peu de supervision et d'implication parentales sont associées, dans des études suivies dans le temps, à une consommation d'alcool plus précoce ou plus importante à l'adolescence.",
+   "sources": [
+    "yap2017"
    ]
   },
   {
@@ -1100,21 +1029,12 @@
   },
   {
    "factor": "abus_emotionnel",
-   "outcome": "icd_6d10",
+   "outcome": "icd_6d11_5",
    "strength": "moderee",
    "summary": "Les violences psychologiques font partie des adversités les plus fréquemment rapportées par les personnes ayant un trouble de la personnalité borderline, dans des études surtout rétrospectives.",
    "sources": [
     "porter2020",
     "xiao2023"
-   ]
-  },
-  {
-   "factor": "abus_emotionnel",
-   "outcome": "pat_emotional_identification",
-   "strength": "moderee",
-   "summary": "Les violences psychologiques sont associées à plus de difficultés à identifier et décrire ses émotions (alexithymie) à l'âge adulte.",
-   "sources": [
-    "ditzer2023"
    ]
   },
   {
@@ -1163,6 +1083,15 @@
    "sources": [
     "pilkington2021",
     "wright2009"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_alexithymie",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont associées à plus de difficultés à identifier et décrire ses émotions (alexithymie) à l'âge adulte.",
+   "sources": [
+    "ditzer2023"
    ]
   },
   {
@@ -1226,16 +1155,17 @@
   {
    "factor": "abus_physique",
    "outcome": "icd_6b40",
-   "strength": "forte",
-   "summary": "Des violences physiques graves peuvent constituer l'événement menaçant que la CIM-11 exige pour ce diagnostic ; elles sont associées à un risque plus élevé de stress post-traumatique.",
+   "strength": "moderee",
+   "summary": "La CIM-11 retient les violences physiques comme événement pouvant précéder un stress post-traumatique ; chez les enfants exposés à un traumatisme, les violences interpersonnelles sont associées à un risque plus élevé de stress post-traumatique.",
    "sources": [
-    "oms_cddr"
+    "oms_cddr",
+    "alisic2014"
    ]
   },
   {
    "factor": "abus_physique",
    "outcome": "icd_6b41",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "La CIM-11 cite les violences physiques répétées dans l'enfance parmi les situations prolongées, difficiles à fuir, qui précèdent le plus souvent un stress post-traumatique complexe.",
    "sources": [
     "oms_cddr"
@@ -1252,7 +1182,7 @@
   },
   {
    "factor": "abus_physique",
-   "outcome": "icd_6d10",
+   "outcome": "icd_6d11_5",
    "strength": "moderee",
    "summary": "Les personnes ayant un trouble de la personnalité borderline rapportent plus souvent des adversités dans l'enfance, dont les violences physiques ; les études rétrospectives dominent.",
    "sources": [
@@ -1290,20 +1220,20 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "moderee",
+   "summary": "La maltraitance est associée à plus de difficultés à réguler ses émotions, avec davantage d'évitement et de suppression émotionnelle chez les jeunes.",
+   "sources": [
+    "gruhn2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "ten_hypervigilance",
    "strength": "moderee",
    "summary": "Les enfants exposés à des violences repèrent plus vite les signes de menace et y réagissent plus fortement ; cette adaptation au danger est associée à de nombreuses difficultés ultérieures.",
    "sources": [
     "mclaughlin2020"
-   ]
-  },
-  {
-   "factor": "abus_physique",
-   "outcome": "ten_regulation_emotionnelle",
-   "strength": "moderee",
-   "summary": "La maltraitance est associée à plus de difficultés à réguler ses émotions, avec davantage d'évitement et de suppression émotionnelle chez les jeunes.",
-   "sources": [
-    "gruhn2020"
    ]
   },
   {
@@ -1363,7 +1293,7 @@
   {
    "factor": "abus_sexuel",
    "outcome": "icd_6b41",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "La CIM-11 cite les violences sexuelles répétées dans l'enfance parmi les situations qui précèdent le plus souvent un stress post-traumatique complexe.",
    "sources": [
     "oms_cddr"
@@ -1400,7 +1330,7 @@
   },
   {
    "factor": "abus_sexuel",
-   "outcome": "icd_6d10",
+   "outcome": "icd_6d11_5",
    "strength": "moderee",
    "summary": "Les violences sexuelles sont associées au trouble de la personnalité borderline, mais la qualité des méta-analyses sur ce point est jugée faible.",
    "sources": [
@@ -1488,6 +1418,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle de Young, l'acceptation conditionnelle est aussi une origine du schéma d'assujettissement : se plier aux attentes pour garder le lien.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -1497,6 +1428,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie une acceptation conditionnelle dans l'enfance au schéma de recherche d'approbation : sa valeur dépend du regard des autres.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -1593,6 +1525,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas décrit l'assujettissement comme le fait de céder le contrôle aux autres et de taire ses besoins pour éviter la colère, un apprentissage plausible face à une autorité stricte.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
    ]
@@ -1650,6 +1583,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie les familles très exigeantes, où il fallait viser haut pour éviter la critique, au schéma d'exigences élevées.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -1660,6 +1594,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle de Young, une famille trop exigeante et critique est une origine typique du schéma d'imperfection et de honte.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -1669,6 +1604,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie les erreurs durement reprochées dans l'enfance au schéma de punition : penser que toute erreur mérite une sanction.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -1713,7 +1649,7 @@
   {
    "factor": "deces_proche",
    "outcome": "icd_6b42",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "Le trouble du deuil prolongé exige, dans la CIM-11, le décès d'une personne proche ; il se distingue d'un deuil ordinaire par sa durée et son intensité.",
    "sources": [
     "oms_cddr"
@@ -1725,6 +1661,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle des schémas de Young, la perte ou l'instabilité des figures d'attachement est l'origine typique du schéma d'abandon.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -1781,15 +1718,6 @@
   },
   {
    "factor": "discrimination",
-   "outcome": "pat_disclosure_choice",
-   "strength": "theorique",
-   "summary": "Selon le modèle du stress des minorités, cacher une partie de son identité pour se protéger est une source de stress supplémentaire.",
-   "sources": [
-    "meyer2003"
-   ]
-  },
-  {
-   "factor": "discrimination",
    "outcome": "ten_estime_soi",
    "strength": "moderee",
    "summary": "Se sentir discriminé est associé à une estime de soi plus faible, surtout quand la discrimination vise la personne elle-même.",
@@ -1810,12 +1738,64 @@
   },
   {
    "factor": "discrimination",
-   "outcome": "ten_substances",
+   "outcome": "ten_usage_substances",
    "strength": "moderee",
    "summary": "Chez les adolescents, la discrimination raciale est associée à plus de consommation de substances ; le stress lié au rejet est aussi décrit chez les minorités sexuelles.",
    "sources": [
     "benner2018",
     "meyer2003"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Les troubles anxieux sont fréquents chez les jeunes réfugiés et dans les populations touchées par un conflit.",
+   "sources": [
+    "blackmore2020",
+    "charlson2019"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "La dépression est plus fréquente chez les personnes, enfants compris, ayant vécu un conflit armé ou l'exil.",
+   "sources": [
+    "blackmore2020",
+    "charlson2019",
+    "fazel2005"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "icd_6b40",
+   "strength": "forte",
+   "summary": "Les enfants et adultes réfugiés ou ayant vécu une guerre présentent plus souvent un stress post-traumatique que la population générale ; l'exposition à la violence est le principal facteur de risque.",
+   "sources": [
+    "fazel2005",
+    "blackmore2020",
+    "charlson2019",
+    "fazel2012"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "summary": "La classification cite la violence organisée, la torture ou les génocides parmi les vécus menant au stress post-traumatique complexe, et ce trouble est fréquent chez les réfugiés, avec des estimations très variables.",
+   "sources": [
+    "cim11_cddr_stress",
+    "mellor2021"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "icd_6b42",
+   "strength": "limitee",
+   "summary": "Une petite étude trouve un deuil prolongé plus fréquent chez des patients ayant un parcours de réfugié ; ce lien reste à confirmer.",
+   "sources": [
+    "groen2026"
    ]
   },
   {
@@ -1844,7 +1824,7 @@
   {
    "factor": "harcelement",
    "outcome": "icd_6a20",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Avoir été harcelé est associé à plus de symptômes psychotiques légers plus tard, d'autant plus que le harcèlement était fréquent et long ; pour les troubles psychotiques diagnostiqués, les données restent rares.",
    "sources": [
     "vandam2012",
@@ -1880,6 +1860,15 @@
   },
   {
    "factor": "harcelement",
+   "outcome": "icd_6b81",
+   "strength": "limitee",
+   "summary": "Les moqueries et le harcèlement, notamment sur le poids, sont associés à une image du corps plus négative et à des comportements alimentaires perturbés, de façon plus nette dans les études ponctuelles que dans les suivis longs.",
+   "sources": [
+    "day2022"
+   ]
+  },
+  {
+   "factor": "harcelement",
    "outcome": "pat_social_isolation",
    "strength": "moderee",
    "summary": "À 50 ans, les personnes harcelées enfants avaient en moyenne moins de relations sociales et une qualité de vie perçue plus faible.",
@@ -1898,31 +1887,22 @@
   },
   {
    "factor": "harcelement",
-   "outcome": "ten_image_corps",
-   "strength": "limitee",
-   "summary": "Les moqueries et le harcèlement, notamment sur le poids, sont associés à une image du corps plus négative et à des comportements alimentaires perturbés, de façon plus nette dans les études ponctuelles que dans les suivis longs.",
-   "sources": [
-    "day2022"
-   ]
-  },
-  {
-   "factor": "harcelement",
-   "outcome": "ten_substances",
-   "strength": "moderee",
-   "summary": "Une méta-analyse juge probable un lien entre harcèlement subi et consommation de tabac ou de drogues illicites.",
-   "sources": [
-    "moore2017"
-   ]
-  },
-  {
-   "factor": "harcelement",
-   "outcome": "ten_suicide_automutilation",
+   "outcome": "ten_conduites_suicidaires",
    "strength": "forte",
    "summary": "Le harcèlement est associé à plus d'idées suicidaires, de tentatives et d'automutilations, à l'adolescence comme à l'âge adulte ; les enfants harcelés qui vivent d'autres difficultés sont les plus exposés.",
    "sources": [
     "moore2017",
     "takizawa2014",
     "fisher2012"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "Une méta-analyse juge probable un lien entre harcèlement subi et consommation de tabac ou de drogues illicites.",
+   "sources": [
+    "moore2017"
    ]
   },
   {
@@ -1958,6 +1938,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie une famille instable au schéma d'abandon : les proches paraissent peu fiables ou susceptibles de partir.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -1989,6 +1970,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie les familles où l'expression des émotions était découragée au schéma d'inhibition émotionnelle : retenir ses ressentis pour éviter la désapprobation.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -2119,27 +2101,6 @@
   },
   {
    "factor": "migration",
-   "outcome": "anx_generale",
-   "strength": "moderee",
-   "summary": "Les troubles anxieux sont fréquents chez les jeunes réfugiés et dans les populations touchées par un conflit.",
-   "sources": [
-    "blackmore2020",
-    "charlson2019"
-   ]
-  },
-  {
-   "factor": "migration",
-   "outcome": "dep_generale",
-   "strength": "moderee",
-   "summary": "La dépression est plus fréquente chez les personnes, enfants compris, ayant vécu un conflit armé ou l'exil.",
-   "sources": [
-    "blackmore2020",
-    "charlson2019",
-    "fazel2005"
-   ]
-  },
-  {
-   "factor": "migration",
    "outcome": "icd_6a20",
    "strength": "forte",
    "summary": "Les migrants et leurs enfants ont en moyenne un risque plus élevé de troubles psychotiques, plus marqué chez les réfugiés et variable selon les pays d'origine et d'accueil ; la plupart des migrants n'en développent pas.",
@@ -2147,37 +2108,6 @@
     "selten2020",
     "bourque2011",
     "hollander2016"
-   ]
-  },
-  {
-   "factor": "migration",
-   "outcome": "icd_6b40",
-   "strength": "forte",
-   "summary": "Les enfants et adultes réfugiés ou ayant vécu une guerre présentent plus souvent un stress post-traumatique que la population générale ; l'exposition à la violence est le principal facteur de risque.",
-   "sources": [
-    "fazel2005",
-    "blackmore2020",
-    "charlson2019",
-    "fazel2012"
-   ]
-  },
-  {
-   "factor": "migration",
-   "outcome": "icd_6b41",
-   "strength": "moderee",
-   "summary": "La classification cite la violence organisée, la torture ou les génocides parmi les vécus menant au stress post-traumatique complexe, et ce trouble est fréquent chez les réfugiés, avec des estimations très variables.",
-   "sources": [
-    "cim11_cddr_stress",
-    "mellor2021"
-   ]
-  },
-  {
-   "factor": "migration",
-   "outcome": "icd_6b42",
-   "strength": "limitee",
-   "summary": "Une petite étude trouve un deuil prolongé plus fréquent chez des patients ayant un parcours de réfugié ; ce lien reste à confirmer.",
-   "sources": [
-    "groen2026"
    ]
   },
   {
@@ -2221,7 +2151,7 @@
   {
    "factor": "negligence_emotionnelle",
    "outcome": "icd_6b44",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins de réconfort et d'affection, pour poser ce diagnostic chez le jeune enfant.",
    "sources": [
     "oms_cddr"
@@ -2230,7 +2160,7 @@
   {
    "factor": "negligence_emotionnelle",
    "outcome": "icd_6b45",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins de réconfort et d'affection, pour poser ce diagnostic chez le jeune enfant.",
    "sources": [
     "oms_cddr"
@@ -2238,21 +2168,12 @@
   },
   {
    "factor": "negligence_emotionnelle",
-   "outcome": "icd_6d10",
+   "outcome": "icd_6d11_5",
    "strength": "moderee",
    "summary": "La négligence fait partie des adversités les plus rapportées par les personnes ayant un trouble de la personnalité borderline, dans des études surtout rétrospectives.",
    "sources": [
     "porter2020",
     "xiao2023"
-   ]
-  },
-  {
-   "factor": "negligence_emotionnelle",
-   "outcome": "pat_emotional_identification",
-   "strength": "moderee",
-   "summary": "La négligence affective est l'une des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
-   "sources": [
-    "ditzer2023"
    ]
   },
   {
@@ -2313,6 +2234,15 @@
   },
   {
    "factor": "negligence_emotionnelle",
+   "outcome": "ten_alexithymie",
+   "strength": "moderee",
+   "summary": "La négligence affective est l'une des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
+   "sources": [
+    "ditzer2023"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
    "outcome": "ten_conduites_suicidaires",
    "strength": "moderee",
    "summary": "La négligence affective est associée à plus de tentatives de suicide chez les jeunes.",
@@ -2361,7 +2291,7 @@
   {
    "factor": "negligence_physique",
    "outcome": "icd_6b44",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins physiques de l'enfant, pour poser ce diagnostic chez le jeune enfant.",
    "sources": [
     "oms_cddr"
@@ -2370,7 +2300,7 @@
   {
    "factor": "negligence_physique",
    "outcome": "icd_6b45",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins physiques de l'enfant, pour poser ce diagnostic chez le jeune enfant.",
    "sources": [
     "oms_cddr"
@@ -2387,29 +2317,20 @@
   },
   {
    "factor": "negligence_physique",
-   "outcome": "icd_6c90",
-   "strength": "limitee",
-   "summary": "La CIM-11 note que le trouble oppositionnel est plus fréquent quand les pratiques éducatives sont dures, incohérentes ou négligentes.",
-   "sources": [
-    "oms_cddr"
-   ]
-  },
-  {
-   "factor": "negligence_physique",
-   "outcome": "pat_emotional_identification",
-   "strength": "moderee",
-   "summary": "La négligence physique fait partie des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
-   "sources": [
-    "ditzer2023"
-   ]
-  },
-  {
-   "factor": "negligence_physique",
    "outcome": "sch_carence_affective",
    "strength": "limitee",
    "summary": "La négligence physique est faiblement associée aux schémas de carence affective et d'isolement social chez l'adulte.",
    "sources": [
     "pilkington2021"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_alexithymie",
+   "strength": "moderee",
+   "summary": "La négligence physique fait partie des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
+   "sources": [
+    "ditzer2023"
    ]
   },
   {
@@ -2475,13 +2396,14 @@
    "strength": "theorique",
    "summary": "La séparation brutale et les changements de garde qui accompagnent souvent l'incarcération correspondent à l'instabilité que le modèle de Young associe au schéma d'abandon.",
    "sources": [
+    "young2003",
     "murray2012",
     "carlucci2018"
    ]
   },
   {
    "factor": "parent_incarcere",
-   "outcome": "ten_comportements_antisociaux",
+   "outcome": "ten_externalisation",
    "strength": "moderee",
    "summary": "L'incarcération d'un parent est associée à un risque un peu plus élevé de comportements antisociaux chez l'enfant, même en tenant compte de facteurs familiaux préexistants.",
    "sources": [
@@ -2565,7 +2487,7 @@
   {
    "factor": "parentification",
    "outcome": "anx_generale",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Avoir pris soin d'un parent ou de la fratrie est associé à un peu plus de symptômes anxieux chez les jeunes adultes.",
    "sources": [
     "hooper2011",
@@ -2575,7 +2497,7 @@
   {
    "factor": "parentification",
    "outcome": "dep_generale",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "La parentification rapportée est associée à une légère augmentation des difficultés psychologiques à l'âge adulte, dont les symptômes dépressifs ; quand ce rôle est vécu comme ayant aussi apporté quelque chose, l'association est plus faible.",
    "sources": [
     "hooper2011",
@@ -2588,6 +2510,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle de Young, un enfant qui doit veiller à ne pas peiner ses proches apprend à se sentir coupable dès qu'il pense à lui.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -2606,6 +2529,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie les familles où il fallait répondre aux besoins des autres au schéma d'abnégation.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -2662,9 +2586,11 @@
    "strength": "theorique",
    "summary": "Le schéma d'abandon décrit exactement cette attente que les proches partent ; Young le relie à une famille instable.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_colere_interdite",
@@ -2700,7 +2626,8 @@
    "summary": "Le schéma d'assujettissement inclut la suppression de la colère pour éviter le conflit ou le rejet.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_colere_interdite",
@@ -2708,9 +2635,11 @@
    "strength": "theorique",
    "summary": "Le schéma d'inhibition émotionnelle décrit le fait de retenir ses émotions, dont la colère, pour éviter la désapprobation.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_honte",
@@ -2745,14 +2674,16 @@
    "strength": "theorique",
    "summary": "Le schéma d'imperfection et de honte décrit ce sentiment d'être défectueux et la peur que les autres le découvrent.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_pas_compter",
    "outcome": "dep_generale",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Les adultes ayant une dépression majeure se souviennent plus souvent de parents peu chaleureux et peu attentifs ; ces souvenirs sont rétrospectifs.",
    "sources": [
     "kidd2022"
@@ -2761,7 +2692,7 @@
   {
    "factor": "ressenti_pas_compter",
    "outcome": "icd_6a72",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Le souvenir de parents peu attentifs est plus fréquent chez les adultes ayant une dysthymie.",
    "sources": [
     "kidd2022"
@@ -2784,7 +2715,8 @@
    "summary": "Le modèle des schémas décrit des personnes qui taisent leurs besoins pour éviter le rejet, un prolongement possible du sentiment de ne pas compter.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_pas_compter",
@@ -2792,9 +2724,11 @@
    "strength": "limitee",
    "summary": "Avoir manqué d'attention et de soutien affectif est associé de façon assez nette au schéma de carence affective à l'âge adulte, dans des études surtout transversales.",
    "sources": [
+    "young2003",
     "pilkington2021",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_pas_compter",
@@ -2830,9 +2764,11 @@
    "strength": "theorique",
    "summary": "Le schéma d'exigences élevées décrit cette pression à atteindre des standards très hauts pour éviter la critique.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_perfection",
@@ -2840,8 +2776,10 @@
    "strength": "theorique",
    "summary": "Dans le modèle de Young, la conviction qu'une erreur est grave peut nourrir le schéma de punition envers soi.",
    "sources": [
+    "young2003",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_perfection",
@@ -2849,8 +2787,10 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie une acceptation conditionnelle au besoin persistant d'approbation.",
    "sources": [
+    "young2003",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_peur",
@@ -2885,9 +2825,11 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie un climat familial menaçant au schéma de méfiance : s'attendre à être blessé.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_peur",
@@ -2896,7 +2838,8 @@
    "summary": "Le schéma de vulnérabilité décrit la crainte permanente qu'une catastrophe survienne sans pouvoir l'empêcher.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_peur",
@@ -2941,6 +2884,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie les familles où l'enfant devait éviter de peiner les adultes à une orientation vers les besoins d'autrui, proche de ce que l'on appelle le rôle de sauveur.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -2950,9 +2894,11 @@
    "strength": "theorique",
    "summary": "Le schéma d'abnégation décrit le fait de répondre aux besoins des autres à ses dépens ; Young le relie à cette responsabilité précoce.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_responsable",
@@ -2961,7 +2907,8 @@
    "summary": "Se sentir chargé de l'humeur des adultes correspond, dans le modèle de Young, à l'apprentissage de taire ses besoins pour éviter la colère.",
    "sources": [
     "young_schemas"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "ressenti_responsable",
@@ -2996,6 +2943,7 @@
    "strength": "theorique",
    "summary": "Selon les modèles cliniques, une solitude ancienne peut rendre plus difficile la création de liens à l'âge adulte.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -3005,18 +2953,11 @@
    "strength": "theorique",
    "summary": "Le schéma d'isolement social décrit ce sentiment d'être différent et de n'appartenir à aucun groupe ; Young le relie à une enfance solitaire.",
    "sources": [
+    "young2003",
     "young_schemas",
     "carlucci2018"
-   ]
-  },
-  {
-   "factor": "secret_famille",
-   "outcome": "pat_identity_transition",
-   "strength": "limitee",
-   "summary": "La révélation d'un secret sur ses origines amène souvent à repenser son identité et sa place dans la famille ; les données sont qualitatives.",
-   "sources": [
-    "grethel2026"
-   ]
+   ],
+   "definitional": true
   },
   {
    "factor": "secret_famille",
@@ -3052,6 +2993,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle des schémas de Young, un milieu familial instable est l'origine typique du schéma d'abandon.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -3114,19 +3056,11 @@
   },
   {
    "factor": "soins_instables",
-   "outcome": "icd_6c90",
-   "strength": "limitee",
-   "summary": "La CIM-11 note que le trouble oppositionnel est plus fréquent dans les familles où les relations de soin ont été fortement perturbées.",
-   "sources": [
-    "oms_cddr"
-   ]
-  },
-  {
-   "factor": "soins_instables",
    "outcome": "sch_abandon",
    "strength": "theorique",
    "summary": "Dans le modèle des schémas de Young, un milieu familial instable est l'origine typique du schéma d'abandon.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -3153,7 +3087,7 @@
   {
    "factor": "surprotection",
    "outcome": "dep_generale",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Les adultes ayant une dépression majeure décrivent plus souvent des parents surprotecteurs et peu chaleureux ; ces données rétrospectives ne permettent pas de conclure à une cause.",
    "sources": [
     "kidd2022"
@@ -3162,7 +3096,7 @@
   {
    "factor": "surprotection",
    "outcome": "icd_6a72",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Une surprotection parentale rapportée est plus fréquente chez les adultes ayant une dysthymie que chez les personnes sans diagnostic.",
    "sources": [
     "kidd2022"
@@ -3171,7 +3105,7 @@
   {
    "factor": "surprotection",
    "outcome": "icd_6b01",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Les adultes ayant un trouble panique rapportent plus souvent une surprotection parentale dans l'enfance.",
    "sources": [
     "kidd2022"
@@ -3183,6 +3117,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie des parents qui ne laissaient pas l'enfant développer ses compétences au schéma de dépendance et d'incompétence.",
    "sources": [
+    "young2003",
     "carlucci2018",
     "young_schemas"
    ]
@@ -3193,6 +3128,7 @@
    "strength": "theorique",
    "summary": "Le modèle des schémas relie un parent trop impliqué dans la vie de l'enfant au schéma de fusion, où l'identité propre peine à se développer.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -3202,6 +3138,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle de Young, une éducation qui sape la confiance et présente le monde comme dangereux est une origine du schéma de vulnérabilité au danger.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -3217,7 +3154,7 @@
   {
    "factor": "temoin_violences",
    "outcome": "icd_6b40",
-   "strength": "forte",
+   "strength": "critere",
    "summary": "Être témoin de blessures ou de menaces de mort infligées violemment à autrui fait partie des événements que la CIM-11 retient pour le stress post-traumatique.",
    "sources": [
     "oms_cddr"
@@ -3238,6 +3175,7 @@
    "strength": "theorique",
    "summary": "Dans le modèle des schémas de Young, un milieu familial violent est l'origine typique du schéma de méfiance et d'abus.",
    "sources": [
+    "young2003",
     "carlucci2018"
    ]
   },
@@ -3399,15 +3337,6 @@
   }
  ],
  "notes": {
-  "adversite_cumul": {
-   "title": "Effet cumulatif des expériences adverses",
-   "text": "Les expériences adverses de l'enfance (violences, négligence, troubles ou addiction d'un parent, violences conjugales, incarcération) surviennent souvent ensemble. Plus elles sont nombreuses, plus le risque moyen de difficultés de santé mentale, d'usage de substances et de violences augmente, de façon graduelle. Ce constat statistique ne permet pas de prédire le parcours d'une personne.",
-   "sources": [
-    "felitti1998",
-    "hughes2017",
-    "mckay2022"
-   ]
-  },
   "neurodeveloppement": {
    "text": "L'autisme, le TDAH et les troubles du développement intellectuel ne sont pas causés par l'éducation ni par les événements listés ici : leur origine est surtout génétique et liée au développement précoce du cerveau. La cartographie ne les relie donc à aucun facteur. Seule une privation extrême et prolongée dans des institutions, très loin d'une éducation ordinaire, a été associée à des symptômes qui leur ressemblent.",
    "sources": [
@@ -3721,7 +3650,7 @@
    "id": "fazel2012",
    "citation": "Fazel M, Reed RV, Panter-Brick C, Stein A, 2012, Mental health of displaced and refugee children resettled in high-income countries: risk and protective factors, Lancet 379(9812):266-282",
    "url": "https://pubmed.ncbi.nlm.nih.gov/21835459/",
-   "type": "etude",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -3952,7 +3881,7 @@
    "id": "lacey2022",
    "citation": "Lacey RE, Xue B, McMunn A, 2022, The mental and physical health of young carers: a systematic review, Lancet Public Health",
    "url": "https://doi.org/10.1016/S2468-2667(22)00161-X",
-   "type": "etude",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -4001,7 +3930,7 @@
    "id": "loades2020",
    "citation": "Loades ME et al., 2020, Rapid systematic review: the impact of social isolation and loneliness on the mental health of children and adolescents in the context of COVID-19, Journal of the American Academy of Child and Adolescent Psychiatry 59(11):1218-1239",
    "url": "https://pubmed.ncbi.nlm.nih.gov/32504808/",
-   "type": "meta-analyse",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -4442,7 +4371,7 @@
    "id": "walker2019",
    "citation": "Walker HE, Freud JS, Ellis RA, et al., 2019, The prevalence of sexual revictimization: a meta-analytic review, Trauma, Violence, & Abuse",
    "url": "https://doi.org/10.1177/1524838017692364",
-   "type": "meta-analyse",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4472,6 +4401,13 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/28178373/",
    "type": "meta-analyse",
    "read": "résumé"
+  },
+  {
+   "id": "young2003",
+   "citation": "Young JE, Klosko JS, Weishaar ME, 2003, Schema Therapy: A Practitioner's Guide, Guilford Press",
+   "url": "https://www.guilford.com/books/Schema-Therapy/Young-Klosko-Weishaar/9781593853723",
+   "type": "theorie",
+   "read": "présentation de l’éditeur ; origines familiales des schémas reprises via Carlucci 2018"
   },
   {
    "id": "young_schemas",

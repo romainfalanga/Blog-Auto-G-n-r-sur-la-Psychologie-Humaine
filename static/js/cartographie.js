@@ -5,9 +5,10 @@
   'use strict';
 
   var TIER_ORDER = { convergence: 0, piste: 1, theorique: 2 };
-  var STRONG = { forte: true, moderee: true };
-  var STRENGTH_LABEL = { forte: 'Preuves solides', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
-  var KIND_LABEL = { trouble: 'Trouble (CIM-11)', schema: 'Schéma précoce', attachement: "Style d'attachement", tendance: 'Tendance psychologique' };
+  var STRONG = { forte: true, critere: true, moderee: true };
+  var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Condition du diagnostic (CIM-11)', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
+  var NOTE_TEXT = { jeune_enfant: 'Diagnostic posé chez le jeune enfant après des soins gravement insuffisants : il ne s’applique pas à un adulte.' };
+  var KIND_LABEL = { trouble: 'Trouble étudié (CIM-11)', schema: 'Schéma précoce', attachement: "Style d'attachement", tendance: 'Tendance psychologique' };
 
   function compute(data, selected) {
     var chosen = selected instanceof Set ? selected : new Set(selected || []);
@@ -22,9 +23,11 @@
     var results = Object.keys(byOutcome).filter(function (id) { return outcomes[id]; }).map(function (id) {
       var links = byOutcome[id].slice().sort(function (a, b) { return weights[b.strength] - weights[a.strength]; });
       var factors = links.map(function (l) { return l.factor; });
-      var strong = links.some(function (l) { return STRONG[l.strength]; });
-      var tier = links.length >= 2 && strong ? 'convergence' : (strong ? 'piste' : 'theorique');
-      var score = links.reduce(function (sum, l) { return sum + (weights[l.strength] || 1); }, 0);
+      // A feeling that merely restates a schema's definition is shown but does not count as convergence.
+      var counted = links.filter(function (l) { return !l.definitional; });
+      var strong = counted.some(function (l) { return STRONG[l.strength]; });
+      var tier = counted.length >= 2 && strong ? 'convergence' : (strong ? 'piste' : 'theorique');
+      var score = links.reduce(function (sum, l) { return sum + (l.definitional ? 0.5 : (weights[l.strength] || 1)); }, 0);
       return { outcome: outcomes[id], links: links, factors: factors, tier: tier, score: score };
     });
     results.sort(function (a, b) {
@@ -94,6 +97,13 @@
       });
     }
 
+    // Browsers may restore checked boxes from their cache: clear them so nothing persists.
+    window.addEventListener('pageshow', function () {
+      form.querySelectorAll('input[type=checkbox]').forEach(function (i) { i.checked = false; });
+      selected.clear();
+      render();
+    });
+
     reset.addEventListener('click', function () {
       selected.clear();
       form.querySelectorAll('input[type=checkbox]').forEach(function (i) { i.checked = false; });
@@ -124,7 +134,9 @@
           srcList
         ]));
       });
-      var body = [head, o.description ? el('p', { className: 'carto-desc', text: o.description }) : null, list];
+      var body = [head, o.description ? el('p', { className: 'carto-desc', text: o.description }) : null,
+        o.note && NOTE_TEXT[o.note] ? el('p', { className: 'carto-caution', text: NOTE_TEXT[o.note] }) : null, list];
+      if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Ce lien décrit un risque moyen observé dans des groupes de personnes, pas votre situation : seul un professionnel peut évaluer un trouble.' }));
       if (o.url) body.push(el('a', { className: 'carto-read', href: o.url, text: o.url.indexOf('/personnages/') === 0 ? 'Découvrir le parcours qui l’illustre' : 'Lire l’article qui l’illustre' }));
       return el('article', { className: 'carto-card carto-tier-' + result.tier }, body);
     }
@@ -137,6 +149,12 @@
         output.appendChild(el('p', { className: 'carto-empty', text: 'Cochez ce qui correspond à votre enfance : les conséquences associées apparaîtront ici, avec les éléments qui y convergent et les sources.' }));
         return;
       }
+      if (state.results.some(function (r) { return r.outcome.note === 'suicide'; })) {
+        output.appendChild(el('div', { className: 'carto-note carto-note-urgent', role: 'note' }, [
+          el('strong', { text: 'Si vous avez des idées suicidaires en ce moment, ' }),
+          el('span', { text: 'appelez le 3114 (gratuit, 24 h/24, 7 j/7). En cas de danger immédiat : 15 ou 112.' })
+        ]));
+      }
       if (state.aceCount >= 4 && data.notes && data.notes.cumul) {
         output.appendChild(el('div', { className: 'carto-note carto-note-cumul' }, [
           el('strong', { text: state.aceCount + ' expériences adverses de l’enfance cochées. ' }),
@@ -145,8 +163,8 @@
       }
       var shown = state.results.filter(function (r) { return kindFilter === 'all' || r.outcome.kind === kindFilter; });
       var tiers = [
-        ['convergence', 'Plusieurs éléments convergent', 'Au moins deux éléments cochés sont associés à cette conséquence, dont un avec des preuves solides ou modérées.'],
-        ['piste', 'Pistes à explorer', 'Un élément coché est associé à cette conséquence par des preuves solides ou modérées.'],
+        ['convergence', 'Plusieurs de vos réponses y sont associées', 'Au moins deux éléments cochés sont associés à cette conséquence dans la recherche, dont un avec des preuves solides ou modérées. Cela décrit une fréquence plus élevée dans des groupes, pas un diagnostic.'],
+        ['piste', 'Une de vos réponses y est associée', 'Un élément coché est associé à cette conséquence par des preuves solides ou modérées, ou en est une condition dans la classification.'],
         ['theorique', 'Liens issus de modèles cliniques ou de preuves limitées', 'Ces liens viennent de modèles thérapeutiques ou d’études encore peu nombreuses.']
       ];
       tiers.forEach(function (t) {

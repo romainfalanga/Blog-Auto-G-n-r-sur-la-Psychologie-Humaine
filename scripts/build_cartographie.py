@@ -19,24 +19,12 @@ ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "editorial" / "cartographie"
 OUT = ROOT / "data" / "cartographie.json"
 KINDS = {"trouble", "schema", "attachement", "tendance"}
-STRENGTHS = {"forte": 3, "moderee": 2, "limitee": 1, "theorique": 1}
-SOURCE_TYPES = {"classification", "recommandation", "meta-analyse", "etude", "theorie"}
+STRENGTHS = {"forte": 3, "critere": 2, "moderee": 2, "limitee": 1, "theorique": 1}
+SOURCE_TYPES = {"classification", "recommandation", "meta-analyse", "revue", "etude", "theorie"}
 # Conditions that research does not attribute to upbringing or adversity.
 FORBIDDEN_OUTCOME_PREFIXES = ("icd_6a00", "icd_6a01", "icd_6a02", "icd_6a03", "icd_6a04", "icd_6a05")
 DETERMINISTIC = re.compile(r"\b(provoque|cause directement|entraîne forcément|entraine forcement|garantit|toujours)\b", re.I)
 PERCENT = re.compile(r"\d+\s?%")
-# Research fragments used several identifiers for the same broad outcome.
-# They are merged so that converging factors are counted together.
-ALIASES = {"icd_6a71": "dep_generale", "icd_6a70": "dep_generale", "ten_symptomes_depressifs": "dep_generale",
-           "icd_6b00": "anx_generale", "ten_symptomes_anxieux": "anx_generale"}
-CANONICAL = {
-    "dep_generale": {"id": "dep_generale", "kind": "trouble", "label": "Dépression", "code": "6A70–6A71",
-                     "description": "Épisodes dépressifs ou symptômes dépressifs durables : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
-                     "url": "/personnages/louise/"},
-    "anx_generale": {"id": "anx_generale", "kind": "trouble", "label": "Troubles anxieux", "code": "6B00–6B05",
-                     "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée.",
-                     "url": "/personnages/antonin/"},
-}
 
 
 def page_exists(url: str) -> bool:
@@ -56,6 +44,63 @@ def page_exists(url: str) -> bool:
     return False
 
 
+def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, sources: dict) -> list[str]:
+    """Apply the pilot's traceable corrections after the independent review."""
+    errors: list[str] = []
+    for oid, fields in corr.get("outcome_overrides", {}).items():
+        if oid in outcomes:
+            merged = {**outcomes[oid], **{k: v for k, v in fields.items() if k != "id"}}
+            outcomes[oid] = {k: v for k, v in merged.items() if v is not None}
+    for oid in corr.get("remove_outcomes", []):
+        outcomes.pop(oid, None)
+        for key in [k for k in links if k[1] == oid]:
+            del links[key]
+    for move in corr.get("retarget", []):
+        if move["to"] not in factors:
+            errors.append(f"correction : facteur cible inconnu {move['to']}")
+        for oid in move["outcomes"]:
+            link = links.pop((move["from"], oid), None)
+            if link is None:
+                errors.append(f"correction : lien absent {move['from']} → {oid}")
+                continue
+            links[(move["to"], oid)] = dict(link, factor=move["to"])
+    for s in corr.get("add_sources", []):
+        sources.setdefault(s["id"], s)
+    for sid, fields in corr.get("source_overrides", {}).items():
+        if sid in sources:
+            sources[sid] = {**sources[sid], **fields}
+    for old, extra in corr.get("add_source_where", {}).items():
+        for key, link in links.items():
+            if old in link["sources"] and extra not in link["sources"]:
+                links[key] = dict(link, sources=[extra] + link["sources"])
+    for change in corr.get("link_overrides", []):
+        key = (change["factor"], change["outcome"])
+        if key not in links:
+            errors.append(f"correction : lien absent {key}")
+            continue
+        if change.get("remove"):
+            del links[key]
+            continue
+        links[key] = {**links[key], **{k: v for k, v in change.items() if k in ("strength", "summary", "sources")}}
+    # A classification criterion is a precondition of the diagnosis, not a measured risk.
+    for key, link in links.items():
+        if link["strength"] == "forte" and all(sources.get(s, {}).get("type") == "classification" for s in link["sources"]):
+            links[key] = dict(link, strength="critere")
+    pref = corr.get("definitional_prefix")
+    if pref:
+        for key, link in links.items():
+            if key[0].startswith(pref["factor"]) and key[1].startswith(pref["outcome"]):
+                links[key] = dict(link, definitional=True)
+    labels: dict[str, str] = {}
+    for oid, o in outcomes.items():
+        if not any(k[1] == oid for k in links):
+            continue
+        if o["label"] in labels:
+            errors.append(f"conséquences en double : {labels[o['label']]} et {oid} ({o['label']})")
+        labels[o["label"]] = oid
+    return errors
+
+
 def build() -> tuple[dict, list[str]]:
     errors: list[str] = []
     base = json.loads((SRC / "facteurs.json").read_text(encoding="utf-8"))
@@ -64,6 +109,9 @@ def build() -> tuple[dict, list[str]]:
     for f in base["factors"]:
         if f["group"] not in groups:
             errors.append(f"facteur {f['id']} : groupe inconnu {f['group']}")
+    corr = json.loads((SRC / "corrections.json").read_text(encoding="utf-8")) if (SRC / "corrections.json").exists() else {}
+    aliases = corr.get("aliases", {})
+    canon = corr.get("outcome_overrides", {})
     outcomes: dict[str, dict] = {}
     sources: dict[str, dict] = {}
     links: dict[tuple[str, str], dict] = {}
@@ -80,8 +128,9 @@ def build() -> tuple[dict, list[str]]:
                 errors.append(f"{name} : source invalide {s.get('id')}")
             sources.setdefault(s["id"], s)
         for o in part.get("outcomes", []):
-            if o["id"] in ALIASES:
-                o = CANONICAL[ALIASES[o["id"]]]
+            if o["id"] in aliases:
+                target = aliases[o["id"]]
+                o = dict(canon[target]) if "id" in canon.get(target, {}) else dict(o, id=target)
             if o.get("kind") not in KINDS:
                 errors.append(f"{name} : type inconnu pour {o.get('id')}")
             if o["id"].startswith(FORBIDDEN_OUTCOME_PREFIXES):
@@ -98,7 +147,7 @@ def build() -> tuple[dict, list[str]]:
         if isinstance(part.get("notes"), dict):
             notes.update(part["notes"])
         for link in part.get("links", []):
-            link = dict(link, outcome=ALIASES.get(link.get("outcome"), link.get("outcome")))
+            link = dict(link, outcome=aliases.get(link.get("outcome"), link.get("outcome")))
             key = (link.get("factor"), link.get("outcome"))
             if key[0] not in factors:
                 errors.append(f"{name} : facteur inconnu {key[0]}")
@@ -117,6 +166,7 @@ def build() -> tuple[dict, list[str]]:
                 else:
                     link = dict(old, sources=sorted(set(link["sources"]) | set(old["sources"])))
             links[key] = link
+    errors.extend(apply_corrections(corr, factors, outcomes, links, sources))
     for (fid, oid), link in links.items():
         if oid not in outcomes:
             errors.append(f"lien {fid} → {oid} : conséquence non définie")
@@ -130,6 +180,7 @@ def build() -> tuple[dict, list[str]]:
     used_sources = {s for link in links.values() for s in link["sources"]}
     used_sources |= {s for p in protections for s in p.get("sources", [])}
     used_sources |= {s for n in notes.values() if isinstance(n, dict) for s in n.get("sources", [])}
+    notes.pop("adversite_cumul", None)  # merged into the displayed « cumul » note
     used_outcomes = {oid for _, oid in links}
     data = {
         "schema_version": 1,

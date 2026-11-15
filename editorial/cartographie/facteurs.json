@@ -376,11 +376,23 @@
    "ace": false
   },
   {
+   "id": "exil",
+   "group": "contexte",
+   "label": "Exil forcé, guerre ou persécution",
+   "description": "Fuir un pays en guerre ou une persécution, vivre un conflit armé ou un parcours d’exil difficile.",
+   "examples": [
+    "Bombardements, camps, séparation forcée de proches"
+   ],
+   "ace": false
+  },
+  {
    "id": "migration",
    "group": "contexte",
-   "label": "Exil, migration ou guerre",
-   "description": "Quitter son pays, vivre un conflit armé ou des conditions d'exil.",
-   "examples": [],
+   "label": "Migration ou changement de pays",
+   "description": "Quitter son pays ou sa région avec sa famille, sans persécution ni guerre.",
+   "examples": [
+    "Arriver dans un pays dont on ne parlait pas la langue"
+   ],
    "ace": false
   },
   {
