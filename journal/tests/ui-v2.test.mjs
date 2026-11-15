@@ -160,7 +160,7 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,6);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,7);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
