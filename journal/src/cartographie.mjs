@@ -63,7 +63,7 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   return {id:o.id,label:o.label,kind:o.kind,...(o.code?{code:o.code}:{}),tier:r.tier,causes:r.factors.map(label),max_strength:max,...(o.url?{url:o.url}:{}),...(o.note?{note:o.note}:{}),...(feedback[o.id]?{feedback:feedback[o.id]}:{})};
  };
  const convergence=state.results.filter(r=>r.tier==='convergence'),pistes=state.results.filter(r=>r.tier==='piste'),tierOf=new Map(state.results.map(r=>[r.outcome.id,r.tier]));
- const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats'}));
+ const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',...(outcomes.get(id).note?{note:outcomes.get(id).note}:{})}));
  const recognized=reported('oui'),dismissed=reported('non');
  return {
   cause_count:state.selectedCount,ace_count:state.aceCount,
@@ -72,7 +72,7 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   pistes:pistes.slice(0,maxPistes).map(item),
   theorique_count:state.results.filter(r=>r.tier==='theorique').length,
   recognized,dismissed,
-  suicide_recognized:recognized.some(r=>outcomes.get(r.id)?.note==='suicide'),
+  suicide_recognized:recognized.some(r=>r.note==='suicide'),
   truncated:convergence.length>maxConvergence||pistes.length>maxPistes
  };
 }
@@ -97,9 +97,9 @@ export async function readCartography(env,userId){
  catch(e){if(missingTable(e))return null;throw e;}
 }
 export function cartographyView(row){
- if(!row)return {cartography:null,summary:null};
+ if(!row)return {cartographie:null,summary:null};
  const answers=parse(row.answers),feedback=parse(row.feedback);
- return {cartography:{answers,feedback,consent:Boolean(row.consent),locked:row.locked_at!=null,locked_at:row.locked_at??null,version:row.version,updated_at:row.updated_at},summary:summarizeCartography(answers,feedback)};
+ return {cartographie:{answers,feedback,consent:Boolean(row.consent),locked:row.locked_at!=null,locked_at:row.locked_at??null,version:row.version,updated_at:row.updated_at},summary:summarizeCartography(answers,feedback)};
 }
 // Only a locked map saved with explicit consent becomes Ambre's reference.
 export function companionCartography(row){
@@ -116,7 +116,8 @@ export function createCartographyBackend({error,json,body,now}){
   const data=await body(request,CARTOGRAPHY_BODY_LIMIT);
   if(data.consent!==true)fail(400,'Votre accord explicite est requis pour enregistrer cette donnée de santé.','consent_required');
   if(typeof data.locked!=='boolean')fail(400,'Indiquez si la cartographie doit être verrouillée.','invalid_cartography');
-  const expected=data.expected_version;
+  // expected_version (or its alias version, null for a first save) is the version last read.
+  const expected=data.expected_version!==undefined?data.expected_version:data.version===null?0:data.version;
   if(!Number.isInteger(expected)||expected<0)fail(400,'Version de cartographie invalide (0 pour une première sauvegarde).','invalid_version');
   const {answers,feedback}=validateCartography(data,fail);
   if(data.locked&&!Object.keys(answers).length)fail(400,'Cochez au moins un élément avant de verrouiller la cartographie.','invalid_cartography');
@@ -138,9 +139,9 @@ export function createCartographyBackend({error,json,body,now}){
   if(path!=='/api/cartographie')return null;
   if(request.method==='GET')return json(cartographyView(await current(env,user.id)));
   if(request.method==='PUT')return save(request,env,user);
-  if(request.method==='DELETE'){await stmt(env,'DELETE FROM cartographies WHERE user_id=?',user.id).run();return json({ok:true,cartography:null,summary:null});}
+  if(request.method==='DELETE'){await stmt(env,'DELETE FROM cartographies WHERE user_id=?',user.id).run();return json({ok:true,cartographie:null,summary:null});}
   fail(405,'Méthode non autorisée.','method_not_allowed');
  }
- async function exportData(env,userId){return {cartography:cartographyView(await readCartography(env,userId)).cartography};}
+ async function exportData(env,userId){return {cartographie:cartographyView(await readCartography(env,userId)).cartographie};}
  return {routes,exportData};
 }

@@ -727,6 +727,38 @@
    "domain": "relations"
   },
   {
+   "id": "ten_difficultes_professionnelles",
+   "kind": "tendance",
+   "label": "Difficultés d'emploi et de revenus à l'âge adulte",
+   "description": "Plus de difficultés à trouver ou garder un emploi stable et à disposer de revenus suffisants.",
+   "url": null,
+   "domain": "soi"
+  },
+  {
+   "id": "ten_difficultes_sexuelles",
+   "kind": "tendance",
+   "label": "Difficultés dans la vie sexuelle",
+   "description": "Peu de désir, douleurs, difficultés d'excitation ou de plaisir, ou une sexualité vécue avec malaise.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_sommeil",
+   "kind": "tendance",
+   "label": "Difficultés de sommeil (insomnie, cauchemars)",
+   "description": "Du mal à s'endormir, des réveils fréquents, des nuits courtes ou des cauchemars qui reviennent.",
+   "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement/",
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_difficultes_scolaires",
+   "kind": "tendance",
+   "label": "Difficultés scolaires",
+   "description": "Des résultats plus faibles, un redoublement ou un décrochage, souvent liés au stress vécu plutôt qu'aux capacités.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
    "id": "ten_dysregulation_emotionnelle",
    "kind": "tendance",
    "label": "Difficultés à réguler ses émotions",
@@ -740,6 +772,14 @@
    "description": "Anxiété, tristesse, agitation ou opposition repérées pendant l'enfance ou l'adolescence.",
    "url": null,
    "domain": "soi"
+  },
+  {
+   "id": "ten_douleurs_persistantes",
+   "kind": "tendance",
+   "label": "Douleurs persistantes et maux physiques à répétition",
+   "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ».",
+   "url": null,
+   "domain": "comportements"
   },
   {
    "id": "icd_6a72",
@@ -821,6 +861,30 @@
    "label": "Peur de perdre le lien",
    "description": "Inquiétude liée à une distance ou une séparation.",
    "domain": "relations"
+  },
+  {
+   "id": "ten_risques_sexuels",
+   "kind": "tendance",
+   "label": "Prises de risque dans la sexualité",
+   "description": "Des rapports non protégés, de nombreux partenaires ou des situations sexuelles où l'on se met en danger.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_sante_physique",
+   "kind": "tendance",
+   "label": "Problèmes de santé physique à l'âge adulte",
+   "description": "Des maladies du cœur, des poumons ou du métabolisme (comme le diabète), ou le sentiment d'être en moins bonne santé.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_procrastination",
+   "kind": "tendance",
+   "label": "Procrastination",
+   "description": "Repousser des tâches importantes malgré l'envie de les faire et le coût de ce retard.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion/",
+   "domain": "comportements"
   },
   {
    "id": "ten_qualite_relationnelle",
@@ -998,12 +1062,28 @@
    "domain": "anxiete"
   },
   {
+   "id": "pat_impostor",
+   "kind": "tendance",
+   "label": "Sentiment d’imposture",
+   "description": "Douter de sa légitimité malgré des réussites réelles, et craindre d'être « démasqué ». C'est un vécu courant, pas un diagnostic.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes/",
+   "domain": "soi"
+  },
+  {
    "id": "pat_migration_adjustment",
    "kind": "tendance",
    "label": "Stress lié à l’adaptation après une migration",
    "description": "Difficultés à trouver sa place, à cumuler deux cultures ou à refaire un réseau après un changement de pays.",
    "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/",
    "domain": "anxiete"
+  },
+  {
+   "id": "ten_surpoids",
+   "kind": "tendance",
+   "label": "Surpoids ou obésité",
+   "description": "Un poids qui pèse sur la santé ou le bien-être. Il dépend de nombreux facteurs (génétique, conditions de vie, stress) et n'est pas une question de volonté.",
+   "url": null,
+   "domain": "comportements"
   },
   {
    "id": "ten_dissociation",
@@ -1158,6 +1238,14 @@
    "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic.",
    "url": "/personnages/nils/",
    "domain": "perceptions"
+  },
+  {
+   "id": "ten_ecrans",
+   "kind": "tendance",
+   "label": "Usage problématique des écrans, d'internet ou des jeux vidéo",
+   "description": "Du mal à limiter le temps passé sur le téléphone, internet ou les jeux, au point de gêner le sommeil, les études, le travail ou les relations.",
+   "url": "/personnages/come/",
+   "domain": "comportements"
   },
   {
    "id": "ten_usage_substances",
@@ -1376,6 +1464,68 @@
    ]
   },
   {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques dans l'enfance sont associées, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques dans l'enfance sont associées à plus de douleurs chroniques et de migraines à l'âge adulte, surtout dans des études qui interrogent les adultes sur leur passé.",
+   "sources": [
+    "bussieres2023",
+    "liu2024_migraine",
+    "marin2021"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_ecrans",
+   "strength": "limitee",
+   "summary": "Avoir vécu des violences psychologiques est associé à un usage plus problématique du téléphone et d'internet. Ces résultats viennent surtout d'études ponctuelles, souvent chez des jeunes, qui ne permettent pas de dire ce qui vient en premier.",
+   "sources": [
+    "ye2025",
+    "hao2024",
+    "tang2024"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_sante_physique",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques dans l'enfance sont associées à plus de maladies cardiométaboliques et de migraines à l'âge adulte, avec un effet modeste.",
+   "sources": [
+    "flor2025",
+    "souama2023"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences psychologiques dans l'enfance est associé, en moyenne, à un peu plus de difficultés de sommeil à l'âge adulte (dans des études qui suivent les personnes dans le temps), et à plus d'insomnie et de cauchemars dès l'enfance. L'effet est modeste et beaucoup de personnes dorment bien.",
+   "sources": [
+    "yu2022_sommeil",
+    "schonning2022"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_surpoids",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences psychologiques dans l'enfance est associé à un risque un peu plus élevé d'obésité à l'âge adulte, davantage quand les violences ont été graves. Manger pour apaiser le stress fait partie des pistes étudiées.",
+   "sources": [
+    "danese2014",
+    "hemmingsson2014"
+   ]
+  },
+  {
    "factor": "abus_physique",
    "outcome": "anx_generale",
    "strength": "moderee",
@@ -1481,11 +1631,42 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi jusqu'à l'âge adulte des enfants dont des violences physiques avaient été établies par la justice, ces adultes avaient en moyenne moins d'études, moins souvent un emploi et des revenus plus faibles que des personnes comparables.",
+   "sources": [
+    "currie2010"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les violences physiques dans l'enfance sont associées, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "ten_dissociation",
    "strength": "moderee",
    "summary": "Les personnes ayant subi des violences physiques rapportent en moyenne davantage de symptômes dissociatifs, surtout quand les violences ont commencé tôt, duré longtemps ou venaient d'un parent.",
    "sources": [
     "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les adultes qui rapportent des violences physiques dans l'enfance signalent plus souvent des douleurs chroniques (dos, migraines, fibromyalgie) et une gêne au quotidien liée à la douleur. Les études qui suivent les enfants dans le temps sont moins nombreuses et moins concordantes ; le stress post-traumatique semble jouer un rôle d'intermédiaire.",
+   "sources": [
+    "bussieres2023",
+    "hauser2011",
+    "liu2024_migraine",
+    "marin2021"
    ]
   },
   {
@@ -1499,11 +1680,53 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "ten_ecrans",
+   "strength": "limitee",
+   "summary": "Avoir vécu des violences physiques est associé à un usage plus problématique du téléphone et d'internet. Ces résultats viennent surtout d'études ponctuelles, souvent chez des jeunes, qui ne permettent pas de dire ce qui vient en premier.",
+   "sources": [
+    "ye2025",
+    "hao2024",
+    "tang2024"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "ten_hypervigilance",
    "strength": "moderee",
    "summary": "Les enfants exposés à des violences repèrent plus vite les signes de menace et y réagissent plus fortement ; cette adaptation au danger est associée à de nombreuses difficultés ultérieures.",
    "sources": [
     "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_sante_physique",
+   "strength": "moderee",
+   "summary": "Les violences physiques dans l'enfance sont associées à un risque un peu plus élevé de maladies cardiaques et métaboliques à l'âge adulte. Les analyses les plus prudentes jugent ce lien réel mais d'ampleur modeste.",
+   "sources": [
+    "flor2025",
+    "souama2023",
+    "felitti1998"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences physiques dans l'enfance est associé, en moyenne, à un peu plus de difficultés de sommeil à l'âge adulte (dans des études qui suivent les personnes dans le temps), et à plus d'insomnie et de cauchemars dès l'enfance. L'effet est modeste et beaucoup de personnes dorment bien.",
+   "sources": [
+    "yu2022_sommeil",
+    "schonning2022"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_surpoids",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences physiques dans l'enfance est associé à un risque un peu plus élevé d'obésité à l'âge adulte, davantage quand les violences ont été graves. Manger pour apaiser le stress fait partie des pistes étudiées.",
+   "sources": [
+    "danese2014",
+    "hemmingsson2014"
    ]
   },
   {
@@ -1630,6 +1853,34 @@
   },
   {
    "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi jusqu'à l'âge adulte des enfants dont des violences sexuelles avaient été établies par la justice, ces adultes avaient en moyenne moins d'études, moins souvent un emploi et des revenus plus faibles que des personnes comparables.",
+   "sources": [
+    "currie2010"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_sexuelles",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus de difficultés sexuelles à l'âge adulte (désir, excitation, douleur, plaisir), chez les femmes comme chez les hommes. Ces difficultés peuvent s'améliorer avec un accompagnement adapté.",
+   "sources": [
+    "wang2023_sexualite"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
    "outcome": "ten_dissociation",
    "strength": "moderee",
    "summary": "Les symptômes dissociatifs sont en moyenne plus élevés après des violences sexuelles que dans les autres groupes étudiés.",
@@ -1639,11 +1890,64 @@
   },
   {
    "factor": "abus_sexuel",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus de douleurs persistantes et de plaintes physiques à l'âge adulte (migraine, fibromyalgie, troubles digestifs). L'effet est modéré, et les études prospectives restent rares.",
+   "sources": [
+    "bussieres2023",
+    "hauser2011",
+    "irish2010",
+    "liu2024_migraine",
+    "marin2021"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
    "outcome": "ten_revictimisation",
    "strength": "moderee",
    "summary": "Les personnes ayant subi des violences sexuelles enfant sont plus exposées à en subir de nouveau plus tard ; la responsabilité en revient aux agresseurs.",
    "sources": [
     "walker2019"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_risques_sexuels",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées, avec un effet faible, à plus de prises de risque sexuelles et à un risque plus élevé de nouvelles violences à l'âge adulte.",
+   "sources": [
+    "arriola2005"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_sante_physique",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus de plaintes de santé générale, de diabète de type 2 et de maladies cardiométaboliques à l'âge adulte.",
+   "sources": [
+    "souama2023",
+    "irish2010",
+    "huang2015_diabete"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences sexuelles dans l'enfance est associé, en moyenne, à un peu plus de difficultés de sommeil à l'âge adulte (dans des études qui suivent les personnes dans le temps), et à plus d'insomnie et de cauchemars dès l'enfance. L'effet est modeste et beaucoup de personnes dorment bien.",
+   "sources": [
+    "yu2022_sommeil",
+    "schonning2022"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_surpoids",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences sexuelles dans l'enfance est associé à un risque un peu plus élevé d'obésité à l'âge adulte, davantage quand les violences ont été graves. Manger pour apaiser le stress fait partie des pistes étudiées.",
+   "sources": [
+    "danese2014",
+    "hemmingsson2014"
    ]
   },
   {
@@ -1742,6 +2046,15 @@
   },
   {
    "factor": "comparaison_fratrie",
+   "outcome": "pat_impostor",
+   "strength": "theorique",
+   "summary": "Dans le modèle clinique de Clance et Imes, être comparé à un frère ou une sœur désigné comme « l'intelligent » de la famille peut nourrir un doute durable sur ses capacités, malgré les réussites.",
+   "sources": [
+    "clance1978"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
    "outcome": "ten_externalisation",
    "strength": "moderee",
    "summary": "Recevoir plus d'hostilité qu'un frère ou une sœur est associé à plus de comportements d'opposition ou d'agressivité.",
@@ -1778,6 +2091,16 @@
    "summary": "Le contrôle psychologique parental est associé à plus de symptômes d'anxiété sociale chez les enfants et adolescents, notamment la peur d'être jugé.",
    "sources": [
     "zeng2026"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "pat_impostor",
+   "strength": "limitee",
+   "summary": "Chez des adolescents, une éducation autoritaire et un contrôle psychologique (culpabiliser, retirer son affection) sont associés à plus de sentiment d'imposture. Il s'agit d'études ponctuelles sur de petits échantillons.",
+   "sources": [
+    "yaffe2023",
+    "yaffe2026"
    ]
   },
   {
@@ -2017,6 +2340,24 @@
    ]
   },
   {
+   "factor": "divorce",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les enfants dont les parents se sont séparés ont, en moyenne, des résultats scolaires un peu plus faibles. Les écarts sont modestes et beaucoup d'enfants n'en sont pas affectés.",
+   "sources": [
+    "amato2001"
+   ]
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "pat_impostor",
+   "strength": "theorique",
+   "summary": "Selon Clance et Imes, une étiquette familiale figée (« la sensible », « le surdoué ») peut laisser la personne douter d'elle quand ses réussites ne correspondent pas à ce rôle.",
+   "sources": [
+    "clance1978"
+   ]
+  },
+  {
    "factor": "exil",
    "outcome": "anx_generale",
    "strength": "moderee",
@@ -2164,6 +2505,33 @@
     "moore2017",
     "takizawa2014",
     "fisher2012"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Le harcèlement par les pairs est associé à de moins bons résultats scolaires, en partie parce qu'il réduit l'engagement et la motivation à l'école.",
+   "sources": [
+    "samara2021"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les enfants harcelés ont plus souvent des maux de tête, de ventre ou d'autres symptômes physiques, y compris dans des études qui les suivent dans le temps.",
+   "sources": [
+    "gini2013"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Les enfants et adolescents harcelés par leurs pairs ont plus souvent des problèmes de sommeil ; le lien est plus net chez les plus jeunes. Un sommeil qui se dégrade peut être un signal à prendre au sérieux.",
+   "sources": [
+    "vangeel2016"
    ]
   },
   {
@@ -2391,6 +2759,26 @@
    ]
   },
   {
+   "factor": "moqueries_corps",
+   "outcome": "icd_6b81",
+   "strength": "moderee",
+   "summary": "Les moqueries sur le poids ou l'apparence sont associées à plus d'insatisfaction corporelle, de régimes et de crises alimentaires ; des études longitudinales retrouvent ce lien plusieurs années plus tard.",
+   "sources": [
+    "menzel2010",
+    "haines2006",
+    "puhl2017"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_surpoids",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi des adolescents pendant quinze ans, les moqueries sur le poids, venant des pairs ou de la famille, étaient associées à un poids plus élevé à l'âge adulte, même à poids de départ comparable.",
+   "sources": [
+    "puhl2017"
+   ]
+  },
+  {
    "factor": "negligence_emotionnelle",
    "outcome": "att_anxieux",
    "strength": "moderee",
@@ -2522,12 +2910,51 @@
   },
   {
    "factor": "negligence_emotionnelle",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "La négligence affective dans l'enfance est associée, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
    "outcome": "ten_dissociation",
    "strength": "limitee",
    "summary": "La négligence affective est associée à davantage de symptômes dissociatifs, avec des écarts plus faibles qu'après des abus.",
    "sources": [
     "vonderlin2018",
     "wright2009"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à des douleurs chroniques un peu plus fréquentes à l'âge adulte, d'après un petit nombre d'études qui distinguent rarement ses formes.",
+   "sources": [
+    "bussieres2023"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_ecrans",
+   "strength": "limitee",
+   "summary": "Avoir vécu une négligence affective est associé à un usage plus problématique du téléphone et d'internet. Ces résultats viennent surtout d'études ponctuelles, souvent chez des jeunes, qui ne permettent pas de dire ce qui vient en premier.",
+   "sources": [
+    "ye2025",
+    "hao2024",
+    "tang2024"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à un risque plus élevé de diabète de type 2 à l'âge adulte, dans un petit nombre d'études.",
+   "sources": [
+    "huang2015_diabete"
    ]
   },
   {
@@ -2615,11 +3042,48 @@
   },
   {
    "factor": "negligence_physique",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi jusqu'à l'âge adulte des enfants dont une négligence avait été établie par la justice, ces adultes avaient en moyenne moins d'études, moins souvent un emploi et des revenus plus faibles que des personnes comparables.",
+   "sources": [
+    "currie2010"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "La négligence matérielle dans l'enfance est associée, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
    "outcome": "ten_dissociation",
    "strength": "moderee",
    "summary": "La négligence est associée à davantage de symptômes dissociatifs, un peu moins que les abus.",
    "sources": [
     "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à des douleurs chroniques un peu plus fréquentes à l'âge adulte, d'après un petit nombre d'études qui distinguent rarement ses formes.",
+   "sources": [
+    "bussieres2023"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à un risque plus élevé de diabète de type 2 à l'âge adulte, dans un petit nombre d'études.",
+   "sources": [
+    "huang2015_diabete"
    ]
   },
   {
@@ -2653,6 +3117,25 @@
   },
   {
    "factor": "parent_addiction",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "Grandir avec un parent ayant une addiction fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "summary": "Les difficultés familiales du type de l'addiction d'un parent sont associées à un sommeil un peu moins bon à l'âge adulte. Ce résultat repose sur peu d'études, qui regroupent plusieurs formes de difficultés familiales.",
+   "sources": [
+    "yu2022_sommeil"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
    "outcome": "ten_souffrance_enfance",
    "strength": "limitee",
    "summary": "La consommation d'alcool des parents est souvent associée à des difficultés chez l'enfant dans les cohortes, mais les études ne permettent pas encore de conclure à un effet direct.",
@@ -2678,6 +3161,16 @@
    "summary": "L'incarcération d'un parent est associée à un risque un peu plus élevé de comportements antisociaux chez l'enfant, même en tenant compte de facteurs familiaux préexistants.",
    "sources": [
     "murray2012"
+   ]
+  },
+  {
+   "factor": "parent_incarcere",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "L'incarcération d'un parent fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
    ]
   },
   {
@@ -2743,6 +3236,25 @@
    "sources": [
     "vanloon2017",
     "hooper2011"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "Grandir avec un parent en souffrance psychique fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "summary": "Les difficultés familiales du type de la souffrance psychique d'un parent sont associées à un sommeil un peu moins bon à l'âge adulte. Ce résultat repose sur peu d'études, qui regroupent plusieurs formes de difficultés familiales.",
+   "sources": [
+    "yu2022_sommeil"
    ]
   },
   {
@@ -2830,6 +3342,15 @@
    "sources": [
     "reiss2013",
     "peverill2021"
+   ]
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "pat_perfectionism",
+   "strength": "moderee",
+   "summary": "Percevoir de fortes attentes parentales de réussite est associé à plus de perfectionnisme, surtout au sentiment que les autres exigent d'être parfait.",
+   "sources": [
+    "curran2022"
    ]
   },
   {
@@ -3016,6 +3537,15 @@
    "summary": "Le sentiment de devoir mériter l'affection est associé à une estime de soi qui monte et descend avec les réussites.",
    "sources": [
     "assor2004"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "pat_impostor",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Clance et Imes, l'enfant présenté comme capable de tout réussir sans effort peut se sentir tenu de rester parfait et finir par douter de sa valeur réelle.",
+   "sources": [
+    "clance1978"
    ]
   },
   {
@@ -3422,6 +3952,16 @@
    ]
   },
   {
+   "factor": "surprotection",
+   "outcome": "ten_procrastination",
+   "strength": "limitee",
+   "summary": "Une parentalité très interventionniste (« parents hélicoptères ») est associée à plus de procrastination chez l'enfant et l'adolescent, en partie à travers une maîtrise de soi moins développée. Les études sont ponctuelles et faites dans un seul pays.",
+   "sources": [
+    "zhang2022_procrastination",
+    "wu2023_procrastination"
+   ]
+  },
+  {
    "factor": "temoin_violences",
    "outcome": "icd_6b40",
    "strength": "critere",
@@ -3456,6 +3996,25 @@
    "summary": "Les enfants qui grandissent dans la violence développent souvent une attention accrue aux signes de menace et de colère, une adaptation associée à des difficultés ultérieures.",
    "sources": [
     "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "Voir de la violence entre adultes à la maison fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "summary": "Les difficultés familiales du type de la violence entre adultes à la maison sont associées à un sommeil un peu moins bon à l'âge adulte. Ce résultat repose sur peu d'études, qui regroupent plusieurs formes de difficultés familiales.",
+   "sources": [
+    "yu2022_sommeil"
    ]
   },
   {
@@ -3693,6 +4252,13 @@
    "read": "résumé"
   },
   {
+   "id": "arriola2005",
+   "citation": "Arriola KR, Louden T, Doldren MA, Fortenberry RM, 2005, A meta-analysis of the relationship of child sexual abuse to HIV risk behavior among women, Child Abuse & Neglect 29(6):725-746",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15979712/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "assor2004",
    "citation": "Assor A, Roth G, Deci EL, 2004, The emotional costs of parents' conditional regard: a self-determination theory analysis, Journal of Personality 72(1):47-88",
    "url": "https://pubmed.ncbi.nlm.nih.gov/14686884/",
@@ -3763,6 +4329,13 @@
    "read": "résumé"
   },
   {
+   "id": "bussieres2023",
+   "citation": "Bussières A, Hancock MJ, Elklit A, et al., 2023, Adverse childhood experience is associated with an increased risk of reporting chronic pain in adulthood: a systematic review and meta-analysis, European Journal of Psychotraumatology 14(2):2284025",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38111090/",
+   "type": "meta-analyse",
+   "read": "résumé et résultats du texte intégral (PMC10993817)"
+  },
+  {
    "id": "caba2026",
    "citation": "Caba-Machado V, Escortell R, González-Cabrera J, et al., 2026, Experiences of victimization, maladaptive schemas, and the mediating role of resilience in adolescents, BMC Psychology",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41952210/",
@@ -3826,6 +4399,13 @@
    "read": "section"
   },
   {
+   "id": "clance1978",
+   "citation": "Clance PR, Imes SA, 1978, The imposter phenomenon in high achieving women: dynamics and therapeutic intervention, Psychotherapy: Theory, Research & Practice 15(3):241-247",
+   "url": "https://paulineroseclance.com/pdf/ip_high_achieving_women.pdf",
+   "type": "theorie",
+   "read": "texte intégral"
+  },
+  {
    "id": "copeland2007",
    "citation": "Copeland WE, Keeler G, Angold A, Costello EJ, 2007, Traumatic events and posttraumatic stress in childhood, Archives of General Psychiatry 64(5):577-584",
    "url": "https://pubmed.ncbi.nlm.nih.gov/17485609/",
@@ -3861,9 +4441,23 @@
    "read": "résumé"
   },
   {
+   "id": "currie2010",
+   "citation": "Currie J, Widom CS, 2010, Long-term consequences of child abuse and neglect on adult economic well-being, Child Maltreatment 15(2):111-120",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20425881/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "cyr2010",
    "citation": "Cyr C, Euser EM, Bakermans-Kranenburg MJ, van IJzendoorn MH, 2010, Attachment security and disorganization in maltreating and high-risk families: a series of meta-analyses, Development and Psychopathology",
    "url": "https://doi.org/10.1017/S0954579409990289",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "danese2014",
+   "citation": "Danese A, Tan M, 2014, Childhood maltreatment and obesity: systematic review and meta-analysis, Molecular Psychiatry 19(5):544-554",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23689533/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -3938,6 +4532,13 @@
    "read": "résumé"
   },
   {
+   "id": "flor2025",
+   "citation": "Flor LS, Stein C, Gil GF, et al., 2025, Health effects associated with exposure of children to physical violence, psychological violence and neglect: a Burden of Proof study, Nature Human Behaviour 9:1217-1236",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40210705/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "fr_119",
    "citation": "Allô 119 – Service national d'accueil téléphonique de l'enfance en danger",
    "url": "https://www.allo119.gouv.fr/",
@@ -3994,6 +4595,13 @@
    "read": "résumé"
   },
   {
+   "id": "gini2013",
+   "citation": "Gini G, Pozzoli T, 2013, Bullied children and psychosomatic problems: a meta-analysis, Pediatrics 132(4):720-729",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24043275/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "gonzalez2017",
    "citation": "González-Díez Z, Orue I, Calvete E, 2017, The role of emotional maltreatment and looming cognitive style in the development of social anxiety symptoms in late adolescents, Anxiety, Stress & Coping 30(1):26-38",
    "url": "https://pubmed.ncbi.nlm.nih.gov/27224837/",
@@ -4043,6 +4651,34 @@
    "read": "résumé"
   },
   {
+   "id": "haines2006",
+   "citation": "Haines J, Neumark-Sztainer D, Eisenberg ME, Hannan PJ, 2006, Weight teasing and disordered eating behaviors in adolescents: longitudinal findings from Project EAT, Pediatrics 117(2):e209-e215",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16452330/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "hao2024",
+   "citation": "Hao F, Li P, Liang Z, Geng J, 2024, The association between childhood adverse experiences and internet addiction: a meta-analysis, Acta Psychologica 246:104270",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38631153/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hauser2011",
+   "citation": "Häuser W, Kosseva M, Üceyler N, Klose P, Sommer C, 2011, Emotional, physical, and sexual abuse in fibromyalgia syndrome: a systematic review with meta-analysis, Arthritis Care & Research 63(6):808-820",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20722042/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hemmingsson2014",
+   "citation": "Hemmingsson E, Johansson K, Reynisdottir S, 2014, Effects of childhood abuse on adult obesity: a systematic review and meta-analysis, Obesity Reviews 15(11):882-893",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25123205/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "hicken2014",
    "citation": "Hicken MT, Lee H, Morenoff J, House JS, Williams DR, 2014, Racial/ethnic disparities in hypertension prevalence: reconsidering the role of chronic stress, American Journal of Public Health 104(1):117-123",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24228644/",
@@ -4078,9 +4714,23 @@
    "read": "résumé"
   },
   {
+   "id": "huang2015_diabete",
+   "citation": "Huang H, Yan P, Shan Z, et al., 2015, Adverse childhood experiences and risk of type 2 diabetes: a systematic review and meta-analysis, Metabolism 64(11):1408-1418",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26404480/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "hughes2017",
    "citation": "Hughes K, Bellis MA, et al., 2017, The effect of multiple adverse childhood experiences on health: a systematic review and meta-analysis, Lancet Public Health",
    "url": "https://doi.org/10.1016/S2468-2667(17)30118-4",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "irish2010",
+   "citation": "Irish L, Kobayashi I, Delahanty DL, 2010, Long-term physical health consequences of childhood sexual abuse: a meta-analytic review, Journal of Pediatric Psychology 35(5):450-461",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20022919/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -4197,6 +4847,13 @@
    "read": "résumé"
   },
   {
+   "id": "liu2024_migraine",
+   "citation": "Liu J, Guo Y, Huang Z, Zhu J, Li Y, 2024, Childhood abuse and risk of migraine: a systematic review and meta-analysis, Child Abuse & Neglect 155:106961",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39096662/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "loades2020",
    "citation": "Loades ME et al., 2020, Rapid systematic review: the impact of social isolation and loneliness on the mental health of children and adolescents in the context of COVID-19, Journal of the American Academy of Child and Adolescent Psychiatry 59(11):1218-1239",
    "url": "https://pubmed.ncbi.nlm.nih.gov/32504808/",
@@ -4208,6 +4865,13 @@
    "citation": "Madigan S, Bakermans-Kranenburg MJ, Van IJzendoorn MH, Moran G, Pederson DR, Benoit D, 2006, Unresolved states of mind, anomalous parental behavior, and disorganized attachment: a review and meta-analysis of a transmission gap, Attachment & Human Development 8(2):89-111",
    "url": "https://pubmed.ncbi.nlm.nih.gov/16818417/",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "marin2021",
+   "citation": "Marin TJ, Lewinson RE, Hayden JA, et al., 2021, A systematic review of the prospective relationship between child maltreatment and chronic pain, Children 8(9):806",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34572238/",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -4257,6 +4921,13 @@
    "citation": "Mellor R, Werner A, Moussa B, et al., 2021, Prevalence, predictors and associations of complex post-traumatic stress disorder with common mental disorders in refugees and forcibly displaced populations: a systematic review, European Journal of Psychotraumatology 12(1):1863579",
    "url": "https://pubmed.ncbi.nlm.nih.gov/34992745/",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "menzel2010",
+   "citation": "Menzel JE, Schaefer LM, Burke NL, et al., 2010, Appearance-related teasing, body dissatisfaction, and disordered eating: a meta-analysis, Body Image 7(4):261-270",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20655287/",
+   "type": "meta-analyse",
    "read": "résumé"
   },
   {
@@ -4407,6 +5078,20 @@
    "read": "résumé"
   },
   {
+   "id": "puhl2017",
+   "citation": "Puhl RM, Wall MM, Chen C, Austin SB, Eisenberg ME, Neumark-Sztainer D, 2017, Experiences of weight teasing in adolescence and weight-related outcomes in adulthood: a 15-year longitudinal study, Preventive Medicine 100:173-179",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28450124/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "qu2024",
+   "citation": "Qu G, Shu L, Liu H, et al., 2024, Association between adverse childhood experiences and academic performance among children and adolescents: a global meta-analysis, Trauma, Violence, & Abuse 25(4):3332-3345",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38651820/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "rakovski2024",
    "citation": "Rakovski C, Lalli G, Gu J, et al., 2024, Childhood maltreatment as a predictor of substance use/misuse among youth: a systematic review and meta-analysis, Neuroscience & Biobehavioral Reviews",
    "url": "https://doi.org/10.1016/j.neubiorev.2024.105873",
@@ -4470,9 +5155,23 @@
    "read": "résumé"
   },
   {
+   "id": "samara2021",
+   "citation": "Samara M, Da Silva Nascimento B, El-Asam A, Hammuda S, Khattab N, 2021, How can bullying victimisation lead to lower academic achievement? A systematic review and meta-analysis of the mediating role of cognitive-motivational factors, International Journal of Environmental Research and Public Health 18(5):2209",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33668095/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "schmitt2014",
    "citation": "Schmitt MT, Branscombe NR, Postmes T, Garcia A, 2014, The consequences of perceived discrimination for psychological well-being: a meta-analytic review, Psychological Bulletin 140(4):921-948",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24547896/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "schonning2022",
+   "citation": "Schønning V, Sivertsen B, Hysing M, Dovran A, Askeland KG, 2022, Childhood maltreatment and sleep in children and adolescents: a systematic review and meta-analysis, Sleep Medicine Reviews 63:101617",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35313257/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -4526,6 +5225,13 @@
    "read": "résumé"
   },
   {
+   "id": "souama2023",
+   "citation": "Souama C, Lamers F, Milaneschi Y, et al., 2023, Depression, cardiometabolic disease, and their co-occurrence after childhood maltreatment: an individual participant data meta-analysis including over 200,000 participants, BMC Medicine 21:93",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36907864/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "steiner2019",
    "citation": "Steiner RJ, Sheremenko G, Lesesne C, et al., 2019, Adolescent connectedness and adult health outcomes, Pediatrics 144(1):e20183766",
    "url": "https://pubmed.ncbi.nlm.nih.gov/31235609/",
@@ -4537,6 +5243,13 @@
    "citation": "Takizawa R, Maughan B, Arseneault L, 2014, Adult health outcomes of childhood bullying victimization: evidence from a five-decade longitudinal British birth cohort, American Journal of Psychiatry 171(7):777-784",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24743774/",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "tang2024",
+   "citation": "Tang H, Li Y, Dong W, et al., 2024, The relationship between childhood trauma and internet addiction in adolescents: a meta-analysis, Journal of Behavioral Addictions 13(1):36-50",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38340148/",
+   "type": "meta-analyse",
    "read": "résumé"
   },
   {
@@ -4596,6 +5309,13 @@
    "read": "résumé"
   },
   {
+   "id": "vangeel2016",
+   "citation": "van Geel M, Goemans A, Vedder PH, 2016, The relation between peer victimization and sleeping problems: a meta-analysis, Sleep Medicine Reviews 27:89-95",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26140869/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "vanharmelen2016",
    "citation": "van Harmelen AL, Gibson JL, St Clair MC, et al., 2016, Friendships and family support reduce subsequent depressive symptoms in at-risk adolescents, PLoS One 11(5):e0153715",
    "url": "https://pubmed.ncbi.nlm.nih.gov/27144447/",
@@ -4645,9 +5365,23 @@
    "read": "résumé"
   },
   {
+   "id": "wang2023_sexualite",
+   "citation": "Wang SJ, Chang JJ, Cao LL, et al., 2023, The relationship between child sexual abuse and sexual dysfunction in adults: a meta-analysis, Trauma, Violence, & Abuse 24(4):2772-2788",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35993405/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "wright2009",
    "citation": "Wright MO, Crawford E, Del Castillo D, 2009, Childhood emotional maltreatment and later psychological distress among college students: the mediating role of maladaptive schemas, Child Abuse & Neglect",
    "url": "https://doi.org/10.1016/j.chiabu.2008.12.007",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "wu2023_procrastination",
+   "citation": "Wu W, Zhang Y, Wang Y, 2023, Associations between profiles of helicopter parenting and decisional procrastination among Chinese adolescents, Journal of Youth and Adolescence 52:1219-1234",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36934372/",
    "type": "etude",
    "read": "résumé"
   },
@@ -4656,6 +5390,20 @@
    "citation": "Xiao Z, Murat Baldwin M, Wong SC, et al., 2023, The impact of childhood psychological maltreatment on mental health outcomes in adulthood: a systematic review and meta-analysis, Trauma, Violence, & Abuse",
    "url": "https://doi.org/10.1177/15248380221122816",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "yaffe2023",
+   "citation": "Yaffe Y, 2023, Maternal and paternal authoritarian parenting and adolescents' impostor feelings: the mediating role of parental psychological control and the moderating role of child's gender, Children 10(2):308",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36832436/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "yaffe2026",
+   "citation": "Yaffe Y, Karny S, 2026, The role of emotion dysregulation and self-esteem in the relationships between parenting styles and adolescents' impostor feelings: a multiple mediation model by parent and child gender, Journal of Genetic Psychology 187(3):215-233",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40286282/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4669,6 +5417,13 @@
    "id": "yap2017",
    "citation": "Yap MBH, Cheong TWK, Zaravinos-Tsakos F, Lubman DI, Jorm AF, 2017, Modifiable parenting factors associated with adolescent alcohol misuse: a systematic review and meta-analysis of longitudinal studies, Addiction 112(7):1142-1162",
    "url": "https://pubmed.ncbi.nlm.nih.gov/28178373/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "ye2025",
+   "citation": "Ye Y, Zhu N, Su J, Zhao J, Kong F, 2025, Childhood maltreatment and problematic smartphone use: a multilevel, meta-analytic review, Journal of Behavioral Addictions 14(2):644-659",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40549950/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -4687,6 +5442,13 @@
    "read": "section"
   },
   {
+   "id": "yu2022_sommeil",
+   "citation": "Yu HJ, Liu X, Yang HG, Chen R, He QQ, 2022, The association of adverse childhood experiences and its subtypes with adulthood sleep problems: a systematic review and meta-analysis of cohort studies, Sleep Medicine 98:26-33",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35777139/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "zarubin2026",
    "citation": "Zarubin VC, Pratt DN, Mittal VA, et al., 2026, The relationship between trauma exposure and nonclinical psychosis: a systematic review and meta-analysis, Clinical Psychology: Science and Practice",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42807775/",
@@ -4697,6 +5459,20 @@
    "id": "zeng2026",
    "citation": "Zeng M, Huang L, Jiao T, Yang F, 2026, The association between parental psychological control and social anxiety among children and adolescents: a three-level meta-analysis, Psychological Reports",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42538526/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "zhang2022_procrastination",
+   "citation": "Zhang R, Zhang H, Guo X, et al., 2022, Relationship between helicopter parenting and Chinese elementary school child procrastination: a mediated moderation model, International Journal of Environmental Research and Public Health 19(22):14892",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36429611/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "zhang2025_scolaire",
+   "citation": "Zhang H, Wang Z, Tang X, Wang W, 2025, The association between child maltreatment and academic achievement: a systematic review and meta-analysis, Child Abuse & Neglect 159:107159",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39616953/",
    "type": "meta-analyse",
    "read": "résumé"
   }

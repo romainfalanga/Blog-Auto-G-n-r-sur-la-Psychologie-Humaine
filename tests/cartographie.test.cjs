@@ -86,3 +86,15 @@ test('a classification criterion is a lead, not proof of a disorder', () => {
   const data = { factors: [{ id: 'a' }], outcomes: [{ id: 'o', label: 'O', kind: 'trouble' }], links: [{ factor: 'a', outcome: 'o', strength: 'critere' }] };
   assert.strictEqual(compute(data, ['a']).results[0].tier, 'piste');
 });
+
+test('a selection object carries intensity: 2 means often or severely and weighs 1.5 times', () => {
+  const list = compute(fixture, ['a', 'b']);
+  const intensity = compute(fixture, { a: 2, b: 1 });
+  assert.strictEqual(intensity.results[0].outcome.id, 'o1');
+  assert.strictEqual(intensity.results[0].tier, list.results[0].tier);
+  assert.strictEqual(intensity.results[0].score, 3 * 1.5 + 1);
+  assert.strictEqual(intensity.selectedCount, 2);
+  assert.strictEqual(compute(fixture, { a: 1, b: 1 }).results[0].score, list.results[0].score);
+  assert.strictEqual(compute(fixture, { a: 0, b: 'x' }).selectedCount, 0);
+  assert.strictEqual(compute(fixture, new Set(['a'])).results.length, compute(fixture, ['a']).results.length);
+});

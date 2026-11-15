@@ -57,3 +57,11 @@ Les enregistrements relancent l’analyse native avec debounce court et contrôl
 Le statut Stripe n’est pas modifié par le mode de test. Pour rétablir le paiement requis, modifier explicitement `FREE_ACCESS_ENABLED`; ne pas fabriquer d’abonnement dans la base. La clé OpenRouter reste un secret du Worker. Les analyses coûtent des crédits au propriétaire même si l’interface est ouverte gratuitement.
 
 `0011_native_portrait_candidate.sql` ajoute un candidat non publié, lié au job et invalidé à chaque changement de source. La reprise vérifie ce candidat sans refaire la synthèse ; publication uniquement après contrôle sémantique. `OPENROUTER_PORTRAIT_MODEL` vaut actuellement `anthropic/claude-sonnet-5.5` ; le pipeline Python conserve le modèle analytique général.
+
+## Cartographie de l’enfance enregistrée
+
+`0016_cartographies.sql` (additive) crée `cartographies` : une ligne par compte, `answers` `{facteur: 1|2}` (2 = souvent ou gravement), `feedback` `{conséquence: "oui"|"non"}`, `consent`, `locked_at`, `version`, `updated_at`. Suppression en cascade avec le compte ; la table figure dans `/api/export` (`cartographie`).
+
+Routes authentifiées : `GET /api/cartographie` → `{cartographie, summary}` (les deux `null` sans enregistrement) ; `PUT /api/cartographie` avec `{answers, feedback?, consent: true, locked, expected_version}` (`0` pour une première sauvegarde, alias accepté `version` avec `null` ; `409 revision_conflict` si la version a changé ; `400 consent_required` sans accord explicite ; verrouillage refusé sans élément coché) ; `DELETE /api/cartographie`. La cartographie n’est pas une source du portrait : l’enregistrer ne change pas `profiles.version` et ne relance pas d’analyse.
+
+`src/cartographie.generated.mjs` provient de `data/cartographie.json` via `node scripts/build_cartographie_module.mjs` (`--check` en CI et dans la construction Netlify). `src/cartographie.mjs` reprend le classement de `static/js/cartographie.js` ; un test compare les deux. Une cartographie verrouillée et consentie entre dans le contexte d’Ambre (`childhood_cartography`) et ajoute ses consignes au système ; le message d’accueil la mentionne. Déploiement : migration D1 puis Worker avec `cartographie.mjs` et `cartographie.generated.mjs` en plus des modules existants.
