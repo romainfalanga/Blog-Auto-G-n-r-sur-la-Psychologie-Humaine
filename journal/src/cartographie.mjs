@@ -45,7 +45,8 @@ export function computeCartography(answers,data=CARTOGRAPHIE){
  const results=Object.keys(byOutcome).filter(id=>outcomes.has(id)).map(id=>{
   const links=byOutcome[id].slice().sort((a,b)=>weights[b.strength]-weights[a.strength]);
   const counted=links.filter(l=>!l.definitional),strong=counted.some(l=>STRONG[l.strength]);
-  const tier=counted.length>=2&&strong?'convergence':strong?'piste':'theorique';
+  // Three distinct causes converging also count, even when each link rests on a clinical model.
+  const tier=(counted.length>=2&&strong)||counted.length>=3?'convergence':strong?'piste':'theorique';
   const score=links.reduce((sum,l)=>sum+(l.definitional?0.5:(weights[l.strength]||1))*(level[l.factor]===2?1.5:1),0);
   return {outcome:outcomes.get(id),links,factors:links.map(l=>l.factor),tier,score};
  });

@@ -41,7 +41,8 @@
       // A feeling that merely restates a schema's definition is shown but does not count as convergence.
       var counted = links.filter(function (l) { return !l.definitional; });
       var strong = counted.some(function (l) { return STRONG[l.strength]; });
-      var tier = counted.length >= 2 && strong ? 'convergence' : (strong ? 'piste' : 'theorique');
+      // Three distinct causes converging also count, even when each link rests on a clinical model.
+      var tier = (counted.length >= 2 && strong) || counted.length >= 3 ? 'convergence' : (strong ? 'piste' : 'theorique');
       var score = links.reduce(function (sum, l) { return sum + (l.definitional ? 0.5 : (weights[l.strength] || 1)) * (level[l.factor] === 2 ? 1.5 : 1); }, 0);
       return { outcome: outcomes[id], links: links, factors: factors, tier: tier, score: score };
     });

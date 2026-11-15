@@ -10,7 +10,7 @@
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
   var NOTE_TEXT = { jeune_enfant: 'Diagnostic posé chez le jeune enfant après des soins gravement insuffisants : il ne s’applique pas à un adulte.' };
   var TIERS = {
-    convergence: ['Plusieurs de vos réponses y mènent', 'Au moins deux causes cochées y sont associées, dont une avec des preuves solides ou modérées.'],
+    convergence: ['Plusieurs de vos réponses y mènent', 'Au moins deux causes cochées y sont associées avec des preuves solides ou modérées, ou au moins trois causes y convergent.'],
     piste: ['Une de vos réponses y mène', 'Une cause cochée y est associée par des preuves solides ou modérées, ou en est une condition dans la classification.'],
     theorique: ['Pistes issues de modèles cliniques ou de preuves limitées', 'Des liens à garder en tête, moins établis.']
   };

@@ -233,6 +233,9 @@ def main() -> int:
             return 1
     else:
         OUT.write_text(text, encoding="utf-8")
+        # Keep Ambre's compact copy in step with the public dataset.
+        import subprocess
+        subprocess.run(["node", str(ROOT / "scripts" / "build_cartographie_module.mjs")], check=True)
     print(f"{len(data['factors'])} facteurs, {len(data['outcomes'])} conséquences, {len(data['links'])} liens, {len(data['sources'])} sources.")
     return 0
 

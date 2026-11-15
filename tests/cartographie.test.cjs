@@ -98,3 +98,10 @@ test('a selection object carries intensity: 2 means often or severely and weighs
   assert.strictEqual(compute(fixture, { a: 0, b: 'x' }).selectedCount, 0);
   assert.strictEqual(compute(fixture, new Set(['a'])).results.length, compute(fixture, ['a']).results.length);
 });
+
+test('three distinct causes converge even on clinical-model links', () => {
+  const data = { factors: [{ id: 'a' }, { id: 'b' }, { id: 'c' }], outcomes: [{ id: 'o', label: 'O', kind: 'tendance' }],
+    links: [{ factor: 'a', outcome: 'o', strength: 'theorique' }, { factor: 'b', outcome: 'o', strength: 'limitee' }, { factor: 'c', outcome: 'o', strength: 'theorique' }] };
+  assert.strictEqual(compute(data, ['a', 'b']).results[0].tier, 'theorique');
+  assert.strictEqual(compute(data, ['a', 'b', 'c']).results[0].tier, 'convergence');
+});
