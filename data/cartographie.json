@@ -566,11 +566,11 @@
    "url": "/personnages/eric/"
   },
   {
-   "id": "icd_6a70",
+   "id": "dep_generale",
    "kind": "trouble",
-   "label": "Dépression (épisode dépressif)",
-   "code": "6A70",
-   "description": "Une tristesse ou une perte d'intérêt qui dure au moins deux semaines et pèse sur la vie quotidienne.",
+   "label": "Dépression",
+   "code": "6A70–6A71",
+   "description": "Épisodes dépressifs ou symptômes dépressifs durables : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
    "url": "/personnages/louise/"
   },
   {
@@ -821,25 +821,11 @@
    "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
   },
   {
-   "id": "ten_symptomes_anxieux",
-   "kind": "tendance",
-   "label": "Symptômes anxieux",
-   "description": "Inquiétudes, peurs ou tensions plus fréquentes, sans forcément atteindre un diagnostic.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/"
-  },
-  {
    "id": "ten_dissociation",
    "kind": "tendance",
    "label": "Symptômes dissociatifs",
    "description": "Se sentir déconnecté de soi, de son corps ou de ce qui se passe, avec des trous de mémoire.",
    "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/"
-  },
-  {
-   "id": "ten_symptomes_depressifs",
-   "kind": "tendance",
-   "label": "Symptômes dépressifs",
-   "description": "Tristesse, perte d'élan ou dévalorisation, mesurées chez des jeunes ou des adultes sans forcément atteindre un diagnostic.",
-   "url": "/personnages/louise/"
   },
   {
    "id": "icd_6a60",
@@ -856,14 +842,6 @@
    "code": "6B05",
    "description": "Une peur excessive d'être séparé des personnes auxquelles on est attaché.",
    "url": "/personnages/rebecca/"
-  },
-  {
-   "id": "icd_6b00",
-   "kind": "trouble",
-   "label": "Trouble d'anxiété généralisée",
-   "code": "6B00",
-   "description": "Une inquiétude excessive et persistante sur de nombreux sujets ; représente ici les troubles anxieux en général.",
-   "url": "/personnages/antonin/"
   },
   {
    "id": "icd_6b04",
@@ -954,14 +932,6 @@
    "url": "/personnages/blandine/"
   },
   {
-   "id": "icd_6a71",
-   "kind": "trouble",
-   "label": "Trouble dépressif récurrent",
-   "code": "6A71",
-   "description": "Des épisodes de dépression qui reviennent : tristesse ou perte d'intérêt durables, fatigue, idées noires.",
-   "url": "/personnages/inaya/"
-  },
-  {
    "id": "icd_6c90",
    "kind": "trouble",
    "label": "Trouble oppositionnel avec provocation",
@@ -986,6 +956,14 @@
    "url": "/personnages/basile/"
   },
   {
+   "id": "anx_generale",
+   "kind": "trouble",
+   "label": "Troubles anxieux",
+   "code": "6B00–6B05",
+   "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée.",
+   "url": "/personnages/antonin/"
+  },
+  {
    "id": "ten_usage_substances",
    "kind": "tendance",
    "label": "Usage problématique d'alcool ou de drogues",
@@ -1008,6 +986,15 @@
   }
  ],
  "links": [
+  {
+   "factor": "absence_limites",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Une faible supervision parentale fait partie des facteurs associés à plus de symptômes dépressifs chez les adolescents.",
+   "sources": [
+    "yap2014"
+   ]
+  },
   {
    "factor": "absence_limites",
    "outcome": "sch_controle_insuffisant",
@@ -1046,12 +1033,12 @@
    ]
   },
   {
-   "factor": "absence_limites",
-   "outcome": "ten_symptomes_depressifs",
+   "factor": "abus_emotionnel",
+   "outcome": "anx_generale",
    "strength": "moderee",
-   "summary": "Une faible supervision parentale fait partie des facteurs associés à plus de symptômes dépressifs chez les adolescents.",
+   "summary": "Les violences psychologiques sont associées à davantage de troubles anxieux à l'âge adulte.",
    "sources": [
-    "yap2014"
+    "xiao2023"
    ]
   },
   {
@@ -1074,6 +1061,17 @@
   },
   {
    "factor": "abus_emotionnel",
+   "outcome": "dep_generale",
+   "strength": "forte",
+   "summary": "Les violences psychologiques sont parmi les expériences les plus associées à la dépression, y compris aux formes précoces, sévères et durables.",
+   "sources": [
+    "norman2012",
+    "nelson2017",
+    "lemoult2020"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
    "outcome": "icd_6a20",
    "strength": "moderee",
    "summary": "Les violences psychologiques font partie des adversités associées à un risque plus élevé de troubles psychotiques.",
@@ -1088,26 +1086,6 @@
    "summary": "Les violences psychologiques sont plus souvent rapportées par les personnes ayant un trouble bipolaire que par la population générale, sans différence nette avec d'autres troubles psychiques.",
    "sources": [
     "palmierclaus2016"
-   ]
-  },
-  {
-   "factor": "abus_emotionnel",
-   "outcome": "icd_6a71",
-   "strength": "forte",
-   "summary": "Les violences psychologiques sont parmi les expériences les plus associées à la dépression, y compris aux formes précoces, sévères et durables.",
-   "sources": [
-    "norman2012",
-    "nelson2017",
-    "lemoult2020"
-   ]
-  },
-  {
-   "factor": "abus_emotionnel",
-   "outcome": "icd_6b00",
-   "strength": "moderee",
-   "summary": "Les violences psychologiques sont associées à davantage de troubles anxieux à l'âge adulte.",
-   "sources": [
-    "xiao2023"
    ]
   },
   {
@@ -1200,6 +1178,15 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Dans des cohortes suivies dans le temps, les violences physiques sont associées à un risque plus élevé de troubles anxieux à l'âge adulte.",
+   "sources": [
+    "li2016"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "att_anxieux",
    "strength": "moderee",
    "summary": "La maltraitance dans l'enfance est associée, en moyenne, à davantage d'anxiété d'attachement à l'âge adulte.",
@@ -1218,16 +1205,7 @@
   },
   {
    "factor": "abus_physique",
-   "outcome": "icd_6a20",
-   "strength": "moderee",
-   "summary": "Les violences physiques font partie des adversités associées à un risque plus élevé de troubles psychotiques, dans plusieurs types d'études.",
-   "sources": [
-    "varese2012"
-   ]
-  },
-  {
-   "factor": "abus_physique",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "forte",
    "summary": "Les violences physiques dans l'enfance sont associées à un risque plus élevé de dépression à l'âge adulte, y compris dans des études qui suivent les enfants dans le temps.",
    "sources": [
@@ -1238,11 +1216,11 @@
   },
   {
    "factor": "abus_physique",
-   "outcome": "icd_6b00",
+   "outcome": "icd_6a20",
    "strength": "moderee",
-   "summary": "Dans des cohortes suivies dans le temps, les violences physiques sont associées à un risque plus élevé de troubles anxieux à l'âge adulte.",
+   "summary": "Les violences physiques font partie des adversités associées à un risque plus élevé de troubles psychotiques, dans plusieurs types d'études.",
    "sources": [
-    "li2016"
+    "varese2012"
    ]
   },
   {
@@ -1340,18 +1318,18 @@
   },
   {
    "factor": "abus_sexuel",
-   "outcome": "icd_6a20",
-   "strength": "moderee",
-   "summary": "Une revue de bonne qualité associe les violences sexuelles à un risque plus élevé de schizophrénie, mais une autre méta-analyse ne retrouve pas ce lien : le résultat reste discuté.",
+   "outcome": "anx_generale",
+   "strength": "forte",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de troubles anxieux tout au long de la vie.",
    "sources": [
+    "chen2010",
     "hailes2019",
-    "varese2012",
-    "chen2010"
+    "li2016"
    ]
   },
   {
    "factor": "abus_sexuel",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "forte",
    "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de dépression à l'âge adulte.",
    "sources": [
@@ -1362,13 +1340,13 @@
   },
   {
    "factor": "abus_sexuel",
-   "outcome": "icd_6b00",
-   "strength": "forte",
-   "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de troubles anxieux tout au long de la vie.",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "Une revue de bonne qualité associe les violences sexuelles à un risque plus élevé de schizophrénie, mais une autre méta-analyse ne retrouve pas ce lien : le résultat reste discuté.",
    "sources": [
-    "chen2010",
     "hailes2019",
-    "li2016"
+    "varese2012",
+    "chen2010"
    ]
   },
   {
@@ -1543,6 +1521,25 @@
   },
   {
    "factor": "comparaison_fratrie",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Les écarts de traitement entre enfants d'une même famille sont associés à plus de difficultés intériorisées, surtout quand l'enfant lui-même les perçoit.",
+   "sources": [
+    "jensen2024"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Être moins favorisé qu'un frère ou une sœur est associé à plus de difficultés intériorisées (tristesse, anxiété) chez l'enfant et l'adolescent.",
+   "sources": [
+    "jensen2024",
+    "eradus2024"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
    "outcome": "ten_externalisation",
    "strength": "moderee",
    "summary": "Recevoir plus d'hostilité qu'un frère ou une sœur est associé à plus de comportements d'opposition ou d'agressivité.",
@@ -1552,31 +1549,24 @@
    ]
   },
   {
-   "factor": "comparaison_fratrie",
-   "outcome": "ten_symptomes_anxieux",
+   "factor": "controle",
+   "outcome": "anx_generale",
    "strength": "moderee",
-   "summary": "Les écarts de traitement entre enfants d'une même famille sont associés à plus de difficultés intériorisées, surtout quand l'enfant lui-même les perçoit.",
+   "summary": "Le contrôle parental, et surtout le faible encouragement à l'autonomie, est l'un des aspects éducatifs les plus liés à l'anxiété de l'enfant, même si l'effet reste modeste et que la direction n'est pas établie.",
    "sources": [
-    "jensen2024"
-   ]
-  },
-  {
-   "factor": "comparaison_fratrie",
-   "outcome": "ten_symptomes_depressifs",
-   "strength": "moderee",
-   "summary": "Être moins favorisé qu'un frère ou une sœur est associé à plus de difficultés intériorisées (tristesse, anxiété) chez l'enfant et l'adolescent.",
-   "sources": [
-    "jensen2024",
-    "eradus2024"
+    "mcleod2007_anxiete",
+    "vanderbruggen2008"
    ]
   },
   {
    "factor": "controle",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Les adultes ayant une dépression majeure rapportent plus souvent des parents intrusifs et contrôlants ; ces données rétrospectives ne prouvent pas un lien de cause.",
+   "summary": "Le contrôle psychologique (culpabilisation, retrait d'affection, intrusion) et le faible encouragement à l'autonomie sont associés à plus de symptômes dépressifs chez les jeunes, dans de nombreuses cultures.",
    "sources": [
-    "kidd2022"
+    "kidd2022",
+    "salaam2025",
+    "yap2014"
    ]
   },
   {
@@ -1617,23 +1607,22 @@
    ]
   },
   {
-   "factor": "controle",
-   "outcome": "ten_symptomes_anxieux",
+   "factor": "critique",
+   "outcome": "anx_generale",
    "strength": "moderee",
-   "summary": "Le contrôle parental, et surtout le faible encouragement à l'autonomie, est l'un des aspects éducatifs les plus liés à l'anxiété de l'enfant, même si l'effet reste modeste et que la direction n'est pas établie.",
+   "summary": "Un climat parental dénigrant ou hostile est associé à un risque un peu plus élevé d'anxiété chez les adolescents.",
    "sources": [
-    "mcleod2007_anxiete",
-    "vanderbruggen2008"
+    "yap2014"
    ]
   },
   {
-   "factor": "controle",
-   "outcome": "ten_symptomes_depressifs",
+   "factor": "critique",
+   "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Le contrôle psychologique (culpabilisation, retrait d'affection, intrusion) et le faible encouragement à l'autonomie sont associés à plus de symptômes dépressifs chez les jeunes, dans de nombreuses cultures.",
+   "summary": "L'hostilité et les comportements parentaux dénigrants sont parmi les facteurs familiaux les plus liés aux symptômes dépressifs des jeunes, avec des effets modestes.",
    "sources": [
-    "salaam2025",
-    "yap2014"
+    "yap2014",
+    "mcleod2007_depression"
    ]
   },
   {
@@ -1684,37 +1673,17 @@
    ]
   },
   {
-   "factor": "critique",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "moderee",
-   "summary": "Un climat parental dénigrant ou hostile est associé à un risque un peu plus élevé d'anxiété chez les adolescents.",
-   "sources": [
-    "yap2014"
-   ]
-  },
-  {
-   "factor": "critique",
-   "outcome": "ten_symptomes_depressifs",
-   "strength": "moderee",
-   "summary": "L'hostilité et les comportements parentaux dénigrants sont parmi les facteurs familiaux les plus liés aux symptômes dépressifs des jeunes, avec des effets modestes.",
-   "sources": [
-    "yap2014",
-    "mcleod2007_depression"
-   ]
-  },
-  {
    "factor": "deces_proche",
-   "outcome": "icd_6a20",
-   "strength": "limitee",
-   "summary": "Le lien entre décès d'un parent et troubles psychotiques est incertain : non significatif dans une méta-analyse, présent dans une grande cohorte après décès par cause externe.",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Le décès d'un parent par cause externe est associé à un risque plus élevé de troubles anxieux et de réactions au stress chez l'enfant.",
    "sources": [
-    "varese2012",
     "burrell2022"
    ]
   },
   {
    "factor": "deces_proche",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "La perte d'un parent pendant l'enfance est associée à un risque plus élevé de dépression à l'âge adulte.",
    "sources": [
@@ -1724,10 +1693,11 @@
   },
   {
    "factor": "deces_proche",
-   "outcome": "icd_6b00",
-   "strength": "moderee",
-   "summary": "Le décès d'un parent par cause externe est associé à un risque plus élevé de troubles anxieux et de réactions au stress chez l'enfant.",
+   "outcome": "icd_6a20",
+   "strength": "limitee",
+   "summary": "Le lien entre décès d'un parent et troubles psychotiques est incertain : non significatif dans une méta-analyse, présent dans une grande cohorte après décès par cause externe.",
    "sources": [
+    "varese2012",
     "burrell2022"
    ]
   },
@@ -1778,17 +1748,18 @@
   },
   {
    "factor": "discrimination",
-   "outcome": "icd_6a20",
-   "strength": "limitee",
-   "summary": "La discrimination est associée à plus d'expériences psychotiques légères ; une méta-analyse trouve aussi un risque plus élevé de troubles psychotiques chez les personnes lesbiennes, gays ou bisexuelles, avec des résultats encore fragiles.",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Le racisme et les autres discriminations sont associés à plus d'anxiété et de détresse psychologique, avec des effets plus marqués chez les enfants que chez les adultes.",
    "sources": [
-    "zarubin2026",
-    "selten2024"
+    "paradies2015",
+    "schmitt2014",
+    "priest2013"
    ]
   },
   {
    "factor": "discrimination",
-   "outcome": "icd_6a70",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "Les discriminations vécues sont associées à plus de symptômes dépressifs chez les enfants, les adolescents et les adultes ; l'effet est modeste mais persiste dans des études de suivi.",
    "sources": [
@@ -1800,13 +1771,12 @@
   },
   {
    "factor": "discrimination",
-   "outcome": "icd_6b00",
-   "strength": "moderee",
-   "summary": "Le racisme et les autres discriminations sont associés à plus d'anxiété et de détresse psychologique, avec des effets plus marqués chez les enfants que chez les adultes.",
+   "outcome": "icd_6a20",
+   "strength": "limitee",
+   "summary": "La discrimination est associée à plus d'expériences psychotiques légères ; une méta-analyse trouve aussi un risque plus élevé de troubles psychotiques chez les personnes lesbiennes, gays ou bisexuelles, avec des résultats encore fragiles.",
    "sources": [
-    "paradies2015",
-    "schmitt2014",
-    "priest2013"
+    "zarubin2026",
+    "selten2024"
    ]
   },
   {
@@ -1850,17 +1820,18 @@
   },
   {
    "factor": "harcelement",
-   "outcome": "icd_6a20",
-   "strength": "moderee",
-   "summary": "Avoir été harcelé est associé à plus de symptômes psychotiques légers plus tard, d'autant plus que le harcèlement était fréquent et long ; pour les troubles psychotiques diagnostiqués, les données restent rares.",
+   "outcome": "anx_generale",
+   "strength": "forte",
+   "summary": "Le harcèlement subi est associé à davantage de troubles anxieux plus tard, dont l'anxiété généralisée, même après prise en compte des difficultés familiales et des troubles de l'enfance.",
    "sources": [
-    "vandam2012",
-    "cunningham2016"
+    "moore2017",
+    "copeland2013",
+    "takizawa2014"
    ]
   },
   {
    "factor": "harcelement",
-   "outcome": "icd_6a70",
+   "outcome": "dep_generale",
    "strength": "forte",
    "summary": "Avoir été harcelé par les pairs est associé à un risque plus élevé de dépression à l'âge adulte, y compris des décennies plus tard ; ce lien persiste en tenant compte d'autres difficultés de l'enfance.",
    "sources": [
@@ -1872,13 +1843,12 @@
   },
   {
    "factor": "harcelement",
-   "outcome": "icd_6b00",
-   "strength": "forte",
-   "summary": "Le harcèlement subi est associé à davantage de troubles anxieux plus tard, dont l'anxiété généralisée, même après prise en compte des difficultés familiales et des troubles de l'enfance.",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "Avoir été harcelé est associé à plus de symptômes psychotiques légers plus tard, d'autant plus que le harcèlement était fréquent et long ; pour les troubles psychotiques diagnostiqués, les données restent rares.",
    "sources": [
-    "moore2017",
-    "copeland2013",
-    "takizawa2014"
+    "vandam2012",
+    "cunningham2016"
    ]
   },
   {
@@ -1957,6 +1927,15 @@
   },
   {
    "factor": "imprevisibilite",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "Des signaux maternels imprévisibles dans les premières années sont associés à plus de peurs et d'anxiété chez l'enfant, dans trois cohortes suivies dans le temps.",
+   "sources": [
+    "aran2024"
+   ]
+  },
+  {
+   "factor": "imprevisibilite",
    "outcome": "att_anxieux",
    "strength": "limitee",
    "summary": "Une disponibilité parentale faible ou irrégulière fait partie des antécédents décrits de l'attachement anxieux-ambivalent.",
@@ -1981,15 +1960,6 @@
    "sources": [
     "carlucci2018",
     "young_schemas"
-   ]
-  },
-  {
-   "factor": "imprevisibilite",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "limitee",
-   "summary": "Des signaux maternels imprévisibles dans les premières années sont associés à plus de peurs et d'anxiété chez l'enfant, dans trois cohortes suivies dans le temps.",
-   "sources": [
-    "aran2024"
    ]
   },
   {
@@ -2053,22 +2023,22 @@
   },
   {
    "factor": "maladie_enfant",
-   "outcome": "icd_6a70",
-   "strength": "moderee",
-   "summary": "Une maladie chronique dans l'enfance est associée à un peu plus de symptômes dépressifs pendant l'enfance et à un risque légèrement plus élevé de dépression à l'âge adulte.",
-   "sources": [
-    "secinti2017",
-    "pinquart_dep2011"
-   ]
-  },
-  {
-   "factor": "maladie_enfant",
-   "outcome": "icd_6b00",
+   "outcome": "anx_generale",
    "strength": "moderee",
    "summary": "Une maladie chronique dans l'enfance est associée à un peu plus d'anxiété, pendant l'enfance comme à l'âge adulte ; les écarts restent modestes en moyenne.",
    "sources": [
     "secinti2017",
     "pinquart_anx2011"
+   ]
+  },
+  {
+   "factor": "maladie_enfant",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Une maladie chronique dans l'enfance est associée à un peu plus de symptômes dépressifs pendant l'enfance et à un risque légèrement plus élevé de dépression à l'âge adulte.",
+   "sources": [
+    "secinti2017",
+    "pinquart_dep2011"
    ]
   },
   {
@@ -2149,18 +2119,17 @@
   },
   {
    "factor": "migration",
-   "outcome": "icd_6a20",
-   "strength": "forte",
-   "summary": "Les migrants et leurs enfants ont en moyenne un risque plus élevé de troubles psychotiques, plus marqué chez les réfugiés et variable selon les pays d'origine et d'accueil ; la plupart des migrants n'en développent pas.",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Les troubles anxieux sont fréquents chez les jeunes réfugiés et dans les populations touchées par un conflit.",
    "sources": [
-    "selten2020",
-    "bourque2011",
-    "hollander2016"
+    "blackmore2020",
+    "charlson2019"
    ]
   },
   {
    "factor": "migration",
-   "outcome": "icd_6a70",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "La dépression est plus fréquente chez les personnes, enfants compris, ayant vécu un conflit armé ou l'exil.",
    "sources": [
@@ -2171,12 +2140,13 @@
   },
   {
    "factor": "migration",
-   "outcome": "icd_6b00",
-   "strength": "moderee",
-   "summary": "Les troubles anxieux sont fréquents chez les jeunes réfugiés et dans les populations touchées par un conflit.",
+   "outcome": "icd_6a20",
+   "strength": "forte",
+   "summary": "Les migrants et leurs enfants ont en moyenne un risque plus élevé de troubles psychotiques, plus marqué chez les réfugiés et variable selon les pays d'origine et d'accueil ; la plupart des migrants n'en développent pas.",
    "sources": [
-    "blackmore2020",
-    "charlson2019"
+    "selten2020",
+    "bourque2011",
+    "hollander2016"
    ]
   },
   {
@@ -2240,7 +2210,7 @@
   },
   {
    "factor": "negligence_emotionnelle",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "forte",
    "summary": "La négligence affective est associée à la dépression adulte, en particulier à des formes plus sévères et plus durables.",
    "sources": [
@@ -2371,21 +2341,21 @@
   },
   {
    "factor": "negligence_physique",
-   "outcome": "icd_6a20",
-   "strength": "moderee",
-   "summary": "La négligence fait partie des adversités associées à un risque plus élevé de troubles psychotiques.",
-   "sources": [
-    "varese2012"
-   ]
-  },
-  {
-   "factor": "negligence_physique",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "La négligence est associée à un risque plus élevé de dépression à l'âge adulte, y compris dans des cohortes suivies dans le temps.",
    "sources": [
     "norman2012",
     "li2016"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "La négligence fait partie des adversités associées à un risque plus élevé de troubles psychotiques.",
+   "sources": [
+    "varese2012"
    ]
   },
   {
@@ -2520,11 +2490,30 @@
   },
   {
    "factor": "parent_trouble",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent ayant un trouble anxieux ont un risque plus élevé de troubles anxieux, notamment d'anxiété généralisée.",
+   "sources": [
+    "lawrence2019"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
    "outcome": "att_desorganise",
    "strength": "moderee",
    "summary": "Les nourrissons de mères souffrant de dépression ont un peu plus souvent un attachement désorganisé, et moins souvent sécure.",
    "sources": [
     "martins2000"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent souffrant de dépression ou d'un trouble anxieux ont un risque plus élevé de dépression ; l'hérédité et le climat familial y contribuent tous deux.",
+   "sources": [
+    "rasic2014",
+    "lawrence2019"
    ]
   },
   {
@@ -2543,25 +2532,6 @@
    "summary": "Les enfants d'un parent ayant un trouble bipolaire ou une schizophrénie ont un risque plus élevé de troubles de l'humeur ; hérédité et environnement se mêlent.",
    "sources": [
     "rasic2014"
-   ]
-  },
-  {
-   "factor": "parent_trouble",
-   "outcome": "icd_6a71",
-   "strength": "moderee",
-   "summary": "Les enfants d'un parent souffrant de dépression ou d'un trouble anxieux ont un risque plus élevé de dépression ; l'hérédité et le climat familial y contribuent tous deux.",
-   "sources": [
-    "rasic2014",
-    "lawrence2019"
-   ]
-  },
-  {
-   "factor": "parent_trouble",
-   "outcome": "icd_6b00",
-   "strength": "moderee",
-   "summary": "Les enfants d'un parent ayant un trouble anxieux ont un risque plus élevé de troubles anxieux, notamment d'anxiété généralisée.",
-   "sources": [
-    "lawrence2019"
    ]
   },
   {
@@ -2590,6 +2560,26 @@
    "summary": "La dépression d'une mère est associée à un peu plus de difficultés émotionnelles et de comportement chez l'enfant, avec des effets modestes et variables.",
    "sources": [
     "goodman2011"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Avoir pris soin d'un parent ou de la fratrie est associé à un peu plus de symptômes anxieux chez les jeunes adultes.",
+   "sources": [
+    "hooper2011",
+    "gavcar2026"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "La parentification rapportée est associée à une légère augmentation des difficultés psychologiques à l'âge adulte, dont les symptômes dépressifs ; quand ce rôle est vécu comme ayant aussi apporté quelque chose, l'association est plus faible.",
+   "sources": [
+    "hooper2011",
+    "gavcar2026"
    ]
   },
   {
@@ -2627,26 +2617,6 @@
    "summary": "Les modèles de la codépendance citent la parentification parmi les facteurs familiaux possibles, sans que la recherche ait établi ce lien solidement.",
    "sources": [
     "knapek2014"
-   ]
-  },
-  {
-   "factor": "parentification",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "moderee",
-   "summary": "Avoir pris soin d'un parent ou de la fratrie est associé à un peu plus de symptômes anxieux chez les jeunes adultes.",
-   "sources": [
-    "hooper2011",
-    "gavcar2026"
-   ]
-  },
-  {
-   "factor": "parentification",
-   "outcome": "ten_symptomes_depressifs",
-   "strength": "moderee",
-   "summary": "La parentification rapportée est associée à une légère augmentation des difficultés psychologiques à l'âge adulte, dont les symptômes dépressifs ; quand ce rôle est vécu comme ayant aussi apporté quelque chose, l'association est plus faible.",
-   "sources": [
-    "hooper2011",
-    "gavcar2026"
    ]
   },
   {
@@ -2744,6 +2714,24 @@
   },
   {
    "factor": "ressenti_honte",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "La honte est associée à plus de symptômes anxieux, plus que la culpabilité.",
+   "sources": [
+    "candea2018"
+   ]
+  },
+  {
+   "factor": "ressenti_honte",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "La tendance à éprouver de la honte est nettement associée aux symptômes dépressifs chez l'adulte ; ces études mesurent la honte et la dépression en même temps.",
+   "sources": [
+    "kim2011"
+   ]
+  },
+  {
+   "factor": "ressenti_honte",
    "outcome": "icd_6b04",
    "strength": "limitee",
    "summary": "La honte liée au regard des autres est particulièrement associée aux symptômes d'anxiété sociale.",
@@ -2762,26 +2750,8 @@
    ]
   },
   {
-   "factor": "ressenti_honte",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "limitee",
-   "summary": "La honte est associée à plus de symptômes anxieux, plus que la culpabilité.",
-   "sources": [
-    "candea2018"
-   ]
-  },
-  {
-   "factor": "ressenti_honte",
-   "outcome": "ten_symptomes_depressifs",
-   "strength": "limitee",
-   "summary": "La tendance à éprouver de la honte est nettement associée aux symptômes dépressifs chez l'adulte ; ces études mesurent la honte et la dépression en même temps.",
-   "sources": [
-    "kim2011"
-   ]
-  },
-  {
    "factor": "ressenti_pas_compter",
-   "outcome": "icd_6a71",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "Les adultes ayant une dépression majeure se souviennent plus souvent de parents peu chaleureux et peu attentifs ; ces souvenirs sont rétrospectifs.",
    "sources": [
@@ -2884,6 +2854,15 @@
   },
   {
    "factor": "ressenti_peur",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "Ces changements liés à la menace sont associés à un risque plus élevé de difficultés anxieuses ; le soutien d'un adulte protège.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
    "outcome": "att_desorganise",
    "strength": "limitee",
    "summary": "Quand le parent est lui-même source de peur, l'enfant est plus souvent dans un attachement désorganisé.",
@@ -2933,15 +2912,6 @@
    "outcome": "ten_hypervigilance",
    "strength": "limitee",
    "summary": "Grandir dans un climat menaçant est associé à une attention accrue aux signes de colère et de danger ; cette adaptation protège sur le moment mais peut peser plus tard.",
-   "sources": [
-    "mclaughlin2020"
-   ]
-  },
-  {
-   "factor": "ressenti_peur",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "limitee",
-   "summary": "Ces changements liés à la menace sont associés à un risque plus élevé de difficultés anxieuses ; le soutien d'un adulte protège.",
    "sources": [
     "mclaughlin2020"
    ]
@@ -3004,6 +2974,24 @@
   },
   {
    "factor": "ressenti_solitude",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "La solitude est aussi associée, de façon moins nette, à plus d'anxiété chez les jeunes.",
+   "sources": [
+    "loades2020"
+   ]
+  },
+  {
+   "factor": "ressenti_solitude",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "La solitude dans l'enfance et l'adolescence est associée à un risque plus élevé de dépression, y compris plusieurs années plus tard ; la durée compte plus que l'intensité.",
+   "sources": [
+    "loades2020"
+   ]
+  },
+  {
+   "factor": "ressenti_solitude",
    "outcome": "pat_social_isolation",
    "strength": "theorique",
    "summary": "Selon les modèles cliniques, une solitude ancienne peut rendre plus difficile la création de liens à l'âge adulte.",
@@ -3019,24 +3007,6 @@
    "sources": [
     "young_schemas",
     "carlucci2018"
-   ]
-  },
-  {
-   "factor": "ressenti_solitude",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "limitee",
-   "summary": "La solitude est aussi associée, de façon moins nette, à plus d'anxiété chez les jeunes.",
-   "sources": [
-    "loades2020"
-   ]
-  },
-  {
-   "factor": "ressenti_solitude",
-   "outcome": "ten_symptomes_depressifs",
-   "strength": "moderee",
-   "summary": "La solitude dans l'enfance et l'adolescence est associée à un risque plus élevé de dépression, y compris plusieurs années plus tard ; la durée compte plus que l'intensité.",
-   "sources": [
-    "loades2020"
    ]
   },
   {
@@ -3059,21 +3029,21 @@
   },
   {
    "factor": "separation_conflit",
-   "outcome": "icd_6a71",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "La séparation des parents est associée à un risque légèrement plus élevé d'anxiété plus tard, avec un effet faible.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "La séparation des parents ou la perte de contact avec un parent est associée à un risque un peu plus élevé de dépression à l'âge adulte.",
    "sources": [
     "auersperg2019",
     "simbi2020"
-   ]
-  },
-  {
-   "factor": "separation_conflit",
-   "outcome": "icd_6b00",
-   "strength": "limitee",
-   "summary": "La séparation des parents est associée à un risque légèrement plus élevé d'anxiété plus tard, avec un effet faible.",
-   "sources": [
-    "auersperg2019"
    ]
   },
   {
@@ -3171,7 +3141,18 @@
   },
   {
    "factor": "surprotection",
-   "outcome": "icd_6a71",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Un contrôle parental qui laisse peu d'autonomie est associé à plus d'anxiété chez l'enfant, avec des effets modestes et probablement réciproques : un enfant anxieux suscite aussi plus de protection.",
+   "sources": [
+    "mcleod2007_anxiete",
+    "vanderbruggen2008",
+    "yap2014"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "dep_generale",
    "strength": "moderee",
    "summary": "Les adultes ayant une dépression majeure décrivent plus souvent des parents surprotecteurs et peu chaleureux ; ces données rétrospectives ne permettent pas de conclure à une cause.",
    "sources": [
@@ -3234,17 +3215,6 @@
    ]
   },
   {
-   "factor": "surprotection",
-   "outcome": "ten_symptomes_anxieux",
-   "strength": "moderee",
-   "summary": "Un contrôle parental qui laisse peu d'autonomie est associé à plus d'anxiété chez l'enfant, avec des effets modestes et probablement réciproques : un enfant anxieux suscite aussi plus de protection.",
-   "sources": [
-    "mcleod2007_anxiete",
-    "vanderbruggen2008",
-    "yap2014"
-   ]
-  },
-  {
    "factor": "temoin_violences",
    "outcome": "icd_6b40",
    "strength": "forte",
@@ -3301,18 +3271,18 @@
   },
   {
    "factor": "traumatisme_ponctuel",
-   "outcome": "icd_6a70",
+   "outcome": "anx_generale",
    "strength": "moderee",
-   "summary": "Chez les enfants, les événements traumatiques sont associés à d'autres difficultés que le stress post-traumatique, surtout dépressives et anxieuses, en particulier après plusieurs événements.",
+   "summary": "Les troubles anxieux sont les difficultés le plus souvent associées aux événements traumatiques de l'enfance ; après un premier événement isolé, les effets sont souvent passagers.",
    "sources": [
     "copeland2007"
    ]
   },
   {
    "factor": "traumatisme_ponctuel",
-   "outcome": "icd_6b00",
+   "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Les troubles anxieux sont les difficultés le plus souvent associées aux événements traumatiques de l'enfance ; après un premier événement isolé, les effets sont souvent passagers.",
+   "summary": "Chez les enfants, les événements traumatiques sont associés à d'autres difficultés que le stress post-traumatique, surtout dépressives et anxieuses, en particulier après plusieurs événements.",
    "sources": [
     "copeland2007"
    ]

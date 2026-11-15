@@ -25,6 +25,18 @@ SOURCE_TYPES = {"classification", "recommandation", "meta-analyse", "etude", "th
 FORBIDDEN_OUTCOME_PREFIXES = ("icd_6a00", "icd_6a01", "icd_6a02", "icd_6a03", "icd_6a04", "icd_6a05")
 DETERMINISTIC = re.compile(r"\b(provoque|cause directement|entraîne forcément|entraine forcement|garantit|toujours)\b", re.I)
 PERCENT = re.compile(r"\d+\s?%")
+# Research fragments used several identifiers for the same broad outcome.
+# They are merged so that converging factors are counted together.
+ALIASES = {"icd_6a71": "dep_generale", "icd_6a70": "dep_generale", "ten_symptomes_depressifs": "dep_generale",
+           "icd_6b00": "anx_generale", "ten_symptomes_anxieux": "anx_generale"}
+CANONICAL = {
+    "dep_generale": {"id": "dep_generale", "kind": "trouble", "label": "Dépression", "code": "6A70–6A71",
+                     "description": "Épisodes dépressifs ou symptômes dépressifs durables : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
+                     "url": "/personnages/louise/"},
+    "anx_generale": {"id": "anx_generale", "kind": "trouble", "label": "Troubles anxieux", "code": "6B00–6B05",
+                     "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée.",
+                     "url": "/personnages/antonin/"},
+}
 
 
 def page_exists(url: str) -> bool:
@@ -68,6 +80,8 @@ def build() -> tuple[dict, list[str]]:
                 errors.append(f"{name} : source invalide {s.get('id')}")
             sources.setdefault(s["id"], s)
         for o in part.get("outcomes", []):
+            if o["id"] in ALIASES:
+                o = CANONICAL[ALIASES[o["id"]]]
             if o.get("kind") not in KINDS:
                 errors.append(f"{name} : type inconnu pour {o.get('id')}")
             if o["id"].startswith(FORBIDDEN_OUTCOME_PREFIXES):
@@ -84,6 +98,7 @@ def build() -> tuple[dict, list[str]]:
         if isinstance(part.get("notes"), dict):
             notes.update(part["notes"])
         for link in part.get("links", []):
+            link = dict(link, outcome=ALIASES.get(link.get("outcome"), link.get("outcome")))
             key = (link.get("factor"), link.get("outcome"))
             if key[0] not in factors:
                 errors.append(f"{name} : facteur inconnu {key[0]}")
