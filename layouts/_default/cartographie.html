@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $data := .Site.Data.cartographie }}
+{{ if not $data }}<div class="container-wide carto"><h1>Cartographie</h1><p>La cartographie est en cours de préparation.</p></div>{{ else }}
 <div class="container-wide carto" data-cartographie>
   <header class="carto-intro">
     <h1>Cartographie</h1>
@@ -55,4 +56,5 @@
   <script id="cartographie-data" type="application/json">{{ $data | jsonify | safeJS }}</script>
 </div>
 <script defer src="/js/cartographie.js?v={{ readFile "static/js/cartographie.js" | md5 }}"></script>
+{{ end }}
 {{ end }}
