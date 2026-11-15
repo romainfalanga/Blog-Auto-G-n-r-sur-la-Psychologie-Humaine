@@ -10,8 +10,23 @@
   var NOTE_TEXT = { jeune_enfant: 'Diagnostic posé chez le jeune enfant après des soins gravement insuffisants : il ne s’applique pas à un adulte.' };
   var KIND_LABEL = { trouble: 'Trouble étudié (CIM-11)', schema: 'Schéma précoce', attachement: "Style d'attachement", tendance: 'Tendance psychologique' };
 
+  // A selection is a list or Set of ids (intensity 1) or an object {id: 1|2},
+  // where 2 means "often or severely" and weighs 1.5 times as much.
+  function intensities(selected) {
+    var map = {};
+    if (selected instanceof Set || Array.isArray(selected)) {
+      selected.forEach(function (id) { map[id] = 1; });
+    } else if (selected && typeof selected === 'object') {
+      Object.keys(selected).forEach(function (id) {
+        if (selected[id] === 1 || selected[id] === 2) map[id] = selected[id];
+      });
+    }
+    return map;
+  }
+
   function compute(data, selected) {
-    var chosen = selected instanceof Set ? selected : new Set(selected || []);
+    var level = intensities(selected);
+    var chosen = new Set(Object.keys(level));
     var weights = data.weights || { forte: 3, moderee: 2, limitee: 1, theorique: 1 };
     var byOutcome = {};
     (data.links || []).forEach(function (link) {
@@ -26,8 +41,9 @@
       // A feeling that merely restates a schema's definition is shown but does not count as convergence.
       var counted = links.filter(function (l) { return !l.definitional; });
       var strong = counted.some(function (l) { return STRONG[l.strength]; });
-      var tier = counted.length >= 2 && strong ? 'convergence' : (strong ? 'piste' : 'theorique');
-      var score = links.reduce(function (sum, l) { return sum + (l.definitional ? 0.5 : (weights[l.strength] || 1)); }, 0);
+      // Three distinct causes converging also count, even when each link rests on a clinical model.
+      var tier = (counted.length >= 2 && strong) || counted.length >= 3 ? 'convergence' : (strong ? 'piste' : 'theorique');
+      var score = links.reduce(function (sum, l) { return sum + (l.definitional ? 0.5 : (weights[l.strength] || 1)) * (level[l.factor] === 2 ? 1.5 : 1); }, 0);
       return { outcome: outcomes[id], links: links, factors: factors, tier: tier, score: score };
     });
     results.sort(function (a, b) {
@@ -181,7 +197,7 @@
     render();
   }
 
-  var api = { compute: compute, mount: mount };
+  var api = { compute: compute, intensities: intensities, mount: mount };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.Cartographie = api;
   if (typeof document !== 'undefined') {

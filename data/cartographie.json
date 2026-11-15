@@ -163,8 +163,8 @@
   {
    "id": "separation_conflit",
    "group": "famille",
-   "label": "Séparation parentale conflictuelle",
-   "description": "Divorce ou séparation avec conflits durables, ou perte de contact avec un parent.",
+   "label": "Séparation conflictuelle ou perte de contact avec un parent",
+   "description": "Séparation avec des conflits durables entre les parents, ou un parent que l'on ne voyait plus.",
    "examples": [
     "Être pris à partie",
     "Ne plus voir un parent"
@@ -417,6 +417,208 @@
    "description": "Maladie grave, douleurs ou hospitalisations répétées dans l'enfance.",
    "examples": [],
    "ace": false
+  },
+  {
+   "id": "conflits_parents",
+   "group": "famille",
+   "label": "Disputes fréquentes entre les parents",
+   "description": "Tensions, cris ou silences hostiles entre les adultes, sans violence physique.",
+   "examples": [
+    "Repas tendus",
+    "Dispute dès qu'on rentrait"
+   ],
+   "ace": false
+  },
+  {
+   "id": "triangulation",
+   "group": "climat",
+   "label": "Être pris à partie dans les conflits des parents",
+   "description": "Servir de messager, de confident ou d'allié d'un parent contre l'autre.",
+   "examples": [
+    "« Dis à ton père que… »",
+    "Devoir choisir son camp"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parent_absent",
+   "group": "famille",
+   "label": "Parent très absent ou indisponible",
+   "description": "Un parent souvent absent (travail, départ, désintérêt) ou présent mais peu disponible.",
+   "examples": [
+    "Parent toujours au travail",
+    "Père ou mère parti"
+   ],
+   "ace": false
+  },
+  {
+   "id": "divorce",
+   "group": "famille",
+   "label": "Séparation des parents sans conflit durable",
+   "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle, cochez plutôt la cause précédente.",
+   "examples": [
+    "Garde alternée",
+    "Déménagement après la séparation"
+   ],
+   "ace": true
+  },
+  {
+   "id": "famille_recomposee",
+   "group": "famille",
+   "label": "Famille recomposée difficile",
+   "description": "Arrivée d'un beau-parent ou de demi-frères et sœurs avec des tensions durables.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "demenagements",
+   "group": "contexte",
+   "label": "Déménagements et changements d'école répétés",
+   "description": "Changer souvent de lieu de vie, d'école ou d'amis.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "adoption",
+   "group": "famille",
+   "label": "Adoption",
+   "description": "Avoir été adopté, en particulier après des débuts de vie difficiles.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "violences_fratrie",
+   "group": "violences",
+   "label": "Violences ou humiliations dans la fratrie",
+   "description": "Coups, moqueries ou domination répétés de la part d'un frère ou d'une sœur.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "punitions_corporelles",
+   "group": "violences",
+   "label": "Punitions corporelles « ordinaires »",
+   "description": "Fessées, gifles ou tapes utilisées comme moyen d'éducation.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "pression_scolaire",
+   "group": "climat",
+   "label": "Pression scolaire ou de performance",
+   "description": "Résultats, sport ou activités vécus comme une exigence constante.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "emprise_religieuse",
+   "group": "climat",
+   "label": "Cadre religieux ou idéologique rigide",
+   "description": "Règles strictes, peur de la punition divine, isolement d'un groupe fermé.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "honte_famille",
+   "group": "ressentis",
+   "label": "Honte de sa famille",
+   "description": "Cacher sa maison, ses parents ou sa situation aux autres.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "debrouiller_seul",
+   "group": "ressentis",
+   "label": "Devoir se débrouiller seul trop tôt",
+   "description": "Ne pas pouvoir compter sur les adultes et gérer seul ses problèmes.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "pas_protege",
+   "group": "ressentis",
+   "label": "Ne pas se sentir protégé",
+   "description": "Penser qu'aucun adulte ne vous défendrait en cas de danger.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "se_sentir_different",
+   "group": "ressentis",
+   "label": "Se sentir différent des autres",
+   "description": "Impression de ne pas être à sa place, de ne ressembler à personne.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "enfant_sage",
+   "group": "ressentis",
+   "label": "Devoir être sage et ne pas déranger",
+   "description": "Se faire discret, ne rien demander pour ne pas peser.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "enfant_prefere_role",
+   "group": "ressentis",
+   "label": "Avoir un rôle fixe dans la famille",
+   "description": "Être « le fort », « le clown », « le problème » ou « celui qui réussit ».",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "moqueries_corps",
+   "group": "contexte",
+   "label": "Moqueries sur le corps ou l'apparence",
+   "description": "Remarques répétées sur le poids, le physique ou la puberté, à la maison ou à l'école.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "parent_malade_physique",
+   "group": "famille",
+   "label": "Parent gravement malade",
+   "description": "Maladie physique grave ou handicap d'un parent pendant l'enfance.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "isolement_social_enfant",
+   "group": "contexte",
+   "label": "Peu d'amis et peu d'activités",
+   "description": "Isolement social durable dans l'enfance ou l'adolescence.",
+   "examples": [],
+   "ace": false
+  }
+ ],
+ "domains": [
+  {
+   "id": "perceptions",
+   "label": "Perceptions et dissociation"
+  },
+  {
+   "id": "humeur",
+   "label": "Humeur"
+  },
+  {
+   "id": "anxiete",
+   "label": "Anxiété, peur et traumatisme"
+  },
+  {
+   "id": "relations",
+   "label": "Relations et attachement"
+  },
+  {
+   "id": "soi",
+   "label": "Image de soi"
+  },
+  {
+   "id": "emotions",
+   "label": "Émotions"
+  },
+  {
+   "id": "comportements",
+   "label": "Corps et comportements"
   }
  ],
  "outcomes": [
@@ -426,103 +628,166 @@
    "label": "Agoraphobie",
    "code": "6B02",
    "description": "La peur et l'évitement de lieux ou situations d'où il semble difficile de partir ou d'être aidé.",
-   "url": "/personnages/joachim/"
+   "url": "/personnages/joachim/",
+   "domain": "anxiete"
   },
   {
    "id": "anx_generale",
    "kind": "trouble",
    "label": "Anxiété ou troubles anxieux",
    "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée (CIM-11 6B00).",
-   "url": "/personnages/antonin/"
+   "url": "/personnages/antonin/",
+   "domain": "anxiete"
   },
   {
    "id": "pat_appeasement",
    "kind": "tendance",
    "label": "Apaiser autrui pour préserver sa sécurité",
    "description": "Accepter, flatter ou s’effacer pour réduire une tension relationnelle, en reconnaissant que cela peut être une protection face à un risque réel.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/",
+   "domain": "relations"
   },
   {
    "id": "att_anxieux",
    "kind": "attachement",
    "label": "Attachement anxieux",
    "description": "Craindre de perdre l'autre et chercher beaucoup de signes de son affection.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/",
+   "domain": "relations"
   },
   {
    "id": "att_desorganise",
    "kind": "attachement",
    "label": "Attachement désorganisé",
    "description": "Chercher la proximité tout en la craignant, avec des réactions contradictoires.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/",
+   "domain": "relations"
   },
   {
    "id": "att_evitant",
    "kind": "attachement",
    "label": "Attachement évitant",
    "description": "Garder ses distances et compter surtout sur soi pour ne pas dépendre des autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/",
+   "domain": "relations"
   },
   {
    "id": "pat_self_criticism",
    "kind": "tendance",
    "label": "Autocritique",
    "description": "Se juger globalement après une difficulté.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/",
+   "domain": "soi"
   },
   {
    "id": "ten_codependance",
    "kind": "tendance",
    "label": "Codépendance",
    "description": "S'oublier pour prendre en charge un proche en difficulté ; une notion clinique sans définition consensuelle.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/",
+   "domain": "relations"
+  },
+  {
+   "id": "ten_colere",
+   "kind": "tendance",
+   "label": "Colère retenue ou qui déborde",
+   "description": "Une colère que l'on garde pour soi jusqu'à l'épuisement, ou qui éclate plus fort qu'on ne le voudrait.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/",
+   "domain": "emotions"
   },
   {
    "id": "ten_externalisation",
    "kind": "tendance",
    "label": "Comportements d’opposition, d’agressivité ou antisociaux",
    "description": "Opposition, colères, agressivité ou conduites antisociales, observées dans l’enfance, l’adolescence ou plus tard ; elles relèvent parfois d’un trouble oppositionnel avec provocation (CIM-11 6C90).",
-   "url": "/personnages/ruben/"
+   "url": "/personnages/ruben/",
+   "domain": "comportements"
   },
   {
    "id": "pat_guilt",
    "kind": "tendance",
    "label": "Culpabilité",
    "description": "Se sentir fautif ou redevable au-delà de sa responsabilité.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/",
+   "domain": "soi"
   },
   {
    "id": "ten_alexithymie",
    "kind": "tendance",
    "label": "Difficulté à identifier et exprimer ses émotions (alexithymie)",
    "description": "Avoir du mal à reconnaître et à mettre des mots sur ce que l'on ressent.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/",
+   "domain": "emotions"
   },
   {
    "id": "pat_needs_expression",
    "kind": "tendance",
    "label": "Difficulté à reconnaître et exprimer ses besoins",
-   "description": "Mal percevoir ce dont on a besoin, ou ne pas oser le demander."
+   "description": "Mal percevoir ce dont on a besoin, ou ne pas oser le demander.",
+   "domain": "soi"
   },
   {
    "id": "pat_conflict",
    "kind": "tendance",
    "label": "Difficulté à vivre les désaccords",
    "description": "Éviter, redouter ou vivre comme une menace le moindre désaccord avec un proche.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/",
+   "domain": "relations"
+  },
+  {
+   "id": "ten_difficultes_professionnelles",
+   "kind": "tendance",
+   "label": "Difficultés d'emploi et de revenus à l'âge adulte",
+   "description": "Plus de difficultés à trouver ou garder un emploi stable et à disposer de revenus suffisants.",
+   "url": null,
+   "domain": "soi"
+  },
+  {
+   "id": "ten_difficultes_sexuelles",
+   "kind": "tendance",
+   "label": "Difficultés dans la vie sexuelle",
+   "description": "Peu de désir, douleurs, difficultés d'excitation ou de plaisir, ou une sexualité vécue avec malaise.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_sommeil",
+   "kind": "tendance",
+   "label": "Difficultés de sommeil (insomnie, cauchemars)",
+   "description": "Du mal à s'endormir, des réveils fréquents, des nuits courtes ou des cauchemars qui reviennent.",
+   "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement/",
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_difficultes_scolaires",
+   "kind": "tendance",
+   "label": "Difficultés scolaires",
+   "description": "Des résultats plus faibles, un redoublement ou un décrochage, souvent liés au stress vécu plutôt qu'aux capacités.",
+   "url": null,
+   "domain": "comportements"
   },
   {
    "id": "ten_dysregulation_emotionnelle",
    "kind": "tendance",
    "label": "Difficultés à réguler ses émotions",
-   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup."
+   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup.",
+   "domain": "emotions"
   },
   {
    "id": "ten_souffrance_enfance",
    "kind": "tendance",
    "label": "Difficultés émotionnelles ou de comportement dans l'enfance",
    "description": "Anxiété, tristesse, agitation ou opposition repérées pendant l'enfance ou l'adolescence.",
-   "url": null
+   "url": null,
+   "domain": "soi"
+  },
+  {
+   "id": "ten_douleurs_persistantes",
+   "kind": "tendance",
+   "label": "Douleurs persistantes et maux physiques à répétition",
+   "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ».",
+   "url": null,
+   "domain": "comportements"
   },
   {
    "id": "icd_6a72",
@@ -530,7 +795,8 @@
    "label": "Dysthymie",
    "code": "6A72",
    "description": "Une humeur dépressive persistante, présente la plupart du temps pendant au moins deux ans.",
-   "url": "/personnages/timothee/"
+   "url": "/personnages/timothee/",
+   "domain": "humeur"
   },
   {
    "id": "icd_6c40_2",
@@ -538,27 +804,31 @@
    "label": "Dépendance à l'alcool",
    "code": "6C40.2",
    "description": "Une consommation d'alcool devenue difficile à contrôler malgré ses conséquences.",
-   "url": "/personnages/eric/"
+   "url": "/personnages/eric/",
+   "domain": "comportements"
   },
   {
    "id": "dep_generale",
    "kind": "trouble",
    "label": "Dépression ou symptômes dépressifs",
    "description": "Symptômes dépressifs durables ou épisodes dépressifs (CIM-11 6A70–6A71) : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
-   "url": "/personnages/louise/"
+   "url": "/personnages/louise/",
+   "domain": "humeur"
   },
   {
    "id": "ten_estime_soi",
    "kind": "tendance",
    "label": "Estime de soi fragilisée",
-   "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres."
+   "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres.",
+   "domain": "soi"
   },
   {
    "id": "ten_hypervigilance",
    "kind": "tendance",
    "label": "Hypervigilance à la menace",
    "description": "Repérer très vite les signes de danger, de colère ou de rejet, et réagir fortement.",
-   "url": null
+   "url": null,
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b23",
@@ -566,201 +836,278 @@
    "label": "Hypocondrie (anxiété liée à la santé)",
    "code": "6B23",
    "description": "La peur persistante d'avoir une maladie grave, malgré des examens rassurants.",
-   "url": "/personnages/lenaic/"
+   "url": "/personnages/lenaic/",
+   "domain": "anxiete"
   },
   {
    "id": "ten_conduites_suicidaires",
    "kind": "tendance",
    "label": "Idées suicidaires, tentatives ou automutilations",
    "description": "Idées de mort, projets ou tentatives de suicide.",
-   "note": "suicide"
+   "note": "suicide",
+   "domain": "humeur"
   },
   {
    "id": "pat_social_isolation",
    "kind": "tendance",
    "label": "Isolement social subi",
    "description": "Moins de liens et de soutien que ce que l’on souhaiterait.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/",
+   "domain": "relations"
   },
   {
    "id": "pat_perfectionism",
    "kind": "tendance",
    "label": "Perfectionnisme coûteux",
    "description": "Des exigences difficiles à assouplir malgré leur coût.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer/",
+   "domain": "soi"
+  },
+  {
+   "id": "ten_peur_intimite",
+   "kind": "tendance",
+   "label": "Peur de l'intimité affective",
+   "description": "Redouter de se dévoiler ou de devenir proche d'un partenaire, même quand on désire ce lien.",
+   "url": null,
+   "domain": "relations"
   },
   {
    "id": "pat_abandonment_fear",
    "kind": "tendance",
    "label": "Peur de perdre le lien",
-   "description": "Inquiétude liée à une distance ou une séparation."
+   "description": "Inquiétude liée à une distance ou une séparation.",
+   "domain": "relations"
+  },
+  {
+   "id": "ten_risques_sexuels",
+   "kind": "tendance",
+   "label": "Prises de risque dans la sexualité",
+   "description": "Des rapports non protégés, de nombreux partenaires ou des situations sexuelles où l'on se met en danger.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_sante_physique",
+   "kind": "tendance",
+   "label": "Problèmes de santé physique à l'âge adulte",
+   "description": "Des maladies du cœur, des poumons ou du métabolisme (comme le diabète), ou le sentiment d'être en moins bonne santé.",
+   "url": null,
+   "domain": "comportements"
+  },
+  {
+   "id": "ten_procrastination",
+   "kind": "tendance",
+   "label": "Procrastination",
+   "description": "Repousser des tâches importantes malgré l'envie de les faire et le coût de ce retard.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion/",
+   "domain": "comportements"
   },
   {
    "id": "ten_qualite_relationnelle",
    "kind": "tendance",
    "label": "Relations proches moins satisfaisantes",
-   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants."
+   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants.",
+   "domain": "relations"
   },
   {
    "id": "pat_parentification",
    "kind": "tendance",
    "label": "Responsabilités précoces (parentification)",
    "description": "Avoir pris enfant un rôle de parent, matériel ou émotionnel, auprès de sa famille.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/",
+   "domain": "soi"
   },
   {
    "id": "pat_emotional_suppression",
    "kind": "tendance",
    "label": "Retenir l’expression émotionnelle",
    "description": "Cacher ou contenir ses émotions pour se protéger ou préserver un lien.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/",
+   "domain": "emotions"
   },
   {
    "id": "ten_revictimisation",
    "kind": "tendance",
    "label": "Risque de nouvelles violences sexuelles",
    "description": "Subir à nouveau des violences sexuelles plus tard dans la vie ; la responsabilité en revient à l'agresseur.",
-   "url": null
+   "url": null,
+   "domain": "relations"
   },
   {
    "id": "pat_overresponsibility",
    "kind": "tendance",
    "label": "Rôle de sauveur",
    "description": "Se sentir tenu de résoudre les difficultés d’autrui au prix de ses besoins. « Sauveur » est un nom courant de ce processus possible, pas un syndrome clinique.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/",
+   "domain": "relations"
   },
   {
    "id": "sch_abandon",
    "kind": "schema",
    "label": "Schéma d'abandon et d'instabilité",
    "description": "Sentir que les personnes proches risquent de partir ou de ne pas rester fiables.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/",
+   "domain": "relations"
   },
   {
    "id": "sch_abnegation",
    "kind": "schema",
    "label": "Schéma d'abnégation",
    "description": "Faire passer les besoins des autres avant les siens, au point de s'oublier.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/",
+   "domain": "relations"
   },
   {
    "id": "sch_assujettissement",
    "kind": "schema",
    "label": "Schéma d'assujettissement",
    "description": "Taire ses besoins et ses avis pour éviter la colère ou le rejet.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/",
+   "domain": "relations"
   },
   {
    "id": "sch_exigences_elevees",
    "kind": "schema",
    "label": "Schéma d'exigences élevées",
    "description": "Pression constante pour atteindre des standards très élevés, avec une critique dure de soi.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/",
+   "domain": "soi"
   },
   {
    "id": "sch_imperfection",
    "kind": "schema",
    "label": "Schéma d'imperfection et de honte",
    "description": "Se sentir fondamentalement défectueux, mauvais ou indigne d'être aimé.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/",
+   "domain": "soi"
   },
   {
    "id": "sch_isolement",
    "kind": "schema",
    "label": "Schéma d'isolement social",
    "description": "Se sentir différent des autres et à l'écart des groupes.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/",
+   "domain": "relations"
   },
   {
    "id": "sch_echec",
    "kind": "schema",
    "label": "Schéma d'échec",
    "description": "Se croire moins capable que les autres et voué à échouer.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/",
+   "domain": "soi"
   },
   {
    "id": "sch_carence_affective",
    "kind": "schema",
    "label": "Schéma de carence affective",
    "description": "S'attendre à ne pas recevoir le soutien, l'attention ou la compréhension dont on a besoin.",
-   "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/"
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/",
+   "domain": "soi"
   },
   {
    "id": "sch_controle_insuffisant",
    "kind": "schema",
    "label": "Schéma de contrôle de soi insuffisant",
    "description": "Difficulté à tolérer la frustration et à différer ses envies.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/",
+   "domain": "comportements"
   },
   {
    "id": "sch_droits_excessifs",
    "kind": "schema",
    "label": "Schéma de droits personnels excessifs",
    "description": "Se sentir au-dessus des règles de réciprocité.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/",
+   "domain": "soi"
   },
   {
    "id": "sch_dependance",
    "kind": "schema",
    "label": "Schéma de dépendance et d'incompétence",
    "description": "Se croire incapable de gérer seul les responsabilités du quotidien.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/",
+   "domain": "soi"
   },
   {
    "id": "sch_fusion",
    "kind": "schema",
    "label": "Schéma de fusion et de personnalité atrophiée",
    "description": "Une proximité avec un proche qui se paie par un manque d'identité propre.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/",
+   "domain": "relations"
   },
   {
    "id": "sch_mefiance",
    "kind": "schema",
    "label": "Schéma de méfiance et d'abus",
    "description": "S'attendre à être blessé, trompé, humilié ou exploité par les autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/",
+   "domain": "relations"
   },
   {
    "id": "sch_punition",
    "kind": "schema",
    "label": "Schéma de punition",
    "description": "Conviction que les erreurs méritent d'être durement punies.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/",
+   "domain": "soi"
   },
   {
    "id": "sch_recherche_approbation",
    "kind": "schema",
    "label": "Schéma de recherche d'approbation",
    "description": "Une estime de soi qui dépend surtout des réactions des autres.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/",
+   "domain": "relations"
   },
   {
    "id": "sch_surcontrole",
    "kind": "schema",
    "label": "Schéma de surcontrôle émotionnel",
    "description": "Retenir spontanéité et émotions pour éviter la désapprobation ou la perte de contrôle.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/",
+   "domain": "emotions"
   },
   {
    "id": "sch_vulnerabilite",
    "kind": "schema",
    "label": "Schéma de vulnérabilité au danger",
    "description": "Craindre en permanence une catastrophe contre laquelle on ne pourrait rien.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/",
+   "domain": "anxiete"
+  },
+  {
+   "id": "pat_impostor",
+   "kind": "tendance",
+   "label": "Sentiment d’imposture",
+   "description": "Douter de sa légitimité malgré des réussites réelles, et craindre d'être « démasqué ». C'est un vécu courant, pas un diagnostic.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes/",
+   "domain": "soi"
   },
   {
    "id": "pat_migration_adjustment",
    "kind": "tendance",
    "label": "Stress lié à l’adaptation après une migration",
    "description": "Difficultés à trouver sa place, à cumuler deux cultures ou à refaire un réseau après un changement de pays.",
-   "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/"
+   "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/",
+   "domain": "anxiete"
+  },
+  {
+   "id": "ten_surpoids",
+   "kind": "tendance",
+   "label": "Surpoids ou obésité",
+   "description": "Un poids qui pèse sur la santé ou le bien-être. Il dépend de nombreux facteurs (génétique, conditions de vie, stress) et n'est pas une question de volonté.",
+   "url": null,
+   "domain": "comportements"
   },
   {
    "id": "ten_dissociation",
    "kind": "tendance",
    "label": "Symptômes dissociatifs",
    "description": "Se sentir déconnecté de soi, de son corps ou de ce qui se passe, avec des trous de mémoire.",
-   "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/"
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/",
+   "domain": "perceptions"
   },
   {
    "id": "icd_6a60",
@@ -768,7 +1115,8 @@
    "label": "Trouble bipolaire de type I",
    "code": "6A60",
    "description": "Alternance d'épisodes maniaques et souvent dépressifs ; représente ici les troubles bipolaires.",
-   "url": "/personnages/emilien/"
+   "url": "/personnages/emilien/",
+   "domain": "humeur"
   },
   {
    "id": "icd_6b05",
@@ -776,7 +1124,8 @@
    "label": "Trouble d'anxiété de séparation",
    "code": "6B05",
    "description": "Une peur excessive d'être séparé des personnes auxquelles on est attaché.",
-   "url": "/personnages/rebecca/"
+   "url": "/personnages/rebecca/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b04",
@@ -784,7 +1133,8 @@
    "label": "Trouble d'anxiété sociale",
    "code": "6B04",
    "description": "Une peur marquée et durable du regard et du jugement des autres.",
-   "url": "/personnages/sacha/"
+   "url": "/personnages/sacha/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6c20",
@@ -792,7 +1142,8 @@
    "label": "Trouble de détresse physique",
    "code": "6C20",
    "description": "Des symptômes physiques pénibles qui occupent beaucoup de place et d'attention, au-delà de ce qu'explique un examen médical.",
-   "url": "/personnages/laure/"
+   "url": "/personnages/laure/",
+   "domain": "comportements"
   },
   {
    "id": "icd_6b43",
@@ -800,7 +1151,8 @@
    "label": "Trouble de l'adaptation",
    "code": "6B43",
    "description": "Une réaction difficile à un changement ou un stress de vie, avec préoccupations et difficultés à s'adapter.",
-   "url": "/personnages/elina/"
+   "url": "/personnages/elina/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b45",
@@ -809,7 +1161,8 @@
    "code": "6B45",
    "description": "Chez le jeune enfant, aller vers des adultes inconnus sans aucune réserve après des soins gravement insuffisants.",
    "url": "/personnages/thael/",
-   "note": "jeune_enfant"
+   "note": "jeune_enfant",
+   "domain": "relations"
   },
   {
    "id": "icd_6d11_5",
@@ -817,7 +1170,8 @@
    "label": "Trouble de la personnalité avec motif borderline",
    "code": "6D11.5",
    "description": "Des difficultés durables dans la manière de se vivre et d'être en relation, dont le type borderline.",
-   "url": "/personnages/mina/"
+   "url": "/personnages/mina/",
+   "domain": "relations"
   },
   {
    "id": "icd_6b40",
@@ -825,7 +1179,8 @@
    "label": "Trouble de stress post-traumatique",
    "code": "6B40",
    "description": "Revivre un événement terrifiant comme s'il se reproduisait, l'éviter et rester en alerte.",
-   "url": "/personnages/selma/"
+   "url": "/personnages/selma/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b41",
@@ -833,7 +1188,8 @@
    "label": "Trouble de stress post-traumatique complexe",
    "code": "6B41",
    "description": "Symptômes du stress post-traumatique avec, en plus, de grandes difficultés à réguler ses émotions, à se percevoir et à être proche des autres.",
-   "url": "/personnages/meriem/"
+   "url": "/personnages/meriem/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b64",
@@ -841,7 +1197,8 @@
    "label": "Trouble dissociatif de l'identité",
    "code": "6B64",
    "description": "Plusieurs états d'identité distincts qui prennent tour à tour le contrôle.",
-   "url": "/personnages/celeste/"
+   "url": "/personnages/celeste/",
+   "domain": "perceptions"
   },
   {
    "id": "icd_6b60",
@@ -849,7 +1206,8 @@
    "label": "Trouble dissociatif à symptômes neurologiques",
    "code": "6B60",
    "description": "Des symptômes comme une paralysie ou des crises, sans maladie neurologique qui les explique.",
-   "url": "/personnages/gaelle/"
+   "url": "/personnages/gaelle/",
+   "domain": "perceptions"
   },
   {
    "id": "icd_6b42",
@@ -857,7 +1215,8 @@
    "label": "Trouble du deuil prolongé",
    "code": "6B42",
    "description": "Un chagrin intense et envahissant qui dure bien au-delà de ce qui est attendu après un décès.",
-   "url": "/personnages/blandine/"
+   "url": "/personnages/blandine/",
+   "domain": "humeur"
   },
   {
    "id": "icd_6b01",
@@ -865,7 +1224,8 @@
    "label": "Trouble panique",
    "code": "6B01",
    "description": "Des attaques de panique répétées et inattendues, suivies d'une inquiétude à l'idée qu'elles reviennent.",
-   "url": "/personnages/jules/"
+   "url": "/personnages/jules/",
+   "domain": "anxiete"
   },
   {
    "id": "icd_6b44",
@@ -874,7 +1234,8 @@
    "code": "6B44",
    "description": "Chez le jeune enfant, très peu chercher ou accepter le réconfort après des soins gravement insuffisants.",
    "url": "/personnages/basile/",
-   "note": "jeune_enfant"
+   "note": "jeune_enfant",
+   "domain": "relations"
   },
   {
    "id": "icd_6b81",
@@ -882,7 +1243,8 @@
    "label": "Troubles des conduites alimentaires",
    "code": "6B80–6B82",
    "description": "Boulimie, crises alimentaires, restrictions ou préoccupations envahissantes pour le poids et l’image du corps.",
-   "url": "/personnages/victoire/"
+   "url": "/personnages/victoire/",
+   "domain": "comportements"
   },
   {
    "id": "icd_6a20",
@@ -890,26 +1252,38 @@
    "label": "Troubles psychotiques (dont la schizophrénie)",
    "code": "6A20",
    "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic.",
-   "url": "/personnages/nils/"
+   "url": "/personnages/nils/",
+   "domain": "perceptions"
+  },
+  {
+   "id": "ten_ecrans",
+   "kind": "tendance",
+   "label": "Usage problématique des écrans, d'internet ou des jeux vidéo",
+   "description": "Du mal à limiter le temps passé sur le téléphone, internet ou les jeux, au point de gêner le sommeil, les études, le travail ou les relations.",
+   "url": "/personnages/come/",
+   "domain": "comportements"
   },
   {
    "id": "ten_usage_substances",
    "kind": "tendance",
    "label": "Usage problématique d’alcool, de tabac ou de drogues",
    "description": "Consommer des substances de façon risquée ou difficile à contrôler.",
-   "url": "/personnages/eric/"
+   "url": "/personnages/eric/",
+   "domain": "comportements"
   },
   {
    "id": "pat_conditional_worth",
    "kind": "tendance",
    "label": "Valeur liée à la réussite",
-   "description": "Faire dépendre sa valeur de sa performance ou de son utilité."
+   "description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
+   "domain": "soi"
   },
   {
    "id": "ten_violences_couple",
    "kind": "tendance",
    "label": "Violences dans le couple à l'âge adulte",
-   "description": "Subir ou exercer des violences dans une relation de couple."
+   "description": "Subir ou exercer des violences dans une relation de couple.",
+   "domain": "relations"
   }
  ],
  "links": [
@@ -1039,6 +1413,15 @@
   },
   {
    "factor": "abus_emotionnel",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Selon le modèle clinique de la réponse d'apaisement, un parent critique, humiliant ou contrôlant peut amener l'enfant à guetter son humeur et à chercher à lui plaire, une stratégie qui peut perdurer dans les relations adultes.",
+   "sources": [
+    "schwartz_fawn"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
    "outcome": "sch_abnegation",
    "strength": "limitee",
    "summary": "Dans une étude chez des étudiants, les violences psychologiques étaient liées au schéma d'abnégation, qui expliquait en partie l'anxiété et la dépression ultérieures.",
@@ -1077,6 +1460,16 @@
   },
   {
    "factor": "abus_emotionnel",
+   "outcome": "sch_mefiance",
+   "strength": "limitee",
+   "summary": "Dans un large échantillon représentatif, les personnes ayant subi des violences ou une négligence psychologiques déclarent faire moins confiance aux autres en général ; une revue relève le même lien pour les adversités relationnelles.",
+   "sources": [
+    "peter2026",
+    "chokhani2026"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
    "outcome": "sch_vulnerabilite",
    "strength": "limitee",
    "summary": "Les violences psychologiques sont associées au schéma de vulnérabilité au danger, avec des liens plutôt faibles.",
@@ -1096,6 +1489,15 @@
   },
   {
    "factor": "abus_emotionnel",
+   "outcome": "ten_colere",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques font partie des maltraitances associées, dans une méta-analyse, à une colère plus souvent ruminée ou explosive à l'âge adulte, sans différence nette selon le type de maltraitance.",
+   "sources": [
+    "lynch2026"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
    "outcome": "ten_conduites_suicidaires",
    "strength": "forte",
    "summary": "Les violences psychologiques dans l'enfance sont associées à un risque plus élevé de pensées et de tentatives de suicide.",
@@ -1103,6 +1505,95 @@
     "norman2012",
     "angelakis2019",
     "angelakis2020"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques dans l'enfance sont associées, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques dans l'enfance sont associées à plus de douleurs chroniques et de migraines à l'âge adulte, surtout dans des études qui interrogent les adultes sur leur passé.",
+   "sources": [
+    "bussieres2023",
+    "liu2024_migraine",
+    "marin2021"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_ecrans",
+   "strength": "limitee",
+   "summary": "Avoir vécu des violences psychologiques est associé à un usage plus problématique du téléphone et d'internet. Ces résultats viennent surtout d'études ponctuelles, souvent chez des jeunes, qui ne permettent pas de dire ce qui vient en premier.",
+   "sources": [
+    "ye2025",
+    "hao2024",
+    "tang2024"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_hypervigilance",
+   "strength": "limitee",
+   "summary": "Les enfants exposés à des menaces répétées, y compris verbales, tendent à repérer plus vite la colère chez les autres, parfois même là où elle n'est pas.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_peur_intimite",
+   "strength": "limitee",
+   "summary": "Dans une étude préliminaire chez de jeunes adultes en couple, les violences psychologiques subies enfant étaient associées à une plus grande peur de l'intimité, en passant par un attachement insécure et la crainte d'être rejeté.",
+   "sources": [
+    "finzidottan2024"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_sante_physique",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques dans l'enfance sont associées à plus de maladies cardiométaboliques et de migraines à l'âge adulte, avec un effet modeste.",
+   "sources": [
+    "flor2025",
+    "souama2023"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences psychologiques dans l'enfance est associé, en moyenne, à un peu plus de difficultés de sommeil à l'âge adulte (dans des études qui suivent les personnes dans le temps), et à plus d'insomnie et de cauchemars dès l'enfance. L'effet est modeste et beaucoup de personnes dorment bien.",
+   "sources": [
+    "yu2022_sommeil",
+    "schonning2022"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_surpoids",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences psychologiques dans l'enfance est associé à un risque un peu plus élevé d'obésité à l'âge adulte, davantage quand les violences ont été graves. Manger pour apaiser le stress fait partie des pistes étudiées.",
+   "sources": [
+    "danese2014",
+    "hemmingsson2014"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_violences_couple",
+   "strength": "moderee",
+   "summary": "Dans la même méta-analyse, les violences psychologiques subies enfant sont associées à un risque plus élevé de subir des violences dans le couple, chez les femmes comme chez les hommes.",
+   "sources": [
+    "li2019_ipv"
    ]
   },
   {
@@ -1130,6 +1621,16 @@
    "summary": "Les enfants maltraités ont plus souvent un attachement désorganisé et moins souvent un attachement sécure que les autres enfants.",
    "sources": [
     "cyr2010"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "att_evitant",
+   "strength": "moderee",
+   "summary": "La maltraitance, dont les violences physiques, est associée à un attachement adulte plus évitant : garder ses distances, compter surtout sur soi.",
+   "sources": [
+    "li2026",
+    "shahab2025"
    ]
   },
   {
@@ -1191,11 +1692,47 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Le modèle clinique de la réponse d'apaisement (« fawn », décrit par Pete Walker) relie le fait d'avoir eu un adulte à la fois protecteur et menaçant à une tendance à plaire et à s'effacer pour désamorcer les tensions. Ce modèle n'est pas un diagnostic et a été peu étudié.",
+   "sources": [
+    "schwartz_fawn"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "sch_carence_affective",
    "strength": "limitee",
    "summary": "Les violences physiques sont faiblement associées au schéma de carence affective chez l'adulte, dans des études surtout transversales.",
    "sources": [
     "pilkington2021"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "sch_imperfection",
+   "strength": "moderee",
+   "summary": "Une méta-analyse de soixante-deux études montre que les violences subies dans l'enfance sont associées à un sentiment de honte plus marqué, de façon modérée ; le lien est plus fort pour les violences psychologiques.",
+   "sources": [
+    "meng2026"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "sch_mefiance",
+   "strength": "limitee",
+   "summary": "Une revue de la littérature relie les adversités relationnelles de l'enfance, dont les violences, à plus de méfiance envers les autres (et parfois, à l'inverse, à une confiance trop facile) ; les études sont surtout transversales.",
+   "sources": [
+    "chokhani2026"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_colere",
+   "strength": "moderee",
+   "summary": "Une méta-analyse relie la maltraitance dans l'enfance à une colère plus souvent retenue et plus souvent exprimée de façon débordante à l'âge adulte ; les liens sont modestes et reposent sur peu d'études.",
+   "sources": [
+    "lynch2026"
    ]
   },
   {
@@ -1211,11 +1748,42 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi jusqu'à l'âge adulte des enfants dont des violences physiques avaient été établies par la justice, ces adultes avaient en moyenne moins d'études, moins souvent un emploi et des revenus plus faibles que des personnes comparables.",
+   "sources": [
+    "currie2010"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les violences physiques dans l'enfance sont associées, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "ten_dissociation",
    "strength": "moderee",
    "summary": "Les personnes ayant subi des violences physiques rapportent en moyenne davantage de symptômes dissociatifs, surtout quand les violences ont commencé tôt, duré longtemps ou venaient d'un parent.",
    "sources": [
     "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les adultes qui rapportent des violences physiques dans l'enfance signalent plus souvent des douleurs chroniques (dos, migraines, fibromyalgie) et une gêne au quotidien liée à la douleur. Les études qui suivent les enfants dans le temps sont moins nombreuses et moins concordantes ; le stress post-traumatique semble jouer un rôle d'intermédiaire.",
+   "sources": [
+    "bussieres2023",
+    "hauser2011",
+    "liu2024_migraine",
+    "marin2021"
    ]
   },
   {
@@ -1229,11 +1797,53 @@
   },
   {
    "factor": "abus_physique",
+   "outcome": "ten_ecrans",
+   "strength": "limitee",
+   "summary": "Avoir vécu des violences physiques est associé à un usage plus problématique du téléphone et d'internet. Ces résultats viennent surtout d'études ponctuelles, souvent chez des jeunes, qui ne permettent pas de dire ce qui vient en premier.",
+   "sources": [
+    "ye2025",
+    "hao2024",
+    "tang2024"
+   ]
+  },
+  {
+   "factor": "abus_physique",
    "outcome": "ten_hypervigilance",
    "strength": "moderee",
    "summary": "Les enfants exposés à des violences repèrent plus vite les signes de menace et y réagissent plus fortement ; cette adaptation au danger est associée à de nombreuses difficultés ultérieures.",
    "sources": [
     "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_sante_physique",
+   "strength": "moderee",
+   "summary": "Les violences physiques dans l'enfance sont associées à un risque un peu plus élevé de maladies cardiaques et métaboliques à l'âge adulte. Les analyses les plus prudentes jugent ce lien réel mais d'ampleur modeste.",
+   "sources": [
+    "flor2025",
+    "souama2023",
+    "felitti1998"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences physiques dans l'enfance est associé, en moyenne, à un peu plus de difficultés de sommeil à l'âge adulte (dans des études qui suivent les personnes dans le temps), et à plus d'insomnie et de cauchemars dès l'enfance. L'effet est modeste et beaucoup de personnes dorment bien.",
+   "sources": [
+    "yu2022_sommeil",
+    "schonning2022"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_surpoids",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences physiques dans l'enfance est associé à un risque un peu plus élevé d'obésité à l'âge adulte, davantage quand les violences ont été graves. Manger pour apaiser le stress fait partie des pistes étudiées.",
+   "sources": [
+    "danese2014",
+    "hemmingsson2014"
    ]
   },
   {
@@ -1247,6 +1857,15 @@
    ]
   },
   {
+   "factor": "abus_physique",
+   "outcome": "ten_violences_couple",
+   "strength": "moderee",
+   "summary": "Une méta-analyse de quarante-six études relie les violences physiques subies enfant à un risque plus élevé de subir des violences dans le couple, surtout dans les relations amoureuses avant le mariage. La responsabilité revient à l'auteur des violences.",
+   "sources": [
+    "li2019_ipv"
+   ]
+  },
+  {
    "factor": "abus_sexuel",
    "outcome": "anx_generale",
    "strength": "forte",
@@ -1255,6 +1874,26 @@
     "chen2010",
     "hailes2019",
     "li2016"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "att_anxieux",
+   "strength": "moderee",
+   "summary": "Une méta-analyse de plus de deux cents études relie la maltraitance à un attachement adulte plus anxieux ; dans une cohorte néerlandaise, les violences sexuelles dans l'enfance comptaient parmi les liens les plus nets.",
+   "sources": [
+    "li2026",
+    "shahab2025"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "att_evitant",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus d'évitement de la proximité dans le couple, surtout quand elles venaient de la famille.",
+   "sources": [
+    "li2026",
+    "shahab2025"
    ]
   },
   {
@@ -1349,6 +1988,33 @@
   },
   {
    "factor": "abus_sexuel",
+   "outcome": "sch_imperfection",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées, dans une méta-analyse, à une honte plus marquée à l'âge adulte ; cette honte ne dit rien de la valeur de la personne, la responsabilité revient à l'agresseur.",
+   "sources": [
+    "meng2026"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "sch_mefiance",
+   "strength": "limitee",
+   "summary": "Les violences sexuelles font partie des adversités relationnelles associées à une confiance plus difficile envers les autres ; les données restent surtout transversales.",
+   "sources": [
+    "chokhani2026"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_colere",
+   "strength": "limitee",
+   "summary": "La méta-analyse sur la colère ne trouve pas de différence entre types de maltraitance, mais les données propres aux violences sexuelles sont peu nombreuses.",
+   "sources": [
+    "lynch2026"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
    "outcome": "ten_conduites_suicidaires",
    "strength": "forte",
    "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de pensées et de tentatives de suicide, chez les jeunes comme chez les adultes.",
@@ -1356,6 +2022,34 @@
     "chen2010",
     "angelakis2019",
     "angelakis2020"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi jusqu'à l'âge adulte des enfants dont des violences sexuelles avaient été établies par la justice, ces adultes avaient en moyenne moins d'études, moins souvent un emploi et des revenus plus faibles que des personnes comparables.",
+   "sources": [
+    "currie2010"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_sexuelles",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus de difficultés sexuelles à l'âge adulte (désir, excitation, douleur, plaisir), chez les femmes comme chez les hommes. Ces difficultés peuvent s'améliorer avec un accompagnement adapté.",
+   "sources": [
+    "wang2023_sexualite"
    ]
   },
   {
@@ -1369,6 +2063,28 @@
   },
   {
    "factor": "abus_sexuel",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus de douleurs persistantes et de plaintes physiques à l'âge adulte (migraine, fibromyalgie, troubles digestifs). L'effet est modéré, et les études prospectives restent rares.",
+   "sources": [
+    "bussieres2023",
+    "hauser2011",
+    "irish2010",
+    "liu2024_migraine",
+    "marin2021"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_hypervigilance",
+   "strength": "limitee",
+   "summary": "Après des violences dans l'enfance, on observe souvent une attention accrue aux signes de menace et une réactivité émotionnelle plus forte, qui ont pu protéger l'enfant mais coûtent ensuite.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
    "outcome": "ten_revictimisation",
    "strength": "moderee",
    "summary": "Les personnes ayant subi des violences sexuelles enfant sont plus exposées à en subir de nouveau plus tard ; la responsabilité en revient aux agresseurs.",
@@ -1378,11 +2094,109 @@
   },
   {
    "factor": "abus_sexuel",
+   "outcome": "ten_risques_sexuels",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées, avec un effet faible, à plus de prises de risque sexuelles et à un risque plus élevé de nouvelles violences à l'âge adulte.",
+   "sources": [
+    "arriola2005"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_sante_physique",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à plus de plaintes de santé générale, de diabète de type 2 et de maladies cardiométaboliques à l'âge adulte.",
+   "sources": [
+    "souama2023",
+    "irish2010",
+    "huang2015_diabete"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences sexuelles dans l'enfance est associé, en moyenne, à un peu plus de difficultés de sommeil à l'âge adulte (dans des études qui suivent les personnes dans le temps), et à plus d'insomnie et de cauchemars dès l'enfance. L'effet est modeste et beaucoup de personnes dorment bien.",
+   "sources": [
+    "yu2022_sommeil",
+    "schonning2022"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_surpoids",
+   "strength": "moderee",
+   "summary": "Avoir subi des violences sexuelles dans l'enfance est associé à un risque un peu plus élevé d'obésité à l'âge adulte, davantage quand les violences ont été graves. Manger pour apaiser le stress fait partie des pistes étudiées.",
+   "sources": [
+    "danese2014",
+    "hemmingsson2014"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
    "outcome": "ten_usage_substances",
    "strength": "moderee",
    "summary": "Les violences sexuelles sont associées à un usage problématique de substances plus tard, un résultat jugé de bonne qualité.",
    "sources": [
     "hailes2019"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_violences_couple",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles dans l'enfance sont associées, dans une méta-analyse, à un risque plus élevé d'être victime de violences dans le couple ; ce risque tient aux auteurs, pas à la personne.",
+   "sources": [
+    "li2019_ipv"
+   ]
+  },
+  {
+   "factor": "adoption",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie la perte des premiers liens ou leur instabilité à l'attente que les proches finiront par partir ; cela reste une hypothèse clinique, et beaucoup de personnes adoptées ne la vivent pas.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "Deux grandes études, en Suède et aux États-Unis, trouvent plus de tentatives de suicide chez les personnes adoptées ; ce risque s'explique en partie par d'autres difficultés et mérite une attention particulière des soignants.",
+   "sources": [
+    "hjern2002",
+    "keyes2013"
+   ]
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "summary": "À l'adolescence, les jeunes adoptés à l'étranger présentent en moyenne un peu plus de difficultés de comportement (opposition, agitation) que leurs pairs ; les adoptés ayant connu de graves privations avant l'adoption sont les plus concernés.",
+   "sources": [
+    "askeland2017",
+    "juffer2005"
+   ]
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Des méta-analyses trouvent un peu plus de difficultés de comportement chez les enfants adoptés et un recours plus fréquent aux consultations ; la plupart vont bien. Les difficultés sont plus marquées après des débuts de vie très carencés.",
+   "sources": [
+    "juffer2005",
+    "askeland2017",
+    "vanijzendoorn2006"
+   ]
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_usage_substances",
+   "strength": "limitee",
+   "summary": "Une cohorte suédoise observe davantage d'hospitalisations pour usage d'alcool ou de drogues chez les jeunes adultes adoptés à l'étranger.",
+   "sources": [
+    "hjern2002"
    ]
   },
   {
@@ -1401,6 +2215,16 @@
    "summary": "Une affection accordée quand l'enfant contrôle ses émotions est associée à une tendance à réprimer les émotions négatives plutôt qu'à les intégrer.",
    "sources": [
     "roth2009"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie une affection qui dépend de ce que l'on fait pour les autres à une attention excessive à leurs besoins, aux dépens des siens.",
+   "sources": [
+    "carlucci2018",
+    "young2003"
    ]
   },
   {
@@ -1472,12 +2296,104 @@
   },
   {
    "factor": "comparaison_fratrie",
+   "outcome": "pat_impostor",
+   "strength": "theorique",
+   "summary": "Dans le modèle clinique de Clance et Imes, être comparé à un frère ou une sœur désigné comme « l'intelligent » de la famille peut nourrir un doute durable sur ses capacités, malgré les réussites.",
+   "sources": [
+    "clance1978"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
    "outcome": "ten_externalisation",
    "strength": "moderee",
    "summary": "Recevoir plus d'hostilité qu'un frère ou une sœur est associé à plus de comportements d'opposition ou d'agressivité.",
    "sources": [
     "eradus2024",
     "jensen2024"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "anx_generale",
+   "strength": "forte",
+   "summary": "Plusieurs méta-analyses relient les conflits ouverts entre parents à une anxiété plus élevée chez l'enfant. L'association est plus faible pour les désaccords réglés calmement et un peu plus faible dans les études qui suivent les enfants dans le temps.",
+   "sources": [
+    "ran2021",
+    "rhoades2008",
+    "vaneldik2020"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "dep_generale",
+   "strength": "forte",
+   "summary": "Des méta-analyses concordantes associent les disputes fréquentes entre parents à davantage de symptômes dépressifs chez l'enfant et l'adolescent. Le lien est plus net quand l'enfant décrit lui-même ces conflits ; ce qui compte surtout, c'est la manière dont le conflit se déroule et dont l'enfant le comprend.",
+   "sources": [
+    "jiang2025",
+    "rhoades2008",
+    "vaneldik2020"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "pat_guilt",
+   "strength": "theorique",
+   "summary": "Le modèle cognitif-contextuel de Grych et Fincham souligne que beaucoup d'enfants se croient responsables des disputes de leurs parents ; ce sentiment de faute est l'un des chemins qui relient le conflit aux difficultés.",
+   "sources": [
+    "fosco2016_profils",
+    "grych1990",
+    "grych2004",
+    "rhoades2008"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "pat_overresponsibility",
+   "strength": "limitee",
+   "summary": "Chez des adolescents dont les parents se disputent souvent, on observe plus fréquemment un rôle de soutien moral envers un parent et une tendance à intervenir dans les disputes. Ce rôle de soignant précoce est rapproché de ce que l'on appelle le rôle de sauveur.",
+   "sources": [
+    "peris2008"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "ten_estime_soi",
+   "strength": "moderee",
+   "summary": "Une méta-analyse relie la façon dont l'enfant vit les disputes de ses parents (peur, sentiment d'en être responsable) à une moins bonne estime de soi.",
+   "sources": [
+    "rhoades2008",
+    "grych1990"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "summary": "Les conflits hostiles entre parents sont associés à plus de colères, d'opposition et d'agressivité chez l'enfant, avec des effets qui persistent souvent dans le temps.",
+   "sources": [
+    "vaneldik2020",
+    "rhoades2008"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "ten_hypervigilance",
+   "strength": "theorique",
+   "summary": "Selon la théorie de la sécurité émotionnelle, un enfant exposé à des disputes répétées apprend à surveiller l'humeur des adultes et à anticiper le prochain conflit ; cette insécurité émotionnelle relie, dans les études, les conflits aux difficultés de l'enfant.",
+   "sources": [
+    "davies1994",
+    "davies2002",
+    "grych1990"
+   ]
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "summary": "Les enfants qui se sentent menacés ou fautifs lors des disputes parentales ont un peu plus de difficultés relationnelles ; les effets mesurés sont faibles à modérés.",
+   "sources": [
+    "rhoades2008"
    ]
   },
   {
@@ -1512,6 +2428,16 @@
   },
   {
    "factor": "controle",
+   "outcome": "pat_impostor",
+   "strength": "limitee",
+   "summary": "Chez des adolescents, une éducation autoritaire et un contrôle psychologique (culpabiliser, retirer son affection) sont associés à plus de sentiment d'imposture. Il s'agit d'études ponctuelles sur de petits échantillons.",
+   "sources": [
+    "yaffe2023",
+    "yaffe2026"
+   ]
+  },
+  {
+   "factor": "controle",
    "outcome": "pat_self_criticism",
    "strength": "limitee",
    "summary": "Un contrôle psychologique centré sur la performance est associé à une autocritique plus forte chez les adolescents.",
@@ -1528,6 +2454,16 @@
     "young2003",
     "young_schemas",
     "carlucci2018"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "ten_colere",
+   "strength": "theorique",
+   "summary": "Young décrit l'assujettissement, souvent relié à un contrôle strict, comme générant une colère accumulée qui peut ressortir de façon indirecte ou par des éclats.",
+   "sources": [
+    "young_schemas",
+    "young2003"
    ]
   },
   {
@@ -1609,6 +2545,44 @@
    ]
   },
   {
+   "factor": "debrouiller_seul",
+   "outcome": "att_evitant",
+   "strength": "theorique",
+   "summary": "Selon la théorie de l'attachement, l'enfant qui ne peut pas compter sur les adultes apprend à se débrouiller seul et à moins demander d'aide ; cette stratégie, dite de désactivation, caractérise le style évitant.",
+   "sources": [
+    "mikulincer2019"
+   ]
+  },
+  {
+   "factor": "debrouiller_seul",
+   "outcome": "pat_emotional_suppression",
+   "strength": "theorique",
+   "summary": "Les études sur l'attachement évitant décrivent une tendance à mettre ses émotions à distance pour ne pas dépendre des autres.",
+   "sources": [
+    "mikulincer2019"
+   ]
+  },
+  {
+   "factor": "debrouiller_seul",
+   "outcome": "pat_needs_expression",
+   "strength": "theorique",
+   "summary": "Avoir dû tout gérer seul peut rendre difficile, plus tard, de reconnaître et de dire ce dont on a besoin ; ce lien repose sur des modèles cliniques.",
+   "sources": [
+    "young_schemas",
+    "mikulincer2019"
+   ]
+  },
+  {
+   "factor": "debrouiller_seul",
+   "outcome": "sch_carence_affective",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas inclut, dans la carence affective, le manque de guidance et de soutien : l'attente que personne ne sera là pour aider.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
    "factor": "deces_proche",
    "outcome": "anx_generale",
    "strength": "moderee",
@@ -1657,6 +2631,15 @@
   },
   {
    "factor": "deces_proche",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Un modèle clinique décrit des enfants qui, face à un parent en deuil qui comptait sur eux, apprennent à s'occuper de lui et peuvent garder ensuite le réflexe de prendre en charge les autres.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "deces_proche",
    "outcome": "sch_abandon",
    "strength": "theorique",
    "summary": "Dans le modèle des schémas de Young, la perte ou l'instabilité des figures d'attachement est l'origine typique du schéma d'abandon.",
@@ -1681,6 +2664,54 @@
    "summary": "Le décès d'un parent par cause externe est associé à un risque plus élevé de troubles liés aux substances chez l'enfant devenu grand.",
    "sources": [
     "burrell2022"
+   ]
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Une revue systématique relève plus de dépression à l'adolescence chez les jeunes qui déménagent souvent ; les études de meilleure qualité trouvent des effets moins nets.",
+   "sources": [
+    "jelleyman2008",
+    "simsek2021"
+   ]
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "Une cohorte danoise de près d'un million et demi de personnes trouve davantage de tentatives de suicide chez celles qui ont souvent déménagé, surtout au début de l'adolescence, dans tous les milieux sociaux.",
+   "sources": [
+    "webb2016"
+   ]
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_externalisation",
+   "strength": "limitee",
+   "summary": "Dans une grande cohorte, plusieurs déménagements la même année au début de l'adolescence sont associés à un risque plus élevé de violences commises plus tard.",
+   "sources": [
+    "webb2016"
+   ]
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Une méta-analyse de 64 études associe les déménagements fréquents dans l'enfance à une santé un peu moins bonne, notamment des difficultés émotionnelles et de comportement ; le lien dépend de l'âge, du nombre de déménagements et des difficultés qui les accompagnent souvent.",
+   "sources": [
+    "simsek2021",
+    "jelleyman2008"
+   ]
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "Les changements de domicile répétés sont associés à un début plus précoce de la consommation de drogues et, dans une grande cohorte, à plus de troubles liés aux substances à l'âge adulte.",
+   "sources": [
+    "webb2016",
+    "jelleyman2008"
    ]
   },
   {
@@ -1747,6 +2778,242 @@
    ]
   },
   {
+   "factor": "divorce",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "Le lien entre séparation des parents et anxiété à l'âge adulte existe dans une méta-analyse, mais il est faible.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Une méta-analyse de 54 études trouve un risque un peu plus élevé de dépression à l'âge adulte après une séparation des parents ; l'écart diminue au fil des décennies. Une partie du risque semble passer par les conflits et les changements qui accompagnent la séparation.",
+   "sources": [
+    "auersperg2019",
+    "vandijk2020"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Un modèle clinique décrit des enfants de parents séparés qui se sentent chargés de soutenir un parent fragilisé, ce qui peut se prolonger dans une tendance à secourir les autres.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "Une méta-analyse retrouve un peu plus d'idées suicidaires et de tentatives chez les adultes dont les parents se sont séparés ; la plupart des enfants concernés n'en présentent pas.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Les enfants dont les parents se sont séparés ont, en moyenne, des résultats scolaires un peu plus faibles. Les écarts sont modestes et beaucoup d'enfants n'en sont pas affectés.",
+   "sources": [
+    "amato2001"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "summary": "Une étude de couples suivis six ans trouve plus souvent un attachement insécure chez les adultes dont les parents se sont séparés, sans hausse des divorces dans les premières années de leur propre mariage. Une méta-analyse relève aussi des relations sociales un peu moins bonnes.",
+   "sources": [
+    "crowell2009_divorce",
+    "amato2001"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "En moyenne, les enfants de parents séparés ont un peu plus de difficultés de comportement, d'adaptation et de relations que les autres ; ces différences sont modestes. Après la séparation, le niveau de conflit entre les parents et le soutien reçu pèsent beaucoup.",
+   "sources": [
+    "amato2001",
+    "vandijk2020"
+   ]
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "La séparation des parents est associée dans une méta-analyse à une consommation un peu plus fréquente d'alcool, de tabac et de drogues à l'âge adulte.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Des études transversales auprès d'anciens membres de groupes très contrôlants, religieux ou non, trouvent plus de détresse et de symptômes psychologiques chez ceux qui y ont subi une emprise psychologique ; la baisse de bien-être ne dépend pas du fait d'y être né ou entré adulte. Ce n'est pas la foi elle-même qui est en cause, mais l'emprise.",
+   "sources": [
+    "antelo2021",
+    "saldana2022"
+   ]
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "pat_guilt",
+   "strength": "theorique",
+   "summary": "Des règles très strictes et la peur d'être en faute peuvent laisser une culpabilité facile à réactiver ; ce lien repose sur des modèles cliniques.",
+   "sources": [
+    "young_schemas",
+    "antelo2021"
+   ]
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Un cadre où l'obéissance prime sur les choix personnels est l'une des origines supposées du schéma d'assujettissement : renoncer à ses préférences par peur des conséquences.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "sch_punition",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie un cadre qui menace de punition sévère pour chaque faute à la conviction que l'erreur mérite d'être durement punie, chez soi comme chez les autres.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "summary": "Après un groupe à forte emprise, la différence la plus marquée concerne les relations positives avec les autres et l'intégration sociale ; elle diminue avec le temps passé hors du groupe.",
+   "sources": [
+    "saldana2022"
+   ]
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "pat_conditional_worth",
+   "strength": "theorique",
+   "summary": "Être « celui qui réussit » peut lier sa valeur aux résultats ; c'est une hypothèse clinique peu étudiée.",
+   "sources": [
+    "vernig2011",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "pat_emotional_suppression",
+   "strength": "theorique",
+   "summary": "Tenir un rôle fixe, comme le fort ou le clown, peut obliger à cacher d'autres émotions ; les preuves sur ces rôles restent fragiles.",
+   "sources": [
+    "vernig2011",
+    "sanders2014"
+   ]
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "pat_impostor",
+   "strength": "theorique",
+   "summary": "Selon Clance et Imes, une étiquette familiale figée (« la sensible », « le surdoué ») peut laisser la personne douter d'elle quand ses réussites ne correspondent pas à ce rôle.",
+   "sources": [
+    "clance1978"
+   ]
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Les rôles familiaux décrits en clinique (le « fort », le « héros ») sont reliés à l'habitude de prendre en charge les autres. Les recherches qui ont tenté de mesurer ces rôles donnent des résultats contradictoires.",
+   "sources": [
+    "vernig2011",
+    "sanders2014"
+   ]
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "sch_recherche_approbation",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie le besoin de tenir sa place pour être reconnu au schéma de recherche d'approbation.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "pat_emotional_suppression",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie l'obligation d'être discret à l'inhibition émotionnelle : retenir ses réactions spontanées pour ne pas gêner.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "pat_needs_expression",
+   "strength": "theorique",
+   "summary": "Un enfant qui a appris à ne rien demander peut avoir du mal, adulte, à reconnaître et exprimer ses besoins.",
+   "sources": [
+    "carlucci2018",
+    "young2003",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Dans le modèle des schémas, l'enfant qui doit taire ses besoins pour garder l'affection apprend à se tourner vers ceux des autres ; ce mode de relation est proche du rôle de sauveur.",
+   "sources": [
+    "carlucci2018",
+    "young2003"
+   ]
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "sch_abnegation",
+   "strength": "theorique",
+   "summary": "Ne rien demander pour ne pas peser peut devenir l'habitude de passer les besoins des autres avant les siens.",
+   "sources": [
+    "young2003",
+    "carlucci2018",
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas décrit le fait de taire ses préférences et ses émotions, surtout la colère, pour éviter les conséquences ; devoir être sage et ne pas déranger en est une origine supposée.",
+   "sources": [
+    "carlucci2018",
+    "young2003",
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "sch_recherche_approbation",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie le fait de devoir se montrer facile et discret pour être aimé à un besoin marqué de plaire et d'être approuvé.",
+   "sources": [
+    "carlucci2018",
+    "young2003"
+   ],
+   "definitional": true
+  },
+  {
    "factor": "exil",
    "outcome": "anx_generale",
    "strength": "moderee",
@@ -1796,6 +3063,45 @@
    "summary": "Une petite étude trouve un deuil prolongé plus fréquent chez des patients ayant un parcours de réfugié ; ce lien reste à confirmer.",
    "sources": [
     "groen2026"
+   ]
+  },
+  {
+   "factor": "famille_recomposee",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Dans les familles recomposées, ce sont surtout les adolescents peu proches de leurs parents du foyer (parent et beau-parent) qui ont davantage de symptômes dépressifs, parfois encore au début de l'âge adulte ; un lien proche avec eux est associé à une évolution aussi favorable que dans les autres familles.",
+   "sources": [
+    "amato2016_beauxparents"
+   ]
+  },
+  {
+   "factor": "famille_recomposee",
+   "outcome": "ten_externalisation",
+   "strength": "limitee",
+   "summary": "Des liens distants avec le parent et le beau-parent, ou une coopération difficile entre eux, sont associés à plus de délinquance ou de difficultés de comportement chez l'enfant.",
+   "sources": [
+    "amato2016_beauxparents",
+    "favez2019"
+   ]
+  },
+  {
+   "factor": "famille_recomposee",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "limitee",
+   "summary": "Les transitions familiales (séparation, nouveau couple) sont associées en moyenne à un bien-être un peu moindre de l'enfant, mais une cohorte française ne retrouve pas d'effet constant du nombre de transitions : la qualité des relations dans le nouveau foyer semble compter davantage.",
+   "sources": [
+    "raley2020",
+    "favez2019",
+    "naddour2026"
+   ]
+  },
+  {
+   "factor": "famille_recomposee",
+   "outcome": "ten_usage_substances",
+   "strength": "limitee",
+   "summary": "Une étude américaine relève une consommation de cannabis plus élevée chez les adolescents moyennement proches de leurs parents du foyer dans une famille recomposée ; tous les écarts ne sont pas significatifs.",
+   "sources": [
+    "amato2016_beauxparents"
    ]
   },
   {
@@ -1898,12 +3204,79 @@
   },
   {
    "factor": "harcelement",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "Le harcèlement par les pairs est associé à de moins bons résultats scolaires, en partie parce qu'il réduit l'engagement et la motivation à l'école.",
+   "sources": [
+    "samara2021"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "moderee",
+   "summary": "Les enfants harcelés ont plus souvent des maux de tête, de ventre ou d'autres symptômes physiques, y compris dans des études qui les suivent dans le temps.",
+   "sources": [
+    "gini2013"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "summary": "Les enfants et adolescents harcelés par leurs pairs ont plus souvent des problèmes de sommeil ; le lien est plus net chez les plus jeunes. Un sommeil qui se dégrade peut être un signal à prendre au sérieux.",
+   "sources": [
+    "vangeel2016"
+   ]
+  },
+  {
+   "factor": "harcelement",
    "outcome": "ten_usage_substances",
    "strength": "moderee",
    "summary": "Une méta-analyse juge probable un lien entre harcèlement subi et consommation de tabac ou de drogues illicites.",
    "sources": [
     "moore2017"
    ]
+  },
+  {
+   "factor": "honte_famille",
+   "outcome": "pat_social_isolation",
+   "strength": "theorique",
+   "summary": "Ne pas inviter, ne pas parler de chez soi peut réduire les liens avec les pairs ; on suppose que cette habitude de retrait peut se prolonger.",
+   "sources": [
+    "young_schemas",
+    "layyee2023"
+   ]
+  },
+  {
+   "factor": "honte_famille",
+   "outcome": "sch_imperfection",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas décrit le sentiment d'être mauvais ou inférieur et la honte qui l'accompagne ; avoir dû cacher sa famille peut nourrir l'idée qu'une part de soi doit rester cachée.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "honte_famille",
+   "outcome": "sch_isolement",
+   "strength": "theorique",
+   "summary": "Cacher sa maison ou ses parents tient souvent les autres à distance ; le modèle des schémas y voit une origine possible du sentiment d'être à part.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "honte_famille",
+   "outcome": "sch_surcontrole",
+   "strength": "theorique",
+   "summary": "Garder le secret sur sa situation familiale demande de surveiller ce que l'on montre et dit ; le modèle des schémas relie ce type d'expérience à une retenue émotionnelle durable.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
   },
   {
    "factor": "imprevisibilite",
@@ -1930,6 +3303,15 @@
    "summary": "Des comportements parentaux déroutants ou effrayants sont associés à un attachement désorganisé chez le jeune enfant.",
    "sources": [
     "madigan2006"
+   ]
+  },
+  {
+   "factor": "imprevisibilite",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Le modèle clinique de la réponse d'apaisement associe des adultes imprévisibles à une vigilance tournée vers leur détresse et à une tendance à les satisfaire pour se protéger.",
+   "sources": [
+    "schwartz_fawn"
    ]
   },
   {
@@ -1962,6 +3344,16 @@
    "sources": [
     "roth2009",
     "roth2012"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Le schéma d'assujettissement comprend le sentiment que ses envies et ses émotions ne comptent pas pour les autres ; Young le relie à des milieux où elles étaient niées, ce qui peut rendre difficile de dire non.",
+   "sources": [
+    "young_schemas",
+    "young2003"
    ]
   },
   {
@@ -2001,6 +3393,54 @@
    "summary": "Des réactions parentales peu soutenantes face aux émotions de l'enfant sont associées, de façon modeste, à plus de troubles du comportement, surtout chez les plus jeunes.",
    "sources": [
     "johnson2017"
+   ]
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "L'isolement et la solitude dans l'enfance sont probablement associés à plus d'anxiété, selon une revue où les preuves sont moins solides que pour la dépression.",
+   "sources": [
+    "loades2020"
+   ]
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Une revue de 63 études relie l'isolement et la solitude des enfants à un risque plus élevé de dépression, jusqu'à plusieurs années après. Dans une cohorte suivie jusqu'à la quarantaine, c'est surtout l'isolement qui persiste de l'enfance à l'âge adulte qui est associé à la dépression.",
+   "sources": [
+    "loades2020",
+    "layyee2023",
+    "matthews2016"
+   ]
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "summary": "Des cohortes montrent que l'isolement de l'enfance peut se prolonger à l'âge adulte chez une partie des personnes, et que les enfants de plus en plus isolés se sentent plus seuls à 18 ans ; beaucoup en sortent.",
+   "sources": [
+    "layyee2023",
+    "thompson2022"
+   ]
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "sch_isolement",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie le fait d'avoir peu d'amis dans l'enfance au sentiment durable d'être à part et de ne pas appartenir à un groupe.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "ten_usage_substances",
+   "strength": "limitee",
+   "summary": "Dans une cohorte britannique suivie jusqu'à 44 ans, les enfants isolés fumaient plus souvent à l'âge adulte et connaissaient plus de détresse psychologique.",
+   "sources": [
+    "lacey2014"
    ]
   },
   {
@@ -2118,6 +3558,55 @@
    "sources": [
     "fazel2012",
     "cim11_cddr_stress"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Une méta-analyse trouve un lien modéré entre stigmatisation liée au poids et moins bonne santé mentale chez les jeunes ; la qualité des études est souvent faible.",
+   "sources": [
+    "warnick2022"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "icd_6b81",
+   "strength": "moderee",
+   "summary": "Des études suivies sur 5 et 15 ans relient les moqueries sur le poids à l'adolescence à plus de crises alimentaires, de régimes et de comportements de contrôle du poids à l'âge adulte, surtout chez les femmes, que les moqueries viennent des pairs ou de la famille. Une revue confirme ce lien, plus net dans les études transversales.",
+   "sources": [
+    "day2022",
+    "haines2006",
+    "menzel2010",
+    "puhl2017"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "sch_imperfection",
+   "strength": "theorique",
+   "summary": "Des remarques répétées sur son corps peuvent nourrir l'idée d'être défectueux ou honteux, au cœur du schéma d'imperfection.",
+   "sources": [
+    "young_schemas",
+    "day2022"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_estime_soi",
+   "strength": "limitee",
+   "summary": "Une méta-analyse relie la stigmatisation liée au poids chez les jeunes à une moins bonne santé mentale ; l'estime de soi est le domaine le plus étudié, avec l'image du corps. Les études sont souvent de qualité moyenne.",
+   "sources": [
+    "warnick2022"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_surpoids",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi des adolescents pendant quinze ans, les moqueries sur le poids, venant des pairs ou de la famille, étaient associées à un poids plus élevé à l'âge adulte, même à poids de départ comparable.",
+   "sources": [
+    "puhl2017"
    ]
   },
   {
@@ -2243,11 +3732,30 @@
   },
   {
    "factor": "negligence_emotionnelle",
+   "outcome": "ten_colere",
+   "strength": "limitee",
+   "summary": "La négligence affective est incluse dans les maltraitances associées à une colère retenue ou débordante à l'âge adulte ; les données propres à la négligence restent peu nombreuses.",
+   "sources": [
+    "lynch2026"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
    "outcome": "ten_conduites_suicidaires",
    "strength": "moderee",
    "summary": "La négligence affective est associée à plus de tentatives de suicide chez les jeunes.",
    "sources": [
     "angelakis2020"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "La négligence affective dans l'enfance est associée, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
    ]
   },
   {
@@ -2258,6 +3766,44 @@
    "sources": [
     "vonderlin2018",
     "wright2009"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à des douleurs chroniques un peu plus fréquentes à l'âge adulte, d'après un petit nombre d'études qui distinguent rarement ses formes.",
+   "sources": [
+    "bussieres2023"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_ecrans",
+   "strength": "limitee",
+   "summary": "Avoir vécu une négligence affective est associé à un usage plus problématique du téléphone et d'internet. Ces résultats viennent surtout d'études ponctuelles, souvent chez des jeunes, qui ne permettent pas de dire ce qui vient en premier.",
+   "sources": [
+    "ye2025",
+    "hao2024",
+    "tang2024"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à un risque plus élevé de diabète de type 2 à l'âge adulte, dans un petit nombre d'études.",
+   "sources": [
+    "huang2015_diabete"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_violences_couple",
+   "strength": "limitee",
+   "summary": "La négligence est aussi associée à un risque plus élevé de subir des violences dans le couple, mais le lien est plus faible que pour les violences subies.",
+   "sources": [
+    "li2019_ipv"
    ]
   },
   {
@@ -2326,6 +3872,15 @@
   },
   {
    "factor": "negligence_physique",
+   "outcome": "sch_imperfection",
+   "strength": "moderee",
+   "summary": "Dans la même méta-analyse, la négligence matérielle est aussi associée à une honte plus marquée, avec un lien modeste.",
+   "sources": [
+    "meng2026"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
    "outcome": "ten_alexithymie",
    "strength": "moderee",
    "summary": "La négligence physique fait partie des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
@@ -2345,11 +3900,113 @@
   },
   {
    "factor": "negligence_physique",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "summary": "Dans une étude qui a suivi jusqu'à l'âge adulte des enfants dont une négligence avait été établie par la justice, ces adultes avaient en moyenne moins d'études, moins souvent un emploi et des revenus plus faibles que des personnes comparables.",
+   "sources": [
+    "currie2010"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_difficultes_scolaires",
+   "strength": "moderee",
+   "summary": "La négligence matérielle dans l'enfance est associée, en moyenne, à des résultats scolaires plus faibles et à plus de redoublements ; la négligence et les violences psychologiques ressortent davantage. L'effet est modeste et dépend du soutien reçu.",
+   "sources": [
+    "zhang2025_scolaire",
+    "qu2024"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
    "outcome": "ten_dissociation",
    "strength": "moderee",
    "summary": "La négligence est associée à davantage de symptômes dissociatifs, un peu moins que les abus.",
    "sources": [
     "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à des douleurs chroniques un peu plus fréquentes à l'âge adulte, d'après un petit nombre d'études qui distinguent rarement ses formes.",
+   "sources": [
+    "bussieres2023"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "La négligence dans l'enfance est associée à un risque plus élevé de diabète de type 2 à l'âge adulte, dans un petit nombre d'études.",
+   "sources": [
+    "huang2015_diabete"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Une méta-analyse portant surtout sur des enfants dont les parents ont migré pour travailler (principalement en Chine) retrouve davantage d'anxiété que chez les autres enfants.",
+   "sources": [
+    "fellmeth2018"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "att_evitant",
+   "strength": "theorique",
+   "summary": "Dans la théorie de l'attachement, un enfant dont les adultes sont peu disponibles apprend souvent à moins solliciter les autres et à tenir ses émotions à distance, ce qui correspond au style dit évitant.",
+   "sources": [
+    "mikulincer2019"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Les études les plus rigoureuses sur l'absence d'un père trouvent encore des effets sur la santé mentale à l'âge adulte, plus faibles que dans les études simples. Chez les enfants dont un parent part travailler loin, une méta-analyse retrouve aussi plus de dépression.",
+   "sources": [
+    "mclanahan2013",
+    "fellmeth2018"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "sch_carence_affective",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas décrit l'attente que ses besoins d'attention, de chaleur ou de soutien ne seront pas comblés ; une présence parentale rare ou distante en est l'une des origines supposées.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "limitee",
+   "summary": "Une méta-analyse retrouve plus d'idées suicidaires chez les enfants restés au pays quand leurs parents ont migré pour travailler ; la qualité des études est inégale.",
+   "sources": [
+    "fellmeth2018"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "summary": "L'absence durable d'un parent est associée à plus de difficultés de comportement et d'adaptation sociale et émotionnelle, y compris dans les études qui contrôlent mieux les autres explications.",
+   "sources": [
+    "mclanahan2013",
+    "fellmeth2018"
+   ]
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "ten_usage_substances",
+   "strength": "limitee",
+   "summary": "Une méta-analyse observe un usage de substances un peu plus fréquent chez les enfants dont les parents sont partis travailler loin ; l'effet est modeste et à la limite de la significativité.",
+   "sources": [
+    "fellmeth2018"
    ]
   },
   {
@@ -2360,6 +4017,16 @@
    "sources": [
     "kosty2020",
     "rossow2016"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Les enfants de parents ayant un problème d'alcool rapportent plus souvent avoir pris soin de leur famille, matériellement et moralement. Les cliniciens décrivent ce rôle comme pouvant se poursuivre à l'âge adulte en donnant beaucoup et en demandant peu.",
+   "sources": [
+    "kelley2007",
+    "westkeller1991"
    ]
   },
   {
@@ -2379,6 +4046,25 @@
    "summary": "La codépendance a été proposée pour décrire les difficultés relationnelles des enfants de parents alcooliques, mais la notion manque de définition rigoureuse.",
    "sources": [
     "elguebaly1993"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "Grandir avec un parent ayant une addiction fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "summary": "Les difficultés familiales du type de l'addiction d'un parent sont associées à un sommeil un peu moins bon à l'âge adulte. Ce résultat repose sur peu d'études, qui regroupent plusieurs formes de difficultés familiales.",
+   "sources": [
+    "yu2022_sommeil"
    ]
   },
   {
@@ -2408,6 +4094,80 @@
    "summary": "L'incarcération d'un parent est associée à un risque un peu plus élevé de comportements antisociaux chez l'enfant, même en tenant compte de facteurs familiaux préexistants.",
    "sources": [
     "murray2012"
+   ]
+  },
+  {
+   "factor": "parent_incarcere",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "L'incarcération d'un parent fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Quand un parent a un cancer, l'humeur dépressive du parent et un fonctionnement familial difficile sont les facteurs les plus liés à l'adaptation de l'enfant ; plusieurs études décrivent aussi des effets positifs, comme une croissance après l'épreuve.",
+   "sources": [
+    "krattenmacher2012",
+    "walczak2018"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "icd_6c20",
+   "strength": "limitee",
+   "summary": "Une cohorte britannique relie une mauvaise santé des parents pendant l'adolescence à des symptômes physiques sans explication médicale à 36 ans, peut-être parce que l'expérience de la maladie apprend à surveiller ses sensations.",
+   "sources": [
+    "hotopf1999"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "pat_guilt",
+   "strength": "theorique",
+   "summary": "Le même modèle clinique relie la maladie d'un parent à une culpabilité dès que l'on met ses propres besoins en avant.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Selon un modèle clinique, la maladie grave d'un parent peut amener l'enfant à placer les besoins des autres avant les siens, une habitude qui peut persister sous la forme d'un rôle de sauveur.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "pat_parentification",
+   "strength": "limitee",
+   "summary": "Les jeunes qui aident un parent malade au quotidien ont en moyenne une moins bonne santé mentale et physique, selon des études presque toutes transversales.",
+   "sources": [
+    "lacey2022"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "ten_codependance",
+   "strength": "limitee",
+   "summary": "La même étude trouvait des scores de codépendance plus élevés chez les étudiants ayant eu un parent gravement malade, ce qui suggère que divers stress familiaux chroniques, et pas seulement l'alcool, comptent. Les mesures de codépendance restent fragiles.",
+   "sources": [
+    "fuller2000"
+   ]
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Une méta-analyse trouve un peu plus de difficultés internalisées (tristesse, anxiété) chez les enfants de parents atteints d'une maladie chronique, et très peu de différence pour le comportement. Le lien est plus net quand la maladie dure et quand l'enfant est jeune.",
+   "sources": [
+    "sieh2010"
    ]
   },
   {
@@ -2467,12 +4227,68 @@
   },
   {
    "factor": "parent_trouble",
+   "outcome": "pat_guilt",
+   "strength": "theorique",
+   "summary": "Un modèle clinique décrit une culpabilité de « responsabilité excessive » : penser que ses proches souffriront si l'on s'occupe de soi. Elle est reliée, entre autres, à des parents en souffrance psychique.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Selon un modèle clinique, un enfant dont le parent souffre psychiquement peut en venir à croire que ses proches iront mal s'il pense à lui-même, et garder ensuite une tendance à se charger du bien-être des autres.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
    "outcome": "pat_parentification",
    "strength": "limitee",
    "summary": "Les adolescents vivant avec un parent en souffrance psychique prennent souvent une part du rôle parental ; cette parentification est associée à plus de stress et de difficultés intériorisées.",
    "sources": [
     "vanloon2017",
     "hooper2011"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "sch_abnegation",
+   "strength": "theorique",
+   "summary": "Le schéma d'abnégation vise souvent à éviter de faire souffrir un proche perçu comme fragile ; un modèle clinique relie cette crainte à la souffrance psychique d'un parent.",
+   "sources": [
+    "young_schemas",
+    "gazzillo2026"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_codependance",
+   "strength": "limitee",
+   "summary": "Dans une étude chez des étudiants, avoir grandi avec un parent souffrant d'un trouble psychique était associé à des scores plus élevés de codépendance, au même titre qu'avec un parent alcoolique. La notion reste discutée et mal définie.",
+   "sources": [
+    "fuller2000"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "Grandir avec un parent en souffrance psychique fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "summary": "Les difficultés familiales du type de la souffrance psychique d'un parent sont associées à un sommeil un peu moins bon à l'âge adulte. Ce résultat repose sur peu d'études, qui regroupent plusieurs formes de difficultés familiales.",
+   "sources": [
+    "yu2022_sommeil"
    ]
   },
   {
@@ -2506,12 +4322,30 @@
   },
   {
    "factor": "parentification",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Dans le modèle clinique de la réponse d'apaisement, l'enfant qui se sent obligé de répondre aux besoins émotionnels de son parent peut garder une tendance à faire passer les autres avant lui pour préserver le lien.",
+   "sources": [
+    "schwartz_fawn"
+   ]
+  },
+  {
+   "factor": "parentification",
    "outcome": "pat_guilt",
    "strength": "theorique",
    "summary": "Dans le modèle de Young, un enfant qui doit veiller à ne pas peiner ses proches apprend à se sentir coupable dès qu'il pense à lui.",
    "sources": [
     "young2003",
     "carlucci2018"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "pat_needs_expression",
+   "strength": "theorique",
+   "summary": "Dans la théorie de l'attachement, l'enfant qui prend soin de son parent apprend à donner plutôt qu'à recevoir ; à l'âge adulte, il peut avoir du mal à exprimer un besoin ou à demander de l'aide, tout en gardant un fort besoin d'attention.",
+   "sources": [
+    "westkeller1991"
    ]
   },
   {
@@ -2544,6 +4378,55 @@
    ]
   },
   {
+   "factor": "parentification",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "summary": "Chez des adolescents, la parentification est associée à des amitiés proches moins satisfaisantes ; chez de jeunes adultes, à des modes relationnels plus conflictuels, sauf quand la personne y a aussi trouvé des bénéfices.",
+   "sources": [
+    "peris2008",
+    "gavcar2026"
+   ]
+  },
+  {
+   "factor": "pas_protege",
+   "outcome": "pat_self_criticism",
+   "strength": "limitee",
+   "summary": "Une étude transversale auprès d'étudiants trouve que peu de souvenirs de chaleur et de sécurité dans l'enfance vont de pair avec plus d'autocritique et de détresse.",
+   "sources": [
+    "richter2009"
+   ]
+  },
+  {
+   "factor": "pas_protege",
+   "outcome": "sch_carence_affective",
+   "strength": "theorique",
+   "summary": "Dans le modèle des schémas, la carence affective comprend le manque de protection : l'absence d'adultes forts sur lesquels s'appuyer.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "pas_protege",
+   "outcome": "sch_mefiance",
+   "strength": "theorique",
+   "summary": "Ne pas se sentir défendu peut laisser l'attente que les autres risquent de blesser ou de profiter de soi.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "pas_protege",
+   "outcome": "sch_vulnerabilite",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie l'absence de protection dans l'enfance à la peur qu'une catastrophe survienne sans pouvoir l'empêcher.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
    "factor": "precarite",
    "outcome": "att_desorganise",
    "strength": "moderee",
@@ -2560,6 +4443,91 @@
    "sources": [
     "reiss2013",
     "peverill2021"
+   ]
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "La pression scolaire est associée à plus d'anxiété chez les adolescents dans la plupart des études, souvent transversales.",
+   "sources": [
+    "steare2023"
+   ]
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Une revue de 52 études relie la pression scolaire à plus de symptômes dépressifs chez les adolescents ; la plupart des études sont transversales, ce qui ne permet pas d'établir le sens du lien.",
+   "sources": [
+    "steare2023"
+   ]
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "pat_conditional_worth",
+   "strength": "limitee",
+   "summary": "Des études sur l'estime conditionnelle montrent que, quand l'approbation des parents dépend des notes, les adolescents s'investissent davantage par contrainte intérieure que par intérêt.",
+   "sources": [
+    "roth2009"
+   ]
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "pat_perfectionism",
+   "strength": "moderee",
+   "summary": "Des méta-analyses associent des attentes parentales jugées excessives et la critique à davantage de perfectionnisme, en particulier au sentiment que les autres exigent la perfection de soi.",
+   "sources": [
+    "curran2022"
+   ]
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "sch_exigences_elevees",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie les exigences constantes de résultats à la conviction de devoir atteindre des standards très élevés pour éviter la critique.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Les méta-analyses associent les punitions corporelles à davantage de difficultés de santé mentale chez l'enfant, puis chez l'adulte qui les a reçues ; ces difficultés sont mesurées de façon globale et ne se limitent pas à la dépression.",
+   "sources": [
+    "gershoff2016",
+    "cuartas2025"
+   ]
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "limitee",
+   "summary": "Dans une grande étude rétrospective, les adultes qui ont reçu des fessées rapportent un peu plus souvent des tentatives de suicide, même en tenant compte des maltraitances physiques et psychologiques.",
+   "sources": [
+    "afifi2017"
+   ]
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "ten_externalisation",
+   "strength": "forte",
+   "summary": "Des méta-analyses et une revue de 69 études longitudinales concordent : les fessées et tapes sont associées à plus d'agressivité et de difficultés de comportement au fil du temps, sans bénéfice sur l'obéissance. Les effets ressemblent à ceux des maltraitances physiques, en moins marqués.",
+   "sources": [
+    "gershoff2016",
+    "heilmann2021",
+    "cuartas2025"
+   ]
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "ten_usage_substances",
+   "strength": "limitee",
+   "summary": "Une grande étude rétrospective (étude ACE) relie les fessées à plus de consommation d'alcool et de drogues à l'âge adulte, en plus de l'effet des maltraitances ; une méta-analyse menée dans les pays à revenu faible ou intermédiaire va dans le même sens.",
+   "sources": [
+    "afifi2017",
+    "cuartas2025"
    ]
   },
   {
@@ -2640,6 +4608,15 @@
     "carlucci2018"
    ],
    "definitional": true
+  },
+  {
+   "factor": "ressenti_colere_interdite",
+   "outcome": "ten_colere",
+   "strength": "theorique",
+   "summary": "Selon le modèle des schémas, réprimer sa colère pour se plier aux autres peut la faire s'accumuler et ressortir par des éclats, du ressentiment ou des symptômes physiques.",
+   "sources": [
+    "young_schemas"
+   ]
   },
   {
    "factor": "ressenti_honte",
@@ -2746,6 +4723,15 @@
    "summary": "Le sentiment de devoir mériter l'affection est associé à une estime de soi qui monte et descend avec les réussites.",
    "sources": [
     "assor2004"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "pat_impostor",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Clance et Imes, l'enfant présenté comme capable de tout réussir sans effort peut se sentir tenu de rester parfait et finir par douter de sa valeur réelle.",
+   "sources": [
+    "clance1978"
    ]
   },
   {
@@ -2960,6 +4946,43 @@
    "definitional": true
   },
   {
+   "factor": "se_sentir_different",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "summary": "Dans une grande étude américaine suivie jusqu'à l'âge adulte, les adolescents qui se sentaient peu reliés à leur école ou à leur famille rapportaient plus tard davantage de détresse émotionnelle.",
+   "sources": [
+    "steiner2019"
+   ]
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "pat_social_isolation",
+   "strength": "theorique",
+   "summary": "Se sentir à part peut pousser à se tenir en retrait des groupes, ce qui entretient l'isolement ; ce lien repose sur des modèles cliniques.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "sch_isolement",
+   "strength": "theorique",
+   "summary": "Le schéma d'isolement social se définit par le sentiment d'être différent des autres et de ne faire partie d'aucun groupe ; ce ressenti dans l'enfance en est très proche.",
+   "sources": [
+    "young_schemas"
+   ],
+   "definitional": true
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "limitee",
+   "summary": "Un faible sentiment d'appartenance à l'école à l'adolescence est associé, dans une grande cohorte, à plus d'idées suicidaires à l'âge adulte.",
+   "sources": [
+    "steiner2019"
+   ]
+  },
+  {
    "factor": "secret_famille",
    "outcome": "sch_mefiance",
    "strength": "limitee",
@@ -3152,6 +5175,16 @@
    ]
   },
   {
+   "factor": "surprotection",
+   "outcome": "ten_procrastination",
+   "strength": "limitee",
+   "summary": "Une parentalité très interventionniste (« parents hélicoptères ») est associée à plus de procrastination chez l'enfant et l'adolescent, en partie à travers une maîtrise de soi moins développée. Les études sont ponctuelles et faites dans un seul pays.",
+   "sources": [
+    "zhang2022_procrastination",
+    "wu2023_procrastination"
+   ]
+  },
+  {
    "factor": "temoin_violences",
    "outcome": "icd_6b40",
    "strength": "critere",
@@ -3186,6 +5219,25 @@
    "summary": "Les enfants qui grandissent dans la violence développent souvent une attention accrue aux signes de menace et de colère, une adaptation associée à des difficultés ultérieures.",
    "sources": [
     "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_sante_physique",
+   "strength": "limitee",
+   "summary": "Voir de la violence entre adultes à la maison fait partie des expériences adverses étudiées dans les grandes enquêtes. Le lien avec la santé physique adulte (cœur, poumons, santé ressentie) a surtout été mesuré pour le cumul de plusieurs expériences adverses, plus que pour celle-ci seule.",
+   "sources": [
+    "felitti1998",
+    "hughes2017"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "summary": "Les difficultés familiales du type de la violence entre adultes à la maison sont associées à un sommeil un peu moins bon à l'âge adulte. Ce résultat repose sur peu d'études, qui regroupent plusieurs formes de difficultés familiales.",
+   "sources": [
+    "yu2022_sommeil"
    ]
   },
   {
@@ -3262,6 +5314,138 @@
    "sources": [
     "cim11_cddr_stress",
     "alisic2014"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "summary": "La prise à partie dans les conflits parentaux est reliée aux difficultés dites internalisées (anxiété et tristesse), notamment par une réactivité émotionnelle accrue aux disputes.",
+   "sources": [
+    "buehler2009",
+    "vandijk2020"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Être pris à partie dans les conflits des parents est associé, dans des études suivies sur plusieurs années, à une hausse des symptômes dépressifs ou anxieux à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant.",
+   "sources": [
+    "buehler2009",
+    "franck2007",
+    "vandijk2020",
+    "wang2024_triangulation"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_conflict",
+   "strength": "theorique",
+   "summary": "Dans l'approche systémique de Bowen, l'enfant pris entre deux parents apprend que tout désaccord menace l'équilibre familial ; on suppose que cela rend plus difficile, plus tard, de vivre un désaccord sans se sentir en danger.",
+   "sources": [
+    "wang2026_bowen",
+    "fosco2016"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_guilt",
+   "strength": "theorique",
+   "summary": "Les études sur les conflits parentaux observent que le sentiment d'être fautif et la prise à partie vont souvent ensemble ; on suppose qu'ils nourrissent une culpabilité durable.",
+   "sources": [
+    "fosco2016",
+    "fosco2016_profils",
+    "grych1990"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Un enfant chargé d'apaiser ou d'arbitrer les conflits des adultes peut garder l'habitude de se sentir responsable du bien-être des autres, ce que l'on décrit comme un rôle de sauveur ; ce lien repose surtout sur des modèles cliniques.",
+   "sources": [
+    "peris2008",
+    "wang2024_triangulation",
+    "wang2026_bowen"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_parentification",
+   "strength": "limitee",
+   "summary": "Servir de confident ou de soutien à un parent pendant ses conflits fait partie des formes de prise à partie décrites par les chercheurs ; elle peut amener l'enfant à porter des responsabilités d'adulte.",
+   "sources": [
+    "wang2024_triangulation",
+    "vandijk2020"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "limitee",
+   "summary": "Une étude transversale auprès d'adolescents relie certaines formes de prise à partie (coalition avec un parent, être visé à la place de l'autre) à davantage d'automutilations, en partie par une moindre capacité à se différencier de sa famille.",
+   "sources": [
+    "wang2026_bowen"
+   ]
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "summary": "Dans une étude sur six mois, les adolescents pris à partie dans les conflits de leurs parents avaient plus de paroles blessantes avec leur partenaire, mais aussi plus d'efforts pour résoudre les désaccords.",
+   "sources": [
+    "fosco2016_dating"
+   ]
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Le harcèlement répété dans la fratrie est associé à plus d'anxiété au début de l'âge adulte ; il s'ajoute souvent au harcèlement à l'école, et le cumul des deux pèse davantage.",
+   "sources": [
+    "bowes2014",
+    "wolke2015"
+   ]
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "dep_generale",
+   "strength": "moderee",
+   "summary": "Dans une grande cohorte britannique, les enfants souvent harcelés par un frère ou une sœur à 12 ans présentent plus souvent une dépression à 18 ans, même en tenant compte d'autres difficultés familiales.",
+   "sources": [
+    "bowes2014",
+    "wolke2015",
+    "laopratai2023"
+   ]
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "icd_6a20",
+   "strength": "limitee",
+   "summary": "Une cohorte britannique trouve un risque plus élevé de trouble psychotique à 18 ans chez les enfants impliqués dans un harcèlement fréquent entre frères et sœurs, avec un effet dose ; c'est une seule cohorte et ces troubles restent rares.",
+   "sources": [
+    "dantchev2018"
+   ]
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "sch_mefiance",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie le fait d'avoir été humilié ou dominé à la maison à l'attente que les autres finiront par blesser ou profiter de soi.",
+   "sources": [
+    "young_schemas",
+    "wolke2015"
+   ]
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "Les enfants souvent harcelés par un frère ou une sœur rapportent plus souvent des automutilations au début de l'âge adulte.",
+   "sources": [
+    "bowes2014",
+    "wolke2015"
    ]
   }
  ],
@@ -3388,6 +5572,13 @@
  },
  "sources": [
   {
+   "id": "afifi2017",
+   "citation": "Afifi TO, Ford D, Gershoff ET, et al., 2017, Spanking and adult mental health impairment: the case for the designation of spanking as an adverse childhood experience, Child Abuse & Neglect 71:24-31",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28126359/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "alisic2014",
    "citation": "Alisic E, Zalta AK, van Wesel F, et al., 2014, Rates of post-traumatic stress disorder in trauma-exposed children and adolescents: meta-analysis, British Journal of Psychiatry 204(5):335-340",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24785767/",
@@ -3400,6 +5591,13 @@
    "url": "https://doi.org/10.1037/0893-3200.15.3.355",
    "type": "meta-analyse",
    "read": "résumé"
+  },
+  {
+   "id": "amato2016_beauxparents",
+   "citation": "Amato PR, King V, Thorsen ML, 2016, Parent-child relationships in stepfather families and adolescent adjustment: a latent class analysis, Journal of Marriage and Family 78(2):482-497",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4807600/",
+   "type": "etude",
+   "read": "texte intégral (PMC4807600), résultats et discussion"
   },
   {
    "id": "angelakis2019",
@@ -3416,10 +5614,31 @@
    "read": "résumé"
   },
   {
+   "id": "antelo2021",
+   "citation": "Antelo E, Saldaña O, Rodríguez-Carballeira Á, 2021, The impact of group psychological abuse on distress: the mediating role of social functioning and resilience, European Journal of Psychotraumatology 12(1):1954776",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34408819/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "aran2024",
    "citation": "Aran Ö et al., 2024, Across ages and places: unpredictability of maternal sensory signals and child internalizing behaviors, Journal of Affective Disorders 347:557-567",
    "url": "https://pubmed.ncbi.nlm.nih.gov/38007106/",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "arriola2005",
+   "citation": "Arriola KR, Louden T, Doldren MA, Fortenberry RM, 2005, A meta-analysis of the relationship of child sexual abuse to HIV risk behavior among women, Child Abuse & Neglect 29(6):725-746",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15979712/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "askeland2017",
+   "citation": "Askeland KG, Hysing M, La Greca AM, et al., 2017, Mental health in internationally adopted adolescents: a meta-analysis, Journal of the American Academy of Child and Adolescent Psychiatry 56(3):203-213",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28219486/",
+   "type": "meta-analyse",
    "read": "résumé"
   },
   {
@@ -3486,11 +5705,32 @@
    "read": "résumé"
   },
   {
+   "id": "bowes2014",
+   "citation": "Bowes L, Wolke D, Joinson C, Lereya ST, Lewis G, 2014, Sibling bullying and risk of depression, anxiety, and self-harm: a prospective cohort study, Pediatrics 134(4):e1032-e1039",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25201801/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "buehler2009",
+   "citation": "Buehler C, Welsh DP, 2009, A process model of adolescents' triangulation into parents' marital conflict: the role of emotional reactivity, Journal of Family Psychology 23(2):167-180",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19364211/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "burrell2022",
    "citation": "Burrell LV, Mehlum L, Qin P, 2022, Parental death by external causes during childhood and risk of psychiatric disorders in bereaved offspring, Child and Adolescent Mental Health",
    "url": "https://doi.org/10.1111/camh.12470",
    "type": "etude",
    "read": "résumé"
+  },
+  {
+   "id": "bussieres2023",
+   "citation": "Bussières A, Hancock MJ, Elklit A, et al., 2023, Adverse childhood experience is associated with an increased risk of reporting chronic pain in adulthood: a systematic review and meta-analysis, European Journal of Psychotraumatology 14(2):2284025",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38111090/",
+   "type": "meta-analyse",
+   "read": "résumé et résultats du texte intégral (PMC10993817)"
   },
   {
    "id": "caba2026",
@@ -3542,6 +5782,13 @@
    "read": "résumé"
   },
   {
+   "id": "chokhani2026",
+   "citation": "Chokhani R, Lloyd A, Viding E, Gerin M, McCrory E, 2026, Linking interpersonal childhood adversity to mental health: a scoping review of trust, mentalizing, agency and interpersonal emotion regulation as candidate social-transactional mechanisms, Clinical Psychology Review 125:102722",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41762964/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
    "id": "christina2021",
    "citation": "Christina S, Magson NR, Kakar V, Rapee RM, 2021, The bidirectional relationships between peer victimization and internalizing problems in school-aged children: an updated systematic review and meta-analysis, Clinical Psychology Review 85:101979",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33610956/",
@@ -3554,6 +5801,13 @@
    "url": "https://iris.who.int/handle/10665/375767",
    "type": "classification",
    "read": "section"
+  },
+  {
+   "id": "clance1978",
+   "citation": "Clance PR, Imes SA, 1978, The imposter phenomenon in high achieving women: dynamics and therapeutic intervention, Psychotherapy: Theory, Research & Practice 15(3):241-247",
+   "url": "https://paulineroseclance.com/pdf/ip_high_achieving_women.pdf",
+   "type": "theorie",
+   "read": "texte intégral"
   },
   {
    "id": "copeland2007",
@@ -3577,6 +5831,20 @@
    "read": "résumé"
   },
   {
+   "id": "crowell2009_divorce",
+   "citation": "Crowell JA, Treboux D, Brockmeyer S, 2009, Parental divorce and adult children's attachment representations and marital status, Attachment & Human Development 11(1):87-101",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19197705/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "cuartas2025",
+   "citation": "Cuartas J, Gershoff ET, Bailey DH, Gutiérrez MA, McCoy DC, 2025, Physical punishment and lifelong outcomes in low- and middle-income countries: a systematic review and multilevel meta-analysis, Nature Human Behaviour 9(7):1365-1379",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40325199/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "cunningham2016",
    "citation": "Cunningham T, Hoy K, Shannon C, 2016, Does childhood bullying lead to the development of psychotic symptoms? A meta-analysis and review of prospective studies, Psychosis 8(1):48-59",
    "url": "https://ideas.repec.org/a/taf/rpsyxx/v8y2016i1p48-59.html",
@@ -3591,10 +5859,45 @@
    "read": "résumé"
   },
   {
+   "id": "currie2010",
+   "citation": "Currie J, Widom CS, 2010, Long-term consequences of child abuse and neglect on adult economic well-being, Child Maltreatment 15(2):111-120",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20425881/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "cyr2010",
    "citation": "Cyr C, Euser EM, Bakermans-Kranenburg MJ, van IJzendoorn MH, 2010, Attachment security and disorganization in maltreating and high-risk families: a series of meta-analyses, Development and Psychopathology",
    "url": "https://doi.org/10.1017/S0954579409990289",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "danese2014",
+   "citation": "Danese A, Tan M, 2014, Childhood maltreatment and obesity: systematic review and meta-analysis, Molecular Psychiatry 19(5):544-554",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23689533/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "dantchev2018",
+   "citation": "Dantchev S, Zammit S, Wolke D, 2018, Sibling bullying in middle childhood and psychotic disorder at 18 years: a prospective cohort study, Psychological Medicine 48(14):2321-2328",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29429415/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "davies1994",
+   "citation": "Davies PT, Cummings EM, 1994, Marital conflict and child adjustment: an emotional security hypothesis, Psychological Bulletin 116(3):387-411",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7809306/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "davies2002",
+   "citation": "Davies PT, Harold GT, Goeke-Morey MC, Cummings EM, et al., 2002, Child emotional security and interparental conflict, Monographs of the Society for Research in Child Development 67(3):1-115",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12528424/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -3640,6 +5943,13 @@
    "read": "résumé"
   },
   {
+   "id": "favez2019",
+   "citation": "Favez N, Widmer ED, Frascarolo F, Doan MT, 2019, Mother-stepfather coparenting in stepfamilies as predictor of child adjustment, Family Process 58(2):446-462",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29626358/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "fazel2005",
    "citation": "Fazel M, Wheeler J, Danesh J, 2005, Prevalence of serious mental disorder in 7000 refugees resettled in western countries: a systematic review, Lancet 365(9467):1309-1314",
    "url": "https://pubmed.ncbi.nlm.nih.gov/15823380/",
@@ -3661,9 +5971,51 @@
    "read": "résumé"
   },
   {
+   "id": "fellmeth2018",
+   "citation": "Fellmeth G, Rose-Clarke K, Zhao C, et al., 2018, Health impacts of parental migration on left-behind children and adolescents: a systematic review and meta-analysis, Lancet 392(10164):2567-2582",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30528471/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "finzidottan2024",
+   "citation": "Finzi-Dottan R, Abadi H, 2024, From emotional abuse to a fear of intimacy: a preliminary study of the mediating role of attachment styles and rejection sensitivity, International Journal of Environmental Research and Public Health 21(12):1679",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39767518/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "fisher2012",
    "citation": "Fisher HL, Moffitt TE, Houts RM, et al., 2012, Bullying victimisation and risk of self harm in early adolescence: longitudinal cohort study, BMJ 344:e2683",
    "url": "https://pubmed.ncbi.nlm.nih.gov/22539176/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "flor2025",
+   "citation": "Flor LS, Stein C, Gil GF, et al., 2025, Health effects associated with exposure of children to physical violence, psychological violence and neglect: a Burden of Proof study, Nature Human Behaviour 9:1217-1236",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40210705/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "fosco2016",
+   "citation": "Fosco GM, Bray BC, 2016, Profiles of cognitive appraisals and triangulation into interparental conflict: implications for adolescent adjustment, Journal of Family Psychology 30(5):533-542",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26963695/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "fosco2016_dating",
+   "citation": "Fosco GM, Xia M, Lynn MG, Grych JH, 2016, Triangulation and parent-adolescent relationships: implications for adolescent dating competence and abuse, Journal of Research on Adolescence 26(3):524-537",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28581646/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "fosco2016_profils",
+   "citation": "Fosco GM, Bray BC, 2016, Profiles of cognitive appraisals and triangulation into interparental conflict: implications for adolescent adjustment, Journal of Family Psychology 30(5):533-542",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26963695/",
    "type": "etude",
    "read": "résumé"
   },
@@ -3703,6 +6055,13 @@
    "read": "section"
   },
   {
+   "id": "franck2007",
+   "citation": "Franck KL, Buehler C, 2007, A family process model of marital hostility, parental depressive affect, and early adolescent problem behavior: the roles of triangulation and parental warmth, Journal of Family Psychology 21(4):614-625",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18179333/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "franssens2021",
    "citation": "Franssens R, Abrahams L, Brenning K, Van Leeuwen K, De Clercq B, 2021, Unraveling prospective reciprocal effects between parental invalidation and pre-adolescents' borderline traits, Research on Child and Adolescent Psychopathology 49(10):1387-1401",
    "url": "https://pubmed.ncbi.nlm.nih.gov/34021460/",
@@ -3717,10 +6076,38 @@
    "read": "résumé"
   },
   {
+   "id": "fuller2000",
+   "citation": "Fuller JA, Warner RM, 2000, Family stressors as predictors of codependency, Genetic, Social, and General Psychology Monographs 126(1):5-22",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10713899/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "gavcar2026",
    "citation": "Gavcar EG, Gavcar E, 2026, When caring becomes a burden: childhood parentification and its links to relationship styles, depression, and anxiety in young adults, BMC Psychology 14:332",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41652497/",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "gazzillo2026",
+   "citation": "Gazzillo F, Fiorenza E, Rodini M, Bush M, 2026, Omnipotent responsibility guilt: theoretical, clinical, and empirical features, Psychodynamic Psychiatry 54(1):76-96",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41849147/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "gershoff2016",
+   "citation": "Gershoff ET, Grogan-Kaylor A, 2016, Spanking and child outcomes: old controversies and new meta-analyses, Journal of Family Psychology 30(4):453-469",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27055181/",
+   "type": "meta-analyse",
+   "read": "résumé PubMed et communiqué de l'Université du Texas (25 avril 2016)"
+  },
+  {
+   "id": "gini2013",
+   "citation": "Gini G, Pozzoli T, 2013, Bullied children and psychosomatic problems: a meta-analysis, Pediatrics 132(4):720-729",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24043275/",
+   "type": "meta-analyse",
    "read": "résumé"
   },
   {
@@ -3759,6 +6146,20 @@
    "read": "résumé"
   },
   {
+   "id": "grych1990",
+   "citation": "Grych JH, Fincham FD, 1990, Marital conflict and children's adjustment: a cognitive-contextual framework, Psychological Bulletin 108(2):267-290",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2236384/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "grych2004",
+   "citation": "Grych JH, Raynor SR, Fosco GM, 2004, Family processes that shape the impact of interparental conflict on adolescents, Development and Psychopathology 16(3):649-665",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15605630/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "guldin2015",
    "citation": "Guldin MB, Li J, Pedersen HS, et al., 2015, Incidence of suicide among persons who had a parent who died during their childhood: a population-based cohort study, JAMA Psychiatry",
    "url": "https://doi.org/10.1001/jamapsychiatry.2015.2094",
@@ -3769,6 +6170,41 @@
    "id": "hailes2019",
    "citation": "Hailes HP, Yu R, Danese A, Fazel S, 2019, Long-term outcomes of childhood sexual abuse: an umbrella review, Lancet Psychiatry",
    "url": "https://doi.org/10.1016/S2215-0366(19)30286-X",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "haines2006",
+   "citation": "Haines J, Neumark-Sztainer D, Eisenberg ME, Hannan PJ, 2006, Weight teasing and disordered eating behaviors in adolescents: longitudinal findings from Project EAT, Pediatrics 117(2):e209-e215",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16452330/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "hao2024",
+   "citation": "Hao F, Li P, Liang Z, Geng J, 2024, The association between childhood adverse experiences and internet addiction: a meta-analysis, Acta Psychologica 246:104270",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38631153/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hauser2011",
+   "citation": "Häuser W, Kosseva M, Üceyler N, Klose P, Sommer C, 2011, Emotional, physical, and sexual abuse in fibromyalgia syndrome: a systematic review with meta-analysis, Arthritis Care & Research 63(6):808-820",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20722042/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "heilmann2021",
+   "citation": "Heilmann A, Mehay A, Watt RG, et al., 2021, Physical punishment and child outcomes: a narrative review of prospective studies, Lancet 398(10297):355-364",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34197808/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "hemmingsson2014",
+   "citation": "Hemmingsson E, Johansson K, Reynisdottir S, 2014, Effects of childhood abuse on adult obesity: a systematic review and meta-analysis, Obesity Reviews 15(11):882-893",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25123205/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -3784,6 +6220,13 @@
    "citation": "Hiller RM, Meiser-Stedman R, Fearon P, et al., 2016, Changes in the prevalence and symptom severity of child post-traumatic stress disorder in the year following trauma: a meta-analytic study, Journal of Child Psychology and Psychiatry 57(8):884-898",
    "url": "https://pubmed.ncbi.nlm.nih.gov/27169987/",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hjern2002",
+   "citation": "Hjern A, Lindblad F, Vinnerljung B, 2002, Suicide, psychiatric illness, and social maladjustment in intercountry adoptees in Sweden: a cohort study, Lancet 360(9331):443-448",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12241716/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -3808,10 +6251,31 @@
    "read": "résumé"
   },
   {
+   "id": "huang2015_diabete",
+   "citation": "Huang H, Yan P, Shan Z, et al., 2015, Adverse childhood experiences and risk of type 2 diabetes: a systematic review and meta-analysis, Metabolism 64(11):1408-1418",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26404480/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "hughes2017",
    "citation": "Hughes K, Bellis MA, et al., 2017, The effect of multiple adverse childhood experiences on health: a systematic review and meta-analysis, Lancet Public Health",
    "url": "https://doi.org/10.1016/S2468-2667(17)30118-4",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "irish2010",
+   "citation": "Irish L, Kobayashi I, Delahanty DL, 2010, Long-term physical health consequences of childhood sexual abuse: a meta-analytic review, Journal of Pediatric Psychology 35(5):450-461",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20022919/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "jelleyman2008",
+   "citation": "Jelleyman T, Spencer N, 2008, Residential mobility in childhood and health outcomes: a systematic review, Journal of Epidemiology and Community Health 62(7):584-592",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18559440/",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -3822,9 +6286,23 @@
    "read": "résumé"
   },
   {
+   "id": "jiang2025",
+   "citation": "Jiang H, Yan Y, Zhang Y, 2025, The relationship between interparental conflict and depressive symptoms spanning from childhood to youth: a systematic review and meta-analysis, Journal of Youth and Adolescence 54(10):2419-2440",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40779230/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "johnson2017",
    "citation": "Johnson AM, Hawes DJ, Eisenberg N, Kohlhoff J, Dudeney J, 2017, Emotion socialization and child conduct problems: a comprehensive review and meta-analysis, Clinical Psychology Review 54:65-80",
    "url": "https://pubmed.ncbi.nlm.nih.gov/28414957/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "juffer2005",
+   "citation": "Juffer F, van IJzendoorn MH, 2005, Behavior problems and mental health referrals of international adoptees: a meta-analysis, JAMA 293(20):2501-2515",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15914751/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -3839,6 +6317,13 @@
    "id": "kelley2007",
    "citation": "Kelley ML, French A, Bountress K, et al., 2007, Parentification and family responsibility in the family of origin of adult children of alcoholics, Addictive Behaviors",
    "url": "https://doi.org/10.1016/j.addbeh.2006.06.010",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "keyes2013",
+   "citation": "Keyes MA, Malone SM, Sharma A, Iacono WG, McGue M, 2013, Risk of suicide attempt in adopted and nonadopted offspring, Pediatrics 132(4):639-646",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24019414/",
    "type": "etude",
    "read": "résumé"
   },
@@ -3878,10 +6363,31 @@
    "read": "résumé"
   },
   {
+   "id": "krattenmacher2012",
+   "citation": "Krattenmacher T, Kühne F, Ernst J, et al., 2012, Parental cancer: factors associated with children's psychosocial adjustment, a systematic review, Journal of Psychosomatic Research 72(5):344-356",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22469276/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "lacey2014",
+   "citation": "Lacey RE, Kumari M, Bartley M, 2014, Social isolation in childhood and adult inflammation: evidence from the National Child Development Study, Psychoneuroendocrinology 50:85-94",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25197797/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "lacey2022",
    "citation": "Lacey RE, Xue B, McMunn A, 2022, The mental and physical health of young carers: a systematic review, Lancet Public Health",
    "url": "https://doi.org/10.1016/S2468-2667(22)00161-X",
    "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "laopratai2023",
+   "citation": "Laopratai M, Jirakran K, Chonchaiya W, 2023, Factors affecting sibling bullying and its association with self-esteem and depression in middle school students, European Journal of Pediatrics 182(8):3501-3509",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37191689/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -3896,6 +6402,13 @@
    "citation": "Lawrence PJ, Murayama K, Creswell C, 2019, Systematic review and meta-analysis: anxiety and depressive disorders in offspring of parents with anxiety disorders, Journal of the American Academy of Child and Adolescent Psychiatry",
    "url": "https://doi.org/10.1016/j.jaac.2018.07.898",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "layyee2023",
+   "citation": "Lay-Yee R, Matthews T, Moffitt T, et al., 2023, Are trajectories of social isolation from childhood to mid-adulthood associated with adult depression or suicide outcomes, Social Psychiatry and Psychiatric Epidemiology 58(3):373-382",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36456781/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -3920,9 +6433,23 @@
    "read": "résumé"
   },
   {
+   "id": "li2019_ipv",
+   "citation": "Li S, Zhao F, Yu G, 2019, Childhood maltreatment and intimate partner violence victimization: a meta-analysis, Child Abuse & Neglect 88:212-224",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30537622/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "li2026",
    "citation": "Li S, Ma Y, Cao Y, et al., 2026, Childhood maltreatment and adult attachment: a three-level meta-analytic review, Trauma, Violence, & Abuse",
    "url": "https://doi.org/10.1177/15248380261455767",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "liu2024_migraine",
+   "citation": "Liu J, Guo Y, Huang Z, Zhu J, Li Y, 2024, Childhood abuse and risk of migraine: a systematic review and meta-analysis, Child Abuse & Neglect 155:106961",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39096662/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -3934,6 +6461,13 @@
    "read": "résumé"
   },
   {
+   "id": "lynch2026",
+   "citation": "Lynch M, Curtis A, Howard S, Ahern E, Terracciano A, O'Súilleabháin PS, 2026, Childhood maltreatment and anger expression in adulthood: a systematic review and meta-analysis, Psychological Trauma",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41910545/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "madigan2006",
    "citation": "Madigan S, Bakermans-Kranenburg MJ, Van IJzendoorn MH, Moran G, Pederson DR, Benoit D, 2006, Unresolved states of mind, anomalous parental behavior, and disorganized attachment: a review and meta-analysis of a transmission gap, Attachment & Human Development 8(2):89-111",
    "url": "https://pubmed.ncbi.nlm.nih.gov/16818417/",
@@ -3941,10 +6475,24 @@
    "read": "résumé"
   },
   {
+   "id": "marin2021",
+   "citation": "Marin TJ, Lewinson RE, Hayden JA, et al., 2021, A systematic review of the prospective relationship between child maltreatment and chronic pain, Children 8(9):806",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34572238/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
    "id": "martins2000",
    "citation": "Martins C, Gaffan EA, 2000, Effects of early maternal depression on patterns of infant-mother attachment: a meta-analytic investigation, Journal of Child Psychology and Psychiatry",
    "url": "https://pubmed.ncbi.nlm.nih.gov/11039686/",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "matthews2016",
+   "citation": "Matthews T, Danese A, Wertz J, et al., 2016, Social isolation, loneliness and depression in young adulthood: a behavioural genetic analysis, Social Psychiatry and Psychiatric Epidemiology 51(3):339-348",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26843197/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -3959,6 +6507,13 @@
    "citation": "McKay MT, Kilmartin L, Meagher A, et al., 2022, A revised and extended systematic review and meta-analysis of the relationship between childhood adversity and adult psychiatric disorder, Journal of Psychiatric Research",
    "url": "https://doi.org/10.1016/j.jpsychires.2022.10.015",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "mclanahan2013",
+   "citation": "McLanahan S, Tach L, Schneider D, 2013, The causal effects of father absence, Annual Review of Sociology 39:399-427",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24489431/",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -3990,10 +6545,31 @@
    "read": "résumé"
   },
   {
+   "id": "meng2026",
+   "citation": "Meng X, Han C, Chen J, Zhou C, Assink M, Gao S, 2026, Child maltreatment as a risk factor for shame: a three-level meta-analytic review, Child Abuse & Neglect 178:108176",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42314249/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "menzel2010",
+   "citation": "Menzel JE, Schaefer LM, Burke NL, et al., 2010, Appearance-related teasing, body dissatisfaction, and disordered eating: a meta-analysis, Body Image 7(4):261-270",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20655287/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "meyer2003",
    "citation": "Meyer IH, 2003, Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: conceptual issues and research evidence, Psychological Bulletin 129(5):674-697",
    "url": "https://pubmed.ncbi.nlm.nih.gov/12956539/",
    "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "mikulincer2019",
+   "citation": "Mikulincer M, Shaver PR, 2019, Attachment orientations and emotion regulation, Current Opinion in Psychology 25:6-10",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29494853/",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -4015,6 +6591,13 @@
    "citation": "Murray J, Farrington DP, Sekol I, 2012, Children's antisocial behavior, mental health, drug use, and educational performance after parental incarceration: a systematic review and meta-analysis, Psychological Bulletin",
    "url": "https://doi.org/10.1037/a0026407",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "naddour2026",
+   "citation": "Naddour M, Tafflet M, Heude B, et al., 2026, Type, number and timing of family structure transitions and their association with internalizing and externalizing problems in early adolescence: evidence from the French EDEN cohort, Social Psychiatry and Psychiatric Epidemiology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42616063/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4064,6 +6647,20 @@
    "citation": "Paradies Y, Ben J, Denson N, et al., 2015, Racism as a determinant of health: a systematic review and meta-analysis, PLoS One 10(9):e0138511",
    "url": "https://pubmed.ncbi.nlm.nih.gov/26398658/",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "peris2008",
+   "citation": "Peris TS, Goeke-Morey MC, Cummings EM, Emery RE, 2008, Marital conflict and support seeking by parents in adolescence: empirical support for the parentification construct, Journal of Family Psychology 22(4):633-642",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18729677/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "peter2026",
+   "citation": "Peter L, Sitarski E, Kobel S, et al., 2026, Childhood emotional maltreatment and psychosocial functioning in adulthood: associations with generalized interpersonal trust, life satisfaction, and self-reported psychiatric morbidity in a representative German sample, Child Abuse & Neglect 177:108131",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42166821/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4137,9 +6734,37 @@
    "read": "résumé"
   },
   {
+   "id": "puhl2017",
+   "citation": "Puhl RM, Wall MM, Chen C, et al., 2017, Experiences of weight teasing in adolescence and weight-related outcomes in adulthood: a 15-year longitudinal study, Preventive Medicine 100:173-179",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28450124/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "qu2024",
+   "citation": "Qu G, Shu L, Liu H, et al., 2024, Association between adverse childhood experiences and academic performance among children and adolescents: a global meta-analysis, Trauma, Violence, & Abuse 25(4):3332-3345",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38651820/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "rakovski2024",
    "citation": "Rakovski C, Lalli G, Gu J, et al., 2024, Childhood maltreatment as a predictor of substance use/misuse among youth: a systematic review and meta-analysis, Neuroscience & Biobehavioral Reviews",
    "url": "https://doi.org/10.1016/j.neubiorev.2024.105873",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "raley2020",
+   "citation": "Raley RK, Sweeney MM, 2020, Divorce, repartnering, and stepfamilies: a decade in review, Journal of Marriage and Family 82(1):81-99",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38283127/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "ran2021",
+   "citation": "Ran G, Niu X, Zhang Q, et al., 2021, The association between interparental conflict and youth anxiety: a three-level meta-analysis, Journal of Youth and Adolescence 50(4):599-612",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33449287/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -4161,6 +6786,20 @@
    "id": "reiss2013",
    "citation": "Reiss F, 2013, Socioeconomic inequalities and mental health problems in children and adolescents: a systematic review, Social Science & Medicine",
    "url": "https://doi.org/10.1016/j.socscimed.2013.04.026",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "rhoades2008",
+   "citation": "Rhoades KA, 2008, Children's responses to interparental conflict: a meta-analysis of their associations with child adjustment, Child Development 79(6):1942-1956",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19037959/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "richter2009",
+   "citation": "Richter A, Gilbert P, McEwan K, 2009, Development of an early memories of warmth and safeness scale and its relationship to psychopathology, Psychology and Psychotherapy 82(2):171-184",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19171085/",
    "type": "etude",
    "read": "résumé"
   },
@@ -4200,11 +6839,46 @@
    "read": "résumé"
   },
   {
+   "id": "saldana2022",
+   "citation": "Saldaña O, Wu-Salmeron O, Antelo E, Rodríguez-Carballeira Á, 2022, The negative impact of group psychological abuse on life satisfaction and well-being, Journal of Interpersonal Violence 37(19-20):NP18865-NP18887",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34445910/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "samara2021",
+   "citation": "Samara M, Da Silva Nascimento B, El-Asam A, Hammuda S, Khattab N, 2021, How can bullying victimisation lead to lower academic achievement? A systematic review and meta-analysis of the mediating role of cognitive-motivational factors, International Journal of Environmental Research and Public Health 18(5):2209",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33668095/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "sanders2014",
+   "citation": "Sanders A, Szymanski K, Fiori K, 2014, The family roles of siblings of people diagnosed with a mental disorder: heroes and lost children, International Journal of Psychology 49(4):257-262",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24990636/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "schmitt2014",
    "citation": "Schmitt MT, Branscombe NR, Postmes T, Garcia A, 2014, The consequences of perceived discrimination for psychological well-being: a meta-analytic review, Psychological Bulletin 140(4):921-948",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24547896/",
    "type": "meta-analyse",
    "read": "résumé"
+  },
+  {
+   "id": "schonning2022",
+   "citation": "Schønning V, Sivertsen B, Hysing M, Dovran A, Askeland KG, 2022, Childhood maltreatment and sleep in children and adolescents: a systematic review and meta-analysis, Sleep Medicine Reviews 63:101617",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35313257/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "schwartz_fawn",
+   "citation": "Schwartz A, s. d., The fawn response in complex PTSD (présentation clinique du modèle de P. Walker, Complex PTSD: From Surviving to Thriving, 2013)",
+   "url": "https://drarielleschwartz.com/the-fawn-response-in-complex-ptsd-dr-arielle-schwartz",
+   "type": "theorie",
+   "read": "page"
   },
   {
    "id": "secinti2017",
@@ -4225,6 +6899,13 @@
    "citation": "Selten JP, Alrashed R, Oh H, et al., 2024, Psychosis risk for lesbian, gay, and bisexual individuals: systematic review and meta-analysis, Psychological Medicine",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39320443/",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "shahab2025",
+   "citation": "Shahab MK, Elzinga BM, Spinhoven P, et al., 2025, Footprints from childhood: intra- versus extra-familial childhood maltreatment and attachment to romantic partners in adulthood, BMC Psychology 13:643",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40597386/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4249,10 +6930,31 @@
    "read": "résumé"
   },
   {
+   "id": "simsek2021",
+   "citation": "Simsek M, Costa R, de Valk HAG, 2021, Childhood residential mobility and health outcomes: a meta-analysis, Health & Place 71:102650",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34428708/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "sonugabarke2017",
    "citation": "Sonuga-Barke EJS, Kennedy M, Kumsta R, et al., 2017, Child-to-adult neurodevelopmental and mental health trajectories after early life deprivation: the young adult follow-up of the longitudinal English and Romanian Adoptees study, Lancet 389(10078):1539-1548",
    "url": "https://pubmed.ncbi.nlm.nih.gov/28237264/",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "souama2023",
+   "citation": "Souama C, Lamers F, Milaneschi Y, et al., 2023, Depression, cardiometabolic disease, and their co-occurrence after childhood maltreatment: an individual participant data meta-analysis including over 200,000 participants, BMC Medicine 21:93",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36907864/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "steare2023",
+   "citation": "Steare T, Gutiérrez Muñoz C, Sullivan A, Lewis G, 2023, The association between academic pressure and adolescent mental health problems: a systematic review, Journal of Affective Disorders 339:302-317",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37437728/",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -4270,10 +6972,24 @@
    "read": "résumé"
   },
   {
+   "id": "tang2024",
+   "citation": "Tang H, Li Y, Dong W, et al., 2024, The relationship between childhood trauma and internet addiction in adolescents: a meta-analysis, Journal of Behavioral Addictions 13(1):36-50",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38340148/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "thapar2017",
    "citation": "Thapar A, Cooper M, Rutter M, 2017, Neurodevelopmental disorders, Lancet Psychiatry 4(4):339-346",
    "url": "https://pubmed.ncbi.nlm.nih.gov/27979720/",
    "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "thompson2022",
+   "citation": "Thompson KN, Odgers CL, Bryan BT, et al., 2022, Trajectories of childhood social isolation in a nationally representative cohort: associations with antecedents and early adulthood outcomes, JCPP Advances 2(2):e12073",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37431453/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4319,9 +7035,23 @@
    "read": "résumé"
   },
   {
+   "id": "vandijk2020",
+   "citation": "van Dijk R, van der Valk IE, Deković M, Branje S, 2020, A meta-analysis on interparental conflict, parenting, and child adjustment in divorced families: examining mediation using meta-analytic structural equation models, Clinical Psychology Review 79:101861",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32512420/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "vaneldik2020",
    "citation": "van Eldik WM, de Haan AD, Parry LQ, et al., 2020, The interparental relationship: meta-analytic associations with children's maladjustment and responses to interparental conflict, Psychological Bulletin",
    "url": "https://doi.org/10.1037/bul0000233",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "vangeel2016",
+   "citation": "van Geel M, Goemans A, Vedder PH, 2016, The relation between peer victimization and sleeping problems: a meta-analysis, Sleep Medicine Reviews 27:89-95",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26140869/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -4330,6 +7060,13 @@
    "citation": "van Harmelen AL, Gibson JL, St Clair MC, et al., 2016, Friendships and family support reduce subsequent depressive symptoms in at-risk adolescents, PLoS One 11(5):e0153715",
    "url": "https://pubmed.ncbi.nlm.nih.gov/27144447/",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "vanijzendoorn2006",
+   "citation": "van IJzendoorn MH, Juffer F, 2006, Adoption as intervention: meta-analytic evidence for massive catch-up and plasticity in physical, socio-emotional, and cognitive development, Journal of Child Psychology and Psychiatry 47(12):1228-1245",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17176378/",
+   "type": "meta-analyse",
    "read": "résumé"
   },
   {
@@ -4354,6 +7091,13 @@
    "read": "texte intégral"
   },
   {
+   "id": "vernig2011",
+   "citation": "Vernig PM, 2011, Family roles in homes with alcohol-dependent parents: an evidence-based review, Substance Use & Misuse 46(4):535-542",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20735193/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
    "id": "vonderlin2018",
    "citation": "Vonderlin R, Kleindienst N, Alpers GW, et al., 2018, Dissociation in victims of childhood abuse or neglect: a meta-analytic review, Psychological Medicine",
    "url": "https://doi.org/10.1017/S0033291718000740",
@@ -4368,10 +7112,66 @@
    "read": "résumé"
   },
   {
+   "id": "walczak2018",
+   "citation": "Walczak A, McDonald F, Patterson P, et al., 2018, How does parental cancer affect adolescent and young adult offspring? A systematic review, International Journal of Nursing Studies 77:54-80",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29035733/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
    "id": "walker2019",
    "citation": "Walker HE, Freud JS, Ellis RA, et al., 2019, The prevalence of sexual revictimization: a meta-analytic review, Trauma, Violence, & Abuse",
    "url": "https://doi.org/10.1177/1524838017692364",
    "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "wang2023_sexualite",
+   "citation": "Wang SJ, Chang JJ, Cao LL, et al., 2023, The relationship between child sexual abuse and sexual dysfunction in adults: a meta-analysis, Trauma, Violence, & Abuse 24(4):2772-2788",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35993405/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "wang2024_triangulation",
+   "citation": "Wang M, Sun S, Liu X, et al., 2024, Interparental conflict and early adolescent depressive symptoms: parent-child triangulation as the mediator and grandparent support as the moderator, Journal of Youth and Adolescence 53(1):186-199",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38091163/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "wang2026_bowen",
+   "citation": "Wang Q, 2026, Adolescent non-suicidal self-injury from Bowen's family systems theory: interparental conflict, parent-child triangulation, and differentiation of self, Journal of Affective Disorders 396:120824",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41354102/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "warnick2022",
+   "citation": "Warnick JL, Darling KE, West CE, Jones L, Jelalian E, 2022, Weight stigma and mental health in youth: a systematic review and meta-analysis, Journal of Pediatric Psychology 47(3):237-255",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34791368/",
+   "type": "meta-analyse",
+   "read": "résumé et texte intégral (partie méthodes et résultats)"
+  },
+  {
+   "id": "webb2016",
+   "citation": "Webb RT, Pedersen CB, Mok PL, 2016, Adverse outcomes to early middle age linked with childhood residential mobility, American Journal of Preventive Medicine 51(3):291-300",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27288289/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "westkeller1991",
+   "citation": "West ML, Keller AE, 1991, Parentification of the child: a case study of Bowlby's compulsive care-giving attachment pattern, American Journal of Psychotherapy 45(3):425-431",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1951790/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "wolke2015",
+   "citation": "Wolke D, Tippett N, Dantchev S, 2015, Bullying in the family: sibling bullying, Lancet Psychiatry 2(10):917-929",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26462226/",
+   "type": "revue",
    "read": "résumé"
   },
   {
@@ -4382,10 +7182,31 @@
    "read": "résumé"
   },
   {
+   "id": "wu2023_procrastination",
+   "citation": "Wu W, Zhang Y, Wang Y, 2023, Associations between profiles of helicopter parenting and decisional procrastination among Chinese adolescents, Journal of Youth and Adolescence 52:1219-1234",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36934372/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
    "id": "xiao2023",
    "citation": "Xiao Z, Murat Baldwin M, Wong SC, et al., 2023, The impact of childhood psychological maltreatment on mental health outcomes in adulthood: a systematic review and meta-analysis, Trauma, Violence, & Abuse",
    "url": "https://doi.org/10.1177/15248380221122816",
    "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "yaffe2023",
+   "citation": "Yaffe Y, 2023, Maternal and paternal authoritarian parenting and adolescents' impostor feelings: the mediating role of parental psychological control and the moderating role of child's gender, Children 10(2):308",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36832436/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "yaffe2026",
+   "citation": "Yaffe Y, Karny S, 2026, The role of emotion dysregulation and self-esteem in the relationships between parenting styles and adolescents' impostor feelings: a multiple mediation model by parent and child gender, Journal of Genetic Psychology 187(3):215-233",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40286282/",
+   "type": "etude",
    "read": "résumé"
   },
   {
@@ -4399,6 +7220,13 @@
    "id": "yap2017",
    "citation": "Yap MBH, Cheong TWK, Zaravinos-Tsakos F, Lubman DI, Jorm AF, 2017, Modifiable parenting factors associated with adolescent alcohol misuse: a systematic review and meta-analysis of longitudinal studies, Addiction 112(7):1142-1162",
    "url": "https://pubmed.ncbi.nlm.nih.gov/28178373/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "ye2025",
+   "citation": "Ye Y, Zhu N, Su J, Zhao J, Kong F, 2025, Childhood maltreatment and problematic smartphone use: a multilevel, meta-analytic review, Journal of Behavioral Addictions 14(2):644-659",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40549950/",
    "type": "meta-analyse",
    "read": "résumé"
   },
@@ -4417,6 +7245,13 @@
    "read": "section"
   },
   {
+   "id": "yu2022_sommeil",
+   "citation": "Yu HJ, Liu X, Yang HG, Chen R, He QQ, 2022, The association of adverse childhood experiences and its subtypes with adulthood sleep problems: a systematic review and meta-analysis of cohort studies, Sleep Medicine 98:26-33",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35777139/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
    "id": "zarubin2026",
    "citation": "Zarubin VC, Pratt DN, Mittal VA, et al., 2026, The relationship between trauma exposure and nonclinical psychosis: a systematic review and meta-analysis, Clinical Psychology: Science and Practice",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42807775/",
@@ -4427,6 +7262,20 @@
    "id": "zeng2026",
    "citation": "Zeng M, Huang L, Jiao T, Yang F, 2026, The association between parental psychological control and social anxiety among children and adolescents: a three-level meta-analysis, Psychological Reports",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42538526/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "zhang2022_procrastination",
+   "citation": "Zhang R, Zhang H, Guo X, et al., 2022, Relationship between helicopter parenting and Chinese elementary school child procrastination: a mediated moderation model, International Journal of Environmental Research and Public Health 19(22):14892",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36429611/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "zhang2025_scolaire",
+   "citation": "Zhang H, Wang Z, Tang X, Wang W, 2025, The association between child maltreatment and academic achievement: a systematic review and meta-analysis, Child Abuse & Neglect 159:107159",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39616953/",
    "type": "meta-analyse",
    "read": "résumé"
   }

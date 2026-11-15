@@ -1,6 +1,7 @@
 import { isEntitled, platformAccess } from './entitlements.mjs';
 import {validatePsychologicalMap} from './psychology-map.mjs';
 import {declaredLifeContext,assertPortraitLanguage,PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
+import {loadCompanionCartography} from './cartographie.mjs';
 // Canonical private sources used to understand the member and suggest public readings.
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value))),b=>b.toString(16).padStart(2,'0')).join('');
@@ -49,6 +50,9 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  for(const source of sources)source.hash=await hash(JSON.stringify([source.type,source.revision,source.text,source.temporal,eventHashVersions.get(source.id)||'abstract',source.related_people||[]]));
  context.portrait_complete=Boolean(context.portrait&&Array.isArray(context.portrait.psychological_map)&&!(context.portrait.coverage?.pending?.length));
  context.sources=sources;context.source_manifest=Object.fromEntries(sources.map(s=>[s.id,{revision:s.revision,hash:s.hash,type:s.type,explicit:s.explicit}]));
+ // A locked childhood map saved with consent is Ambre's starting point. It is
+ // kept outside sources: it neither proves a portrait claim nor changes its hashes.
+ context.cartography=await loadCompanionCartography(env,userId);
  return context;
 }
 export function validatePortraitV2(value,sources,fail) {

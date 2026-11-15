@@ -156,8 +156,8 @@
   {
    "id": "separation_conflit",
    "group": "famille",
-   "label": "Séparation parentale conflictuelle",
-   "description": "Divorce ou séparation avec conflits durables, ou perte de contact avec un parent.",
+   "label": "Séparation conflictuelle ou perte de contact avec un parent",
+   "description": "Séparation avec des conflits durables entre les parents, ou un parent que l'on ne voyait plus.",
    "examples": [
     "Être pris à partie",
     "Ne plus voir un parent"
@@ -408,6 +408,178 @@
    "group": "contexte",
    "label": "Maladie ou hospitalisations de l'enfant",
    "description": "Maladie grave, douleurs ou hospitalisations répétées dans l'enfance.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "conflits_parents",
+   "group": "famille",
+   "label": "Disputes fréquentes entre les parents",
+   "description": "Tensions, cris ou silences hostiles entre les adultes, sans violence physique.",
+   "examples": [
+    "Repas tendus",
+    "Dispute dès qu'on rentrait"
+   ],
+   "ace": false
+  },
+  {
+   "id": "triangulation",
+   "group": "climat",
+   "label": "Être pris à partie dans les conflits des parents",
+   "description": "Servir de messager, de confident ou d'allié d'un parent contre l'autre.",
+   "examples": [
+    "« Dis à ton père que… »",
+    "Devoir choisir son camp"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parent_absent",
+   "group": "famille",
+   "label": "Parent très absent ou indisponible",
+   "description": "Un parent souvent absent (travail, départ, désintérêt) ou présent mais peu disponible.",
+   "examples": [
+    "Parent toujours au travail",
+    "Père ou mère parti"
+   ],
+   "ace": false
+  },
+  {
+   "id": "divorce",
+   "group": "famille",
+   "label": "Séparation des parents sans conflit durable",
+   "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle, cochez plutôt la cause précédente.",
+   "examples": [
+    "Garde alternée",
+    "Déménagement après la séparation"
+   ],
+   "ace": true
+  },
+  {
+   "id": "famille_recomposee",
+   "group": "famille",
+   "label": "Famille recomposée difficile",
+   "description": "Arrivée d'un beau-parent ou de demi-frères et sœurs avec des tensions durables.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "demenagements",
+   "group": "contexte",
+   "label": "Déménagements et changements d'école répétés",
+   "description": "Changer souvent de lieu de vie, d'école ou d'amis.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "adoption",
+   "group": "famille",
+   "label": "Adoption",
+   "description": "Avoir été adopté, en particulier après des débuts de vie difficiles.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "violences_fratrie",
+   "group": "violences",
+   "label": "Violences ou humiliations dans la fratrie",
+   "description": "Coups, moqueries ou domination répétés de la part d'un frère ou d'une sœur.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "punitions_corporelles",
+   "group": "violences",
+   "label": "Punitions corporelles « ordinaires »",
+   "description": "Fessées, gifles ou tapes utilisées comme moyen d'éducation.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "pression_scolaire",
+   "group": "climat",
+   "label": "Pression scolaire ou de performance",
+   "description": "Résultats, sport ou activités vécus comme une exigence constante.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "emprise_religieuse",
+   "group": "climat",
+   "label": "Cadre religieux ou idéologique rigide",
+   "description": "Règles strictes, peur de la punition divine, isolement d'un groupe fermé.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "honte_famille",
+   "group": "ressentis",
+   "label": "Honte de sa famille",
+   "description": "Cacher sa maison, ses parents ou sa situation aux autres.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "debrouiller_seul",
+   "group": "ressentis",
+   "label": "Devoir se débrouiller seul trop tôt",
+   "description": "Ne pas pouvoir compter sur les adultes et gérer seul ses problèmes.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "pas_protege",
+   "group": "ressentis",
+   "label": "Ne pas se sentir protégé",
+   "description": "Penser qu'aucun adulte ne vous défendrait en cas de danger.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "se_sentir_different",
+   "group": "ressentis",
+   "label": "Se sentir différent des autres",
+   "description": "Impression de ne pas être à sa place, de ne ressembler à personne.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "enfant_sage",
+   "group": "ressentis",
+   "label": "Devoir être sage et ne pas déranger",
+   "description": "Se faire discret, ne rien demander pour ne pas peser.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "enfant_prefere_role",
+   "group": "ressentis",
+   "label": "Avoir un rôle fixe dans la famille",
+   "description": "Être « le fort », « le clown », « le problème » ou « celui qui réussit ».",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "moqueries_corps",
+   "group": "contexte",
+   "label": "Moqueries sur le corps ou l'apparence",
+   "description": "Remarques répétées sur le poids, le physique ou la puberté, à la maison ou à l'école.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "parent_malade_physique",
+   "group": "famille",
+   "label": "Parent gravement malade",
+   "description": "Maladie physique grave ou handicap d'un parent pendant l'enfance.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "isolement_social_enfant",
+   "group": "contexte",
+   "label": "Peu d'amis et peu d'activités",
+   "description": "Isolement social durable dans l'enfance ou l'adolescence.",
    "examples": [],
    "ace": false
   }
