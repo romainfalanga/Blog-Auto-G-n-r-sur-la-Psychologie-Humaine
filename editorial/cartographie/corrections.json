@@ -101,6 +101,12 @@
   },
   "pat_abandonment_fear": {
    "url": null
+  },
+  "ten_souffrance_enfance": {
+   "description": "Tristesse, anxiété ou difficultés d'adaptation pendant l'enfance ; l'opposition et l'agressivité sont comptées à part."
+  },
+  "ten_douleurs_persistantes": {
+   "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ». Quand de nombreux symptômes envahissent la vie quotidienne, voir aussi le trouble de détresse physique."
   }
  },
  "remove_outcomes": [
@@ -169,6 +175,109 @@
    ],
    "strength": "moderee",
    "summary": "La CIM-11 retient les violences physiques comme événement pouvant précéder un stress post-traumatique ; chez les enfants exposés à un traumatisme, les violences interpersonnelles sont associées à un risque plus élevé de stress post-traumatique."
+  },
+  {
+   "factor": "maladie_famille",
+   "outcome": "ten_souffrance_enfance",
+   "sources": [
+    "sharpe2002"
+   ],
+   "summary": "Les frères et sœurs d'un enfant atteint d'une maladie chronique ont en moyenne un peu plus de difficultés émotionnelles, avec des effets modestes."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "pat_parentification",
+   "remove": true,
+   "reason": "Même lien et même source (lacey2022) que maladie_famille ; résumé portant sur la santé des jeunes aidants, pas sur la parentification."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b81",
+   "remove": true,
+   "reason": "Même source (day2022) que moqueries_corps → icd_6b81, cause plus précise."
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "sources": [
+    "layyee2023",
+    "matthews2016"
+   ],
+   "summary": "Dans une cohorte suivie jusqu'à la quarantaine, c'est l'isolement qui se prolonge de l'enfance à l'âge adulte qui est associé à la dépression ; l'isolement limité à l'enfance ne l'était pas. Beaucoup d'enfants isolés en sortent."
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "ten_conduites_suicidaires",
+   "remove": true,
+   "reason": "Steiner 2019 mesure l'attachement à l'école et à la famille, pas le sentiment d'être différent."
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "dep_generale",
+   "remove": true,
+   "reason": "Même construit non correspondant (Steiner 2019)."
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "pat_conditional_worth",
+   "remove": true,
+   "reason": "Roth 2009 mesure l'affection conditionnelle (facteur amour_conditionnel), déjà relié."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_parentification",
+   "remove": true,
+   "reason": "La parentification est une dimension de la mesure de triangulation : lien définitionnel."
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "ten_souffrance_enfance",
+   "sources": [
+    "amato2001"
+   ],
+   "summary": "En moyenne, les enfants dont les parents se sont séparés ont un peu plus de difficultés émotionnelles, de comportement et de relations ; les écarts sont modestes. Les disputes elles-mêmes relèvent de la cause « Disputes fréquentes entre les parents »."
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Chez des adolescents dont les parents se disputent souvent, on observe plus souvent un rôle de soutien moral envers un parent et une tendance à intervenir dans les disputes. Que ce rôle se prolonge en « rôle de sauveur » à l'âge adulte reste une hypothèse clinique."
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "pat_guilt",
+   "strength": "limitee",
+   "summary": "Les adolescents exposés à des disputes fréquentes entre leurs parents s'attribuent plus souvent une part de responsabilité dans ces conflits ; une relation soutenante avec un parent diminue ce sentiment."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_risques_sexuels",
+   "summary": "Chez les femmes, les violences sexuelles dans l'enfance sont associées, avec un effet faible, à davantage de rapports non protégés et de partenaires multiples à l'âge adulte. Ces conduites peuvent être une façon de faire face, et la responsabilité des violences revient à l'auteur."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "sch_imperfection",
+   "summary": "Une méta-analyse de soixante-deux études montre que les violences subies dans l'enfance sont associées à un sentiment de honte plus marqué ; pour les violences physiques le lien est modeste, et il est plus fort pour les violences psychologiques."
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "pat_overresponsibility",
+   "summary": "Le modèle des schémas relie une affection qui semblait dépendre de ce que l'on faisait ou réussissait à une attention excessive aux besoins des autres, aux dépens des siens."
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_souffrance_enfance",
+   "sources": [
+    "juffer2005",
+    "vanijzendoorn2006"
+   ],
+   "summary": "Des méta-analyses trouvent un recours un peu plus fréquent aux consultations chez les enfants adoptés ; la plupart vont bien, et les difficultés sont plus marquées après des débuts de vie très carencés."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "dep_generale",
+   "summary": "Être pris à partie dans les conflits des parents est associé, dans une étude suivie sur quatre ans et dans d'autres travaux, à une hausse des difficultés anxieuses et dépressives à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant."
   }
  ],
  "retarget": [
@@ -213,5 +322,11 @@
  "definitional_prefix": {
   "factor": "ressenti_",
   "outcome": "sch_"
- }
+ },
+ "exclusive_factors": [
+  [
+   "divorce",
+   "separation_conflit"
+  ]
+ ]
 }

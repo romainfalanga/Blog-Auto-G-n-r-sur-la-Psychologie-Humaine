@@ -71,6 +71,11 @@
         onclick: function () {
           if (state.locked) return;
           if (level) state.answers[f.id] = level; else delete state.answers[f.id];
+          // Mutually exclusive causes (e.g. two kinds of parental separation) are never counted twice.
+          if (level) (data.exclusive || []).forEach(function (pair) {
+            var i = pair.indexOf(f.id);
+            if (i !== -1) delete state.answers[pair[1 - i]];
+          });
           state.dirty = true; renderForm(); renderResults();
         }, disabled: state.locked
       }, [label]);

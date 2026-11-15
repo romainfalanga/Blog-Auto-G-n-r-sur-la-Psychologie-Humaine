@@ -1,0 +1,1025 @@
+{
+ "reviewer": "relecture_cartographie_v2",
+ "date": "2026-11-15",
+ "verified_links": [
+  {
+   "factor": "conflits_parents",
+   "outcome": "dep_generale",
+   "source": "jiang2025 (PMID 40779230), rhoades2008 (19037959), vaneldik2020 (doi 10.1037/bul0000233, PMID 32437177)",
+   "verdict": "ok",
+   "note": "Jiang 2025 : 89 études, r = 0,32, lien plus fort quand l'enfant rapporte le conflit ; van Eldik 2020 : 169 études, associations durables. Méta-analyses concordantes : « forte » justifiée. Rhoades porte sur les réactions de l'enfant au conflit, appui indirect."
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "anx_generale",
+   "source": "ran2021 (33449287), rhoades2008, vaneldik2020",
+   "verdict": "ok",
+   "note": "Ran 2021 : 38 études, association plus forte pour le conflit ouvert, plus faible en longitudinal et quand le parent rapporte le conflit ; conforme au résumé. Forte acceptable."
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "ten_externalisation",
+   "source": "gershoff2016 (27055181), heilmann2021 (34197808), cuartas2025 (40325199)",
+   "verdict": "ok",
+   "note": "Gershoff : 111 tailles d'effet, effets proches de la maltraitance ; Heilmann : 69 études prospectives, aggravation du comportement, aucun bénéfice ; Cuartas : 189 études dans les pays à revenu faible ou intermédiaire. Forte justifiée."
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "pat_overresponsibility",
+   "source": "peris2008 (18729677)",
+   "verdict": "force_a_revoir",
+   "note": "Peris 2008 (83 familles, transversal sur 1 an) relie conflit conjugal et parentification de l'adolescent ; le prolongement en « rôle de sauveur » adulte n'est pas mesuré. Passer en « theorique » et le dire (le lien empirique est conflit → parentification)."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_overresponsibility",
+   "source": "peris2008 ; wang2026_bowen, wang2024_triangulation (fusion avec ca12)",
+   "verdict": "ok",
+   "note": "Fusion des deux fragments : la version « theorique » (ca12) est conservée par le build car limitee et theorique ont le même poids ; c'est la bonne force. Le résumé de ro1 (« prend plus souvent en charge ») n'est pas affiché."
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "pat_overresponsibility",
+   "source": "kelley2007 (16839693), westkeller1991 (1951790)",
+   "verdict": "ok",
+   "note": "Kelley : étudiantes enfants d'alcooliques, plus de parentification et de soins émotionnels ; West & Keller : cas clinique (soins compulsifs). Theorique correct."
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "pat_overresponsibility",
+   "source": "gazzillo2026 (41849147)",
+   "verdict": "ok",
+   "note": "Gazzillo cite explicitement des parents avec problèmes psychologiques comme origine de la culpabilité de responsabilité omnipotente. Theorique correct."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "pat_overresponsibility",
+   "source": "gazzillo2026",
+   "verdict": "ok",
+   "note": "Parents avec problèmes physiques cités dans le résumé de Gazzillo. Theorique correct ; mais voir le doublon de cause maladie_famille / parent_malade_physique."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "pat_overresponsibility",
+   "source": "gazzillo2026",
+   "verdict": "ok",
+   "note": "« parents … mourning some loss and wanted their children to take care of them » : conforme, theorique."
+  },
+  {
+   "factor": "divorce",
+   "outcome": "pat_overresponsibility",
+   "source": "gazzillo2026",
+   "verdict": "ok",
+   "note": "Parents séparés cités par Gazzillo ; theorique. Le modèle ne distingue pas séparation conflictuelle ou non."
+  },
+  {
+   "factor": "enfant_sage",
+   "outcome": "pat_overresponsibility",
+   "source": "carlucci2018, young2003",
+   "verdict": "ok",
+   "note": "Domaine « orientation vers les autres » de Young (acceptation conditionnelle) ; theorique correct."
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "pat_overresponsibility",
+   "source": "carlucci2018, young2003",
+   "verdict": "ok",
+   "note": "Theorique acceptable, mais le résumé redéfinit le facteur (« affection qui dépend de ce que l'on fait pour les autres ») alors que le facteur parle de réussite ; reformuler (voir constat mineur)."
+  },
+  {
+   "factor": "enfant_prefere_role",
+   "outcome": "pat_overresponsibility",
+   "source": "vernig2011 (20735193), sanders2014 (24990636)",
+   "verdict": "ok",
+   "note": "Vernig conclut que les rôles familiaux sont mal étayés et contradictoires ; Sanders (33 adultes) trouve plus de rôle « héros ». Theorique et prudence du résumé conformes."
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_codependance",
+   "source": "fuller2000 (10713899)",
+   "verdict": "ok",
+   "note": "257 étudiants : scores de codépendance plus élevés avec un parent alcoolique, malade mental ou malade physique. Transversal, une étude : limitee correct ; la réserve sur la notion est bienvenue."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "ten_codependance",
+   "source": "fuller2000",
+   "verdict": "ok",
+   "note": "Même étude, même conclusion ; limitee correct."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "wang2026_bowen (41354102)",
+   "verdict": "ok",
+   "note": "2038 adolescents chinois, transversal ; certaines formes de triangulation médiatisent conflit → automutilations non suicidaires. Limitee correct ; préciser éventuellement « automutilations sans intention suicidaire »."
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "fellmeth2018 (30528471)",
+   "verdict": "ok",
+   "note": "RR 1,70 pour les idées suicidaires chez les enfants laissés au pays (91/111 études en Chine, migration de travail interne). Limitee acceptable, mais la source ne couvre pas l'ensemble du facteur tel qu'il est libellé (voir constat sur parent_absent)."
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "auersperg2019 (31622869)",
+   "verdict": "ok",
+   "note": "54 études : tentative OR 1,35, idées OR 1,48. Moderee correct. Les études ne distinguent pas séparation conflictuelle ou non, alors que le facteur est « sans conflit durable »."
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "webb2016 (27288289)",
+   "verdict": "ok",
+   "note": "Cohorte danoise de 1 475 030 personnes, gradient avec l'âge, tous milieux sociaux. Longitudinal : moderee correct."
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "hjern2002 (12241716), keyes2013 (24019414)",
+   "verdict": "ok",
+   "note": "Suède : tentative OR 3,6 (adoptés à l'étranger) ; Minnesota : OR 4,23 puis 3,70 après ajustement. Moderee correct."
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "bowes2014 (25201801), wolke2015 (26462226)",
+   "verdict": "ok",
+   "note": "ALSPAC, > 6900 participants : automutilation OR 2,56 à 18 ans, peu atténué après ajustement. Une cohorte longitudinale : moderee acceptable."
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "afifi2017 (28126359)",
+   "verdict": "ok",
+   "note": "Étude ACE (N = 8316), tentative de suicide AOR 1,37 au-delà des maltraitances. Rétrospectif : limitee correct."
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "steiner2019 (31235609)",
+   "verdict": "source_inexacte",
+   "note": "Add Health mesure le sentiment d'attachement à l'école et à la famille (connectedness : se sentir proche, en sécurité, traité équitablement), pas le fait de se sentir différent ; la source établit une association protectrice d'un fort attachement. Lien suicidaire fondé sur un autre construit : à retirer."
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "icd_6a20",
+   "source": "dantchev2018 (29429415)",
+   "verdict": "ok",
+   "note": "ALSPAC, 6988 participants : OR 2,74 pour les victimes plusieurs fois par semaine, effet dose. Une seule cohorte, événement rare : limitee prudent et cohérent avec harcelement → psychose (V1 corrigé)."
+  },
+  {
+   "factor": "conflits_parents",
+   "outcome": "pat_guilt",
+   "source": "grych2004 (15605630), fosco2016_profils (26963695) ; fusion avec grych1990, rhoades2008",
+   "verdict": "force_a_revoir",
+   "note": "Le build garde la version « theorique » (ca6) à égalité de poids, alors que Grych 2004 (388 adolescents) mesure l'auto-attribution de la faute et l'effet protecteur d'une relation soutenante : « limitee » avec le résumé de ro13 est plus exact."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_guilt",
+   "source": "fosco2016_profils",
+   "verdict": "ok",
+   "note": "Fosco & Bray : profils combinant triangulation et autoreproche, plus de détresse. Theorique affiché (fusion) acceptable."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "sch_imperfection",
+   "source": "meng2026 (42314249)",
+   "verdict": "ok",
+   "note": "62 études, r = 0,196 pour les violences physiques (0,332 pour les psychologiques). Moderee (méta-analyse à effet modeste) correct ; le résumé dit « de façon modérée » : écrire « modeste »."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "sch_imperfection",
+   "source": "meng2026",
+   "verdict": "ok",
+   "note": "r = 0,187 ; moderee correct. La phrase sur la responsabilité de l'agresseur est bienvenue."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "sch_imperfection",
+   "source": "meng2026",
+   "verdict": "ok",
+   "note": "r = 0,203 ; conforme."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_colere",
+   "source": "lynch2026 (41910545)",
+   "verdict": "ok",
+   "note": "27 études, k = 5 par méta-analyse, r = 0,20 pour colère retenue et colère extériorisée ; pas de différence entre types. Moderee (méta-analyse à effet modeste) et mention « peu d'études » conformes."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_colere",
+   "source": "lynch2026",
+   "verdict": "ok",
+   "note": "Idem."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_colere",
+   "source": "lynch2026",
+   "verdict": "ok",
+   "note": "Limitee prudent et justifié par l'absence de données propres."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_violences_couple",
+   "source": "li2019_ipv (30537622)",
+   "verdict": "ok",
+   "note": "46 études, r = 0,19 ; plus fort chez les couples non mariés, pas de différence de sexe ; conforme, responsabilité de l'auteur rappelée."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_violences_couple",
+   "source": "li2019_ipv",
+   "verdict": "ok",
+   "note": "r = 0,18 ; conforme."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_violences_couple",
+   "source": "li2019_ipv",
+   "verdict": "ok",
+   "note": "r = 0,17 ; conforme."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_violences_couple",
+   "source": "li2019_ipv",
+   "verdict": "ok",
+   "note": "r = 0,12 ; limitee prudent, conforme."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "att_anxieux",
+   "source": "li2026 (42365499), shahab2025 (40597386)",
+   "verdict": "ok",
+   "note": "Li 2026 : 211 études, r = 0,23 (anxiété), 0,20 (évitement) ; Shahab (NESDA, 1850 personnes, 9 ans) : liens les plus nets pour négligence affective et violences sexuelles. Moderee correct."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "att_evitant",
+   "source": "li2026, shahab2025",
+   "verdict": "ok",
+   "note": "Conforme."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_peur_intimite",
+   "source": "finzidottan2024 (39767518)",
+   "verdict": "ok",
+   "note": "180 jeunes adultes israéliens, étude préliminaire transversale ; limitee correct."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "ten_qualite_relationnelle",
+   "source": "fosco2016_dating (28581646)",
+   "verdict": "ok",
+   "note": "236 lycéens, 6 mois : plus de violences verbales et plus de résolution positive ; le résumé rend bien le résultat mixte. Limitee correct."
+  },
+  {
+   "factor": "parentification",
+   "outcome": "ten_qualite_relationnelle",
+   "source": "peris2008, gavcar2026 (41652497)",
+   "verdict": "ok",
+   "note": "Peris : amitiés moins compétentes ; Gavcar : styles relationnels toxiques, bénéfices perçus protecteurs. Limitee correct."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_sommeil",
+   "source": "yu2022_sommeil (35777139), schonning2022 (35313257)",
+   "verdict": "ok",
+   "note": "Yu : 9 cohortes, OR ≈ 1,20 pour violences ; Schønning : insomnie OR 3,91, cauchemars OR 3,15 chez les jeunes. Moderee correct, « effet modeste » exact."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_sommeil",
+   "source": "yu2022_sommeil, schonning2022",
+   "verdict": "ok",
+   "note": "Conforme."
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_sommeil",
+   "source": "yu2022_sommeil",
+   "verdict": "ok",
+   "note": "Dysfonctionnement familial agrégé (3 études, OR 1,21) ; limitee et réserve conformes."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_sommeil",
+   "source": "vangeel2016 (26140869)",
+   "verdict": "ok",
+   "note": "21 articles, lien plus fort chez les plus jeunes ; conforme."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_douleurs_persistantes",
+   "source": "gini2013 (24043275)",
+   "verdict": "ok",
+   "note": "6 études longitudinales OR 2,39, 24 transversales OR 2,17 ; conforme. Il s'agit de plaintes psychosomatiques de l'enfant plutôt que de douleurs persistantes adultes : le résumé le dit."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_surpoids",
+   "source": "danese2014 (23689533), hemmingsson2014 (25123205)",
+   "verdict": "ok",
+   "note": "OR 1,36 (41 études) et 1,28 pour les violences physiques, plus fort si sévère ; moderee correct."
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "icd_6b81",
+   "source": "menzel2010 (20655287), haines2006 (16452330), puhl2017 (28450124), day2022",
+   "verdict": "ok",
+   "note": "Menzel : r ≈ 0,35 avec restriction et conduites boulimiques ; Project EAT 5 et 15 ans. Moderee correct (fusion des deux fragments)."
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_surpoids",
+   "source": "puhl2017",
+   "verdict": "ok",
+   "note": "1830 adolescents suivis 15 ans, IMC plus élevé à IMC de départ égal ; une cohorte : limitee prudent."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_sante_physique",
+   "source": "flor2025 (40210705), souama2023 (36907864), felitti1998",
+   "verdict": "ok",
+   "note": "Burden of Proof : association « modérément faible » avec la cardiopathie ischémique ; le résumé (« réel mais d'ampleur modeste ») est exact."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_sante_physique",
+   "source": "huang2015_diabete (26404480)",
+   "verdict": "ok",
+   "note": "Diabète de type 2, peu d'études pour la négligence ; limitee correct."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_difficultes_scolaires",
+   "source": "zhang2025_scolaire (39616953), qu2024 (38651820)",
+   "verdict": "ok",
+   "note": "59 études, r = −0,16 global, plus fort pour violences psychologiques et négligence ; conforme."
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_difficultes_scolaires",
+   "source": "amato2001",
+   "verdict": "ok",
+   "note": "Méta-analyse, écarts modestes ; conforme. Même réserve « sans conflit » non distinguée."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_difficultes_professionnelles",
+   "source": "currie2010 (20425881)",
+   "verdict": "ok",
+   "note": "Cohorte appariée de cas judiciaires suivis jusqu'à 41 ans ; limitee prudent (une étude)."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_difficultes_sexuelles",
+   "source": "wang2023_sexualite (35993405)",
+   "verdict": "ok",
+   "note": "OR 1,68, femmes et hommes ; conforme."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_risques_sexuels",
+   "source": "arriola2005 (15979712)",
+   "verdict": "force_a_revoir",
+   "note": "Méta-analyse limitée aux femmes, r = 0,05 à 0,13 (très faible) ; le résumé omet « chez les femmes » et y mêle la revictimisation, qui relève d'une autre conséquence (ten_revictimisation). Garder moderee au plus, corriger le résumé et rappeler la responsabilité de l'auteur."
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "pat_perfectionism",
+   "source": "curran2022 (35357848)",
+   "verdict": "ok",
+   "note": "Attentes parentales : effets petits à modérés sur le perfectionnisme orienté vers soi, grands sur le perfectionnisme socialement prescrit ; conforme."
+  },
+  {
+   "factor": "controle",
+   "outcome": "pat_impostor",
+   "source": "yaffe2023 (36832436), yaffe2026",
+   "verdict": "ok",
+   "note": "308 adolescents, transversal ; limitee correct."
+  },
+  {
+   "factor": "comparaison_fratrie",
+   "outcome": "pat_impostor",
+   "source": "clance1978",
+   "verdict": "ok",
+   "note": "Texte intégral vérifié : groupe où un frère ou une sœur est désigné comme « le brillant » ; theorique correct (de même pour enfant_prefere_role et ressenti_perfection)."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "dep_generale",
+   "source": "buehler2009 (19364211), franck2007 (18179333), wang2024_triangulation (38091163), vandijk2020 (32512420)",
+   "verdict": "ok",
+   "note": "Buehler : 4 vagues, hausse des troubles internalisés ; Franck : même échantillon de 416 familles (une seule cohorte, pas deux) ; Wang 2024 : coalitions médiatrices, mais pas la parentification ; van Dijk : diffusion des rôles après divorce. Moderee acceptable ; écrire « une étude suivie sur plusieurs années »."
+  },
+  {
+   "factor": "triangulation",
+   "outcome": "pat_parentification",
+   "source": "wang2024_triangulation, vandijk2020",
+   "verdict": "non_soutenu",
+   "note": "La parentification est une sous-échelle de la mesure de triangulation (lien quasi définitionnel), et Wang 2024 trouve même une corrélation négative entre conflit et parentification en Chine. À retirer."
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "dep_generale",
+   "source": "mclanahan2013 (24489431), fellmeth2018",
+   "verdict": "ok",
+   "note": "McLanahan : effets persistants mais plus faibles dans les plans rigoureux ; Fellmeth : RR 1,52. Moderee correct pour les populations étudiées (père absent, parent parti travailler)."
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "anx_generale",
+   "source": "fellmeth2018",
+   "verdict": "ok",
+   "note": "RR 1,85, études surtout chinoises, qualité inégale ; moderee acceptable."
+  },
+  {
+   "factor": "parent_absent",
+   "outcome": "ten_usage_substances",
+   "source": "fellmeth2018",
+   "verdict": "ok",
+   "note": "RR 1,24 [1,00–1,52], à la limite : limitee et formulation conformes."
+  },
+  {
+   "factor": "divorce",
+   "outcome": "dep_generale",
+   "source": "auersperg2019, vandijk2020",
+   "verdict": "ok",
+   "note": "OR 1,29 ; décroissance dans le temps surtout établie pour la détresse ; conforme."
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_usage_substances",
+   "source": "auersperg2019",
+   "verdict": "ok",
+   "note": "Alcool OR 1,43, tabac 1,64, drogues 1,45 ; conforme."
+  },
+  {
+   "factor": "divorce",
+   "outcome": "ten_qualite_relationnelle",
+   "source": "crowell2009_divorce (19197705), amato2001",
+   "verdict": "ok",
+   "note": "157 couples, plus d'attachement insécure, pas plus de divorces à 6 ans ; limitee correct."
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_souffrance_enfance",
+   "source": "simsek2021 (34428708), jelleyman2008 (18559440)",
+   "verdict": "ok",
+   "note": "64 études, association petite à moyenne, confondue par le niveau social et les adversités associées ; conforme."
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_usage_substances",
+   "source": "webb2016, jelleyman2008",
+   "verdict": "ok",
+   "note": "Conforme."
+  },
+  {
+   "factor": "adoption",
+   "outcome": "ten_externalisation",
+   "source": "askeland2017 (28219486), juffer2005 (15914751)",
+   "verdict": "ok",
+   "note": "Externalisé SMD 0,20 ; la plupart vont bien ; conforme. Voir le recouvrement avec ten_souffrance_enfance (mêmes études)."
+  },
+  {
+   "factor": "violences_fratrie",
+   "outcome": "dep_generale",
+   "source": "bowes2014, wolke2015, laopratai2023",
+   "verdict": "ok",
+   "note": "Dépression OR 2,16 à 18 ans ; Laopratai transversal. Moderee correct."
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "dep_generale",
+   "source": "gershoff2016, cuartas2025",
+   "verdict": "ok",
+   "note": "Les méta-analyses mesurent des « problèmes de santé mentale » globaux ; le résumé le dit honnêtement. Moderee acceptable."
+  },
+  {
+   "factor": "punitions_corporelles",
+   "outcome": "ten_usage_substances",
+   "source": "afifi2017, cuartas2025",
+   "verdict": "ok",
+   "note": "AOR 1,23 (alcool), 1,32 (drogues) ; limitee correct."
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "dep_generale",
+   "source": "steare2023 (37437728)",
+   "verdict": "ok",
+   "note": "52 études, 39 transversales ; limitee correct."
+  },
+  {
+   "factor": "pression_scolaire",
+   "outcome": "pat_conditional_worth",
+   "source": "roth2009 (19586183)",
+   "verdict": "source_inexacte",
+   "note": "Roth 2009 étudie la considération parentale conditionnelle (affection donnée ou retirée selon les notes) : c'est l'exposition du facteur amour_conditionnel, déjà relié à cette conséquence (assor2004). Le mesuré est une « contrainte intérieure », pas une valeur de soi liée à la réussite. Double comptage : à retirer."
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "dep_generale",
+   "source": "antelo2021 (34408819), saldana2022 (34445910)",
+   "verdict": "ok",
+   "note": "Anciens membres de groupes à forte emprise (adultes en majorité), transversal ; limitee correct. Saldaña : pas de différence selon que l'on y soit né ou entré adulte, conforme au résumé."
+  },
+  {
+   "factor": "emprise_religieuse",
+   "outcome": "ten_qualite_relationnelle",
+   "source": "saldana2022",
+   "verdict": "ok",
+   "note": "d = 0,85 pour les relations positives ; conforme."
+  },
+  {
+   "factor": "pas_protege",
+   "outcome": "pat_self_criticism",
+   "source": "richter2009 (19171085)",
+   "verdict": "ok",
+   "note": "180 étudiants, souvenirs de chaleur et de sécurité ; transversal, limitee correct."
+  },
+  {
+   "factor": "se_sentir_different",
+   "outcome": "dep_generale",
+   "source": "steiner2019",
+   "verdict": "source_inexacte",
+   "note": "Même problème de construit que pour le lien suicidaire (attachement à l'école ou à la famille, pas sentiment d'être différent). Retirer, ou ne garder qu'un lien théorique sans Steiner."
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "dep_generale",
+   "source": "loades2020 (32504808), layyee2023 (36456781), matthews2016 (26843197)",
+   "verdict": "force_a_revoir",
+   "note": "Lay-Yee (Dunedin) : l'isolement limité à l'enfance n'est PAS associé à la dépression adulte, seul l'isolement persistant l'est ; Matthews : transversal à 18 ans, la solitude plus que l'isolement, part génétique ; Loades : revue rapide surtout sur la solitude, déjà utilisée pour ressenti_solitude → dépression. « limitee » et résumé à corriger."
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "ten_usage_substances",
+   "source": "lacey2014 (25197797)",
+   "verdict": "ok",
+   "note": "Le résultat est le tabagisme (et la détresse), pas un usage problématique ; limitee acceptable, préciser « fumaient plus souvent »."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "ten_souffrance_enfance",
+   "source": "sieh2010",
+   "verdict": "ok",
+   "note": "Conforme, mais même source et même conclusion que le lien V1 maladie_famille → ten_souffrance_enfance : double comptage entre causes (voir constats)."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "pat_parentification",
+   "source": "lacey2022",
+   "verdict": "non_soutenu",
+   "note": "Le résumé décrit la santé des jeunes aidants, pas le fait de devenir aidant ; c'est le même lien et la même source que maladie_famille → pat_parentification (V1). À retirer."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "icd_6c20",
+   "source": "hotopf1999 (10553745)",
+   "verdict": "ok",
+   "note": "Cohorte de naissance britannique : mauvaise santé parentale à 15 ans → symptômes inexpliqués à 36 ans, indépendamment des troubles psychiatriques ; limitee correct."
+  },
+  {
+   "factor": "parent_malade_physique",
+   "outcome": "dep_generale",
+   "source": "krattenmacher2012 (22469276), walczak2018 (29035733)",
+   "verdict": "ok",
+   "note": "Revues des facteurs associés à l'adaptation (pas de comparaison avec un groupe témoin) ; limitee et formulation prudente conformes."
+  }
+ ],
+ "findings": [
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : maladie_famille / parent_malade_physique",
+   "issue": "Double comptage : « Maladie grave dans la famille » couvre déjà la maladie d'un parent, et la nouvelle cause « Parent gravement malade » s'appuie sur les mêmes sources (sieh2010 pour ten_souffrance_enfance, lacey2022 pour pat_parentification). Une personne dont le père était malade coche les deux et obtient deux causes « distinctes » pour la même expérience et les mêmes études.",
+   "fix": {
+    "facteurs.json": {
+     "maladie_famille": {
+      "label": "Maladie grave d'un frère ou d'une sœur",
+      "description": "Maladie chronique ou handicap lourd d'un frère ou d'une sœur. Pour un parent, cochez « Parent gravement malade »."
+     }
+    },
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "maladie_famille",
+       "outcome": "ten_souffrance_enfance",
+       "sources": [
+        "sharpe2002"
+       ],
+       "summary": "Les frères et sœurs d'un enfant atteint d'une maladie chronique ont en moyenne un peu plus de difficultés émotionnelles, avec des effets modestes."
+      },
+      {
+       "factor": "parent_malade_physique",
+       "outcome": "pat_parentification",
+       "remove": true,
+       "reason": "Même lien et même source (lacey2022) que maladie_famille ; résumé portant sur la santé des jeunes aidants, pas sur la parentification."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : divorce",
+   "issue": "La description renvoie à « la cause précédente », mais dans l'ordre du groupe famille la cause précédente est « Parent très absent ou indisponible », pas « Séparation conflictuelle… ». De plus, les liens de divorce (auersperg2019, amato2001, vandijk2020) proviennent d'études qui ne distinguent pas séparation conflictuelle ou non : ce sont les mêmes estimations que pour separation_conflit, et rien n'empêche de cocher les deux (deux facteurs ace).",
+   "fix": {
+    "facteurs.json": {
+     "divorce": {
+      "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle ou si vous avez perdu le contact avec un parent, cochez plutôt « Séparation conflictuelle ou perte de contact avec un parent » (une seule des deux)."
+     }
+    },
+    "moteur": "Traiter divorce et separation_conflit comme exclusifs (cocher l'un décoche l'autre), ou ne compter qu'une fois leurs conséquences communes."
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : parent_absent",
+   "issue": "Libellé trop large : « présent mais peu disponible » recouvre la négligence affective, « Père ou mère parti » recouvre la perte de contact de separation_conflit. Les preuves (McLanahan 2013 : absence du père, surtout après séparation ; Fellmeth 2018 : enfants laissés au pays par la migration de travail, 91/111 études en Chine) ne portent pas sur un parent présent mais indisponible.",
+   "fix": {
+    "facteurs.json": {
+     "parent_absent": {
+      "label": "Parent longtemps éloigné ou absent",
+      "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un père qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective ».",
+      "examples": [
+       "Parent parti travailler dans une autre ville ou un autre pays",
+       "Parent toujours en déplacement"
+      ]
+     }
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : punitions_corporelles / abus_physique",
+   "issue": "Recouvrement : l'exemple de « Violences physiques » est « Coups ou gifles répétés » et « Punitions corporelles » cite « gifles ». Les deux causes convergent sur dépression, idées suicidaires, substances et comportements : la même gifle compte deux fois.",
+   "fix": {
+    "facteurs.json": {
+     "abus_physique": {
+      "examples": [
+       "Coups violents ou avec un objet",
+       "Punitions qui laissaient des marques"
+      ]
+     },
+     "punitions_corporelles": {
+      "description": "Fessées, tapes ou gifles occasionnelles utilisées comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques »."
+     }
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : harcelement / moqueries_corps",
+   "issue": "Recouvrement : l'exemple du harcèlement est « Insultes sur le physique ou l'origine » ; harcelement → icd_6b81 et moqueries_corps → icd_6b81 citent la même revue day2022.",
+   "fix": {
+    "facteurs.json": {
+     "harcelement": {
+      "examples": [
+       "Être mis à l'écart chaque jour",
+       "Insultes ou menaces répétées sur l'origine ou la différence"
+      ]
+     },
+     "moqueries_corps": {
+      "description": "Remarques répétées sur le poids, le physique ou la puberté, à la maison ou à l'école. Si ces moqueries faisaient partie d'un harcèlement plus large (exclusion, violences), cochez aussi « Harcèlement »."
+     }
+    },
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "harcelement",
+       "outcome": "icd_6b81",
+       "remove": true,
+       "reason": "Même source (day2022) que moqueries_corps → icd_6b81, cause plus précise."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : ressenti_solitude / se_sentir_different / isolement_social_enfant",
+   "issue": "Trois causes proches : « Solitude et isolement » se définit par « Se sentir seul, différent… », ce qui recouvre « Se sentir différent des autres » et « Peu d'amis et peu d'activités ». ressenti_solitude → dep_generale et isolement_social_enfant → dep_generale reposent tous deux sur loades2020 ; les trois convergent sur pat_social_isolation et sch_isolement.",
+   "fix": {
+    "facteurs.json": {
+     "ressenti_solitude": {
+      "label": "Se sentir seul",
+      "description": "Se sentir seul, sans personne à qui parler de ce que l'on vivait."
+     }
+    },
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "isolement_social_enfant",
+       "outcome": "dep_generale",
+       "strength": "limitee",
+       "sources": [
+        "layyee2023",
+        "matthews2016"
+       ],
+       "summary": "Dans une cohorte suivie jusqu'à la quarantaine, c'est l'isolement qui se prolonge de l'enfance à l'âge adulte qui est associé à la dépression ; l'isolement limité à l'enfance ne l'était pas. Beaucoup d'enfants isolés en sortent."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "liens-v2-causes : se_sentir_different → ten_conduites_suicidaires et → dep_generale",
+   "issue": "Source inexacte : Steiner 2019 (Add Health) mesure le sentiment d'attachement à l'école et à la famille (connectedness), pas le fait de se sentir différent. Un lien vers les idées suicidaires ne doit pas reposer sur un autre construit.",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "se_sentir_different",
+       "outcome": "ten_conduites_suicidaires",
+       "remove": true,
+       "reason": "Steiner 2019 mesure l'attachement à l'école et à la famille, pas le sentiment d'être différent."
+      },
+      {
+       "factor": "se_sentir_different",
+       "outcome": "dep_generale",
+       "remove": true,
+       "reason": "Même construit non correspondant (Steiner 2019)."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "liens-v2-causes : pression_scolaire → pat_conditional_worth",
+   "issue": "Roth 2009 porte sur la considération parentale conditionnelle, c'est-à-dire l'exposition du facteur amour_conditionnel, déjà relié à « Valeur liée à la réussite » ; le résultat mesuré est une contrainte intérieure. Double comptage entre causes proches.",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "pression_scolaire",
+       "outcome": "pat_conditional_worth",
+       "remove": true,
+       "reason": "Roth 2009 mesure l'affection conditionnelle (facteur amour_conditionnel), déjà relié."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "liens-v2-causes : triangulation → pat_parentification",
+   "issue": "Lien quasi définitionnel : la parentification est une des sous-échelles de la triangulation dans les sources citées (Wang 2024, Wang 2026), et Wang 2024 trouve une corrélation négative entre conflit et parentification. « Responsabilités précoces » est d'ailleurs déjà une cause (parentification).",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "triangulation",
+       "outcome": "pat_parentification",
+       "remove": true,
+       "reason": "La parentification est une dimension de la mesure de triangulation : lien définitionnel."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "liens-v1 separation_conflit → ten_souffrance_enfance (rendu visible par la V2)",
+   "issue": "Le résumé ne parle que des « conflits hostiles ou non résolus entre parents » (vaneldik2020). Avec la nouvelle cause « Disputes fréquentes entre les parents » (vaneldik2020, rhoades2008), le même conflit est compté par deux causes.",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "separation_conflit",
+       "outcome": "ten_souffrance_enfance",
+       "sources": [
+        "amato2001"
+       ],
+       "summary": "En moyenne, les enfants dont les parents se sont séparés ont un peu plus de difficultés émotionnelles, de comportement et de relations ; les écarts sont modestes. Les disputes elles-mêmes relèvent de la cause « Disputes fréquentes entre les parents »."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json : emprise_religieuse",
+   "issue": "Le libellé « Cadre religieux ou idéologique rigide » et la « peur de la punition divine » peuvent faire cocher une éducation religieuse ordinaire, alors que les sources (Antelo 2021, Saldaña 2022) portent sur l'emprise psychologique de groupes fermés, auprès d'anciens membres surtout adultes. Risque de stigmatisation et de surinterprétation.",
+   "fix": {
+    "facteurs.json": {
+     "emprise_religieuse": {
+      "label": "Emprise d'un groupe religieux ou idéologique fermé",
+      "description": "Un groupe qui contrôlait la vie de la famille : obéissance imposée par la peur, punitions, coupure avec l'extérieur. Une pratique religieuse en elle-même n'en fait pas partie."
+     }
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "liens-v2-roles : conflits_parents → pat_overresponsibility",
+   "issue": "Peris 2008 relie conflit et parentification à l'adolescence ; le rôle de sauveur adulte n'est pas mesuré. « limitee » surestime le lien affiché (même poids que theorique, mais libellé « Preuves limitées »).",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "conflits_parents",
+       "outcome": "pat_overresponsibility",
+       "strength": "theorique",
+       "summary": "Chez des adolescents dont les parents se disputent souvent, on observe plus souvent un rôle de soutien moral envers un parent et une tendance à intervenir dans les disputes. Que ce rôle se prolonge en « rôle de sauveur » à l'âge adulte reste une hypothèse clinique."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "fusion conflits_parents → pat_guilt",
+   "issue": "À poids égal, le build garde la version théorique (ca6) et écarte le résumé empirique de ro13 (Grych 2004 mesure l'auto-attribution de la faute).",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "conflits_parents",
+       "outcome": "pat_guilt",
+       "strength": "limitee",
+       "summary": "Les adolescents exposés à des disputes fréquentes entre leurs parents s'attribuent plus souvent une part de responsabilité dans ces conflits ; une relation soutenante avec un parent diminue ce sentiment."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "liens-v2-corps : abus_sexuel → ten_risques_sexuels",
+   "issue": "Arriola 2005 ne porte que sur des femmes, avec des effets très faibles (r = 0,05 à 0,13) ; le résumé mêle la revictimisation, qui est une autre conséquence (ten_revictimisation), sans rappeler la responsabilité de l'auteur.",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "abus_sexuel",
+       "outcome": "ten_risques_sexuels",
+       "summary": "Chez les femmes, les violences sexuelles dans l'enfance sont associées, avec un effet faible, à davantage de rapports non protégés et de partenaires multiples à l'âge adulte. Ces conduites peuvent être une façon de faire face, et la responsabilité des violences revient à l'auteur."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "liens-v2-roles : abus_physique → sch_imperfection",
+   "issue": "« de façon modérée » alors que r = 0,196 pour les violences physiques (effet modeste).",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "abus_physique",
+       "outcome": "sch_imperfection",
+       "summary": "Une méta-analyse de soixante-deux études montre que les violences subies dans l'enfance sont associées à un sentiment de honte plus marqué ; pour les violences physiques le lien est modeste, et il est plus fort pour les violences psychologiques."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "liens-v2-roles : amour_conditionnel → pat_overresponsibility",
+   "issue": "Le résumé redéfinit le facteur (« affection qui dépend de ce que l'on fait pour les autres ») alors que le facteur parle de réussite ou de comportement.",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "amour_conditionnel",
+       "outcome": "pat_overresponsibility",
+       "summary": "Le modèle des schémas relie une affection qui semblait dépendre de ce que l'on faisait ou réussissait à une attention excessive aux besoins des autres, aux dépens des siens."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "facteurs.json : triangulation / separation_conflit ; critique / pression_scolaire ; adoption / soins_instables",
+   "issue": "Exemples qui se chevauchent : « Être pris à partie » (separation_conflit) est la définition de triangulation ; « Notes jamais suffisantes » (critique) est la définition de pression_scolaire ; « Adoption … après des débuts de vie difficiles » recouvre « Prise en charge précoce instable » (orphelinat, placements), et les deux mènent à ten_souffrance_enfance.",
+   "fix": {
+    "facteurs.json": {
+     "separation_conflit": {
+      "examples": [
+       "Disputes autour de la garde",
+       "Ne plus voir un parent"
+      ]
+     },
+     "critique": {
+      "examples": [
+       "« Tu aurais pu mieux faire » à chaque fois",
+       "Corrections permanentes"
+      ]
+     },
+     "adoption": {
+      "description": "Avoir été adopté. Les placements ou le séjour en institution avant l'adoption relèvent de « Prise en charge précoce instable »."
+     }
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "conséquences : ten_souffrance_enfance / ten_externalisation",
+   "issue": "Pour adoption, déménagements et famille recomposée, les mêmes méta-analyses (Juffer 2005, Askeland 2017, Webb 2016) alimentent à la fois « Difficultés émotionnelles ou de comportement dans l'enfance » et « Comportements d'opposition… » : double comptage dans le domaine Corps et comportements.",
+   "fix": {
+    "corrections.json": {
+     "outcome_overrides": {
+      "ten_souffrance_enfance": {
+       "description": "Tristesse, anxiété ou difficultés d'adaptation pendant l'enfance ; l'opposition et l'agressivité sont comptées à part."
+      }
+     },
+     "link_overrides": [
+      {
+       "factor": "adoption",
+       "outcome": "ten_souffrance_enfance",
+       "sources": [
+        "juffer2005",
+        "vanijzendoorn2006"
+       ],
+       "summary": "Des méta-analyses trouvent un recours un peu plus fréquent aux consultations chez les enfants adoptés ; la plupart vont bien, et les difficultés sont plus marquées après des débuts de vie très carencés."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "conséquences : ten_douleurs_persistantes / icd_6c20",
+   "issue": "Deux conséquences proches (plaintes physiques à répétition et trouble de détresse physique) ; Hotopf 1999 (symptômes inexpliqués) va vers 6C20, Gini 2013 (plaintes psychosomatiques) vers les douleurs. Pas de convergence cassée majeure, mais la frontière n'est pas expliquée.",
+   "fix": {
+    "corrections.json": {
+     "outcome_overrides": {
+      "ten_douleurs_persistantes": {
+       "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ». Quand de nombreux symptômes envahissent la vie quotidienne, voir aussi le trouble de détresse physique."
+      }
+     }
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "conséquence pat_parentification",
+   "issue": "« Responsabilités précoces (parentification) » est une expérience d'enfance déjà proposée comme cause (parentification) ; en conséquence, elle double l'exposition plutôt qu'elle ne décrit un effet adulte.",
+   "fix": {
+    "corrections.json": {
+     "remove_outcomes": [
+      "pat_parentification"
+     ]
+    },
+    "note": "Option à arbitrer par le pilote ; à défaut, retirer au moins les deux liens V2 (déjà proposés)."
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "sources : fosco2016 / fosco2016_profils",
+   "issue": "Le même article (Fosco & Bray 2016, PMID 26963695) a deux identifiants, ce qui gonfle le nombre de sources et masque une fusion de liens.",
+   "fix": {
+    "liens-v2-causes.json": "remplacer « fosco2016 » par « fosco2016_profils » dans les liens triangulation → pat_conflict et → pat_guilt, et supprimer la source fosco2016."
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "sources : buehler2009 / franck2007",
+   "issue": "Les deux études utilisent le même échantillon de 416 familles ; le résumé triangulation → dep_generale parle « d'études suivies sur plusieurs années ».",
+   "fix": {
+    "corrections.json": {
+     "link_overrides": [
+      {
+       "factor": "triangulation",
+       "outcome": "dep_generale",
+       "summary": "Être pris à partie dans les conflits des parents est associé, dans une étude suivie sur quatre ans et dans d'autres travaux, à une hausse des difficultés anxieuses et dépressives à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "source schwartz_fawn",
+   "issue": "Page de praticienne (réponse HTTP 403 aux requêtes automatiques, non vérifiable) comme seule source des quatre liens vers pat_appeasement ; le modèle est celui de P. Walker (2013).",
+   "fix": {
+    "liens-v2-roles.json": "ajouter la référence du livre de Walker (Complex PTSD: From Surviving to Thriving, 2013) comme source theorie, ou garder la page en précisant « lue le … » après vérification manuelle."
+   }
+  },
+  {
+   "severity": "mineur",
+   "target": "couverture du plan V2",
+   "issue": "Le brief annonçait quatre fragments liens-v2-* ; seuls trois existent (causes, corps, roles ; le fragment corps a part = « corps »). Restent absents du plan : dépendance affective, choix de partenaires, travail compulsif ; la honte n'existe que sous le schéma d'imperfection et la méfiance sous le schéma de méfiance. La grappe « sauveur » est répartie entre pat_overresponsibility, sch_abnegation, ten_codependance et pat_appeasement, tous à poids 1 : le rôle de sauveur apparaîtra, mais avec la mention « Preuves limitées / modèle clinique », ce qui est exact.",
+   "fix": {
+    "docs/etat-couverture.md": "consigner ces lacunes ; ne pas fusionner les quatre conséquences (constructs distincts), mais éventuellement les regrouper visuellement dans le domaine Relations."
+   }
+  }
+ ],
+ "summary": "Relecture indépendante de la vague 2 (liens-v2-causes, -corps, -roles ; trois fragments présents, pas quatre). 85 liens vérifiés en ligne (PubMed E-utilities pour 98 PMID, tous existants et conformes à leurs citations ; texte intégral de Clance 1978 ; page schwartz_fawn non vérifiable, 403) : 76 exacts, 4 forces à revoir, 3 sources inexactes, 2 non soutenus. Les trois liens « forte » (conflits → dépression, conflits → anxiété, punitions corporelles → comportements) sont justifiés ; tous les liens vers le rôle de sauveur, la codépendance, les conduites suicidaires et la psychose ont été contrôlés. Aucun bloquant, mais 11 majeurs à corriger avant publication, surtout des doubles comptages entre causes proches introduits par les nouvelles causes (maladie d'un parent, divorce et séparation conflictuelle, parent absent, punitions et violences physiques, moqueries et harcèlement, solitude, isolement et sentiment de différence, pression scolaire et affection conditionnelle), deux liens fondés sur un autre construit (Steiner 2019, Roth 2009), un lien définitionnel (triangulation → parentification) et un libellé stigmatisant (emprise religieuse). Les formulations sont prudentes et non déterministes ; les pages liées aux nouvelles conséquences traitent bien leur sujet. Les corrections sont proposées en blocs link_overrides / outcome_overrides directement applicables, et en textes de remplacement pour facteurs.json."
+}
