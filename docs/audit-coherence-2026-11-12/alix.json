@@ -1,0 +1,362 @@
+{
+  "character_id": "alix",
+  "type": "clinique",
+  "auditor": "audit_c1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "33 ans, fabricant de savons dans une coopérative ouverte le samedi avec Laurent ; trouble cyclothymique connu ; ami Robin ; psychiatre Dre Benali ; bénévole Chloé.",
+    "arc_summary": "Alix veut créer des ateliers de matières (papiers, poudres, savon bleu) qui puissent continuer à plusieurs. La série alterne période d'activation (promesses, sommeil court, irritabilité), périodes basses (démarrage difficile, effort caché, rendez-vous manqués avec Robin) et période plus stable, avec un suivi qui explique comment le diagnostic se fonde sur l'histoire. Une période basse prolongée le conduit à avancer son rendez-vous ; avec Laurent il met en place une relève, et l'atelier final se tient grâce à Chloé alors qu'Alix est resté chez lui.",
+    "arc_issues": [
+      "Série concrète et cohérente (carton orange, deux papiers, savon bleu, carnet) ; facettes cliniques réelles et majoritairement distinctes.",
+      "Chronologie du diagnostic floue à l'épisode 8, qui semble présenter une lettre de diagnostic récente alors qu'il est connu depuis l'épisode 1.",
+      "Deux rendez-vous manqués avec Robin pour une période basse (épisodes 6 et 9) se ressemblent ; les périodes basses occupent cinq épisodes (2, 6, 9, 10, 12).",
+      "Personnages secondaires peu présentés à leur première apparition (Laurent, Robin, Chloé) ; plusieurs éléments apparaissent sans introduction (sondage, savon bleu)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-plus-de-dates-que-de-samedis.md",
+      "focus": "Période d'activation : les idées s'enchaînent et deviennent des promesses (un samedi sur deux, médiathèque) au-delà des disponibilités",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les deux papiers, l'habituée à qui il promet « un samedi sur deux » et son nom écrit dans les deux colonnes rendent l'élan visible et concret ; le carton orange est une décision claire.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Laurent écarte la caisse du pied pour que la porte ouvre en grand.",
+          "problem": "Laurent n'est présenté ni comme associé ni comme collègue de la coopérative.",
+          "fix": "« Laurent, avec qui il ouvre la coopérative le samedi, écarte… »."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-deux-papiers-sur-la-table.md",
+      "focus": "Période basse : baisse d'initiative pour engager le premier geste alors que le projet compte toujours",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le message ouvert trois fois, le café qui refroidit près d'une liste seulement datée et le contraste avec les commandes imprimées montrent précisément la difficulté de démarrage.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "Depuis mercredi, son premier café refroidit souvent à côté d’une liste qu’il a seulement datée.",
+          "problem": "Le passage de l'activation (épisode 1, « depuis quelques soirs ») à la baisse se fait en quelques jours sans que le texte situe ce délai ; un lecteur peut croire à un basculement immédiat.",
+          "fix": "Préciser l'écart (« Trois semaines après l’essai des papiers… » ou rappeler que les variations peuvent être rapprochées) pour situer la chronologie."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-trois-samedis-dans-le-carnet.md",
+      "focus": "Évaluation sur une histoire prolongée : répétition, durée et effets des périodes hautes et basses, observation légère",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La consultation avec la feuille des horaires est claire, mais l'ouverture sur le premier atelier est confuse (odeur du papier) et le titre « trois samedis » ne correspond pas clairement aux deux exemples donnés.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Il l’a notée dans son carnet avec le mot « orange » au milieu de la phrase. Le papier dont il était question portait en réalité l’odeur du bois.",
+          "problem": "Dans l'épisode 1, c'est le kraft qui « sent encore l’orange amère » ; le lecteur ne comprend pas quel papier la voisine a emporté ni en quoi la note est fausse.",
+          "fix": "Clarifier : « Elle avait choisi le papier blanc, qui sentait le bois ; dans son carnet, il a écrit “orange” par erreur. » ou supprimer le détail."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Deux lignes restent visibles même quand le pli revient sur lui-même.",
+          "problem": "Phrase obscure ; et « trois samedis » du retour ne correspond qu'à deux samedis décrits.",
+          "fix": "Nommer les trois samedis (fermeture en plus, ouverture déléguée, samedi ordinaire) et supprimer la phrase sur le pli."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-veille-bleue-et-deux-reveils.md",
+      "focus": "Diminution du besoin de sommeil en période d'activation, distincte d'une nuit courte subie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La lueur bleue à quatre heures et demie, la liste qui s'allonge et le contraste avec le réveil causé par le camion rendent la facette claire ; le message envoyé à la psychiatre est une décision lisible.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "même si Laurent attend encore le résultat du sondage auprès des visiteurs",
+          "problem": "Le « sondage » apparaît sans avoir été introduit.",
+          "fix": "« le résultat du petit sondage qu’ils ont laissé près de la caisse après le premier atelier »."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-la-boite-qui-prend-la-place.md",
+      "focus": "Irritabilité accrue qui se répète dans plusieurs échanges et déborde la contrariété ordinaire",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La réplique « Tant qu’on y est, enlève tout », le rappel de la réponse sèche à Robin et à l'imprimeur, puis le retour avec un mètre forment une scène nette et une réparation concrète.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "lui demande où la cliente a accroché la boîte",
+          "problem": "« Accroché » est ambigu (la cliente a frôlé le carton avec son manteau).",
+          "fix": "« où le manteau de la cliente a accroché la boîte »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-samedi-qui-prend-toute-la-journee.md",
+      "focus": "Effort caché pour maintenir le travail en période basse ; le coût se déplace vers la vie sociale",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le tiroir-caisse compté du doigt et la table laissée sur le seuil montrent bien l'effort ; une phrase sur Robin est incompréhensible et le lien d'amitié n'est pas posé.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Ils ont déjà commandé ce qu’ils boivent d’habitude assez souvent pour que Robin ait proposé de venir le chercher.",
+          "problem": "Phrase incompréhensible : on ne sait pas ce qui s'est passé ni pourquoi Robin viendrait le chercher.",
+          "fix": "« Ils se retrouvent souvent dans ce café ; cette fois, Robin a même proposé de passer le prendre à la coopérative. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Sur son téléphone, il a un message de Robin",
+          "problem": "Robin n'est pas présenté comme son ami dans l'épisode.",
+          "fix": "« un message de Robin, son ami, »."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-un-bleu-dans-la-petite-boite.md",
+      "focus": "Période plus stable : une joie située liée à un résultat, avec horaires et sommeil habituels",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le savon bleu qui tient, le report de l'annonce à mercredi et le banc avec Robin donnent un contrepoint calme et clair ; le projet de couleur bleue n'avait cependant jamais été mentionné.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le bleu est resté. Alix sort la petite barre du carton et regarde surtout le coin qui avait blanchi lors du précédent essai.",
+          "problem": "La recherche d'un savon bleu n'apparaît dans aucun épisode antérieur ; l'ouverture suppose un projet connu.",
+          "fix": "Ajouter une demi-phrase : « Depuis trois semaines, il essaie d’obtenir un savon bleu qui ne blanchisse pas aux angles. »"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-le-mot-sur-la-lettre.md",
+      "focus": "Comment le diagnostic se fonde sur l'histoire des périodes (durée, intensité, épisodes caractérisés) et peut être réévalué",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Les questions d'Alix (« Si les nuits recommencent à raccourcir, le nom change ? ») sont claires et l'explication CIM-11 est solide, mais le statut de la lettre (nouvelle ou ancienne) rend la chronologie du diagnostic confuse.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "clinique",
+          "quote": "Dans la dernière ligne avant la signature, la Dre Benali a écrit « trouble cyclothymique ». Alix a cherché la traduction du mot pendant l’attente",
+          "problem": "La scène donne l'impression que le diagnostic vient d'être communiqué (lettre fraîchement ouverte, mot recherché), alors que les épisodes 1 et 3 disent qu'Alix connaît déjà son diagnostic et que le premier bilan est ancien.",
+          "fix": "Dater la lettre (« la lettre de l’an dernier, qu’il a ressortie après avoir lu un forum ») et formuler la recherche comme une relecture : « Il a relu ce que le mot voulait dire… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Ils reprennent le canal qu’il a utilisé au printemps",
+          "problem": "Dans l'épisode 4, le message par le canal prévu a été envoyé récemment, avant la consultation ; « au printemps » crée un doute sur la chronologie.",
+          "fix": "« le canal qu’il a utilisé le mois dernier, quand il se réveillait trop tôt »."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-le-banc-que-robin-a-quitte.md",
+      "focus": "Retentissement relationnel : une promesse faite en période d'élan n'est pas tenue en période basse ; réparation avec Robin",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La photo du banc et du ticket, le message « Je suis parti » et l'appel à dix-sept heures rendent la déception et la réparation très lisibles ; l'accord de confirmation au petit déjeuner est concret.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Dans le trouble cyclothymique, la répétition de ces écarts peut retentir sur les relations.",
+          "problem": "Deuxième rendez-vous manqué avec Robin pour une période basse (le café de l'épisode 6) : la situation se répète et l'explication ne dit pas ce qui distingue cet épisode.",
+          "fix": "Assumer explicitement la répétition comme sujet (le motif qui revient et use la relation, « Robin avait déjà entendu cette phrase »), en citant le café annulé, et centrer l'explication sur l'effet cumulatif sur le lien plutôt que sur l'effort."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Robin avait déjà entendu cette phrase au début de l’été.",
+          "problem": "Renvoie à un événement non raconté ; l'annulation du café (épisode 6) n'est pas rappelée.",
+          "fix": "« Robin avait déjà reçu ce message le samedi du café annulé. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-deux-messages-restes-ouverts.md",
+      "focus": "Période basse prolongée qui s'étend à la vie quotidienne (repas, courses) et justifie de joindre l'équipe plus tôt pour une réévaluation",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le verre sous le robinet, le placard ouvert sans raison, le pain demandé à Robin et l'appel au cabinet en sa présence montrent bien l'extension de la difficulté ; la décision et le relais sont clairs.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La personne qui lui répond lui propose un échange le lendemain",
+          "problem": "On ne sait pas qui répond (secrétariat, infirmière, Dre Benali).",
+          "fix": "« L’infirmière du cabinet lui propose de voir la Dre Benali le lendemain… »."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-ce-qui-entre-dans-le-roulement.md",
+      "focus": "Fiabilité des engagements au travail quand l'énergie varie : relève nommée et heure de décision",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les magnets gris, la liste de personnes qui savent ouvrir et la question « un nom de relève et une heure pour décider ? » rendent l'accord de travail concret, sans divulgation imposée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Après l’entretien avec la Dre Benali, il a écrit un message pour proposer un rendez-vous avec Laurent.",
+          "problem": "Le résultat de l'entretien avancé de l'épisode 10 (réévaluation de la période) n'est pas évoqué, même brièvement.",
+          "fix": "Indiquer en une phrase ce qu'Alix retient de l'entretien (suivi rapproché, rendez-vous dans quinze jours) sans détailler."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il vérifiera les disponibilités de Chloé avant de mettre son nom sur la feuille.",
+          "problem": "Chloé apparaît pour la première fois sans présentation, alors qu'elle anime l'atelier final.",
+          "fix": "« de Chloé, une bénévole qui sait ouvrir la boutique, »."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alix-table-passee-de-main-en-main.md",
+      "focus": "Évolution fonctionnelle : relais demandé à temps et activité préservée, alors que des matinées difficiles persistent",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le message de Chloé et le soleil dessiné sont une belle ouverture et la fin résout la série ; mais Chloé n'est pas présentée et l'ordre des papiers contredit un épisode antérieur.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Chloé lui a laissé un message sur le carton orange.",
+          "problem": "Personnage central de l'épisode jamais présenté : le lecteur ne sait pas qui elle est ni pourquoi elle a tenu l'atelier.",
+          "fix": "« Chloé, la bénévole qui a tenu l’atelier à sa place samedi, lui a laissé un message… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Alix l’avait toujours placé à droite avec les savons au bois.",
+          "problem": "Dans l'épisode 2, Alix prévoyait « les deux papiers à gauche ».",
+          "fix": "« Alix l’avait toujours placé à gauche, avec le papier blanc à côté » ou modifier l'épisode 2."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Si l'épisode 9 est réorienté pour éviter la répétition avec l'épisode 6, une facette absente pourrait y prendre place : la dépense ou les achats impulsifs en période haute (commande de matières non prévue), ou la difficulté pour l'entourage de distinguer l'humeur habituelle d'Alix d'une variation.",
+  "verdict": "corrections_majeures"
+}

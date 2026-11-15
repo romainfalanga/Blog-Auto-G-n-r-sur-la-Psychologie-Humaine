@@ -1,0 +1,309 @@
+{
+ "character_id": "armand",
+ "type": "clinique",
+ "auditor": "audit_c2",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "72 ans, postier retraité qui tenait la bibliothèque du foyer communal ; démence due à la maladie d'Alzheimer, diagnostic connu ; Jeanne (fille), Nadia (bibliothécaire), Irène (ergothérapeute), médecin de la consultation mémoire, médecin traitant.",
+  "arc_summary": "Armand veut confier ses cartes anciennes à la bibliothèque du foyer. Chaque étape (heure du rendez-vous, entrée déplacée, tri, légende, affiche) fait voir une facette de la maladie : mémoire récente, désorientation, mémoire de travail, manque du mot, retentissement quotidien, consentement. Jeanne pose une limite, une ergothérapeute intervient, une confusion aiguë mène à l'hôpital puis à une réévaluation. Il remet trois originaux, garde le pont bas et le plan vert, et présente les cartes assis, avec un relais.",
+  "arc_issues": [
+   "Les épisodes 3, 6 et 11 relèvent tous de l'aide à la décision et 3 et 11 rejouent la même confusion entre l'original et la reproduction du pont bas.",
+   "Le compte et l'identité des cartes sont difficiles à suivre (quatre ou cinq en 3, plan vert apparu en 10).",
+   "Vouvoiement de Nadia en 5, tutoiement en 11.",
+   "Chronologie clinique cohérente : diagnostic connu, consultation mémoire (4), relais infirmier et ergothérapie (7-8), confusion aiguë traitée comme urgence sans l'attribuer à la maladie (9), réévaluation au retour (10).",
+   "Parcours globalement très lisible : scènes concrètes, proches bien situés, rubriques des proches ancrées et respectueuses."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-carton-gris-premier-tri.md",
+   "focus": "Mémoire des faits récents : deux billets contradictoires pour un même rendez-vous, alors que les souvenirs anciens restent précis",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Les deux billets (dix heures, onze heures) dans son écriture et la carte du pont bas où il retrouve le trait dessiné pour l'apprentissage du vélo rendent visible le contraste récent/ancien. Nadia est présentée (« la bibliothécaire »). Jeanne n'est jamais dite « sa fille » : on le déduit du souvenir du vélo.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Jeanne pose le pain sur le buffet et lui demande à quelle heure il veut aller voir Nadia, la bibliothécaire.",
+     "problem": "Nadia est présentée, mais pas Jeanne ; un lecteur isolé doit déduire qu'elle est sa fille.",
+     "fix": "« Jeanne, sa fille, pose le pain sur le buffet… »"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-porte-du-foyer.md",
+   "focus": "Désorientation dans un lieu familier quand un repère habituel change (entrée déplacée)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "La poignée en laiton qui ne bouge pas, les deux flèches contradictoires, la demande « Vous me montrez où tourner ? » et la place choisie face à la porte verte forment une scène limpide. La fin (porte « verte » qui tire sur le bleu) est un joli détail de personnage.",
+   "issues": []
+  },
+  {
+   "number": 3,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-carte-pont-bas-rester.md",
+   "focus": "Mémoire de travail fragilisée : garder plusieurs options en tête pendant une décision",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le moment où il ne sait plus quelles cartes il a apportées pour les montrer et la réplique « Celle-là repart dans ma chemise » sont forts. Mais le compte des cartes est confus (« quatre cartes, dont le plan des canaux, et la carte du pont bas », puis « cinq cartes ») et la fin laisse incertain ce qui a été décidé : il rapporte les cinq cartes chez lui, sans qu'on sache si un premier lot a été accepté.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Armand rapporte les cinq cartes.",
+     "problem": "Fin floue : après la discussion sur le « premier lot », le lecteur ne sait pas si un don a été convenu, reporté ou si tout est repris. La seule décision nette (reproduction du recto) est noyée.",
+     "fix": "Préciser : « Ils conviennent de remettre la décision au prochain jeudi ; en attendant, Armand rapporte les cinq cartes et la feuille provisoire où Nadia a noté : reproduction du recto du pont bas, original gardé. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Il en sort quatre cartes, dont le plan des canaux, et la carte du pont bas qu’il a reprise près de son fauteuil pour expliquer un raccord.",
+     "problem": "Comptage ambigu (quatre dont le pont bas, ou quatre plus le pont bas ?), qui rend difficile de suivre les pièces dans les épisodes 8, 10 et 11.",
+     "fix": "« Il en sort quatre cartes, dont le plan des canaux. Il y ajoute la carte du pont bas… »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Il gardera l’original, et les mots au verso avec.",
+     "problem": "Les annotations du verso sont mentionnées pour la première fois ici sans avoir été montrées dans la scène.",
+     "fix": "Introduire le verso plus tôt : quand Nadia trouve le trait, Armand retourne la carte où il a noté la date du trajet de Jeanne."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-feuille-consultation-memoire.md",
+   "focus": "Retentissement des troubles cognitifs dans les activités quotidiennes, décrit en consultation mémoire",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "La feuille « rangé où ? », le plan cherché dans le placard des vieux guides et l'enveloppe de la mutuelle donnent deux exemples précis ; l'accord dans le couloir sur l'ordre de parole respecte la voix d'Armand. Le dénouement (transmission au médecin traitant, coin gauche du buffet) est concret.",
+   "issues": []
+  },
+  {
+   "number": 5,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-trait-bord-rive.md",
+   "focus": "Manque du mot et difficulté à garder le fil quand plusieurs personnes proposent des mots",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Les anneaux d'amarrage dont le nom ne revient pas, le geste de l'index, les suggestions qui font perdre la phrase, puis la demande « Je veux qu'elle me montre là » et le détour par la tournée du facteur : la facette est montrée de façon exemplaire.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "sans toucher la vitrine du nez",
+     "problem": "Expression bancale qui arrête la lecture.",
+     "fix": "« sans avoir à coller le nez à la vitrine »."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-affiche-sous-son-nom.md",
+   "focus": "Soutien au consentement : distinguer plusieurs accords dans une même annonce (nom, portrait, mention de santé)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La bénévole qui veut « ajouter un mot sur la mémoire » et mettre sa photo, et la réplique « Si vous écrivez souvenirs, on va me demander la date de chaque chose » rendent l'enjeu évident. Le texte final de l'affiche est confus : Armand propose « Des cartes pour retrouver le passage », puis l'affiche porte « cartes anciennes du quartier ».",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Nadia réimprime la feuille avec le titre proposé et la reproduction du pont bas en vignette. En dessous du nom, il reste « cartes anciennes du quartier ».",
+     "problem": "On ne sait plus quel texte Armand a validé ni d'où vient « cartes anciennes du quartier ».",
+     "fix": "Écrire explicitement : « Sous son nom, on lit maintenant : Des cartes pour retrouver le passage. »"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-jeanne-rend-jeudi.md",
+   "focus": "Charge de l'aidant familial et limite posée par la fille ; organisation d'un relais professionnel",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Le badge autour du cou, le paquet de gâteaux qui reste fermé, le quart d'heure disponible et la question « Si tu ne viens plus, qui va savoir ce qu'on a déjà regardé ? » donnent une scène forte et lisible. Le relais (infirmière, ergothérapeute, plateforme de répit pour Jeanne) est concret et le paquet ouvert ferme la scène.",
+   "issues": []
+  },
+  {
+   "number": 8,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-buffet-deux-destinations.md",
+   "focus": "Compensation par repères externes : un rangement utile qui ne suffit plus, essai de deux emplacements avec l'ergothérapeute",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Irène est présentée, le coin gauche du buffet de l'épisode 4 est repris et sa limite montrée (courrier glissé sous la liste de courses). L'humour (« il faudrait un buffet plus long ») et la corbeille vide qui lui plaît rendent la scène vivante.",
+   "issues": []
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-matin-inhabituel-appel.md",
+   "focus": "Confusion aiguë (changement brutal de l'attention et de la vigilance) : urgence à ne pas attribuer à la maladie connue",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La rupture avec la veille est très claire (« On part où ? », regard au-dessus d'elle, attention qui décroche), Jeanne appelle le 15 sans attendre et transmet le diagnostic connu et la dernière heure de l'état habituel. Le jour de la scène n'est pas donné alors que la conclusion et la rubrique de l'épisode 10 parlent de « dimanche ».",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Le dimanche, la différence est assez nette pour que Jeanne appelle tout de suite.",
+     "problem": "Le jour n'est jamais mentionné dans la scène ; le lecteur découvre « dimanche » dans la conclusion.",
+     "fix": "Ajouter dans l'ouverture : « Ce dimanche, Jeanne entre avec un plat… » (cohérent avec le déjeuner du dimanche proposé en 7)."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "La personne au téléphone lui pose quelques questions et organise une évaluation urgente.",
+     "problem": "Formulation administrative au moment le plus tendu ; on ne sait pas qu'une équipe va venir avant le dénouement.",
+     "fix": "« Le médecin régulateur lui pose quelques questions et lui annonce qu'une équipe arrive. »"
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-retour-billet-a-remplacer.md",
+   "focus": "Réévaluation après une hospitalisation : fatigue et difficultés accrues, repères à actualiser",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le billet « dix heures, porte verte » qui le trompe deux fois puis qu'il retourne, la réplique « Ce rendez-vous est passé. Ça n'enlève rien aux cartes » et le plan vert gardé chez lui sont clairs. Le plan vert apparaît ici pour la première fois sans avoir été cité parmi les cartes du carton.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Dans la première sélection, il y a un plan vert sur lequel il avait dessiné sa tournée.",
+     "problem": "Carte jamais nommée dans les épisodes 1 à 8 alors que les cartes ont été décrites et comptées.",
+     "fix": "Mentionner le plan vert parmi les cartes de l'épisode 3 (par exemple « le plan vert de sa tournée »)."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-trois-cartes-remises.md",
+   "focus": "Soutien à la décision : garder la maîtrise d'un don grâce à des pièces séparées et une trace écrite",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La reproduction posée seule au milieu de la table, la liste relue, la condition ajoutée sur la consultation du plan des canaux et le carton vide tenu à deux mains donnent une fin d'épisode claire. Mais la confusion original/reproduction du pont bas rejoue presque exactement celle de l'épisode 3, et Armand tutoie Nadia alors qu'il la vouvoie ailleurs.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "« Tu parles du papier que j’ai chez moi ou de celui que tu as tiré ? »",
+     "problem": "Même difficulté que l'épisode 3 (savoir de quelle version du pont bas on parle) et même réponse (séparer les pièces) ; les épisodes 3, 6 et 11 traitent tous l'aide à la décision.",
+     "fix": "Centrer l'épisode sur ce qui le distingue : la décision définitive et ses conditions (consultation sur demande, trace remise à Armand), en remplaçant la confusion du pont bas par un autre point à clarifier, par exemple ce qui se passe si la bibliothèque ferme ou veut prêter un plan."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Les trois autres, tu les gardes ici.",
+     "problem": "Armand vouvoie Nadia dans l'épisode 5 (« Si vous gardez ça, vous gardez le chemin entier ») et la tutoie ici.",
+     "fix": "Uniformiser le vouvoiement : « Les trois autres, vous les gardez ici. »"
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/armand-table-des-passages.md",
+   "focus": "Adapter la participation à une activité qui compte quand les capacités évoluent (relais, place assise, cahier)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "La rencontre est concrète et émouvante : la question de la femme sur l'escalier de sa mère, la première phrase préparée qui s'efface, le trait montré par Nadia, la légende passée quand les questions se croisent, puis le nom de l'escalier recopié chez lui. Le projet est résolu et la perspective reste ouverte.",
+   "issues": []
+  }
+ ],
+ "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Pour réduire la redite 3/11, l'épisode 11 pourrait illustrer un autre aspect réel absent du parcours, par exemple la fatigabilité ou les variations au cours de la journée (choisir l'heure d'ouverture du samedi en fonction de ses meilleurs moments), tout en conservant la remise des trois originaux.",
+ "verdict": "corrections_mineures"
+}

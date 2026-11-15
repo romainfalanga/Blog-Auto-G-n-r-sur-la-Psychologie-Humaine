@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "character_id": "farid",
+  "reviewer": "review_farid",
+  "reviewed_on": "2026-11-12",
+  "status": "revision_requested",
+  "summary": "Lecture indépendante complète de la charte, du modèle, du dossier, du design, du brief et des douze épisodes de Farid. Les douze facettes sont distinctes et chacune devient visible dans la scène ; la chronologie (samedi de tri, visite du lundi, consultation dix jours après le mardi, chute du jeudi de la semaine suivante, retour le vendredi, conviction le dimanche à près de trois semaines de la visite, plan du jeudi, présentation un mardi matin) est exacte. Les garde-fous du canon sont respectés : hallucinations et conviction ni confirmées ni contestées, chute non expliquée par le diagnostic et 15 appelé sans attendre, aucun nom de médicament ni dose (la famille des antipsychotiques n’est mentionnée qu’à titre d’information sourcée, sans conseil), aménagements sans effet thérapeutique revendiqué, droit de Farid de ne pas raconter la veille conservé. Les écarts au plan signalés par le rédacteur (souhaits écrits le jeudi suivant, visite d’Hugo annulée, Anis présent un jeudi exceptionnel, carte remplie en consultation, étagère abaissée, marque sous le haut-parleur) sont cohérents et acceptés ; « monsieur Farid » est non bloquant. Huit corrections précises restent demandées : deux affirmations dépassant les sources (ép. 1, 4), une formulation circulaire sur malaise et syncope (ép. 8), deux raccords factuels (ép. 6, 9), une ambiguïté de lecture autonome (ép. 8), un partage d’information sans accord montré (ép. 9) et un exemple absent de la scène (ép. 12). Cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de déploiement.",
+  "files": {
+    "editorial/clinical/designs/farid.json": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+    "editorial/clinical/dossiers/farid.json": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+    "editorial/clinical/farid.json": "0bb003e361c4500abbafb54f37449c3aa9fcd2c065d79fe1f46b2be29daa872b"
+  },
+  "findings": [
+    {
+      "episode": 1,
+      "issue": "L’explication affirme que les fluctuations « sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes ». Le dossier (CDDR p. 624) dit que les troubles de l’attention, des fonctions exécutives et visuospatiaux sont souvent plus marqués que ceux de la mémoire ; il ne compare pas les fluctuations à la mémoire.",
+      "requested_change": "Remplacer cette phrase par une formulation fidèle à la source, par exemple : « Dans cette maladie, l’attention est d’ailleurs souvent plus touchée que la mémoire. » ou supprimer la comparaison."
+    },
+    {
+      "episode": 4,
+      "issue": "Dans les manifestations, « Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible » énonce une fréquence et une circonstance (lumière faible) qui ne figurent dans aucun point du dossier de sources.",
+      "requested_change": "Reformuler sans affirmation non sourcée, par exemple : « Elles peuvent survenir dans un moment ordinaire, sans événement particulier juste avant. » ; ou ajouter au dossier une source vérifiée pour le lien avec la lumière."
+    },
+    {
+      "episode": 6,
+      "issue": "La rubrique « Du côté des proches » dit qu’Anis « l’a appelé par son prénom depuis le seuil », alors que la scène le montre dire « Papa. Papa, c’est Anis » : le raccord est faux.",
+      "requested_change": "Écrire par exemple : « Anis a allumé le couloir et l’a appelé doucement depuis le seuil, en se nommant, sans le secouer. »"
+    },
+    {
+      "episode": 8,
+      "issue": "L’explication écrit que « des malaises ou des épisodes transitoires où la personne ne répond plus » sont « parfois difficiles à distinguer d’un vrai malaise » : la phrase est circulaire et ne rend pas la distinction de McKeith 2017 entre épisodes transitoires d’absence de réponse et vraie syncope.",
+      "requested_change": "Reformuler, par exemple : « des chutes répétées, des syncopes ou des épisodes transitoires où la personne ne répond plus font partie des signes possibles ; ces épisodes sont parfois difficiles à distinguer d’une vraie perte de connaissance, et bien d’autres causes peuvent provoquer une chute. »"
+    },
+    {
+      "episode": 8,
+      "issue": "Fin : « Mme Diallo glisse son portefeuille dans la poche de sa veste » est ambigu pour un lecteur arrivant sur l’épisode (on peut comprendre qu’elle garde le portefeuille sur elle) ; l’épisode 9 précise après coup qu’il s’agit de la veste de Farid.",
+      "requested_change": "Préciser : « Mme Diallo glisse le portefeuille de Farid, avec la carte de la neurologue, dans la poche de la veste qui part avec lui. »"
+    },
+    {
+      "episode": 9,
+      "issue": "La carte est dite remplie « il y a moins de deux semaines », alors que la consultation (épisode 6) a eu lieu le vendredi précédent, six jours avant la chute du jeudi : formulation trompeuse pour la chronologie.",
+      "requested_change": "Écrire « remplie vendredi dernier » ou « il y a six jours » avec la docteure Tissier."
+    },
+    {
+      "episode": 9,
+      "issue": "Dans la fin, Anis fait ajouter au dossier une note sur la moindre orientation de son père dans un lieu inconnu le soir sans lui demander son accord, alors que Farid est éveillé et vient de parler pour lui-même ; cela contredit la règle de la série (Anis transmet ce que son père autorise, sauf danger) et le travail de l’épisode 5.",
+      "requested_change": "Montrer l’accord dans la scène, par exemple : Anis se tourne vers son père : « Je peux leur dire que tu te repères moins bien ici le soir ? » Farid acquiesce, ou le dit lui-même à l’infirmier, qui l’ajoute au dossier."
+    },
+    {
+      "episode": 12,
+      "issue": "Exemple des manifestations « Anis se demande combien de temps son père pourra vivre seul avec ce soutien » : cette pensée n’apparaît nulle part dans la scène ; l’exemple n’est pas situé dans ce que le lecteur a observé, contrairement à la charte.",
+      "requested_change": "Remplacer par un élément présent dans la scène (par exemple : « Gilles tend la convention en demandant la suite, avant même la signature. ») ou ajouter dans l’ouverture un court passage montrant cette question chez Anis, sans prédire l’évolution."
+    }
+  ],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Fluctuations de la vigilance au cours d’une même journée",
+      "opening_quote": "À neuf heures, l’ancien garage de la maison de Villeurbanne sent encore la poussière chaude et le vernis. Farid, 74 ans, a passé quarante ans à réparer des postes de radio ; il en garde douze sur l’étagère du fond, les derniers qu’il veut donner au musée associatif Les Lampes du Faubourg. Anis, son fils, professeur de technologie dans un collège, a apporté des étiquettes de carton et un feutre noir. C’est samedi : ils ont la journée.",
+      "ending_quote": "Ils passent la fin de l’après-midi à dépoussiérer les boîtiers déjà notés, un travail que Farid fait sans parler, à son rythme. Sur son téléphone, Anis écrit seulement : « samedi, vers 14 h 30, regard fixe, réponses à côté ». Il n’ajoute pas « alors que ce matin… ». En partant, il dit qu’il reviendra demain à neuf heures. Farid hoche la tête sans savoir encore dans quel état il se réveillera.",
+      "continuity_note": "Samedi de tri : trois étiquettes dictées à neuf heures, puis le transistor rouge à 14 h 30 ; la note téléphonique d’Anis est reprise mot pour mot dans le cahier en 5 et le retour « demain à neuf heures » ouvre bien le dimanche de 2. Un lecteur arrivant ici sait qui est Anis, où l’on est et ce que Farid décide (étiquettes le matin).",
+      "clinical_note": "Fluctuations spontanées de l’attention et de l’éveil conformes à McKeith 2017 (regard fixe, discours décousu, réponse à côté), distinguées d’un manque d’effort. La phrase « Elles sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes » dépasse la source : le CDDR p. 624 dit que l’attention, les fonctions exécutives et le visuospatial sont souvent plus touchés que la mémoire, pas que les fluctuations le sont (voir remarque). Techniques sans échelle remise à l’entourage.",
+      "relatives_note": "Ancré dans le « ce matin tu savais tout » d’Anis ; phrase de remplacement concrète (dépoussiérer ou pause), notes datées transmises seulement avec accord, droit du proche à s’accorder une pause. Pas de rôle d’évaluateur."
+    },
+    {
+      "number": 2,
+      "focus": "Évaluer les distances et l’alignement d’un cadran",
+      "opening_quote": "Dimanche, neuf heures. Anis, le fils de Farid, professeur de technologie, est revenu comme promis. Avant tout, Farid lui tend le transistor rouge et dicte son étiquette d’une traite : « 1961, offert par un chauffeur de car, boîtier fêlé recollé. » Il laisse une ligne vide : « origine du haut-parleur, à vérifier. » La question de la veille est close.",
+      "ending_quote": "Pour l’aiguille, il demande à Anis de ne pas toucher au bouton. « Tu me lis seulement où elle est. » Anis dit « un peu à gauche », puis « encore », puis « dessus ». Farid garde le réglage final pour lui et lâche le bouton. Le résultat tient. Ce qui reste incertain, c’est demain : Gilles parlera, ouvrira des postes, et Farid ne sait pas encore ce que cela lui demandera.",
+      "continuity_note": "Dimanche neuf heures : le transistor rouge laissé la veille est étiqueté avec une ligne vide sur le haut-parleur, ligne qui sera remplie en 12. La visite de Gilles « lundi matin » est annoncée ; la bande de carton réapparaît en 3 et 10.",
+      "clinical_note": "Visuospatial et visuoperceptif plus touchés que la mémoire, contraste avec Alzheimer : conforme au CDDR p. 624. La scène montre l’aiguille décalée d’un centimètre et le poste posé au bord alors que les stations sont récitées ; l’attribution erronée aux mains est bien exploitée. Le gabarit est explicitement dit ne pas améliorer la perception ; aucun test à domicile.",
+      "relatives_note": "Part de l’accusation « c’est mes mains » ; phrase proposée qui lit sans reprendre le bouton ; proposition d’en parler ensemble à la neurologue, pas de test de la vue par le proche."
+    },
+    {
+      "number": 3,
+      "focus": "Attention partagée entre deux demandes simultanées",
+      "opening_quote": "Lundi, dix heures. Gilles Perrot, le président du musée associatif Les Lampes du Faubourg, entre dans l’atelier avec un carnet à spirale et beaucoup d’enthousiasme. Anis, le fils de Farid, est au collège ; Farid reçoit seul, comme il l’a voulu. Le poste à cadran vert attend sur sa bande de carton, l’aiguille sur Paris.",
+      "ending_quote": "« Je n’ai rien décidé pour les modifications. Écrivez-moi ce que vous proposez, poste par poste. Je vous répondrai par lettre. » Gilles hésite, puis arrache une page de son carnet et commence une liste. Farid ne signe rien ce jour-là. Quand Gilles part, la question reste entière : combien de postes Farid laissera-t-il toucher ? Il n’en sait rien encore, mais c’est de nouveau à lui de le dire.",
+      "continuity_note": "Lundi dix heures, Farid reçoit seul comme il l’a voulu, Anis au collège ; la page arrachée du carnet de Gilles restera sous le poste à cadran vert jusqu’en 10, ce qui fonde la lettre promise. La décision reste ouverte, comme le demande le design.",
+      "clinical_note": "Attention divisée et fonctions exécutives : les vis qui tombent pendant les questions sur le samedi, les assurances et la remise en marche rendent visible la superposition ; le oui poli « qui arrive tout seul » illustre le risque pour la décision sans en faire un défaut d’intérêt. Conseils de communication conformes à la fiche HAS 14 (une tâche à la fois, temps de réponse).",
+      "relatives_note": "Anis absent : la rubrique le reconnaît et part de la page de Gilles qu’il recevra, avec une phrase concrète (relire un matin sans décider). Le proche ne négocie pas le don à la place de son père."
+    },
+    {
+      "number": 4,
+      "focus": "Hallucinations visuelles bien formées dans l’atelier",
+      "opening_quote": "Lundi soir, un peu après vingt heures. Farid range dans une boîte à chaussures les étiquettes de carton déjà remplies, par ordre d’année. La page de Gilles Perrot, le président du musée, est posée sous le poste à cadran vert ; il la lira un autre matin. Dehors, la rue est calme. Seule la petite lampe de l’établi est allumée.",
+      "ending_quote": "Farid appuie sur l’interrupteur près de la porte. Le néon du plafond grésille, puis éclaire tout l’atelier. Il ne regarde pas l’établi plus longtemps qu’il ne faut, ferme la porte du garage et monte se coucher. Chez lui, Anis écrit dans les notes de son téléphone : « lundi, 20 h 15, papa dit voir quelqu’un, calme, fatigué ». Il n’ajoute rien. Il ne sait pas si son père voudra en reparler demain.",
+      "continuity_note": "Lundi soir vingt heures quinze, même jour que la visite ; l’appel d’Anis pour l’horaire de Mme Diallo le jeudi est plausible et fixe le créneau de neuf heures repris en 7, 8 et 11. Le néon qui grésille reviendra en 11 comme éclairage à remplacer.",
+      "clinical_note": "Hallucination visuelle bien formée (enfant calme, pull bleu) sans contenu effrayant ; ni confirmation ni contestation ; conforme à McKeith 2017. En revanche, l’affirmation « Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible » n’a aucun appui dans le dossier (voir remarque). Le geste de la grande lampe est explicitement présenté comme non thérapeutique.",
+      "relatives_note": "Part de la phrase prête « il n’y a personne » ; réponse concrète « Tu es inquiet ? » et proposition de venir. Le relais au 15 est réservé à l’angoisse majeure, au danger ou à une confusion soudaine, ce qui est cohérent avec la frontière du delirium (CDDR p. 620)."
+    },
+    {
+      "number": 5,
+      "focus": "Choisir ce qui est confié au neurologue",
+      "opening_quote": "Mardi, sept heures et quart. Anis, le fils de Farid, professeur de technologie, s’arrête chez son père avant le collège avec deux croissants dans un sac en papier. Farid a fait le café. La cuisine sent le pain grillé ; la radio de la cuisine, la seule qui ne part pas au musée, donne les informations à voix basse.",
+      "ending_quote": "Pour le lundi soir, il réfléchit longtemps, puis dicte une seule phrase : « Il a vu quelqu’un le soir et n’était pas effrayé. » Le reste, il le racontera s’il le souhaite. Anis demande s’il peut ajouter : « s’il y a un danger, je le dirai ». Farid accepte. Anis part au collège à huit heures moins dix, le cahier laissé sur la table de la cuisine. Ni l’un ni l’autre ne sait encore ce que Farid dira vraiment, vendredi prochain.",
+      "continuity_note": "Mardi sept heures et quart : « dans dix jours, vendredi de la semaine prochaine » est exact à partir d’un mardi. Les deux heures notées (samedi 14 h 30, lundi 20 h 15) sont celles de 1 et 4. Le cahier à trois colonnes, la limite du danger et la phrase autorisée sont repris exactement en 6.",
+      "clinical_note": "Accord sur le partage d’informations conforme à NICE NG97 1.1.7 et HAS fiche 14 ; la distinction fait observé / récit est illustrée par les deux lignes (« papa dit voir quelqu’un » contre « regard fixe »). La limite de sécurité est posée sans menace. Facette clairement distincte de 4.",
+      "relatives_note": "Part du geste de la tasse posée et du refus ; phrase concrète pour décider ensemble de ce qui sera dit ; limite du danger annoncée une fois. Respect du droit de Farid de garder son récit."
+    },
+    {
+      "number": 6,
+      "focus": "Rêves agis pendant le sommeil paradoxal",
+      "opening_quote": "Jeudi soir, Anis, le fils de Farid, professeur de technologie, s’installe dans la chambre d’amis. Il a échangé sa première heure de cours du vendredi avec une collègue : la consultation de la docteure Tissier, la neurologue de son père, est à huit heures trente à l’hôpital, et il préfère partir d’ici. Le cahier à trois colonnes est dans son sac.",
+      "ending_quote": "Le soir même, Farid tire la table de chevet à un bras du lit et pose la lampe sur la commode. Il ne sait pas si ses nuits changeront. Il sait que la lampe, au moins, ne tombera plus.",
+      "continuity_note": "Nuit du jeudi au vendredi, consultation à 8 h 30 : raccord exact avec 5. La phrase autorisée est prononcée par Farid lui-même, la carte portefeuille est remplie ici (diagnostic, service, demande de contact avant modification de traitement), ce qui prépare 9 sans anticipation artificielle. Table de chevet déplacée.",
+      "clinical_note": "Rêves agis du sommeil paradoxal, souvent antérieurs aux autres signes, causes ressemblantes et recours à une consultation spécialisée laissé à la neurologue : conforme à McKeith 2017. Aucun conseil de médicament pour dormir ; la neurologue interroge la somnolence diurne comme le prévoit le dossier.",
+      "relatives_note": "Ancrage correct dans le réveil depuis le seuil, mais la rubrique affirme qu’Anis « l’a appelé par son prénom » alors qu’il dit « Papa. Papa, c’est Anis » (voir remarque). Relais 15 en cas de blessure ou de réveil anormal, proportionné."
+    },
+    {
+      "number": 7,
+      "focus": "Lenteur des gestes et tremblement de repos",
+      "opening_quote": "Samedi, neuf heures et demie, le lendemain de la consultation. Farid s’installe à l’établi avec la radio de bakélite crème, celle que Gilles Perrot, le président du musée Les Lampes du Faubourg, avait ouverte lors de sa visite à l’atelier. Le cadran a un peu de jeu ; deux vis à resserrer, rien de plus. Anis, son fils, est chez lui avec ses copies à corriger. La page des propositions de Gilles est toujours sous le poste à cadran vert, sans réponse.",
+      "ending_quote": "Il ouvre ensuite le cahier à trois colonnes et écrit lui-même : « samedi, tremblement de la main droite au repos, gestes lents ». Troisième colonne : « oui, à la docteure ». Il laisse un message sur le répondeur de l’équipe de soutien. Lundi, la secrétaire rappelle : Hugo Lambert, l’ergothérapeute, passera jeudi vers onze heures, après la visite de Mme Diallo, l’assistante de soins en gérontologie de la même équipe, pour regarder l’établi. Farid range le fer à souder dans le tiroir du bas. Il n’a pas décidé de ne plus jamais s’en servir ; il a décidé que ce n’était pas à lui de le tenir pour l’instant.",
+      "continuity_note": "Samedi lendemain de la consultation ; la page de Gilles est toujours sans réponse ; le message au répondeur puis l’appel du lundi fixent Hugo jeudi onze heures après Mme Diallo, ce qui cadre l’épisode 8. Le fer rangé dans le tiroir du bas respecte la règle du design (plus utilisé à partir de 7).",
+      "clinical_note": "Lenteur et tremblement de repos qui diminue au mouvement, un seul signe pouvant suffire, diagnostic différentiel avec l’arthrose : conforme à McKeith 2017. Aucun geste technique dangereux détaillé ; le fer est débranché avant d’être chaud. Ergothérapie conforme à NICE 1.4.4, sans effet thérapeutique revendiqué.",
+      "relatives_note": "Part de l’envie de prendre l’outil ; question concrète sur la part à garder ; conduite calme devant un fer branché sans retirer l’atelier. Répartition des rôles personne / ergothérapeute / neurologue claire."
+    },
+    {
+      "number": 8,
+      "focus": "Une chute soudaine demande un avis urgent",
+      "opening_quote": "Jeudi, neuf heures quarante. Mme Diallo, assistante de soins en gérontologie de l’équipe de soutien au domicile, est arrivée à neuf heures comme chaque semaine. Farid lui a parlé du poste qui glissait dans son rêve et de la table de chevet déplacée ; il plaisantait sur la lampe « enfin à l’abri ». Puis il l’a entraînée dans l’atelier : il veut compléter l’étiquette du transistor rouge, la ligne restée vide sur l’origine du haut-parleur. Hugo Lambert, l’ergothérapeute, doit passer à onze heures.",
+      "ending_quote": "Pendant l’attente, elle appelle Anis, le fils de Farid, au collège : « Votre père est tombé, il a été quelques secondes sans répondre, les secours arrivent. Il parle. » Elle prévient aussi le secrétariat pour qu’Hugo ne vienne pas à onze heures. Farid proteste encore un peu, puis se tait. L’équipe des secours l’examine et décide de l’emmener aux urgences. Mme Diallo glisse son portefeuille dans la poche de sa veste. Sur l’établi, l’étiquette du transistor rouge reste avec sa ligne vide.",
+      "continuity_note": "Jeudi 9 h 40, Hugo attendu à onze heures : raccord exact avec 7 ; Farid raconte à Mme Diallo le rêve et la table déplacée, ce qui reprend la consigne de la neurologue. La visite d’Hugo annulée est reprise en 11 (« votre visite a déjà été annulée une fois »). L’étiquette inachevée reste visible jusqu’en 12.",
+      "clinical_note": "La chute n’est pas expliquée par le diagnostic ; appel au 15 sans attendre, faits transmis (heure, six secondes, voix pâteuse, état habituel), conformes à McKeith 2017, CDDR p. 620 et Service Public F33954. La phrase « des malaises ou des épisodes transitoires… parfois difficiles à distinguer d’un vrai malaise » est circulaire et ne rend pas la distinction de la source avec la syncope (voir remarque). « Monsieur Farid » est une adresse plausible d’une aide à domicile, faute de nom de famille au canon : non bloquant.",
+      "relatives_note": "Part du « je veux finir l’étiquette » ; phrase concrète qui reporte la tâche et appelle le 15 ; aucune hypothèse sur la cause ; faits transmis même si la personne minimise. Le troisième rappel du 15 dans la série est ici le cas central et justifié."
+    },
+    {
+      "number": 9,
+      "focus": "Signaler le diagnostic à chaque équipe soignante",
+      "opening_quote": "Jeudi, midi passé. Anis, le fils de Farid, professeur de technologie, a laissé sa classe à un collègue et traversé la ville. Aux urgences, il trouve son père sur un brancard dans un box, une couverture jusqu’à la poitrine, une perfusion au bras. Farid a les yeux ouverts. « Tu as abandonné tes élèves », dit-il. La voix n’est plus pâteuse ; elle est fatiguée.",
+      "ending_quote": "Vendredi en fin de matinée, Farid rentre chez lui, raccompagné par Anis. Il a un compte rendu pour la neurologue, un rendez-vous de suivi avec elle et une évaluation des chutes prévue dans les semaines qui viennent. La cause de la chute n’a pas été fixée ce jour-là. Dans l’atelier, Farid rend la carte à son fils. « Garde l’original, c’est toi qui l’as sortie. » Anis la range dans son portefeuille. Il en fait deux photocopies : l’une repart dans le portefeuille de son père, l’autre est punaisée au-dessus de l’établi, à côté de l’étiquette du transistor rouge, toujours inachevée.",
+      "continuity_note": "Jeudi midi, Anis a quitté sa classe ; le portefeuille glissé par Mme Diallo, la liste du réfrigérateur et la carte font le lien avec 6 et 8 ; nuit en observation, retour le vendredi, original chez Anis et copies dans le portefeuille et au-dessus de l’établi, conformes au design. Mais la carte est dite remplie « il y a moins de deux semaines » alors que la consultation date du vendredi précédent, six jours plus tôt (voir remarque).",
+      "clinical_note": "Sensibilité aux médicaments fondée sur NICE 1.7.4, HAS fiche 2 et McKeith 2017. La mention de la famille « antipsychotiques » reste une information de source, sans produit, dose, arrêt ni ajout, et la rubrique proches dit explicitement que le proche n’a pas à connaître les médicaments à éviter : compatible avec la consigne. Risque de confusion à l’hôpital (NICE 1.9.1) relié à la note d’Anis ; cause de la chute non fixée.",
+      "relatives_note": "Part du vide ressenti par Anis ; phrases concrètes (voici sa carte, pouvez-vous la joindre) ; ni refus d’un soin d’urgence ni choix de traitement. Toutefois, dans la scène, Anis fait ajouter au dossier une information sur l’orientation de son père sans lui demander son accord alors qu’il est éveillé, en tension avec la règle de la série (voir remarque)."
+    },
+    {
+      "number": 10,
+      "focus": "Une conviction sans fondement distincte d’une vraie inquiétude",
+      "opening_quote": "Dimanche matin, deux jours après le retour de l’hôpital. Anis, le fils de Farid, professeur de technologie, est venu à neuf heures pour la matinée. Il trouve son père debout devant l’étagère, la bande de carton sous le poste à cadran vert, les bras croisés.",
+      "ending_quote": "Puis il s’assoit. « Ce que je ne veux pas, c’est qu’on touche à mes postes sans moi. » Anis montre la page de Gilles. « Ça, on peut le régler aujourd’hui. » Ils écrivent la lettre ensemble : neuf postes exposés en l’état ; trois remis en marche par Maryse, la technicienne bénévole du musée, selon les notes de Farid, la bakélite crème, le transistor rouge et le petit bleu de 1957. Farid signe. Dans le cahier, avec son accord, Anis écrit : « dimanche, 9 h à 11 h, papa très contrarié, sûr que des lampes ont été changées ». Troisième colonne, de la main de Farid : « oui, à la docteure ». La docteure Tissier, sa neurologue, le lira au rendez-vous de suivi. La lettre part lundi. Farid ne pardonne pas tout à fait à Gilles.",
+      "continuity_note": "Dimanche, deux jours après le retour : « près de trois semaines » depuis la visite du lundi est exact (vingt jours). La clé restée sur le trousseau d’Anis depuis le jeudi soir explique qu’il sache l’atelier fermé. Lettre écrite et signée, envoyée lundi, acceptée dans 11 ; les trois postes à remettre en marche sont ceux de la conviction, choix cohérent avec « pas sans moi ».",
+      "clinical_note": "Idée délirante d’intrusion distinguée de l’inquiétude réelle sur le don, conforme au CDDR p. 624 et au spécificateur 6D86.0 sans le poser. La réponse d’Anis (« je n’ai rien remarqué, mais je n’étais pas tout le temps là ») ne confirme ni ne confronte et reste honnête sur ce qu’il a vu ; la vérification par étiquettes est faite avec accord et n’est pas présentée comme devant convaincre. Signalement à la neurologue via le cahier.",
+      "relatives_note": "Part de « Tu me crois, toi ? » avec une phrase honnête et non combative ; pas de traitement par le proche ; signalement si la conviction dure ou fait souffrir, avec accord."
+    },
+    {
+      "number": 11,
+      "focus": "Un soutien prévisible quand l’attention varie",
+      "opening_quote": "Jeudi, neuf heures. Hugo Lambert, l’ergothérapeute de l’équipe de soutien au domicile, et Mme Diallo, l’assistante de soins en gérontologie qui vient chaque jeudi, sonnent ensemble. Ils viennent revoir le plan d’aide, une semaine après la chute. Anis, le fils de Farid, professeur de technologie, est là aussi : ses cours commencent à dix heures et demie ce jour-là.",
+      "ending_quote": "Pour la lettre de Gilles, Farid relit et dicte une réponse : la présentation se fera un mardi matin, pas un samedi après-midi. Hugo et Mme Diallo partent à neuf heures quarante. Farid retourne se coucher. Rien ne dit que le jeudi suivant sera meilleur ; le plan est fait pour ne pas avoir à le savoir.",
+      "continuity_note": "Jeudi neuf heures, une semaine après la chute ; Anis présent exceptionnellement car ses cours commencent à 10 h 30 ; l’étagère abaissée lundi avec accord, la lettre de Gilles arrivée la veille et le néon de 4 sont repris. Plan écrit : Mme Diallo le jeudi, Hugo référent dans un mois, Anis mardi soir et appel du dimanche, évaluation des chutes notée ; présentation déplacée à un mardi matin.",
+      "clinical_note": "Soutien prévisible, version courte prévue, objectifs selon les préférences et référent coordonnant : conforme à HAS fiche 13 et NICE 1.3 et 1.11. L’explication dit explicitement que ces arrangements ne changent pas l’évolution. Facette distincte de 1 : ici l’organisation, non la fluctuation elle-même.",
+      "relatives_note": "Part de la phrase d’Anis sur ce qui reste à sa charge, présentée comme légitime ; formulation concrète du rôle, limites nommées, ressource pour les aidants. Aucun glissement vers un aidant soignant permanent."
+    },
+    {
+      "number": 12,
+      "focus": "Anticiper l’évolution en gardant ses choix",
+      "opening_quote": "Mardi, dix heures. La salle du rez-de-chaussée du musée associatif Les Lampes du Faubourg sent la cire et le café. Les douze postes de Farid sont alignés sur trois tables couvertes de feutre gris, chacun avec son étiquette de carton. Anis, son fils, professeur de technologie, a posé une demi-journée pour l’occasion. Gilles Perrot, le président du musée, a fait venir une dizaine de bénévoles.",
+      "ending_quote": "Mardi soir, il en donne une copie à Anis, qui la range avec la carte, sans la commenter. Une autre part au secrétariat de la docteure Tissier, sa neurologue, pour le rendez-vous de suivi. Farid sait que la maladie continuera d’avancer, à un rythme que personne ne lui a promis. Il sait aussi où sont ses radios, et ce qu’il a écrit.",
+      "continuity_note": "Mardi dix heures au musée ; deux matinées de Maryse au fer selon les réglages dictés ; la ligne vide du transistor rouge enfin remplie grâce à la marque sous le haut-parleur, ce qui ferme le fil ouvert en 2 et 8. Convention neuf plus trois ; page de souhaits rédigée le jeudi suivant avec Mme Diallo, remise à Anis le mardi soir conformément au plan de 11 : écart au design justifié par les jours fixes.",
+      "clinical_note": "Progressivité sans rythme promis (CDDR p. 619) et souhaits anticipés révisables (NICE 1.1.12–1.1.13) ; aucune promesse de ralentissement. La baisse d’attention au bout de dix minutes reste un moment de la présentation, sans déduction de stade. Un exemple des manifestations (« Anis se demande combien de temps son père pourra vivre seul ») n’est pas visible dans la scène (voir remarque).",
+      "relatives_note": "Part du geste d’Anis qui ne finit pas la phrase ; réponse concrète à la page reçue ; le proche n’a pas à préparer seul la suite et garde sa propre vie. Le droit de Farid de ne pas raconter ses nuits est conservé jusqu’à la fin."
+    }
+  ]
+}

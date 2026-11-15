@@ -1,0 +1,1790 @@
+{
+ "part": "adversite",
+ "author": "recherche_adversite",
+ "outcomes": [
+  {
+   "id": "icd_6b40",
+   "kind": "trouble",
+   "label": "Trouble de stress post-traumatique",
+   "code": "6B40",
+   "description": "Revivre un événement terrifiant comme s'il se reproduisait, l'éviter et rester en alerte.",
+   "url": "/personnages/selma/"
+  },
+  {
+   "id": "icd_6b41",
+   "kind": "trouble",
+   "label": "Trouble de stress post-traumatique complexe",
+   "code": "6B41",
+   "description": "Symptômes du stress post-traumatique avec, en plus, de grandes difficultés à réguler ses émotions, à se percevoir et à être proche des autres.",
+   "url": "/personnages/meriem/"
+  },
+  {
+   "id": "icd_6b42",
+   "kind": "trouble",
+   "label": "Trouble du deuil prolongé",
+   "code": "6B42",
+   "description": "Un chagrin intense et envahissant qui dure bien au-delà de ce qui est attendu après un décès.",
+   "url": "/personnages/blandine/"
+  },
+  {
+   "id": "icd_6b44",
+   "kind": "trouble",
+   "label": "Trouble réactionnel de l'attachement",
+   "code": "6B44",
+   "description": "Chez le jeune enfant, très peu chercher ou accepter le réconfort après des soins gravement insuffisants.",
+   "url": "/personnages/basile/"
+  },
+  {
+   "id": "icd_6b45",
+   "kind": "trouble",
+   "label": "Trouble de l'engagement social désinhibé",
+   "code": "6B45",
+   "description": "Chez le jeune enfant, aller vers des adultes inconnus sans aucune réserve après des soins gravement insuffisants.",
+   "url": "/personnages/thael/"
+  },
+  {
+   "id": "icd_6a71",
+   "kind": "trouble",
+   "label": "Trouble dépressif récurrent",
+   "code": "6A71",
+   "description": "Des épisodes de dépression qui reviennent : tristesse ou perte d'intérêt durables, fatigue, idées noires.",
+   "url": "/personnages/inaya/"
+  },
+  {
+   "id": "icd_6b00",
+   "kind": "trouble",
+   "label": "Trouble d'anxiété généralisée",
+   "code": "6B00",
+   "description": "Une inquiétude excessive et persistante sur de nombreux sujets ; représente ici les troubles anxieux en général.",
+   "url": "/personnages/antonin/"
+  },
+  {
+   "id": "icd_6b05",
+   "kind": "trouble",
+   "label": "Trouble d'anxiété de séparation",
+   "code": "6B05",
+   "description": "Une peur excessive d'être séparé des personnes auxquelles on est attaché.",
+   "url": "/personnages/rebecca/"
+  },
+  {
+   "id": "icd_6d10",
+   "kind": "trouble",
+   "label": "Trouble de la personnalité",
+   "code": "6D10",
+   "description": "Des difficultés durables dans la manière de se vivre et d'être en relation, dont le type borderline.",
+   "url": "/personnages/mina/"
+  },
+  {
+   "id": "icd_6a20",
+   "kind": "trouble",
+   "label": "Schizophrénie",
+   "code": "6A20",
+   "description": "Un trouble psychotique : perception ou croyances qui se détachent de la réalité partagée.",
+   "url": "/personnages/nils/"
+  },
+  {
+   "id": "icd_6a60",
+   "kind": "trouble",
+   "label": "Trouble bipolaire de type I",
+   "code": "6A60",
+   "description": "Alternance d'épisodes maniaques et souvent dépressifs ; représente ici les troubles bipolaires.",
+   "url": "/personnages/emilien/"
+  },
+  {
+   "id": "icd_6b81",
+   "kind": "trouble",
+   "label": "Boulimie nerveuse",
+   "code": "6B81",
+   "description": "Crises alimentaires suivies de comportements pour compenser ; représente ici les troubles des conduites alimentaires.",
+   "url": "/personnages/victoire/"
+  },
+  {
+   "id": "icd_6b60",
+   "kind": "trouble",
+   "label": "Trouble dissociatif à symptômes neurologiques",
+   "code": "6B60",
+   "description": "Des symptômes comme une paralysie ou des crises, sans maladie neurologique qui les explique.",
+   "url": "/personnages/gaelle/"
+  },
+  {
+   "id": "icd_6b64",
+   "kind": "trouble",
+   "label": "Trouble dissociatif de l'identité",
+   "code": "6B64",
+   "description": "Plusieurs états d'identité distincts qui prennent tour à tour le contrôle.",
+   "url": "/personnages/celeste/"
+  },
+  {
+   "id": "icd_6c90",
+   "kind": "trouble",
+   "label": "Trouble oppositionnel avec provocation",
+   "code": "6C90",
+   "description": "Chez l'enfant, opposition, colère et défi persistants envers les adultes.",
+   "url": "/personnages/ruben/"
+  },
+  {
+   "id": "icd_6c40_2",
+   "kind": "trouble",
+   "label": "Dépendance à l'alcool",
+   "code": "6C40.2",
+   "description": "Une consommation d'alcool devenue difficile à contrôler malgré ses conséquences.",
+   "url": "/personnages/eric/"
+  },
+  {
+   "id": "ten_usage_substances",
+   "kind": "tendance",
+   "label": "Usage problématique d'alcool ou de drogues",
+   "description": "Consommer des substances de façon risquée ou difficile à contrôler.",
+   "url": null
+  },
+  {
+   "id": "ten_conduites_suicidaires",
+   "kind": "tendance",
+   "label": "Pensées et gestes suicidaires",
+   "description": "Idées de mort, projets ou tentatives de suicide.",
+   "url": null
+  },
+  {
+   "id": "ten_dissociation",
+   "kind": "tendance",
+   "label": "Symptômes dissociatifs",
+   "description": "Se sentir déconnecté de soi, de son corps ou de ce qui se passe, avec des trous de mémoire.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/"
+  },
+  {
+   "id": "ten_hypervigilance",
+   "kind": "tendance",
+   "label": "Hypervigilance à la menace",
+   "description": "Repérer très vite les signes de danger, de colère ou de rejet, et réagir fortement.",
+   "url": null
+  },
+  {
+   "id": "ten_regulation_emotionnelle",
+   "kind": "tendance",
+   "label": "Difficultés à réguler ses émotions",
+   "description": "Des émotions qui débordent, ou que l'on évite et retient beaucoup.",
+   "url": null
+  },
+  {
+   "id": "ten_revictimisation",
+   "kind": "tendance",
+   "label": "Risque de nouvelles violences sexuelles",
+   "description": "Subir à nouveau des violences sexuelles plus tard dans la vie ; la responsabilité en revient à l'agresseur.",
+   "url": null
+  },
+  {
+   "id": "ten_violences_couple",
+   "kind": "tendance",
+   "label": "Violences dans le couple à l'âge adulte",
+   "description": "Subir ou exercer des violences dans une relation de couple.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/"
+  },
+  {
+   "id": "ten_souffrance_enfance",
+   "kind": "tendance",
+   "label": "Difficultés émotionnelles ou de comportement dans l'enfance",
+   "description": "Anxiété, tristesse, agitation ou opposition repérées pendant l'enfance ou l'adolescence.",
+   "url": null
+  },
+  {
+   "id": "ten_comportements_antisociaux",
+   "kind": "tendance",
+   "label": "Comportements antisociaux",
+   "description": "Transgressions répétées des règles et des droits des autres pendant l'enfance ou l'adolescence.",
+   "url": null
+  },
+  {
+   "id": "ten_codependance",
+   "kind": "tendance",
+   "label": "Codépendance",
+   "description": "S'oublier pour prendre en charge un proche en difficulté ; une notion clinique sans définition consensuelle.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/"
+  },
+  {
+   "id": "pat_parentification",
+   "kind": "tendance",
+   "label": "Responsabilités précoces (parentification)",
+   "description": "Avoir pris enfant un rôle de parent, matériel ou émotionnel, auprès de sa famille.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/"
+  },
+  {
+   "id": "pat_emotional_identification",
+   "kind": "tendance",
+   "label": "Identifier ses émotions (alexithymie)",
+   "description": "Avoir du mal à reconnaître et à mettre des mots sur ce que l'on ressent.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
+  },
+  {
+   "id": "sch_carence_affective",
+   "kind": "schema",
+   "label": "Schéma de carence affective",
+   "description": "S'attendre à ne pas recevoir le soutien, l'attention ou la compréhension dont on a besoin.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/"
+  },
+  {
+   "id": "sch_abandon",
+   "kind": "schema",
+   "label": "Schéma d'abandon et d'instabilité",
+   "description": "Sentir que les personnes proches risquent de partir ou de ne pas rester fiables.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/"
+  },
+  {
+   "id": "sch_mefiance",
+   "kind": "schema",
+   "label": "Schéma de méfiance et d'abus",
+   "description": "S'attendre à être blessé, trompé, humilié ou exploité par les autres.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/"
+  },
+  {
+   "id": "sch_imperfection",
+   "kind": "schema",
+   "label": "Schéma d'imperfection et de honte",
+   "description": "Se sentir fondamentalement défectueux, mauvais ou indigne d'être aimé.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/"
+  },
+  {
+   "id": "sch_assujettissement",
+   "kind": "schema",
+   "label": "Schéma d'assujettissement",
+   "description": "Taire ses besoins et ses avis pour éviter la colère ou le rejet.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+  },
+  {
+   "id": "sch_isolement",
+   "kind": "schema",
+   "label": "Schéma d'isolement social",
+   "description": "Se sentir différent des autres et à l'écart des groupes.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/"
+  },
+  {
+   "id": "sch_echec",
+   "kind": "schema",
+   "label": "Schéma d'échec",
+   "description": "Se croire moins capable que les autres et voué à échouer.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/"
+  },
+  {
+   "id": "sch_vulnerabilite",
+   "kind": "schema",
+   "label": "Schéma de vulnérabilité au danger",
+   "description": "Craindre en permanence une catastrophe contre laquelle on ne pourrait rien.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
+  },
+  {
+   "id": "sch_abnegation",
+   "kind": "schema",
+   "label": "Schéma d'abnégation",
+   "description": "Faire passer les besoins des autres avant les siens, au point de s'oublier.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/"
+  },
+  {
+   "id": "att_anxieux",
+   "kind": "attachement",
+   "label": "Attachement anxieux",
+   "description": "Craindre de perdre l'autre et chercher beaucoup de signes de son affection.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/"
+  },
+  {
+   "id": "att_evitant",
+   "kind": "attachement",
+   "label": "Attachement évitant",
+   "description": "Garder ses distances et compter surtout sur soi pour ne pas dépendre des autres.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/"
+  },
+  {
+   "id": "att_desorganise",
+   "kind": "attachement",
+   "label": "Attachement désorganisé",
+   "description": "Chercher la proximité tout en la craignant, avec des réactions contradictoires.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/"
+  }
+ ],
+ "links": [
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b40",
+   "strength": "forte",
+   "summary": "Des violences physiques graves peuvent constituer l'événement menaçant que la CIM-11 exige pour ce diagnostic ; elles sont associées à un risque plus élevé de stress post-traumatique.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b41",
+   "strength": "forte",
+   "summary": "La CIM-11 cite les violences physiques répétées dans l'enfance parmi les situations prolongées, difficiles à fuir, qui précèdent le plus souvent un stress post-traumatique complexe.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6a71",
+   "strength": "forte",
+   "summary": "Les violences physiques dans l'enfance sont associées à un risque plus élevé de dépression à l'âge adulte, y compris dans des études qui suivent les enfants dans le temps.",
+   "sources": [
+    "norman2012",
+    "li2016",
+    "nelson2017"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b00",
+   "strength": "moderee",
+   "summary": "Dans des cohortes suivies dans le temps, les violences physiques sont associées à un risque plus élevé de troubles anxieux à l'âge adulte.",
+   "sources": [
+    "li2016"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "forte",
+   "summary": "Les violences physiques subies enfant sont associées à un risque plus élevé de pensées et de tentatives de suicide, chez les jeunes comme chez les adultes.",
+   "sources": [
+    "norman2012",
+    "angelakis2019",
+    "angelakis2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "Les violences physiques sont associées à un usage plus fréquent de drogues et d'alcool, dès l'adolescence et à l'âge adulte.",
+   "sources": [
+    "norman2012",
+    "rakovski2024"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "Les violences physiques font partie des adversités associées à un risque plus élevé de troubles psychotiques, dans plusieurs types d'études.",
+   "sources": [
+    "varese2012"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_dissociation",
+   "strength": "moderee",
+   "summary": "Les personnes ayant subi des violences physiques rapportent en moyenne davantage de symptômes dissociatifs, surtout quand les violences ont commencé tôt, duré longtemps ou venaient d'un parent.",
+   "sources": [
+    "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "att_desorganise",
+   "strength": "moderee",
+   "summary": "Les enfants maltraités ont plus souvent un attachement désorganisé et moins souvent un attachement sécure que les autres enfants.",
+   "sources": [
+    "cyr2010"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "att_anxieux",
+   "strength": "moderee",
+   "summary": "La maltraitance dans l'enfance est associée, en moyenne, à davantage d'anxiété d'attachement à l'âge adulte.",
+   "sources": [
+    "li2026"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_hypervigilance",
+   "strength": "moderee",
+   "summary": "Les enfants exposés à des violences repèrent plus vite les signes de menace et y réagissent plus fortement ; cette adaptation au danger est associée à de nombreuses difficultés ultérieures.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_regulation_emotionnelle",
+   "strength": "moderee",
+   "summary": "La maltraitance est associée à plus de difficultés à réguler ses émotions, avec davantage d'évitement et de suppression émotionnelle chez les jeunes.",
+   "sources": [
+    "gruhn2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6d10",
+   "strength": "moderee",
+   "summary": "Les personnes ayant un trouble de la personnalité borderline rapportent plus souvent des adversités dans l'enfance, dont les violences physiques ; les études rétrospectives dominent.",
+   "sources": [
+    "porter2020"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b81",
+   "strength": "moderee",
+   "summary": "La maltraitance, dont les violences physiques, est associée à la présence de troubles des conduites alimentaires et à des formes plus sévères, avec davantage de crises et de vomissements.",
+   "sources": [
+    "molendijk2017"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "sch_carence_affective",
+   "strength": "limitee",
+   "summary": "Les violences physiques sont faiblement associées au schéma de carence affective chez l'adulte, dans des études surtout transversales.",
+   "sources": [
+    "pilkington2021"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b40",
+   "strength": "forte",
+   "summary": "La CIM-11 cite les violences sexuelles parmi les événements pouvant précéder un stress post-traumatique ; les méta-analyses de bonne qualité confirment un risque plus élevé.",
+   "sources": [
+    "oms_cddr",
+    "chen2010",
+    "hailes2019"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b41",
+   "strength": "forte",
+   "summary": "La CIM-11 cite les violences sexuelles répétées dans l'enfance parmi les situations qui précèdent le plus souvent un stress post-traumatique complexe.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6a71",
+   "strength": "forte",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de dépression à l'âge adulte.",
+   "sources": [
+    "chen2010",
+    "hailes2019",
+    "li2016"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b00",
+   "strength": "forte",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de troubles anxieux tout au long de la vie.",
+   "sources": [
+    "chen2010",
+    "hailes2019",
+    "li2016"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "forte",
+   "summary": "Les violences sexuelles dans l'enfance sont associées à un risque plus élevé de pensées et de tentatives de suicide, chez les jeunes comme chez les adultes.",
+   "sources": [
+    "chen2010",
+    "angelakis2019",
+    "angelakis2020"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b81",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles sont associées à un risque plus élevé de troubles des conduites alimentaires, notamment avec crises et comportements compensatoires.",
+   "sources": [
+    "chen2010",
+    "molendijk2017"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6d10",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles sont associées au trouble de la personnalité borderline, mais la qualité des méta-analyses sur ce point est jugée faible.",
+   "sources": [
+    "hailes2019",
+    "porter2020"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b60",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles sont associées aux troubles dissociatifs à symptômes neurologiques, et la CIM-11 cite les abus dans l'enfance parmi les facteurs de risque.",
+   "sources": [
+    "hailes2019",
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "Une revue de bonne qualité associe les violences sexuelles à un risque plus élevé de schizophrénie, mais une autre méta-analyse ne retrouve pas ce lien : le résultat reste discuté.",
+   "sources": [
+    "hailes2019",
+    "varese2012",
+    "chen2010"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles sont associées à un usage problématique de substances plus tard, un résultat jugé de bonne qualité.",
+   "sources": [
+    "hailes2019"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_dissociation",
+   "strength": "moderee",
+   "summary": "Les symptômes dissociatifs sont en moyenne plus élevés après des violences sexuelles que dans les autres groupes étudiés.",
+   "sources": [
+    "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b64",
+   "strength": "moderee",
+   "summary": "La CIM-11 décrit le trouble dissociatif de l'identité comme le plus souvent associé à des traumatismes, en particulier des abus dans l'enfance.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_revictimisation",
+   "strength": "moderee",
+   "summary": "Les personnes ayant subi des violences sexuelles enfant sont plus exposées à en subir de nouveau plus tard ; la responsabilité en revient aux agresseurs.",
+   "sources": [
+    "walker2019"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "sch_carence_affective",
+   "strength": "limitee",
+   "summary": "Les violences sexuelles sont faiblement associées aux schémas de carence affective et d'isolement chez l'adulte, dans des études surtout transversales.",
+   "sources": [
+    "pilkington2021"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6a71",
+   "strength": "forte",
+   "summary": "Les violences psychologiques sont parmi les expériences les plus associées à la dépression, y compris aux formes précoces, sévères et durables.",
+   "sources": [
+    "norman2012",
+    "nelson2017",
+    "lemoult2020"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "forte",
+   "summary": "Les violences psychologiques dans l'enfance sont associées à un risque plus élevé de pensées et de tentatives de suicide.",
+   "sources": [
+    "norman2012",
+    "angelakis2019",
+    "angelakis2020"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6d10",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques font partie des adversités les plus fréquemment rapportées par les personnes ayant un trouble de la personnalité borderline, dans des études surtout rétrospectives.",
+   "sources": [
+    "porter2020",
+    "xiao2023"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6a60",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont plus souvent rapportées par les personnes ayant un trouble bipolaire que par la population générale, sans différence nette avec d'autres troubles psychiques.",
+   "sources": [
+    "palmierclaus2016"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques font partie des adversités associées à un risque plus élevé de troubles psychotiques.",
+   "sources": [
+    "varese2012"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6b00",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont associées à davantage de troubles anxieux à l'âge adulte.",
+   "sources": [
+    "xiao2023"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6b81",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont associées aux troubles des conduites alimentaires et à des formes plus sévères.",
+   "sources": [
+    "molendijk2017",
+    "xiao2023"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "sch_carence_affective",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont associées de façon modérée au schéma de carence affective, à l'adolescence comme à l'âge adulte.",
+   "sources": [
+    "pilkington2021",
+    "may2022"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "sch_assujettissement",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont associées au schéma d'assujettissement : apprendre à taire ses besoins pour éviter les représailles et garder le lien.",
+   "sources": [
+    "may2022",
+    "pilkington2021"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "sch_vulnerabilite",
+   "strength": "limitee",
+   "summary": "Les violences psychologiques sont associées au schéma de vulnérabilité au danger, avec des liens plutôt faibles.",
+   "sources": [
+    "pilkington2021",
+    "wright2009"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "sch_imperfection",
+   "strength": "limitee",
+   "summary": "Dans une étude chez des étudiants, le lien entre violences psychologiques et anxiété ou dépression passait en partie par un sentiment de honte et d'imperfection.",
+   "sources": [
+    "wright2009"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "sch_abnegation",
+   "strength": "limitee",
+   "summary": "Dans une étude chez des étudiants, les violences psychologiques étaient liées au schéma d'abnégation, qui expliquait en partie l'anxiété et la dépression ultérieures.",
+   "sources": [
+    "wright2009"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "att_anxieux",
+   "strength": "moderee",
+   "summary": "La maltraitance émotionnelle est la forme la plus associée à l'anxiété d'attachement à l'âge adulte.",
+   "sources": [
+    "li2026"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "att_evitant",
+   "strength": "moderee",
+   "summary": "La maltraitance émotionnelle est la forme la plus associée à l'évitement de la proximité à l'âge adulte.",
+   "sources": [
+    "li2026"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "pat_emotional_identification",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques sont associées à plus de difficultés à identifier et décrire ses émotions (alexithymie) à l'âge adulte.",
+   "sources": [
+    "ditzer2023"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "icd_6b40",
+   "strength": "forte",
+   "summary": "Être témoin de blessures ou de menaces de mort infligées violemment à autrui fait partie des événements que la CIM-11 retient pour le stress post-traumatique.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "summary": "La CIM-11 cite les violences conjugales prolongées parmi les situations difficiles à fuir qui précèdent souvent un stress post-traumatique complexe ; pour l'enfant qui y assiste, l'évaluation se fait au cas par cas.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Les enfants témoins de violences entre leurs parents ont en moyenne plus de difficultés émotionnelles et de comportement, à un niveau proche de celui des enfants eux-mêmes frappés.",
+   "sources": [
+    "kitzmann2003",
+    "vaneldik2020"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_violences_couple",
+   "strength": "moderee",
+   "summary": "Avoir été exposé enfant aux violences conjugales est associé à un risque plus élevé d'en subir ou d'en exercer à l'âge adulte ; la méta-analyse porte sur des pays africains et rejoint des données occidentales.",
+   "sources": [
+    "wadji2025"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_hypervigilance",
+   "strength": "moderee",
+   "summary": "Les enfants qui grandissent dans la violence développent souvent une attention accrue aux signes de menace et de colère, une adaptation associée à des difficultés ultérieures.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "sch_mefiance",
+   "strength": "theorique",
+   "summary": "Dans le modèle des schémas de Young, un milieu familial violent est l'origine typique du schéma de méfiance et d'abus.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6b44",
+   "strength": "forte",
+   "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins physiques de l'enfant, pour poser ce diagnostic chez le jeune enfant.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6b45",
+   "strength": "forte",
+   "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins physiques de l'enfant, pour poser ce diagnostic chez le jeune enfant.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "La négligence est associée à un risque plus élevé de dépression à l'âge adulte, y compris dans des cohortes suivies dans le temps.",
+   "sources": [
+    "norman2012",
+    "li2016"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "La négligence physique est associée à plus de tentatives de suicide chez les jeunes.",
+   "sources": [
+    "angelakis2020",
+    "norman2012"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "pat_emotional_identification",
+   "strength": "moderee",
+   "summary": "La négligence physique fait partie des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
+   "sources": [
+    "ditzer2023"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "att_desorganise",
+   "strength": "moderee",
+   "summary": "Les enfants maltraités, négligence comprise, ont plus souvent un attachement désorganisé.",
+   "sources": [
+    "cyr2010"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "La négligence fait partie des adversités associées à un risque plus élevé de troubles psychotiques.",
+   "sources": [
+    "varese2012"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_dissociation",
+   "strength": "moderee",
+   "summary": "La négligence est associée à davantage de symptômes dissociatifs, un peu moins que les abus.",
+   "sources": [
+    "vonderlin2018"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "sch_carence_affective",
+   "strength": "limitee",
+   "summary": "La négligence physique est faiblement associée aux schémas de carence affective et d'isolement social chez l'adulte.",
+   "sources": [
+    "pilkington2021"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6b81",
+   "strength": "limitee",
+   "summary": "La négligence physique est fréquemment rapportée par les personnes ayant un trouble des conduites alimentaires, d'après un petit nombre d'études.",
+   "sources": [
+    "pignatelli2017"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6c90",
+   "strength": "limitee",
+   "summary": "La CIM-11 note que le trouble oppositionnel est plus fréquent quand les pratiques éducatives sont dures, incohérentes ou négligentes.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6b44",
+   "strength": "forte",
+   "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins de réconfort et d'affection, pour poser ce diagnostic chez le jeune enfant.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6b45",
+   "strength": "forte",
+   "summary": "La CIM-11 exige des soins gravement insuffisants, dont l'ignorance persistante des besoins de réconfort et d'affection, pour poser ce diagnostic chez le jeune enfant.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6a71",
+   "strength": "forte",
+   "summary": "La négligence affective est associée à la dépression adulte, en particulier à des formes plus sévères et plus durables.",
+   "sources": [
+    "norman2012",
+    "nelson2017"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6d10",
+   "strength": "moderee",
+   "summary": "La négligence fait partie des adversités les plus rapportées par les personnes ayant un trouble de la personnalité borderline, dans des études surtout rétrospectives.",
+   "sources": [
+    "porter2020",
+    "xiao2023"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "sch_carence_affective",
+   "strength": "moderee",
+   "summary": "La négligence affective est l'expérience la plus fortement associée au schéma de carence affective chez l'adulte.",
+   "sources": [
+    "pilkington2021"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "sch_abandon",
+   "strength": "limitee",
+   "summary": "La négligence affective est associée au schéma d'abandon, à l'adolescence comme à l'âge adulte, avec des liens modestes.",
+   "sources": [
+    "may2022",
+    "pilkington2021"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "sch_isolement",
+   "strength": "limitee",
+   "summary": "La négligence affective est associée au schéma d'isolement social, à l'adolescence comme à l'âge adulte.",
+   "sources": [
+    "may2022"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "sch_mefiance",
+   "strength": "limitee",
+   "summary": "La négligence affective est associée au schéma de méfiance, surtout dans les études à l'adolescence.",
+   "sources": [
+    "may2022"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "sch_echec",
+   "strength": "limitee",
+   "summary": "La négligence affective est associée au schéma d'échec, avec des liens faibles à modérés selon l'âge.",
+   "sources": [
+    "pilkington2021",
+    "may2022"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "sch_imperfection",
+   "strength": "limitee",
+   "summary": "Dans une étude chez des étudiants, la négligence affective était liée à un sentiment de honte qui expliquait en partie l'anxiété, la dépression et la dissociation.",
+   "sources": [
+    "wright2009"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "pat_emotional_identification",
+   "strength": "moderee",
+   "summary": "La négligence affective est l'une des formes de maltraitance les plus associées à l'alexithymie à l'âge adulte.",
+   "sources": [
+    "ditzer2023"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "att_anxieux",
+   "strength": "moderee",
+   "summary": "La maltraitance émotionnelle, dont la négligence affective, est associée à davantage d'anxiété d'attachement à l'âge adulte.",
+   "sources": [
+    "li2026"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "att_evitant",
+   "strength": "moderee",
+   "summary": "La maltraitance émotionnelle, dont la négligence affective, est associée à davantage d'évitement de la proximité à l'âge adulte.",
+   "sources": [
+    "li2026"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "La négligence affective est associée à plus de tentatives de suicide chez les jeunes.",
+   "sources": [
+    "angelakis2020"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_dissociation",
+   "strength": "limitee",
+   "summary": "La négligence affective est associée à davantage de symptômes dissociatifs, avec des écarts plus faibles qu'après des abus.",
+   "sources": [
+    "vonderlin2018",
+    "wright2009"
+   ]
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "icd_6b44",
+   "strength": "forte",
+   "summary": "La CIM-11 compte les changements répétés de personnes qui s'occupent de l'enfant et l'éducation en institution parmi les soins gravement insuffisants exigés pour ce diagnostic.",
+   "sources": [
+    "oms_cddr",
+    "vanijzendoorn2020"
+   ]
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "icd_6b45",
+   "strength": "forte",
+   "summary": "La CIM-11 compte les changements répétés de personnes qui s'occupent de l'enfant et l'éducation en institution parmi les soins gravement insuffisants exigés ; le risque est plus élevé quand cela a lieu avant deux ans.",
+   "sources": [
+    "oms_cddr",
+    "vanijzendoorn2020"
+   ]
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "att_desorganise",
+   "strength": "forte",
+   "summary": "Les enfants élevés en institution ont beaucoup plus souvent un attachement désorganisé ou incomplet que les enfants élevés en famille.",
+   "sources": [
+    "vanijzendoorn2020"
+   ]
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "L'éducation en institution est associée à plus de difficultés socio-émotionnelles et psychiques ; les séjours longs sont associés à moins de récupération, et l'accueil familial favorise des progrès.",
+   "sources": [
+    "vanijzendoorn2020"
+   ]
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "icd_6c90",
+   "strength": "limitee",
+   "summary": "La CIM-11 note que le trouble oppositionnel est plus fréquent dans les familles où les relations de soin ont été fortement perturbées.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "Dans le modèle des schémas de Young, un milieu familial instable est l'origine typique du schéma d'abandon.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent souffrant de dépression ou d'un trouble anxieux ont un risque plus élevé de dépression ; l'hérédité et le climat familial y contribuent tous deux.",
+   "sources": [
+    "rasic2014",
+    "lawrence2019"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6b00",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent ayant un trouble anxieux ont un risque plus élevé de troubles anxieux, notamment d'anxiété généralisée.",
+   "sources": [
+    "lawrence2019"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6b05",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent ayant un trouble anxieux ont un risque plus élevé d'anxiété de séparation.",
+   "sources": [
+    "lawrence2019"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6a20",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent ayant un trouble psychique sévère ont un risque plus élevé de développer à leur tour un trouble sévère, dont la schizophrénie ; une part importante de ce risque est héréditaire.",
+   "sources": [
+    "rasic2014"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6a60",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent ayant un trouble bipolaire ou une schizophrénie ont un risque plus élevé de troubles de l'humeur ; hérédité et environnement se mêlent.",
+   "sources": [
+    "rasic2014"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "La dépression d'une mère est associée à un peu plus de difficultés émotionnelles et de comportement chez l'enfant, avec des effets modestes et variables.",
+   "sources": [
+    "goodman2011"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "att_desorganise",
+   "strength": "moderee",
+   "summary": "Les nourrissons de mères souffrant de dépression ont un peu plus souvent un attachement désorganisé, et moins souvent sécure.",
+   "sources": [
+    "martins2000"
+   ]
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "pat_parentification",
+   "strength": "limitee",
+   "summary": "Les adolescents vivant avec un parent en souffrance psychique prennent souvent une part du rôle parental ; cette parentification est associée à plus de stress et de difficultés intériorisées.",
+   "sources": [
+    "vanloon2017",
+    "hooper2011"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "icd_6c40_2",
+   "strength": "moderee",
+   "summary": "Avoir un ou deux parents avec un trouble lié à l'alcool est associé à un risque plus élevé de trouble lié à l'alcool chez l'enfant devenu adulte ; hérédité et environnement y contribuent.",
+   "sources": [
+    "kosty2020",
+    "rossow2016"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "limitee",
+   "summary": "La consommation d'alcool des parents est souvent associée à des difficultés chez l'enfant dans les cohortes, mais les études ne permettent pas encore de conclure à un effet direct.",
+   "sources": [
+    "rossow2016b"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "pat_parentification",
+   "strength": "limitee",
+   "summary": "Les adultes ayant grandi avec un parent alcoolique rapportent davantage de parentification, en particulier de soutien émotionnel apporté au parent.",
+   "sources": [
+    "kelley2007",
+    "hooper2011"
+   ]
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "ten_codependance",
+   "strength": "theorique",
+   "summary": "La codépendance a été proposée pour décrire les difficultés relationnelles des enfants de parents alcooliques, mais la notion manque de définition rigoureuse.",
+   "sources": [
+    "elguebaly1993"
+   ]
+  },
+  {
+   "factor": "parent_incarcere",
+   "outcome": "ten_comportements_antisociaux",
+   "strength": "moderee",
+   "summary": "L'incarcération d'un parent est associée à un risque un peu plus élevé de comportements antisociaux chez l'enfant, même en tenant compte de facteurs familiaux préexistants.",
+   "sources": [
+    "murray2012"
+   ]
+  },
+  {
+   "factor": "parent_incarcere",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "La séparation brutale et les changements de garde qui accompagnent souvent l'incarcération correspondent à l'instabilité que le modèle de Young associe au schéma d'abandon.",
+   "sources": [
+    "murray2012",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "La séparation des parents ou la perte de contact avec un parent est associée à un risque un peu plus élevé de dépression à l'âge adulte.",
+   "sources": [
+    "auersperg2019",
+    "simbi2020"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "icd_6b00",
+   "strength": "limitee",
+   "summary": "La séparation des parents est associée à un risque légèrement plus élevé d'anxiété plus tard, avec un effet faible.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "La séparation des parents est associée à un risque un peu plus élevé d'idées et de tentatives de suicide à l'âge adulte.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "La séparation des parents est associée à un risque un peu plus élevé de consommation problématique d'alcool, de tabac et de drogues.",
+   "sources": [
+    "auersperg2019"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Les conflits hostiles ou non résolus entre parents sont associés à plus de difficultés émotionnelles et de comportement chez l'enfant, et ces liens persistent dans le temps.",
+   "sources": [
+    "vaneldik2020",
+    "amato2001"
+   ]
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "Dans le modèle des schémas de Young, un milieu familial instable est l'origine typique du schéma d'abandon.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6b42",
+   "strength": "forte",
+   "summary": "Le trouble du deuil prolongé exige, dans la CIM-11, le décès d'une personne proche ; il se distingue d'un deuil ordinaire par sa durée et son intensité.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "summary": "Apprendre la mort soudaine, inattendue ou violente d'un proche fait partie des événements que la CIM-11 retient pour le stress post-traumatique.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "La perte d'un parent pendant l'enfance est associée à un risque plus élevé de dépression à l'âge adulte.",
+   "sources": [
+    "simbi2020",
+    "burrell2022"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "Le décès d'un parent pendant l'enfance est associé à un risque plus élevé de suicide sur le long terme, quelle qu'en soit la cause, et davantage après un suicide.",
+   "sources": [
+    "guldin2015"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6b00",
+   "strength": "moderee",
+   "summary": "Le décès d'un parent par cause externe est associé à un risque plus élevé de troubles anxieux et de réactions au stress chez l'enfant.",
+   "sources": [
+    "burrell2022"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "summary": "Le décès d'un parent par cause externe est associé à un risque plus élevé de troubles liés aux substances chez l'enfant devenu grand.",
+   "sources": [
+    "burrell2022"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6a20",
+   "strength": "limitee",
+   "summary": "Le lien entre décès d'un parent et troubles psychotiques est incertain : non significatif dans une méta-analyse, présent dans une grande cohorte après décès par cause externe.",
+   "sources": [
+    "varese2012",
+    "burrell2022"
+   ]
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "Dans le modèle des schémas de Young, la perte ou l'instabilité des figures d'attachement est l'origine typique du schéma d'abandon.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "maladie_famille",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Les enfants d'un parent atteint d'une maladie chronique, et les frères et sœurs d'un enfant malade, ont en moyenne un peu plus de difficultés émotionnelles, avec des effets modestes.",
+   "sources": [
+    "sieh2010",
+    "sharpe2002"
+   ]
+  },
+  {
+   "factor": "maladie_famille",
+   "outcome": "pat_parentification",
+   "strength": "limitee",
+   "summary": "Quand un proche est gravement malade, certains enfants deviennent de jeunes aidants ; ces jeunes ont en moyenne une santé psychique moins bonne, selon des études surtout transversales.",
+   "sources": [
+    "lacey2022"
+   ]
+  },
+  {
+   "factor": "precarite",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "moderee",
+   "summary": "Les enfants qui grandissent dans la pauvreté ont plus de difficultés psychologiques, surtout quand la précarité dure ; le lien est plus net pour les difficultés de comportement.",
+   "sources": [
+    "reiss2013",
+    "peverill2021"
+   ]
+  },
+  {
+   "factor": "precarite",
+   "outcome": "att_desorganise",
+   "strength": "moderee",
+   "summary": "L'accumulation de difficultés socio-économiques est associée à plus d'attachements désorganisés, un effet proche de celui observé après maltraitance.",
+   "sources": [
+    "cyr2010"
+   ]
+  }
+ ],
+ "notes": {
+  "adversite_cumul": {
+   "title": "Effet cumulatif des expériences adverses",
+   "text": "Les expériences adverses de l'enfance (violences, négligence, troubles ou addiction d'un parent, violences conjugales, incarcération) surviennent souvent ensemble. Plus elles sont nombreuses, plus le risque moyen de difficultés de santé mentale, d'usage de substances et de violences augmente, de façon graduelle. Ce constat statistique ne permet pas de prédire le parcours d'une personne.",
+   "sources": [
+    "felitti1998",
+    "hughes2017",
+    "mckay2022"
+   ]
+  },
+  "neurodeveloppement": {
+   "title": "Pas de lien éducatif avec l'autisme ou le TDAH",
+   "text": "Les facteurs de cette page ne sont pas reliés à l'autisme, au TDAH ou aux troubles du développement intellectuel, qui ont une origine neurodéveloppementale. Une privation institutionnelle extrême et prolongée est associée à des tableaux qui leur ressemblent (« quasi-autisme », inattention) : leur évaluation relève de spécialistes et ne remet pas en cause l'origine de ces troubles.",
+   "sources": [
+    "vanijzendoorn2020"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "oms_cddr",
+   "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural or neurodevelopmental disorders (CDDR) : 6B40, 6B41, 6B42, 6B44, 6B45, 6B60, 6B64, 6B66, 6C90",
+   "url": "https://www.who.int/publications/i/item/9789240077263",
+   "type": "classification",
+   "read": "section"
+  },
+  {
+   "id": "felitti1998",
+   "citation": "Felitti VJ, Anda RF, et al., 1998, Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. The Adverse Childhood Experiences (ACE) Study, American Journal of Preventive Medicine",
+   "url": "https://doi.org/10.1016/s0749-3797(98)00017-8",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "hughes2017",
+   "citation": "Hughes K, Bellis MA, et al., 2017, The effect of multiple adverse childhood experiences on health: a systematic review and meta-analysis, Lancet Public Health",
+   "url": "https://doi.org/10.1016/S2468-2667(17)30118-4",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "mckay2022",
+   "citation": "McKay MT, Kilmartin L, Meagher A, et al., 2022, A revised and extended systematic review and meta-analysis of the relationship between childhood adversity and adult psychiatric disorder, Journal of Psychiatric Research",
+   "url": "https://doi.org/10.1016/j.jpsychires.2022.10.015",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "norman2012",
+   "citation": "Norman RE, Byambaa M, De R, Butchart A, Scott J, Vos T, 2012, The long-term health consequences of child physical abuse, emotional abuse, and neglect: a systematic review and meta-analysis, PLoS Medicine",
+   "url": "https://doi.org/10.1371/journal.pmed.1001349",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "li2016",
+   "citation": "Li M, D'Arcy C, Meng X, 2016, Maltreatment in childhood substantially increases the risk of adult depression and anxiety in prospective cohort studies: systematic review, meta-analysis, and proportional attributable fractions, Psychological Medicine",
+   "url": "https://doi.org/10.1017/S0033291715002743",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "nelson2017",
+   "citation": "Nelson J, Klumparendt A, Doebler P, Ehring T, 2017, Childhood maltreatment and characteristics of adult depression: meta-analysis, British Journal of Psychiatry",
+   "url": "https://doi.org/10.1192/bjp.bp.115.180752",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "lemoult2020",
+   "citation": "LeMoult J, Humphreys KL, Tracy A, et al., 2020, Meta-analysis: Exposure to early life stress and risk for depression in childhood and adolescence, Journal of the American Academy of Child and Adolescent Psychiatry",
+   "url": "https://doi.org/10.1016/j.jaac.2019.10.011",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "chen2010",
+   "citation": "Chen LP, Murad MH, Paras ML, et al., 2010, Sexual abuse and lifetime diagnosis of psychiatric disorders: systematic review and meta-analysis, Mayo Clinic Proceedings",
+   "url": "https://doi.org/10.4065/mcp.2009.0583",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hailes2019",
+   "citation": "Hailes HP, Yu R, Danese A, Fazel S, 2019, Long-term outcomes of childhood sexual abuse: an umbrella review, Lancet Psychiatry",
+   "url": "https://doi.org/10.1016/S2215-0366(19)30286-X",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "varese2012",
+   "citation": "Varese F, Smeets F, Drukker M, et al., 2012, Childhood adversities increase the risk of psychosis: a meta-analysis of patient-control, prospective- and cross-sectional cohort studies, Schizophrenia Bulletin",
+   "url": "https://doi.org/10.1093/schbul/sbs050",
+   "type": "meta-analyse",
+   "read": "texte intégral"
+  },
+  {
+   "id": "palmierclaus2016",
+   "citation": "Palmier-Claus JE, Berry K, Bucci S, et al., 2016, Relationship between childhood adversity and bipolar affective disorder: systematic review and meta-analysis, British Journal of Psychiatry",
+   "url": "https://doi.org/10.1192/bjp.bp.115.179655",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "porter2020",
+   "citation": "Porter C, Palmier-Claus J, Branitsky A, et al., 2020, Childhood adversity and borderline personality disorder: a meta-analysis, Acta Psychiatrica Scandinavica",
+   "url": "https://doi.org/10.1111/acps.13118",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "xiao2023",
+   "citation": "Xiao Z, Murat Baldwin M, Wong SC, et al., 2023, The impact of childhood psychological maltreatment on mental health outcomes in adulthood: a systematic review and meta-analysis, Trauma, Violence, & Abuse",
+   "url": "https://doi.org/10.1177/15248380221122816",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "molendijk2017",
+   "citation": "Molendijk ML, Hoek HW, Brewerton TD, Elzinga BM, 2017, Childhood maltreatment and eating disorder pathology: a systematic review and dose-response meta-analysis, Psychological Medicine",
+   "url": "https://doi.org/10.1017/S0033291716003561",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "pignatelli2017",
+   "citation": "Pignatelli AM, Wampers M, Loriedo C, et al., 2017, Childhood neglect in eating disorders: a systematic review and meta-analysis, Journal of Trauma & Dissociation",
+   "url": "https://doi.org/10.1080/15299732.2016.1198951",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "angelakis2019",
+   "citation": "Angelakis I, Gillespie EL, Panagioti M, 2019, Childhood maltreatment and adult suicidality: a comprehensive systematic review with meta-analysis, Psychological Medicine",
+   "url": "https://doi.org/10.1017/S0033291718003823",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "angelakis2020",
+   "citation": "Angelakis I, Austin JL, Gooding P, 2020, Association of childhood maltreatment with suicide behaviors among young people: a systematic review and meta-analysis, JAMA Network Open",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2020.12563",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "rakovski2024",
+   "citation": "Rakovski C, Lalli G, Gu J, et al., 2024, Childhood maltreatment as a predictor of substance use/misuse among youth: a systematic review and meta-analysis, Neuroscience & Biobehavioral Reviews",
+   "url": "https://doi.org/10.1016/j.neubiorev.2024.105873",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "vonderlin2018",
+   "citation": "Vonderlin R, Kleindienst N, Alpers GW, et al., 2018, Dissociation in victims of childhood abuse or neglect: a meta-analytic review, Psychological Medicine",
+   "url": "https://doi.org/10.1017/S0033291718000740",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "walker2019",
+   "citation": "Walker HE, Freud JS, Ellis RA, et al., 2019, The prevalence of sexual revictimization: a meta-analytic review, Trauma, Violence, & Abuse",
+   "url": "https://doi.org/10.1177/1524838017692364",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "cyr2010",
+   "citation": "Cyr C, Euser EM, Bakermans-Kranenburg MJ, van IJzendoorn MH, 2010, Attachment security and disorganization in maltreating and high-risk families: a series of meta-analyses, Development and Psychopathology",
+   "url": "https://doi.org/10.1017/S0954579409990289",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "li2026",
+   "citation": "Li S, Ma Y, Cao Y, et al., 2026, Childhood maltreatment and adult attachment: a three-level meta-analytic review, Trauma, Violence, & Abuse",
+   "url": "https://doi.org/10.1177/15248380261455767",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "ditzer2023",
+   "citation": "Ditzer J, Wong EY, Modi RN, et al., 2023, Child maltreatment and alexithymia: a meta-analytic review, Psychological Bulletin",
+   "url": "https://doi.org/10.1037/bul0000391",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "gruhn2020",
+   "citation": "Gruhn MA, Compas BE, 2020, Effects of maltreatment on coping and emotion regulation in childhood and adolescence: a meta-analytic review, Child Abuse & Neglect",
+   "url": "https://doi.org/10.1016/j.chiabu.2020.104446",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "mclaughlin2020",
+   "citation": "McLaughlin KA, Colich NL, Rodman AM, Weissman DG, 2020, Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience, BMC Medicine",
+   "url": "https://doi.org/10.1186/s12916-020-01561-6",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "pilkington2021",
+   "citation": "Pilkington PD, Bishop A, Younan R, 2021, Adverse childhood experiences and early maladaptive schemas in adulthood: a systematic review and meta-analysis, Clinical Psychology & Psychotherapy",
+   "url": "https://doi.org/10.1002/cpp.2533",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "may2022",
+   "citation": "May T, Younan R, Pilkington PD, 2022, Adolescent maladaptive schemas and childhood abuse and neglect: a systematic review and meta-analysis, Clinical Psychology & Psychotherapy",
+   "url": "https://doi.org/10.1002/cpp.2712",
+   "type": "meta-analyse",
+   "read": "texte intégral"
+  },
+  {
+   "id": "wright2009",
+   "citation": "Wright MO, Crawford E, Del Castillo D, 2009, Childhood emotional maltreatment and later psychological distress among college students: the mediating role of maladaptive schemas, Child Abuse & Neglect",
+   "url": "https://doi.org/10.1016/j.chiabu.2008.12.007",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "carlucci2018",
+   "citation": "Carlucci L, D'Ambrosio I, Innamorati M, et al., 2018, Co-rumination, anxiety, and maladaptive cognitive schemas: when friendship can hurt, Psychology Research and Behavior Management (tableau 1 : origines familiales typiques des domaines de schémas selon Young et coll., 2003)",
+   "url": "https://doi.org/10.2147/PRBM.S144907",
+   "type": "theorie",
+   "read": "section"
+  },
+  {
+   "id": "kitzmann2003",
+   "citation": "Kitzmann KM, Gaylord NK, Holt AR, Kenny ED, 2003, Child witnesses to domestic violence: a meta-analytic review, Journal of Consulting and Clinical Psychology",
+   "url": "https://doi.org/10.1037/0022-006x.71.2.339",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "wadji2025",
+   "citation": "Wadji DL, Pirro T, Langevin R, et al., 2025, A systematic review and meta-analysis of the association between childhood exposure to intimate partner violence and intimate partner violence victimization/perpetration in adulthood in Africa, Trauma, Violence, & Abuse",
+   "url": "https://doi.org/10.1177/15248380241287144",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "vaneldik2020",
+   "citation": "van Eldik WM, de Haan AD, Parry LQ, et al., 2020, The interparental relationship: meta-analytic associations with children's maladjustment and responses to interparental conflict, Psychological Bulletin",
+   "url": "https://doi.org/10.1037/bul0000233",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "vanijzendoorn2020",
+   "citation": "van IJzendoorn MH, Bakermans-Kranenburg MJ, Duschinsky R, et al., 2020, Institutionalisation and deinstitutionalisation of children 1: a systematic and integrative review of evidence regarding effects on development, Lancet Psychiatry",
+   "url": "https://doi.org/10.1016/S2215-0366(19)30399-2",
+   "type": "meta-analyse",
+   "read": "texte intégral"
+  },
+  {
+   "id": "rasic2014",
+   "citation": "Rasic D, Hajek T, Alda M, Uher R, 2014, Risk of mental illness in offspring of parents with schizophrenia, bipolar disorder, and major depressive disorder: a meta-analysis of family high-risk studies, Schizophrenia Bulletin",
+   "url": "https://doi.org/10.1093/schbul/sbt114",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "goodman2011",
+   "citation": "Goodman SH, Rouse MH, Connell AM, et al., 2011, Maternal depression and child psychopathology: a meta-analytic review, Clinical Child and Family Psychology Review",
+   "url": "https://doi.org/10.1007/s10567-010-0080-1",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "lawrence2019",
+   "citation": "Lawrence PJ, Murayama K, Creswell C, 2019, Systematic review and meta-analysis: anxiety and depressive disorders in offspring of parents with anxiety disorders, Journal of the American Academy of Child and Adolescent Psychiatry",
+   "url": "https://doi.org/10.1016/j.jaac.2018.07.898",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "martins2000",
+   "citation": "Martins C, Gaffan EA, 2000, Effects of early maternal depression on patterns of infant-mother attachment: a meta-analytic investigation, Journal of Child Psychology and Psychiatry",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11039686/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "vanloon2017",
+   "citation": "Van Loon LMA, Van de Ven MOM, Van Doesum KTM, et al., 2017, Parentification, stress, and problem behavior of adolescents who have a parent with mental health problems, Family Process",
+   "url": "https://doi.org/10.1111/famp.12165",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "hooper2011",
+   "citation": "Hooper LM, DeCoster J, White N, Voltz ML, 2011, Characterizing the magnitude of the relation between self-reported childhood parentification and adult psychopathology: a meta-analysis, Journal of Clinical Psychology",
+   "url": "https://doi.org/10.1002/jclp.20807",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "kosty2020",
+   "citation": "Kosty DB, Farmer RF, Seeley JR, et al., 2020, The number of biological parents with alcohol use disorder histories and risk to offspring through age 30, Addictive Behaviors",
+   "url": "https://doi.org/10.1016/j.addbeh.2019.106196",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "rossow2016",
+   "citation": "Rossow I, Keating P, Felix L, McCambridge J, 2016, Does parental drinking influence children's drinking? A systematic review of prospective cohort studies, Addiction",
+   "url": "https://doi.org/10.1111/add.13097",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "rossow2016b",
+   "citation": "Rossow I, Felix L, Keating P, McCambridge J, 2016, Parental drinking and adverse outcomes in children: a scoping review of cohort studies, Drug and Alcohol Review",
+   "url": "https://doi.org/10.1111/dar.12319",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "kelley2007",
+   "citation": "Kelley ML, French A, Bountress K, et al., 2007, Parentification and family responsibility in the family of origin of adult children of alcoholics, Addictive Behaviors",
+   "url": "https://doi.org/10.1016/j.addbeh.2006.06.010",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "elguebaly1993",
+   "citation": "el-Guebaly N, West M, Maticka-Tyndale E, Pool M, 1993, Attachment among adult children of alcoholics, Addiction",
+   "url": "https://doi.org/10.1111/j.1360-0443.1993.tb02027.x",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "murray2012",
+   "citation": "Murray J, Farrington DP, Sekol I, 2012, Children's antisocial behavior, mental health, drug use, and educational performance after parental incarceration: a systematic review and meta-analysis, Psychological Bulletin",
+   "url": "https://doi.org/10.1037/a0026407",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "amato2001",
+   "citation": "Amato PR, 2001, Children of divorce in the 1990s: an update of the Amato and Keith (1991) meta-analysis, Journal of Family Psychology",
+   "url": "https://doi.org/10.1037/0893-3200.15.3.355",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "auersperg2019",
+   "citation": "Auersperg F, Vlasak T, Ponocny I, Barth A, 2019, Long-term effects of parental divorce on mental health: a meta-analysis, Journal of Psychiatric Research",
+   "url": "https://doi.org/10.1016/j.jpsychires.2019.09.011",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "simbi2020",
+   "citation": "Simbi CMC, Zhang Y, Wang Z, 2020, Early parental loss in childhood and depression in adults: a systematic review and meta-analysis of case-controlled studies, Journal of Affective Disorders",
+   "url": "https://doi.org/10.1016/j.jad.2019.07.087",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "guldin2015",
+   "citation": "Guldin MB, Li J, Pedersen HS, et al., 2015, Incidence of suicide among persons who had a parent who died during their childhood: a population-based cohort study, JAMA Psychiatry",
+   "url": "https://doi.org/10.1001/jamapsychiatry.2015.2094",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "burrell2022",
+   "citation": "Burrell LV, Mehlum L, Qin P, 2022, Parental death by external causes during childhood and risk of psychiatric disorders in bereaved offspring, Child and Adolescent Mental Health",
+   "url": "https://doi.org/10.1111/camh.12470",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "sieh2010",
+   "citation": "Sieh DS, Meijer AM, Oort FJ, Visser-Meily JMA, Van der Leij DAV, 2010, Problem behavior in children of chronically ill parents: a meta-analysis, Clinical Child and Family Psychology Review",
+   "url": "https://doi.org/10.1007/s10567-010-0074-z",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "sharpe2002",
+   "citation": "Sharpe D, Rossiter L, 2002, Siblings of children with a chronic illness: a meta-analysis, Journal of Pediatric Psychology",
+   "url": "https://doi.org/10.1093/jpepsy/27.8.699",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "lacey2022",
+   "citation": "Lacey RE, Xue B, McMunn A, 2022, The mental and physical health of young carers: a systematic review, Lancet Public Health",
+   "url": "https://doi.org/10.1016/S2468-2667(22)00161-X",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "reiss2013",
+   "citation": "Reiss F, 2013, Socioeconomic inequalities and mental health problems in children and adolescents: a systematic review, Social Science & Medicine",
+   "url": "https://doi.org/10.1016/j.socscimed.2013.04.026",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "peverill2021",
+   "citation": "Peverill M, Dirks MA, Narvaja T, et al., 2021, Socioeconomic status and child psychopathology in the United States: a meta-analysis of population-based studies, Clinical Psychology Review",
+   "url": "https://doi.org/10.1016/j.cpr.2020.101933",
+   "type": "meta-analyse",
+   "read": "résumé"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+  "character_id": "berenice",
+  "type": "clinique",
+  "auditor": "audit_c3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Bérénice, 52 ans (âge seulement dans la fiche), agente d'accueil dans une salle de sport. Catatonie provoquée par un médicament, hospitalisée au début de la série. Entourage : sa fille Estelle (co-organisatrice du tournoi de badminton), Karim (collègue de l'accueil, apparu en ép. 9), un médecin, une infirmière et des soignantes sans nom.",
+    "arc_summary": "Estelle alerte les secours devant un changement brutal de sa mère, puis le médecin explique que la catatonie a été attribuée à un traitement. À l'hôpital, la parole réduite, un geste interrompu vers le gilet gris, une déshydratation déjà soignée et des fluctuations dans la journée sont montrés avant la résolution de la phase aiguë et la sortie. À la maison, Bérénice raconte la peur qu'elle ne pouvait pas montrer, prépare ses questions sur les traitements, accepte des souvenirs incomplets, reprend les inscriptions au comptoir avec Karim, fait réévaluer un ralentissement ultérieur et tient le tournoi avec une relève effective.",
+    "arc_issues": [
+      "Le trouble n'est jamais montré concrètement : on ne voit ni ce qui s'est passé le jour de l'alerte (« l'activité ordinaire commencée avec Estelle »), ni à quoi ressemble Bérénice à l'hôpital au-delà de « peu mobile ». Le lecteur non averti ne se représente pas une catatonie.",
+      "Le récit remplace très souvent l'action par des formules procédurales (« La soignante reprend la situation, s'adresse à Bérénice et apprécie l'aide nécessaire », « L'équipe tient compte de la demande dans les soins », « Le médecin évalue la situation… et précise la suite du suivi ») ; plusieurs dénouements (ép. 4, 6, 11) ne disent pas ce qui a été fait ni décidé.",
+      "Chronologie clinique incohérente entre ép. 2 et ép. 3 : Bérénice raisonne avec aisance sur la causalité au moment du diagnostic, puis peut à peine répondre à la visite suivante, sans que la régression soit signalée ; la fluctuation n'est expliquée qu'en ép. 6.",
+      "Le traitement en cause n'est jamais situé (pour quoi Bérénice le prenait-elle ? a-t-il été arrêté ou modifié par l'équipe ?) ; sans posologie ni nom, une phrase sur la décision médicale suffirait à rendre l'histoire compréhensible.",
+      "Les ép. 2 et 8 se répètent (consultation, questions gardées dans la pochette, reformulation, suite à identifier ; techniques presque identiques).",
+      "Aucun soignant n'a de nom ; le médecin, présent dans cinq épisodes, gagnerait à en avoir un."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-changement-brutal-relais-medical.md",
+      "focus": "Changement psychomoteur brutal qui justifie un relais médical avant toute certitude sur la cause",
+      "structure": {"scene": "faible", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "L'enveloppe bleue et le crayon entouré de ruban donnent un ancrage, mais l'événement déclencheur reste abstrait et l'état de Bérénice n'est pas décrit : on ne comprend ni ce qu'Estelle a vu la veille ni ce qu'elle voit dans la chambre.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Bérénice, qui travaille à l’accueil d’une salle de sport, n’arrivait brusquement plus à poursuivre des gestes ordinaires ni l’échange engagé avec sa fille.", "problem": "Le moment de l'alerte n'est pas raconté : quel geste, quelle conversation, combien de temps ? Le lecteur ne peut pas se représenter le changement brutal qui fonde l'épisode.", "fix": "Raconter en deux phrases un fait observable, sans critère diagnostique : « Elles triaient les inscriptions à la table ; Bérénice s'est arrêtée au milieu d'une phrase, le stylo levé, et n'a plus répondu ni bougé quand Estelle l'a appelée. Estelle a fait le 15. »"},
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle retrouve pourtant dans sa bouche une explication trop prête : il y avait eu ce traitement, avant.", "problem": "« ce traitement » n'a aucun contexte (prescrit pour quoi, depuis quand ?) ; toute la série repose ensuite sur cette attribution.", "fix": "Situer sans nommer de molécule ni de dose : « il y avait eu ce nouveau médicament, prescrit le mois dernier par son médecin »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Les premiers soins ont commencé à l’hôpital, et les investigations continuent.", "problem": "Formule administrative à la place d'une image de la situation.", "fix": "« Depuis hier soir, Bérénice est hospitalisée et les médecins font des examens. »"}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-attribution-traitement-evaluation.md",
+      "focus": "Attribution clinique à un médicament : une succession dans le temps ne suffit pas à établir la cause",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La question de Bérénice (« deux choses qui se suivent, ce n'est pas forcément l'une qui fait l'autre ») est vive et claire, mais on ne sait pas ce que l'attribution change concrètement dans les soins.",
+      "issues": [
+        {"severity": "majeur", "type": "clinique", "quote": "Dans son cas, explique-t-il, l’équipe a identifié un traitement en cause.", "problem": "Rien n'est dit de la conséquence médicale (le traitement a-t-il été arrêté ou adapté par l'équipe ?) ; le lecteur ignore ce qui soigne Bérénice.", "fix": "Ajouter une phrase prononcée par le médecin, sans dose : « Nous l'avons arrêté et nous adaptons votre traitement ; c'est à nous de le faire, pas à vous. » (formulation à confirmer par le dossier de sources)"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Les deux papiers se touchent ; ils n’ont pas le même ordre du jour.", "problem": "Image abstraite qui ferme la scène sans action.", "fix": "Remplacer par un geste d'Estelle séparant les deux documents."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-parole-entravee-adresser-personne.md",
+      "focus": "Parole très réduite : continuer à s'adresser à la personne sans déduire d'accord de son silence",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le glissement d'Estelle qui parle de sa mère à l'infirmière (« D'habitude, les marges… ») est juste et lisible ; mais l'état de Bérénice contredit sans explication sa conversation fluide de l'épisode précédent.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Bérénice regarde dans leur direction, mais sa réponse est trop faible et trop brève pour qu’Estelle sache ce qu’elle veut dire. Le diagnostic de catatonie a été expliqué lors de la visite précédente.", "problem": "À l'ép. 2, Bérénice discutait de causalité avec le médecin ; ici elle peut à peine répondre. La régression n'est ni signalée ni expliquée, ce qui fait croire à une erreur de chronologie.", "fix": "Ajouter : « Depuis hier, elle parle de nouveau très peu ; l'infirmière a prévenu Estelle au téléphone que cela pouvait varier d'un jour à l'autre. » (et garder l'explication détaillée des fluctuations pour l'ép. 6)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "L’équipe tient compte de la demande dans les soins.", "problem": "Formule procédurale ; on ne sait pas si Bérénice met le gilet.", "fix": "« L'infirmière l'aide à passer le gilet sur ses épaules. »"}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-initiative-motrice-geste-bloque.md",
+      "focus": "Initiative motrice entravée : un geste voulu qui s'interrompt, sans lien avec la volonté",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La main qui avance vers le gilet puis s'arrête « entre deux directions » et le « Vas-y, tu… » retenu par Estelle illustrent bien la facette ; le dénouement ne dit pas ce que fait la soignante.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "La soignante prend en compte le mouvement interrompu et aide Bérénice selon les besoins qu’elle évalue.", "problem": "Le retour à la scène ne montre aucune action concrète : le lecteur ne sait pas si Bérénice reçoit le gilet ni comment elle est aidée.", "fix": "« La soignante approche le gilet et le pose sur les genoux de Bérénice, qui y glisse lentement la main. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Sa mère pourra ensuite dire qu’elle voulait prendre son gilet.", "problem": "Le futur dans la scène d'ouverture brouille l'ordre des faits.", "fix": "« Un peu plus tard, sa mère dira qu'elle voulait prendre son gilet. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "pourquoi suit-on encore ses apports si ce qui lui paraît le plus visible concerne les gestes et les mots ?", "problem": "« apports » est un terme de soignant, opaque pour le lecteur.", "fix": "« pourquoi surveille-t-on encore ce qu'elle boit et mange… »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-besoins-corporels-complication.md",
+      "focus": "Complication somatique (déshydratation) et besoins corporels qui restent suivis malgré la parole retrouvée",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La bouteille familière que la fille n'ose pas tendre rend la facette sensible ; la complication n'est connue qu'après coup et la question de la bouteille n'obtient pas de réponse.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Elle rappelle que la déshydratation constatée après une période d’apports réduits a déjà été traitée", "problem": "La complication apparaît seulement ici, au passé, alors qu'elle aurait dû être visible ou évoquée dans les ép. 1-2 (« rappelle » suppose une information déjà donnée).", "fix": "La mentionner dès l'ép. 1 (« elle n'avait presque rien bu depuis deux jours ») ou écrire « explique » au lieu de « rappelle »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "En attendant la réponse de l’équipe, elle pose la boisson de côté", "problem": "La réponse de l'équipe n'arrive jamais ; la question concrète n'est pas fermée.", "fix": "Faire répondre la soignante dans le retour (« Oui, elle peut en boire un peu, je le note »)."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-fluctuations-appreciation-amelioration.md",
+      "focus": "Fluctuations dans la journée : un bon moment ne suffit pas à juger l'évolution ; résolution et sortie",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La plaisanterie du « tournoi secret » le matin puis l'après-midi difficile sont un contraste parfait ; mais la résolution et la sortie sont annoncées en une phrase passive, sans scène.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Les soins continuent et l’équipe réévalue Bérénice au fil de l’évolution. Lors d’un point ultérieur, elle constate la résolution de la phase catatonique.", "problem": "Ellipse procédurale : on ne sait ni combien de temps a passé, ni qui l'annonce, ni comment Bérénice et Estelle l'apprennent. Le moment le plus attendu de l'hospitalisation n'est pas raconté.", "fix": "« Quelques jours plus tard, le médecin entre avec le dossier : “Les signes ont disparu depuis plusieurs jours, vous pouvez rentrer jeudi.” Bérénice demande aussitôt où ranger les contacts. »"},
+        {"severity": "mineur", "type": "trame", "quote": "Chez Bérénice, la résolution de la phase aiguë sera constatée par l’équipe après la poursuite de la prise en charge, puis la sortie sera organisée avec elle.", "problem": "L'explication anticipe le dénouement au futur et en termes administratifs.", "fix": "Retirer cette phrase de la section explicative."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-peur-immobilite-vecue.md",
+      "focus": "Vécu subjectif de l'immobilité : une peur que le visage ne montrait pas",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'échange « tu avais l'air si calme » / « je me souviens d'avoir eu très peur » est l'un des moments les plus clairs et forts de la série ; la limite posée par Bérénice est nette.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Mais pour ce soir, j’aimerais qu’on sorte de la chambre.", "problem": "Elles sont dans la cuisine ; la métaphore (quitter le sujet de l'hôpital) peut être prise au pied de la lettre.", "fix": "« Mais pour ce soir, j'aimerais qu'on laisse l'hôpital. »"}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-inquietudes-participation-soins.md",
+      "focus": "Inquiétude sur les traitements après l'épisode et participation à la décision médicale",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La phrase « J'ai peur que quelque chose recommence » et la demande faite à Estelle dans le couloir sont claires, mais la réponse du médecin reste entièrement abstraite et l'épisode reprend la mécanique de l'ép. 2.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "« Vous pouvez me redire cette partie autrement ? » demande finalement Bérénice au médecin.", "problem": "Même scène que l'ép. 2 (consultation, questions dans la pochette, reformulation, point reporté) et techniques quasi identiques (« Faire traduire un mot » / « Vérifier ce qui a été compris » ; « Donner une place à la suite » / « Identifier la suite »).", "fix": "Centrer l'épisode sur ce qui est nouveau : la peur d'une récidive et la décision partagée sur un traitement futur ; remplacer les deux techniques redondantes par, par exemple, « signaler tout nouveau médicament prescrit ailleurs » (formulé comme démarche auprès du médecin, sans consigne médicamenteuse) et « préparer avec le médecin ce qui serait dit à un autre prescripteur »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Le médecin reprend sa question et examine avec elle l’histoire des traitements et les besoins actuels.", "problem": "Le lecteur ne sait pas ce qui a été répondu (prend-elle encore un traitement ?).", "fix": "Donner une réponse générale : « Il lui explique pourquoi ce médicament ne lui sera plus prescrit et ce qu'il faudra dire à tout autre médecin. »"}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-souvenirs-partiels-recit.md",
+      "focus": "Souvenirs partiels de l'épisode ; distinguer souvenir, témoignage du proche et information médicale",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La phrase « Je veux bien que tu me dises ce que tu as vu. Mais pas ce que je devais forcément penser » est très parlante, mais l'objet qui déclenche la scène reste mystérieux.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "un petit papier plié qui n’a rien à faire là. Estelle l’a glissé parmi les documents pendant l’hospitalisation ; Bérénice le remet à côté de la pochette médicale. Depuis le rendez-vous, elles veulent surtout retrouver la dernière version des inscriptions. Le tri s’arrête pourtant sur une annotation au crayon.", "problem": "On ignore ce qu'est ce papier et ce que dit l'annotation ; le déclencheur du souvenir est illisible.", "fix": "Préciser : « une feuille de l'hôpital où Estelle avait noté au crayon “jeudi : gilet, a dit merci” »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle prend ensuite son téléphone pour demander à Karim", "problem": "Première apparition de Karim sans présentation.", "fix": "« pour demander à Karim, son collègue de l'accueil, … »."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-retour-accueil-role-choisi.md",
+      "focus": "Retentissement professionnel : retrouver une tâche choisie dans une organisation qui a continué sans elle",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'agrafeuse orange, le « ne t'embête pas » de Karim et la réplique « Pas toute la salle, les inscriptions » rendent la reprise concrète ; la phrase à un collègue protège bien la vie privée.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Leur échange a été fixé après son appel, dans le cadre du retour préparé avec son suivi et la salle.", "problem": "Formulation administrative.", "fix": "« Ils se sont donné rendez-vous mardi, son premier jour de reprise, convenu avec son médecin et la directrice de la salle. »"}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-changement-ulterieur-reevaluation.md",
+      "focus": "Changement ultérieur (réponse lente) à réévaluer sans l'attribuer d'office au diagnostic passé",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La phrase préparée par Bérénice et le témoignage d'Estelle sont clairs ; l'appréciation du médecin, qui est l'enjeu de l'épisode, n'est jamais dite.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Le médecin évalue la situation avec Bérénice et précise la suite du suivi ainsi que le relais à utiliser en cas de changement préoccupant.", "problem": "Dénouement procédural : le lecteur ne sait pas ce que le médecin pense du ralentissement ni ce qui est décidé.", "fix": "Faire dire au médecin une conclusion simple et prudente : « Rien dans ce que vous décrivez ne ressemble à ce qui s'est passé avant votre hospitalisation ; on se revoit dans un mois, et si vous ne pouvez plus bouger ou répondre, c'est le 15. »"},
+        {"severity": "mineur", "type": "trame", "quote": "Aucune nouvelle catatonie n'est affirmée dans cet échange.", "problem": "Phrase méta qui parle du récit au lieu de raconter.", "fix": "Supprimer, la réplique du médecin suffit."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/berenice-resolution-reprise-place-tournoi.md",
+      "focus": "Résolution de l'épisode et reprise d'un rôle choisi, distincte d'une preuve de guérison",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'affiche « que personne ne voit derrière la porte » fait écho à l'ép. 6, la relève de Karim est vérifiée et Bérénice quitte le comptoir pour regarder un match : l'arc se ferme clairement.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Bérénice pense encore à une question qu’elle gardera pour le suivi", "problem": "Question non précisée, qui laisse une impression de flou en fin de série.", "fix": "La nommer brièvement (« savoir si elle pourra reprendre ses horaires du samedi »)."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet (12 épisodes), ni manquant ni surnuméraire. Les ép. 2 et 8 se recoupent : plutôt que de les fusionner, recentrer l'ép. 8 sur la peur de la récidive et la transmission de l'antécédent aux futurs prescripteurs. Le moment de la résolution, aujourd'hui expédié à la fin de l'ép. 6, gagnerait à être raconté comme une scène.",
+  "verdict": "corrections_majeures"
+}

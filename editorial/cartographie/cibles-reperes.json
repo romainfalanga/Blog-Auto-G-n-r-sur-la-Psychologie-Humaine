@@ -1,0 +1,1608 @@
+[
+ {
+  "id": "pat_rumination",
+  "label": "Pensées en boucle",
+  "domain": "thinking",
+  "description": "Une réflexion répétée qui n’apporte plus de solution.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit"
+  ]
+ },
+ {
+  "id": "pat_intellectualization",
+  "label": "Intellectualisation",
+  "domain": "thinking",
+  "description": "Comprendre par l’analyse pour approcher ou tenir à distance un ressenti.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions"
+  ]
+ },
+ {
+  "id": "pat_uncertainty",
+  "label": "Besoin de certitude",
+  "domain": "thinking",
+  "description": "Chercher des garanties avant de décider ou d’agir.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables",
+   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante"
+  ]
+ },
+ {
+  "id": "pat_catastrophizing",
+  "label": "Anticipation du pire",
+  "domain": "thinking",
+  "description": "Un scénario défavorable prend une place disproportionnée.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/odile-anticiper-sans-tout-perdre"
+  ]
+ },
+ {
+  "id": "pat_mind_reading",
+  "label": "Interpréter le regard des autres",
+  "domain": "thinking",
+  "description": "Supposer connaître les jugements ou intentions d’autrui.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie"
+  ]
+ },
+ {
+  "id": "pat_all_or_nothing",
+  "label": "Pensée tout ou rien",
+  "domain": "thinking",
+  "description": "Évaluer une situation en catégories très tranchées.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit"
+  ]
+ },
+ {
+  "id": "pat_confirmation",
+  "label": "Attention aux indices qui confirment",
+  "domain": "thinking",
+  "description": "Remarquer surtout ce qui soutient une idée déjà présente.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit"
+  ]
+ },
+ {
+  "id": "pat_reframing",
+  "label": "Capacité à changer de perspective",
+  "domain": "thinking",
+  "description": "Explorer plusieurs lectures d’une même situation.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective"
+  ]
+ },
+ {
+  "id": "pat_emotional_identification",
+  "label": "Identifier ses émotions",
+  "domain": "emotions",
+  "description": "Trouver des mots pour les ressentis et les sensations.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions",
+   "posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance"
+  ]
+ },
+ {
+  "id": "pat_emotional_suppression",
+  "label": "Retenir l’expression émotionnelle",
+  "domain": "emotions",
+  "description": "Cacher ou contenir ses émotions pour se protéger ou préserver un lien.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille"
+  ]
+ },
+ {
+  "id": "pat_emotional_overload",
+  "label": "Se sentir débordé",
+  "domain": "emotions",
+  "description": "Une émotion dépasse momentanément les ressources disponibles.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais"
+  ]
+ },
+ {
+  "id": "pat_anger_needs",
+  "label": "Colère et besoins contrariés",
+  "domain": "emotions",
+  "description": "Repérer ce que signale une colère sans la confondre avec l’action.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels"
+  ]
+ },
+ {
+  "id": "pat_guilt",
+  "label": "Culpabilité",
+  "domain": "emotions",
+  "description": "Se sentir fautif ou redevable au-delà de sa responsabilité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos"
+  ]
+ },
+ {
+  "id": "pat_shame",
+  "label": "Honte et exposition",
+  "domain": "emotions",
+  "description": "Craindre que ses difficultés définissent sa valeur aux yeux des autres.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard"
+  ]
+ },
+ {
+  "id": "pat_body_stress",
+  "label": "Signaux corporels du stress",
+  "domain": "emotions",
+  "description": "Remarquer des sensations qui varient avec les situations stressantes, sans présumer que leur cause est psychologique ni écarter une évaluation médicale.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail"
+  ]
+ },
+ {
+  "id": "pat_self_criticism",
+  "label": "Autocritique",
+  "domain": "self",
+  "description": "Se juger globalement après une difficulté.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement",
+   "posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction"
+  ]
+ },
+ {
+  "id": "pat_conditional_worth",
+  "label": "Valeur liée à la réussite",
+  "domain": "self",
+  "description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle"
+  ]
+ },
+ {
+  "id": "pat_impostor",
+  "label": "Sentiment d’imposture",
+  "domain": "self",
+  "description": "Douter de sa légitimité malgré des observations de compétence. Ce sentiment d’imposture est un processus courant à contextualiser, pas un diagnostic.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes"
+  ]
+ },
+ {
+  "id": "pat_comparison",
+  "label": "Comparaison sociale",
+  "domain": "self",
+  "description": "Mesurer sa valeur en se comparant aux autres.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne"
+  ]
+ },
+ {
+  "id": "pat_self_compassion",
+  "label": "Bienveillance envers soi",
+  "domain": "self",
+  "description": "Reconnaître une difficulté sans réduire sa valeur à celle-ci.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers",
+   "posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait"
+  ]
+ },
+ {
+  "id": "pat_identity_transition",
+  "label": "Identité en évolution",
+  "domain": "self",
+  "description": "Redéfinir qui l’on est lors d’un changement.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements",
+   "posts/sortir-de-ses-schemas-repetitifs/malik-identite-souple-personnelle"
+  ]
+ },
+ {
+  "id": "pat_overresponsibility",
+  "label": "Rôle de sauveur",
+  "domain": "relationships",
+  "description": "Se sentir tenu de résoudre les difficultés d’autrui au prix de ses besoins. « Sauveur » est un nom courant de ce processus possible, pas un syndrome clinique.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches"
+  ]
+ },
+ {
+  "id": "pat_boundaries",
+  "label": "Exprimer ses limites",
+  "domain": "relationships",
+  "description": "Dire ses besoins et ses refus dans les relations.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui",
+   "posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos"
+  ]
+ },
+ {
+  "id": "pat_reassurance",
+  "label": "Recherche de validation",
+  "domain": "relationships",
+  "description": "S’appuyer fortement sur l’approbation extérieure pour se rassurer.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance"
+  ]
+ },
+ {
+  "id": "pat_conflict",
+  "label": "Rapport au désaccord",
+  "domain": "relationships",
+  "description": "Éviter ou intensifier les conflits pour protéger quelque chose.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante",
+   "posts/sortir-de-ses-schemas-repetitifs/odile-collectif-liberte-personnelle"
+  ]
+ },
+ {
+  "id": "pat_reciprocity",
+  "label": "Réciprocité",
+  "domain": "relationships",
+  "description": "Équilibrer donner, demander et recevoir.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-recevoir-aide-justifier",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations"
+  ]
+ },
+ {
+  "id": "pat_trust",
+  "label": "Confiance et prudence",
+  "domain": "relationships",
+  "description": "Ajuster sa confiance selon les liens et les observations.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-vie-privee-couple"
+  ]
+ },
+ {
+  "id": "pat_parent_expectations",
+  "label": "Attentes parentales intériorisées",
+  "domain": "family",
+  "description": "Explorer les règles familiales que la personne dit encore porter.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille"
+  ]
+ },
+ {
+  "id": "pat_family_roles",
+  "label": "Place et rôles dans la famille",
+  "domain": "family",
+  "description": "Comprendre les rôles que la personne décrit dans son entourage familial.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille"
+  ]
+ },
+ {
+  "id": "pat_parentification",
+  "label": "Responsabilités précoces",
+  "domain": "family",
+  "description": "Avoir assumé enfant des responsabilités pratiques ou émotionnelles durablement excessives pour son âge, selon son récit ; le terme ne conclut ni à une intention parentale ni à une cause actuelle.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions"
+  ]
+ },
+ {
+  "id": "pat_family_loyalty",
+  "label": "Loyauté et autonomie",
+  "domain": "family",
+  "description": "Concilier ses choix avec le sentiment d’appartenir à sa famille.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille",
+   "posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales"
+  ]
+ },
+ {
+  "id": "pat_emotional_learning",
+  "label": "Apprentissages émotionnels familiaux",
+  "domain": "family",
+  "description": "Explorer comment les émotions étaient accueillies selon le récit de la personne.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout"
+  ]
+ },
+ {
+  "id": "pat_family_boundaries",
+  "label": "Frontières dans la famille",
+  "domain": "family",
+  "description": "Situer intimité, responsabilités et décisions dans les liens familiaux.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille",
+   "posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales"
+  ]
+ },
+ {
+  "id": "pat_abandonment_fear",
+  "label": "Peur de perdre le lien",
+  "domain": "attachment",
+  "description": "Inquiétude liée à une distance ou une séparation.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude"
+  ]
+ },
+ {
+  "id": "pat_closeness_distance",
+  "label": "Proximité et distance",
+  "domain": "attachment",
+  "description": "Trouver une distance relationnelle confortable.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/malik-lien-distance"
+  ]
+ },
+ {
+  "id": "pat_relational_security",
+  "label": "Sécurité relationnelle",
+  "domain": "attachment",
+  "description": "Se sentir libre d’exprimer un besoin et de rester soi dans un lien.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire"
+  ]
+ },
+ {
+  "id": "pat_perfectionism",
+  "label": "Perfectionnisme coûteux",
+  "domain": "action",
+  "description": "Des exigences difficiles à assouplir malgré leur coût.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer"
+  ]
+ },
+ {
+  "id": "pat_avoidance",
+  "label": "Évitement et report",
+  "domain": "action",
+  "description": "Reporter pour soulager un inconfort à court terme.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion",
+   "posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie"
+  ]
+ },
+ {
+  "id": "pat_overcontrol",
+  "label": "Besoin de contrôle",
+  "domain": "action",
+  "description": "Garder la maîtrise pour tenter de se rassurer.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches",
+   "posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger"
+  ]
+ },
+ {
+  "id": "pat_withdrawal",
+  "label": "Retrait relationnel",
+  "domain": "action",
+  "description": "Réduire les liens quand ses ressources diminuent.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait"
+  ]
+ },
+ {
+  "id": "pat_impulsive_reaction",
+  "label": "Réagir dans l’urgence",
+  "domain": "action",
+  "description": "Agir rapidement pour sortir d’une tension.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail"
+  ]
+ },
+ {
+  "id": "pat_overwork",
+  "label": "Surinvestissement et récupération",
+  "domain": "context",
+  "description": "Une activité laisse peu de place au repos et aux autres besoins.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis"
+  ]
+ },
+ {
+  "id": "pat_grief_change",
+  "label": "Perte et changement",
+  "domain": "context",
+  "description": "Donner une place à ce qui change ou n’est plus.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables",
+   "posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien",
+   "posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces"
+  ]
+ },
+ {
+  "id": "pat_stress_resources",
+  "label": "Contraintes et ressources actuelles",
+  "domain": "context",
+  "description": "Relier les difficultés au contexte concret plutôt qu’à un défaut personnel.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles",
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes"
+  ]
+ },
+ {
+  "id": "pat_social_belonging",
+  "label": "Appartenance et place",
+  "domain": "context",
+  "description": "Se sentir accueilli dans un groupe ou un milieu.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place",
+   "posts/sortir-de-ses-schemas-repetitifs/malik-soutiens-plusieurs-cercles"
+  ]
+ },
+ {
+  "id": "pat_autonomy",
+  "label": "Autonomie",
+  "domain": "needs",
+  "description": "Pouvoir choisir en accord avec soi, dans ses contraintes.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi"
+  ]
+ },
+ {
+  "id": "pat_values_alignment",
+  "label": "Valeurs et cohérence",
+  "domain": "needs",
+  "description": "Relier ses choix à ce qui compte pour soi.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie",
+   "posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir",
+   "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs"
+  ]
+ },
+ {
+  "id": "pat_needs_expression",
+  "label": "Reconnaître ses besoins",
+  "domain": "needs",
+  "description": "Identifier ses besoins avant de les négocier avec les autres.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet",
+   "posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels"
+  ]
+ },
+ {
+  "id": "pat_support_seeking",
+  "label": "Demander du soutien",
+  "domain": "resources",
+  "description": "Pouvoir s’appuyer sur des personnes et des aides adaptées.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais",
+   "posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste",
+   "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi"
+  ]
+ },
+ {
+  "id": "pat_emotional_flexibility",
+  "label": "Souplesse émotionnelle",
+  "domain": "resources",
+  "description": "Accueillir un ressenti tout en gardant plusieurs façons d’agir.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir"
+  ]
+ },
+ {
+  "id": "pat_resilience",
+  "label": "Appuis dans les épreuves",
+  "domain": "resources",
+  "description": "Repérer les appuis, possibilités et ajustements qui aident à traverser une épreuve ; ce repère ne juge pas la personne sur sa vitesse de récupération.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste"
+  ]
+ },
+ {
+  "id": "pat_positive_connection",
+  "label": "Liens nourrissants",
+  "domain": "resources",
+  "description": "Identifier les relations qui offrent réciprocité et sécurité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste",
+   "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple"
+  ]
+ },
+ {
+  "id": "pat_self_awareness",
+  "label": "Connaissance de soi",
+  "domain": "resources",
+  "description": "Observer ses propres réactions en laissant une place aux nuances.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels",
+   "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective"
+  ]
+ },
+ {
+  "id": "pat_personalization",
+  "label": "Tout ramener à sa responsabilité",
+  "domain": "thinking",
+  "description": "S’attribuer une part disproportionnée d’un résultat qui dépend aussi d’autrui ou des circonstances.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux"
+  ]
+ },
+ {
+  "id": "pat_negative_filter",
+  "label": "Retenir surtout le négatif",
+  "domain": "thinking",
+  "description": "Laisser les éléments décevants occuper tout le bilan, même lorsque d’autres faits comptent aussi.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille"
+  ]
+ },
+ {
+  "id": "pat_overgeneralization",
+  "label": "Étendre une expérience à toutes les situations",
+  "domain": "thinking",
+  "description": "Tirer d’un épisode une règle générale sur soi, les autres ou l’avenir sans vérifier ses limites.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-expliquer-echec"
+  ]
+ },
+ {
+  "id": "pat_emotional_reasoning",
+  "label": "Prendre un ressenti pour une preuve",
+  "domain": "thinking",
+  "description": "Traiter l’intensité d’une émotion comme une certitude sur la situation, sans distinguer ressenti et faits.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple"
+  ]
+ },
+ {
+  "id": "pat_rigid_rules",
+  "label": "Règles intérieures rigides",
+  "domain": "thinking",
+  "description": "S’appuyer sur des obligations peu négociables, même lorsque le contexte demanderait un ajustement.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos"
+  ]
+ },
+ {
+  "id": "pat_problem_solving",
+  "label": "Résoudre un problème concret",
+  "domain": "thinking",
+  "description": "Définir ce qui peut être changé, comparer quelques options puis essayer une action observable.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude"
+  ]
+ },
+ {
+  "id": "pat_decision_tradeoffs",
+  "label": "Arbitrer entre plusieurs priorités",
+  "domain": "thinking",
+  "description": "Choisir lorsque plusieurs options défendent des intérêts légitimes et qu’aucune n’évite tous les coûts.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix"
+  ]
+ },
+ {
+  "id": "pat_decision_overload",
+  "label": "Saturation devant les choix",
+  "domain": "thinking",
+  "description": "Voir la qualité ou l’envie de décider diminuer lorsque les choix se multiplient ou s’enchaînent.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/samira-decider-pression-temps"
+  ]
+ },
+ {
+  "id": "pat_sunk_cost",
+  "label": "Rester pour ce qui a déjà coûté",
+  "domain": "thinking",
+  "description": "Poursuivre surtout pour ne pas perdre le temps, l’argent ou l’effort déjà investi, même si l’avenir paraît peu favorable.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-reviser-choix-chemin"
+  ]
+ },
+ {
+  "id": "pat_metacognitive_check",
+  "label": "Observer sa manière de penser",
+  "domain": "thinking",
+  "description": "Remarquer le fonctionnement d’une pensée et son effet plutôt que discuter seulement son contenu.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles"
+  ]
+ },
+ {
+  "id": "pat_emotional_ambivalence",
+  "label": "Ressentir plusieurs émotions à la fois",
+  "domain": "emotions",
+  "description": "Éprouver des émotions différentes à propos d’une même situation sans devoir en déclarer une illégitime.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture",
+   "posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables",
+   "posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien"
+  ]
+ },
+ {
+  "id": "pat_distress_tolerance",
+  "label": "Traverser un inconfort émotionnel",
+  "domain": "emotions",
+  "description": "Laisser une émotion désagréable être présente un temps tout en gardant des possibilités d’action et de soutien.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui",
+   "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture"
+  ]
+ },
+ {
+  "id": "pat_joy_permission",
+  "label": "S’autoriser la joie",
+  "domain": "emotions",
+  "description": "Remarquer lorsqu’un moment agréable est interrompu par la crainte de le perdre, de le payer ou de ne pas le mériter.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/odile-joie-chagrin-meme-jour",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance"
+  ]
+ },
+ {
+  "id": "pat_disappointment",
+  "label": "Accueillir une déception",
+  "domain": "emotions",
+  "description": "Reconnaître l’écart entre une attente et ce qui s’est passé sans en faire immédiatement un verdict global.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui"
+  ]
+ },
+ {
+  "id": "pat_self_trust",
+  "label": "S’appuyer sur son propre jugement",
+  "domain": "self",
+  "description": "Reconnaître ses observations et préférences tout en acceptant le conseil et la possibilité d’erreur.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-dire-non-sans-preuve"
+  ]
+ },
+ {
+  "id": "pat_balanced_self_evaluation",
+  "label": "Faire un bilan de soi nuancé",
+  "domain": "self",
+  "description": "Décrire compétences et limites avec des exemples précis plutôt qu’un jugement global de valeur.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement",
+   "posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles"
+  ]
+ },
+ {
+  "id": "pat_authenticity",
+  "label": "Accorder son expression à ce que l’on vit",
+  "domain": "self",
+  "description": "Chercher une manière de se présenter qui respecte ses préférences sans imposer de tout montrer dans tous les milieux.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette"
+  ]
+ },
+ {
+  "id": "pat_communication_clarification",
+  "label": "Vérifier le sens d’un échange",
+  "domain": "relationships",
+  "description": "Demander une précision ou reformuler avant de conclure sur l’intention d’autrui.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs"
+  ]
+ },
+ {
+  "id": "pat_active_listening",
+  "label": "Écouter sans résoudre tout de suite",
+  "domain": "relationships",
+  "description": "Faire place au récit de l’autre et vérifier le soutien souhaité avant de proposer une solution.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions",
+   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee"
+  ]
+ },
+ {
+  "id": "pat_assertive_request",
+  "label": "Faire une demande explicite",
+  "domain": "relationships",
+  "description": "Exprimer une demande concrète et négociable, en distinguant besoin, solution souhaitée et droit de réponse d’autrui.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective",
+   "posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels"
+  ]
+ },
+ {
+  "id": "pat_repair_after_conflict",
+  "label": "Réparer après un désaccord",
+  "domain": "relationships",
+  "description": "Reconnaître un impact, entendre l’autre et convenir d’un changement observable lorsque le dialogue est sûr.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante"
+  ]
+ },
+ {
+  "id": "pat_receiving_help",
+  "label": "Recevoir sans devoir rembourser immédiatement",
+  "domain": "relationships",
+  "description": "Accepter un soutien sans transformer toute aide en dette ou en preuve d’incapacité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement"
+  ]
+ },
+ {
+  "id": "pat_power_imbalance",
+  "label": "Marge de choix dans un rapport de pouvoir",
+  "domain": "relationships",
+  "description": "Tenir compte d’une dépendance financière, professionnelle ou relationnelle qui rend une demande ou un refus plus risqué.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi",
+   "posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte",
+   "posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste"
+  ]
+ },
+ {
+  "id": "pat_inherited_rules",
+  "label": "Messages familiaux devenus des règles",
+  "domain": "family",
+  "description": "Reconnaître des maximes apprises en famille et examiner ce qu’elles permettent ou limitent aujourd’hui.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille"
+  ]
+ },
+ {
+  "id": "pat_family_mediation",
+  "label": "Se retrouver médiateur familial",
+  "domain": "family",
+  "description": "Être souvent chargé d’apaiser, transmettre ou trancher entre des proches, parfois sans l’avoir choisi.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille"
+  ]
+ },
+ {
+  "id": "pat_sibling_comparison",
+  "label": "Comparaisons dans la fratrie",
+  "domain": "family",
+  "description": "Décrire des comparaisons répétées entre enfants et leur place actuelle, sans déduire automatiquement leurs effets.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/samira-voisinage-reciprocite-comparaison"
+  ]
+ },
+ {
+  "id": "pat_family_secrecy",
+  "label": "Sujets familiaux difficiles à aborder",
+  "domain": "family",
+  "description": "Repérer des sujets évités ou gardés privés dans une famille sans supposer un événement caché ou fabriquer un souvenir.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout"
+  ]
+ },
+ {
+  "id": "pat_consistency_in_relationships",
+  "label": "Prévisibilité de la disponibilité",
+  "domain": "attachment",
+  "description": "Observer si les paroles, actes et possibilités réelles d’un lien sont assez cohérents pour s’y orienter.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple",
+   "posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites"
+  ]
+ },
+ {
+  "id": "pat_separation_reunion",
+  "label": "Vivre les séparations et retrouvailles",
+  "domain": "attachment",
+  "description": "Observer comment s’organisent une absence, l’attente et le retour dans un lien particulier, sans attribuer un style fixe d’attachement.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles"
+  ]
+ },
+ {
+  "id": "pat_co_regulation",
+  "label": "S’apaiser dans une présence sûre",
+  "domain": "attachment",
+  "description": "Bénéficier d’une présence, d’un ton ou d’un échange respectueux pour retrouver une marge lorsque l’émotion monte.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire"
+  ]
+ },
+ {
+  "id": "pat_safe_disclosure",
+  "label": "Partager une vulnérabilité à son rythme",
+  "domain": "attachment",
+  "description": "Choisir quoi confier, à qui et quand, en observant si le lien respecte les limites et la confidentialité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance",
+   "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite",
+   "posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites"
+  ]
+ },
+ {
+  "id": "pat_task_initiation",
+  "label": "Passer du projet au premier geste",
+  "domain": "action",
+  "description": "Identifier ce qui rend le démarrage difficile, en distinguant flou de la tâche, inconfort, manque de moyens et énergie disponible.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion",
+   "posts/reprendre-le-controle-de-ses-pensees/remi-demarrer-tache",
+   "posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie"
+  ]
+ },
+ {
+  "id": "pat_habit_cues",
+  "label": "Repérer les déclencheurs d’une habitude",
+  "domain": "action",
+  "description": "Remarquer les lieux, moments ou sensations qui rendent une séquence d’action presque automatique.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme",
+   "posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications",
+   "posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte"
+  ]
+ },
+ {
+  "id": "pat_reward_delay",
+  "label": "Composer avec une récompense lointaine",
+  "domain": "action",
+  "description": "Observer comment le délai entre l’effort et un bénéfice influence l’engagement, sans en faire un manque de volonté.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present"
+  ]
+ },
+ {
+  "id": "pat_motivation_ambivalence",
+  "label": "Vouloir changer et vouloir conserver",
+  "domain": "action",
+  "description": "Reconnaître simultanément les bénéfices d’un changement et les fonctions de la situation actuelle.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet",
+   "posts/sortir-de-ses-schemas-repetitifs/elise-explorer-petite-possibilite"
+  ]
+ },
+ {
+  "id": "pat_flexible_standards",
+  "label": "Adapter ses exigences à la situation",
+  "domain": "action",
+  "description": "Moduler le niveau de finition selon l’enjeu, le temps et les ressources sans renoncer automatiquement à la qualité.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets",
+   "posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse",
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme"
+  ]
+ },
+ {
+  "id": "pat_financial_strain",
+  "label": "Pression financière",
+  "domain": "context",
+  "description": "Tenir compte des difficultés de revenus, dépenses ou dettes explicitement décrites avant d’interpréter une vigilance ou un report comme personnel.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle",
+   "posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard",
+   "posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels"
+  ]
+ },
+ {
+  "id": "pat_housing_instability",
+  "label": "Instabilité du lieu de vie",
+  "domain": "context",
+  "description": "Décrire un logement précaire, provisoire ou peu sûr et ses effets quotidiens sans réduire la difficulté à une stratégie psychologique.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine"
+  ]
+ },
+ {
+  "id": "pat_workload_context",
+  "label": "Charge et organisation du travail",
+  "domain": "context",
+  "description": "Situer les exigences, moyens et marges du travail avant d’attribuer une surcharge au seul perfectionnisme.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais",
+   "posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires"
+  ]
+ },
+ {
+  "id": "pat_discrimination_context",
+  "label": "Expérience déclarée de discrimination",
+  "domain": "context",
+  "description": "Prendre en compte les traitements inéquitables ou l’exclusion rapportés sans supposer qu’ils résultent d’une interprétation ou les généraliser à un groupe entier.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi"
+  ]
+ },
+ {
+  "id": "pat_caregiver_load",
+  "label": "Charge d’aidance",
+  "domain": "context",
+  "description": "Reconnaître le temps, la vigilance et les responsabilités d’un soutien durable à un proche, y compris lorsqu’il est choisi avec affection.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles",
+   "posts/reprendre-le-controle-de-ses-pensees/samira-charge-mentale-parentalite",
+   "posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible"
+  ]
+ },
+ {
+  "id": "pat_illness_adjustment",
+  "label": "S’adapter à un changement de santé déclaré",
+  "domain": "context",
+  "description": "Explorer les ajustements de vie autour d’un problème de santé explicitement rapporté, sans confirmer le diagnostic ni attribuer les sensations au psychisme.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable"
+  ]
+ },
+ {
+  "id": "pat_access_barriers",
+  "label": "Obstacles pour accéder à une aide",
+  "domain": "context",
+  "description": "Identifier les coûts, délais, transports, démarches, langues ou conditions d’accueil qui rendent un soutien difficile à obtenir.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/malik-demarches-charge-mentale",
+   "posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels",
+   "posts/sortir-de-ses-schemas-repetitifs/odile-solitude-choisie-perte"
+  ]
+ },
+ {
+  "id": "pat_migration_adjustment",
+  "label": "Changer de pays ou de milieu de vie",
+  "domain": "context",
+  "description": "Décrire les pertes, apprentissages et ressources d’une migration ou d’un déplacement, sans présumer que toute migration est traumatique.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes"
+  ]
+ },
+ {
+  "id": "pat_role_transition",
+  "label": "Passer d’un rôle de vie à un autre",
+  "domain": "context",
+  "description": "Réorganiser attentes et activités lors d’une parentalité, retraite, séparation, reprise ou autre changement de rôle déclaré.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/odile-retraite-changement-role"
+  ]
+ },
+ {
+  "id": "pat_ambiguous_loss",
+  "label": "Perte sans clôture claire",
+  "domain": "context",
+  "description": "Vivre l’absence ou la transformation d’un lien alors que la fin reste incertaine ou difficile à reconnaître ; repère descriptif, sans diagnostic de deuil.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture"
+  ]
+ },
+ {
+  "id": "pat_continuing_bonds",
+  "label": "Garder une place au lien après une perte",
+  "domain": "context",
+  "description": "Trouver une manière personnelle de se souvenir ou de maintenir une signification après une perte, sans imposer de tourner la page.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces",
+   "posts/sortir-de-ses-schemas-repetitifs/odile-objets-souvenirs-choisir",
+   "posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere"
+  ]
+ },
+ {
+  "id": "pat_social_isolation",
+  "label": "Isolement subi",
+  "domain": "context",
+  "description": "Distinguer le manque de contacts ou de soutien souhaités d’un temps seul choisi, en tenant compte des contraintes de mobilité et de milieu.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie"
+  ]
+ },
+ {
+  "id": "pat_work_home_conflict",
+  "label": "Demandes incompatibles entre plusieurs rôles",
+  "domain": "context",
+  "description": "Reconnaître des obligations de travail, famille ou vie personnelle qui rivalisent pour un temps et une énergie limités.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-valeurs-arbitrages-quotidien",
+   "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple"
+  ]
+ },
+ {
+  "id": "pat_values_conflict",
+  "label": "Valeurs qui entrent en tension",
+  "domain": "needs",
+  "description": "Reconnaître plusieurs valeurs importantes qui orientent vers des actions différentes au lieu de chercher un choix parfaitement pur.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix"
+  ]
+ },
+ {
+  "id": "pat_meaning_search",
+  "label": "Chercher du sens",
+  "domain": "needs",
+  "description": "S’interroger sur ce qui donne direction ou importance à une expérience, sans exiger une explication positive à une épreuve.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires",
+   "posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire"
+  ]
+ },
+ {
+  "id": "pat_purpose_direction",
+  "label": "Choisir une direction personnelle",
+  "domain": "needs",
+  "description": "Formuler une orientation suffisamment personnelle et révisable pour guider des choix, sans transformer le projet en obligation identitaire.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet",
+   "posts/sortir-de-ses-schemas-repetitifs/eloi-orientation-valeurs"
+  ]
+ },
+ {
+  "id": "pat_small_goals",
+  "label": "Découper un projet en étapes accessibles",
+  "domain": "needs",
+  "description": "Choisir une étape adaptée aux moyens actuels et dont l’issue permet de décider de la suite.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet"
+  ]
+ },
+ {
+  "id": "pat_practical_support",
+  "label": "Recevoir un appui concret",
+  "domain": "resources",
+  "description": "Mobiliser une aide matérielle ou organisationnelle identifiable en complément d’une écoute émotionnelle.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais",
+   "posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles"
+  ]
+ },
+ {
+  "id": "pat_community_participation",
+  "label": "Trouver une place dans un collectif",
+  "domain": "resources",
+  "description": "Participer à un groupe, voisinage ou activité qui offre des liens et une contribution choisie sans exiger de conformité totale.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie",
+   "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs",
+   "posts/sortir-de-ses-schemas-repetitifs/elise-entraide-concrete"
+  ]
+ },
+ {
+  "id": "pat_grounded_attention",
+  "label": "Revenir aux repères du présent",
+  "domain": "resources",
+  "description": "Orienter volontairement l’attention vers des perceptions ou une activité actuelle lorsque cela est confortable et utile.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin",
+   "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective"
+  ]
+ },
+ {
+  "id": "pat_enjoyable_activity",
+  "label": "Préserver des activités agréables",
+  "domain": "resources",
+  "description": "Faire une place possible à des activités appréciées sans en faire une obligation de bonne humeur ou de productivité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin",
+   "posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire",
+   "posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs"
+  ]
+ },
+ {
+  "id": "pat_gratitude",
+  "label": "Reconnaître ce qui soutient",
+  "domain": "resources",
+  "description": "Nommer des éléments appréciés sans effacer les difficultés ni imposer de se sentir chanceux.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni"
+  ]
+ },
+ {
+  "id": "pat_creative_expression",
+  "label": "Exprimer par la création",
+  "domain": "resources",
+  "description": "Utiliser une pratique artistique, manuelle ou narrative pour explorer ou partager une expérience, sans interpréter automatiquement ce qui est produit.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere"
+  ]
+ },
+ {
+  "id": "pat_nature_contact",
+  "label": "Trouver un appui dans un environnement choisi",
+  "domain": "resources",
+  "description": "Repérer les lieux extérieurs ou éléments de nature qui semblent soutenir le repos ou l’attention, selon l’accès et les préférences de la personne.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin"
+  ]
+ },
+ {
+  "id": "pat_solitude_choice",
+  "label": "Choisir un temps seul qui ressource",
+  "domain": "resources",
+  "description": "Distinguer le temps seul apprécié du retrait subi, en regardant la possibilité de retrouver du lien ensuite.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie",
+   "posts/sortir-de-ses-schemas-repetitifs/odile-solitude-choisie-perte"
+  ]
+ },
+ {
+  "id": "pat_self_efficacy",
+  "label": "Reconnaître sa capacité d’agir",
+  "domain": "resources",
+  "description": "S’appuyer sur des réussites et appuis précis pour estimer ce que l’on peut essayer dans une situation donnée.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/elise-optimisme-preparations-utiles",
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-competences-transferables",
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais"
+  ]
+ },
+ {
+  "id": "pat_minimization",
+  "label": "Réduire l’importance de ce qui touche",
+  "domain": "adaptation",
+  "description": "Dire que quelque chose compte peu alors que le récit montre aussi un effet, parfois pour conserver une distance supportable ; cela reste à vérifier avec la personne.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions"
+  ]
+ },
+ {
+  "id": "pat_rationalization",
+  "label": "Construire une explication après coup",
+  "domain": "adaptation",
+  "description": "Chercher une explication cohérente après un choix ou une déception, sans supposer que la personne ment ou ignore forcément ses motifs.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante"
+  ]
+ },
+ {
+  "id": "pat_distraction_coping",
+  "label": "Se distraire pour souffler",
+  "domain": "adaptation",
+  "description": "Déplacer l’attention vers une activité afin de diminuer un inconfort, en observant si cela permet ensuite de revenir à ce qui compte.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie"
+  ]
+ },
+ {
+  "id": "pat_humor_coping",
+  "label": "Utiliser l’humour pour traverser",
+  "domain": "adaptation",
+  "description": "S’appuyer sur l’humour pour créer du recul ou du lien, en vérifiant qu’il ne rend pas impossible l’expression de la difficulté.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions"
+  ]
+ },
+ {
+  "id": "pat_emotional_detachment",
+  "label": "Se sentir momentanément à distance",
+  "domain": "adaptation",
+  "description": "Décrire un ressenti d’émoussement ou de distance dans une situation difficile, sans attribuer automatiquement un mécanisme traumatique ou un trouble.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme"
+  ]
+ },
+ {
+  "id": "pat_safety_behaviors",
+  "label": "Se rassurer par des précautions répétées",
+  "domain": "adaptation",
+  "description": "S’appuyer sur des gestes destinés à éviter une issue redoutée et observer si leur coût augmente sans apporter de sécurité supplémentaire.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications"
+  ]
+ },
+ {
+  "id": "pat_appeasement",
+  "label": "Apaiser autrui pour préserver sa sécurité",
+  "domain": "adaptation",
+  "description": "Accepter, flatter ou s’effacer pour réduire une tension relationnelle, en reconnaissant que cela peut être une protection face à un risque réel.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer"
+  ]
+ },
+ {
+  "id": "pat_flexible_coping",
+  "label": "Choisir une réponse selon la situation",
+  "domain": "adaptation",
+  "description": "Adapter une manière de faire face selon ce qui est modifiable, les ressources disponibles et les effets observés.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir",
+   "posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels"
+  ]
+ },
+ {
+  "id": "pat_response_pause",
+  "label": "Créer une pause avant de répondre",
+  "domain": "adaptation",
+  "description": "Introduire un délai praticable entre une impulsion et une réponse lorsque cela aide à agir selon son intention.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers",
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels",
+   "posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger"
+  ]
+ },
+ {
+  "id": "pat_responsibility_repair",
+  "label": "Reconnaître une responsabilité proportionnée",
+  "domain": "adaptation",
+  "description": "Distinguer sa contribution précise à un tort, les autres facteurs et une réparation possible sans se condamner globalement.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui",
+   "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles"
+  ]
+ },
+ {
+  "id": "pat_distractibility",
+  "label": "Attention facilement détournée",
+  "domain": "executive",
+  "description": "Décrire des difficultés de concentration selon les tâches et environnements, sans inférer un TDAH ni une autre cause clinique.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail",
+   "posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement"
+  ]
+ },
+ {
+  "id": "pat_attentional_capture",
+  "label": "Attention captée par une sollicitation",
+  "domain": "executive",
+  "description": "Remarquer qu’un signal saillant ou chargé affectivement ramène souvent l’attention vers lui, même lorsque l’on vise une autre activité.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement"
+  ]
+ },
+ {
+  "id": "pat_attention_switching",
+  "label": "Coût des changements de tâche",
+  "domain": "executive",
+  "description": "Observer l’effort pour quitter une activité, entrer dans une autre puis retrouver le fil, sans confondre ce coût avec de la mauvaise volonté.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/remi-interruptions-retrouver-fil"
+  ]
+ },
+ {
+  "id": "pat_planning_steps",
+  "label": "Rendre les étapes visibles",
+  "domain": "executive",
+  "description": "Transformer une tâche en séquence compréhensible et repérer les dépendances, les moyens et le prochain geste.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles"
+  ]
+ },
+ {
+  "id": "pat_time_estimation",
+  "label": "Estimer le temps nécessaire",
+  "domain": "executive",
+  "description": "Comparer le temps imaginé au temps réellement pris pour ajuster les engagements sans jugement moral.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/remi-estimer-temps-marges"
+  ]
+ },
+ {
+  "id": "pat_priority_setting",
+  "label": "Distinguer les priorités",
+  "domain": "executive",
+  "description": "Choisir ce qui doit recevoir l’attention maintenant en tenant compte des enjeux, de l’énergie et des demandes négociables.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present"
+  ]
+ },
+ {
+  "id": "pat_working_memory_load",
+  "label": "Trop d’informations à garder en tête",
+  "domain": "executive",
+  "description": "Observer les difficultés quand plusieurs consignes, étapes ou intentions doivent être maintenues mentalement ; aucune mesure cognitive n’en est déduite.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles",
+   "posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles",
+   "posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile"
+  ]
+ },
+ {
+  "id": "pat_external_supports",
+  "label": "S’appuyer sur des repères extérieurs",
+  "domain": "executive",
+  "description": "Utiliser listes, rappels, supports visuels ou aménagements comme outils choisis plutôt que comme preuve d’une incapacité.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present",
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes",
+   "posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes"
+  ]
+ },
+ {
+  "id": "pat_prospective_memory",
+  "label": "Se rappeler d’une intention au bon moment",
+  "domain": "executive",
+  "description": "Repérer les écarts entre savoir quoi faire et y penser au moment utile, en examinant les indices disponibles.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile",
+   "posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible"
+  ]
+ },
+ {
+  "id": "pat_body_awareness",
+  "label": "Reconnaître ses sensations corporelles",
+  "domain": "body",
+  "description": "Décrire les sensations remarquées et leurs variations sans leur attribuer une signification psychologique ou médicale certaine.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations",
+   "posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite"
+  ]
+ },
+ {
+  "id": "pat_sensory_load",
+  "label": "Charge de l’environnement sensoriel",
+  "domain": "body",
+  "description": "Prendre en compte bruit, lumière, foule ou sollicitations tactiles rapportés comme coûteux, sans en déduire une neurodivergence.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail"
+  ]
+ },
+ {
+  "id": "pat_anticipatory_arousal",
+  "label": "Corps mobilisé avant un événement",
+  "domain": "body",
+  "description": "Repérer une activation corporelle à l’approche d’un enjeu, en distinguant observation, interprétation et causes possibles.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement"
+  ]
+ },
+ {
+  "id": "pat_sleep_onset",
+  "label": "Difficulté à décrocher avant le sommeil",
+  "domain": "body",
+  "description": "Décrire ce qui occupe la période d’endormissement sans poser un diagnostic d’insomnie ni en présumer la cause.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement"
+  ]
+ },
+ {
+  "id": "pat_sleep_rhythm",
+  "label": "Rythmes et possibilités de sommeil",
+  "domain": "body",
+  "description": "Situer les horaires, occasions de sommeil et contraintes réelles avant d’interpréter la fatigue comme un défaut d’organisation.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme",
+   "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes"
+  ]
+ },
+ {
+  "id": "pat_fatigue_pacing",
+  "label": "Ajuster l’effort à l’énergie disponible",
+  "domain": "body",
+  "description": "Observer les variations d’énergie et la façon de répartir l’effort sans attribuer toute fatigue au stress ni conseiller de dépasser ses limites.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement"
+  ]
+ },
+ {
+  "id": "pat_rest_permission",
+  "label": "S’accorder du repos",
+  "domain": "body",
+  "description": "Repérer ce qui autorise ou empêche une pause, en distinguant culpabilité intérieure et impossibilité matérielle de s’arrêter.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos"
+  ]
+ },
+ {
+  "id": "pat_health_declared",
+  "label": "Santé ou fonctionnement explicitement déclaré",
+  "domain": "body",
+  "description": "Garder comme contexte les informations de santé, handicap, traitement ou neurodivergence que la personne choisit de déclarer, sans les confirmer ni les déduire du récit.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos",
+   "posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance",
+   "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations"
+  ]
+ },
+ {
+  "id": "pat_movement_regulation",
+  "label": "Trouver un mouvement qui convient",
+  "domain": "body",
+  "description": "Identifier une forme de mouvement appréciée et compatible avec les capacités et conseils de santé de la personne, sans prescription d’intensité.",
+  "articles": [
+   "posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs"
+  ]
+ },
+ {
+  "id": "pat_observational_learning",
+  "label": "Apprendre en observant les autres",
+  "domain": "learning",
+  "description": "Reconnaître des façons de faire apprises auprès de proches ou de modèles, sans affirmer qu’elles expliquent à elles seules un comportement actuel.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues",
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais"
+  ]
+ },
+ {
+  "id": "pat_learned_expectation",
+  "label": "Attendre la répétition d’une expérience",
+  "domain": "learning",
+  "description": "Anticiper une issue à partir d’expériences passées, en vérifiant si le contexte présent lui ressemble réellement.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur"
+  ]
+ },
+ {
+  "id": "pat_behavioral_experiment",
+  "label": "Tester une hypothèse par un petit essai",
+  "domain": "learning",
+  "description": "Choisir un essai volontaire, limité et sûr pour observer une prédiction plutôt que la traiter comme déjà certaine.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible",
+   "posts/sortir-de-ses-schemas-repetitifs/eloi-progression-droit-essai"
+  ]
+ },
+ {
+  "id": "pat_feedback_learning",
+  "label": "Utiliser un retour sans s’y réduire",
+  "domain": "learning",
+  "description": "Extraire une information utile d’un retour en examinant sa précision, sa source et ce qu’il permet d’apprendre.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude",
+   "posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible"
+  ]
+ },
+ {
+  "id": "pat_skill_practice",
+  "label": "Développer une compétence avec des appuis",
+  "domain": "learning",
+  "description": "Décrire la pratique, les occasions, les retours et les conditions qui soutiennent un apprentissage sans traiter la difficulté comme une identité fixe.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-competences-transferables",
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage",
+   "posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais"
+  ]
+ },
+ {
+  "id": "pat_consent_boundaries",
+  "label": "Exprimer et respecter un consentement libre",
+  "domain": "intimacy",
+  "description": "Faire place au choix explicite, révisable et sans pression dans l’intimité, sans inférer une histoire sexuelle ni une expérience de violence.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels",
+   "posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis"
+  ]
+ },
+ {
+  "id": "pat_privacy_boundaries",
+  "label": "Définir sa vie privée",
+  "domain": "intimacy",
+  "description": "Choisir l’accès à son corps, ses messages, ses objets ou ses informations personnelles, selon ses préférences et sa sécurité.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance",
+   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi"
+  ]
+ },
+ {
+  "id": "pat_desire_variation",
+  "label": "Accueillir des rythmes de désir différents",
+  "domain": "intimacy",
+  "description": "Décrire des variations ou différences de désir sans norme de fréquence, sans diagnostic et sans devoir satisfaire une attente d’autrui.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple"
+  ]
+ },
+ {
+  "id": "pat_relational_jealousy",
+  "label": "Comprendre un ressenti de jalousie",
+  "domain": "intimacy",
+  "description": "Explorer l’inquiétude, la comparaison ou l’accord relationnel en jeu sans justifier surveillance, contrôle ou restriction de l’autre.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir"
+  ]
+ },
+ {
+  "id": "pat_affection_preferences",
+  "label": "Exprimer ses préférences de proximité",
+  "domain": "intimacy",
+  "description": "Reconnaître que paroles, gestes, temps partagé et distance peuvent avoir des significations différentes selon les personnes et les moments.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple",
+   "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-moments-partages-sans-obligation"
+  ]
+ },
+ {
+  "id": "pat_intimacy_communication",
+  "label": "Parler de son intimité à son rythme",
+  "domain": "intimacy",
+  "description": "Choisir un échange respectueux sur les attentes, limites ou préoccupations intimes sans devoir révéler des détails non souhaités.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite",
+   "posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite",
+   "posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis"
+  ]
+ },
+ {
+  "id": "pat_bicultural_navigation",
+  "label": "Composer avec plusieurs univers culturels",
+  "domain": "identity",
+  "description": "Articuler des références culturelles, familiales ou linguistiques multiples sans imposer de choisir une appartenance unique.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture",
+   "posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte",
+   "posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place"
+  ]
+ },
+ {
+  "id": "pat_identity_recognition",
+  "label": "Être reconnu dans la manière de se définir",
+  "domain": "identity",
+  "description": "Prendre au sérieux les mots et appartenances que la personne choisit pour elle-même sans les déduire de son apparence, de ses goûts ou de son récit.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance",
+   "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi",
+   "posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard"
+  ]
+ },
+ {
+  "id": "pat_self_expression",
+  "label": "Choisir sa manière de se présenter",
+  "domain": "identity",
+  "description": "Expérimenter des façons de parler, créer, s’habiller ou participer qui correspondent à ses préférences, sans faire d’un style un indicateur clinique ou identitaire.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette"
+  ]
+ },
+ {
+  "id": "pat_disclosure_choice",
+  "label": "Choisir à qui révéler une information personnelle",
+  "domain": "identity",
+  "description": "Décider du moment, du public et des limites d’un partage identitaire ou personnel en fonction de ses préférences et de la sécurité réelle.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte",
+   "posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi",
+   "posts/sortir-de-ses-schemas-repetitifs/salome-vie-privee-sans-expliquer"
+  ]
+ },
+ {
+  "id": "pat_social_media_comparison",
+  "label": "Se comparer dans un environnement numérique",
+  "domain": "identity",
+  "description": "Situer les comparaisons dans des contenus sélectionnés et des sollicitations répétées plutôt que les attribuer seulement à un manque d’estime de soi.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne"
+  ]
+ },
+ {
+  "id": "pat_role_expectations",
+  "label": "Attentes sociales autour des identités",
+  "domain": "identity",
+  "description": "Repérer les attentes liées à l’âge, au genre, à la classe, à la religion ou à d’autres appartenances telles que la personne les décrit, sans présumer qu’elles s’appliquent à tout son groupe.",
+  "articles": [
+   "posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales"
+  ]
+ },
+ {
+  "id": "pat_self_focused_attention",
+  "label": "Se surveiller pendant un échange",
+  "domain": "executive",
+  "description": "Porter une grande partie de l’attention sur sa propre voix, ses gestes ou son apparence au point de moins suivre l’échange, sans inférer un trouble anxieux.",
+  "articles": [
+   "posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait"
+  ]
+ }
+]

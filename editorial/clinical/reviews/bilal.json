@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "character_id": "bilal",
+  "reviewer": "review_bilal",
+  "reviewed_on": "2026-11-12",
+  "status": "revision_requested",
+  "summary": "Lecture indépendante complète de la charte, de l’article modèle, du dossier, du design, du brief et des douze épisodes ; passage CDDR p.613 sur la conscience des difficultés vérifié dans le texte anglais local. Les douze aspects sont distincts et chacun devient visible dans sa scène ; chaque épisode est compréhensible seul (personnages présentés, lieu, action concrète, décision du personnage). La chronologie d’environ treize semaines, les séances avec Hugo le jeudi et les objets fixes (ardoise, carnet rouge, fiche de la défonceuse, rappel du mardi, carnet vert, fiche des étapes) se suivent. Les habitants ajoutés (Thérèse, Karim, Germaine, Lucie), la quincaillerie Brunet et le maître d’Amboise restent cohérents avec le canon. Points signalés vérifiés : gestes conservés propres à Bilal (ép. 2), décalage sans déni (ép. 4), langue sans item ni score (ép. 6), frontière dissociative laissée aux professionnels (ép. 10), 15 en ép. 5 et 10 seulement, aucune efficacité promise. Conseils aux proches concrets, ancrés et sûrs. Corrections demandées : une imprécision clinique en ép. 4 (attribution à l’OMS d’une erreur de source d’information), et des raccords ou réalismes factuels en ép. 4, 5, 6, 7 et 12. Cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de publication.",
+  "files": {
+    "editorial/clinical/designs/bilal.json": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+    "editorial/clinical/dossiers/bilal.json": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+    "editorial/clinical/bilal.json": "39ea8a08a2e5a03a6236d7cab038d03cbe54d8c0f3f4aa4dce6609f40ffe1fa0"
+  },
+  "findings": [
+    {
+      "episode": 4,
+      "issue": "L’explication attribue à l’OMS une « source d’une information mal attribuée » et évoque une « scène plausible » reconstruite ; la sous-partie « Une source mal attribuée » et la généralisation « Le sentiment d’avoir dit quelque chose peut s’accompagner de détails précis » vont dans le même sens. Or la CDDR p.613 (texte anglais vérifié) parle de « misattribution of the cause/source of symptoms or problems », c’est-à-dire de difficultés attribuées à une autre cause, d’une conscience modifiée des difficultés et d’oublis non reconnus ; le dossier ne documente ni erreur de source d’une information, ni souvenir reconstruit détaillé.",
+      "requested_change": "Réécrire l’explication et la deuxième sous-partie avec les seuls éléments du dossier : conscience modifiée des difficultés, perception erronée de ses capacités, mauvaise attribution de la cause des difficultés et possibilité de ne pas repérer un oubli (par exemple avoir eu l’intention de prévenir Rachid sans s’apercevoir que ce n’était pas fait). Supprimer « ou a reconstruit une scène plausible » et la mention d’une source d’information mal attribuée. La certitude détaillée de Bilal (le bonnet vert) peut rester dans la scène comme vécu du personnage, mais pas comme mécanisme général décrit par l’OMS ; reformuler en conséquence la sous-partie « Un souvenir détaillé mais non confirmé » et l’intro clinique (« se tromper sur l’origine d’une information »)."
+    },
+    {
+      "episode": 4,
+      "issue": "Erreur de genre répétée : « rendre une serre-joint empruntée » et « Rachid pose la serre-joint » ; le nom est masculin, comme l’écrit correctement l’ép. 7 (« deux serre-joints »).",
+      "requested_change": "Écrire « rendre un serre-joint emprunté » et « Rachid pose le serre-joint »."
+    },
+    {
+      "episode": 5,
+      "issue": "Calendrier scolaire peu plausible : la série se termine avant décembre (camionnette changée en décembre, ép. 10 ; poste d’Inès au 5 janvier, ép. 9 ; pommes au jardin, ép. 4), donc la semaine 5 tombe vers début octobre. Un conseil de classe de trois heures avec vote sur la réorientation d’un élève de seconde ne se tient pas à cette période en lycée.",
+      "requested_change": "Remplacer le conseil de classe par une réunion plausible en octobre (par exemple une longue réunion de l’équipe pédagogique sur un élève de seconde en difficulté, sans vote de réorientation), en gardant la même charge et en ajustant les reprises dans les manifestations, les techniques et le dénouement de l’ép. 5 (récit du samedi au café)."
+    },
+    {
+      "episode": 6,
+      "issue": "Raccord du carnet rouge : à l’hôpital le mardi 9 h, le carnet est « dans la poche de sa veste » après la recopie du lundi midi, et il sert dans le tramway ; or l’ép. 8 affirme que, depuis l’arrangement de l’ép. 5, le carnet reste le soir dans le tablier et que le tablier reste à l’atelier, ce qui explique la séance manquée.",
+      "requested_change": "Ajouter dans l’ouverture de l’ép. 6 une phrase indiquant que Bilal a exceptionnellement sorti le carnet du tablier lundi à dix-sept heures pour ce rendez-vous du matin (par exemple sur le conseil d’Hugo ou de Martine), afin que la règle décrite en ép. 8 reste vraie et que l’oubli de l’ép. 8 garde sa logique."
+    },
+    {
+      "episode": 7,
+      "issue": "Écart de chronologie : la latte de Rachid est « rentrée il y a trois semaines, le lundi fixé sur l’ardoise ». Ce lundi suit le mercredi de l’ép. 4 (trois semaines après la livraison) ; l’ép. 7 se passe le jeudi de la semaine du bilan (six semaines après), soit environ dix-sept jours plus tard.",
+      "requested_change": "Écrire « il y a un peu plus de deux semaines » (ou « dix-sept jours plus tôt »), sans changer le reste."
+    },
+    {
+      "episode": 12,
+      "issue": "Raccord physique : l’allée mesurée en ép. 3 fait 1,60 m de large ; une camionnette, rétroviseurs compris, est plus large, et la phrase « Un mètre soixante de large : le rétroviseur frôle le tilleul, mais ça passe » rend la manœuvre impossible. Par ailleurs « Le soir, avant que le carnet rouge se ferme, il écrit » contredit la fermeture du carnet à dix-sept heures décidée en ép. 5 et reprise en ép. 8.",
+      "requested_change": "Faire stationner la camionnette au portail ou dans la rue et faire porter l’assise du banc à l’épaule par Jonas et Rachid le long de l’allée de 1,60 m (le banc de 3 m y passe en longueur), en gardant le clin d’œil au tilleul si souhaité. Remplacer « Le soir, avant que le carnet rouge se ferme » par une heure compatible, par exemple « Avant dix-sept heures, avant de passer l’élastique »."
+    }
+  ],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Retenir une information nouvelle",
+      "opening_quote": "Lundi, sept heures et demie, rue des Tanneurs",
+      "ending_quote": "Martine décroche une vieille ardoise noire qui servait autrefois à afficher les prix au marché de Noël et la visse à côté de l’établi de Bilal, à hauteur d’yeux",
+      "continuity_note": "Lundi de la semaine 1 : report annoncé vendredi, convocation envoyée samedi, ardoise vissée avec la livraison du mercredi 8 h et la cote de 45 cm issue du compte rendu d’Odile ; ces trois données sont reprises exactement en ép. 2. Le lecteur arrivant directement comprend qui sont Martine, Jonas, Rachid et Odile.",
+      "clinical_note": "La définition (altération marquée, sans autre atteinte significative, acquisition d’informations nouvelles) suit la CDDR p.612 du dossier ; le texte précise que le diagnostic vient de l’évaluation et non d’un oubli observé, ce qui écarte l’autodiagnostic.",
+      "relatives_note": "Le conseil part du « je te l’avais dit » évitable devant les tréteaux et du geste de Rachid ; phrase concrète « On l’écrit ensemble, là, maintenant ? », limite explicite (pas d’agenda, pas de vérification des souvenirs) et possibilité de dire que l’arrangement pèse."
+    },
+    {
+      "number": 2,
+      "focus": "Souvenirs anciens disponibles, faits récents fragiles",
+      "opening_quote": "Mercredi, huit heures dix",
+      "ending_quote": "Bilal lit à voix haute : « Lattes du dossier : 45 cm",
+      "continuity_note": "Mercredi de la livraison : le camion tient la date de l’ardoise, Jonas pose la question de la cote votée « jeudi dernier », cohérente avec l’ép. 1. Amboise et le maître d’apprentissage sont un ajout hors plan sans contradiction avec le canon.",
+      "clinical_note": "Contraste mémoire récente/ancienne et absence d’autre atteinte significative conformes à la CDDR p.613 ; la conservation des gestes est explicitement présentée comme propre à Bilal et non comme règle du trouble, conformément à la réserve du dossier.",
+      "relatives_note": "Ancré dans les deux gestes de Jonas (écoute, cote recopiée sans commentaire) ; phrase proposée « on regarde ensemble sur l’ardoise » qui évite l’épreuve ; le proche ne vérifie pas le savoir du métier ni ne décide du recours au support."
+    },
+    {
+      "number": 3,
+      "focus": "Rappel immédiat préservé, oubli après un délai",
+      "opening_quote": "Jeudi, neuf heures douze",
+      "ending_quote": "Bilal ne fait pas semblant",
+      "continuity_note": "Jeudi de la semaine 1, débit commencé la veille ; calcul 3,40 − 3 = 2 × 20 cm juste. Le carnet rouge naît ici, tiré du tiroir de Martine, et entre dans le tablier comme prévu par le design. Brunet, boulevard Béranger, ajouté hors plan, est réutilisé en ép. 11.",
+      "clinical_note": "Rappel immédiat relativement préservé puis perte après délai : CDDR p.613 ; la perte de l’appel lui-même reste dans le cadre décrit par le dossier. La technique « écrire pendant l’appel » ne revendique aucune efficacité (« ne garantit pas qu’on pensera à la relire »).",
+      "relatives_note": "Jonas rapporte un fait sans piéger ; Odile redonne les chiffres et envoie le message. Proposition « Je te l’écris aussi ? » et limite claire : pas de contrôle ultérieur de ce qui est resté."
+    },
+    {
+      "number": 4,
+      "focus": "Croire se souvenir alors que l’information manque",
+      "opening_quote": "Mercredi, seize heures",
+      "ending_quote": "Bilal referme le carnet",
+      "continuity_note": "Mercredi de la semaine 3 ; quatre lattes nommées (Thérèse, Karim, Germaine, Lucie, habitants ajoutés hors plan mais cohérents jusqu’en ép. 12). Séance du samedi au jardin avant le déplacement au mardi annoncé en ép. 5 ; récapitulatif du lundi et séance avec Hugo le jeudi tenus ensuite. Écrire « un serre-joint » (masculin).",
+      "clinical_note": "Correction requise : la CDDR p.613 (vérifiée dans le texte anglais local) parle de « misattribution of the cause/source of symptoms or problems », c’est-à-dire d’une mauvaise attribution de la cause des difficultés, et non d’une mauvaise attribution de la source d’une information ; l’hypothèse d’une « scène plausible reconstruite » et la généralisation « un souvenir détaillé mais non confirmé » ne figurent pas au dossier. Le texte évite bien le déni et renvoie l’ampleur à l’équipe.",
+      "relatives_note": "Martine ne tranche pas, ce qui est juste et dit ; phrase « Je ne sais pas ce qui s’est dit, mais on peut l’écrire maintenant » ; ses limites au récapitulatif (une feuille, une fois par semaine, relue ensemble) sont concrètes et sûres."
+    },
+    {
+      "number": 5,
+      "focus": "Effort de compensation et fatigue du soir",
+      "opening_quote": "Lundi, dix-huit heures",
+      "ending_quote": "Jeudi, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe à l’atelier comme convenu",
+      "continuity_note": "Lundi de la semaine 5 ; ardoise, récapitulatif collé sous l’ardoise et séance déplacée au mardi soir sont repris. Hugo demande mardi un comptage, passe jeudi : cohérent avec les séances du jeudi. Point de calendrier scolaire à corriger : le conseil de classe avec vote de réorientation tombe vers début octobre (voir remarque).",
+      "clinical_note": "Effort compensatoire au seuil des formes légères (CDDR p.612) et adaptation à la fatigue (NICE 1.2.19–1.2.20) correctement rapportés ; les traits de relecture sont dits « pas un test ». Le dénouement montre un retour des relectures, sans promesse.",
+      "relatives_note": "Samia déplace la conversation au samedi sans se vexer ; phrase « Je te le raconte samedi, au café ? » ; refus de devenir agenda rappelé ; règle du changement brutal non attribué au trouble avec avis médical rapide et le 15, conforme au dossier Service Public."
+    },
+    {
+      "number": 6,
+      "focus": "Bilan de suivi attentif à la langue",
+      "opening_quote": "Mardi, neuf heures. Six semaines après la livraison du chêne, Bilal attend dans le couloir du service de réadaptation, au deuxième étage, sur une chaise en bois blond qu’il a déjà jugée : du hêtre, assemblé à la colle, il ne tiendra pas dix ans",
+      "ending_quote": "La docteure Vasseur pose son stylo",
+      "continuity_note": "Mardi de la semaine 6 ; trois situations recopiées lundi midi (ép. 1, 3, 4), défonceuse livrée le vendredi précédent, consentement donné pour transmettre l’objectif à Hugo, repris en ép. 7. Raccord à préciser : le carnet est dans la veste à l’hôpital alors que l’ép. 8 dit qu’il reste au tablier à l’atelier depuis l’arrangement de l’ép. 5.",
+      "clinical_note": "Sources multiples de l’évaluation et influence de la langue, de la culture et de la compréhension des consignes conformes aux CDDR pp.601–602 et 612–614 ; aucun item, score ni seuil n’est livré ; l’interprétation est laissée à la neuropsychologue.",
+      "relatives_note": "Proposition de relire les exemples avant et « Qu’est-ce que tu veux bien me dire du bilan ? » après, sans exiger les résultats ; interdits explicites (exercices à la maison, commentaire de la langue) ; le bilan reste à l’équipe."
+    },
+    {
+      "number": 7,
+      "focus": "Apprendre une procédure nouvelle sans essais au hasard",
+      "opening_quote": "Jeudi, quatorze heures",
+      "ending_quote": "Bilal accepte, à une condition : c’est lui qui tient la machine",
+      "continuity_note": "Jeudi de la semaine 6, deux jours après le bilan ; Hugo a appelé Martine avec l’accord donné en ép. 6. Le retour de la latte de Rachid (lundi de la semaine 4) date d’environ dix-sept jours et non de « trois semaines ». Fiche de sept étapes réutilisée en ép. 12.",
+      "clinical_note": "Apprentissage limitant les erreurs, centré sur la tâche, avec retrait progressif de l’aide : NICE 1.5.6 et INCOG 2.0 tels que résumés au dossier ; sécurité renvoyée à la notice du fabricant ; le geste manuel conservé reste propre à Bilal.",
+      "relatives_note": "Martine se reprend au « tu te souviens ? » et raconte elle-même ; phrase transposable « Je te raconte ce qui s’est passé la dernière fois » ; le proche lit les étapes sans faire à la place et n’invente pas de méthode thérapeutique."
+    },
+    {
+      "number": 8,
+      "focus": "Choisir ses aides externes",
+      "opening_quote": "Mercredi, huit heures",
+      "ending_quote": "Bilal réfléchit, le carnet ouvert sur l’établi",
+      "continuity_note": "Mercredi puis jeudi de la semaine 7 ; l’angle mort découle directement de la fermeture à 17 h décidée en ép. 5, ce qui est un bon raccord. Le rappel du mardi 17 h fonctionne la semaine suivante et à nouveau en ép. 12.",
+      "clinical_note": "Aides externes et préférence pour les rappels électroniques en cas d’atteinte importante (INCOG 2.0, résumé), adaptation au contexte ; réévaluation à quatre semaines ; aucune efficacité revendiquée (« ne promet pas de résoudre tous les oublis »).",
+      "relatives_note": "Odile signale l’absence sans reproche et garde le croquis ; phrase « On t’a gardé le croquis, je te l’apporte ? » ; interdiction d’installer des alarmes sans accord et renvoi à l’équipe."
+    },
+    {
+      "number": 9,
+      "focus": "Oublier une nouvelle familiale importante",
+      "opening_quote": "Mercredi, dix-neuf heures, rue Colbert",
+      "ending_quote": "Bilal finit par parler",
+      "continuity_note": "Mercredi de la semaine 9 ; annonce du dimanche à table, appel, carnet vert sur le buffet, relecture du samedi matin reprise du rituel de l’ép. 5. Date du 5 janvier compatible avec la pose avant décembre.",
+      "clinical_note": "Retentissement familial (CDDR p.612) et information des proches (NICE 1.5.2) ; l’oubli est explicitement dissocié de l’attachement ; aucun mécanisme émotionnel inventé.",
+      "relatives_note": "Inès rappelle doucement et dit sa peine quand on l’y invite ; phrase « Je te l’ai déjà annoncé, et je suis contente que tu sois fier » ; chacun choisit ce qu’il écrit et peut dire quand c’est trop, Samia refuse le rôle d’agenda."
+    },
+    {
+      "number": 10,
+      "focus": "Questions insistantes et souvenirs suggérés",
+      "opening_quote": "Dimanche, treize heures, rue Colbert",
+      "ending_quote": "Bilal repose sa tasse",
+      "continuity_note": "Dimanche de la semaine 9, après l’installation du carnet vert, visible dans la scène ; la camionnette de Nordine, redite à la fin, est reprise en ép. 11 et 12. Samia tient sa promesse de ne pas répondre à la place de Bilal.",
+      "clinical_note": "Frontière avec l’amnésie dissociative résumée d’après la CDDR pp.614–615 et laissée aux professionnels ; refus de chercher une cause émotionnelle ; la cause reste connue de l’équipe seulement. L’effet des suggestions est formulé prudemment (« risquent de mêler »).",
+      "relatives_note": "Nordine finit par redire l’information et proposer un message ; phrase « je te redis ce que c’était » ; exclusion des « fais un effort » et des explications causales ; changement brutal renvoyé à un avis médical rapide ou au 15."
+    },
+    {
+      "number": 11,
+      "focus": "Déléguer une tâche sans perdre sa place",
+      "opening_quote": "Mardi, quinze heures",
+      "ending_quote": "Bilal referme le carnet",
+      "continuity_note": "Mardi de la semaine 11 ; double commande chez Brunet, rendez-vous de la semaine précédente avec la docteure Vasseur (suite des résultats annoncée en ép. 6), répartition écrite sur l’ardoise et transport par la camionnette de Nordine ; commande du jeudi et perçage du vendredi effectués.",
+      "clinical_note": "Évolution stable, progressive ou améliorable selon la cause (CDDR pp.613–614) sans pronostic pour Bilal ; analyse des exigences du métier (NICE 1.16.4–1.16.5) transposée sans droit du travail ; la délégation est présentée comme choix révisable.",
+      "relatives_note": "Martine propose deux tâches précises et laisse Bilal écrire ; phrase « Je peux prendre ça, si tu veux. Qu’est-ce que tu gardes ? » ; elle peut dire ses limites et la répartition se revoit avec l’équipe si Bilal le souhaite."
+    },
+    {
+      "number": 12,
+      "focus": "Garder les décisions visibles pour tout le groupe",
+      "opening_quote": "Samedi, dix heures. Treize semaines après la livraison du chêne, la camionnette blanche de Nordine, le frère de Bilal, recule dans l’allée du jardin partagé de la maison de quartier",
+      "ending_quote": "Bilal déplie la fiche et l’accroche avec deux pinces à linge au grillage du jardin, à hauteur des yeux",
+      "continuity_note": "Samedi de la semaine 13 ; réunion du mardi atteinte grâce au rappel, fiche recopiée jeudi avec Martine, six lattes et accoudoirs de l’ép. 11, ardoise laissée comme outil commun, table notée pour le printemps et séance du jeudi avec Hugo. Deux raccords concrets à corriger : la camionnette dans une allée de 1,60 m et l’écriture « le soir » dans un carnet fermé à 17 h.",
+      "clinical_note": "Stratégies d’environnement et repères visibles (NICE 1.5.6) avec participation et accord (1.2.19–1.2.20) ; le support partagé ne désigne personne ; la conclusion refuse explicitement de déclarer la mémoire guérie.",
+      "relatives_note": "Le conseil part du regard du groupe tourné vers Bilal et du paraphe proposé par Odile ; phrase « On regarde la fiche ensemble ? » ; le proche n’a pas à tenir tous les comptes rendus et peut passer le relais à l’équipe."
+    }
+  ]
+}

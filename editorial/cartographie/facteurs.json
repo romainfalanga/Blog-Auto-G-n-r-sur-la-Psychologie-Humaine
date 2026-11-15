@@ -1,0 +1,403 @@
+{
+ "schema_version": 1,
+ "groups": [
+  {
+   "id": "violences",
+   "label": "Violences et maltraitance",
+   "description": "Actes subis ou vus, de la part d'adultes ou de pairs."
+  },
+  {
+   "id": "negligence",
+   "label": "Manques de soins et de présence",
+   "description": "Besoins physiques ou affectifs qui n'étaient pas assurés."
+  },
+  {
+   "id": "famille",
+   "label": "Situation familiale",
+   "description": "Événements et difficultés qui touchaient la famille."
+  },
+  {
+   "id": "climat",
+   "label": "Climat éducatif et relationnel",
+   "description": "La manière dont on était traité au quotidien."
+  },
+  {
+   "id": "ressentis",
+   "label": "Ressentis de l'enfance",
+   "description": "Impressions durables que l'on garde de cette période."
+  },
+  {
+   "id": "contexte",
+   "label": "Contexte social et événements",
+   "description": "Ce qui se passait hors de la famille."
+  }
+ ],
+ "factors": [
+  {
+   "id": "abus_physique",
+   "group": "violences",
+   "label": "Violences physiques",
+   "description": "Être frappé, secoué, brûlé ou blessé par un adulte.",
+   "examples": [
+    "Coups ou gifles répétés",
+    "Punitions qui laissaient des marques"
+   ],
+   "ace": true
+  },
+  {
+   "id": "abus_sexuel",
+   "group": "violences",
+   "label": "Violences sexuelles",
+   "description": "Tout contact ou acte sexuel imposé par un adulte ou un mineur plus âgé, ou exposition sexuelle.",
+   "examples": [
+    "Attouchements",
+    "Exposition à des contenus ou actes sexuels"
+   ],
+   "ace": true
+  },
+  {
+   "id": "abus_emotionnel",
+   "group": "violences",
+   "label": "Violences psychologiques",
+   "description": "Humiliations, insultes, menaces, rejet répété ou terreur entretenue.",
+   "examples": [
+    "« Tu n'es bon à rien »",
+    "Menaces d'abandon ou de mise dehors"
+   ],
+   "ace": true
+  },
+  {
+   "id": "temoin_violences",
+   "group": "violences",
+   "label": "Être témoin de violences entre adultes",
+   "description": "Voir ou entendre des violences entre les parents ou dans le foyer.",
+   "examples": [
+    "Disputes avec coups",
+    "Peur pour un parent"
+   ],
+   "ace": true
+  },
+  {
+   "id": "harcelement",
+   "group": "violences",
+   "label": "Harcèlement ou rejet par les pairs",
+   "description": "Moqueries, exclusion, violences répétées à l'école ou en ligne.",
+   "examples": [
+    "Être mis à l'écart chaque jour",
+    "Insultes sur le physique ou l'origine"
+   ],
+   "ace": false
+  },
+  {
+   "id": "negligence_physique",
+   "group": "negligence",
+   "label": "Négligence matérielle",
+   "description": "Manquer de nourriture, d'hygiène, de soins médicaux ou de surveillance.",
+   "examples": [
+    "Repas souvent absents",
+    "Soins médicaux non faits"
+   ],
+   "ace": true
+  },
+  {
+   "id": "negligence_emotionnelle",
+   "group": "negligence",
+   "label": "Négligence affective",
+   "description": "Ne pas se sentir aimé, important ou soutenu ; peu de réconfort.",
+   "examples": [
+    "Personne pour consoler",
+    "Peu d'intérêt pour ce que l'on vivait"
+   ],
+   "ace": true
+  },
+  {
+   "id": "soins_instables",
+   "group": "negligence",
+   "label": "Prise en charge précoce instable",
+   "description": "Placements multiples, institution, changements répétés de personnes qui s'occupaient de soi dans les premières années.",
+   "examples": [
+    "Plusieurs familles d'accueil",
+    "Pouponnière ou orphelinat"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parent_trouble",
+   "group": "famille",
+   "label": "Parent avec une souffrance psychique",
+   "description": "Un parent déprimé, très anxieux, suicidaire ou avec un trouble psychique non soigné.",
+   "examples": [
+    "Parent souvent alité ou absent psychiquement",
+    "Tentative de suicide d'un parent"
+   ],
+   "ace": true
+  },
+  {
+   "id": "parent_addiction",
+   "group": "famille",
+   "label": "Parent avec une addiction",
+   "description": "Alcool, drogues ou jeu chez un parent, avec retentissement sur la vie familiale.",
+   "examples": [
+    "Soirées imprévisibles",
+    "Promesses non tenues à cause de l'alcool"
+   ],
+   "ace": true
+  },
+  {
+   "id": "parent_incarcere",
+   "group": "famille",
+   "label": "Parent incarcéré",
+   "description": "Un parent emprisonné pendant l'enfance.",
+   "examples": [
+    "Visites au parloir"
+   ],
+   "ace": true
+  },
+  {
+   "id": "separation_conflit",
+   "group": "famille",
+   "label": "Séparation parentale conflictuelle",
+   "description": "Divorce ou séparation avec conflits durables, ou perte de contact avec un parent.",
+   "examples": [
+    "Être pris à partie",
+    "Ne plus voir un parent"
+   ],
+   "ace": true
+  },
+  {
+   "id": "deces_proche",
+   "group": "famille",
+   "label": "Décès d'un parent ou d'un proche",
+   "description": "Mort d'un parent, d'un frère, d'une sœur ou d'une personne centrale.",
+   "examples": [
+    "Deuil d'un parent avant 18 ans"
+   ],
+   "ace": false
+  },
+  {
+   "id": "maladie_famille",
+   "group": "famille",
+   "label": "Maladie grave dans la famille",
+   "description": "Maladie chronique ou handicap lourd d'un parent, d'un frère ou d'une sœur.",
+   "examples": [
+    "S'adapter aux hospitalisations d'un proche"
+   ],
+   "ace": false
+  },
+  {
+   "id": "precarite",
+   "group": "famille",
+   "label": "Précarité et insécurité matérielle",
+   "description": "Pauvreté, logement instable, expulsions, insécurité alimentaire.",
+   "examples": [
+    "Déménagements forcés",
+    "Fins de mois angoissantes"
+   ],
+   "ace": false
+  },
+  {
+   "id": "invalidation",
+   "group": "climat",
+   "label": "Émotions niées ou moquées",
+   "description": "On disait que l'on exagérait, que l'on ne devait pas pleurer ou être en colère.",
+   "examples": [
+    "« Arrête ton cinéma »",
+    "Punition quand on pleurait"
+   ],
+   "ace": false
+  },
+  {
+   "id": "critique",
+   "group": "climat",
+   "label": "Critiques et exigences constantes",
+   "description": "Reproches fréquents, rien n'était jamais assez bien.",
+   "examples": [
+    "Notes jamais suffisantes",
+    "Corrections permanentes"
+   ],
+   "ace": false
+  },
+  {
+   "id": "amour_conditionnel",
+   "group": "climat",
+   "label": "Affection liée à la réussite",
+   "description": "L'attention et l'affection semblaient dépendre des résultats ou du comportement.",
+   "examples": [
+    "Fierté seulement après une réussite",
+    "Froideur après un échec"
+   ],
+   "ace": false
+  },
+  {
+   "id": "surprotection",
+   "group": "climat",
+   "label": "Surprotection",
+   "description": "Peu de liberté d'essayer seul ; dangers présentés partout.",
+   "examples": [
+    "Interdiction de sortir seul longtemps",
+    "Les adultes faisaient à sa place"
+   ],
+   "ace": false
+  },
+  {
+   "id": "controle",
+   "group": "climat",
+   "label": "Contrôle et obéissance stricte",
+   "description": "Décisions imposées, peu de place à ses avis, punitions pour le désaccord.",
+   "examples": [
+    "Choix d'activités imposés",
+    "Interdiction de contredire"
+   ],
+   "ace": false
+  },
+  {
+   "id": "imprevisibilite",
+   "group": "climat",
+   "label": "Réponses imprévisibles des adultes",
+   "description": "Un adulte tantôt chaleureux, tantôt absent ou en colère, sans qu'on comprenne pourquoi.",
+   "examples": [
+    "Ne pas savoir dans quel état on trouverait un parent"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parentification",
+   "group": "climat",
+   "label": "Devoir s'occuper d'un parent ou de la fratrie",
+   "description": "Prendre en charge des tâches ou le moral d'adultes, au-delà de son âge.",
+   "examples": [
+    "Consoler un parent",
+    "Élever ses frères et sœurs"
+   ],
+   "ace": false
+  },
+  {
+   "id": "comparaison_fratrie",
+   "group": "climat",
+   "label": "Comparaisons et favoritisme",
+   "description": "Être comparé défavorablement ou se sentir moins aimé qu'un frère ou une sœur.",
+   "examples": [
+    "« Prends exemple sur ta sœur »"
+   ],
+   "ace": false
+  },
+  {
+   "id": "secret_famille",
+   "group": "climat",
+   "label": "Secrets et non-dits familiaux",
+   "description": "Des sujets importants dont on ne devait pas parler.",
+   "examples": [
+    "Maladie ou origine tues",
+    "Interdiction d'évoquer un proche"
+   ],
+   "ace": false
+  },
+  {
+   "id": "absence_limites",
+   "group": "climat",
+   "label": "Absence de cadre et de limites",
+   "description": "Peu de règles, de repères ou de conséquences ; adultes peu présents pour encadrer.",
+   "examples": [
+    "Aucune heure de coucher",
+    "Tout était permis ou rien n'était suivi"
+   ],
+   "ace": false
+  },
+  {
+   "id": "ressenti_pas_compter",
+   "group": "ressentis",
+   "label": "Sentiment de ne pas compter",
+   "description": "Impression que ses besoins ou son avis n'avaient pas d'importance.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_abandon",
+   "group": "ressentis",
+   "label": "Peur d'être abandonné",
+   "description": "Peur fréquente qu'un parent parte, disparaisse ou cesse d'aimer.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_honte",
+   "group": "ressentis",
+   "label": "Honte de soi",
+   "description": "Sentiment d'être mauvais, défectueux ou pas comme il faut.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_responsable",
+   "group": "ressentis",
+   "label": "Se sentir responsable de l'humeur des adultes",
+   "description": "Penser devoir éviter les conflits ou rendre les adultes heureux.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_perfection",
+   "group": "ressentis",
+   "label": "Devoir être parfait",
+   "description": "Croire qu'une erreur ferait perdre l'estime ou l'amour.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_peur",
+   "group": "ressentis",
+   "label": "Vivre dans la peur",
+   "description": "Être souvent sur ses gardes à la maison, guetter les signes de colère.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_solitude",
+   "group": "ressentis",
+   "label": "Solitude et isolement",
+   "description": "Se sentir seul, différent, sans personne à qui parler.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_colere_interdite",
+   "group": "ressentis",
+   "label": "Colère interdite",
+   "description": "Ne pas avoir le droit d'exprimer sa colère ou son désaccord.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "discrimination",
+   "group": "contexte",
+   "label": "Racisme ou discrimination",
+   "description": "Être traité différemment ou rabaissé pour son origine, sa religion, son genre, son orientation ou un handicap.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "migration",
+   "group": "contexte",
+   "label": "Exil, migration ou guerre",
+   "description": "Quitter son pays, vivre un conflit armé ou des conditions d'exil.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "traumatisme_ponctuel",
+   "group": "contexte",
+   "label": "Événement traumatique ponctuel",
+   "description": "Accident grave, catastrophe, agression, menace de mort.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "maladie_enfant",
+   "group": "contexte",
+   "label": "Maladie ou hospitalisations de l'enfant",
+   "description": "Maladie grave, douleurs ou hospitalisations répétées dans l'enfance.",
+   "examples": [],
+   "ace": false
+  }
+ ]
+}
