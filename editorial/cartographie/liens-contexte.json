@@ -1,0 +1,1124 @@
+{
+  "part": "contexte",
+  "author": "recherche_contexte",
+  "outcomes": [
+    {
+      "id": "icd_6a70",
+      "kind": "trouble",
+      "label": "Dépression (épisode dépressif)",
+      "code": "6A70",
+      "description": "Une tristesse ou une perte d'intérêt qui dure au moins deux semaines et pèse sur la vie quotidienne.",
+      "url": "/personnages/louise/"
+    },
+    {
+      "id": "icd_6b00",
+      "kind": "trouble",
+      "label": "Trouble d'anxiété généralisée",
+      "code": "6B00",
+      "description": "Des inquiétudes envahissantes et difficiles à arrêter, avec tension et fatigue, pendant des mois.",
+      "url": "/personnages/antonin/"
+    },
+    {
+      "id": "icd_6b01",
+      "kind": "trouble",
+      "label": "Trouble panique",
+      "code": "6B01",
+      "description": "Des crises d'angoisse soudaines et répétées, suivies de la peur d'en refaire.",
+      "url": "/personnages/jules/"
+    },
+    {
+      "id": "icd_6b02",
+      "kind": "trouble",
+      "label": "Agoraphobie",
+      "code": "6B02",
+      "description": "La peur et l'évitement de lieux ou situations d'où il semble difficile de partir ou d'être aidé.",
+      "url": "/personnages/joachim/"
+    },
+    {
+      "id": "icd_6b04",
+      "kind": "trouble",
+      "label": "Trouble d'anxiété sociale",
+      "code": "6B04",
+      "description": "Une peur marquée du regard et du jugement des autres, qui pousse à éviter les situations sociales.",
+      "url": "/personnages/sacha/"
+    },
+    {
+      "id": "icd_6b40",
+      "kind": "trouble",
+      "label": "Trouble de stress post-traumatique",
+      "code": "6B40",
+      "description": "Après un événement terrifiant : souvenirs qui reviennent comme au présent, évitement et sentiment de menace permanent.",
+      "url": "/personnages/selma/"
+    },
+    {
+      "id": "icd_6b41",
+      "kind": "trouble",
+      "label": "Trouble de stress post-traumatique complexe",
+      "code": "6B41",
+      "description": "Après des violences prolongées ou répétées : stress post-traumatique avec difficultés durables à réguler ses émotions, image de soi négative et relations difficiles.",
+      "url": "/personnages/meriem/"
+    },
+    {
+      "id": "icd_6b42",
+      "kind": "trouble",
+      "label": "Trouble du deuil prolongé",
+      "code": "6B42",
+      "description": "Un deuil dont la douleur intense et le manque restent envahissants longtemps après la perte.",
+      "url": "/personnages/blandine/"
+    },
+    {
+      "id": "icd_6b43",
+      "kind": "trouble",
+      "label": "Trouble de l'adaptation",
+      "code": "6B43",
+      "description": "Une réaction difficile à un changement ou un stress de vie, avec préoccupations et difficultés à s'adapter.",
+      "url": "/personnages/elina/"
+    },
+    {
+      "id": "icd_6a20",
+      "kind": "trouble",
+      "label": "Schizophrénie et symptômes psychotiques",
+      "code": "6A20",
+      "description": "Des perceptions ou des convictions qui s'écartent de la réalité partagée, comme entendre des voix ou se sentir visé.",
+      "url": "/personnages/nils/"
+    },
+    {
+      "id": "icd_6b23",
+      "kind": "trouble",
+      "label": "Hypocondrie (anxiété liée à la santé)",
+      "code": "6B23",
+      "description": "La peur persistante d'avoir une maladie grave, malgré des examens rassurants.",
+      "url": "/personnages/lenaic/"
+    },
+    {
+      "id": "icd_6c20",
+      "kind": "trouble",
+      "label": "Trouble de détresse physique",
+      "code": "6C20",
+      "description": "Des symptômes physiques pénibles qui occupent beaucoup de place et d'attention, au-delà de ce qu'explique un examen médical.",
+      "url": "/personnages/laure/"
+    },
+    {
+      "id": "ten_suicide_automutilation",
+      "kind": "tendance",
+      "label": "Idées suicidaires et automutilations",
+      "description": "Penser à mourir, tenter de se suicider ou se faire du mal pour soulager une souffrance.",
+      "url": null
+    },
+    {
+      "id": "ten_substances",
+      "kind": "tendance",
+      "label": "Consommation de tabac ou de drogues",
+      "description": "Recourir au tabac ou à des drogues, parfois pour apaiser une tension.",
+      "url": null
+    },
+    {
+      "id": "ten_image_corps",
+      "kind": "tendance",
+      "label": "Alimentation perturbée et image du corps",
+      "description": "Se juger durement sur son apparence et avoir un rapport tendu à la nourriture.",
+      "url": null
+    },
+    {
+      "id": "ten_hypervigilance",
+      "kind": "tendance",
+      "label": "Hypervigilance",
+      "description": "Rester sur ses gardes, guetter les signes de danger ou de rejet, même quand la situation est calme.",
+      "url": "/personnages/selma/"
+    },
+    {
+      "id": "ten_estime_soi",
+      "kind": "tendance",
+      "label": "Estime de soi fragilisée",
+      "description": "Avoir une image de soi abîmée, se sentir moins digne ou moins capable que les autres.",
+      "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/"
+    },
+    {
+      "id": "pat_social_isolation",
+      "kind": "tendance",
+      "label": "Isolement subi",
+      "description": "Avoir moins de liens proches que l'on souhaiterait et se sentir seul.",
+      "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/"
+    },
+    {
+      "id": "pat_disclosure_choice",
+      "kind": "tendance",
+      "label": "Choisir à qui révéler une information personnelle",
+      "description": "Cacher ou dévoiler une partie de soi selon le danger perçu, ce qui peut devenir épuisant.",
+      "url": "/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte/"
+    },
+    {
+      "id": "pat_migration_adjustment",
+      "kind": "tendance",
+      "label": "Changer de pays ou de milieu de vie",
+      "description": "S'adapter à une nouvelle langue, de nouvelles règles et parfois des démarches incertaines.",
+      "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/"
+    },
+    {
+      "id": "sch_isolement",
+      "kind": "schema",
+      "label": "Schéma d'isolement social",
+      "description": "La conviction d'être différent des autres et de ne faire partie d'aucun groupe.",
+      "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/"
+    },
+    {
+      "id": "sch_vulnerabilite",
+      "kind": "schema",
+      "label": "Schéma de vulnérabilité au danger et à la maladie",
+      "description": "La peur exagérée qu'une catastrophe (maladie, accident) arrive à tout moment sans pouvoir l'empêcher.",
+      "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
+    },
+    {
+      "id": "sch_dependance",
+      "kind": "schema",
+      "label": "Schéma de dépendance et d'incompétence",
+      "description": "Le sentiment de ne pas pouvoir faire face seul aux responsabilités de la vie quotidienne.",
+      "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/"
+    }
+  ],
+  "links": [
+    {
+      "factor": "harcelement",
+      "outcome": "icd_6a70",
+      "strength": "forte",
+      "summary": "Avoir été harcelé par les pairs est associé à un risque plus élevé de dépression à l'âge adulte, y compris des décennies plus tard ; ce lien persiste en tenant compte d'autres difficultés de l'enfance.",
+      "sources": [
+        "moore2017",
+        "takizawa2014",
+        "lereya2015",
+        "mckay2022"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "icd_6b00",
+      "strength": "forte",
+      "summary": "Le harcèlement subi est associé à davantage de troubles anxieux plus tard, dont l'anxiété généralisée, même après prise en compte des difficultés familiales et des troubles de l'enfance.",
+      "sources": [
+        "moore2017",
+        "copeland2013",
+        "takizawa2014"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "summary": "Dans une cohorte suivie jusqu'à 26 ans, les jeunes harcelés présentaient plus souvent un trouble panique, surtout ceux qui avaient été à la fois victimes et auteurs.",
+      "sources": [
+        "copeland2013"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "icd_6b02",
+      "strength": "moderee",
+      "summary": "La même cohorte montre un risque plus élevé d'agoraphobie chez les jeunes adultes harcelés dans l'enfance ; ce résultat vient surtout d'une étude.",
+      "sources": [
+        "copeland2013"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "icd_6b04",
+      "strength": "limitee",
+      "summary": "Le harcèlement est lié à plus d'anxiété sociale chez les adolescents, mais surtout dans des mesures prises au même moment ; le sens du lien reste incertain.",
+      "sources": [
+        "gonzalez2017"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "ten_suicide_automutilation",
+      "strength": "forte",
+      "summary": "Le harcèlement est associé à plus d'idées suicidaires, de tentatives et d'automutilations, à l'adolescence comme à l'âge adulte ; les enfants harcelés qui vivent d'autres difficultés sont les plus exposés.",
+      "sources": [
+        "moore2017",
+        "takizawa2014",
+        "fisher2012"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "icd_6a20",
+      "strength": "moderee",
+      "summary": "Avoir été harcelé est associé à plus de symptômes psychotiques légers plus tard, d'autant plus que le harcèlement était fréquent et long ; pour les troubles psychotiques diagnostiqués, les données restent rares.",
+      "sources": [
+        "vandam2012",
+        "cunningham2016"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "ten_substances",
+      "strength": "moderee",
+      "summary": "Une méta-analyse juge probable un lien entre harcèlement subi et consommation de tabac ou de drogues illicites.",
+      "sources": [
+        "moore2017"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "ten_image_corps",
+      "strength": "limitee",
+      "summary": "Les moqueries et le harcèlement, notamment sur le poids, sont associés à une image du corps plus négative et à des comportements alimentaires perturbés, de façon plus nette dans les études ponctuelles que dans les suivis longs.",
+      "sources": [
+        "day2022"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "pat_social_isolation",
+      "strength": "moderee",
+      "summary": "À 50 ans, les personnes harcelées enfants avaient en moyenne moins de relations sociales et une qualité de vie perçue plus faible.",
+      "sources": [
+        "takizawa2014"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "sch_isolement",
+      "strength": "limitee",
+      "summary": "Chez les adolescents, le harcèlement est associé à des schémas du domaine « séparation et rejet » (isolement, méfiance, sentiment d'être à part) ; ces données sont transversales et mesurées au niveau du domaine.",
+      "sources": [
+        "caba2026"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "icd_6a70",
+      "strength": "moderee",
+      "summary": "Les discriminations vécues sont associées à plus de symptômes dépressifs chez les enfants, les adolescents et les adultes ; l'effet est modeste mais persiste dans des études de suivi.",
+      "sources": [
+        "paradies2015",
+        "schmitt2014",
+        "benner2018",
+        "priest2013"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "icd_6b00",
+      "strength": "moderee",
+      "summary": "Le racisme et les autres discriminations sont associés à plus d'anxiété et de détresse psychologique, avec des effets plus marqués chez les enfants que chez les adultes.",
+      "sources": [
+        "paradies2015",
+        "schmitt2014",
+        "priest2013"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "ten_estime_soi",
+      "strength": "moderee",
+      "summary": "Se sentir discriminé est associé à une estime de soi plus faible, surtout quand la discrimination vise la personne elle-même.",
+      "sources": [
+        "schmitt2014",
+        "benner2018"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "ten_substances",
+      "strength": "moderee",
+      "summary": "Chez les adolescents, la discrimination raciale est associée à plus de consommation de substances ; le stress lié au rejet est aussi décrit chez les minorités sexuelles.",
+      "sources": [
+        "benner2018",
+        "meyer2003"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "icd_6a20",
+      "strength": "limitee",
+      "summary": "La discrimination est associée à plus d'expériences psychotiques légères ; une méta-analyse trouve aussi un risque plus élevé de troubles psychotiques chez les personnes lesbiennes, gays ou bisexuelles, avec des résultats encore fragiles.",
+      "sources": [
+        "zarubin2026",
+        "selten2024"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "ten_hypervigilance",
+      "strength": "limitee",
+      "summary": "S'attendre à être rejeté ou traité injustement entretient une vigilance constante, que le modèle du stress des minorités décrit et qu'une étude relie à des effets sur la santé.",
+      "sources": [
+        "meyer2003",
+        "hicken2014"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "outcome": "pat_disclosure_choice",
+      "strength": "theorique",
+      "summary": "Selon le modèle du stress des minorités, cacher une partie de son identité pour se protéger est une source de stress supplémentaire.",
+      "sources": [
+        "meyer2003"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "icd_6b40",
+      "strength": "forte",
+      "summary": "Les enfants et adultes réfugiés ou ayant vécu une guerre présentent plus souvent un stress post-traumatique que la population générale ; l'exposition à la violence est le principal facteur de risque.",
+      "sources": [
+        "fazel2005",
+        "blackmore2020",
+        "charlson2019",
+        "fazel2012"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "icd_6b41",
+      "strength": "moderee",
+      "summary": "La classification cite la violence organisée, la torture ou les génocides parmi les vécus menant au stress post-traumatique complexe, et ce trouble est fréquent chez les réfugiés, avec des estimations très variables.",
+      "sources": [
+        "cim11_cddr_stress",
+        "mellor2021"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "icd_6a70",
+      "strength": "moderee",
+      "summary": "La dépression est plus fréquente chez les personnes, enfants compris, ayant vécu un conflit armé ou l'exil.",
+      "sources": [
+        "blackmore2020",
+        "charlson2019",
+        "fazel2005"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "icd_6b00",
+      "strength": "moderee",
+      "summary": "Les troubles anxieux sont fréquents chez les jeunes réfugiés et dans les populations touchées par un conflit.",
+      "sources": [
+        "blackmore2020",
+        "charlson2019"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "icd_6a20",
+      "strength": "forte",
+      "summary": "Les migrants et leurs enfants ont en moyenne un risque plus élevé de troubles psychotiques, plus marqué chez les réfugiés et variable selon les pays d'origine et d'accueil ; la plupart des migrants n'en développent pas.",
+      "sources": [
+        "selten2020",
+        "bourque2011",
+        "hollander2016"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "icd_6b42",
+      "strength": "limitee",
+      "summary": "Une petite étude trouve un deuil prolongé plus fréquent chez des patients ayant un parcours de réfugié ; ce lien reste à confirmer.",
+      "sources": [
+        "groen2026"
+      ]
+    },
+    {
+      "factor": "migration",
+      "outcome": "pat_migration_adjustment",
+      "strength": "theorique",
+      "summary": "Après l'arrivée, les conditions d'installation (stabilité, démarches, soutien) pèsent sur la santé psychique, et la classification note que le stress d'adaptation peut aggraver les troubles liés au traumatisme.",
+      "sources": [
+        "fazel2012",
+        "cim11_cddr_stress"
+      ]
+    },
+    {
+      "factor": "traumatisme_ponctuel",
+      "outcome": "icd_6b40",
+      "strength": "forte",
+      "summary": "Un événement très menaçant (accident grave, catastrophe, agression) est le point de départ requis du stress post-traumatique ; une minorité d'enfants exposés le développe, et beaucoup récupèrent dans les six mois.",
+      "sources": [
+        "cim11_cddr_stress",
+        "alisic2014",
+        "hiller2016"
+      ]
+    },
+    {
+      "factor": "traumatisme_ponctuel",
+      "outcome": "icd_6a70",
+      "strength": "moderee",
+      "summary": "Chez les enfants, les événements traumatiques sont associés à d'autres difficultés que le stress post-traumatique, surtout dépressives et anxieuses, en particulier après plusieurs événements.",
+      "sources": [
+        "copeland2007"
+      ]
+    },
+    {
+      "factor": "traumatisme_ponctuel",
+      "outcome": "icd_6b00",
+      "strength": "moderee",
+      "summary": "Les troubles anxieux sont les difficultés le plus souvent associées aux événements traumatiques de l'enfance ; après un premier événement isolé, les effets sont souvent passagers.",
+      "sources": [
+        "copeland2007"
+      ]
+    },
+    {
+      "factor": "traumatisme_ponctuel",
+      "outcome": "icd_6b43",
+      "strength": "moderee",
+      "summary": "Un événement stressant isolé peut être suivi d'une réaction d'adaptation difficile, que la classification décrit sous le nom de trouble de l'adaptation.",
+      "sources": [
+        "cim11_cddr_stress"
+      ]
+    },
+    {
+      "factor": "traumatisme_ponctuel",
+      "outcome": "ten_hypervigilance",
+      "strength": "moderee",
+      "summary": "Après un traumatisme, un sentiment de menace persistant, avec hypervigilance et sursauts, fait partie des réactions décrites, surtout lorsqu'un stress post-traumatique s'installe.",
+      "sources": [
+        "cim11_cddr_stress",
+        "alisic2014"
+      ]
+    },
+    {
+      "factor": "traumatisme_ponctuel",
+      "outcome": "sch_vulnerabilite",
+      "strength": "theorique",
+      "summary": "Le modèle des schémas décrit une peur exagérée qu'une catastrophe survienne à tout moment ; un événement menaçant vécu tôt est une piste clinique de ce schéma, non démontrée par les études lues.",
+      "sources": [
+        "young_schemas"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "icd_6a70",
+      "strength": "moderee",
+      "summary": "Une maladie chronique dans l'enfance est associée à un peu plus de symptômes dépressifs pendant l'enfance et à un risque légèrement plus élevé de dépression à l'âge adulte.",
+      "sources": [
+        "secinti2017",
+        "pinquart_dep2011"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "icd_6b00",
+      "strength": "moderee",
+      "summary": "Une maladie chronique dans l'enfance est associée à un peu plus d'anxiété, pendant l'enfance comme à l'âge adulte ; les écarts restent modestes en moyenne.",
+      "sources": [
+        "secinti2017",
+        "pinquart_anx2011"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "icd_6b40",
+      "strength": "moderee",
+      "summary": "Une maladie menaçant la vie, une blessure grave ou des soins douloureux peuvent être vécus comme traumatiques et suivis de symptômes de stress post-traumatique chez l'enfant et ses parents.",
+      "sources": [
+        "cim11_cddr_stress",
+        "price2016"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "icd_6b43",
+      "strength": "moderee",
+      "summary": "L'annonce d'une maladie ou d'un handicap fait partie des événements que la classification cite comme pouvant déclencher un trouble de l'adaptation.",
+      "sources": [
+        "cim11_cddr_stress"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "icd_6b23",
+      "strength": "limitee",
+      "summary": "Des adultes ayant une hypocondrie rapportent plus souvent des maladies ou blessures graves dans l'enfance ; ces souvenirs sont recueillis après coup.",
+      "sources": [
+        "noyes2002"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "icd_6c20",
+      "strength": "limitee",
+      "summary": "Dans une cohorte de naissance, les symptômes physiques inexpliqués de l'adulte étaient liés aux douleurs abdominales de l'enfance et à la maladie des parents, mais pas aux maladies diagnostiquées de l'enfant.",
+      "sources": [
+        "hotopf1999"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "sch_vulnerabilite",
+      "strength": "theorique",
+      "summary": "Le modèle des schémas décrit une peur exagérée de la maladie ou de la catastrophe ; vivre une maladie grave et une protection parentale très étroite pourrait, selon ce modèle, la nourrir.",
+      "sources": [
+        "young_schemas",
+        "pinquart2013"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "sch_dependance",
+      "strength": "theorique",
+      "summary": "La surprotection est un peu plus fréquente dans certaines familles d'enfants malades ; le modèle des schémas la rapproche du sentiment de ne pas pouvoir se débrouiller seul.",
+      "sources": [
+        "young_schemas",
+        "pinquart2013"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cim11_cddr_stress",
+      "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), chapitre « Troubles spécifiquement associés au stress » (6B40, 6B41, 6B43)",
+      "url": "https://iris.who.int/handle/10665/375767",
+      "type": "classification",
+      "read": "section"
+    },
+    {
+      "id": "nice_ng116",
+      "citation": "NICE, 2018, Post-traumatic stress disorder (NG116), recommandations 1.6.4 à 1.6.14",
+      "url": "https://www.nice.org.uk/guidance/ng116/chapter/Recommendations",
+      "type": "recommandation",
+      "read": "section"
+    },
+    {
+      "id": "moore2017",
+      "citation": "Moore SE, Norman RE, Suetani S, et al., 2017, Consequences of bullying victimization in childhood and adolescence: a systematic review and meta-analysis, World Journal of Psychiatry 7(1):60-76",
+      "url": "https://www.wjgnet.com/2220-3206/full/v7/i1/60.htm",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "takizawa2014",
+      "citation": "Takizawa R, Maughan B, Arseneault L, 2014, Adult health outcomes of childhood bullying victimization: evidence from a five-decade longitudinal British birth cohort, American Journal of Psychiatry 171(7):777-784",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24743774/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "copeland2013",
+      "citation": "Copeland WE, Wolke D, Angold A, Costello EJ, 2013, Adult psychiatric outcomes of bullying and being bullied by peers in childhood and adolescence, JAMA Psychiatry 70(4):419-426",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23426798/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "lereya2015",
+      "citation": "Lereya ST, Copeland WE, Costello EJ, Wolke D, 2015, Adult mental health consequences of peer bullying and maltreatment in childhood: two cohorts in two countries, Lancet Psychiatry 2(6):524-531",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26360448/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "fisher2012",
+      "citation": "Fisher HL, Moffitt TE, Houts RM, et al., 2012, Bullying victimisation and risk of self harm in early adolescence: longitudinal cohort study, BMJ 344:e2683",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22539176/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "vandam2012",
+      "citation": "van Dam DS, van der Ven E, Velthorst E, et al., 2012, Childhood bullying and the association with psychosis in non-clinical and clinical samples: a review and meta-analysis, Psychological Medicine 42(12):2463-2474",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22400714/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "cunningham2016",
+      "citation": "Cunningham T, Hoy K, Shannon C, 2016, Does childhood bullying lead to the development of psychotic symptoms? A meta-analysis and review of prospective studies, Psychosis 8(1):48-59",
+      "url": "https://ideas.repec.org/a/taf/rpsyxx/v8y2016i1p48-59.html",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "mckay2022",
+      "citation": "McKay MT, Kilmartin L, Meagher A, et al., 2022, A revised and extended systematic review and meta-analysis of the relationship between childhood adversity and adult psychiatric disorder, Journal of Psychiatric Research 156:268-283",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36274532/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "reijntjes2010",
+      "citation": "Reijntjes A, Kamphuis JH, Prinzie P, Telch MJ, 2010, Peer victimization and internalizing problems in children: a meta-analysis of longitudinal studies, Child Abuse & Neglect 34(4):244-252",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20304490/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "christina2021",
+      "citation": "Christina S, Magson NR, Kakar V, Rapee RM, 2021, The bidirectional relationships between peer victimization and internalizing problems in school-aged children: an updated systematic review and meta-analysis, Clinical Psychology Review 85:101979",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33610956/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "day2022",
+      "citation": "Day S, Bussey K, Trompeter N, Mitchison D, 2022, The impact of teasing and bullying victimization on disordered eating and body image disturbance among adolescents: a systematic review, Trauma, Violence & Abuse 23(3):985-1006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33461439/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "caba2026",
+      "citation": "Caba-Machado V, Escortell R, González-Cabrera J, et al., 2026, Experiences of victimization, maladaptive schemas, and the mediating role of resilience in adolescents, BMC Psychology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41952210/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "gonzalez2017",
+      "citation": "González-Díez Z, Orue I, Calvete E, 2017, The role of emotional maltreatment and looming cognitive style in the development of social anxiety symptoms in late adolescents, Anxiety, Stress & Coping 30(1):26-38",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27224837/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "paradies2015",
+      "citation": "Paradies Y, Ben J, Denson N, et al., 2015, Racism as a determinant of health: a systematic review and meta-analysis, PLoS One 10(9):e0138511",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26398658/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "schmitt2014",
+      "citation": "Schmitt MT, Branscombe NR, Postmes T, Garcia A, 2014, The consequences of perceived discrimination for psychological well-being: a meta-analytic review, Psychological Bulletin 140(4):921-948",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24547896/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "benner2018",
+      "citation": "Benner AD, Wang Y, Shen Y, et al., 2018, Racial/ethnic discrimination and well-being during adolescence: a meta-analytic review, American Psychologist 73(7):855-883",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30024216/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "priest2013",
+      "citation": "Priest N, Paradies Y, Trenerry B, et al., 2013, A systematic review of studies examining the relationship between reported racism and health and wellbeing for children and young people, Social Science & Medicine 95:115-127",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23312306/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "meyer2003",
+      "citation": "Meyer IH, 2003, Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: conceptual issues and research evidence, Psychological Bulletin 129(5):674-697",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12956539/",
+      "type": "theorie",
+      "read": "résumé"
+    },
+    {
+      "id": "hicken2014",
+      "citation": "Hicken MT, Lee H, Morenoff J, House JS, Williams DR, 2014, Racial/ethnic disparities in hypertension prevalence: reconsidering the role of chronic stress, American Journal of Public Health 104(1):117-123",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24228644/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "zarubin2026",
+      "citation": "Zarubin VC, Pratt DN, Mittal VA, et al., 2026, The relationship between trauma exposure and nonclinical psychosis: a systematic review and meta-analysis, Clinical Psychology: Science and Practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807775/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "selten2024",
+      "citation": "Selten JP, Alrashed R, Oh H, et al., 2024, Psychosis risk for lesbian, gay, and bisexual individuals: systematic review and meta-analysis, Psychological Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39320443/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "fazel2005",
+      "citation": "Fazel M, Wheeler J, Danesh J, 2005, Prevalence of serious mental disorder in 7000 refugees resettled in western countries: a systematic review, Lancet 365(9467):1309-1314",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15823380/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "blackmore2020",
+      "citation": "Blackmore R, Gray KM, Boyle JA, et al., 2020, Systematic review and meta-analysis: the prevalence of mental illness in child and adolescent refugees and asylum seekers, Journal of the American Academy of Child & Adolescent Psychiatry 59(6):705-714",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31778780/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "charlson2019",
+      "citation": "Charlson F, van Ommeren M, Flaxman A, et al., 2019, New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis, Lancet 394(10194):240-248",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31200992/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "fazel2012",
+      "citation": "Fazel M, Reed RV, Panter-Brick C, Stein A, 2012, Mental health of displaced and refugee children resettled in high-income countries: risk and protective factors, Lancet 379(9812):266-282",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21835459/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "mellor2021",
+      "citation": "Mellor R, Werner A, Moussa B, et al., 2021, Prevalence, predictors and associations of complex post-traumatic stress disorder with common mental disorders in refugees and forcibly displaced populations: a systematic review, European Journal of Psychotraumatology 12(1):1863579",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34992745/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "selten2020",
+      "citation": "Selten JP, van der Ven E, Termorshuizen F, 2020, Migration and psychosis: a meta-analysis of incidence studies, Psychological Medicine 50(2):303-313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30722795/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "bourque2011",
+      "citation": "Bourque F, van der Ven E, Malla A, 2011, A meta-analysis of the risk for psychotic disorders among first- and second-generation immigrants, Psychological Medicine 41(5):897-910",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20663257/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "hollander2016",
+      "citation": "Hollander AC, Dal H, Lewis G, et al., 2016, Refugee migration and risk of schizophrenia and other non-affective psychoses: cohort study of 1.3 million people in Sweden, BMJ 352:i1030",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26979256/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "groen2026",
+      "citation": "Groen S, Cath D, van den Brink W, et al., 2026, The prevalence of prolonged grief disorder in patients with common mental disorders: a comparative study between patients with and without a refugee background in the Netherlands, Frontiers in Psychiatry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591622/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "alisic2014",
+      "citation": "Alisic E, Zalta AK, van Wesel F, et al., 2014, Rates of post-traumatic stress disorder in trauma-exposed children and adolescents: meta-analysis, British Journal of Psychiatry 204(5):335-340",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24785767/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "hiller2016",
+      "citation": "Hiller RM, Meiser-Stedman R, Fearon P, et al., 2016, Changes in the prevalence and symptom severity of child post-traumatic stress disorder in the year following trauma: a meta-analytic study, Journal of Child Psychology and Psychiatry 57(8):884-898",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27169987/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "copeland2007",
+      "citation": "Copeland WE, Keeler G, Angold A, Costello EJ, 2007, Traumatic events and posttraumatic stress in childhood, Archives of General Psychiatry 64(5):577-584",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17485609/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "trickey2012",
+      "citation": "Trickey D, Siddaway AP, Meiser-Stedman R, et al., 2012, A meta-analysis of risk factors for post-traumatic stress disorder in children and adolescents, Clinical Psychology Review 32(2):122-138",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22245560/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "secinti2017",
+      "citation": "Secinti E, Thompson EJ, Richards M, Gaysina D, 2017, Research review: childhood chronic physical illness and adult emotional health – a systematic review and meta-analysis, Journal of Child Psychology and Psychiatry 58(7):753-769",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28449285/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "pinquart_dep2011",
+      "citation": "Pinquart M, Shen Y, 2011, Depressive symptoms in children and adolescents with chronic physical illness: an updated meta-analysis, Journal of Pediatric Psychology 36(4):375-384",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21088072/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "pinquart_anx2011",
+      "citation": "Pinquart M, Shen Y, 2011, Anxiety in children and adolescents with chronic physical illnesses: a meta-analysis, Acta Paediatrica 100(8):1069-1076",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21332786/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "price2016",
+      "citation": "Price J, Kassam-Adams N, Alderfer MA, et al., 2016, Systematic review: a reevaluation and update of the integrative (trajectory) model of pediatric medical traumatic stress, Journal of Pediatric Psychology 41(1):86-97",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26319585/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "pinquart2013",
+      "citation": "Pinquart M, 2013, Do the parent-child relationship and parenting behaviors differ between families with a child with and without chronic illness? A meta-analysis, Journal of Pediatric Psychology 38(7):708-721",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23660152/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "pinquart2017",
+      "citation": "Pinquart M, 2017, Systematic review: bullying involvement of children with and without chronic physical illness and/or physical/sensory disability – a meta-analytic comparison with healthy/nondisabled peers, Journal of Pediatric Psychology 42(3):245-259",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27784727/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "noyes2002",
+      "citation": "Noyes R, Stuart SP, Langbehn DR, et al., 2002, Childhood antecedents of hypochondriasis, Psychosomatics 43(4):282-289",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12189253/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "hotopf1999",
+      "citation": "Hotopf M, Mayou R, Wadsworth M, Wessely S, 1999, Childhood risk factors for adults with medically unexplained symptoms: results from a national birth cohort study, American Journal of Psychiatry 156(11):1796-1800",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10553745/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "young_schemas",
+      "citation": "Young JE, Schema Therapy Institute, 2012, Early Maladaptive Schemas (définitions des 18 schémas)",
+      "url": "https://www.schematherapy.com/id73.htm",
+      "type": "theorie",
+      "read": "section"
+    },
+    {
+      "id": "felitti1998",
+      "citation": "Felitti VJ, Anda RF, Nordenberg D, et al., 1998, Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. The Adverse Childhood Experiences (ACE) Study, American Journal of Preventive Medicine 14(4):245-258",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9635069/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "hughes2017",
+      "citation": "Hughes K, Bellis MA, Hardcastle KA, et al., 2017, The effect of multiple adverse childhood experiences on health: a systematic review and meta-analysis, Lancet Public Health 2(8):e356-e366",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29253477/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "bethell2019",
+      "citation": "Bethell C, Jones J, Gombojav N, et al., 2019, Positive childhood experiences and adult mental and relational health in a statewide sample: associations across adverse childhood experiences levels, JAMA Pediatrics 173(11):e193007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31498386/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "fritz2018",
+      "citation": "Fritz J, de Graaff AM, Caisley H, et al., 2018, A systematic review of amenable resilience factors that moderate and/or mediate the relationship between childhood adversity and mental health in young people, Frontiers in Psychiatry 9:230",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29971021/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "bowes2010",
+      "citation": "Bowes L, Maughan B, Caspi A, et al., 2010, Families promote emotional and behavioural resilience to bullying: evidence of an environmental effect, Journal of Child Psychology and Psychiatry 51(7):809-817",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20132419/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "vanharmelen2016",
+      "citation": "van Harmelen AL, Gibson JL, St Clair MC, et al., 2016, Friendships and family support reduce subsequent depressive symptoms in at-risk adolescents, PLoS One 11(5):e0153715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27144447/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "steiner2019",
+      "citation": "Steiner RJ, Sheremenko G, Lesesne C, et al., 2019, Adolescent connectedness and adult health outcomes, Pediatrics 144(1):e20183766",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31235609/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "tick2016",
+      "citation": "Tick B, Bolton P, Happé F, et al., 2016, Heritability of autism spectrum disorders: a meta-analysis of twin studies, Journal of Child Psychology and Psychiatry 57(5):585-595",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26709141/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "faraone2019",
+      "citation": "Faraone SV, Larsson H, 2019, Genetics of attention deficit hyperactivity disorder, Molecular Psychiatry 24(4):562-575",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29892054/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "faraone2021",
+      "citation": "Faraone SV, Banaschewski T, Coghill D, et al., 2021, The World Federation of ADHD International Consensus Statement: 208 evidence-based conclusions about the disorder, Neuroscience & Biobehavioral Reviews 128:789-818",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33549739/",
+      "type": "recommandation",
+      "read": "résumé"
+    },
+    {
+      "id": "thapar2017",
+      "citation": "Thapar A, Cooper M, Rutter M, 2017, Neurodevelopmental disorders, Lancet Psychiatry 4(4):339-346",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27979720/",
+      "type": "theorie",
+      "read": "résumé"
+    },
+    {
+      "id": "sonugabarke2017",
+      "citation": "Sonuga-Barke EJS, Kennedy M, Kumsta R, et al., 2017, Child-to-adult neurodevelopmental and mental health trajectories after early life deprivation: the young adult follow-up of the longitudinal English and Romanian Adoptees study, Lancet 389(10078):1539-1548",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28237264/",
+      "type": "etude",
+      "read": "résumé"
+    },
+    {
+      "id": "fr_3114",
+      "citation": "Ministère de la Santé, 3114 – numéro national de prévention du suicide",
+      "url": "https://3114.fr/",
+      "type": "recommandation",
+      "read": "section"
+    },
+    {
+      "id": "fr_119",
+      "citation": "Allô 119 – Service national d'accueil téléphonique de l'enfance en danger",
+      "url": "https://www.allo119.gouv.fr/",
+      "type": "recommandation",
+      "read": "section"
+    },
+    {
+      "id": "fr_numeros_aide",
+      "citation": "Ministère des Solidarités, Agressions, (cyber)harcèlement, violences : si tu as besoin d'aide, des numéros existent (3018, 119, 15, 17, 112, 114)",
+      "url": "https://www.solidarites.gouv.fr/agressions-cyberharcelement-violences-si-tu-besoin-daide-des-numeros-existent",
+      "type": "recommandation",
+      "read": "section"
+    },
+    {
+      "id": "fr_3919",
+      "citation": "Gouvernement, Arrêtons les violences – 3919 Violences Femmes Info",
+      "url": "https://arretonslesviolences.gouv.fr/",
+      "type": "recommandation",
+      "read": "section"
+    },
+    {
+      "id": "fr_cmp",
+      "citation": "Santé.fr, Centre médico-psychologique (CMP)",
+      "url": "https://www.sante.fr/node/6470929",
+      "type": "recommandation",
+      "read": "section"
+    }
+  ],
+  "protections": [
+    {
+      "id": "prot_adulte_chaleureux",
+      "label": "Un adulte fiable et chaleureux",
+      "description": "La chaleur d'un parent ou d'un autre adulte qui s'intéresse à l'enfant est associée à une meilleure adaptation après le harcèlement et à moins de dépression à l'âge adulte.",
+      "sources": [
+        "bowes2010",
+        "bethell2019"
+      ]
+    },
+    {
+      "id": "prot_amities",
+      "label": "Des amitiés soutenantes",
+      "description": "Chez les adolescents ayant vécu des adversités ou du harcèlement, avoir des amis proches est associé à moins de symptômes dépressifs ensuite.",
+      "sources": [
+        "vanharmelen2016",
+        "bethell2019"
+      ]
+    },
+    {
+      "id": "prot_ecole",
+      "label": "Se sentir à sa place à l'école",
+      "description": "Le sentiment d'appartenance à l'école à l'adolescence est associé à moins de détresse émotionnelle, d'idées suicidaires et de consommations à l'âge adulte.",
+      "sources": [
+        "steiner2019",
+        "bethell2019"
+      ]
+    },
+    {
+      "id": "prot_famille",
+      "label": "Un climat familial uni",
+      "description": "La cohésion familiale, l'implication des parents et une ambiance positive à la maison font partie des facteurs de résilience les mieux documentés après l'adversité.",
+      "sources": [
+        "fritz2018",
+        "bowes2010"
+      ]
+    },
+    {
+      "id": "prot_soutien_apres",
+      "label": "Du soutien après un événement difficile",
+      "description": "Après un traumatisme, le soutien social et un bon fonctionnement familial sont associés à moins de stress post-traumatique chez l'enfant.",
+      "sources": [
+        "trickey2012"
+      ]
+    },
+    {
+      "id": "prot_installation",
+      "label": "Une installation stable après l'exil",
+      "description": "Pour les enfants réfugiés, une installation stable et du soutien social dans le pays d'accueil sont associés à une meilleure santé psychique.",
+      "sources": [
+        "fazel2012"
+      ]
+    },
+    {
+      "id": "prot_soins",
+      "label": "L'accès à des soins adaptés",
+      "description": "Des thérapies centrées sur le traumatisme sont recommandées pour les enfants dont les symptômes persistent, ces symptômes diminuant rarement seuls après six mois.",
+      "sources": [
+        "nice_ng116",
+        "hiller2016"
+      ]
+    },
+    {
+      "id": "prot_ressources_personnelles",
+      "label": "Des ressources personnelles",
+      "description": "Une estime de soi solide et moins de ruminations sont associées à une meilleure santé psychique chez les jeunes ayant vécu l'adversité ; ces ressources peuvent se développer.",
+      "sources": [
+        "fritz2018"
+      ]
+    }
+  ],
+  "notes": {
+    "cumul": {
+      "text": "Plus une personne a vécu de types d'expériences adverses dans l'enfance, plus le risque moyen de difficultés de santé mentale, de consommations et de violences augmente : c'est un effet dose-réponse observé dans les populations. Ces chiffres décrivent des groupes et ne permettent pas de calculer un risque personnel. Le harcèlement, la discrimination, l'exil ou la maladie ne figurent pas dans la liste ACE d'origine, mais s'ajoutent eux aussi à la charge de stress ; ces vécus se cumulent souvent (par exemple, les enfants malades ou handicapés sont plus souvent harcelés).",
+      "sources": [
+        "felitti1998",
+        "hughes2017",
+        "mckay2022",
+        "pinquart2017"
+      ]
+    },
+    "multifinalite": {
+      "text": "Un même vécu peut être associé à des difficultés très différentes selon les personnes (le harcèlement est lié à la dépression, à l'anxiété ou aux idées suicidaires), et une même difficulté peut venir de chemins variés. La plupart des personnes exposées à un stress ne développent aucun trouble. Les liens vont parfois dans les deux sens : les enfants déjà anxieux ou tristes sont aussi plus souvent harcelés.",
+      "sources": [
+        "copeland2013",
+        "moore2017",
+        "cim11_cddr_stress",
+        "reijntjes2010",
+        "christina2021"
+      ]
+    },
+    "neurodeveloppement": {
+      "text": "L'autisme, le TDAH et les troubles du développement intellectuel ne sont pas causés par l'éducation ni par les événements listés ici : leur origine est surtout génétique et liée au développement précoce du cerveau. La cartographie ne les relie donc à aucun facteur. Seule une privation extrême et prolongée dans des institutions, très loin d'une éducation ordinaire, a été associée à des symptômes qui leur ressemblent.",
+      "sources": [
+        "tick2016",
+        "faraone2019",
+        "faraone2021",
+        "thapar2017",
+        "sonugabarke2017"
+      ]
+    },
+    "limites": {
+      "text": "Cette page n'est pas un test et ne pose aucun diagnostic. Les études mesurent souvent le passé par des souvenirs, qui peuvent être incomplets ; certains liens sont plus forts dans les études ponctuelles que dans les suivis longs. Le contexte compte : soutiens présents, âge au moment des faits, durée, autres difficultés. Seul un professionnel peut évaluer une situation.",
+      "sources": [
+        "mckay2022",
+        "paradies2015",
+        "day2022",
+        "hiller2016"
+      ]
+    },
+    "consulter": {
+      "text": "Pour en parler : votre médecin traitant, un psychologue, ou le centre médico-psychologique (CMP) de votre secteur, gratuit et accessible directement. En cas d'idées suicidaires : 3114, gratuit, 24 h/24. Un enfant en danger : 119, gratuit, 24 h/24. Harcèlement ou cyberharcèlement : 3018. Violences faites aux femmes : 3919. Urgence vitale : 15 ou 112 (114 par SMS pour les personnes sourdes ou malentendantes).",
+      "sources": [
+        "fr_cmp",
+        "fr_3114",
+        "fr_119",
+        "fr_numeros_aide",
+        "fr_3919"
+      ]
+    }
+  }
+}
