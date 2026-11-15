@@ -1,0 +1,2342 @@
+[
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/_index/",
+  "title": "Comprendre et maîtriser ses émotions",
+  "sujet": null,
+  "personnage": null
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/",
+  "title": "Abandon émotionnel avec ses parents : comprendre et agir",
+  "sujet": "abandon émotionnel",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/",
+  "title": "Accablement et reconversion : Thomas demande du soutien",
+  "sujet": "accablement",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/",
+  "title": "Agacement en colocation : comment mieux gérer ses émotions",
+  "sujet": "agacement",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/",
+  "title": "Alexithymie en couple : comprendre et agir au quotidien",
+  "sujet": "alexithymie",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/",
+  "title": "Culpabilité au repos : Aline laisse une place au dimanche",
+  "sujet": "Culpabilité lorsque l’on se repose",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais/",
+  "title": "Fatigue de compassion : un terme aux sens variables",
+  "sujet": "Fatigue de compassion et relais concrets",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui/",
+  "title": "Tolérer la déception de l’autre : le refus d’Aline",
+  "sujet": "Tolérer la déception de l’autre",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/",
+  "title": "Ambivalence émotionnelle et reconversion professionnelle",
+  "sujet": "ambivalence émotionnelle",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/",
+  "title": "Amertume et reconversion après un burn-out",
+  "sujet": "amertume",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos/",
+  "title": "Fatigue et repos : Anaïs n'attend plus de devoir prouver",
+  "sujet": "Fatigue et droit au repos",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance/",
+  "title": "Handicap invisible : Anaïs choisit ce qu'elle explique",
+  "sujet": "Handicap invisible et reconnaissance",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie/",
+  "title": "Identité et maladie : Anaïs élargit sa présentation",
+  "sujet": "Identité au-delà de la maladie",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste/",
+  "title": "Espoir réaliste : Anaïs s'appuie sur ce qui reste possible",
+  "sujet": "Soutien et espoir réaliste",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/",
+  "title": "Anxiété au travail : quand l’inquiétude prend de la place",
+  "sujet": "anxiété",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse/",
+  "title": "Anxiété face à la maladie : quand la blouse cache la peur",
+  "sujet": "anxiété",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre/",
+  "title": "Apathie en voyage ou expatriation : comprendre ce vide intérieur",
+  "sujet": "apathie",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille/",
+  "title": "Pratiquer l'auto-compassion (Kristin Neff) en famille",
+  "sujet": "auto-compassion (Kristin Neff)",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions/",
+  "title": "Charge mentale émotionnelle au travail : s'en libérer",
+  "sujet": "charge mentale émotionnelle",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia/",
+  "title": "Cohérence cardiaque au travail : 3 exercices concrets pour Nadia",
+  "sujet": "cohérence cardiaque",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/",
+  "title": "Colère en situation de conflit : comprendre et s'affirmer",
+  "sujet": "colère",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche/",
+  "title": "Compassion face à la maladie : écouter et proposer de l’aide",
+  "sujet": "compassion",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/",
+  "title": "Comprendre l'envie dans les études : causes et solutions",
+  "sujet": "envie",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/",
+  "title": "Tristesse lors d'un deuil : comprendre et traverser cette émotion",
+  "sujet": "tristesse",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre/",
+  "title": "Confusion émotionnelle avec ses parents : comprendre ce flou",
+  "sujet": "confusion émotionnelle",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir/",
+  "title": "Culpabilité avec ses enfants : comprendre et agir | Karim",
+  "sujet": "culpabilité",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/",
+  "title": "Culpabilité face à l’argent : Thomas hésite devant un achat",
+  "sujet": "culpabilité",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations/",
+  "title": "Déception en amitié : ce qu’on attend et ce qu’on sait",
+  "sujet": "déception",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/",
+  "title": "Déclencheurs émotionnels : les identifier en situation de conflit",
+  "sujet": "triggers/déclencheurs émotionnels",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir/",
+  "title": "Dégoût en couple : comprendre ce que l’on ressent",
+  "sujet": "dégoût",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales/",
+  "title": "Dégoût en société : comprendre cette émotion sociale complexe",
+  "sujet": "dégoût",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/",
+  "title": "L’écriture expressive après la mort d’un proche",
+  "sujet": "écriture expressive (Pennebaker)",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir/",
+  "title": "Reconnaître la limite et choisir son geste",
+  "sujet": "Acceptation et action possible",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/",
+  "title": "Se répondre autrement après un refus",
+  "sujet": "Bienveillance envers soi après un revers",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni/",
+  "title": "Remercier sans dire que tout va bien",
+  "sujet": "Gratitude sans nier ce qui va mal",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions/",
+  "title": "Rire sans effacer ce qui la touche",
+  "sujet": "Humour et place laissée aux émotions",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin/",
+  "title": "Rester un instant avec ce qui est agréable",
+  "sujet": "Savourer une expérience ordinaire",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet/",
+  "title": "Motivation : Éloi cherche ce qui nourrit son intérêt",
+  "sujet": "motivation et intérêt pour une activité",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur/",
+  "title": "Après une erreur : Éloi vérifie ce qui arrive vraiment",
+  "sujet": "reprendre après une erreur concrète",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions/",
+  "title": "Embarras en société : comprendre la gêne et agir",
+  "sujet": "embarras",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide/",
+  "title": "Émerveillement en voyage ou en expatriation : le guide de Mei",
+  "sujet": "émerveillement",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/",
+  "title": "Empathie en famille : Isabelle écoute et pose une limite",
+  "sujet": "empathie cognitive vs affective",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/",
+  "title": "Ennui au milieu des cartons : ce que Thomas remarque",
+  "sujet": "ennui",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out/",
+  "title": "Enthousiasme et reconversion : maîtriser l'élan pour réussir",
+  "sujet": "enthousiasme",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/",
+  "title": "Envie en compétition : ce que Lucas admire chez Antoine",
+  "sujet": "envie",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi/",
+  "title": "Espoir après un succès : comprendre cette émotion à 50 ans",
+  "sujet": "espoir",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie/",
+  "title": "Euphorie après un succès : comprendre cet état émotionnel",
+  "sujet": "euphorie",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie/",
+  "title": "Fatigue de compassion : quand le soin devient éprouvant",
+  "sujet": "fatigue de compassion",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences/",
+  "title": "Fatigue de compassion au travail : conséquences au quotidien",
+  "sujet": "fatigue de compassion",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/",
+  "title": "Quand Isabelle a besoin d’une pause en famille",
+  "sujet": "Fenêtre de tolérance comme repère pédagogique",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/",
+  "title": "Fierté au travail : la comprendre pour mieux s'épanouir",
+  "sujet": "fierté",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions/",
+  "title": "Frustration avec ses enfants : comment mieux la gérer ?",
+  "sujet": "frustration",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/",
+  "title": "Granularité émotionnelle : trouver des mots plus précis",
+  "sujet": "granularité émotionnelle",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances/",
+  "title": "Gratitude face à l'argent et aux finances : changer de regard",
+  "sujet": "gratitude",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions/",
+  "title": "Honte en colocation : comprendre et surmonter cette émotion",
+  "sujet": "honte",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/",
+  "title": "Honte face à l’autorité : le cas de Mei",
+  "sujet": "honte",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/",
+  "title": "Humiliation au travail : que faire après une moquerie ?",
+  "sujet": "humiliation",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche/",
+  "title": "Impatience en entretien d'embauche : faire une pause",
+  "sujet": "impatience",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main/",
+  "title": "Impuissance lors d'un deuil : comprendre et reprendre la main",
+  "sujet": "impuissance",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions/",
+  "title": "Au chantier, Patrick retrouve une marge d’action",
+  "sujet": "Sentiment d’impuissance face à une limitation",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie/",
+  "title": "Indifférence face à la maladie : quand le soin devient distance",
+  "sujet": "indifférence",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple/",
+  "title": "Différence de désir : Inès cherche un rythme à deux",
+  "sujet": "Différence de désir dans le couple",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective/",
+  "title": "Fatigue et écoute : Inès précise ce qu’elle peut offrir",
+  "sujet": "Fatigue et disponibilité affective",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire/",
+  "title": "Sécurité affective : Inès ose une demande précise",
+  "sujet": "Sécurité affective et demande claire",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante/",
+  "title": "Inquiétude face à une décision importante : comment la repérer",
+  "sujet": "inquiétude",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/",
+  "title": "Jalousie en situation de conflit : comprendre pour s'apaiser",
+  "sujet": "jalousie",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels/",
+  "title": "Besoins corporels : Maëlle les écoute avant l'épuisement",
+  "sujet": "Percevoir ses besoins corporels",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos/",
+  "title": "Culpabilité de se reposer : Maëlle protège sa récupération",
+  "sujet": "Repos et culpabilité de ne rien produire",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement/",
+  "title": "Reconnaître la fatigue : Maëlle cesse de se noter",
+  "sujet": "Reconnaître la fatigue sans se juger",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi/",
+  "title": "Nommer une discrimination sans s’y réduire",
+  "sujet": "Reconnaître une discrimination sans se réduire à elle",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions/",
+  "title": "Trouver ses mots pour les émotions",
+  "sujet": "Langue et expression des émotions",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture/",
+  "title": "Un lieu familier entre absence et incertitude",
+  "sujet": "Ce qui manque d’un lieu familier",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/",
+  "title": "Reconnaître la solitude qui aide ou qui pèse",
+  "sujet": "Solitude choisie et solitude subie",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude/",
+  "title": "Mélancolie face à la solitude : comprendre et agir",
+  "sujet": "mélancolie",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/",
+  "title": "La mémoire émotionnelle lors d'un deuil : comprendre son impact",
+  "sujet": "mémoire émotionnelle",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/",
+  "title": "Le mépris au travail : le comprendre pour mieux s'en protéger",
+  "sujet": "mépris",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense/",
+  "title": "Mépris face à l’autorité : ce que Priya met à distance",
+  "sujet": "mépris",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/",
+  "title": "Quand des paroles blessent pendant le deuil",
+  "sujet": "mépris",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide/",
+  "title": "Nostalgie avec ses enfants : comment l'apprivoiser à 50 ans ?",
+  "sujet": "nostalgie",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions/",
+  "title": "Nostalgie face à la solitude : comprendre et mieux vivre",
+  "sujet": "nostalgie",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables/",
+  "title": "Les dates qui remuent et les émotions variables",
+  "sujet": "Dates anniversaires et émotions variables",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien/",
+  "title": "Le deuil et les retours au quotidien",
+  "sujet": "Oscillation du deuil et retour au quotidien",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/odile-joie-chagrin-meme-jour/",
+  "title": "De la joie et du chagrin dans la même journée",
+  "sujet": "Joie et chagrin dans une même journée",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces/",
+  "title": "Les liens qui continuent après un décès",
+  "sujet": "Liens qui continuent après un décès",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/",
+  "title": "Peur face à l'autorité : comprendre ses racines et agir",
+  "sujet": "peur",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/",
+  "title": "Rage en situation de conflit : faire une pause et agir",
+  "sujet": "rage",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/regret-avec-ses-enfants/",
+  "title": "Regret avec ses enfants : comprendre et agir",
+  "sujet": "regret",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales/",
+  "title": "Rejet en société : ce qui arrive et ce qu’on redoute",
+  "sujet": "rejet",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites/",
+  "title": "Charge de travail : Rémi fait préciser les priorités",
+  "sujet": "organisation du travail et charge réelle",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait/",
+  "title": "Après une erreur : Rémi change sa manière de se parler",
+  "sujet": "erreur et manière de se parler",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion/",
+  "title": "Procrastination : Rémi écoute l'émotion de la tâche",
+  "sujet": "procrastination et émotion de la tâche",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir/",
+  "title": "Remords en famille : comprendre pour mieux s'en libérer",
+  "sujet": "remords",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions/",
+  "title": "Résignation après un échec : où peut-on encore agir ?",
+  "sujet": "résignation",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/",
+  "title": "Après la mort de Marcel, Patrick partage un souvenir",
+  "sujet": "résilience émotionnelle",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/respiration-en-boite-box-breathing-en-couple/",
+  "title": "Respiration en boîte : une pause pendant un désaccord",
+  "sujet": "respiration en boîte (box breathing)",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction/",
+  "title": "Après un échange difficile, Salomé se parle autrement",
+  "sujet": "Se parler avec bienveillance après une interaction",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte/",
+  "title": "Sécurité et contexte : Salomé adapte sa participation",
+  "sujet": "Sécurité et adaptation au contexte",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle/",
+  "title": "Parler d’un budget sans réduire sa valeur",
+  "sujet": "Parler d’un budget sans réduire sa valeur",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste/",
+  "title": "Garder sa colère face à une situation injuste",
+  "sujet": "Colère face à une situation injuste",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard/",
+  "title": "La honte financière sous le regard des autres",
+  "sujet": "Honte financière et regard des autres",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine/",
+  "title": "Le logement incertain et le besoin de sécurité",
+  "sujet": "Incertitude du logement et sentiment de sécurité",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes/",
+  "title": "Sentiment d’imposture : Camille reçoit les félicitations",
+  "sujet": "sentiment d'imposture",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/",
+  "title": "Se sentir en décalage pendant ses études",
+  "sujet": "inadéquation",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/",
+  "title": "Surmonter le sentiment d'injustice en situation de conflit",
+  "sujet": "sentiment d'injustice",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference/",
+  "title": "Face à la solitude : comprendre et mieux la vivre",
+  "sujet": "solitude",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/",
+  "title": "Soulagement après un succès : sentir, comprendre, intégrer",
+  "sujet": "soulagement",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/",
+  "title": "Suppression émotionnelle ou réévaluation cognitive en couple",
+  "sujet": "suppression émotionnelle vs réévaluation cognitive",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/",
+  "title": "RAIN : quatre repères pour observer une émotion",
+  "sujet": "technique RAIN (Reconnaître-Accepter-Investiguer-Ne pas s'identifier)",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard/",
+  "title": "Comment montrer la tendresse avec ses enfants quand on ne sait pas parler",
+  "sujet": "tendresse",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens/",
+  "title": "Trahison en amitié : comprendre ses impacts au quotidien",
+  "sujet": "trahison",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/",
+  "title": "Se sentir trahie quand une confidence reste sans écho",
+  "sujet": "sentiment de trahison",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale/",
+  "title": "Trahison en situation de compétition : comprendre et réagir",
+  "sujet": "trahison",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse/",
+  "title": "Vide intérieur après une rupture amoureuse : comprendre et agir",
+  "sujet": "vide intérieur",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance/",
+  "title": "Ambivalence dans l’aidance : les émotions de Vincent",
+  "sujet": "Ambivalence des émotions dans l’aidance",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles/",
+  "title": "Charge d’aidance : Vincent nomme les tâches invisibles",
+  "sujet": "Charge d’aidance et tâches invisibles",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels/",
+  "title": "Colère et obstacles matériels : Vincent choisit sa réponse",
+  "sujet": "Colère et obstacles matériels",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser/",
+  "title": "Reconnaître sa fatigue sans culpabiliser : Vincent",
+  "sujet": "Reconnaître sa fatigue sans culpabiliser",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/",
+  "title": "Vulnérabilité en couple : s’ouvrir à son rythme",
+  "sujet": "vulnérabilité",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/",
+  "title": "Accepter de l’aide quand l’autonomie change",
+  "sujet": "vulnérabilité",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/_index/",
+  "title": "Reprendre le contrôle de ses pensées",
+  "sujet": null,
+  "personnage": null
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout/",
+  "title": "Quand l’aide ne résout pas tout : Aline reste présente",
+  "sujet": "Quand l’aide ne résout pas tout",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs/",
+  "title": "Une entraide fidèle à ses valeurs : les choix d’Aline",
+  "sujet": "Choisir une entraide fidèle à ses valeurs",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets/",
+  "title": "Capacités fluctuantes : Anaïs garde un projet à sa mesure",
+  "sujet": "Capacités fluctuantes et projets",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations/",
+  "title": "Sensations physiques : Anaïs décrit avant de conclure",
+  "sujet": "Décrire ses sensations sans tout interpréter",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante/",
+  "title": "Informations de santé : Anaïs cherche des repères fiables",
+  "sujet": "Incertitude de santé et informations fiables",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable/",
+  "title": "Journée variable : Anaïs prépare des plans plus souples",
+  "sujet": "Plans flexibles pour une journée variable",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs/",
+  "title": "Quand deux valeurs importantes se heurtent",
+  "sujet": "Conflit entre deux valeurs importantes",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites/",
+  "title": "Distinguer le contrôle et l’influence",
+  "sujet": "Distinguer contrôle et influence",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix/",
+  "title": "Le coût des possibilités auxquelles on renonce",
+  "sujet": "Coût d’opportunité et choix renoncés",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude/",
+  "title": "Décider avec une part d’incertitude",
+  "sujet": "Décider avec une part d’incertitude",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible/",
+  "title": "Reconnaître ce qui rend un choix réversible",
+  "sujet": "Réversibilité d’une décision",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet/",
+  "title": "S’engager progressivement dans un projet",
+  "sujet": "Engagement progressif dans un projet",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles/",
+  "title": "Des objectifs avec des ressources réelles",
+  "sujet": "Objectifs réalistes et ressources réelles",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles/",
+  "title": "Regretter avec les informations de l’époque",
+  "sujet": "Regret et informations disponibles à l’époque",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-reviser-choix-chemin/",
+  "title": "Réviser un choix sans effacer le chemin fait",
+  "sujet": "Réviser un choix sans nier le chemin parcouru",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires/",
+  "title": "Le sens des actions qui ne font pas événement",
+  "sujet": "Sens et actions ordinaires",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present/",
+  "title": "Penser à demain sans s’oublier aujourd’hui",
+  "sujet": "Penser au soi de demain sans s’oublier",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/baptiste-valeurs-arbitrages-quotidien/",
+  "title": "Les valeurs dans les arbitrages du quotidien",
+  "sujet": "Valeurs personnelles et arbitrages du quotidien",
+  "personnage": "Baptiste"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante/",
+  "title": "Biais d'action face à une décision importante : le comprendre",
+  "sujet": "biais d'action",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/",
+  "title": "Biais d'ancrage face à une décision importante : le repérer",
+  "sujet": "biais d'ancrage",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/",
+  "title": "Au travail, Patrick prend sa douleur au sérieux",
+  "sujet": "Minimisation de la douleur au travail",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole/",
+  "title": "Biais d'attribution fondamentale à l'école : comprendre et agir",
+  "sujet": "biais d'attribution fondamentale",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit/",
+  "title": "Biais d'attribution fondamentale en situation de conflit",
+  "sujet": "biais d'attribution fondamentale",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/",
+  "title": "Biais d’autorité : quand le statut pèse sur le jugement",
+  "sujet": "biais d'autorité",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/",
+  "title": "Faire face à un courrier difficile après un deuil",
+  "sujet": "évitement d’une information pénible après un deuil",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit/",
+  "title": "Biais de confirmation en situation de conflit : comment il vous piège",
+  "sujet": "biais de confirmation",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail/",
+  "title": "Conformité au travail : quand Thomas hésite à contredire",
+  "sujet": "biais de conformité",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture/",
+  "title": "Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer",
+  "sujet": "biais du coût irrécupérable",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecuperable-decision-importante/",
+  "title": "Biais du coût irrécupérable face à une décision importante",
+  "sujet": "biais du coût irrécupérable",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-croyance-decision-importante/",
+  "title": "Biais de croyance : une conclusion plausible suffit-elle ?",
+  "sujet": "biais de croyance",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-cadrage-decision-importante-nadia/",
+  "title": "Biais de cadrage : comment mieux décider sans se faire piéger",
+  "sujet": "biais de cadrage",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante/",
+  "title": "Biais de disponibilité face à une décision importante : Priya",
+  "sujet": "biais de disponibilité",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/",
+  "title": "Conformisme à l’école et en formation : l’effet de la majorité",
+  "sujet": "conformisme",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre/",
+  "title": "Biais de groupe en situation de conflit : le comprendre",
+  "sujet": "favoritisme envers son groupe",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-normalite-decision-importante-monique/",
+  "title": "Biais du statu quo : hésiter face à un changement de vie",
+  "sujet": "biais du statu quo",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/",
+  "title": "Projection sociale en couple : écouter avant de supposer",
+  "sujet": "projection sociale",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/",
+  "title": "Biais de représentativité face à une décision importante",
+  "sujet": "biais de représentativité",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante/",
+  "title": "Biais de survivant face à une décision importante : le guide",
+  "sujet": "biais de survivant",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante/",
+  "title": "Biais d'engagement : pourquoi on s'entête dans l'erreur",
+  "sujet": "biais d'engagement/escalade d'engagement",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit/",
+  "title": "Le biais de faux consensus en situation de conflit",
+  "sujet": "biais de faux consensus",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-monde-juste-deuil-causes/",
+  "title": "Biais du monde juste lors d'un deuil : pourquoi ça existe",
+  "sujet": "biais du monde juste",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-face-decision-importante-camille/",
+  "title": "Biais de négativité face à une décision importante : comprendre",
+  "sujet": "biais de négativité",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/",
+  "title": "Biais de négativité : quand un défaut prend toute la place",
+  "sujet": "biais de négativité",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/",
+  "title": "Biais d’omission : Bernard hésite à reprendre contact",
+  "sujet": "biais d'omission",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur/",
+  "title": "Biais d'optimisme face à une décision importante : le comprendre",
+  "sujet": "biais d'optimisme",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie/",
+  "title": "Au chantier, Patrick revoit son jugement",
+  "sujet": "biais du point aveugle",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-decision-importante/",
+  "title": "Biais rétrospectif face à une décision importante : comment l'éviter",
+  "sujet": "biais rétrospectif",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse/",
+  "title": "Biais rétrospectif et deuil : « J’aurais dû le voir venir »",
+  "sujet": "biais rétrospectif",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/biais-statu-quo-decision-importante-psychologie/",
+  "title": "Biais de statu quo : quel poids donner à ce qui existe déjà ?",
+  "sujet": "biais de statu quo",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/catastrophisation-avec-enfants/",
+  "title": "Catastrophisation : Camille distingue les faits des craintes",
+  "sujet": "catastrophisation (dramatisation)",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/",
+  "title": "Comparaison injuste en situation de compétition : s'en libérer",
+  "sujet": "comparaison injuste",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/",
+  "title": "Corrélation illusoire sur les réseaux sociaux : s'en libérer",
+  "sujet": "corrélation illusoire",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement/",
+  "title": "Prédire le pire en amitié : comment prendre du recul",
+  "sujet": "divination (prédire l'avenir négativement)",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/",
+  "title": "Effet bandwagon : Lucas hésite à suivre ses amis",
+  "sujet": "effet bandwagon",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/",
+  "title": "Effet Barnum : quand une vidéo semble parler de vous",
+  "sujet": "effet Barnum/Forer",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux/",
+  "title": "Effet de halo sur les réseaux sociaux : décoder nos jugements",
+  "sujet": "effet de halo",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/",
+  "title": "Effet de leurre : Patrick compare trois abonnements",
+  "sujet": "effet de leurre",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-de-primaute-en-tant-que-manager/",
+  "title": "Effet de primauté en tant que manager : s'en libérer",
+  "sujet": "effet de primauté",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/",
+  "title": "Effet de dotation : Lucas compare deux options de travail",
+  "sujet": "effet de dotation",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/",
+  "title": "Effet Dunning-Kruger : évaluer ce qu’on sait faire",
+  "sujet": "effet Dunning-Kruger",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/",
+  "title": "Effet IKEA : pourquoi tient-on à ce qu'on fabrique ?",
+  "sujet": "effet IKEA",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/",
+  "title": "Effet de récence : quel poids donner au dernier avis ?",
+  "sujet": "effet de récence",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei/",
+  "title": "Effet de simple exposition sur les réseaux sociaux : décodage",
+  "sujet": "effet de simple exposition",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/",
+  "title": "Effet spotlight à l'école : quand on se sent trop observé",
+  "sujet": "effet spotlight",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-en-societe/",
+  "title": "Effet spotlight en société : pourquoi vous pensez que tout le monde vous regarde",
+  "sujet": "effet spotlight",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche/",
+  "title": "Effet spotlight : Lucas craint qu’on remarque sa cravate",
+  "sujet": "effet spotlight",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux/",
+  "title": "Effet de vérité illusoire sur les réseaux sociaux : comment ça nous piège",
+  "sujet": "effet de vérité illusoire",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/effet-zeigarnik-manager-perfectionniste/",
+  "title": "Effet Zeigarnik en tant que manager : comment le détecter et le gérer",
+  "sujet": "effet Zeigarnik",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective/",
+  "title": "Regarder autrement sans changer les faits",
+  "sujet": "Changer de perspective sans nier un fait",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse/",
+  "title": "Garder du jeu quand le programme change",
+  "sujet": "Souplesse psychologique face à un imprévu",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/elise-optimisme-preparations-utiles/",
+  "title": "Espérer avec un plan assez concret",
+  "sujet": "Optimisme réaliste et préparations utiles",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues/",
+  "title": "Comparaison au travail : Éloi retrouve une échelle juste",
+  "sujet": "comparaison avec des collègues expérimentés",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/eloi-competences-transferables/",
+  "title": "Compétences transférables : Éloi nomme ce qu'il sait faire",
+  "sujet": "reconnaître ses compétences transférables",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/eloi-expliquer-echec/",
+  "title": "Expliquer un échec : Éloi cherche les causes utiles",
+  "sujet": "expliquer un échec sans se condamner",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage/",
+  "title": "Recevoir un retour : Éloi apprend sans se condamner",
+  "sujet": "recevoir un retour pendant l’apprentissage",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais/",
+  "title": "Sentiment d'efficacité : Éloi s'appuie sur des essais",
+  "sujet": "sentiment d’efficacité et petites expériences",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille/",
+  "title": "Le filtre mental en situation de conflit : voir au-delà",
+  "sujet": "filtre mental (abstraction sélective)",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/",
+  "title": "Gérer les \\\"je dois et il faut\\\" (obligations rigides) en conflit",
+  "sujet": "les \\\"je dois/il faut\\\" (obligations rigides)",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/",
+  "title": "Heuristique d’affect : quand un placement paraît rassurant",
+  "sujet": "heuristique d'affect",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager/",
+  "title": "Illusion de contrôle : le cas d'un manager",
+  "sujet": "illusion de contrôle",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/illusion-de-controle-avec-ses-enfants-parentalite/",
+  "title": "Illusion de contrôle avec ses enfants : comment lâcher prise",
+  "sujet": "illusion de contrôle",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/illusion-de-transparence-interactions-sociales-psychologie/",
+  "title": "Illusion de transparence : ce que les autres perçoivent",
+  "sujet": "illusion de transparence",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite/",
+  "title": "Crainte du jugement intime : Inès dit ce qu’elle aime",
+  "sujet": "Crainte du jugement dans l’intimité",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite/",
+  "title": "Image du corps : Inès revient à son expérience intime",
+  "sujet": "Image du corps et intimité",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia/",
+  "title": "Journaling de pensées dans l'intimité et la sexualité",
+  "sujet": "journaling de pensées",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie/",
+  "title": "Lecture de pensée en amitié : comment arrêter de deviner ?",
+  "sujet": "lecture de pensée",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/",
+  "title": "Lecture de pensée en couple : quand on croit deviner l'autre",
+  "sujet": "lecture de pensée",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail/",
+  "title": "Bruit au travail : Maëlle décrit sa charge d'attention",
+  "sujet": "Fatigue et concentration au travail",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement/",
+  "title": "Peur de ne pas dormir : Maëlle desserre la surveillance",
+  "sujet": "Inquiétude de ne pas réussir à dormir",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit/",
+  "title": "Pensées après un poste de nuit : Maëlle trie l'utile",
+  "sujet": "Pensées répétées après un poste de nuit",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme/",
+  "title": "Retrouver un rythme : Maëlle choisit des repères possibles",
+  "sujet": "Retrouver un rythme après une période irrégulière",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes/",
+  "title": "Horaires alternés : Maëlle retrouve des repères de sommeil",
+  "sujet": "Décalage du rythme en horaires alternés",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi/",
+  "title": "Biais de la malédiction du savoir en tant que manager",
+  "sujet": "biais de la malédiction du savoir",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes/",
+  "title": "Le stress d’adaptation et les appuis concrets",
+  "sujet": "Stress d’adaptation et ressources concrètes",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte/",
+  "title": "Changer de codes sans se perdre",
+  "sujet": "Changer de codes selon le contexte",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/malik-demarches-charge-mentale/",
+  "title": "Les démarches administratives dans la tête",
+  "sujet": "Démarches administratives et charge mentale",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme/",
+  "title": "La méthode ABCDE d'Ellis : s'apaiser seul face à soi-même",
+  "sujet": "méthode ABCDE d'Ellis",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/odile-anticiper-sans-tout-perdre/",
+  "title": "Anticiper sans vivre toutes les pertes à l’avance",
+  "sujet": "Anticiper sans vivre toutes les pertes à l’avance",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire/",
+  "title": "Trouver du sens dans une action ordinaire",
+  "sujet": "Sens dans une action ordinaire",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/",
+  "title": "Quand les regrets tournent en boucle après une rupture",
+  "sujet": "regrets répétitifs",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail/",
+  "title": "Overthinking (surpensée) au travail : le reconnaître enfin",
+  "sujet": "overthinking (surpensée)",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante/",
+  "title": "Peak-end rule face à une décision importante : comment l'éviter",
+  "sujet": "peak-end rule",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/",
+  "title": "Pensée de groupe : faire place au désaccord en réunion",
+  "sujet": "pensée de groupe",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/",
+  "title": "Pensée tout-ou-rien : remettre de la nuance dans un conflit",
+  "sujet": "pensée tout-ou-rien (pensée dichotomique)",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle/",
+  "title": "En amitié, Isabelle interroge ses premières impressions",
+  "sujet": "pensées automatiques négatives",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/",
+  "title": "Pensées automatiques négatives : les remarquer quand on est seule",
+  "sujet": "pensées automatiques négatives",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante/",
+  "title": "Les « et si » face à une décision importante",
+  "sujet": "inquiétudes anticipées et scénarios « et si »",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux/",
+  "title": "Personnalisation sur les réseaux sociaux : quand on prend un silence pour soi",
+  "sujet": "personnalisation",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple/",
+  "title": "Raisonnement émotionnel en couple : quand une crainte devient une certitude",
+  "sujet": "raisonnement émotionnel",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi/",
+  "title": "Raisonnement émotionnel : quand le ressenti fait preuve",
+  "sujet": "raisonnement émotionnel",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-decouper-garder-but/",
+  "title": "Découper une tâche : Rémi garde le but en vue",
+  "sujet": "découper une tâche sans perdre son but",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-demarrer-tache/",
+  "title": "Démarrer une tâche : Rémi cherche le premier geste",
+  "sujet": "difficulté à démarrer une tâche",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement/",
+  "title": "Distractibilité : Rémi regarde aussi l'environnement",
+  "sujet": "distractibilité et environnement",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-estimer-temps-marges/",
+  "title": "Estimer le temps : Rémi compte aussi les transitions",
+  "sujet": "estimation du temps et marges réelles",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-interruptions-retrouver-fil/",
+  "title": "Interruptions au travail : Rémi retrouve le fil",
+  "sujet": "coût des changements de tâche",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles/",
+  "title": "Mémoire de travail : Rémi rend les consignes visibles",
+  "sujet": "charge de la mémoire de travail",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile/",
+  "title": "Transmettre une tâche : Rémi prépare le rappel utile",
+  "sujet": "déléguer et transmettre des consignes",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/",
+  "title": "Rumination : quand les mêmes pensées reviennent",
+  "sujet": "rumination mentale",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi/",
+  "title": "Révéler quelque chose de soi : Salomé choisit le cadre",
+  "sujet": "Choisir ce que l’on révèle de soi",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne/",
+  "title": "Compétence : Salomé regarde autrement les ateliers en ligne",
+  "sujet": "Compétence professionnelle et regard des autres",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements/",
+  "title": "Continuité de soi : Salomé change sans tout effacer",
+  "sujet": "Continuité de soi au fil des changements",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette/",
+  "title": "Au-delà d’une étiquette : Salomé garde plusieurs facettes",
+  "sujet": "Identité au-delà d’une seule étiquette",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales/",
+  "title": "Pression des normes : Salomé distingue usage et obligation",
+  "sujet": "Pression des normes sociales",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/samira-charge-mentale-parentalite/",
+  "title": "La charge mentale de la parentalité seule",
+  "sujet": "Charge mentale de la parentalité seule",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/samira-decider-pression-temps/",
+  "title": "Décider quand le temps manque",
+  "sujet": "Décider sous la pression du temps",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels/",
+  "title": "La dignité commence avec des besoins reconnus",
+  "sujet": "Dignité et besoins matériels fondamentaux",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/samira-precarite-place-soucis/",
+  "title": "Quand la précarité occupe les pensées",
+  "sujet": "Précarité et place prise par les soucis",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/",
+  "title": "Surgénéralisation à l'école : comprendre et agir au lycée",
+  "sujet": "surgénéralisation",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible/",
+  "title": "Charge d’organisation : Vincent rend les étapes visibles",
+  "sujet": "Rendre visible la charge d’organisation",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/reprendre-le-controle-de-ses-pensees/vincent-valeurs-entrent-tension/",
+  "title": "Valeurs en tension : Vincent choisit sans tout réconcilier",
+  "sujet": "Valeurs importantes qui entrent en tension",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/_index/",
+  "title": "Sortir de ses schémas répétitifs",
+  "sujet": null,
+  "personnage": null
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/",
+  "title": "Abandon et instabilité face à la solitude : comprendre et agir",
+  "sujet": "abandon et instabilité",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions/",
+  "title": "Abandon et instabilité en couple : comprendre ses schémas",
+  "sujet": "abandon/instabilité",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/",
+  "title": "Abnégation et sacrifice de soi en amitié : comment dire stop ?",
+  "sujet": "abnégation/sacrifice de soi",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-maladie/",
+  "title": "Abnégation et sacrifice de soi face à la maladie : s'oublier",
+  "sujet": "abnégation/sacrifice de soi",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/",
+  "title": "Abnégation et sacrifice de soi face au vieillissement des parents",
+  "sujet": "abnégation/sacrifice de soi",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/",
+  "title": "Quand Patrick abîme l’établi de son père",
+  "sujet": "Geste destructeur et sécurité après un conflit familial",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/",
+  "title": "Parentification : Fabien questionne son rôle de pilier",
+  "sujet": "parentification",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee/",
+  "title": "Aide souhaitée : Aline demande avant d’intervenir",
+  "sujet": "Demander si une aide est souhaitée",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/",
+  "title": "Désaccord en famille : Aline garde sa place et le lien",
+  "sujet": "Garder un désaccord sans rompre le lien",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple/",
+  "title": "Poser une limite sans retirer son affection : Aline",
+  "sujet": "Poser une limite sans retirer son affection",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-recevoir-aide-justifier/",
+  "title": "Recevoir de l’aide sans se justifier : l’essai d’Aline",
+  "sujet": "Recevoir de l’aide sans se justifier",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations/",
+  "title": "Réciprocité : Aline cherche une place dans ses relations",
+  "sujet": "Réciprocité dans les relations",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/",
+  "title": "« Syndrome du sauveur » : une expression courante",
+  "sujet": "L’expression « syndrome du sauveur » et l’aide sans s’effacer",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches/",
+  "title": "Surresponsabilité : Aline partage vraiment les tâches",
+  "sujet": "Surresponsabilité et partage des tâches",
+  "personnage": "Aline"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs/",
+  "title": "Activités adaptées : Anaïs choisit ce qui compte pour elle",
+  "sujet": "Activités adaptées et valeurs personnelles",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/anais-amenagement-travail/",
+  "title": "Aménagement au travail : Anaïs prépare une demande précise",
+  "sujet": "Demander un aménagement au travail",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/anais-demande-aide-concrete/",
+  "title": "Demander de l'aide : Anaïs précise le geste dont elle a besoin",
+  "sujet": "Communiquer un besoin d’aide concret",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/anais-energie-rythme-maladie/",
+  "title": "Énergie et maladie : Anaïs adapte son rythme quotidien",
+  "sujet": "Énergie et adaptation du rythme avec une maladie",
+  "personnage": "Anaïs"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/",
+  "title": "Annulation rétroactive : peut-on effacer une dispute ?",
+  "sujet": "annulation rétroactive",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/",
+  "title": "Assujettissement face à l'autorité : s'affirmer enfin",
+  "sujet": "assujettissement",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/",
+  "title": "En couple, Isabelle cherche à se sentir rassurée",
+  "sujet": "attachement anxieux-préoccupé (hyperactivation du système)",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/",
+  "title": "Après la rupture : vouloir se rapprocher et prendre ses distances",
+  "sujet": "ambivalence après une rupture",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/",
+  "title": "Attachement évitant-dédaigneux dans l'intimité et la sexualité",
+  "sujet": "attachement évitant-dédaigneux (désactivation du système)",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-enfants-caracteristiques-developper/",
+  "title": "Attachement : offrir un point d’appui à ses enfants",
+  "sujet": "attachement sécure (caractéristiques, comment le développer)",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/",
+  "title": "Codépendance en amitié : quand aider prend toute la place",
+  "sujet": "la codépendance",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer/",
+  "title": "Clivage en situation de conflit : comprendre et agir",
+  "sujet": "clivage",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille/",
+  "title": "Déplacement en famille : Camille crie après sa garde",
+  "sujet": "déplacement",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/",
+  "title": "Après un refus : Sophie traverse le sentiment d’échec",
+  "sujet": "échec",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/",
+  "title": "La compulsion de répétition selon Freud : une lecture",
+  "sujet": "compulsion de répétition (Freud)",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/",
+  "title": "Contrôle de soi insuffisant au travail : pourquoi ça arrive",
+  "sujet": "contrôle de soi insuffisant",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/croyances-limitantes-reconversion-professionnelle-methode/",
+  "title": "Croyances limitantes et doutes en reconversion",
+  "sujet": "croyances limitantes",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/",
+  "title": "Le cycle de l'abus avec ses parents : briser le schéma",
+  "sujet": "le cycle de l'abus (tension, explosion, lune de miel)",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir/",
+  "title": "Déni après un échec : comprendre ce mécanisme pour avancer",
+  "sujet": "déni",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/",
+  "title": "Dépendance affective et anxiété d’attachement en couple",
+  "sujet": "la dépendance affective vs l'attachement anxieux",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/",
+  "title": "Se sentir incapable de décider face à l’autorité",
+  "sujet": "dépendance/incompétence",
+  "personnage": "Adrien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/",
+  "title": "Après sa rupture, Isabelle se sent parfois déconnectée",
+  "sujet": "Sensations d’irréalité et symptômes dissociatifs",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/drivers-contraignants-reconversion-professionnelle/",
+  "title": "Drivers contraignants : quand l’exigence freine Margot",
+  "sujet": "les drivers/messages contraignants (sois parfait, fais plaisir, sois fort, dépêche-toi, fais des efforts)",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/",
+  "title": "Droits personnels excessifs, grandiosité et argent",
+  "sujet": "droits personnels excessifs/grandiosité",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/",
+  "title": "Difficulté aux études : Lucas reprend un rapport refusé",
+  "sujet": "échec",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie/",
+  "title": "Une pause qui laisse un chemin de retour",
+  "sujet": "Distraction choisie plutôt que fuite automatique",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/elise-entraide-concrete/",
+  "title": "Demander une aide que chacun peut situer",
+  "sujet": "Ressources collectives et entraide concrète",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/elise-explorer-petite-possibilite/",
+  "title": "Essayer quelque chose sans refaire sa vie",
+  "sujet": "Explorer une possibilité sans tout bouleverser",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications/",
+  "title": "Une routine utile peut avoir une fin",
+  "sujet": "Routines qui soutiennent sans enfermer",
+  "personnage": "Élise"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/eloi-apprendre-prouver-valeur/",
+  "title": "Apprendre sans prouver sa valeur : l'essai d'Éloi",
+  "sujet": "apprendre plutôt que prouver sa valeur",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/eloi-autonomie-cadre-soutien/",
+  "title": "Autonomie : Éloi cherche un cadre qui soutient ses choix",
+  "sujet": "autonomie et cadre qui soutient",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/eloi-demander-aide-debutant/",
+  "title": "Demander de l'aide : Éloi précise ce qui lui manque",
+  "sujet": "demander de l’aide comme débutant",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/eloi-orientation-valeurs/",
+  "title": "Orientation : Éloi relie ses choix à ses valeurs",
+  "sujet": "orientation et valeurs personnelles",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/eloi-progression-droit-essai/",
+  "title": "Progression : Éloi donne une place aux essais",
+  "sujet": "progression et droit à l’essai",
+  "personnage": "Éloi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/",
+  "title": "Enfant intérieur après une rupture : comprendre ses blessures",
+  "sujet": "enfant intérieur",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo/",
+  "title": "Comprendre les états du Moi en situation de conflit",
+  "sujet": "les états du Moi (Parent, Adulte, Enfant)",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail/",
+  "title": "Exigences élevées et critique excessive au travail : s'en libérer",
+  "sujet": "exigences élevées/critique excessive",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/",
+  "title": "Exigences élevées : quand corriger prend le pas sur le jeu",
+  "sujet": "exigences élevées/critique excessive",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/",
+  "title": "Exigences élevées et critique excessive avec ses parents",
+  "sujet": "exigences élevées/critique excessive",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents/",
+  "title": "Comprendre le faux self (Winnicott) avec ses parents",
+  "sujet": "le faux self (Winnicott)",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/",
+  "title": "Formation réactionnelle : que dit un sourire en conflit ?",
+  "sujet": "formation réactionnelle",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/",
+  "title": "Intimité : Mei apprend à dire ce qu’elle veut",
+  "sujet": "effacement de ses préférences et consentement dans l’intimité",
+  "personnage": "Mei"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail/",
+  "title": "Gaslighting et manipulation au travail : comment les repérer ?",
+  "sujet": "le gaslighting et la manipulation psychologique",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/",
+  "title": "Gaslighting dans l’intimité : reconnaître les agissements",
+  "sujet": "le gaslighting et la manipulation psychologique",
+  "personnage": "Léa"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo/",
+  "title": "Humour comme défense en situation de conflit : comprendre et agir",
+  "sujet": "humour comme défense",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/idealisation-devaluation-en-couple/",
+  "title": "Idéalisation et dévaluation en couple : pourquoi ça arrive et que faire",
+  "sujet": "idéalisation/dévaluation",
+  "personnage": "Hugo"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/",
+  "title": "Imperfection et honte en société : comment s'en libérer",
+  "sujet": "imperfection/honte",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles/",
+  "title": "Confiance et espace : Inès prépare les retrouvailles",
+  "sujet": "Confiance et espace personnel",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis/",
+  "title": "Consentement : Inès garde le droit de changer d’avis",
+  "sujet": "Consentement et droit de changer d’avis",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-dire-non-sans-preuve/",
+  "title": "Dire non sans preuve : Inès renonce au dossier d’excuses",
+  "sujet": "Dire non sans fournir une preuve",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-moments-partages-sans-obligation/",
+  "title": "Moments partagés : Inès choisit la présence sans dette",
+  "sujet": "Construire des moments partagés sans obligation",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-parler-limite-intime/",
+  "title": "Parler d’une limite intime : Inès choisit ses mots",
+  "sujet": "Parler d’une limite intime",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante/",
+  "title": "Réparer une conversation : Inès revient sur ses mots",
+  "sujet": "Réparer une conversation blessante",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/ines-vie-privee-couple/",
+  "title": "Vie privée dans le couple : Inès garde un espace à elle",
+  "sujet": "Vie privée au sein du couple",
+  "personnage": "Inès"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/",
+  "title": "Intellectualisation au travail : comment sortir du mental ?",
+  "sujet": "intellectualisation",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/",
+  "title": "Isolation de l'affect en conflit : comprendre ce mécanisme",
+  "sujet": "isolation de l'affect",
+  "personnage": "Youssef"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/",
+  "title": "Isolement social et aliénation en amitié : comprendre et agir",
+  "sujet": "isolement social/aliénation",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-interactions-societe/",
+  "title": "Isolement social et aliénation : comprendre et s'ouvrir au monde",
+  "sujet": "isolement social/aliénation",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/",
+  "title": "Isolement social et aliénation face à la solitude",
+  "sujet": "isolement social/aliénation",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple/",
+  "title": "Triangle de Karpman : Thomas apprend à écouter Émilie",
+  "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse/",
+  "title": "Après une rupture, Isabelle apprivoise le manque",
+  "sujet": "Réactions émotionnelles et pensées répétées après une rupture",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille/",
+  "title": "Comprendre les loyautés invisibles en période de fêtes",
+  "sujet": "loyautés invisibles (Boszormenyi-Nagy et Spark)",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis/",
+  "title": "Récupération : Maëlle repère les appuis disponibles",
+  "sujet": "Récupération et appuis disponibles",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/maelle-repos-besoins-collectifs/",
+  "title": "Repos au travail : Maëlle porte une question collective",
+  "sujet": "Faire reconnaître des besoins de repos collectifs",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple/",
+  "title": "Rythmes différents en couple : Maëlle cherche un accord",
+  "sujet": "Rythmes différents dans le couple",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail/",
+  "title": "Stress au travail : Maëlle replace les contraintes en vue",
+  "sujet": "Stress lié aux conditions de travail",
+  "personnage": "Maëlle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place/",
+  "title": "Trouver sa place dans plusieurs appartenances",
+  "sujet": "Appartenances multiples et sentiment de place",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales/",
+  "title": "Négocier des attentes familiales différentes",
+  "sujet": "Négocier des attentes familiales différentes",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/malik-identite-souple-personnelle/",
+  "title": "Garder une identité souple et personnelle",
+  "sujet": "Garder une identité souple et personnelle",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/malik-lien-distance/",
+  "title": "Entretenir le lien à distance sans surveillance",
+  "sujet": "Entretenir un lien à distance",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/malik-soutiens-plusieurs-cercles/",
+  "title": "Trouver des soutiens dans plusieurs cercles",
+  "sujet": "Soutiens dans plusieurs cercles",
+  "personnage": "Malik"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes/",
+  "title": "Quand la proximité manque entre Bernard et son fils",
+  "sujet": "distance affective entre un parent et son enfant adulte",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/",
+  "title": "Méfiance et abus en amitié : comprendre ses schémas profonds",
+  "sujet": "méfiance/abus",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite/",
+  "title": "Méfiance et abus face à l'autorité : comprendre ce schéma",
+  "sujet": "méfiance/abus",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/narcissisme-sain-pathologique-travail/",
+  "title": "Narcissisme au travail : traits, comportements et diagnostic",
+  "sujet": "traits narcissiques et diagnostic",
+  "personnage": "Nadia"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-parents-education-psychologie/",
+  "title": "Négativité et pessimisme avec ses parents : s'en libérer",
+  "sujet": "négativité/pessimisme",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-reconversion/",
+  "title": "Pessimisme en reconversion : distinguer doutes et risques",
+  "sujet": "négativité/pessimisme",
+  "personnage": "Margot"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/odile-collectif-liberte-personnelle/",
+  "title": "Participer à un collectif en gardant ses choix",
+  "sujet": "Participation collective et liberté personnelle",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/odile-demander-presence-precise/",
+  "title": "Demander une présence précise",
+  "sujet": "Demander une présence précise",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/odile-objets-souvenirs-choisir/",
+  "title": "Les objets et le droit de choisir ses souvenirs",
+  "sujet": "Objets et souvenirs sans obligation de garder",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/odile-retraite-changement-role/",
+  "title": "La retraite et les rôles que l’on choisit",
+  "sujet": "Retraite et changement de rôle",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/odile-solitude-choisie-perte/",
+  "title": "Choisir un temps seule après une perte",
+  "sujet": "Solitude choisie après une perte",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere/",
+  "title": "Transmettre un souvenir à sa manière",
+  "sujet": "Transmettre un souvenir à sa manière",
+  "personnage": "Odile"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/",
+  "title": "La parentification avec ses parents : comprendre ce poids invisible",
+  "sujet": "la parentification",
+  "personnage": "Isabelle"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle/",
+  "title": "Positions de vie au travail : sortir des schémas répétitifs",
+  "sujet": "les positions de vie (+/+, +/-, -/+, -/-)",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante/",
+  "title": "Prophéties autoréalisatrices et prise de décision : le guide",
+  "sujet": "prophéties autoréalisatrices",
+  "personnage": "Karim"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/",
+  "title": "Punition à l’école : distinguer la règle et la note",
+  "sujet": "punition",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/",
+  "title": "Rationalisation avec ses parents : pourquoi et comment s'en libérer",
+  "sujet": "rationalisation",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante/",
+  "title": "Rationalisation face à une décision importante : le guide",
+  "sujet": "rationalisation",
+  "personnage": "Priya"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/",
+  "title": "Recherche d'approbation et reconnaissance avec ses parents",
+  "sujet": "recherche d'approbation/reconnaissance",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/",
+  "title": "Quand le besoin d’approbation prend trop de place en amitié",
+  "sujet": "recherche d'approbation/reconnaissance",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail/",
+  "title": "Quand la recherche d'approbation pèse au travail",
+  "sujet": "recherche d'approbation et de reconnaissance",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes/",
+  "title": "Refoulement : ce qu’un souvenir flou ne permet pas de conclure",
+  "sujet": "refoulement",
+  "personnage": "Camille"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie/",
+  "title": "Régression après un échec : comprendre ce mécanisme psychologique",
+  "sujet": "régression",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte/",
+  "title": "Habitudes : Rémi choisit des indices qui l'aident",
+  "sujet": "habitudes et indices du contexte",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer/",
+  "title": "Perfectionnisme : Rémi apprend à terminer son travail",
+  "sujet": "perfectionnisme au moment de terminer",
+  "personnage": "Rémi"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/salome-alliances-soutien-quotidien/",
+  "title": "Alliances au quotidien : Salomé partage les appuis",
+  "sujet": "Alliances et soutien dans la vie quotidienne",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/salome-appartenance-sans-effacement/",
+  "title": "Appartenance : Salomé garde sa place sans tout accepter",
+  "sujet": "Appartenance sans effacement de soi",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/salome-limite-curiosite-personnelle/",
+  "title": "Curiosité personnelle : Salomé pose une limite claire",
+  "sujet": "Poser une limite à la curiosité",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/",
+  "title": "Demander à être appelée par son prénom choisi",
+  "sujet": "Prénom choisi et affirmation sociale du genre",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/salome-vie-privee-sans-expliquer/",
+  "title": "Vie privée : Salomé garde le droit de ne pas expliquer",
+  "sujet": "Vie privée et droit de ne pas expliquer",
+  "personnage": "Salomé"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/samira-agir-marge-etroite/",
+  "title": "Pouvoir agir dans une marge étroite",
+  "sujet": "Pouvoir agir dans une marge étroite",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/samira-demander-aides-droits/",
+  "title": "Demander une aide sans devoir se justifier",
+  "sujet": "Demander les aides auxquelles on a droit",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/samira-projet-reporte-place/",
+  "title": "Faire une place à un projet longtemps reporté",
+  "sujet": "Faire une place à un projet reporté",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/samira-voisinage-reciprocite-comparaison/",
+  "title": "Recevoir du voisinage sans compter sa valeur",
+  "sujet": "Soutien de voisinage et réciprocité",
+  "personnage": "Samira"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille/",
+  "title": "Le scénario de vie en famille : comprendre ses racines",
+  "sujet": "le scénario de vie (Analyse Transactionnelle - Eric Berne)",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/",
+  "title": "Mal de dos : Bernard demande de l’aide",
+  "sujet": "douleur physique et soutien pendant un deuil",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/",
+  "title": "Deuil et stress post-traumatique complexe : les distinguer",
+  "sujet": "deuil et trouble de stress post-traumatique complexe",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle/",
+  "title": "Sublimation en période de reconversion professionnelle",
+  "sujet": "sublimation",
+  "personnage": "Thomas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/",
+  "title": "En famille, Patrick laisse voir ce qu’il ressent",
+  "sujet": "Retenue émotionnelle et suppression expressive",
+  "personnage": "Patrick"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/",
+  "title": "Surcontrôle émotionnel et inhibition avec ses parents",
+  "sujet": "surcontrôle émotionnel/inhibition",
+  "personnage": "Bernard"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/",
+  "title": "Sentiment d’imposture : recevoir un compliment d’une amie",
+  "sujet": "sentiment d’imposture",
+  "personnage": "Sophie"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/",
+  "title": "Sentiment d’imposture aux études : Lucas ose une question",
+  "sujet": "sentiment d’imposture",
+  "personnage": "Lucas"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique/",
+  "title": "Se sentir illégitime dans l’intimité après 60 ans",
+  "sujet": "sentiment d’illégitimité dans l’intimité",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/",
+  "title": "Loyauté familiale : poser ses limites quand les visites pèsent",
+  "sujet": "loyauté familiale et limites",
+  "personnage": "Stéphane"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-enfants-comprendre/",
+  "title": "Ce qui se transmet dans une famille : les choix de Monique",
+  "sujet": "transmissions transgénérationnelles",
+  "personnage": "Monique"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide/",
+  "title": "Habitudes familiales : Fabien interroge les silences transmis",
+  "sujet": "apprentissages et habitudes relationnelles en famille",
+  "personnage": "Fabien"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/",
+  "title": "Lien traumatique : les effets d’une relation violente sur l’amitié",
+  "sujet": "le trauma bonding (attachement traumatique)",
+  "personnage": "Djamila"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger/",
+  "title": "Aide consentie : Vincent questionne l’envie de protéger",
+  "sujet": "Aide consentie et envie de protéger",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vincent-autonomie-decisions-partagees/",
+  "title": "Autonomie du proche : Vincent partage les décisions",
+  "sujet": "Autonomie du proche et décisions partagées",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance/",
+  "title": "Couple et aidance : Vincent retrouve une place à deux",
+  "sujet": "Préserver une relation de couple dans l’aidance",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vincent-organiser-relais-concret/",
+  "title": "Organiser un relais concret : Vincent partage une mission",
+  "sujet": "Organiser un relais concret",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vincent-repit-entraide-durable/",
+  "title": "Répit et entraide durable : Vincent prépare la suite",
+  "sujet": "Répit et entraide durable",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites/",
+  "title": "Demander du soutien en gardant ses limites : Vincent",
+  "sujet": "Demander du soutien en gardant ses limites",
+  "personnage": "Vincent"
+ },
+ {
+  "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/",
+  "title": "Peur de la maladie : Camille demande un avis médical",
+  "sujet": "vulnérabilité au danger",
+  "personnage": "Camille"
+ }
+]

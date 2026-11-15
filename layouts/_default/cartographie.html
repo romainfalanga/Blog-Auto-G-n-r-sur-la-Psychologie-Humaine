@@ -1,0 +1,58 @@
+{{ define "main" }}
+{{ $data := .Site.Data.cartographie }}
+<div class="container-wide carto" data-cartographie>
+  <header class="carto-intro">
+    <h1>Cartographie</h1>
+    <p class="carto-lead">Ce que l’on a vécu enfant laisse parfois des traces : façons de se protéger, de s’attacher, de se juger, et parfois des troubles. Cochez ce qui correspond à votre enfance ou à votre adolescence. La page affiche les conséquences que la recherche et les classifications officielles associent à ces vécus, en indiquant quand plusieurs éléments convergent.</p>
+    <div class="carto-warning" role="note">
+      <p><strong>Ce n’est pas un test ni un diagnostic.</strong> Ces liens sont des tendances observées sur de grands groupes de personnes : beaucoup de personnes qui ont vécu ces situations n’ont aucun trouble, et un même vécu peut mener à des chemins très différents. Seul un professionnel peut évaluer votre situation.</p>
+      <p>Vos réponses restent sur votre appareil : rien n’est envoyé ni enregistré, et tout s’efface quand vous fermez la page.</p>
+    </div>
+  </header>
+  <div class="carto-layout">
+    <section class="carto-form-col" aria-labelledby="carto-form-title">
+      <div class="carto-form-head">
+        <h2 id="carto-form-title">Votre enfance</h2>
+        <p data-carto-count role="status" aria-live="polite">Aucun élément coché</p>
+        <button type="button" class="carto-reset" data-carto-reset>Tout décocher</button>
+      </div>
+      <form data-carto-form onsubmit="return false"></form>
+    </section>
+    <section class="carto-results-col" aria-labelledby="carto-results-title">
+      <h2 id="carto-results-title" class="carto-results-title">Ce que la recherche y associe</h2>
+      <div class="carto-filters" data-carto-filters role="group" aria-label="Filtrer par type"></div>
+      <div data-carto-results aria-live="polite"></div>
+    </section>
+  </div>
+  {{ with $data.protections }}
+  <section class="carto-protections">
+    <h2>Ce qui protège</h2>
+    <p>Les recherches montrent aussi ce qui aide à traverser une enfance difficile ou à s’en remettre plus tard. Ces ressources ne sont pas calculées ici, mais elles comptent autant que ce qui a manqué.</p>
+    <ul>{{ range . }}<li><strong>{{ .label }}</strong> — {{ .description }}</li>{{ end }}</ul>
+  </section>
+  {{ end }}
+  {{ with $data.notes }}
+  <section class="carto-notes">
+    {{ with .multifinalite }}<h2>Pourquoi une même enfance mène à des chemins différents</h2><p>{{ .text | default . }}</p>{{ end }}
+    {{ with .neurodeveloppement }}<h2>Ce que l’éducation ne cause pas</h2><p>{{ .text | default . }}</p>{{ end }}
+    {{ with .limites }}<h2>Les limites de cette carte</h2><p>{{ .text | default . }}</p>{{ end }}
+  </section>
+  {{ end }}
+  <section class="carto-help" aria-labelledby="carto-help-title">
+    <h2 id="carto-help-title">Trouver de l’aide</h2>
+    {{ with $data.notes.consulter }}<p>{{ .text | default . }}</p>{{ end }}
+    <ul>
+      <li><strong>3114</strong> : numéro national de prévention du suicide, gratuit, 24 h/24.</li>
+      <li><strong>119</strong> : Allô Enfance en danger, si un enfant est en danger aujourd’hui.</li>
+      <li><strong>3919</strong> : Violences Femmes Info.</li>
+      <li><strong>15</strong> ou <strong>112</strong> : en cas d’urgence ou de danger immédiat.</li>
+    </ul>
+  </section>
+  <section class="carto-sources-list">
+    <h2>Sources ({{ len $data.sources }})</h2>
+    <ol>{{ range $data.sources }}<li><a href="{{ .url }}" rel="noopener" target="_blank">{{ .citation }}</a></li>{{ end }}</ol>
+  </section>
+  <script id="cartographie-data" type="application/json">{{ $data | jsonify | safeJS }}</script>
+</div>
+<script defer src="/js/cartographie.js?v={{ readFile "static/js/cartographie.js" | md5 }}"></script>
+{{ end }}

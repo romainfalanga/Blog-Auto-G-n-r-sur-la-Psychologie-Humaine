@@ -1,0 +1,518 @@
+[
+ {
+  "id": "icd_6a05",
+  "code": "6A05",
+  "label": "Trouble du déficit de l'attention avec ou sans hyperactivité",
+  "character": "mathis"
+ },
+ {
+  "id": "icd_6b20",
+  "code": "6B20",
+  "label": "Trouble obsessionnel compulsif",
+  "character": "noemie"
+ },
+ {
+  "id": "icd_6a71",
+  "code": "6A71",
+  "label": "Trouble dépressif récurrent",
+  "character": "inaya"
+ },
+ {
+  "id": "icd_6a60",
+  "code": "6A60",
+  "label": "Trouble bipolaire de type I",
+  "character": "emilien"
+ },
+ {
+  "id": "icd_6a02",
+  "code": "6A02",
+  "label": "Troubles du spectre de l'autisme",
+  "character": "nour"
+ },
+ {
+  "id": "icd_6b00",
+  "code": "6B00",
+  "label": "Trouble d'anxiété généralisée",
+  "character": "antonin"
+ },
+ {
+  "id": "icd_6b40",
+  "code": "6B40",
+  "label": "Trouble de stress posttraumatique",
+  "character": "selma"
+ },
+ {
+  "id": "icd_6c50",
+  "code": "6C50",
+  "label": "Trouble du jeu de hasard",
+  "character": "gabin"
+ },
+ {
+  "id": "icd_6a61",
+  "code": "6A61",
+  "label": "Trouble bipolaire de type II",
+  "character": "garance"
+ },
+ {
+  "id": "icd_6b01",
+  "code": "6B01",
+  "label": "Trouble panique",
+  "character": "jules"
+ },
+ {
+  "id": "icd_6b80",
+  "code": "6B80",
+  "label": "Anorexie mentale",
+  "character": "clemence"
+ },
+ {
+  "id": "icd_6d10",
+  "code": "6D10",
+  "label": "Trouble de la personnalité",
+  "character": "mina"
+ },
+ {
+  "id": "icd_6a20",
+  "code": "6A20",
+  "label": "Schizophrénie",
+  "character": "nils"
+ },
+ {
+  "id": "icd_6a21",
+  "code": "6A21",
+  "label": "Trouble schizoaffectif",
+  "character": "solene"
+ },
+ {
+  "id": "icd_6b41",
+  "code": "6B41",
+  "label": "Trouble de stress posttraumatique complexe",
+  "character": "meriem"
+ },
+ {
+  "id": "icd_6d80",
+  "code": "6D80",
+  "label": "Démence due à la maladie d'Alzheimer",
+  "character": "armand"
+ },
+ {
+  "id": "icd_6b42",
+  "code": "6B42",
+  "label": "Trouble du deuil prolongé",
+  "character": "blandine"
+ },
+ {
+  "id": "icd_6b04",
+  "code": "6B04",
+  "label": "Trouble d'anxiété sociale",
+  "character": "sacha"
+ },
+ {
+  "id": "icd_6b83",
+  "code": "6B83",
+  "label": "Trouble de l’apport alimentaire évitant-restrictif",
+  "character": "adele"
+ },
+ {
+  "id": "icd_6c51",
+  "code": "6C51",
+  "label": "Trouble du jeu",
+  "character": "come"
+ },
+ {
+  "id": "icd_6a00",
+  "code": "6A00",
+  "label": "Troubles du développement intellectuel",
+  "character": "helene"
+ },
+ {
+  "id": "icd_6a01_0",
+  "code": "6A01.0",
+  "label": "Trouble du développement des sons de la parole",
+  "character": "roxane"
+ },
+ {
+  "id": "icd_6a01_1",
+  "code": "6A01.1",
+  "label": "Trouble du développement de la fluidité de la parole",
+  "character": "owen"
+ },
+ {
+  "id": "icd_6a01_2",
+  "code": "6A01.2",
+  "label": "Trouble du développement du langage",
+  "character": "agathe"
+ },
+ {
+  "id": "icd_6a03_0",
+  "code": "6A03.0",
+  "label": "Trouble développemental de l’apprentissage avec troubles de la lecture",
+  "character": "celian"
+ },
+ {
+  "id": "icd_6a03_1",
+  "code": "6A03.1",
+  "label": "Trouble développemental de l’apprentissage avec troubles de l’expression écrite",
+  "character": "maiwenn"
+ },
+ {
+  "id": "icd_6a03_2",
+  "code": "6A03.2",
+  "label": "Trouble développemental de l’apprentissage avec difficultés en mathématiques",
+  "character": "lison"
+ },
+ {
+  "id": "icd_6a04",
+  "code": "6A04",
+  "label": "Trouble développemental de la coordination",
+  "character": "augustin"
+ },
+ {
+  "id": "icd_6a06",
+  "code": "6A06",
+  "label": "Trouble des mouvements stéréotypés",
+  "character": "irene"
+ },
+ {
+  "id": "icd_6a22",
+  "code": "6A22",
+  "label": "Trouble schizotypique",
+  "character": "zephyr"
+ },
+ {
+  "id": "icd_6a23",
+  "code": "6A23",
+  "label": "Trouble psychotique aigu et transitoire",
+  "character": "diane"
+ },
+ {
+  "id": "icd_6a24",
+  "code": "6A24",
+  "label": "Trouble délirant",
+  "character": "gasparde"
+ },
+ {
+  "id": "icd_6a40",
+  "code": "6A40",
+  "label": "Catatonie associée à un autre trouble mental",
+  "character": "malo"
+ },
+ {
+  "id": "icd_6a41",
+  "code": "6A41",
+  "label": "Catatonie provoquée par des substances ou des médicaments",
+  "character": "berenice"
+ },
+ {
+  "id": "icd_6a62",
+  "code": "6A62",
+  "label": "Trouble cyclothymique",
+  "character": "alix"
+ },
+ {
+  "id": "icd_6a70",
+  "code": "6A70",
+  "label": "Épisode dépressif unique",
+  "character": "louise"
+ },
+ {
+  "id": "icd_6a72",
+  "code": "6A72",
+  "label": "Dysthymie",
+  "character": "timothee"
+ },
+ {
+  "id": "icd_6a73",
+  "code": "6A73",
+  "label": "Trouble anxieux et dépressif mixte",
+  "character": "constance"
+ },
+ {
+  "id": "icd_6b02",
+  "code": "6B02",
+  "label": "Agoraphobie",
+  "character": "joachim"
+ },
+ {
+  "id": "icd_6b03",
+  "code": "6B03",
+  "label": "Phobie spécifique",
+  "character": "thais"
+ },
+ {
+  "id": "icd_6b05",
+  "code": "6B05",
+  "label": "Trouble d'anxiété de séparation",
+  "character": "rebecca"
+ },
+ {
+  "id": "icd_6b06",
+  "code": "6B06",
+  "label": "Mutisme sélectif",
+  "character": "mila"
+ },
+ {
+  "id": "icd_6b21",
+  "code": "6B21",
+  "label": "Trouble de la perception du corps",
+  "character": "sebastien"
+ },
+ {
+  "id": "icd_6b22",
+  "code": "6B22",
+  "label": "Trouble de perception olfactive",
+  "character": "fanny"
+ },
+ {
+  "id": "icd_6b23",
+  "code": "6B23",
+  "label": "Hypocondrie",
+  "character": "lenaic"
+ },
+ {
+  "id": "icd_6b24",
+  "code": "6B24",
+  "label": "Trouble d'accumulation compulsive",
+  "character": "nathalie"
+ },
+ {
+  "id": "icd_6b25_0",
+  "code": "6B25.0",
+  "label": "Trichotillomanie",
+  "character": "esmee"
+ },
+ {
+  "id": "icd_6b25_1",
+  "code": "6B25.1",
+  "label": "Trouble d'excoriation compulsive",
+  "character": "cyril"
+ },
+ {
+  "id": "icd_6b43",
+  "code": "6B43",
+  "label": "Trouble d'adaptation",
+  "character": "elina"
+ },
+ {
+  "id": "icd_6b44",
+  "code": "6B44",
+  "label": "Trouble réactionnel de l'attachement",
+  "character": "basile"
+ },
+ {
+  "id": "icd_6b45",
+  "code": "6B45",
+  "label": "Trouble de l’engagement social désinhibé",
+  "character": "thael"
+ },
+ {
+  "id": "icd_6b60",
+  "code": "6B60",
+  "label": "Trouble dissociatif à symptômes neurologiques",
+  "character": "gaelle"
+ },
+ {
+  "id": "icd_6b61",
+  "code": "6B61",
+  "label": "Amnésie dissociative",
+  "character": "ismael"
+ },
+ {
+  "id": "icd_6b62",
+  "code": "6B62",
+  "label": "État de transe",
+  "character": "agnes"
+ },
+ {
+  "id": "icd_6b63",
+  "code": "6B63",
+  "label": "État de possession",
+  "character": "khadija"
+ },
+ {
+  "id": "icd_6b64",
+  "code": "6B64",
+  "label": "Trouble dissociatif de l'identité",
+  "character": "celeste"
+ },
+ {
+  "id": "icd_6b65",
+  "code": "6B65",
+  "label": "Trouble dissociatif de l'identité partiel",
+  "character": "evaelle"
+ },
+ {
+  "id": "icd_6b66",
+  "code": "6B66",
+  "label": "Trouble dépersonnalisation-déréalisation",
+  "character": "joris"
+ },
+ {
+  "id": "icd_6b81",
+  "code": "6B81",
+  "label": "Boulimie nerveuse",
+  "character": "victoire"
+ },
+ {
+  "id": "icd_6b82",
+  "code": "6B82",
+  "label": "Frénésie alimentaire",
+  "character": "morgane"
+ },
+ {
+  "id": "icd_6b84",
+  "code": "6B84",
+  "label": "Pica",
+  "character": "aubin"
+ },
+ {
+  "id": "icd_6b85",
+  "code": "6B85",
+  "label": "Trouble de rumination-régurgitation",
+  "character": "nolwenn"
+ },
+ {
+  "id": "icd_6c00",
+  "code": "6C00",
+  "label": "Énurésie",
+  "character": "titouan"
+ },
+ {
+  "id": "icd_6c01",
+  "code": "6C01",
+  "label": "Encoprésie",
+  "character": "felix"
+ },
+ {
+  "id": "icd_6c20",
+  "code": "6C20",
+  "label": "Trouble de détresse physique",
+  "character": "laure"
+ },
+ {
+  "id": "icd_6c21",
+  "code": "6C21",
+  "label": "Dysphorie de l'intégrité corporelle",
+  "character": "clovis"
+ },
+ {
+  "id": "icd_6c70",
+  "code": "6C70",
+  "label": "Pyromanie",
+  "character": "loic"
+ },
+ {
+  "id": "icd_6c71",
+  "code": "6C71",
+  "label": "Kleptomanie",
+  "character": "irma"
+ },
+ {
+  "id": "icd_6c72",
+  "code": "6C72",
+  "label": "Trouble compulsif du comportement sexuel",
+  "character": "olivier"
+ },
+ {
+  "id": "icd_6c73",
+  "code": "6C73",
+  "label": "Trouble explosif intermittent",
+  "character": "damien"
+ },
+ {
+  "id": "icd_6c90",
+  "code": "6C90",
+  "label": "Trouble oppositionnel avec provocation",
+  "character": "ruben"
+ },
+ {
+  "id": "icd_6c91",
+  "code": "6C91",
+  "label": "Trouble dissocial du comportement",
+  "character": "malou"
+ },
+ {
+  "id": "icd_6d30",
+  "code": "6D30",
+  "label": "Trouble exhibitionniste",
+  "character": "ronan"
+ },
+ {
+  "id": "icd_6d31",
+  "code": "6D31",
+  "label": "Trouble voyeuriste",
+  "character": "amael"
+ },
+ {
+  "id": "icd_6d32",
+  "code": "6D32",
+  "label": "Trouble pédophile",
+  "character": "remiel"
+ },
+ {
+  "id": "icd_6d33",
+  "code": "6D33",
+  "label": "Trouble du sadisme sexuel coercitif",
+  "character": "marceau"
+ },
+ {
+  "id": "icd_6d34",
+  "code": "6D34",
+  "label": "Frotteurisme",
+  "character": "sylvain"
+ },
+ {
+  "id": "icd_6d36",
+  "code": "6D36",
+  "label": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+  "character": "loubna"
+ },
+ {
+  "id": "icd_6d50",
+  "code": "6D50",
+  "label": "Trouble factice imposé à soi-même",
+  "character": "serge"
+ },
+ {
+  "id": "icd_6d51",
+  "code": "6D51",
+  "label": "Trouble factice imposé à autrui",
+  "character": "florence"
+ },
+ {
+  "id": "icd_6d71",
+  "code": "6D71",
+  "label": "Trouble neurocognitif léger",
+  "character": "mireille"
+ },
+ {
+  "id": "icd_6e20",
+  "code": "6E20",
+  "label": "Troubles mentaux ou du comportement liés à la grossesse, à l'accouchement ou à la puerpéralité, sans symptômes psychotiques",
+  "character": "lila"
+ },
+ {
+  "id": "icd_6c40_2",
+  "code": "6C40.2",
+  "label": "Dépendance à l'alcool",
+  "character": "eric"
+ },
+ {
+  "id": "icd_6c41_2",
+  "code": "6C41.2",
+  "label": "Dépendance au cannabis",
+  "character": "nawel"
+ },
+ {
+  "id": "icd_6c4a_2",
+  "code": "6C4A.2",
+  "label": "Dépendance à la nicotine",
+  "character": "martin"
+ },
+ {
+  "id": "icd_6c43_2",
+  "code": "6C43.2",
+  "label": "Dépendance aux opioïdes",
+  "character": "seraphine"
+ }
+]
