@@ -13,3 +13,13 @@ Rapport : `docs/relecture-cartographie-2026-11-15.json` (148 sources existantes 
 | Conséquences mal typées, pages hors sujet | Reformulées en difficultés ; deux retirées ; liens de page retirés quand aucune page ne traite le sujet. |
 | Sécurité et autodiagnostic | Encadré 3114/15/112 quand les idées suicidaires apparaissent ; paliers renommés ; « Trouble étudié » ; rappel « risque moyen, pas votre situation » ; lien vers l’aide en tête. |
 | Mineurs | Liens 6C90 non vérifiés retirés ; Young 2003 ajouté aux liens théoriques ; ressentis qui reprennent la définition d’un schéma exclus de la convergence ; types de sources corrigés ; 116 006 ajouté ; formulaire sans saisie automatique et remis à zéro au retour ; note sur l’absence de coupable ; note cumul unique. |
+
+## Vague 2 (même jour)
+
+Rapport : `docs/relecture-cartographie-v2-2026-11-15.json` (98 références PubMed vérifiées ; 85 liens contrôlés : 76 exacts, 4 forces à revoir, 3 sources inexactes, 2 non soutenus ; 0 bloquant, 11 majeurs, 13 mineurs). Appliqué :
+
+- Causes reformulées pour éviter les doubles comptages : maladie d’un frère ou d’une sœur distincte du parent malade ; séparation sans conflit et séparation conflictuelle exclusives l’une de l’autre ; parent longtemps éloigné distinct de la négligence affective ; punitions corporelles distinctes des violences physiques ; « se sentir seul » ; emprise d’un groupe fermé (et non pratique religieuse ordinaire) ; exemples revus.
+- Liens retirés : se sentir différent → idées suicidaires et dépression (source sur un autre construit), pression scolaire → valeur liée à la réussite, triangulation et parent malade → parentification, harcèlement → troubles alimentaires (double de moqueries sur le corps).
+- Forces et résumés corrigés : isolement dans l’enfance → dépression (limitée), conflits → rôle de sauveur (théorique), conflits → culpabilité (limitée), violences sexuelles → prises de risque, abus physique → honte, triangulation → dépression, adoption, séparation.
+- Non appliqué : suppression de la conséquence « Responsabilités précoces » (laissée, ses liens ambigus sont retirés) ; fusion des doublons de source Fosco 2016 ; source du modèle « fawn » (page inaccessible aux robots, lien gardé en force théorique).
+- Lacunes restantes : dépendance affective, choix de partenaires difficiles et travail compulsif n’ont pas de conséquence propre faute de source lue.

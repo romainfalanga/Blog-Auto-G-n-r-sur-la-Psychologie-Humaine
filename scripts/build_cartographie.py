@@ -213,6 +213,7 @@ def build() -> tuple[dict, list[str]]:
         "outcomes": sorted(({**o, "domain": o.get("domain") or domain_of(o)} for o in outcomes.values() if o["id"] in used_outcomes), key=lambda o: o["label"]),
         "links": [links[k] for k in sorted(links)],
         "protections": protections,
+        "exclusive": json.loads((SRC / "corrections.json").read_text(encoding="utf-8")).get("exclusive_factors", []),
         "notes": notes,
         "sources": sorted((s for s in sources.values() if s["id"] in used_sources), key=lambda s: s["id"]),
     }

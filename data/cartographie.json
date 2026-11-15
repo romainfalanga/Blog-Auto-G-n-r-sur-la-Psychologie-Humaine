@@ -46,7 +46,7 @@
    "label": "Violences physiques",
    "description": "Être frappé, secoué, brûlé ou blessé par un adulte.",
    "examples": [
-    "Coups ou gifles répétés",
+    "Coups violents ou avec un objet",
     "Punitions qui laissaient des marques"
    ],
    "ace": true
@@ -91,7 +91,7 @@
    "description": "Moqueries, exclusion, violences répétées à l'école ou en ligne.",
    "examples": [
     "Être mis à l'écart chaque jour",
-    "Insultes sur le physique ou l'origine"
+    "Insultes ou menaces répétées sur l'origine ou la différence"
    ],
    "ace": false
   },
@@ -166,7 +166,7 @@
    "label": "Séparation conflictuelle ou perte de contact avec un parent",
    "description": "Séparation avec des conflits durables entre les parents, ou un parent que l'on ne voyait plus.",
    "examples": [
-    "Être pris à partie",
+    "Disputes autour de la garde",
     "Ne plus voir un parent"
    ],
    "ace": true
@@ -184,8 +184,8 @@
   {
    "id": "maladie_famille",
    "group": "famille",
-   "label": "Maladie grave dans la famille",
-   "description": "Maladie chronique ou handicap lourd d'un parent, d'un frère ou d'une sœur.",
+   "label": "Maladie grave d'un frère ou d'une sœur",
+   "description": "Maladie chronique ou handicap lourd d'un frère ou d'une sœur. Pour un parent, cochez « Parent gravement malade ».",
    "examples": [
     "S'adapter aux hospitalisations d'un proche"
    ],
@@ -219,7 +219,7 @@
    "label": "Critiques et exigences constantes",
    "description": "Reproches fréquents, rien n'était jamais assez bien.",
    "examples": [
-    "Notes jamais suffisantes",
+    "« Tu aurais pu mieux faire » à chaque fois",
     "Corrections permanentes"
    ],
    "ace": false
@@ -361,8 +361,8 @@
   {
    "id": "ressenti_solitude",
    "group": "ressentis",
-   "label": "Solitude et isolement",
-   "description": "Se sentir seul, différent, sans personne à qui parler.",
+   "label": "Se sentir seul",
+   "description": "Se sentir seul, sans personne à qui parler de ce que l'on vivait.",
    "examples": [],
    "ace": false
   },
@@ -443,11 +443,11 @@
   {
    "id": "parent_absent",
    "group": "famille",
-   "label": "Parent très absent ou indisponible",
-   "description": "Un parent souvent absent (travail, départ, désintérêt) ou présent mais peu disponible.",
+   "label": "Parent longtemps éloigné ou absent",
+   "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un père qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective ».",
    "examples": [
-    "Parent toujours au travail",
-    "Père ou mère parti"
+    "Parent parti travailler dans une autre ville ou un autre pays",
+    "Parent toujours en déplacement"
    ],
    "ace": false
   },
@@ -455,7 +455,7 @@
    "id": "divorce",
    "group": "famille",
    "label": "Séparation des parents sans conflit durable",
-   "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle, cochez plutôt la cause précédente.",
+   "description": "Divorce ou séparation qui s'est passé sans conflits prolongés. Si la séparation a été conflictuelle ou si vous avez perdu le contact avec un parent, choisissez plutôt « Séparation conflictuelle ou perte de contact avec un parent ».",
    "examples": [
     "Garde alternée",
     "Déménagement après la séparation"
@@ -482,7 +482,7 @@
    "id": "adoption",
    "group": "famille",
    "label": "Adoption",
-   "description": "Avoir été adopté, en particulier après des débuts de vie difficiles.",
+   "description": "Avoir été adopté. Les placements ou le séjour en institution avant l'adoption relèvent de « Prise en charge précoce instable ».",
    "examples": [],
    "ace": false
   },
@@ -498,7 +498,7 @@
    "id": "punitions_corporelles",
    "group": "violences",
    "label": "Punitions corporelles « ordinaires »",
-   "description": "Fessées, gifles ou tapes utilisées comme moyen d'éducation.",
+   "description": "Fessées, tapes ou gifles occasionnelles utilisées comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
    "examples": [],
    "ace": false
   },
@@ -513,8 +513,8 @@
   {
    "id": "emprise_religieuse",
    "group": "climat",
-   "label": "Cadre religieux ou idéologique rigide",
-   "description": "Règles strictes, peur de la punition divine, isolement d'un groupe fermé.",
+   "label": "Emprise d'un groupe religieux ou idéologique fermé",
+   "description": "Un groupe qui contrôlait la vie de la famille : obéissance imposée par la peur, punitions, coupure avec l'extérieur. Une pratique religieuse en elle-même n'en fait pas partie.",
    "examples": [],
    "ace": false
   },
@@ -570,7 +570,7 @@
    "id": "moqueries_corps",
    "group": "contexte",
    "label": "Moqueries sur le corps ou l'apparence",
-   "description": "Remarques répétées sur le poids, le physique ou la puberté, à la maison ou à l'école.",
+   "description": "Remarques répétées sur le poids, le physique ou la puberté, à la maison ou à l'école. Si ces moqueries faisaient partie d'un harcèlement plus large (exclusion, violences), cochez aussi « Harcèlement ».",
    "examples": [],
    "ace": false
   },
@@ -777,16 +777,14 @@
    "id": "ten_souffrance_enfance",
    "kind": "tendance",
    "label": "Difficultés émotionnelles ou de comportement dans l'enfance",
-   "description": "Anxiété, tristesse, agitation ou opposition repérées pendant l'enfance ou l'adolescence.",
-   "url": null,
+   "description": "Tristesse, anxiété ou difficultés d'adaptation pendant l'enfance ; l'opposition et l'agressivité sont comptées à part.",
    "domain": "soi"
   },
   {
    "id": "ten_douleurs_persistantes",
    "kind": "tendance",
    "label": "Douleurs persistantes et maux physiques à répétition",
-   "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ».",
-   "url": null,
+   "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ». Quand de nombreux symptômes envahissent la vie quotidienne, voir aussi le trouble de détresse physique.",
    "domain": "comportements"
   },
   {
@@ -1712,7 +1710,7 @@
    "factor": "abus_physique",
    "outcome": "sch_imperfection",
    "strength": "moderee",
-   "summary": "Une méta-analyse de soixante-deux études montre que les violences subies dans l'enfance sont associées à un sentiment de honte plus marqué, de façon modérée ; le lien est plus fort pour les violences psychologiques.",
+   "summary": "Une méta-analyse de soixante-deux études montre que les violences subies dans l'enfance sont associées à un sentiment de honte plus marqué ; pour les violences physiques le lien est modeste, et il est plus fort pour les violences psychologiques.",
    "sources": [
     "meng2026"
    ]
@@ -2096,7 +2094,7 @@
    "factor": "abus_sexuel",
    "outcome": "ten_risques_sexuels",
    "strength": "moderee",
-   "summary": "Les violences sexuelles dans l'enfance sont associées, avec un effet faible, à plus de prises de risque sexuelles et à un risque plus élevé de nouvelles violences à l'âge adulte.",
+   "summary": "Chez les femmes, les violences sexuelles dans l'enfance sont associées, avec un effet faible, à davantage de rapports non protégés et de partenaires multiples à l'âge adulte. Ces conduites peuvent être une façon de faire face, et la responsabilité des violences revient à l'auteur.",
    "sources": [
     "arriola2005"
    ]
@@ -2183,10 +2181,9 @@
    "factor": "adoption",
    "outcome": "ten_souffrance_enfance",
    "strength": "moderee",
-   "summary": "Des méta-analyses trouvent un peu plus de difficultés de comportement chez les enfants adoptés et un recours plus fréquent aux consultations ; la plupart vont bien. Les difficultés sont plus marquées après des débuts de vie très carencés.",
+   "summary": "Des méta-analyses trouvent un recours un peu plus fréquent aux consultations chez les enfants adoptés ; la plupart vont bien, et les difficultés sont plus marquées après des débuts de vie très carencés.",
    "sources": [
     "juffer2005",
-    "askeland2017",
     "vanijzendoorn2006"
    ]
   },
@@ -2221,7 +2218,7 @@
    "factor": "amour_conditionnel",
    "outcome": "pat_overresponsibility",
    "strength": "theorique",
-   "summary": "Le modèle des schémas relie une affection qui dépend de ce que l'on fait pour les autres à une attention excessive à leurs besoins, aux dépens des siens.",
+   "summary": "Le modèle des schémas relie une affection qui semblait dépendre de ce que l'on faisait ou réussissait à une attention excessive aux besoins des autres, aux dépens des siens.",
    "sources": [
     "carlucci2018",
     "young2003"
@@ -2338,8 +2335,8 @@
   {
    "factor": "conflits_parents",
    "outcome": "pat_guilt",
-   "strength": "theorique",
-   "summary": "Le modèle cognitif-contextuel de Grych et Fincham souligne que beaucoup d'enfants se croient responsables des disputes de leurs parents ; ce sentiment de faute est l'un des chemins qui relient le conflit aux difficultés.",
+   "strength": "limitee",
+   "summary": "Les adolescents exposés à des disputes fréquentes entre leurs parents s'attribuent plus souvent une part de responsabilité dans ces conflits ; une relation soutenante avec un parent diminue ce sentiment.",
    "sources": [
     "fosco2016_profils",
     "grych1990",
@@ -2350,8 +2347,8 @@
   {
    "factor": "conflits_parents",
    "outcome": "pat_overresponsibility",
-   "strength": "limitee",
-   "summary": "Chez des adolescents dont les parents se disputent souvent, on observe plus fréquemment un rôle de soutien moral envers un parent et une tendance à intervenir dans les disputes. Ce rôle de soignant précoce est rapproché de ce que l'on appelle le rôle de sauveur.",
+   "strength": "theorique",
+   "summary": "Chez des adolescents dont les parents se disputent souvent, on observe plus souvent un rôle de soutien moral envers un parent et une tendance à intervenir dans les disputes. Que ce rôle se prolonge en « rôle de sauveur » à l'âge adulte reste une hypothèse clinique.",
    "sources": [
     "peris2008"
    ]
@@ -3166,15 +3163,6 @@
   },
   {
    "factor": "harcelement",
-   "outcome": "icd_6b81",
-   "strength": "limitee",
-   "summary": "Les moqueries et le harcèlement, notamment sur le poids, sont associés à une image du corps plus négative et à des comportements alimentaires perturbés, de façon plus nette dans les études ponctuelles que dans les suivis longs.",
-   "sources": [
-    "day2022"
-   ]
-  },
-  {
-   "factor": "harcelement",
    "outcome": "pat_social_isolation",
    "strength": "moderee",
    "summary": "À 50 ans, les personnes harcelées enfants avaient en moyenne moins de relations sociales et une qualité de vie perçue plus faible.",
@@ -3407,10 +3395,9 @@
   {
    "factor": "isolement_social_enfant",
    "outcome": "dep_generale",
-   "strength": "moderee",
-   "summary": "Une revue de 63 études relie l'isolement et la solitude des enfants à un risque plus élevé de dépression, jusqu'à plusieurs années après. Dans une cohorte suivie jusqu'à la quarantaine, c'est surtout l'isolement qui persiste de l'enfance à l'âge adulte qui est associé à la dépression.",
+   "strength": "limitee",
+   "summary": "Dans une cohorte suivie jusqu'à la quarantaine, c'est l'isolement qui se prolonge de l'enfance à l'âge adulte qui est associé à la dépression ; l'isolement limité à l'enfance ne l'était pas. Beaucoup d'enfants isolés en sortent.",
    "sources": [
-    "loades2020",
     "layyee2023",
     "matthews2016"
    ]
@@ -3533,9 +3520,8 @@
    "factor": "maladie_famille",
    "outcome": "ten_souffrance_enfance",
    "strength": "moderee",
-   "summary": "Les enfants d'un parent atteint d'une maladie chronique, et les frères et sœurs d'un enfant malade, ont en moyenne un peu plus de difficultés émotionnelles, avec des effets modestes.",
+   "summary": "Les frères et sœurs d'un enfant atteint d'une maladie chronique ont en moyenne un peu plus de difficultés émotionnelles, avec des effets modestes.",
    "sources": [
-    "sieh2010",
     "sharpe2002"
    ]
   },
@@ -4145,15 +4131,6 @@
   },
   {
    "factor": "parent_malade_physique",
-   "outcome": "pat_parentification",
-   "strength": "limitee",
-   "summary": "Les jeunes qui aident un parent malade au quotidien ont en moyenne une moins bonne santé mentale et physique, selon des études presque toutes transversales.",
-   "sources": [
-    "lacey2022"
-   ]
-  },
-  {
-   "factor": "parent_malade_physique",
    "outcome": "ten_codependance",
    "strength": "limitee",
    "summary": "La même étude trouvait des scores de codépendance plus élevés chez les étudiants ayant eu un parent gravement malade, ce qui suggère que divers stress familiaux chroniques, et pas seulement l'alcool, comptent. Les mesures de codépendance restent fragiles.",
@@ -4461,15 +4438,6 @@
    "summary": "Une revue de 52 études relie la pression scolaire à plus de symptômes dépressifs chez les adolescents ; la plupart des études sont transversales, ce qui ne permet pas d'établir le sens du lien.",
    "sources": [
     "steare2023"
-   ]
-  },
-  {
-   "factor": "pression_scolaire",
-   "outcome": "pat_conditional_worth",
-   "strength": "limitee",
-   "summary": "Des études sur l'estime conditionnelle montrent que, quand l'approbation des parents dépend des notes, les adolescents s'investissent davantage par contrainte intérieure que par intérêt.",
-   "sources": [
-    "roth2009"
    ]
   },
   {
@@ -4947,15 +4915,6 @@
   },
   {
    "factor": "se_sentir_different",
-   "outcome": "dep_generale",
-   "strength": "limitee",
-   "summary": "Dans une grande étude américaine suivie jusqu'à l'âge adulte, les adolescents qui se sentaient peu reliés à leur école ou à leur famille rapportaient plus tard davantage de détresse émotionnelle.",
-   "sources": [
-    "steiner2019"
-   ]
-  },
-  {
-   "factor": "se_sentir_different",
    "outcome": "pat_social_isolation",
    "strength": "theorique",
    "summary": "Se sentir à part peut pousser à se tenir en retrait des groupes, ce qui entretient l'isolement ; ce lien repose sur des modèles cliniques.",
@@ -4972,15 +4931,6 @@
     "young_schemas"
    ],
    "definitional": true
-  },
-  {
-   "factor": "se_sentir_different",
-   "outcome": "ten_conduites_suicidaires",
-   "strength": "limitee",
-   "summary": "Un faible sentiment d'appartenance à l'école à l'adolescence est associé, dans une grande cohorte, à plus d'idées suicidaires à l'âge adulte.",
-   "sources": [
-    "steiner2019"
-   ]
   },
   {
    "factor": "secret_famille",
@@ -5033,9 +4983,8 @@
    "factor": "separation_conflit",
    "outcome": "ten_souffrance_enfance",
    "strength": "moderee",
-   "summary": "Les conflits hostiles ou non résolus entre parents sont associés à plus de difficultés émotionnelles et de comportement chez l'enfant, et ces liens persistent dans le temps.",
+   "summary": "En moyenne, les enfants dont les parents se sont séparés ont un peu plus de difficultés émotionnelles, de comportement et de relations ; les écarts sont modestes. Les disputes elles-mêmes relèvent de la cause « Disputes fréquentes entre les parents ».",
    "sources": [
-    "vaneldik2020",
     "amato2001"
    ]
   },
@@ -5330,7 +5279,7 @@
    "factor": "triangulation",
    "outcome": "dep_generale",
    "strength": "moderee",
-   "summary": "Être pris à partie dans les conflits des parents est associé, dans des études suivies sur plusieurs années, à une hausse des symptômes dépressifs ou anxieux à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant.",
+   "summary": "Être pris à partie dans les conflits des parents est associé, dans une étude suivie sur quatre ans et dans d'autres travaux, à une hausse des difficultés anxieuses et dépressives à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant.",
    "sources": [
     "buehler2009",
     "franck2007",
@@ -5368,16 +5317,6 @@
     "peris2008",
     "wang2024_triangulation",
     "wang2026_bowen"
-   ]
-  },
-  {
-   "factor": "triangulation",
-   "outcome": "pat_parentification",
-   "strength": "limitee",
-   "summary": "Servir de confident ou de soutien à un parent pendant ses conflits fait partie des formes de prise à partie décrites par les chercheurs ; elle peut amener l'enfant à porter des responsabilités d'adulte.",
-   "sources": [
-    "wang2024_triangulation",
-    "vandijk2020"
    ]
   },
   {
@@ -5519,6 +5458,12 @@
     "fritz2018"
    ]
   }
+ ],
+ "exclusive": [
+  [
+   "divorce",
+   "separation_conflit"
+  ]
  ],
  "notes": {
   "neurodeveloppement": {
