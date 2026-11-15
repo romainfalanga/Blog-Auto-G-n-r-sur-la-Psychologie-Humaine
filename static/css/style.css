@@ -749,7 +749,10 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .carto-strength-forte { background: #FCE9DF; border-color: #F3C3AA; }
 .carto-strength-moderee { background: var(--color-accent-light); }
 .carto-summary { display: block; line-height: 1.45; margin-top: .15rem; }
-.carto-sources { display: block; font-size: .78rem; color: var(--color-text-light); margin-top: .15rem; }
+.carto-sources { font-size: .78rem; color: var(--color-text-light); margin-top: .25rem; }
+.carto-sources summary { cursor: pointer; color: var(--color-accent); }
+.carto-sources ul { padding-left: 1rem; margin-top: .3rem; display: flex; flex-direction: column; gap: .25rem; }
+.carto-links { padding-left: 0; }
 .carto-sources a { color: inherit; }
 .carto-read { margin-top: auto; font-weight: 600; color: var(--color-accent); }
 .carto-protections, .carto-notes, .carto-help, .carto-sources-list { max-width: 860px; margin-top: var(--spacing-md); line-height: 1.6; }

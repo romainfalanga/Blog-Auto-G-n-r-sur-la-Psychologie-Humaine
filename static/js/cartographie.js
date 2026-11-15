@@ -109,11 +109,12 @@
       var list = el('ul', { className: 'carto-links' });
       result.links.forEach(function (l) {
         var src = (l.sources || []).map(function (id) { return sourcesById[id]; }).filter(Boolean);
-        var srcList = el('span', { className: 'carto-sources' });
-        src.forEach(function (s, i) {
-          if (i) srcList.appendChild(document.createTextNode(' · '));
-          srcList.appendChild(el('a', { href: s.url, rel: 'noopener', target: '_blank', text: s.citation }));
+        var srcList = el('details', { className: 'carto-sources' }, [el('summary', { text: 'Sources (' + src.length + ')' })]);
+        var srcItems = el('ul');
+        src.forEach(function (s) {
+          srcItems.appendChild(el('li', {}, [el('a', { href: s.url, rel: 'noopener', target: '_blank', text: s.citation })]));
         });
+        srcList.appendChild(srcItems);
         list.appendChild(el('li', {}, [
           el('span', { className: 'carto-from' }, [
             el('strong', { text: factorsById[l.factor].label }),
