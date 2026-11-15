@@ -1,0 +1,217 @@
+{
+ "_doc": "Corrections du pilote après la relecture indépendante docs/relecture-cartographie-2026-11-15.json. Appliquées par scripts/build_cartographie.py après la fusion des fragments.",
+ "aliases": {
+  "icd_6a71": "dep_generale",
+  "icd_6a70": "dep_generale",
+  "ten_symptomes_depressifs": "dep_generale",
+  "icd_6b00": "anx_generale",
+  "ten_symptomes_anxieux": "anx_generale",
+  "ten_suicide_automutilation": "ten_conduites_suicidaires",
+  "ten_substances": "ten_usage_substances",
+  "ten_alcool_adolescence": "ten_usage_substances",
+  "pat_emotional_identification": "ten_alexithymie",
+  "ten_regulation_emotionnelle": "ten_dysregulation_emotionnelle",
+  "icd_6d10": "icd_6d11_5",
+  "ten_comportements_antisociaux": "ten_externalisation",
+  "icd_6c90": "ten_externalisation",
+  "ten_image_corps": "icd_6b81"
+ },
+ "outcome_overrides": {
+  "dep_generale": {
+   "id": "dep_generale",
+   "kind": "trouble",
+   "label": "Dépression ou symptômes dépressifs",
+   "description": "Symptômes dépressifs durables ou épisodes dépressifs (CIM-11 6A70–6A71) : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
+   "url": "/personnages/louise/"
+  },
+  "anx_generale": {
+   "id": "anx_generale",
+   "kind": "trouble",
+   "label": "Anxiété ou troubles anxieux",
+   "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée (CIM-11 6B00).",
+   "url": "/personnages/antonin/"
+  },
+  "ten_conduites_suicidaires": {
+   "label": "Idées suicidaires, tentatives ou automutilations",
+   "note": "suicide"
+  },
+  "ten_usage_substances": {
+   "label": "Usage problématique d’alcool, de tabac ou de drogues",
+   "url": "/personnages/eric/"
+  },
+  "ten_alexithymie": {
+   "label": "Difficulté à identifier et exprimer ses émotions (alexithymie)"
+  },
+  "ten_dysregulation_emotionnelle": {
+   "label": "Difficultés à réguler ses émotions"
+  },
+  "icd_6d11_5": {
+   "label": "Trouble de la personnalité avec motif borderline",
+   "code": "6D11.5"
+  },
+  "ten_externalisation": {
+   "label": "Comportements d’opposition, d’agressivité ou antisociaux",
+   "description": "Opposition, colères, agressivité ou conduites antisociales, observées dans l’enfance, l’adolescence ou plus tard ; elles relèvent parfois d’un trouble oppositionnel avec provocation (CIM-11 6C90).",
+   "kind": "tendance",
+   "code": null
+  },
+  "icd_6b81": {
+   "label": "Troubles des conduites alimentaires",
+   "description": "Boulimie, crises alimentaires, restrictions ou préoccupations envahissantes pour le poids et l’image du corps.",
+   "code": "6B80–6B82"
+  },
+  "icd_6a20": {
+   "label": "Troubles psychotiques (dont la schizophrénie)",
+   "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic."
+  },
+  "icd_6b44": {
+   "note": "jeune_enfant"
+  },
+  "icd_6b45": {
+   "note": "jeune_enfant"
+  },
+  "pat_migration_adjustment": {
+   "label": "Stress lié à l’adaptation après une migration",
+   "description": "Difficultés à trouver sa place, à cumuler deux cultures ou à refaire un réseau après un changement de pays."
+  },
+  "pat_conflict": {
+   "label": "Difficulté à vivre les désaccords",
+   "description": "Éviter, redouter ou vivre comme une menace le moindre désaccord avec un proche."
+  },
+  "pat_needs_expression": {
+   "label": "Difficulté à reconnaître et exprimer ses besoins",
+   "description": "Mal percevoir ce dont on a besoin, ou ne pas oser le demander.",
+   "url": null
+  },
+  "pat_social_isolation": {
+   "label": "Isolement social subi",
+   "description": "Moins de liens et de soutien que ce que l’on souhaiterait."
+  },
+  "ten_violences_couple": {
+   "url": null
+  },
+  "pat_conditional_worth": {
+   "url": null
+  },
+  "ten_qualite_relationnelle": {
+   "url": null
+  },
+  "ten_estime_soi": {
+   "url": null
+  },
+  "pat_abandonment_fear": {
+   "url": null
+  }
+ },
+ "remove_outcomes": [
+  "pat_identity_transition",
+  "pat_disclosure_choice"
+ ],
+ "link_overrides": [
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6b01",
+   "strength": "limitee"
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6a72",
+   "strength": "limitee"
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "dep_generale",
+   "strength": "limitee"
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "dep_generale",
+   "strength": "limitee"
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "icd_6a72",
+   "strength": "limitee"
+  },
+  {
+   "factor": "parentification",
+   "outcome": "dep_generale",
+   "strength": "limitee"
+  },
+  {
+   "factor": "parentification",
+   "outcome": "anx_generale",
+   "strength": "limitee"
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6a20",
+   "strength": "limitee"
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_externalisation",
+   "remove": true,
+   "reason": "Attribution au CDDR non vérifiée (formulation du DSM-5)."
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "ten_externalisation",
+   "remove": true,
+   "reason": "Attribution au CDDR non vérifiée (formulation du DSM-5)."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b40",
+   "sources": [
+    "oms_cddr",
+    "alisic2014"
+   ],
+   "strength": "moderee",
+   "summary": "La CIM-11 retient les violences physiques comme événement pouvant précéder un stress post-traumatique ; chez les enfants exposés à un traumatisme, les violences interpersonnelles sont associées à un risque plus élevé de stress post-traumatique."
+  }
+ ],
+ "retarget": [
+  {
+   "from": "migration",
+   "to": "exil",
+   "outcomes": [
+    "icd_6b40",
+    "icd_6b41",
+    "dep_generale",
+    "anx_generale",
+    "icd_6b42"
+   ]
+  }
+ ],
+ "source_overrides": {
+  "loades2020": {
+   "type": "revue"
+  },
+  "fazel2012": {
+   "type": "revue"
+  },
+  "lacey2022": {
+   "type": "revue"
+  },
+  "walker2019": {
+   "type": "etude"
+  }
+ },
+ "add_sources": [
+  {
+   "id": "young2003",
+   "citation": "Young JE, Klosko JS, Weishaar ME, 2003, Schema Therapy: A Practitioner's Guide, Guilford Press",
+   "url": "https://www.guilford.com/books/Schema-Therapy/Young-Klosko-Weishaar/9781593853723",
+   "type": "theorie",
+   "read": "présentation de l’éditeur ; origines familiales des schémas reprises via Carlucci 2018"
+  }
+ ],
+ "add_source_where": {
+  "carlucci2018": "young2003"
+ },
+ "definitional_prefix": {
+  "factor": "ressenti_",
+  "outcome": "sch_"
+ }
+}

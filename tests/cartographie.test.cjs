@@ -68,3 +68,21 @@ test('published dataset is consistent', () => {
   const all = compute(data, data.factors.map(f => f.id));
   assert.ok(all.results.length === outcomes.size);
 });
+
+test('definitional feelings do not create a convergence on their own', () => {
+  const data = {
+    factors: [{ id: 'r', ace: false }, { id: 's', ace: false }],
+    outcomes: [{ id: 'sch', label: 'Schéma', kind: 'schema' }],
+    links: [
+      { factor: 'r', outcome: 'sch', strength: 'moderee', definitional: true },
+      { factor: 's', outcome: 'sch', strength: 'theorique' }
+    ]
+  };
+  const r = compute(data, ['r', 's']);
+  assert.notStrictEqual(r.results[0].tier, 'convergence');
+});
+
+test('a classification criterion is a lead, not proof of a disorder', () => {
+  const data = { factors: [{ id: 'a' }], outcomes: [{ id: 'o', label: 'O', kind: 'trouble' }], links: [{ factor: 'a', outcome: 'o', strength: 'critere' }] };
+  assert.strictEqual(compute(data, ['a']).results[0].tier, 'piste');
+});

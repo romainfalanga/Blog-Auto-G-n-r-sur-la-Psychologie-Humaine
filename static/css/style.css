@@ -763,3 +763,6 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
   .carto-layout { grid-template-columns: 1fr; }
   .carto-form-col { position: static; max-height: none; }
 }
+
+.carto-caution { font-size: .82rem; color: var(--color-text-light); background: var(--color-bg); border-radius: var(--radius); padding: .45rem .6rem; }
+.carto-note-urgent { padding: .9rem 1.1rem; background: #FDECEA; border: 1px solid #F3B7AE; border-radius: var(--radius); margin-bottom: 1rem; line-height: 1.5; }

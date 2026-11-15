@@ -1,0 +1,605 @@
+{
+ "reviewer": "relecture_cartographie",
+ "date": "2026-11-15",
+ "verified_links": [
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "dep_generale",
+   "source": "norman2012, nelson2017, lemoult2020",
+   "verdict": "ok",
+   "note": "Norman 2012 : OR 3,06 violences émotionnelles/troubles dépressifs ; Nelson 2017 : maltraitance émotionnelle la plus liée à la sévérité ; LeMoult 2020 : abus émotionnel fortement associé à la dépression avant 18 ans. PMID/DOI conformes."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "norman2012, angelakis2019, angelakis2020",
+   "verdict": "ok",
+   "note": "Angelakis 2019 : OR 2,49 tentatives (adultes) ; Angelakis 2020 : OR 2,21 (jeunes) ; Norman : OR 3,37. Force forte justifiée."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "dep_generale",
+   "source": "norman2012, li2016, nelson2017",
+   "verdict": "ok",
+   "note": "Norman OR 1,54 ; Li 2016 (cohortes prospectives) OR 2,00 abus physique → dépression/anxiété. Li 2016 est daté 2015 en ligne (mineur)."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b40",
+   "source": "oms_cddr",
+   "verdict": "force_a_revoir",
+   "note": "Le CDDR définit l'événement-critère mais ne mesure aucun risque ; la seconde proposition « associées à un risque plus élevé de stress post-traumatique » n'est soutenue par aucune source citée. Ajouter une méta-analyse (ex. Alisic 2014, trauma interpersonnel) ou supprimer la proposition ; afficher la force comme « critère de diagnostic »."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b41",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Le CDDR 6B41 cite bien « repeated childhood sexual or physical abuse » parmi les événements prolongés les plus fréquents."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "norman2012, angelakis2019, angelakis2020",
+   "verdict": "ok",
+   "note": "OR 2,52 (adultes), 2,18 (jeunes), 3,40 (Norman)."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "anx_generale",
+   "source": "chen2010, hailes2019, li2016",
+   "verdict": "ok",
+   "note": "Chen 2010 OR 3,09 ; Li 2016 prospectif. Nuance : Hailes 2019 juge de faible qualité les méta-analyses sur l'anxiété ; forte reste défendable grâce à Chen et Li."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "dep_generale",
+   "source": "chen2010, hailes2019, li2016",
+   "verdict": "ok",
+   "note": "Chen OR 2,66 ; Hailes OR 2,7 ; Li 2016 OR 2,66 (abus sexuel → dépression/anxiété)."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b40",
+   "source": "oms_cddr, chen2010, hailes2019",
+   "verdict": "ok",
+   "note": "Chen OR 2,34 TSPT ; Hailes : revue TSPT de haute qualité. Conforme."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b41",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Conforme au CDDR 6B41."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "chen2010, angelakis2019, angelakis2020",
+   "verdict": "ok",
+   "note": "Chen OR 4,14 tentatives ; Angelakis OR 3,17 / 3,41."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6b42",
+   "source": "oms_cddr",
+   "verdict": "force_a_revoir",
+   "note": "Exact comme critère (le décès est requis), mais affiché « Preuves solides » sans aucune donnée de risque : un lecteur endeuillé lira qu'un deuil mène solidement à un trouble. Créer une force « critere » affichée « Condition requise par la classification » ou passer en moderee avec une source épidémiologique."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "anx_generale",
+   "source": "moore2017, copeland2013, takizawa2014",
+   "verdict": "ok",
+   "note": "Moore 2017 : preuve la plus forte pour dépression, anxiété, idées suicidaires (critères de Bradford Hill) ; Copeland 2013 : victimes OR 2,7 anxiété généralisée après contrôle ; Takizawa OR 1,65."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "dep_generale",
+   "source": "moore2017, takizawa2014, lereya2015, mckay2022",
+   "verdict": "ok",
+   "note": "Soutenu. Nuance : dans Copeland 2013 la dépression adulte n'est accrue que chez les victimes-auteurs, pas chez les victimes seules (Copeland non cité ici, correct)."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_suicide_automutilation",
+   "source": "moore2017, takizawa2014, fisher2012",
+   "verdict": "ok",
+   "note": "Fisher 2012 : RR 1,92–2,44 automutilation à 12 ans ; Takizawa OR 2,21 suicidalité. Contenu exact mais identifiant en doublon de ten_conduites_suicidaires (voir findings)."
+  },
+  {
+   "factor": "migration",
+   "outcome": "icd_6a20",
+   "source": "selten2020, bourque2011, hollander2016",
+   "verdict": "ok",
+   "note": "Selten 2020 RR 2,13 ; Bourque 2011 IRR 2,1–2,3 ; Hollander 2016 HR 2,9 réfugiés. Forte justifiée ; ajouter que ces travaux pointent l'exclusion sociale et la discrimination (Selten) plutôt que la migration elle-même."
+  },
+  {
+   "factor": "migration",
+   "outcome": "icd_6b40",
+   "source": "fazel2005, blackmore2020, charlson2019, fazel2012",
+   "verdict": "force_a_revoir",
+   "note": "Sources exactes mais portent sur réfugiés et zones de conflit (Blackmore : 8 études, 779 enfants, hétérogénéité forte). Le facteur coché inclut aussi « quitter son pays » sans exil forcé : forte est surestimée pour une migration ordinaire. Scinder le facteur (exil forcé/guerre vs migration) ou restreindre son libellé."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "dep_generale",
+   "source": "norman2012, nelson2017",
+   "verdict": "ok",
+   "note": "Norman OR 2,11 (négligence globale) ; Nelson : négligence émotionnelle liée aux formes sévères/chroniques."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6b44",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Conforme au critère CDDR (soins gravement insuffisants). Problème d'affichage pour un adulte : voir findings (diagnostic du jeune enfant)."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6b45",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Idem 6B44."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6b44",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Idem ; le critère vise une négligence grave, plus extrême que les exemples du facteur (« repas souvent absents »)."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6b45",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Idem."
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "att_desorganise",
+   "source": "vanijzendoorn2020",
+   "verdict": "ok",
+   "note": "Van IJzendoorn 2020 (Lancet Psychiatry) : retards et attachement désorganisé fréquents en institution. Conforme."
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "icd_6b44",
+   "source": "oms_cddr, vanijzendoorn2020",
+   "verdict": "ok",
+   "note": "Conforme."
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "icd_6b45",
+   "source": "oms_cddr, vanijzendoorn2020",
+   "verdict": "ok",
+   "note": "Conforme ; la mention « risque plus élevé avant deux ans » n'a pas pu être vérifiée dans le CDDR, à sourcer précisément (ERA, Sonuga-Barke 2017) ou retirer."
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "icd_6b40",
+   "source": "oms_cddr",
+   "verdict": "ok",
+   "note": "Le CDDR inclut le fait d'être témoin de menaces de mort ou de blessures graves."
+  },
+  {
+   "factor": "traumatisme_ponctuel",
+   "outcome": "icd_6b40",
+   "source": "cim11_cddr_stress, alisic2014, hiller2016",
+   "verdict": "ok",
+   "note": "Alisic 2014 : 15,9 % des enfants exposés développent un TSPT ; Hiller 2016 : prévalence divisée par deux entre 1 et 6 mois. Résumé fidèle."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6a20",
+   "source": "vandam2012, cunningham2016",
+   "verdict": "force_a_revoir",
+   "note": "Van Dam 2012 : association nette avec des symptômes psychotiques non cliniques, résultats cliniques « mixed ». Le résumé le dit, mais l'issue affichée est « Schizophrénie » avec force modérée : passer en limitee ou créer une issue « expériences psychotiques atténuées »."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b01",
+   "source": "copeland2013",
+   "verdict": "ok",
+   "note": "Victimes OR 3,1 trouble panique ; victimes-auteurs OR 14,5. Fidèle."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b02",
+   "source": "copeland2013",
+   "verdict": "ok",
+   "note": "Victimes OR 4,6 agoraphobie après contrôle. Fidèle, une seule cohorte (signalé)."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "pat_social_isolation",
+   "source": "takizawa2014",
+   "verdict": "ok",
+   "note": "« Lack of social relationships » à 50 ans. Fidèle."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_image_corps",
+   "source": "day2022",
+   "verdict": "ok",
+   "note": "Revue : association plus nette en transversal qu'en longitudinal. Fidèle."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_substances",
+   "source": "moore2017",
+   "verdict": "ok",
+   "note": "Moore : association causale « probable » pour tabac et drogues illicites. Fidèle, mais identifiant en doublon."
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6b01",
+   "source": "kidd2022",
+   "verdict": "force_a_revoir",
+   "note": "Kidd 2022 : toutes les études sont cas-témoins rétrospectives (« causal relationships cannot be drawn »). Selon le barème du plan, c'est « limitee », pas « moderee »."
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6a72",
+   "source": "kidd2022",
+   "verdict": "force_a_revoir",
+   "note": "Même raison : passer en limitee."
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "dep_generale",
+   "source": "kidd2022",
+   "verdict": "force_a_revoir",
+   "note": "Même raison : passer en limitee (le résumé reconnaît déjà le caractère rétrospectif)."
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "dep_generale",
+   "source": "kidd2022",
+   "verdict": "force_a_revoir",
+   "note": "Cas-témoins rétrospectifs : limitee."
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "icd_6a72",
+   "source": "kidd2022",
+   "verdict": "force_a_revoir",
+   "note": "Cas-témoins rétrospectifs : limitee."
+  },
+  {
+   "factor": "parentification",
+   "outcome": "dep_generale",
+   "source": "hooper2011, gavcar2026",
+   "verdict": "force_a_revoir",
+   "note": "Hooper 2011 : méta-analyse d'études transversales rétrospectives ; Gavcar 2026 : étudiants turcs, r = 0,094. Ni longitudinal ni effet notable : limitee."
+  },
+  {
+   "factor": "parentification",
+   "outcome": "anx_generale",
+   "source": "hooper2011, gavcar2026",
+   "verdict": "force_a_revoir",
+   "note": "Même raison (r = 0,18 transversal) : limitee."
+  },
+  {
+   "factor": "parent_incarcere",
+   "outcome": "ten_comportements_antisociaux",
+   "source": "murray2012",
+   "verdict": "ok",
+   "note": "Murray 2012 : OR 1,4 (environ +10 %) dans les études contrôlées, pas d'effet sur santé mentale ni drogues. Fidèle."
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "anx_generale",
+   "source": "auersperg2019",
+   "verdict": "ok",
+   "note": "OR 1,12, faible. Fidèle."
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "auersperg2019",
+   "verdict": "ok",
+   "note": "OR 1,35 tentatives, 1,48 idées. Fidèle."
+  },
+  {
+   "factor": "separation_conflit",
+   "outcome": "ten_usage_substances",
+   "source": "auersperg2019",
+   "verdict": "ok",
+   "note": "OR alcool 1,43, tabac 1,64, drogues 1,45. Fidèle ; le facteur mélange divorce et conflit, la méta-analyse porte sur le divorce seul."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "dep_generale",
+   "source": "simbi2020, burrell2022",
+   "verdict": "ok",
+   "note": "Simbi : 9 cas-témoins, OR 1,76 décès ; Burrell : cohorte norvégienne (causes externes). Moderee acceptable grâce à la cohorte."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "ten_conduites_suicidaires",
+   "source": "guldin2015",
+   "verdict": "ok",
+   "note": "Cohorte de registres sur 3 pays, 40 ans de suivi, risque accru toutes causes. Fidèle."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_revictimisation",
+   "source": "walker2019",
+   "verdict": "ok",
+   "note": "Walker : prévalence moyenne de revictimisation 47,9 %, sans groupe de comparaison ; « plus exposées » reste conforme à la littérature citée par les auteurs. Bonne mention de la responsabilité de l'agresseur."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6a20",
+   "source": "hailes2019, varese2012, chen2010",
+   "verdict": "ok",
+   "note": "Chen : pas d'association ; Hailes : revue de haute qualité, associée. Le résumé signale la controverse."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6a60",
+   "source": "palmierclaus2016",
+   "verdict": "ok",
+   "note": "OR 4,04 abus émotionnel, similaire aux autres groupes psychiatriques. Fidèle."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6d10",
+   "source": "porter2020, xiao2023",
+   "verdict": "ok",
+   "note": "Porter 2020 : abus émotionnel OR 38 en cas-témoins, bien plus faible en épidémiologique. Fidèle, mais l'issue porte sur le trouble borderline et doit rejoindre icd_6d11_5."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "pat_emotional_identification",
+   "source": "ditzer2023",
+   "verdict": "ok",
+   "note": "Ditzer : négligence émotionnelle r = 0,21, la plus forte. Fidèle ; identifiant en doublon de ten_alexithymie."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "pat_emotional_identification",
+   "source": "ditzer2023",
+   "verdict": "ok",
+   "note": "Négligence physique r = 0,18 parmi les plus fortes. Fidèle."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "att_desorganise",
+   "source": "cyr2010",
+   "verdict": "ok",
+   "note": "Enfants maltraités d = 2,19 désorganisation. Fidèle."
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "att_desorganise",
+   "source": "martins2000",
+   "verdict": "ok",
+   "note": "Désorganisation de 17 % à 28 %, secure réduit. Fidèle."
+  },
+  {
+   "factor": "precarite",
+   "outcome": "att_desorganise",
+   "source": "cyr2010",
+   "verdict": "ok",
+   "note": "Cinq risques socio-économiques cumulés : désorganisation proche de la maltraitance. Fidèle ; préciser « cumul de plusieurs difficultés »."
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_souffrance_enfance",
+   "source": "kitzmann2003, vaneldik2020",
+   "verdict": "ok",
+   "note": "Kitzmann : témoins non différents des enfants frappés. Fidèle."
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_violences_couple",
+   "source": "wadji2025",
+   "verdict": "ok",
+   "note": "OR 1,76–3,04 en Afrique ; la mention des données occidentales vient de l'introduction des auteurs, sans source citée ici."
+  },
+  {
+   "factor": "maladie_enfant",
+   "outcome": "dep_generale",
+   "source": "secinti2017, pinquart_dep2011",
+   "verdict": "ok",
+   "note": "Secinti : OR 1,31 dépression adulte. Fidèle."
+  },
+  {
+   "factor": "discrimination",
+   "outcome": "dep_generale",
+   "source": "paradies2015, schmitt2014, benner2018, priest2013",
+   "verdict": "ok",
+   "note": "Schmitt r = -0,23, plus fort chez l'enfant ; Benner : symptômes dépressifs. Fidèle."
+  },
+  {
+   "factor": "discrimination",
+   "outcome": "ten_substances",
+   "source": "benner2018, meyer2003",
+   "verdict": "ok",
+   "note": "Benner : usage de substances accru. Fidèle."
+  },
+  {
+   "factor": "controle",
+   "outcome": "icd_6b04",
+   "source": "zeng2026",
+   "verdict": "ok",
+   "note": "Méta-analyse à trois niveaux, corrélation positive surtout avec la peur du jugement. Fidèle."
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "icd_6c40_2",
+   "source": "kosty2020, rossow2016",
+   "verdict": "ok",
+   "note": "Kosty : risque croissant avec le nombre de parents concernés. Fidèle (hérédité mentionnée)."
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6a20",
+   "source": "rasic2014",
+   "verdict": "ok",
+   "note": "RR 2,52 trouble sévère ; risque de schizophrénie accru. Fidèle."
+  },
+  {
+   "factor": "ressenti_solitude",
+   "outcome": "dep_generale",
+   "source": "loades2020",
+   "verdict": "ok",
+   "note": "Fidèle (durée plus que intensité). Le type « meta-analyse » est inexact : revue systématique rapide."
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "ten_alexithymie",
+   "source": "thorberg2011",
+   "verdict": "ok",
+   "note": "Thorberg mesure le soin parental (PBI), pas l'invalidation : lien indirect, limitee approprié."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6c90",
+   "source": "oms_cddr",
+   "verdict": "source_inexacte",
+   "note": "La phrase « plus fréquent quand les pratiques éducatives sont dures, incohérentes ou négligentes » reprend le texte du DSM-5 (facteurs de risque environnementaux du TOP) ; je n'ai pas pu la retrouver dans le CDDR. Vérifier le CDDR 6C90 ou citer Pinquart 2017 / le DSM-5-TR."
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "icd_6c90",
+   "source": "oms_cddr",
+   "verdict": "source_inexacte",
+   "note": "Même remarque : formulation du DSM-5 (« succession of different caregivers »), attribution au CDDR non vérifiée."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_usage_substances",
+   "source": "norman2012, rakovski2024",
+   "verdict": "ok",
+   "note": "Norman OR 1,92 drogues. Fidèle ; identifiant en doublon des autres issues « substances »."
+  }
+ ],
+ "findings": [
+  {
+   "severity": "bloquant",
+   "target": "data/cartographie.json / scripts/build_cartographie.py ALIASES",
+   "issue": "Plusieurs conséquences sont dupliquées sous des identifiants différents, ce qui casse la convergence, la fonction centrale de la page. Exemples : harcèlement → ten_suicide_automutilation alors que toutes les maltraitances, deuil et séparation → ten_conduites_suicidaires (les cocher ensemble ne fait jamais converger le risque suicidaire) ; substances en 4 issues (ten_substances, ten_usage_substances, ten_alcool_adolescence, icd_6c40_2) ; alexithymie en 2 (ten_alexithymie, pat_emotional_identification, même URL) ; régulation en 2 (ten_regulation_emotionnelle, ten_dysregulation_emotionnelle) ; borderline en 2 (icd_6d10 avec résumés tous « borderline », icd_6d11_5) ; opposition en 3 (ten_externalisation, icd_6c90, ten_comportements_antisociaux) ; troubles alimentaires en 2 (icd_6b81, ten_image_corps).",
+   "fix": "Étendre ALIASES : ten_suicide_automutilation→ten_conduites_suicidaires (libellé « Idées suicidaires, tentatives ou automutilations ») ; ten_substances et ten_alcool_adolescence→ten_usage_substances (garder icd_6c40_2 distinct seulement pour la dépendance diagnostiquée) ; pat_emotional_identification→ten_alexithymie ; ten_regulation_emotionnelle→ten_dysregulation_emotionnelle ; icd_6d10→icd_6d11_5 ; ten_comportements_antisociaux→ten_externalisation. Ajouter au contrôle --check une détection des URL ou libellés partagés par deux issues."
+  },
+  {
+   "severity": "majeur",
+   "target": "static/js/cartographie.js (STRENGTH_LABEL) / liens forte fondés sur oms_cddr seul",
+   "issue": "« forte » sert à la fois aux méta-analyses concordantes et aux simples critères de classification, et s'affiche dans les deux cas « Preuves solides ». Pour 6B42 (deuil prolongé), 6B44/6B45 et abus_physique→6B40, le lecteur comprend que le vécu mène solidement au trouble, alors que la classification exige seulement l'événement.",
+   "fix": "Ajouter une force « critere » (poids 2) affichée « Condition requise par la CIM-11 : ce vécu est nécessaire au diagnostic, il ne le prédit pas ». Ne garder « forte » que si une méta-analyse est citée."
+  },
+  {
+   "severity": "majeur",
+   "target": "icd_6b44, icd_6b45",
+   "issue": "Ces diagnostics sont posés chez le jeune enfant (moins de 5 ans environ) après des soins gravement insuffisants. Un adulte qui coche « Négligence affective » voit « Trouble réactionnel de l'attachement · Preuves solides » dans « Plusieurs éléments convergent ».",
+   "fix": "Afficher sur ces cartes « Diagnostic du jeune enfant, ne s'applique pas à l'adulte », ou les classer à part (« Ce qui a pu être observé dans l'enfance »). Les exemples du facteur négligence (« repas souvent absents ») sont aussi bien moins graves que le critère : le préciser dans le résumé."
+  },
+  {
+   "severity": "majeur",
+   "target": "kidd2022 (5 liens), hooper2011+gavcar2026 (2 liens)",
+   "issue": "Forces surestimées : Kidd 2022 ne contient que des cas-témoins rétrospectifs, et la parentification repose sur des données transversales avec effets très faibles (r = 0,09–0,18). Le plan réserve « moderee » aux études longitudinales.",
+   "fix": "Passer en limitee : surprotection→dep_generale, icd_6a72, icd_6b01 ; ressenti_pas_compter→dep_generale, icd_6a72 ; parentification→dep_generale, anx_generale."
+  },
+  {
+   "severity": "majeur",
+   "target": "harcelement→icd_6a20 ; libellé icd_6a20",
+   "issue": "Les données portent sur des symptômes psychotiques non cliniques, et les résultats cliniques sont mixtes. La carte s'intitule pourtant « Schizophrénie », alors que les sources (Varese, Selten, Bourque) parlent de troubles psychotiques en général.",
+   "fix": "Renommer « Troubles psychotiques (dont la schizophrénie) » et passer harcèlement→icd_6a20 en limitee."
+  },
+  {
+   "severity": "majeur",
+   "target": "facteurs.json migration ; migration→icd_6b40, icd_6b41",
+   "issue": "Le facteur « Exil, migration ou guerre » regroupe migration volontaire et exil forcé. Les liens forts (TSPT) viennent de réfugiés et de zones de conflit.",
+   "fix": "Scinder en « Exil forcé, guerre ou persécution » (TSPT, TSPT complexe, psychose) et « Migration ou changement de pays » (adaptation, psychose via l'exclusion sociale) ; à défaut, restreindre les résumés aux réfugiés et baisser 6B40 en moderee pour la migration simple."
+  },
+  {
+   "severity": "majeur",
+   "target": "dep_generale (CANONICAL)",
+   "issue": "L'alias fusionne des « symptômes dépressifs » infracliniques (ten_symptomes_depressifs) dans une carte « Trouble (CIM-11) · 6A70–6A71 Dépression ». Des liens qui portent sur des symptômes s'affichent donc comme une association à un diagnostic. Même chose pour anx_generale.",
+   "fix": "Renommer « Dépression ou symptômes dépressifs » et « Anxiété ou troubles anxieux », et retirer le code de l'en-tête (ou le mettre dans la description : « dont les épisodes dépressifs, 6A70–6A71 »)."
+  },
+  {
+   "severity": "majeur",
+   "target": "outcomes pat_migration_adjustment, pat_disclosure_choice, pat_identity_transition, pat_conflict, pat_needs_expression, pat_social_isolation",
+   "issue": "Ce sont des thèmes d'articles ou des compétences (« Distinguer le manque de contacts… », « Identifier ses besoins avant de les négocier… », « Redéfinir qui l'on est lors d'un changement »), pas des conséquences psychologiques. Ils sont typés « tendance » et apparaissent comme des effets du vécu.",
+   "fix": "Réécrire les libellés et descriptions comme des difficultés (« Difficulté à reconnaître et exprimer ses besoins », « Stress lié à l'adaptation après une migration »), ou supprimer pat_identity_transition et pat_disclosure_choice, qui reposent sur une étude qualitative ou un seul modèle ; fusionner pat_social_isolation avec sch_isolement si le lien n'apporte rien."
+  },
+  {
+   "severity": "majeur",
+   "target": "URL des issues",
+   "issue": "Liens vers des pages qui ne traitent pas le sujet : ten_violences_couple → « Le cycle de l'abus avec ses parents » (rien sur la violence conjugale) ; pat_needs_expression → « Motivation : Éloi cherche ce qui nourrit son intérêt » ; pat_conditional_worth → « Parler d'un budget sans réduire sa valeur » ; ten_qualite_relationnelle → « Inès ose une demande précise » ; ten_estime_soi et pat_abandonment_fear reprennent l'URL d'un schéma ; icd_6d10 et icd_6d11_5 pointent tous deux vers Mina (6D10).",
+   "fix": "Retirer l'URL (url: null) quand aucune page ne traite le sujet ; pour ten_violences_couple, ne pas renvoyer vers un article sur les parents."
+  },
+  {
+   "severity": "majeur",
+   "target": "static/js/cartographie.js render() — sécurité",
+   "issue": "Le rappel 3114 n'apparaît qu'en bas de page, après la liste parfois très longue des cartes. Quand la carte « Pensées et gestes suicidaires » s'affiche, rien n'apparaît à côté.",
+   "fix": "Quand le résultat contient ten_conduites_suicidaires (ou ten_suicide_automutilation avant fusion), insérer en tête des résultats un encadré : « Si vous avez des idées suicidaires maintenant, appelez le 3114 (gratuit, 24 h/24) ; urgence : 15 ou 112 ». Ajouter aussi un lien d'ancre « Trouver de l'aide » dans l'avertissement d'en-tête."
+  },
+  {
+   "severity": "majeur",
+   "target": "layouts/_default/cartographie.html / card() — risque d'autodiagnostic",
+   "issue": "Les cartes « Trouble (CIM-11) · code » classées sous « Plusieurs éléments convergent » avec « Preuves solides » ressemblent à un résultat de dépistage. L'avertissement n'est présent qu'en tête.",
+   "fix": "Renommer le palier en « Plusieurs de vos réponses sont associées à… » ; remplacer l'étiquette par « Trouble étudié (CIM-11) » ; ajouter sous chaque carte trouble « Ce lien décrit un risque moyen dans des groupes, pas votre situation » ; répéter une ligne d'avertissement au-dessus des résultats."
+  },
+  {
+   "severity": "mineur",
+   "target": "negligence_physique→icd_6c90, soins_instables→icd_6c90",
+   "issue": "L'attribution au CDDR est douteuse : la formulation correspond au DSM-5 (facteurs de risque environnementaux du TOP).",
+   "fix": "Vérifier dans le CDDR 6C90 ; sinon citer Pinquart 2017 ou le DSM-5-TR (type « classification »)."
+  },
+  {
+   "severity": "mineur",
+   "target": "abus_physique→icd_6b40",
+   "issue": "La seconde proposition (risque plus élevé) n'a pas de source.",
+   "fix": "Ajouter Alisic 2014 (trauma interpersonnel) ou supprimer la proposition."
+  },
+  {
+   "severity": "mineur",
+   "target": "carlucci2018 (environ 30 liens théoriques)",
+   "issue": "Les origines familiales des schémas viennent d'un tableau secondaire d'un article sur la co-rumination entre amis.",
+   "fix": "Citer directement Young, Klosko et Weishaar, 2003, Schema Therapy: A Practitioner's Guide (Guilford), ou Bach, Lockwood et Young 2018, déjà présent."
+  },
+  {
+   "severity": "mineur",
+   "target": "liens ressenti_* → schémas (ressenti_honte→sch_imperfection, ressenti_abandon→sch_abandon, ressenti_solitude→sch_isolement…)",
+   "issue": "Ces liens sont circulaires : le ressenti coché est la définition même du schéma (« décrit exactement cette attente »). Cela gonfle la convergence.",
+   "fix": "Ajouter dans le résumé « Ce ressenti correspond à la définition du schéma ; ce n'est pas une preuve d'un lien de cause » et donner à ces liens un poids 0,5, ou ne pas les compter dans le palier convergence."
+  },
+  {
+   "severity": "mineur",
+   "target": "sources : types",
+   "issue": "loades2020 est typé meta-analyse mais c'est une revue rapide ; fazel2012 et lacey2022 sont des revues ; walker2019 ne mesure qu'une prévalence, sans groupe témoin. Plusieurs années diffèrent de la publication en ligne (li2016 = 2015, porter2020 = 2019, rasic2014 = 2013, wadji2025 = 2024).",
+   "fix": "Corriger les types et les années, ou indiquer « publication en ligne »."
+  },
+  {
+   "severity": "mineur",
+   "target": "notes.consulter / aide",
+   "issue": "Les numéros sont exacts (3114, 119, 3919, 15, 112, 114 par SMS, 3018). Il manque une ressource pour les adultes ayant subi des violences dans l'enfance (le 119 concerne un enfant en danger aujourd'hui).",
+   "fix": "Ajouter le 116 006 (France Victimes, aide aux victimes, gratuit, 7 j/7) et rappeler que le 3919 accueille aussi les proches et les témoins."
+  },
+  {
+   "severity": "mineur",
+   "target": "layouts/_default/cartographie.html form",
+   "issue": "Le texte affirme que tout s'efface, mais certains navigateurs restaurent les cases cochées (cache de retour, autocomplétion de formulaire).",
+   "fix": "Ajouter autocomplete=\"off\" au formulaire et décocher les cases au pageshow (event.persisted)."
+  },
+  {
+   "severity": "mineur",
+   "target": "notes / parents",
+   "issue": "Aucune phrase n'est culpabilisante en elle-même (les mentions de la dépression maternelle sont nuancées), mais la page ne dit nulle part que les comportements parentaux relèvent souvent de leurs propres difficultés et que les liens vont dans les deux sens.",
+   "fix": "Ajouter une note : « Ces liens ne désignent pas de coupable : les parents agissent avec leur histoire et leurs contraintes, et le tempérament de l'enfant influence aussi les échanges. »"
+  },
+  {
+   "severity": "mineur",
+   "target": "notes.adversite_cumul",
+   "issue": "Cette note est présente dans les données mais jamais affichée (le JS utilise notes.cumul).",
+   "fix": "La supprimer ou la fusionner avec cumul."
+  }
+ ],
+ "summary": "Relecture indépendante de la Cartographie (248 liens dans les fragments, 247 après fusion, 148 sources). J'ai vérifié en ligne les 148 sources : les 83 PMID par PubMed esummary et les 54 DOI par Crossref, et tous existent et correspondent aux auteurs, titres et revues cités. J'ai lu les résumés de plus de 60 articles et vérifié 68 liens, dont les 27 liens « forte » : 55 ok, 11 force_a_revoir, 2 source_inexacte, aucun non soutenu. Aucune source inventée, aucun lien avec l'autisme, le TDAH ou la déficience intellectuelle, aucune formulation déterministe, et les numéros d'aide sont exacts. Le principal défaut bloquant est structurel : des conséquences dupliquées sous plusieurs identifiants (suicide, substances, alexithymie, régulation, borderline, opposition, troubles alimentaires) empêchent la convergence. Les problèmes majeurs : les critères CIM-11 s'affichent comme « Preuves solides », dont des diagnostics du jeune enfant montrés à des adultes ; des forces surestimées (Kidd 2022, parentification, harcèlement vers psychose) ; le facteur migration mêle exil forcé et migration simple ; la dépression et l'anxiété fusionnent symptômes et diagnostics ; des « tendances » sont en fait des thèmes d'articles ; plusieurs URL ne traitent pas le sujet ; aucun rappel 3114 n'apparaît près des résultats suicidaires. À corriger avant publication."
+}
