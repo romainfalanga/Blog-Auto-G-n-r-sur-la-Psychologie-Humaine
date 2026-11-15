@@ -79,7 +79,10 @@ def build() -> tuple[dict, list[str]]:
             outcomes.setdefault(o["id"], o)
         for p in part.get("protections", []):
             protections.append(p)
-        notes.update(part.get("notes", {}))
+        # Only structured public notes (object keyed by topic) are published;
+        # list-shaped notes are editorial remarks kept in the fragment.
+        if isinstance(part.get("notes"), dict):
+            notes.update(part["notes"])
         for link in part.get("links", []):
             key = (link.get("factor"), link.get("outcome"))
             if key[0] not in factors:

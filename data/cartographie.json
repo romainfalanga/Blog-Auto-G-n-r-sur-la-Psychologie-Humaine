@@ -1,0 +1,1891 @@
+{
+ "schema_version": 1,
+ "weights": {
+  "forte": 3,
+  "moderee": 2,
+  "limitee": 1,
+  "theorique": 1
+ },
+ "groups": [
+  {
+   "id": "violences",
+   "label": "Violences et maltraitance",
+   "description": "Actes subis ou vus, de la part d'adultes ou de pairs."
+  },
+  {
+   "id": "negligence",
+   "label": "Manques de soins et de présence",
+   "description": "Besoins physiques ou affectifs qui n'étaient pas assurés."
+  },
+  {
+   "id": "famille",
+   "label": "Situation familiale",
+   "description": "Événements et difficultés qui touchaient la famille."
+  },
+  {
+   "id": "climat",
+   "label": "Climat éducatif et relationnel",
+   "description": "La manière dont on était traité au quotidien."
+  },
+  {
+   "id": "ressentis",
+   "label": "Ressentis de l'enfance",
+   "description": "Impressions durables que l'on garde de cette période."
+  },
+  {
+   "id": "contexte",
+   "label": "Contexte social et événements",
+   "description": "Ce qui se passait hors de la famille."
+  }
+ ],
+ "factors": [
+  {
+   "id": "abus_physique",
+   "group": "violences",
+   "label": "Violences physiques",
+   "description": "Être frappé, secoué, brûlé ou blessé par un adulte.",
+   "examples": [
+    "Coups ou gifles répétés",
+    "Punitions qui laissaient des marques"
+   ],
+   "ace": true
+  },
+  {
+   "id": "abus_sexuel",
+   "group": "violences",
+   "label": "Violences sexuelles",
+   "description": "Tout contact ou acte sexuel imposé par un adulte ou un mineur plus âgé, ou exposition sexuelle.",
+   "examples": [
+    "Attouchements",
+    "Exposition à des contenus ou actes sexuels"
+   ],
+   "ace": true
+  },
+  {
+   "id": "abus_emotionnel",
+   "group": "violences",
+   "label": "Violences psychologiques",
+   "description": "Humiliations, insultes, menaces, rejet répété ou terreur entretenue.",
+   "examples": [
+    "« Tu n'es bon à rien »",
+    "Menaces d'abandon ou de mise dehors"
+   ],
+   "ace": true
+  },
+  {
+   "id": "temoin_violences",
+   "group": "violences",
+   "label": "Être témoin de violences entre adultes",
+   "description": "Voir ou entendre des violences entre les parents ou dans le foyer.",
+   "examples": [
+    "Disputes avec coups",
+    "Peur pour un parent"
+   ],
+   "ace": true
+  },
+  {
+   "id": "harcelement",
+   "group": "violences",
+   "label": "Harcèlement ou rejet par les pairs",
+   "description": "Moqueries, exclusion, violences répétées à l'école ou en ligne.",
+   "examples": [
+    "Être mis à l'écart chaque jour",
+    "Insultes sur le physique ou l'origine"
+   ],
+   "ace": false
+  },
+  {
+   "id": "negligence_physique",
+   "group": "negligence",
+   "label": "Négligence matérielle",
+   "description": "Manquer de nourriture, d'hygiène, de soins médicaux ou de surveillance.",
+   "examples": [
+    "Repas souvent absents",
+    "Soins médicaux non faits"
+   ],
+   "ace": true
+  },
+  {
+   "id": "negligence_emotionnelle",
+   "group": "negligence",
+   "label": "Négligence affective",
+   "description": "Ne pas se sentir aimé, important ou soutenu ; peu de réconfort.",
+   "examples": [
+    "Personne pour consoler",
+    "Peu d'intérêt pour ce que l'on vivait"
+   ],
+   "ace": true
+  },
+  {
+   "id": "soins_instables",
+   "group": "negligence",
+   "label": "Prise en charge précoce instable",
+   "description": "Placements multiples, institution, changements répétés de personnes qui s'occupaient de soi dans les premières années.",
+   "examples": [
+    "Plusieurs familles d'accueil",
+    "Pouponnière ou orphelinat"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parent_trouble",
+   "group": "famille",
+   "label": "Parent avec une souffrance psychique",
+   "description": "Un parent déprimé, très anxieux, suicidaire ou avec un trouble psychique non soigné.",
+   "examples": [
+    "Parent souvent alité ou absent psychiquement",
+    "Tentative de suicide d'un parent"
+   ],
+   "ace": true
+  },
+  {
+   "id": "parent_addiction",
+   "group": "famille",
+   "label": "Parent avec une addiction",
+   "description": "Alcool, drogues ou jeu chez un parent, avec retentissement sur la vie familiale.",
+   "examples": [
+    "Soirées imprévisibles",
+    "Promesses non tenues à cause de l'alcool"
+   ],
+   "ace": true
+  },
+  {
+   "id": "parent_incarcere",
+   "group": "famille",
+   "label": "Parent incarcéré",
+   "description": "Un parent emprisonné pendant l'enfance.",
+   "examples": [
+    "Visites au parloir"
+   ],
+   "ace": true
+  },
+  {
+   "id": "separation_conflit",
+   "group": "famille",
+   "label": "Séparation parentale conflictuelle",
+   "description": "Divorce ou séparation avec conflits durables, ou perte de contact avec un parent.",
+   "examples": [
+    "Être pris à partie",
+    "Ne plus voir un parent"
+   ],
+   "ace": true
+  },
+  {
+   "id": "deces_proche",
+   "group": "famille",
+   "label": "Décès d'un parent ou d'un proche",
+   "description": "Mort d'un parent, d'un frère, d'une sœur ou d'une personne centrale.",
+   "examples": [
+    "Deuil d'un parent avant 18 ans"
+   ],
+   "ace": false
+  },
+  {
+   "id": "maladie_famille",
+   "group": "famille",
+   "label": "Maladie grave dans la famille",
+   "description": "Maladie chronique ou handicap lourd d'un parent, d'un frère ou d'une sœur.",
+   "examples": [
+    "S'adapter aux hospitalisations d'un proche"
+   ],
+   "ace": false
+  },
+  {
+   "id": "precarite",
+   "group": "famille",
+   "label": "Précarité et insécurité matérielle",
+   "description": "Pauvreté, logement instable, expulsions, insécurité alimentaire.",
+   "examples": [
+    "Déménagements forcés",
+    "Fins de mois angoissantes"
+   ],
+   "ace": false
+  },
+  {
+   "id": "invalidation",
+   "group": "climat",
+   "label": "Émotions niées ou moquées",
+   "description": "On disait que l'on exagérait, que l'on ne devait pas pleurer ou être en colère.",
+   "examples": [
+    "« Arrête ton cinéma »",
+    "Punition quand on pleurait"
+   ],
+   "ace": false
+  },
+  {
+   "id": "critique",
+   "group": "climat",
+   "label": "Critiques et exigences constantes",
+   "description": "Reproches fréquents, rien n'était jamais assez bien.",
+   "examples": [
+    "Notes jamais suffisantes",
+    "Corrections permanentes"
+   ],
+   "ace": false
+  },
+  {
+   "id": "amour_conditionnel",
+   "group": "climat",
+   "label": "Affection liée à la réussite",
+   "description": "L'attention et l'affection semblaient dépendre des résultats ou du comportement.",
+   "examples": [
+    "Fierté seulement après une réussite",
+    "Froideur après un échec"
+   ],
+   "ace": false
+  },
+  {
+   "id": "surprotection",
+   "group": "climat",
+   "label": "Surprotection",
+   "description": "Peu de liberté d'essayer seul ; dangers présentés partout.",
+   "examples": [
+    "Interdiction de sortir seul longtemps",
+    "Les adultes faisaient à sa place"
+   ],
+   "ace": false
+  },
+  {
+   "id": "controle",
+   "group": "climat",
+   "label": "Contrôle et obéissance stricte",
+   "description": "Décisions imposées, peu de place à ses avis, punitions pour le désaccord.",
+   "examples": [
+    "Choix d'activités imposés",
+    "Interdiction de contredire"
+   ],
+   "ace": false
+  },
+  {
+   "id": "imprevisibilite",
+   "group": "climat",
+   "label": "Réponses imprévisibles des adultes",
+   "description": "Un adulte tantôt chaleureux, tantôt absent ou en colère, sans qu'on comprenne pourquoi.",
+   "examples": [
+    "Ne pas savoir dans quel état on trouverait un parent"
+   ],
+   "ace": false
+  },
+  {
+   "id": "parentification",
+   "group": "climat",
+   "label": "Devoir s'occuper d'un parent ou de la fratrie",
+   "description": "Prendre en charge des tâches ou le moral d'adultes, au-delà de son âge.",
+   "examples": [
+    "Consoler un parent",
+    "Élever ses frères et sœurs"
+   ],
+   "ace": false
+  },
+  {
+   "id": "comparaison_fratrie",
+   "group": "climat",
+   "label": "Comparaisons et favoritisme",
+   "description": "Être comparé défavorablement ou se sentir moins aimé qu'un frère ou une sœur.",
+   "examples": [
+    "« Prends exemple sur ta sœur »"
+   ],
+   "ace": false
+  },
+  {
+   "id": "secret_famille",
+   "group": "climat",
+   "label": "Secrets et non-dits familiaux",
+   "description": "Des sujets importants dont on ne devait pas parler.",
+   "examples": [
+    "Maladie ou origine tues",
+    "Interdiction d'évoquer un proche"
+   ],
+   "ace": false
+  },
+  {
+   "id": "absence_limites",
+   "group": "climat",
+   "label": "Absence de cadre et de limites",
+   "description": "Peu de règles, de repères ou de conséquences ; adultes peu présents pour encadrer.",
+   "examples": [
+    "Aucune heure de coucher",
+    "Tout était permis ou rien n'était suivi"
+   ],
+   "ace": false
+  },
+  {
+   "id": "ressenti_pas_compter",
+   "group": "ressentis",
+   "label": "Sentiment de ne pas compter",
+   "description": "Impression que ses besoins ou son avis n'avaient pas d'importance.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_abandon",
+   "group": "ressentis",
+   "label": "Peur d'être abandonné",
+   "description": "Peur fréquente qu'un parent parte, disparaisse ou cesse d'aimer.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_honte",
+   "group": "ressentis",
+   "label": "Honte de soi",
+   "description": "Sentiment d'être mauvais, défectueux ou pas comme il faut.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_responsable",
+   "group": "ressentis",
+   "label": "Se sentir responsable de l'humeur des adultes",
+   "description": "Penser devoir éviter les conflits ou rendre les adultes heureux.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_perfection",
+   "group": "ressentis",
+   "label": "Devoir être parfait",
+   "description": "Croire qu'une erreur ferait perdre l'estime ou l'amour.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_peur",
+   "group": "ressentis",
+   "label": "Vivre dans la peur",
+   "description": "Être souvent sur ses gardes à la maison, guetter les signes de colère.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_solitude",
+   "group": "ressentis",
+   "label": "Solitude et isolement",
+   "description": "Se sentir seul, différent, sans personne à qui parler.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "ressenti_colere_interdite",
+   "group": "ressentis",
+   "label": "Colère interdite",
+   "description": "Ne pas avoir le droit d'exprimer sa colère ou son désaccord.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "discrimination",
+   "group": "contexte",
+   "label": "Racisme ou discrimination",
+   "description": "Être traité différemment ou rabaissé pour son origine, sa religion, son genre, son orientation ou un handicap.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "migration",
+   "group": "contexte",
+   "label": "Exil, migration ou guerre",
+   "description": "Quitter son pays, vivre un conflit armé ou des conditions d'exil.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "traumatisme_ponctuel",
+   "group": "contexte",
+   "label": "Événement traumatique ponctuel",
+   "description": "Accident grave, catastrophe, agression, menace de mort.",
+   "examples": [],
+   "ace": false
+  },
+  {
+   "id": "maladie_enfant",
+   "group": "contexte",
+   "label": "Maladie ou hospitalisations de l'enfant",
+   "description": "Maladie grave, douleurs ou hospitalisations répétées dans l'enfance.",
+   "examples": [],
+   "ace": false
+  }
+ ],
+ "outcomes": [
+  {
+   "id": "ten_alexithymie",
+   "kind": "tendance",
+   "label": "Alexithymie",
+   "description": "Difficulté à identifier et à décrire ce que l'on ressent.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/"
+  },
+  {
+   "id": "pat_appeasement",
+   "kind": "tendance",
+   "label": "Apaiser autrui pour préserver sa sécurité",
+   "description": "Accepter, flatter ou s’effacer pour réduire une tension relationnelle, en reconnaissant que cela peut être une protection face à un risque réel.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+  },
+  {
+   "id": "att_anxieux",
+   "kind": "attachement",
+   "label": "Attachement anxieux",
+   "description": "Besoin intense de proximité et crainte d'être délaissé.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/"
+  },
+  {
+   "id": "att_desorganise",
+   "kind": "attachement",
+   "label": "Attachement désorganisé",
+   "description": "Un mélange de recherche et de peur de la figure d'attachement, sans stratégie stable.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/"
+  },
+  {
+   "id": "pat_self_criticism",
+   "kind": "tendance",
+   "label": "Autocritique",
+   "description": "Se juger globalement après une difficulté.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers/"
+  },
+  {
+   "id": "ten_codependance",
+   "kind": "tendance",
+   "label": "Codépendance",
+   "description": "S'organiser autour des besoins ou des difficultés d'un proche au détriment des siens.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/"
+  },
+  {
+   "id": "ten_externalisation",
+   "kind": "tendance",
+   "label": "Comportements d'opposition ou d'agressivité",
+   "description": "Difficultés tournées vers l'extérieur : colères, opposition, transgressions.",
+   "url": "/personnages/ruben/"
+  },
+  {
+   "id": "ten_alcool_adolescence",
+   "kind": "tendance",
+   "label": "Consommation d'alcool problématique à l'adolescence",
+   "description": "Début précoce ou usage plus important d'alcool pendant l'adolescence.",
+   "url": "/personnages/eric/"
+  },
+  {
+   "id": "pat_guilt",
+   "kind": "tendance",
+   "label": "Culpabilité",
+   "description": "Se sentir fautif ou redevable au-delà de sa responsabilité.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos/"
+  },
+  {
+   "id": "ten_dysregulation_emotionnelle",
+   "kind": "tendance",
+   "label": "Dysrégulation émotionnelle",
+   "description": "Émotions vécues très intensément et difficiles à apaiser ou à moduler.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/"
+  },
+  {
+   "id": "icd_6a72",
+   "kind": "trouble",
+   "label": "Dysthymie",
+   "code": "6A72",
+   "description": "Une humeur dépressive persistante, présente la plupart du temps pendant au moins deux ans.",
+   "url": "/personnages/timothee/"
+  },
+  {
+   "id": "ten_hypervigilance",
+   "kind": "tendance",
+   "label": "Hypervigilance à la menace",
+   "description": "Repérer très vite les signes de colère ou de danger, et rester sur ses gardes.",
+   "url": null
+  },
+  {
+   "id": "pat_identity_transition",
+   "kind": "tendance",
+   "label": "Identité en évolution",
+   "description": "Redéfinir qui l’on est lors d’un changement.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie/"
+  },
+  {
+   "id": "pat_social_isolation",
+   "kind": "tendance",
+   "label": "Isolement subi",
+   "description": "Distinguer le manque de contacts ou de soutien souhaités d’un temps seul choisi, en tenant compte des contraintes de mobilité et de milieu.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie/"
+  },
+  {
+   "id": "pat_perfectionism",
+   "kind": "tendance",
+   "label": "Perfectionnisme coûteux",
+   "description": "Des exigences difficiles à assouplir malgré leur coût.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer/"
+  },
+  {
+   "id": "pat_abandonment_fear",
+   "kind": "tendance",
+   "label": "Peur de perdre le lien",
+   "description": "Inquiétude liée à une distance ou une séparation.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/"
+  },
+  {
+   "id": "pat_conflict",
+   "kind": "tendance",
+   "label": "Rapport au désaccord",
+   "description": "Éviter ou intensifier les conflits pour protéger quelque chose.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille/"
+  },
+  {
+   "id": "pat_needs_expression",
+   "kind": "tendance",
+   "label": "Reconnaître ses besoins",
+   "description": "Identifier ses besoins avant de les négocier avec les autres.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet/"
+  },
+  {
+   "id": "ten_qualite_relationnelle",
+   "kind": "tendance",
+   "label": "Relations proches moins satisfaisantes",
+   "description": "Liens de couple ou d'amitié vécus comme moins libres et moins satisfaisants.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire/"
+  },
+  {
+   "id": "pat_emotional_suppression",
+   "kind": "tendance",
+   "label": "Retenir l’expression émotionnelle",
+   "description": "Cacher ou contenir ses émotions pour se protéger ou préserver un lien.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/"
+  },
+  {
+   "id": "pat_overresponsibility",
+   "kind": "tendance",
+   "label": "Rôle de sauveur",
+   "description": "Se sentir tenu de résoudre les difficultés d’autrui au prix de ses besoins. « Sauveur » est un nom courant de ce processus possible, pas un syndrome clinique.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/"
+  },
+  {
+   "id": "sch_abandon",
+   "kind": "schema",
+   "label": "Schéma d'abandon et d'instabilité",
+   "description": "Conviction que les proches finiront par partir ou ne seront pas fiables.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/"
+  },
+  {
+   "id": "sch_abnegation",
+   "kind": "schema",
+   "label": "Schéma d'abnégation",
+   "description": "Répondre aux besoins des autres de façon excessive, à ses propres dépens.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/"
+  },
+  {
+   "id": "sch_assujettissement",
+   "kind": "schema",
+   "label": "Schéma d'assujettissement",
+   "description": "Céder le contrôle aux autres et taire ses besoins ou ses émotions pour éviter la colère ou le rejet.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/"
+  },
+  {
+   "id": "sch_exigences_elevees",
+   "kind": "schema",
+   "label": "Schéma d'exigences élevées",
+   "description": "Pression constante pour atteindre des standards très élevés, avec une critique dure de soi.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/"
+  },
+  {
+   "id": "sch_imperfection",
+   "kind": "schema",
+   "label": "Schéma d'imperfection et de honte",
+   "description": "Se sentir fondamentalement défectueux ou indigne d'être aimé.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/"
+  },
+  {
+   "id": "sch_isolement",
+   "kind": "schema",
+   "label": "Schéma d'isolement social",
+   "description": "Se sentir différent des autres et n'appartenir à aucun groupe.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/"
+  },
+  {
+   "id": "sch_carence_affective",
+   "kind": "schema",
+   "label": "Schéma de carence affective",
+   "description": "Conviction que son besoin de soutien, d'écoute ou de réconfort ne sera pas comblé.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/"
+  },
+  {
+   "id": "sch_controle_insuffisant",
+   "kind": "schema",
+   "label": "Schéma de contrôle de soi insuffisant",
+   "description": "Difficulté à tolérer la frustration et à différer ses envies.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/"
+  },
+  {
+   "id": "sch_droits_excessifs",
+   "kind": "schema",
+   "label": "Schéma de droits personnels excessifs",
+   "description": "Se sentir au-dessus des règles de réciprocité.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/"
+  },
+  {
+   "id": "sch_dependance",
+   "kind": "schema",
+   "label": "Schéma de dépendance et d'incompétence",
+   "description": "Se croire incapable de gérer seul les responsabilités du quotidien.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/"
+  },
+  {
+   "id": "sch_fusion",
+   "kind": "schema",
+   "label": "Schéma de fusion et de personnalité atrophiée",
+   "description": "Une proximité avec un proche qui se paie par un manque d'identité propre.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/"
+  },
+  {
+   "id": "sch_mefiance",
+   "kind": "schema",
+   "label": "Schéma de méfiance et d'abus",
+   "description": "Attente que les autres blessent, trompent ou profitent de soi.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/"
+  },
+  {
+   "id": "sch_punition",
+   "kind": "schema",
+   "label": "Schéma de punition",
+   "description": "Conviction que les erreurs méritent d'être durement punies.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/"
+  },
+  {
+   "id": "sch_recherche_approbation",
+   "kind": "schema",
+   "label": "Schéma de recherche d'approbation",
+   "description": "Une estime de soi qui dépend surtout des réactions des autres.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/"
+  },
+  {
+   "id": "sch_surcontrole",
+   "kind": "schema",
+   "label": "Schéma de surcontrôle émotionnel",
+   "description": "Retenir spontanéité et émotions pour éviter la désapprobation ou la perte de contrôle.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/"
+  },
+  {
+   "id": "sch_vulnerabilite",
+   "kind": "schema",
+   "label": "Schéma de vulnérabilité au danger",
+   "description": "Craindre qu'une catastrophe soit imminente sans pouvoir l'empêcher.",
+   "url": "/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/"
+  },
+  {
+   "id": "ten_symptomes_anxieux",
+   "kind": "tendance",
+   "label": "Symptômes anxieux",
+   "description": "Inquiétudes, peurs ou tensions plus fréquentes, sans forcément atteindre un diagnostic.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/"
+  },
+  {
+   "id": "ten_symptomes_depressifs",
+   "kind": "tendance",
+   "label": "Symptômes dépressifs",
+   "description": "Tristesse, perte d'élan ou dévalorisation, mesurées chez des jeunes ou des adultes sans forcément atteindre un diagnostic.",
+   "url": "/personnages/louise/"
+  },
+  {
+   "id": "icd_6b04",
+   "kind": "trouble",
+   "label": "Trouble d'anxiété sociale",
+   "code": "6B04",
+   "description": "Une peur marquée et durable du regard et du jugement des autres.",
+   "url": "/personnages/sacha/"
+  },
+  {
+   "id": "icd_6d11_5",
+   "kind": "trouble",
+   "label": "Trouble de la personnalité avec motif borderline",
+   "code": "6D11.5",
+   "description": "Une instabilité des relations, de l'image de soi et des émotions, avec une grande sensibilité au rejet.",
+   "url": "/personnages/mina/"
+  },
+  {
+   "id": "icd_6a71",
+   "kind": "trouble",
+   "label": "Trouble dépressif récurrent",
+   "code": "6A71",
+   "description": "Des épisodes dépressifs qui reviennent, avec tristesse ou perte d'intérêt durables.",
+   "url": "/personnages/inaya/"
+  },
+  {
+   "id": "icd_6b01",
+   "kind": "trouble",
+   "label": "Trouble panique",
+   "code": "6B01",
+   "description": "Des attaques de panique répétées et inattendues, suivies d'une inquiétude à l'idée qu'elles reviennent.",
+   "url": "/personnages/jules/"
+  },
+  {
+   "id": "pat_conditional_worth",
+   "kind": "tendance",
+   "label": "Valeur liée à la réussite",
+   "description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
+   "url": "/posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle/"
+  }
+ ],
+ "links": [
+  {
+   "factor": "absence_limites",
+   "outcome": "sch_controle_insuffisant",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie une éducation permissive et sans direction au schéma de contrôle de soi insuffisant.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "absence_limites",
+   "outcome": "sch_droits_excessifs",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Young, l'absence de limites est aussi une origine du schéma de droits personnels excessifs.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "absence_limites",
+   "outcome": "ten_alcool_adolescence",
+   "strength": "moderee",
+   "summary": "Peu de supervision et d'implication parentales sont associées, dans des études suivies dans le temps, à une consommation d'alcool plus précoce ou plus importante à l'adolescence.",
+   "sources": [
+    "yap2017"
+   ]
+  },
+  {
+   "factor": "absence_limites",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "summary": "Une éducation permissive ou désengagée est associée à plus de comportements d'opposition ou de transgression chez l'enfant et l'adolescent.",
+   "sources": [
+    "pinquart2017"
+   ]
+  },
+  {
+   "factor": "absence_limites",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "moderee",
+   "summary": "Une faible supervision parentale fait partie des facteurs associés à plus de symptômes dépressifs chez les adolescents.",
+   "sources": [
+    "yap2014"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "pat_conditional_worth",
+   "strength": "limitee",
+   "summary": "Percevoir que l'affection des parents dépendait de ses réussites est associé à une estime de soi plus fluctuante et à un sentiment de devoir agir sous la contrainte intérieure.",
+   "sources": [
+    "assor2004"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "pat_emotional_suppression",
+   "strength": "limitee",
+   "summary": "Une affection accordée quand l'enfant contrôle ses émotions est associée à une tendance à réprimer les émotions négatives plutôt qu'à les intégrer.",
+   "sources": [
+    "roth2009"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "pat_perfectionism",
+   "strength": "limitee",
+   "summary": "L'affection conditionnelle est associée à une inquiétude plus forte face aux erreurs, l'une des facettes coûteuses du perfectionnisme.",
+   "sources": [
+    "lavrijsen2021"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Young, l'acceptation conditionnelle est aussi une origine du schéma d'assujettissement : se plier aux attentes pour garder le lien.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "sch_recherche_approbation",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie une acceptation conditionnelle dans l'enfance au schéma de recherche d'approbation : sa valeur dépend du regard des autres.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "limitee",
+   "summary": "Le retrait d'affection après un comportement désapprouvé est associé à du ressentiment envers les parents et à des émotions négatives plus difficiles à réguler.",
+   "sources": [
+    "roth2009"
+   ]
+  },
+  {
+   "factor": "amour_conditionnel",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "summary": "Le fait de percevoir une affection conditionnelle est associé à des relations proches moins satisfaisantes, en partie parce que le besoin d'autonomie y est moins respecté.",
+   "sources": [
+    "kanatmaymon2016"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "summary": "Recevoir plus d'hostilité qu'un frère ou une sœur est associé à plus de comportements d'opposition ou d'agressivité.",
+   "sources": [
+    "eradus2024",
+    "jensen2024"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "moderee",
+   "summary": "Les écarts de traitement entre enfants d'une même famille sont associés à plus de difficultés intériorisées, surtout quand l'enfant lui-même les perçoit.",
+   "sources": [
+    "jensen2024"
+   ]
+  },
+  {
+   "factor": "comparaison_fratrie",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "moderee",
+   "summary": "Être moins favorisé qu'un frère ou une sœur est associé à plus de difficultés intériorisées (tristesse, anxiété) chez l'enfant et l'adolescent.",
+   "sources": [
+    "jensen2024",
+    "eradus2024"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "Les adultes ayant une dépression majeure rapportent plus souvent des parents intrusifs et contrôlants ; ces données rétrospectives ne prouvent pas un lien de cause.",
+   "sources": [
+    "kidd2022"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "icd_6b04",
+   "strength": "moderee",
+   "summary": "Le contrôle psychologique parental est associé à plus de symptômes d'anxiété sociale chez les enfants et adolescents, notamment la peur d'être jugé.",
+   "sources": [
+    "zeng2026"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "pat_self_criticism",
+   "strength": "limitee",
+   "summary": "Un contrôle psychologique centré sur la performance est associé à une autocritique plus forte chez les adolescents.",
+   "sources": [
+    "bleys2018"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas décrit l'assujettissement comme le fait de céder le contrôle aux autres et de taire ses besoins pour éviter la colère, un apprentissage plausible face à une autorité stricte.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "summary": "Le contrôle sévère et le contrôle psychologique sont les dimensions éducatives les plus associées aux comportements d'opposition ou d'agressivité, avec des influences dans les deux sens.",
+   "sources": [
+    "pinquart2017"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "moderee",
+   "summary": "Le contrôle parental, et surtout le faible encouragement à l'autonomie, est l'un des aspects éducatifs les plus liés à l'anxiété de l'enfant, même si l'effet reste modeste et que la direction n'est pas établie.",
+   "sources": [
+    "mcleod2007_anxiete",
+    "vanderbruggen2008"
+   ]
+  },
+  {
+   "factor": "controle",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "moderee",
+   "summary": "Le contrôle psychologique (culpabilisation, retrait d'affection, intrusion) et le faible encouragement à l'autonomie sont associés à plus de symptômes dépressifs chez les jeunes, dans de nombreuses cultures.",
+   "sources": [
+    "salaam2025",
+    "yap2014"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "pat_perfectionism",
+   "strength": "moderee",
+   "summary": "Des attentes parentales excessives et des critiques dures sont associées à plus de perfectionnisme, en particulier à l'impression que les autres exigent d'être parfait.",
+   "sources": [
+    "curran2022",
+    "lavrijsen2021"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "pat_self_criticism",
+   "strength": "limitee",
+   "summary": "Un contrôle parental centré sur la réussite est associé à plus d'autocritique chez les adolescents, qui elle-même accompagne davantage de symptômes dépressifs.",
+   "sources": [
+    "bleys2018"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "sch_exigences_elevees",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie les familles très exigeantes, où il fallait viser haut pour éviter la critique, au schéma d'exigences élevées.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "sch_imperfection",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Young, une famille trop exigeante et critique est une origine typique du schéma d'imperfection et de honte.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "sch_punition",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie les erreurs durement reprochées dans l'enfance au schéma de punition : penser que toute erreur mérite une sanction.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "moderee",
+   "summary": "Un climat parental dénigrant ou hostile est associé à un risque un peu plus élevé d'anxiété chez les adolescents.",
+   "sources": [
+    "yap2014"
+   ]
+  },
+  {
+   "factor": "critique",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "moderee",
+   "summary": "L'hostilité et les comportements parentaux dénigrants sont parmi les facteurs familiaux les plus liés aux symptômes dépressifs des jeunes, avec des effets modestes.",
+   "sources": [
+    "yap2014",
+    "mcleod2007_depression"
+   ]
+  },
+  {
+   "factor": "imprevisibilite",
+   "outcome": "att_anxieux",
+   "strength": "limitee",
+   "summary": "Une disponibilité parentale faible ou irrégulière fait partie des antécédents décrits de l'attachement anxieux-ambivalent.",
+   "sources": [
+    "cassidy1994"
+   ]
+  },
+  {
+   "factor": "imprevisibilite",
+   "outcome": "att_desorganise",
+   "strength": "moderee",
+   "summary": "Des comportements parentaux déroutants ou effrayants sont associés à un attachement désorganisé chez le jeune enfant.",
+   "sources": [
+    "madigan2006"
+   ]
+  },
+  {
+   "factor": "imprevisibilite",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie une famille instable au schéma d'abandon : les proches paraissent peu fiables ou susceptibles de partir.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "imprevisibilite",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "limitee",
+   "summary": "Des signaux maternels imprévisibles dans les premières années sont associés à plus de peurs et d'anxiété chez l'enfant, dans trois cohortes suivies dans le temps.",
+   "sources": [
+    "aran2024"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "summary": "Dans le modèle biosocial de Linehan, un environnement qui invalide les émotions, combiné à une sensibilité émotionnelle propre à l'enfant, est associé à un risque plus élevé de traits borderline. Des études longitudinales montrent des influences dans les deux sens entre invalidation parentale et traits de l'enfant.",
+   "sources": [
+    "crowell2009",
+    "franssens2021",
+    "cavicchioli2024"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "pat_emotional_suppression",
+   "strength": "limitee",
+   "summary": "Quand l'attention des parents dépend du fait de cacher ses émotions négatives, les jeunes ont davantage tendance à les réprimer plutôt qu'à les accueillir.",
+   "sources": [
+    "roth2009",
+    "roth2012"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "sch_surcontrole",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie les familles où l'expression des émotions était découragée au schéma d'inhibition émotionnelle : retenir ses ressentis pour éviter la désapprobation.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "ten_alexithymie",
+   "strength": "limitee",
+   "summary": "Un climat parental perçu comme peu chaleureux et peu attentif aux émotions est associé à plus de difficultés à identifier et décrire ses ressentis à l'âge adulte ; les études sont rétrospectives.",
+   "sources": [
+    "thorberg2011"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "limitee",
+   "summary": "Avoir vu ses émotions niées ou soumises à condition est associé à une régulation émotionnelle moins souple à l'âge adulte (émotions retenues ou débordantes), surtout chez les personnes déjà très sensibles.",
+   "sources": [
+    "crowell2009",
+    "roth2012"
+   ]
+  },
+  {
+   "factor": "invalidation",
+   "outcome": "ten_externalisation",
+   "strength": "limitee",
+   "summary": "Des réactions parentales peu soutenantes face aux émotions de l'enfant sont associées, de façon modeste, à plus de troubles du comportement, surtout chez les plus jeunes.",
+   "sources": [
+    "johnson2017"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "pat_guilt",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Young, un enfant qui doit veiller à ne pas peiner ses proches apprend à se sentir coupable dès qu'il pense à lui.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "pat_overresponsibility",
+   "strength": "limitee",
+   "summary": "Les adultes parentifiés dans l'enfance tendent davantage à reprendre ce rôle de soignant auprès de leur conjoint, ce qui est associé à plus d'épuisement dans le couple.",
+   "sources": [
+    "ucok2026"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "sch_abnegation",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie les familles où il fallait répondre aux besoins des autres au schéma d'abnégation.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "ten_codependance",
+   "strength": "theorique",
+   "summary": "Les modèles de la codépendance citent la parentification parmi les facteurs familiaux possibles, sans que la recherche ait établi ce lien solidement.",
+   "sources": [
+    "knapek2014"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "moderee",
+   "summary": "Avoir pris soin d'un parent ou de la fratrie est associé à un peu plus de symptômes anxieux chez les jeunes adultes.",
+   "sources": [
+    "hooper2011",
+    "gavcar2026"
+   ]
+  },
+  {
+   "factor": "parentification",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "moderee",
+   "summary": "La parentification rapportée est associée à une légère augmentation des difficultés psychologiques à l'âge adulte, dont les symptômes dépressifs ; quand ce rôle est vécu comme ayant aussi apporté quelque chose, l'association est plus faible.",
+   "sources": [
+    "hooper2011",
+    "gavcar2026"
+   ]
+  },
+  {
+   "factor": "ressenti_abandon",
+   "outcome": "att_anxieux",
+   "strength": "theorique",
+   "summary": "La théorie de l'attachement relie une disponibilité irrégulière des parents à un attachement anxieux, marqué par la crainte d'être délaissé.",
+   "sources": [
+    "cassidy1994"
+   ]
+  },
+  {
+   "factor": "ressenti_abandon",
+   "outcome": "pat_abandonment_fear",
+   "strength": "theorique",
+   "summary": "Une peur précoce de perdre ses parents peut se prolonger en une sensibilité aux signes de distance dans les liens adultes, selon les modèles cliniques.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_abandon",
+   "outcome": "sch_abandon",
+   "strength": "theorique",
+   "summary": "Le schéma d'abandon décrit exactement cette attente que les proches partent ; Young le relie à une famille instable.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_colere_interdite",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Selon les modèles cliniques, taire sa colère peut s'accompagner d'une tendance à apaiser les autres pour préserver le lien.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_colere_interdite",
+   "outcome": "pat_conflict",
+   "strength": "theorique",
+   "summary": "Selon les modèles cliniques, ne pas avoir eu le droit d'être en désaccord peut rendre le conflit plus menaçant à l'âge adulte.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_colere_interdite",
+   "outcome": "pat_emotional_suppression",
+   "strength": "limitee",
+   "summary": "Quand l'affection dépend du contrôle des émotions négatives, les jeunes tendent davantage à les réprimer.",
+   "sources": [
+    "roth2009"
+   ]
+  },
+  {
+   "factor": "ressenti_colere_interdite",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Le schéma d'assujettissement inclut la suppression de la colère pour éviter le conflit ou le rejet.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_colere_interdite",
+   "outcome": "sch_surcontrole",
+   "strength": "theorique",
+   "summary": "Le schéma d'inhibition émotionnelle décrit le fait de retenir ses émotions, dont la colère, pour éviter la désapprobation.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_honte",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "summary": "La honte liée au regard des autres est particulièrement associée aux symptômes d'anxiété sociale.",
+   "sources": [
+    "candea2018"
+   ]
+  },
+  {
+   "factor": "ressenti_honte",
+   "outcome": "sch_imperfection",
+   "strength": "theorique",
+   "summary": "Le schéma d'imperfection et de honte décrit ce sentiment d'être défectueux et la peur que les autres le découvrent.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_honte",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "limitee",
+   "summary": "La honte est associée à plus de symptômes anxieux, plus que la culpabilité.",
+   "sources": [
+    "candea2018"
+   ]
+  },
+  {
+   "factor": "ressenti_honte",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "limitee",
+   "summary": "La tendance à éprouver de la honte est nettement associée aux symptômes dépressifs chez l'adulte ; ces études mesurent la honte et la dépression en même temps.",
+   "sources": [
+    "kim2011"
+   ]
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "Les adultes ayant une dépression majeure se souviennent plus souvent de parents peu chaleureux et peu attentifs ; ces souvenirs sont rétrospectifs.",
+   "sources": [
+    "kidd2022"
+   ]
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "icd_6a72",
+   "strength": "moderee",
+   "summary": "Le souvenir de parents peu attentifs est plus fréquent chez les adultes ayant une dysthymie.",
+   "sources": [
+    "kidd2022"
+   ]
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "pat_needs_expression",
+   "strength": "theorique",
+   "summary": "Selon le modèle des schémas, des besoins de l'enfant restés sans réponse peuvent rendre plus difficile, plus tard, le fait de reconnaître et d'exprimer les siens.",
+   "sources": [
+    "young_schemas",
+    "bach2018"
+   ]
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas décrit des personnes qui taisent leurs besoins pour éviter le rejet, un prolongement possible du sentiment de ne pas compter.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "sch_carence_affective",
+   "strength": "limitee",
+   "summary": "Avoir manqué d'attention et de soutien affectif est associé de façon assez nette au schéma de carence affective à l'âge adulte, dans des études surtout transversales.",
+   "sources": [
+    "pilkington2021",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_pas_compter",
+   "outcome": "ten_alexithymie",
+   "strength": "limitee",
+   "summary": "Un faible soin parental rapporté est l'un des liens les plus nets avec l'alexithymie à l'âge adulte.",
+   "sources": [
+    "thorberg2011"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "pat_conditional_worth",
+   "strength": "limitee",
+   "summary": "Le sentiment de devoir mériter l'affection est associé à une estime de soi qui monte et descend avec les réussites.",
+   "sources": [
+    "assor2004"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "pat_perfectionism",
+   "strength": "limitee",
+   "summary": "La crainte qu'une erreur fasse perdre l'estime correspond à la facette inquiète du perfectionnisme, associée aux critiques, aux attentes élevées et à l'affection conditionnelle.",
+   "sources": [
+    "lavrijsen2021",
+    "curran2022"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "sch_exigences_elevees",
+   "strength": "theorique",
+   "summary": "Le schéma d'exigences élevées décrit cette pression à atteindre des standards très hauts pour éviter la critique.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "sch_punition",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Young, la conviction qu'une erreur est grave peut nourrir le schéma de punition envers soi.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_perfection",
+   "outcome": "sch_recherche_approbation",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie une acceptation conditionnelle au besoin persistant d'approbation.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "att_desorganise",
+   "strength": "limitee",
+   "summary": "Quand le parent est lui-même source de peur, l'enfant est plus souvent dans un attachement désorganisé.",
+   "sources": [
+    "madigan2006"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Selon les modèles cliniques, apaiser l'autre pour éviter sa colère est une stratégie fréquente quand on a vécu dans la peur.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "sch_mefiance",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie un climat familial menaçant au schéma de méfiance : s'attendre à être blessé.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "sch_vulnerabilite",
+   "strength": "theorique",
+   "summary": "Le schéma de vulnérabilité décrit la crainte permanente qu'une catastrophe survienne sans pouvoir l'empêcher.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "limitee",
+   "summary": "L'exposition à la menace dans l'enfance est associée à une réactivité émotionnelle plus forte et à plus de difficultés de régulation.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "ten_hypervigilance",
+   "strength": "limitee",
+   "summary": "Grandir dans un climat menaçant est associé à une attention accrue aux signes de colère et de danger ; cette adaptation protège sur le moment mais peut peser plus tard.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "ressenti_peur",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "limitee",
+   "summary": "Ces changements liés à la menace sont associés à un risque plus élevé de difficultés anxieuses ; le soutien d'un adulte protège.",
+   "sources": [
+    "mclaughlin2020"
+   ]
+  },
+  {
+   "factor": "ressenti_responsable",
+   "outcome": "pat_appeasement",
+   "strength": "theorique",
+   "summary": "Selon les modèles cliniques, l'enfant qui croit devoir rendre les adultes heureux peut garder une tendance à apaiser les autres pour se sentir en sécurité.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_responsable",
+   "outcome": "pat_guilt",
+   "strength": "limitee",
+   "summary": "Une culpabilité liée à un sentiment exagéré de responsabilité est associée, chez l'adulte, à plus de symptômes dépressifs et anxieux.",
+   "sources": [
+    "kim2011",
+    "candea2018"
+   ]
+  },
+  {
+   "factor": "ressenti_responsable",
+   "outcome": "pat_overresponsibility",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie les familles où l'enfant devait éviter de peiner les adultes à une orientation vers les besoins d'autrui, proche de ce que l'on appelle le rôle de sauveur.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_responsable",
+   "outcome": "sch_abnegation",
+   "strength": "theorique",
+   "summary": "Le schéma d'abnégation décrit le fait de répondre aux besoins des autres à ses dépens ; Young le relie à cette responsabilité précoce.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_responsable",
+   "outcome": "sch_assujettissement",
+   "strength": "theorique",
+   "summary": "Se sentir chargé de l'humeur des adultes correspond, dans le modèle de Young, à l'apprentissage de taire ses besoins pour éviter la colère.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "ressenti_responsable",
+   "outcome": "ten_codependance",
+   "strength": "theorique",
+   "summary": "Les modèles de la codépendance décrivent des personnes qui se sentent responsables du bien-être d'un proche, souvent depuis l'enfance ; le niveau de preuve reste faible.",
+   "sources": [
+    "knapek2014"
+   ]
+  },
+  {
+   "factor": "ressenti_solitude",
+   "outcome": "pat_social_isolation",
+   "strength": "theorique",
+   "summary": "Selon les modèles cliniques, une solitude ancienne peut rendre plus difficile la création de liens à l'âge adulte.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_solitude",
+   "outcome": "sch_isolement",
+   "strength": "theorique",
+   "summary": "Le schéma d'isolement social décrit ce sentiment d'être différent et de n'appartenir à aucun groupe ; Young le relie à une enfance solitaire.",
+   "sources": [
+    "young_schemas",
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "ressenti_solitude",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "limitee",
+   "summary": "La solitude est aussi associée, de façon moins nette, à plus d'anxiété chez les jeunes.",
+   "sources": [
+    "loades2020"
+   ]
+  },
+  {
+   "factor": "ressenti_solitude",
+   "outcome": "ten_symptomes_depressifs",
+   "strength": "moderee",
+   "summary": "La solitude dans l'enfance et l'adolescence est associée à un risque plus élevé de dépression, y compris plusieurs années plus tard ; la durée compte plus que l'intensité.",
+   "sources": [
+    "loades2020"
+   ]
+  },
+  {
+   "factor": "secret_famille",
+   "outcome": "pat_identity_transition",
+   "strength": "limitee",
+   "summary": "La révélation d'un secret sur ses origines amène souvent à repenser son identité et sa place dans la famille ; les données sont qualitatives.",
+   "sources": [
+    "grethel2026"
+   ]
+  },
+  {
+   "factor": "secret_famille",
+   "outcome": "sch_mefiance",
+   "strength": "limitee",
+   "summary": "La découverte d'un secret familial important peut être vécue comme une trahison et ébranler la confiance dans les proches ; les données sont surtout qualitatives.",
+   "sources": [
+    "grethel2026"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6a71",
+   "strength": "moderee",
+   "summary": "Les adultes ayant une dépression majeure décrivent plus souvent des parents surprotecteurs et peu chaleureux ; ces données rétrospectives ne permettent pas de conclure à une cause.",
+   "sources": [
+    "kidd2022"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6a72",
+   "strength": "moderee",
+   "summary": "Une surprotection parentale rapportée est plus fréquente chez les adultes ayant une dysthymie que chez les personnes sans diagnostic.",
+   "sources": [
+    "kidd2022"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "icd_6b01",
+   "strength": "moderee",
+   "summary": "Les adultes ayant un trouble panique rapportent plus souvent une surprotection parentale dans l'enfance.",
+   "sources": [
+    "kidd2022"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "sch_dependance",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie des parents qui ne laissaient pas l'enfant développer ses compétences au schéma de dépendance et d'incompétence.",
+   "sources": [
+    "carlucci2018",
+    "young_schemas"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "sch_fusion",
+   "strength": "theorique",
+   "summary": "Le modèle des schémas relie un parent trop impliqué dans la vie de l'enfant au schéma de fusion, où l'identité propre peine à se développer.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "sch_vulnerabilite",
+   "strength": "theorique",
+   "summary": "Dans le modèle de Young, une éducation qui sape la confiance et présente le monde comme dangereux est une origine du schéma de vulnérabilité au danger.",
+   "sources": [
+    "carlucci2018"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "ten_alexithymie",
+   "strength": "limitee",
+   "summary": "Une surprotection parentale rapportée est associée à plus de difficultés à décrire ses émotions à l'âge adulte.",
+   "sources": [
+    "thorberg2011"
+   ]
+  },
+  {
+   "factor": "surprotection",
+   "outcome": "ten_symptomes_anxieux",
+   "strength": "moderee",
+   "summary": "Un contrôle parental qui laisse peu d'autonomie est associé à plus d'anxiété chez l'enfant, avec des effets modestes et probablement réciproques : un enfant anxieux suscite aussi plus de protection.",
+   "sources": [
+    "mcleod2007_anxiete",
+    "vanderbruggen2008",
+    "yap2014"
+   ]
+  }
+ ],
+ "protections": [],
+ "notes": {},
+ "sources": [
+  {
+   "id": "aran2024",
+   "citation": "Aran Ö et al., 2024, Across ages and places: unpredictability of maternal sensory signals and child internalizing behaviors, Journal of Affective Disorders 347:557-567",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38007106/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "assor2004",
+   "citation": "Assor A, Roth G, Deci EL, 2004, The emotional costs of parents' conditional regard: a self-determination theory analysis, Journal of Personality 72(1):47-88",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14686884/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "bach2018",
+   "citation": "Bach B, Lockwood G, Young JE, 2018, A new look at the schema therapy model: organization and role of early maladaptive schemas, Cognitive Behaviour Therapy 47(4):328-349",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29256336/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "bleys2018",
+   "citation": "Bleys D, Soenens B, Claes S, Vliegen N, Luyten P, 2018, Parental psychological control, adolescent self-criticism, and adolescent depressive symptoms: a latent change modeling approach in Belgian adolescents, Journal of Clinical Psychology 74(10):1833-1853",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29696640/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "candea2018",
+   "citation": "Cândea DM, Szentagotai-Tătar A, 2018, Shame-proneness, guilt-proneness and anxiety symptoms: a meta-analysis, Journal of Anxiety Disorders 58:78-106",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30075356/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "carlucci2018",
+   "citation": "Carlucci L, D'Ambrosio I, Innamorati M, Saggino A, Balsamo M, 2018, Co-rumination, anxiety, and maladaptive cognitive schemas: when friendship can hurt, Psychology Research and Behavior Management 11:133-144 (tableau 1 : domaines de schémas et origines familiales selon Young et al. 2003)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5903493/",
+   "type": "theorie",
+   "read": "section"
+  },
+  {
+   "id": "cassidy1994",
+   "citation": "Cassidy J, Berlin LJ, 1994, The insecure/ambivalent pattern of attachment: theory and research, Child Development 65(4):971-991",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7956474/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "cavicchioli2024",
+   "citation": "Cavicchioli M et al., 2024, Antecedents and risk factors for borderline personality disorder: etiopathogenic models based on a multi-level meta-analysis, Journal of Affective Disorders 367:442-452",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39243819/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "crowell2009",
+   "citation": "Crowell SE, Beauchaine TP, Linehan MM, 2009, A biosocial developmental model of borderline personality: elaborating and extending Linehan's theory, Psychological Bulletin 135(3):495-510",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19379027/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "curran2022",
+   "citation": "Curran T, Hill AP, 2022, Young people's perceptions of their parents' expectations and criticism are increasing over time: implications for perfectionism, Psychological Bulletin 148(1-2):107-128",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35357848/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "eradus2024",
+   "citation": "Eradus M, Leijten P, Melendez-Torres GJ, Foo XQ, Oliver BR, 2024, Parental differential warmth, hostility, and sibling differences in internalizing and externalizing behavior problems: a meta-analysis, Journal of Family Psychology 38(3):387-399",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38271066/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "franssens2021",
+   "citation": "Franssens R, Abrahams L, Brenning K, Van Leeuwen K, De Clercq B, 2021, Unraveling prospective reciprocal effects between parental invalidation and pre-adolescents' borderline traits, Research on Child and Adolescent Psychopathology 49(10):1387-1401",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34021460/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "gavcar2026",
+   "citation": "Gavcar EG, Gavcar E, 2026, When caring becomes a burden: childhood parentification and its links to relationship styles, depression, and anxiety in young adults, BMC Psychology 14:332",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41652497/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "grethel2026",
+   "citation": "Grethel M, Williams BK, Schuman O, Guerrini C, 2026, The ripple effects of misattributed parentage: the systemic family impact of 'not parent expected' discoveries, Family Process 65(4):e70207",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42849915/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "hooper2011",
+   "citation": "Hooper LM, DeCoster J, White N, Voltz ML, 2011, Characterizing the magnitude of the relation between self-reported childhood parentification and adult psychopathology: a meta-analysis, Journal of Clinical Psychology 67(10):1028-1043",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21520081/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "jensen2024",
+   "citation": "Jensen AC, Thomsen AE, 2024, Parental differential treatment of siblings linked with internalizing and externalizing behavior: a meta-analysis, Child Development 95(4):1384-1405",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38439142/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "johnson2017",
+   "citation": "Johnson AM, Hawes DJ, Eisenberg N, Kohlhoff J, Dudeney J, 2017, Emotion socialization and child conduct problems: a comprehensive review and meta-analysis, Clinical Psychology Review 54:65-80",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28414957/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "kanatmaymon2016",
+   "citation": "Kanat-Maymon Y, Roth G, Assor A, Raizer A, 2016, Controlled by love: the harmful relational consequences of perceived conditional positive regard, Journal of Personality 84(4):446-460",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25773317/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "kidd2022",
+   "citation": "Kidd KN et al., 2022, The relationship between parental bonding and mood, anxiety and related disorders in adulthood: a systematic review and meta-analysis, Journal of Affective Disorders",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35378151/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "kim2011",
+   "citation": "Kim S, Thibodeau R, Jorgensen RS, 2011, Shame, guilt, and depressive symptoms: a meta-analytic review, Psychological Bulletin 137(1):68-96",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21219057/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "knapek2014",
+   "citation": "Knapek E, Kuritárné Szabó I, 2014, A kodependencia fogalma, tünetei és etiológiai tényezői [Le concept, les symptômes et les facteurs étiologiques de la codépendance], Psychiatria Hungarica 29(1):56-64",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24670293/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "lavrijsen2021",
+   "citation": "Lavrijsen J, Soenens B, Vansteenkiste M, Verschueren K, 2021, Is intelligence related to perfectionism? Multidimensional perfectionism and parental antecedents among adolescents across varying levels of cognitive ability, Journal of Personality 89(4):652-671",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33159386/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "loades2020",
+   "citation": "Loades ME et al., 2020, Rapid systematic review: the impact of social isolation and loneliness on the mental health of children and adolescents in the context of COVID-19, Journal of the American Academy of Child and Adolescent Psychiatry 59(11):1218-1239",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32504808/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "madigan2006",
+   "citation": "Madigan S, Bakermans-Kranenburg MJ, Van IJzendoorn MH, Moran G, Pederson DR, Benoit D, 2006, Unresolved states of mind, anomalous parental behavior, and disorganized attachment: a review and meta-analysis of a transmission gap, Attachment & Human Development 8(2):89-111",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16818417/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "mclaughlin2020",
+   "citation": "McLaughlin KA, Colich NL, Rodman AM, Weissman DG, 2020, Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience, BMC Medicine 18:96",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32238167/",
+   "type": "theorie",
+   "read": "résumé"
+  },
+  {
+   "id": "mcleod2007_anxiete",
+   "citation": "McLeod BD, Wood JJ, Weisz JR, 2007, Examining the association between parenting and childhood anxiety: a meta-analysis, Clinical Psychology Review 27(2):155-172",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17112647/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "mcleod2007_depression",
+   "citation": "McLeod BD, Weisz JR, Wood JJ, 2007, Examining the association between parenting and childhood depression: a meta-analysis, Clinical Psychology Review 27(8):986-1003",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17449154/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "pilkington2021",
+   "citation": "Pilkington PD, Bishop A, Younan R, 2021, Adverse childhood experiences and early maladaptive schemas in adulthood: a systematic review and meta-analysis, Clinical Psychology & Psychotherapy 28(3):569-584",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33270299/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "pinquart2017",
+   "citation": "Pinquart M, 2017, Associations of parenting dimensions and styles with externalizing problems of children and adolescents: an updated meta-analysis, Developmental Psychology 53(5):873-932",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28459276/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "roth2009",
+   "citation": "Roth G, Assor A, Niemiec CP, Deci EL, Ryan RM, 2009, The emotional and academic consequences of parental conditional regard, Developmental Psychology 45(4):1119-1142",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19586183/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "roth2012",
+   "citation": "Roth G, Assor A, 2012, The costs of parental pressure to express emotions: conditional regard and autonomy support as predictors of emotion regulation and intimacy, Journal of Adolescence 35(4):799-808",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22230190/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "salaam2025",
+   "citation": "Salaam B, Kyere E, 2025, Parental psychological control and youths' internalizing symptoms in majority world contexts: a meta-analysis, Journal of Family Psychology 39(5):561-581",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40244958/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "thorberg2011",
+   "citation": "Thorberg FA, Young RM, Sullivan KA, Lyvers M, 2011, Parental bonding and alexithymia: a meta-analysis, European Psychiatry 26(3):187-193",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21277748/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "ucok2026",
+   "citation": "Özgülük Üçok SB, Öztemür G, Yılancı Ö, 2026, From childhood burdens to relationship strains: exploring partner parentification and couple burnout, Behavioral Sciences 16(2):177",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41749986/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "vanderbruggen2008",
+   "citation": "van der Bruggen CO, Stams GJ, Bögels SM, 2008, The relation between child and parent anxiety and parental control: a meta-analytic review, Journal of Child Psychology and Psychiatry 49(12):1257-1269",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18355216/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "yap2014",
+   "citation": "Yap MB, Pilkington PD, Ryan SM, Jorm AF, 2014, Parental factors associated with depression and anxiety in young people: a systematic review and meta-analysis, Journal of Affective Disorders 156:8-23",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24308895/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "yap2017",
+   "citation": "Yap MBH, Cheong TWK, Zaravinos-Tsakos F, Lubman DI, Jorm AF, 2017, Modifiable parenting factors associated with adolescent alcohol misuse: a systematic review and meta-analysis of longitudinal studies, Addiction 112(7):1142-1162",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28178373/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "young_schemas",
+   "citation": "Young JE, Schema Therapy Institute, Early Maladaptive Schemas (liste et définitions des 18 schémas)",
+   "url": "https://www.schematherapy.com/id73.htm",
+   "type": "theorie",
+   "read": "section"
+  },
+  {
+   "id": "zeng2026",
+   "citation": "Zeng M, Huang L, Jiao T, Yang F, 2026, The association between parental psychological control and social anxiety among children and adolescents: a three-level meta-analysis, Psychological Reports",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42538526/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  }
+ ]
+}
