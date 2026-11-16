@@ -168,12 +168,6 @@
     function renderSave() {
       if (!saveBox) return;
       saveBox.innerHTML = '';
-      var deleteBox = root.querySelector('[data-delete]');
-      if (deleteBox) {
-        deleteBox.innerHTML = '';
-        // Kept away from the top of the page: a discreet way to erase the saved map.
-        if (state.account && (state.saved || hasContent())) deleteBox.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting || state.loading, onclick: removeSaved }, ['Supprimer ma cartographie']));
-      }
       if (!state.account) {
         saveBox.dataset.state = 'anonymous';
         saveBox.appendChild(el('p', {}, [state.loading ? 'Vérification de votre connexion… Vos réponses restent sur cet appareil.' : 'Sans connexion, vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ', state.loading ? null : el('a', { href: '/mon-compte/', text: 'Se connecter' })]));
@@ -376,9 +370,6 @@
       if (!s.selectedCount) {
         results.appendChild(el('p', { className: 'carto-empty', text: 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Une réponse « Non » reste enregistrée et ne crée pas d’association.' }));
         return;
-      }
-      if (s.results.some(function (r) { return r.outcome.note === 'suicide'; })) {
-        results.appendChild(el('div', { className: 'carto-note-urgent', role: 'note' }, [el('strong', { text: 'Si vous avez des idées suicidaires en ce moment, ' }), 'appelez le 3114 (gratuit, 24 h/24). Danger immédiat : 15 ou 112.']));
       }
       // One list, from the most associated experiences to the fewest; the engine's order breaks ties.
       var shown = s.results.map(function (r, index) { return { r: r, index: index }; })
