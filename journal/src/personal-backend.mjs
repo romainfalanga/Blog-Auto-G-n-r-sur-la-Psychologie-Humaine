@@ -145,7 +145,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    bump(env,user.id)
   ]);
   const saved=await first(env,"SELECT payload_hash FROM context_mutations WHERE user_id=? AND kind='psychology_feedback' AND creation_id=?",user.id,key);
-  if(!saved)fail(400,'La mémoire de précisions a atteint sa limite. Vous pouvez mettre à jour les informations concernées dans Mon portrait, À propos de moi.','memory_limit');
+  if(!saved)fail(400,'La mémoire de précisions a atteint sa limite. Vous pouvez mettre à jour les informations concernées dans Mon portrait.','memory_limit');
   if(saved.payload_hash!==payloadHash)fail(409,'Cet identifiant a déjà servi pour un autre retour.','idempotency_conflict');
   const memory=await first(env,'SELECT version FROM memories WHERE user_id=?',user.id);
   return json({ok:true,replayed:!result[0].meta.changes,feedback:{pattern_id:patternId,kind},source_version:await version(env,user.id),memory_version:memory.version});

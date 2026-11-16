@@ -257,8 +257,6 @@
     }
     function renderForm() {
       formBody.innerHTML = '';
-      formBody.appendChild(el('p', { className: 'carto-home-intro', text: 'Ouvrez les thèmes qui vous parlent, dans l’ordre que vous voulez. Vous pouvez en ouvrir plusieurs et laisser des questions sans réponse.' }));
-      formBody.appendChild(el('p', { className: 'carto-answer-help', id: 'carto-answer-help', text: 'Oui : cela m’est arrivé. Non : cela ne me correspond pas. Souvent : c’était répété ou particulièrement marquant. Ce choix précise votre vécu ; il ne mesure pas un risque.' }));
       var list = el('div', { className: 'carto-themes' });
       themes.forEach(function (theme) {
         var details = el('details', { className: 'carto-theme-panel', 'data-theme': theme.id, open: Boolean(state.themesOpen[theme.id]) });
@@ -283,7 +281,7 @@
         el('strong', { className: 'carto-factor-label', text: f.label }),
         el('p', { className: 'carto-factor-hint', text: hint }),
         el('div', { className: 'carto-factor-actions' }, [
-          el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label, 'aria-describedby': 'carto-answer-help' }, [
+          el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, [
             choice(state.answers[f.id], 0, 'Non', function (l) { setAnswer(f, l); }),
             choice(state.answers[f.id], 1, 'Oui', function (l) { setAnswer(f, l); }),
             choice(state.answers[f.id], 2, 'Souvent', function (l) { setAnswer(f, l); })
@@ -373,10 +371,6 @@
       results.innerHTML = '';
       updateCounts(s);
       renderSave();
-      results.appendChild(el('p', { className: 'carto-coverage' }, [
-        (data.coverage && data.coverage.outcomes || data.outcomes.length) + ' sujets dans cette sélection. Cette carte explore des associations liées aux vécus proposés. Elle ne couvre pas tous les diagnostics ni tous les mécanismes psychologiques. ',
-        el('a', { href: 'https://github.com/romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/blob/main/docs/audit-cartographie-transparence-2026-11-16.md', target: '_blank', rel: 'noopener', text: 'Voir le périmètre et les références' })
-      ]));
       var general = ambreNotes('general', null);
       if (general) results.appendChild(el('section', { className: 'carto-ambre-general' }, [el('h3', { className: 'carto-tier-title', text: 'Notes d’Ambre' }), general]));
       if (!s.selectedCount) {
@@ -386,14 +380,10 @@
       if (s.results.some(function (r) { return r.outcome.note === 'suicide'; })) {
         results.appendChild(el('div', { className: 'carto-note-urgent', role: 'note' }, [el('strong', { text: 'Si vous avez des idées suicidaires en ce moment, ' }), 'appelez le 3114 (gratuit, 24 h/24). Danger immédiat : 15 ou 112.']));
       }
-      if (s.aceCount >= 4 && data.notes && data.notes.cumul) {
-        results.appendChild(el('div', { className: 'carto-note-cumul' }, [el('strong', { text: s.aceCount + ' expériences adverses de l’enfance. ' }), (data.notes.cumul.text || String(data.notes.cumul))]));
-      }
       // One list, from the most associated experiences to the fewest; the engine's order breaks ties.
       var shown = s.results.map(function (r, index) { return { r: r, index: index }; })
         .sort(function (a, b) { return b.r.factors.length - a.r.factors.length || a.index - b.index; })
         .map(function (item) { return item.r; });
-      results.appendChild(el('p', { className: 'carto-tier-desc', text: 'Du plus grand nombre de vécus associés au plus petit. Ce nombre ne renforce pas le niveau de preuve et ne mesure pas votre risque : le type de lien est indiqué sur chaque carte.' }));
       results.appendChild(el('div', { className: 'carto-grid' }, shown.map(card)));
       restoreFocus(focused);
     }
