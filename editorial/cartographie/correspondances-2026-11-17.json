@@ -3635,12 +3635,12 @@
   "final_validation": {
     "status": "passed",
     "reviewed_on": "2026-11-17",
-    "graph_core_sha256": "a76619bc2d7e51a7dbb8b075e4276e13559351ca58e5b2ba20bc74d116728b30",
+    "graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
     "active_factors": 59,
     "active_outcomes": 109,
     "resources": 11,
-    "links": 494,
-    "sources": 261,
+    "links": 493,
+    "sources": 260,
     "retired_outcomes": 3,
     "all_semantic_targets_exist": true,
     "no_semantic_targets_are_retired": true,
@@ -3650,6 +3650,50 @@
     "all_lot_out_of_scope_objects_preserved": true,
     "all_858_icd_codes_present_structurally": true,
     "unresolved_registry_source_ids": [],
-    "does_not_validate_clinical_criteria_or_causality": true
-  }
+    "does_not_validate_clinical_criteria_or_causality": true,
+    "post_integration_delta_independently_reviewed": true
+  },
+  "post_integration_reviews": [
+    {
+      "reviewed_by": "coverage17",
+      "reviewed_on": "2026-11-17",
+      "previous_graph_core_sha256": "a76619bc2d7e51a7dbb8b075e4276e13559351ca58e5b2ba20bc74d116728b30",
+      "validated_graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
+      "changes": [
+        {
+          "type": "link_and_unused_source_removed",
+          "factor": "emprise_religieuse",
+          "outcome": "ten_qualite_relationnelle",
+          "source_id": "saldana2022",
+          "independent_reading": "Résumé original PMID 34445910 relu via API Europe PMC ; PubMed n’affichait qu’un pied de page. Questionnaire de 636 anciens membres : 377 victimes et 259 non-victimes ; entrées dans le groupe pendant l’enfance et à l’âge adulte. Relations positives et bien-être mesurés, mais pas d’estimation infantile isolée permettant la paire du questionnaire. Texte intégral non lu.",
+          "reason": "Retrait cohérent avec la limite d’âge déjà identifiée au lot 9. Une absence de différence statistique selon âge d’entrée ne démontre pas une association enfance → qualité relationnelle. Aucune preuve d’absence universelle ni nouvelle paire substituée."
+        },
+        {
+          "type": "outcome_presentation_metadata",
+          "outcome_ids": [
+            "ten_diabete_type2",
+            "ten_fibromyalgie",
+            "ten_maladies_cardiovasculaires",
+            "ten_migraine"
+          ],
+          "fields_changed": {
+            "category": [
+              "tendency",
+              "health_outcome"
+            ],
+            "domain": [
+              "perceptions",
+              "comportements"
+            ]
+          },
+          "independent_check": "Les quatre descriptions, identifiants, liens et marqueurs contextual_only sont inchangés. Aucune des 161 décisions ni aucun des 22 chapitres DSM ne cible ces cartes. La catégorie santé évite de les présenter comme des tendances psychologiques."
+        }
+      ],
+      "all_161_descriptions_alternatives_and_targets_rechecked": true,
+      "all_22_dsm_chapter_targets_rechecked": true,
+      "all_858_icd_codes_and_original_lot_decisions_preserved": true,
+      "other_links_unchanged": true,
+      "factors_resources_and_retired_outcomes_unchanged": true
+    }
+  ]
 }

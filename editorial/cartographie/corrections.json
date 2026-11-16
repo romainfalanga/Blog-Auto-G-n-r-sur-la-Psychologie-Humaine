@@ -148,6 +148,26 @@
   "pat_parentification": {
    "contextual_only": true,
    "description": "Avoir tenu enfant des responsabilités familiales inadaptées à son âge. C’est un vécu à contextualiser, distinct d’une aide familiale soutenue et adaptée, et non un diagnostic ou une conséquence adulte."
+  },
+  "ten_maladies_cardiovasculaires": {
+   "category": "health_outcome",
+   "domain": "comportements",
+   "contextual_only": true
+  },
+  "ten_diabete_type2": {
+   "category": "health_outcome",
+   "domain": "comportements",
+   "contextual_only": true
+  },
+  "ten_migraine": {
+   "category": "health_outcome",
+   "domain": "comportements",
+   "contextual_only": true
+  },
+  "ten_fibromyalgie": {
+   "category": "health_outcome",
+   "domain": "comportements",
+   "contextual_only": true
   }
  },
  "remove_outcomes": [

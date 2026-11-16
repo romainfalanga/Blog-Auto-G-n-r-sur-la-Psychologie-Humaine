@@ -73,22 +73,31 @@ export function createChangeBackend({error,json,body,now,random,limit}){
   }
   return {hash};
  }
- async function save(env,state,document,{data,controls={},receiptInfo=null,entityKind='',entityId='',removed=[],changedContents=[]}={}){
+ async function save(env,state,document,options={},attempt=0){
+  let {data,controls={},receiptInfo=null,entityKind='',entityId='',removed=[],changedContents=[]}=options;
   validateBounds(document);
   const affected=[...new Set([...removed,...changedContents])],refs=affected.length?await first(env,'SELECT 1 AS found FROM change_artifact_refs WHERE user_id=? AND entity_id IN (SELECT value FROM json_each(?)) LIMIT 1',state.user_id,JSON.stringify(affected)):null;
-  const cutoff=Boolean(refs),memory=cutoff?parse((await first(env,'SELECT summary FROM chat_memory WHERE user_id=?',state.user_id))?.summary):{};
+  const cutoff=Boolean(refs),memoryRow=cutoff?await first(env,'SELECT summary FROM chat_memory WHERE user_id=?',state.user_id):null,memory=parse(memoryRow?.summary);
   if(cutoff){
    controls={...controls,context_generation:state.context_generation+1,exploration_reconsent_required:Boolean(state.exploration_reconsent_required||memory.closed?.length||memory.closed_overflow),past_safety_signal:Boolean(state.past_safety_signal||memory.safety_seen||memory.safety?.length)};
    // A point with an unproven memory source cannot survive a continuity reset.
    document.preparations=document.preparations.filter(item=>!item.memory_revision);
   }
   if(affected.length)document.preparations=document.preparations.filter(item=>!(item.dependencies||[]).some(ref=>affected.includes(ref.id)));
-  const mutation=random(),guard=mutationGuard(state.user_id,mutation),statements=[changeWrite(env,state,document,{now:now(),mutation,controls})];
+  // A provider transmission or memory update need not change the plan revision.
+  // Recheck both reads in the first statement of the atomic mutation batch.
+  const sourceGuard=affected.length?'EXISTS(SELECT 1 FROM change_artifact_refs WHERE user_id=? AND entity_id IN (SELECT value FROM json_each(?)))=?':'1=1',sourceArgs=affected.length?[state.user_id,JSON.stringify(affected),Number(cutoff)]:[];
+  const memoryGuard=cutoff?" AND COALESCE((SELECT summary FROM chat_memory WHERE user_id=?),'')=?":'',memoryArgs=cutoff?[state.user_id,memoryRow?.summary||'']:[];
+  const mutation=random(),guard=mutationGuard(state.user_id,mutation),statements=[changeWrite(env,state,document,{now:now(),mutation,controls,guard:sourceGuard+memoryGuard,guardArgs:[...sourceArgs,...memoryArgs]})];
   if(receiptInfo)statements.push(stmt(env,`INSERT INTO change_requests(user_id,request_key,epoch,request_hash,entity_kind,entity_id,created_at) SELECT ?,?,?,?,?,?,? WHERE ${guard.sql}`,state.user_id,data.request_key,state.epoch,receiptInfo.hash,entityKind,entityId,now(),...guard.args));
   if(removed.length)statements.push(stmt(env,`UPDATE change_requests SET deleted=1 WHERE user_id=? AND entity_id IN (SELECT value FROM json_each(?)) AND ${guard.sql}`,state.user_id,JSON.stringify(removed),...guard.args));
   if(affected.length)statements.push(...invalidateChangeArtifacts(env,state.user_id,affected,mutation,{cutoff,now:now()}));
   const result=await env.DB.batch(statements);
-  if(!result[0].meta.changes)fail(409,'Votre plan a changé. Rechargez-le avant d’enregistrer votre saisie.','revision_conflict');
+  if(!result[0].meta.changes){
+   const fresh=ensure(await readChangeState(env,state.user_id));
+   if(attempt<3&&fresh.revision===state.revision&&fresh.epoch===state.epoch&&fresh.context_generation===state.context_generation)return save(env,fresh,document,options,attempt+1);
+   fail(409,'Votre plan a changé. Rechargez-le avant d’enregistrer votre saisie.','revision_conflict');
+  }
   return {state:ensure(await readChangeState(env,state.user_id)),...(cutoff?{continuity_reset:true}:{}),...(removed.length?{removed:'Les éléments du plan et leurs copies générées ont été retirés.',retained:'Vos messages originaux restent dans votre conversation. Vous pouvez effacer aussi cette conversation.'}:{})};
  }
  function removeObject(document,kind,id){

@@ -839,9 +839,9 @@
    "kind": "tendance",
    "label": "Diabète de type 2 : repère de recherche",
    "description": "Maladie métabolique qui nécessite une évaluation médicale. Les associations avec des expériences d’enfance ne permettent ni de la diagnostiquer ni d’en prédire la survenue.",
-   "domain": "perceptions",
+   "domain": "comportements",
    "contextual_only": true,
-   "category": "tendency"
+   "category": "health_outcome"
   },
   {
    "id": "ten_alexithymie",
@@ -979,9 +979,9 @@
    "kind": "tendance",
    "label": "Fibromyalgie : repère de recherche",
    "description": "Syndrome de douleurs diffuses avec d’autres symptômes possibles, à évaluer médicalement. Les études de groupe ne permettent pas d’en attribuer l’origine à l’enfance.",
-   "domain": "perceptions",
+   "domain": "comportements",
    "contextual_only": true,
-   "category": "tendency"
+   "category": "health_outcome"
   },
   {
    "id": "ten_narcissisme_grandiose",
@@ -1070,9 +1070,9 @@
    "kind": "tendance",
    "label": "Migraine : repère de recherche",
    "description": "Trouble neurologique étudié dans des enquêtes sur les violences subies pendant l’enfance. Une migraine n’est ni une preuve de maltraitance ni une douleur imaginaire.",
-   "domain": "perceptions",
+   "domain": "comportements",
    "contextual_only": true,
-   "category": "tendency"
+   "category": "health_outcome"
   },
   {
    "id": "ten_mode_parent_exigeant",
@@ -1202,9 +1202,9 @@
    "kind": "tendance",
    "label": "Santé cardiovasculaire : repère de recherche",
    "description": "Maladies du cœur et des vaisseaux étudiées à l’échelle de groupes. Ce repère ne permet aucun diagnostic ni pronostic individuel à partir de l’enfance.",
-   "domain": "perceptions",
+   "domain": "comportements",
    "contextual_only": true,
-   "category": "tendency"
+   "category": "health_outcome"
   },
   {
    "id": "sch_abandon",
@@ -4158,16 +4158,6 @@
     "young_schemas"
    ],
    "relation_type": "clinical_model"
-  },
-  {
-   "factor": "emprise_religieuse",
-   "outcome": "ten_qualite_relationnelle",
-   "strength": "limitee",
-   "summary": "Après un groupe à forte emprise, la différence la plus marquée concerne les relations positives avec les autres et l'intégration sociale ; elle diminue avec le temps passé hors du groupe.",
-   "sources": [
-    "saldana2022"
-   ],
-   "relation_type": "empirical_association"
   },
   {
    "factor": "enfant_prefere_role",
@@ -8459,13 +8449,6 @@
    "read": "résumé"
   },
   {
-   "id": "saldana2022",
-   "citation": "Saldaña O, Wu-Salmeron O, Antelo E, Rodríguez-Carballeira Á, 2022, The negative impact of group psychological abuse on life satisfaction and well-being, Journal of Interpersonal Violence 37(19-20):NP18865-NP18887",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/34445910/",
-   "type": "etude",
-   "read": "résumé"
-  },
-  {
    "id": "samara2021",
    "citation": "Samara M, Da Silva Nascimento B, El-Asam A, Hammuda S, Khattab N, 2021, How can bullying victimisation lead to lower academic achievement? A systematic review and meta-analysis of the mediating role of cognitive-motivational factors, International Journal of Environmental Research and Public Health 18(5):2209",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33668095/",
@@ -8931,6 +8914,7 @@
  "coverage": {
   "scope": "Sélection documentée de vécus de l’enfance ; ni inventaire de la psychologie ni couverture de tous les diagnostics.",
   "outcomes": 109,
+  "retired_outcomes": 3,
   "kinds": {
    "attachement": 3,
    "schema": 18,
@@ -9201,7 +9185,7 @@
    "Comparaison DSM-5-TR diagnostic par diagnostic",
    "Populations, âges, méthodes et limites pour chaque lien",
    "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux",
-   "Évaluation clinique indépendante des 494 liens, au-delà des contrôles de structure"
+   "Évaluation clinique indépendante des 493 liens, au-delà des contrôles de structure"
   ],
   "reference_registry": {
    "report": "editorial/cartographie/couverture-referentiels.json",

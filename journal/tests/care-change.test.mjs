@@ -63,20 +63,31 @@ test('an unshared plan never enters a point and its changes do not invalidate sh
 });
 
 test('revoking or removing plan consent during generation clears content and prevents publication',async t=>{
- for(const mode of ['revoke','reduce']){const s=careSetup();try{seedPlan(s);const link=await s.share(['plan','people']);s.setGenerator(async()=>{await s.call(`/api/care/links/${link.id}`,mode==='revoke'?'DELETE':'PUT',{revision:link.revision,accepted:true,scopes:['people']});return {text:JSON.stringify({items:[{source_id:'plan:goals:goal',quote:'Marcher avec une amie',theme:'Faits rapportés'}]})}});const queued=await prepare(s,link),row=s.raw.prepare('SELECT * FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'revoked');assert.equal(row.content,'');assert.equal(row.notes,'[]');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,0);assert.equal((await s.call(`/api/care/dossiers/${link.id}/plan`,'GET',undefined,'pro')).httpStatus,404);assert.equal((await s.call(`/api/care/briefs/${queued.id}`,'GET',undefined,'pro')).httpStatus,404)}finally{s.close()}}
+ for(const mode of ['revoke','reduce']){const s=careSetup();try{seedPlan(s);const link=await s.share(['plan','people']);s.setGenerator(async()=>{await s.call(`/api/care/links/${link.id}`,mode==='revoke'?'DELETE':'PUT',{revision:link.revision,accepted:true,scopes:['people']});return {text:JSON.stringify({items:[{source_id:'plan:goals:goal',quote:'Marcher avec une amie',theme:'Faits rapportés'}]})}});const queued=await prepare(s,link),row=s.raw.prepare('SELECT * FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'revoked');assert.equal(row.content,'');assert.equal(row.notes,'[]');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,3);assert.equal((await s.call(`/api/care/dossiers/${link.id}/plan`,'GET',undefined,'pro')).httpStatus,404);assert.equal((await s.call(`/api/care/briefs/${queued.id}`,'GET',undefined,'pro')).httpStatus,404)}finally{s.close()}}
 });
 
 test('plan source changes and physical deletion during generation invalidate all excerpts',async t=>{
- for(const mode of ['edit','delete']){const s=careSetup();try{const document=seedPlan(s),link=await s.share(['plan']);s.setGenerator(async()=>{if(mode==='edit'){document.goals[0].title='Objectif corrigé';replacePlan(s,document)}else s.raw.prepare("DELETE FROM change_plans WHERE user_id='a'").run();return {text:'{"items":[]}'}});const queued=await prepare(s,link),row=s.raw.prepare('SELECT * FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'failed',mode);assert.equal(row.error_code,'sources_changed');assert.equal(row.content,'');assert.equal(row.notes,'[]');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,0)}finally{s.close()}}
+ for(const mode of ['edit','delete']){const s=careSetup();try{const document=seedPlan(s),link=await s.share(['plan']);s.setGenerator(async()=>{if(mode==='edit'){document.goals[0].title='Objectif corrigé';replacePlan(s,document)}else s.raw.prepare("DELETE FROM change_plans WHERE user_id='a'").run();return {text:'{"items":[]}'}});const queued=await prepare(s,link),row=s.raw.prepare('SELECT * FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'failed',mode);assert.equal(row.error_code,'sources_changed');assert.equal(row.content,'');assert.equal(row.notes,'[]');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,3)}finally{s.close()}}
 });
 
 test('a shared plan read rechecks source and consent after retrieving the document',async t=>{
  for(const mode of ['edit','delete','revoke','reduce']){const s=careSetup();try{const document=seedPlan(s),link=await s.share(['plan','people']);s.setHook(async({sql,phase})=>{if(phase==='after'&&sql==='SELECT * FROM change_plans WHERE user_id=?'){s.setHook(null);if(mode==='edit'){document.goals[0].title='Corrigé pendant lecture';replacePlan(s,document)}else if(mode==='delete')s.raw.prepare("DELETE FROM change_plans WHERE user_id='a'").run();else await s.call(`/api/care/links/${link.id}`,mode==='revoke'?'DELETE':'PUT',{revision:link.revision,accepted:true,scopes:['people']})}});const result=await s.call(`/api/care/dossiers/${link.id}/plan`,'GET',undefined,'pro');assert.equal(result.httpStatus,404,mode);assert.equal(result.data,undefined)}finally{s.close()}}
 });
 
-test('plan revision is guarded at final publication and no dependencies survive a lost publication',async t=>{
+test('plan revision guards final publication while retaining metadata of already transmitted inputs',async t=>{
  const s=setup(t),document=seedPlan(s),link=await s.share(['plan']);s.setHook(({sql,phase})=>{if(phase==='before'&&sql.includes('SET status=?,content=?,notes=?,coverage=?')){s.setHook(null);document.goals[0].title='Corrigé juste avant publication';replacePlan(s,document)}});
- const queued=await prepare(s,link),row=s.raw.prepare('SELECT * FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'failed');assert.equal(row.error_code,'sources_changed');assert.equal(row.content,'');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,0);
+ const queued=await prepare(s,link),row=s.raw.prepare('SELECT * FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'failed');assert.equal(row.error_code,'sources_changed');assert.equal(row.content,'');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,3);
+});
+
+test('losing source, consent, session or lease guards before transmission sends nothing and records no inputs',async()=>{
+ for(const mode of ['source','consent','session','previous_session','lease']){const s=careSetup();try{
+  const document=seedPlan(s),link=await s.share(['plan']);s.setHook(({sql,phase})=>{if(phase==='before'&&sql.startsWith("UPDATE care_briefs SET updated_at=? WHERE id=? AND status='running'")){s.setHook(null);if(mode==='source'){document.goals[0].title='Source corrigée avant envoi';replacePlan(s,document)}else if(mode==='consent')s.raw.prepare("UPDATE care_links SET status='revoked',revision=revision+1 WHERE id=?").run(link.id);else if(mode==='session')s.raw.prepare("UPDATE care_sessions SET revision=revision+1 WHERE id='session'").run();else if(mode==='previous_session')s.session('inserted-prior',s.now()+1800);else s.raw.prepare("UPDATE care_briefs SET lease_token='new-worker',lease_until=?").run(s.now()+300)}});
+  const queued=await prepare(s,link),row=s.raw.prepare('SELECT content,notes FROM care_briefs WHERE id=?').get(queued.id);assert.equal(s.calls.length,0,mode);assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,0,mode);assert.equal(row.content,'');assert.equal(row.notes,'[]');
+ }finally{s.close()}}
+});
+
+test('a failed provider call keeps metadata of the plan inputs already transmitted without storing their text',async t=>{
+ const s=setup(t);seedPlan(s);const link=await s.share(['plan']);s.setGenerator(async()=>{const refs=s.raw.prepare("SELECT * FROM change_artifact_refs WHERE artifact_kind='brief'").all();assert.equal(refs.length,3);assert.doesNotMatch(JSON.stringify(refs),/Marcher|Choisir dix|apprécié|PRIVATE_/);throw Error('Provider unavailable')});const queued=await prepare(s,link),row=s.raw.prepare('SELECT status,content,notes FROM care_briefs WHERE id=?').get(queued.id);assert.equal(row.status,'pending');assert.equal(row.content,'');assert.equal(row.notes,'[]');assert.equal(s.raw.prepare('SELECT count(*) AS n FROM change_artifact_refs').get().n,3);
 });
 
 test('a plan mutation racing the final point read returns no stale body',async t=>{
@@ -95,8 +106,25 @@ test('care exports omit stale plan-derived point text before any ordinary point 
 });
 
 test('the final export query detects a concurrent plan source mutation',async t=>{
- const s=setup(t),document=seedPlan(s),link=await s.share(['plan']);await prepare(s,link);s.setHook(({sql,phase})=>{if(phase==='before'&&sql.startsWith('SELECT b.content FROM care_briefs')){s.setHook(null);document.goals=[];document.steps=[];document.trials=[];replacePlan(s,document)}});
+ const s=setup(t),document=seedPlan(s),link=await s.share(['plan']);await prepare(s,link);s.setHook(({sql,phase})=>{if(phase==='before'&&sql.startsWith('SELECT b.content,b.id FROM care_briefs')){s.setHook(null);document.goals=[];document.steps=[];document.trials=[];replacePlan(s,document)}});
  const exported=await s.care.exportData(s.env,'a');assert.equal(exported.care_briefs[0].status,'failed');assert.equal(exported.care_briefs[0].content,'');
+});
+
+test('an export rejects a source mutation that invalidates content read on an earlier page',async t=>{
+ const s=setup(t),document=seedPlan(s),link=await s.share(['plan']);await prepare(s,link);
+ const insert=s.raw.prepare("INSERT INTO care_briefs(id,user_id,link_id,session_id,link_revision,session_revision,status,created_at,updated_at) VALUES(?,'a',?,'session',?,1,'revoked',?,?)");for(let i=0;i<200;i++)insert.run('old-'+i,link.id,1000+i,s.now(),s.now());
+ s.setHook(({sql,args,phase})=>{if(phase==='before'&&sql.startsWith('SELECT rowid AS export_rowid,')&&sql.includes('FROM care_briefs WHERE')&&args[1]>0){s.setHook(null);document.goals=[];document.steps=[];document.trials=[];replacePlan(s,document)}});
+ await assert.rejects(s.care.exportData(s.env,'a'),error=>error.status===409&&error.code==='export_sources_changed');
+});
+
+test('export pages remain bounded and cursor-based when an earlier access record is removed',async t=>{
+ const s=setup(t),link=await s.share(['plan']),insert=s.raw.prepare("INSERT INTO care_access_log(id,user_id,actor_id,link_id,action,scope,created_at) VALUES(?,'a','pro',?,'read','plan',?)");for(let i=0;i<205;i++)insert.run('access-'+i,link.id,s.now());
+ let pages=0,deleted=false;s.setHook(({sql,args,phase})=>{if(phase==='before'&&sql.includes('FROM care_access_log WHERE')&&sql.startsWith('SELECT rowid AS export_rowid,')){pages++;assert.match(sql,/ORDER BY rowid LIMIT 200$/);if(args[1]>0&&!deleted){deleted=true;s.raw.prepare("DELETE FROM care_access_log WHERE id='access-0'").run()}}});
+ const exported=await s.care.exportData(s.env,'a');assert.equal(pages,2);assert.equal(exported.care_access_log.filter(row=>row.id.startsWith('access-')).length,205,'a deletion behind the cursor must not skip the next retained record');assert.equal(new Set(exported.care_access_log.map(row=>row.id)).size,exported.care_access_log.length);assert.equal(exported.care_export_coverage.complete,true);assert.equal(exported.care_export_coverage.page_size,200);assert.equal(exported.care_export_coverage.included.care_access_log,exported.care_access_log.length);
+});
+
+test('the five hundred session limit is enforced at creation and the entire retained list is exported',async t=>{
+ const s=setup(t);for(let i=0;i<499;i++)s.session('session-'+i,s.now()+i);assert.equal((await s.call('/api/care/sessions','POST',{session_at:s.now()+1000})).httpStatus,201);assert.equal((await s.call('/api/care/sessions','POST',{session_at:s.now()+1001})).code,'session_limit');const exported=await s.care.exportData(s.env,'a');assert.equal(exported.care_sessions.length,500);assert.equal(exported.care_export_coverage.included.care_sessions,500);
 });
 
 test('AI hypotheses remain discussion items even when a provider labels them as facts',async t=>{

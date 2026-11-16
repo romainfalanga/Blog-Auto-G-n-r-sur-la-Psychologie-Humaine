@@ -206,23 +206,28 @@ export function cartographyView(row){
 // What research says about each recognized or converging consequence, for the checked
 // causes only: cause, level of evidence and the sourced summary. Recognized first.
 export function cartographyEvidence(answers,feedback={},{data=CARTOGRAPHIE,budget=6000}={}){
- const {factors}=index(data),state=computeCartography(answers,data),evidence=[],sourceIndex=new Map((data.sources||[]).map(s=>[s.id,s])),usedSources=new Map();let used=0,truncated=false;
+ const {factors}=index(data),state=computeCartography(answers,data),evidence=[],sourceIndex=new Map((data.sources||[]).map(s=>[s.id,s])),usedSources=new Map();let truncated=false;
  const selected=new Set(diverseResults(state.results.filter(r=>r.tier==='convergence'),15,feedback).map(r=>r.outcome.id));
  const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||(!r.outcome.contextual_only&&selected.has(r.outcome.id)))).sort((a,b)=>Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui')||contextOrder(feedback)(a,b));
  const collected=new Map();
+ const evidenceItem=(r,links)=>({id:r.outcome.id,label:r.outcome.label,...(r.outcome.note?{note:r.outcome.note}:{}),...(r.outcome.age_scope?{age_scope:r.outcome.age_scope}:{}),...(r.outcome.contextual_only?{contextual_only:true}:{}),links});
  // One sourced link per subject before adding a second: a long first card must
  // not consume the whole evidence budget and hide the other selected subjects.
  for(let round=0;round<6;round++)for(const r of wanted){
   const l=r.links.filter(l=>l.summary)[round];if(!l)continue;
   const source_ids=l.source_ids||l.sources||[],fresh=source_ids.filter(id=>!usedSources.has(id)&&sourceIndex.has(id)).map(id=>{const {type,url,citation}=sourceIndex.get(id);return {id,type,url,citation};});
-  const entry={factor_id:l.factor,cause:factors.get(l.factor)?.label||l.factor,strength:l.strength,relation_type:relationType(l),definitional:Boolean(l.definitional),source_ids,summary:l.summary},size=JSON.stringify(entry).length+JSON.stringify(fresh).length;
-  if(used+size>budget){truncated=true;continue;}
-  used+=size;if(!collected.has(r.outcome.id))collected.set(r.outcome.id,[]);collected.get(r.outcome.id).push(entry);for(const source of fresh)usedSources.set(source.id,source);
+  const entry={factor_id:l.factor,cause:factors.get(l.factor)?.label||l.factor,strength:l.strength,relation_type:relationType(l),definitional:Boolean(l.definitional),source_ids,summary:l.summary};
+  const candidateLinks=[...(collected.get(r.outcome.id)||[]),entry];
+  const candidate=wanted.filter(item=>item.outcome.id===r.outcome.id||collected.has(item.outcome.id)).map(item=>evidenceItem(item,item.outcome.id===r.outcome.id?candidateLinks:collected.get(item.outcome.id)));
+  // Count the whole serialized result, including subject labels, wrappers and
+  // the flag. Counting just link text and references understates the payload.
+  if(JSON.stringify({evidence:candidate,evidence_sources:[...usedSources.values(),...fresh],evidence_truncated:false}).length>budget){truncated=true;continue;}
+  collected.set(r.outcome.id,candidateLinks);for(const source of fresh)usedSources.set(source.id,source);
  }
  for(const r of wanted){
   const links=collected.get(r.outcome.id)||[];
   if(links.length<r.links.length)truncated=true;
-  if(links.length)evidence.push({id:r.outcome.id,label:r.outcome.label,...(r.outcome.note?{note:r.outcome.note}:{}),...(r.outcome.age_scope?{age_scope:r.outcome.age_scope}:{}),...(r.outcome.contextual_only?{contextual_only:true}:{}),links});
+  if(links.length)evidence.push(evidenceItem(r,links));
  }
  return {evidence,evidence_sources:[...usedSources.values()],evidence_truncated:truncated};
 }

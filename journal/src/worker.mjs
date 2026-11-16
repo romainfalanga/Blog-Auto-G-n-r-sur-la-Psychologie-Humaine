@@ -385,7 +385,7 @@ async function routes(request,env,ctx) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await care.exportData(env,user.id),...await change.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await change.exportData(env,user.id),...await care.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);

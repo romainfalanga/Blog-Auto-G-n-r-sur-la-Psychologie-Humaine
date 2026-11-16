@@ -14,17 +14,17 @@ Base vérifiée : `1b86169` (fusion PR 83). Branche de travail : `codex/ambre-ch
 
 | ID | Résultat observable | Responsable | Dépendance | État |
 |---|---|---|---|---|
-| R1 | Défauts1–14,17–18 corrigés avec cas profil rempli et maximal ; coût maîtrisé | engine17 + principal | Audit17 | En cours |
-| R2 | Recherche25–40stratégies sourcées, arbre de décision, suivi, relecture | strategies17 | Sources consultées | En cours |
-| R3 | Plan critiqué indépendamment et révisé à plusieurs reprises avant implémentation | strategies17 + principal + relecteur | R2 | À faire |
-| R4 | Catalogue sélectionné par tour et plan persistant corrigible ; retours planifiés respectueux | Principal + intégration moteur | R1,R3 | À faire |
-| R5 | Suivi psychologue, consignes déclarées, mémoire et plan dans les points autorisés, préparation personnelle | Principal | R3,R4 | À faire |
-| R6 | Paramètres affiche sources/stratégies/plan/critères/limites réels | Principal | R1,R4,R5 | À faire |
-| R7 | Neuf fragments, sources réellement consultées, décisions pour chaque périmètre | Neuf missions séparées | Plan couverture17 | Lots1,2,8,9 en cours ; autres à faire |
-| R8 | Intégration contrôlée, registre hors périmètre, correspondances161repères et classifications, générateurs | Principal | R7 | À faire |
-| R9 | Plafonds questionnaire, contexte non suggéré, résumés et interface bornés | Principal | R8 | À faire |
-| R10 | Encadré3114 et bouton de suppression retirés de la page | Principal | Réponses utilisateur | Codé, vérification en cours |
-| R11 | Relectures indépendantes, tests complets, publications prouvées, recette et nettoyage | Principal + relecteurs | Tous | À faire |
+| R1 | Défauts1–14,17–18 corrigés avec cas profil rempli et maximal ; coût maîtrisé | engine17 + principal | Audit17 | Intégré, relecture finale favorable |
+| R2 | Recherche25–40stratégies sourcées, arbre de décision, suivi, relecture | strategies17 | Sources consultées | 36 stratégies et 18 sources documentées |
+| R3 | Plan critiqué indépendamment et révisé à plusieurs reprises avant implémentation | strategies17 + principal + relecteur | R2 | V3 retenue après deux cycles de critique/révision |
+| R4 | Catalogue sélectionné par tour et plan persistant corrigible ; retours planifiés respectueux | Principal + intégration moteur | R1,R3 | Intégré, 32 tests backend et 16 tests moteur dédiés |
+| R5 | Suivi psychologue, consignes déclarées, mémoire et plan dans les points autorisés, préparation personnelle | Principal | R3,R4 | Intégré, relecture du partage et export favorable |
+| R6 | Paramètres affiche sources/stratégies/plan/critères/limites réels | Principal | R1,R4,R5 | Intégré, 106 tests UI et recette1440/390/320 passent |
+| R7 | Neuf fragments, sources réellement consultées, décisions pour chaque périmètre | Neuf missions séparées | Plan couverture17 | Neuf lots livrés avec niveaux de lecture et exclusions |
+| R8 | Intégration contrôlée, registre hors périmètre, correspondances161repères et classifications, générateurs | Principal | R7 | Intégré, 161 décisions et graphe final validés indépendamment |
+| R9 | Plafonds questionnaire, contexte non suggéré, résumés et interface bornés | Principal | R8 | Intégré, parité1770 combinaisons et navigateur validés |
+| R10 | Encadré3114 et bouton de suppression retirés de la page | Principal | Réponses utilisateur | Retirés, vérifiés au navigateur |
+| R11 | Relectures indépendantes, tests complets, publications prouvées, recette et nettoyage | Principal + relecteurs | Tous | Vérifications globales réussies ; publication et recette distante à effectuer |
 
 ## Organisation et contrats
 
@@ -35,3 +35,7 @@ Les nouvelles stratégies et le plan ne sont implémentés qu’après les cycle
 ## Vérification prévue
 
 Tests moteur sur profils réels synthétiques bornés et chemins de reprise/réécriture ; tests d’isolation, révision, export, suppression et révocation ; égalité calcul navigateur/Worker ; contrôles des générateurs ; suite de verify.yml ; Playwright1440/390/320 ; recette distante avec comptes synthétiques supprimés ensuite. Les preuves de publication et les limites scientifiques sont consignées à la livraison.
+
+## Point de vérification intermédiaire
+
+La recette locale avec vrai Worker, SQLite et navigateur a validé les parcours objectifs/étapes/essais, dates inconnues, conflit entre onglets, préparation privée sans professionnel, catalogue, onglets du portrait conservés et purge de conversation gardant le plan aux largeurs1440/390/320. Les correctifs issus des relectures finales précèdent toute publication. Le schéma distant a été contrôlé en lecture : 0020 présente, tables0021 absentes ; sept bindings et cron minute inchangés. Le registre D1 des migrations n’existe pas sur cette base : la vérification utilise donc sqlite_master et les structures attendues.

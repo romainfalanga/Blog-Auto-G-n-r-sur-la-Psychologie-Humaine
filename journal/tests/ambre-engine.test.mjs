@@ -275,12 +275,12 @@ test('private stage snapshots preserve every rewrite and retry while distinguish
  const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.deepEqual(detail.stages.map(x=>x.stage),['analysis','writing','review','rewrite','review','review']);assert.equal(detail.stages[4].status,'error');assert.equal(detail.stages[4].error_code,'provider_timeout');assert.equal(detail.outcome,'published');for(let i=0;i<calls.length;i++)assert.deepEqual(detail.stages[i].input,JSON.parse(calls[i].body.messages[1].content));assert.doesNotMatch(JSON.stringify(detail),/Internal private provider message/);
 });
 
-test('primary evidence retains the complete religion-versus-coercion nuance in the actual writing request',async t=>{
- const s=setup();await ready(s);const link=CARTOGRAPHIE.links.find(x=>x.factor==='emprise_religieuse'&&x.outcome==='dep_generale');assert.ok(link.summary.length>280);assert.match(link.summary,/Ce n'est pas la foi elle-même.*mais l'emprise/);
- s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,?,'{}','{}','[]',1,1,1,1)").run(JSON.stringify({emprise_religieuse:1}),JSON.stringify({dep_generale:'oui'}));
- const index=knowledgeIndex(await s.personal.context(s.env,'a')),id=index.find(x=>x.key==='cartography:outcome:dep_generale').id;const calls=provider(t,p=>p==='ambre_analysis'?{...analysis(),selected_ids:[id]}:undefined);await message(s,'whole_evidence','Je voudrais comprendre ce que ce vécu a changé pour moi.');assert.equal(job(s).stage,'done');
- const writing=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content),entry=writing.details.find(x=>x.key==='cartography:outcome:dep_generale');assert.equal(entry.metadata.evidence_summary,link.summary);assert.ok(link.source_ids.includes(entry.metadata.evidence_source.id));assert.equal(entry.metadata.evidence_source.url,CARTOGRAPHIE.sources.find(x=>x.id===entry.metadata.evidence_source.id).url);assert.match(entry.metadata.evidence_summary,/Ce n'est pas la foi elle-même.*mais l'emprise/);assert.ok(entry.text.length<=1100);assert.ok(writing.details.reduce((sum,x)=>sum+x.text.length,0)<=6500);
- const references=new Map(CARTOGRAPHIE.sources.map(x=>[x.id,x]));const overhead=Math.max(...CARTOGRAPHIE.links.map(x=>{const ref=references.get(x.source_ids?.[0]);return JSON.stringify({evidence_summary:x.summary||'',evidence_source:ref?{id:ref.id,url:ref.url}:null}).length}));assert.ok(overhead<=500,'current primary-evidence metadata remains bounded to 500 characters per source');assert.ok(writing.details.length<=8);
+test('primary clinical evidence retains its complete source and theoretical status in the actual writing request',async t=>{
+ const s=setup();await ready(s);const link=CARTOGRAPHIE.links.find(x=>x.factor==='emprise_religieuse'&&x.outcome==='sch_assujettissement');assert.equal(link.relation_type,'clinical_model');assert.equal(link.strength,'theorique');
+ s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,?,'{}','{}','[]',1,1,1,1)").run(JSON.stringify({emprise_religieuse:1}),JSON.stringify({sch_assujettissement:'oui'}));
+ const index=knowledgeIndex(await s.personal.context(s.env,'a')),id=index.find(x=>x.key==='cartography:outcome:sch_assujettissement').id;const calls=provider(t,p=>p==='ambre_analysis'?{...analysis(),selected_ids:[id]}:undefined);await message(s,'whole_evidence','Je voudrais comprendre ce que ce vécu a changé pour moi.');assert.equal(job(s).stage,'done');
+ const writing=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content),entry=writing.details.find(x=>x.key==='cartography:outcome:sch_assujettissement');assert.equal(entry.metadata.evidence_summary,link.summary);assert.ok(link.source_ids.includes(entry.metadata.evidence_source.id));assert.equal(entry.metadata.evidence_source.url,CARTOGRAPHIE.sources.find(x=>x.id===entry.metadata.evidence_source.id).url);assert.ok(entry.metadata.relation_types.includes('clinical_model'));assert.ok(entry.text.length<=1100);assert.ok(writing.details.reduce((sum,x)=>sum+x.text.length,0)<=6500);
+ const references=new Map(CARTOGRAPHIE.sources.map(x=>[x.id,x]));const overhead=Math.max(...CARTOGRAPHIE.links.map(x=>{const ref=references.get(x.source_ids?.[0]);return JSON.stringify({evidence_summary:x.summary||'',evidence_source:ref?{id:ref.id,url:ref.url}:null}).length}));assert.ok(overhead<=600,'current primary-evidence metadata remains bounded to 600 characters per source');assert.ok(writing.details.length<=8);
 });
 
 
@@ -462,4 +462,16 @@ test('audit17 maximal safety verification and all recovery phases fit without re
  const sent=await message(s,'maximal_safety_recovery',current);for(let n=0;n<16&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
  assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(calls.length,16);assert.ok(job(s).reserved_tokens<=94500);assert.match(s.raw.prepare('SELECT response FROM chat_turns WHERE id=?').get(sent.request_id).response,/3114/);
  t.diagnostic(JSON.stringify({scenario:'maximal_safety_rewrite_all_retries',calls:calls.length,reserved:job(s).reserved_tokens}));
+});
+
+
+test('a long primary nuance remains whole in the source serializer without asserting a catalogue association',()=>{
+ const summary="Une formulation de test suffisamment longue pour vérifier la transmission complète d’une précaution importante. ".repeat(3)+"Ce n'est pas la foi elle-même qui est décrite, mais l'emprise et la contrainte exercées dans un contexte particulier.";
+ const index=knowledgeIndex({sources:[],people:[],events:[],cartography:{convergence:[{id:'synthetic_only',label:'Fixture technique',relation_types:['clinical_model']}],evidence:[{id:'synthetic_only',links:[{relation_type:'clinical_model',source_ids:['fixture'],summary}]}],evidence_sources:[{id:'fixture',url:'https://example.org/fixture'}]}}),entry=selectDetails(index,[index[0].id],'Fixture')[0];
+ assert.equal(entry.metadata.evidence_summary,summary);assert.match(entry.metadata.evidence_summary,/foi elle-même.*emprise/);
+});
+
+test('contextual adult references keep their scope distinct from young-child-only entries',()=>{
+ const index=knowledgeIndex({sources:[],people:[],events:[],cartography:{contextual:[{id:'adult_context',label:'Repère somatique',contextual_only:true,age_scope:'adult'},{id:'child_context',label:'Attachement du jeune enfant',contextual_only:true,age_scope:'young_child_only'}]}});
+ assert.match(index.find(x=>x.key==='cartography:outcome:adult_context').label,/^Repère contextuel/);assert.doesNotMatch(index.find(x=>x.key==='cartography:outcome:adult_context').label,/Jeune enfant/);assert.match(index.find(x=>x.key==='cartography:outcome:child_context').label,/^Jeune enfant/);
 });

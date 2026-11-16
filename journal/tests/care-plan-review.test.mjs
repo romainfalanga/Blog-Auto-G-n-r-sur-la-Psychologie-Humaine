@@ -90,3 +90,11 @@ test('owner care export includes all retained link, point and access histories b
  const tables=['care_links','care_briefs','care_access_log'];assert.deepEqual(Object.fromEntries(tables.map(table=>[table,exported[table].length])),Object.fromEntries(tables.map(table=>[table,s.raw.prepare(`SELECT count(*) AS n FROM ${table} WHERE user_id='a'`).get().n])),'the export must not silently omit retained records');
  assert.doesNotMatch(JSON.stringify(exported),/code_hash|old_hash/);
 });
+
+test('a deletion during the export metadata reads cannot return point text checked earlier in the same export',async t=>{
+ const s=setup(t),ids=await s.choices(),link=await s.share(['plan']);
+ s.setGenerator(async()=>({text:JSON.stringify({items:[{source_id:'plan:goals:'+ids.goal,quote:'OBJECTIF_CHOISI',theme:'Faits rapportés'}]})}));await s.prepare(link);
+ let deleted=false;s.setHook(async({sql,phase})=>{if(phase==='before'&&sql==='SELECT * FROM care_settings WHERE user_id=?'){s.setHook(null);deleted=true;ok(await s.planCall(`/api/plan/goals/${ids.goal}`,'DELETE'),200)}});
+ try{const exported=await s.care.exportData(s.env,'a');assert.doesNotMatch(JSON.stringify(exported.care_briefs),/OBJECTIF_CHOISI/)}catch(error){if(error.name==='AssertionError')throw error;assert.equal(error.code,'export_sources_changed');assert.equal(error.status,409)}
+ assert.equal(deleted,true);
+});

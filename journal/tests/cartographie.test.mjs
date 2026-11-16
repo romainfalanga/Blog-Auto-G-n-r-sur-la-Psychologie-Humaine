@@ -178,6 +178,18 @@ test('retired identifiers survive validation and preserve meaning without sugges
  assert.ok(!summary.recognized.some(o=>['att_desorganisation_enfant','icd_6b81_boulimie'].includes(o.id)));
 });
 
+test('the complete serialized evidence, including wrappers and sources, respects its budget',()=>{
+ const answers=Object.fromEntries(CARTOGRAPHIE.factors.filter(f=>f.id!=='separation_conflit').map(f=>[f.id,1]));
+ for(const budget of [1500,3000,6000]){
+  const result=cartographyEvidence(answers,{}, {budget});
+  assert.ok(JSON.stringify(result).length<=budget,`${JSON.stringify(result).length} > ${budget}`);
+  assert.equal(result.evidence_truncated,true);
+  assert.ok(result.evidence.length>0);
+  const references=new Set(result.evidence.flatMap(o=>o.links.flatMap(l=>l.source_ids)));
+  assert.deepEqual(new Set(result.evidence_sources.map(s=>s.id)),references);
+ }
+});
+
 // Worker harness: same in-memory D1 and import rewriting as backend.test.mjs.
 const examples=Array.from({length:3},(_,i)=>({id:`posts/c/example-${i}`,title:`Exemple ${i}`,url:`/posts/c/example-${i}/`,character:'P',keywords:[],description:'R'}));
 const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';')

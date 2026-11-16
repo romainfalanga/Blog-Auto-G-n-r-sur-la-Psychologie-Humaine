@@ -112,9 +112,19 @@ Limites maintenues : les pages de chapitres du manuel DSM sur les troubles somat
 
 `build_cartographie.build(check_audit=False)` et `audit_cartographie.build()` ont été appelés en mémoire. Le second accepte les 161 descriptions et décisions, les cibles et le registre. Des vérifications indépendantes ont contrôlé l’identité exacte des descriptions et alternatives, les 161 identifiants uniques, les types de cibles, les 22 chapitres, la conservation des objets des neuf lots, les 858 codes et la résolution des sources. Les cibles DSM sont contrôlées en complément du contrôle logiciel des repères.
 
-État contrôlé : 59 facteurs, 109 sujets et 11 ressources. Aucune cible sémantique inconnue ; aucune source du registre non résolue. La présence de 22 codes CIM exacts et deux codes agrégés dans le contrôle structurel ne valide pas les critères ni une relation causale.
+État contrôlé : 59 facteurs, 109 sujets et 11 ressources, 493 liens et 260 sources actives. Aucune cible sémantique inconnue ; aucune source du registre non résolue. La présence de 22 codes CIM exacts et deux codes agrégés dans le contrôle structurel ne valide pas les critères ni une relation causale.
 
-Empreinte du cœur du graphe lors du contrôle : `a76619bc2d7e51a7dbb8b075e4276e13559351ca58e5b2ba20bc74d116728b30`. Les trois fichiers possédés par ce lot sont les seuls livrables écrits. Le contrôle final a été rejoué après stabilisation de l’intégrateur.
+Empreinte du cœur du graphe lors du contrôle : `f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d`. Les trois fichiers possédés par ce lot sont les seuls livrables écrits. Le contrôle final a été rejoué après stabilisation de l’intégrateur.
+
+## Revalidation indépendante du dernier delta
+
+Après la première validation, le graphe a perdu une paire et sa dernière source active : `emprise_religieuse → ten_qualite_relationnelle`, `saldana2022`. Le résumé original [PMID 34445910](https://pubmed.ncbi.nlm.nih.gov/34445910/) a été relu indépendamment via l’API Europe PMC, PubMed ne montrant qu’un pied de page. Le texte intégral n’a pas été lu.
+
+Le questionnaire de Saldaña compare 636 anciens membres de groupes, dont 377 victimes et 259 non-victimes. Il mesure bien les relations positives et le bien-être, mais mêle les entrées dans le groupe pendant l’enfance et à l’âge adulte, sans estimation infantile isolée permettant cette paire du questionnaire. L’absence de différence statistique selon l’âge d’entrée ne démontre pas une association enfance → qualité relationnelle. Le retrait est donc cohérent ; il ne signifie pas absence universelle d’effet. La notice et ses limites restent dans le registre documentaire.
+
+Un second delta concerne quatre repères contextuels de santé : cardiovasculaire, diabète de type 2, migraine et fibromyalgie. Seuls `category` (`tendency → health_outcome`) et `domain` (`perceptions → comportements`) changent. Identifiants, descriptions et `contextual_only: true` sont inchangés. Aucune décision des 161 repères ni des 22 chapitres DSM ne cible ces quatre cartes. Leur classement ne les présente plus comme des tendances psychologiques.
+
+La comparaison exacte avec le précédent graphe généré confirme : une seule paire retirée, aucune paire ajoutée ou modifiée ; quatre changements de métadonnées de sujets seulement ; facteurs, ressources et historiques inchangés. Les 161 descriptions, alternatives et cibles, les 22 chapitres, les 858 codes et les provenances des lots ont été recontrôlés avant l’actualisation de l’empreinte. Les deux JSON conservent les anciennes et nouvelles empreintes ainsi que ces preuves dans `post_integration_reviews`. Graphe accepté : 493 liens et 260 sources actives. Aucun changement des 161 décisions sémantiques.
 
 ## Les 50 changements de correspondance
 

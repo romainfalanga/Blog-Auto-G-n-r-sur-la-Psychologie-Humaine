@@ -262,6 +262,13 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
     for outcome in retired_outcomes:
         if outcome.get("id") in used_outcomes or not outcome.get("retired") or not outcome.get("contextual_only"):
             errors.append(f"sujet historique encore actif ou non protégé : {outcome.get('id')}")
+    if OUT.exists():
+        previous = json.loads(OUT.read_text(encoding="utf-8"))
+        historical_ids = {o["id"] for o in [*previous.get("outcomes", []), *previous.get("retired_outcomes", [])]}
+        for oid in sorted(historical_ids - used_outcomes - set(retired_ids)):
+            errors.append(f"sujet historique disparu sans retired_outcomes : {oid} ; préserver son ancien sens et ses données enregistrées")
+        for fid in sorted({f["id"] for f in previous.get("factors", [])} - factors.keys()):
+            errors.append(f"facteur historique supprimé : {fid} ; ses réponses enregistrées doivent rester valides")
     data = {
         "schema_version": 2,
         "interpretation": {
@@ -295,6 +302,7 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
     data["coverage"] = {
         "scope": "Sélection documentée de vécus de l’enfance ; ni inventaire de la psychologie ni couverture de tous les diagnostics.",
         "outcomes": len(data["outcomes"]),
+        "retired_outcomes": len(data["retired_outcomes"]),
         "kinds": {kind: sum(o["kind"] == kind for o in data["outcomes"]) for kind in sorted(KINDS)},
         "icd11": {"reference": "CIM-11 MMS 2026-01, chapitre 06", "catalog_codes": len(clinical["codes"]), "exact_code_references": exact_codes, "exact_code_count": len(exact_codes), "aggregate_references": [{"outcome": o["id"], "codes": o["classification_codes"]} for o in data["outcomes"] if o.get("classification_codes")], "not_exactly_referenced_count": len(clinical["codes"]) - len(exact_codes), "complete": False, "note": "Un code cité ou agrégé n’atteste ni diagnostic ni validation de chacun de ses critères."},
         "dsm5tr": {"complete": False, "status": "diagnosis_by_diagnosis_comparison_pending", "note": "Aucun inventaire diagnostic DSM-5-TR complet ni équivalence automatique CIM/DSM."},
