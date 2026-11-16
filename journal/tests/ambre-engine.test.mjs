@@ -143,3 +143,32 @@ test('past safety history informs context without making every greeting a curren
  const history={safety_seen:true,safety:['Je veux mourir.']};assert.equal(deterministicAnalysis('Bonjour',history).risk,'none');assert.equal(deterministicAnalysis('Bonjour',history).posture,'explore');assert.equal(deterministicAnalysis('Je veux mourir.',history).risk,'explicit');
  const s=setup();await ready(s);s.raw.prepare("INSERT INTO chat_memory(user_id,summary,updated_at) VALUES('a',?,0)").run(JSON.stringify(history));const calls=provider(t);const result=await message(s,'past_safety','Bonjour');assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).analysis).risk,'none');assert.doesNotMatch(result.messages.at(-1).content,/3114|danger immédiat/);const input=JSON.parse(calls[0].body.messages[1].content);assert.equal(input.memory.safety_seen,true);assert.deepEqual(input.memory.safety,history.safety);
 });
+
+test('a reviewer waits for a fresh execution window instead of receiving a few seconds',async t=>{
+ const s=setup();await ready(s);const realNow=Date.now,base=realNow();let elapsed=0;Date.now=()=>base+elapsed;t.after(()=>{Date.now=realNow});
+ const calls=provider(t,p=>{if(p==='ambre_analysis')elapsed=6000;if(p==='ambre_writing')elapsed=17000});await message(s,'review_window');
+ assert.deepEqual(calls.map(c=>c.purpose),['ambre_analysis','ambre_writing']);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,0);assert.equal(s.raw.prepare('SELECT provider_calls FROM provider_budgets').get().provider_calls,2);assert.equal(JSON.parse(job(s).review).error_code,undefined);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.equal(calls.length,3);assert.equal(JSON.parse(job(s).review).checked,true);assert.equal(JSON.parse(job(s).review).passed,true);
+});
+
+test('reviewer transient timeout and HTTP errors resume only the review on later leases',async t=>{
+ for(const failure of ['timeout','http']){
+  const s=setup();await ready(s);let reviews=0;const calls=provider(t,p=>{if(p==='ambre_review'&&++reviews===1){if(failure==='http')return new Response('PRIVATE_SECRET upstream text',{status:503});throw Object.assign(Error('PRIVATE_SECRET mock-only'),{name:'TimeoutError'})}});
+  await message(s,'retry_'+failure);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);assert.equal(JSON.parse(job(s).review).fallback,undefined);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
+  const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,failure==='http'?'provider_http_503':'provider_timeout');assert.equal(trace.error.code,trace.review.error_code);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|mock-only/);
+  await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(JSON.parse(job(s).review).attempts,2);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(reviews,2);
+ }
+});
+
+test('three unavailable reviewer attempts publish a safe fallback and never retry indefinitely',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_review')return new Response('PRIVATE_SECRET',{status:429})});await message(s,'review_three');assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,2);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const verdict=JSON.parse(job(s).review);assert.equal(verdict.checked,false);assert.equal(verdict.fallback,true);assert.equal(verdict.attempts,3);assert.equal(verdict.error_code,'provider_http_429');assert.match((await s.call('/api/chat')).messages.at(-1).content,/reprendre avec prudence/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,3);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);
+ await s.chat.resumeEngine(s.env);assert.equal(calls.length,5);assert.doesNotMatch(JSON.stringify((await s.call('/api/chat/insight')).turns),/PRIVATE_SECRET/);
+});
+
+test('malformed reviewer output is classified without persisting provider content',async t=>{
+ for(const value of ['PRIVATE_SECRET invalid JSON',{criteria:['PRIVATE_SECRET'],reasons:['mock-only']}]){
+  const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_review'?response(value):undefined);await message(s,'bad_review');assert.equal(job(s).stage,'done');const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,'review_invalid_response');assert.equal(trace.review.fallback,true);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|mock-only/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,1);
+ }
+});
