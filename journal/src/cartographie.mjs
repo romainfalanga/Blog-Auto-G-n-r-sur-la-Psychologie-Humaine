@@ -84,7 +84,7 @@ export function computeCartography(answers,data=CARTOGRAPHIE){
   const score=empirical.reduce((best,l)=>Math.max(best,weights[l.strength]||0),0);
   return {outcome:outcomes.get(id),links,factors:links.map(l=>l.factor),tier,score,evidence_groups:groups.size,relation_types:[...new Set(links.map(relationType))]};
  });
- results.sort((a,b)=>TIER_ORDER[a.tier]-TIER_ORDER[b.tier]||b.score-a.score||a.outcome.label.localeCompare(b.outcome.label,'fr'));
+ results.sort((a,b)=>TIER_ORDER[a.tier]-TIER_ORDER[b.tier]||b.evidence_groups-a.evidence_groups||b.score-a.score||a.outcome.id.localeCompare(b.outcome.id,'en'));
  const aceCount=new Set((data.factors||[]).filter(f=>f.ace&&Object.hasOwn(level,f.id)).map(f=>{const group=(data.exclusive||[]).find(g=>g.includes(f.id));return group?group.join('|'):f.id;})).size;
  return {results,aceCount,selectedCount:Object.keys(level).length};
 }
@@ -117,6 +117,21 @@ export function appendAmbreNotes(stored,chosen,{now,random}){
  return list.slice(Math.max(0,list.length-AMBRE_NOTE_MAX_COUNT));
 }
 
+// Bounded context should not be filled by one category (for example the 18
+// schemas). Evidence families then the member's recognition break ties; the ID
+// is only a stable last resort, never a clinical priority.
+function contextOrder(feedback){return (a,b)=>b.evidence_groups-a.evidence_groups||Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui')||b.score-a.score||a.outcome.id.localeCompare(b.outcome.id,'en');}
+function diverseResults(items,limit,feedback={}){
+ const counts=new Map(),picked=[],perCategory=Math.max(1,Math.ceil(limit/3));
+ for(const result of [...items].sort(contextOrder(feedback))){
+  const category=result.outcome.category||result.outcome.kind;
+  if(picked.length>=limit)break;
+  if((counts.get(category)||0)>=perCategory)continue;
+  counts.set(category,(counts.get(category)||0)+1);picked.push(result);
+ }
+ return picked;
+}
+
 export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxConvergence=15,maxPistes=10,notes=null,resources=null,ambreNotes=null}={}){
  const {factors,outcomes,protections}=index(data),state=computeCartography(answers,data),label=id=>factors.get(id)?.label||id;
  const metadata=o=>({...(o.category?{category:o.category}:{}),...(o.note?{note:o.note}:{}),...(o.age_scope?{age_scope:o.age_scope}:{}),...(o.contextual_only?{contextual_only:true}:{})});
@@ -129,19 +144,22 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
  const convergence=state.results.filter(r=>r.tier==='convergence'),pistes=state.results.filter(r=>r.tier==='piste'),tierOf=new Map(state.results.map(r=>[r.outcome.id,r.tier]));
  const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',...metadata(outcomes.get(id))}));
  const recognized=reported('oui'),dismissed=reported('non');
+ const selectedConvergence=diverseResults(convergence,maxConvergence,feedback),selectedPistes=diverseResults(pistes,maxPistes,feedback);
+ const exploratory=state.results.filter(r=>r.tier==='theorique'&&!r.outcome.contextual_only&&feedback[r.outcome.id]==='oui'),selectedExploratory=diverseResults(exploratory,maxPistes,feedback);
  return {
   cause_count:state.selectedCount,ace_count:state.aceCount,
   answered_count:Object.keys(answers||{}).filter(id=>factors.has(id)&&[0,1,2].includes(answers[id])).length,
   explicit_negative:Object.keys(answers||{}).filter(id=>factors.has(id)&&answers[id]===0).map(id=>({id,label:label(id)})),
   causes:Object.keys(answers||{}).filter(id=>factors.has(id)&&(answers[id]===1||answers[id]===2)).map(id=>({id,label:label(id),intensity:answers[id]})),
-  convergence:convergence.slice(0,maxConvergence).map(item),
-  pistes:pistes.slice(0,maxPistes).map(item),
+  convergence:selectedConvergence.map(item),
+  pistes:selectedPistes.map(item),
   contextual:state.results.filter(r=>r.outcome.contextual_only).map(item),
-  exploratory:state.results.filter(r=>r.tier==='theorique'&&!r.outcome.contextual_only&&feedback[r.outcome.id]==='oui').slice(0,maxPistes).map(item),
+  exploratory:selectedExploratory.map(item),
   theorique_count:state.results.filter(r=>r.tier==='theorique').length,
   recognized,dismissed,
   suicide_recognized:recognized.some(r=>r.note==='suicide'),
-  truncated:convergence.length>maxConvergence||pistes.length>maxPistes,
+  truncated:convergence.length>selectedConvergence.length||pistes.length>selectedPistes.length||exploratory.length>selectedExploratory.length,
+  selection_policy:{order:'evidence_families_then_member_recognition',per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
   // The member's own words, attached to the cause or consequence they annotate.
   notes:[...Object.entries(notes?.factors||{}).filter(([id,text])=>factors.has(id)&&typeof text==='string').map(([id,text])=>({target:'factor',id,label:factors.get(id).label,text})),
    ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text}))],
@@ -188,16 +206,20 @@ export function cartographyView(row){
 // causes only: cause, level of evidence and the sourced summary. Recognized first.
 export function cartographyEvidence(answers,feedback={},{data=CARTOGRAPHIE,budget=6000}={}){
  const {factors}=index(data),state=computeCartography(answers,data),evidence=[],sourceIndex=new Map((data.sources||[]).map(s=>[s.id,s])),usedSources=new Map();let used=0,truncated=false;
- const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||r.tier==='convergence')).sort((a,b)=>Number(feedback?.[b.outcome.id]==='oui')-Number(feedback?.[a.outcome.id]==='oui'));
+ const selected=new Set(diverseResults(state.results.filter(r=>r.tier==='convergence'),15,feedback).map(r=>r.outcome.id));
+ const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||(!r.outcome.contextual_only&&selected.has(r.outcome.id)))).sort((a,b)=>Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui')||contextOrder(feedback)(a,b));
+ const collected=new Map();
+ // One sourced link per subject before adding a second: a long first card must
+ // not consume the whole evidence budget and hide the other selected subjects.
+ for(let round=0;round<6;round++)for(const r of wanted){
+  const l=r.links.filter(l=>l.summary)[round];if(!l)continue;
+  const source_ids=l.source_ids||l.sources||[],fresh=source_ids.filter(id=>!usedSources.has(id)&&sourceIndex.has(id)).map(id=>{const {type,url,citation}=sourceIndex.get(id);return {id,type,url,citation};});
+  const entry={factor_id:l.factor,cause:factors.get(l.factor)?.label||l.factor,strength:l.strength,relation_type:relationType(l),definitional:Boolean(l.definitional),source_ids,summary:l.summary},size=JSON.stringify(entry).length+JSON.stringify(fresh).length;
+  if(used+size>budget){truncated=true;continue;}
+  used+=size;if(!collected.has(r.outcome.id))collected.set(r.outcome.id,[]);collected.get(r.outcome.id).push(entry);for(const source of fresh)usedSources.set(source.id,source);
+ }
  for(const r of wanted){
-  const links=[];
-  // The strongest links come first; six per consequence keep room for the others.
-  for(const l of r.links.filter(l=>l.summary).slice(0,6)){
-   const source_ids=l.source_ids||l.sources||[],fresh=source_ids.filter(id=>!usedSources.has(id)&&sourceIndex.has(id)).map(id=>{const {type,url,citation}=sourceIndex.get(id);return {id,type,url,citation};});
-   const entry={factor_id:l.factor,cause:factors.get(l.factor)?.label||l.factor,strength:l.strength,relation_type:relationType(l),definitional:Boolean(l.definitional),source_ids,summary:l.summary},size=JSON.stringify(entry).length+JSON.stringify(fresh).length;
-   if(used+size>budget){truncated=true;continue;}
-   used+=size;links.push(entry);for(const source of fresh)usedSources.set(source.id,source);
-  }
+  const links=collected.get(r.outcome.id)||[];
   if(links.length<r.links.length)truncated=true;
   if(links.length)evidence.push({id:r.outcome.id,label:r.outcome.label,...(r.outcome.note?{note:r.outcome.note}:{}),...(r.outcome.age_scope?{age_scope:r.outcome.age_scope}:{}),...(r.outcome.contextual_only?{contextual_only:true}:{}),links});
  }

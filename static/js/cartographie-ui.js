@@ -7,7 +7,7 @@
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
   var STRENGTH_ORDER = ['forte', 'critere', 'moderee', 'limitee', 'theorique'];
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
-  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique'})[outcome.category] || KIND_LABEL[outcome.kind]; }
+  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
   var NOTE_MAX = 1000;
   var DRAFT_KEY = 'cartographie-brouillon-v1';
@@ -329,6 +329,7 @@
         el('span', { className: 'carto-card-title', text: o.label }),
         el('span', { className: 'carto-card-meta', text: r.factors.length + ' vécu' + (r.factors.length > 1 ? 's' : '') + ' associé' + (r.factors.length > 1 ? 's' : '') + ' · ' + STRENGTH_LABEL[r.links[0].strength] + (open ? ' · Replier' : ' · Voir le détail') })
       ])];
+      if (o.contextual_only && !(o.note && NOTE_TEXT[o.note])) children.push(el('p', { className: 'carto-caution carto-card-caution', text: 'Repère de contexte : Ambre ne vous le suggère pas à partir de ces réponses.' }));
       if (o.note && NOTE_TEXT[o.note]) children.push(el('p', { className: 'carto-caution carto-card-caution', text: NOTE_TEXT[o.note] }));
       if (open) {
         var body = [];

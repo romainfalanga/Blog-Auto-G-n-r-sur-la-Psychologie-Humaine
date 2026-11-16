@@ -243,7 +243,7 @@ test('current source inventory paginates owner data and exposes bounded excerpts
  for(let i=0;i<105;i++)s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,kind) VALUES(?,'a',?,'hash',?,?,'other')").run('ev'+i,'ev'+i,'Événement '+i,'Récit personnel '+i);
  s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,kind) VALUES('other-event','b','other-event','hash','OTHER_USER_SECRET','Autre personne','other')").run();
  s.raw.prepare("INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES('a','article-test','Un récit aimé.','Des différences.')").run();
- const first=await s.call('/api/chat/insight');assert.equal(first.current.sources.items.length,100);assert.equal(first.current.sources.next_offset,100);assert.equal(first.knowledge.next_offset,100);const second=await s.call('/api/chat/insight?offset=100');assert.equal(second.current.sources.items.length,6);assert.equal(second.current.sources.next_offset,null);const profile=second.current.sources.items.find(x=>x.kind==='profile');assert.equal(profile.content.length,6000);assert.equal(profile.truncated,true);assert.ok(profile.original_chars>6000);assert.equal(profile.api_path,'/api/self-profile');assert.equal(second.current.self_profile.self_description,long);
+ const first=await s.call('/api/chat/insight');assert.equal(first.current.sources.items.length,100);assert.equal(first.current.sources.next_offset,100);assert.equal(first.knowledge.next_offset,100);const second=await s.call('/api/chat/insight?offset=100');assert.equal(second.current.sources.items.length,7);assert.equal(second.current.sources.next_offset,null);const profile=second.current.sources.items.find(x=>x.kind==='profile');assert.equal(profile.content.length,6000);assert.equal(profile.truncated,true);assert.ok(profile.original_chars>6000);assert.equal(profile.api_path,'/api/self-profile');assert.equal(second.current.self_profile.self_description,long);
  assert.doesNotMatch(JSON.stringify([first,second]),/OTHER_USER_SECRET/);assert.equal(first.current.stored_elsewhere.find(x=>x.key==='likes').usage,'not_sent_to_chat');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='accepted_memory').api_path,'/api/memory');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='older_history').edit_path,'/mon-accompagnement/');assert.equal(first.current.usage_policy.details_max_chars,6500);
 });
 
@@ -326,7 +326,7 @@ test('deterministic current danger never waits for or depends on the extra model
 });
 
 test('only a current confirmation receives the immediately preceding safety exchange',async t=>{
- const s=setup();await ready(s);seedTurns(s,2);s.raw.prepare("UPDATE chat_turns SET content='Je veux mourir.',response=? WHERE id='history-2'").run(JSON.stringify({companion_reply:1,content:'Pensez-vous au suicide ce soir ?'}));const current='Oui, ce soir.',calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'current_confirmation',evidence_quote:current}:undefined);await message(s,'risk_confirmation',current);assert.equal(job(s).stage,'done');assert.deepEqual(JSON.parse(calls[1].body.messages[1].content),{message:current,recent_confirmation_context:{id:'history-2',user:'Je veux mourir.',assistant:'Pensez-vous au suicide ce soir ?'}});assert.equal(JSON.parse(job(s).analysis).risk,'possible');
+ const s=setup();await ready(s);seedTurns(s,2);s.raw.prepare("UPDATE chat_turns SET content='Je veux mourir.',response=? WHERE id='history-2'").run(JSON.stringify({companion_reply:1,content:'Pensez-vous au suicide ce soir ?'}));const current='Oui, ce soir.',calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'current_confirmation',evidence_quote:current}:undefined);await message(s,'risk_confirmation',current);assert.equal(job(s).stage,'done');assert.deepEqual(JSON.parse(calls[1].body.messages[1].content),{message:current,recent_confirmation_context:{id:'history-2',at:JSON.parse(calls[1].body.messages[1].content).recent_confirmation_context.at,user:'Je veux mourir.',assistant:'Pensez-vous au suicide ce soir ?'}});assert.equal(JSON.parse(job(s).analysis).risk,'possible');
 });
 
 test('a short execution window persists the pending risk check and never repeats initial analysis',async t=>{
@@ -365,4 +365,42 @@ test('consent, source changes and purge invalidate late risk-check results',asyn
   const s=setup();await ready(s);let release,started;const began=new Promise(r=>started=r),tasks=[];provider(t,async p=>{if(p==='ambre_analysis')return flaggedAnalysis();if(p==='ambre_risk_check'){started();await new Promise(r=>release=r);return noCurrentRisk()}});await message(s,'risk_late_'+change,'Une question de diagnostic.',{waitUntil:p=>tasks.push(p)});await began;
   if(change==='consent')await s.call('/api/chat/consent','PUT',{accepted:false});if(change==='source')s.raw.prepare("UPDATE profiles SET version=version+1 WHERE user_id='a'").run();if(change==='purge')await s.call('/api/chat','DELETE',{});release();await Promise.all(tasks);assert.notEqual(s.raw.prepare('SELECT status FROM chat_turns').get().status,'completed');if(change==='purge')assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turn_traces').get().n,0);
  }
+});
+
+function filledProfile(s,maximal=false){
+ const prose='Je rumine après les critiques et cherche des limites dans mes relations. ',long=n=>prose.repeat(Math.ceil(n/prose.length)).slice(0,n);
+ s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Camille',occupation:'Activité déclarée',self_description:long(maximal?10000:2400),self_perception:long(maximal?4000:800),recurring_patterns:long(maximal?4000:800),emotions:long(maximal?4000:800),current_context:long(maximal?4000:800)}));
+ for(let i=0;i<(maximal?50:6);i++)s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES(?,'a',?,'hash',?,'friend',?)").run('filled-person-'+i,'filled-person-'+i,'Proche critiques '+i,long(maximal?6000:1300));
+ for(let i=0;i<(maximal?500:20);i++)s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,meaning_now,kind) VALUES(?,'a',?,'hash',?,?,?,'other')").run('filled-event-'+i,'filled-event-'+i,'Moment critiques '+i,long(maximal?6000:1300),long(maximal?2000:400));
+ const answers=Object.fromEntries(CARTOGRAPHIE.factors.map((x,i)=>[x.id,i%4===0?0:1]));
+ s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,1,1)").run(JSON.stringify(answers));
+ seedTurns(s,6);s.raw.prepare("UPDATE chat_turns SET content=?,response=?,week_start='2026-01-01',created_at='2026-01-01 00:00:00'").run(long(maximal?6000:700),JSON.stringify({companion_reply:1,content:long(1100)+' Quelle limite voudriez-vous poser ?'}));
+ s.raw.prepare("INSERT INTO chat_memory(user_id,summary,through_turn,turns_covered,updated_at) VALUES('a',?,'history-6',6,0)").run(JSON.stringify(Object.fromEntries(['facts','goals','hypotheses','tried','alliance','session'].map(k=>[k,Array.from({length:12},(_,i)=>`${k} ${i} `+long(230))]))));
+ s.raw.prepare("UPDATE ambre_reviews SET content=? WHERE user_id='a'").run(long(3000));
+ return long(maximal?6000:250);
+}
+
+test('audit17 filled SQLite profiles complete ordinary turns and one rewrite within the planned budget',async t=>{
+ for(const maximal of [false,true])for(const rewrite of [false,true]){
+  const s=setup();await ready(s);const current=filledProfile(s,maximal);let reviews=0;
+  const calls=provider(t,(purpose,body)=>{if(purpose==='ambre_analysis'){const input=JSON.parse(body.messages[1].content);return {...analysis(),selected_ids:input.index.split('\n').slice(0,8).map(row=>row.split(' ')[0])}}if(purpose==='ambre_review'&&rewrite&&!reviews++){const r=review();r.criteria[3]='no';return r}});
+  const sent=await message(s,'filled_'+maximal+'_'+rewrite,current);for(let n=0;n<8&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
+  const sizes=calls.map(({purpose,body})=>({purpose,input:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3),reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}));
+  t.diagnostic(JSON.stringify({maximal,rewrite,sizes,total_input:sizes.reduce((n,x)=>n+x.input,0),reserved:job(s).reserved_tokens}));
+  assert.equal(job(s).stage,'done',JSON.stringify(job(s)));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(x=>x.purpose==='ambre_writing').length,rewrite?2:1);assert.ok(job(s).reserved_tokens<=30000);
+ }
+});
+
+test('audit17 recovery reserves every failed attempt, keeps analysis once, and completes the maximal rewrite',async t=>{
+ const s=setup();await ready(s);const current=filledProfile(s,true);let writingPhase=0,writeAttempts=0,reviewPhase=0,reviewAttempts=0;
+ const calls=provider(t,(purpose,body)=>{
+  if(purpose==='ambre_analysis')return {...analysis(),selected_ids:JSON.parse(body.messages[1].content).index.split('\n').slice(0,8).map(x=>x.split(' ')[0])};
+  if(purpose==='ambre_writing'){if(++writeAttempts%3!==0)return new Response('Unavailable',{status:503});writingPhase++;return draft()}
+  if(purpose==='ambre_review'){if(++reviewAttempts%3!==0)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});reviewPhase++;const r=review();if(reviewPhase===1)r.criteria[3]='no';return r}
+ });
+ const sent=await message(s,'maximal_recovery',current);for(let n=0;n<12&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
+ assert.equal(job(s).stage,'done',JSON.stringify(job(s)));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(writingPhase,2);assert.equal(reviewPhase,2);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(calls.length,13);
+ const total=calls.reduce((n,{body})=>n+Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens,0);
+ assert.equal(job(s).reserved_tokens,total);assert.equal(s.raw.prepare('SELECT reserved_tokens FROM provider_budgets').get().reserved_tokens,total);assert.ok(total<94500);assert.ok(total>30000);
+ t.diagnostic(JSON.stringify({scenario:'maximal_rewrite_all_retries',calls:calls.length,reserved:total,stages:calls.map(({purpose,body})=>({purpose,reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}))}));
 });

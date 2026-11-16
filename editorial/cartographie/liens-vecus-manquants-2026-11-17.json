@@ -1,0 +1,750 @@
+{
+  "part": "vecus-manquants",
+  "author": "recherche_lot8",
+  "outcomes": [],
+  "links": [
+    {
+      "factor": "precarite",
+      "outcome": "ten_externalisation",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse de cohortes américaines relie un milieu matériel défavorisé à un peu plus de comportements externalisés chez les enfants et adolescents. Les associations sont modestes et variables ; elles ne décrivent pas un destin adulte.",
+      "sources": [
+        "peverill2021"
+      ]
+    },
+    {
+      "factor": "parent_incarcere",
+      "outcome": "anx_generale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte américaine, les jeunes adultes ayant une figure parentale avec un passé d'incarcération présentent un peu plus de troubles anxieux, même après plusieurs ajustements.",
+      "sources": [
+        "gifford2019_incarceration"
+      ]
+    },
+    {
+      "factor": "parent_incarcere",
+      "outcome": "ten_usage_substances",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une cohorte américaine observe davantage de troubles liés aux substances à l'âge adulte chez les personnes ayant une figure parentale avec un passé d'incarcération. L'association varie selon le produit.",
+      "sources": [
+        "gifford2019_incarceration"
+      ]
+    },
+    {
+      "factor": "parent_incarcere",
+      "outcome": "ten_difficultes_scolaires",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une cohorte américaine observe plus d'absences de diplôme de fin de secondaire chez les jeunes adultes ayant une figure parentale avec un passé d'incarcération, après plusieurs ajustements.",
+      "sources": [
+        "gifford2019_incarceration"
+      ]
+    },
+    {
+      "factor": "parent_incarcere",
+      "outcome": "pat_social_isolation",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte américaine, le faible soutien social à l'âge adulte est plus fréquent après un passé d'incarcération d'une figure parentale, même après plusieurs ajustements.",
+      "sources": [
+        "gifford2019_incarceration"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cdc2016_ace_definitions",
+      "citation": "CDC, Kaiser Permanente, 2016, About the CDC-Kaiser ACE Study, sections Study Questionnaires et ACEs Definitions",
+      "url": "https://www.cdc.gov/violenceprevention/aces/about.html",
+      "type": "recommandation",
+      "read": "section : ACEs Definitions et questionnaires, dix catégories"
+    },
+    {
+      "id": "oms2018_aceiq_questionnaire",
+      "citation": "Organisation mondiale de la Santé, 2018, Adverse Childhood Experiences International Questionnaire, Section B: Questionnaire",
+      "url": "https://cdn.who.int/media/docs/default-source/documents/child-maltreatment/ace-questionnaire.pdf?sfvrsn=baed215c_2",
+      "type": "recommandation",
+      "read": "section : questionnaire officiel, groupes P, F, A et V"
+    },
+    {
+      "id": "oms2018_aceiq_guide",
+      "citation": "Organisation mondiale de la Santé, 2018, ACE-IQ Section C1: Question-by-Question Guide",
+      "url": "https://cdn.who.int/media/docs/default-source/documents/child-maltreatment/ace-iq-question-by-question-document.pdf?sfvrsn=3018c40a_2",
+      "type": "recommandation",
+      "read": "section : A5–A8, V1–V10, pages 5–7 ; auteur des violences, pairs, communauté et violence collective"
+    },
+    {
+      "id": "oms2018_aceiq_analysis",
+      "citation": "Organisation mondiale de la Santé, 2018, ACE-IQ Section D: Guidance for Analysing ACE-IQ",
+      "url": "https://cdn.who.int/media/docs/default-source/documents/child-maltreatment/ace-iq-guidance-for-analysing.pdf?sfvrsn=adfe12bb_2",
+      "type": "recommandation",
+      "read": "section : pages 1–2, treize catégories et cotations binaire/fréquence"
+    },
+    {
+      "id": "pearson1997_ctq",
+      "citation": "Bernstein DP, Fink L, 1997, Childhood Trauma Questionnaire: A Retrospective Self-Report, fiche officielle Pearson Clinical Assessment",
+      "url": "https://www.pearsonclinical.co.uk/en-gb/Store/Professional-Assessments/Personality-%26-Biopsychosocial/Brief/Childhood-Trauma-Questionnaire%3A-A-Retrospective-Self-Report/p/P100009055",
+      "type": "recommandation",
+      "read": "page : Benefits et Features ; cinq sous-échelles et trois niveaux de sévérité ; manuel commercial non consulté"
+    },
+    {
+      "id": "teicher2015_mace",
+      "citation": "Teicher MH, Parigger A, 2015, The Maltreatment and Abuse Chronology of Exposure (MACE) Scale for the Retrospective Assessment of Abuse and Neglect During Development, PLoS ONE 10(2):e0117423",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117423",
+      "type": "etude",
+      "read": "texte intégral : méthodes de construction, résultats par sous-échelle, notamment Witnessing Violence to Siblings et temporalité"
+    },
+    {
+      "id": "teicher2015_mace_instrument",
+      "citation": "Teicher MH, Parigger A, 2015, MACE, instrument de 52 questions, fichier supplémentaire S2 de PLoS ONE 10(2):e0117423",
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0117423.s011&type=supplementary",
+      "type": "recommandation",
+      "read": "section : DOCX ouvert en mémoire, items 1–41 ; fratrie 15–18, pairs 26–37, grille des âges 1–18"
+    },
+    {
+      "id": "teicher2014_macescore_manual",
+      "citation": "Teicher MH, 2014, MACEscore version 1.1, manuel du programme de cotation, supplément S8 de Teicher et Parigger 2015",
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0117423.s017&type=supplementary",
+      "type": "recommandation",
+      "read": "section : manuel PDF pages 1–5, structures MACE/MAES et contrôle des âges ; pas de recalcul de score local"
+    },
+    {
+      "id": "oms2026_qe",
+      "citation": "Organisation mondiale de la Santé, 2026, ICD-11 for Mortality and Morbidity Statistics, version 2026-01, chapitre 24, catégories QE",
+      "url": "https://icdcdn.who.int/static/releasefiles/2026-01/print-ICD-11-MMS-en.zip",
+      "type": "classification",
+      "read": "section : PDF officiel dans archive ZIP ouverte en mémoire, pages imprimées 1755 et 1763–1767 ; codes recoupés avec SimpleTabulation officiel 2026-01"
+    },
+    {
+      "id": "miliauskas2022_communaute",
+      "citation": "Miliauskas CR, Faus DP, da Cruz VL, Vallaperde JGRN, Junger W, Lopes CS, 2022, Community violence and internalizing mental health symptoms in adolescents: A systematic review, BMC Psychiatry 22:253",
+      "url": "https://link.springer.com/article/10.1186/s12888-022-03873-8",
+      "type": "meta-analyse",
+      "read": "texte intégral : méthodes, résultats, tableau 1, synthèse quantitative et distinction victimes/témoins ; également XML Europe PMC"
+    },
+    {
+      "id": "teicher2011_fratrie_temoin",
+      "citation": "Teicher MH, Vitaliano GD, 2011, Witnessing Violence Toward Siblings: An Understudied but Potent Form of Early Adversity, PLoS ONE 6(12):e28852",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028852",
+      "type": "etude",
+      "read": "texte intégral : Participants, Assessments, Data Analysis, Results, tableaux 1–2 et limites transversales"
+    },
+    {
+      "id": "gifford2019_incarceration",
+      "citation": "Gifford EJ, Eldred Kozecke L, Golonka M, Hill SN, Costello EJ, Shanahan L, Copeland WE, 2019, Association of Parental Incarceration With Psychiatric and Functional Outcomes of Young Adults, JAMA Network Open 2(8):e1910005",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2748665",
+      "type": "etude",
+      "read": "texte intégral : Methods, définition de la figure parentale et de son incarcération, Results, tableaux 1, 3 et 4"
+    },
+    {
+      "id": "maguire2024_placements",
+      "citation": "Maguire D et al., 2024, A Systematic Review of the Impact of Placement Instability on Emotional and Behavioural Outcomes Among Children in Foster Care, Journal of Child & Adolescent Trauma 17:641–655",
+      "url": "https://link.springer.com/article/10.1007/s40653-023-00606-1",
+      "type": "revue",
+      "read": "texte intégral : Method, critères, qualité, Results et synthèse des associations internalisées/externalisées ; pas de conclusion propre au placement tardif"
+    },
+    {
+      "id": "pathmendra2023_exposition",
+      "citation": "Pathmendra P, Raggatt M, Lim MSC, Marino JL, Skinner SR, 2023, Exposure to Pornography and Adolescent Sexual Behavior: Systematic Review, Journal of Medical Internet Research 25:e43116",
+      "url": "https://www.jmir.org/2023/1/e43116",
+      "type": "revue",
+      "read": "texte intégral : méthodes de sélection/extraction, résultats Included Studies et Early Age of First Sex ; hétérogénéité et absence de méta-analyse"
+    },
+    {
+      "id": "zhong2024_internat",
+      "citation": "Zhong Z, Feng Y, Xu Y, 2024, The impact of boarding school on student development in primary and secondary schools: a meta-analysis, Frontiers in Psychology 15:1359626",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1359626/full",
+      "type": "meta-analyse",
+      "read": "texte intégral : codage, Effect size, Statistical analysis, Results, tableaux 2–4 ; pas de mesure spécifique de séparation précoce"
+    }
+  ],
+  "notes": [],
+  "proposed_factors": [
+    {
+      "id": "violence_quartier",
+      "group": "contexte",
+      "label": "Être témoin de violences dans son quartier",
+      "description": "Voir ou entendre, en personne, des agressions graves ou des menaces armées dans son quartier ou sa communauté pendant l'enfance.",
+      "examples": [
+        "Assister à des agressions dans la rue",
+        "Entendre une attaque dans son voisinage, hors images et récits médiatiques"
+      ],
+      "ace": false,
+      "overlap_group": "physical_violence",
+      "instrument": "ACE-IQ, witnessing community violence, V4–V6",
+      "justification": "Exposition réelle hors foyer distincte du harcèlement répété et du traumatisme ponctuel subi. Deux liens empiriques limités proposés ; ne pas étendre aux violences scolaires, exclues de la revue retenue. Groupe de recouvrement prudent à valider par intégration.",
+      "admission_status": "proposition_documentee"
+    },
+    {
+      "id": "temoin_violences_fratrie",
+      "group": "violences",
+      "label": "Assister à des violences sur un frère ou une sœur",
+      "description": "Voir ou entendre des violences infligées à un frère ou une sœur pendant son enfance, sans être nécessairement la personne visée.",
+      "examples": [
+        "Un adulte du foyer agressait un frère ou une sœur",
+        "Être présent pendant des violences envers sa fratrie"
+      ],
+      "ace": false,
+      "overlap_group": "family_conflict",
+      "instrument": "MACE, Witnessing Violence to Siblings ; ACE-IQ, violence contre un membre du foyer (partiel)",
+      "justification": "Absent des cases témoin entre adultes et victime de sa fratrie. Trois liens empiriques limités ; données rétrospectives transversales, non cohorte. Admission conditionnelle : satisfait le seuil du § 6.4 mais pas la liste stricte de plans empiriques du § 0.",
+      "admission_status": "a_examiner"
+    }
+  ],
+  "proposed_links": [
+    {
+      "factor": "violence_quartier",
+      "outcome": "dep_generale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue d'études chez des adolescents associe le fait d'assister à des violences dans la communauté à davantage de symptômes dépressifs dans certaines études. Les résultats sont variables, parfois nuls, et ne prédisent pas une dépression individuelle.",
+      "sources": [
+        "miliauskas2022_communaute"
+      ]
+    },
+    {
+      "factor": "violence_quartier",
+      "outcome": "anx_generale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue d'études chez des adolescents rapporte des associations variables entre violences communautaires observées et symptômes anxieux. Certaines études ne retrouvent pas de lien ; aucune conclusion individuelle n'en découle.",
+      "sources": [
+        "miliauskas2022_communaute"
+      ]
+    },
+    {
+      "factor": "temoin_violences_fratrie",
+      "outcome": "dep_generale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une étude rétrospective de jeunes adultes associe les violences observées sur la fratrie à des symptômes dépressifs plus élevés. L'échantillon volontaire et l'absence de suivi limitent la conclusion.",
+      "sources": [
+        "teicher2011_fratrie_temoin"
+      ]
+    },
+    {
+      "factor": "temoin_violences_fratrie",
+      "outcome": "anx_generale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une étude rétrospective de jeunes adultes observe une association modeste entre violences observées sur la fratrie et symptômes anxieux. Elle ne démontre pas de causalité.",
+      "sources": [
+        "teicher2011_fratrie_temoin"
+      ]
+    },
+    {
+      "factor": "temoin_violences_fratrie",
+      "outcome": "ten_dissociation",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Deux études rétrospectives de jeunes adultes associent les violences observées sur la fratrie à davantage de symptômes dissociatifs. Ces données transversales ne suffisent pas à établir une causalité.",
+      "sources": [
+        "teicher2011_fratrie_temoin",
+        "teicher2015_mace"
+      ]
+    }
+  ],
+  "proposed_corrections": [
+    {
+      "factor": "exil",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "La violence collective n'exige pas d'exil ; le libellé et la description existants couvrent déjà un conflit vécu sur place. Ajouter seulement un exemple.",
+      "examples_add": [
+        "Vivre la guerre ou des violences collectives sans quitter son lieu de vie"
+      ],
+      "sources": [
+        "oms2018_aceiq_guide"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "Le numérique est déjà inclus. Donner un exemple visible ; ne pas créer une seconde case de cumul.",
+      "examples_add": [
+        "Messages humiliants répétés, rumeurs ou exclusion organisés en ligne"
+      ],
+      "sources": [
+        "teicher2015_mace_instrument"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "ACE-IQ admet tout auteur et MACE inclut les pairs : le libellé actuel restreint inutilement aux mineurs plus âgés. Ne pas étendre la case à toute curiosité sexuelle ou exposition médiatique fortuite.",
+      "description": "Contact ou acte sexuel imposé, coercition sexuelle ou exposition sexuelle imposée pendant l'enfance, quel que soit l'âge ou le rôle de l'auteur.",
+      "examples_add": [
+        "Violence sexuelle par un pair ou par un adulte hors famille",
+        "Pression ou menace sexuelle en ligne"
+      ],
+      "sources": [
+        "oms2018_aceiq_guide",
+        "teicher2015_mace_instrument"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "Le facteur vise déjà un adulte quelconque. Expliciter le cadre institutionnel sans changer l'identifiant.",
+      "examples_add": [
+        "Coups infligés par un adulte à l'école, dans le sport, un lieu de culte ou un foyer"
+      ],
+      "sources": [
+        "oms2026_qe"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "Rejet et humiliations sont déjà inclus ; préciser le contexte sans diagnostiquer le parent.",
+      "examples_add": [
+        "Humiliations ou menaces par un adulte d'institution",
+        "Rejet répété lié à l'orientation, à l'identité ou au handicap"
+      ],
+      "sources": [
+        "oms2026_qe"
+      ]
+    },
+    {
+      "factor": "discrimination",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "La case mentionne déjà orientation et handicap. Ne pas présenter ces caractéristiques comme des causes de troubles.",
+      "examples_add": [
+        "Rejet familial lié à l'orientation ou à l'identité",
+        "Stigmatisation à cause d'un handicap ou de difficultés d'apprentissage"
+      ],
+      "sources": [
+        "oms2026_qe"
+      ]
+    },
+    {
+      "factor": "deces_proche",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "Le suicide d'un proche est un décès particulier déjà réductible à cette case. Son effet spécifique ne doit pas être étendu à tout deuil.",
+      "examples_add": [
+        "Mort d'un proche par suicide"
+      ],
+      "sources": [
+        "oms2026_qe"
+      ]
+    },
+    {
+      "factor": "controle",
+      "action": "reformuler",
+      "target": "factor_editorial",
+      "reason": "Distinguer dans les exemples les règles comportementales imposées et le contrôle psychologique. Des règles adaptées et expliquées ne constituent pas à elles seules une adversité.",
+      "examples_add": [
+        "Culpabilisation pour obtenir son obéissance",
+        "Retrait affectif ou intrusion dans les pensées et émotions"
+      ],
+      "sources": [
+        "oms2026_qe"
+      ],
+      "integration_caution": "Réexamen des sources de chaque lien par le lot 9 ; QE95 est un rapprochement contextuel, pas une validation de la notion de contrôle psychologique."
+    },
+    {
+      "factor": "parent_trouble",
+      "action": "conserver",
+      "target": "factor_scope",
+      "reason": "Conserver l'identifiant et le périmètre parental tant que ses liens portent sur des parents. Signaler que cette case ne recouvre pas tous les membres du foyer des instruments ACE/ACE-IQ ; ne pas présenter le compteur comme un score ACE validé.",
+      "sources": [
+        "cdc2016_ace_definitions",
+        "oms2018_aceiq_analysis"
+      ]
+    },
+    {
+      "factor": "parent_addiction",
+      "action": "conserver",
+      "target": "factor_scope",
+      "reason": "Conserver l'identifiant et le périmètre parental tant que ses liens portent sur des parents. Signaler que cette case ne recouvre pas tous les membres du foyer des instruments ACE/ACE-IQ ; ne pas présenter le compteur comme un score ACE validé.",
+      "sources": [
+        "cdc2016_ace_definitions",
+        "oms2018_aceiq_analysis"
+      ]
+    },
+    {
+      "factor": "parent_incarcere",
+      "action": "conserver",
+      "target": "factor_scope",
+      "reason": "Conserver l'identifiant et le périmètre parental tant que ses liens portent sur des parents. Signaler que cette case ne recouvre pas tous les membres du foyer des instruments ACE/ACE-IQ ; ne pas présenter le compteur comme un score ACE validé.",
+      "sources": [
+        "cdc2016_ace_definitions",
+        "oms2018_aceiq_analysis"
+      ]
+    },
+    {
+      "source": "peverill2021",
+      "action": "conserver",
+      "target": "source_read",
+      "read": "texte intégral : méthodes de sélection des 13 cohortes, résultats 3.2–3.4 et tableau 2 ; PDF de Harvard",
+      "reason": "Source existante relue au-delà du résumé ; aucune redéclaration d'identifiant ni changement de force automatique.",
+      "verification_url": "https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/peverill_2021_ses_meta_analysis.pdf"
+    }
+  ],
+  "out_of_scope": [
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "violence_ecole_hors_harcelement",
+      "label": "Violences à l'école hors harcèlement",
+      "statut": "a_examiner",
+      "raison": "Les agressions ponctuelles subies ont une case ; la revue communautaire retenue exclut les violences scolaires. Pas d'extrapolation de ses liens à ce milieu.",
+      "sources": [
+        "miliauskas2022_communaute"
+      ],
+      "target": [
+        "traumatisme_ponctuel",
+        "abus_physique"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "violence_collective_sans_exil",
+      "label": "Violence collective sans exil",
+      "statut": "agrege_dans",
+      "raison": "Déjà incluse dans la description de exil ; ajout d'exemple proposé.",
+      "sources": [
+        "oms2018_aceiq_guide"
+      ],
+      "target": [
+        "exil"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "temoin_fratrie_admission",
+      "label": "Témoin de violences sur la fratrie : admission",
+      "statut": "a_examiner",
+      "raison": "Facteur et trois liens proposés ; preuves transversales ciblées, mais aucune cohorte ou méta-analyse propre retenue. Décision sur la contradiction § 0 / § 6.4 nécessaire avant activation.",
+      "sources": [
+        "teicher2011_fratrie_temoin",
+        "teicher2015_mace"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "placement_tardif",
+      "label": "Placement tardif en famille ou foyer",
+      "statut": "a_examiner",
+      "raison": "QE93/QE94 décrivent le contexte. La revue porte sur les changements de placement et des âges mélangés, pas sur l'effet propre d'un premier placement tardif. Ne pas élargir soins_instables sans revoir ses liens propres à la petite enfance.",
+      "sources": [
+        "oms2026_qe",
+        "maguire2024_placements"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "cyberviolence",
+      "label": "Cyberviolences répétées par des pairs",
+      "statut": "agrege_dans",
+      "raison": "La case harcelement inclut déjà Internet ; messages et rumeurs figurent dans le MACE. Pas de nouvelle case de cumul.",
+      "sources": [
+        "teicher2015_mace_instrument"
+      ],
+      "target": [
+        "harcelement"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "exposition_sexuelle_contenus",
+      "label": "Exposition précoce à des contenus sexuels",
+      "statut": "a_examiner",
+      "raison": "Distinguer exposition imposée, découverte fortuite et consommation volontaire. La revue adolescente ne démontre pas deux conséquences propres à une exposition précoce imposée ; ni auteur ni âge ne sont uniformes.",
+      "sources": [
+        "pathmendra2023_exposition"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "exposition_violente_contenus",
+      "label": "Exposition à des contenus violents",
+      "statut": "a_examiner",
+      "raison": "La violence communautaire ACE-IQ exclut explicitement la télévision et les films. Aucune preuve spécifique suffisamment examinée ici pour une case regroupant tous contenus violents.",
+      "sources": [
+        "oms2018_aceiq_guide"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "rejet_orientation_identite",
+      "label": "Rejet familial lié à l'orientation ou à l'identité",
+      "statut": "agrege_dans",
+      "raison": "Les comportements de rejet et de discrimination sont déjà couverts ; préciser les exemples. L'orientation ou l'identité n'est ni une exposition adverse en soi ni une conséquence à inférer.",
+      "sources": [
+        "oms2026_qe"
+      ],
+      "target": [
+        "discrimination",
+        "abus_emotionnel"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "violence_adulte_institution",
+      "label": "Violences par un adulte d'institution",
+      "statut": "agrege_dans",
+      "raison": "Décrire les actes dans les cases de violences existantes ; le statut professionnel de l'auteur ne définit pas une nouvelle exposition irréductible.",
+      "sources": [
+        "oms2018_aceiq_guide",
+        "oms2026_qe"
+      ],
+      "target": [
+        "abus_physique",
+        "abus_sexuel",
+        "abus_emotionnel"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "internat_precoce",
+      "label": "Internat précoce",
+      "statut": "a_examiner",
+      "raison": "Une méta-analyse existe, mais agrège écoles primaires/secondaires et dimensions très hétérogènes ; elle ne documente pas deux liens propres à une séparation précoce. QE94 ne rend pas tout internat pathologique.",
+      "sources": [
+        "zhong2024_internat",
+        "oms2026_qe"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "stigmatisation_handicap_apprentissages",
+      "label": "Handicap ou trouble d'apprentissage vécu comme stigmatisation",
+      "statut": "agrege_dans",
+      "raison": "La discrimination et le harcèlement couvrent les comportements subis. Aucun lien causal vers un trouble neurodéveloppemental n'est proposé.",
+      "sources": [
+        "oms2026_qe"
+      ],
+      "target": [
+        "discrimination",
+        "harcelement"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "suicide_proche",
+      "label": "Suicide d'un proche",
+      "statut": "agrege_dans",
+      "raison": "Ajouter un exemple au décès d'un proche. Une tentative d'un membre du foyer relève de la catégorie ACE de souffrance psychique ; les deux événements ne doivent pas être confondus.",
+      "sources": [
+        "cdc2016_ace_definitions",
+        "oms2026_qe"
+      ],
+      "target": [
+        "deces_proche",
+        "parent_trouble"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "controle_psychologique",
+      "label": "Contrôle comportemental et psychologique",
+      "statut": "a_examiner",
+      "raison": "Des exemples de contrôle psychologique sont proposés, sans nouvelle case ni nouveau lien avant séparation des constructions dans les sources existantes.",
+      "sources": [
+        "oms2026_qe"
+      ],
+      "target": [
+        "controle",
+        "amour_conditionnel"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "precarite_renforcement",
+      "label": "Précarité",
+      "statut": "agrege_dans",
+      "raison": "Un lien externalisation ajouté depuis une méta-analyse existante relue. Pas de scission artificielle vers dépression et anxiété à partir de son seul agrégat internalisé.",
+      "sources": [
+        "peverill2021"
+      ],
+      "target": [
+        "precarite"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "secret_famille_renforcement",
+      "label": "Secrets familiaux",
+      "statut": "a_examiner",
+      "raison": "Case très hétérogène : secret imposé, intimité, divulgation et événement caché ne sont pas interchangeables. Aucune nouvelle preuve admissible retenue ; unique lien actuel à vérifier indépendamment.",
+      "sources": [],
+      "target": [
+        "secret_famille"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "maladie_fratrie_renforcement",
+      "label": "Maladie d'un frère ou d'une sœur",
+      "statut": "a_examiner",
+      "raison": "Deux liens existants ; pas de nouvelle preuve spécifique lue au-delà du résumé dans ce lot. Ne pas transférer les résultats concernant un parent malade.",
+      "sources": [],
+      "target": [
+        "maladie_famille"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "difference_ressentie",
+      "label": "Se sentir différent",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Une impression de différence n'est pas équivalente à une discrimination mesurée. Pas de nouveau lien empirique depuis cette seule impression.",
+      "sources": [],
+      "target": [
+        "se_sentir_different"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "incarceration_renforcement",
+      "label": "Incarcération parentale",
+      "statut": "agrege_dans",
+      "raison": "Quatre liens précis ajoutés avec limites temporelles documentées. Aucune nouvelle association proposée pour dépression adulte, suicidalité ou difficulté à garder un emploi, non significatives dans la cohorte retenue.",
+      "sources": [
+        "gifford2019_incarceration"
+      ],
+      "target": [
+        "parent_incarcere"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "baumrind_styles",
+      "label": "Styles parentaux de Baumrind",
+      "statut": "a_examiner",
+      "raison": "Ne pas assimiler automatiquement autoritaire, permissif et négligent à une case. Style démocratique à instruire comme ressource par le lot 7, sans ajout de vécu.",
+      "sources": [],
+      "target": [
+        "controle",
+        "absence_limites",
+        "negligence_emotionnelle"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "rohner_rejet",
+      "label": "Rejet parental de Rohner",
+      "statut": "agrege_dans",
+      "raison": "Recouvre des actes de rejet, le manque de chaleur et des ressentis ; aucune case globale supplémentaire sans mesure distincte et preuves propres.",
+      "sources": [],
+      "target": [
+        "abus_emotionnel",
+        "negligence_emotionnelle",
+        "amour_conditionnel"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "parent_narcissique",
+      "label": "Parent narcissique",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Pas de case de diagnostic supposé du parent. Décrire les comportements déjà présents ; aucune inférence diagnostique ou causalité à partir de cette étiquette.",
+      "sources": [],
+      "target": [
+        "amour_conditionnel",
+        "critique",
+        "parentification",
+        "triangulation"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "ressentis_empiriques",
+      "label": "Quatorze ressentis et dix-sept liens empiriques",
+      "statut": "a_examiner",
+      "raison": "Le relevé des dix-sept paires est dans le rapport. Risque de circularité ; le lot 9 doit vérifier la temporalité et la différence entre exposition et résultat avant de conserver une nature empirique.",
+      "sources": [],
+      "target": [
+        "reported_feelings"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "violences_verbales_nonverbales",
+      "label": "Violences verbales et non verbales",
+      "statut": "agrege_dans",
+      "raison": "Deux sous-échelles MACE, mais exemples réductibles à la case de violences psychologiques ; aucune nécessité de deux questions supplémentaires.",
+      "sources": [
+        "teicher2015_mace"
+      ],
+      "target": [
+        "abus_emotionnel"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "pairs_physique_emotionnel",
+      "label": "Harcèlement physique et émotionnel",
+      "statut": "agrege_dans",
+      "raison": "Deux sous-échelles MACE couvertes par la case harcelement ; préserver une seule famille de convergence.",
+      "sources": [
+        "teicher2015_mace"
+      ],
+      "target": [
+        "harcelement"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "age_duree_frequence",
+      "label": "Âge, durée et fréquence des expositions",
+      "statut": "a_examiner",
+      "raison": "MACE recueille les âges 1–18, ACE-IQ la fréquence et CTQ la sévérité. Ajouter des facteurs ne restitue pas ces dimensions : évolution séparée du questionnaire et de son stockage, hors mandat de ce lot.",
+      "sources": [
+        "teicher2015_mace_instrument",
+        "teicher2014_macescore_manual",
+        "oms2018_aceiq_analysis",
+        "pearson1997_ctq"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "vol_agression_hors_foyer",
+      "label": "Vols et agressions hors foyer",
+      "statut": "agrege_dans",
+      "raison": "Une agression ou menace ponctuelle relève du traumatisme ponctuel ; le racket répété par les pairs du harcèlement. Tout vol sans violence ne devient pas automatiquement un traumatisme.",
+      "sources": [
+        "teicher2015_mace_instrument",
+        "oms2026_qe"
+      ],
+      "target": [
+        "traumatisme_ponctuel",
+        "harcelement"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "victimisation_sexuelle_pairs_ligne",
+      "label": "Victimisation sexuelle par pairs ou en ligne",
+      "statut": "agrege_dans",
+      "raison": "Retirer la restriction implicite de différence d'âge dans la description des violences sexuelles ; préciser la coercition et le contexte numérique sans assimiler toute exposition médiatique à un abus.",
+      "sources": [
+        "oms2018_aceiq_guide",
+        "teicher2015_mace_instrument"
+      ],
+      "target": [
+        "abus_sexuel"
+      ]
+    },
+    {
+      "referentiel": "Plan couverture § 3",
+      "code": "ace_membre_foyer",
+      "label": "Membre du foyer versus parent",
+      "statut": "a_examiner",
+      "raison": "Trois cases sont plus étroites que les catégories ACE. Élargir leurs libellés sans revoir les liens parent-spécifiques introduirait un glissement. Garder les identifiants et annoncer la correspondance partielle.",
+      "sources": [
+        "cdc2016_ace_definitions",
+        "oms2018_aceiq_analysis"
+      ]
+    }
+  ]
+}

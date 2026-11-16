@@ -102,6 +102,20 @@ test('only a locked map saved with consent reaches Ambre',()=>{
  assert.equal(companionCartography({answers:JSON.stringify(answers),feedback:'{}',consent:1,locked_at:5,version:3}).version,3);
 });
 
+test('the bounded summary leaves room for different categories and records omissions',()=>{
+ const outcomes=Array.from({length:20},(_,i)=>({id:'schema_'+i,label:'Schéma '+i,kind:'schema',category:'schema'}));
+ outcomes.push({id:'z_recognized',label:'Reconnu',kind:'schema',category:'schema'},{id:'other',label:'Autre',kind:'tendance',category:'tendency'},{id:'context',label:'Contexte',kind:'trouble',category:'diagnosis',contextual_only:true});
+ const data={factors:[{id:'a',label:'A'},{id:'b',label:'B'}],outcomes,links:outcomes.flatMap(o=>['a','b'].map(factor=>({factor,outcome:o.id,strength:'moderee',relation_type:'empirical_association',summary:'Association documentée.',sources:[]})))};
+ const summary=summarizeCartography({a:1,b:1},{z_recognized:'oui'},{data});
+ assert.equal(summary.convergence.filter(x=>x.category==='schema').length,5);
+ assert.equal(summary.convergence[0].id,'z_recognized','recognition breaks equal evidence-family ties');
+ assert.ok(summary.convergence.some(x=>x.id==='other'));
+ assert.equal(summary.truncated,true);
+ assert.ok(!cartographyHighlights(summary).some(x=>x.id==='context'));
+ assert.ok(!cartographyEvidence({a:1,b:1},{},{data}).evidence.some(x=>x.id==='context'));
+ assert.ok(cartographyEvidence({a:1,b:1},{context:'oui'},{data}).evidence.some(x=>x.id==='context'),'explicit recognition can be discussed as context, never an automatic suggestion');
+});
+
 test('explicit negative answers are preserved without becoming reported experiences',()=>{
  const answers={abus_physique:0,abus_sexuel:2};
  assert.deepEqual(validateCartography({answers},fail).answers,answers);

@@ -21,6 +21,9 @@ SRC = ROOT / "editorial" / "cartographie"
 OUT = ROOT / "data" / "cartographie.json"
 KINDS = {"trouble", "schema", "attachement", "tendance"}
 STRENGTHS = {"forte": 3, "critere": 2, "moderee": 2, "limitee": 1, "theorique": 1}
+MAX_QUESTIONS_PER_GROUP = 14
+MAX_QUESTIONS = 72
+MAX_LINK_SUMMARY = 350
 SOURCE_TYPES = {"classification", "recommandation", "meta-analyse", "revue", "etude", "theorie"}
 RELATION_TYPES = {"empirical_association", "classification_context", "clinical_model", "definitional"}
 YOUNG_SCHEMA_IDS = {
@@ -141,6 +144,15 @@ def build() -> tuple[dict, list[str]]:
     base = json.loads((SRC / "facteurs.json").read_text(encoding="utf-8"))
     groups = {g["id"] for g in base["groups"]}
     factors = {f["id"]: f for f in base["factors"]}
+    if len(groups) != 6:
+        errors.append("le questionnaire doit conserver ses six thèmes")
+    if len(factors) != len(base["factors"]):
+        errors.append("identifiant de facteur dupliqué")
+    if len(factors) > MAX_QUESTIONS:
+        errors.append(f"questionnaire : plafond de {MAX_QUESTIONS} questions dépassé")
+    for group in groups:
+        if sum(f.get("group") == group for f in factors.values()) > MAX_QUESTIONS_PER_GROUP:
+            errors.append(f"thème {group} : plafond de {MAX_QUESTIONS_PER_GROUP} questions dépassé")
     for f in base["factors"]:
         if f["group"] not in groups:
             errors.append(f"facteur {f['id']} : groupe inconnu {f['group']}")
@@ -223,6 +235,8 @@ def build() -> tuple[dict, list[str]]:
     for item in [*links.values(), *protections, *[n for n in notes.values() if isinstance(n, dict)]]:
         item["sources"] = list(dict.fromkeys(source_aliases.get(s, s) for s in item.get("sources", [])))
     for (fid, oid), link in links.items():
+        if len(link.get("summary", "")) > MAX_LINK_SUMMARY:
+            errors.append(f"lien {fid} → {oid} : résumé de plus de {MAX_LINK_SUMMARY} caractères")
         if oid not in outcomes:
             errors.append(f"lien {fid} → {oid} : conséquence non définie")
         for sid in link.get("sources", []):
@@ -237,6 +251,10 @@ def build() -> tuple[dict, list[str]]:
     used_sources |= {s for n in notes.values() if isinstance(n, dict) for s in n.get("sources", [])}
     notes.pop("adversite_cumul", None)  # merged into the displayed « cumul » note
     used_outcomes = {oid for _, oid in links}
+    for oid, outcome in outcomes.items():
+        own_links = [link for (_, target), link in links.items() if target == oid]
+        if outcome.get("age_scope") == "young_child_only" or outcome.get("category") in {"health_outcome", "categorical_personality_diagnosis"} or (own_links and all(link["relation_type"] == "classification_context" for link in own_links)):
+            outcome["contextual_only"] = True
     data = {
         "schema_version": 2,
         "interpretation": {

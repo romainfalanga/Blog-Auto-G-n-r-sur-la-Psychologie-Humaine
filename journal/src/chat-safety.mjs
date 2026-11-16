@@ -6,7 +6,8 @@ export function crisisSignal(value){
  const means=/\b(?:dose|quantite|combien|hauteur)\b[^.!?]{0,100}\b(?:mortel\w*|mourir|tuer|letal\w*|medicaments?|comprimes?)\b|\b(?:j ai (?:avale|pris)|je viens d (?:avaler|en prendre))\b[^.!?]{0,65}\b(?:tous|toute?s?|trop|boite|flacon|surdose)\b|\b(?:je (?:vais|veux|compte)|j ai envie de) (?:me jeter|sauter)\b[^.!?]{0,50}\b(?:pont|fenetre|vide|train|toit)\b/;
  const other=/\b(?:je (?:vais|veux|compte)|j ai (?:envie|decide) de) (?:le |la |les |vous |te |t )?(?:tuer|poignarder|etrangler)\b|\b(?:il|elle|mon [a-z]+|ma [a-z]+) (?:va|veut|menace de) (?:me |nous |le |la |les )?(?:tuer|poignarder|etrangler)\b/;
  if(other.test(text))return 'violence';
- return self.test(text)||means.test(text)?'self_harm':null;
+ const indirect=/\b(?:je (?:suis|me sens|ne suis qu) (?:un |comme un )fardeau (?:pour|a) (?:mes proches|ma famille|les autres|tout le monde)|(?:je|j aimerais) (?:ne serai|ne veux|ne voudrais|voudrais ne) plus etre la|a quoi bon vivre|adieu (?:a )?(?:tout le monde|a tous|mes proches))\b/;
+ return self.test(text)||means.test(text)||indirect.test(text)?'self_harm':null;
 }
 export const CRISIS_RESOURCES='En France, vous pouvez appeler le 3114, 24 h/24 et 7 j/7, pour vous ou pour un proche. En cas de danger immédiat, de blessure ou de prise de médicaments en excès, appelez tout de suite le 15 ou le 112. Rapprochez-vous d’une personne de confiance et restez avec elle. Hors de France, contactez les secours de votre pays.';
 export function safetyReply(signal){

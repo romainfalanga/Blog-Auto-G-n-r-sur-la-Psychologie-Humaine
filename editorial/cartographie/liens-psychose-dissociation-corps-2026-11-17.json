@@ -1,0 +1,355 @@
+{
+  "part": "psychose-dissociation-corps",
+  "author": "recherche_lot2",
+  "outcomes": [
+    {
+      "id": "ten_traits_schizotypiques",
+      "kind": "tendance",
+      "label": "Traits schizotypiques mesurés par questionnaires",
+      "description": "Scores de recherche portant sur des perceptions, croyances ou façons de penser inhabituelles. Un score ne constitue ni un trouble schizotypique ni une schizophrénie.",
+      "domain": "perceptions",
+      "category": "tendency"
+    },
+    {
+      "id": "icd_6b80",
+      "kind": "trouble",
+      "label": "Anorexie mentale",
+      "description": "Restriction alimentaire et préoccupations concernant le poids ou la silhouette, avec un poids significativement bas ou une perte de poids importante. Le diagnostic nécessite une évaluation clinique.",
+      "code": "6B80",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "icd_6b82",
+      "kind": "trouble",
+      "label": "Hyperphagie boulimique",
+      "description": "Crises alimentaires répétées avec sentiment de perdre le contrôle et détresse, sans comportements compensatoires réguliers. Le diagnostic nécessite une évaluation clinique.",
+      "code": "6B82",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "ten_idees_suicidaires",
+      "kind": "tendance",
+      "label": "Idées suicidaires",
+      "description": "Pensées concernant le fait de mettre fin à sa vie. Ce repère documentaire ne mesure pas le danger actuel et n'est pas une prédiction individuelle.",
+      "domain": "humeur",
+      "category": "tendency",
+      "contextual_only": true,
+      "note": "suicide"
+    },
+    {
+      "id": "ten_tentatives_suicide",
+      "kind": "tendance",
+      "label": "Tentatives de suicide",
+      "description": "Actes comportant une intention de mourir, distingués des idées suicidaires et des automutilations sans cette intention. Ce repère ne prédit pas un passage à l'acte.",
+      "domain": "humeur",
+      "category": "tendency",
+      "contextual_only": true,
+      "note": "suicide"
+    },
+    {
+      "id": "ten_automutilations_non_suicidaires",
+      "kind": "tendance",
+      "label": "Automutilations sans intention suicidaire",
+      "description": "Blessures que la personne s'inflige sans intention de mourir lors de l'acte étudié. L'intention doit être évaluée ; ce repère ne signifie pas absence de danger.",
+      "domain": "comportements",
+      "category": "tendency",
+      "contextual_only": true,
+      "note": "suicide"
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout transversale en population non clinique associe les violences émotionnelles de l'enfance à des scores schizotypiques modérément plus élevés, sans établir un diagnostic.",
+      "sources": ["toutountzidis2022"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout transversale en population non clinique associe les violences physiques de l'enfance à des scores schizotypiques légèrement plus élevés, sans établir un diagnostic.",
+      "sources": ["toutountzidis2022"]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout transversale en population non clinique associe les violences sexuelles de l'enfance à des scores schizotypiques légèrement plus élevés, sans établir un diagnostic.",
+      "sources": ["toutountzidis2022"]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout transversale en population non clinique associe la négligence affective de l'enfance à des scores schizotypiques légèrement plus élevés, sans établir un diagnostic.",
+      "sources": ["toutountzidis2022"]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout transversale en population non clinique associe la négligence physique de l'enfance à des scores schizotypiques légèrement plus élevés, sans établir un diagnostic.",
+      "sources": ["toutountzidis2022"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6b60",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse cas-témoins retrouve nettement plus de violences physiques infantiles rapportées par les personnes ayant un trouble neurologique fonctionnel. Les études sont hétérogènes et n'établissent pas de causalité.",
+      "sources": ["ludwig2018"]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "icd_6b60",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse cas-témoins retrouve nettement plus de négligence affective durant l'enfance chez les personnes ayant un trouble neurologique fonctionnel. De nombreux patients ne rapportent aucun traumatisme.",
+      "sources": ["ludwig2018"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6b80",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d'études observationnelles associe les violences physiques infantiles à une anorexie mentale plus fréquente. Les données propres à ce diagnostic restent limitées.",
+      "sources": ["caslini2016"]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6b82",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d'études observationnelles associe les violences sexuelles infantiles à une hyperphagie boulimique plus fréquente, avec un écart moyen notable, sans établir de causalité.",
+      "sources": ["caslini2016"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6b82",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d'études observationnelles associe les violences physiques infantiles à une hyperphagie boulimique plus fréquente. Peu d'études soutiennent ce rapprochement, qui ne prédit aucun parcours individuel.",
+      "sources": ["caslini2016"]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "icd_6b82",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d'études observationnelles associe les violences émotionnelles infantiles à une hyperphagie boulimique plus fréquente. Les données sont peu nombreuses et ne démontrent pas de causalité.",
+      "sources": ["caslini2016"]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_idees_suicidaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adultes, une méta-analyse d'études observationnelles associe les violences sexuelles infantiles à davantage d'idées suicidaires, avec un écart moyen notable et variable selon les études.",
+      "sources": ["angelakis2019"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_idees_suicidaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adultes, une méta-analyse d'études observationnelles associe les violences physiques infantiles à davantage d'idées suicidaires, avec un écart moyen notable et variable selon les études.",
+      "sources": ["angelakis2019"]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_idees_suicidaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adultes, une méta-analyse d'études observationnelles associe les violences émotionnelles infantiles à davantage d'idées suicidaires. L'association moyenne est notable, mais les estimations restent hétérogènes.",
+      "sources": ["angelakis2019"]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_tentatives_suicide",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe violences sexuelles infantiles et tentatives de suicide plus fréquentes ; l'écart est notable et très hétérogène.",
+      "sources": ["angelakis2020"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_tentatives_suicide",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe violences physiques infantiles et tentatives de suicide plus fréquentes ; l'écart est notable et très hétérogène.",
+      "sources": ["angelakis2020"]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_tentatives_suicide",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe violences émotionnelles infantiles et tentatives de suicide plus fréquentes. Peu d'études fournissent des estimations très hétérogènes.",
+      "sources": ["angelakis2020"]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_tentatives_suicide",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe négligence affective infantile et tentatives de suicide plus fréquentes. Peu d'études fournissent des estimations très hétérogènes.",
+      "sources": ["angelakis2020"]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_tentatives_suicide",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe négligence physique infantile et tentatives de suicide plus fréquentes. Peu d'études fournissent des estimations très hétérogènes.",
+      "sources": ["angelakis2020"]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_automutilations_non_suicidaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective chez des adolescents et adultes associe violences sexuelles infantiles et automutilations sans intention suicidaire plus fréquentes, avec un écart moyen notable.",
+      "sources": ["liu2018_nssi"]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_automutilations_non_suicidaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective chez des adolescents et adultes associe violences physiques infantiles et automutilations sans intention suicidaire plus fréquentes, avec un écart moyen notable.",
+      "sources": ["liu2018_nssi"]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_automutilations_non_suicidaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective chez des adolescents et adultes associe violences émotionnelles infantiles et automutilations sans intention suicidaire plus fréquentes, avec un écart moyen notable.",
+      "sources": ["liu2018_nssi"]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_automutilations_non_suicidaires",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective chez des adolescents et adultes associe négligence physique infantile et automutilations sans intention suicidaire plus fréquentes. Les données sont moins nombreuses.",
+      "sources": ["liu2018_nssi"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "toutountzidis2022",
+      "citation": "Toutountzidis D, Gale TM, Irvine K, Sharma S, Laws KR, 2022, Childhood trauma and schizotypy in non-clinical samples: A systematic review and meta-analysis, PLoS ONE 17(6):e0270494",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270494",
+      "type": "meta-analyse",
+      "read": "texte intégral : méthodes, résultats, méta-analyse et discussion"
+    },
+    {
+      "id": "ludwig2018",
+      "citation": "Ludwig L, Pasman JA, Nicholson T, Aybek S, David AS, Tuck S, Kanaan RA, Roelofs K, Carson A, Stone J, 2018, Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies, Lancet Psychiatry 5(4):307-320",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29526521/",
+      "type": "meta-analyse",
+      "read": "section : figure 2 et tableau 2 du texte intégral ; résumé méthodes, résultats et interprétation vérifié sur la notice institutionnelle de King's College London"
+    },
+    {
+      "id": "caslini2016",
+      "citation": "Caslini M, Bartoli F, Crocamo C, Dakanalis A, Clerici M, Carrà G, 2016, Disentangling the Association Between Child Abuse and Eating Disorders: A Systematic Review and Meta-Analysis, Psychosomatic Medicine 78(1):79-90",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26461853/",
+      "type": "meta-analyse",
+      "read": "résumé : objectifs, méthodes, résultats et correction du biais de publication"
+    },
+    {
+      "id": "liu2018_nssi",
+      "citation": "Liu RT, Scopelliti KM, Pittman SK, Zamora AS, 2018, Childhood maltreatment and non-suicidal self-injury: A systematic review and meta-analysis, Lancet Psychiatry 5(1):51-64",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5743605/",
+      "type": "meta-analyse",
+      "read": "texte intégral : méthodes, critères d'inclusion, résultats et analyses ajustées ; téléchargement HTTP direct après échec du lecteur web"
+    },
+    {
+      "id": "nice_ng69",
+      "citation": "NICE, 2017, Eating disorders: recognition and treatment, NG69, recommandations 1.1.2–1.1.4",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations",
+      "type": "recommandation",
+      "read": "section : principes généraux, repérage des violences et communication ; téléchargement HTTP direct"
+    },
+    {
+      "id": "nice_ng225",
+      "citation": "NICE, 2022, Self-harm: assessment, management and preventing recurrence, NG225, définition et périmètre ; présentation révisée en 2024",
+      "url": "https://www.nice.org.uk/guidance/ng225",
+      "type": "recommandation",
+      "read": "page : définition de self-harm et périmètre ; téléchargement HTTP direct"
+    },
+    {
+      "id": "joinson2019_incontinence",
+      "citation": "Joinson C, Grzeda MT, von Gontard A, Heron J, 2019 [en ligne 2018], A prospective cohort study of biopsychosocial factors associated with childhood urinary incontinence, European Child & Adolescent Psychiatry 28(1):123-130",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6349792/",
+      "type": "etude",
+      "read": "texte intégral : résumé, méthodes et tableau 2 ; trajectoires d'incontinence et facteurs étudiés"
+    },
+    {
+      "id": "simeon2001_depersonnalisation",
+      "citation": "Simeon D, Guralnik O, Schmeidler J, Sirof B, Knutelska M, 2001, The role of childhood interpersonal trauma in depersonalization disorder, American Journal of Psychiatry 158(7):1027-1033",
+      "url": "https://scholars.mssm.edu/en/publications/the-role-of-childhood-interpersonal-trauma-in-depersonalization-d-2/",
+      "type": "etude",
+      "read": "résumé : méthode cas-témoins et résultats sur la notice institutionnelle de l'auteur ; non admis comme lien autonome"
+    }
+  ],
+  "notes": [
+    "Les nouvelles cartes suicidaires et d'automutilations sont des repères contextuels, exclus de toute suggestion individuelle. Elles ne constituent pas une évaluation du danger actuel.",
+    "La scission alimentaire exige une décision d'intégration sur l'agrégat icd_6b81 ; ce fragment ne redéclare ni cet identifiant ni ses paires. Ne pas compter les mêmes preuves à la fois dans l'agrégat et ses diagnostics détaillés.",
+    "Une association entre vécus et scores de schizotypie ne démontre aucun trouble schizotypique. Les convictions ou pratiques culturellement admises ne doivent pas être pathologisées."
+  ],
+  "out_of_scope": [
+    {"referentiel":"CIM-11","code":"6A20","label":"Schizophrénie","statut":"agrege_dans","raison":"Le sujet existant icd_6a20 mélange diagnostics et expériences psychotiques. Aucun transfert automatique des liens vers un diagnostic exact ; scission complète laissée à l'intégrateur après relecture des études individuelles.","sources":["oms_cddr","varese2012"]},
+    {"referentiel":"CIM-11","code":"6A21","label":"Trouble schizoaffectif","statut":"agrege_dans","raison":"Des études de groupes psychotiques peuvent inclure ce diagnostic, sans estimation propre vérifiée ici. Pas de carte diagnostique distincte inférée de l'agrégat icd_6a20.","sources":["oms_cddr","varese2012"]},
+    {"referentiel":"CIM-11","code":"6A22","label":"Trouble schizotypique","statut":"aucune_preuve_trouvee","raison":"Aucune preuve diagnostique propre admissible vérifiée dans cette recherche ciblée. La méta-analyse lue concerne des scores en population non clinique ; elle alimente seulement ten_traits_schizotypiques.","sources":["oms_cddr","toutountzidis2022"]},
+    {"referentiel":"CIM-11","code":"6A23","label":"Trouble psychotique aigu et transitoire","statut":"aucune_preuve_trouvee","raison":"Aucune méta-analyse ou cohorte avec estimation spécifique enfance–diagnostic vérifiée ; les symptômes psychotiques généraux ne suffisent pas.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6A24","label":"Trouble délirant","statut":"aucune_preuve_trouvee","raison":"Aucune estimation propre admissible vérifiée. La définition et les exclusions diagnostiques ne constituent pas une preuve étiologique.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6A2Y/6A2Z et spécificateurs de 6A20–6A24","label":"Psychoses résiduelles, évolution et rémission","statut":"hors_perimetre_justifie","raison":"Catégories résiduelles et spécificateurs cliniques ; pas de lien distinct déduit d'une association globale.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B61","label":"Amnésie dissociative","statut":"aucune_preuve_trouvee","raison":"Contexte traumatique décrit par la classification, mais absence d'estimation spécifique admissible vérifiée. Les oublis ordinaires ne sont pas un diagnostic ; aucun traumatisme caché ne doit être inféré d'un oubli.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B62","label":"Trouble de transe","statut":"aucune_preuve_trouvee","raison":"Aucune preuve enfance–diagnostic spécifique vérifiée ; la prise en compte culturelle exclut l'assimilation d'une pratique admise à un trouble.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B63","label":"Trouble de transe de possession","statut":"aucune_preuve_trouvee","raison":"Aucune preuve spécifique admissible vérifiée ; ne pas transformer une appartenance religieuse ou une pratique culturelle en diagnostic.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B64","label":"Trouble dissociatif de l'identité","statut":"agrege_dans","raison":"Sujet existant icd_6b64, avec un lien de contexte de classification. Pas de nouvelle association diagnostique ajoutée ; contextual_only proposé car cette carte n'a que ce contexte.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B65","label":"Trouble dissociatif partiel de l'identité","statut":"aucune_preuve_trouvee","raison":"Classification vérifiée, mais aucune méta-analyse ou cohorte avec estimation propre enfance–diagnostic trouvée et lue ; ne pas extrapoler les scores de dissociation ni 6B64.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B66","label":"Trouble de dépersonnalisation-déréalisation","statut":"aucune_preuve_trouvee","raison":"Une petite étude cas-témoins spécifique a été lue, mais elle n'est ni une cohorte ni une synthèse admissible selon le §0 du plan. Il ne s'agit donc pas d'une absence totale de littérature ; les symptômes restent dans ten_dissociation.","sources":["oms_cddr","simeon2001_depersonnalisation"]},
+    {"referentiel":"CIM-11","code":"6B6Y/6B6Z et sous-types de 6B60/6B61","label":"Troubles dissociatifs résiduels et spécificateurs","statut":"hors_perimetre_justifie","raison":"Pas de preuve spécifique vérifiée justifiant des cartes supplémentaires ; le tableau neurologique reste au niveau 6B60.","sources":["oms_cddr","ludwig2018"]},
+    {"referentiel":"CIM-11","code":"6B81","label":"Boulimie nerveuse","statut":"agrege_dans","raison":"L'identifiant icd_6b81 désigne déjà l'agrégat alimentaire. Trois corrections ciblées proposent les preuves propres à la boulimie ; la transformation du sujet et la migration des liens agrégés doivent être atomiques.","sources":["oms_cddr","caslini2016"]},
+    {"referentiel":"CIM-11","code":"6B83","label":"Trouble de restriction ou évitement de l'ingestion d'aliments","statut":"aucune_preuve_trouvee","raison":"Aucune méta-analyse ou cohorte enfance–diagnostic admissible vérifiée ; ne pas assimiler sélectivité alimentaire, restriction, anorexie et ARFID.","sources":["oms_cddr","nice_ng69"]},
+    {"referentiel":"CIM-11","code":"6B84","label":"Pica","statut":"aucune_preuve_trouvee","raison":"Aucune estimation propre admissible vérifiée ; ne pas extrapoler les associations des troubles avec crises alimentaires.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B85","label":"Trouble de rumination-régurgitation","statut":"aucune_preuve_trouvee","raison":"Aucune preuve propre admissible vérifiée. Le diagnostic alimentaire n'est pas la rumination mentale.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6B8Y/6B8Z et spécificateurs de 6B80","label":"Troubles alimentaires résiduels et spécificateurs","statut":"hors_perimetre_justifie","raison":"Pas de carte supplémentaire sans estimation spécifique ; ne pas multiplier les sous-codes de poids ou rémission.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6C00","label":"Énurésie","statut":"aucune_preuve_trouvee","raison":"Aucune méta-analyse exposition–énurésie propre trouvée. Une cohorte lue porte sur des trajectoires d'incontinence de 4 à 9 ans ; les facteurs diffèrent entre formes nocturnes isolées et mixtes. Pas de transposition vers un diagnostic adulte ou d'assimilation au traumatisme.","sources":["oms_cddr","joinson2019_incontinence"]},
+    {"referentiel":"CIM-11","code":"6C01","label":"Encoprésie","statut":"aucune_preuve_trouvee","raison":"Les synthèses repérées traitent surtout comorbidités ou traitement ; aucune relation enfance–diagnostic conforme aux facteurs existants n'a été vérifiée.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6C0Z et sous-types de 6C00/6C01","label":"Élimination : catégories résiduelles et spécificateurs","statut":"hors_perimetre_justifie","raison":"Pas de multiplication des sous-codes sans preuve propre. Toute carte future serait contextual_only et limitée à l'enfance.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6C20","label":"Trouble de détresse corporelle","statut":"agrege_dans","raison":"Sujet existant conservé pour arbitrage. Les symptômes médicalement inexpliqués de l'ancienne cohorte ne sont pas équivalents aux exigences de la CIM-11 ; aucune nouvelle paire ajoutée.","sources":["oms_cddr","hotopf1999"]},
+    {"referentiel":"CIM-11","code":"6C21","label":"Dysphorie d'intégrité corporelle","statut":"aucune_preuve_trouvee","raison":"Aucune preuve enfance–diagnostic admissible vérifiée. Un début pendant l'enfance n'établit pas un effet de l'éducation ou des violences.","sources":["oms_cddr"]},
+    {"referentiel":"CIM-11","code":"6C2Y/6C2Z et sévérité de 6C20","label":"Détresse corporelle : résiduels et spécificateurs","statut":"hors_perimetre_justifie","raison":"Aucune preuve propre ne justifie des cartes de sévérité ou résiduelles.","sources":["oms_cddr"]},
+    {"referentiel":"Symptômes et comportements","code":"ten_conduites_suicidaires","label":"Agrégat suicidaire existant","statut":"agrege_dans","raison":"Trois nouveaux repères distinguent idées, tentatives et automutilations sans intention suicidaire. L'ancien agrégat doit être rendu contextuel puis migré après relecture de ses 15 paires, dont dix facteurs non repris ici ; aucun transfert automatique des études de self-harm non différencié.","sources":["angelakis2019","angelakis2020","liu2018_nssi","nice_ng225"]},
+    {"referentiel":"Symptômes et comportements","code":"negligence_emotionnelle → ten_automutilations_non_suicidaires","label":"Négligence affective et automutilations non suicidaires","statut":"aucune_preuve_trouvee","raison":"Pas de lien ajouté sur la seule synthèse lue : résultat non robuste après contrôle d'autres maltraitances, contrairement à l'association brute. Ce résultat ne nie pas une association possible dans d'autres travaux.","sources":["liu2018_nssi"]},
+    {"referentiel":"Symptômes et comportements","code":"Plans et décès par suicide","label":"Plans suicidaires et décès par suicide","statut":"hors_perimetre_justifie","raison":"Ne pas confondre idées, projets, tentatives et décès. La scission présente ne crée pas de carte de mortalité ni de plan suicidaire ; les études spécifiques devront être relues avant migration des liens concernés.","sources":["angelakis2020","nice_ng225"]}
+  ],
+  "proposed_corrections": [
+    {"target":"source","id":"angelakis2019","action":"reformuler","read":"texte intégral : méthodes et résultats lus sur Cambridge Core, dont distinction idées/tentatives et limites","reason":"Mettre à jour la profondeur de lecture sans redéclarer l'identifiant existant."},
+    {"target":"source","id":"angelakis2020","action":"reformuler","read":"texte intégral : méthodes, critères d'inclusion et tableau 1 lus sur PMC","reason":"Les estimations par sous-type et par comportement ont été lues ; ne pas conserver résumé comme seule lecture."},
+    {"target":"source","id":"oms_cddr","action":"reformuler","read":"section : 6A2, 6B6, 6B8, 6C0, 6C2, texte du PDF officiel téléchargé ; certaines sections également consultées sur une copie du même ouvrage","reason":"Étendre les sections citées dans la notice existante sans redéclaration de source."},
+    {"target":"outcome","outcome":"ten_conduites_suicidaires","action":"reformuler","contextual_only":true,"note":"suicide","reason":"Garde-fou immédiat pour l'agrégat existant. Ne retirer ni rediriger globalement ses liens avant attribution de chaque résultat aux idées, tentatives, décès ou self-harm non différencié."},
+    {"target":"outcome","outcome":"icd_6b64","action":"reformuler","contextual_only":true,"reason":"Les seules preuves de cette carte sont un contexte de classification ; appliquer le garde-fou du §7."},
+    {"target":"outcome","outcome":"icd_6b60","action":"reformuler","description":"Symptômes neurologiques fonctionnels, par exemple moteurs ou sensoriels, dont les caractéristiques cliniques sont incompatibles avec une maladie neurologique reconnue. L'évaluation médicale reste nécessaire.","reason":"Éviter une définition par absence de maladie seulement. Un traumatisme n'est pas une condition diagnostique nécessaire.","sources":["oms_cddr","ludwig2018"]},
+    {"target":"outcome","outcome":"icd_6c20","action":"reformuler","description":"Symptômes corporels pénibles accompagnés d'une attention excessive et persistante, avec un retentissement important. Une affection médicale peut aussi être présente.","reason":"L'absence d'explication médicale n'est pas requise par la CIM-11 ; dissocier diagnostic et symptômes médicalement inexpliqués.","sources":["oms_cddr"]},
+    {"target":"outcome","outcome":"icd_6b81","action":"reformuler","label":"Boulimie nerveuse","code":"6B81","category":"diagnosis","classification_codes":["6B81"],"description":"Crises alimentaires répétées avec perte de contrôle et comportements compensatoires réguliers, avec préoccupations marquées concernant le poids ou la silhouette.","reason":"Proposition conditionnelle : transformer cet identifiant en diagnostic exact seulement dans une migration atomique de tous ses liens. Les liens agrégés de moqueries et négligence ne deviennent pas des preuves de boulimie.","sources":["oms_cddr","caslini2016","nice_ng69"]},
+    {"factor":"abus_sexuel","outcome":"icd_6b81","action":"reformuler","strength":"moderee","relation_type":"empirical_association","summary":"Dans une méta-analyse d'études observationnelles, les violences sexuelles infantiles sont associées à une boulimie plus fréquente. L'écart moyen est notable, sans preuve de causalité individuelle.","sources":["caslini2016"],"reason":"Uniquement si le sujet est effectivement restreint à la boulimie lors de l'intégration ; ne pas redéclarer la paire existante."},
+    {"factor":"abus_physique","outcome":"icd_6b81","action":"reformuler","strength":"moderee","relation_type":"empirical_association","summary":"Une méta-analyse d'études observationnelles associe les violences physiques infantiles à une boulimie plus fréquente. Cette association moyenne ne détermine pas le parcours d'une personne.","sources":["caslini2016"],"reason":"Correction conditionnelle à la scission de l'agrégat alimentaire."},
+    {"factor":"abus_emotionnel","outcome":"icd_6b81","action":"abaisser","strength":"limitee","relation_type":"empirical_association","summary":"Une méta-analyse d'études observationnelles associe les violences émotionnelles infantiles à une boulimie plus fréquente ; peu d'études étayent ce résultat.","sources":["caslini2016"],"reason":"Correction conditionnelle à la scission ; faible nombre de comparaisons propres au diagnostic."},
+    {"factor":"abus_sexuel","outcome":"icd_6b60","action":"abaisser","strength":"limitee","relation_type":"empirical_association","summary":"Une méta-analyse cas-témoins retrouve davantage d'antécédents de violences sexuelles chez les personnes ayant un trouble neurologique fonctionnel. Les résultats sont hétérogènes et ne démontrent pas de causalité.","sources":["ludwig2018"],"reason":"Ajouter la synthèse spécifique, avec réserve sur les études de qualité moyenne à faible ; aucune nécessité d'un traumatisme pour poser le diagnostic."}
+  ],
+  "proposed_links": []
+}

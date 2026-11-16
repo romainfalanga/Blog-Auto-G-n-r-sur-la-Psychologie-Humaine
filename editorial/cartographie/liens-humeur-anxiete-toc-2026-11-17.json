@@ -1,0 +1,231 @@
+{
+  "part": "humeur-anxiete-toc",
+  "author": "recherche_lot1_2026_11_17",
+  "outcomes": [
+    {
+      "id": "icd_6b20",
+      "kind": "trouble",
+      "label": "Trouble obsessionnel-compulsif (TOC)",
+      "description": "Des obsessions intrusives et des gestes ou rituels mentaux répétés, pénibles et gênants au quotidien. Les liens présentés ici portent sur la sévérité des symptômes chez des personnes déjà concernées, pas sur un diagnostic à partir de leur enfance.",
+      "code": "6B20",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "ten_symptomes_depressifs_perinataux",
+      "kind": "tendance",
+      "label": "Symptômes dépressifs pendant la grossesse ou après la naissance",
+      "description": "Une souffrance dépressive pendant la grossesse ou l’année qui suit la naissance. Ce repère symptomatique n’équivaut pas aux diagnostics périnataux CIM-11.",
+      "domain": "humeur",
+      "category": "symptom_group",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_symptomes_premenstruels",
+      "kind": "tendance",
+      "label": "Symptômes prémenstruels importants",
+      "description": "Des symptômes émotionnels et physiques cycliques avant les règles, assez importants pour gêner la vie quotidienne. Ce repère ne constitue pas un diagnostic de trouble dysphorique prémenstruel.",
+      "domain": "humeur",
+      "category": "symptom_group",
+      "contextual_only": true
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "icd_6b20",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des adultes ayant un TOC, une méta-analyse surtout transversale trouve un lien faible entre violences émotionnelles dans l’enfance et sévérité des symptômes. Elle ne démontre pas que ce vécu explique l’apparition du trouble.",
+      "sources": [
+        "ou2021_toc"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6b20",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des adultes ayant un TOC, une méta-analyse trouve un lien faible entre abus sexuels dans l’enfance et sévérité des obsessions, mais pas du score total. Les études rétrospectives ne permettent pas de conclure sur l’apparition du trouble.",
+      "sources": [
+        "ou2021_toc"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des adultes trouve une association modeste entre violences physiques dans l’enfance et trouble panique. Les études sont surtout rétrospectives ; ce vécu ne permet pas de prédire un trouble individuel.",
+      "sources": [
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des adultes trouve une association modeste entre abus sexuels dans l’enfance et trouble panique. Les études sont surtout rétrospectives ; ce vécu ne permet pas de prédire un trouble individuel.",
+      "sources": [
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "factor": "parent_addiction",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des adultes trouve une association modeste entre alcoolisme parental pendant l’enfance et trouble panique. Les études sont surtout rétrospectives ; ce vécu ne permet pas de prédire un trouble individuel.",
+      "sources": [
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des femmes enceintes ou durant l’année après la naissance, une méta-analyse trouve une association modeste entre abus sexuels dans l’enfance et dépression périnatale. Les mesures regroupent symptômes et diagnostics ; elles ne correspondent pas toutes à un trouble clinique.",
+      "sources": [
+        "lombardi2023_perinatal"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte d’infirmières adultes, les violences physiques sévères durant l’enfance sont associées à davantage de syndromes prémenstruels importants. L’association est modeste à moyenne, avec des souvenirs recueillis après coup ; ce n’est pas une preuve propre au trouble dysphorique.",
+      "sources": [
+        "bertonejohnson2014_premenstruel"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte d’infirmières adultes, les violences émotionnelles marquées durant l’enfance sont associées à davantage de syndromes prémenstruels importants. L’association est modeste à moyenne, avec des souvenirs recueillis après coup ; ce n’est pas une preuve propre au trouble dysphorique.",
+      "sources": [
+        "bertonejohnson2014_premenstruel"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ou2021_toc",
+      "citation": "Ou W, Li Z, Zheng Q, Chen W, Liu J, Liu B, Zhang Y, 2021, Association Between Childhood Maltreatment and Symptoms of Obsessive-Compulsive Disorder: A Meta-Analysis, Frontiers in Psychiatry 11:612586",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7854900/",
+      "type": "meta-analyse",
+      "read": "section : méthodes, résultats, tableau 2 et discussion, texte intégral via Europe PMC"
+    },
+    {
+      "id": "zhang2023_panique",
+      "citation": "Zhang J, Wiecaszek P, Sami S, Meiser-Stedman R, 2023 (en ligne 2021), Association between panic disorder and childhood adversities: a systematic review and meta-analysis, Psychological Medicine 53(6):2585-2595",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34776038/",
+      "type": "meta-analyse",
+      "read": "section : méthodes et résultats, manuscrit accepté p. 6–14, dépôt University of East Anglia"
+    },
+    {
+      "id": "lombardi2023_perinatal",
+      "citation": "Lombardi BN, Jensen TM, Parisi AB, Jenkins M, Bledsoe SE, 2023 (en ligne 2021), The Relationship Between a Lifetime History of Sexual Victimization and Perinatal Depression: A Systematic Review and Meta-Analysis, Trauma, Violence, & Abuse 24(1):139-155",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9660263/",
+      "type": "meta-analyse",
+      "read": "section : méthodes, résultats, tableaux 1–3 et sous-groupe des violences sexuelles pendant l’enfance"
+    },
+    {
+      "id": "bertonejohnson2014_premenstruel",
+      "citation": "Bertone-Johnson ER, Whitcomb BW, Missmer SA, Manson JE, Hankinson SE, Rich-Edwards JW, 2014, Early Life Emotional, Physical, and Sexual Abuse and the Development of Premenstrual Syndrome: A Longitudinal Study, Journal of Women’s Health 23(9):729-739",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158950/",
+      "type": "etude",
+      "read": "section : méthodes, résultats et tableaux 3–4 de la cohorte Nurses’ Health Study 2"
+    }
+  ],
+  "out_of_scope": [],
+  "proposed_corrections": [
+    {
+      "object": "outcome",
+      "outcome": "icd_6a60",
+      "action": "reformuler",
+      "label": "Troubles bipolaires (preuves agrégées)",
+      "description": "Des épisodes maniaques ou hypomaniaques et dépressifs dont la présentation varie selon le diagnostic. Les preuves développementales réunies ici concernent les troubles bipolaires dans leur ensemble.",
+      "category": "clinical_group",
+      "code": null,
+      "reason": "Palmier-Claus 2016 regroupe les types I et II ; absence de différence entre types n’est pas une estimation de risque propre au type II. Ne plus faire passer les preuves agrégées pour une couverture exacte 6A60. Retirer le code exact des statistiques si cet agrégat est retenu ; garder l’identifiant historique pour les liens."
+    },
+    {
+      "object": "source",
+      "source": "palmierclaus2016",
+      "action": "reformuler",
+      "read": "section : méthodes, résultats, tableau 1, comparaison types I/II et limites, texte intégral éditeur",
+      "reason": "Source existante relue au-delà du résumé ; texte intégral Cambridge p. 454–459 ; DOI inchangé."
+    },
+    {
+      "object": "source",
+      "source": "oms_cddr",
+      "action": "reformuler",
+      "read": "section : liste des catégories p. 44–55 et 84 ; TOC p. 300–301 ; périnatal p. 639–643, en plus des sections déjà lues",
+      "reason": "Vérification des codes du lot 1 dans le CDDR officiel 2024, PDF local et page OMS vérifiés ; élargir la notice existante sans redéclarer son identifiant."
+    },
+    {
+      "object": "outcome",
+      "outcome": "anx_generale",
+      "action": "conserver",
+      "reason": "Conserver le groupe symptomatique. La scission en 6B00 exige de libérer son alias et de réexaminer chaque lien ; une méta-analyse cumulant des expositions et diagnostics anxieux ne permet pas de multiplier leurs combinaisons."
+    },
+    {
+      "object": "outcome",
+      "outcome": "dep_generale",
+      "action": "conserver",
+      "reason": "Conserver le groupe symptomatique en l’état de cette recherche ; 6A70/6A71 restent des alias réservés. Ne pas transformer les associations aux scores dépressifs en preuves d’épisodes uniques ou récurrents."
+    }
+  ],
+  "notes": [],
+  "proposed_links": [
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse trouve davantage de violences physiques dans l’enfance chez des personnes ayant un trouble bipolaire que chez des témoins sans trouble. L’association, moyenne, porte sur les types réunis et des données surtout rétrospectives.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse trouve davantage de abus sexuels dans l’enfance chez des personnes ayant un trouble bipolaire que chez des témoins sans trouble. L’association, moyenne, porte sur les types réunis et des données surtout rétrospectives.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse trouve davantage de négligences physiques dans l’enfance chez des personnes ayant un trouble bipolaire que chez des témoins sans trouble. L’association, moyenne, porte sur les types réunis et des données surtout rétrospectives.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse trouve davantage de négligences émotionnelles dans l’enfance chez des personnes ayant un trouble bipolaire que chez des témoins sans trouble. L’association, moyenne, porte sur les types réunis et des données surtout rétrospectives.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    }
+  ]
+}
