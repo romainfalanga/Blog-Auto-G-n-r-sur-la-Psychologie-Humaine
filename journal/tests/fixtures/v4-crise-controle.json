@@ -1,0 +1,653 @@
+{
+ "version": 1,
+ "set": "held_out",
+ "author": "agent indépendant",
+ "written_before_rules": true,
+ "items": [
+  {
+   "id": "h001",
+   "text": "jcrois que je vais me buter cette nuit, g plus rien à perdre",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Intention suicidaire argotique, échéance la nuit même."
+  },
+  {
+   "id": "h002",
+   "text": "Je veux crever. Voilà, c'est dit.",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "possible",
+   "rationale": "Désir de mort exprimé crûment."
+  },
+  {
+   "id": "h003",
+   "text": "J'ai pris ma décision, demain matin je ne serai plus là, je me donne la mort.",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Décision arrêtée, échéance immédiate."
+  },
+  {
+   "id": "h004",
+   "text": "Ça fait des semaines que je planifie comment m'ôter la vie",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Planification suicidaire prolongée."
+  },
+  {
+   "id": "h005",
+   "text": "envie d'en finir avec la vie, ça me tourne dans la tête h24",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "possible",
+   "rationale": "Idéation envahissante continue."
+  },
+  {
+   "id": "h006",
+   "text": "Merci pour l'écoute la semaine dernière, ça m'avait fait du bien. J'ai repris le boulot, revu des amis, j'ai même cuisiné. Mais au fond rien n'a changé et j'ai fixé la date pour mettre un terme à ma vie, c'est vendredi.",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : amélioration de façade puis date fixée."
+  },
+  {
+   "id": "h007",
+   "text": "Si je me loupe pas cette fois, au moins ce sera fini",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Allusion à une tentative antérieure et à une nouvelle tentative."
+  },
+  {
+   "id": "h008",
+   "text": "Je vous laisse mes mots de passe dans l'enveloppe, comme ça mes parents auront accès à tout après",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "urgent",
+   "rationale": "Préparatifs de mise en ordre « après »."
+  },
+  {
+   "id": "h009",
+   "text": "Prenez soin de vous les gars. Je vais faire un long voyage dont on revient pas.",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "urgent",
+   "rationale": "Adieu voilé par métaphore."
+  },
+  {
+   "id": "h010",
+   "text": "J'ai l'impression d'être de trop sur cette terre",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Sentiment d'inutilité existentielle."
+  },
+  {
+   "id": "h011",
+   "text": "Ma famille touchera l'assurance vie, ce sera toujours plus utile que moi",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Fardeau perçu et projection de sa mort."
+  },
+  {
+   "id": "h012",
+   "text": "Je suis fatiguée d'exister. Juste fatiguée.",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Lassitude de vivre."
+  },
+  {
+   "id": "h013",
+   "text": "J'ai mis à jour mon testament ce matin, à 34 ans, et ça m'a soulagé",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Mise en ordre inhabituelle et soulagement."
+  },
+  {
+   "id": "h014",
+   "text": "Dimanche on a fait un repas de famille, tout le monde riait, j'ai pris plein de photos. J'ai serré ma mère super fort en partant. Elle sait pas que c'était la dernière fois qu'elle me voyait.",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : adieu implicite à un proche."
+  },
+  {
+   "id": "h015",
+   "text": "jme suis entaillé le poignet ce matin, c'est pas profond mais j'ai pas pu m'en empêcher",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Automutilation du jour, perte de contrôle."
+  },
+  {
+   "id": "h016",
+   "text": "Je m'arrache les cheveux par poignées et je me pince jusqu'aux bleus quand ça déborde",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Automutilation non coupante."
+  },
+  {
+   "id": "h017",
+   "text": "Je me suis tapé le poing contre le mur jusqu'à me casser un doigt hier",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Coups auto-infligés avec fracture."
+  },
+  {
+   "id": "h018",
+   "text": "j'ai rouvert mes cicatrices hier soir",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Euphémisme d'automutilation récente."
+  },
+  {
+   "id": "h019",
+   "text": "Je me punis physiquement à chaque erreur au boulot, personne n'est au courant",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Autopunition corporelle cachée."
+  },
+  {
+   "id": "h020",
+   "text": "jme suis encore fait mal, y a du sang partout dans la salle de bain et je tremble",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "urgent",
+   "rationale": "Blessure en cours, saignement important."
+  },
+  {
+   "id": "h021",
+   "text": "Bon ma semaine : examen raté, dispute avec ma coloc, le chat malade. Le seul moment où j'ai respiré c'est quand je me suis lacérée les jambes mardi soir. C'est grave docteur ? lol",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Signal tardif minimisé par l'humour."
+  },
+  {
+   "id": "h022",
+   "text": "J'ai vidé l'armoire à pharmacie de mes parents, tout est dans mon sac",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Rassemblement de médicaments."
+  },
+  {
+   "id": "h023",
+   "text": "je viens de tout prendre d'un coup, mes cachets du mois, je sais pas pk je vous écris",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Surdosage en cours."
+  },
+  {
+   "id": "h024",
+   "text": "j'ai regardé sur internet les médocs dangereux à forte dose, j'en ai plusieurs chez moi",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Recherche de moyens et accès."
+  },
+  {
+   "id": "h025",
+   "text": "Mon mari est chasseur, la clé de l'armoire à fusils est dans le tiroir de la cuisine. J'y pense trop souvent.",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Accès à une arme et ruminations."
+  },
+  {
+   "id": "h026",
+   "text": "Je regarde les trains passer depuis le quai en me demandant si ça ferait mal",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "possible",
+   "rationale": "Attraction vers un moyen létal."
+  },
+  {
+   "id": "h027",
+   "text": "Le verre avec tous mes comprimés est posé devant moi, j'hésite encore",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Passage à l'acte imminent."
+  },
+  {
+   "id": "h028",
+   "text": "Je suis infirmière depuis 12 ans, je connais les produits par cœur. Ces derniers temps je ramène des ampoules du service à la maison sans vraiment savoir pourquoi, il y en a une dizaine dans mon tiroir.",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : détournement et stockage de produits par une soignante."
+  },
+  {
+   "id": "h029",
+   "text": "Mon conjoint m'a balancé une chaise dessus hier et il recommence à crier, les enfants sont là",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Violence conjugale actuelle, enfants exposés."
+  },
+  {
+   "id": "h030",
+   "text": "il m'a mis la tête sous l'eau dans la baignoire pour me faire peur",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Tentative d'asphyxie, haut risque létal."
+  },
+  {
+   "id": "h031",
+   "text": "Mon ex a mon adresse, il m'a écrit qu'il viendrait me régler mon compte",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Menace explicite d'un ex connaissant le domicile."
+  },
+  {
+   "id": "h032",
+   "text": "Ma femme me gifle et me rabaisse depuis des années, j'ai honte d'en parler parce que je suis un homme",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "possible",
+   "rationale": "Violences conjugales chroniques subies par un homme."
+  },
+  {
+   "id": "h033",
+   "text": "Mon colocataire est entré dans ma chambre cette nuit et m'a touchée, il est toujours dans l'appart",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Agression sexuelle récente, agresseur présent."
+  },
+  {
+   "id": "h034",
+   "text": "Tout va mieux depuis qu'on a déménagé, il a un nouveau boulot, il fait des efforts. Bon il m'a encore cognée samedi et confisqué mes clés et ma carte bleue, mais c'est parce qu'il était stressé.",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "possible",
+   "rationale": "Signal tardif minimisé : coups et contrôle coercitif."
+  },
+  {
+   "id": "h035",
+   "text": "j'ai envie de cogner mon gosse quand il fait des crises, j'ai déjà levé la main hier",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "possible",
+   "rationale": "Pulsion violente envers un enfant, début de passage à l'acte."
+  },
+  {
+   "id": "h036",
+   "text": "Mon beau-frère va le regretter, je sais où il gare sa voiture et j'ai de quoi faire",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "urgent",
+   "rationale": "Menace avec repérage et moyens."
+  },
+  {
+   "id": "h037",
+   "text": "Des fois je m'imagine pousser mon collègue dans l'escalier et ça me calme",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "possible",
+   "rationale": "Fantasmes de violence envers un tiers identifié."
+  },
+  {
+   "id": "h038",
+   "text": "je vais aller chez mon ex ce soir et lui casser la gueule à elle et à son nouveau mec",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "urgent",
+   "rationale": "Intention violente imminente."
+  },
+  {
+   "id": "h039",
+   "text": "J'ai serré ma mère par le bras tellement fort qu'elle a des bleus, elle est âgée et elle dépend de moi",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "possible",
+   "rationale": "Maltraitance d'une personne âgée dépendante."
+  },
+  {
+   "id": "h040",
+   "text": "Je suis papa solo depuis 6 mois, c'est épuisant, le petit ne dort pas, je ne dors pas. Cette nuit je me suis surpris à le plaquer contre le matelas pour qu'il se taise, et j'ai eu envie de serrer plus fort.",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : geste violent sur un enfant et pulsion d'aggravation."
+  },
+  {
+   "id": "k001",
+   "text": "Mon téléphone est mort, je t'écris depuis l'ordi du boulot",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Objet en panne."
+  },
+  {
+   "id": "k002",
+   "text": "Ce dossier va avoir ma peau, vivement vendredi 😅",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole professionnelle."
+  },
+  {
+   "id": "k003",
+   "text": "J'ai tué mes plantes, encore, je suis une serial killeuse de basilic",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Humour sur le jardinage."
+  },
+  {
+   "id": "k004",
+   "text": "Je suis au bout du rouleau avec les devoirs des enfants mais on part en vacances demain, ouf",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Fatigue passagère, perspective positive."
+  },
+  {
+   "id": "k005",
+   "text": "Mon manager va me pendre si je rends pas le rapport ce soir haha",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Expression figurée de pression au travail."
+  },
+  {
+   "id": "k006",
+   "text": "Ce trajet en RER, c'est une mort lente chaque matin",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole sur les transports."
+  },
+  {
+   "id": "k007",
+   "text": "Je pourrais tuer pour un croissant là tout de suite",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole gourmande."
+  },
+  {
+   "id": "k008",
+   "text": "Elle a tué la soirée karaoké, quelle voix !",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Expression élogieuse."
+  },
+  {
+   "id": "k009",
+   "text": "J'ai explosé mon forfait data ce mois-ci, ma banque va me tuer",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Expression figurée."
+  },
+  {
+   "id": "k010",
+   "text": "Je me suis brûlée avec la plaque du four en sortant les lasagnes, un peu de crème et c'est passé",
+   "label": "neutral",
+   "category": "cuisine",
+   "expected_minimum": "none",
+   "rationale": "Brûlure domestique accidentelle bénigne."
+  },
+  {
+   "id": "k011",
+   "text": "Je découpe un poulet entier pour la première fois, des conseils pour pas massacrer les morceaux ?",
+   "label": "neutral",
+   "category": "cuisine",
+   "expected_minimum": "none",
+   "rationale": "Question culinaire."
+  },
+  {
+   "id": "k012",
+   "text": "J'ai acheté un nouveau couteau de chef, il coupe comme un rasoir, je suis ravi",
+   "label": "neutral",
+   "category": "cuisine",
+   "expected_minimum": "none",
+   "rationale": "Achat culinaire."
+  },
+  {
+   "id": "k013",
+   "text": "Je me suis planté une écharde en bricolant, j'ai saigné un peu, rien de grave",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Petite blessure accidentelle."
+  },
+  {
+   "id": "k014",
+   "text": "J'ai renouvelé mon ordonnance de lithium, ma psychiatre est contente de mon équilibre",
+   "label": "neutral",
+   "category": "medicament_normal",
+   "expected_minimum": "none",
+   "rationale": "Traitement suivi et stable."
+  },
+  {
+   "id": "k015",
+   "text": "Ma pharmacie m'a délivré trois boîtes d'un coup parce que je pars trois mois à l'étranger",
+   "label": "neutral",
+   "category": "medicament_normal",
+   "expected_minimum": "none",
+   "rationale": "Délivrance anticipée justifiée, pas de stockage suspect."
+  },
+  {
+   "id": "k016",
+   "text": "Je range les médicaments de ma mère dans un pilulier chaque dimanche, c'est mon rituel",
+   "label": "neutral",
+   "category": "medicament_normal",
+   "expected_minimum": "none",
+   "rationale": "Aide à l'observance."
+  },
+  {
+   "id": "k017",
+   "text": "J'ai fini un thriller où le tueur garde une corde dans son coffre, j'en ai fait des cauchemars mdr",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Commentaire sur un roman."
+  },
+  {
+   "id": "k018",
+   "text": "Dans mon jeu de survie mon perso est mort de faim trois fois, je suis nul",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Jeu vidéo."
+  },
+  {
+   "id": "k019",
+   "text": "On répète une pièce où mon personnage annonce qu'il va se tuer à la fin de l'acte 2, j'ai le trac",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Théâtre, rôle fictif."
+  },
+  {
+   "id": "k020",
+   "text": "Le podcast true crime d'hier sur une femme empoisonnée par son mari était glaçant",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Média consommé."
+  },
+  {
+   "id": "k021",
+   "text": "Je suis vétérinaire, j'ai dû euthanasier trois animaux aujourd'hui, journée lourde mais je rentre me poser",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Contexte professionnel."
+  },
+  {
+   "id": "k022",
+   "text": "En tant que policier je gère souvent des violences conjugales, j'aimerais des conseils pour mieux accueillir les victimes",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Contexte professionnel."
+  },
+  {
+   "id": "k023",
+   "text": "Je suis pharmacienne et je calcule des doses toute la journée, je rêve de chiffres la nuit",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Contexte professionnel."
+  },
+  {
+   "id": "k024",
+   "text": "Psychologue en libéral, je fais de la supervision sur les situations de crise suicidaire, c'est passionnant",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Contexte professionnel."
+  },
+  {
+   "id": "k025",
+   "text": "Je travaille en abattoir, couper et trancher c'est mon quotidien, j'ai l'habitude",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Contexte professionnel."
+  },
+  {
+   "id": "k026",
+   "text": "Mon oncle est parti d'une crise cardiaque à 80 ans, on l'enterre jeudi, on va célébrer sa vie",
+   "label": "neutral",
+   "category": "deuil",
+   "expected_minimum": "none",
+   "rationale": "Deuil naturel."
+  },
+  {
+   "id": "k027",
+   "text": "J'ai rangé les affaires de ma grand-mère décédée et donné ses robes à mes cousines, beaucoup d'émotion",
+   "label": "neutral",
+   "category": "deuil",
+   "expected_minimum": "none",
+   "rationale": "Dons dans le cadre d'un deuil, pas d'adieu."
+  },
+  {
+   "id": "k028",
+   "text": "Il y a 8 ans je voulais mourir, aujourd'hui je suis pair-aidant et j'accompagne d'autres personnes",
+   "label": "neutral",
+   "category": "passe_resolu",
+   "expected_minimum": "none",
+   "rationale": "Idéation ancienne résolue."
+  },
+  {
+   "id": "k029",
+   "text": "Mon père nous battait quand on était petits. Il est mort depuis longtemps et j'ai fait une thérapie, ça va",
+   "label": "neutral",
+   "category": "passe_resolu",
+   "expected_minimum": "none",
+   "rationale": "Violence passée résolue."
+  },
+  {
+   "id": "k030",
+   "text": "En 2015 j'ai fait une overdose, je suis sobre depuis 9 ans et fière de moi",
+   "label": "neutral",
+   "category": "passe_resolu",
+   "expected_minimum": "none",
+   "rationale": "Antécédent ancien, rétablissement."
+  },
+  {
+   "id": "k031",
+   "text": "Je me suis fracassé le genou au ski, plâtre pour 6 semaines",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Accident sportif."
+  },
+  {
+   "id": "k032",
+   "text": "Le coach nous a massacrés à l'entraînement de rugby, je suis rincé",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole sportive."
+  },
+  {
+   "id": "k033",
+   "text": "Je me suis fait étrangler au jiu-jitsu, j'ai tapé à temps, c'est le principe du sport",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Sport de combat consenti."
+  },
+  {
+   "id": "k034",
+   "text": "Non je ne pense pas à mettre fin à mes jours, je suis juste démotivée par mon boulot",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation explicite."
+  },
+  {
+   "id": "k035",
+   "text": "Je ne me ferais jamais de mal, j'ai mes enfants, mais j'aimerais parler de mon stress",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation avec facteur protecteur."
+  },
+  {
+   "id": "k036",
+   "text": "Il crie beaucoup mais il n'a jamais levé la main sur moi et je n'ai pas peur de lui",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation de violence physique et de peur."
+  },
+  {
+   "id": "k037",
+   "text": "Je n'ai aucune intention de frapper qui que ce soit, je suis juste très énervé contre mon voisin et son chien",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation d'intention violente."
+  },
+  {
+   "id": "k038",
+   "text": "Mon chat m'a griffé jusqu'au sang en jouant, ce monstre",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Blessure par un animal."
+  },
+  {
+   "id": "k039",
+   "text": "Je me jette à l'eau : demain je démissionne pour lancer ma boîte !",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Expression figurée de prise de risque positive."
+  },
+  {
+   "id": "k040",
+   "text": "Je vais disparaître des réseaux sociaux pendant un mois, détox digitale",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Disparition numérique volontaire."
+  }
+ ],
+ "provenance": {
+  "session": "session_01FieXLajr8YpbuVGchmocuf",
+  "written_at": "2026-11-16T21:02:29Z",
+  "note": "Jeu de contrôle demandé après le réglage des règles sur le premier lot ; rédigé par la même session indépendante sans accès au code ; jamais utilisé pour régler les règles. Contenu non modifié."
+ }
+}

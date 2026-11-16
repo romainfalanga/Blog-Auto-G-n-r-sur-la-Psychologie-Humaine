@@ -31,10 +31,10 @@
   ]
  },
  "input_fingerprints": {
-  "cartography_core_sha256": "13ad65d205d8682345e8dceb5f1f5b69ee0d0eb0e0c635e63fefa72ae60877dd",
+  "cartography_core_sha256": "ce03dcd3e7af2067d0e3a15fafae53b1ec18e39e14794e21e0cfd412e57ea32d",
   "psychology_catalog_sha256": "6d88dee0c919c56a5c501f25735ae02f357c3822e6d58e5023723c89c5deb0c9",
   "clinical_catalog_sha256": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
-  "semantic_decisions_sha256": "818ee4d00b76fed31c31e3a833cf52d20ad9fb5593c5542ef5d0d1a477239974",
+  "semantic_decisions_sha256": "ca1cbe8bdaf14bfc6ebe5b8a5152c917e6c0fd60087d02053e82fe81aab297f6",
   "reference_registry_sha256": "69b1e745bed92c1ccd11fd93d07d4763d3813598c170cda091fb5e9090d42fa5"
  },
  "counts": {
@@ -17512,7 +17512,7 @@
   },
   {
    "id": "punitions_corporelles",
-   "label": "Fessées, tapes ou gifles éducatives",
+   "label": "Fessées, tapes ou gifles données pour éduquer",
    "link_count": 5,
    "mapped_psychology_patterns": []
   },

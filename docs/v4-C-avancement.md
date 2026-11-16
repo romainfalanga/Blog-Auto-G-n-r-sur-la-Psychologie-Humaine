@@ -36,3 +36,8 @@ Profil « parentification » : avant Sauveur, Abnégation, Codépendance, Besoin
 - Relecture indépendante du delta de liens (`independent_review_of_this_delta: pending` dans `correspondances-2026-11-17.json`).
 - Lot S : mentionner `display_order` dans `CHILDHOOD_CARTOGRAPHY_GUIDANCE` ; libellés Paramètres (`display_order`, `display_count`, `associated_count`).
 - Propriétaire : C2, « Je ne sais pas », échelle Non/Oui des événements, question « violences amoureuses à l'adolescence » (Exner-Cortens 2013), carte « préoccupation pour l'apparence » (texte intégral de Longobardi 2022 à obtenir), note « parentalité », pondération de spécificité, description de `content/cartographie.md` (« conséquences » → « sujets associés »).
+
+## Corrections après relecture indépendante (`docs/relecture-cartographie-v4-2026-11-18.md`)
+- Résumés n° 17 (harcèlement → agoraphobie) et exil → 6B41 : textes du rapport repris tels quels. N° 22 (violences psychologiques → conduites suicidaires) et n° 28 (précarité → dépression) : textes du rapport légèrement raccourcis, car ils dépassaient le plafond de 350 caractères du générateur (détail consigné dans `correspondances-2026-11-17.json`).
+- Justification n° 22 reformulée : « forte » est réservée à des méta-analyses concordantes de force au moins modérée ; les agrégats violences physiques et sexuelles restent « forte ». Libellé « Fessées, tapes ou gifles données pour éduquer ». Aucune force modifiée.
+- `independent_review_of_this_delta` : « accepté après corrections ». Empreinte `ce03dcd3…`. Audit et `--check` relancés ; tests 39/39, Worker Cartographie 35/35, navigateur 16/16 et 6/6.

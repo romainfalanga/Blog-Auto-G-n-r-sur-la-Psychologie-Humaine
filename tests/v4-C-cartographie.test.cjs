@@ -39,7 +39,7 @@ test('C3: isolation is no longer linked to problematic substance use (Lacey 2014
 
 test('C3: wording — before 18, neutral examples, no gendered parent, no duplicate identity example', () => {
   assert.ok(data.groups.every(g => /18 ans|enfance/.test(g.description)), 'every theme situates the period');
-  assert.strictEqual(factor('punitions_corporelles').label, 'Fessées, tapes ou gifles éducatives');
+  assert.strictEqual(factor('punitions_corporelles').label, 'Fessées, tapes ou gifles données pour éduquer');
   assert.ok(!JSON.stringify(data.factors).includes('« ordinaires »'));
   assert.ok(!factor('parent_absent').description.includes('père'));
   assert.ok(factor('traumatisme_ponctuel').examples.length >= 3);

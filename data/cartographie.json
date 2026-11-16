@@ -554,7 +554,7 @@
   {
    "id": "punitions_corporelles",
    "group": "violences",
-   "label": "Fessées, tapes ou gifles éducatives",
+   "label": "Fessées, tapes ou gifles données pour éduquer",
    "description": "Gestes physiques occasionnels utilisés comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
    "examples": [],
    "ace": false,
@@ -2021,7 +2021,7 @@
    "factor": "abus_emotionnel",
    "outcome": "ten_conduites_suicidaires",
    "strength": "moderee",
-   "summary": "Des méta-analyses associent les violences psychologiques infantiles à davantage d'idées suicidaires chez l'adulte et de tentatives chez les jeunes ; pour les tentatives, peu d'études aux estimations très hétérogènes. Ces résultats de groupe ne s'appliquent pas automatiquement aux automutilations sans intention suicidaire.",
+   "summary": "Des méta-analyses associent les violences psychologiques infantiles à davantage d'idées suicidaires et de tentatives, chez l'adulte comme chez les jeunes ; chez les jeunes, ces résultats reposent sur peu d'études très hétérogènes. Ces résultats de groupe ne s'appliquent pas automatiquement aux automutilations sans intention suicidaire.",
    "sources": [
     "angelakis2019",
     "angelakis2020"
@@ -4303,7 +4303,7 @@
    "outcome": "icd_6b41",
    "strength": "critere",
    "relation_type": "classification_context",
-   "summary": "La CIM-11 cite la torture, les camps, les campagnes de génocide et d'autres violences organisées parmi les situations prolongées, difficiles à fuir, qui précèdent le plus souvent un stress post-traumatique complexe. Ce repère ne mesure aucun risque et ne suffit pas au diagnostic.",
+   "summary": "La CIM-11 exige, pour un stress post-traumatique complexe, une exposition à des événements extrêmement menaçants, le plus souvent prolongés et difficiles à fuir, comme la torture, les camps, les campagnes de génocide et d'autres violences organisées. Ce repère ne mesure aucun risque et ne suffit pas au diagnostic.",
    "sources": [
     "cim11_cddr_stress"
    ]
@@ -4401,7 +4401,7 @@
    "factor": "harcelement",
    "outcome": "icd_6b02",
    "strength": "limitee",
-   "summary": "La même cohorte montre un risque plus élevé d'agoraphobie chez les jeunes adultes harcelés dans l'enfance ; ce résultat vient surtout d'une étude.",
+   "summary": "Dans une cohorte américaine suivie jusqu'à 26 ans, les jeunes harcelés dans l'enfance présentaient plus souvent une agoraphobie au début de l'âge adulte ; ce résultat vient d'une seule étude.",
    "sources": [
     "copeland2013"
    ],
@@ -6000,7 +6000,7 @@
    "outcome": "dep_generale",
    "strength": "limitee",
    "relation_type": "empirical_association",
-   "summary": "Dans une cohorte américaine suivie de la naissance à l'âge adulte, un faible niveau socio-économique familial dans la petite enfance était associé à davantage d'épisodes dépressifs entre 18 et 39 ans, indépendamment de la situation adulte. Une seule cohorte, qui mesure le niveau socio-économique plutôt que chaque forme de précarité.",
+   "summary": "Dans une cohorte américaine suivie de la naissance à l'âge adulte, un faible niveau socio-économique familial, mesuré avant la naissance et à 7 ans, était associé à un risque plus élevé d'épisode dépressif majeur entre 18 et 39 ans, indépendamment de la situation adulte. Une seule cohorte, qui ne mesure pas chaque forme de précarité.",
    "sources": [
     "gilman2003_precarite"
    ]

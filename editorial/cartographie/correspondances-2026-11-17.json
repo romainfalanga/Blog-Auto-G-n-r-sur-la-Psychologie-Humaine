@@ -3635,7 +3635,7 @@
   "final_validation": {
     "status": "passed",
     "reviewed_on": "2026-11-17",
-    "graph_core_sha256": "13ad65d205d8682345e8dceb5f1f5b69ee0d0eb0e0c635e63fefa72ae60877dd",
+    "graph_core_sha256": "ce03dcd3e7af2067d0e3a15fafae53b1ec18e39e14794e21e0cfd412e57ea32d",
     "active_factors": 59,
     "active_outcomes": 109,
     "resources": 11,
@@ -3654,7 +3654,7 @@
     "post_integration_delta_independently_reviewed": true,
     "revalidated_on": "2026-11-18",
     "revalidated_by": "lot_C_v4_1",
-    "v4_delta_independent_review": "pending"
+    "v4_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v4-2026-11-18.md)"
   },
   "post_integration_reviews": [
     {
@@ -3703,7 +3703,7 @@
       "reviewed_on": "2026-11-18",
       "plan": "docs/plan-ambre-v4-2026-11-18.md (révision v4.1, lot C : C3 et C4) ; journal docs/v4-C-avancement.md",
       "previous_graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
-      "validated_graph_core_sha256": "13ad65d205d8682345e8dceb5f1f5b69ee0d0eb0e0c635e63fefa72ae60877dd",
+      "validated_graph_core_sha256": "ce03dcd3e7af2067d0e3a15fafae53b1ec18e39e14794e21e0cfd412e57ea32d",
       "changes": [
         {
           "type": "links_lowered_single_cohort",
@@ -3760,7 +3760,7 @@
               "moderee"
             ]
           ],
-          "reason": "Angelakis 2020 seul alimentait l'agrégat et la carte « tentatives » avec deux forces ; l'agrégat Angelakis 2019+2020 des violences psychologiques ne peut dépasser ses composantes (idées « modérée », tentatives « limitée »). Norman 2012 (PMC3507962, relu) rapporte une association négligence → tentatives : l'agrégat de la négligence physique, qui cite aussi Norman, reste « modérée »."
+          "reason": "Angelakis 2020 seul alimentait l'agrégat et la carte « tentatives » de la négligence affective avec deux forces : alignées sur « limitée ». Pour les violences psychologiques, l'agrégat repose sur Angelakis 2019 (adultes : tentatives et idées, « modérée ») et Angelakis 2020 (jeunes : peu d'études très hétérogènes, « limitée ») ; « forte » est réservée à des méta-analyses concordantes d'au moins force modérée, d'où « modérée ». Les agrégats violences physiques et sexuelles (deux méta-analyses modérées concordantes) restent « forte ». Norman 2012 (PMC3507962, relu) rapporte une association négligence → tentatives : l'agrégat de la négligence physique, qui cite aussi Norman, reste « modérée »."
         },
         {
           "type": "link_lowered",
@@ -3830,9 +3830,20 @@
           "independent_check": "Libellé « Fessées, tapes ou gifles éducatives », « un parent », exemples neutres, doublon d'orientation retiré de discrimination (conservé dans abus_emotionnel), « avant 18 ans » dans les thèmes. Identifiants et réponses inchangés. Les décisions separation_reunion, ambiguous_loss et discrimination_context qui ciblent ces facteurs restent exactes."
         }
       ],
-      "independent_review_of_this_delta": "pending",
+      "independent_review_of_this_delta": "accepté après corrections (docs/relecture-cartographie-v4-2026-11-18.md)",
       "all_161_targets_still_exist": true,
-      "factors_outcomes_resources_and_retired_outcomes_identifiers_unchanged": true
+      "factors_outcomes_resources_and_retired_outcomes_identifiers_unchanged": true,
+      "corrections_after_independent_review": {
+        "report": "docs/relecture-cartographie-v4-2026-11-18.md",
+        "summaries_replaced": [
+          "harcelement → icd_6b02 (n° 17, texte exact)",
+          "abus_emotionnel → ten_conduites_suicidaires (n° 22, avec justification ; texte du rapport raccourci pour le plafond de 350 caractères : « tentatives » sans « de suicide », « peu d'études très hétérogènes »)",
+          "precarite → dep_generale (n° 28 ; texte raccourci pour le plafond : « indépendamment de la situation adulte », « Une seule cohorte, qui ne mesure pas chaque forme de précarité. »)",
+          "exil → icd_6b41 (précision recommandée n° 26, texte exact)"
+        ],
+        "factor_label": "punitions_corporelles : « Fessées, tapes ou gifles données pour éduquer »",
+        "strengths_changed": false
+      }
     }
   ]
 }

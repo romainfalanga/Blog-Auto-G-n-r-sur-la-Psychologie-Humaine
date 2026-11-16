@@ -1600,7 +1600,8 @@
    "factor": "harcelement",
    "outcome": "icd_6b02",
    "strength": "limitee",
-   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Résumé corrigé après la relecture indépendante (docs/relecture-cartographie-v4-2026-11-18.md, n° 17).",
+   "summary": "Dans une cohorte américaine suivie jusqu'à 26 ans, les jeunes harcelés dans l'enfance présentaient plus souvent une agoraphobie au début de l'âge adulte ; ce résultat vient d'une seule étude."
   },
   {
    "factor": "harcelement",
@@ -1631,8 +1632,8 @@
    "factor": "abus_emotionnel",
    "outcome": "ten_conduites_suicidaires",
    "strength": "moderee",
-   "summary": "Des méta-analyses associent les violences psychologiques infantiles à davantage d'idées suicidaires chez l'adulte et de tentatives chez les jeunes ; pour les tentatives, peu d'études aux estimations très hétérogènes. Ces résultats de groupe ne s'appliquent pas automatiquement aux automutilations sans intention suicidaire.",
-   "reason": "Plan v4.1 lot C (revue §8.4) : l'agrégat repose sur Angelakis 2019 (idées, « modérée ») et Angelakis 2020 (tentatives, « limitée ») ; il ne peut pas être plus fort que ses composantes."
+   "summary": "Des méta-analyses associent les violences psychologiques infantiles à davantage d'idées suicidaires et de tentatives, chez l'adulte comme chez les jeunes ; chez les jeunes, ces résultats reposent sur peu d'études très hétérogènes. Ces résultats de groupe ne s'appliquent pas automatiquement aux automutilations sans intention suicidaire.",
+   "reason": "Plan v4.1 lot C (revue §8.4) : l'agrégat repose sur Angelakis 2019 (adultes : tentatives et idées, « modérée ») et Angelakis 2020 (jeunes : peu d'études très hétérogènes, « limitée » pour les tentatives). « Forte » est réservée à des méta-analyses concordantes d'au moins force modérée ; ce n'est pas le cas ici, d'où « modérée ». Les agrégats violences physiques et sexuelles, fondés sur deux méta-analyses modérées concordantes, restent « forte ». Résumé et justification corrigés après la relecture indépendante (docs/relecture-cartographie-v4-2026-11-18.md, n° 22)."
   },
   {
    "factor": "abus_sexuel",

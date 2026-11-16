@@ -508,7 +508,7 @@
   {
    "id": "punitions_corporelles",
    "group": "violences",
-   "label": "Fessées, tapes ou gifles éducatives",
+   "label": "Fessées, tapes ou gifles données pour éduquer",
    "description": "Gestes physiques occasionnels utilisés comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
    "examples": [],
    "ace": false
