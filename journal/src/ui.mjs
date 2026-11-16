@@ -429,7 +429,7 @@ function openSelfTextDialog(host,options){
  save.type='submit';actions.append(save,cancel);body.append(help,input,count,message,conflict);form.append(title,body,actions);dialog.append(form);
  function showCount(){count.textContent=input.value.length.toLocaleString('fr-FR')+' / '+field[3].toLocaleString('fr-FR')+' caractères'}
  function setSending(yes){sending=yes;save.disabled=yes;cancel.disabled=yes}
- function unsaved(){return input.value!==initial}
+ function mayDiscard(){return input.value===initial||confirm('Fermer sans enregistrer ? Le texte que vous avez saisi sera perdu.')}
  /* Keeps the window inside the visible area when a phone keyboard covers part of the page. */
  function fit(){var zoomed=viewport.scale&&Math.abs(viewport.scale-1)>.01;['viewport','top'].forEach(function(name){if(zoomed)dialog.style.removeProperty('--self-text-'+name);else dialog.style.setProperty('--self-text-'+name,Math.round(name==='top'?viewport.offsetTop:viewport.height)+'px')})}
  function show(){if(modal){if(!dialog.open)dialog.showModal()}else dialog.setAttribute('open','');input.focus();if(input.setSelectionRange)input.setSelectionRange(input.value.length,input.value.length)}
@@ -460,7 +460,7 @@ function openSelfTextDialog(host,options){
  input.addEventListener('input',showCount);
  dialog.addEventListener('cancel',function(event){if(event.cancelable===false)return;event.preventDefault();requestClose()});
  /* A browser may close the window without a cancellable event: reopen it instead of losing the text. */
- dialog.addEventListener('close',function(){if(closed)return;if(sending||unsaved()&&!confirm('Fermer sans enregistrer ? Le texte que vous avez saisi sera perdu.')){show();return}finish()});
+ dialog.addEventListener('close',function(){if(closed)return;if(sending||!mayDiscard()){show();return}finish()});
  dialog.addEventListener('pointerdown',function(event){pressedOutside=event.target===dialog});
  dialog.addEventListener('click',function(event){var outside=event.target===dialog&&pressedOutside;pressedOutside=false;if(outside)requestClose()});
  dialog.addEventListener('keydown',function(event){if(!modal&&event.key==='Escape'){event.preventDefault();requestClose()}});
