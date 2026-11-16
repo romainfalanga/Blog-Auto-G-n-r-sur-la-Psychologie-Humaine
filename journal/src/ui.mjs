@@ -49,7 +49,6 @@ ${SITE_HEADER_CSS}
 <main id="main"><div class="loading"><span class="loading-dot"></span>Chargement de votre page…</div></main>
 </div>
 <dialog id="auth-dialog"><div class="dialog-top"><h2 id="auth-title">Bienvenue.</h2><button type="button" class="close" data-close="auth-dialog" aria-label="Fermer">×</button></div><p class="muted" id="auth-description"></p><form id="auth-form"><div class="field"><label for="auth-email">Adresse e-mail</label><input id="auth-email" name="email" type="email" required autocomplete="email" maxlength="254"></div><div class="field"><label for="auth-password">Mot de passe</label><input id="auth-password" name="password" type="password" required autocomplete="current-password" minlength="12" maxlength="128"><div class="helper">Au moins 12 caractères.</div></div><button id="auth-submit" type="submit">Se connecter</button><p id="auth-status" class="status" role="status"></p></form><p class="auth-switch" id="auth-switch"></p></dialog>
-<dialog id="journey-dialog" class="journey-dialog"></dialog>
 <dialog id="delete-dialog"><div class="dialog-top"><h2>Supprimer mon compte</h2><button type="button" class="close" data-close="delete-dialog" aria-label="Fermer">×</button></div><p>Votre compte et les informations que vous avez enregistrées seront supprimés. L’abonnement sera résilié. Cette action est définitive.</p><p class="muted">Vous pouvez d’abord exporter vos données depuis votre compte.</p><form id="delete-form"><label for="delete-password">Confirmez avec votre mot de passe</label><input type="password" id="delete-password" name="password" autocomplete="current-password" required><div class="actions"><button type="submit">Supprimer définitivement</button><button class="secondary" type="button" data-close="delete-dialog">Annuler</button></div><p class="status" id="delete-status" role="status"></p></form></dialog>
 <script>
 ${VOICE_INPUT_SCRIPT}
@@ -117,7 +116,7 @@ function renderApp(){
  clearTimeout(state.chatTimer);
  clearTimeout(state.chatCooldownTimer);
  clearTimeout(state.journeyTimer);
- if(typeof closeJourneyDialog==='function'){state.journeyStep=null;closeJourneyDialog()}
+ if(typeof closeJourneyPanel==='function'){state.journeyStep=null;closeJourneyPanel()}
  state.chatSending=false;
  state.chatRequest=null;
  if(!state.me||!state.me.user){landing();return}

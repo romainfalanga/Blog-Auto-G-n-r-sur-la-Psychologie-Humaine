@@ -52,7 +52,7 @@ function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','drawChatNotes','chatInitialPending','journeyDialog','closeJourneyDialog','showJourneyDialog','journeySourceItem','journeyCount','drawJourneyDialog','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -236,7 +236,7 @@ test('empty conversation renders no invented message and places weekly usage in 
   vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
   assert.equal(host.querySelector('.chat-thread').children.length,0);
   const toolbar=host.querySelector('.conversation-toolbar');
-  assert.equal(toolbar.querySelector('h1').textContent,'Ambre · psychologue IA');
+  assert.equal(toolbar.querySelector('h1').textContent,'Ambre · assistante psychologue IA');
   assert.equal(toolbar.querySelector('strong').textContent,'1 / 100');
   assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,false);
   assert.doesNotMatch(host.textContent,/Un espace pour prendre du recul|Vous pouvez commencer par une situation/);
@@ -403,26 +403,26 @@ test('assistant messages render no reading suggestion; notes written on the map 
 const journeyState=(journey,extra={})=>({consent:false,access:{allowed:false,reason:'consent_required'},quota:{used:0,remaining:100,limit:100},messages:[],proposals:[],journey,...extra});
 const notStarted=(overrides={})=>({started:false,can_start:true,sources:{cartography:{done:true,count:7},portrait:{done:false},people:{done:true,count:1},life_events:{done:false,count:0}},review:{running_id:null,last_at:null,next_point_at:null},...overrides});
 
-test('the welcome window lists the four sources, confirms with an explicit agreement, then waits for the initial analysis',async()=>{
+test('the welcome panel lists the four sources, confirms with an explicit agreement, then waits for the initial analysis',async()=>{
  const calls=[];let next;
  const env=chatFixture({api:async(path,method,data)=>{calls.push([path,method||'GET',data]);return next;}});
  env.ctx.state.chatData=journeyState(notStarted({can_start:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}}}));
  env.ctx.drawChat(env.view,()=>true);
- const dialog=env.doc.getElementById('journey-dialog');
- assert.equal(dialog.open,true);assert.equal(dialog.dataset.step,'intro');assert.equal(dialog.attributes['aria-labelledby'],'journey-title');
+ const dialog=env.doc.getElementById('journey-panel');
+ assert.equal(dialog.hidden,false);assert.equal(dialog.dataset.step,'intro');assert.equal(dialog.attributes['aria-labelledby'],'journey-title');
  assert.equal(dialog.querySelector('h2').textContent,'Avant de commencer avec Ambre');assert.equal(env.doc.activeElement,dialog.querySelector('h2'));
  assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné : votre cartographie, votre portrait, vos proches et votre ligne de vie/);
  let items=dialog.querySelectorAll('.journey-source');assert.equal(items.length,4);
  assert.deepEqual(items.map(i=>i.querySelector('a').href),['/cartographie/','/mon-portrait/','/mes-proches/','/ma-ligne-de-vie/']);
  assert.ok(items.every(i=>i.querySelector('.journey-source-state').textContent==='À compléter'));
  let start=env.doc.getElementById('journey-start');assert.equal(start.disabled,true);assert.match(env.doc.getElementById('journey-hint').textContent,/au moins une de ces sources/);
- assert.equal(env.send.disabled,true);assert.equal(env.view.querySelector('.chat-gate'),null,'the agreement is asked in the window, not in a second gate');
- let prevented=false;await dialog.fire('cancel',{preventDefault(){prevented=true}});assert.equal(prevented,true,'Escape does not dismiss the welcome window');
+ assert.equal(env.send.disabled,true);assert.equal(env.view.querySelector('.chat-gate'),null,'the agreement is asked in the panel, not in a second gate');
+ assert.equal(dialog.tagName,'SECTION');assert.equal(dialog.parentElement.id,'conversation-scroll');assert.match(dialog.textContent,/assistante psychologue IA/);assert.match(dialog.textContent,/à vos côtés un professionnel de santé/);assert.match(dialog.textContent,/ne pose pas de diagnostic/);
  env.ctx.state.chatData=journeyState(notStarted());env.ctx.drawChat(env.view,()=>true);
  items=dialog.querySelectorAll('.journey-source');assert.deepEqual(items.map(i=>i.querySelector('.journey-source-state').textContent),['Renseigné','À compléter','Renseigné','À compléter']);
  assert.match(items[0].textContent,/7 éléments cochés/);assert.match(items[2].textContent,/1 proche/);
  start=env.doc.getElementById('journey-start');assert.equal(start.disabled,false);await start.fire('click');
- assert.equal(dialog.dataset.step,'confirm');assert.equal(dialog.querySelector('h2').textContent,'Êtes-vous certain ?');
+ assert.equal(dialog.dataset.step,'confirm');assert.equal(dialog.querySelector('h2').textContent,'Voulez-vous lancer la discussion ?');
  assert.match(dialog.textContent,/Cela va initier la conversation à partir des informations que vous avez renseignées\./);
  let buttons=dialog.querySelectorAll('button');assert.deepEqual(buttons.map(b=>b.textContent),['Oui, lancer','Pas encore']);assert.equal(buttons[0].disabled,true);
  await buttons[1].fire('click');assert.equal(dialog.dataset.step,'intro');assert.equal(calls.length,0);
@@ -431,19 +431,19 @@ test('the welcome window lists the four sources, confirms with an explicit agree
  next=journeyState({started:true,can_start:false,sources:notStarted().sources,review:{running_id:'r1',last_at:null,next_point_at:null}},{consent:true,access:{allowed:true,reason:null},review_id:'r1'});
  await buttons[0].fire('click');
  assert.equal(calls.length,1);assert.equal(calls[0][0],'/api/chat/start');assert.equal(calls[0][1],'POST');assert.equal(calls[0][2].accepted,true);assert.match(calls[0][2].idempotency_key,/^[\w-]{8,}$/);
- assert.equal(dialog.dataset.step,'waiting');assert.equal(dialog.open,true);assert.equal(dialog.querySelector('h2').textContent,'Ambre prépare votre analyse…');assert.equal(dialog.querySelectorAll('button').length,0);
+ assert.equal(dialog.dataset.step,'waiting');assert.equal(dialog.hidden,false);assert.equal(dialog.querySelector('h2').textContent,'Ambre prépare votre analyse…');assert.equal(dialog.querySelectorAll('button').length,0);
  assert.equal(env.send.disabled,true);
  env.ctx.state.chatData=journeyState({started:true,can_start:false,sources:notStarted().sources,review:{running_id:null,last_at:100,next_point_at:Math.floor(Date.now()/1000)+3600}},{consent:true,access:{allowed:true,reason:null},messages:[{id:'t1-assistant',role:'assistant',content:'Votre analyse.',review_id:'r1',review_kind:'initial'}]});
  env.ctx.drawChat(env.view,()=>true);
- assert.equal(dialog.open,false);assert.equal(env.view.querySelector('.chat-thread').children.at(-1).querySelector('h3').textContent,'Ambre · Analyse initiale');
+ assert.equal(dialog.hidden,true);assert.equal(env.view.querySelector('.chat-thread').children.at(-1).querySelector('h3').textContent,'Ambre · Analyse initiale');
  env.input.value='Bonjour';assert.equal(env.send.disabled,false);
 });
 
-test('a failed initial analysis returns to the welcome window with an explanation and a fresh key',async()=>{
+test('a failed initial analysis returns to the welcome panel with an explanation and a fresh key',async()=>{
  const keys=[];const env=chatFixture({api:async(_path,_method,data)=>{keys.push(data.idempotency_key);return journeyState({started:true,can_start:false,sources:notStarted().sources,review:{running_id:'r'+keys.length,last_at:null,next_point_at:null}},{consent:true,access:{allowed:true}});}});
- const launch=async()=>{await env.doc.getElementById('journey-start').fire('click');const box=env.doc.getElementById('journey-consent');box.checked=true;await box.fire('change');await env.doc.getElementById('journey-dialog').querySelectorAll('button')[0].fire('click');};
+ const launch=async()=>{await env.doc.getElementById('journey-start').fire('click');const box=env.doc.getElementById('journey-consent');box.checked=true;await box.fire('change');await env.doc.getElementById('journey-panel').querySelectorAll('button')[0].fire('click');};
  env.ctx.state.chatData=journeyState(notStarted());env.ctx.drawChat(env.view,()=>true);await launch();
- const dialog=env.doc.getElementById('journey-dialog');assert.equal(dialog.dataset.step,'waiting');
+ const dialog=env.doc.getElementById('journey-panel');assert.equal(dialog.dataset.step,'waiting');
  env.ctx.state.chatData=journeyState(notStarted(),{consent:true,access:{allowed:false,reason:'journey_not_started'}});env.ctx.drawChat(env.view,()=>true);
  assert.equal(dialog.dataset.step,'intro');assert.match(dialog.textContent,/n’a pas pu être préparée/);
  await launch();assert.equal(keys.length,2);assert.notEqual(keys[0],keys[1]);
@@ -457,17 +457,17 @@ test('“Faire le point” explains why it is unavailable, confirms lightly and 
  env.ctx.state.chatData=started({running_id:null,last_at:100,next_point_at:soon});env.ctx.drawChat(env.view,()=>true);
  const point=env.doc.getElementById('chat-point'),note=env.doc.getElementById('chat-point-note');
  assert.equal(point.hidden,false);assert.equal(point.disabled,true);assert.equal(note.hidden,false);assert.match(note.textContent,/^Prochain point possible à partir du /);
- await point.fire('click');assert.notEqual(env.doc.getElementById('journey-dialog')?.dataset.step,'point');
+ await point.fire('click');assert.notEqual(env.doc.getElementById('journey-panel')?.dataset.step,'point');
  env.ctx.state.chatData=started({running_id:null,last_at:100,next_point_at:null});env.ctx.drawChat(env.view,()=>true);
  assert.equal(point.disabled,false);assert.equal(note.hidden,true);
- await point.fire('click');const dialog=env.doc.getElementById('journey-dialog');
- assert.equal(dialog.open,true);assert.equal(dialog.dataset.step,'point');assert.equal(dialog.querySelector('h2').textContent,'Faire le point ?');
+ await point.fire('click');const dialog=env.doc.getElementById('journey-panel');
+ assert.equal(dialog.hidden,false);assert.equal(dialog.dataset.step,'point');assert.equal(dialog.querySelector('h2').textContent,'Faire le point ?');
  let buttons=dialog.querySelectorAll('button');assert.deepEqual(buttons.map(b=>b.textContent),['Oui, faire le point','Pas maintenant']);
- await buttons[1].fire('click');assert.equal(dialog.open,false);assert.equal(calls.length,0);assert.equal(env.doc.activeElement,point);
+ await buttons[1].fire('click');assert.equal(dialog.hidden,true);assert.equal(calls.length,0);assert.equal(env.doc.activeElement,point);
  await point.fire('click');next=started({running_id:'r2',last_at:100,next_point_at:null},{review_id:'r2'});
  await dialog.querySelectorAll('button')[0].fire('click');
  assert.deepEqual(calls.map(c=>[c[0],c[1]]),[['/api/chat/review','POST']]);assert.match(calls[0][2].idempotency_key,/^[\w-]{8,}$/);
- assert.equal(dialog.open,false);const waiting=env.doc.getElementById('chat-review-indicator');
+ assert.equal(dialog.hidden,true);const waiting=env.doc.getElementById('chat-review-indicator');
  assert.match(waiting.textContent,/Ambre prépare votre bilan…/);assert.equal(waiting.parentElement,env.view.querySelector('.chat-thread'));
  env.input.value='Un message';assert.equal(env.send.disabled,true);assert.equal(point.disabled,true);assert.match(note.textContent,/prépare déjà un bilan/);
  env.ctx.state.chatData=started({running_id:null,last_at:200,next_point_at:soon},{messages:[{id:'t1-assistant',role:'assistant',content:'Analyse.',review_id:'r1',review_kind:'initial'},{id:'t2-assistant',role:'assistant',content:'Le point.',review_id:'r2',review_kind:'point'}]});
@@ -495,7 +495,7 @@ test('“Mes bilans” lists dated reviews, reads one in full, deletes with conf
 
 test('the application shell routes “Mes bilans” like the other personal pages',()=>{
  assert.match(script,/reviews:\{path:'\/mes-bilans\/',title:'Mes bilans'\}/);assert.match(functionCode('renderApp'),/state\.tab==='reviews'\)renderReviews\(\)/);
- assert.match(HTML,/<dialog id="journey-dialog" class="journey-dialog"><\/dialog>/);
+ assert.doesNotMatch(HTML,/<dialog[^>]*journey/);
 });
 test('V7 personalization changes direct attributes and preserves complements and quoted words',()=>{
  const env=mapFixture(),subject={first_name:'Romain',gender:'male'},personalize=value=>env.ctx.personalizePortraitText(value,subject);
@@ -558,7 +558,7 @@ test('V7 legacy direct descriptions stay grammatical without inferring a gender 
 
 
 test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
- const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
+ const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · assistante psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
 });
 
 test('the public portrait renders three views without the cartography or a repeated Ambre note',async()=>{
