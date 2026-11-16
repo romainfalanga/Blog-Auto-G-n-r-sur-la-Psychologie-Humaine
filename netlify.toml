@@ -321,3 +321,41 @@
   for = "/mon-accompagnement/*"
   [headers.values]
     Cache-Control = "private, no-store"
+
+# Complete private follow-up and transparency pages served by the Worker.
+
+[[redirects]]
+  from = "/parametres"
+  to = "https://decode-journal.romainfalanga83.workers.dev/parametres/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/parametres/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/parametres/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mon-suivi"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mon-suivi/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mon-suivi/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mon-suivi/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/espace-psychologue"
+  to = "https://decode-journal.romainfalanga83.workers.dev/espace-psychologue/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/espace-psychologue/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/espace-psychologue/:splat"
+  status = 200
+  force = true

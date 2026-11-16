@@ -245,7 +245,7 @@ test('review prompts keep hypotheses, sources honesty and safety; the conversati
 // Worker level: page route, cron entry point, export and account deletion.
 const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES=[];')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
-const rewritten=['chat-backend','entitlements','personal-backend','cartographie'].reduce((text,name)=>text.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
+const rewritten=['care-backend','chat-backend','entitlements','personal-backend','cartographie'].reduce((text,name)=>text.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
 const {default:worker}=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));
 const origin='https://journal.example';
 const request=(env,path,{method='GET',data,cookie}={})=>worker.fetch(new Request(origin+path,{method,headers:{...(data?{'Content-Type':'application/json'}:{}),...(cookie?{Cookie:cookie}:{}),Origin:origin,'CF-Connecting-IP':'192.0.2.10'},body:data?JSON.stringify(data):undefined}),env);

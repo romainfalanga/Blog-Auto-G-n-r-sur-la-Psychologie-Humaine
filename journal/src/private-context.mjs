@@ -14,9 +14,9 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
   row=await env.DB.prepare(`SELECT p.version AS source_version,p.self_data,p.self_revision,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until,s.trial_end FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
   if(!row)return null;
   const queries=[
-   'SELECT article_id,reason,differences,revision,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id',
-   'SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end,revision,created_at,updated_at FROM personal_people WHERE user_id=? ORDER BY id',
-   `SELECT e.id,e.title,e.kind,e.description,e.meaning_now,e.date_precision,e.date_start,e.date_end,e.age_text,e.current_importance,e.fiction_use,e.revision,e.created_at,e.updated_at,(SELECT json_group_array(person_id) FROM life_event_people WHERE event_id=e.id AND user_id=e.user_id) AS people_ids FROM life_events e WHERE e.user_id=? ORDER BY e.id`,
+   'SELECT article_id,reason,differences,revision,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id LIMIT 2000',
+   'SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end,revision,created_at,updated_at FROM personal_people WHERE user_id=? ORDER BY id LIMIT 50',
+   `SELECT e.id,e.title,e.kind,e.description,e.meaning_now,e.date_precision,e.date_start,e.date_end,e.age_text,e.current_importance,e.fiction_use,e.revision,e.created_at,e.updated_at,(SELECT json_group_array(person_id) FROM life_event_people WHERE event_id=e.id AND user_id=e.user_id) AS people_ids FROM life_events e WHERE e.user_id=? ORDER BY e.id LIMIT 500`,
    "SELECT article_id,shown_at FROM recommendation_exposures WHERE user_id=? AND shown_at>datetime('now','-7 days') ORDER BY shown_at DESC,article_id LIMIT 100"
   ];
   [likes,people,events,exposures]=await Promise.all(queries.map(async sql=>(await env.DB.prepare(sql).bind(userId).all()).results));
