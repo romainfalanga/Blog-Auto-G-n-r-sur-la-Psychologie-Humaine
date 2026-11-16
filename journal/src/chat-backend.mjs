@@ -732,7 +732,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   const draft={content:bounded(output.content,12000,true),questions:[],proposals:[],cartography_notes:[],people_observations:[]};
   const questions=Array.isArray(output.questions)?output.questions.filter(q=>typeof q==='string'&&q.length<=320).slice(0,3):[];
   if(questions.length)draft.content+='\n\n'+questions.join('\n\n');
-  if(analysis.risk!=='none'){draft.content=ensureSafetyResources(draft.content,crisisSignal(turn.content)||'self_harm');return draft}
+  if(analysis.risk!=='none'){draft.content=ensureSafetyResources(draft.content,analysis.safety_signal||crisisSignal(turn.content)||'self_harm');return draft}
   for(const proposal of (output.proposals||[]).slice(0,3)){try{await makeProposal(env,userId,turn.id,proposal,turn.content,context,output.proposals.length);draft.proposals.push(proposal)}catch{}}
   if(!declinesRetention(turn.content)&&context.cartography){
    const notes=(output.cartography_notes||[]).filter(n=>typeof n.quote==='string'&&n.quote.length>=3&&n.quote.length<=300&&turn.content.includes(n.quote)).map(n=>({...n,text:'Vous dites : « '+n.quote+' »'}));

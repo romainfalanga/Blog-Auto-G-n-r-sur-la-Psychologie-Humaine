@@ -230,6 +230,7 @@
       return el('button', { type: 'button', className: 'carto-choice' + (on ? ' is-on' : ''), 'data-level': String(level), 'aria-pressed': on ? 'true' : 'false', onclick: function () { onPick(level); } }, [label]);
     }
     function setAnswer(f, level) {
+      if (state.answers[f.id] === level) return;
       state.answers[f.id] = level;
       if (level) (data.exclusive || []).forEach(function (pair) {
         var i = pair.indexOf(f.id);

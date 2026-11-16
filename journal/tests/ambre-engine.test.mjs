@@ -15,7 +15,7 @@ const analysis=()=>({need:'understand',states:[],risk:'none',posture:'explore',s
 const draft=()=>({content:'Vous décrivez une rumination après les critiques. Nous pouvons prendre le temps de comprendre ce qui vous pèse.',questions:[],proposals:[],cartography_notes:[],people_observations:[]});
 const review=()=>({criteria:Array(15).fill('yes'),reasons:[]});
 const response=data=>Response.json({choices:[{message:{content:typeof data==='string'?data:JSON.stringify(data)},finish_reason:'stop'}],usage:{prompt_tokens:100,completion_tokens:80,prompt_tokens_details:{cached_tokens:30},cost:0.001}});
-function provider(t,handler){const calls=[],original=globalThis.fetch;globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name;calls.push({purpose,body});const custom=await handler?.(purpose,body,calls);if(custom instanceof Response)return custom;return response(custom??({ambre_analysis:analysis(),ambre_writing:draft(),ambre_review:review(),ambre_memory:{items:[]}}[purpose]));};t.after(()=>{globalThis.fetch=original});return calls;}
+function provider(t,handler){const calls=[],original=globalThis.fetch;globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name;calls.push({purpose,body});const custom=await handler?.(purpose,body,calls);if(custom instanceof Response)return custom;return response(custom??({ambre_analysis:analysis(),ambre_risk_check:{risk:'none',category:'none',evidence_quote:''},ambre_writing:draft(),ambre_review:review(),ambre_memory:{items:[]}}[purpose]));};t.after(()=>{globalThis.fetch=original});return calls;}
 function seedTurns(s,n=4){for(let i=1;i<=n;i++)s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response) VALUES(?,'a',?,'hash','completed','consumed',?,1,1,?,?)").run('history-'+i,'history-'+i,parisWeek(new Date()).week_start,'Fait rapporté '+i,JSON.stringify({companion_reply:1,content:'Réponse '+i}));s.raw.prepare("INSERT INTO chat_memory_jobs(user_id,updated_at) VALUES('a',0)").run();}
 const job=s=>s.raw.prepare('SELECT * FROM chat_engine_jobs ORDER BY created_at DESC LIMIT 1').get();
 
@@ -293,4 +293,76 @@ test('every validated portrait pattern has its own stable labelled index entry',
  const index=knowledgeIndex({people:[],events:[],sources:[],portrait:{psychological_map:hypotheses}}),entries=index.filter(x=>x.kind==='hypothesis');
  assert.deepEqual(entries.map(x=>x.key),['hypothesis:rumination','hypothesis:perfectionism']);assert.ok(entries.every(x=>x.label&&!x.label.includes('undefined')));assert.match(entries[0].label,/Pensées/);
  const selected=selectDetails(index,entries.map(x=>x.id),'Ces deux pistes');assert.equal(selected.length,2);assert.ok(selected[1].text.includes('counter_evidence'));assert.equal(selected[1].metadata.pattern_id,'perfectionism');
+});
+
+const flaggedAnalysis=()=>({...analysis(),risk:'possible',posture:'safety'});
+const noCurrentRisk=()=>({risk:'none',category:'none',evidence_quote:''});
+
+test('a diagnostic concern falsely flagged by analysis is independently checked without catalogue or historical danger',async t=>{
+ const s=setup();await ready(s);seedTurns(s,2);s.raw.prepare("UPDATE chat_turns SET content='Je veux mourir.',response=? WHERE id='history-2'").run(JSON.stringify({companion_reply:1,content:'Pensez-vous au suicide maintenant ?'}));
+ s.raw.prepare("INSERT INTO chat_memory(user_id,summary,updated_at) VALUES('a',?,0)").run(JSON.stringify({safety_seen:true,safety:['Je veux mourir.']}));s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({self_description:'Antécédents de dépression et de crises, cartographie et critiques.'}));
+ const current='Le rapprochement avec les critiques de ma cartographie suffit-il à conclure que j’ai un trouble ?',calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():undefined),sent=await message(s,'risk_diagnostic',current);
+ assert.equal(job(s).stage,'done');const a=JSON.parse(job(s).analysis);assert.equal(a.risk,'none');assert.notEqual(a.posture,'safety');assert.equal(a.risk_check.status,'rejected');assert.doesNotMatch(sent.messages.at(-1).content,/3114|112|danger immédiat/);
+ assert.deepEqual(calls.map(x=>x.purpose),['ambre_analysis','ambre_risk_check','ambre_writing','ambre_review']);const check=calls[1].body;assert.deepEqual(JSON.parse(check.messages[1].content),{message:current});assert.equal(check.model,'openai/gpt-5-nano');assert.equal(check.reasoning.effort,'minimal');assert.equal(check.max_tokens,1500);
+ const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.stages[1].stage,'risk_check');assert.deepEqual(detail.stages[1].input,JSON.parse(check.messages[1].content));assert.equal(detail.stages[1].system,check.messages[0].content[0].text);assert.equal(detail.stages[1].status,'completed');assert.equal((await s.call('/api/chat/insight?turn_id='+sent.request_id,'GET',undefined,'b')).status,404);
+});
+
+test('the exact fictional live message and ordinary greetings do not inherit danger from an index',async t=>{
+ for(const current of ['Toujours pour cet exemple fictif, le rapprochement avec les critiques de ma cartographie suffit-il à conclure que j’ai un trouble ?','Bonjour']){
+  const s=setup();await ready(s);seedTurns(s,2);const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():undefined);const sent=await message(s,'risk_fiction',current);assert.equal(job(s).stage,'done');assert.deepEqual(JSON.parse(calls[1].body.messages[1].content),{message:current});assert.equal(JSON.parse(job(s).analysis).risk,'none');assert.doesNotMatch(sent.messages.at(-1).content,/3114|112|suicide/);
+ }
+});
+
+test('a current indirect warning survives independent verification and overrides refusal of questions',async t=>{
+ const s=setup();await ready(s);const quote='Ce soir, tout sera terminé.',current='J’ai préparé les lettres pour mes enfants et réglé mes affaires. '+quote+' Sans conseil ni question.';assert.equal(deterministicAnalysis(current).risk,'none');
+ const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'indirect_warning',evidence_quote:quote}:undefined),sent=await message(s,'risk_indirect',current);assert.equal(job(s).stage,'done');assert.match(sent.messages.at(-1).content,/3114/);const a=JSON.parse(job(s).analysis);assert.equal(a.risk,'possible');assert.equal(a.safety_signal,'self_harm');assert.equal(a.risk_check.status,'confirmed');assert.equal(a.constraints.includes('no_questions'),false);
+ const writing=JSON.parse(calls.find(x=>x.purpose==='ambre_writing').body.messages[1].content);assert.equal(writing.analysis.risk_evidence,quote);assert.doesNotMatch(JSON.stringify((await s.call('/api/chat/insight')).turns),/Ce soir, tout sera terminé/);
+});
+
+test('deterministic current danger never waits for or depends on the extra model check',async t=>{
+ for(const current of ['Je veux mourir, sans conseil ni question.','Ma famille serait mieux sans moi.','J’ai pris toute la boîte de comprimés.']){
+  const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_risk_check'?new Response('Unavailable',{status:503}):undefined),sent=await message(s,'risk_backstop',current);assert.equal(job(s).stage,'done');assert.match(sent.messages.at(-1).content,/3114/);assert.equal(calls.some(x=>x.purpose==='ambre_risk_check'),false);assert.equal(JSON.parse(job(s).analysis).constraints.includes('no_questions'),false);
+ }
+});
+
+test('only a current confirmation receives the immediately preceding safety exchange',async t=>{
+ const s=setup();await ready(s);seedTurns(s,2);s.raw.prepare("UPDATE chat_turns SET content='Je veux mourir.',response=? WHERE id='history-2'").run(JSON.stringify({companion_reply:1,content:'Pensez-vous au suicide ce soir ?'}));const current='Oui, ce soir.',calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'current_confirmation',evidence_quote:current}:undefined);await message(s,'risk_confirmation',current);assert.equal(job(s).stage,'done');assert.deepEqual(JSON.parse(calls[1].body.messages[1].content),{message:current,recent_confirmation_context:{id:'history-2',user:'Je veux mourir.',assistant:'Pensez-vous au suicide ce soir ?'}});assert.equal(JSON.parse(job(s).analysis).risk,'possible');
+});
+
+test('a short execution window persists the pending risk check and never repeats initial analysis',async t=>{
+ const s=setup();await ready(s);const realNow=Date.now,base=realNow();let elapsed=0;Date.now=()=>base+elapsed;t.after(()=>{Date.now=realNow});const calls=provider(t,p=>{if(p==='ambre_analysis'){elapsed=13000;return flaggedAnalysis()}});await message(s,'risk_window','Une question de diagnostic.');assert.equal(job(s).stage,'analysis');assert.equal(job(s).attempts,0);assert.equal(JSON.parse(job(s).analysis).risk_check.status,'pending');assert.equal(JSON.parse(job(s).analysis).risk,'none');assert.equal(calls.length,1);
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.deepEqual(calls.map(x=>x.purpose),['ambre_analysis','ambre_risk_check','ambre_writing','ambre_review']);
+});
+
+test('a transient risk verification failure resumes the same substep under an exclusive lease',async t=>{
+ const s=setup();await ready(s);let checks=0;const calls=provider(t,p=>{if(p==='ambre_analysis')return flaggedAnalysis();if(p==='ambre_risk_check'&&++checks===1)throw Object.assign(Error('PRIVATE_PROVIDER_SECRET'),{name:'TimeoutError'})}),sent=await message(s,'risk_retry','Une question de diagnostic.');assert.equal(job(s).stage,'analysis');assert.equal(job(s).attempts,1);assert.equal(JSON.parse(job(s).analysis).risk,'none');assert.equal(s.raw.prepare('SELECT response FROM chat_turns').get().response,'');
+ await Promise.all([s.chat.engine.work(s.env,sent.request_id),s.chat.engine.work(s.env,sent.request_id)]);assert.equal(job(s).stage,'done');assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(checks,2);const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.stages[1].error_code,'provider_timeout');assert.equal(detail.stages[2].stage,'risk_check');assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET/);
+});
+
+test('three unavailable risk checks release the quota without publishing an invented crisis',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?new Response('PRIVATE_PROVIDER_SECRET',{status:503}):undefined),sent=await message(s,'risk_unavailable','Une question de diagnostic.');await s.chat.resumeEngine(s.env);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'failed');const turn=s.raw.prepare('SELECT * FROM chat_turns').get();assert.equal(turn.credit_status,'released');assert.equal(turn.response,'');assert.equal(calls.filter(x=>x.purpose==='ambre_risk_check').length,3);assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(calls.some(x=>x.purpose==='ambre_writing'),false);
+ const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.analysis.risk_check.status,'unavailable');assert.equal(detail.stages.filter(x=>x.stage==='risk_check').length,3);assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET/);await s.chat.resumeEngine(s.env);assert.equal(calls.length,4);
+});
+
+test('risk checks reject malformed, contradictory or unanchored verdicts without quoting private provider text',async t=>{
+ for(const [verdict,code] of [[{risk:'none',category:'self_harm',evidence_quote:''},'risk_check_invalid_response'],[{risk:'none',category:'none',evidence_quote:'PRIVATE_PROVIDER_SECRET'},'risk_check_invalid_response'],[{risk:'possible',category:'self_harm',evidence_quote:'A quote from old history'},'risk_check_unanchored'],['PRIVATE_PROVIDER_SECRET invalid JSON','risk_check_invalid_response']]){
+  const s=setup();await ready(s);let checks=0;provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?(++checks===1?verdict:noCurrentRisk()):undefined);const sent=await message(s,'risk_invalid','Une question de diagnostic.');assert.equal(job(s).stage,'analysis');assert.equal(job(s).attempts,1);assert.equal(s.raw.prepare('SELECT response FROM chat_turns').get().response,'');const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.stages[1].status,'error');assert.equal(detail.stages[1].error_code,code);assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET|A quote from old history/);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');
+ }
+});
+
+test('the conditional verification obeys the existing total turn budget',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(job(s).stage,'failed');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'released');
+});
+
+test('confirmed violence selects violence resources in the published answer and fallback',async t=>{
+ for(const fallback of [false,true]){
+  const s=setup();await ready(s);const current='Il bloque la porte, brandit son arme et me dit que je ne sortirai pas vivante.';assert.equal(deterministicAnalysis(current).risk,'none');provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'explicit',category:'violence',evidence_quote:'brandit son arme'}:p==='ambre_review'&&fallback?response('invalid JSON'):undefined);const sent=await message(s,'risk_violence',current);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).analysis).safety_signal,'violence');assert.match(sent.messages.at(-1).content,/17 ou le 112/);assert.doesNotMatch(sent.messages.at(-1).content,/3114|suicide/);
+ }
+});
+
+test('consent, source changes and purge invalidate late risk-check results',async t=>{
+ for(const change of ['consent','source','purge']){
+  const s=setup();await ready(s);let release,started;const began=new Promise(r=>started=r),tasks=[];provider(t,async p=>{if(p==='ambre_analysis')return flaggedAnalysis();if(p==='ambre_risk_check'){started();await new Promise(r=>release=r);return noCurrentRisk()}});await message(s,'risk_late_'+change,'Une question de diagnostic.',{waitUntil:p=>tasks.push(p)});await began;
+  if(change==='consent')await s.call('/api/chat/consent','PUT',{accepted:false});if(change==='source')s.raw.prepare("UPDATE profiles SET version=version+1 WHERE user_id='a'").run();if(change==='purge')await s.call('/api/chat','DELETE',{});release();await Promise.all(tasks);assert.notEqual(s.raw.prepare('SELECT status FROM chat_turns').get().status,'completed');if(change==='purge')assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turn_traces').get().n,0);
+ }
 });
