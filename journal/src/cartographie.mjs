@@ -184,12 +184,13 @@ export function cartographyEvidence(answers,feedback={},{data=CARTOGRAPHIE,budge
  const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||r.tier==='convergence')).sort((a,b)=>Number(feedback?.[b.outcome.id]==='oui')-Number(feedback?.[a.outcome.id]==='oui'));
  for(const r of wanted){
   const links=[];
-  for(const l of r.links){
-   if(!l.summary)continue;
+  // The strongest links come first; six per consequence keep room for the others.
+  for(const l of r.links.filter(l=>l.summary).slice(0,6)){
    const entry={cause:factors.get(l.factor)?.label||l.factor,strength:l.strength,summary:l.summary},size=JSON.stringify(entry).length;
    if(used+size>budget){truncated=true;continue;}
    used+=size;links.push(entry);
   }
+  if(links.length<r.links.length)truncated=true;
   if(links.length)evidence.push({id:r.outcome.id,label:r.outcome.label,links});
  }
  return {evidence,evidence_truncated:truncated};

@@ -49,17 +49,19 @@ ${SITE_HEADER_CSS}
 <main id="main"><div class="loading"><span class="loading-dot"></span>Chargement de votre page…</div></main>
 </div>
 <dialog id="auth-dialog"><div class="dialog-top"><h2 id="auth-title">Bienvenue.</h2><button type="button" class="close" data-close="auth-dialog" aria-label="Fermer">×</button></div><p class="muted" id="auth-description"></p><form id="auth-form"><div class="field"><label for="auth-email">Adresse e-mail</label><input id="auth-email" name="email" type="email" required autocomplete="email" maxlength="254"></div><div class="field"><label for="auth-password">Mot de passe</label><input id="auth-password" name="password" type="password" required autocomplete="current-password" minlength="12" maxlength="128"><div class="helper">Au moins 12 caractères.</div></div><button id="auth-submit" type="submit">Se connecter</button><p id="auth-status" class="status" role="status"></p></form><p class="auth-switch" id="auth-switch"></p></dialog>
+<dialog id="journey-dialog" class="journey-dialog"></dialog>
 <dialog id="delete-dialog"><div class="dialog-top"><h2>Supprimer mon compte</h2><button type="button" class="close" data-close="delete-dialog" aria-label="Fermer">×</button></div><p>Votre compte et les informations que vous avez enregistrées seront supprimés. L’abonnement sera résilié. Cette action est définitive.</p><p class="muted">Vous pouvez d’abord exporter vos données depuis votre compte.</p><form id="delete-form"><label for="delete-password">Confirmez avec votre mot de passe</label><input type="password" id="delete-password" name="password" autocomplete="current-password" required><div class="actions"><button type="submit">Supprimer définitivement</button><button class="secondary" type="button" data-close="delete-dialog">Annuler</button></div><p class="status" id="delete-status" role="status"></p></form></dialog>
 <script>
 ${VOICE_INPUT_SCRIPT}
 'use strict';
 ${SITE_NAVIGATION_SCRIPT}
 
-var PAGES={chat:{path:'/mon-accompagnement/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},portrait:{path:'/mon-portrait/',title:'Mon portrait'},account:{path:'/mon-compte/',title:'Mon compte'}};
+var PAGES={chat:{path:'/mon-accompagnement/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},portrait:{path:'/mon-portrait/',title:'Mon portrait'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},account:{path:'/mon-compte/',title:'Mon compte'}};
 var PAGE_DESCRIPTIONS={
  portrait:'Retrouvez ce que vous avez partagé et les pistes qui se dessinent au fil du temps.',
  people:'Gardez une trace des personnes qui comptent et de ce que vous vivez avec elles.',
  events:'Situez les moments qui ont compté et notez ce qu’ils représentent pour vous aujourd’hui.',
+ reviews:'Relisez l’analyse initiale d’Ambre et les points que vous lui avez demandés.',
  account:'Retrouvez votre accès, vos réglages et les données que vous avez enregistrées.'
 };
 function pageForPath(path){var normalizedPath=path.replace(/\/+$/,'')+'/';return Object.keys(PAGES).find(function(key){return PAGES[key].path===normalizedPath})||'chat'}
@@ -114,6 +116,8 @@ function renderApp(){
  clearTimeout(state.portraitTimer);
  clearTimeout(state.chatTimer);
  clearTimeout(state.chatCooldownTimer);
+ clearTimeout(state.journeyTimer);
+ if(typeof closeJourneyDialog==='function'){state.journeyStep=null;closeJourneyDialog()}
  state.chatSending=false;
  state.chatRequest=null;
  if(!state.me||!state.me.user){landing();return}
@@ -134,11 +138,12 @@ function renderApp(){
   messages.append(warning)
  }
  if(chat&&state.me.configuration&&state.me.configuration.ai===false){
-  messages.append(el('div','notice warn','Ambre et l’analyse approfondie sont momentanément indisponibles. Vos suggestions et les premières pistes de votre portrait restent accessibles à partir de vos lectures et de vos informations enregistrées.'))
+  messages.append(el('div','notice warn','Ambre et l’analyse approfondie sont momentanément indisponibles. Vos informations enregistrées et les premières pistes de votre portrait restent accessibles.'))
  }
  if(chat)renderChat();
  else if(state.tab==='portrait')renderPortrait();
  else if(state.tab==='account')renderAccount();
+ else if(state.tab==='reviews')renderReviews();
  else renderPersonalSources()
 }
 function updateLikeState(result){if(typeof result.source_version==='number'&&typeof state.likeVersion==='number'&&result.source_version<state.likeVersion)return;if(typeof result.source_version==='number')state.likeVersion=result.source_version;state.likes=result.likes||state.likes}

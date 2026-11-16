@@ -33,7 +33,8 @@ test('the generated module is a compact, consistent copy of the public dataset',
  assert.equal(CARTOGRAPHIE.outcomes.length,data.outcomes.length);
  assert.equal(CARTOGRAPHIE.links.length,data.links.length);
  assert.deepEqual(CARTOGRAPHIE.weights,data.weights);
- assert.ok(CARTOGRAPHIE.links.every(l=>!Object.hasOwn(l,'sources')&&!Object.hasOwn(l,'summary')));
+ assert.ok(CARTOGRAPHIE.links.every(l=>!Object.hasOwn(l,'sources')));
+ assert.deepEqual(CARTOGRAPHIE.links.map(l=>l.summary),data.links.map(l=>l.summary.trim()),'link summaries let Ambre explain a link without the articles');
  assert.ok(suicide,'a suicide-related consequence carries its note');
 });
 
@@ -183,6 +184,7 @@ function chatSetup(catalogue=new Map()){
  const utils={error:fail,json:(v,status=200)=>new Response(JSON.stringify(v),{status}),text:(v,max=1000)=>typeof v==='string'?v.slice(0,max).trim():'',body:async req=>req.json(),now:()=>clock,random:()=>`id_${String(++serial).padStart(8,'0')}`,decorateLikes:x=>x,recommender:{provisionalPortrait:()=>null,recommend:()=>[]}};
  const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal,catalogue}),env={DB,OPENROUTER_API_KEY:'mock-only'};
  raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES('a','a@example.com','hash','salt')").run();raw.prepare("INSERT INTO profiles(user_id) VALUES('a')").run();raw.prepare("INSERT INTO memories(user_id) VALUES('a')").run();raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES('a','active',?)").run(clock+86400);
+ raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES('seed','a','initial','ready','Analyse initiale de test.','seed-initial',0,0)").run();
  async function call(path,method='GET',data){const req=new Request('https://example.com'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:'a'},path,url)||await personal.routes(req,env,{id:'a'},path,url);return {status:res.status,...await res.json()};}catch(e){return {status:e.status||500,code:e.code,message:e.message};}}
  return {raw,env,call};
 }
@@ -191,16 +193,16 @@ function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=fn;t.a
 test('the welcome message invites to fill the map, then starts from a locked one',async()=>{
  const s=chatSetup();
  let state=await s.call('/api/chat');
- assert.equal(state.welcome.id,'ambre-welcome-v8');assert.match(state.welcome.content,/\/cartographie\//);assert.ok(!state.welcome.content.split('\n\n')[1].includes('cartographie'),'an invitation stays near the end');
+ assert.equal(state.welcome.id,'ambre-welcome-v9');assert.match(state.welcome.content,/\/cartographie\//);assert.ok(!state.welcome.content.split('\n\n')[1].includes('/cartographie/'),'an invitation stays near the end');
  saveRow(s.raw,'a',{answers:{[strongFactors[0]]:1},locked:false});
  state=await s.call('/api/chat');
- assert.equal(state.welcome.id,'ambre-welcome-v8-draft');assert.match(state.welcome.content,/enregistrez-la/);
+ assert.equal(state.welcome.id,'ambre-welcome-v9-draft');assert.match(state.welcome.content,/enregistrez-la/);
  const answers=Object.fromEntries(strongFactors.slice(0,4).map(id=>[id,2]));
  const summary=summarizeCartography(answers,{});
  const recognized=summary.convergence.find(x=>x.note!=='suicide')||summary.pistes[0];
  s.raw.prepare('UPDATE cartographies SET answers=?,feedback=?,locked_at=1700000000,version=5 WHERE user_id=?').run(JSON.stringify(answers),JSON.stringify({[recognized.id]:'oui',[suicide.id]:'oui'}),'a');
  state=await s.call('/api/chat');
- assert.equal(state.welcome.id,'ambre-welcome-v8-c5');
+ assert.equal(state.welcome.id,'ambre-welcome-v9-c5');
  const second=state.welcome.content.split('\n\n')[1];
  assert.match(second,/carte de travail commune : 4 éléments de votre enfance y sont cochés/,'a saved map is introduced in the second paragraph');
  assert.match(second,/je peux y ajouter une courte note/);
@@ -211,32 +213,32 @@ test('the welcome message invites to fill the map, then starts from a locked one
  assert.ok(!state.welcome.content.includes('commencions par « '+suicide.label));
 });
 
-test('Ambre receives the locked map, its guidance and matching catalogue readings from the first message',async t=>{
+test('Ambre receives the locked map, its guidance and the research summaries of recognized or converging consequences',async t=>{
  const answers=Object.fromEntries(strongFactors.slice(0,5).map(id=>[id,1]));
- const summary=summarizeCartography(answers,{});
- const illustrated=[...summary.convergence,...summary.pistes].find(x=>x.url?.startsWith('/posts/'));
- assert.ok(illustrated,'the dataset illustrates a consequence with a catalogue article');
- const articleId=illustrated.url.slice(1,-1),dismissed=[...summary.convergence,...summary.pistes].find(x=>x.id!==illustrated.id);
- const s=chatSetup(new Map([[articleId,{id:articleId,title:'Article illustratif',url:illustrated.url,character:'Léa'}]]));
- saveRow(s.raw,'a',{answers,feedback:{[illustrated.id]:'oui',...(dismissed?{[dismissed.id]:'non'}:{})},version:2});
+ const summary=summarizeCartography(answers,{}),all=[...summary.convergence,...summary.pistes];
+ const recognized=summary.pistes[0]||summary.convergence[0],dismissed=summary.convergence.find(x=>x.id!==recognized.id);
+ const s=chatSetup(new Map(all.filter(x=>x.url?.startsWith('/posts/')).map(x=>[x.url.slice(1,-1),{id:x.url.slice(1,-1),title:'Article',url:x.url}])));
+ saveRow(s.raw,'a',{answers,feedback:{[recognized.id]:'oui',...(dismissed?{[dismissed.id]:'non'}:{})},version:2});
  assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
  let request;
- withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content:'Partons de ce que vous avez reconnu.',questions:[],reading_suggestions:[{id:articleId,reason:'Elle illustre ce que vous avez reconnu.'}],proposals:[]})},finish_reason:'stop'}],usage:{prompt_tokens:10,completion_tokens:10,cost:0}}));});
+ withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content:'Partons de ce que vous avez reconnu.',questions:[],proposals:[],cartography_notes:[]})},finish_reason:'stop'}],usage:{prompt_tokens:10,completion_tokens:10,cost:0}}));});
  const result=await s.call('/api/chat/messages','POST',{content:'Par où commencer ?',idempotency_key:'carto_first_001'});
  assert.ok([200,202].includes(result.status),JSON.stringify(result));
  const system=request.messages[0].content,data=JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{')));
- assert.match(system,/CARTOGRAPHIE DE L’ENFANCE/);assert.match(system,/jamais un diagnostic/);assert.match(system,/3114/);
+ assert.match(system,/CARTOGRAPHIE DE L’ENFANCE/);assert.match(system,/jamais un diagnostic/);assert.match(system,/3114/);assert.match(system,/evidence donne/);
  const map=data.childhood_cartography;
  assert.equal(map.version,2);assert.equal(map.cause_count,5);
- assert.ok(map.recognized.some(r=>r.id===illustrated.id));
+ assert.ok(map.recognized.some(r=>r.id===recognized.id));
  if(dismissed)assert.ok(map.dismissed.some(r=>r.id===dismissed.id));
- assert.ok(!JSON.stringify(map).includes('"url"'),'no public URL is handed to the model');
- assert.ok([...map.convergence,...map.pistes].some(x=>x.reading_id===articleId));
- assert.ok(data.reading_candidates.some(c=>c.id===articleId));
- const final=await s.call('/api/chat');
- assert.equal(final.messages.find(m=>m.role==='assistant').reading_suggestions[0].id,articleId);
+ assert.ok(!JSON.stringify(map).includes('"url"')&&!JSON.stringify(map).includes('reading_id'),'no article reference is handed to the model');
+ assert.equal(map.evidence[0].id,recognized.id,'recognized consequences come first');
+ if(dismissed)assert.ok(!map.evidence.some(e=>e.id===dismissed.id),'a dismissed consequence brings no research summary');
+ const expected=new Set([recognized.id,...summary.convergence.filter(x=>x.id!==dismissed?.id).map(x=>x.id)]);
+ assert.ok(map.evidence.every(e=>expected.has(e.id)));
+ for(const e of map.evidence)for(const link of e.links){assert.ok(Object.values(Object.fromEntries(CARTOGRAPHIE.factors.map(f=>[f.id,f.label]))).includes(link.cause));assert.ok(['forte','critere','moderee','limitee','theorique'].includes(link.strength));assert.ok(link.summary.length>10);}
+ assert.ok(JSON.stringify(map.evidence).length<=7500);
+ assert.equal(Object.hasOwn(data,'reading_candidates'),false);
 });
-
 test('without a locked map the system prompt has no cartography section',()=>{
  assert.ok(!buildCompanionSystemPrompt({query:'Bonjour'}).includes('CARTOGRAPHIE DE L’ENFANCE'));
  assert.ok(buildCompanionSystemPrompt({query:'Bonjour',cartography:true}).length<18000);
