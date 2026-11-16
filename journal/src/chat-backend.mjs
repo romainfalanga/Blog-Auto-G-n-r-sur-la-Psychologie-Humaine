@@ -204,7 +204,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   else if(code==='provider_timeout'||code==='request_expired'){message='Le fournisseur a mis trop de temps à répondre. Vous pouvez renvoyer votre message.';}
   else if(/^provider_http_/.test(code)){message='Le fournisseur est momentanément indisponible. Réessayez plus tard ; si cela persiste, contactez le support.';action='retry_later';}
   // A refused or capped message that carries a danger signal still receives the resources.
-  const signal=['daily_cap','provider_cooldown'].includes(code)||/^provider_http_(?:401|402|403|429|503)/.test(code)?crisisSignal(turn.content||''):null;
+  const signal=['daily_cap','provider_cooldown'].includes(code)||/^provider_http_(?:401|402|403|429|503)/.test(code)?(crisisSignal(turn.content||'')||riskSignal(turn.content||'')?.signal||null):null;
   return {code,message:message+' Aucun message n’a été décompté.'+(signal?'\n\n'+safetyReply(signal):''),action,...(signal?{safety:true}:{}),...(retryAt?{retry_at:retryAt,retry_after_seconds:retrySeconds}:{})};
  }
  async function state(env,userId){
@@ -715,7 +715,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    const messages=[{role:'system',content:buildReviewSystemPrompt(review.kind)},{role:'user',content:'Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data)}];
    const reservation=Math.ceil(JSON.stringify(messages).length/3)+3500,week=parisWeek(new Date(now()*1000)).week_start,limit=Number(env.WEEKLY_TOKEN_BUDGET)||3000000,model=reviewModel(env);
    // Shared provider guard and daily cap before any reservation (F10, F12).
-   const blocked=await providerBlock(env,[model],now());if(blocked)throw Object.assign(new Error('cooldown'),{code:blocked.reason,refusal:true,retryAt:blocked.retry_at});
+   const blocked=await providerBlock(env,[model],now());if(blocked)throw Object.assign(new Error('cooldown'),{code:blocked.reason,refusal:true,retryAt:blocked.retry_at,wait:!(blocked.scope==='key'&&/^provider_http_40[13]/.test(blocked.reason||''))});
    if(!await reserveDaily(env,{tokens:reservation,now:now()}))throw Object.assign(new Error('daily cap'),{code:'daily_cap',refusal:true,retryAt:now()+3600});
    const reserved=await run(env,`INSERT INTO provider_budgets(user_id,week_start,provider_calls,reserved_tokens) SELECT ?,?,1,? WHERE EXISTS(SELECT 1 FROM ambre_reviews WHERE ${held}) AND ?<=? ON CONFLICT(user_id,week_start) DO UPDATE SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+excluded.reserved_tokens WHERE reserved_tokens+excluded.reserved_tokens<=?`,userId,week,reservation,review.id,review.lease_token,reservation,limit,limit);
    if(!reserved.meta.changes){await releaseDaily(env,{tokens:reservation,now:now()});if(await first(env,`SELECT 1 AS held FROM ambre_reviews WHERE ${held}`,review.id,review.lease_token))throw Object.assign(new Error('budget'),{code:'generation_budget'});return;}
@@ -727,7 +727,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
     const refusal=await recordRefusal(env,{status:res.status,headers:res.headers,metadata:detail?.error?.metadata,model,now:now()});
     await run(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reservation,userId,week);
     await releaseDaily(env,{tokens:reservation,now:now()});
-    throw Object.assign(new Error('provider_refused'),{code:'provider_http_'+res.status,refusal:true,retryAt:refusal.deferred_until});
+    throw Object.assign(new Error('provider_refused'),{code:'provider_http_'+res.status,refusal:true,retryAt:refusal.deferred_until,wait:refusal.wait!==false});
    }
    if(!res.ok||detail.error){
     const status=res.ok?502:res.status,retryAfter=retryAfterSeconds(res.headers.get('Retry-After'),now());
@@ -751,8 +751,16 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(!results[1].meta.changes)throw Object.assign(new Error('Sources changed'),{code:(await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent?'context_changed':'consent_withdrawn'});
   }catch(e){
    if(e.refusal){
-    // A refusal or cooldown is not an attempt: wait for the shared retry time.
-    await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code=?,lease_token=NULL,lease_until=? WHERE ${held}`,/^[a-z0-9_]{1,60}$/.test(e.code||'')?e.code:'provider_cooldown',Math.max(now()+1,Number(e.retryAt)||now()+30),review.id,review.lease_token).catch(()=>{});
+    // A refusal or cooldown is not an attempt: wait for the shared retry time, but
+    // never indefinitely. A running review blocks new messages (review_in_progress),
+    // so a non-waiting refusal (rejected key, daily cap) or a wait past ten minutes
+    // since the request ends the review instead of holding the conversation.
+    const t=now(),until=Math.max(t+1,Number(e.deferred_until||e.retryAt)||t+30),why=/^[a-z0-9_]{1,60}$/.test(e.provider_code||e.code||'')?(e.provider_code||e.code):'provider_cooldown';
+    if(e.wait===false||until-(Number(review.created_at)||t)>600){
+     await run(env,`UPDATE ambre_reviews SET status='failed',completed_at=?,error_code=?,lease_token=NULL,lease_until=0 WHERE ${held}`,t,why,review.id,review.lease_token).catch(()=>{});
+     return;
+    }
+    await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code=?,lease_token=NULL,lease_until=? WHERE ${held}`,why,until,review.id,review.lease_token).catch(()=>{});
     return;
    }
    const timeout=['TimeoutError','AbortError'].includes(e.name),code=timeout?'provider_timeout':/^(?:provider_http_\d{3}|invalid_response|context_changed)$/.test(e.code||'')||REVIEW_FINAL.includes(e.code)?e.code:'provider_error',t=now();
@@ -770,7 +778,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   if(!expired)return summary;
   summary.failed=expired.meta.changes;
   if(!engineEnabled&&await providerCooldown(env)||await providerBlock(env,[reviewModel(env)],now()))return summary;
-  const due=await all(env,"SELECT id,user_id,kind FROM ambre_reviews WHERE status='running' AND lease_until<=? ORDER BY lease_until,id LIMIT ?",t,Math.max(1,Math.min(20,limit))),tasks=[];
+  const due=await all(env,"SELECT id,user_id,kind,created_at FROM ambre_reviews WHERE status='running' AND lease_until<=? ORDER BY lease_until,id LIMIT ?",t,Math.max(1,Math.min(20,limit))),tasks=[];
   for(const row of due){
    const lease=random(),claim=await run(env,"UPDATE ambre_reviews SET lease_token=?,lease_until=?,attempts=attempts+1 WHERE id=? AND status='running' AND lease_until<=? AND attempts<?",lease,t+Math.ceil(timeoutMs/1000)+30,row.id,t,REVIEW_ATTEMPTS);
    if(!claim.meta.changes)continue;

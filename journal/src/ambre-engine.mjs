@@ -668,6 +668,9 @@ Utilise les dates Europe/Paris et le suivi déclaré : prépare ce qui compte po
   }
   if(parse(old?.summary).closed_overflow&&JSON.stringify(summary.closed)===JSON.stringify(parse(old?.summary).closed))summary.closed_overflow=true;
   if(Object.values(summary).some(value=>Array.isArray(value)&&value.length)&&parse(old?.summary).safety_seen&&JSON.stringify(summary.safety)===JSON.stringify(parse(old?.summary).safety||[])&&JSON.stringify(summary.safety_history)===JSON.stringify(parse(old?.summary).safety_history||[]))summary.safety_seen=true;
+  // Internal bookkeeping (longitudinal belief counter, unsummarised batches) is not
+  // editable by the person and survives a correction of the visible sections.
+  {const prev=parse(old?.summary);for(const key of ['reality_recent','unsummarized_batches'])if(prev[key]!=null)summary[key]=prev[key];}
   // Keep the watermark: erased facts must not be reconstructed from old turns.
   const latest=await first(env,"SELECT id FROM chat_turns WHERE user_id=? AND status='completed' AND purged=0 ORDER BY rowid DESC LIMIT 1",userId);
   const saved=await run(env,`INSERT INTO chat_memory(user_id,summary,through_turn,turns_covered,updated_at) SELECT ?,?,?,?,? WHERE COALESCE((SELECT revision FROM chat_memory WHERE user_id=?),0)=? ON CONFLICT(user_id) DO UPDATE SET summary=excluded.summary,through_turn=excluded.through_turn,updated_at=excluded.updated_at,revision=chat_memory.revision+1 WHERE chat_memory.revision=?`,userId,JSON.stringify(summary),latest?.id||null,old?.turns_covered||0,now(),userId,data.revision,data.revision);
