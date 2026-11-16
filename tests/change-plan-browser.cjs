@@ -69,9 +69,9 @@ const fs=require('node:fs'),path=require('node:path'),os=require('node:os');cons
  }
  raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES(?,?,'initial','ready','Point de départ.',?,0,0)").run('initial-review',id,'initial-key');
  assert.equal((await api(member,'/api/chat/consent','PUT',{accepted:true})).status,200);
- await member.goto('https://ambre.test/mon-accompagnement/');await member.getByText('Options de conversation',{exact:true}).click();await member.getByRole('button',{name:'Suspendre les retours',exact:true}).click();
+ await member.goto('https://ambre.test/mon-accompagnement/');assert.equal(await member.getByText('Options de conversation',{exact:true}).count(),0,'no options menu in the conversation');await member.goto('https://ambre.test/mon-suivi/#mon-plan');await member.getByText('Propositions et retours dans la conversation',{exact:true}).click();await member.getByRole('button',{name:'Suspendre les retours',exact:true}).click();
  assert.equal((await api(member,'/api/plan')).reminders_paused,true);
- await member.getByRole('button',{name:'Effacer la conversation',exact:true}).click();assert.equal(await dialog().locator('[name=include_plan]').isChecked(),false);await dialog().getByRole('button',{name:'Effacer la conversation',exact:true}).click();await dialog().waitFor({state:'hidden'});
+ await member.goto('https://ambre.test/mon-compte/');await member.getByRole('button',{name:'Effacer la conversation',exact:true}).click();assert.equal(await dialog().locator('[name=include_plan]').isChecked(),false);await dialog().getByRole('button',{name:'Effacer la conversation',exact:true}).click();await dialog().waitFor({state:'hidden'});
  let retained=await api(member,'/api/plan');assert.equal(retained.goals.length,3);assert.equal(retained.trials.length,3);assert.equal((await api(member,'/api/chat')).journey.started,false);
  const exported=await api(member,'/api/export');assert.equal(exported.status,200);assert.equal(exported.change_plan.schema_version,1);
 

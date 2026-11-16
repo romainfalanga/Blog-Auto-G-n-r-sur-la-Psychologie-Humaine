@@ -685,21 +685,10 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 }
 
 /* Compact footer, aligned with the top-level workspace links. */
-.site-footer { margin-top: clamp(1.65rem, 5vw, 3.5rem); padding: 1.8rem 0 0; border-top: 1px solid var(--color-border); background: var(--color-footer-bg); }
-.footer-inner, .footer-bottom { max-width: calc(var(--max-width-wide) + 5rem); margin-inline: auto; padding-inline: clamp(1rem, 4vw, 2.5rem); }
-.footer-inner { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 1rem 1.6rem; }
-.footer-brand .site-logo { display: inline-block; color: var(--color-text); font: 700 clamp(1.15rem, 2.5vw, 1.35rem)/1.25 var(--font-serif); letter-spacing: -.025em; white-space: nowrap; text-decoration: none; }
-.footer-brand p { max-width: 34ch; margin: .6rem 0 0; color: var(--color-text-light); font-size: .88rem; line-height: 1.55; }
-.footer-section { display: block; text-align: left; }
-.footer-section h2 { margin: .15rem 0 .45rem; font: 700 .89rem/1.4 var(--font-sans); }
-.footer-links { display: block; margin: 0; padding: 0; list-style: none; }
-.footer-links li { margin: 0; }
-.footer-links a { display: inline-flex; align-items: center; min-height: 44px; color: var(--color-text-light); font-size: .9rem; }
-.footer-bottom { margin-top: .9rem; padding-block: .75rem; border-top: 1px solid var(--color-border); color: var(--color-text-light); text-align: left; font-size: .85rem; }
-.footer-bottom p { margin: 0; }
+.site-footer { margin-top: clamp(1.65rem, 5vw, 3.5rem); padding: 1.25rem 0; border-top: 1px solid var(--color-border); background: var(--color-footer-bg); }
+.footer-inner { max-width: calc(var(--max-width-wide) + 5rem); margin-inline: auto; padding-inline: clamp(1rem, 4vw, 2.5rem); }
+.footer-minimal .site-logo { display: inline-block; color: var(--color-text); font: 700 clamp(1.05rem, 2.5vw, 1.2rem)/1.25 var(--font-serif); letter-spacing: -.025em; white-space: nowrap; text-decoration: none; }
 @media (max-width: 600px) {
-  .footer-inner { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .footer-brand { grid-column: 1 / -1; }
 }
 @media print {
   .skip-link, .hero-companion, .catalogue-back, .journal-invitation { display: none; }
