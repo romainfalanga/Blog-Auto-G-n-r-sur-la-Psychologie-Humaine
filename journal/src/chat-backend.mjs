@@ -2,8 +2,8 @@ import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
 import {platformAccess,accessSql} from './entitlements.mjs';
 import {buildCompanionSystemPrompt} from './psychology-framework.mjs';
-import {readCartography,companionCartography,cartographyHighlights} from './cartographie.mjs';
-import {PEOPLE_OBSERVATION_AXES,peopleObservationContext,choosePeopleObservations,peopleObservationWrites,peopleObservationModeSql,peopleObservationRevision} from './people-observations.mjs';
+import {readCartography,companionCartography,cartographyHighlights,chooseAmbreNotes,appendAmbreNotes,ambreNotesWrite,addAmbreNotes,AMBRE_NOTE_MAX_LENGTH,AMBRE_NOTES_PER_TURN} from './cartographie.mjs';
+import {declinesRetention,PEOPLE_OBSERVATION_AXES,peopleObservationContext,choosePeopleObservations,peopleObservationWrites,peopleObservationModeSql,peopleObservationRevision} from './people-observations.mjs';
 const parse=(x,f={})=>{try{return JSON.parse(x);}catch{return f;}};
 const kinds=['self_profile_patch','memory_append','person_create','person_update','life_event_create','life_event_update'];
 const fields={memory_append:['text'],self_profile_patch:['first_name','last_name','birth_date','gender','gender_description','self_description','self_perception','recurring_patterns','emotions','current_context','occupation'],person:['display_name','role','custom_role','relationship_text','period_start','period_end'],event:['title','kind','description','meaning_now','date_precision','date_start','date_end','age_text','current_importance','people_ids']};
@@ -15,7 +15,7 @@ const objectSchema=properties=>({type:'object',properties,required:Object.keys(p
 const allFields=[...new Set(Object.values(fields).flat())];
 export const CHAT_RESPONSE_SCHEMA=objectSchema({content:stringSchema,questions:{type:'array',maxItems:2,items:stringSchema},reading_suggestions:{type:'array',maxItems:3,items:objectSchema({id:stringSchema,reason:stringSchema})},proposals:{type:'array',maxItems:3,items:objectSchema({kind:{type:'string',enum:kinds},target_id:nullableString,summary:stringSchema,evidence_quote:stringSchema,payload:objectSchema({changes:{type:'array',items:objectSchema({field:{type:'string',enum:allFields},mode:{type:'string',enum:['set','append']},value_json:stringSchema})}})})}});
 // Versioned envelopes keep old plain-text replies readable without a migration.
-const replyData=value=>{const data=parse(value,null);return data?.companion_reply===1&&typeof data.content==='string'?{content:data.content,reading_suggestions:Array.isArray(data.reading_suggestions)?data.reading_suggestions:[]}:{content:value,reading_suggestions:[]};};
+const replyData=value=>{const data=parse(value,null);return data?.companion_reply===1&&typeof data.content==='string'?{content:data.content,reading_suggestions:Array.isArray(data.reading_suggestions)?data.reading_suggestions:[],...(Array.isArray(data.cartography_notes)&&data.cartography_notes.length?{cartography_notes:data.cartography_notes}:{})}:{content:value,reading_suggestions:[]};};
 const retryAfterSeconds=(header,clock)=>{if(!header)return null;const seconds=/^\d+(?:\.\d+)?$/.test(header.trim())?Math.ceil(Number(header)):Math.ceil((Date.parse(header)/1000)-clock);return Number.isFinite(seconds)?Math.max(1,Math.min(86400,seconds)):null;};
 // Only typed upstream metadata can refine the diagnosis. Never persist a raw
 // provider message, account identifier, spend amount or an arbitrary error type.
@@ -95,30 +95,30 @@ const quoted=items=>items.map(x=>'« '+x.label+' »').join(items.length>2?', ':'
 function cartographyWelcome(row){
  const summary=companionCartography(row);
  if(!summary){
-  if(row)return {id:'ambre-welcome-v7-draft',text:'Votre cartographie de l’enfance est enregistrée sans être verrouillée. Quand vous la verrouillerez sur la page /cartographie/, je pourrai partir de vos réponses.',question:null};
-  return {id:'ambre-welcome-v7',text:'Si vous le souhaitez, vous pouvez aussi remplir la cartographie de votre enfance sur la page /cartographie/, puis l’enregistrer et la verrouiller : je m’en servirai comme point de départ.',question:null};
+  if(row)return {id:'ambre-welcome-v8-draft',text:'Votre cartographie de l’enfance n’est pas encore enregistrée pour notre travail commun. Rouvrez-la sur la page /cartographie/ et enregistrez-la : je pourrai alors partir de vos réponses.',question:null,lead:false};
+  return {id:'ambre-welcome-v8',text:'Si vous le souhaitez, vous pouvez aussi remplir la cartographie de votre enfance sur la page /cartographie/. Avec votre accord, elle s’enregistre dans votre profil et devient notre carte de travail commune : je m’en sers comme point de départ et je peux y noter ce qui ressort de nos échanges.',question:null,lead:false};
  }
  const highlights=cartographyHighlights(summary,3),count=summary.cause_count;
  const recognized=highlights.filter(x=>x.feedback==='oui').length===highlights.length&&highlights.length;
- let text=`J’ai sous les yeux votre cartographie de l’enfance, verrouillée : ${count} élément${count>1?'s':''} de votre enfance ${count>1?'sont cochés':'est coché'}.`;
+ let text='Votre cartographie de l’enfance est notre carte de travail commune'+(count?` : ${count} élément${count>1?'s':''} de votre enfance y ${count>1?'sont cochés':'est coché'}.`:'.');
  if(highlights.length)text+=` ${recognized?'Vous avez indiqué vous reconnaître dans':'Parmi les conséquences que la recherche y associe, je relève'} ${quoted(highlights)}. Ce sont des associations observées dans des groupes de personnes, pas un diagnostic : je vous propose de les vérifier avec vos propres expériences.`;
- else text+=' Ces éléments ne sont associés par la recherche qu’à des pistes encore limitées : nous pouvons partir de ce que vous avez vécu.';
+ else if(count)text+=' Ces éléments ne sont associés par la recherche qu’à des pistes encore limitées : nous pouvons partir de ce que vous avez vécu.';
+ if(summary.notes.length||summary.resources.length)text+=` J’y lis aussi ${[summary.notes.length?'ce que vous avez écrit avec vos mots':'',summary.resources.length?'ce qui vous a aidé':''].filter(Boolean).join(' et ')}.`;
+ text+=' Quand un échange éclaire une cause ou une conséquence, je peux y ajouter une courte note fidèle à vos mots ; je vous le dis à chaque fois, et vous pouvez la relire ou la retirer sur la page /cartographie/.';
  if(summary.suicide_recognized)text+=' Vous avez aussi indiqué vous reconnaître dans « '+(summary.recognized.find(r=>r.note==='suicide')?.label||'les idées suicidaires')+' ». Si des idées suicidaires sont présentes en ce moment, appelez le 3114 (gratuit, 24 h/24, 7 j/7) ; en cas de danger immédiat, le 15 ou le 112.';
- return {id:'ambre-welcome-v7-c'+row.version,text,question:highlights.length?`Voulez-vous que nous commencions par ${quoted([highlights[0]])} ? Un exemple récent où vous l’avez ressenti suffit pour démarrer.`:'Quel souvenir ou quelle situation actuelle aimeriez-vous explorer en premier ?'};
+ return {id:'ambre-welcome-v8-c'+row.version,text,lead:true,question:highlights.length?`Voulez-vous que nous commencions par ${quoted([highlights[0]])} ? Un exemple récent où vous l’avez ressenti suffit pour démarrer.`:'Quel souvenir ou quelle situation actuelle aimeriez-vous explorer en premier ?'};
 }
 const welcomeMessage=(capabilities,cartographyRow=null)=>{
  const profile=capabilities.profile||{},name=profile.first_name,map=cartographyWelcome(cartographyRow);
- return {id:map.id,role:'assistant',content:`${name?'Bonjour '+name+'.':'Bonjour.'} Je suis Ambre. Mon rôle est de vous aider à mieux comprendre l’être humain en partant de votre façon de penser, de ressentir et d’agir, et de ce que vous observez chez vos proches.
-
-Au fil de nos échanges, je peux relier ce que vous vivez aujourd’hui, vos relations et les événements qui ont compté pour vous. Une précision peut éclairer une réaction actuelle ou donner un autre sens à un moment déjà évoqué.
-
-Quand vous me donnez un exemple concret sur un proche déjà ajouté, je peux en retenir automatiquement un repère dans sa fiche. Vous pouvez le relire et le retirer. ${profile.has_information?'Je peux aussi partir des informations déjà renseignées. ':''}Vous pouvez écrire directement dans Mon portrait, Mes proches ou Ma ligne de vie.
-
-Quand un article du catalogue illustre un mécanisme qui vous parle, je peux vous le proposer. On peut ensuite comparer la scène à ce que vous vivez et voir comment elle éclaire vos réactions ou celles de vos proches.
-
-${map.text}
-
-${map.question||'Quel phénomène psychologique aimeriez-vous mieux comprendre chez vous ou dans une relation ? Un exemple du quotidien suffit pour commencer.'}`};
+ // A saved map is introduced in the second paragraph; an invitation to fill it stays near the end.
+ const paragraphs=[`${name?'Bonjour '+name+'.':'Bonjour.'} Je suis Ambre. Mon rôle est de vous aider à mieux comprendre l’être humain en partant de votre façon de penser, de ressentir et d’agir, et de ce que vous observez chez vos proches.`,
+  ...(map.lead?[map.text]:[]),
+  'Au fil de nos échanges, je peux relier ce que vous vivez aujourd’hui, vos relations et les événements qui ont compté pour vous. Une précision peut éclairer une réaction actuelle ou donner un autre sens à un moment déjà évoqué.',
+  `Quand vous me donnez un exemple concret sur un proche déjà ajouté, je peux en retenir automatiquement un repère dans sa fiche. Vous pouvez le relire et le retirer. ${profile.has_information?'Je peux aussi partir des informations déjà renseignées. ':''}Vous pouvez écrire directement dans Mon portrait, Mes proches ou Ma ligne de vie.`,
+  'Quand un article du catalogue illustre un mécanisme qui vous parle, je peux vous le proposer. On peut ensuite comparer la scène à ce que vous vivez et voir comment elle éclaire vos réactions ou celles de vos proches.',
+  ...(map.lead?[]:[map.text]),
+  map.question||'Quel phénomène psychologique aimeriez-vous mieux comprendre chez vous ou dans une relation ? Un exemple du quotidien suffit pour commencer.'];
+ return {id:map.id,role:'assistant',content:paragraphs.join('\n\n')};
 };
 function unavailableActionMessage(kind,hasReadings){
  return 'Cette proposition ne peut pas être enregistrée actuellement : '+(kind==='memory_append'?'la mémoire de précisions est pleine.':kind==='person_create'?'la limite de cinquante proches est atteinte.':kind==='life_event_create'?'la limite de cinq cents moments de vie est atteinte.':'aucun élément existant ne correspond à cette modification.')+' Aucun changement n’a été enregistré.'+(kind==='memory_append'?' Vous pouvez mettre à jour les informations concernées dans Mon portrait, À propos de moi.':hasReadings?' Vous pouvez explorer une lecture existante.':' Vous pouvez préciser votre demande ici.');
@@ -321,7 +321,16 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  function cartographyPrompt(map){
   if(!map)return null;
   const item=({url,note,...x})=>{const id=articleIdFor(url);return {...x,...(note==='suicide'?{note}:{}),...(id?{reading_id:id}:{})};};
-  return {version:map.version,locked_at:map.locked_at,cause_count:map.cause_count,ace_count:map.ace_count,causes:map.causes,convergence:map.convergence.map(item),pistes:map.pistes.map(item),theorique_count:map.theorique_count,recognized:map.recognized,dismissed:map.dismissed,suicide_recognized:map.suicide_recognized,truncated:map.truncated};
+  return {version:map.version,locked_at:map.locked_at,cause_count:map.cause_count,ace_count:map.ace_count,causes:map.causes,convergence:map.convergence.map(item),pistes:map.pistes.map(item),theorique_count:map.theorique_count,recognized:map.recognized,dismissed:map.dismissed,suicide_recognized:map.suicide_recognized,truncated:map.truncated,...cartographyWords(map)};
+ }
+ // The member's notes, checked resources and Ambre's own notes, within a fixed budget.
+ // Ambre's most recent notes are kept first; the list stays in chronological order.
+ function cartographyWords(map){
+  let budget=4500,notes_truncated=false;const person_notes=[],own=[];
+  for(const n of map.notes||[]){const text=excerpt(n.text,400).text;if(text.length>budget){notes_truncated=true;continue;}budget-=text.length;if(text!==n.text)notes_truncated=true;person_notes.push({target:n.target,id:n.id,label:n.label,text});}
+  budget=3000;
+  for(const n of (map.ambre_notes||[]).slice().reverse()){if(n.text.length>budget){notes_truncated=true;break;}budget-=n.text.length;own.unshift({target:n.target,...(n.target==='general'?{}:{id:n.target_id,label:n.label}),text:n.text});}
+  return {person_notes,resources:(map.resources||[]).map(r=>r.label),ambre_notes:own,...(notes_truncated?{notes_truncated:true}:{})};
  }
  function cartographyReadings(map,existing){
   const seen=new Set(existing.map(c=>c.id)),dismissed=new Set(map.dismissed.map(d=>d.id)),recognized=new Set(map.recognized.map(r=>r.id)),added=[];
@@ -402,16 +411,23 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
     const reading=promptData.reading_candidates.findLast(candidate=>candidate.story_excerpt);
     if(reading){delete reading.story_excerpt;continue;}
     const childhoodMap=promptData.childhood_cartography;
+    // Ambre's oldest notes leave first, then the leads; the member's own words go last.
+    if(childhoodMap?.ambre_notes.length){childhoodMap.ambre_notes.shift();childhoodMap.notes_truncated=true;continue;}
     if(childhoodMap?.pistes.length){childhoodMap.pistes.pop();childhoodMap.truncated=true;continue;}
     const optional=childhoodMap&&childhoodMap.convergence.length>3?childhoodMap.convergence.findLastIndex(x=>x.feedback!=='oui'):-1;
     if(optional>=0){childhoodMap.convergence.splice(optional,1);childhoodMap.truncated=true;continue;}
+    if(childhoodMap?.person_notes.length>6){childhoodMap.person_notes.pop();childhoodMap.notes_truncated=true;continue;}
     promptData.truncated=true;const removable=promptData.sources.findLastIndex(s=>s.type!=='memory');
     if(removable>=0)promptData.sources.splice(removable,1);else if(promptData.events.length)promptData.events.pop();else if(promptData.people.length)promptData.people.pop();else if(promptData.portrait)promptData.portrait=null;else if(promptData.catalogue_lookup?.matches.length>1){promptData.catalogue_lookup.matches.pop();promptData.catalogue_lookup.matches_truncated=true;}else break;
    }
    promptData.coverage={...promptData.coverage,included:promptData.sources.length,excerpted:promptData.sources.filter(s=>s.excerpt).length,people:{...promptData.coverage.people,included:promptData.people.length},events:{...promptData.coverage.events,included:promptData.events.length}};
    const observationContract=relationNotes?.quotes.length?'\nCertains exemples sur les proches déjà ajoutés peuvent être conservés automatiquement. Remplis people_observations avec zéro à deux objets {person_id, axis, quote}, seulement à partir des citations complètes de observation_candidates. Axes autorisés : '+PEOPLE_OBSERVATION_AXES.join(', ')+'. Choisis une parole explicite ou un comportement observé dans la relation. Écarte une hypothèse, un jugement, une intention attribuée, une donnée de santé ou de sexualité, un contenu sensible ou une demande de ne pas le garder. En cas de doute, renvoie []. Ne crée pas une proposition manuelle pour le même repère. Ne dis pas que le repère est enregistré : le serveur applique ses propres contrôles.':'';
+   // Ambre may write on the shared map only when it is saved with consent, and never
+   // in an emergency, after an opt-out or inside a fictional frame.
+   const mapWritable=Boolean(childhood)&&!danger&&!declinesRetention(turn.content);
+   const cartographyContract=mapWritable?'\nTu peux écrire sur la cartographie de l’enfance. Remplis cartography_notes avec zéro à '+AMBRE_NOTES_PER_TURN+' objets {target, target_id, text}. target vaut "factor" (une cause : target_id = id exact pris dans childhood_cartography.causes), "outcome" (une conséquence : id exact pris dans convergence, pistes ou recognized) ou "general" (target_id null). N’écris une note que si le message actuel de la personne décrit un vécu d’enfance ou une manifestation actuelle rattachable à cette cause ou à cette conséquence. text reprend ses mots, à la troisième personne ou en citation, en '+AMBRE_NOTE_MAX_LENGTH+' caractères au plus, sans interprétation, sans terme diagnostique, sans rien ajouter qu’elle n’ait dit. Ne répète pas une note déjà présente dans ambre_notes ou person_notes. N’écris rien si elle demande de ne pas le garder ; en cas de doute, renvoie []. Tu ne coches jamais une cause et tu ne modifies jamais ses réponses : si elle décrit un vécu qui n’est pas coché, invite-la à le cocher elle-même sur la page /cartographie/. Quand tu ajoutes une note, annonce-le en une courte phrase dans content (par exemple « Je l’ai noté dans votre cartographie, sous … ») et rappelle au besoin qu’elle peut la retirer sur /cartographie/.':'';
    const readingSupport=' Si la personne demande comment agir avec un proche, utilise relative_support quand ce passage de la rubrique « Du côté des proches » éclaire la situation. Relie un geste ou une phrase à ce qui a été observé. Laisse le proche libre de répondre et respecte les limites de sécurité. Ne transforme pas une fiction en preuve sur une personne réelle.';
-   const system=buildCompanionSystemPrompt({query:turn.content,sources:promptData.sources,hypotheses:promptData.psychological_hypotheses,cartography:Boolean(promptData.childhood_cartography)})+'\n'+contract+'\n'+readingContract+readingSupport+observationContract;
+   const system=buildCompanionSystemPrompt({query:turn.content,sources:promptData.sources,hypotheses:promptData.psychological_hypotheses,cartography:Boolean(promptData.childhood_cartography)})+'\n'+contract+'\n'+readingContract+readingSupport+observationContract+cartographyContract;
    const messages=[{role:'system',content:system},{role:'user',content:'Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(promptData)},...selected,{role:'user',content:turn.content}];
    const reservation=Math.ceil(JSON.stringify(messages).length/3)+2500,week=turn.week_start;
    // Only a reply whose prompt still contains a recalled note depends on its
@@ -433,6 +449,10 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
      person_id:{type:'string',enum:[relationNotes.person.id]},axis:{type:'string',enum:PEOPLE_OBSERVATION_AXES},quote:stringSchema
     })};
     schema.required=[...schema.required,'people_observations'];
+   }
+   if(mapWritable){
+    schema.properties={...schema.properties,cartography_notes:{type:'array',maxItems:AMBRE_NOTES_PER_TURN,items:objectSchema({target:{type:'string',enum:['factor','outcome','general']},target_id:nullableString,text:stringSchema})}};
+    schema.required=[...schema.required,'cartography_notes'];
    }
    const primary=env.OPENROUTER_CHAT_MODEL||'anthropic/claude-sonnet-5.5',fallback=env.OPENROUTER_CHAT_FALLBACK_MODEL;
    let raw,model=primary;
@@ -478,6 +498,9 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    if(!Array.isArray(output.proposals)||output.proposals.length>3)throw new Error('invalid_response');
    let readings=danger?[]:pickedReadings(output.reading_suggestions,candidates);const proposals=[],availableNow=await capabilities(env,userId),blocked=[];
    const observations=choosePeopleObservations(relationNotes,output.people_observations);
+   // Re-read the stored list: a note removed by the member during the turn stays removed.
+   const mapRow=mapWritable?await first(env,'SELECT ambre_notes FROM cartographies WHERE user_id=? AND consent=1 AND locked_at IS NOT NULL',userId):null;
+   const mapNotes=mapRow?chooseAmbreNotes(output.cartography_notes,parse(mapRow.ambre_notes,[])):[];
    const personalProposals=danger?[]:output.proposals.filter(proposal=>{
     if(proposal?.kind==='story_request')return false;
     // The same automatic note must not also ask the person for validation.
@@ -510,15 +533,20 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    }
    if(!danger)response=guardStoryOffer(response);
    const final=limitQuestions(response);if(!final)throw new Error('invalid_response');
-   const envelope=JSON.stringify({companion_reply:1,content:final,reading_suggestions:readings});
+   const envelope=JSON.stringify({companion_reply:1,content:final,reading_suggestions:readings,...(mapNotes.length?{cartography_notes:mapNotes}:{})});
    const writeGuard=guarded(),writeArgs=args();
    const statements=proposals.map(p=>stmt(env,`INSERT INTO chat_proposals(id,user_id,turn_id,kind,target_id,expected_revision,binding,payload,before_data,summary) SELECT ?,?,?,?,?,?,?,?,?,? WHERE ${writeGuard}`,p.id,userId,turn.id,p.kind,p.target,p.expected,JSON.stringify(p.binding),JSON.stringify(p.payload),JSON.stringify(p.before),p.summary,...writeArgs));
    statements.push(...await peopleObservationWrites(env,observations,relationNotes,{
     userId,turnId:turn.id,now,random,guard:writeGuard,guardArgs:writeArgs
    }));
+   // The map write shares the reply's guard, so a discarded reply leaves no note.
+   if(mapNotes.length)statements.push(ambreNotesWrite(env,userId,mapRow.ambre_notes,appendAmbreNotes(parse(mapRow.ambre_notes,[]),mapNotes,{now,random}),writeGuard,writeArgs));
    statements.push(stmt(env,`UPDATE chat_turns SET status='completed',credit_status='consumed',response=?,lease_token=NULL,lease_until=0,input_tokens=?,output_tokens=?,observed_cost=? WHERE id=? AND ${writeGuard}`,envelope,input,outputTokens,cost,turn.id,...writeArgs));
    const results=await env.DB.batch(statements);
    if(!results.at(-1).meta.changes)throw Object.assign(new Error('Contexte modifié'),{code:'context_changed'});
+   // The published reply announces these notes: if the member edited the list
+   // meanwhile, append them to its current state instead of dropping them.
+   if(mapNotes.length&&!results.at(-2).meta.changes)await addAmbreNotes(env,userId,mapNotes,{now,random}).catch(()=>{});
   }catch(e){
    const code=['context_changed','generation_budget'].includes(e.code)||/^provider_http_\d{3}_(routing|schema|request)(?:_(rate_limit|key_budget|workspace_budget|guardrail_budget|in_flight_budget))?$/.test(e.code||'')?e.code:['TimeoutError','AbortError'].includes(e.name)?'provider_timeout':'provider_error';
    await run(env,"UPDATE chat_turns SET status='failed',credit_status='released',lease_token=NULL,lease_until=?,error_code=? WHERE id=? AND user_id=? AND status='running' AND lease_token=?",Number(e.retryAt||0),code,turn.id,userId,turn.lease_token);
