@@ -155,17 +155,17 @@ test('a reviewer waits for a fresh execution window instead of receiving a few s
 
 test('reviewer transient timeout and HTTP errors resume only the review on later leases',async t=>{
  for(const failure of ['timeout','http']){
-  const s=setup();await ready(s);let reviews=0;const calls=provider(t,p=>{if(p==='ambre_review'&&++reviews===1){if(failure==='http')return new Response('PRIVATE_SECRET upstream text',{status:503});throw Object.assign(Error('PRIVATE_SECRET mock-only'),{name:'TimeoutError'})}});
+  const s=setup();await ready(s);let reviews=0;const calls=provider(t,p=>{if(p==='ambre_review'&&++reviews===1){if(failure==='http')return new Response('PRIVATE_SECRET upstream text',{status:502});throw Object.assign(Error('PRIVATE_SECRET mock-only'),{name:'TimeoutError'})}});
   await message(s,'retry_'+failure);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);assert.equal(JSON.parse(job(s).review).fallback,undefined);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
-  const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,failure==='http'?'provider_http_503':'provider_timeout');assert.equal(trace.error.code,trace.review.error_code);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|mock-only/);
+  const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,failure==='http'?'provider_http_502':'provider_timeout');assert.equal(trace.error.code,trace.review.error_code);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|mock-only/);
   await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(JSON.parse(job(s).review).attempts,2);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(reviews,2);
  }
 });
 
 test('three unavailable reviewer attempts publish a safe fallback and never retry indefinitely',async t=>{
- const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_review')return new Response('PRIVATE_SECRET',{status:429})});await message(s,'review_three');assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_review')return new Response('PRIVATE_SECRET',{status:502})});await message(s,'review_three');assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);
  await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,2);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
- await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const verdict=JSON.parse(job(s).review);assert.equal(verdict.checked,false);assert.equal(verdict.fallback,true);assert.equal(verdict.attempts,3);assert.equal(verdict.error_code,'provider_http_429');assert.match((await s.call('/api/chat')).messages.at(-1).content,/reprendre avec prudence/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,3);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const verdict=JSON.parse(job(s).review);assert.equal(verdict.checked,false);assert.equal(verdict.fallback,true);assert.equal(verdict.attempts,3);assert.equal(verdict.error_code,'provider_http_502');assert.match((await s.call('/api/chat')).messages.at(-1).content,/reprendre avec prudence/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,3);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);
  await s.chat.resumeEngine(s.env);assert.equal(calls.length,5);assert.doesNotMatch(JSON.stringify((await s.call('/api/chat/insight')).turns),/PRIVATE_SECRET/);
 });
 
@@ -314,7 +314,7 @@ test('the exact fictional live message and ordinary greetings do not inherit dan
 });
 
 test('a current indirect warning survives independent verification and overrides refusal of questions',async t=>{
- const s=setup();await ready(s);const quote='Ce soir, tout sera terminé.',current='J’ai préparé les lettres pour mes enfants et réglé mes affaires. '+quote+' Sans conseil ni question.';assert.equal(deterministicAnalysis(current).risk,'none');
+ const s=setup();await ready(s);const quote='Ce soir, tout sera terminé.',current='J’ai pris mes dispositions pour que chacun soit tranquille. '+quote+' Sans conseil ni question.';assert.equal(deterministicAnalysis(current).risk,'none');
  const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'indirect_warning',evidence_quote:quote}:undefined),sent=await message(s,'risk_indirect',current);assert.equal(job(s).stage,'done');assert.match(sent.messages.at(-1).content,/3114/);const a=JSON.parse(job(s).analysis);assert.equal(a.risk,'possible');assert.equal(a.safety_signal,'self_harm');assert.equal(a.risk_check.status,'confirmed');assert.equal(a.constraints.includes('no_questions'),false);
  const writing=JSON.parse(calls.find(x=>x.purpose==='ambre_writing').body.messages[1].content);assert.equal(writing.analysis.risk_evidence,quote);assert.doesNotMatch(JSON.stringify((await s.call('/api/chat/insight')).turns),/Ce soir, tout sera terminé/);
 });
@@ -339,8 +339,11 @@ test('a transient risk verification failure resumes the same substep under an ex
  await Promise.all([s.chat.engine.work(s.env,sent.request_id),s.chat.engine.work(s.env,sent.request_id)]);assert.equal(job(s).stage,'done');assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(checks,2);const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.stages[1].error_code,'provider_timeout');assert.equal(detail.stages[2].stage,'risk_check');assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET/);
 });
 
-test('three unavailable risk checks release the quota without publishing an invented crisis',async t=>{
- const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?new Response('PRIVATE_PROVIDER_SECRET',{status:503}):undefined),sent=await message(s,'risk_unavailable','Une question de diagnostic.');await s.chat.resumeEngine(s.env);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'failed');const turn=s.raw.prepare('SELECT * FROM chat_turns').get();assert.equal(turn.credit_status,'released');assert.equal(turn.response,'');assert.equal(calls.filter(x=>x.purpose==='ambre_risk_check').length,3);assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(calls.some(x=>x.purpose==='ambre_writing'),false);
+// Lot S (F18): an unavailable check never ends in a bare failure; the fixed cautious
+// reply names the resources without asserting a crisis. A published reply counts
+// as one message (the chat_turns CHECK ties completed to consumed).
+test('three unavailable risk checks publish a cautious reply with resources, never an invented crisis',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?new Response('PRIVATE_PROVIDER_SECRET',{status:502}):undefined),sent=await message(s,'risk_unavailable','Une question de diagnostic.');await s.chat.resumeEngine(s.env);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const turn=s.raw.prepare('SELECT * FROM chat_turns').get();assert.equal(turn.credit_status,'consumed');const reply=JSON.parse(turn.response).content;assert.match(reply,/3114/);assert.match(reply,/n’ai pas pu analyser/);assert.doesNotMatch(reply,/pensez au suicide ou risquez/);assert.equal(calls.filter(x=>x.purpose==='ambre_risk_check').length,3);assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(calls.some(x=>x.purpose==='ambre_writing'),false);
  const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.analysis.risk_check.status,'unavailable');assert.equal(detail.stages.filter(x=>x.stage==='risk_check').length,3);assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET/);await s.chat.resumeEngine(s.env);assert.equal(calls.length,4);
 });
 
@@ -350,8 +353,9 @@ test('risk checks reject malformed, contradictory or unanchored verdicts without
  }
 });
 
+// Lot S (F18): the exhausted turn budget buys no extra call; the possible danger gets the fixed cautious reply.
 test('the conditional verification obeys the existing total turn budget',async t=>{
- const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});const sent=await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(sent.last_error.code,'turn_budget');assert.doesNotMatch(sent.last_error.message,/semaine/);assert.equal(job(s).stage,'failed');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'released');
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});const sent=await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(sent.last_error,null);assert.match(sent.messages.at(-1).content,/3114/);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).analysis).risk_check.error_code,'turn_budget');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'consumed');
 });
 
 test('confirmed violence selects violence resources in the published answer and fallback',async t=>{
@@ -395,7 +399,7 @@ test('audit17 recovery reserves every failed attempt, keeps analysis once, and c
  const s=setup();await ready(s);const current=filledProfile(s,true);let writingPhase=0,writeAttempts=0,reviewPhase=0,reviewAttempts=0;
  const calls=provider(t,(purpose,body)=>{
   if(purpose==='ambre_analysis')return {...analysis(),selected_ids:JSON.parse(body.messages[1].content).index.split('\n').slice(0,8).map(x=>x.split(' ')[0])};
-  if(purpose==='ambre_writing'){if(++writeAttempts%3!==0)return new Response('Unavailable',{status:503});writingPhase++;return draft()}
+  if(purpose==='ambre_writing'){if(++writeAttempts%3!==0)return new Response('Unavailable',{status:502});writingPhase++;return draft()}
   if(purpose==='ambre_review'){if(++reviewAttempts%3!==0)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});reviewPhase++;const r=review();if(reviewPhase===1)r.criteria[3]='no';return r}
  });
  const sent=await message(s,'maximal_recovery',current);for(let n=0;n<12&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
@@ -433,7 +437,8 @@ test('audit17 recent memory, final question, Paris dates and reviewer care remai
 });
 
 test('audit17 summarizer failure keeps coverage and summary intact, exposes retry and recovers later',async t=>{
- const s=setup();await ready(s);seedTurns(s);let failure=true;provider(t,p=>p==='ambre_memory'?(failure?new Response('Unavailable',{status:503}):{items:[{section:'facts',turn_id:'history-4',quote:'Fait rapporté 4'}]}):undefined);
+ const s=setup();await ready(s);seedTurns(s);let failure=true;provider(t,p=>p==='ambre_memory'?(failure?new Response('Unavailable',{status:502}):{items:[{section:'facts',turn_id:'history-4',quote:'Fait rapporté 4'}]}):undefined);
+ // Lot S: a 503 is a provider refusal (lot R) and no longer a failed attempt; 502 is a consumed failure.
  await s.chat.engine.updateMemory(s.env,'a');assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_memory').get().n,0);assert.equal(s.raw.prepare('SELECT attempts FROM chat_memory_jobs').get().attempts,1);assert.equal((await s.call('/api/chat/insight')).memory.status,'retry_pending');
  failure=false;s.setClock(s.getClock()+61);await s.chat.engine.updateMemory(s.env,'a');const memory=s.raw.prepare('SELECT * FROM chat_memory').get();assert.equal(memory.turns_covered,4);assert.deepEqual(JSON.parse(memory.summary).facts,['Fait rapporté 4']);
  s.raw.prepare('UPDATE chat_memory SET summary=?').run(JSON.stringify({facts:['Un fait'],safety:[],safety_seen:true}));await s.call('/api/chat/memory','PUT',{revision:memory.revision,sections:{facts:['Fait corrigé']}});assert.equal(JSON.parse(s.raw.prepare('SELECT summary FROM chat_memory').get().summary).safety_seen,true);
@@ -455,8 +460,8 @@ test('audit17 maximal safety verification and all recovery phases fit without re
  const s=setup();await ready(s);const quote='Ce soir, tout sera terminé.',current=filledProfile(s,true).slice(0,5972)+quote;let risks=0,writes=0,reviews=0;
  const calls=provider(t,p=>{
   if(p==='ambre_analysis')return {...analysis(),risk:'possible',posture:'safety'};
-  if(p==='ambre_risk_check'){if(++risks<3)return new Response('Unavailable',{status:503});return {risk:'possible',category:'indirect_warning',evidence_quote:quote}}
-  if(p==='ambre_writing'){if(++writes%3)return new Response('Unavailable',{status:503});return draft()}
+  if(p==='ambre_risk_check'){if(++risks<3)return new Response('Unavailable',{status:502});return {risk:'possible',category:'indirect_warning',evidence_quote:quote}}
+  if(p==='ambre_writing'){if(++writes%3)return new Response('Unavailable',{status:502});return draft()}
   if(p==='ambre_review'){if(++reviews%3)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});const r=review();if(reviews===3)r.criteria[3]='no';return r}
  });
  const sent=await message(s,'maximal_safety_recovery',current);for(let n=0;n<16&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);

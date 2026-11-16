@@ -1,0 +1,125 @@
+{
+ "part": "revue-exhaustivite-v4",
+ "author": "lot_C_v4_1",
+ "_doc": "Lot C du plan v4.1 (docs/plan-ambre-v4-2026-11-18.md) d'après docs/revue-exhaustivite-cartographie-2026-11-18.md §8–9. Chaque source a été rouverte le 18/11/2026 avant intégration ; le niveau de lecture est indiqué dans « read ». Les abaissements, l'harmonisation et le retrait figurent dans corrections.json (link_overrides). Journal : docs/v4-C-avancement.md.",
+ "outcomes": [],
+ "links": [
+  {
+   "factor": "exil",
+   "outcome": "icd_6b40",
+   "strength": "critere",
+   "relation_type": "classification_context",
+   "summary": "La CIM-11 cite les combats, la torture, les attentats et les catastrophes parmi les événements extrêmement menaçants qui doivent précéder un stress post-traumatique. Vivre la guerre ou un exil ne suffit pas au diagnostic, qui demande aussi des symptômes spécifiques et leur retentissement.",
+   "sources": [
+    "cim11_cddr_stress"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "relation_type": "classification_context",
+   "summary": "La CIM-11 exige, pour un stress post-traumatique complexe, une exposition à des événements extrêmement menaçants, le plus souvent prolongés et difficiles à fuir, comme la torture, les camps, les campagnes de génocide et d'autres violences organisées. Ce repère ne mesure aucun risque et ne suffit pas au diagnostic.",
+   "sources": [
+    "cim11_cddr_stress"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
+   "outcome": "ten_externalisation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 74 études longitudinales associe l'exposition des enfants aux violences entre partenaires à davantage de comportements d'opposition et d'agressivité par la suite. Les liens sont plus nets quand la même personne décrit les violences et les difficultés ; ils ne prédisent pas l'évolution d'un enfant.",
+   "sources": [
+    "vu2016_temoin"
+   ]
+  },
+  {
+   "factor": "precarite",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une cohorte américaine suivie de la naissance à l'âge adulte, un faible niveau socio-économique familial, mesuré avant la naissance et à 7 ans, était associé à un risque plus élevé d'épisode dépressif majeur entre 18 et 39 ans, indépendamment de la situation adulte. Une seule cohorte, qui ne mesure pas chaque forme de précarité.",
+   "sources": [
+    "gilman2003_precarite"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "vu2016_temoin",
+   "citation": "Vu NL, Jouriles EN, McDonald R, Rosenfield D, 2016, Children's exposure to intimate partner violence: a meta-analysis of longitudinal associations with child adjustment problems, Clinical Psychology Review 46:25-33",
+   "url": "https://doi.org/10.1016/j.cpr.2016.04.003",
+   "type": "meta-analyse",
+   "read": "résumé (Europe PMC, PMID 27136293) relu le 18/11/2026 ; texte intégral sous abonnement, méthodes et tableaux non lus : force plafonnée à « limitée »"
+  },
+  {
+   "id": "gilman2003_precarite",
+   "citation": "Gilman SE, Kawachi I, Fitzmaurice GM, Buka SL, 2003, Family disruption in childhood and risk of adult depression, American Journal of Psychiatry 160(5):939-946",
+   "url": "https://doi.org/10.1176/appi.ajp.160.5.939",
+   "type": "etude",
+   "read": "résumé (Europe PMC, PMID 12727699) relu le 18/11/2026 ; texte intégral sous abonnement : une cohorte, force « limitée »"
+  }
+ ],
+ "notes": {
+  "hors_perimetre": {
+   "title": "Ce que la carte ne couvre pas",
+   "text": "La carte ne relie un vécu d'enfance à un sujet que lorsque des études le permettent. Certains domaines restent volontairement en dehors ; leur absence ne signifie ni absence de souffrance ni absence de recherche.",
+   "items": [
+    {
+     "scope": "Autisme, TDAH, troubles du développement intellectuel, tics",
+     "reason": "Leur origine est surtout génétique et liée au développement précoce du cerveau : l'éducation et les vécus listés ici n'en sont pas la cause. Seule une privation extrême et prolongée en institution a été associée à des symptômes qui leur ressemblent."
+    },
+    {
+     "scope": "Troubles neurocognitifs, catatonie, intoxications, sevrages, troubles induits par une substance, troubles respiratoires du sommeil",
+     "reason": "Aucun rapprochement ne peut être tiré de souvenirs d'enfance pour ces troubles, qui relèvent d'un examen médical."
+    },
+    {
+     "scope": "Troubles de la personnalité autres que borderline",
+     "reason": "La CIM-11 décrit la personnalité par dimensions. La recherche associe la maltraitance à des difficultés de personnalité au sens large, mais seules les associations avec le trouble borderline sont assez solides pour une carte."
+    },
+    {
+     "scope": "Mécanismes de défense",
+     "reason": "Ils sont évalués par un clinicien au fil d'entretiens ; aucune association fiable avec un questionnaire rempli seul n'a été trouvée."
+    },
+    {
+     "scope": "« Dépendance affective »",
+     "reason": "Ce n'est pas un trouble défini de façon validée. Les cartes « Attachement anxieux » et « Codépendance » décrivent les difficultés proches."
+    },
+    {
+     "scope": "Exil, guerre et migration comme causes mesurées",
+     "reason": "Les études trouvées décrivent la fréquence des difficultés chez les personnes exposées, sans groupe de comparaison. La carte n'en tire pas d'association ; pour l'exil et la guerre, elle indique seulement les repères de la CIM-11 sur les événements extrêmement menaçants."
+    },
+    {
+     "scope": "Secrets de famille",
+     "reason": "Aucune étude assez solide n'a été trouvée. La question reste utile pour en parler, notamment avec Ambre."
+    },
+    {
+     "scope": "ARFID, pica, mérycisme, énurésie, encoprésie, états de transe ou de possession, trouble délirant, trouble schizoaffectif",
+     "reason": "Aucune preuve propre n'a été retenue, ou le risque serait de présenter une pratique culturelle comme un trouble."
+    },
+    {
+     "scope": "Nombre d'expériences adverses comme risque personnel",
+     "reason": "Le risque moyen augmente avec le nombre d'expériences adverses dans les populations étudiées ; ce constat ne donne jamais un risque individuel."
+    },
+    {
+     "scope": "Expositions avant la naissance ou biologiques (alcool pendant la grossesse, prématurité)",
+     "reason": "Ce ne sont pas des vécus dont on peut se souvenir ; elles sortent de ce questionnaire."
+    },
+    {
+     "scope": "Modèles de classement HiTOP et AMPD",
+     "reason": "Ce sont des façons d'organiser les difficultés, pas des sujets en soi ; leurs dimensions restent à examiner."
+    }
+   ],
+   "sources": [
+    "tick2016",
+    "faraone2019",
+    "thapar2017",
+    "johnson1999_personnalite",
+    "solmi2021_personnalite",
+    "hughes2017",
+    "cim11_cddr_stress"
+   ]
+  }
+ }
+}

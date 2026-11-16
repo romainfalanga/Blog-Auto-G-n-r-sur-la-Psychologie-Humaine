@@ -3,7 +3,7 @@
  "interpretation": {
   "purpose": "Exploration de rapprochements, sans dépistage ni diagnostic.",
   "validated_ace_instrument": false,
-  "ranking": "Niveau maximal du lien ; jamais une somme de risques. L’intensité reste un contexte déclaré.",
+  "ranking": "Liste unique, même ordre pour la page et pour Ambre : les repères contextuels viennent en dernier ; les autres sujets sont triés par nombre de vécus cochés reliés par une association empirique (forte, modérée ou limitée), puis par familles de vécus distinctes et force maximale. Modèles cliniques, définitions et contextes de classification sont affichés à part et ne comptent pas. Jamais une somme de risques ; l’intensité reste un contexte déclaré.",
   "convergence": "Au moins deux familles de vécus avec des associations empiriques modérées ou solides ; aucun gain de certitude individuelle.",
   "warning": "Des facteurs associés, même cumulés, ne suffisent pas à établir un trouble et ne sont pas nécessairement requis pour qu’il apparaisse."
  },
@@ -18,32 +18,32 @@
   {
    "id": "violences",
    "label": "Violences et maltraitance",
-   "description": "Actes subis ou vus, de la part d'adultes ou de pairs."
+   "description": "Actes subis ou vus avant 18 ans, de la part d'adultes ou de pairs."
   },
   {
    "id": "negligence",
    "label": "Manques de soins et de présence",
-   "description": "Besoins physiques ou affectifs qui n'étaient pas assurés."
+   "description": "Besoins physiques ou affectifs qui n'étaient pas assurés avant 18 ans."
   },
   {
    "id": "famille",
    "label": "Situation familiale",
-   "description": "Événements et difficultés qui touchaient la famille."
+   "description": "Événements et difficultés qui touchaient la famille, avant 18 ans."
   },
   {
    "id": "climat",
    "label": "Climat éducatif et relationnel",
-   "description": "La manière dont on était traité au quotidien."
+   "description": "La manière dont on était traité au quotidien, avant 18 ans."
   },
   {
    "id": "ressentis",
    "label": "Ressentis de l'enfance",
-   "description": "Impressions durables que l'on garde de cette période."
+   "description": "Impressions durables que l'on garde de son enfance et de son adolescence."
   },
   {
    "id": "contexte",
    "label": "Contexte social et événements",
-   "description": "Ce qui se passait hors de la famille."
+   "description": "Ce qui se passait hors de la famille, avant 18 ans."
   }
  ],
  "factors": [
@@ -420,7 +420,7 @@
    "label": "Racisme ou discrimination",
    "description": "Être traité différemment ou rabaissé pour son origine, sa religion, son genre, son orientation ou un handicap.",
    "examples": [
-    "Rejet familial lié à l'orientation ou à l'identité",
+    "Moqueries ou mises à l'écart liées à l'origine, à la couleur de peau ou à la religion",
     "Stigmatisation à cause d'un handicap ou de difficultés d'apprentissage"
    ],
    "ace": false
@@ -451,7 +451,12 @@
    "group": "contexte",
    "label": "Événement traumatique ponctuel",
    "description": "Accident grave, catastrophe, agression, menace de mort.",
-   "examples": [],
+   "examples": [
+    "Accident de la route",
+    "Incendie",
+    "Catastrophe naturelle",
+    "Attentat"
+   ],
    "ace": false
   },
   {
@@ -490,7 +495,7 @@
    "id": "parent_absent",
    "group": "famille",
    "label": "Parent longtemps éloigné ou absent",
-   "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un père qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective ».",
+   "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un parent qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective ».",
    "examples": [
     "Parent parti travailler dans une autre ville ou un autre pays",
     "Parent toujours en déplacement"
@@ -549,8 +554,8 @@
   {
    "id": "punitions_corporelles",
    "group": "violences",
-   "label": "Punitions corporelles « ordinaires »",
-   "description": "Fessées, tapes ou gifles occasionnelles utilisées comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
+   "label": "Fessées, tapes ou gifles données pour éduquer",
+   "description": "Gestes physiques occasionnels utilisés comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
    "examples": [],
    "ace": false,
    "overlap_group": "physical_violence"
@@ -2015,8 +2020,8 @@
   {
    "factor": "abus_emotionnel",
    "outcome": "ten_conduites_suicidaires",
-   "strength": "forte",
-   "summary": "Des méta-analyses associent ces violences infantiles à davantage d’idées suicidaires et de tentatives chez les jeunes et les adultes. Ces résultats de groupe ne s’appliquent pas automatiquement aux automutilations sans intention suicidaire.",
+   "strength": "moderee",
+   "summary": "Des méta-analyses associent les violences psychologiques infantiles à davantage d'idées suicidaires et de tentatives, chez l'adulte comme chez les jeunes ; chez les jeunes, ces résultats reposent sur peu d'études très hétérogènes. Ces résultats de groupe ne s'appliquent pas automatiquement aux automutilations sans intention suicidaire.",
    "sources": [
     "angelakis2019",
     "angelakis2020"
@@ -2131,7 +2136,7 @@
   {
    "factor": "abus_emotionnel",
    "outcome": "ten_maladies_cardiovasculaires",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte britannique adulte, les violences psychologiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
    "sources": [
@@ -2225,7 +2230,7 @@
   {
    "factor": "abus_emotionnel",
    "outcome": "ten_symptomes_premenstruels",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte d’infirmières adultes, les violences émotionnelles marquées durant l’enfance sont associées à davantage de syndromes prémenstruels importants. L’association est modeste à moyenne, avec des souvenirs recueillis après coup ; ce n’est pas une preuve propre au trouble dysphorique.",
    "sources": [
@@ -2235,7 +2240,7 @@
   {
    "factor": "abus_emotionnel",
    "outcome": "ten_tabagisme_persistant",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte américaine d’adultes suivis sur dix ans, les violences psychologiques rapportées dans l’enfance étaient associées à un tabagisme quotidien plus persistant. L’association variait de modérée à marquée selon la fréquence rapportée, avec des estimations parfois imprécises.",
    "sources": [
@@ -2265,7 +2270,7 @@
   {
    "factor": "abus_emotionnel",
    "outcome": "ten_usage_cannabis",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte australienne suivie jusqu’à 21 ans, les violences psychologiques documentées dans l’enfance étaient associées à davantage de dépendance au cannabis selon le DSM-IV. L’association était de taille intermédiaire après ajustements, sans démontrer un effet individuel.",
    "sources": [
@@ -2649,7 +2654,7 @@
   {
    "factor": "abus_physique",
    "outcome": "ten_maladies_cardiovasculaires",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte britannique adulte, les violences physiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
    "sources": [
@@ -2699,7 +2704,7 @@
   {
    "factor": "abus_physique",
    "outcome": "ten_qualite_relationnelle",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte américaine suivie de l’enfance à la trentaine, les violences physiques documentées étaient modestement associées à une moins bonne qualité du fonctionnement amoureux. Le résultat combine observations, entretiens et satisfaction déclarée.",
    "sources": [
@@ -2743,7 +2748,7 @@
   {
    "factor": "abus_physique",
    "outcome": "ten_symptomes_premenstruels",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte d’infirmières adultes, les violences physiques sévères durant l’enfance sont associées à davantage de syndromes prémenstruels importants. L’association est modeste à moyenne, avec des souvenirs recueillis après coup ; ce n’est pas une preuve propre au trouble dysphorique.",
    "sources": [
@@ -2753,7 +2758,7 @@
   {
    "factor": "abus_physique",
    "outcome": "ten_tabagisme_persistant",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte américaine d’adultes suivis sur dix ans, les violences physiques rapportées dans l’enfance étaient associées à davantage de tabagisme quotidien persistant. L’ampleur variait selon la fréquence et la sévérité ; certains résultats s’atténuaient après ajustement.",
    "sources": [
@@ -2793,7 +2798,7 @@
   {
    "factor": "abus_physique",
    "outcome": "ten_usage_cannabis",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte australienne suivie jusqu’à 21 ans, les violences physiques documentées avant 14 ans étaient associées à davantage de dépendance au cannabis selon le DSM-IV. L’association était de taille intermédiaire après ajustements ; elle ne vaut pas diagnostic individuel.",
    "sources": [
@@ -2824,8 +2829,8 @@
   {
    "factor": "abus_sexuel",
    "outcome": "anx_generale",
-   "strength": "forte",
-   "summary": "Des méta-analyses associent les violences sexuelles infantiles à davantage de troubles anxieux ultérieurs. La force varie selon les troubles et les études ; ce résultat ne prédit pas la santé d’une personne.",
+   "strength": "moderee",
+   "summary": "Des méta-analyses associent les violences sexuelles infantiles à davantage de troubles anxieux ultérieurs, mais une revue de synthèse juge faible la qualité des méta-analyses sur l'anxiété. Ce résultat ne prédit pas la santé d'une personne.",
    "sources": [
     "chen2010",
     "hailes2019",
@@ -3183,7 +3188,7 @@
   {
    "factor": "abus_sexuel",
    "outcome": "ten_maladies_cardiovasculaires",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte britannique adulte, les violences sexuelles infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
    "sources": [
@@ -3843,7 +3848,7 @@
   {
    "factor": "deces_proche",
    "outcome": "anx_generale",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Une grande cohorte norvégienne associe le décès parental par cause externe durant l’enfance à davantage de troubles anxieux ultérieurs. Elle ne permet pas d’étendre ce résultat à tous les deuils de proches.",
    "sources": [
     "burrell2022"
@@ -3916,7 +3921,7 @@
   {
    "factor": "deces_proche",
    "outcome": "ten_usage_substances",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Une grande cohorte norvégienne associe le décès parental par cause externe durant l’enfance à davantage de troubles liés aux substances ultérieurs. Le résultat ne concerne pas tous les deuils ni chaque produit séparément.",
    "sources": [
     "burrell2022"
@@ -3937,7 +3942,7 @@
   {
    "factor": "demenagements",
    "outcome": "ten_conduites_suicidaires",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Une cohorte danoise de près d'un million et demi de personnes trouve davantage de tentatives de suicide chez celles qui ont souvent déménagé, surtout au début de l'adolescence, dans tous les milieux sociaux.",
    "sources": [
     "webb2016"
@@ -4284,6 +4289,26 @@
    "relation_type": "definitional"
   },
   {
+   "factor": "exil",
+   "outcome": "icd_6b40",
+   "strength": "critere",
+   "relation_type": "classification_context",
+   "summary": "La CIM-11 cite les combats, la torture, les attentats et les catastrophes parmi les événements extrêmement menaçants qui doivent précéder un stress post-traumatique. Vivre la guerre ou un exil ne suffit pas au diagnostic, qui demande aussi des symptômes spécifiques et leur retentissement.",
+   "sources": [
+    "cim11_cddr_stress"
+   ]
+  },
+  {
+   "factor": "exil",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "relation_type": "classification_context",
+   "summary": "La CIM-11 exige, pour un stress post-traumatique complexe, une exposition à des événements extrêmement menaçants, le plus souvent prolongés et difficiles à fuir, comme la torture, les camps, les campagnes de génocide et d'autres violences organisées. Ce repère ne mesure aucun risque et ne suffit pas au diagnostic.",
+   "sources": [
+    "cim11_cddr_stress"
+   ]
+  },
+  {
    "factor": "famille_recomposee",
    "outcome": "dep_generale",
    "strength": "limitee",
@@ -4365,7 +4390,7 @@
   {
    "factor": "harcelement",
    "outcome": "icd_6b01",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Dans une cohorte suivie jusqu'à 26 ans, les jeunes harcelés présentaient plus souvent un trouble panique, surtout ceux qui avaient été à la fois victimes et auteurs.",
    "sources": [
     "copeland2013"
@@ -4375,8 +4400,8 @@
   {
    "factor": "harcelement",
    "outcome": "icd_6b02",
-   "strength": "moderee",
-   "summary": "La même cohorte montre un risque plus élevé d'agoraphobie chez les jeunes adultes harcelés dans l'enfance ; ce résultat vient surtout d'une étude.",
+   "strength": "limitee",
+   "summary": "Dans une cohorte américaine suivie jusqu'à 26 ans, les jeunes harcelés dans l'enfance présentaient plus souvent une agoraphobie au début de l'âge adulte ; ce résultat vient d'une seule étude.",
    "sources": [
     "copeland2013"
    ],
@@ -4395,7 +4420,7 @@
   {
    "factor": "harcelement",
    "outcome": "pat_social_isolation",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "À 50 ans, les personnes harcelées enfants avaient en moyenne moins de relations sociales et une qualité de vie perçue plus faible.",
    "sources": [
     "takizawa2014"
@@ -4417,7 +4442,7 @@
   {
    "factor": "harcelement",
    "outcome": "ten_difficultes_professionnelles",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte britannique suivie jusqu’à 50 ans, les enfants harcelés avaient moins souvent un emploi et moins de patrimoine à l’âge adulte. L’écart persiste longtemps mais varie selon les indicateurs ; les revenus du travail étaient surtout plus faibles chez les femmes.",
    "sources": [
@@ -4679,16 +4704,6 @@
     "young_schemas"
    ],
    "relation_type": "clinical_model"
-  },
-  {
-   "factor": "isolement_social_enfant",
-   "outcome": "ten_usage_substances",
-   "strength": "limitee",
-   "summary": "Dans une cohorte britannique suivie jusqu'à 44 ans, les enfants isolés fumaient plus souvent à l'âge adulte et connaissaient plus de détresse psychologique.",
-   "sources": [
-    "lacey2014"
-   ],
-   "relation_type": "empirical_association"
   },
   {
    "factor": "maladie_enfant",
@@ -5056,8 +5071,8 @@
   {
    "factor": "negligence_emotionnelle",
    "outcome": "ten_conduites_suicidaires",
-   "strength": "moderee",
-   "summary": "La négligence affective est associée à plus de tentatives de suicide chez les jeunes.",
+   "strength": "limitee",
+   "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe la négligence affective à des tentatives de suicide plus fréquentes, à partir de peu d'études aux estimations très hétérogènes.",
    "sources": [
     "angelakis2020"
    ],
@@ -5130,7 +5145,7 @@
   {
    "factor": "negligence_emotionnelle",
    "outcome": "ten_maladies_cardiovasculaires",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte britannique adulte, la négligence affective infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
    "sources": [
@@ -5383,7 +5398,7 @@
   {
    "factor": "negligence_physique",
    "outcome": "ten_maladies_cardiovasculaires",
-   "strength": "moderee",
+   "strength": "limitee",
    "relation_type": "empirical_association",
    "summary": "Dans une cohorte britannique adulte, la négligence physique infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
    "sources": [
@@ -5525,7 +5540,7 @@
   {
    "factor": "parent_addiction",
    "outcome": "icd_6c40_2",
-   "strength": "moderee",
+   "strength": "limitee",
    "summary": "Une cohorte associe les troubles liés à l’alcool chez les parents à davantage de troubles liés à l’alcool chez leurs enfants devenus adultes. Ce résultat ne concerne pas toutes les addictions parentales et n’isole pas le rôle de l’hérédité du milieu.",
    "sources": [
     "kosty2020"
@@ -5979,6 +5994,16 @@
    ],
    "definitional": true,
    "relation_type": "definitional"
+  },
+  {
+   "factor": "precarite",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une cohorte américaine suivie de la naissance à l'âge adulte, un faible niveau socio-économique familial, mesuré avant la naissance et à 7 ans, était associé à un risque plus élevé d'épisode dépressif majeur entre 18 et 39 ans, indépendamment de la situation adulte. Une seule cohorte, qui ne mesure pas chaque forme de précarité.",
+   "sources": [
+    "gilman2003_precarite"
+   ]
   },
   {
    "factor": "precarite",
@@ -6684,6 +6709,16 @@
   },
   {
    "factor": "temoin_violences",
+   "outcome": "ten_externalisation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 74 études longitudinales associe l'exposition des enfants aux violences entre partenaires à davantage de comportements d'opposition et d'agressivité par la suite. Les liens sont plus nets quand la même personne décrit les violences et les difficultés ; ils ne prédisent pas l'évolution d'un enfant.",
+   "sources": [
+    "vu2016_temoin"
+   ]
+  },
+  {
+   "factor": "temoin_violences",
    "outcome": "ten_hypervigilance",
    "strength": "theorique",
    "summary": "Un modèle transdiagnostique propose que l’exposition infantile à la violence soit liée à une attention accrue aux menaces. Il s’appuie sur des études antérieures, sans établir une mesure d’hypervigilance propre à chaque vécu.",
@@ -7086,6 +7121,65 @@
     "fr_119",
     "fr_numeros_aide",
     "fr_3919"
+   ]
+  },
+  "hors_perimetre": {
+   "title": "Ce que la carte ne couvre pas",
+   "text": "La carte ne relie un vécu d'enfance à un sujet que lorsque des études le permettent. Certains domaines restent volontairement en dehors ; leur absence ne signifie ni absence de souffrance ni absence de recherche.",
+   "items": [
+    {
+     "scope": "Autisme, TDAH, troubles du développement intellectuel, tics",
+     "reason": "Leur origine est surtout génétique et liée au développement précoce du cerveau : l'éducation et les vécus listés ici n'en sont pas la cause. Seule une privation extrême et prolongée en institution a été associée à des symptômes qui leur ressemblent."
+    },
+    {
+     "scope": "Troubles neurocognitifs, catatonie, intoxications, sevrages, troubles induits par une substance, troubles respiratoires du sommeil",
+     "reason": "Aucun rapprochement ne peut être tiré de souvenirs d'enfance pour ces troubles, qui relèvent d'un examen médical."
+    },
+    {
+     "scope": "Troubles de la personnalité autres que borderline",
+     "reason": "La CIM-11 décrit la personnalité par dimensions. La recherche associe la maltraitance à des difficultés de personnalité au sens large, mais seules les associations avec le trouble borderline sont assez solides pour une carte."
+    },
+    {
+     "scope": "Mécanismes de défense",
+     "reason": "Ils sont évalués par un clinicien au fil d'entretiens ; aucune association fiable avec un questionnaire rempli seul n'a été trouvée."
+    },
+    {
+     "scope": "« Dépendance affective »",
+     "reason": "Ce n'est pas un trouble défini de façon validée. Les cartes « Attachement anxieux » et « Codépendance » décrivent les difficultés proches."
+    },
+    {
+     "scope": "Exil, guerre et migration comme causes mesurées",
+     "reason": "Les études trouvées décrivent la fréquence des difficultés chez les personnes exposées, sans groupe de comparaison. La carte n'en tire pas d'association ; pour l'exil et la guerre, elle indique seulement les repères de la CIM-11 sur les événements extrêmement menaçants."
+    },
+    {
+     "scope": "Secrets de famille",
+     "reason": "Aucune étude assez solide n'a été trouvée. La question reste utile pour en parler, notamment avec Ambre."
+    },
+    {
+     "scope": "ARFID, pica, mérycisme, énurésie, encoprésie, états de transe ou de possession, trouble délirant, trouble schizoaffectif",
+     "reason": "Aucune preuve propre n'a été retenue, ou le risque serait de présenter une pratique culturelle comme un trouble."
+    },
+    {
+     "scope": "Nombre d'expériences adverses comme risque personnel",
+     "reason": "Le risque moyen augmente avec le nombre d'expériences adverses dans les populations étudiées ; ce constat ne donne jamais un risque individuel."
+    },
+    {
+     "scope": "Expositions avant la naissance ou biologiques (alcool pendant la grossesse, prématurité)",
+     "reason": "Ce ne sont pas des vécus dont on peut se souvenir ; elles sortent de ce questionnaire."
+    },
+    {
+     "scope": "Modèles de classement HiTOP et AMPD",
+     "reason": "Ce sont des façons d'organiser les difficultés, pas des sujets en soi ; leurs dimensions restent à examiner."
+    }
+   ],
+   "sources": [
+    "tick2016",
+    "faraone2019",
+    "thapar2017",
+    "johnson1999_personnalite",
+    "solmi2021_personnalite",
+    "hughes2017",
+    "cim11_cddr_stress"
    ]
   }
  },
@@ -7658,6 +7752,13 @@
    "read": "texte intégral : Methods, définition de la figure parentale et de son incarcération, Results, tableaux 1, 3 et 4"
   },
   {
+   "id": "gilman2003_precarite",
+   "citation": "Gilman SE, Kawachi I, Fitzmaurice GM, Buka SL, 2003, Family disruption in childhood and risk of adult depression, American Journal of Psychiatry 160(5):939-946",
+   "url": "https://doi.org/10.1176/appi.ajp.160.5.939",
+   "type": "etude",
+   "read": "résumé (Europe PMC, PMID 12727699) relu le 18/11/2026 ; texte intégral sous abonnement : une cohorte, force « limitée »"
+  },
+  {
    "id": "gini2013",
    "citation": "Gini G, Pozzoli T, 2013, Bullied children and psychosomatic problems: a meta-analysis, Pediatrics 132(4):720-729",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24043275/",
@@ -7922,13 +8023,6 @@
    "url": "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2018/Labella%2520et%2520al%2520%2528PSPB%252C%25202018%2529.pdf",
    "type": "etude",
    "read": "sections : méthodes pp. 240–243, résultats pp. 243–247, tableaux 1–3 ; PDF auteur ouvert dans le navigateur web"
-  },
-  {
-   "id": "lacey2014",
-   "citation": "Lacey RE, Kumari M, Bartley M, 2014, Social isolation in childhood and adult inflammation: evidence from the National Child Development Study, Psychoneuroendocrinology 50:85-94",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/25197797/",
-   "type": "etude",
-   "read": "résumé"
   },
   {
    "id": "lacey2022",
@@ -8729,6 +8823,13 @@
    "read": "résumé"
   },
   {
+   "id": "vu2016_temoin",
+   "citation": "Vu NL, Jouriles EN, McDonald R, Rosenfield D, 2016, Children's exposure to intimate partner violence: a meta-analysis of longitudinal associations with child adjustment problems, Clinical Psychology Review 46:25-33",
+   "url": "https://doi.org/10.1016/j.cpr.2016.04.003",
+   "type": "meta-analyse",
+   "read": "résumé (Europe PMC, PMID 27136293) relu le 18/11/2026 ; texte intégral sous abonnement, méthodes et tableaux non lus : force plafonnée à « limitée »"
+  },
+  {
    "id": "wadji2025",
    "citation": "Wadji DL, Pirro T, Langevin R, et al., 2025, A systematic review and meta-analysis of the association between childhood exposure to intimate partner violence and intimate partner violence victimization/perpetration in adulthood in Africa, Trauma, Violence, & Abuse",
    "url": "https://doi.org/10.1177/15248380241287144",
@@ -9185,7 +9286,7 @@
    "Comparaison DSM-5-TR diagnostic par diagnostic",
    "Populations, âges, méthodes et limites pour chaque lien",
    "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux",
-   "Évaluation clinique indépendante des 493 liens, au-delà des contrôles de structure"
+   "Évaluation clinique indépendante des 496 liens, au-delà des contrôles de structure"
   ],
   "reference_registry": {
    "report": "editorial/cartographie/couverture-referentiels.json",

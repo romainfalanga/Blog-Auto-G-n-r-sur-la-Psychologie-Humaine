@@ -3,6 +3,7 @@ import {readChangeState,compactChangeContext,privateCareInstructions,dueChangeTr
 import {CHANGE_STRATEGIES} from './change-strategies.generated.mjs';
 import {selectChangeCandidates,loadStrategyDetails,validateStrategySelection,changeReviewCriteria,normalizeChangeReview,deterministicChangeReview,CHANGE_SYSTEM_RULES,CHANGE_REVIEW_CRITERIA} from './change-strategies.mjs';
 import {declinesRetention} from './people-observations.mjs';
+import {anchorQuote,quoteSupports} from './quote-guard.mjs';
 const object=properties=>({type:'object',properties,required:Object.keys(properties),additionalProperties:false});
 const text={type:'string'},nullable={type:['string','null']};
 const copy=value=>JSON.parse(JSON.stringify(value));
@@ -43,15 +44,19 @@ export function prepareChangeDraft(output,{message,analysis,context}){
  if(!Array.isArray(proposed)||proposed.length>1){result.change_errors.push('C-R2');return result}
  for(const proposal of proposed){
   const quote=bounded(proposal?.quote,240),payload=proposal?.payload||{},kind=proposal?.kind,target=proposal?.target_id||null,p={};
-  if(blocked||declinesRetention(message)||!quote||!message.includes(quote)){result.change_errors.push('C-R2');continue}
+  const anchored=quote?anchorQuote(message,quote):{ok:false};
+  if(blocked||declinesRetention(message)||!anchored.ok){result.change_errors.push('C-R2');continue}
   const limits=kind==='goal'?{title:240,why:800,step_text:800}:kind==='step'?{text:800,measure:300}:kind==='result'?{result_text:1200}:kind==='trial'?{}:null;
   if(!limits){result.change_errors.push('C-R2');continue}
   let invalid=false;for(const [key,max] of Object.entries(limits)){const value=bounded(payload[key]??'',max);if(value===null)invalid=true;else if(value)p[key]=value}
+  // A goal states the person's words: its title must come from the non-negated quote; an unsupported motive is dropped, never invented.
+  if(kind==='goal'&&p.title&&!quoteSupports(message,anchored.text,p.title))invalid=true;
+  if(kind==='goal'&&p.why&&!quoteSupports(message,message,p.why))delete p.why;
   if(kind==='goal'&&(!p.title||target)||kind==='step'&&(!p.text||!context.plan.goals?.some(x=>x.id===target))||kind==='trial'&&context.plan.step?.id!==target||kind==='result'&&(!p.result_text||!message.includes(p.result_text)||![context.plan.trial?.id,context.plan.due_trial?.id].includes(target)))invalid=true;
   if(payload.strategy_id){if(!context.strategies.some(x=>x.id===payload.strategy_id))invalid=true;else p.strategy_id=payload.strategy_id}
   if(kind==='result')Object.assign(p,{attempt:'uncertain',outcome:null});
   if(invalid){result.change_errors.push('C-R2');continue}
-  result.change_proposals.push({kind,target_id:target,quote,payload:p});
+  result.change_proposals.push({kind,target_id:target,quote:anchored.text,payload:p});
  }
  const followup=output.followup;
  if(followup){const quote=bounded(followup.quote,300);if(blocked||analysis.constraints?.includes('no_questions')||!context.due_trial||followup.trial_id!==context.due_trial.id||!quote||!output.content.includes(quote))result.change_errors.push('C-R8');else result.followup={trial_id:followup.trial_id,quote}}

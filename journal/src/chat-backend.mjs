@@ -1,13 +1,18 @@
-import {createAmbreEngine,mergeClosed,deterministicAnalysis} from './ambre-engine.mjs';
+import {createAmbreEngine,mergeClosed,deterministicAnalysis,replySignal} from './ambre-engine.mjs';
 import {readChangeState,isStopFollowups,suspendChangeFollowups,clearChatChangeState,changeGuard,changeArtifactStatements} from './change-plan.mjs';
 import {CHANGE_DRAFT_FIELDS,changePublication} from './change-engine.mjs';
 import {limitQuestions,responseSentences} from './chat-text.mjs';
-import {crisisSignal,safetyReply,ensureSafetyResources} from './chat-safety.mjs';
+import {crisisSignal,riskSignal,safetyReply,ensureSafetyResources} from './chat-safety.mjs';
 import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
+import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily,dailyCapReached,countMetric} from './provider-access.mjs';
+import {COMPACT_TRACE_SQL} from './ambre-insight.mjs';
+import {cachedContext} from './context-cache.mjs';
 import {platformAccess,accessSql} from './entitlements.mjs';
 import {buildCompanionSystemPrompt,buildReviewSystemPrompt} from './psychology-framework.mjs';
 import {readCartography,companionCartography,cartographyHighlights,chooseAmbreNotes,appendAmbreNotes,ambreNotesWrite,addAmbreNotes,AMBRE_NOTE_MAX_LENGTH,AMBRE_NOTES_PER_TURN} from './cartographie.mjs';
+import {anchorQuote,quoteSupport,cartographyNoteCandidates} from './quote-guard.mjs';
+import {ipvSignal} from './clinical-signals.mjs';
 import {declinesRetention,PEOPLE_OBSERVATION_AXES,peopleObservationContext,choosePeopleObservations,peopleObservationWrites,peopleObservationModeSql,peopleObservationRevision} from './people-observations.mjs';
 const parse=(x,f={})=>{try{return JSON.parse(x);}catch{return f;}};
 const kinds=['self_profile_patch','memory_append','person_create','person_update','life_event_create','life_event_update'];
@@ -147,7 +152,11 @@ function excerpt(value,max,tail=0,start=0){
  const windows=tail&&tailStart<=end?[{start:Math.max(0,text.length-max),end:text.length}]:[{start,end},...(tail?[{start:tailStart,end:text.length}]:[])];
  return {text:(windows[0].start?'[… début omis …]\n':'')+windows.map(w=>text.slice(w.start,w.end)).join('\n[… passage omis …]\n')+(windows.at(-1).end<text.length?'\n[… suite omise …]':''),excerpt:true,windows};
 }
-export function createChatBackend({error,json,text,body,now,random,personal,catalogue=new Map(),engineEnabled=false}) {
+export function createChatBackend({error,json,text,body,now,random,personal:basePersonal,catalogue=new Map(),engineEnabled=false}) {
+ // F23 (active engine): one full read of the personal context per version for the
+ // request and every engine stage; other personal methods are read through the proxy.
+ const sharedContext=cachedContext((env,userId)=>basePersonal.context(env,userId),{now});
+ const personal=engineEnabled?new Proxy(basePersonal,{get:(target,key)=>key==='context'?sharedContext:target[key]}):basePersonal;
  const fail=(status,message,code)=>error(status,message,code);
  const stmt=(env,sql,...args)=>env.DB.prepare(sql).bind(...args);
  const first=(env,sql,...args)=>stmt(env,sql,...args).first();
@@ -173,21 +182,30 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  }
  // On failed turns lease_until is a provider retry-not-before, never a live lease.
  // This metadata is shared across chat profiles to respect key-wide throttling.
- async function providerCooldown(env){const row=await first(env,"SELECT max(lease_until) retry_at FROM chat_turns WHERE status='failed' AND error_code LIKE 'provider_http_%' AND lease_until>?",now());return Math.max(0,Number(row?.retry_at||0));}
+ // With the active engine the shared provider_state (fed by every caller, F10) is
+ // the only source: a key-wide refusal or a cooling conversation model blocks sends.
+ async function providerCooldown(env){
+  if(engineEnabled){const block=await providerBlock(env,[env.OPENROUTER_CHAT_MODEL||'anthropic/claude-sonnet-5.5'],now());return block?.retry_at||0;}
+  const row=await first(env,"SELECT max(lease_until) retry_at FROM chat_turns WHERE status='failed' AND error_code LIKE 'provider_http_%' AND lease_until>?",now());return Math.max(0,Number(row?.retry_at||0));
+ }
  function failureInfo(turn){
   const code=turn.error_code||'provider_error',retryAt=Number(turn.lease_until||0),retrySeconds=Math.max(0,retryAt-now());
   let message='La réponse n’a pas abouti. Vous pouvez renvoyer votre message.',action='retry';
-  if(/^provider_http_429_/.test(code)){
+  if(code==='daily_cap'){message='Le service a atteint sa limite d’utilisation pour aujourd’hui. Réessayez demain.';action='retry_later';}
+  else if(code==='provider_cooldown'){message='Le fournisseur est très sollicité. '+(retrySeconds?'Réessayez dans '+retrySeconds+' secondes.':'Réessayez dans quelques minutes.');action='retry_later';}
+  else if(/^provider_http_429(?:_|$)/.test(code)){
    const budget=/_(?:key|workspace|guardrail)_budget$/.test(code),rate=code.endsWith('_rate_limit'),inFlight=code.endsWith('_in_flight_budget');
    message=(budget?'Le budget fournisseur du service IA est atteint. ':rate?'Le fournisseur limite temporairement le rythme des demandes. ':inFlight?'Le fournisseur traite déjà le maximum de demandes simultanées autorisées. ':'Le fournisseur limite temporairement les demandes ou son budget est atteint. ')+(retrySeconds?'Réessayez dans '+retrySeconds+' secondes.':'Réessayez plus tard ; si cela persiste, contactez le support.');action=budget?'contact_support':retrySeconds?'retry_later':'contact_support';
   }
-  else if(/^provider_http_(401|402|403)_/.test(code)){message='Le service IA est indisponible en raison de son accès ou de son budget fournisseur. Contactez le support si cela persiste.';action='contact_support';}
+  else if(/^provider_http_(401|402|403)(?:_|$)/.test(code)){message='Le service IA est indisponible en raison de son accès ou de son budget fournisseur. Contactez le support si cela persiste.';action='contact_support';}
   else if(code==='generation_budget'){message='Le budget de génération disponible pour cette semaine est atteint. Réessayez après son renouvellement ou contactez le support.';action='contact_support';}
   else if(code==='turn_budget'){message='Cette réponse a atteint sa limite de traitement. Renvoyez un message plus court ou contactez le support si cela se répète.';action='retry';}
   else if(code==='context_changed'){message='Vos informations ou votre accès ont changé pendant la réponse. Rechargez la conversation puis renvoyez votre message.';action='refresh';}
   else if(code==='provider_timeout'||code==='request_expired'){message='Le fournisseur a mis trop de temps à répondre. Vous pouvez renvoyer votre message.';}
   else if(/^provider_http_/.test(code)){message='Le fournisseur est momentanément indisponible. Réessayez plus tard ; si cela persiste, contactez le support.';action='retry_later';}
-  return {code,message:message+' Aucun message n’a été décompté.',action,...(retryAt?{retry_at:retryAt,retry_after_seconds:retrySeconds}:{})};
+  // A refused or capped message that carries a danger signal still receives the resources.
+  const signal=['daily_cap','provider_cooldown'].includes(code)||/^provider_http_(?:401|402|403|429|503)/.test(code)?(crisisSignal(turn.content||'')||riskSignal(turn.content||'')?.signal||null):null;
+  return {code,message:message+' Aucun message n’a été décompté.'+(signal?'\n\n'+safetyReply(signal):''),action,...(signal?{safety:true}:{}),...(retryAt?{retry_at:retryAt,retry_after_seconds:retrySeconds}:{})};
  }
  async function state(env,userId){
   await sweep(env,userId);
@@ -197,8 +215,23 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   const pending=turns.find(t=>t.status==='running');
   const messages=turns.flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,created_at:t.created_at,status:t.status}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]);
   const available=await capabilities(env,userId),mapRow=await readCartography(env,userId),path=await journey(env,userId,available,mapRow);
-  const retryAt=await providerCooldown(env),reason=!platformAccess(env,s,now()).allowed?'subscription_required':!env.OPENROUTER_API_KEY?'provider_missing':['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase())?'generation_paused':!settings?.consent?'consent_required':!path.started?'journey_not_started':q.remaining===0?'quota_exhausted':retryAt?'provider_cooldown':null;
+  const retryAt=await providerCooldown(env),capped=engineEnabled&&await dailyCapReached(env,now()),reason=!platformAccess(env,s,now()).allowed?'subscription_required':!env.OPENROUTER_API_KEY?'provider_missing':['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase())?'generation_paused':!settings?.consent?'consent_required':!path.started?'journey_not_started':q.remaining===0?'quota_exhausted':retryAt?'provider_cooldown':capped?'daily_cap':null;
   return {messages,capabilities:available,welcome:welcomeMessage(available,mapRow),journey:path,proposals:(await all(env,`SELECT * FROM chat_proposals WHERE user_id=? AND kind IN (${kinds.map(()=>'?').join(',')}) ORDER BY rowid DESC LIMIT 60`,userId,...kinds)).map(activeProposalRow),quota:q,access:{...platformAccess(env,s,now()),allowed:!reason,reason,...(retryAt?{retry_at:retryAt,retry_after_seconds:retryAt-now()}:{})},consent:Boolean(settings?.consent),people_observations_enabled:peopleObservationRevision(settings)!==null,pending_request:pending?{id:pending.id,status:pending.status,client_key:pending.idempotency_key}:null,last_request:turns.length?{id:turns.at(-1).id,status:turns.at(-1).status,error_code:turns.at(-1).error_code}:null,last_error:turns.at(-1)?.status==='failed'?failureInfo(turns.at(-1)):null};
+ }
+ // F3: light status poll while a reply is prepared. Primary-key reads only, a few
+ // hundred bytes, independent of the conversation length; the full state is read
+ // once by the client when the status changes.
+ async function requestStatus(env,userId,id,ctx){
+  await sweep(env,userId);
+  const turn=await first(env,'SELECT id,status,error_code,lease_until,content FROM chat_turns WHERE id=? AND user_id=? AND purged=0',id,userId);
+  if(!turn)fail(404,'Demande introuvable.','not_found');
+  let waiting=null;
+  if(turn.status==='running'&&engineEnabled){
+   const job=await first(env,'SELECT stage,lease_token,lease_until FROM chat_engine_jobs WHERE turn_id=? AND user_id=?',id,userId);
+   if(job&&!job.lease_token&&job.lease_until>now())waiting={retry_at:job.lease_until,retry_after_seconds:job.lease_until-now()};
+   if(ctx?.waitUntil)ctx.waitUntil(engine.work(env,id));
+  }
+  return {request:{id:turn.id,status:turn.status,error_code:turn.error_code||null,...(waiting?{waiting}:{})},...(turn.status==='failed'?{last_error:failureInfo(turn)}:{})};
  }
  function normalized(kind,payload,before={}){
   object(payload);if(kind==='self_profile_patch')payload=Object.fromEntries(Object.entries(payload).filter(([,v])=>v!==null));
@@ -228,9 +261,10 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    expected=row.revision;before=selectFields(row,fields[v.kind==='person_update'?'person':'event']);
    if(table==='life_events')before.people_ids=(await all(env,'SELECT person_id FROM life_event_people WHERE event_id=? AND user_id=? ORDER BY person_id',target,userId)).map(x=>x.person_id);
   }else target=random();
-  const quote=bounded(v.evidence_quote,1200,true);
-  if(!userContent.includes(quote))fail(400,'La proposition doit citer vos mots exacts.','invalid_proposal');
-  binding.evidence_quote=quote;
+  const quote=bounded(v.evidence_quote,1200,true),anchored=anchorQuote(userContent,quote);
+  // A substantial, non-negated quote of the current message; the stored binding keeps the person's exact words.
+  if(!anchored.ok)fail(400,anchored.reason==='negated'?'La citation est niée dans votre message.':'La proposition doit citer vos mots exacts.','invalid_proposal');
+  binding.evidence_quote=anchored.text;
   let proposed=object(v.payload);const requestedModes={};
   if(Object.hasOwn(proposed,'changes')||v.kind==='person_update'||v.kind==='life_event_update'){
    const allowed=fields[v.kind]||fields[v.kind.startsWith('person_')?'person':'event'];
@@ -255,9 +289,15 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   }
   if(v.kind==='memory_append')binding.field_modes.text='append';
   if(v.kind==='self_profile_patch'&&payload.birth_date&&!birthDateIsQuoted(payload.birth_date,binding.evidence_quote))fail(400,'La date de naissance complète doit être présente dans vos mots cités. Un âge seul ne suffit pas.','invalid_proposal');
+  // The words carrying a proposed text value must come from the quote: a negated
+  // quote rejects the proposal, an unquoted value is labelled as Ambre's rewording.
+  let reformulated=false;
+  for(const key of ['display_name','custom_role','title',...Object.keys(narrativeLimits),'occupation']){if(typeof proposed[key]!=='string'||!proposed[key].trim()||v.kind==='memory_append')continue;const support=quoteSupport(userContent,binding.evidence_quote,proposed[key]);if(support==='negated')fail(400,'La citation est niée dans votre message.','invalid_proposal');if(support==='absent')reformulated=true}
+  if(reformulated)binding.reformulated=true;
   if(v.kind==='memory_append'&&!userContent.includes(payload.text))fail(400,'La correction doit reprendre vos mots exacts du message actuel.','invalid_proposal');
   if(payload.people_ids?.length){const rows=await all(env,'SELECT id FROM personal_people WHERE user_id=? AND id IN(SELECT value FROM json_each(?))',userId,JSON.stringify(payload.people_ids));if(rows.length!==payload.people_ids.length)fail(400,'Proche associé introuvable.','invalid_proposal');}
-  return {id:random(),kind:v.kind,target,expected,binding,payload,before,summary:bounded(v.summary||'',400)};
+  const summary=bounded(v.summary||'',400);
+  return {id:random(),kind:v.kind,target,expected,binding,payload,before,summary:reformulated&&!summary.startsWith('Reformulation d’Ambre')?('Reformulation d’Ambre, à vérifier'+(summary?' : '+summary:'')).slice(0,440):summary};
  }
  function promptContext(context,query='') {
   const terms=[...new Set(query.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').match(/[a-z]{4,}/g)||[])].filter(t=>!['dans','avec','pour','mais','cette','vous','nous','suis','veux','comme','plus','quand','cela','tout'].includes(t));
@@ -319,7 +359,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  function cartographyPrompt(map){
   if(!map)return null;
   const item=({url,...x})=>x;
-  return {version:map.version,locked_at:map.locked_at,cause_count:map.cause_count,ace_count:map.ace_count,answered_count:map.answered_count,explicit_negative:map.explicit_negative||[],contextual:(map.contextual||[]).map(item),exploratory:(map.exploratory||[]).map(item),evidence_sources:(map.evidence_sources||[]).map(({url,...reference})=>reference),causes:map.causes,convergence:map.convergence.map(item),pistes:map.pistes.map(item),theorique_count:map.theorique_count,recognized:map.recognized,dismissed:map.dismissed,suicide_recognized:map.suicide_recognized,truncated:map.truncated,evidence:(map.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(map.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(map)};
+  return {version:map.version,locked_at:map.locked_at,cause_count:map.cause_count,ace_count:map.ace_count,answered_count:map.answered_count,explicit_negative:map.explicit_negative||[],display_order:map.display_order||[],display_count:map.display_count||0,contextual:(map.contextual||[]).map(item),exploratory:(map.exploratory||[]).map(item),evidence_sources:(map.evidence_sources||[]).map(({url,...reference})=>reference),causes:map.causes,convergence:map.convergence.map(item),pistes:map.pistes.map(item),theorique_count:map.theorique_count,recognized:map.recognized,dismissed:map.dismissed,suicide_recognized:map.suicide_recognized,truncated:map.truncated,evidence:(map.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(map.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(map)};
  }
  // The member's notes, checked resources and Ambre's own notes, within a fixed budget.
  // Ambre's most recent notes are kept first; the list stays in chronological order.
@@ -501,7 +541,11 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    await run(env,"UPDATE chat_turns SET status='failed',credit_status='released',lease_token=NULL,lease_until=?,error_code=? WHERE id=? AND user_id=? AND status='running' AND lease_token=?",Number(e.retryAt||0),code,turn.id,userId,turn.lease_token);
   }
  }
- async function send(request,env,user,ctx){const data=await body(request,12000),content=bounded(data.content,6000,true),key=bounded(data.idempotency_key,120,true);if(!/^[\w-]{8,120}$/.test(key))fail(400,'Clé d’idempotence requise.','idempotency_required');const signal=crisisSignal(content)||(engineEnabled&&deterministicAnalysis(content).risk!=='none'?'self_harm':null);const hash=await contextHash(content);await sweep(env,user.id);const prior=await first(env,'SELECT * FROM chat_turns WHERE user_id=? AND idempotency_key=?',user.id,key);if(prior){if(prior.payload_hash!==hash)fail(409,'Clé utilisée pour un autre message.','idempotency_conflict');return json({...await state(env,user.id),request_id:prior.id},prior.status==='running'?202:200);}if(engineEnabled&&isStopFollowups(content)){await suspendChangeFollowups(env,user.id,now());return json({...await state(env,user.id),followups_paused:true,notice:'Les retours d’Ambre sont suspendus. Vos objectifs et essais sont conservés.'})}const current=await state(env,user.id);if(current.access.reason==='journey_not_started')fail(403,'Lancez d’abord la discussion avec Ambre : elle commence par une analyse de ce que vous avez renseigné.','journey_not_started');if(current.access.allowed&&current.journey.review.running_id)fail(409,'Ambre prépare un bilan. Vous pourrez écrire dès qu’il sera prêt.','review_in_progress');if(!current.access.allowed)fail(current.access.reason==='quota_exhausted'?429:['provider_missing','generation_paused','provider_cooldown'].includes(current.access.reason)?503:403,(current.access.reason==='provider_cooldown'?'Le fournisseur est temporairement indisponible. Réessayez dans '+current.access.retry_after_seconds+' secondes. Aucun message n’a été décompté.':'La conversation avec Ambre nécessite votre accord et un accès actif.')+(signal?'\n\n'+safetyReply(signal):''),current.access.reason);const changeState=await readChangeState(env,user.id),context=await personal.context(env,user.id),settings=await first(env,'SELECT * FROM chat_settings WHERE user_id=?',user.id),id=random(),lease=random(),week=parisWeek(new Date(now()*1000)).week_start;const result=await run(env,`INSERT OR IGNORE INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,lease_token,lease_until${changeState.available?',context_generation':''}) SELECT ?,?,?,?,'running','reserved',?,?,?,?,?,?,?${changeState.available?',COALESCE((SELECT context_generation FROM change_plans WHERE user_id=s.user_id),0)':''} FROM subscriptions s JOIN chat_settings cs ON cs.user_id=s.user_id JOIN profiles p ON p.user_id=s.user_id WHERE s.user_id=? AND ${accessSql(env,'s')} AND cs.consent=1 AND cs.revision=? AND p.version=? AND NOT EXISTS(SELECT 1 FROM chat_turns WHERE user_id=s.user_id AND status='running') AND (SELECT count(*) FROM chat_turns WHERE user_id=s.user_id AND week_start=? AND credit_status IN ('reserved','consumed'))<100 AND (SELECT count(*) FROM chat_turns WHERE user_id=s.user_id AND created_at>datetime('now','-1 hour'))<30 AND (SELECT count(*) FROM chat_turns WHERE user_id=s.user_id AND week_start=?)<200`,id,user.id,key,hash,week,context.source_version,settings.revision,content,signal?JSON.stringify({companion_reply:1,content:safetyReply(signal)}):'',lease,now()+60,user.id,now(),settings.revision,context.source_version,week,week);if(!result.meta.changes){const duplicate=await first(env,'SELECT * FROM chat_turns WHERE user_id=? AND idempotency_key=?',user.id,key);if(duplicate){if(duplicate.payload_hash!==hash)fail(409,'Clé utilisée pour un autre message.','idempotency_conflict');return json({...await state(env,user.id),request_id:duplicate.id},duplicate.status==='running'?202:200);}const q=await quota(env,user.id);if(!q.remaining)fail(429,'Vos 100 messages de la semaine ont été utilisés.','quota_exhausted');if(await first(env,"SELECT id FROM chat_turns WHERE user_id=? AND status='running'",user.id))fail(409,'Une réponse est déjà en préparation.','request_in_progress');fail(429,'Trop de tentatives. Réessayez plus tard.','request_limit');}const turn={id,content,lease_token:lease,week_start:week,observation_revision:peopleObservationRevision(settings)};if(engineEnabled)await engine.enqueue(env,user.id,turn);const task=engineEnabled?engine.work(env,id):generate(env,user.id,turn,context);if(ctx?.waitUntil){ctx.waitUntil(task);return json({...await state(env,user.id),request_id:id},202);}await task;return json({...await state(env,user.id),request_id:id});}
+ async function send(request,env,user,ctx){const data=await body(request,12000),content=bounded(data.content,6000,true),key=bounded(data.idempotency_key,120,true);if(!/^[\w-]{8,120}$/.test(key))fail(400,'Clé d’idempotence requise.','idempotency_required');const lexical=crisisSignal(content)||(engineEnabled?riskSignal(content)?.signal||null:null),signal=lexical==='violence'&&ipvSignal(content)==='severe'?'ipv_severe':lexical;
+  // F17: a refused or conflicting send never hides the resources when the message carries a danger signal.
+  try{return await sendChecked(request,env,user,ctx,{content,key,signal,data})}catch(e){if(!signal||!(e?.status>=400))throw e;const reply=safetyReply(signal);return json({error:String(e.message||'').includes(reply)?e.message:(e.message?e.message+'\n\n':'')+reply,...(e.code?{code:e.code}:{}),safety:true,safety_reply:reply},e.status)}
+ }
+ async function sendChecked(request,env,user,ctx,{content,key,signal,data}){const hash=await contextHash(content);await sweep(env,user.id);const prior=await first(env,'SELECT * FROM chat_turns WHERE user_id=? AND idempotency_key=?',user.id,key);if(prior){if(prior.payload_hash!==hash)fail(409,'Clé utilisée pour un autre message.','idempotency_conflict');return json({...await state(env,user.id),request_id:prior.id},prior.status==='running'?202:200);}if(engineEnabled&&isStopFollowups(content)){await suspendChangeFollowups(env,user.id,now());return json({...await state(env,user.id),followups_paused:true,notice:'Les retours d’Ambre sont suspendus. Vos objectifs et essais sont conservés.'})}const current=await state(env,user.id);if(current.access.reason==='journey_not_started')fail(403,'Lancez d’abord la discussion avec Ambre : elle commence par une analyse de ce que vous avez renseigné.','journey_not_started');if(current.access.allowed&&current.journey.review.running_id)fail(409,'Ambre prépare un bilan. Vous pourrez écrire dès qu’il sera prêt.','review_in_progress');if(!current.access.allowed)fail(current.access.reason==='quota_exhausted'?429:['provider_missing','generation_paused','provider_cooldown','daily_cap'].includes(current.access.reason)?503:403,(current.access.reason==='provider_cooldown'?'Le fournisseur est temporairement indisponible. Réessayez dans '+current.access.retry_after_seconds+' secondes. Aucun message n’a été décompté.':current.access.reason==='daily_cap'?'Le service a atteint sa limite d’utilisation pour aujourd’hui. Réessayez demain. Aucun message n’a été décompté.':'La conversation avec Ambre nécessite votre accord et un accès actif.')+(signal?'\n\n'+safetyReply(signal):''),current.access.reason);const changeState=await readChangeState(env,user.id),context=await personal.context(env,user.id),settings=await first(env,'SELECT * FROM chat_settings WHERE user_id=?',user.id),id=random(),lease=random(),week=parisWeek(new Date(now()*1000)).week_start;const result=await run(env,`INSERT OR IGNORE INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,lease_token,lease_until${changeState.available?',context_generation':''}) SELECT ?,?,?,?,'running','reserved',?,?,?,?,?,?,?${changeState.available?',COALESCE((SELECT context_generation FROM change_plans WHERE user_id=s.user_id),0)':''} FROM subscriptions s JOIN chat_settings cs ON cs.user_id=s.user_id JOIN profiles p ON p.user_id=s.user_id WHERE s.user_id=? AND ${accessSql(env,'s')} AND cs.consent=1 AND cs.revision=? AND p.version=? AND NOT EXISTS(SELECT 1 FROM chat_turns WHERE user_id=s.user_id AND status='running') AND (SELECT count(*) FROM chat_turns WHERE user_id=s.user_id AND week_start=? AND credit_status IN ('reserved','consumed'))<100 AND (SELECT count(*) FROM chat_turns WHERE user_id=s.user_id AND created_at>datetime('now','-1 hour'))<30 AND (SELECT count(*) FROM chat_turns WHERE user_id=s.user_id AND week_start=?)<200`,id,user.id,key,hash,week,context.source_version,settings.revision,content,signal?JSON.stringify({companion_reply:1,content:safetyReply(signal)}):'',lease,now()+60,user.id,now(),settings.revision,context.source_version,week,week);if(!result.meta.changes){const duplicate=await first(env,'SELECT * FROM chat_turns WHERE user_id=? AND idempotency_key=?',user.id,key);if(duplicate){if(duplicate.payload_hash!==hash)fail(409,'Clé utilisée pour un autre message.','idempotency_conflict');return json({...await state(env,user.id),request_id:duplicate.id},duplicate.status==='running'?202:200);}const q=await quota(env,user.id);if(!q.remaining)fail(429,'Vos 100 messages de la semaine ont été utilisés.','quota_exhausted');if(await first(env,"SELECT id FROM chat_turns WHERE user_id=? AND status='running'",user.id))fail(409,'Une réponse est déjà en préparation.','request_in_progress');fail(429,'Trop de tentatives. Réessayez plus tard.','request_limit');}const turn={id,content,lease_token:lease,week_start:week,observation_revision:peopleObservationRevision(settings)};if(engineEnabled)await engine.enqueue(env,user.id,turn);const task=engineEnabled?engine.work(env,id):generate(env,user.id,turn,context);if(ctx?.waitUntil){ctx.waitUntil(task);return json({...await state(env,user.id),request_id:id},202);}await task;return json({...await state(env,user.id),request_id:id});}
  async function accept(env,userId,id,data,ctx){object(data);const p=await first(env,'SELECT * FROM chat_proposals WHERE id=? AND user_id=?',id,userId);if(!p)fail(404,'Proposition introuvable.','not_found');if(!kinds.includes(p.kind))fail(410,'Cette proposition a été retirée.','proposal_retired');if(p.status==='accepted')return json({ok:true,proposal:activeProposalRow(p),...await state(env,userId)});if(!Number.isInteger(data.revision)||p.revision!==data.revision)fail(409,'Cette proposition a changé.','revision_conflict');if(p.status==='rejected')fail(409,'Cette proposition a été refusée.','proposal_closed');const before=stripRetiredEventOption(p.kind,parse(p.before_data));
  const payload=normalized(p.kind,stripRetiredEventOption(p.kind,data.payload??parse(p.payload)),before),serialized=JSON.stringify(payload),token=random();
  if(p.status!=='pending')fail(409,'Cette proposition est déjà en cours.','proposal_in_progress');
@@ -516,7 +560,31 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  else{const cols=Object.keys(merged).filter(k=>k!=='people_ids'),values=cols.map(k=>merged[k]),hash=await contextHash(serialized);if(p.kind.endsWith('_create'))statements.push(stmt(env,`INSERT INTO ${table}(id,user_id,creation_id,payload_hash,${cols.join(',')}) SELECT ?,?,?,?,${cols.map(()=>'?').join(',')} WHERE ${guard}`,p.target_id,userId,'chat-'+id,hash,...values,...args));else statements.push(stmt(env,`UPDATE ${table} SET ${cols.map(k=>k+'=?').join(',')},payload_hash=?,revision=revision+1,updated_at=CURRENT_TIMESTAMP WHERE id=? AND user_id=? AND ${guard}`,...values,hash,p.target_id,userId,...args));statements.push(stmt(env,`UPDATE profiles SET version=version+1 WHERE user_id=? AND changes()>0 AND ${guard}`,userId,...args));if(table==='life_events'){statements.push(stmt(env,`DELETE FROM life_event_people WHERE event_id=? AND user_id=? AND ${guard}`,p.target_id,userId,...args));statements.push(stmt(env,`INSERT INTO life_event_people(event_id,person_id,user_id) SELECT ?,value,? FROM json_each(?) WHERE ${guard}`,p.target_id,userId,JSON.stringify(merged.people_ids),...args));}}
  statements.push(stmt(env,`UPDATE chat_proposals SET status='accepted',revision=revision+1,apply_token=NULL,result_json=? WHERE id=? AND user_id=? AND ${guard}`,JSON.stringify({target_id:p.target_id,kind:p.kind}),id,userId,...args));const result=await env.DB.batch(statements);if(!result[0].meta.changes)fail(409,'Les données ont changé depuis cette proposition. Rechargez-les avant de réessayer.','revision_conflict');await personal.sourcesChanged(env,userId,ctx);return json({ok:true,...await state(env,userId)});
  }
- async function exportData(env,userId){return {chat_memory:await first(env,'SELECT summary,through_turn,turns_covered,updated_at FROM chat_memory WHERE user_id=?',userId),chat_traces:await all(env,'SELECT turn_id,trace,created_at FROM chat_turn_traces WHERE user_id=? ORDER BY created_at DESC LIMIT 1000',userId),chat_consent:Boolean((await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent),chat_messages:(await all(env,'SELECT id,idempotency_key,content,response,status,created_at FROM chat_turns WHERE user_id=? AND purged=0 ORDER BY rowid',userId)).flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,status:t.status,created_at:t.created_at}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]),chat_proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY created_at,id',userId)).map(proposalRow),ambre_reviews:(await reviewTable(()=>all(env,'SELECT id,kind,status,content,error_code,sources,created_at,completed_at FROM ambre_reviews WHERE user_id=? ORDER BY created_at DESC,id DESC LIMIT 1000',userId),[])).map(reviewRow)};}
+ // F4: paginated export with a declared coverage. Every trace and every message is
+ // exported; past a size budget the exact stage inputs of older traces are left out
+ // (and counted) so the export stays within Worker memory.
+ const EXPORT_PAGE=200,EXPORT_TRACE_BYTES=16*1024*1024;
+ async function exportData(env,userId){
+  const started=now(),traces=[],messages=[],reviews=[],traceCoverage={total:0,with_exact_inputs:0,summarized_by_retention:0,exact_inputs_omitted_for_size:0};let budget=EXPORT_TRACE_BYTES;
+  for(let cursor=null;;){
+   const page=await all(env,`SELECT turn_id,created_at,length(trace) AS size,json_extract(trace,'$.details.compacted') AS compacted FROM chat_turn_traces WHERE user_id=?${cursor?' AND (created_at<? OR (created_at=? AND turn_id<?))':''} ORDER BY created_at DESC,turn_id DESC LIMIT ?`,userId,...(cursor?[cursor.created_at,cursor.created_at,cursor.turn_id]:[]),EXPORT_PAGE);
+   if(!page.length)break;
+   const full=page.filter(row=>{if(row.size>budget)return false;budget-=row.size;return true}).map(row=>row.turn_id);
+   const rows=await all(env,`SELECT turn_id,created_at,CASE WHEN turn_id IN (SELECT value FROM json_each(?)) THEN trace ELSE json_set(${COMPACT_TRACE_SQL},'$.details.export_omitted',1) END AS trace FROM chat_turn_traces WHERE user_id=? AND turn_id IN (SELECT value FROM json_each(?)) ORDER BY created_at DESC,turn_id DESC`,JSON.stringify(full),userId,JSON.stringify(page.map(row=>row.turn_id)));
+   for(const row of rows){const kept=full.includes(row.turn_id),compacted=page.find(p=>p.turn_id===row.turn_id)?.compacted;traceCoverage.total++;if(compacted)traceCoverage.summarized_by_retention++;else if(kept)traceCoverage.with_exact_inputs++;else traceCoverage.exact_inputs_omitted_for_size++;traces.push(row)}
+   cursor=page.at(-1);if(page.length<EXPORT_PAGE)break;
+  }
+  for(let after=0;;){
+   const page=await all(env,'SELECT rowid AS n,id,idempotency_key,content,response,status,created_at FROM chat_turns WHERE user_id=? AND purged=0 AND rowid>? ORDER BY rowid LIMIT ?',userId,after,EXPORT_PAGE*2);
+   for(const t of page)messages.push(...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,status:t.status,created_at:t.created_at}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[]));
+   if(page.length<EXPORT_PAGE*2)break;after=page.at(-1).n;
+  }
+  for(let cursor=null;;){
+   const page=await reviewTable(()=>all(env,`SELECT id,kind,status,content,error_code,sources,created_at,completed_at FROM ambre_reviews WHERE user_id=?${cursor?' AND (created_at<? OR (created_at=? AND id<?))':''} ORDER BY created_at DESC,id DESC LIMIT ?`,userId,...(cursor?[cursor.created_at,cursor.created_at,cursor.id]:[]),EXPORT_PAGE),[]);
+   reviews.push(...page.map(reviewRow));if(page.length<EXPORT_PAGE)break;cursor=page.at(-1);
+  }
+  return {chat_memory:await first(env,'SELECT summary,through_turn,turns_covered,updated_at FROM chat_memory WHERE user_id=?',userId),chat_traces:traces,chat_consent:Boolean((await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent),chat_messages:messages,chat_proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY created_at,id',userId)).map(proposalRow),ambre_reviews:reviews,chat_export_coverage:{complete:true,started_at:started,page_size:EXPORT_PAGE,consistency:'Lecture paginée, sans instantané transactionnel. Toutes les traces, tous les messages conservés et tous les bilans sont inclus.',included:{chat_traces:traces.length,chat_messages:messages.length,ambre_reviews:reviews.length},traces:{...traceCoverage,exact_inputs_byte_budget:EXPORT_TRACE_BYTES,note:'Les entrées exactes sont conservées 30 jours (200 derniers échanges au plus), puis résumées. Au-delà du budget de taille de l’export, les entrées exactes des traces les plus anciennes sont omises et comptées ici ; elles restent consultables dans Paramètres.'}}};
+ }
  const purgePeopleObservations=(env,userId)=>stmt(env,'DELETE FROM people_observations WHERE user_id=?',userId);
 
  // ---- Journey and written reviews -------------------------------------------------
@@ -524,6 +592,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  // attempt; the minute cron resumes expired leases in small batches, up to a cap.
  const REVIEW_INTERVAL=86400,REVIEW_FIRST_INTERVAL=3600,REVIEW_ATTEMPTS=3,REVIEW_CONTEXT_LIMIT=34000;
  const generationPaused=env=>['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase());
+ const reviewModel=env=>env.OPENROUTER_REVIEW_MODEL||env.OPENROUTER_CHAT_MODEL||'anthropic/claude-sonnet-5.5';
  const missingReviews=e=>/no such table:\s*ambre_reviews/i.test(String(e?.message||''));
  // Before the 0018 migration the conversation simply cannot be started.
  const reviewTable=async(query,fallback)=>{try{return await query();}catch(e){if(missingReviews(e))return fallback;throw e;}};
@@ -644,12 +713,22 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    const registered=await env.DB.batch([stmt(env,`UPDATE ambre_reviews SET sources=? WHERE ${held} AND ${cas.sql}`,JSON.stringify(meta),...sourceArgs),...changeArtifactStatements(env,userId,'review',review.id,refs,changeState.context_generation,sourceGuard,sourceArgs)]);
    if(!registered[0].meta.changes)throw Object.assign(new Error('Sources changed'),{code:'context_changed'});
    const messages=[{role:'system',content:buildReviewSystemPrompt(review.kind)},{role:'user',content:'Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data)}];
-   const reservation=Math.ceil(JSON.stringify(messages).length/3)+3500,week=parisWeek(new Date(now()*1000)).week_start,limit=Number(env.WEEKLY_TOKEN_BUDGET)||3000000;
+   const reservation=Math.ceil(JSON.stringify(messages).length/3)+3500,week=parisWeek(new Date(now()*1000)).week_start,limit=Number(env.WEEKLY_TOKEN_BUDGET)||3000000,model=reviewModel(env);
+   // Shared provider guard and daily cap before any reservation (F10, F12).
+   const blocked=await providerBlock(env,[model],now());if(blocked)throw Object.assign(new Error('cooldown'),{code:blocked.reason,refusal:true,retryAt:blocked.retry_at,wait:!(blocked.scope==='key'&&/^provider_http_40[13]/.test(blocked.reason||''))});
+   if(!await reserveDaily(env,{tokens:reservation,now:now()}))throw Object.assign(new Error('daily cap'),{code:'daily_cap',refusal:true,retryAt:now()+3600});
    const reserved=await run(env,`INSERT INTO provider_budgets(user_id,week_start,provider_calls,reserved_tokens) SELECT ?,?,1,? WHERE EXISTS(SELECT 1 FROM ambre_reviews WHERE ${held}) AND ?<=? ON CONFLICT(user_id,week_start) DO UPDATE SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+excluded.reserved_tokens WHERE reserved_tokens+excluded.reserved_tokens<=?`,userId,week,reservation,review.id,review.lease_token,reservation,limit,limit);
-   if(!reserved.meta.changes){if(await first(env,`SELECT 1 AS held FROM ambre_reviews WHERE ${held}`,review.id,review.lease_token))throw Object.assign(new Error('budget'),{code:'generation_budget'});return;}
+   if(!reserved.meta.changes){await releaseDaily(env,{tokens:reservation,now:now()});if(await first(env,`SELECT 1 AS held FROM ambre_reviews WHERE ${held}`,review.id,review.lease_token))throw Object.assign(new Error('budget'),{code:'generation_budget'});return;}
    const remaining=deadline-Date.now()-1500;if(remaining<3000)throw Object.assign(new Error('provider_timeout'),{name:'TimeoutError'});
-   const res=await fetch('https://openrouter.ai/api/v1/chat/completions',{method:'POST',headers:{Authorization:`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model:env.OPENROUTER_REVIEW_MODEL||env.OPENROUTER_CHAT_MODEL||'anthropic/claude-sonnet-5.5',messages,response_format:{type:'json_schema',json_schema:{name:'ambre_review',strict:true,schema:objectSchema({content:stringSchema})}},max_tokens:3200,reasoning:{effort:'low'},provider:{require_parameters:true,data_collection:'deny',zdr:true,allow_fallbacks:true}}),signal:AbortSignal.timeout(remaining)});
+   const res=await fetch(PROVIDER_URL,{method:'POST',headers:{Authorization:`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages,response_format:{type:'json_schema',json_schema:{name:'ambre_review',strict:true,schema:objectSchema({content:stringSchema})}},max_tokens:3200,reasoning:{effort:'low'},provider:{require_parameters:true,data_collection:'deny',zdr:true,allow_fallbacks:true}}),signal:AbortSignal.timeout(remaining)});
    const detail=await res.json().catch(e=>{if(['TimeoutError','AbortError'].includes(e.name))throw e;return {};});
+   if(!res.ok&&REFUSAL_STATUSES.includes(res.status)){
+    // Nothing was consumed: refund, share the cooldown, keep the attempt.
+    const refusal=await recordRefusal(env,{status:res.status,headers:res.headers,metadata:detail?.error?.metadata,model,now:now()});
+    await run(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reservation,userId,week);
+    await releaseDaily(env,{tokens:reservation,now:now()});
+    throw Object.assign(new Error('provider_refused'),{code:'provider_http_'+res.status,refusal:true,retryAt:refusal.deferred_until,wait:refusal.wait!==false});
+   }
    if(!res.ok||detail.error){
     const status=res.ok?502:res.status,retryAfter=retryAfterSeconds(res.headers.get('Retry-After'),now());
     throw Object.assign(new Error('provider_error'),{code:'provider_http_'+status,retryAfter:retryAfter??(status===429?120:30)});
@@ -671,6 +750,19 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    ]);
    if(!results[1].meta.changes)throw Object.assign(new Error('Sources changed'),{code:(await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent?'context_changed':'consent_withdrawn'});
   }catch(e){
+   if(e.refusal){
+    // A refusal or cooldown is not an attempt: wait for the shared retry time, but
+    // never indefinitely. A running review blocks new messages (review_in_progress),
+    // so a non-waiting refusal (rejected key, daily cap) or a wait past ten minutes
+    // since the request ends the review instead of holding the conversation.
+    const t=now(),until=Math.max(t+1,Number(e.deferred_until||e.retryAt)||t+30),why=/^[a-z0-9_]{1,60}$/.test(e.provider_code||e.code||'')?(e.provider_code||e.code):'provider_cooldown';
+    if(e.wait===false||until-(Number(review.created_at)||t)>600){
+     await run(env,`UPDATE ambre_reviews SET status='failed',completed_at=?,error_code=?,lease_token=NULL,lease_until=0 WHERE ${held}`,t,why,review.id,review.lease_token).catch(()=>{});
+     return;
+    }
+    await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code=?,lease_token=NULL,lease_until=? WHERE ${held}`,why,until,review.id,review.lease_token).catch(()=>{});
+    return;
+   }
    const timeout=['TimeoutError','AbortError'].includes(e.name),code=timeout?'provider_timeout':/^(?:provider_http_\d{3}|invalid_response|context_changed)$/.test(e.code||'')||REVIEW_FINAL.includes(e.code)?e.code:'provider_error',t=now();
    // Keep the review running for the cron unless the cause is final or the cap is reached.
    await run(env,`UPDATE ambre_reviews SET status=CASE WHEN ? OR attempts>=? THEN 'failed' ELSE 'running' END,completed_at=CASE WHEN ? OR attempts>=? THEN ? ELSE NULL END,error_code=?,lease_token=NULL,lease_until=? WHERE ${held}`,Number(REVIEW_FINAL.includes(code)),REVIEW_ATTEMPTS,Number(REVIEW_FINAL.includes(code)),REVIEW_ATTEMPTS,t,code,timeout?t:t+Number(e.retryAfter||30),review.id,review.lease_token).catch(()=>{});
@@ -685,8 +777,8 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   const expired=await reviewTable(()=>run(env,"UPDATE ambre_reviews SET status='failed',error_code=COALESCE(error_code,'attempts_exhausted'),lease_token=NULL,lease_until=0,completed_at=? WHERE status='running' AND lease_until<=? AND attempts>=?",t,t,REVIEW_ATTEMPTS),null);
   if(!expired)return summary;
   summary.failed=expired.meta.changes;
-  if(await providerCooldown(env))return summary;
-  const due=await all(env,"SELECT id,user_id,kind FROM ambre_reviews WHERE status='running' AND lease_until<=? ORDER BY lease_until,id LIMIT ?",t,Math.max(1,Math.min(20,limit))),tasks=[];
+  if(!engineEnabled&&await providerCooldown(env)||await providerBlock(env,[reviewModel(env)],now()))return summary;
+  const due=await all(env,"SELECT id,user_id,kind,created_at FROM ambre_reviews WHERE status='running' AND lease_until<=? ORDER BY lease_until,id LIMIT ?",t,Math.max(1,Math.min(20,limit))),tasks=[];
   for(const row of due){
    const lease=random(),claim=await run(env,"UPDATE ambre_reviews SET lease_token=?,lease_until=?,attempts=attempts+1 WHERE id=? AND status='running' AND lease_until<=? AND attempts<?",lease,t+Math.ceil(timeoutMs/1000)+30,row.id,t,REVIEW_ATTEMPTS);
    if(!claim.meta.changes)continue;
@@ -739,23 +831,23 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  }
  async function routes(request,env,user,path,url,ctx){
   if(path==='/api/reviews'||path.startsWith('/api/reviews/'))return reviewRoutes(request,env,user,path,url);
-  if(!path.startsWith('/api/chat'))return null;const method=request.method;if(path==='/api/chat/insight'&&method==='GET')return json(await engine.insight(env,user.id,url));if(path==='/api/chat/memory'&&method==='PUT'){try{await engine.editMemory(env,user.id,await body(request,40000));return json(await engine.insight(env,user.id,url))}catch(e){fail(e.status||500,e.message,e.code)}}if(path==='/api/chat/start'&&method==='POST')return startJourney(request,env,user,ctx);if(path==='/api/chat/review'&&method==='POST')return requestPoint(request,env,user,ctx);if(path==='/api/chat'&&method==='GET'){const current=await state(env,user.id);if(engineEnabled&&current.pending_request?.id&&ctx?.waitUntil)ctx.waitUntil(engine.work(env,current.pending_request.id));return json(current);}if(path==='/api/chat/messages'&&method==='POST')return send(request,env,user,ctx);if(path==='/api/chat/character/prepare')fail(410,'Cette fonction a été retirée.','feature_retired');if(path==='/api/chat/consent'&&method==='PUT'){const data=await body(request,1000);if(typeof data.accepted!=='boolean')fail(400,'Votre choix explicite est requis.','invalid_consent');
+  if(!path.startsWith('/api/chat'))return null;const method=request.method;if(path==='/api/chat/insight'&&method==='GET')return json(await engine.insight(env,user.id,url));if(path==='/api/chat/memory'&&method==='PUT'){try{await engine.editMemory(env,user.id,await body(request,40000));return json(await engine.insight(env,user.id,url))}catch(e){/* F16: only typed errors keep their message; never a raw database text. */if(e.status)fail(e.status,e.message,e.code);fail(500,'Une erreur temporaire est survenue. Réessayez plus tard.','internal_error')}}if(path==='/api/chat/start'&&method==='POST')return startJourney(request,env,user,ctx);if(path==='/api/chat/review'&&method==='POST')return requestPoint(request,env,user,ctx);if(path==='/api/chat'&&method==='GET'){const current=await state(env,user.id);if(engineEnabled&&current.pending_request?.id&&ctx?.waitUntil)ctx.waitUntil(engine.work(env,current.pending_request.id));return json(current);}if(path==='/api/chat/messages'&&method==='POST')return send(request,env,user,ctx);if(path==='/api/chat/character/prepare')fail(410,'Cette fonction a été retirée.','feature_retired');if(path==='/api/chat/consent'&&method==='PUT'){const data=await body(request,1000);if(typeof data.accepted!=='boolean')fail(400,'Votre choix explicite est requis.','invalid_consent');
   await setConsent(env,user.id,data.accepted);return json(await state(env,user.id));}if(path==='/api/chat'&&method==='DELETE'){
    const data=await body(request,1000);if(data.include_plan!==undefined&&typeof data.include_plan!=='boolean')fail(400,'Choix de suppression invalide.','invalid_input');
    const planState=await readChangeState(env,user.id),change=planState.available?await clearChatChangeState(env,user.id,{includePlan:data.include_plan===true,now:now()}):{statements:[],guard:{sql:'1=1',args:[]},retained:''},g=change.guard;
    const statements=[...change.statements,stmt(env,`INSERT INTO chat_settings(user_id,consent) SELECT ?,0 WHERE ${g.sql} ON CONFLICT(user_id) DO UPDATE SET consent=0,revision=revision+1,updated_at=CURRENT_TIMESTAMP`,user.id,...g.args),stmt(env,`UPDATE ambre_reviews SET status='failed',content='',error_code='consent_withdrawn',lease_token=NULL,lease_until=0,completed_at=? WHERE user_id=? AND ${g.sql}`,now(),user.id,...g.args),stmt(env,`UPDATE chat_turns SET content='',response='',purged=1,status=CASE WHEN status='running' THEN 'failed' ELSE status END,credit_status=CASE WHEN credit_status='reserved' THEN 'released' ELSE credit_status END,lease_token=NULL WHERE user_id=? AND ${g.sql}`,user.id,...g.args),...['chat_proposals','people_observations','chat_memory','chat_memory_jobs','chat_turn_traces','chat_engine_jobs'].map(table=>stmt(env,`DELETE FROM ${table} WHERE user_id=? AND ${g.sql}`,user.id,...g.args))];
    const results=await env.DB.batch(statements);if(!results[0].meta.changes)fail(409,'Vos informations ont changé. Réessayez la suppression.','revision_conflict');
    return json({...await state(env,user.id),notice:'Conversation, mémoire et bilans effacés. Pour discuter à nouveau avec Ambre, donnez votre accord et lancez une nouvelle analyse initiale.',retained:'Les informations déjà acceptées dans votre profil, vos proches et votre ligne de vie sont conservées. '+change.retained});
-  }let match=path.match(/^\/api\/chat\/proposals\/([\w-]+)\/(accept|reject)$/);if(match&&method==='POST'){const data=await body(request,45000);if(match[2]==='accept')return accept(env,user.id,match[1],data,ctx);const p=await first(env,'SELECT * FROM chat_proposals WHERE id=? AND user_id=?',match[1],user.id);if(!p)fail(404,'Proposition introuvable.','not_found');if(!kinds.includes(p.kind))fail(410,'Cette proposition a été retirée.','proposal_retired');if(p.status==='rejected')return json(await state(env,user.id));const r=await run(env,"UPDATE chat_proposals SET status='rejected',revision=revision+1 WHERE id=? AND user_id=? AND revision=? AND status='pending'",match[1],user.id,Number.isInteger(data.revision)?data.revision:-1);if(!r.meta.changes)fail(409,'Cette proposition a changé.','revision_conflict');return json(await state(env,user.id));}match=path.match(/^\/api\/chat\/requests\/([\w-]+)$/);if(match&&method==='GET'){const r=await first(env,'SELECT id,status,error_code FROM chat_turns WHERE id=? AND user_id=?',match[1],user.id);if(!r)fail(404,'Demande introuvable.','not_found');return json({request:r,...await state(env,user.id)});}return null;}
- async function prepareEngineDraft(env,userId,turn,context,output,analysis){
+  }let match=path.match(/^\/api\/chat\/proposals\/([\w-]+)\/(accept|reject)$/);if(match&&method==='POST'){const data=await body(request,45000);if(match[2]==='accept')return accept(env,user.id,match[1],data,ctx);const p=await first(env,'SELECT * FROM chat_proposals WHERE id=? AND user_id=?',match[1],user.id);if(!p)fail(404,'Proposition introuvable.','not_found');if(!kinds.includes(p.kind))fail(410,'Cette proposition a été retirée.','proposal_retired');if(p.status==='rejected')return json(await state(env,user.id));const r=await run(env,"UPDATE chat_proposals SET status='rejected',revision=revision+1 WHERE id=? AND user_id=? AND revision=? AND status='pending'",match[1],user.id,Number.isInteger(data.revision)?data.revision:-1);if(!r.meta.changes)fail(409,'Cette proposition a changé.','revision_conflict');return json(await state(env,user.id));}match=path.match(/^\/api\/chat\/requests\/([\w-]+)$/);if(match&&method==='GET'&&url?.searchParams.get('view')==='status')return json(await requestStatus(env,user.id,match[1],ctx));if(match&&method==='GET'){const r=await first(env,'SELECT id,status,error_code FROM chat_turns WHERE id=? AND user_id=?',match[1],user.id);if(!r)fail(404,'Demande introuvable.','not_found');return json({request:r,...await state(env,user.id)});}return null;}
+ async function prepareEngineDraft(env,userId,turn,context,output,analysis,options={}){
   const draft={content:bounded(output.content,12000,true),questions:[],proposals:[],cartography_notes:[],people_observations:[]};
   const questions=Array.isArray(output.questions)?output.questions.filter(q=>typeof q==='string'&&q.trim()&&q.length<=320).slice(0,1).map(q=>q.trim()):[];
   draft.questions=questions;
   if(questions.length)draft.content+='\n\n'+questions.join('\n\n');
-  if(analysis.risk!=='none'){draft.content=ensureSafetyResources(draft.content,analysis.safety_signal||crisisSignal(turn.content)||'self_harm');return draft}
+  if(analysis.risk!=='none'){draft.content=ensureSafetyResources(draft.content,replySignal(analysis,turn.content));return draft}
   for(const proposal of (output.proposals||[]).slice(0,3)){try{await makeProposal(env,userId,turn.id,proposal,turn.content,context,output.proposals.length);draft.proposals.push(proposal)}catch{}}
   if(!declinesRetention(turn.content)&&context.cartography){
-   const notes=(output.cartography_notes||[]).filter(n=>typeof n.quote==='string'&&n.quote.length>=3&&n.quote.length<=300&&turn.content.includes(n.quote)).map(n=>({...n,text:'Vous dites : « '+n.quote+' »'}));
+   const notes=cartographyNoteCandidates(output.cartography_notes,turn.content,context.cartography,options.cartography_targets);
    draft.cartography_notes=chooseAmbreNotes(notes,context.cartography.ambre_notes||[]);
   }
   const settings=await first(env,'SELECT * FROM chat_settings WHERE user_id=?',userId),relation=await peopleObservationContext(env,userId,context.people||[],turn.content,null,peopleObservationRevision(settings));
@@ -795,6 +887,22 @@ payload.changes : champs modifiés seulement ; value_json est une valeur JSON en
 Identité explicitement déclarée et citée, jamais déduite. birth_date : date complète citée et normalisée AAAA-MM-JJ ; aucun jour/mois tiré d’un âge. gender : female,male,non_binary,self_described,unspecified ; gender_description : mots de la personne.
 cartography_notes : citations actuelles exactes (3 à 300 caractères), vécu pertinent seulement ; cibles de cartography_targets, ou general/null. Aucune interprétation ni case cochée. people_observations : person_id et quote exactement issus de observation_candidates, axis selon schéma. Ni note sensible, répétée, inventée ou refusée. En cas de doute ou de danger : propositions et notes vides. Le serveur annonce seul les notes écrites.`;
  const engine=createAmbreEngine({now,random,personal,schema:engineSchema,contract:engineContract,publish:publishEngine,prepareDraft:prepareEngineDraft});
- return {routes,exportData,quota,resumeReviews,generateText:engine.generateText,resumeEngine:engine.resume,engine};
+ // F13: aggregated, content-free counters. Names are fixed codes; no identifier or text.
+ async function recordCron(env,{failed=[],engine:engineRun,reviews,duration_ms=0}={}){
+  const t=now();await countMetric(env,t,'cron_runs');await countMetric(env,t,'cron_duration_ms',duration_ms);
+  for(const name of failed)await countMetric(env,t,'cron_failed_'+name);
+  if(engineRun&&!engineRun.error){await countMetric(env,t,'cron_turns_resumed',engineRun.turns||0);await countMetric(env,t,'cron_memories_resumed',engineRun.memories||0);}
+  if(reviews&&!reviews.error)await countMetric(env,t,'cron_reviews_claimed',reviews.claimed||0);
+ }
+ async function metrics(env,{days=7}={}){
+  const t=now(),since=new Date((t-Math.max(1,Math.min(31,days))*86400)*1000).toISOString().slice(0,10);
+  const optional=async(query,fallback)=>{try{return await query()}catch(e){if(/no such (?:table|column)/i.test(String(e?.message||'')))return fallback;throw e}};
+  const counters=await optional(()=>all(env,'SELECT day,name,value FROM service_metrics WHERE day>=? ORDER BY day,name LIMIT 2000',since),[]);
+  const backlog=await first(env,"SELECT (SELECT count(*) FROM chat_engine_jobs WHERE stage NOT IN ('done','failed')) AS turns_live,(SELECT count(*) FROM chat_engine_jobs WHERE stage NOT IN ('done','failed') AND lease_until<=?) AS turns_due,(SELECT count(*) FROM chat_memory_jobs) AS memory_jobs,(SELECT count(*) FROM chat_memory_jobs WHERE lease_until<=?) AS memory_due",t,t);
+  const cooldowns=await optional(()=>all(env,'SELECT scope,retry_at,reason FROM provider_state WHERE retry_at>? ORDER BY retry_at DESC LIMIT 50',t),[]);
+  const daily=await optional(()=>all(env,'SELECT day,reserved_tokens,calls FROM provider_global_budget WHERE day>=? ORDER BY day LIMIT 40',since),[]);
+  return {generated_at:t,since,counters,backlog,cooldowns,daily_budget:daily,daily_cap:Math.max(0,Math.floor(Number(env.DAILY_PROVIDER_TOKEN_CAP)||0))};
+ }
+ return {routes,exportData,quota,resumeReviews,generateText:engine.generateText,resumeEngine:engine.resume,engine,recordCron,metrics};
 
 }

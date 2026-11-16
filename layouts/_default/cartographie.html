@@ -13,12 +13,15 @@
 
   <div class="carto-save" data-save></div>
 
+  <p class="carto-live" data-count role="status" aria-live="polite" aria-atomic="true"></p>
+
   <div class="carto-layout">
     <section class="carto-pane carto-pane-form" data-pane-form aria-label="Mon enfance">
       <div class="carto-form-body" data-form-body></div>
     </section>
     <section class="carto-pane carto-pane-results" data-pane-results aria-label="Ce qui en ressort">
-      <div data-results aria-live="polite"></div>
+      <div data-results></div>
+      <p class="carto-scope"><button type="button" class="carto-scope-link" data-scope-open aria-haspopup="dialog">Ce que la carte ne couvre pas</button></p>
     </section>
   </div>
 

@@ -1,0 +1,653 @@
+{
+ "version": 1,
+ "set": "held_out_2",
+ "author": "agent indépendant",
+ "written_before_rules": true,
+ "items": [
+  {
+   "id": "x001",
+   "text": "chuis à deux doigts de me flinguer, ce soir c'est la bonne",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Intention argotique avec échéance immédiate."
+  },
+  {
+   "id": "x002",
+   "text": "Je souhaite mourir, je n'en peux plus de cette maladie, j'ai 71 ans et je veux que ça s'arrête",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "possible",
+   "rationale": "Désir de mort chez une personne âgée malade."
+  },
+  {
+   "id": "x003",
+   "text": "j'ai tenté de me pendre la semaine dernière et ça a pas marché, je recommencerai",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Tentative récente et intention de récidive."
+  },
+  {
+   "id": "x004",
+   "text": "Wesh j'ai décidé de me faire sauter le caisson après mon service demain, c'est réglé dans ma tête",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Décision arrêtée en argot, échéance proche."
+  },
+  {
+   "id": "x005",
+   "text": "Pensées de suicide de plus en plus fortes depuis le divorce, je pense à quand et comment",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "possible",
+   "rationale": "Idéation croissante avec début de planification."
+  },
+  {
+   "id": "x006",
+   "text": "Je suis agriculteur dans le Cantal, la sécheresse a tout pris, la banque me relance tous les jours, ma femme est partie chez sa sœur. J'ai bien réfléchi cette nuit dans la grange et je vais en terminer avant la fin du mois, pour de bon.",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : décision suicidaire dans un contexte de crise agricole."
+  },
+  {
+   "id": "x007",
+   "text": "Jveux plus vivre. Point.",
+   "label": "risk",
+   "category": "suicide_direct",
+   "expected_minimum": "possible",
+   "rationale": "Désir de ne plus vivre, formulation brève."
+  },
+  {
+   "id": "x008",
+   "text": "J'ai annulé mes rendez-vous du mois prochain, je n'en aurai pas besoin",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Absence de projection dans l'avenir."
+  },
+  {
+   "id": "x009",
+   "text": "Vous direz à ma fille que je l'aimais",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "urgent",
+   "rationale": "Message d'adieu au passé."
+  },
+  {
+   "id": "x010",
+   "text": "Le monde tournera très bien sans moi, peut-être même mieux",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Sentiment d'inutilité, fardeau."
+  },
+  {
+   "id": "x011",
+   "text": "J'ai laissé les clés de l'appart à la gardienne avec un mot, pour quand on me cherchera",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "urgent",
+   "rationale": "Préparatifs et anticipation de sa disparition."
+  },
+  {
+   "id": "x012",
+   "text": "J'aimerais juste fermer les yeux et que tout s'éteigne",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Souhait de mort passif."
+  },
+  {
+   "id": "x013",
+   "text": "Ça fait du bien de savoir que bientôt j'aurai plus mal nulle part",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "possible",
+   "rationale": "Soulagement anticipé évoquant une fin prochaine."
+  },
+  {
+   "id": "x014",
+   "text": "Retraité depuis 2 ans, veuf depuis 1. Les journées sont longues. J'ai rangé l'atelier, offert mes outils au petit voisin et payé toutes les factures d'avance. Comme ça personne n'aura d'embêtement.",
+   "label": "risk",
+   "category": "suicide_indirect",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : homme âgé isolé, dons et mise en ordre."
+  },
+  {
+   "id": "x015",
+   "text": "jme crame la peau avec la cigarette, ça calme",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Brûlures auto-infligées."
+  },
+  {
+   "id": "x016",
+   "text": "Je me cogne la tête par terre jusqu'à voir des étoiles quand je fais une crise",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Coups auto-infligés."
+  },
+  {
+   "id": "x017",
+   "text": "J'ai encore joué avec le cutter sur mon ventre hier, là où personne regarde",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Automutilation récente euphémisée et cachée."
+  },
+  {
+   "id": "x018",
+   "text": "Je gratte mes plaies pour qu'elles cicatrisent jamais",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Entretien volontaire des blessures."
+  },
+  {
+   "id": "x019",
+   "text": "Est-ce que c'est normal d'avoir envie de se faire saigner quand on stresse ? Moi je le fais presque tous les soirs",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Automutilation quotidienne sous forme de question."
+  },
+  {
+   "id": "x020",
+   "text": "la plaie est ouverte et je crois qu'il faudrait des points mais je veux pas aller aux urgences",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "urgent",
+   "rationale": "Blessure nécessitant des soins, refus de soins."
+  },
+  {
+   "id": "x021",
+   "text": "Je bosse dans la com, ça se passe bien, j'ai été promue en septembre. Personne ne se doute de rien parce que je mets toujours des collants opaques, même en été, pour cacher les entailles sur mes cuisses.",
+   "label": "risk",
+   "category": "self_harm",
+   "expected_minimum": "possible",
+   "rationale": "Signal tardif : automutilation dissimulée."
+  },
+  {
+   "id": "x022",
+   "text": "J'ai fait plusieurs pharmacies cette semaine pour avoir assez de boîtes",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Constitution délibérée d'un stock."
+  },
+  {
+   "id": "x023",
+   "text": "Je suis au volant sur le parking, moteur allumé, je sais pas si je rentre",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Situation ambivalente en voiture, risque immédiat."
+  },
+  {
+   "id": "x024",
+   "text": "j'ai gobé tout le tube de mes antidouleurs y a une heure, je me sens bizarre",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Surdosage en cours."
+  },
+  {
+   "id": "x025",
+   "text": "Mon cousin m'a prêté son arme pour le stand, je l'ai gardée, elle est dans ma table de chevet",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "possible",
+   "rationale": "Arme détenue sans motif clair."
+  },
+  {
+   "id": "x026",
+   "text": "Je monte souvent sur le toit de mon immeuble la nuit, je m'assois au bord et j'attends",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "possible",
+   "rationale": "Exposition répétée à un lieu de chute."
+  },
+  {
+   "id": "x027",
+   "text": "jai plus de traitement depuis 1 semaine, je les mets de côté, je saurai quoi en faire le moment venu",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Arrêt du traitement et stockage avec intention voilée."
+  },
+  {
+   "id": "x028",
+   "text": "Ma mère est sous morphine pour son cancer, je m'occupe d'elle tous les jours. Hier en rangeant ses médicaments je me suis dit que si j'en prenais quelques-uns à chaque fois, personne ne le remarquerait, et que j'en aurais assez pour moi.",
+   "label": "risk",
+   "category": "overdose_means",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : projet de détournement de produits pour soi."
+  },
+  {
+   "id": "x029",
+   "text": "Il m'a enfermée dehors en pleine nuit en culotte et il dit que la prochaine fois il me tue",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Humiliation et menace de mort."
+  },
+  {
+   "id": "x030",
+   "text": "Mon mec me crache dessus et me traite de pute devant mes enfants, il casse mes affaires",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "possible",
+   "rationale": "Violences psychologiques et matérielles, enfants exposés."
+  },
+  {
+   "id": "x031",
+   "text": "il est rentré bourré, il a sorti le couteau de cuisine et il m'a coincée contre le frigo, là il dort",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Menace armée la nuit même, agresseur présent."
+  },
+  {
+   "id": "x032",
+   "text": "Mon ancien patron m'envoie des menaces et rôde autour de chez moi depuis que j'ai porté plainte",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "possible",
+   "rationale": "Harcèlement et intimidation."
+  },
+  {
+   "id": "x033",
+   "text": "Ma belle-mère me frappe avec sa canne quand je lui donne pas l'argent, et mon mari laisse faire",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "possible",
+   "rationale": "Violences intrafamiliales et extorsion."
+  },
+  {
+   "id": "x034",
+   "text": "Je voulais juste savoir comment on change de serrure rapidement. Il a encore le double et il m'a dit qu'il viendrait cette nuit si je retirais pas ma plainte pour les coups.",
+   "label": "risk",
+   "category": "violence_subie",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : menace de retour la nuit même."
+  },
+  {
+   "id": "x035",
+   "text": "J'ai envie de lui mettre un coup de tête à ce petit con de livreur, il m'a manqué de respect",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "possible",
+   "rationale": "Impulsion agressive envers un tiers."
+  },
+  {
+   "id": "x036",
+   "text": "Ma fille de 2 ans me rend folle, je l'ai balancée sur son lit trop fort, elle s'est cognée",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "urgent",
+   "rationale": "Violence physique sur un jeune enfant."
+  },
+  {
+   "id": "x037",
+   "text": "je rêve de défigurer celle qui m'a piqué mon mec, je sais où elle bosse",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "urgent",
+   "rationale": "Intention violente ciblée avec repérage."
+  },
+  {
+   "id": "x038",
+   "text": "Faudrait pas qu'il me cherche demain à la réunion, j'ai plus rien à perdre et il le saura",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "possible",
+   "rationale": "Menace voilée et désespoir."
+  },
+  {
+   "id": "x039",
+   "text": "Des pensées m'obsèdent : étouffer ma femme avec l'oreiller, je l'aime pourtant, ça me terrifie",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "possible",
+   "rationale": "Pensées intrusives violentes, à évaluer."
+  },
+  {
+   "id": "x040",
+   "text": "Mon voisin fait du bruit toutes les nuits depuis 2 ans. Plaintes, médiation, rien n'a marché. Ce week-end j'ai repéré ses horaires et j'ai préparé ce qu'il faut. Après ça il fera plus jamais de bruit.",
+   "label": "risk",
+   "category": "violence_autrui",
+   "expected_minimum": "urgent",
+   "rationale": "Signal tardif : préparation d'un passage à l'acte."
+  },
+  {
+   "id": "y001",
+   "text": "Ce film d'horreur m'a glacé le sang, j'ai dormi avec la lumière",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Fiction."
+  },
+  {
+   "id": "y002",
+   "text": "Je suis anesthésiste, j'endors des gens toute la journée, ironique vu mes insomnies",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Contexte professionnel."
+  },
+  {
+   "id": "y003",
+   "text": "Ma batterie est à 2 %, elle va rendre l'âme",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Objet."
+  },
+  {
+   "id": "y004",
+   "text": "Le prof de yoga nous a mis au supplice avec ses postures",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole sportive."
+  },
+  {
+   "id": "y005",
+   "text": "On s'est fait laminer au tournoi de pétanque, l'honneur est sauf",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Sport."
+  },
+  {
+   "id": "y006",
+   "text": "J'ai une pendaison de crémaillère samedi, je dois trouver un cadeau",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Expression festive."
+  },
+  {
+   "id": "y007",
+   "text": "Bouchère, je désosse et je tranche toute la journée, mes couteaux c'est mes bébés",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Métier."
+  },
+  {
+   "id": "y008",
+   "text": "Je me suis ouvert l'arcade au handball, trois points de suture et je rejoue samedi",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Blessure sportive."
+  },
+  {
+   "id": "y009",
+   "text": "J'ai failli m'étouffer de rire avec la blague de ma sœur à Noël",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole."
+  },
+  {
+   "id": "y010",
+   "text": "Je suis légiste, autopsies le matin, chorale le soir, il faut un équilibre",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Métier."
+  },
+  {
+   "id": "y011",
+   "text": "Mon mari a pendu le linge dehors et il a plu, je vais le tuer (gentiment)",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Menace plaisante explicite."
+  },
+  {
+   "id": "y012",
+   "text": "J'ai lu un essai sur l'histoire du suicide en Europe pour mon mémoire, passionnant",
+   "label": "neutral",
+   "category": "information",
+   "expected_minimum": "none",
+   "rationale": "Intérêt académique."
+  },
+  {
+   "id": "y013",
+   "text": "Dans ma série il y a une scène de violence conjugale très juste, ça m'a fait penser aux associations",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Fiction."
+  },
+  {
+   "id": "y014",
+   "text": "Je joue un tueur à gages dans un jeu de rôle avec mes potes le jeudi soir",
+   "label": "neutral",
+   "category": "fiction",
+   "expected_minimum": "none",
+   "rationale": "Jeu de rôle."
+  },
+  {
+   "id": "y015",
+   "text": "Mon grand-oncle s'est éteint dans son sommeil à 97 ans, une belle fin",
+   "label": "neutral",
+   "category": "deuil",
+   "expected_minimum": "none",
+   "rationale": "Deuil naturel."
+  },
+  {
+   "id": "y016",
+   "text": "Ma chienne a été euthanasiée ce matin, elle souffrait trop, je suis triste mais c'était la bonne décision",
+   "label": "neutral",
+   "category": "deuil",
+   "expected_minimum": "none",
+   "rationale": "Deuil animal."
+  },
+  {
+   "id": "y017",
+   "text": "À 20 ans je me brûlais avec des cigarettes. J'en ai 45, trois enfants, et ça fait 20 ans que c'est fini",
+   "label": "neutral",
+   "category": "passe_resolu",
+   "expected_minimum": "none",
+   "rationale": "Automutilation ancienne résolue."
+  },
+  {
+   "id": "y018",
+   "text": "Mon premier mari m'a mis la main dessus une fois, je suis partie le soir même il y a 25 ans",
+   "label": "neutral",
+   "category": "passe_resolu",
+   "expected_minimum": "none",
+   "rationale": "Violence ancienne, situation résolue."
+  },
+  {
+   "id": "y019",
+   "text": "J'ai traversé une grosse dépression en 2018 avec des idées sombres, j'ai été soignée et je vais bien",
+   "label": "neutral",
+   "category": "passe_resolu",
+   "expected_minimum": "none",
+   "rationale": "Idéation passée résolue."
+  },
+  {
+   "id": "y020",
+   "text": "Pas d'idées suicidaires, juste une grosse fatigue et envie de parler de ma rupture",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation explicite."
+  },
+  {
+   "id": "y021",
+   "text": "Je n'ai jamais touché à mes enfants et je ne le ferai jamais, mais je crie trop et je voudrais apprendre à me calmer",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation et demande d'aide éducative."
+  },
+  {
+   "id": "y022",
+   "text": "Personne ne me menace, je me sens juste seule dans ma nouvelle ville",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Négation de menace."
+  },
+  {
+   "id": "y023",
+   "text": "Je ne garde aucune arme chez moi, mon père a tout vendu quand il a arrêté la chasse",
+   "label": "neutral",
+   "category": "negation",
+   "expected_minimum": "none",
+   "rationale": "Absence d'accès aux armes."
+  },
+  {
+   "id": "y024",
+   "text": "Je me suis tapé un fou rire en réunion, j'ai failli y passer tellement je riais",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole."
+  },
+  {
+   "id": "y025",
+   "text": "Ce boulot me bouffe vivante mais je pose 3 semaines de congés en décembre",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Métaphore, perspective positive."
+  },
+  {
+   "id": "y026",
+   "text": "Mon fils de 17 ans m'a mise KO au bras de fer, je suis fière et vexée",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Jeu familial."
+  },
+  {
+   "id": "y027",
+   "text": "En tant que sage-femme je vois du sang tous les jours, ça ne m'impressionne plus",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Métier."
+  },
+  {
+   "id": "y028",
+   "text": "Je suis gendarme, on a désarmé un forcené hier, tout le monde va bien, je débriefe avec la psy de l'unité",
+   "label": "neutral",
+   "category": "soin",
+   "expected_minimum": "none",
+   "rationale": "Métier, débriefing."
+  },
+  {
+   "id": "y029",
+   "text": "Je prépare un exposé sur les risques de surdosage médicamenteux chez les personnes âgées, je suis étudiante en pharmacie",
+   "label": "neutral",
+   "category": "information",
+   "expected_minimum": "none",
+   "rationale": "Question académique."
+  },
+  {
+   "id": "y030",
+   "text": "Comment parler de suicide avec un ami sans le brusquer ? Il va bien en ce moment mais je veux être prêt",
+   "label": "neutral",
+   "category": "information",
+   "expected_minimum": "none",
+   "rationale": "Démarche de prévention."
+  },
+  {
+   "id": "y031",
+   "text": "J'ai mis de côté des boîtes de conserve pour l'hiver, mon côté écureuil",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Stockage alimentaire."
+  },
+  {
+   "id": "y032",
+   "text": "Mon ex est un boulet mais il est sympa avec les enfants, on s'entend bien maintenant",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Relation apaisée."
+  },
+  {
+   "id": "y033",
+   "text": "Je vais me faire la malle en Bretagne quinze jours, plus de réseau, plus de stress",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Vacances."
+  },
+  {
+   "id": "y034",
+   "text": "J'ai offert ma vieille guitare à mon neveu, il en rêvait",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Don ordinaire."
+  },
+  {
+   "id": "y035",
+   "text": "J'ai écrit une lettre à mon moi du futur pour l'atelier d'écriture, c'était émouvant",
+   "label": "neutral",
+   "category": "autre",
+   "expected_minimum": "none",
+   "rationale": "Exercice d'écriture."
+  },
+  {
+   "id": "y036",
+   "text": "Je me suis pris une sacrée claque en voyant ce documentaire sur les glaciers",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Expression figurée."
+  },
+  {
+   "id": "y037",
+   "text": "Les soldes c'était la guerre, j'ai failli frapper une dame pour un pull mdr",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole humoristique."
+  },
+  {
+   "id": "y038",
+   "text": "J'ai tranché : je quitte Paris pour la campagne",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Expression figurée de décision."
+  },
+  {
+   "id": "y039",
+   "text": "Notre équipe de foot a été décimée par la grippe, on joue à neuf dimanche",
+   "label": "neutral",
+   "category": "sport",
+   "expected_minimum": "none",
+   "rationale": "Sport."
+  },
+  {
+   "id": "y040",
+   "text": "Ma prof de piano dit que je massacre les nocturnes, elle a pas tort",
+   "label": "neutral",
+   "category": "figure_de_style",
+   "expected_minimum": "none",
+   "rationale": "Hyperbole musicale."
+  }
+ ],
+ "provenance": {
+  "session": "session_01FieXLajr8YpbuVGchmocuf",
+  "written_at": "2026-11-16T21:02:29Z",
+  "note": "Second jeu de contrôle, demandé après tout réglage des règles ; rédigé par la même session indépendante sans accès au code ; jamais utilisé pour régler les règles. Contenu non modifié."
+ }
+}

@@ -31,10 +31,10 @@
   ]
  },
  "input_fingerprints": {
-  "cartography_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
+  "cartography_core_sha256": "ce03dcd3e7af2067d0e3a15fafae53b1ec18e39e14794e21e0cfd412e57ea32d",
   "psychology_catalog_sha256": "6d88dee0c919c56a5c501f25735ae02f357c3822e6d58e5023723c89c5deb0c9",
   "clinical_catalog_sha256": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
-  "semantic_decisions_sha256": "2c9ffc7ea01633577633bff07b53edba9e9018e75f9b87a56f004b324aea7101",
+  "semantic_decisions_sha256": "ca1cbe8bdaf14bfc6ebe5b8a5152c917e6c0fd60087d02053e82fe81aab297f6",
   "reference_registry_sha256": "69b1e745bed92c1ccd11fd93d07d4763d3813598c170cda091fb5e9090d42fa5"
  },
  "counts": {
@@ -2073,7 +2073,7 @@
      "id": "parent_absent",
      "kind": "factor",
      "label": "Parent longtemps éloigné ou absent",
-     "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un père qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective »."
+     "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un parent qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective »."
     }
    ],
    "reason": "Ces cibles couvrent la peur du lien et certaines absences, mais ni l'organisation des retrouvailles ni les habitudes de contact. Un style d'attachement n'est pas déduit.",
@@ -2476,7 +2476,7 @@
      "id": "parent_absent",
      "kind": "factor",
      "label": "Parent longtemps éloigné ou absent",
-     "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un père qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective »."
+     "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un parent qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective »."
     },
     {
      "id": "separation_conflit",
@@ -15841,9 +15841,9 @@
    "url": "/personnages/ruben/",
    "domain": "comportements",
    "category": "tendency",
-   "link_count": 12,
+   "link_count": 13,
    "relation_types": {
-    "empirical_association": 12
+    "empirical_association": 13
    }
   },
   {
@@ -16059,9 +16059,9 @@
    "url": "/personnages/louise/",
    "category": "symptom_group",
    "domain": "humeur",
-   "link_count": 31,
+   "link_count": 32,
    "relation_types": {
-    "empirical_association": 31
+    "empirical_association": 32
    }
   },
   {
@@ -16910,10 +16910,10 @@
    "url": "/personnages/selma/",
    "domain": "anxiete",
    "category": "diagnosis",
-   "link_count": 6,
+   "link_count": 7,
    "relation_types": {
     "empirical_association": 3,
-    "classification_context": 3
+    "classification_context": 4
    }
   },
   {
@@ -16926,9 +16926,9 @@
    "contextual_only": true,
    "domain": "anxiete",
    "category": "diagnosis",
-   "link_count": 3,
+   "link_count": 4,
    "relation_types": {
-    "classification_context": 3
+    "classification_context": 4
    }
   },
   {
@@ -17103,9 +17103,9 @@
    "url": "/personnages/eric/",
    "domain": "comportements",
    "category": "tendency",
-   "link_count": 14,
+   "link_count": 13,
    "relation_types": {
-    "empirical_association": 14
+    "empirical_association": 13
    }
   },
   {
@@ -17206,7 +17206,7 @@
   {
    "id": "temoin_violences",
    "label": "Être témoin de violences entre adultes",
-   "link_count": 7,
+   "link_count": 8,
    "mapped_psychology_patterns": []
   },
   {
@@ -17278,7 +17278,7 @@
   {
    "id": "precarite",
    "label": "Précarité et insécurité matérielle",
-   "link_count": 3,
+   "link_count": 4,
    "mapped_psychology_patterns": [
     "financial_strain",
     "housing_instability"
@@ -17432,7 +17432,7 @@
   {
    "id": "exil",
    "label": "Exil forcé, guerre ou persécution",
-   "link_count": 0,
+   "link_count": 2,
    "mapped_psychology_patterns": []
   },
   {
@@ -17512,7 +17512,7 @@
   },
   {
    "id": "punitions_corporelles",
-   "label": "Punitions corporelles « ordinaires »",
+   "label": "Fessées, tapes ou gifles données pour éduquer",
    "link_count": 5,
    "mapped_psychology_patterns": []
   },
@@ -17590,7 +17590,7 @@
   {
    "id": "isolement_social_enfant",
    "label": "Peu d'amis et peu d'activités",
-   "link_count": 5,
+   "link_count": 4,
    "mapped_psychology_patterns": []
   },
   {

@@ -165,6 +165,10 @@ test('reviewed constructs and historical meanings stay distinct',()=>{
   assert.ok(data.links.filter(l=>l.sources.includes('meng2026')).every(l=>l.outcome==='ten_honte'));
   assert.ok(!data.links.some(l=>l.outcome==='sch_mefiance'&&l.sources.some(id=>['peter2026','chokhani2026','grethel2026'].includes(id))));
   assert.ok(!data.links.some(l=>l.outcome==='sch_isolement'&&l.sources.includes('caba2026')));
-  assert.ok(!data.links.some(l=>['migration','exil'].includes(l.factor)));
+  assert.ok(!data.links.some(l=>l.factor==='migration'));
+  // v4.1 lot C: exile only gets the ICD-11 classification contexts (6B40, 6B41), never an empirical association.
+  const exile=data.links.filter(l=>l.factor==='exil');
+  assert.deepStrictEqual(exile.map(l=>l.outcome).sort(),['icd_6b40','icd_6b41']);
+  assert.ok(exile.every(l=>l.relation_type==='classification_context'&&l.strength==='critere'&&l.sources.every(id=>data.sources.find(s=>s.id===id).type==='classification')));
   for(const id of ['secret_famille','migration','exil'])assert.ok(data.factors.some(f=>f.id===id),'unlinked experience remains a valid saved answer');
 });

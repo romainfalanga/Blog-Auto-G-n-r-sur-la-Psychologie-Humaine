@@ -5,7 +5,12 @@
   'use strict';
 
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
-  var STRENGTH_ORDER = ['forte', 'critere', 'moderee', 'limitee', 'theorique'];
+  var EMPIRICAL_ORDER = ['forte', 'moderee', 'limitee'];
+  // Links that are not measured associations: shown apart, never counted in the order.
+  var OTHER_RELATIONS = [['clinical_model', 'Modèle clinique'], ['definitional', 'Correspondance de définition'], ['classification_context', 'Contexte décrit par la CIM-11']];
+  function relationOf(l) { return l.definitional ? 'definitional' : l.relation_type || (l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); }
+  function isEmpirical(l) { return relationOf(l) === 'empirical_association'; }
+  function plural(n, one, many) { return n + ' ' + (n > 1 ? many : one); }
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
   function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité (dimension)', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma (modèle clinique)', schema_coping_style: 'Style d’adaptation aux schémas (modèle clinique)', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
@@ -282,6 +287,7 @@
           ]),
           nLinks ? el('button', { type: 'button', className: 'carto-see', 'aria-label': 'Voir les ' + nLinks + ' associations étudiées : ' + f.label, onclick: function () { openFactor(f); } }, ['Liens étudiés (' + nLinks + ')']) : null
         ]),
+        nLinks ? null : el('p', { className: 'carto-no-link', text: 'Aucune association suffisamment documentée n’est retenue pour l’instant.' }),
         noteField('factors', f.id, 'Ajouter une précision', 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Ma précision'),
         ambreNotes('factor', f.id)
       ]);
@@ -300,11 +306,13 @@
       body.innerHTML = '';
       dialog.querySelector('[data-dialog-title]').textContent = f.label;
       body.appendChild(el('p', { className: 'carto-dialog-intro', text: 'Associations étudiées et repères cliniques concernant ce vécu. Une association observée dans un groupe ne démontre ni une cause ni un trouble chez vous.' }));
-      var links = (linksByFactor[f.id] || []).slice();
-      STRENGTH_ORDER.forEach(function (s) {
-        var items = links.filter(function (l) { return l.strength === s && outcomes[l.outcome]; });
+      var links = (linksByFactor[f.id] || []).filter(function (l) { return outcomes[l.outcome]; });
+      var sections = EMPIRICAL_ORDER.map(function (s) { return [STRENGTH_LABEL[s], links.filter(function (l) { return isEmpirical(l) && l.strength === s; })]; })
+        .concat(OTHER_RELATIONS.map(function (r) { return [r[1] + ' · non compté', links.filter(function (l) { return !isEmpirical(l) && relationOf(l) === r[0]; })]; }));
+      sections.forEach(function (section) {
+        var items = section[1];
         if (!items.length) return;
-        body.appendChild(el('h3', { className: 'carto-dialog-h', text: STRENGTH_LABEL[s] + ' (' + items.length + ')' }));
+        body.appendChild(el('h3', { className: 'carto-dialog-h', text: section[0] + ' (' + items.length + ')' }));
         body.appendChild(el('ul', { className: 'carto-dialog-list' }, items.map(function (l) {
           var o = outcomes[l.outcome];
           return el('li', {}, [
@@ -317,6 +325,21 @@
       });
       if (typeof dialog.showModal === 'function') dialog.showModal(); else dialog.setAttribute('open', '');
     }
+    function openScope() {
+      var scope = data.notes && data.notes.hors_perimetre;
+      if (!scope) return;
+      var body = dialog.querySelector('[data-dialog-body]');
+      body.innerHTML = '';
+      dialog.querySelector('[data-dialog-title]').textContent = scope.title || 'Ce que la carte ne couvre pas';
+      if (scope.text) body.appendChild(el('p', { className: 'carto-dialog-intro', text: scope.text }));
+      body.appendChild(el('ul', { className: 'carto-dialog-list carto-scope-list' }, (scope.items || []).map(function (item) {
+        return el('li', {}, [el('strong', { text: item.scope }), el('p', { text: item.reason })]);
+      })));
+      var refs = sourceList(scope.sources);
+      if (refs) body.appendChild(refs);
+      if (typeof dialog.showModal === 'function') dialog.showModal(); else dialog.setAttribute('open', '');
+    }
+    root.querySelectorAll('[data-scope-open]').forEach(function (b) { if (data.notes && data.notes.hors_perimetre) b.addEventListener('click', openScope); else b.hidden = true; });
     dialog.querySelector('[data-dialog-close]').addEventListener('click', function () { if (dialog.close) dialog.close(); else dialog.removeAttribute('open'); });
     dialog.addEventListener('click', function (e) { if (e.target === dialog && dialog.close) dialog.close(); });
 
@@ -327,20 +350,27 @@
       var children = [el('button', { type: 'button', className: 'carto-card-toggle', 'data-focus': 'outcome:' + o.id, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.open[o.id] = !open; renderResults(); } }, [
         el('span', { className: 'carto-kind', text: kindLabel(o) + (o.code ? ' · ' + o.code : '') }),
         el('span', { className: 'carto-card-title', text: o.label }),
-        el('span', { className: 'carto-card-meta', text: r.factors.length + ' vécu' + (r.factors.length > 1 ? 's' : '') + ' associé' + (r.factors.length > 1 ? 's' : '') + ' · ' + STRENGTH_LABEL[r.links[0].strength] + (open ? ' · Replier' : ' · Voir le détail') })
+        el('span', { className: 'carto-card-meta', 'data-associated': String(r.associated_count), text: cardMeta(r, open) })
       ])];
       if (o.contextual_only && !(o.note && NOTE_TEXT[o.note])) children.push(el('p', { className: 'carto-caution carto-card-caution', text: 'Repère de contexte : Ambre ne vous le suggère pas à partir de ces réponses.' }));
       if (o.note && NOTE_TEXT[o.note]) children.push(el('p', { className: 'carto-caution carto-card-caution', text: NOTE_TEXT[o.note] }));
       if (open) {
         var body = [];
         if (o.description) body.push(el('p', { className: 'carto-desc', text: o.description }));
-        body.push(el('ul', { className: 'carto-links' }, r.links.map(function (l) {
+        var linkItem = function (label) { return function (l) {
           return el('li', {}, [
-            el('div', { className: 'carto-from' }, [el('strong', { text: factors[l.factor].label }), el('span', { className: 'carto-strength carto-strength-' + l.strength, text: STRENGTH_LABEL[l.strength] })]),
+            el('div', { className: 'carto-from' }, [el('strong', { text: factors[l.factor].label }), el('span', { className: 'carto-strength carto-strength-' + l.strength, text: label(l) })]),
             el('p', { className: 'carto-link-text', text: l.summary }),
             sourceList(l.sources)
           ]);
-        })));
+        }; };
+        var measured = r.links.filter(isEmpirical), others = r.links.filter(function (l) { return !isEmpirical(l); });
+        if (measured.length) body.push(el('ul', { className: 'carto-links' }, measured.map(linkItem(function (l) { return STRENGTH_LABEL[l.strength]; }))));
+        if (others.length) {
+          body.push(el('p', { className: 'carto-other-title', text: 'Autres repères, non comptés dans l’ordre de la liste' }));
+          body.push(el('p', { className: 'carto-other-desc', text: 'Modèles cliniques, correspondances de définition ou contextes de classification : ils aident à comprendre, sans être une association mesurée.' }));
+          body.push(el('ul', { className: 'carto-links carto-links-other' }, others.map(linkItem(function (l) { return OTHER_RELATIONS.filter(function (x) { return x[0] === relationOf(l); }).map(function (x) { return x[1]; })[0] || STRENGTH_LABEL[l.strength]; }))));
+        }
         if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Ces rapprochements ne décrivent pas votre situation clinique et ne mesurent pas votre risque personnel. Seul un professionnel peut évaluer un trouble.' }));
         children.push(el('div', { className: 'carto-card-body' }, body));
       }
@@ -354,6 +384,17 @@
       var an = ambreNotes('outcome', o.id);
       if (an) children.push(el('div', { className: 'carto-card-notes' }, [an]));
       return el('article', { className: 'carto-card carto-tier-' + r.tier + (fb === 'non' ? ' is-dismissed' : '') }, children);
+    }
+    // Collapsed header: the count is the number of checked experiences linked by an
+    // empirical association; contextual references never carry an evidence label.
+    function cardMeta(r, open) {
+      var n = r.associated_count, parts = [];
+      parts.push(n ? plural(n, 'vécu associé', 'vécus associés') : 'Aucune association étudiée');
+      if (r.outcome.contextual_only) parts.push('Repère de contexte');
+      else if (n) parts.push(STRENGTH_LABEL[r.links[0].strength]);
+      if (r.other_links) parts.push(plural(r.other_links, 'autre repère', 'autres repères'));
+      parts.push(open ? 'Replier' : 'Voir le détail');
+      return parts.join(' · ');
     }
     function setFeedback(id, value) {
       if (state.feedback[id] === value) delete state.feedback[id]; else state.feedback[id] = value;
@@ -376,18 +417,17 @@
         results.appendChild(el('p', { className: 'carto-empty', text: 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
         return;
       }
-      // One list, from the most associated experiences to the fewest; the engine's order breaks ties.
-      var shown = s.results.map(function (r, index) { return { r: r, index: index }; })
-        .sort(function (a, b) { return b.r.factors.length - a.r.factors.length || a.index - b.index; })
-        .map(function (item) { return item.r; });
-      results.appendChild(el('div', { className: 'carto-grid' }, shown.map(card)));
+      // One list in the engine's order, shared with Ambre: experiences linked by an empirical
+      // association first; contextual references last.
+      results.appendChild(el('div', { className: 'carto-grid' }, s.results.map(card)));
       restoreFocus(focused);
     }
 
     function updateCounts(s) {
       s = s || compute();
       var n = Object.keys(state.answers).length;
-      var label = n ? n + ' réponse' + (n > 1 ? 's' : '') + ' · ' + s.results.length + ' association' + (s.results.length > 1 ? 's' : '') : 'Aucune réponse';
+      // Only this counter is announced to screen readers, never the rebuilt list.
+      var label = n ? plural(n, 'réponse', 'réponses') + ' · ' + plural(s.results.length, 'sujet affiché', 'sujets affichés') : 'Aucune réponse';
       countEls.forEach(function (c) { c.textContent = label; });
     }
     function captureFocus() {

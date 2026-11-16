@@ -274,7 +274,7 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         "interpretation": {
             "purpose": "Exploration de rapprochements, sans dépistage ni diagnostic.",
             "validated_ace_instrument": False,
-            "ranking": "Niveau maximal du lien ; jamais une somme de risques. L’intensité reste un contexte déclaré.",
+            "ranking": "Liste unique, même ordre pour la page et pour Ambre : les repères contextuels viennent en dernier ; les autres sujets sont triés par nombre de vécus cochés reliés par une association empirique (forte, modérée ou limitée), puis par familles de vécus distinctes et force maximale. Modèles cliniques, définitions et contextes de classification sont affichés à part et ne comptent pas. Jamais une somme de risques ; l’intensité reste un contexte déclaré.",
             "convergence": "Au moins deux familles de vécus avec des associations empiriques modérées ou solides ; aucun gain de certitude individuelle.",
             "warning": "Des facteurs associés, même cumulés, ne suffisent pas à établir un trouble et ne sont pas nécessairement requis pour qu’il apparaisse."
         },

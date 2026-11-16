@@ -109,7 +109,10 @@ test('the bounded summary leaves room for different categories and records omiss
  const data={factors:[{id:'a',label:'A'},{id:'b',label:'B'}],outcomes,links:outcomes.flatMap(o=>['a','b'].map(factor=>({factor,outcome:o.id,strength:'moderee',relation_type:'empirical_association',summary:'Association documentée.',sources:[]})))};
  const summary=summarizeCartography({a:1,b:1},{z_recognized:'oui'},{data});
  assert.equal(summary.convergence.filter(x=>x.category==='schema').length,5);
- assert.equal(summary.convergence[0].id,'z_recognized','recognition breaks equal evidence-family ties');
+ // v4.1 (lot C): recognition still wins a place under the category cap, but the list
+ // keeps the public display order shared with the page.
+ assert.ok(summary.convergence.some(x=>x.id==='z_recognized'),'a recognized subject is selected despite the category cap');
+ assert.deepEqual(summary.convergence.map(x=>x.id),computeCartography({a:1,b:1},data).results.map(r=>r.outcome.id).filter(id=>summary.convergence.some(x=>x.id===id)),'selection keeps the display order');
  assert.ok(summary.convergence.some(x=>x.id==='other'));
  assert.equal(summary.truncated,true);
  assert.ok(!cartographyHighlights(summary).some(x=>x.id==='context'));
