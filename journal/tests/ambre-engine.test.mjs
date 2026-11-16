@@ -200,3 +200,20 @@ test('explicit listening and question refusals survive a conflicting model analy
   const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?{...analysis(),need:'advice',posture:'options',constraints:[]}:undefined);await message(s,'explicit_limit',text);const actual=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content).analysis;assert.ok(actual.constraints.includes(constraint));if(constraint==='no_advice'){assert.equal(actual.need,'listen');assert.equal(actual.posture,'listen')}assert.equal(job(s).stage,'done');
  }
 });
+
+test('owner polling resumes pending work without blocking GET or duplicating concurrent provider calls',async t=>{
+ const s=setup();await ready(s);const realNow=Date.now,base=realNow();let elapsed=0;Date.now=()=>base+elapsed;t.after(()=>{Date.now=realNow});
+ let release,started;const began=new Promise(r=>started=r);t.after(()=>release?.());const calls=provider(t,async p=>{if(p==='ambre_analysis')elapsed=6000;if(p==='ambre_writing')elapsed=17000;if(p==='ambre_review'){started();await new Promise(r=>release=r)}});
+ const sent=await message(s,'poll_pending');Date.now=realNow;assert.equal(job(s).stage,'review');assert.equal(calls.length,2);
+ const otherTasks=[];const other=await s.call('/api/chat','GET',undefined,'b',{waitUntil:p=>otherTasks.push(p)});assert.equal(other.pending_request,null);assert.equal(otherTasks.length,0);assert.equal(calls.length,2);
+ await s.call('/api/chat');assert.equal(calls.length,2,'without waitUntil the cron remains responsible');
+ const tasks=[],ctx={waitUntil:p=>tasks.push(p)};let timer;const polled=await Promise.race([s.call('/api/chat','GET',undefined,'a',ctx),new Promise((_,reject)=>{timer=setTimeout(()=>reject(Error('GET awaited the provider')),1500)})]).finally(()=>clearTimeout(timer));assert.equal(polled.status,200);assert.equal(polled.pending_request.id,sent.request_id);await began;
+ await Promise.all(Array.from({length:4},()=>s.call('/api/chat','GET',undefined,'a',ctx)));assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,1);assert.equal(job(s).stage,'review');release();await Promise.all(tasks);assert.equal(job(s).stage,'done');assert.equal(calls.length,3);const taskCount=tasks.length;assert.equal((await s.call('/api/chat','GET',undefined,'a',ctx)).pending_request,null);assert.equal(tasks.length,taskCount);
+});
+
+test('publication during state construction keeps pending and messages on one consistent snapshot',async()=>{
+ const s=setup();await ready(s);s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,lease_until) VALUES('publish-race','a','request_race','hash','running','reserved',?,1,1,'Un message en attente.','',?)").run(parisWeek(new Date()).week_start,s.getClock()+600);
+ const original=s.env.DB.prepare;let published=false;s.env.DB.prepare=sql=>{const statement=original(sql);if(sql.startsWith('SELECT id,idempotency_key,content,response,status,error_code,lease_until,created_at FROM chat_turns')){const read=statement.all.bind(statement);statement.all=async()=>{const snapshot=await read();if(!published){published=true;s.raw.prepare("UPDATE chat_turns SET status='completed',credit_status='consumed',response=? WHERE id='publish-race'").run(JSON.stringify({companion_reply:1,content:'Réponse publiée après la lecture.'}))}return snapshot}}return statement};
+ const during=await s.call('/api/chat');assert.equal(published,true);assert.deepEqual(during.pending_request,{id:'publish-race',status:'running',client_key:'request_race'});assert.equal(during.last_request.status,'running');assert.equal(during.messages.some(m=>m.role==='assistant'),false);
+ const after=await s.call('/api/chat');assert.equal(after.pending_request,null);assert.equal(after.last_request.status,'completed');assert.equal(after.messages.at(-1).content,'Réponse publiée après la lecture.');
+});
