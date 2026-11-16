@@ -9,11 +9,6 @@
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
   function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
-  var TIERS = {
-    convergence: ['Plusieurs vécus associés', 'Des familles de vécus différentes ont des associations documentées avec ce sujet. Leur nombre ne renforce pas le niveau de preuve et ne mesure pas votre risque.'],
-    piste: ['Une association documentée', 'Au moins un lien repose sur des études ; cela ne démontre pas ce qui vous arrive.'],
-    theorique: ['Autres repères à explorer', 'Liens limités, modèles cliniques ou contextes cités dans une classification ; ils n’établissent ni cause ni diagnostic.']
-  };
   var NOTE_MAX = 1000;
   var DRAFT_KEY = 'cartographie-brouillon-v1';
 
@@ -54,7 +49,7 @@
 
 
     var $ = function (sel) { return root.querySelector(sel); };
-    var formBody = $('[data-form-body]'), results = $('[data-results]'), summary = $('[data-summary]');
+    var formBody = $('[data-form-body]'), results = $('[data-results]');
     var countEls = root.querySelectorAll('[data-count]'), saveBox = $('[data-save]'), dialog = $('[data-dialog]');
 
     function compute() { return window.Cartographie.compute(data, state.answers); }
@@ -173,14 +168,22 @@
     function renderSave() {
       if (!saveBox) return;
       saveBox.innerHTML = '';
+      var deleteBox = root.querySelector('[data-delete]');
+      if (deleteBox) {
+        deleteBox.innerHTML = '';
+        // Kept away from the top of the page: a discreet way to erase the saved map.
+        if (state.account && (state.saved || hasContent())) deleteBox.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting || state.loading, onclick: removeSaved }, ['Supprimer ma cartographie']));
+      }
       if (!state.account) {
+        saveBox.dataset.state = 'anonymous';
         saveBox.appendChild(el('p', {}, [state.loading ? 'Vérification de votre connexion… Vos réponses restent sur cet appareil.' : 'Sans connexion, vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ', state.loading ? null : el('a', { href: '/mon-compte/', text: 'Se connecter' })]));
         if (hasContent()) saveBox.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting, onclick: removeSaved }, ['Effacer mon brouillon']));
         return;
       }
-      saveBox.appendChild(el('p', { className: 'carto-save-notice', text: 'Vous êtes connecté : vos réponses et précisions, qui peuvent concerner votre santé, sont enregistrées automatiquement dans votre profil et utilisées par Ambre. Vous pouvez les modifier ou les supprimer ici.' }));
-      var status = state.deleting ? 'Suppression…' : state.saving ? 'Enregistrement…' : state.saveError || (state.loading ? 'Chargement de votre cartographie…' : state.deleted ? 'Cartographie supprimée. Elle ne sera enregistrée de nouveau que si vous ajoutez une réponse ou une précision.' : state.dirty ? 'Modifications en attente d’enregistrement…' : state.saved ? 'Toutes vos modifications sont enregistrées.' : 'L’enregistrement commencera dès votre première réponse ou précision.');
-      saveBox.appendChild(el('p', { className: 'carto-save-status' + (state.saveError ? ' is-error' : ''), role: 'status', text: status }));
+      // Connected members get no standing notice: the box only reports a problem, a pending choice or a deletion.
+      saveBox.dataset.state = state.deleting ? 'deleting' : state.saving ? 'saving' : state.saveError ? 'error' : state.loading ? 'loading' : state.conflict ? 'conflict' : state.deleted ? 'deleted' : state.dirty ? 'dirty' : state.saved ? 'saved' : 'idle';
+      var status = state.deleting ? 'Suppression…' : state.saveError || (state.deleted ? 'Cartographie supprimée. Elle ne sera enregistrée de nouveau que si vous ajoutez une réponse ou une précision.' : '');
+      if (status) saveBox.appendChild(el('p', { className: 'carto-save-status' + (state.saveError ? ' is-error' : ''), role: 'status', text: status }));
       var actions = el('div', { className: 'carto-save-actions' });
       if (state.conflict) {
         var remote = state.conflict.remote && state.conflict.remote.cartographie;
@@ -191,8 +194,6 @@
         } else actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: fetchConflict }, ['Recharger la version enregistrée']));
       } else if (state.loadError) actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: loadAccountMap }, ['Réessayer le chargement']));
       else if (state.saveError && state.dirty) actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: save }, ['Réessayer l’enregistrement']));
-      if (state.saved) actions.appendChild(el('a', { className: 'carto-btn carto-btn-primary', href: '/mon-accompagnement/', text: 'En parler avec Ambre' }));
-      if (state.saved || hasContent()) actions.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting || state.loading, onclick: removeSaved }, ['Supprimer ma cartographie']));
       if (actions.children.length) saveBox.appendChild(actions);
     }
 
@@ -328,22 +329,6 @@
     dialog.addEventListener('click', function (e) { if (e.target === dialog && dialog.close) dialog.close(); });
 
     /* ---- Ce qui en ressort ---- */
-    function renderSummary(s) {
-      summary.innerHTML = '';
-      if (!s.results.length) return;
-      var byDomain = {};
-      s.results.forEach(function (r) { var id = r.outcome.domain || 'soi'; byDomain[id] = (byDomain[id] || 0) + 1; });
-      var list = el('ul', { className: 'carto-domains' });
-      (data.domains || []).forEach(function (domain) {
-        var count = byDomain[domain.id]; if (!count) return;
-        list.appendChild(el('li', {}, [el('span', { className: 'carto-domain-label', text: domain.label }), el('span', { className: 'carto-domain-meta', text: count + ' association' + (count > 1 ? 's' : '') })]));
-      });
-      summary.appendChild(el('h2', { className: 'carto-summary-title', text: 'Vue d’ensemble' }));
-      summary.appendChild(el('p', { className: 'carto-summary-intro', text: 'Les domaines explorés à partir de vos réponses. Chaque association est détaillée plus bas, avec ses sources.' }));
-      summary.appendChild(list);
-      summary.appendChild(el('p', { className: 'carto-summary-note', text: 'Ces nombres comptent des associations dans notre sélection de recherches. Ils ne mesurent ni votre risque, ni la gravité de votre situation.' }));
-    }
-
     function card(r) {
       var o = r.outcome, fb = state.feedback[o.id];
       var open = Boolean(state.open[o.id]);
@@ -385,7 +370,6 @@
     function renderResults() {
       var focused = captureFocus();
       var s = compute();
-      renderSummary(s);
       results.innerHTML = '';
       updateCounts(s);
       renderSave();
@@ -405,17 +389,12 @@
       if (s.aceCount >= 4 && data.notes && data.notes.cumul) {
         results.appendChild(el('div', { className: 'carto-note-cumul' }, [el('strong', { text: s.aceCount + ' expériences adverses de l’enfance. ' }), (data.notes.cumul.text || String(data.notes.cumul))]));
       }
-      var shown = s.results;
-      ['convergence', 'piste', 'theorique'].forEach(function (t) {
-        var items = shown.filter(function (r) { return r.tier === t; });
-        if (!items.length) return;
-        var section = el('section', { className: 'carto-tier' }, [
-          el('h3', { className: 'carto-tier-title', text: TIERS[t][0] + ' (' + items.length + ')' }),
-          el('p', { className: 'carto-tier-desc', text: TIERS[t][1] })
-        ]);
-        section.appendChild(el('div', { className: 'carto-grid' }, items.map(card)));
-        results.appendChild(section);
-      });
+      // One list, from the most associated experiences to the fewest; the engine's order breaks ties.
+      var shown = s.results.map(function (r, index) { return { r: r, index: index }; })
+        .sort(function (a, b) { return b.r.factors.length - a.r.factors.length || a.index - b.index; })
+        .map(function (item) { return item.r; });
+      results.appendChild(el('p', { className: 'carto-tier-desc', text: 'Du plus grand nombre de vécus associés au plus petit. Ce nombre ne renforce pas le niveau de preuve et ne mesure pas votre risque : le type de lien est indiqué sur chaque carte.' }));
+      results.appendChild(el('div', { className: 'carto-grid' }, shown.map(card)));
       restoreFocus(focused);
     }
 
