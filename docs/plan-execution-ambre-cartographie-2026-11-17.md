@@ -24,7 +24,7 @@ Base vérifiée : `1b86169` (fusion PR 83). Branche de travail : `codex/ambre-ch
 | R8 | Intégration contrôlée, registre hors périmètre, correspondances161repères et classifications, générateurs | Principal | R7 | Intégré, 161 décisions et graphe final validés indépendamment |
 | R9 | Plafonds questionnaire, contexte non suggéré, résumés et interface bornés | Principal | R8 | Intégré, parité1770 combinaisons et navigateur validés |
 | R10 | Encadré3114 et bouton de suppression retirés de la page | Principal | Réponses utilisateur | Retirés, vérifiés au navigateur |
-| R11 | Relectures indépendantes, tests complets, publications prouvées, recette et nettoyage | Principal + relecteurs | Tous | Vérifications globales réussies ; publication et recette distante à effectuer |
+| R11 | Relectures indépendantes, tests complets, publications prouvées, recette et nettoyage | Principal + relecteurs | Tous | Terminé : migration 0021, Worker complet, PR84/main, Netlify, recette réelle et nettoyage vérifiés |
 
 ## Organisation et contrats
 
@@ -39,3 +39,7 @@ Tests moteur sur profils réels synthétiques bornés et chemins de reprise/ré�
 ## Point de vérification intermédiaire
 
 La recette locale avec vrai Worker, SQLite et navigateur a validé les parcours objectifs/étapes/essais, dates inconnues, conflit entre onglets, préparation privée sans professionnel, catalogue, onglets du portrait conservés et purge de conversation gardant le plan aux largeurs1440/390/320. Les correctifs issus des relectures finales précèdent toute publication. Le schéma distant a été contrôlé en lecture : 0020 présente, tables0021 absentes ; sept bindings et cron minute inchangés. Le registre D1 des migrations n’existe pas sur cette base : la vérification utilise donc sqlite_master et les structures attendues.
+
+## Livraison terminée
+
+Les preuves finales sont dans `docs/livraison-ambre-cartographie-2026-11-17.md`. 594 tests journal,32 site,77 Python et les contrôles/navigation/recettes demandés passent. Les trois comptes synthétiques de production ont été supprimés ;43tables vérifiées sans reliquat. Les limites documentaires restent explicites, sans promesse d’exhaustivité diagnostique.
