@@ -12,11 +12,11 @@ globalThis.__backendRecommendationFactory=items=>{
  const engine=createRecommender(items);
  return {recommend(context,options){recommendationContexts.push(structuredClone(context));return engine.recommend(context,options);},provisionalPortrait(context){recommendationContexts.push(structuredClone(context));return engine.provisionalPortrait(context);}};
 };
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;').replace("'./chat-backend.mjs'",JSON.stringify(new URL('../src/chat-backend.mjs',import.meta.url).href)).replace("'./entitlements.mjs'",JSON.stringify(new URL('../src/entitlements.mjs',import.meta.url).href)).replace("'./personal-backend.mjs'",JSON.stringify(new URL('../src/personal-backend.mjs',import.meta.url).href)).replace("'./cartographie.mjs'",JSON.stringify(new URL('../src/cartographie.mjs',import.meta.url).href));
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;').replace("'./care-backend.mjs'",JSON.stringify(new URL('../src/care-backend.mjs',import.meta.url).href)).replace("'./chat-backend.mjs'",JSON.stringify(new URL('../src/chat-backend.mjs',import.meta.url).href)).replace("'./entitlements.mjs'",JSON.stringify(new URL('../src/entitlements.mjs',import.meta.url).href)).replace("'./personal-backend.mjs'",JSON.stringify(new URL('../src/personal-backend.mjs',import.meta.url).href)).replace("'./cartographie.mjs'",JSON.stringify(new URL('../src/cartographie.mjs',import.meta.url).href));
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,failJob,runGenerationBatch,refreshUserPortrait}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false,v2=false,beforeRetirement=false}={}) {
  const db=new DatabaseSync(':memory:');
- for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql','0012_ambre_portrait_corrections.sql','0013_billing_cancellation_attempts.sql',...(!v2&&!beforeRetirement?['0014_retire_personal_stories.sql','0015_people_observations.sql','0016_cartographies.sql','0017_cartographie_notes.sql','0018_ambre_reviews.sql']:[])]:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
+ for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql','0012_ambre_portrait_corrections.sql','0013_billing_cancellation_attempts.sql',...(!v2&&!beforeRetirement?['0014_retire_personal_stories.sql','0015_people_observations.sql','0016_cartographies.sql','0017_cartographie_notes.sql','0018_ambre_reviews.sql','0019_ambre_engine.sql','0020_care.sql']:[])]:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
  for(const example of examples) db.prepare('INSERT INTO public_examples(id,body) VALUES(?,?)').run(example.id,'Canonical body: '+example.title);
  function prepare(sql){let params=[];return {bind(...v){params=v;return this;},async first(){return db.prepare(sql).get(...params)||null;},async all(){return {results:db.prepare(sql).all(...params)};},async run(){const r=db.prepare(sql).run(...params);return {meta:{changes:r.changes}};}};}
  let queue=Promise.resolve();return {raw:db,prepare,batch(statements){const task=queue.then(async()=>{db.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());db.exec('COMMIT');return r;}catch(e){db.exec('ROLLBACK');throw e;}});queue=task.catch(()=>{});return task;}};
@@ -558,7 +558,12 @@ test('stale personal story clients and leased jobs cannot change or publish lega
 });
 
 test('retirement migration releases open work, invalidates affected portraits and preserves historical data',async()=>{
- const env={DB:database({beforeRetirement:true})},account=await register(env),db=env.DB.raw,userId=account.user.id;
+ const env={DB:database({beforeRetirement:true})},db=env.DB.raw,userId='migration-member',account={user:{id:userId}};
+ // Seed the historical schema directly; today's registration also requires the later role migration.
+ db.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,'migration@example.test','hash','salt')").run(userId);
+ db.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(userId);
+ db.prepare('INSERT INTO memories(user_id) VALUES(?)').run(userId);
+ db.prepare('INSERT INTO subscriptions(user_id) VALUES(?)').run(userId);
  seedRetiredStory(db,userId);
  db.prepare("INSERT INTO user_portraits(user_id,portrait,analyzed_version,schema_version) VALUES(?,?,1,2)").run(userId,JSON.stringify({coverage:{processed:['feedback:old-story'],pending:[]}}));
  const originalVersion=versionOf(env,account);
@@ -641,4 +646,18 @@ test('reading and removing people observations require authenticated same-origin
  assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:true,observations:[{id:'note',axis:'communication',quote,created_at:1}]});
  assert.equal((await request(env,path+'/note',{method:'DELETE',cookie:account.cookie})).status,200);
  assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:true,observations:[]});
+});
+
+test('professional registration persists a declared role, exposes complete pages and preserves member defaults',async()=>{
+ const env={DB:database(),FREE_ACCESS_ENABLED:'true'};
+ const member=await register(env,'member-role@example.test');assert.equal(member.user.role,'member');
+ const credentials={email:'professional-role@example.test',password:'long secure password 123',role:'psychologist',professional:{name:'Camille Test',title:'Psychologue',registration_number:'DECLARED-TEST'}};
+ const response=await request(env,'/api/auth/register',{method:'POST',data:credentials});assert.equal(response.status,200);const professional=await response.json(),cookie=response.headers.get('set-cookie').split(';')[0];assert.equal(professional.user.role,'psychologist');
+ const me=await (await request(env,'/api/me',{cookie})).json();assert.equal(me.user.role,'psychologist');
+ assert.equal(env.DB.raw.prepare('SELECT name FROM professional_profiles WHERE user_id=?').get(me.user.id).name,'Camille Test');
+ assert.equal((await request(env,'/api/care',{cookie})).status,403);assert.equal((await request(env,'/api/care/patients',{cookie})).status,200);assert.equal((await request(env,'/api/care/patients',{cookie:member.cookie})).status,403);
+ const login=await (await request(env,'/api/auth/login',{method:'POST',data:{email:credentials.email,password:credentials.password}})).json();assert.equal(login.user.role,'psychologist');
+ for(const path of ['/parametres','/parametres/','/mon-suivi','/mon-suivi/','/espace-psychologue','/espace-psychologue/','/mon-compte/'])assert.equal((await request(env,path)).status,200,path);
+ for(const data of [{...credentials,email:'invalid-role@example.test',role:'admin'},{...credentials,email:'incomplete@example.test',professional:{name:'Camille'}}])assert.equal((await request(env,'/api/auth/register',{method:'POST',data})).status,400);
+ assert.equal((await request(env,'/api/account',{method:'DELETE',cookie,data:{password:credentials.password}})).status,200);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM professional_profiles').get().n,0);
 });

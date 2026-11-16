@@ -1,3 +1,4 @@
+import {createCareBackend} from './care-backend.mjs';
 import { isEntitled, accessUntil, platformAccess } from './entitlements.mjs';
 import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
@@ -49,12 +50,12 @@ function originCheck(request,env) {
 }
 async function userFor(request,env,required=true) {
   const token=request.headers.get('cookie')?.split(';').map(s=>s.trim()).find(s=>s.startsWith(COOKIE+'='))?.slice(COOKIE.length+1);
-  const user=token?await first(env,'SELECT u.id,u.email,u.created_at FROM sessions s JOIN users u ON u.id=s.user_id WHERE s.token_hash=? AND s.expires_at>?',await digest(token),now()):null;
+  const user=token?await first(env,'SELECT u.id,u.email,u.role,u.created_at FROM sessions s JOIN users u ON u.id=s.user_id WHERE s.token_hash=? AND s.expires_at>?',await digest(token),now()):null;
   if(!user&&required) error(401,'Connectez-vous pour accéder à votre journal.'); return user;
 }
 async function session(env,user) {
   const token=random()+random(); await run(env,'INSERT INTO sessions(token_hash,user_id,expires_at) VALUES(?,?,?)',await digest(token),user.id,now()+2592000);
-  return json({user:{id:user.id,email:user.email}},200,{'Set-Cookie':`${COOKIE}=${token}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=2592000`});
+  return json({user:{id:user.id,email:user.email,role:user.role||'member'}},200,{'Set-Cookie':`${COOKIE}=${token}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=2592000`});
 }
 const billingReady=env=>Boolean(env.STRIPE_SECRET_KEY&&env.STRIPE_PRICE_ID&&env.STRIPE_WEBHOOK_SECRET);
 async function stripe(env,path,method='GET',data,idem) {
@@ -148,7 +149,8 @@ async function likesResponse(env,userId) {
   return {likes,count:r.likes_count,explained_count:r.explained_count,source_version:snapshot.version};
 }
 const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:EXAMPLES});
-const chat=createChatBackend({error,json,text,body,now,random,personal,catalogue:catalog});
+const chat=createChatBackend({error,json,text,body,now,random,personal,catalogue:catalog,engineEnabled:true});
+const care=createCareBackend({error,json,body,now,random,limit,chat});
 // The childhood map is not a portrait source: saving it does not bump profiles.version.
 const cartography=createCartographyBackend({error,json,body,now});
 const readingContext=(env,userId)=>personal.context(env,userId);
@@ -181,7 +183,7 @@ async function routes(request,env,ctx) {
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte'};
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
@@ -218,10 +220,13 @@ async function routes(request,env,ctx) {
     if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)||typeof password!=='string'||password.length<12||password.length>256) error(400,'Saisissez une adresse valide et un mot de passe de 12 caractères minimum.');
     await limit(env,'auth-ip:'+request.headers.get('CF-Connecting-IP'),30,900); await limit(env,'auth-email:'+email,12,900);
     if(path.endsWith('register')) {
+      const role=data.role||'member';if(!['member','psychologist'].includes(role))error(400,'Type de compte invalide.');
+      const professional=role==='psychologist'?{name:text(data.professional?.name,160),title:text(data.professional?.title,160),registration_number:text(data.professional?.registration_number,80)}:null;
+      if(professional&&Object.values(professional).some(v=>!v))error(400,'Indiquez votre nom, votre titre et votre numéro professionnel déclarés.');
       if(await first(env,'SELECT id FROM users WHERE email=?',email)) error(400,'Création impossible avec ces identifiants. Essayez de vous connecter.');
       const id=random(),salt=random(),hash=await passwordHash(password,salt);
-      await env.DB.batch([env.DB.prepare('INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,?,?)').bind(id,email,hash,salt),env.DB.prepare('INSERT INTO profiles(user_id) VALUES(?)').bind(id),env.DB.prepare('INSERT INTO memories(user_id) VALUES(?)').bind(id),env.DB.prepare('INSERT INTO subscriptions(user_id) VALUES(?)').bind(id)]);
-      return session(env,{id,email});
+      await env.DB.batch([env.DB.prepare('INSERT INTO users(id,email,password_hash,password_salt,role) VALUES(?,?,?,?,?)').bind(id,email,hash,salt,role),env.DB.prepare('INSERT INTO profiles(user_id) VALUES(?)').bind(id),env.DB.prepare('INSERT INTO memories(user_id) VALUES(?)').bind(id),env.DB.prepare('INSERT INTO subscriptions(user_id) VALUES(?)').bind(id),...(professional?[env.DB.prepare('INSERT INTO professional_profiles(user_id,name,title,registration_number,updated_at) VALUES(?,?,?,?,?)').bind(id,professional.name,professional.title,professional.registration_number,now())]:[])]);
+      return session(env,{id,email,role});
     }
     const user=await first(env,'SELECT * FROM users WHERE email=?',email);
     const hash=await passwordHash(password,user?.password_salt||'no-account-constant-salt');
@@ -230,6 +235,7 @@ async function routes(request,env,ctx) {
   }
   const user=await userFor(request,env);
   if(path==='/api/portrait/feedback') error(404,'Route inconnue.');
+  const careResponse=await care.routes(request,env,user,path,url,ctx);if(careResponse)return careResponse;
   const cartographyResponse=await cartography.routes(request,env,user,path);if(cartographyResponse)return cartographyResponse;
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
@@ -376,7 +382,7 @@ async function routes(request,env,ctx) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await care.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);
@@ -396,7 +402,7 @@ async function routes(request,env,ctx) {
 export default {
   async scheduled(controller,env,ctx) {
     // Portraits and Ambre's written reviews are resumed independently, in bounded batches.
-    const work=Promise.allSettled([runGenerationBatch(env),resumeReviews(env)]).then(([portraits,reviews])=>{if(portraits.status==='rejected')throw portraits.reason;return {...portraits.value,reviews:reviews.status==='fulfilled'?reviews.value:{error:true}};});
+    const work=Promise.allSettled([runGenerationBatch(env),resumeReviews(env),chat.resumeEngine(env),care.resume(env)]).then(([portraits,reviews,engine,careWork])=>{if(portraits.status==='rejected')throw portraits.reason;return {...portraits.value,reviews:reviews.status==='fulfilled'?reviews.value:{error:true},engine:engine.status==='fulfilled'?engine.value:{error:true},care:careWork.status==='fulfilled'?careWork.value:{error:true}};});
     if(ctx?.waitUntil) ctx.waitUntil(work);
     return work;
   },

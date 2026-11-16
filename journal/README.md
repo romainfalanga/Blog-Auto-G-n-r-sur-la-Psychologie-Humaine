@@ -4,7 +4,7 @@ Pages de l’interface : `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches
 
 ## Base et migration
 
-Appliquer les migrations `0001` à `0014` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
+Appliquer les migrations `0001` à `0020` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
 
 Ne pas rejouer aveuglément une migration appliquée. Le déploiement de `worker.mjs` exige tous les modules importés de `src/`, notamment `personal-backend.mjs`, `private-context.mjs`, `recommendations.mjs`, sa baseline et le catalogue. `GENERATION_PAUSED=true` suspend la prise en charge et la publication des analyses ; lecture et édition personnelle restent disponibles.
 
@@ -99,3 +99,41 @@ L’accueil, la confirmation de lancement, l’attente de l’analyse et la conf
 `chat-safety.mjs` fournit un filet lexical conservateur pour les idées suicidaires directes ou indirectes, certaines demandes sur des moyens et les menaces de violence. Ce n’est pas une évaluation clinique exhaustive. Pour un signal détecté, une réponse déterministe est enregistrée dans le même INSERT que le tour, avant tout appel fournisseur. Elle est donc immédiatement visible et reste disponible après erreur HTTP, JSON invalide, délai dépassé, budget épuisé ou bail expiré. Elle est supprimée lors de l’effacement de la conversation ou du compte. Une réponse générée avec succès conserve les ressources de sécurité après les filtres ; aucune proposition, observation sur un proche ou note de cartographie n’est écrite pour ce tour. Les consignes générales connaissent le 3114, le 15 et le 112 même sans cartographie (et le 17 pour une violence immédiate). Aucun appel IA supplémentaire, aucune migration.
 
 Validation locale : 374 tests du journal, 29 tests du site, 43 tests Python personnels, tous les contrôles de `.github/workflows/verify.yml`. Recette Chromium à 1440, 390 et 320 pixels : menu utilisable pendant l’accueil et la confirmation, aucun dialogue modal, aucun débordement horizontal ni erreur JavaScript. Les erreurs fournisseur et les courses avec expiration, retrait du consentement et purge sont simulées dans les tests ; les données de production ne servent pas à ces simulations.
+
+## Moteur Ambre et transparence (0019)
+
+La production active `createChatBackend({engineEnabled:true})`. Le moteur persiste les étapes `analysis`, `writing`, `review`, `rewrite`, `publish` dans `chat_engine_jobs`, sous bail. L'enregistrement précède la réponse HTTP 202 ; le cron reprend les étapes restantes. Le secours déterministe est toujours enregistré avant un appel réseau. Les données privées sont relues et leur version contrôlée avant publication ; un retrait du consentement, une purge ou une modification des sources invalide le travail.
+
+`ambre-engine.mjs` construit un index borné des sources, puis ouvre au plus huit détails pertinents. Le modèle principal reçoit les six derniers échanges et une mémoire structurée bornée. Analyse et relecture utilisent `OPENROUTER_ANALYSIS_MODEL` et `OPENROUTER_CRITIC_MODEL` (défaut `openai/gpt-5-nano`), la rédaction `OPENROUTER_CHAT_MODEL` (défaut `anthropic/claude-sonnet-5.5`). Les consignes fixes demandent le cache fournisseur. La relecture applique les quinze critères cliniques, des contrôles déterministes et au plus une réécriture. Un résultat non validé est remplacé par une réponse prudente, sans modification des sources personnelles.
+
+La mémoire évolue par lots d'au moins quatre, au plus huit échanges. Elle conserve des citations vérifiables des messages de la personne, pas des inventions de l'assistant. Une correction ou un effacement avance le repère de lecture : les anciens échanges ne recréent pas la note effacée. Les sujets fermés et les appuis de sécurité sont prioritaires dans le budget de contexte. Une limite conservatrice empêche l'exploration si toutes les fermetures ne tiennent plus dans le résumé.
+
+- `GET /api/chat/insight?offset=0` : cadre de suivi, sources/index paginé, mémoire, vingt traces et règles. Les traces contiennent catégories, tailles, jetons, durées et verdicts ; aucun message privé ni raisonnement interne du modèle.
+- `PUT /api/chat/memory` : `{revision,sections:{goals,facts,hypotheses,tried,alliance,safety,closed,session}}`, tableaux de textes (300 caractères chacun ; 12 par rubrique, 30 sujets fermés). `{sections:{}}` efface la note. Une révision obsolète renvoie 409.
+- `DELETE /api/chat` purge aussi mémoire, tâches et traces. L'export et la suppression du compte couvrent ces tables.
+
+## Suivi psychologue (0020)
+
+Les comptes existants restent `member`. L'inscription accepte `role:"psychologist"` et `professional:{name,title,registration_number}`. Ces informations sont **déclarées, non vérifiées** ; elles ne constituent pas une vérification d'identité ou de titre. L'adresse électronique n'est pas vérifiée. Un compte professionnel seul ne donne aucun accès à un dossier.
+
+La personne crée un partage avec une adresse, des rubriques et un accord explicite. Un code aléatoire de 128 bits, conservé seulement sous forme d'empreinte, doit être transmis directement au professionnel. Il expire après sept jours et ne peut être activé que par le compte professionnel existant au moment de la demande. La réponse de création ne révèle pas l'existence du destinataire. Aucun courriel n'est envoyé. Le professionnel consulte uniquement les rubriques autorisées, en lecture seule. Les accès, refus et changements de partage sont journalisés ; le partage est revérifié avant de renvoyer les données.
+
+API authentifiée, mutations avec contrôle d'origine :
+
+- `GET /api/care` : cadre, première page de partages, séances et points ; les champs `*_next_offset` signalent la suite.
+- `PUT /api/care/settings` : `{has_psychologist:true|false|null,frequency_days:1..365|null}`.
+- `POST /api/care/links` : `{email,scopes,accepted:true}` ; retourne le code une seule fois. Rubriques : `conversation`, `cartography`, `portrait`, `people`, `life_events`, `reviews`.
+- `PUT /api/care/links/:id` : `{revision,scopes,accepted:true}` ; `DELETE` avec `{revision}` révoque. Changer le périmètre invalide aussi les points existants et en cours.
+- `POST /api/care/activate` : `{code}`, compte psychologue uniquement.
+- `POST /api/care/sessions` : `{session_at}` (secondes Unix) ; `PUT /:id` ajoute `revision` ; `DELETE /:id` exige `revision`.
+- `GET /api/care/links`, `/sessions`, `/briefs`, `/access-log` : pagination `?offset=…` et `next_offset`.
+- `GET /api/care/patients` : liste paginée du professionnel. `GET /api/care/dossiers/:linkId` : métadonnées, séances et points. `GET /:scope` ouvre une rubrique autorisée ; `/sessions` et `/briefs` donnent les pages suivantes.
+- `POST /api/care/briefs` : `{link_id,session_id}` ; préparation asynchrone, `GET /api/care/briefs/:id` pour lire son état et son contenu. La personne et son professionnel autorisé lisent le même point.
+
+Le point avant séance couvre la période suivant la séance précédente, à partir des seules rubriques partagées. Le cron le prépare dans les 24 heures précédant une séance et reprend les lots sous bail. Les citations doivent figurer exactement dans l'extrait envoyé. Les synthèses IA sont attribuées comme telles ; l'absence de données et la couverture partielle restent visibles. Les versions du partage, de la séance et des sources sont contrôlées avant publication. Révoquer le partage efface le contenu des points correspondants et empêche une réponse tardive de le rétablir. Les limites journalières de préparation et le budget de jetons par personne sont partagés entre demandes manuelles et automatiques.
+
+## Pages et déploiement A/B/C
+
+`/parametres/` remplace Mon compte dans le menu et conserve un bouton vers `/mon-compte/`. `/mon-suivi/` contient les réglages, séances, partages, points et accès. `/espace-psychologue/` permet d'activer un code et de consulter les dossiers. Les nouvelles pages disposent de routes Worker et de proxys Netlify ; les réponses privées restent `no-store`.
+
+Appliquer **0019 puis 0020**, après point de restauration D1 et suspension temporaire des générations ; ne pas rejouer une migration déjà appliquée. Déployer ensuite tous les modules Worker, conserver les secrets existants, retirer la suspension, puis fusionner les routes/menu dans `main`. Vérifier les deux rôles, le moteur réel, les points, la révocation et la suppression des comptes temporaires en production.
