@@ -14,15 +14,10 @@
   force = true
 
 # L’ancienne liste est désormais la section principale de l’accueil.
-[[redirects]]
-  from = "/personnages"
-  to = "/#personnages"
-  status = 301
-  force = true
 
 [[redirects]]
   from = "/personnages/page/*"
-  to = "/#personnages"
+  to = "/personnages/"
   status = 301
   force = true
 
@@ -62,6 +57,35 @@
 
 [[headers]]
   for = "/mon-personnage/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+# Le site s’ouvre sur Ambre ; le catalogue des personnages reste à /personnages/.
+[[redirects]]
+  from = "/"
+  to = "/mon-accompagnement/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/mes-bilans"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-bilans/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mes-bilans/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-bilans/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/mes-bilans"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mes-bilans/*"
   [headers.values]
     Cache-Control = "private, no-store"
 

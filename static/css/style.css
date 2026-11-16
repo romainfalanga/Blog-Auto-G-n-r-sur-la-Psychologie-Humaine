@@ -707,7 +707,7 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 }
 
 /* ── Cartographie ── */
-.carto { padding-top: 1.25rem; padding-bottom: 6rem; }
+.carto { padding-top: 1.25rem; padding-bottom: 1.5rem; }
 .carto-intro { max-width: 820px; margin-bottom: 1rem; }
 .carto-intro h1 { font-family: var(--font-serif); font-size: clamp(1.7rem, 4vw, 2.2rem); margin-bottom: .4rem; }
 .carto-lead { color: var(--color-text-light); line-height: 1.55; }
@@ -806,6 +806,7 @@ details.carto-tier > summary { cursor: pointer; }
 .carto-strength-moderee, .carto-strength-critere { background: var(--color-accent-light); }
 .carto-link-text { line-height: 1.45; margin-top: .15rem; }
 .carto-card-notes { padding: 0 .9rem .7rem; }
+.carto-save-warning { font-weight: 600; margin-bottom: .4rem; }
 .carto-save-status.is-error { color: #A33; font-weight: 400; }
 .carto-sources { font-size: .76rem; color: var(--color-text-light); margin-top: .2rem; }
 .carto-sources summary { cursor: pointer; color: var(--color-accent); }
@@ -841,6 +842,7 @@ details.carto-tier > summary { cursor: pointer; }
   .carto-tabs button[aria-selected="true"] { background: var(--color-accent); color: #fff; border-color: var(--color-accent); }
   .carto-tabs [data-count] { display: block; font-size: .72rem; opacity: .85; }
   .carto-layout { display: block; }
+  body:has(.carto[data-view="form"]) { padding-bottom: 4.2rem; }
   .carto-form-body { padding: .8rem; }
   .carto[data-view="form"] .carto-pane-results, .carto[data-view="results"] .carto-pane-form { display: none; }
   .carto-pane-results { position: static; max-height: none; overflow: visible; padding-right: 0; }

@@ -1,15 +1,11 @@
 [
   {
-    "label": "Personnages",
-    "href": "/"
+    "label": "Ambre",
+    "href": "/mon-accompagnement/"
   },
   {
     "label": "Cartographie",
     "href": "/cartographie/"
-  },
-  {
-    "label": "Ambre",
-    "href": "/mon-accompagnement/"
   },
   {
     "label": "Mon portrait",
@@ -22,6 +18,10 @@
   {
     "label": "Ma ligne de vie",
     "href": "/ma-ligne-de-vie/"
+  },
+  {
+    "label": "Mes bilans",
+    "href": "/mes-bilans/"
   },
   {
     "label": "Mon compte",

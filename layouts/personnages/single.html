@@ -23,7 +23,7 @@
   {{- end }}
 {{- end }}
 <div class="personnages-page">
-  <a class="catalogue-back" href="/#personnages">Tous les personnages</a>
+  <a class="catalogue-back" href="/personnages/">Tous les personnages</a>
 
   {{- $prenom := .Params.prenom | default .Title }}
   <header class="perso-profile">
@@ -71,7 +71,7 @@
   </aside>
 
   <div class="perso-back">
-    <a href="/#personnages" class="perso-btn-outline">Retour aux personnages</a>
+    <a href="/personnages/" class="perso-btn-outline">Retour aux personnages</a>
   </div>
 </div>
 {{ end }}
