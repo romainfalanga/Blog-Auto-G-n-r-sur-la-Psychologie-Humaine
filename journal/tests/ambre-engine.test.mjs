@@ -143,3 +143,77 @@ test('past safety history informs context without making every greeting a curren
  const history={safety_seen:true,safety:['Je veux mourir.']};assert.equal(deterministicAnalysis('Bonjour',history).risk,'none');assert.equal(deterministicAnalysis('Bonjour',history).posture,'explore');assert.equal(deterministicAnalysis('Je veux mourir.',history).risk,'explicit');
  const s=setup();await ready(s);s.raw.prepare("INSERT INTO chat_memory(user_id,summary,updated_at) VALUES('a',?,0)").run(JSON.stringify(history));const calls=provider(t);const result=await message(s,'past_safety','Bonjour');assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).analysis).risk,'none');assert.doesNotMatch(result.messages.at(-1).content,/3114|danger immédiat/);const input=JSON.parse(calls[0].body.messages[1].content);assert.equal(input.memory.safety_seen,true);assert.deepEqual(input.memory.safety,history.safety);
 });
+
+test('a reviewer waits for a fresh execution window instead of receiving a few seconds',async t=>{
+ const s=setup();await ready(s);const realNow=Date.now,base=realNow();let elapsed=0;Date.now=()=>base+elapsed;t.after(()=>{Date.now=realNow});
+ const calls=provider(t,p=>{if(p==='ambre_analysis')elapsed=6000;if(p==='ambre_writing')elapsed=17000});await message(s,'review_window');
+ assert.deepEqual(calls.map(c=>c.purpose),['ambre_analysis','ambre_writing']);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,0);assert.equal(s.raw.prepare('SELECT provider_calls FROM provider_budgets').get().provider_calls,2);assert.equal(JSON.parse(job(s).review).error_code,undefined);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.equal(calls.length,3);assert.equal(JSON.parse(job(s).review).checked,true);assert.equal(JSON.parse(job(s).review).passed,true);
+});
+
+test('reviewer transient timeout and HTTP errors resume only the review on later leases',async t=>{
+ for(const failure of ['timeout','http']){
+  const s=setup();await ready(s);let reviews=0;const calls=provider(t,p=>{if(p==='ambre_review'&&++reviews===1){if(failure==='http')return new Response('PRIVATE_SECRET upstream text',{status:503});throw Object.assign(Error('PRIVATE_SECRET mock-only'),{name:'TimeoutError'})}});
+  await message(s,'retry_'+failure);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);assert.equal(JSON.parse(job(s).review).fallback,undefined);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
+  const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,failure==='http'?'provider_http_503':'provider_timeout');assert.equal(trace.error.code,trace.review.error_code);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|mock-only/);
+  await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(JSON.parse(job(s).review).attempts,2);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(reviews,2);
+ }
+});
+
+test('three unavailable reviewer attempts publish a safe fallback and never retry indefinitely',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_review')return new Response('PRIVATE_SECRET',{status:429})});await message(s,'review_three');assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,2);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const verdict=JSON.parse(job(s).review);assert.equal(verdict.checked,false);assert.equal(verdict.fallback,true);assert.equal(verdict.attempts,3);assert.equal(verdict.error_code,'provider_http_429');assert.match((await s.call('/api/chat')).messages.at(-1).content,/reprendre avec prudence/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,3);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);
+ await s.chat.resumeEngine(s.env);assert.equal(calls.length,5);assert.doesNotMatch(JSON.stringify((await s.call('/api/chat/insight')).turns),/PRIVATE_SECRET/);
+});
+
+test('malformed reviewer output is classified without persisting provider content',async t=>{
+ for(const value of ['PRIVATE_SECRET invalid JSON',{criteria:['PRIVATE_SECRET'],reasons:['mock-only']}]){
+  const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_review'?response(value):undefined);await message(s,'bad_review');assert.equal(job(s).stage,'done');const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,'review_invalid_response');assert.equal(trace.review.fallback,true);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|mock-only/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,1);
+ }
+});
+
+test('small stages use minimal reasoning and larger reserved output while writing is unchanged',async t=>{
+ const s=setup();await ready(s);const calls=provider(t);await message(s,'reasoning_caps');for(const purpose of ['ambre_analysis','ambre_review']){const body=calls.find(c=>c.purpose===purpose).body;assert.equal(body.reasoning.effort,'minimal');assert.equal(body.max_tokens,1500)}const writing=calls.find(c=>c.purpose==='ambre_writing').body;assert.equal(writing.reasoning.effort,'low');assert.equal(writing.max_tokens,1800);assert.equal(writing.model,'anthropic/claude-sonnet-5.5');
+ const expected=calls.reduce((sum,{body})=>sum+Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens,0);assert.equal(s.raw.prepare('SELECT reserved_tokens FROM provider_budgets').get().reserved_tokens,expected);
+ await s.chat.generateText(s.env,{userId:'a',system:'Mémoire.',user:'Citations.',purpose:'memory',maxTokens:1200,schema:{type:'object'}});assert.equal(calls.at(-1).body.max_tokens,2400);assert.equal(calls.at(-1).body.reasoning.effort,'minimal');
+});
+
+test('truncated review is distinct from malformed output, retains numeric reasoning usage and retries with room',async t=>{
+ const s=setup();await ready(s);let reviews=0;const calls=provider(t,p=>{if(p==='ambre_review'&&++reviews===1)return Response.json({choices:[{message:{content:'PRIVATE_SECRET',reasoning:'PRIVATE_REASONING'},finish_reason:'length'}],usage:{prompt_tokens:100,completion_tokens:1500,completion_tokens_details:{reasoning_tokens:1490}}})});await message(s,'review_truncated');assert.equal(job(s).stage,'review');const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.review.error_code,'output_limit');assert.equal(trace.review.usage.reasoning_tokens,1490);assert.equal(trace.review.usage.output_tokens,1500);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_SECRET|PRIVATE_REASONING/);
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).review).passed,true);const reviewers=calls.filter(c=>c.purpose==='ambre_review');assert.deepEqual(reviewers.map(c=>c.body.max_tokens),[1500,2250]);assert.equal(JSON.parse(job(s).review).usage.reasoning_tokens,1490);assert.equal(JSON.parse(job(s).review).usage.output_tokens,1580);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);assert.ok(job(s).reserved_tokens<=30000);
+});
+
+test('truncated analysis keeps deterministic safety and exposes only numeric usage and output-limit code',async t=>{
+ const s=setup();await ready(s);provider(t,p=>p==='ambre_analysis'?Response.json({choices:[{message:{content:null,reasoning:'PRIVATE_REASONING'},finish_reason:'length'}],usage:{prompt_tokens:100,completion_tokens:1500,completion_tokens_details:{reasoning_tokens:1500}}}):undefined);await message(s,'analysis_truncated','Je veux mourir.');assert.equal(job(s).stage,'done');const trace=(await s.call('/api/chat/insight')).turns[0];assert.equal(trace.analysis.fallback,true);assert.equal(trace.analysis.error_code,'output_limit');assert.equal(trace.analysis.risk,'explicit');assert.equal(trace.analysis.usage.reasoning_tokens,1500);assert.match((await s.call('/api/chat')).messages.at(-1).content,/3114/);assert.doesNotMatch(JSON.stringify(trace),/PRIVATE_REASONING/);
+});
+
+test('repeated output truncation stops at three bounded review attempts',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,(p,body)=>p==='ambre_review'?Response.json({choices:[{message:{content:null},finish_reason:'length'}],usage:{prompt_tokens:100,completion_tokens:body.max_tokens,completion_tokens_details:{reasoning_tokens:body.max_tokens}}}):undefined);await message(s,'limit_three');await s.chat.resumeEngine(s.env);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');assert.deepEqual(calls.filter(c=>c.purpose==='ambre_review').map(c=>c.body.max_tokens),[1500,2250,3000]);const verdict=JSON.parse(job(s).review);assert.equal(verdict.fallback,true);assert.equal(verdict.error_code,'output_limit');assert.equal(verdict.attempts,3);assert.equal(verdict.usage.reasoning_tokens,6750);assert.ok(job(s).reserved_tokens<=30000);await s.chat.resumeEngine(s.env);assert.equal(calls.length,5);
+});
+
+test('explicit listening and question refusals survive a conflicting model analysis',async t=>{
+ const listening='Je voudrais simplement être écouté, sans conseil pour le moment.';
+ for(const text of [listening,'Je veux uniquement être écoutée.','Sans conseils, merci.']){const a=deterministicAnalysis(text);assert.equal(a.need,'listen');assert.equal(a.posture,'listen');assert.ok(a.constraints.includes('no_advice'))}
+ for(const text of ['Pas de questions, merci.','Aucune question pour le moment.','Je préfère parler sans questions.'])assert.ok(deterministicAnalysis(text).constraints.includes('no_questions'));
+ for(const [text,constraint] of [[listening,'no_advice'],['Aucune question pour le moment.','no_questions']]){
+  const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?{...analysis(),need:'advice',posture:'options',constraints:[]}:undefined);await message(s,'explicit_limit',text);const actual=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content).analysis;assert.ok(actual.constraints.includes(constraint));if(constraint==='no_advice'){assert.equal(actual.need,'listen');assert.equal(actual.posture,'listen')}assert.equal(job(s).stage,'done');
+ }
+});
+
+test('owner polling resumes pending work without blocking GET or duplicating concurrent provider calls',async t=>{
+ const s=setup();await ready(s);const realNow=Date.now,base=realNow();let elapsed=0;Date.now=()=>base+elapsed;t.after(()=>{Date.now=realNow});
+ let release,started;const began=new Promise(r=>started=r);t.after(()=>release?.());const calls=provider(t,async p=>{if(p==='ambre_analysis')elapsed=6000;if(p==='ambre_writing')elapsed=17000;if(p==='ambre_review'){started();await new Promise(r=>release=r)}});
+ const sent=await message(s,'poll_pending');Date.now=realNow;assert.equal(job(s).stage,'review');assert.equal(calls.length,2);
+ const otherTasks=[];const other=await s.call('/api/chat','GET',undefined,'b',{waitUntil:p=>otherTasks.push(p)});assert.equal(other.pending_request,null);assert.equal(otherTasks.length,0);assert.equal(calls.length,2);
+ await s.call('/api/chat');assert.equal(calls.length,2,'without waitUntil the cron remains responsible');
+ const tasks=[],ctx={waitUntil:p=>tasks.push(p)};let timer;const polled=await Promise.race([s.call('/api/chat','GET',undefined,'a',ctx),new Promise((_,reject)=>{timer=setTimeout(()=>reject(Error('GET awaited the provider')),1500)})]).finally(()=>clearTimeout(timer));assert.equal(polled.status,200);assert.equal(polled.pending_request.id,sent.request_id);await began;
+ await Promise.all(Array.from({length:4},()=>s.call('/api/chat','GET',undefined,'a',ctx)));assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,1);assert.equal(job(s).stage,'review');release();await Promise.all(tasks);assert.equal(job(s).stage,'done');assert.equal(calls.length,3);const taskCount=tasks.length;assert.equal((await s.call('/api/chat','GET',undefined,'a',ctx)).pending_request,null);assert.equal(tasks.length,taskCount);
+});
+
+test('publication during state construction keeps pending and messages on one consistent snapshot',async()=>{
+ const s=setup();await ready(s);s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,lease_until) VALUES('publish-race','a','request_race','hash','running','reserved',?,1,1,'Un message en attente.','',?)").run(parisWeek(new Date()).week_start,s.getClock()+600);
+ const original=s.env.DB.prepare;let published=false;s.env.DB.prepare=sql=>{const statement=original(sql);if(sql.startsWith('SELECT id,idempotency_key,content,response,status,error_code,lease_until,created_at FROM chat_turns')){const read=statement.all.bind(statement);statement.all=async()=>{const snapshot=await read();if(!published){published=true;s.raw.prepare("UPDATE chat_turns SET status='completed',credit_status='consumed',response=? WHERE id='publish-race'").run(JSON.stringify({companion_reply:1,content:'Réponse publiée après la lecture.'}))}return snapshot}}return statement};
+ const during=await s.call('/api/chat');assert.equal(published,true);assert.deepEqual(during.pending_request,{id:'publish-race',status:'running',client_key:'request_race'});assert.equal(during.last_request.status,'running');assert.equal(during.messages.some(m=>m.role==='assistant'),false);
+ const after=await s.call('/api/chat');assert.equal(after.pending_request,null);assert.equal(after.last_request.status,'completed');assert.equal(after.messages.at(-1).content,'Réponse publiée après la lecture.');
+});
