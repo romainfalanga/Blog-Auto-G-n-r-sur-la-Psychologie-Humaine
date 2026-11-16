@@ -143,7 +143,7 @@ test('V3 separates relationship and life pages from the declared and interpreted
   assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-accompagnement/'),'chat');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
-  assert.match(HTML,/À propos de moi/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="synthesis">Mon portrait/);
+  assert.doesNotMatch(HTML,/À propos de moi/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="self">Mon portrait/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="synthesis">Ambre</);
   assert.match(HTML,/\.portrait-tabs \{[^}]*grid-template-columns: repeat\(2,minmax\(0,1fr\)\)/);
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
@@ -730,7 +730,7 @@ test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
 test('the portrait menu has only presentation and synthesis, with existing article links preserved',async()=>{
  const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){},renderLikes(){},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});env.ctx.state.tab='portrait';env.host('view');env.host('portrait-body');for(const name of ['renderPortrait','refreshPortraitData'])vm.runInContext(functionCode(name),env.ctx);await env.ctx.renderPortrait();assert.deepEqual(calls,['/api/portrait']);
  const view=env.doc.getElementById('view'),labels=[...view.innerHTML.matchAll(/data-portrait-tab="[^"]+">([^<]+)/g)].map(match=>match[1]);
- assert.deepEqual(labels,['À propos de moi','Mon portrait']);assert.doesNotMatch(view.innerHTML,/ambre-hint|Ma cartographie|role="note"/);assert.equal(env.doc.getElementById('ma-cartographie'),null);assert.doesNotMatch(functionCode('applyPortraitData'),/drawPsychologyMap/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|function loadPortraitCorrection/);
+ assert.deepEqual(labels,['Mon portrait','Ambre']);assert.doesNotMatch(view.innerHTML,/ambre-hint|Ma cartographie|role="note"/);assert.equal(env.doc.getElementById('ma-cartographie'),null);assert.doesNotMatch(functionCode('applyPortraitData'),/drawPsychologyMap/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|function loadPortraitCorrection/);
  assert.ok(view.innerHTML.indexOf('id="portrait-body"')<view.innerHTML.indexOf('id="portrait-status"'));
 });
 
