@@ -405,15 +405,19 @@
     function renderAll() { var focused = captureFocus(); renderForm(); renderResults(); restoreFocus(focused); }
 
     /* ---- Onglets (mobile) ---- */
-    function setView(v) {
+    function setView(v, scroll) {
       state.view = v;
       root.setAttribute('data-view', v);
       root.querySelectorAll('[data-tab]').forEach(function (t) { t.setAttribute('aria-selected', t.getAttribute('data-tab') === v ? 'true' : 'false'); });
-      var target = v === 'results' ? $('[data-pane-results]') : $('[data-pane-form]');
-      if (target && target.scrollIntoView && window.matchMedia('(max-width: 900px)').matches) target.scrollIntoView({ block: 'start' });
+      // Never move the page on load or when switching tabs; only come back up to the
+      // tabs when the person had scrolled past them (otherwise the new pane opens mid-way).
+      var tabs = $('.carto-tabs');
+      if (!scroll || !tabs || !window.matchMedia('(max-width: 900px)').matches) return;
+      var top = root.getBoundingClientRect().top + window.pageYOffset;
+      if (window.pageYOffset > top) window.scrollTo(0, top);
     }
-    root.querySelectorAll('[data-tab]').forEach(function (t) { t.addEventListener('click', function () { setView(t.getAttribute('data-tab')); }); });
-    root.querySelectorAll('[data-go-results]').forEach(function (b) { b.addEventListener('click', function () { setView('results'); }); });
+    root.querySelectorAll('[data-tab]').forEach(function (t) { t.addEventListener('click', function () { setView(t.getAttribute('data-tab'), true); }); });
+    root.querySelectorAll('[data-go-results]').forEach(function (b) { b.addEventListener('click', function () { setView('results', true); }); });
 
     function loadAccountMap() {
       state.loading = true; state.loadError = false; state.saveError = ''; renderSave();
