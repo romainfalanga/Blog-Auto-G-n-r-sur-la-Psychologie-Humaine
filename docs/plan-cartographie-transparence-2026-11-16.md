@@ -4,16 +4,16 @@ Ce chantier remplace les choix d’interface de la V3 et la première page Param
 
 | Exigence | Critère observable | Responsable | État |
 |---|---|---|---|
-| R1 Portrait | Seulement À propos de moi et Mon portrait dans le menu local | Principal | Vérifié en navigateur |
-| R2 Paramètres | Données réelles consultables, sélection explicitée, modèles par étape, détails des nouvelles réponses | Principal + engine_review | Vérifié localement ; voir les preuves ci-dessous |
-| R3 Six thèmes | Six accordéons fermés au chargement, aucun suivant, aucun septième thème | care_review | Vérifié localement ; voir les preuves ci-dessous |
-| R4 Sauvegarde | Aucune case à cocher, sauvegarde automatique pour le compte connecté ; brouillon local sans compte ; erreurs et conflits visibles | care_review | Vérifié localement ; voir les preuves ci-dessous |
-| R5 Mobile | Réponses et ajout d’explication centrés à 320 et 390 px, sans débordement | care_review | Vérifié localement ; voir les preuves ci-dessous |
-| R6 Résultats | Tous les types sans filtre, explication associations/diagnostic, absence du bloc avant de commencer | care_review + clinical_coverage | Vérifié localement ; voir les preuves ci-dessous |
-| R7 Vue d’ensemble | Hiérarchie lisible, absence d’espace vide au-dessus du titre | care_review | Vérifié localement ; voir les preuves ci-dessous |
-| R8 Fond scientifique | Audit chiffré CIM-11/DSM-5-TR/modèles ; corrections sourcées ; limites de couverture explicites | clinical_coverage | Vérifié localement ; voir les preuves ci-dessous |
-| R9 Calcul et Ambre | Classement prudent, cohérence client/serveur, retours négatifs et limites d’âge transmis, tests de non-régression | clinical_coverage + engine_review | Vérifié localement ; voir les preuves ci-dessous |
-| R10 Livraison | Relecture indépendante, tests projet, navigateur mobile/bureau, déploiements vérifiés | Principal | Recette locale validée ; publication et recette distante en cours |
+| R1 Portrait | Seulement À propos de moi et Mon portrait dans le menu local | Principal | Publié et vérifié en production |
+| R2 Paramètres | Données réelles consultables, sélection explicitée, modèles par étape, détails des nouvelles réponses | Principal + engine_review | Publié ; vérifications détaillées ci-dessous |
+| R3 Six thèmes | Six accordéons fermés au chargement, aucun suivant, aucun septième thème | care_review | Publié ; vérifications détaillées ci-dessous |
+| R4 Sauvegarde | Aucune case à cocher, sauvegarde automatique pour le compte connecté ; brouillon local sans compte ; erreurs et conflits visibles | care_review | Publié ; vérifications détaillées ci-dessous |
+| R5 Mobile | Réponses et ajout d’explication centrés à 320 et 390 px, sans débordement | care_review | Publié ; vérifications détaillées ci-dessous |
+| R6 Résultats | Tous les types sans filtre, explication associations/diagnostic, absence du bloc avant de commencer | care_review + clinical_coverage | Publié ; vérifications détaillées ci-dessous |
+| R7 Vue d’ensemble | Hiérarchie lisible, absence d’espace vide au-dessus du titre | care_review | Publié ; vérifications détaillées ci-dessous |
+| R8 Fond scientifique | Audit chiffré CIM-11/DSM-5-TR/modèles ; corrections sourcées ; limites de couverture explicites | clinical_coverage | Publié ; vérifications détaillées ci-dessous |
+| R9 Calcul et Ambre | Classement prudent, cohérence client/serveur, retours négatifs et limites d’âge transmis, tests de non-régression | clinical_coverage + engine_review | Publié ; vérifications détaillées ci-dessous |
+| R10 Livraison | Relecture indépendante, tests projet, navigateur mobile/bureau, déploiements vérifiés | Principal | Publié, recette distante et effacement vérifiés |
 
 ## Décisions
 
@@ -54,3 +54,14 @@ La première réponse réelle a respecté « sans conseil ni question », mais s
 La recette mobile distante confirme aussi un écart de 14 pixels entre le bord de la carte et le titre Vue d’ensemble, sans espace parasite, à 390 et 320 pixels. Une réponse déjà sélectionnée ne crée plus de brouillon ni de sauvegarde supplémentaire lors d’un nouveau clic ; le scénario de navigation rapide correspondant est couvert en navigateur.
 
 Un autre essai réel a montré qu’une question ordinaire sur la portée de la cartographie pouvait être classée à tort comme risque possible par le petit modèle. Une alerte proposée uniquement par ce modèle passe désormais par un appel conditionnel isolé, ancré dans le message actuel ; il ne reçoit ni index, ni portrait, ni mémoire. Une confirmation actuelle explicite peut joindre le dernier échange de sécurité pertinent. Les signaux du filet déterministe gardent leur priorité. L’analyse initiale est persistée avant ce contrôle, dont les échecs et reprises sont bornés. L’étape, son modèle et ses entrées sont visibles dans Paramètres ; les ressources de violence utilisent le signal confirmé approprié.
+
+## Livraison distante terminée
+
+- Code final `367159faad289b54fa859009e36707c5fa3cf42d`, PR 77, 78 et 79 intégrées ; CI `43872759457` réussie.
+- Worker `94323d7713e842fab11cfef3ad5dba0f`, 16/11/2026 13:07:45 UTC : 32 modules vérifiés par SHA-256, aucun écart ; aucune migration et secrets conservés.
+- Netlify `6afb003f7e6eb88ee1fb1d23`, même commit, état `ready`, publication 13:08:56 UTC.
+- Deux échanges réels terminés après les correctifs, avec analyse et relecture nano, rédaction Sonnet, verdicts validés et absence d’alerte injustifiée. Respect de « sans conseil ni question » et explication non diagnostique contrôlés dans les textes produits. Les entrées exactes des trois étapes de chaque réponse sont consultables ; le contrôle conditionnel supplémentaire n’était pas nécessaire dans ces deux traces et reste testé séparément.
+- Paramètres (trois onglets), portrait (deux onglets), cartographie (six volets, sauvegarde réelle, centrage et résultats) vérifiés à 1 440, 390 et 320 px. Aucune erreur JavaScript ni débordement. Export des traces réussi.
+- Compte synthétique supprimé par l’API avec vérification de la déconnexion, identifiants locaux effacés. Contrôle D1 ciblé : zéro ligne restante dans les 40 tables liées au compte ; aucune violation de clé étrangère. Aucun dossier réel utilisé.
+
+Les contrôles logiciels et ces échanges ne constituent pas une garantie clinique universelle. L’audit de couverture reste la référence pour les lacunes scientifiques et les limites de classification.
