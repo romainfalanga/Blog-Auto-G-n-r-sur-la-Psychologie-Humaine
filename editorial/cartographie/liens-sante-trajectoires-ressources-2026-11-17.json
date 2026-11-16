@@ -1,0 +1,1228 @@
+{
+  "part": "sante-trajectoires-ressources",
+  "author": "recherche_lot7",
+  "outcomes": [
+    {
+      "id": "ten_maladies_cardiovasculaires",
+      "kind": "tendance",
+      "label": "Santé cardiovasculaire : repère de recherche",
+      "description": "Maladies du cœur et des vaisseaux étudiées à l’échelle de groupes. Ce repère ne permet aucun diagnostic ni pronostic individuel à partir de l’enfance.",
+      "domain": "perceptions",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_diabete_type2",
+      "kind": "tendance",
+      "label": "Diabète de type 2 : repère de recherche",
+      "description": "Maladie métabolique qui nécessite une évaluation médicale. Les associations avec des expériences d’enfance ne permettent ni de la diagnostiquer ni d’en prédire la survenue.",
+      "domain": "perceptions",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_migraine",
+      "kind": "tendance",
+      "label": "Migraine : repère de recherche",
+      "description": "Trouble neurologique étudié dans des enquêtes sur les violences subies pendant l’enfance. Une migraine n’est ni une preuve de maltraitance ni une douleur imaginaire.",
+      "domain": "perceptions",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_fibromyalgie",
+      "kind": "tendance",
+      "label": "Fibromyalgie : repère de recherche",
+      "description": "Syndrome de douleurs diffuses avec d’autres symptômes possibles, à évaluer médicalement. Les études de groupe ne permettent pas d’en attribuer l’origine à l’enfance.",
+      "domain": "perceptions",
+      "contextual_only": true
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_maladies_cardiovasculaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte britannique adulte, les violences physiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_maladies_cardiovasculaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte britannique adulte, les violences sexuelles infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_maladies_cardiovasculaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte britannique adulte, les violences psychologiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_maladies_cardiovasculaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte britannique adulte, la négligence physique infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_maladies_cardiovasculaires",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte britannique adulte, la négligence affective infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_diabete_type2",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les violences physiques infantiles à davantage de diabète de type 2, avec un écart modeste. Une synthèse plus récente retrouve une association pour les diabètes regroupés ; elle précise que les preuves par type restent incomplètes.",
+      "sources": [
+        "huang2015_diabete",
+        "zhu2022_diabete"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_diabete_type2",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les violences sexuelles infantiles à davantage de diabète de type 2, avec un écart modeste. Une synthèse plus récente retrouve une association pour les diabètes regroupés ; elle précise que les preuves par type restent incomplètes.",
+      "sources": [
+        "huang2015_diabete",
+        "zhu2022_diabete"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_migraine",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d’études observationnelles associe les violences physiques pendant l’enfance à davantage de migraines, avec une association modeste à modérée. Le rôle d’autres facteurs et les limites des souvenirs empêchent d’en tirer une explication individuelle.",
+      "sources": [
+        "liu2024_migraine"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_migraine",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d’études observationnelles associe les violences sexuelles pendant l’enfance à davantage de migraines, avec une association modeste à modérée. Le rôle d’autres facteurs et les limites des souvenirs empêchent d’en tirer une explication individuelle.",
+      "sources": [
+        "liu2024_migraine"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_migraine",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse d’études observationnelles associe les violences psychologiques pendant l’enfance à davantage de migraines, avec une association modeste à modérée. Le rôle d’autres facteurs et les limites des souvenirs empêchent d’en tirer une explication individuelle.",
+      "sources": [
+        "liu2024_migraine",
+        "flor2025"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_fibromyalgie",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études cas-témoins chez l’adulte, les violences physiques dans l’enfance sont plus souvent rapportées parmi les personnes ayant une fibromyalgie. L’association est notable, mais la qualité souvent faible des études limite les conclusions.",
+      "sources": [
+        "hauser2011"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_fibromyalgie",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études cas-témoins chez l’adulte, les violences sexuelles dans l’enfance sont plus souvent rapportées parmi les personnes ayant une fibromyalgie. L’association est notable, mais la qualité souvent faible des études limite les conclusions.",
+      "sources": [
+        "hauser2011"
+      ]
+    },
+    {
+      "factor": "maladie_enfant",
+      "outcome": "ten_difficultes_scolaires",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des enfants et adolescents ayant une maladie physique chronique relève davantage de difficultés scolaires, avec un écart moyen modéré et de fortes différences selon les maladies. Cela ne permet pas d’évaluer les capacités d’un enfant ni l’effet d’une hospitalisation isolée.",
+      "sources": [
+        "pinquart2012_scolarite"
+      ]
+    },
+    {
+      "factor": "harcelement",
+      "outcome": "ten_difficultes_professionnelles",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte britannique suivie jusqu’à 50 ans, les enfants harcelés avaient moins souvent un emploi et moins de patrimoine à l’âge adulte. L’écart persiste longtemps mais varie selon les indicateurs ; les revenus du travail étaient surtout plus faibles chez les femmes.",
+      "sources": [
+        "brimblecombe2018_emploi",
+        "takizawa2014"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "soares2022_cardiovasculaire",
+      "citation": "Soares AG, Howe LD, Heron J, et al., 2022, How does childhood maltreatment influence cardiovascular disease? A sequential causal mediation analysis, International Journal of Epidemiology 51(2):555-566",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34041541/",
+      "type": "etude",
+      "read": "section — résumé, résultats, tableaux 1–2 et limites du texte intégral PMC9082818 via Europe PMC"
+    },
+    {
+      "id": "han2023_experiences_positives",
+      "citation": "Han D, Dieujuste N, Doom JR, Narayan AJ, 2023, A systematic review of positive childhood experiences and adult outcomes: Promotive and protective processes for resilience in the context of childhood adversity, Child Abuse & Neglect 144:106346",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10528145/",
+      "type": "revue",
+      "read": "section — résumé et introduction, jusqu’à Individual and Cumulative PCEs ; autres sections initialement bloquées par CAPTCHA"
+    },
+    {
+      "id": "mangelsdorf2019_croissance",
+      "citation": "Mangelsdorf J, Eid M, Luhmann M, 2019, Does growth require suffering? A systematic review and meta-analysis on genuine posttraumatic and postecstatic growth, Psychological Bulletin 145(3):302-338",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30589274/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "wang2026_asthme",
+      "citation": "Wang L, Cheng Y, Wang Y, 2026, Association between adverse childhood experiences and asthma: a meta-analysis, BMC Public Health 26:645",
+      "url": "https://doi.org/10.1186/s12889-026-26363-y",
+      "type": "meta-analyse",
+      "read": "section — résumé, méthodes, résultats et discussion du texte intégral éditeur"
+    },
+    {
+      "id": "abouelmagd2025_demence",
+      "citation": "Abouelmagd ME, AbdelMeseh M, Elrosasy A, Eldeeb HA, Nabil Y, 2025 [en ligne 2024], Adverse childhood experiences and risk of late-life dementia: a systematic review and meta-analysis, Social Psychiatry and Psychiatric Epidemiology 60:1087-1098",
+      "url": "https://doi.org/10.1007/s00127-024-02676-4",
+      "type": "meta-analyse",
+      "read": "section — résumé, méthodes, résultats et discussion du texte intégral éditeur"
+    },
+    {
+      "id": "zheng2025_mortalite",
+      "citation": "Zheng L, Liu P, Li X, et al., 2025, Association between adverse childhood experiences and mortality: A systematic review and meta-analysis, Psychiatry Research 343:116275",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39608195/",
+      "type": "meta-analyse",
+      "read": "résumé"
+    },
+    {
+      "id": "cdc2024_prevention_aces",
+      "citation": "Centers for Disease Control and Prevention, 2024, Preventing Adverse Childhood Experiences, National Center for Injury Prevention and Control, page du 8 octobre 2024",
+      "url": "https://www.cdc.gov/aces/prevention/index.html",
+      "type": "recommandation",
+      "read": "page"
+    },
+    {
+      "id": "jesuthasan2025_autoimmunite",
+      "citation": "Jesuthasan J, Watson CJ, Hafeez D, Lynch-Kelly K, Danese A, Pollak TA, 2025, Childhood adversity as a risk factor for autoimmune disease: A systematic review and meta-analysis with implications for psychiatry, Brain, Behavior, and Immunity 128:643-653",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40320015/",
+      "type": "meta-analyse",
+      "read": "résumé — Europe PMC et notice PubMed ; texte éditeur inaccessible (403)"
+    },
+    {
+      "id": "zhu2022_diabete",
+      "citation": "Zhu S, Shan S, Liu W, et al., 2022, Adverse childhood experiences and risk of diabetes: A systematic review and meta-analysis, Journal of Global Health 12:04082",
+      "url": "https://doi.org/10.7189/jogh.12.04082",
+      "type": "meta-analyse",
+      "read": "section — résumé éditeur ; résultats par type d’ACE, tableau 2 et discussion sur les types de diabète, XML PMC9624439 via Europe PMC"
+    },
+    {
+      "id": "pinquart2012_scolarite",
+      "citation": "Pinquart M, Teubert D, 2012, Academic, physical, and social functioning of children and adolescents with chronic physical illness: a meta-analysis, Journal of Pediatric Psychology 37(4):376-389",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22173882/",
+      "type": "meta-analyse",
+      "read": "résumé via Europe PMC ; notice PubMed ouverte"
+    },
+    {
+      "id": "brimblecombe2018_emploi",
+      "citation": "Brimblecombe N, Evans-Lacko S, Knapp M, et al., 2018, Long term economic impact associated with childhood bullying victimisation, Social Science & Medicine 208:134-141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29803971/",
+      "type": "etude",
+      "read": "résumé via Europe PMC ; notice PubMed ouverte"
+    },
+    {
+      "id": "logue2026_demence",
+      "citation": "Logue E, Benge JF, Chung A, Newport DJ, Nemeroff CB, 2026, Relationships Among Dementia, Parental Death, and Other Adverse Childhood Experiences: Systematic Review and Meta-Analysis, Journal of Neuropsychiatry and Clinical Neurosciences 38(4):329-340",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42026719/",
+      "type": "meta-analyse",
+      "read": "résumé via Europe PMC ; ouverture PubMed limitée à une page technique"
+    }
+  ],
+  "protections": [
+    {
+      "id": "prot_changer_perspective",
+      "label": "Pouvoir envisager une autre lecture",
+      "description": "Chez des jeunes exposés à l’adversité, une revue de cohortes relève un rôle possible de la réévaluation cognitive. Les données sont limitées ; changer de perspective ne signifie pas nier une violence ou une contrainte réelle.",
+      "sources": [
+        "fritz2018"
+      ]
+    },
+    {
+      "id": "prot_traverser_inconfort",
+      "label": "Trouver des appuis pour traverser une émotion",
+      "description": "Une revue de cohortes de jeunes relève un rôle possible de la tolérance à l’inconfort émotionnel. Ce résultat limité ne demande ni d’endurer seul une souffrance, ni de rester dans une situation dangereuse.",
+      "sources": [
+        "fritz2018"
+      ]
+    },
+    {
+      "id": "prot_appuis_materiels",
+      "label": "Des aides concrètes pour les besoins essentiels",
+      "description": "Le CDC recommande des soutiens pour l’alimentation, la garde des enfants et l’articulation famille-travail dans la prévention des adversités. Ces appuis relèvent aussi des conditions de vie et des politiques publiques.",
+      "sources": [
+        "cdc2024_prevention_aces"
+      ]
+    }
+  ],
+  "notes": [
+    "Les associations de santé sont des observations de groupes ; elles ne permettent ni diagnostic, ni pronostic individuel à partir de l’enfance. Les ressources restent hors graphe et hors calcul.",
+    "Les expériences positives peuvent coexister avec des violences : elles ne les annulent pas. Les effets favorables moyens ne prouvent pas un effet tampon pour chaque personne.",
+    "La croissance post-traumatique n’est ni une obligation, ni une étape nécessaire de récupération, ni une contrepartie attendue d’une violence."
+  ],
+  "out_of_scope": [
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "asthme",
+      "label": "Asthme",
+      "statut": "a_examiner",
+      "raison": "La méta-analyse 2026 regroupe 16 études transversales et compare des nombres d’ACE. Les effets par cumul ne justifient aucun lien vers une case précise du questionnaire. Maladie contextuelle seulement si une preuve par exposition est vérifiée.",
+      "sources": [
+        "wang2026_asthme"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "demence_adversites",
+      "label": "Démences et adversités infantiles",
+      "statut": "a_examiner",
+      "raison": "La synthèse 2026 retrouve une association avec la perte parentale, contrairement à celle de 2024 ; le résumé ne permet pas d’étendre ce résultat à tout décès de proche. Données limitées, qualité souvent moyenne : conserver une recherche contextuelle sans carte diagnostique ni lien vers une case plus large.",
+      "sources": [
+        "abouelmagd2025_demence",
+        "logue2026_demence"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "trouble_neurocognitif_leger",
+      "label": "Trouble neurocognitif léger",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Dans la revue l’estimation pour le déficit cognitif léger est imprécise et ne permet pas de conclure à une association. Aucune carte diagnostique ni attribution individuelle.",
+      "sources": [
+        "abouelmagd2025_demence"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "mortalite",
+      "label": "Mortalité adulte",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Une méta-analyse documente des associations populationnelles avec la mortalité, dont la précarité infantile. Ce résultat de santé publique n’est ni une tendance psychologique ni un pronostic personnel ; pas de carte de mortalité déduite du questionnaire.",
+      "sources": [
+        "zheng2025_mortalite"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "risque_cumul_ace",
+      "label": "Cumul ACE et maladies chroniques",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Les estimations sur plusieurs adversités ne décrivent pas l’effet isolé de chaque case. Le cumul peut servir à expliquer la littérature, sans dupliquer ses liens sur parent malade, addiction, incarcération ou violence observée.",
+      "sources": [
+        "wang2026_asthme",
+        "abouelmagd2025_demence",
+        "zheng2025_mortalite"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "diabete_negligence",
+      "label": "Diabète de type 2 et négligence non différenciée",
+      "statut": "a_examiner",
+      "raison": "Huang2015 regroupe la négligence. Zhu2022, sur des diabètes souvent non différenciés, ne retrouve pas d’association statistiquement concluante pour cette exposition. Ne pas décliner un résultat ancien en deux liens physique/affectif.",
+      "sources": [
+        "huang2015_diabete",
+        "zhu2022_diabete"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "fibromyalgie_abus_emotionnel",
+      "label": "Fibromyalgie et violences psychologiques infantiles",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "La revue Häuser2011 confirme surtout les violences physiques et sexuelles et souligne la faible qualité des études. Le résumé lu ne permet pas d’attribuer un résultat infantile distinct aux violences psychologiques.",
+      "sources": [
+        "hauser2011"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "douleurs_persistantes",
+      "label": "Douleurs persistantes et plaintes corporelles",
+      "statut": "agrege_dans",
+      "raison": "Conserver ten_douleurs_persistantes comme repère large. Les deux cartes détaillées migraine et fibromyalgie sont contextuelles, sans explication psychologique automatique des symptômes.",
+      "sources": [
+        "liu2024_migraine",
+        "hauser2011"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "surpoids",
+      "label": "Surpoids et obésité",
+      "statut": "agrege_dans",
+      "raison": "Conserver ten_surpoids déjà publié. Aucun lien ni sujet n’est redéclaré ; une mesure de poids ne permet pas de reconstituer une histoire d’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "scolarite",
+      "label": "Résultats scolaires et parcours de formation",
+      "statut": "agrege_dans",
+      "raison": "Conserver ten_difficultes_scolaires. Les méta-analyses distinguent des types de maltraitance mais l’association moyenne ne mesure ni intelligence ni capacités individuelles. Pas de carte séparée par diplôme ou redoublement.",
+      "sources": [
+        "zhang2025_scolaire",
+        "qu2024"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "emploi_revenus",
+      "label": "Emploi, revenus et patrimoine",
+      "statut": "agrege_dans",
+      "raison": "Conserver ten_difficultes_professionnelles. La cohorte judiciaire américaine concerne des maltraitances documentées et leur retentissement socio-économique moyen ; pas de généralisation aux compétences ou à la trajectoire de chaque personne.",
+      "sources": [
+        "currie2010"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "croissance_post_traumatique",
+      "label": "Croissance post-traumatique",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Les changements perçus après un événement et les changements mesurés longitudinalement diffèrent. La synthèse ne prouve pas que souffrir soit nécessaire pour évoluer ; aucune case d’enfance ne crée une attente de croissance ou un devoir de bénéfice.",
+      "sources": [
+        "mangelsdorf2019_croissance"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "experiences_positives",
+      "label": "Expériences positives de l’enfance : BCE et PCE",
+      "statut": "agrege_dans",
+      "raison": "Les ressources existantes couvrent adultes, amis, école et famille. La revue trouve surtout des associations favorables directes ; les interactions tampon avec l’adversité sont moins constantes. Ni score de compensation ni addition mécanique de ressources.",
+      "sources": [
+        "han2023_experiences_positives"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "attachement_secure_ressource",
+      "label": "Attachement sécure comme ressource",
+      "statut": "agrege_dans",
+      "raison": "La disponibilité de proches fiables reste dans les ressources existantes. L’absence de style insécure ne mesure pas à elle seule un attachement sécure ; aucune carte inverse n’est générée.",
+      "sources": [
+        "fritz2018"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "democratique_parentalite",
+      "label": "Parentage positif et cadre non violent",
+      "statut": "agrege_dans",
+      "raison": "Le soutien et l’implication parentale sont déjà approchés par prot_famille et prot_adulte_chaleureux. Ne pas déduire un style parental complet ni une personnalité adulte à partir de ces seules ressources.",
+      "sources": [
+        "fritz2018",
+        "cdc2024_prevention_aces"
+      ]
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "reframing",
+      "label": "Capacité à changer de perspective",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Compétence actuelle de changement de perspective, à travailler dans les échanges plutôt qu’à déduire de vécus infantiles.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "self_compassion",
+      "label": "Bienveillance envers soi",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Ressource et manière actuelle de se traiter ; l’absence d’autocritique ne suffit pas à la déduire.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "identity_transition",
+      "label": "Identité en évolution",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Processus actuel de changement identitaire ; ne pas le transformer en conséquence pathologique de l’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "stress_resources",
+      "label": "Contraintes et ressources actuelles",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Principe transversal d’examen du contexte actuel, à conserver dans le portrait et le dialogue ; pas une conséquence infantile unique.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "values_alignment",
+      "label": "Valeurs et cohérence",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Orientation personnelle des choix actuels, sans lien causal infantile à présumer.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "self_awareness",
+      "label": "Connaissance de soi",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Capacité réflexive actuelle que le dialogue peut soutenir ; ne se déduit pas d’une liste d’expositions.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "problem_solving",
+      "label": "Résoudre un problème concret",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Compétence actuelle de résolution, relevant d’un accompagnement concret et non d’une issue déduite de l’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "decision_tradeoffs",
+      "label": "Arbitrer entre plusieurs priorités",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Arbitrage entre priorités actuelles, non mesuré par le questionnaire d’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "decision_overload",
+      "label": "Saturation devant les choix",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Charge décisionnelle actuelle ; ne pas la réduire à un trouble ou à un vécu infantile.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "metacognitive_check",
+      "label": "Observer sa manière de penser",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Observation actuelle des pensées, compétence transversale plutôt qu’exposition ou conséquence.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "emotional_ambivalence",
+      "label": "Ressentir plusieurs émotions à la fois",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Coexistence ordinaire d’émotions ; la dysrégulation n’en est pas un substitut.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "disappointment",
+      "label": "Accueillir une déception",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Réponse à un écart d’attente actuel ; une déception n’est pas en soi un schéma ni un trouble.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "balanced_self_evaluation",
+      "label": "Faire un bilan de soi nuancé",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Compétence d’évaluation nuancée à développer ; pas l’inverse automatique d’une estime fragilisée.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "communication_clarification",
+      "label": "Vérifier le sens d’un échange",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Outil de communication actuel ; demander une précision ne suppose pas une difficulté infantile.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "active_listening",
+      "label": "Écouter sans résoudre tout de suite",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Compétence relationnelle actuelle, non équivalente au rôle de sauveur ou à l’effacement.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "repair_after_conflict",
+      "label": "Réparer après un désaccord",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Pratique actuelle de réparation lorsque la relation est sûre ; le questionnaire ne l’évalue pas.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "safe_disclosure",
+      "label": "Partager une vulnérabilité à son rythme",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Choix actuel de confidentialité et de rythme ; les secrets familiaux ne constituent pas une équivalence.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "habit_cues",
+      "label": "Repérer les déclencheurs d’une habitude",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Repérage fonctionnel d’habitudes actuelles ; usages problématiques et automatismes ordinaires ne sont pas équivalents.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "motivation_ambivalence",
+      "label": "Vouloir changer et vouloir conserver",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Processus actuel de choix et de changement, sans déduction à partir de l’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "workload_context",
+      "label": "Charge et organisation du travail",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Exigences et moyens professionnels actuels relèvent du contexte de vie ; les difficultés d’emploi ne les remplacent pas.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "role_transition",
+      "label": "Passer d’un rôle de vie à un autre",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Changement actuel de rôle (parentalité, retraite, reprise) : contexte de vie, pas conséquence infantile présumée.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "continuing_bonds",
+      "label": "Garder une place au lien après une perte",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Manière actuelle de garder une signification après perte ; ne se confond pas avec un deuil prolongé.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "work_home_conflict",
+      "label": "Demandes incompatibles entre plusieurs rôles",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Concurrence de responsabilités actuelles ; pas une conséquence infantile spécifiée par cette carte.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "values_conflict",
+      "label": "Valeurs qui entrent en tension",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Arbitrage actuel entre valeurs légitimes ; aucune inférence de schéma à imposer.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "meaning_search",
+      "label": "Chercher du sens",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Questionnement de sens sans statut de trouble ; relève du dialogue et du portrait.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "purpose_direction",
+      "label": "Choisir une direction personnelle",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Choix de direction et de projet actuel ; absence volontaire d’une causalité infantile automatique.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "small_goals",
+      "label": "Découper un projet en étapes accessibles",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Outil d’action et d’apprentissage ; aucune carte de conséquence ne le mesure.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "grounded_attention",
+      "label": "Revenir aux repères du présent",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Pratique actuelle d’orientation de l’attention, à proposer selon confort et préférence plutôt qu’à déduire.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "enjoyable_activity",
+      "label": "Préserver des activités agréables",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Ressource d’activité actuelle ; ne se réduit pas à l’absence de dépression.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "gratitude",
+      "label": "Reconnaître ce qui soutient",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Pratique réflexive facultative ; les cases de ressources ne mesurent pas la gratitude.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "creative_expression",
+      "label": "Exprimer par la création",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Mode choisi d’expression actuelle ; ne doit pas servir de test clinique indirect.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "nature_contact",
+      "label": "Trouver un appui dans un environnement choisi",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Ressource actuelle dépendante de l’accès et des préférences, hors questionnaire d’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "solitude_choice",
+      "label": "Choisir un temps seul qui ressource",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Temps seul apprécié et réversible ; l’isolement subi n’en constitue pas une correspondance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "distraction_coping",
+      "label": "Se distraire pour souffler",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Stratégie actuelle éventuellement utile ; usages problématiques d’écrans ne couvrent pas toutes les distractions.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "humor_coping",
+      "label": "Utiliser l’humour pour traverser",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Stratégie actuelle de recul ou de lien, sans carte dédiée ni besoin d’inférence infantile.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "flexible_coping",
+      "label": "Choisir une réponse selon la situation",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Capacité actuelle d’adaptation des stratégies ; aucune carte ne la mesure globalement.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "response_pause",
+      "label": "Créer une pause avant de répondre",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Compétence d’action actuelle ; les schémas d’impulsivité ne constituent pas sa mesure inverse.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "distractibility",
+      "label": "Attention facilement détournée",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Fonctionnement attentionnel actuel ; exclusion prudente de toute déduction de TDAH à partir de l’éducation.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "attention_switching",
+      "label": "Coût des changements de tâche",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Coût cognitif actuel des changements de tâche, sans lien infantile établi dans ce questionnaire.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "planning_steps",
+      "label": "Rendre les étapes visibles",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Outil fonctionnel d’organisation ; difficultés scolaires ou procrastination ne le représentent pas.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "time_estimation",
+      "label": "Estimer le temps nécessaire",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Estimation temporelle située ; ne pas inférer trouble ou manque de volonté à partir de l’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "priority_setting",
+      "label": "Distinguer les priorités",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Arbitrage fonctionnel actuel dépendant des contraintes ; pas une conséquence infantile unique.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "working_memory_load",
+      "label": "Trop d’informations à garder en tête",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Charge cognitive actuelle, non mesurée par une liste de vécus infantiles.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "external_supports",
+      "label": "S’appuyer sur des repères extérieurs",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Outils choisis de rappel ou d’aménagement ; l’accès aux soins ne couvre pas ces aides fonctionnelles ordinaires.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "prospective_memory",
+      "label": "Se rappeler d’une intention au bon moment",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Mémoire d’intention située ; pas d’inférence neurocognitive à partir des réponses d’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "body_awareness",
+      "label": "Reconnaître ses sensations corporelles",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Observation de sensations actuelles ; douleur et détresse physique ne couvrent pas cette capacité ordinaire.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "sensory_load",
+      "label": "Charge de l’environnement sensoriel",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Contraintes sensorielles actuelles, sans déduction de neurodivergence ou de cause familiale.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "fatigue_pacing",
+      "label": "Ajuster l’effort à l’énergie disponible",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Gestion actuelle de l’effort avec causes physiques possibles ; la santé adulte globale n’est pas une correspondance suffisante.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "health_declared",
+      "label": "Santé ou fonctionnement explicitement déclaré",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Information de santé choisie par la personne, à conserver dans son contexte ; la carte ne doit ni la confirmer ni la déduire.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "movement_regulation",
+      "label": "Trouver un mouvement qui convient",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Ressource d’activité actuelle compatible avec la santé ; pas une conséquence de l’enfance à présumer.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "behavioral_experiment",
+      "label": "Tester une hypothèse par un petit essai",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Méthode volontaire d’exploration actuelle ; ne relève pas de l’inventaire des conséquences.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "feedback_learning",
+      "label": "Utiliser un retour sans s’y réduire",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Compétence d’usage des retours actuels ; avoir subi des critiques ne dit pas comment elle fonctionne aujourd’hui.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "skill_practice",
+      "label": "Développer une compétence avec des appuis",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Conditions actuelles d’apprentissage, hors mesure d’expositions infantiles.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "consent_boundaries",
+      "label": "Exprimer et respecter un consentement libre",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Choix libre et révisable actuel ; violences sexuelles ou difficultés sexuelles ne représentent pas une compétence de consentement.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "privacy_boundaries",
+      "label": "Définir sa vie privée",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Choix actuel d’accès aux informations et au corps ; secrets familiaux et contrôle sont d’autres construits.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "desire_variation",
+      "label": "Accueillir des rythmes de désir différents",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Variations ordinaires du désir ; ne pas les assimiler à une difficulté sexuelle ni à une histoire infantile.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "affection_preferences",
+      "label": "Exprimer ses préférences de proximité",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Préférences relationnelles actuelles ; styles d’attachement ne les résument pas.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "bicultural_navigation",
+      "label": "Composer avec plusieurs univers culturels",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Articulation identitaire et culturelle ; migration ou discrimination ne la remplacent pas et ne doivent pas la pathologiser.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "identity_recognition",
+      "label": "Être reconnu dans la manière de se définir",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Identité choisie et reconnue ; se sentir différent ou discriminé ne permet pas de la déduire.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "self_expression",
+      "label": "Choisir sa manière de se présenter",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Expression personnelle actuelle, sans valeur diagnostique ni origine infantile présumée.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "disclosure_choice",
+      "label": "Choisir à qui révéler une information personnelle",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Décision antérieure maintenue : Choix de partage identitaire actuel ; un secret familial n’est pas une correspondance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "emotional_identification",
+      "label": "Identifier ses émotions",
+      "statut": "hors_perimetre_justifie",
+      "raison": "La compétence à reconnaître ses émotions reste distincte de la difficulté alexithymique ; aucune déduction par absence de cette difficulté.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "boundaries",
+      "label": "Exprimer ses limites",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Exprimer ses limites est une compétence actuelle ; assujettissement ou manque de soins ne la mesurent pas.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "needs_expression",
+      "label": "Reconnaître ses besoins",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Reconnaître et négocier un besoin dépasse la carte des difficultés à exprimer ses besoins.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "support_seeking",
+      "label": "Demander du soutien",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Une aide disponible ne prouve pas une capacité ou une envie de demander du soutien ; respecter le choix de la personne.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "emotional_flexibility",
+      "label": "Souplesse émotionnelle",
+      "statut": "hors_perimetre_justifie",
+      "raison": "L’absence de dysrégulation ne mesure pas une souplesse émotionnelle ; garder un repère de compétence actuel.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "distress_tolerance",
+      "label": "Traverser un inconfort émotionnel",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Rapprochement limité avec prot_traverser_inconfort ; une revue de cohortes décrit un appui possible, sans score individuel ni devoir de tolérer une violence.",
+      "sources": [
+        "fritz2018"
+      ]
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "self_trust",
+      "label": "S’appuyer sur son propre jugement",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Confiance dans son jugement et estime globale sont distinctes ; pas de carte inverse du schéma de dépendance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "assertive_request",
+      "label": "Faire une demande explicite",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Faire une demande négociable est une pratique actuelle ; la difficulté d’expression déjà cartographiée n’en est pas la mesure inverse.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "receiving_help",
+      "label": "Recevoir sans devoir rembourser immédiatement",
+      "statut": "hors_perimetre_justifie",
+      "raison": "La capacité à recevoir une aide n’est pas déduite de l’absence de dette ou de sacrifice.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "practical_support",
+      "label": "Recevoir un appui concret",
+      "statut": "agrege_dans",
+      "raison": "Ressources existantes et prot_appuis_materiels décrivent des aides disponibles, sans score de compensation des adversités.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "community_participation",
+      "label": "Trouver une place dans un collectif",
+      "statut": "hors_perimetre_justifie",
+      "raison": "L’appartenance scolaire et les amitiés ne couvrent pas tout collectif adulte ; participation et accès restent à décrire dans le présent.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "self_efficacy",
+      "label": "Reconnaître sa capacité d’agir",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Fritz2018 ne retrouve pas de modulation pour l’auto-efficacité dans l’étude concernée ; ne pas transformer un construit large en ressource spécifique établie pour toutes les adversités.",
+      "sources": [
+        "fritz2018"
+      ]
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "resilience",
+      "label": "Appuis dans les épreuves",
+      "statut": "agrege_dans",
+      "raison": "Les ressources sont des appuis possibles. Elles ne constituent ni score de résilience, ni jugement moral sur le rétablissement.",
+      "sources": [
+        "fritz2018"
+      ]
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "positive_connection",
+      "label": "Liens nourrissants",
+      "statut": "agrege_dans",
+      "raison": "Regroupement dans les ressources de liens soutenants ; ne pas idéaliser une relation déclarée ni la déduire de l’enfance.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "responsibility_repair",
+      "label": "Reconnaître une responsabilité proportionnée",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Responsabilité proportionnée et réparation choisie sont des compétences, distinctes de la surresponsabilité.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "intimacy_communication",
+      "label": "Parler de son intimité à son rythme",
+      "statut": "hors_perimetre_justifie",
+      "raison": "La communication intime choisie exige rythme et sécurité ; elle ne se déduit pas des cartes de difficultés sexuelles ou relationnelles.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "body_stress",
+      "label": "Signaux corporels du stress",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Sensations actuelles et stress perçu ne constituent ni un diagnostic de douleur chronique ni une preuve de cause psychologique.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "access_barriers",
+      "label": "Obstacles pour accéder à une aide",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Accès aux aides approché par prot_soins et prot_appuis_materiels ; langue, délais et transport restent des contraintes présentes à recueillir.",
+      "sources": []
+    },
+    {
+      "referentiel": "Catalogue interne — 161 repères",
+      "code": "illness_adjustment",
+      "label": "S’adapter à un changement de santé déclaré",
+      "statut": "hors_perimetre_justifie",
+      "raison": "L’adaptation à une maladie déclarée peut être ordinaire ; ne pas la transformer en diagnostic ni en conséquence infantile.",
+      "sources": []
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "polyarthrite_rhumatoide",
+      "label": "Polyarthrite rhumatoïde",
+      "statut": "a_examiner",
+      "raison": "Une méta-analyse trouve une association avec l’adversité infantile, mais le résumé ne donne pas d’estimation séparée par facteur du questionnaire. Hétérogénéité élevée et majorité d’études à haut risque de biais : aucun lien individuel créé.",
+      "sources": [
+        "jesuthasan2025_autoimmunite"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "psoriasis",
+      "label": "Psoriasis",
+      "statut": "a_examiner",
+      "raison": "Une méta-analyse trouve une association avec l’adversité infantile, mais le résumé ne donne pas d’estimation séparée par facteur du questionnaire. Hétérogénéité élevée et majorité d’études à haut risque de biais : aucun lien individuel créé.",
+      "sources": [
+        "jesuthasan2025_autoimmunite"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "sclerose_plaques",
+      "label": "Sclérose en plaques",
+      "statut": "a_examiner",
+      "raison": "Une méta-analyse trouve une association avec l’adversité infantile, mais le résumé ne donne pas d’estimation séparée par facteur du questionnaire. Hétérogénéité élevée et majorité d’études à haut risque de biais : aucun lien individuel créé.",
+      "sources": [
+        "jesuthasan2025_autoimmunite"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "maladies_inflammatoires_intestin",
+      "label": "Maladies inflammatoires de l’intestin",
+      "statut": "a_examiner",
+      "raison": "Une méta-analyse trouve une association avec l’adversité infantile, mais le résumé ne donne pas d’estimation séparée par facteur du questionnaire. Hétérogénéité élevée et majorité d’études à haut risque de biais : aucun lien individuel créé.",
+      "sources": [
+        "jesuthasan2025_autoimmunite"
+      ]
+    },
+    {
+      "referentiel": "Santé et trajectoires",
+      "code": "lupus",
+      "label": "Lupus systémique",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "La méta-analyse consultée ne retrouve pas d’association statistiquement concluante avec l’adversité infantile. Ce constat ne prouve pas une absence absolue de lien ; aucun sujet ajouté.",
+      "sources": [
+        "jesuthasan2025_autoimmunite"
+      ]
+    }
+  ],
+  "proposed_corrections": [
+    {
+      "factor": "parent_addiction",
+      "outcome": "ten_sante_physique",
+      "action": "retirer",
+      "sources": [
+        "hughes2017",
+        "felitti1998"
+      ],
+      "reason": "Les sources et le résumé publié portent sur le cumul ACE, sans estimation spécifique vérifiée pour ce facteur. Une réserve verbale ne suffit pas à justifier sa contribution au graphe. Conserver le cumul comme contexte non calculé."
+    },
+    {
+      "factor": "parent_trouble",
+      "outcome": "ten_sante_physique",
+      "action": "retirer",
+      "sources": [
+        "hughes2017",
+        "felitti1998"
+      ],
+      "reason": "Les sources et le résumé publié portent sur le cumul ACE, sans estimation spécifique vérifiée pour ce facteur. Une réserve verbale ne suffit pas à justifier sa contribution au graphe. Conserver le cumul comme contexte non calculé."
+    },
+    {
+      "factor": "parent_incarcere",
+      "outcome": "ten_sante_physique",
+      "action": "retirer",
+      "sources": [
+        "hughes2017",
+        "felitti1998"
+      ],
+      "reason": "Les sources et le résumé publié portent sur le cumul ACE, sans estimation spécifique vérifiée pour ce facteur. Une réserve verbale ne suffit pas à justifier sa contribution au graphe. Conserver le cumul comme contexte non calculé."
+    },
+    {
+      "factor": "temoin_violences",
+      "outcome": "ten_sante_physique",
+      "action": "retirer",
+      "sources": [
+        "hughes2017",
+        "felitti1998"
+      ],
+      "reason": "Les sources et le résumé publié portent sur le cumul ACE, sans estimation spécifique vérifiée pour ce facteur. Une réserve verbale ne suffit pas à justifier sa contribution au graphe. Conserver le cumul comme contexte non calculé."
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_sante_physique",
+      "action": "remplacer_source",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une cohorte britannique adulte associe la négligence physique infantile déclarée à davantage de maladies cardiovasculaires. L’écart est modeste.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ],
+      "reason": "Huang2015 regroupe la négligence et ne permet pas de distinguer ses deux formes. La cohorte Soares distingue ces expositions ; aucune assertion spécifique de diabète n’est conservée."
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_sante_physique",
+      "action": "remplacer_source",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une cohorte britannique adulte associe la négligence affective infantile déclarée à davantage de maladies cardiovasculaires. L’écart est modeste.",
+      "sources": [
+        "soares2022_cardiovasculaire"
+      ],
+      "reason": "Huang2015 regroupe la négligence et ne permet pas de distinguer ses deux formes. La cohorte Soares distingue ces expositions ; aucune assertion spécifique de diabète n’est conservée."
+    },
+    {
+      "target_type": "source",
+      "source_id": "fritz2018",
+      "action": "reformuler",
+      "type": "revue",
+      "read": "section — résumé, méthodes, tableaux 3–4, résultats par facteur et discussion, texte intégral Frontiers",
+      "reason": "Le document est une revue systématique de 22 cohortes, actuellement classée etude. Identifiant et URL existants à préserver ; la lecture de sections du texte intégral remplace la seule mention résumé."
+    }
+  ]
+}

@@ -31,6 +31,7 @@ test('the generated module is a compact, consistent copy of the public dataset',
  const data=JSON.parse(readFileSync(new URL('../../data/cartographie.json',import.meta.url),'utf8'));
  assert.equal(CARTOGRAPHIE.factors.length,data.factors.length);
  assert.equal(CARTOGRAPHIE.outcomes.length,data.outcomes.length);
+ assert.deepEqual(CARTOGRAPHIE.retired_outcomes.map(o=>o.id),data.retired_outcomes.map(o=>o.id));
  assert.equal(CARTOGRAPHIE.links.length,data.links.length);
  assert.deepEqual(CARTOGRAPHIE.weights,data.weights);
  assert.ok(CARTOGRAPHIE.links.every(l=>!Object.hasOwn(l,'sources')));
@@ -102,6 +103,20 @@ test('only a locked map saved with consent reaches Ambre',()=>{
  assert.equal(companionCartography({answers:JSON.stringify(answers),feedback:'{}',consent:1,locked_at:5,version:3}).version,3);
 });
 
+test('the bounded summary leaves room for different categories and records omissions',()=>{
+ const outcomes=Array.from({length:20},(_,i)=>({id:'schema_'+i,label:'Schéma '+i,kind:'schema',category:'schema'}));
+ outcomes.push({id:'z_recognized',label:'Reconnu',kind:'schema',category:'schema'},{id:'other',label:'Autre',kind:'tendance',category:'tendency'},{id:'context',label:'Contexte',kind:'trouble',category:'diagnosis',contextual_only:true});
+ const data={factors:[{id:'a',label:'A'},{id:'b',label:'B'}],outcomes,links:outcomes.flatMap(o=>['a','b'].map(factor=>({factor,outcome:o.id,strength:'moderee',relation_type:'empirical_association',summary:'Association documentée.',sources:[]})))};
+ const summary=summarizeCartography({a:1,b:1},{z_recognized:'oui'},{data});
+ assert.equal(summary.convergence.filter(x=>x.category==='schema').length,5);
+ assert.equal(summary.convergence[0].id,'z_recognized','recognition breaks equal evidence-family ties');
+ assert.ok(summary.convergence.some(x=>x.id==='other'));
+ assert.equal(summary.truncated,true);
+ assert.ok(!cartographyHighlights(summary).some(x=>x.id==='context'));
+ assert.ok(!cartographyEvidence({a:1,b:1},{},{data}).evidence.some(x=>x.id==='context'));
+ assert.ok(cartographyEvidence({a:1,b:1},{context:'oui'},{data}).evidence.some(x=>x.id==='context'),'explicit recognition can be discussed as context, never an automatic suggestion');
+});
+
 test('explicit negative answers are preserved without becoming reported experiences',()=>{
  const answers={abus_physique:0,abus_sexuel:2};
  assert.deepEqual(validateCartography({answers},fail).answers,answers);
@@ -129,11 +144,49 @@ test('childhood diagnoses remain context and age restrictions survive recognitio
 });
 
 test('public and backend agree for every factor pair, including explicit negatives',()=>{
+ const fullData=JSON.parse(readFileSync(new URL('../../data/cartographie.json',import.meta.url),'utf8'));
  const ids=CARTOGRAPHIE.factors.map(f=>f.id);
+ const resultShape=result=>({...result,results:result.results.map(({outcome,links,...rest})=>({id:outcome.id,...rest}))});
  for(let a=0;a<ids.length;a++)for(let b=a;b<ids.length;b++){
-  const answers={[ids[a]]:1,[ids[b]]:2,[ids[(b+1)%ids.length]]:0};
-  const page=publicPage.compute(CARTOGRAPHIE,answers),worker=computeCartography(answers);
+  const negative=ids.find(id=>id!==ids[a]&&id!==ids[b]);
+  const answers={[ids[a]]:1,[ids[b]]:2,[negative]:0};
+  const page=publicPage.compute(CARTOGRAPHIE,answers),worker=computeCartography(answers),fullPage=publicPage.compute(fullData,answers);
   assert.deepEqual(worker,page);
+  assert.deepEqual(resultShape(worker),resultShape(fullPage));
+ }
+});
+
+test('retired identifiers survive validation and preserve meaning without suggestions or migration',()=>{
+ const feedback=Object.fromEntries(CARTOGRAPHIE.retired_outcomes.map(o=>[o.id,'oui']));
+ feedback.icd_6b81='oui';
+ const notes={factors:{},outcomes:Object.fromEntries(CARTOGRAPHIE.retired_outcomes.map(o=>[o.id,'Mes mots enregistrés auparavant.']))};
+ const answers={abus_physique:1,negligence_physique:2,migration:1,exil:1};
+ const cleaned=validateCartography({answers,feedback,notes},fail);
+ assert.deepEqual(cleaned.feedback,feedback);assert.deepEqual(cleaned.notes,notes);
+ assert.ok(!Object.hasOwn(cleaned.feedback,'att_desorganisation_enfant'));
+ assert.ok(!Object.hasOwn(cleaned.feedback,'icd_6b81_boulimie'));
+ const summary=summarizeCartography(answers,feedback,{notes});
+ const automatic=[...summary.convergence,...summary.pistes,...summary.contextual,...summary.exploratory,...cartographyHighlights(summary,100)];
+ const evidence=cartographyEvidence(answers,feedback).evidence;
+ for(const old of CARTOGRAPHIE.retired_outcomes){
+  const recognized=summary.recognized.find(o=>o.id===old.id);
+  assert.equal(recognized.label,old.label);assert.equal(recognized.description,old.description);assert.ok(recognized.retired&&recognized.contextual_only);
+  assert.ok(summary.notes.some(n=>n.id===old.id&&n.retired));
+  assert.ok(!automatic.some(o=>o.id===old.id));assert.ok(!evidence.some(o=>o.id===old.id));
+  assert.deepEqual(chooseAmbreNotes([{target:'outcome',target_id:old.id,text:'Inférence nouvelle.'}]),[]);
+ }
+ assert.ok(!summary.recognized.some(o=>['att_desorganisation_enfant','icd_6b81_boulimie'].includes(o.id)));
+});
+
+test('the complete serialized evidence, including wrappers and sources, respects its budget',()=>{
+ const answers=Object.fromEntries(CARTOGRAPHIE.factors.filter(f=>f.id!=='separation_conflit').map(f=>[f.id,1]));
+ for(const budget of [1500,3000,6000]){
+  const result=cartographyEvidence(answers,{}, {budget});
+  assert.ok(JSON.stringify(result).length<=budget,`${JSON.stringify(result).length} > ${budget}`);
+  assert.equal(result.evidence_truncated,true);
+  assert.ok(result.evidence.length>0);
+  const references=new Set(result.evidence.flatMap(o=>o.links.flatMap(l=>l.source_ids)));
+  assert.deepEqual(new Set(result.evidence_sources.map(s=>s.id)),references);
  }
 });
 
@@ -141,12 +194,27 @@ test('public and backend agree for every factor pair, including explicit negativ
 const examples=Array.from({length:3},(_,i)=>({id:`posts/c/example-${i}`,title:`Exemple ${i}`,url:`/posts/c/example-${i}/`,character:'P',keywords:[],description:'R'}));
 const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
-const rewritten=['care-backend','chat-backend','entitlements','personal-backend','cartographie'].reduce((s,name)=>s.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
+const rewritten=['care-backend','change-backend','chat-backend','entitlements','personal-backend','cartographie'].reduce((s,name)=>s.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
 const {default:worker}=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));
 const origin='https://journal.example';
 const request=(env,path,{method='GET',data,cookie,originHeader=origin}={})=>worker.fetch(new Request(origin+path,{method,headers:{...(data?{'Content-Type':'application/json'}:{}),...(cookie?{Cookie:cookie}:{}),...(originHeader?{Origin:originHeader}:{}),'CF-Connecting-IP':'192.0.2.9'},body:data?JSON.stringify(data):undefined}),env);
 async function register(env,email){const r=await request(env,'/api/auth/register',{method:'POST',data:{email,password:'long secure password 123'}});assert.equal(r.status,200);return {cookie:r.headers.get('set-cookie').split(';')[0],user:(await r.json()).user};}
 const send=async(...args)=>{const r=await request(...args);return {status:r.status,...await r.json()};};
+
+test('autosave keeps historical feedback and notes across real API validation',async()=>{
+ const env={DB:d1(migrated())},a=await register(env,'carto-history@example.test');
+ const feedback={att_desorganise:'oui',pat_migration_adjustment:'non',icd_6d10:'oui',icd_6b81:'oui'};
+ const notes={factors:{migration:'Un souvenir.'},outcomes:{att_desorganise:'Je parlais de ma relation adulte.',pat_migration_adjustment:'Un ancien repère.'}};
+ let r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{migration:1},feedback,notes,consent:true,locked:true,version:0}});
+ assert.equal(r.status,200);assert.deepEqual(r.cartographie.feedback,feedback);assert.deepEqual(r.cartographie.notes,notes);
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{...r.cartographie,answers:{migration:1,abus_physique:2},version:r.cartographie.version}});
+ assert.equal(r.status,200);assert.deepEqual(r.cartographie.feedback,feedback);assert.deepEqual(r.cartographie.notes,notes);
+ r=await send(env,'/api/cartographie',{cookie:a.cookie});
+ assert.equal(r.status,200);assert.deepEqual(r.cartographie.feedback,feedback);
+ assert.ok(!r.summary.recognized.some(o=>['att_desorganisation_enfant','icd_6b81_boulimie'].includes(o.id)));
+ assert.ok(r.summary.recognized.find(o=>o.id==='att_desorganise').retired);
+ env.DB.raw.close();
+});
 
 test('cartography routes: consent, optimistic version, lock, summary, isolation and deletion',async()=>{
  const env={DB:d1(migrated())},a=await register(env,'carto-a@example.test'),b=await register(env,'carto-b@example.test');
@@ -262,7 +330,7 @@ test('Ambre receives the locked map, its guidance and the research summaries of 
  const system=request.messages[0].content,data=JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{')));
  assert.match(system,/CARTOGRAPHIE DE L’ENFANCE/);assert.match(system,/jamais un diagnostic/);assert.match(system,/3114/);assert.match(system,/evidence donne/);
  const map=data.childhood_cartography;
- assert.equal(map.version,2);assert.equal(map.cause_count,5);
+ assert.equal(map.version,2);assert.equal(map.cause_count,Object.keys(answers).length);
  assert.ok(map.recognized.some(r=>r.id===recognized.id));
  if(dismissed)assert.ok(map.dismissed.some(r=>r.id===dismissed.id));
  assert.ok(!JSON.stringify(map).includes('"url"')&&!JSON.stringify(map).includes('reading_id'),'no article reference is handed to the model');

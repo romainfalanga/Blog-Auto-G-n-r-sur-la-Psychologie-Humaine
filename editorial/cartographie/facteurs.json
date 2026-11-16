@@ -40,7 +40,8 @@
    "description": "Être frappé, secoué, brûlé ou blessé par un adulte.",
    "examples": [
     "Coups violents ou avec un objet",
-    "Punitions qui laissaient des marques"
+    "Punitions qui laissaient des marques",
+    "Coups infligés par un adulte à l'école, dans le sport, un lieu de culte ou un foyer"
    ],
    "ace": true
   },
@@ -48,10 +49,12 @@
    "id": "abus_sexuel",
    "group": "violences",
    "label": "Violences sexuelles",
-   "description": "Tout contact ou acte sexuel imposé par un adulte ou un mineur plus âgé, ou exposition sexuelle.",
+   "description": "Contact ou acte sexuel imposé, coercition sexuelle ou exposition sexuelle imposée pendant l'enfance, quel que soit l'âge ou le rôle de l'auteur.",
    "examples": [
     "Attouchements",
-    "Exposition à des contenus ou actes sexuels"
+    "Exposition à des contenus ou actes sexuels",
+    "Violence sexuelle par un pair ou par un adulte hors famille",
+    "Pression ou menace sexuelle en ligne"
    ],
    "ace": true
   },
@@ -62,7 +65,9 @@
    "description": "Humiliations, insultes, menaces, rejet répété ou terreur entretenue.",
    "examples": [
     "« Tu n'es bon à rien »",
-    "Menaces d'abandon ou de mise dehors"
+    "Menaces d'abandon ou de mise dehors",
+    "Humiliations ou menaces par un adulte d'institution",
+    "Rejet répété lié à l'orientation, à l'identité ou au handicap"
    ],
    "ace": true
   },
@@ -84,7 +89,8 @@
    "description": "Moqueries, exclusion, violences répétées à l'école ou en ligne.",
    "examples": [
     "Être mis à l'écart chaque jour",
-    "Insultes ou menaces répétées sur l'origine ou la différence"
+    "Insultes ou menaces répétées sur l'origine ou la différence",
+    "Messages humiliants répétés, rumeurs ou exclusion organisés en ligne"
    ],
    "ace": false
   },
@@ -170,7 +176,8 @@
    "label": "Décès d'un parent ou d'un proche",
    "description": "Mort d'un parent, d'un frère, d'une sœur ou d'une personne centrale.",
    "examples": [
-    "Deuil d'un parent avant 18 ans"
+    "Deuil d'un parent avant 18 ans",
+    "Mort d'un proche par suicide"
    ],
    "ace": false
   },
@@ -246,7 +253,9 @@
    "description": "Décisions imposées, peu de place à ses avis, punitions pour le désaccord.",
    "examples": [
     "Choix d'activités imposés",
-    "Interdiction de contredire"
+    "Interdiction de contredire",
+    "Culpabilisation pour obtenir son obéissance",
+    "Retrait affectif ou intrusion dans les pensées et émotions"
    ],
    "ace": false
   },
@@ -372,7 +381,10 @@
    "group": "contexte",
    "label": "Racisme ou discrimination",
    "description": "Être traité différemment ou rabaissé pour son origine, sa religion, son genre, son orientation ou un handicap.",
-   "examples": [],
+   "examples": [
+    "Rejet familial lié à l'orientation ou à l'identité",
+    "Stigmatisation à cause d'un handicap ou de difficultés d'apprentissage"
+   ],
    "ace": false
   },
   {
@@ -381,7 +393,8 @@
    "label": "Exil forcé, guerre ou persécution",
    "description": "Fuir un pays en guerre ou une persécution, vivre un conflit armé ou un parcours d’exil difficile.",
    "examples": [
-    "Bombardements, camps, séparation forcée de proches"
+    "Bombardements, camps, séparation forcée de proches",
+    "Vivre la guerre ou des violences collectives sans quitter son lieu de vie"
    ],
    "ace": false
   },
@@ -581,6 +594,17 @@
    "label": "Peu d'amis et peu d'activités",
    "description": "Isolement social durable dans l'enfance ou l'adolescence.",
    "examples": [],
+   "ace": false
+  },
+  {
+   "id": "violence_quartier",
+   "group": "contexte",
+   "label": "Être témoin de violences dans son quartier",
+   "description": "Voir ou entendre, en personne, des agressions graves ou des menaces armées dans son quartier ou sa communauté pendant l'enfance.",
+   "examples": [
+    "Assister à des agressions dans la rue",
+    "Entendre une attaque dans son voisinage, hors images et récits médiatiques"
+   ],
    "ace": false
   }
  ]

@@ -1,0 +1,1714 @@
+{
+  "part": "humeur-anxiete-toc",
+  "author": "recherche_lot1_2026_11_17",
+  "outcomes": [
+    {
+      "id": "icd_6b20",
+      "kind": "trouble",
+      "label": "Trouble obsessionnel-compulsif (TOC)",
+      "description": "Des obsessions intrusives et des gestes ou rituels mentaux répétés, pénibles et gênants au quotidien. Les liens présentés ici portent sur la sévérité des symptômes chez des personnes déjà concernées, pas sur un diagnostic à partir de leur enfance.",
+      "code": "6B20",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "ten_symptomes_depressifs_perinataux",
+      "kind": "tendance",
+      "label": "Symptômes dépressifs pendant la grossesse ou après la naissance",
+      "description": "Une souffrance dépressive pendant la grossesse ou l’année qui suit la naissance. Ce repère symptomatique n’équivaut pas aux diagnostics périnataux CIM-11.",
+      "domain": "humeur",
+      "category": "symptom_group",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_symptomes_premenstruels",
+      "kind": "tendance",
+      "label": "Symptômes prémenstruels importants",
+      "description": "Des symptômes émotionnels et physiques cycliques avant les règles, assez importants pour gêner la vie quotidienne. Ce repère ne constitue pas un diagnostic de trouble dysphorique prémenstruel.",
+      "domain": "humeur",
+      "category": "symptom_group",
+      "contextual_only": true
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "icd_6b20",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des adultes ayant un TOC, une méta-analyse surtout transversale trouve un lien faible entre violences émotionnelles dans l’enfance et sévérité des symptômes. Elle ne démontre pas que ce vécu explique l’apparition du trouble.",
+      "sources": [
+        "ou2021_toc"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6b20",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des adultes ayant un TOC, une méta-analyse trouve un lien faible entre abus sexuels dans l’enfance et sévérité des obsessions, mais pas du score total. Les études rétrospectives ne permettent pas de conclure sur l’apparition du trouble.",
+      "sources": [
+        "ou2021_toc"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des adultes trouve une association modeste entre violences physiques dans l’enfance et trouble panique. Les études sont surtout rétrospectives ; ce vécu ne permet pas de prédire un trouble individuel.",
+      "sources": [
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des adultes trouve une association modeste entre abus sexuels dans l’enfance et trouble panique. Les études sont surtout rétrospectives ; ce vécu ne permet pas de prédire un trouble individuel.",
+      "sources": [
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "factor": "parent_addiction",
+      "outcome": "icd_6b01",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez des adultes trouve une association modeste entre alcoolisme parental pendant l’enfance et trouble panique. Les études sont surtout rétrospectives ; ce vécu ne permet pas de prédire un trouble individuel.",
+      "sources": [
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des femmes enceintes ou durant l’année après la naissance, une méta-analyse trouve une association modeste entre abus sexuels dans l’enfance et dépression périnatale. Les mesures regroupent symptômes et diagnostics ; elles ne correspondent pas toutes à un trouble clinique.",
+      "sources": [
+        "lombardi2023_perinatal"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte d’infirmières adultes, les violences physiques sévères durant l’enfance sont associées à davantage de syndromes prémenstruels importants. L’association est modeste à moyenne, avec des souvenirs recueillis après coup ; ce n’est pas une preuve propre au trouble dysphorique.",
+      "sources": [
+        "bertonejohnson2014_premenstruel"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte d’infirmières adultes, les violences émotionnelles marquées durant l’enfance sont associées à davantage de syndromes prémenstruels importants. L’association est modeste à moyenne, avec des souvenirs recueillis après coup ; ce n’est pas une preuve propre au trouble dysphorique.",
+      "sources": [
+        "bertonejohnson2014_premenstruel"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ou2021_toc",
+      "citation": "Ou W, Li Z, Zheng Q, Chen W, Liu J, Liu B, Zhang Y, 2021, Association Between Childhood Maltreatment and Symptoms of Obsessive-Compulsive Disorder: A Meta-Analysis, Frontiers in Psychiatry 11:612586",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7854900/",
+      "type": "meta-analyse",
+      "read": "section : méthodes, résultats, tableau 2 et discussion, texte intégral via Europe PMC"
+    },
+    {
+      "id": "zhang2023_panique",
+      "citation": "Zhang J, Wiecaszek P, Sami S, Meiser-Stedman R, 2023 (en ligne 2021), Association between panic disorder and childhood adversities: a systematic review and meta-analysis, Psychological Medicine 53(6):2585-2595",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34776038/",
+      "type": "meta-analyse",
+      "read": "section : méthodes et résultats, manuscrit accepté p. 6–14, dépôt University of East Anglia"
+    },
+    {
+      "id": "lombardi2023_perinatal",
+      "citation": "Lombardi BN, Jensen TM, Parisi AB, Jenkins M, Bledsoe SE, 2023 (en ligne 2021), The Relationship Between a Lifetime History of Sexual Victimization and Perinatal Depression: A Systematic Review and Meta-Analysis, Trauma, Violence, & Abuse 24(1):139-155",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9660263/",
+      "type": "meta-analyse",
+      "read": "section : méthodes, résultats, tableaux 1–3 et sous-groupe des violences sexuelles pendant l’enfance"
+    },
+    {
+      "id": "bertonejohnson2014_premenstruel",
+      "citation": "Bertone-Johnson ER, Whitcomb BW, Missmer SA, Manson JE, Hankinson SE, Rich-Edwards JW, 2014, Early Life Emotional, Physical, and Sexual Abuse and the Development of Premenstrual Syndrome: A Longitudinal Study, Journal of Women’s Health 23(9):729-739",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158950/",
+      "type": "etude",
+      "read": "section : méthodes, résultats et tableaux 3–4 de la cohorte Nurses’ Health Study 2"
+    },
+    {
+      "id": "apa2022_dsmtr_lot1",
+      "citation": "American Psychiatric Association, 2022, DSM-5-TR Fact Sheets : fiches des modifications diagnostiques, site officiel APA",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/dsm-5-tr-fact-sheets",
+      "type": "classification",
+      "read": "section : index et fiches intégrales Bipolar I and Bipolar II Disorders, Other Specified Bipolar and Related Disorder, Other Specified Depressive Disorder, Unspecified Mood Disorder, Olfactory Reference Disorder"
+    },
+    {
+      "id": "apa2024_depression_lot1",
+      "citation": "American Psychiatric Association, 2024, What Is Depression?, notice publique officielle, mise à jour avril 2024",
+      "url": "https://www.psychiatry.org/patients-families/depression/what-is-depression",
+      "type": "classification",
+      "read": "section : définition, périnatalité, trouble dépressif persistant, trouble dysphorique prémenstruel, dysrégulation et troubles bipolaires"
+    },
+    {
+      "id": "apa_anxiete_lot1",
+      "citation": "American Psychiatric Association, What Are Anxiety Disorders?, notice publique officielle, consultée novembre 2026",
+      "url": "https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders",
+      "type": "classification",
+      "read": "section : les sept troubles décrits, dont mutisme sélectif et anxiété de séparation"
+    },
+    {
+      "id": "apa2013_toc_lot1",
+      "citation": "American Psychiatric Association, 2013, Obsessive-Compulsive and Related Disorders, DSM-5 Fact Sheet",
+      "url": "https://www.psychiatry.org/getContentAsset/8643622a-0412-4ca1-9de6-0624e882e935/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/APA-DSM5-Obsessive-Compulsive-Disorder.pdf?language=en",
+      "type": "classification",
+      "read": "texte intégral : fiche officielle de deux pages ; ancien DSM-5, complétée par les modifications DSM-5-TR de 2022"
+    },
+    {
+      "id": "apa2013_dmdd_lot1",
+      "citation": "American Psychiatric Association, 2013, Disruptive Mood Dysregulation Disorder, DSM-5 Fact Sheet",
+      "url": "https://www.psychiatry.org/getContentAsset/27226543-3ae7-4d5b-be15-7089e810240e/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/APA-DSM5-Disruptive-Mood-Disregulation-Disorder.pdf?language=en",
+      "type": "classification",
+      "read": "texte intégral : fiche officielle de deux pages, âge et distinction du trouble bipolaire"
+    }
+  ],
+  "out_of_scope": [
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60",
+      "label": "Trouble bipolaire de type I",
+      "statut": "agrege_dans",
+      "raison": "icd_6a60 existe mais les preuves Palmier-Claus portent sur les types I/II réunis ; correction de catégorie et retrait du code exact proposés. Aucun nouveau lien spécifique au seul type I.",
+      "sources": [
+        "oms_cddr",
+        "palmierclaus2016"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.0",
+      "label": "… current episode manic, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.1",
+      "label": "… current episode manic, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.2",
+      "label": "… current episode hypomanic",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.3",
+      "label": "… current episode depressive, mild",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.4",
+      "label": "… current episode depressive, moderate, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.5",
+      "label": "… current episode depressive, moderate, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.6",
+      "label": "… current episode depressive, severe, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.7",
+      "label": "… current episode depressive, severe, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.8",
+      "label": "… current episode depressive, unspecified severity",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.9",
+      "label": "… current episode mixed, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.A",
+      "label": "… current episode mixed, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.B",
+      "label": "… currently in partial remission, most recent episode manic or hypomanic",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.C",
+      "label": "… currently in partial remission, most recent episode depressive",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.D",
+      "label": "… currently in partial remission, most recent episode mixed",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.E",
+      "label": "… currently in partial remission, most recent episode unspecified",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.F",
+      "label": "… currently in full remission",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A60 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.Y",
+      "label": "Other specified bipolar type I disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A60.Z",
+      "label": "Bipolar type I disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6E20",
+      "label": "Troubles mentaux associés à la grossesse, à l’accouchement ou à la puerpéralité, sans symptômes psychotiques",
+      "statut": "a_examiner",
+      "raison": "La carte ten_symptomes_depressifs_perinataux décrit les mesures de Lombardi, incluant jusqu’à un an postpartum. Elle ne couvre pas exactement 6E20, dont le contexte clinique inclut la grossesse ou environ six semaines après la naissance.",
+      "sources": [
+        "oms_cddr",
+        "lombardi2023_perinatal"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6E21",
+      "label": "Troubles mentaux associés à la grossesse, à l’accouchement ou à la puerpéralité, avec symptômes psychotiques",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Code avec symptômes psychotiques confirmé. Les synthèses périnatales retenues portent sur la dépression ; elles ne fournissent aucun effet propre sur cette catégorie. Ne pas transférer le lien vers la psychose postpartum.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6E2Z",
+      "label": "Troubles mentaux associés à la grossesse, à l’accouchement ou à la puerpéralité, non précisés",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61",
+      "label": "Trouble bipolaire de type II",
+      "statut": "agrege_dans",
+      "raison": "La méta-analyse disponible ne fournit pas de risque développemental propre au type II. Regroupement conditionnel dans icd_6a60 après correction ; ne pas compter 6A61 comme code exactement couvert.",
+      "sources": [
+        "oms_cddr",
+        "palmierclaus2016"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.0",
+      "label": "… current episode hypomanic",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.1",
+      "label": "… current episode depressive, mild",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.2",
+      "label": "… current episode depressive, moderate, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.3",
+      "label": "… current episode depressive, moderate, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.4",
+      "label": "… current episode depressive, severe, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.5",
+      "label": "… current episode depressive, severe, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.6",
+      "label": "… current episode depressive, unspecified severity",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.7",
+      "label": "… currently in partial remission, most recent episode hypomanic",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.8",
+      "label": "… currently in partial remission, most recent episode depressive",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.9",
+      "label": "… currently in partial remission, most recent episode unspecified",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.A",
+      "label": "… currently in full remission",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A61 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.Y",
+      "label": "Other specified bipolar type II disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A61.Z",
+      "label": "Bipolar type II disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A62",
+      "label": "Trouble cyclothymique",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Recherche cyclothymic / childhood maltreatment / systematic : résultats sur le tempérament affectif, sans méta-analyse ou cohorte diagnostique spécifique vérifiée. Ce constat porte sur la recherche du lot, pas sur une absence universelle de lien.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A6Y",
+      "label": "Other specified bipolar or related disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A6Z",
+      "label": "Bipolar or related disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70",
+      "label": "Trouble dépressif à épisode unique",
+      "statut": "agrege_dans",
+      "raison": "dep_generale reste un groupe symptomatique ; icd_6a70 est un alias réservé. Une association aux scores dépressifs ou à une dépression majeure non stratifiée ne justifie pas la scission en épisode unique.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/210834"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.0",
+      "label": "… mild",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.1",
+      "label": "… moderate, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.2",
+      "label": "… moderate, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.3",
+      "label": "… severe, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.4",
+      "label": "… severe, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.5",
+      "label": "… unspecified severity",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.6",
+      "label": "… currently in partial remission",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.7",
+      "label": "… currently in full remission",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A70 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.Y",
+      "label": "Other specified single episode depressive disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A70.Z",
+      "label": "Single episode depressive disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71",
+      "label": "Trouble dépressif récurrent",
+      "statut": "agrege_dans",
+      "raison": "dep_generale reste un groupe symptomatique ; icd_6a71 est un alias réservé. Aucun effet propre aux récidives distingué dans les sources retenues pour ce lot.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/210834"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.0",
+      "label": "… current episode mild",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.1",
+      "label": "… current episode moderate, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.2",
+      "label": "… current episode moderate, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.3",
+      "label": "… current episode severe, without psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.4",
+      "label": "… current episode severe, with psychotic symptoms",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.5",
+      "label": "… current episode, unspecified severity",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.6",
+      "label": "… currently in partial remission",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.7",
+      "label": "… currently in full remission",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6A71 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.Y",
+      "label": "Other specified recurrent depressive disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A71.Z",
+      "label": "Recurrent depressive disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A72",
+      "label": "Trouble dysthymique",
+      "statut": "agrege_dans",
+      "raison": "Sujet icd_6a72 déjà présent, liens conservés sans duplication. Scott 2010 distingue la dysthymie mais utilise une exposition globale aux services de protection, non décomposable en un des 58 vécus.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/210834"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A73",
+      "label": "Trouble mixte dépressif et anxieux",
+      "statut": "a_examiner",
+      "raison": "Tableau distinct vérifié dans le CDDR. Recherche mixed depressive anxiety disorder / childhood adversity : travaux de classification transversaux repérés, sans méta-analyse ou cohorte avec exposition élémentaire lisible retenue.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9291022/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A7Y",
+      "label": "Other specified depressive disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6A7Z",
+      "label": "Depressive disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B00",
+      "label": "Trouble anxieux généralisé",
+      "statut": "agrege_dans",
+      "raison": "anx_generale conservé ; icd_6b00 alias réservé. Liu 2025 est lu au résumé seulement ; il ne donne pas les croisements diagnostic × vécu nécessaires. Aucun nouveau diagnostic TAG créé.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39824317/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B02",
+      "label": "Agoraphobie",
+      "statut": "agrege_dans",
+      "raison": "Sujet icd_6b02 déjà présent, lien harcèlement conservé. La revue Liu 2025 cite l’agoraphobie mais son résumé ne permet pas une nouvelle association spécifique par vécu.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39824317/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B03",
+      "label": "Phobie spécifique",
+      "statut": "a_examiner",
+      "raison": "Scott 2010 retrouve une association avec l’exposition globale aux services de protection, non un facteur distinct. La revue Liu 2025 est inaccessible au-delà du résumé ; pas de produit cartésien entre ses listes de vécus et diagnostics.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/210834",
+        "https://pubmed.ncbi.nlm.nih.gov/39824317/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B04",
+      "label": "Trouble anxieux social",
+      "statut": "agrege_dans",
+      "raison": "Sujet icd_6b04 existant. Aucune duplication. Les revues spécifiques retrouvées doivent être lues au-delà du résumé et distinguer symptômes sociaux et diagnostic ; le réexamen des liens actuels relève du lot 9.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0165032723002434"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B05",
+      "label": "Trouble anxieux de séparation",
+      "statut": "agrege_dans",
+      "raison": "Sujet icd_6b05 existant. Les travaux retrouvés sur la séparation mélangent familles d’adversités et âges d’apparition ; aucun nouveau lien élémentaire vérifié dans une synthèse ou cohorte lisible.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://psychiatryonline.org/doi/10.1176/appi.ajp.2015.14091185"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B06",
+      "label": "Mutisme sélectif",
+      "statut": "a_examiner",
+      "raison": "Diagnostic fréquemment infantile, sans carte nouvelle. Recherche selective mutism / childhood trauma / systematic : revue socioculturelle repérée mais non lue intégralement ; ne pas supposer un traumatisme ni confondre difficulté de langue et diagnostic.",
+      "sources": [
+        "oms_cddr",
+        "apa_anxiete_lot1"
+      ],
+      "research_urls": [
+        "https://doi.org/10.1177/13634615221146435"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B0Y",
+      "label": "Other specified anxiety or fear-related disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B0Z",
+      "label": "Anxiety or fear-related disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B20.0",
+      "label": "Obsessive-compulsive disorder with fair to good insight",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6B20 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr",
+        "ou2021_toc"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B20.1",
+      "label": "Obsessive-compulsive disorder with poor to absent insight",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6B20 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr",
+        "ou2021_toc"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B20.Z",
+      "label": "Obsessive-compulsive disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B21",
+      "label": "Trouble dysmorphique corporel",
+      "statut": "a_examiner",
+      "raison": "Méta-analyse Longobardi 2022 repérée : symptômes dysmorphiques, non nécessairement diagnostic. Résumé lu ; méthodes/résultats intégraux non accessibles. Aucun lien nouveau admis pour le diagnostic.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/35085863/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B21.0",
+      "label": "Body dysmorphic disorder with fair to good insight",
+      "statut": "a_examiner",
+      "raison": "Sous-code de 6B21 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B21.1",
+      "label": "Body dysmorphic disorder with poor to absent insight",
+      "statut": "a_examiner",
+      "raison": "Sous-code de 6B21 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B21.Z",
+      "label": "Body dysmorphic disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B22",
+      "label": "Trouble de référence olfactive",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Recherche olfactory reference disorder / childhood trauma : cas clinique retrouvé, sans synthèse ni cohorte admissible vérifiée. L’exemple DSM-5-TR appartient aux autres TOC apparentés spécifiés ; pas d’équivalence automatique à un diagnostic DSM autonome.",
+      "sources": [
+        "oms_cddr",
+        "apa2022_dsmtr_lot1"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41536747/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B22.0",
+      "label": "Olfactory reference disorder with fair to good insight",
+      "statut": "a_examiner",
+      "raison": "Sous-code de 6B22 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B22.1",
+      "label": "Olfactory reference disorder with poor to absent insight",
+      "statut": "a_examiner",
+      "raison": "Sous-code de 6B22 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B22.Z",
+      "label": "Olfactory reference disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B23",
+      "label": "Hypocondrie / anxiété de santé",
+      "statut": "agrege_dans",
+      "raison": "Sujet icd_6b23 existant. Cohorte à 30 ans repérée sur les scores d’anxiété de santé ; résumé seulement, pas de nouveau lien diagnostique. Le trouble anxiété de maladie du DSM relève de son chapitre somatique.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/35176517/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B23.0",
+      "label": "Hypochondriasis with fair to good insight",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6B23 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B23.1",
+      "label": "Hypochondriasis with poor to absent insight",
+      "statut": "agrege_dans",
+      "raison": "Sous-code de 6B23 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B23.Z",
+      "label": "Hypochondriasis, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B24",
+      "label": "Trouble d’accumulation",
+      "statut": "a_examiner",
+      "raison": "Revue Chia 2021, 39 études : résumé lu, texte intégral non obtenu par les voies publiques. Les catégories de famille, attachement et adversité de vie doivent être vérifiées avant attribution à des vécus d’enfance distincts.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34717158/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B24.0",
+      "label": "Hoarding disorder with fair to good insight",
+      "statut": "a_examiner",
+      "raison": "Sous-code de 6B24 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B24.1",
+      "label": "Hoarding disorder with poor to absent insight",
+      "statut": "a_examiner",
+      "raison": "Sous-code de 6B24 : épisode, sévérité, rémission ou insight. Les preuves examinées au niveau du diagnostic parent ne distinguent pas ce sous-code ; aucun lien ni couverture exacte autonome.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B24.Z",
+      "label": "Hoarding disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B25",
+      "label": "Comportements répétitifs centrés sur le corps",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie regroupant des diagnostics distincts ; ne pas fabriquer une carte globale sans effet propre. Sous-diagnostics examinés séparément ci-dessous.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B25.0",
+      "label": "Trichotillomanie",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Recherche trichotillomania / childhood trauma / systematic review : mémoire et études isolées repérés, pas de méta-analyse ou cohorte développementale vérifiée admissible. Aucun transfert depuis TOC ou automutilation.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B25.1",
+      "label": "Trouble d’excoriation",
+      "statut": "a_examiner",
+      "raison": "Recherche excoriation / childhood trauma : étude cas-témoins de 2015 et cas cliniques repérés, sans synthèse ni cohorte développementale retenue. Aucune extrapolation depuis les violences ou le TOC.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5353104/"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B25.Y",
+      "label": "Other specified body-focused repetitive behaviour disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B25.Z",
+      "label": "Body-focused repetitive behaviour disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B2Y",
+      "label": "Other specified obsessive-compulsive or related disorder",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B2Z",
+      "label": "Obsessive-compulsive or related disorder, unspecified",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie autre spécifiée ou non précisée, sans effet développemental propre vérifié dans les recherches du diagnostic parent ; ne pas créer un sujet uniquement pour accroître la couverture des codes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble bipolaire I",
+      "statut": "agrege_dans",
+      "raison": "icd_6a60, sous réserve de correction en groupe I/II ; correspondance de thème, sans identité automatique des critères DSM et CIM. Aucun code DSM attribué.",
+      "sources": [
+        "apa2022_dsmtr_lot1",
+        "palmierclaus2016"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble bipolaire II",
+      "statut": "agrege_dans",
+      "raison": "icd_6a60, sous réserve de correction en groupe I/II ; correspondance de thème, sans identité automatique des critères DSM et CIM. Aucun code DSM attribué.",
+      "sources": [
+        "apa2022_dsmtr_lot1",
+        "palmierclaus2016"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble cyclothymique",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Recherche cyclothymic / childhood maltreatment / systematic : résultats sur le tempérament affectif, sans méta-analyse ou cohorte diagnostique spécifique vérifiée. Ce constat porte sur la recherche du lot, pas sur une absence universelle de lien.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dépressif majeur, épisode unique",
+      "statut": "agrege_dans",
+      "raison": "dep_generale demeure un agrégat symptomatique ; aucune couverture diagnostique exacte ni stratification du cours revendiquée.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dépressif majeur, épisodes récurrents",
+      "statut": "agrege_dans",
+      "raison": "dep_generale demeure un agrégat symptomatique ; aucune couverture diagnostique exacte ni stratification du cours revendiquée.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dépressif persistant",
+      "statut": "agrege_dans",
+      "raison": "icd_6a72 fournit un rapprochement thématique, sans équivalence intégrale entre dysthymie CIM et trouble dépressif persistant DSM ; pas de nouveau lien.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dysphorique prémenstruel",
+      "statut": "a_examiner",
+      "raison": "La cohorte Bertone-Johnson concerne le syndrome prémenstruel. Carte symptomatique séparée, sans compter le diagnostic dysphorique comme couvert.",
+      "sources": [
+        "apa2024_depression_lot1",
+        "bertonejohnson2014_premenstruel"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble disruptif avec dysrégulation émotionnelle",
+      "statut": "a_examiner",
+      "raison": "Diagnostic de l’enfant/adolescent, 6–18 ans, distinct de bipolarité. Recherche DMDD / maltreatment / cohort : publications cliniques isolées, pas de synthèse ou cohorte développementale retenue ; aucune carte adulte créée.",
+      "sources": [
+        "apa2013_dmdd_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxiété généralisée",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement thématique avec anx_generale. Les études peuvent employer des versions DSM antérieures ; aucune identité de critères ni nouveau code numérique DSM n’est revendiqué.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble panique",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement thématique avec icd_6b01. Les études peuvent employer des versions DSM antérieures ; aucune identité de critères ni nouveau code numérique DSM n’est revendiqué.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Agoraphobie",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement thématique avec icd_6b02. Les études peuvent employer des versions DSM antérieures ; aucune identité de critères ni nouveau code numérique DSM n’est revendiqué.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxiété sociale",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement thématique avec icd_6b04. Les études peuvent employer des versions DSM antérieures ; aucune identité de critères ni nouveau code numérique DSM n’est revendiqué.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxiété de séparation",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement thématique avec icd_6b05. Les études peuvent employer des versions DSM antérieures ; aucune identité de critères ni nouveau code numérique DSM n’est revendiqué.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Phobie spécifique",
+      "statut": "a_examiner",
+      "raison": "Scott 2010 retrouve une association avec l’exposition globale aux services de protection, non un facteur distinct. La revue Liu 2025 est inaccessible au-delà du résumé ; pas de produit cartésien entre ses listes de vécus et diagnostics.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ],
+      "research_urls": [
+        "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/210834",
+        "https://pubmed.ncbi.nlm.nih.gov/39824317/"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Mutisme sélectif",
+      "statut": "a_examiner",
+      "raison": "Diagnostic fréquemment infantile, sans carte nouvelle. Recherche selective mutism / childhood trauma / systematic : revue socioculturelle repérée mais non lue intégralement ; ne pas supposer un traumatisme ni confondre difficulté de langue et diagnostic.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble obsessionnel-compulsif",
+      "statut": "agrege_dans",
+      "raison": "icd_6b20 ; les deux nouveaux liens portent sur la sévérité chez des personnes ayant déjà un TOC, non sur une incidence ou une probabilité individuelle de diagnostic.",
+      "sources": [
+        "apa2013_toc_lot1",
+        "ou2021_toc"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Dysmorphophobie / trouble dysmorphique corporel",
+      "statut": "a_examiner",
+      "raison": "Méta-analyse Longobardi 2022 repérée : symptômes dysmorphiques, non nécessairement diagnostic. Résumé lu ; méthodes/résultats intégraux non accessibles. Aucun lien nouveau admis pour le diagnostic.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/35085863/"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Thésaurisation pathologique / trouble d’accumulation",
+      "statut": "a_examiner",
+      "raison": "Revue Chia 2021, 39 études : résumé lu, texte intégral non obtenu par les voies publiques. Les catégories de famille, attachement et adversité de vie doivent être vérifiées avant attribution à des vécus d’enfance distincts.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34717158/"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trichotillomanie",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Recherche trichotillomania / childhood trauma / systematic review : mémoire et études isolées repérés, pas de méta-analyse ou cohorte développementale vérifiée admissible. Aucun transfert depuis TOC ou automutilation.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Dermatillomanie / trouble d’excoriation",
+      "statut": "a_examiner",
+      "raison": "Recherche excoriation / childhood trauma : étude cas-témoins de 2015 et cas cliniques repérés, sans synthèse ni cohorte développementale retenue. Aucune extrapolation depuis les violences ou le TOC.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ],
+      "research_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5353104/"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Autre trouble obsessionnel-compulsif ou apparenté spécifié : trouble de référence olfactive",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Exemple expressément confirmé par la fiche APA 2022 ; pas un diagnostic DSM autonome. Aucun effet développemental admissible trouvé.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxiété de maladie",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement avec icd_6b23, chapitre somatique DSM distinct. La correspondance détaillée est à examiner avec le lot 2 ; aucun lien nouveau ici.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "research_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/35176517/"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Spécification avec début lors du péripartum",
+      "statut": "a_examiner",
+      "raison": "Spécification de troubles de l’humeur, pas une catégorie autonome équivalente à toute dépression dans l’année postpartum ; aucune couverture exacte revendiquée par la carte symptomatique.",
+      "sources": [
+        "apa2024_depression_lot1",
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Spécifications d’épisode, de sévérité, de caractéristiques psychotiques et de rémission",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Les travaux retenus ne permettent pas d’attribuer un effet développemental propre à chaque spécification ; pas de carte autonome ni de code numérique inventé.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Spécification attaque de panique",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Une attaque de panique n’est pas en elle-même un trouble panique ; les liens retenus visent les études du trouble.",
+      "sources": [
+        "apa_anxiete_lot1",
+        "zhang2023_panique"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble bipolaire ou apparenté induit par une substance ou un médicament",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble bipolaire ou apparenté dû à une autre affection médicale",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Autre trouble bipolaire ou apparenté spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble bipolaire ou apparenté non spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dépressif induit par une substance ou un médicament",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dépressif dû à une autre affection médicale",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Autre trouble dépressif spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble dépressif non spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa2024_depression_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxieux induit par une substance ou un médicament",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxieux dû à une autre affection médicale",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Autre trouble anxieux spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble anxieux non spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa_anxiete_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble obsessionnel-compulsif ou apparenté induit par une substance ou un médicament",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble obsessionnel-compulsif ou apparenté dû à une autre affection médicale",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Étiologie proximale distincte des vécus d’enfance ; aucune extrapolation depuis les diagnostics primaires. Inventaire de travail sans code : critères et libellé français exact du manuel DSM-5-TR complet non relus.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Autre trouble obsessionnel-compulsif ou apparenté spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble obsessionnel-compulsif ou apparenté non spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie résiduelle sans association développementale propre vérifiée ; ne pas transformer un agrégat de symptômes en diagnostic résiduel. Aucun code numérique attribué ; manuel complet non relu.",
+      "sources": [
+        "apa2013_toc_lot1"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "label": "Trouble de l’humeur non spécifié",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Catégorie rétablie dans le DSM-5-TR, confirmée dans sa fiche APA ; présentée dans les chapitres bipolaires et dépressifs, comptée une seule fois. Aucune preuve développementale spécifique retenue.",
+      "sources": [
+        "apa2022_dsmtr_lot1"
+      ]
+    }
+  ],
+  "proposed_corrections": [
+    {
+      "object": "outcome",
+      "outcome": "icd_6a60",
+      "action": "reformuler",
+      "label": "Troubles bipolaires (preuves agrégées)",
+      "description": "Des épisodes maniaques ou hypomaniaques et dépressifs dont la présentation varie selon le diagnostic. Les preuves développementales réunies ici concernent les troubles bipolaires dans leur ensemble.",
+      "category": "clinical_group",
+      "code": null,
+      "reason": "Palmier-Claus 2016 regroupe les types I et II ; absence de différence entre types n’est pas une estimation de risque propre au type II. Ne plus faire passer les preuves agrégées pour une couverture exacte 6A60. Retirer le code exact des statistiques si cet agrégat est retenu ; garder l’identifiant historique pour les liens."
+    },
+    {
+      "object": "source",
+      "source": "palmierclaus2016",
+      "action": "reformuler",
+      "read": "section : méthodes, résultats, tableau 1, comparaison types I/II et limites, texte intégral éditeur",
+      "reason": "Source existante relue au-delà du résumé ; texte intégral Cambridge p. 454–459 ; DOI inchangé."
+    },
+    {
+      "object": "source",
+      "source": "oms_cddr",
+      "action": "reformuler",
+      "read": "section : liste des catégories p. 44–55 et 84 ; TOC p. 300–301 ; périnatal p. 639–643, en plus des sections déjà lues",
+      "reason": "Vérification des codes du lot 1 dans le CDDR officiel 2024, PDF local et page OMS vérifiés ; élargir la notice existante sans redéclarer son identifiant."
+    },
+    {
+      "object": "outcome",
+      "outcome": "anx_generale",
+      "action": "conserver",
+      "reason": "Conserver le groupe symptomatique. La scission en 6B00 exige de libérer son alias et de réexaminer chaque lien ; une méta-analyse cumulant des expositions et diagnostics anxieux ne permet pas de multiplier leurs combinaisons."
+    },
+    {
+      "object": "outcome",
+      "outcome": "dep_generale",
+      "action": "conserver",
+      "reason": "Conserver le groupe symptomatique en l’état de cette recherche ; 6A70/6A71 restent des alias réservés. Ne pas transformer les associations aux scores dépressifs en preuves d’épisodes uniques ou récurrents."
+    }
+  ],
+  "notes": [
+    "Lot 1 : les liens du TOC portent sur la sévérité chez des adultes déjà diagnostiqués. Les cartes périnatale et prémenstruelle sont contextuelles et symptomatiques ; elles ne constituent pas des diagnostics supplémentaires.",
+    "Les associations reposent sur des groupes et ne permettent pas de déduire un trouble chez une personne. Les preuves ne sont pas multipliées quand une étude cumule les vécus ou les diagnostics.",
+    "Les corrections et liens bipolaires conditionnels demandent une décision de l’intégrateur ; ils ne sont pas activés par ce fragment."
+  ],
+  "proposed_links": [
+    {
+      "factor": "abus_physique",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre violences physiques dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre abus sexuels dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre négligences physiques dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre négligences émotionnelles dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+      "sources": [
+        "palmierclaus2016"
+      ],
+      "condition": "Admettre seulement si la correction transformant icd_6a60 en groupe clinique sans code exact est acceptée."
+    }
+  ]
+}

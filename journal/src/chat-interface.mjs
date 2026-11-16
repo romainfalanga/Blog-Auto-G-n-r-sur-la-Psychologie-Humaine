@@ -33,7 +33,7 @@ function disposeChatInterface(){
  if(state.chatVoice){state.chatVoice.dispose();state.chatVoice=null}
  if(state.chatReveals){state.chatReveals.forEach(function(cancel){cancel()});state.chatReveals.clear()}
 }
-function resetChatSession(){disposeChatInterface();state.chatOutbox=null;state.chatSeenResponses=new Set()}
+function resetChatSession(){disposeChatInterface();state.chatOutbox=null;state.chatSeenResponses=new Set();state.chatFollowupNotice=''}
 function applyChatAvailability(data,current){
  if(!chatIsCurrent(current))return;
  var wasCooling=state.chatData&&state.chatData.access&&state.chatData.access.reason==='provider_cooldown';state.chatData=Object.assign({},state.chatData||{},data);var latest=state.chatData;
@@ -85,6 +85,7 @@ function createChatShell(view,current){
  var pointNote=el('p','chat-point-note');pointNote.id='chat-point-note';pointNote.hidden=true;point.setAttribute('aria-describedby',pointNote.id);
  toolbar.append(title,point,quota);
  surface.append(toolbar,pointNote);
+ if(!guest&&typeof changePauseFollowups==='function'){var options=el('details','change-chat-options');options.append(el('summary','','Options de conversation'));var optionsActions=el('div','change-actions'),optionsStatus=el('p','status');optionsStatus.setAttribute('role','status');optionsActions.append(actionButton('Suspendre les retours',async function(event){var button=event.currentTarget;button.disabled=true;try{await changePauseFollowups(optionsStatus);state.chatFollowupNotice=optionsStatus.textContent}catch(err){optionsStatus.textContent=err.message;optionsStatus.className='status error'}finally{button.disabled=false}},'text'),actionButton('Effacer la conversation',function(){openChangeChatClear(current)},'text'));options.append(optionsActions,optionsStatus);surface.append(options)}
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var panel=el('section','journey-panel');panel.id='journey-panel';panel.hidden=true;panel.setAttribute('aria-labelledby','journey-title');scroll.append(panel);var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
  var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);
  var gate=el('div');gate.id='chat-gates';surface.append(gate);
@@ -138,6 +139,10 @@ function chatMessageEntry(shell,message,current,animate){
    if(message.review_id&&!entry.reviewLink){var bilans=el('a','text-link chat-review-link','Retrouver ce bilan dans Mes bilans');bilans.href='/mes-bilans/';entry.reviewLink=bilans;entry.item.append(bilans)}
   }
  }
+ if(message.role==='assistant'&&typeof renderChatChangeProposal==='function'){
+  var changeIds=Array.isArray(message.change_proposal_ids)?Array.from(new Set(message.change_proposal_ids.filter(function(value){return typeof value==='string'}))):[],changeSignature=JSON.stringify(changeIds);
+  if(entry.changeSignature!==changeSignature){entry.changeSignature=changeSignature;if(entry.changeCards)entry.changeCards.remove();if(changeIds.length){entry.changeCards=el('section','chat-change-cards');entry.changeCards.setAttribute('aria-label','Propositions à choisir pour votre plan');entry.item.append(entry.changeCards);changeIds.forEach(function(proposalId){var card=el('div','change-inline');entry.changeCards.append(card);renderChatChangeProposal(card,proposalId,current)})}}
+ }
  return entry;
 }
 function drawChat(view,current,options){
@@ -155,7 +160,7 @@ function drawChat(view,current,options){
  if(chatReviewRunning(data)&&!chatInitialPending(data)){if(!shell.reviewWaiting){var preparing=el('article','chat-message chat-assistant chat-thinking');preparing.id='chat-review-indicator';preparing.setAttribute('role','status');preparing.append(el('h3','','Ambre'),el('span','','Ambre prépare votre bilan…'));var reviewDots=el('span','thinking-dots');reviewDots.setAttribute('aria-hidden','true');for(var d=0;d<3;d++)reviewDots.append(el('i'));preparing.append(reviewDots);shell.reviewWaiting=preparing}shell.thread.append(shell.reviewWaiting)}else if(shell.reviewWaiting){shell.reviewWaiting.remove();shell.reviewWaiting=null}
  var proposals=(data.proposals||[]).filter(function(proposal){return proposal.status==='pending'&&proposal.kind!=='story_request'}),proposalIds=new Set();proposals.forEach(function(proposal){proposalIds.add(proposal.id);var signature=JSON.stringify(proposal),stored=shell.proposalNodes.get(proposal.id);if(!stored){var host=el('div');shell.proposals.append(host);drawChatProposal(host,proposal,current);shell.proposalNodes.set(proposal.id,{host:host,signature:signature})}var mounted=shell.proposalNodes.get(proposal.id),note=mounted.host.querySelector('.chat-capability'),form=mounted.host.querySelector('form'),submit=form&&form.querySelector('button[type=submit]'),unavailable=chatCapabilityMessage(proposal.kind);if(note){note.textContent=unavailable;note.hidden=!unavailable}if(submit&&form.dataset.submitting!=='true')submit.disabled=!!unavailable;});shell.proposalNodes.forEach(function(stored,id){if(!proposalIds.has(id)){stored.host.remove();shell.proposalNodes.delete(id)}});
  if(shell.responseToAnchor){if(shell.follow){scrollChatTo(shell,shell.responseToAnchor,false);shell.follow=false}else shell.next.hidden=false;shell.responseToAnchor=null}
- drawChatGate(shell,data,current);updateChatControls();if(!state.chatSending){if(box&&box.error&&['failed','uncertain'].includes(box.status)){shell.feedback.textContent=box.error;shell.feedback.className='status error'}else if(data.last_error){shell.feedback.textContent=chatFailureMessage(data);shell.feedback.className='status error'}else{shell.feedback.textContent='';shell.feedback.className='status'}}scheduleChatCooldown(current,data);
+ drawChatGate(shell,data,current);updateChatControls();if(!state.chatSending){if(box&&box.error&&['failed','uncertain'].includes(box.status)){shell.feedback.textContent=box.error;shell.feedback.className='status error'}else if(data.last_error){shell.feedback.textContent=chatFailureMessage(data);shell.feedback.className='status error'}else{shell.feedback.textContent=state.chatFollowupNotice||'';shell.feedback.className='status'}}scheduleChatCooldown(current,data);
  if(options&&options.sent){shell.follow=true;scrollChatTo(shell,shell.waiting||shell.thread.children[shell.thread.children.length-1],false)}
  drawJourneyPanel(current);if(chatReviewRunning(data))pollJourney(current);
  if(!shell.initialPositioned){shell.initialPositioned=true;var last=messages.slice().reverse().find(function(message){return message.role==='assistant'});if(last){var entry=shell.messages.get(String(last.id));scrollChatTo(shell,entry&&entry.item,false)}}
@@ -164,11 +169,13 @@ async function sendChat(form,current,retry){
  if(!chatIsCurrent(current)||state.chatSending||!retry&&state.chatOutbox&&['sending','pending','uncertain'].includes(state.chatOutbox.status)||state.chatData&&(!state.chatData.access||!state.chatData.access.allowed))return;
  if(state.chatVoice)state.chatVoice.stop('');var input=form.elements.content,content=retry?retry.content:input.value.trim();if(!content)return;
  var sameRetry=retry&&retry.status==='uncertain',key=sameRetry?retry.client_key:newClientId(),box={client_key:key,content:content,status:'sending',started_at:Date.now()};
+ state.chatFollowupNotice='';
  state.chatOutbox=box;state.chatSendKey={content:content,key:key};state.chatSending=true;state.chatRequest=null;
  if(!retry){input.value='';state.chatDraft=''}
  var view=document.getElementById('view');if(view)drawChat(view,current,{sent:true});updateChatControls();var submit=form.querySelector('button[type=submit]');if(submit)submit.disabled=true;status('chat-status','');
  try{
   var result=await api('/api/chat/messages','POST',{content:content,idempotency_key:key});if(!chatIsCurrent(current)||state.chatOutbox!==box)return;
+  if(result.followups_paused===true){state.chatOutbox=null;state.chatSending=false;state.chatRequest=null;state.chatSendKey=null;state.chatData=Object.assign({},state.chatData||{},result);state.chatFollowupNotice='Les invitations de retour sont suspendues. Ce choix a été enregistré sans appel à Ambre.';if(view)drawChat(view,current);updateChatControls();return}
   box.request_id=result.request_id||result.pending_request&&result.pending_request.id||result.request&&result.request.id||null;
   if(result.pending_request||result.request&&['queued','running','pending'].includes(result.request.status||'queued'))box.status='pending';
   var latest=result.messages?result:await api('/api/chat');if(!chatIsCurrent(current)||state.chatOutbox!==box)return;

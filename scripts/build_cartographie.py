@@ -21,6 +21,9 @@ SRC = ROOT / "editorial" / "cartographie"
 OUT = ROOT / "data" / "cartographie.json"
 KINDS = {"trouble", "schema", "attachement", "tendance"}
 STRENGTHS = {"forte": 3, "critere": 2, "moderee": 2, "limitee": 1, "theorique": 1}
+MAX_QUESTIONS_PER_GROUP = 14
+MAX_QUESTIONS = 72
+MAX_LINK_SUMMARY = 350
 SOURCE_TYPES = {"classification", "recommandation", "meta-analyse", "revue", "etude", "theorie"}
 RELATION_TYPES = {"empirical_association", "classification_context", "clinical_model", "definitional"}
 YOUNG_SCHEMA_IDS = {
@@ -136,11 +139,20 @@ def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, so
     return errors
 
 
-def build() -> tuple[dict, list[str]]:
+def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
     errors: list[str] = []
     base = json.loads((SRC / "facteurs.json").read_text(encoding="utf-8"))
     groups = {g["id"] for g in base["groups"]}
     factors = {f["id"]: f for f in base["factors"]}
+    if len(groups) != 6:
+        errors.append("le questionnaire doit conserver ses six thèmes")
+    if len(factors) != len(base["factors"]):
+        errors.append("identifiant de facteur dupliqué")
+    if len(factors) > MAX_QUESTIONS:
+        errors.append(f"questionnaire : plafond de {MAX_QUESTIONS} questions dépassé")
+    for group in groups:
+        if sum(f.get("group") == group for f in factors.values()) > MAX_QUESTIONS_PER_GROUP:
+            errors.append(f"thème {group} : plafond de {MAX_QUESTIONS_PER_GROUP} questions dépassé")
     for f in base["factors"]:
         if f["group"] not in groups:
             errors.append(f"facteur {f['id']} : groupe inconnu {f['group']}")
@@ -223,6 +235,8 @@ def build() -> tuple[dict, list[str]]:
     for item in [*links.values(), *protections, *[n for n in notes.values() if isinstance(n, dict)]]:
         item["sources"] = list(dict.fromkeys(source_aliases.get(s, s) for s in item.get("sources", [])))
     for (fid, oid), link in links.items():
+        if len(link.get("summary", "")) > MAX_LINK_SUMMARY:
+            errors.append(f"lien {fid} → {oid} : résumé de plus de {MAX_LINK_SUMMARY} caractères")
         if oid not in outcomes:
             errors.append(f"lien {fid} → {oid} : conséquence non définie")
         for sid in link.get("sources", []):
@@ -237,6 +251,24 @@ def build() -> tuple[dict, list[str]]:
     used_sources |= {s for n in notes.values() if isinstance(n, dict) for s in n.get("sources", [])}
     notes.pop("adversite_cumul", None)  # merged into the displayed « cumul » note
     used_outcomes = {oid for _, oid in links}
+    for oid, outcome in outcomes.items():
+        own_links = [link for (_, target), link in links.items() if target == oid]
+        if outcome.get("age_scope") == "young_child_only" or outcome.get("category") in {"health_outcome", "categorical_personality_diagnosis"} or (own_links and all(link["relation_type"] == "classification_context" for link in own_links)):
+            outcome["contextual_only"] = True
+    retired_outcomes = corr.get("retired_outcomes", [])
+    retired_ids = [o.get("id") for o in retired_outcomes]
+    if len(retired_ids) != len(set(retired_ids)):
+        errors.append("identifiant historique retiré dupliqué")
+    for outcome in retired_outcomes:
+        if outcome.get("id") in used_outcomes or not outcome.get("retired") or not outcome.get("contextual_only"):
+            errors.append(f"sujet historique encore actif ou non protégé : {outcome.get('id')}")
+    if OUT.exists():
+        previous = json.loads(OUT.read_text(encoding="utf-8"))
+        historical_ids = {o["id"] for o in [*previous.get("outcomes", []), *previous.get("retired_outcomes", [])]}
+        for oid in sorted(historical_ids - used_outcomes - set(retired_ids)):
+            errors.append(f"sujet historique disparu sans retired_outcomes : {oid} ; préserver son ancien sens et ses données enregistrées")
+        for fid in sorted({f["id"] for f in previous.get("factors", [])} - factors.keys()):
+            errors.append(f"facteur historique supprimé : {fid} ; ses réponses enregistrées doivent rester valides")
     data = {
         "schema_version": 2,
         "interpretation": {
@@ -251,6 +283,9 @@ def build() -> tuple[dict, list[str]]:
         "factors": base["factors"],
         "domains": [{"id": k, "label": label} for k, label, _ in DOMAINS],
         "outcomes": sorted(({**o, "domain": o.get("domain") or domain_of(o)} for o in outcomes.values() if o["id"] in used_outcomes), key=lambda o: o["label"]),
+        # Immutable historical meanings accepted on save, excluded from the graph.
+        # An adult recognition must never migrate to a newly distinct child card.
+        "retired_outcomes": sorted(retired_outcomes, key=lambda o: o["id"]),
         "links": [links[k] for k in sorted(links)],
         "protections": protections,
         "exclusive": json.loads((SRC / "corrections.json").read_text(encoding="utf-8")).get("exclusive_factors", []),
@@ -267,6 +302,7 @@ def build() -> tuple[dict, list[str]]:
     data["coverage"] = {
         "scope": "Sélection documentée de vécus de l’enfance ; ni inventaire de la psychologie ni couverture de tous les diagnostics.",
         "outcomes": len(data["outcomes"]),
+        "retired_outcomes": len(data["retired_outcomes"]),
         "kinds": {kind: sum(o["kind"] == kind for o in data["outcomes"]) for kind in sorted(KINDS)},
         "icd11": {"reference": "CIM-11 MMS 2026-01, chapitre 06", "catalog_codes": len(clinical["codes"]), "exact_code_references": exact_codes, "exact_code_count": len(exact_codes), "aggregate_references": [{"outcome": o["id"], "codes": o["classification_codes"]} for o in data["outcomes"] if o.get("classification_codes")], "not_exactly_referenced_count": len(clinical["codes"]) - len(exact_codes), "complete": False, "note": "Un code cité ou agrégé n’atteste ni diagnostic ni validation de chacun de ses critères."},
         "dsm5tr": {"complete": False, "status": "diagnosis_by_diagnosis_comparison_pending", "note": "Aucun inventaire diagnostic DSM-5-TR complet ni équivalence automatique CIM/DSM."},
@@ -278,10 +314,12 @@ def build() -> tuple[dict, list[str]]:
     # The complete semantic review is a documentary artifact, not a causal-link
     # generator. Check its inputs and expose honest counters without importing
     # its editorial correspondences into the recommendation graph.
-    audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-16.json"
-    if audit_path.exists():
+    audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-17.json"
+    if check_audit and not audit_path.exists():
+        errors.append("audit des correspondances du 17 novembre absent : lancer scripts/audit_cartographie.py")
+    if check_audit and audit_path.exists():
         audit = json.loads(audit_path.read_text(encoding="utf-8"))
-        core = {key: data[key] for key in ("factors", "outcomes", "links", "protections")}
+        core = {key: data[key] for key in ("factors", "outcomes", "retired_outcomes", "links", "protections")}
         fingerprint = hashlib.sha256(json.dumps(core, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
         if fingerprint != audit.get("input_fingerprints", {}).get("cartography_core_sha256"):
             errors.append("audit des correspondances périmé : les facteurs, sujets, liens ou ressources ont changé")
@@ -289,17 +327,28 @@ def build() -> tuple[dict, list[str]]:
             actual = hashlib.sha256((ROOT / f"data/{name}.json").read_bytes()).hexdigest()
             if actual != audit.get("input_fingerprints", {}).get(f"{name}_sha256"):
                 errors.append(f"audit des correspondances périmé : {name} a changé")
+        for key, filename in (("semantic_decisions_sha256", "correspondances-2026-11-17.json"), ("reference_registry_sha256", "couverture-referentiels.json")):
+            path = SRC / filename
+            if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest() != audit.get("input_fingerprints", {}).get(key):
+                errors.append(f"audit des correspondances périmé : {filename} a changé")
         reviewed = audit.get("psychology_patterns", [])
         if len(reviewed) != len(pattern_ids) or {r.get("id") for r in reviewed} != pattern_ids:
             errors.append("audit des correspondances incomplet ou dupliqué")
         data["coverage"]["psychology_catalog"]["semantic_review"] = {
             "reviewed_patterns": len(reviewed), "status_counts": audit["counts"]["psychology_statuses"],
-            "report": "docs/audit-cartographie-correspondances-2026-11-16.json",
+            "report": str(audit_path.relative_to(ROOT)),
             "causal_validation": False,
         }
         data["coverage"]["psychology_catalog"]["note"] = "Les 161 repères ont une décision sémantique documentée ; un identifiant commun, un regroupement ou un recouvrement partiel ne prouvent ni causalité ni couverture clinique complète."
         data["coverage"]["dsm5tr"].update({"chapters_reviewed": audit["counts"]["dsm_section_ii_chapters_reviewed"], "chapter_status_counts": audit["counts"]["dsm_chapter_statuses"], "level": "chapter_thematic_presence_only"})
         data["coverage"]["remaining_review"][2] = "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux"
+    registry_path = SRC / "couverture-referentiels.json"
+    if registry_path.exists():
+        registry = json.loads(registry_path.read_text(encoding="utf-8"))
+        entries = registry.get("entries", [])
+        statuses = {status: sum(row.get("statut") == status for row in entries) for status in sorted({row["statut"] for row in entries})}
+        data["coverage"]["reference_registry"] = {"report": str(registry_path.relative_to(ROOT)), "decisions": len(entries), "statuses": statuses, "exhaustive_diagnostic_criteria_review": False}
+        data["coverage"]["known_exclusions"].append({"scope": "Registre documenté des neuf lots", "reason": "Les exclusions et recherches non concluantes sont distinguées des sujets reliés.", "report": str(registry_path.relative_to(ROOT))})
     return data, errors
 
 

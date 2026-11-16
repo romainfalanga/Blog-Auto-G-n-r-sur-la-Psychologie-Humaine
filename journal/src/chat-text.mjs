@@ -16,6 +16,13 @@ export function responseSentences(content) {
  if(start<content.length)parts.push({text:content.slice(start),questions});
  return parts;
 }
+// Keep both the opening and the latest words; a final question must survive.
+export function conversationExcerpt(content,maximum=700){
+ const text=String(content||'');
+ if(text.length<=maximum)return text;
+ const tail=Math.min(Math.floor(maximum*.6),500),head=maximum-tail-5;
+ return text.slice(0,head)+' […] '+text.slice(-tail);
+}
 export function limitQuestions(content,maximum=2){
  let used=0;
  return responseSentences(content).filter(sentence=>{

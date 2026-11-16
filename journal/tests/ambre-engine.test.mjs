@@ -6,7 +6,7 @@ import {createPersonalBackend,parisWeek} from '../src/personal-backend.mjs';
 import {createChatBackend} from '../src/chat-backend.mjs';
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
 import {appendTraceStage,traceDetail} from '../src/ambre-insight.mjs';
-import {deterministicAnalysis,deterministicReview,knowledgeIndex,selectDetails,memoryPrompt,mergeClosed} from '../src/ambre-engine.mjs';
+import {deterministicAnalysis,deterministicReview,knowledgeIndex,selectDetails,memoryPrompt,mergeClosed,analysisIndex,parisTime} from '../src/ambre-engine.mjs';
 function setup(catalogue){const raw=new DatabaseSync(':memory:');for(const name of readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort())raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));function prepare(sql){let args=[];return {bind(...a){args=a;return this;},async first(){return raw.prepare(sql).get(...args)||null;},async all(){return {results:raw.prepare(sql).all(...args)};},async run(){return {meta:{changes:raw.prepare(sql).run(...args).changes}};}};}let queue=Promise.resolve();const DB={raw,prepare,batch(statements){const next=queue.then(async()=>{raw.exec('BEGIN');try{const result=[];for(const s of statements)result.push(await s.run());raw.exec('COMMIT');return result;}catch(e){raw.exec('ROLLBACK');throw e;}});queue=next.catch(()=>{});return next;}};let clock=Math.floor(Date.now()/1000),serial=0;const utils={error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:(v,status=200)=>new Response(JSON.stringify(v),{status}),text:(v,max=1000)=>typeof v==='string'?v.slice(0,max).trim():'',body:async req=>req.json(),now:()=>clock,random:()=>`id_${String(++serial).padStart(8,'0')}`,decorateLikes:x=>x,recommender:{provisionalPortrait:()=>null}};const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal,catalogue,engineEnabled:true}),env={DB,OPENROUTER_API_KEY:'mock-only'};for(const id of ['a','b']){raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,'hash','salt')").run(id,id+'@example.com');raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(id);raw.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES(?,'active',?)").run(id,clock+86400);}async function call(path,method='GET',data,user='a',ctx){const req=new Request('https://example.com'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:user},url.pathname,url,ctx)||await personal.routes(req,env,{id:user},url.pathname,url,ctx);return {status:res.status,...await res.json()};}catch(e){return {status:e.status||500,code:e.code,message:e.message};}}return {raw,env,chat,personal,call,setClock:v=>{clock=v;},getClock:()=>clock};}
 
 async function ready(s){for(const id of ['a','b'])s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES(?,?,'initial','ready','Analyse initiale.',?,0,0)").run('seed-'+id,id,'seed-initial-'+id);assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);}
@@ -243,7 +243,7 @@ test('current source inventory paginates owner data and exposes bounded excerpts
  for(let i=0;i<105;i++)s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,kind) VALUES(?,'a',?,'hash',?,?,'other')").run('ev'+i,'ev'+i,'Événement '+i,'Récit personnel '+i);
  s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,kind) VALUES('other-event','b','other-event','hash','OTHER_USER_SECRET','Autre personne','other')").run();
  s.raw.prepare("INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES('a','article-test','Un récit aimé.','Des différences.')").run();
- const first=await s.call('/api/chat/insight');assert.equal(first.current.sources.items.length,100);assert.equal(first.current.sources.next_offset,100);assert.equal(first.knowledge.next_offset,100);const second=await s.call('/api/chat/insight?offset=100');assert.equal(second.current.sources.items.length,6);assert.equal(second.current.sources.next_offset,null);const profile=second.current.sources.items.find(x=>x.kind==='profile');assert.equal(profile.content.length,6000);assert.equal(profile.truncated,true);assert.ok(profile.original_chars>6000);assert.equal(profile.api_path,'/api/self-profile');assert.equal(second.current.self_profile.self_description,long);
+ const first=await s.call('/api/chat/insight');assert.equal(first.current.sources.items.length,100);assert.equal(first.current.sources.next_offset,100);assert.equal(first.knowledge.next_offset,100);const second=await s.call('/api/chat/insight?offset=100');assert.equal(second.current.sources.items.length,7);assert.equal(second.current.sources.next_offset,null);const profile=second.current.sources.items.find(x=>x.kind==='profile');assert.equal(profile.content.length,6000);assert.equal(profile.truncated,true);assert.ok(profile.original_chars>6000);assert.equal(profile.api_path,'/api/self-profile');assert.equal(second.current.self_profile.self_description,long);
  assert.doesNotMatch(JSON.stringify([first,second]),/OTHER_USER_SECRET/);assert.equal(first.current.stored_elsewhere.find(x=>x.key==='likes').usage,'not_sent_to_chat');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='accepted_memory').api_path,'/api/memory');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='older_history').edit_path,'/mon-accompagnement/');assert.equal(first.current.usage_policy.details_max_chars,6500);
 });
 
@@ -275,12 +275,12 @@ test('private stage snapshots preserve every rewrite and retry while distinguish
  const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.deepEqual(detail.stages.map(x=>x.stage),['analysis','writing','review','rewrite','review','review']);assert.equal(detail.stages[4].status,'error');assert.equal(detail.stages[4].error_code,'provider_timeout');assert.equal(detail.outcome,'published');for(let i=0;i<calls.length;i++)assert.deepEqual(detail.stages[i].input,JSON.parse(calls[i].body.messages[1].content));assert.doesNotMatch(JSON.stringify(detail),/Internal private provider message/);
 });
 
-test('primary evidence retains the complete religion-versus-coercion nuance in the actual writing request',async t=>{
- const s=setup();await ready(s);const link=CARTOGRAPHIE.links.find(x=>x.factor==='emprise_religieuse'&&x.outcome==='dep_generale');assert.ok(link.summary.length>280);assert.match(link.summary,/Ce n'est pas la foi elle-même.*mais l'emprise/);
- s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,?,'{}','{}','[]',1,1,1,1)").run(JSON.stringify({emprise_religieuse:1}),JSON.stringify({dep_generale:'oui'}));
- const index=knowledgeIndex(await s.personal.context(s.env,'a')),id=index.find(x=>x.key==='cartography:outcome:dep_generale').id;const calls=provider(t,p=>p==='ambre_analysis'?{...analysis(),selected_ids:[id]}:undefined);await message(s,'whole_evidence','Je voudrais comprendre ce que ce vécu a changé pour moi.');assert.equal(job(s).stage,'done');
- const writing=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content),entry=writing.details.find(x=>x.key==='cartography:outcome:dep_generale');assert.equal(entry.metadata.evidence_summary,link.summary);assert.ok(link.source_ids.includes(entry.metadata.evidence_source.id));assert.equal(entry.metadata.evidence_source.url,CARTOGRAPHIE.sources.find(x=>x.id===entry.metadata.evidence_source.id).url);assert.match(entry.metadata.evidence_summary,/Ce n'est pas la foi elle-même.*mais l'emprise/);assert.ok(entry.text.length<=1100);assert.ok(writing.details.reduce((sum,x)=>sum+x.text.length,0)<=6500);
- const references=new Map(CARTOGRAPHIE.sources.map(x=>[x.id,x]));const overhead=Math.max(...CARTOGRAPHIE.links.map(x=>{const ref=references.get(x.source_ids?.[0]);return JSON.stringify({evidence_summary:x.summary||'',evidence_source:ref?{id:ref.id,url:ref.url}:null}).length}));assert.ok(overhead<=500,'current primary-evidence metadata remains bounded to 500 characters per source');assert.ok(writing.details.length<=8);
+test('primary clinical evidence retains its complete source and theoretical status in the actual writing request',async t=>{
+ const s=setup();await ready(s);const link=CARTOGRAPHIE.links.find(x=>x.factor==='emprise_religieuse'&&x.outcome==='sch_assujettissement');assert.equal(link.relation_type,'clinical_model');assert.equal(link.strength,'theorique');
+ s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,?,'{}','{}','[]',1,1,1,1)").run(JSON.stringify({emprise_religieuse:1}),JSON.stringify({sch_assujettissement:'oui'}));
+ const index=knowledgeIndex(await s.personal.context(s.env,'a')),id=index.find(x=>x.key==='cartography:outcome:sch_assujettissement').id;const calls=provider(t,p=>p==='ambre_analysis'?{...analysis(),selected_ids:[id]}:undefined);await message(s,'whole_evidence','Je voudrais comprendre ce que ce vécu a changé pour moi.');assert.equal(job(s).stage,'done');
+ const writing=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content),entry=writing.details.find(x=>x.key==='cartography:outcome:sch_assujettissement');assert.equal(entry.metadata.evidence_summary,link.summary);assert.ok(link.source_ids.includes(entry.metadata.evidence_source.id));assert.equal(entry.metadata.evidence_source.url,CARTOGRAPHIE.sources.find(x=>x.id===entry.metadata.evidence_source.id).url);assert.ok(entry.metadata.relation_types.includes('clinical_model'));assert.ok(entry.text.length<=1100);assert.ok(writing.details.reduce((sum,x)=>sum+x.text.length,0)<=6500);
+ const references=new Map(CARTOGRAPHIE.sources.map(x=>[x.id,x]));const overhead=Math.max(...CARTOGRAPHIE.links.map(x=>{const ref=references.get(x.source_ids?.[0]);return JSON.stringify({evidence_summary:x.summary||'',evidence_source:ref?{id:ref.id,url:ref.url}:null}).length}));assert.ok(overhead<=600,'current primary-evidence metadata remains bounded to 600 characters per source');assert.ok(writing.details.length<=8);
 });
 
 
@@ -326,7 +326,7 @@ test('deterministic current danger never waits for or depends on the extra model
 });
 
 test('only a current confirmation receives the immediately preceding safety exchange',async t=>{
- const s=setup();await ready(s);seedTurns(s,2);s.raw.prepare("UPDATE chat_turns SET content='Je veux mourir.',response=? WHERE id='history-2'").run(JSON.stringify({companion_reply:1,content:'Pensez-vous au suicide ce soir ?'}));const current='Oui, ce soir.',calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'current_confirmation',evidence_quote:current}:undefined);await message(s,'risk_confirmation',current);assert.equal(job(s).stage,'done');assert.deepEqual(JSON.parse(calls[1].body.messages[1].content),{message:current,recent_confirmation_context:{id:'history-2',user:'Je veux mourir.',assistant:'Pensez-vous au suicide ce soir ?'}});assert.equal(JSON.parse(job(s).analysis).risk,'possible');
+ const s=setup();await ready(s);seedTurns(s,2);s.raw.prepare("UPDATE chat_turns SET content='Je veux mourir.',response=? WHERE id='history-2'").run(JSON.stringify({companion_reply:1,content:'Pensez-vous au suicide ce soir ?'}));const current='Oui, ce soir.',calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?{risk:'possible',category:'current_confirmation',evidence_quote:current}:undefined);await message(s,'risk_confirmation',current);assert.equal(job(s).stage,'done');assert.deepEqual(JSON.parse(calls[1].body.messages[1].content),{message:current,recent_confirmation_context:{id:'history-2',at:JSON.parse(calls[1].body.messages[1].content).recent_confirmation_context.at,user:'Je veux mourir.',assistant:'Pensez-vous au suicide ce soir ?'}});assert.equal(JSON.parse(job(s).analysis).risk,'possible');
 });
 
 test('a short execution window persists the pending risk check and never repeats initial analysis',async t=>{
@@ -351,7 +351,7 @@ test('risk checks reject malformed, contradictory or unanchored verdicts without
 });
 
 test('the conditional verification obeys the existing total turn budget',async t=>{
- const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(job(s).stage,'failed');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'released');
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});const sent=await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(sent.last_error.code,'turn_budget');assert.doesNotMatch(sent.last_error.message,/semaine/);assert.equal(job(s).stage,'failed');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'released');
 });
 
 test('confirmed violence selects violence resources in the published answer and fallback',async t=>{
@@ -365,4 +365,113 @@ test('consent, source changes and purge invalidate late risk-check results',asyn
   const s=setup();await ready(s);let release,started;const began=new Promise(r=>started=r),tasks=[];provider(t,async p=>{if(p==='ambre_analysis')return flaggedAnalysis();if(p==='ambre_risk_check'){started();await new Promise(r=>release=r);return noCurrentRisk()}});await message(s,'risk_late_'+change,'Une question de diagnostic.',{waitUntil:p=>tasks.push(p)});await began;
   if(change==='consent')await s.call('/api/chat/consent','PUT',{accepted:false});if(change==='source')s.raw.prepare("UPDATE profiles SET version=version+1 WHERE user_id='a'").run();if(change==='purge')await s.call('/api/chat','DELETE',{});release();await Promise.all(tasks);assert.notEqual(s.raw.prepare('SELECT status FROM chat_turns').get().status,'completed');if(change==='purge')assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turn_traces').get().n,0);
  }
+});
+
+function filledProfile(s,maximal=false){
+ const prose='Je rumine après les critiques et cherche des limites dans mes relations. ',long=n=>prose.repeat(Math.ceil(n/prose.length)).slice(0,n);
+ s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Camille',occupation:'Activité déclarée',self_description:long(maximal?10000:2400),self_perception:long(maximal?4000:800),recurring_patterns:long(maximal?4000:800),emotions:long(maximal?4000:800),current_context:long(maximal?4000:800)}));
+ for(let i=0;i<(maximal?50:6);i++)s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES(?,'a',?,'hash',?,'friend',?)").run('filled-person-'+i,'filled-person-'+i,'Proche critiques '+i,long(maximal?6000:1300));
+ for(let i=0;i<(maximal?500:20);i++)s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,meaning_now,kind) VALUES(?,'a',?,'hash',?,?,?,'other')").run('filled-event-'+i,'filled-event-'+i,'Moment critiques '+i,long(maximal?6000:1300),long(maximal?2000:400));
+ const answers=Object.fromEntries(CARTOGRAPHIE.factors.map((x,i)=>[x.id,i%4===0?0:1]));
+ s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,1,1)").run(JSON.stringify(answers));
+ seedTurns(s,6);s.raw.prepare("UPDATE chat_turns SET content=?,response=?,week_start='2026-01-01',created_at='2026-01-01 00:00:00'").run(long(maximal?6000:700),JSON.stringify({companion_reply:1,content:long(1100)+' Quelle limite voudriez-vous poser ?'}));
+ s.raw.prepare("INSERT INTO chat_memory(user_id,summary,through_turn,turns_covered,updated_at) VALUES('a',?,'history-6',6,0)").run(JSON.stringify(Object.fromEntries(['facts','goals','hypotheses','tried','alliance','session',...(maximal?['closed','safety']:[])].map(k=>[k,Array.from({length:k==='closed'?30:12},(_,i)=>`${k} ${i} `+long(230))]))));
+ s.raw.prepare("UPDATE ambre_reviews SET content=? WHERE user_id='a'").run(long(3000));
+ return long(maximal?6000:250);
+}
+
+test('audit17 filled SQLite profiles complete ordinary turns and one rewrite within the planned budget',async t=>{
+ for(const maximal of [false,true])for(const rewrite of [false,true]){
+  const s=setup();await ready(s);const current=filledProfile(s,maximal);let reviews=0;
+  const calls=provider(t,(purpose,body)=>{if(purpose==='ambre_analysis'){const input=JSON.parse(body.messages[1].content);return {...analysis(),selected_ids:input.index.split('\n').slice(0,8).map(row=>row.split(' ')[0])}}if(purpose==='ambre_review'&&rewrite&&!reviews++){const r=review();r.criteria[3]='no';return r}});
+  const sent=await message(s,'filled_'+maximal+'_'+rewrite,current);for(let n=0;n<8&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
+  const sizes=calls.map(({purpose,body})=>({purpose,input:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3),reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}));
+  t.diagnostic(JSON.stringify({maximal,rewrite,sizes,total_input:sizes.reduce((n,x)=>n+x.input,0),reserved:job(s).reserved_tokens}));
+  assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(x=>x.purpose==='ambre_writing').length,rewrite?2:1);assert.ok(job(s).reserved_tokens<=30000);
+ }
+});
+
+test('audit17 recovery reserves every failed attempt, keeps analysis once, and completes the maximal rewrite',async t=>{
+ const s=setup();await ready(s);const current=filledProfile(s,true);let writingPhase=0,writeAttempts=0,reviewPhase=0,reviewAttempts=0;
+ const calls=provider(t,(purpose,body)=>{
+  if(purpose==='ambre_analysis')return {...analysis(),selected_ids:JSON.parse(body.messages[1].content).index.split('\n').slice(0,8).map(x=>x.split(' ')[0])};
+  if(purpose==='ambre_writing'){if(++writeAttempts%3!==0)return new Response('Unavailable',{status:503});writingPhase++;return draft()}
+  if(purpose==='ambre_review'){if(++reviewAttempts%3!==0)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});reviewPhase++;const r=review();if(reviewPhase===1)r.criteria[3]='no';return r}
+ });
+ const sent=await message(s,'maximal_recovery',current);for(let n=0;n<12&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
+ assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(writingPhase,2);assert.equal(reviewPhase,2);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(calls.length,13);
+ const total=calls.reduce((n,{body})=>n+Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens,0);
+ assert.equal(job(s).reserved_tokens,total);assert.equal(s.raw.prepare('SELECT reserved_tokens FROM provider_budgets').get().reserved_tokens,total);assert.ok(total<94500);assert.ok(total>30000);
+ t.diagnostic(JSON.stringify({scenario:'maximal_rewrite_all_retries',calls:calls.length,reserved:total,stages:calls.map(({purpose,body})=>({purpose,reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}))}));
+});
+
+test('audit17 relevant excerpts, complete index labels and more than 1100 sources stay bounded',()=>{
+ const context={people:[],events:[],sources:Array.from({length:560},(_,i)=>({id:'source:'+i,type:'memory',text:'Détail ancien '+i})),cartography:{explicit_negative:[{id:'long',label:'Parent incohérent et attentes contradictoires clairement refusés'}]}};
+ context.people=Array.from({length:50},(_,i)=>({id:'p'+i,display_name:'Personne '+i,role:'friend',relationship_text:'Une relation'}));context.events=Array.from({length:500},(_,i)=>({id:'e'+i,title:'Moment '+i,description:'Un moment'}));
+ const index=knowledgeIndex(context);assert.ok(index.length>1100);const shortlist=analysisIndex(index,'Parent incohérent et attentes contradictoires');assert.ok(shortlist.text.length<=2600);assert.ok(shortlist.omitted>1000);assert.match(shortlist.text,/Parent incohérent et attentes contradictoires clairement refusés/);assert.deepEqual(selectDetails(index,[],'Bonjour'),[]);assert.ok(selectDetails(index,[],'attentes contradictoires').some(x=>x.key==='cartography:negative:long'));
+ const mapped=knowledgeIndex({cartography:{convergence:[{id:'piste',label:'Une piste',url:'/personnages/lecture/'}]}});assert.doesNotMatch(JSON.stringify(mapped),/personnages/);
+});
+
+test('audit17 ordinary shame, habit language and acknowledgement do not impose a crisis or blocked review',async t=>{
+ for(const text of ['Je veux faire disparaître cette habitude.','Mon travail est un fardeau.','Ce n’est pas moi qui décide.','J’ai honte de ne pas avoir fait l’exercice.','Nous sommes ravis.']){
+  const result=deterministicAnalysis(text);assert.equal(result.risk,'none',text);assert.notEqual(result.posture,'stabilize',text);assert.equal(result.constraints.includes('no_questions'),false,text);
+ }
+ assert.equal(deterministicAnalysis('Nous sommes ravis.').need,'understand');
+ for(const content of ['J’ai noté que vous avez besoin de temps.','C’est noté.','Contactez votre médecin dans les 48 heures.'])assert.deepEqual(deterministicReview({content},analysis()),[],content);
+ assert.ok(deterministicReview({content:'J’ai enregistré cela dans votre profil.'},analysis()).includes(4));assert.ok(deterministicReview({content:'Appelez le 9999.'},analysis()).includes(2));
+ const s=setup();await ready(s);const calls=provider(t);const sent=await message(s,'ordinary_habit','Je veux faire disparaître cette habitude.');assert.equal(job(s).stage,'done');assert.doesNotMatch(sent.messages.at(-1).content,/3114/);assert.equal(calls.length,3);
+});
+
+test('audit17 recent memory, final question, Paris dates and reviewer care remain available',async t=>{
+ const summary={goals:Array.from({length:12},(_,i)=>'Objectif '+i+' '+('x'.repeat(210)))};assert.match(memoryPrompt(summary).goals[0],/^Objectif 11/);assert.doesNotMatch(JSON.stringify(memoryPrompt(summary)),/Objectif 0 /);
+ assert.equal(parisTime(Date.parse('2026-11-16T23:30:00Z')/1000),'2026-11-17 00:30');assert.equal(parisTime(Date.parse('2026-06-16T22:30:00Z')/1000),'2026-06-17 00:30');
+ const s=setup();await ready(s);seedTurns(s,1);s.setClock(Date.parse('2026-11-16T23:30:00Z')/1000);s.raw.prepare('UPDATE subscriptions SET paid_until=?').run(s.getClock()+86400);s.raw.prepare("INSERT INTO care_settings(user_id,has_psychologist,frequency_days,updated_at) VALUES('a',1,7,0)").run();s.raw.prepare("INSERT INTO care_sessions(id,user_id,session_at,created_by,created_at) VALUES('next','a',?,'a',0)").run(s.getClock()+3600);
+ s.raw.prepare('UPDATE chat_turns SET response=?').run(JSON.stringify({companion_reply:1,content:'Une longue réponse. '.repeat(80)+' Quelle limite compte pour vous ?'}));
+ const calls=provider(t,p=>p==='ambre_writing'?{...draft(),questions:['Quelle option préférez-vous ?']}:undefined);await message(s,'dated_question','La limite avec ma famille.');assert.equal(job(s).stage,'done');
+ const writer=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content),critic=JSON.parse(calls.find(c=>c.purpose==='ambre_review').body.messages[1].content);
+ assert.match(writer.history.at(-1).assistant,/Quelle limite compte pour vous \?$/);assert.equal(writer.current_time,'2026-11-17 00:30');assert.equal(writer.care.next_session_local,'2026-11-17 01:30');assert.deepEqual(critic.questions,['Quelle option préférez-vous ?']);assert.equal(critic.care.has_psychologist,true);
+});
+
+test('audit17 summarizer failure keeps coverage and summary intact, exposes retry and recovers later',async t=>{
+ const s=setup();await ready(s);seedTurns(s);let failure=true;provider(t,p=>p==='ambre_memory'?(failure?new Response('Unavailable',{status:503}):{items:[{section:'facts',turn_id:'history-4',quote:'Fait rapporté 4'}]}):undefined);
+ await s.chat.engine.updateMemory(s.env,'a');assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_memory').get().n,0);assert.equal(s.raw.prepare('SELECT attempts FROM chat_memory_jobs').get().attempts,1);assert.equal((await s.call('/api/chat/insight')).memory.status,'retry_pending');
+ failure=false;s.setClock(s.getClock()+61);await s.chat.engine.updateMemory(s.env,'a');const memory=s.raw.prepare('SELECT * FROM chat_memory').get();assert.equal(memory.turns_covered,4);assert.deepEqual(JSON.parse(memory.summary).facts,['Fait rapporté 4']);
+ s.raw.prepare('UPDATE chat_memory SET summary=?').run(JSON.stringify({facts:['Un fait'],safety:[],safety_seen:true}));await s.call('/api/chat/memory','PUT',{revision:memory.revision,sections:{facts:['Fait corrigé']}});assert.equal(JSON.parse(s.raw.prepare('SELECT summary FROM chat_memory').get().summary).safety_seen,true);
+ await s.call('/api/chat/memory','PUT',{revision:memory.revision+1,sections:{}});assert.equal(JSON.parse(s.raw.prepare('SELECT summary FROM chat_memory').get().summary).safety_seen,undefined);
+});
+
+test('audit17 bilans and authorized relationship candidates reach the writer and saved observations are recalled',async t=>{
+ const s=setup();await ready(s);const quote='Alice me coupe la parole.';s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES('alice','a','alice','hash','Alice','friend','Une proche.')").run();s.raw.prepare("UPDATE ambre_reviews SET content='Le bilan évoque les échanges avec Alice.' WHERE user_id='a'").run();
+ const calls=provider(t,p=>p==='ambre_writing'?{...draft(),people_observations:[{person_id:'alice',axis:'communication',quote}]}:undefined);await message(s,'observation_one',quote);assert.equal(job(s).stage,'done');assert.equal(s.raw.prepare('SELECT count(*) n FROM people_observations').get().n,1);
+ const input=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content);assert.deepEqual(input.observation_candidates,{person_id:'alice',quotes:[quote]});assert.ok(input.details.some(x=>x.kind==='review'));
+ await message(s,'observation_two','Je repense à Alice.');const input2=JSON.parse(calls.filter(c=>c.purpose==='ambre_writing').at(-1).body.messages[1].content);assert.equal(input2.reported_relationship_observations.observations[0].quote,quote);
+});
+
+test('audit17 revoked observation revision blocks a late engine answer',async t=>{
+ const s=setup();await ready(s);provider(t,p=>{if(p==='ambre_review')s.raw.prepare("UPDATE chat_settings SET people_observations_revision=people_observations_revision+1 WHERE user_id='a'").run()});await message(s,'observation_revision','Bonjour');assert.equal(job(s).stage,'failed');assert.equal(s.raw.prepare('SELECT error_code FROM chat_turns').get().error_code,'context_changed');
+});
+
+test('audit17 maximal safety verification and all recovery phases fit without replaying analysis',async t=>{
+ const s=setup();await ready(s);const quote='Ce soir, tout sera terminé.',current=filledProfile(s,true).slice(0,5972)+quote;let risks=0,writes=0,reviews=0;
+ const calls=provider(t,p=>{
+  if(p==='ambre_analysis')return {...analysis(),risk:'possible',posture:'safety'};
+  if(p==='ambre_risk_check'){if(++risks<3)return new Response('Unavailable',{status:503});return {risk:'possible',category:'indirect_warning',evidence_quote:quote}}
+  if(p==='ambre_writing'){if(++writes%3)return new Response('Unavailable',{status:503});return draft()}
+  if(p==='ambre_review'){if(++reviews%3)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});const r=review();if(reviews===3)r.criteria[3]='no';return r}
+ });
+ const sent=await message(s,'maximal_safety_recovery',current);for(let n=0;n<16&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
+ assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(calls.length,16);assert.ok(job(s).reserved_tokens<=94500);assert.match(s.raw.prepare('SELECT response FROM chat_turns WHERE id=?').get(sent.request_id).response,/3114/);
+ t.diagnostic(JSON.stringify({scenario:'maximal_safety_rewrite_all_retries',calls:calls.length,reserved:job(s).reserved_tokens}));
+});
+
+
+test('a long primary nuance remains whole in the source serializer without asserting a catalogue association',()=>{
+ const summary="Une formulation de test suffisamment longue pour vérifier la transmission complète d’une précaution importante. ".repeat(3)+"Ce n'est pas la foi elle-même qui est décrite, mais l'emprise et la contrainte exercées dans un contexte particulier.";
+ const index=knowledgeIndex({sources:[],people:[],events:[],cartography:{convergence:[{id:'synthetic_only',label:'Fixture technique',relation_types:['clinical_model']}],evidence:[{id:'synthetic_only',links:[{relation_type:'clinical_model',source_ids:['fixture'],summary}]}],evidence_sources:[{id:'fixture',url:'https://example.org/fixture'}]}}),entry=selectDetails(index,[index[0].id],'Fixture')[0];
+ assert.equal(entry.metadata.evidence_summary,summary);assert.match(entry.metadata.evidence_summary,/foi elle-même.*emprise/);
+});
+
+test('contextual adult references keep their scope distinct from young-child-only entries',()=>{
+ const index=knowledgeIndex({sources:[],people:[],events:[],cartography:{contextual:[{id:'adult_context',label:'Repère somatique',contextual_only:true,age_scope:'adult'},{id:'child_context',label:'Attachement du jeune enfant',contextual_only:true,age_scope:'young_child_only'}]}});
+ assert.match(index.find(x=>x.key==='cartography:outcome:adult_context').label,/^Repère contextuel/);assert.doesNotMatch(index.find(x=>x.key==='cartography:outcome:adult_context').label,/Jeune enfant/);assert.match(index.find(x=>x.key==='cartography:outcome:child_context').label,/^Jeune enfant/);
 });

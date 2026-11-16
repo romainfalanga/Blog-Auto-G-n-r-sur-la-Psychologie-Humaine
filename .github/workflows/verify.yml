@@ -20,6 +20,7 @@ jobs:
       - run: node scripts/build_navigation.mjs --check
       - run: node scripts/build_cartographie_module.mjs --check
       - run: node scripts/build_psychology_catalog.mjs --check
+      - run: node scripts/build_change_strategies.mjs --check
       - run: python scripts/build_article_intros.py --check
       - run: python scripts/build_examples.py --check
       - run: python scripts/clinical_editorial.py check
@@ -28,6 +29,7 @@ jobs:
       - run: python scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed
       - run: python scripts/build_coverage_status.py --check
       - run: python scripts/build_cartographie.py --check
+      - run: python scripts/audit_cartographie.py --check
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test
       - run: python -m unittest discover -s journal/tests -p 'test_personal*.py'

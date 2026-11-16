@@ -1,0 +1,1384 @@
+{
+  "part": "personnalite-traits-defenses",
+  "author": "recherche_lot4",
+  "outcomes": [
+    {
+      "id": "ten_traits_personnalite_antisociale",
+      "kind": "tendance",
+      "label": "Traits de personnalité antisociale (repère de recherche)",
+      "description": "Nombre de symptômes étudiés en recherche, distinct d’un diagnostic établi. Ce repère ne permet pas de qualifier une personne ni de prévoir ses actes.",
+      "domain": "comportements",
+      "category": "personality_trait",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_nevrosisme",
+      "kind": "tendance",
+      "label": "Sensibilité aux émotions négatives (névrosisme)",
+      "description": "Dimension de personnalité décrivant la fréquence des émotions négatives et la sensibilité au stress. Ce trait, variable entre personnes, n’est pas un diagnostic.",
+      "domain": "emotions",
+      "category": "personality_trait"
+    },
+    {
+      "id": "ten_narcissisme_vulnerable",
+      "kind": "tendance",
+      "label": "Vulnérabilité narcissique (dimension de recherche)",
+      "description": "Dimension étudiée associant vulnérabilité de l’estime de soi et besoin de reconnaissance. Elle ne se confond pas avec le trouble de la personnalité narcissique.",
+      "domain": "soi",
+      "category": "personality_trait",
+      "contextual_only": true
+    },
+    {
+      "id": "ten_narcissisme_grandiose",
+      "kind": "tendance",
+      "label": "Grandiosité narcissique (dimension de recherche)",
+      "description": "Dimension de recherche portant sur une image de soi grandiose et des attentes de reconnaissance. Elle ne suffit pas à établir un diagnostic.",
+      "domain": "soi",
+      "category": "personality_trait",
+      "contextual_only": true
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_traits_personnalite_antisociale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une petite cohorte communautaire, les violences physiques documentées dans l’enfance sont associées à davantage de symptômes de personnalité antisociale au jeune âge adulte. Cela ne démontre ni un diagnostic ni un comportement individuel.",
+      "sources": [
+        "johnson1999_personnalite"
+      ]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "icd_6d11_5",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue de méta-analyses retrouve une association importante entre négligence physique infantile et diagnostic borderline adulte. Les biais et la forte diversité des études limitent l’interprétation ; aucun cas individuel ne s’en déduit.",
+      "sources": [
+        "solmi2021_personnalite"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_nevrosisme",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les souvenirs de violences psychologiques au névrosisme. L’association moyenne est modeste, après correction du biais de publication. Elle ne détermine pas la personnalité.",
+      "sources": [
+        "rosenek2026_nevrosisme"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_nevrosisme",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les souvenirs de négligence affective au névrosisme. L’association moyenne est modeste, avec des résultats hétérogènes. Elle ne détermine pas la personnalité.",
+      "sources": [
+        "rosenek2026_nevrosisme"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_nevrosisme",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les souvenirs de violences physiques au névrosisme. L’association moyenne est faible, après correction du biais de publication. Elle ne détermine pas la personnalité.",
+      "sources": [
+        "rosenek2026_nevrosisme"
+      ]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_nevrosisme",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les souvenirs de négligence physique au névrosisme. L’association moyenne est faible, après correction du biais de publication. Elle ne détermine pas la personnalité.",
+      "sources": [
+        "rosenek2026_nevrosisme"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_nevrosisme",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse chez l’adulte associe les souvenirs de violences sexuelles au névrosisme. L’association moyenne est faible, avec des résultats hétérogènes. Elle ne détermine pas la personnalité.",
+      "sources": [
+        "rosenek2026_nevrosisme"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_narcissisme_vulnerable",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études transversales, surtout communautaires, les violences physiques infantiles sont faiblement associées à cette dimension narcissique. Biais possibles ; aucune conclusion individuelle.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_narcissisme_vulnerable",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études transversales, surtout communautaires, les violences psychologiques infantiles sont faiblement associées à cette dimension narcissique. Biais possibles ; aucune conclusion individuelle.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_narcissisme_vulnerable",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études transversales, surtout communautaires, les violences sexuelles infantiles sont faiblement associées à cette dimension narcissique. Biais possibles ; aucune conclusion individuelle.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_narcissisme_grandiose",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études transversales, surtout communautaires, les violences physiques infantiles sont faiblement associées à cette dimension narcissique. Biais possibles ; aucune conclusion individuelle.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_narcissisme_grandiose",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une méta-analyse d’études transversales, surtout communautaires, les violences sexuelles infantiles sont faiblement associées à cette dimension narcissique. Biais possibles ; aucune conclusion individuelle.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "apa2024_personnalite",
+      "citation": "American Psychiatric Association, 2024, What are Personality Disorders?, page publique revue par Mark Zimmerman en novembre 2024",
+      "url": "https://www.psychiatry.org/patients-families/personality-disorders/what-are-personality-disorders",
+      "type": "recommandation",
+      "read": "page : définition et dix troubles ; pas le manuel DSM-5-TR"
+    },
+    {
+      "id": "waxman2014_personnalite",
+      "citation": "Waxman R, Fenton MC, Skodol AE, Grant BF, Hasin D, 2014 [en ligne 2013], Childhood maltreatment and personality disorders in the USA: specificity of effects and the impact of gender, Personality and Mental Health 8(1):30–41",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3927226/",
+      "type": "etude",
+      "read": "section : méthode, résultats, tableau 1 et limites ; HTML intégral téléchargé après ouverture web"
+    },
+    {
+      "id": "johnson1999_personnalite",
+      "citation": "Johnson JG, Cohen P, Brown J, Smailes EM, Bernstein DP, 1999, Childhood Maltreatment Increases Risk for Personality Disorders During Early Adulthood, Archives of General Psychiatry 56(7):600–606",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205066",
+      "type": "etude",
+      "read": "section : Subjects and methods, Results, tableaux 2–4 et Comment"
+    },
+    {
+      "id": "solmi2021_personnalite",
+      "citation": "Solmi M, Dragioti E, Croatto G, et al., 2021, Risk and Protective Factors for Personality Disorders: An Umbrella Review of Published Meta-Analyses of Case–Control and Cohort Studies, Frontiers in Psychiatry 12:679379",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.679379/full",
+      "type": "revue",
+      "read": "section : Methods, Results et tableaux 2–4"
+    },
+    {
+      "id": "rosenek2026_nevrosisme",
+      "citation": "Rosenek N, Wake S, Runton R, Davies A, Albaroudi N, Pollen A, Ellett L, Morriss J, 2026, The relationship between childhood trauma and adult neuroticism: A systematic review and meta-analysis, Clinical Psychology Review 124:102700",
+      "url": "https://centaur.reading.ac.uk/128410/4/1-s2.0-S0272735826000097-main.pdf",
+      "type": "meta-analyse",
+      "read": "section : méthodes 2.1–2.3, résultats 3.1–3.5 ; PDF éditeur lu via téléchargement direct et pdftotext après refus du rendu web"
+    },
+    {
+      "id": "digiuseppe2021_dmrs",
+      "citation": "Di Giuseppe M, Perry JC, 2021, The Hierarchy of Defense Mechanisms: Assessing Defensive Functioning With the Defense Mechanisms Rating Scales Q-Sort, Frontiers in Psychology 12:718440",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8555762/",
+      "type": "theorie",
+      "read": "section : hiérarchie et méthode DMRS-Q ; titres des tableaux 2–8 et items intellectualisation, rationalisation, projection et clivage ; étude étiologique absente"
+    },
+    {
+      "id": "krueger2020_ampd",
+      "citation": "Krueger RF, Hobbs KA, 2020, An Overview of the DSM-5 Alternative Model of Personality Disorders (AMPD), Psychopathology 53(3–4):126–132",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7529724/",
+      "type": "revue",
+      "read": "section : Content and Structure, Empirical Literature et comparaison CIM-11 ; pas de lecture du manuel DSM"
+    },
+    {
+      "id": "tracchegiani2025_defenses",
+      "citation": "Tracchegiani J, Fontana A, Benzi IMA, Muzi L, Carone N, 2025, Profiles of Childhood Maltreatment and Defenses: Associations with Personality Functioning in Emerging Adulthood, Journal of Child & Adolescent Trauma 18:653–667",
+      "url": "https://link.springer.com/article/10.1007/s40653-025-00710-4",
+      "type": "etude",
+      "read": "section : introduction théorique, Method, Results, limites ; étude transversale de profils"
+    },
+    {
+      "id": "hitop_consortium2026",
+      "citation": "HiTOP Consortium, consulté le 16 novembre 2026, The Hierarchical Taxonomy of Psychopathology, présentation officielle du cadre de recherche",
+      "url": "https://www.hitop-system.org/",
+      "type": "theorie",
+      "read": "page : The Framework, The Consortium et The Clinical Network"
+    },
+    {
+      "id": "gao2024_narcissisme",
+      "citation": "Gao S, Yu D, Assink M, Chan KL, Zhang L, Meng X, 2024 [en ligne 2023], The Association Between Child Maltreatment and Pathological Narcissism: A Three-Level Meta-Analytic Review, Trauma, Violence, & Abuse 25(1):275–290",
+      "url": "https://pure.uva.nl/ws/files/150588946/gao-et-al-2023-the-association-between-child-maltreatment-and-pathological-narcissism-a-three-level-meta-analytic-review.pdf",
+      "type": "meta-analyse",
+      "read": "section : méthodes, résultats, tableaux 2–4 et limites ; version publiée du dépôt universitaire"
+    }
+  ],
+  "notes": [],
+  "out_of_scope": [
+    {
+      "referentiel": "CIM-11",
+      "code": "6D10",
+      "label": "Trouble de la personnalité, général",
+      "statut": "a_examiner",
+      "raison": "La sévérité porte sur le fonctionnement actuel ; les données anciennes par catégories DSM ne permettent pas de la déduire des vécus. Aucun lien propre à ce seuil CIM-11 confirmé dans ce lot.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D10.0",
+      "label": "Trouble de la personnalité léger",
+      "statut": "a_examiner",
+      "raison": "La sévérité porte sur le fonctionnement actuel ; les données anciennes par catégories DSM ne permettent pas de la déduire des vécus. Aucun lien propre à ce seuil CIM-11 confirmé dans ce lot.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D10.1",
+      "label": "Trouble de la personnalité modéré",
+      "statut": "a_examiner",
+      "raison": "La sévérité porte sur le fonctionnement actuel ; les données anciennes par catégories DSM ne permettent pas de la déduire des vécus. Aucun lien propre à ce seuil CIM-11 confirmé dans ce lot.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D10.2",
+      "label": "Trouble de la personnalité sévère",
+      "statut": "a_examiner",
+      "raison": "La sévérité porte sur le fonctionnement actuel ; les données anciennes par catégories DSM ne permettent pas de la déduire des vécus. Aucun lien propre à ce seuil CIM-11 confirmé dans ce lot.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D10.Z",
+      "label": "Trouble de la personnalité, sévérité non précisée",
+      "statut": "a_examiner",
+      "raison": "La sévérité porte sur le fonctionnement actuel ; les données anciennes par catégories DSM ne permettent pas de la déduire des vécus. Aucun lien propre à ce seuil CIM-11 confirmé dans ce lot.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D11.0",
+      "label": "Affectivité négative",
+      "statut": "a_examiner",
+      "raison": "Qualificatif de traits, pas diagnostic autonome. Une mesure normative, un symptôme isolé ou une ancienne catégorie DSM ne valide pas ce qualificatif clinique ; aucune conversion automatique.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D11.1",
+      "label": "Détachement",
+      "statut": "a_examiner",
+      "raison": "Qualificatif de traits, pas diagnostic autonome. Une mesure normative, un symptôme isolé ou une ancienne catégorie DSM ne valide pas ce qualificatif clinique ; aucune conversion automatique.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D11.2",
+      "label": "Dissocialité",
+      "statut": "a_examiner",
+      "raison": "Qualificatif de traits, pas diagnostic autonome. Une mesure normative, un symptôme isolé ou une ancienne catégorie DSM ne valide pas ce qualificatif clinique ; aucune conversion automatique.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D11.3",
+      "label": "Désinhibition",
+      "statut": "a_examiner",
+      "raison": "Qualificatif de traits, pas diagnostic autonome. Une mesure normative, un symptôme isolé ou une ancienne catégorie DSM ne valide pas ce qualificatif clinique ; aucune conversion automatique.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D11.4",
+      "label": "Anankastie",
+      "statut": "a_examiner",
+      "raison": "Qualificatif de traits, pas diagnostic autonome. Une mesure normative, un symptôme isolé ou une ancienne catégorie DSM ne valide pas ce qualificatif clinique ; aucune conversion automatique.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D11.5",
+      "label": "Motif borderline",
+      "statut": "agrege_dans",
+      "raison": "Sujet icd_6d11_5 déjà présent ; nouveau lien de négligence physique, et garde-fou contextuel proposé. Un motif CIM reste distinct d’une catégorie DSM.",
+      "sources": [
+        "oms_cddr",
+        "solmi2021_personnalite"
+      ],
+      "outcome": "icd_6d11_5"
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "QE50.7",
+      "label": "Difficulté de personnalité",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Condition liée au fonctionnement et au recours aux soins, sans statut de trouble mental ; pas de conclusion à partir d’une histoire d’enfance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "borderline",
+      "label": "Trouble de la personnalité borderline",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement documentaire avec icd_6d11_5, sans équivalence de statut : catégorie DSM versus qualificatif CIM.",
+      "sources": [
+        "apa2024_personnalite",
+        "oms_cddr"
+      ],
+      "outcome": "icd_6d11_5"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "schizotypal",
+      "label": "Trouble de la personnalité schizotypique",
+      "statut": "a_examiner",
+      "raison": "L’enquête Waxman retrouve une association diagnostique avec les violences sexuelles. La carte ten_traits_schizotypiques du lot2 porte sur des traits ; elle ne couvre pas ce diagnostic ni automatiquement 6A22.",
+      "sources": [
+        "waxman2014_personnalite",
+        "apa2024_personnalite"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "histrionic",
+      "label": "Trouble de la personnalité histrionique",
+      "statut": "a_examiner",
+      "raison": "Johnson observe des symptômes après violences sexuelles, sans résultat diagnostique spécifique probant ; l’association ajustée est non concluante dans Waxman. Ne pas convertir des symptômes en diagnostic.",
+      "sources": [
+        "johnson1999_personnalite",
+        "waxman2014_personnalite"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "obsessive_compulsive_personality",
+      "label": "Trouble de la personnalité obsessionnelle-compulsive",
+      "statut": "a_examiner",
+      "raison": "Aucune association diagnostique suffisamment étayée dans les textes examinés ; résultats ajustés non concluants dans Waxman et Johnson. Ce trouble est distinct du TOC, du perfectionnisme et de l’anankastie CIM.",
+      "sources": [
+        "johnson1999_personnalite",
+        "waxman2014_personnalite",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "criterion_a",
+      "label": "Fonctionnement de la personnalité",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "negative_affectivity",
+      "label": "Affectivité négative",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "detachment",
+      "label": "Détachement",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "antagonism",
+      "label": "Antagonisme",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "disinhibition",
+      "label": "Désinhibition",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "psychoticism",
+      "label": "Psychoticisme",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD",
+      "code": "pd_trait_specified",
+      "label": "Trouble de la personnalité spécifié par les traits",
+      "statut": "a_examiner",
+      "raison": "Modèle alternatif documenté par une revue, manuel non consulté. Pas de méta-analyse spécifique lue reliant le construit exact à un des 58 facteurs ; ne pas déduire un trait pathologique d’un trait ordinaire.",
+      "sources": [
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "referentiel": "Big Five",
+      "code": "extraversion",
+      "label": "Extraversion",
+      "statut": "a_examiner",
+      "raison": "Méta-analyse Credé et al. 2023 repérée mais méthodes et résultats détaillés inaccessibles dans ce lot. Aucune absence de lien affirmée ; aucun lien construit à partir du résumé ou d’une extrapolation du névrosisme.",
+      "sources": [],
+      "candidate_url": "https://www.sciencedirect.com/science/article/pii/S0191886922003737"
+    },
+    {
+      "referentiel": "Big Five",
+      "code": "agreeableness",
+      "label": "Agréabilité",
+      "statut": "a_examiner",
+      "raison": "Méta-analyse Credé et al. 2023 repérée mais méthodes et résultats détaillés inaccessibles dans ce lot. Aucune absence de lien affirmée ; aucun lien construit à partir du résumé ou d’une extrapolation du névrosisme.",
+      "sources": [],
+      "candidate_url": "https://www.sciencedirect.com/science/article/pii/S0191886922003737"
+    },
+    {
+      "referentiel": "Big Five",
+      "code": "conscientiousness",
+      "label": "Conscienciosité",
+      "statut": "a_examiner",
+      "raison": "Méta-analyse Credé et al. 2023 repérée mais méthodes et résultats détaillés inaccessibles dans ce lot. Aucune absence de lien affirmée ; aucun lien construit à partir du résumé ou d’une extrapolation du névrosisme.",
+      "sources": [],
+      "candidate_url": "https://www.sciencedirect.com/science/article/pii/S0191886922003737"
+    },
+    {
+      "referentiel": "Big Five",
+      "code": "openness",
+      "label": "Ouverture à l’expérience",
+      "statut": "a_examiner",
+      "raison": "Méta-analyse Credé et al. 2023 repérée mais méthodes et résultats détaillés inaccessibles dans ce lot. Aucune absence de lien affirmée ; aucun lien construit à partir du résumé ou d’une extrapolation du névrosisme.",
+      "sources": [],
+      "candidate_url": "https://www.sciencedirect.com/science/article/pii/S0191886922003737"
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "framework",
+      "label": "HiTOP : cadre hiérarchique",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "internalizing",
+      "label": "Internalisation",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "detachment",
+      "label": "Détachement",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "thought_disorder",
+      "label": "Troubles de la pensée",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "disinhibited_externalizing",
+      "label": "Externalisation désinhibée",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "antagonistic_externalizing",
+      "label": "Externalisation antagoniste",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "HiTOP",
+      "code": "somatoform",
+      "label": "Spectre somatoforme",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Le cadre organise des dimensions de psychopathologie ; sa structure ne prouve pas un lien vécu–sujet. Pas de duplication des sujets existants sous un nom de spectre.",
+      "sources": [
+        "hitop_consortium2026"
+      ]
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "affiliation",
+      "label": "affiliation",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "altruisme",
+      "label": "altruisme",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "anticipation",
+      "label": "anticipation",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "humour",
+      "label": "humour",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "affirmation_de_soi",
+      "label": "affirmation de soi",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "observation_de_soi",
+      "label": "observation de soi",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "sublimation",
+      "label": "sublimation",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "suppression_volontaire",
+      "label": "suppression volontaire",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ou stratégie adaptative possible, non pathologie ; aucune carte d’effet négatif de l’enfance créée.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "mature",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "isolation_affect",
+      "label": "isolation affect",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "obsessionnel",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "intellectualisation",
+      "label": "intellectualisation",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "obsessionnel",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "annulation",
+      "label": "annulation",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "obsessionnel",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "refoulement",
+      "label": "refoulement",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "nevrotique",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "dissociation_defensive",
+      "label": "dissociation defensive",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "nevrotique",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "formation_reactionnelle",
+      "label": "formation reactionnelle",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "nevrotique",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "deplacement",
+      "label": "deplacement",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "nevrotique",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "devalorisation_soi",
+      "label": "devalorisation soi",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Tracchegiani propose un exemple clinique face à un parent maltraitant, sans exposition ventilée ni test de ce mécanisme. Une attribution à un facteur précis serait une extrapolation.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_mineure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "devalorisation_autrui",
+      "label": "devalorisation autrui",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_mineure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "idealisation_soi",
+      "label": "idealisation soi",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_mineure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "idealisation_autrui",
+      "label": "idealisation autrui",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_mineure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "omnipotence",
+      "label": "omnipotence",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_mineure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "deni",
+      "label": "deni",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Tracchegiani propose un exemple clinique face à un parent maltraitant, sans exposition ventilée ni test de ce mécanisme. Une attribution à un facteur précis serait une extrapolation.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "desaveu",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "rationalisation",
+      "label": "rationalisation",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "desaveu",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "projection",
+      "label": "projection",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "desaveu",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "reverie_autistique_terme_dmrs",
+      "label": "reverie autistique terme dmrs",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "desaveu",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "clivage_soi",
+      "label": "clivage soi",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_majeure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "clivage_autrui",
+      "label": "clivage autrui",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Tracchegiani propose un exemple clinique face à un parent maltraitant, sans exposition ventilée ni test de ce mécanisme. Une attribution à un facteur précis serait une extrapolation.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_majeure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "identification_projective",
+      "label": "identification projective",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "distorsion_majeure",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "passage_acte",
+      "label": "passage acte",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "action",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "plainte_rejet_aide",
+      "label": "plainte rejet aide",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "action",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "agression_passive",
+      "label": "agression passive",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme défini dans le modèle DMRS ; aucune association spécifique avec un facteur du questionnaire confirmée ici. Un profil global de défenses ne prouve pas ce mécanisme individuel.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "tracchegiani2025_defenses"
+      ],
+      "niveau_dmrs": "action",
+      "relation_type": "clinical_model",
+      "strength": "theorique"
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "immature_defenses",
+      "label": "Défenses immatures, score global",
+      "statut": "a_examiner",
+      "raison": "Les profils transversaux de Tracchegiani combinent expositions et défenses pour former les groupes : pas d’association indépendante par facteur. Méta-analyse de novembre 2026 repérée mais texte complet non lu.",
+      "sources": [
+        "tracchegiani2025_defenses"
+      ],
+      "candidate_url": "https://pubmed.ncbi.nlm.nih.gov/42987632/"
+    },
+    {
+      "referentiel": "Narcissisme",
+      "code": "emotional_abuse_grandiosity",
+      "label": "Violences psychologiques et grandiosité",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Sous-groupe non concluant chez Gao : aucun lien créé.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    },
+    {
+      "referentiel": "Narcissisme",
+      "code": "neglect_subtypes",
+      "label": "Négligence et dimensions narcissiques",
+      "statut": "a_examiner",
+      "raison": "Les négligences physique et affective sont regroupées chez Gao. Ne pas dupliquer cet effet sur deux facteurs distincts.",
+      "sources": [
+        "gao2024_narcissisme"
+      ]
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "intellectualization",
+      "label": "Intellectualisation",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Mécanisme possible, mais une pensée analytique ordinaire n’est pas une défense établie. Pas de lien enfance spécifique lu. Aucun alias diagnostique.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "rationalization",
+      "label": "Construire une explication après coup",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Correspondance lexicale au DMRS seulement ; une explication sincère reste possible. Aucun motif inconscient ni vécu d’enfance inféré.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "minimization",
+      "label": "Réduire l’importance de ce qui touche",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Pas une défense autonome parmi les 30 DMRS. Ni équivalence au déni, ni synonyme de rationalisation ; respecter un choix de discrétion ou une difficulté effectivement mineure.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "emotional_detachment",
+      "label": "Se sentir momentanément à distance",
+      "statut": "hors_perimetre_justifie",
+      "raison": "État passager du catalogue, distinct du trait durable de détachement et d’une dissociation diagnostique. Recouvrement possible, aucun alias exact.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "emotional_suppression",
+      "label": "Retenir l’expression émotionnelle",
+      "statut": "agrege_dans",
+      "raison": "Correspondance éditoriale à pat_emotional_suppression conservée ; la suppression volontaire adaptative DMRS ne lui est pas équivalente.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "all_or_nothing",
+      "label": "Pensée tout ou rien",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Style cognitif ponctuel distinct du clivage des représentations de soi ou d’autrui. Aucun alias DMRS ; décision cognitive au lot6.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "overcontrol",
+      "label": "Besoin de contrôle",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ne suffit pas à coder anankastie, personnalité obsessionnelle-compulsive ou défense obsessionnelle. Maintenir les recouvrements, sans équivalence.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "withdrawal",
+      "label": "Retrait relationnel",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Comportement dépendant du contexte, non équivalent à personnalité schizoïde, évitante ou détachement clinique.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "impulsive_reaction",
+      "label": "Réagir dans l’urgence",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Une réaction rapide ne suffit pas à établir la désinhibition CIM/AMPD, le passage à l’acte DMRS ou un diagnostic antisocial.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "process"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "humor_coping",
+      "label": "Utiliser l’humour pour traverser",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource ordinaire ; proximité théorique avec une défense mature, sans mesure de fonctionnement défensif ni attribution étiologique.",
+      "sources": [
+        "digiuseppe2021_dmrs",
+        "oms_cddr"
+      ],
+      "nature_catalogue": "resource"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "paranoiaque",
+      "label": "Trouble de la personnalité paranoïaque (DSM-5-TR)",
+      "statut": "a_examiner",
+      "raison": "Association précise observée dans une analyse transversale isolée de NESARC. Le §0 exige une synthèse, une cohorte probante ou un modèle clinique publié ; proposition conservée sans activation.",
+      "sources": [
+        "waxman2014_personnalite"
+      ],
+      "proposed_outcome": "dsm5tr_personnalite_paranoiaque"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "schizoide",
+      "label": "Trouble de la personnalité schizoïde (DSM-5-TR)",
+      "statut": "a_examiner",
+      "raison": "Association précise observée dans une analyse transversale isolée de NESARC. Le §0 exige une synthèse, une cohorte probante ou un modèle clinique publié ; proposition conservée sans activation.",
+      "sources": [
+        "waxman2014_personnalite"
+      ],
+      "proposed_outcome": "dsm5tr_personnalite_schizoide"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "evitante",
+      "label": "Trouble de la personnalité évitante (DSM-5-TR)",
+      "statut": "a_examiner",
+      "raison": "Association précise observée dans une analyse transversale isolée de NESARC. Le §0 exige une synthèse, une cohorte probante ou un modèle clinique publié ; proposition conservée sans activation.",
+      "sources": [
+        "waxman2014_personnalite"
+      ],
+      "proposed_outcome": "dsm5tr_personnalite_evitante"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "narcissique",
+      "label": "Trouble de la personnalité narcissique (DSM-5-TR)",
+      "statut": "a_examiner",
+      "raison": "Association précise observée dans une analyse transversale isolée de NESARC. Le §0 exige une synthèse, une cohorte probante ou un modèle clinique publié ; proposition conservée sans activation.",
+      "sources": [
+        "waxman2014_personnalite"
+      ],
+      "proposed_outcome": "dsm5tr_personnalite_narcissique"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "antisocial",
+      "label": "Trouble de la personnalité antisociale",
+      "statut": "a_examiner",
+      "raison": "La paire prospective Johnson porte sur un nombre de symptômes ; une carte de traits contextuelle est retenue. Le lien vers le diagnostic repose sur Waxman transversal et reste proposé, sans équivalence automatique.",
+      "sources": [
+        "johnson1999_personnalite",
+        "waxman2014_personnalite"
+      ],
+      "proposed_outcome": "dsm5tr_personnalite_antisociale"
+    },
+    {
+      "referentiel": "DSM-5-TR",
+      "code": "dependent",
+      "label": "Trouble de la personnalité dépendante",
+      "statut": "a_examiner",
+      "raison": "Solmi classe une synthèse sous ce diagnostic, mais Kane/Bornstein étudie aussi la dépendance interpersonnelle. Il reste à lire les mesures primaires et isoler le diagnostic avant activation ; Waxman est non concluant.",
+      "sources": [
+        "solmi2021_personnalite",
+        "waxman2014_personnalite"
+      ],
+      "candidate_url": "https://pubmed.ncbi.nlm.nih.gov/29044519/",
+      "proposed_outcome": "dsm5tr_personnalite_dependante"
+    }
+  ],
+  "proposed_links": [
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "dsm5tr_personnalite_paranoiaque",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une enquête transversale américaine adulte, la négligence affective infantile est faiblement associée au diagnostic paranoïaque. Le résultat dépend des ajustements et ne permet aucune déduction individuelle.",
+      "sources": [
+        "waxman2014_personnalite"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "dsm5tr_personnalite_schizoide",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une enquête transversale américaine chez des adultes, ce diagnostic présente une association modeste avec la négligence affective rapportée dans l’enfance, après ajustements. Aucun diagnostic individuel ne s’en déduit.",
+      "sources": [
+        "waxman2014_personnalite"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "dsm5tr_personnalite_evitante",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une enquête transversale américaine chez des adultes, ce diagnostic présente une association modeste avec la négligence affective rapportée dans l’enfance, après ajustements. Aucun diagnostic individuel ne s’en déduit.",
+      "sources": [
+        "waxman2014_personnalite"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "dsm5tr_personnalite_narcissique",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une enquête transversale américaine chez des adultes, ce diagnostic présente une association modeste avec les violences psychologiques rapportée dans l’enfance, après ajustements. Aucun diagnostic individuel ne s’en déduit.",
+      "sources": [
+        "waxman2014_personnalite"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "dsm5tr_personnalite_antisociale",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une cohorte communautaire retrouve davantage de symptômes antisociaux après des violences physiques documentées. L’enquête américaine adulte confirme une association ajustée ; elle ne permet pas de prévoir un comportement individuel.",
+      "sources": [
+        "johnson1999_personnalite",
+        "waxman2014_personnalite"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "dsm5tr_personnalite_dependante",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue de méta-analyses rapporte une association modeste entre violences physiques infantiles et personnalité dépendante. La qualité de cette synthèse est très faible et les résultats ajustés d’une autre enquête sont non concluants.",
+      "sources": [
+        "solmi2021_personnalite",
+        "waxman2014_personnalite"
+      ]
+    }
+  ],
+  "proposed_corrections": [
+    {
+      "outcome": "icd_6d11_5",
+      "action": "reformuler",
+      "contextual_only": true,
+      "reason": "Le motif borderline CIM-11 est un qualificatif, pas un diagnostic autonome ; appliquer le garde-fou contextuel des tableaux de personnalité.",
+      "sources": [
+        "oms_cddr",
+        "krueger2020_ampd"
+      ]
+    },
+    {
+      "source": "oms_cddr",
+      "action": "reformuler",
+      "read": "section : ajouter personnalité 6D10–6D11, CDDR pp. 553–564, lecture locale du texte OMS",
+      "reason": "Source existante réutilisée sans redéclaration ; étendre la portée de lecture réellement réalisée par le lot4."
+    },
+    {
+      "target": "interface.category.personality_trait",
+      "action": "reformuler",
+      "label": "Trait de personnalité (dimension)",
+      "reason": "Nouvelle catégorie proposée pour les traits ; ne pas afficher Trouble étudié (CIM-11)."
+    },
+    {
+      "target": "outcome_aliases.icd_6d10",
+      "action": "retirer",
+      "reason": "L’alias actuel icd_6d10 → icd_6d11_5 confond diagnostic général de personnalité et motif borderline. Retirer cette équivalence ; ne pas créer un nouveau sujet sans lien propre.",
+      "sources": [
+        "oms_cddr"
+      ]
+    }
+  ],
+  "proposed_outcomes": [
+    {
+      "id": "dsm5tr_personnalite_paranoiaque",
+      "kind": "trouble",
+      "label": "Trouble de la personnalité paranoïaque (DSM-5-TR)",
+      "description": "Méfiance durable et envahissante avec retentissement relationnel. Une prudence justifiée ne suffit pas à définir ce diagnostic.",
+      "domain": "relations",
+      "category": "diagnosis",
+      "contextual_only": true
+    },
+    {
+      "id": "dsm5tr_personnalite_schizoide",
+      "kind": "trouble",
+      "label": "Trouble de la personnalité schizoïde (DSM-5-TR)",
+      "description": "Détachement durable des relations et expression émotionnelle restreinte avec retentissement. La solitude choisie ne suffit pas à définir ce diagnostic.",
+      "domain": "relations",
+      "category": "diagnosis",
+      "contextual_only": true
+    },
+    {
+      "id": "dsm5tr_personnalite_evitante",
+      "kind": "trouble",
+      "label": "Trouble de la personnalité évitante (DSM-5-TR)",
+      "description": "Inhibition relationnelle durable et sensibilité au rejet avec retentissement. La timidité ordinaire ne suffit pas à définir ce diagnostic.",
+      "domain": "relations",
+      "category": "diagnosis",
+      "contextual_only": true
+    },
+    {
+      "id": "dsm5tr_personnalite_narcissique",
+      "kind": "trouble",
+      "label": "Trouble de la personnalité narcissique (DSM-5-TR)",
+      "description": "Difficultés durables associant grandiosité, besoin d’admiration et difficultés d’empathie, avec retentissement.",
+      "domain": "soi",
+      "category": "diagnosis",
+      "contextual_only": true
+    },
+    {
+      "id": "dsm5tr_personnalite_antisociale",
+      "kind": "trouble",
+      "label": "Trouble de la personnalité antisociale (DSM-5-TR)",
+      "description": "Ensemble durable de conduites portant atteinte aux droits d’autrui, évalué cliniquement dans son histoire développementale.",
+      "domain": "comportements",
+      "category": "diagnosis",
+      "contextual_only": true
+    },
+    {
+      "id": "dsm5tr_personnalite_dependante",
+      "kind": "trouble",
+      "label": "Trouble de la personnalité dépendante (DSM-5-TR)",
+      "description": "Dépendance envahissante dans les décisions et les relations, avec retentissement. Demander du soutien ne suffit pas à définir ce diagnostic.",
+      "domain": "relations",
+      "category": "diagnosis",
+      "contextual_only": true
+    }
+  ]
+}

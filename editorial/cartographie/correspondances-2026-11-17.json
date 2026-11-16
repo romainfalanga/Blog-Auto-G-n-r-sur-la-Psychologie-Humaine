@@ -1,0 +1,3699 @@
+{
+  "schema_version": 2,
+  "reviewed_on": "2026-11-17",
+  "method": {
+    "reviewer": "coverage17 — agent indépendant des neuf lots de recherche",
+    "semantic_review": "Les 161 descriptions et leurs alternatives ont été relues une à une, confrontées aux définitions du graphe construit en mémoire et aux décisions documentaires des neuf lots. Chaque décision et raison est explicite ; aucun appariement automatique par mots-clés, aucune copie aveugle des statuts du 16 novembre. Les cibles ne représentent que le recouvrement sémantique indiqué.",
+    "coverage_not_causality": true,
+    "statuses": {
+      "reference_exact": "Le même construit est explicitement nommé comme sujet ou facteur ; cela ne valide ni sa présence personnelle ni une cause.",
+      "agrege": "Le construit est réparti entre plusieurs cartes ou inclus dans une carte plus générale ; ce regroupement ne signifie pas équivalence clinique.",
+      "partiel": "Recouvrement limité, différence de temporalité, de fonction ou de nature ; ne compte pas comme couverture complète.",
+      "hors_perimetre_questionnaire": "Objet actuel, compétence, ressource ou contexte dont ce questionnaire d’enfance ne prétend pas déduire la présence ; reste utilisable ailleurs dans le projet.",
+      "a_examiner": "Pas de correspondance suffisante ; décision de périmètre et recherche avant ajout éventuel, sans lien causal inventé."
+    },
+    "mapped_target_kinds": [
+      "outcome",
+      "factor",
+      "resource"
+    ],
+    "independent_clinical_validation": false,
+    "creates_graph_links": false,
+    "presence_does_not_prove_causality": true,
+    "complete_manual_criteria_accessed": false,
+    "documentary_review_limit": "Les comptes de codes CIM sont structurels. Les lectures bibliographiques des chercheurs restent attribuées à leur lot ; cette relecture ne prétend pas avoir relu toutes leurs publications. DSM : comparaison documentaire des entrées inventoriées, pas exhaustivité diagnostique ni validation des critères du manuel complet.",
+    "audit_date_note": "Date de livraison du chantier : 2026-11-17 ; session et consultations réalisées le 2026-11-16 UTC.",
+    "integration_review_notes": [
+      "La cible pat_migration_adjustment retirée ne sert plus de correspondance ; le facteur migration et la ressource enfants réfugiés restent seulement partiels.",
+      "Le motif borderline icd_6d11_5 ne représente pas tous les troubles de personnalité. Son libellé et sa description révisés ont été relus ; aucune des 161 décisions ne cible l’ancien alias général icd_6d10.",
+      "Aucune des 161 décisions ne cible att_desorganise. La nouvelle carte infantile ne devient pas un style adulte ni une réinterprétation des retours historiques."
+    ]
+  },
+  "psychology_patterns": [
+    {
+      "id": "rumination",
+      "source_description": "Une réflexion répétée qui n’apporte plus de solution.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_rumination",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La nouvelle carte décrit le retour sur sa détresse ; le repère embrasse toute réflexion répétée devenue improductive. Brooding, inquiétude anticipée et réflexion utile ne sont pas interchangeables.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Résolution de problème utile",
+        "Préparation ponctuelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "intellectualization",
+      "source_description": "Comprendre par l’analyse pour approcher ou tenir à distance un ressenti.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "L'analyse peut rapprocher du ressenti ou l'éviter. Les définitions DMRS documentées au lot 4 ne fournissent pas une correspondance actuelle ni un lien infantile spécifique ; l'alexithymie n'est pas un substitut.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Style de communication",
+        "Analyse réellement utile"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "uncertainty",
+      "source_description": "Chercher des garanties avant de décider ou d’agir.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Chercher des garanties n'est pas en soi une anxiété. L'étude transversale à adversités cumulées du lot 6 laisse ouverte une recherche par exposition ; besoin réel d'information préservé.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Risque réel élevé",
+        "Informations indispensables manquantes"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "catastrophizing",
+      "source_description": "Un scénario défavorable prend une place disproportionnée.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_negativite",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_vulnerabilite",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les anticipations défavorables recoupent ces schémas, sans établir leur durée. Les attributions globales après une difficulté de ten_inferences_negatives ne mesurent pas spécifiquement l'anticipation catastrophique.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Danger réaliste",
+        "Expérience récente difficile"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "mind_reading",
+      "source_description": "Supposer connaître les jugements ou intentions d’autrui.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Supposer les intentions d'autrui est distinct d'une attente générale de malveillance et d'un style attributionnel. Aucune carte adéquate ; indices explicites et ambiguïté de communication restent à distinguer.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Indices explicites",
+        "Communication ambiguë"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "all_or_nothing",
+      "source_description": "Évaluer une situation en catégories très tranchées.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Une évaluation binaire ne suffit ni à un clivage DMRS ni au perfectionnisme. Les études d'inférences globales ne mesurent pas ce construit ; le choix peut aussi être réellement binaire.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Choix réellement binaire",
+        "Formule imagée ponctuelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "confirmation",
+      "source_description": "Remarquer surtout ce qui soutient une idée déjà présente.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Biais de jugement ordinaire sans carte spécifique ni preuve développementale admissible vérifiée dans le lot 6 ; ne pas le déduire du nombre de confirmations affichées. L'exclusion est éditoriale, non une preuve d'absence de recherche.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Preuves effectivement convergentes",
+        "Contexte limité"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "reframing",
+      "source_description": "Explorer plusieurs lectures d’une même situation.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_changer_perspective",
+          "kind": "resource"
+        }
+      ],
+      "reason": "La nouvelle ressource représente une réévaluation cognitive possible chez les jeunes ; le repère couvre plus largement plusieurs lectures d'une situation. Il reste une ressource déclarable, sans conséquence inférée ni obligation de minimiser.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Hésitation sans décision",
+        "Adaptation à l’interlocuteur"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_identification",
+      "source_description": "Trouver des mots pour les ressentis et les sensations.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_alexithymie",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La difficulté à nommer un ressenti est représentée, mais la capacité d'identification, son apprentissage et le temps nécessaire pour une émotion nouvelle dépassent l'alexithymie.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Émotion nouvelle",
+        "Besoin de temps"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_suppression",
+      "source_description": "Cacher ou contenir ses émotions pour se protéger ou préserver un lien.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_emotional_suppression",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Description identique du processus de retenue expressive. Cette identité éditoriale ne confond pas sécurité insuffisante, discrétion choisie et défense DMRS de suppression volontaire adaptative.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Discrétion choisie",
+        "Sécurité insuffisante pour s’exprimer"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_overload",
+      "source_description": "Une émotion dépasse momentanément les ressources disponibles.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_dysregulation_emotionnelle",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Un débordement momentanément supérieur aux ressources ne suffit pas à une difficulté de régulation durable. Fatigue, douleur et événement exceptionnel limitent davantage la correspondance que l'ancien agrégat.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Stress exceptionnel",
+        "Fatigue ou douleur"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "anger_needs",
+      "source_description": "Repérer ce que signale une colère sans la confondre avec l’action.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_colere",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La carte décrit les manifestations de colère, pas l'identification de besoins ni leur lien à l'action. Le ressenti infantile de colère interdite a une autre temporalité et n'est plus une cible nécessaire.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Danger réel",
+        "Malentendu ponctuel"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "guilt",
+      "source_description": "Se sentir fautif ou redevable au-delà de sa responsabilité.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_guilt",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les deux descriptions nomment le sentiment disproportionné de faute ou de dette. Responsabilité effective et réparation ajustée ne doivent pas être réinterprétées comme cette tendance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Responsabilité réelle",
+        "Réparation adaptée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "shame",
+      "source_description": "Craindre que ses difficultés définissent sa valeur aux yeux des autres.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_honte",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La carte de honte fournit désormais le voisinage pertinent. Craindre un verdict sur sa valeur n'est ni tout vécu de honte, ni nécessairement un schéma d'imperfection ou le souvenir infantile homonyme.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Pudeur choisie",
+        "Milieu réellement jugeant"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "body_stress",
+      "source_description": "Remarquer des sensations qui varient avec les situations stressantes, sans présumer que leur cause est psychologique ni écarter une évaluation médicale.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_douleurs_persistantes",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La douleur peut faire partie des sensations rapportées, mais persistance et stress ne sont pas synonymes. Retrait du trouble de détresse physique : attention excessive et retentissement diagnostiques ne sont pas décrits par ce repère.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Cause physique à faire évaluer",
+        "Manque de repos"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_criticism",
+      "source_description": "Se juger globalement après une difficulté.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_self_criticism",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Même jugement global de soi après une difficulté. Une évaluation précise d'une action ou une exigence ponctuelle ne suffisent pas à identifier ce processus.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Évaluation précise",
+        "Exigence ponctuelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "conditional_worth",
+      "source_description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_conditional_worth",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Même dépendance de la valeur personnelle à la performance ou l'utilité ; fierté d'une réussite et enjeu matériel réel restent des alternatives.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Fierté d’une réussite",
+        "Enjeu matériel réel"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "impostor",
+      "source_description": "Douter de sa légitimité malgré des observations de compétence. Ce sentiment d’imposture est un processus courant à contextualiser, pas un diagnostic.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_impostor",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les deux entrées décrivent le doute de légitimité malgré des éléments de compétence et excluent un diagnostic. Une phase d'apprentissage ou un milieu excluant peut expliquer le vécu autrement.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Apprentissage réel",
+        "Milieu excluant"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "comparison",
+      "source_description": "Mesurer sa valeur en se comparant aux autres.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "comparaison_fratrie",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Les comparaisons imposées entre enfants offrent un contexte particulier, pas une mesure de comparaison sociale actuelle. Les moqueries corporelles ne prouvent pas que la personne se compare : cible retirée.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Repère utile",
+        "Objectif personnel clair"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_compassion",
+      "source_description": "Reconnaître une difficulté sans réduire sa valeur à celle-ci.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La bienveillance envers soi est une ressource actuelle sans carte dédiée ; elle ne se calcule pas comme l'inverse de l'autocritique ou de la culpabilité.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Évitement de responsabilité",
+        "Réassurance momentanée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "identity_transition",
+      "source_description": "Redéfinir qui l’on est lors d’un changement.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Redéfinir son identité pendant un changement relève du récit actuel. Aucune carte ne doit en faire une conséquence pathologique ni supposer une identité à partir de vécus.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Changement ponctuel",
+        "Pression extérieure"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "overresponsibility",
+      "source_description": "Se sentir tenu de résoudre les difficultés d’autrui au prix de ses besoins. « Sauveur » est un nom courant de ce processus possible, pas un syndrome clinique.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_overresponsibility",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Même contrainte à résoudre les difficultés d'autrui au prix de ses besoins. L'étiquette courante sauveur n'est pas un syndrome et exclut l'entraide réciproque ou temporaire.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Entraide réciproque",
+        "Responsabilité temporaire réelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "boundaries",
+      "source_description": "Dire ses besoins et ses refus dans les relations.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_needs_expression",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_assujettissement",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Ces cartes abordent la difficulté ou la crainte de dire ses besoins ; elles ne mesurent pas la compétence à refuser ni les contraintes rendant un refus risqué.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Dépendance concrète",
+        "Compromis choisi"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "reassurance",
+      "source_description": "S’appuyer fortement sur l’approbation extérieure pour se rassurer.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_recherche_approbation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "L'appui excessif sur l'approbation est proche du schéma, mais se rassurer ponctuellement ne prouve pas une estime durablement conditionnelle. Conseil utile et lien peu sûr restent distincts.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Conseil ponctuel utile",
+        "Relation peu sûre"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "conflict",
+      "source_description": "Éviter ou intensifier les conflits pour protéger quelque chose.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_conflict",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La carte porte la peur ou l'évitement du désaccord ; le repère inclut aussi son intensification et ses fonctions. L'ancienne exactitude masquait cette différence, ainsi que la protection face à un danger réel.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Protection face au danger",
+        "Désaccord ponctuel"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "reciprocity",
+      "source_description": "Équilibrer donner, demander et recevoir.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_qualite_relationnelle",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_abnegation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Insatisfaction relationnelle et oubli de soi recoupent certaines difficultés de réciprocité ; ni l'un ni l'autre ne mesure l'équilibre concret donner/demander/recevoir.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Période asymétrique choisie",
+        "Soutien ponctuel"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "trust",
+      "source_description": "Ajuster sa confiance selon les liens et les observations.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_mefiance",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Une attente durable d'être blessé n'est qu'un cas parmi les ajustements de confiance. La prudence fondée sur des faits et la confiance épistémique demeurent distinctes.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Milieu réellement peu fiable",
+        "Prudence adaptée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "parent_expectations",
+      "source_description": "Explorer les règles familiales que la personne dit encore porter.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "critique",
+          "kind": "factor"
+        },
+        {
+          "id": "amour_conditionnel",
+          "kind": "factor"
+        },
+        {
+          "id": "pression_scolaire",
+          "kind": "factor"
+        },
+        {
+          "id": "ten_mode_parent_exigeant",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les facteurs décrivent certaines attentes subies et le nouveau mode des exigences intériorisées. Le repère inclut aussi des règles et valeurs librement choisies ; le mode théorique ne prouve pas leur origine.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Valeur librement choisie",
+        "Attente actuelle explicite"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "family_roles",
+      "source_description": "Comprendre les rôles que la personne décrit dans son entourage familial.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "enfant_prefere_role",
+          "kind": "factor"
+        },
+        {
+          "id": "enfant_sage",
+          "kind": "factor"
+        },
+        {
+          "id": "parentification",
+          "kind": "factor"
+        },
+        {
+          "id": "triangulation",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Ces vécus représentent des rôles contraints de l'enfance, tandis que le repère porte aussi des rôles choisis et actuels. Leur réunion ne couvre donc pas tout le construit.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Rôle choisi",
+        "Situation exceptionnelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "parentification",
+      "source_description": "Avoir assumé enfant des responsabilités pratiques ou émotionnelles durablement excessives pour son âge, selon son récit ; le terme ne conclut ni à une intention parentale ni à une cause actuelle.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "parentification",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Le facteur décrit les responsabilités pratiques ou émotionnelles excessives pour l'âge. La durée et les soutiens restent à préciser ; ne pas compter le doublon pat_parentification comme une conséquence adulte supplémentaire.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Participation familiale adaptée à l’âge et soutenue",
+        "Responsabilités temporaires dans une période de crise"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "family_loyalty",
+      "source_description": "Concilier ses choix avec le sentiment d’appartenir à sa famille.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_fusion",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_assujettissement",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Fusion et soumission recoupent certains empêchements à choisir, mais loyauté consentie, appartenance et dépendance économique réelle ne relèvent pas nécessairement de ces schémas.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Attachement choisi",
+        "Dépendance économique réelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_learning",
+      "source_description": "Explorer comment les émotions étaient accueillies selon le récit de la personne.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "invalidation",
+          "kind": "factor"
+        },
+        {
+          "id": "imprevisibilite",
+          "kind": "factor"
+        },
+        {
+          "id": "amour_conditionnel",
+          "kind": "factor"
+        },
+        {
+          "id": "prot_adulte_chaleureux",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les vécus et la présence chaleureuse documentent des modalités d'accueil des émotions ; ils ne retracent ni tous les apprentissages ni une transmission automatique, surtout avec des souvenirs partiels.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Souvenirs partiels",
+        "Différences entre contextes"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "family_boundaries",
+      "source_description": "Situer intimité, responsabilités et décisions dans les liens familiaux.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "controle",
+          "kind": "factor"
+        },
+        {
+          "id": "parentification",
+          "kind": "factor"
+        },
+        {
+          "id": "triangulation",
+          "kind": "factor"
+        },
+        {
+          "id": "sch_fusion",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les obstacles familiaux à la séparation des responsabilités sont représentés. Le repère est plus large : intimité, entraide consentie et habitudes culturelles ne se résument pas à ces difficultés.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Habitude culturelle choisie",
+        "Entraide consentie"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "abandonment_fear",
+      "source_description": "Inquiétude liée à une distance ou une séparation.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_abandonment_fear",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La peur située de perdre le lien est décrite à l'identique par le sujet. Le facteur infantile ressenti_abandon a une autre portée temporelle ; instabilité réelle et séparation récente restent ouvertes.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Instabilité réelle du lien",
+        "Séparation récente"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "closeness_distance",
+      "source_description": "Trouver une distance relationnelle confortable.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "att_anxieux",
+          "kind": "outcome"
+        },
+        {
+          "id": "att_evitant",
+          "kind": "outcome"
+        },
+        {
+          "id": "ten_peur_intimite",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les cartes couvrent des difficultés de proximité, pas l'ensemble des distances confortables et choisies. Aucun rapprochement avec l'attachement désorganisé du nourrisson n'est retenu.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Besoin de solitude choisi",
+        "Relation intrusive réelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "relational_security",
+      "source_description": "Se sentir libre d’exprimer un besoin et de rester soi dans un lien.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_adulte_chaleureux",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_amities",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les appuis soutenants offrent un recouvrement avec la sécurité du lien, sans évaluer la liberté d'être soi dans toute relation actuelle ni garantir la confidentialité.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Confort ponctuel",
+        "Évitement de sujets difficiles"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "perfectionism",
+      "source_description": "Des exigences difficiles à assouplir malgré leur coût.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_perfectionism",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Même maintien coûteux d'exigences difficiles à assouplir ; rigueur adaptée et plaisir de bien faire restent distincts, sans inférer une dimension précise de perfectionnisme à partir de l'enfance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Rigueur adaptée",
+        "Plaisir de bien faire"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "avoidance",
+      "source_description": "Reporter pour soulager un inconfort à court terme.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_procrastination",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La procrastination inclut le report coûteux mais ne prouve pas sa fonction de soulagement. L'attachement évitant ne représente pas le report de tâche et est retiré des cibles ; fatigue et obstacles restent à examiner.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Fatigue",
+        "Obstacle matériel",
+        "Repos nécessaire"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "overcontrol",
+      "source_description": "Garder la maîtrise pour tenter de se rassurer.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_surcontrole",
+          "kind": "outcome"
+        },
+        {
+          "id": "pat_perfectionism",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La maîtrise rassurante peut recouper inhibition émotionnelle ou exigences, mais elle est plus générale. Ni anankastie ni personnalité obsessionnelle-compulsive ne se déduisent d'un besoin de contrôle contextuel.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Responsabilité réelle",
+        "Environnement peu fiable"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "withdrawal",
+      "source_description": "Réduire les liens quand ses ressources diminuent.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_social_isolation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Réduire momentanément les liens peut devenir un isolement non souhaité, mais peut aussi restaurer les ressources. L'attachement évitant n'est pas une mesure de ce retrait situé et est retiré.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Repos réparateur",
+        "Préférence pour peu de liens"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "impulsive_reaction",
+      "source_description": "Agir rapidement pour sortir d’une tension.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_controle_insuffisant",
+          "kind": "outcome"
+        },
+        {
+          "id": "ten_externalisation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La difficulté à différer une réponse et certains comportements extériorisés recoupent le repère ; urgence adaptée, spontanéité, trait stable et choix monétaire différé ne sont pas équivalents.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Décision adaptée à une urgence",
+        "Spontanéité sans coût"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "overwork",
+      "source_description": "Une activité laisse peu de place au repos et aux autres besoins.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Surinvestissement et défaut de récupération ne sont pas représentés par des difficultés d'emploi. Le lot 6 documente des données familiales peu spécifiques ; le repère n'est pas un diagnostic d'addiction au travail.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Période intense limitée",
+        "Contraintes économiques"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "grief_change",
+      "source_description": "Donner une place à ce qui change ou n’est plus.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "deces_proche",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Le décès est un cas particulier de perte. Le deuil prolongé requiert des caractéristiques absentes de cette description de changement ordinaire et est retiré comme cible directe.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Transition sans souffrance",
+        "Difficulté d’un autre ordre"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "stress_resources",
+      "source_description": "Relier les difficultés au contexte concret plutôt qu’à un défaut personnel.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'examen du contexte présent est une méthode transversale d'accompagnement ; aucune réunion de maladies ou d'expositions infantiles ne décrit toutes ses contraintes et ressources.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Difficulté passagère",
+        "Ressources non encore repérées"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "social_belonging",
+      "source_description": "Se sentir accueilli dans un groupe ou un milieu.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_ecole",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_amities",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les ressources scolaires et amicales couvrent certains milieux d'appartenance. Le schéma d'isolement ne mesure pas le fait d'être accueilli ; retrait de cette cible négative et de l'ancien agrégat trop large.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Exclusion réelle",
+        "Nouveau milieu"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "autonomy",
+      "source_description": "Pouvoir choisir en accord avec soi, dans ses contraintes.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "surprotection",
+          "kind": "factor"
+        },
+        {
+          "id": "controle",
+          "kind": "factor"
+        },
+        {
+          "id": "sch_dependance",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Ces cartes représentent certains obstacles à l'autonomie, mais ne mesurent pas le choix en accord avec soi. Contrainte matérielle et décision librement partagée restent des objets différents.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Décision partagée libre",
+        "Contrainte matérielle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "values_alignment",
+      "source_description": "Relier ses choix à ce qui compte pour soi.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La cohérence des valeurs et choix actuels n'est pas une conséquence infantile à déduire ; valeurs en évolution et compromis peuvent être adaptés.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Compromis temporaire",
+        "Valeurs en évolution"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "needs_expression",
+      "source_description": "Identifier ses besoins avant de les négocier avec les autres.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_needs_expression",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La carte couvre une difficulté à reconnaître ou demander ; le repère couvre l'identification et la négociation possibles des besoins, sans pathologiser un soutien choisi.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Soutien choisi",
+        "Période exceptionnelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "support_seeking",
+      "source_description": "Pouvoir s’appuyer sur des personnes et des aides adaptées.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_soutien_apres",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_soins",
+          "kind": "resource"
+        }
+      ],
+      "reason": "La présence d'aides adaptées recoupe la possibilité de soutien, mais ne mesure pas la capacité de demander ni la préférence ou la qualité de l'aide reçue.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Dépendance subie",
+        "Aide mal adaptée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_flexibility",
+      "source_description": "Accueillir un ressenti tout en gardant plusieurs façons d’agir.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_traverser_inconfort",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_changer_perspective",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les nouvelles ressources couvrent une part de l'accueil de l'émotion et du choix d'interprétation. La flexibilité générale ne se mesure pas par l'absence de dysrégulation ; les cibles pathologiques sont remplacées.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Émotion retenue",
+        "Adaptation coûteuse"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "resilience",
+      "source_description": "Repérer les appuis, possibilités et ajustements qui aident à traverser une épreuve ; ce repère ne juge pas la personne sur sa vitesse de récupération.",
+      "status": "agrege",
+      "targets": [
+        {
+          "id": "prot_adulte_chaleureux",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_amities",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_famille",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_soutien_apres",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_soins",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_ressources_personnelles",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_appuis_materiels",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les appuis de diverses natures sont explicitement répartis entre ressources. L'agrégat sert au repérage, sans score personnel de résilience ni attente de récupération rapide ou de croissance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Survie coûteuse",
+        "Récit encore difficile"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "positive_connection",
+      "source_description": "Identifier les relations qui offrent réciprocité et sécurité.",
+      "status": "agrege",
+      "targets": [
+        {
+          "id": "prot_adulte_chaleureux",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_amities",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_famille",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Plusieurs formes de liens soutenants sont décrites ; leur présence historique ne garantit ni réciprocité ni sécurité dans un lien actuel, à préciser dans le récit.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Idéalisation ponctuelle",
+        "Lien ambivalent"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_awareness",
+      "source_description": "Observer ses propres réactions en laissant une place aux nuances.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'observation nuancée de soi est une capacité actuelle ; ni un total d'expositions ni une étiquette de trouble ne l'établissent, et l'autoanalyse peut devenir coûteuse.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Autoanalyse qui tourne en boucle",
+        "Étiquette trop rigide"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "personalization",
+      "source_description": "S’attribuer une part disproportionnée d’un résultat qui dépend aussi d’autrui ou des circonstances.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_guilt",
+          "kind": "outcome"
+        },
+        {
+          "id": "pat_overresponsibility",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La culpabilité et la responsabilité envers autrui recoupent certaines attributions excessives ; ce n'est pas tout le mécanisme cognitif de personnalisation. Le ressenti infantile n'est pas une mesure actuelle.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Rôle de responsabilité réellement défini",
+        "Retour explicite sur une erreur précise"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "negative_filter",
+      "source_description": "Laisser les éléments décevants occuper tout le bilan, même lorsque d’autres faits comptent aussi.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_negativite",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Le schéma comprend l'attention aux éléments défavorables, mais un bilan ponctuel négatif ne suffit pas à un schéma durable ; risque prioritaire réel et bilan exact doivent rester possibles.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Bilan réellement défavorable",
+        "Besoin de traiter un risque prioritaire"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "overgeneralization",
+      "source_description": "Tirer d’un épisode une règle générale sur soi, les autres ou l’avenir sans vérifier ses limites.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_inferences_negatives",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La nouvelle carte couvre les conclusions globales après un événement négatif. Le repère peut aussi concerner d'autres généralisations ; répétitions établies et formulation imagée limitent l'équivalence.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Répétitions effectivement documentées",
+        "Façon imagée de parler"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_reasoning",
+      "source_description": "Traiter l’intensité d’une émotion comme une certitude sur la situation, sans distinguer ressenti et faits.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Prendre un ressenti pour une preuve n'est mesuré ni par la dysrégulation ni par les inférences négatives retenues. Recherche spécifique encore ouverte ; indices concordants et menace réelle restent des alternatives.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Indices concrets concordants",
+        "Réaction protectrice à une menace réelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "rigid_rules",
+      "source_description": "S’appuyer sur des obligations peu négociables, même lorsque le contexte demanderait un ajustement.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_exigences_elevees",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_punition",
+          "kind": "outcome"
+        },
+        {
+          "id": "ten_mode_parent_exigeant",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les obligations exigeantes ou punitives recoupent le repère, mais ne couvrent pas toutes les règles. Le contrôle parental subi ne mesure pas la règle intérieure actuelle ; cible retirée.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Valeur choisie avec souplesse",
+        "Obligation légale ou matérielle réelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "problem_solving",
+      "source_description": "Définir ce qui peut être changé, comparer quelques options puis essayer une action observable.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Définir une action observable est une compétence actuelle ; la recherche de solution parfaite et le besoin d'aide spécialisée se vérifient dans la situation, sans inférence infantile.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Recherche interminable d’une solution parfaite",
+        "Problème exigeant une aide spécialisée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "decision_tradeoffs",
+      "source_description": "Choisir lorsque plusieurs options défendent des intérêts légitimes et qu’aucune n’évite tous les coûts.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'arbitrage entre intérêts légitimes appartient aux choix présents ; aucune carte d'adversité ne renseigne l'information manquante ou la coercition réelle.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Information cruciale manquante",
+        "Choix sous contrainte ou coercition"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "decision_overload",
+      "source_description": "Voir la qualité ou l’envie de décider diminuer lorsque les choix se multiplient ou s’enchaînent.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La saturation dépend du nombre, de la succession et de l'enjeu des choix actuels ; elle ne prouve ni trait personnel ni conséquence de l'enfance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Enjeu inhabituellement important",
+        "Critères insuffisamment clarifiés"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "sunk_cost",
+      "source_description": "Poursuivre surtout pour ne pas perdre le temps, l’argent ou l’effort déjà investi, même si l’avenir paraît peu favorable.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Le coût irrécupérable est distinct d'un engagement cohérent ou d'un coût de sortie réel. Une recherche préliminaire est documentée au lot 6, mais n'atteint pas le seuil revue/cohorte demandé.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Engagement encore cohérent",
+        "Coût réel d’une sortie immédiate"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "metacognitive_check",
+      "source_description": "Remarquer le fonctionnement d’une pensée et son effet plutôt que discuter seulement son contenu.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Observer la fonction d'une pensée est une compétence actuelle sans carte dédiée ; cette observation peut elle-même être épuisante, ce que le questionnaire ne mesure pas.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Autosurveillance épuisante",
+        "Analyse qui éloigne du ressenti"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_ambivalence",
+      "source_description": "Éprouver des émotions différentes à propos d’une même situation sans devoir en déclarer une illégitime.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Plusieurs émotions simultanées peuvent être ordinaires et légitimes ; aucune équivalence avec instabilité émotionnelle ou bipolarité n'est acceptable.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Changements d’avis liés à de nouveaux faits",
+        "Difficulté à trouver le mot juste"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "distress_tolerance",
+      "source_description": "Laisser une émotion désagréable être présente un temps tout en gardant des possibilités d’action et de soutien.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_traverser_inconfort",
+          "kind": "resource"
+        }
+      ],
+      "reason": "La nouvelle ressource nomme explicitement les appuis pour tolérer l'inconfort. Les données concernent les jeunes et ne mesurent pas toute la compétence individuelle ; aucun devoir d'endurer un danger.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Endurer une situation dangereuse",
+        "Cacher l’émotion pour satisfaire autrui"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "joy_permission",
+      "source_description": "Remarquer lorsqu’un moment agréable est interrompu par la crainte de le perdre, de le payer ou de ne pas le mériter.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_surcontrole",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_negativite",
+          "kind": "outcome"
+        },
+        {
+          "id": "pat_guilt",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Inhibition, anticipation négative et culpabilité peuvent recouper l'interruption d'un plaisir ; aucune carte n'isole cette fonction, et réserve choisie ou attention à autrui ne sont pas nécessairement coûteuses.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Réserve culturelle choisie",
+        "Attention réaliste à un proche en difficulté"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "disappointment",
+      "source_description": "Reconnaître l’écart entre une attente et ce qui s’est passé sans en faire immédiatement un verdict global.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Accueillir l'écart d'attente est une pratique actuelle ; un accord rompu ou une attente inexprimée ne justifie pas d'inférer un schéma.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Accord effectivement rompu",
+        "Attente jamais exprimée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_trust",
+      "source_description": "Reconnaître ses observations et préférences tout en acceptant le conseil et la possibilité d’erreur.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_dependance",
+          "kind": "outcome"
+        },
+        {
+          "id": "ten_estime_soi",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les difficultés à se croire capable recoupent un versant de la confiance en soi. Un jugement situé reste distinct de l'estime globale, et demander un avis technique peut être adapté.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Décision impulsive",
+        "Information technique nécessitant un avis compétent"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "balanced_self_evaluation",
+      "source_description": "Décrire compétences et limites avec des exemples précis plutôt qu’un jugement global de valeur.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Un bilan fondé sur des exemples est une compétence ; l'absence d'autocritique ou d'estime fragilisée ne la démontre pas, ni sa qualité factuelle.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Se rassurer sans regarder les faits",
+        "Se comparer à un critère inaccessible"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "authenticity",
+      "source_description": "Chercher une manière de se présenter qui respecte ses préférences sans imposer de tout montrer dans tous les milieux.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_conditional_worth",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_recherche_approbation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les cartes couvrent une dépendance possible au regard extérieur, sans représenter la totalité de l'expression choisie de soi. Discrétion protectrice et rôle professionnel restent légitimes.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Discrétion protectrice",
+        "Rôle professionnel volontaire"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "communication_clarification",
+      "source_description": "Demander une précision ou reformuler avant de conclure sur l’intention d’autrui.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Demander une précision est un outil relationnel actuel ; cela ne constitue ni lecture de pensée ni réassurance problématique par principe.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Demandes répétées de réassurance",
+        "Paroles explicites ne nécessitant pas de clarification"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "active_listening",
+      "source_description": "Faire place au récit de l’autre et vérifier le soutien souhaité avant de proposer une solution.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Écouter en vérifiant le soutien souhaité est une compétence distincte de s'effacer, de se soumettre ou de sauver autrui ; aucune carte ne la mesure.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Se taire par peur du conflit",
+        "S’effacer dans un échange à sens unique"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "assertive_request",
+      "source_description": "Exprimer une demande concrète et négociable, en distinguant besoin, solution souhaitée et droit de réponse d’autrui.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_needs_expression",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La difficulté d'expression recoupe un obstacle à la demande ; la compétence à formuler une solution négociable et à respecter le refus n'est pas évaluée par cette carte.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Demande impossible dans un rapport de force",
+        "Attente déguisée en obligation"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "repair_after_conflict",
+      "source_description": "Reconnaître un impact, entendre l’autre et convenir d’un changement observable lorsque le dialogue est sûr.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Une réparation observable en sécurité concerne une pratique présente. Le rapport au conflit ne mesure ni cette compétence ni le changement après des excuses.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Excuses répétées sans changement",
+        "Pression à pardonner une violence"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "receiving_help",
+      "source_description": "Accepter un soutien sans transformer toute aide en dette ou en preuve d’incapacité.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_guilt",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Le sentiment de dette recoupe une difficulté à recevoir. L'abnégation ne suffit pas à démontrer cette difficulté ; l'aide contrôlante ou la préférence de faire seul restent à examiner.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Aide conditionnelle ou contrôlante",
+        "Préférence réelle pour faire seul"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "power_imbalance",
+      "source_description": "Tenir compte d’une dépendance financière, professionnelle ou relationnelle qui rend une demande ou un refus plus risqué.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_appeasement",
+          "kind": "outcome"
+        },
+        {
+          "id": "controle",
+          "kind": "factor"
+        },
+        {
+          "id": "emprise_religieuse",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Les cartes évoquent des contraintes de pouvoir et des réponses protectrices particulières. Elles ne couvrent pas toutes les dépendances financières ou professionnelles actuelles ni les recours accessibles.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Crainte sans menace identifiée",
+        "Autorité limitée et recours accessibles"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "inherited_rules",
+      "source_description": "Reconnaître des maximes apprises en famille et examiner ce qu’elles permettent ou limitent aujourd’hui.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "controle",
+          "kind": "factor"
+        },
+        {
+          "id": "critique",
+          "kind": "factor"
+        },
+        {
+          "id": "emprise_religieuse",
+          "kind": "factor"
+        },
+        {
+          "id": "sch_exigences_elevees",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les vécus et exigences décrivent certains messages familiaux contraignants. Une maxime réexaminée ou adaptée à une ancienne contrainte matérielle n'est pas pour autant un schéma ; agrégat ancien restreint.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Conviction choisie et réexaminée",
+        "Règle liée à une ancienne contrainte matérielle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "family_mediation",
+      "source_description": "Être souvent chargé d’apaiser, transmettre ou trancher entre des proches, parfois sans l’avoir choisi.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "triangulation",
+          "kind": "factor"
+        },
+        {
+          "id": "parentification",
+          "kind": "factor"
+        }
+      ],
+      "reason": "La médiation imposée pendant l'enfance correspond à une partie du repère ; médiation adulte, ponctuelle ou consentie ne doit pas devenir rétrospectivement une parentification.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Médiation ponctuelle consentie",
+        "Responsabilité professionnelle clairement séparée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "sibling_comparison",
+      "source_description": "Décrire des comparaisons répétées entre enfants et leur place actuelle, sans déduire automatiquement leurs effets.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "comparaison_fratrie",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Le facteur nomme directement les comparaisons répétées entre enfants et leur hiérarchie. Leur impact actuel reste à recueillir ; une différence reconnue sans dévalorisation ne suffit pas.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Différences reconnues sans hiérarchie",
+        "Souvenir ponctuel peu représentatif"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "family_secrecy",
+      "source_description": "Repérer des sujets évités ou gardés privés dans une famille sans supposer un événement caché ou fabriquer un souvenir.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "secret_famille",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Le facteur vise des sujets importants interdits de parole dans l'enfance ; le repère inclut aussi la vie privée familiale choisie et l'absence d'information. L'ancienne exactitude était trop large.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Respect volontaire de la vie privée",
+        "Absence d’information sans secret intentionnel"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "consistency_in_relationships",
+      "source_description": "Observer si les paroles, actes et possibilités réelles d’un lien sont assez cohérents pour s’y orienter.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "imprevisibilite",
+          "kind": "factor"
+        },
+        {
+          "id": "prot_adulte_chaleureux",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Disponibilité imprévisible et présence fiable recoupent la cohérence d'un lien. Les changements de lieu de soin ne mesurent pas directement cette cohérence ; soins_instables est retiré.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Contraintes imprévues",
+        "Attentes de présence jamais discutées"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "separation_reunion",
+      "source_description": "Observer comment s’organisent une absence, l’attente et le retour dans un lien particulier, sans attribuer un style fixe d’attachement.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_abandonment_fear",
+          "kind": "outcome"
+        },
+        {
+          "id": "parent_absent",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Ces cibles couvrent la peur du lien et certaines absences, mais ni l'organisation des retrouvailles ni les habitudes de contact. Un style d'attachement n'est pas déduit.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Absence réellement risquée",
+        "Habitudes de contact différentes et négociables"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "co_regulation",
+      "source_description": "Bénéficier d’une présence, d’un ton ou d’un échange respectueux pour retrouver une marge lorsque l’émotion monte.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_adulte_chaleureux",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_soutien_apres",
+          "kind": "resource"
+        }
+      ],
+      "reason": "La présence soutenante est représentée, sans mesure de l'apaisement partagé au moment où monte l'émotion. Un lien rassurant puis contrôlant ne devient pas une protection certaine.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Évitement de toute autonomie",
+        "Lien qui rassure puis contrôle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "safe_disclosure",
+      "source_description": "Choisir quoi confier, à qui et quand, en observant si le lien respecte les limites et la confidentialité.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Le choix de partager à son rythme dépend de la confidentialité et de la sécurité présentes ; aucun lien avec secrets familiaux ou retenue émotionnelle n'en établit la qualité.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Retenue protectrice dans un milieu jugeant",
+        "Partage sous pression"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "task_initiation",
+      "source_description": "Identifier ce qui rend le démarrage difficile, en distinguant flou de la tâche, inconfort, manque de moyens et énergie disponible.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_procrastination",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Le report coûteux peut comporter un démarrage difficile, mais flou des consignes, moyens manquants et repos nécessaire ne sont pas de la procrastination par définition.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Consignes insuffisantes",
+        "Repos ou aide effectivement nécessaires"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "habit_cues",
+      "source_description": "Remarquer les lieux, moments ou sensations qui rendent une séquence d’action presque automatique.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Repérer les indices d'une habitude est une analyse fonctionnelle actuelle ; les usages problématiques ne couvrent ni habitudes utiles ni choix délibérés.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Choix délibéré",
+        "Habitude utile et peu coûteuse"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "reward_delay",
+      "source_description": "Observer comment le délai entre l’effort et un bénéfice influence l’engagement, sans en faire un manque de volonté.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_recompense_immediate_jeunes",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La nouvelle carte concerne des arbitrages monétaires expérimentaux chez les jeunes. Le repère d'effort et de bénéfice quotidien est plus large ; pas de manque de volonté ou de trouble inféré.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Objectif peu choisi",
+        "Énergie ou ressources insuffisantes"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "motivation_ambivalence",
+      "source_description": "Reconnaître simultanément les bénéfices d’un changement et les fonctions de la situation actuelle.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Conserver des bénéfices tout en envisageant un changement est un processus actuel ordinaire ; manque d'information et changement imposé restent à clarifier.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Manque d’information",
+        "Changement imposé par autrui"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "flexible_standards",
+      "source_description": "Moduler le niveau de finition selon l’enjeu, le temps et les ressources sans renoncer automatiquement à la qualité.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_perfectionism",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_exigences_elevees",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les exigences rigides représentent un obstacle possible, sans mesurer leur modulation compétente. Sécurité, surcharge et qualité réellement demandée doivent être examinées séparément.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Abandon d’une exigence de sécurité",
+        "Baisse de qualité imposée par surcharge"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "financial_strain",
+      "source_description": "Tenir compte des difficultés de revenus, dépenses ou dettes explicitement décrites avant d’interpréter une vigilance ou un report comme personnel.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "precarite",
+          "kind": "factor"
+        },
+        {
+          "id": "ten_difficultes_professionnelles",
+          "kind": "outcome"
+        },
+        {
+          "id": "prot_appuis_materiels",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Précarité historique, revenus adultes et aides matérielles couvrent plusieurs versants ; dettes, échéances et ressources actuelles ne sont pas déduites du passé.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Inquiétude sans difficulté matérielle actuelle",
+        "Dépense exceptionnelle déjà couverte"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "housing_instability",
+      "source_description": "Décrire un logement précaire, provisoire ou peu sûr et ses effets quotidiens sans réduire la difficulté à une stratégie psychologique.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "precarite",
+          "kind": "factor"
+        },
+        {
+          "id": "prot_installation",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Logement instable et stabilité après exil recoupent le repère. Déménager souvent n'est pas nécessairement vivre dans l'insécurité ; cette cible générale est retirée.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Déménagement choisi avec sécurité matérielle",
+        "Insatisfaction sans instabilité actuelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "workload_context",
+      "source_description": "Situer les exigences, moyens et marges du travail avant d’attribuer une surcharge au seul perfectionnisme.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Organisation et moyens du travail actuel ne se confondent ni avec difficulté à trouver un emploi ni avec perfectionnisme ; le contexte doit être recueilli directement.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Pic temporaire avec récupération",
+        "Exigences personnelles dépassant la demande réelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "discrimination_context",
+      "source_description": "Prendre en compte les traitements inéquitables ou l’exclusion rapportés sans supposer qu’ils résultent d’une interprétation ou les généraliser à un groupe entier.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "discrimination",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Même type de traitement inéquitable mais temporalité différente : le facteur porte sur l'enfance, le repère sur ce qui est rapporté actuellement ou historiquement. Le motif et le contexte ne sont pas automatiquement établis.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Conflit dont le motif reste incertain",
+        "Règle générale appliquée sans lien identitaire établi"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "caregiver_load",
+      "source_description": "Reconnaître le temps, la vigilance et les responsabilités d’un soutien durable à un proche, y compris lorsqu’il est choisi avec affection.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "parentification",
+          "kind": "factor"
+        },
+        {
+          "id": "parent_malade_physique",
+          "kind": "factor"
+        },
+        {
+          "id": "maladie_famille",
+          "kind": "factor"
+        }
+      ],
+      "reason": "La maladie d'un proche et les responsabilités infantiles abordent certains contextes d'aidance ; elles ne mesurent pas une charge adulte choisie, sa durée ou sa répartition.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Aide ponctuelle répartie",
+        "Responsabilité imaginée sans demande ni besoin réel"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "illness_adjustment",
+      "source_description": "Explorer les ajustements de vie autour d’un problème de santé explicitement rapporté, sans confirmer le diagnostic ni attribuer les sensations au psychisme.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "S'ajuster à une santé explicitement déclarée peut être normal. Une maladie infantile et un trouble d'adaptation ne décrivent pas cette capacité actuelle ; anciennes cibles retirées pour éviter le glissement diagnostique.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Changement temporaire sans impact durable",
+        "Inquiétude de santé sans diagnostic déclaré"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "access_barriers",
+      "source_description": "Identifier les coûts, délais, transports, démarches, langues ou conditions d’accueil qui rendent un soutien difficile à obtenir.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_soins",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_appuis_materiels",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Soins accessibles et appuis concrets recoupent certains obstacles, sans détailler transport, langue, délais ou accueil. Aide non souhaitée et accès impossible doivent rester distincts.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Aide disponible mais non souhaitée",
+        "Besoin de choisir le type de soutien"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "migration_adjustment",
+      "source_description": "Décrire les pertes, apprentissages et ressources d’une migration ou d’un déplacement, sans présumer que toute migration est traumatique.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "migration",
+          "kind": "factor"
+        },
+        {
+          "id": "prot_installation",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Le facteur décrit une migration infantile et la ressource une installation stable des enfants réfugiés : recouvrements partiels, sans étendre ce résultat à toutes les migrations, tous les déplacements ou tous les apprentissages actuels. La carte générale d’adaptation migratoire retirée ne sert plus de cible.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Séjour choisi avec appuis stables",
+        "Changement surtout lié à un autre événement"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "role_transition",
+      "source_description": "Réorganiser attentes et activités lors d’une parentalité, retraite, séparation, reprise ou autre changement de rôle déclaré.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Les passages de rôles de vie sont des contextes présents, pas des troubles ou conséquences infantiles par défaut ; une adaptation brève peut être attendue.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Période d’adaptation brève",
+        "Attentes imposées par l’entourage"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "ambiguous_loss",
+      "source_description": "Vivre l’absence ou la transformation d’un lien alors que la fin reste incertaine ou difficile à reconnaître ; repère descriptif, sans diagnostic de deuil.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "parent_absent",
+          "kind": "factor"
+        },
+        {
+          "id": "separation_conflit",
+          "kind": "factor"
+        }
+      ],
+      "reason": "Absence et perte de contact recoupent certaines pertes sans clôture ; elles ne prouvent pas une fin incertaine, et une séparation établie peut avoir un sens différent.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Séparation clairement établie",
+        "Incertitude temporaire accompagnée d’informations fiables"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "continuing_bonds",
+      "source_description": "Trouver une manière personnelle de se souvenir ou de maintenir une signification après une perte, sans imposer de tourner la page.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Maintenir une signification après une perte est une pratique personnelle sans diagnostic présumé. Le deuil prolongé ne constitue pas une correspondance de ce lien continu.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Rituel subi sous pression familiale",
+        "Évitement de toutes les activités actuelles"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "social_isolation",
+      "source_description": "Distinguer le manque de contacts ou de soutien souhaités d’un temps seul choisi, en tenant compte des contraintes de mobilité et de milieu.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_social_isolation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Même manque de liens ou de soutien par rapport à ce qui est souhaité. Mobilité et milieu doivent être recueillis ; temps seul choisi et retrait réparateur restent exclus.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Solitude choisie et satisfaisante",
+        "Période courte de retrait réparateur"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "work_home_conflict",
+      "source_description": "Reconnaître des obligations de travail, famille ou vie personnelle qui rivalisent pour un temps et une énergie limités.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La concurrence des obligations actuelles n'est pas représentée par des rôles infantiles ; exigences anticipées et contraintes effectives doivent être distinguées directement.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Conflit ponctuel pouvant être clarifié",
+        "Exigences uniquement anticipées"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "values_conflict",
+      "source_description": "Reconnaître plusieurs valeurs importantes qui orientent vers des actions différentes au lieu de chercher un choix parfaitement pur.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Plusieurs valeurs légitimes peuvent entrer en tension sans rigidité ni trouble. Leur arbitrage actuel n'est pas une issue du questionnaire d'enfance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Choix entre désir personnel et contrainte explicite",
+        "Valeur surtout attendue par autrui"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "meaning_search",
+      "source_description": "S’interroger sur ce qui donne direction ou importance à une expérience, sans exiger une explication positive à une épreuve.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La recherche de sens reste un questionnement personnel, sans obligation d'expliquer positivement une épreuve ni équivalence avec dépression.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Fatigue passagère",
+        "Questions philosophiques vécues avec curiosité"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "purpose_direction",
+      "source_description": "Formuler une orientation suffisamment personnelle et révisable pour guider des choix, sans transformer le projet en obligation identitaire.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Formuler une direction révisable relève du choix présent ; aucun schéma ne permet d'en déduire le contenu, l'authenticité ou la faisabilité.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Objectif imposé par un proche",
+        "Idéal si abstrait qu’il bloque toute action"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "small_goals",
+      "source_description": "Choisir une étape adaptée aux moyens actuels et dont l’issue permet de décider de la suite.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Découper un projet est un outil d'action adapté aux moyens actuels ; ce n'est pas une conséquence infantile ni une mesure de volonté.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Multiplier les listes sans agir",
+        "Objectif urgent qui exige un soutien extérieur"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "practical_support",
+      "source_description": "Mobiliser une aide matérielle ou organisationnelle identifiable en complément d’une écoute émotionnelle.",
+      "status": "agrege",
+      "targets": [
+        {
+          "id": "prot_appuis_materiels",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_soutien_apres",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_installation",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_soins",
+          "kind": "resource"
+        }
+      ],
+      "reason": "La nouvelle ressource rend explicite l'aide matérielle, aux côtés d'autres appuis concrets. Les conditions, l'accès et le respect de l'autonomie restent à vérifier ; aucun score protecteur.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Aide conditionnelle qui réduit l’autonomie",
+        "Conseil sans possibilité pratique"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "community_participation",
+      "source_description": "Participer à un groupe, voisinage ou activité qui offre des liens et une contribution choisie sans exiger de conformité totale.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_ecole",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_amities",
+          "kind": "resource"
+        }
+      ],
+      "reason": "L'appartenance scolaire et les amitiés recoupent quelques collectifs ; contribution choisie, voisinage et pression à la conformité restent hors de ces ressources historiques.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Groupe excluant ou contraignant",
+        "Présence sans sentiment de lien"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "grounded_attention",
+      "source_description": "Orienter volontairement l’attention vers des perceptions ou une activité actuelle lorsque cela est confortable et utile.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'orientation volontaire vers le présent est un exercice actuel à ajuster au confort de la personne ; aucune exposition ne prouve qu'il lui convient.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Distraction qui ne traite pas un problème concret",
+        "Exercice inconfortable ou inadapté pour la personne"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "enjoyable_activity",
+      "source_description": "Faire une place possible à des activités appréciées sans en faire une obligation de bonne humeur ou de productivité.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Préserver une activité appréciée relève des possibilités et préférences actuelles ; l'absence de dépression ne prouve ni son accessibilité ni son effet.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Activité choisie pour plaire aux autres",
+        "Fatigue demandant d’abord du repos"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "gratitude",
+      "source_description": "Nommer des éléments appréciés sans effacer les difficultés ni imposer de se sentir chanceux.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Nommer ce qui soutient est facultatif et distinct de la disponibilité objective d'appuis. Rien ne justifie une obligation de gratitude ou de relativisation.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Pression à relativiser une souffrance",
+        "Comparaison culpabilisante avec plus difficile"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "creative_expression",
+      "source_description": "Utiliser une pratique artistique, manuelle ou narrative pour explorer ou partager une expérience, sans interpréter automatiquement ce qui est produit.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La création est un moyen choisi d'expression ; sa forme ou son contenu ne servent pas de test indirect d'histoire infantile ou de fonctionnement clinique.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Exigence de performance créative",
+        "Activité qui intensifie momentanément l’inconfort"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "nature_contact",
+      "source_description": "Repérer les lieux extérieurs ou éléments de nature qui semblent soutenir le repos ou l’attention, selon l’accès et les préférences de la personne.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'environnement choisi comme appui dépend de l'accès et de la sécurité présents ; aucune carte infantile ne mesure cette ressource ni son mécanisme.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Effet surtout lié au mouvement ou à la compagnie",
+        "Lieu extérieur inaccessible ou peu sûr"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "solitude_choice",
+      "source_description": "Distinguer le temps seul apprécié du retrait subi, en regardant la possibilité de retrouver du lien ensuite.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Un temps seul apprécié et réversible est distinct de l'isolement subi. La carte de manque de liens ne constitue pas son inverse mesurable.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Isolement non souhaité",
+        "Évitement qui rend le retour relationnel plus difficile"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_efficacy",
+      "source_description": "S’appuyer sur des réussites et appuis précis pour estimer ce que l’on peut essayer dans une situation donnée.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_ressources_personnelles",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les appuis personnels recoupent une part de la capacité d'agir, mais l'estime globale ne mesure pas une efficacité située. Le schéma de dépendance est retiré comme substitut négatif insuffisant.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Optimisme sans moyens disponibles",
+        "Pression à tout résoudre par soi-même"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "minimization",
+      "source_description": "Dire que quelque chose compte peu alors que le récit montre aussi un effet, parfois pour conserver une distance supportable ; cela reste à vérifier avec la personne.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "La minimisation n'a pas de carte ; elle n'est pas un alias DMRS du déni ou de la rationalisation. Le vécu réellement mineur et le droit de ne pas développer un sujet restent centraux.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Difficulté effectivement mineure pour la personne",
+        "Choix de ne pas développer un sujet privé"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "rationalization",
+      "source_description": "Chercher une explication cohérente après un choix ou une déception, sans supposer que la personne ment ou ignore forcément ses motifs.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Une explication après coup n'établit ni défense inconsciente ni mensonge. La documentation DMRS ne fournit pas ici de carte ou de paire développementale spécifique admissible.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Réévaluation sincère avec des faits nouveaux",
+        "Motifs multiples exprimés progressivement"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "distraction_coping",
+      "source_description": "Déplacer l’attention vers une activité afin de diminuer un inconfort, en observant si cela permet ensuite de revenir à ce qui compte.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Une distraction peut permettre une pause réparatrice ; usages d'écrans ou évitement coûteux ne couvrent pas toutes ses fonctions actuelles.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Pause choisie et réparatrice",
+        "Activité imposée sans fonction d’évitement"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "humor_coping",
+      "source_description": "S’appuyer sur l’humour pour créer du recul ou du lien, en vérifiant qu’il ne rend pas impossible l’expression de la difficulté.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'humour est une ressource possible dont la fonction doit être vérifiée ; la proximité d'une défense mature DMRS n'autorise aucune attribution à un vécu infantile.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Autodérision qui rabaisse",
+        "Humour utilisé pour fermer toute discussion"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_detachment",
+      "source_description": "Décrire un ressenti d’émoussement ou de distance dans une situation difficile, sans attribuer automatiquement un mécanisme traumatique ou un trouble.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_dissociation",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Le sentiment de déconnexion recoupe certaines expériences dissociatives, sans suffire à un trouble ou à un mécanisme traumatique. Retenir son expression ne prouve pas un émoussement : cible de suppression retirée.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Fatigue ou effets d’un traitement déclarés",
+        "Réserve émotionnelle habituelle sans gêne"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "safety_behaviors",
+      "source_description": "S’appuyer sur des gestes destinés à éviter une issue redoutée et observer si leur coût augmente sans apporter de sécurité supplémentaire.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "anx_generale",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Des précautions coûteuses peuvent accompagner l'anxiété, mais leur fonction n'est pas décrite par la carte. L'hypervigilance attentionnelle ne mesure pas ces gestes ; le TOC ne les remplace pas non plus.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Précaution requise par un danger réel",
+        "Procédure de sécurité proportionnée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "appeasement",
+      "source_description": "Accepter, flatter ou s’effacer pour réduire une tension relationnelle, en reconnaissant que cela peut être une protection face à un risque réel.",
+      "status": "reference_exact",
+      "targets": [
+        {
+          "id": "pat_appeasement",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Même description de l'apaisement d'autrui pour réduire une tension. Le modèle reste non diagnostique et peut décrire une protection adaptée ; politesse libre ou compromis ne suffisent pas.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Politesse choisie sans coût",
+        "Compromis librement négocié"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "flexible_coping",
+      "source_description": "Adapter une manière de faire face selon ce qui est modifiable, les ressources disponibles et les effets observés.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "prot_changer_perspective",
+          "kind": "resource"
+        },
+        {
+          "id": "prot_traverser_inconfort",
+          "kind": "resource"
+        }
+      ],
+      "reason": "Les nouvelles ressources couvrent deux réponses possibles ; choisir la stratégie adaptée à ce qui est modifiable reste plus large et n'est jamais inféré d'une liste d'adversités.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Changer de stratégie sous pression d’autrui",
+        "Multiplier les essais sans observer leurs effets"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "response_pause",
+      "source_description": "Introduire un délai praticable entre une impulsion et une réponse lorsque cela aide à agir selon son intention.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Une pause volontaire est une compétence actuelle, distincte d'une absence d'impulsivité ; urgence réelle ou silence imposé modifient sa pertinence.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Silence imposé pour contrôler autrui",
+        "Situation urgente ne permettant pas de délai"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "responsibility_repair",
+      "source_description": "Distinguer sa contribution précise à un tort, les autres facteurs et une réparation possible sans se condamner globalement.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_guilt",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La culpabilité excessive recoupe un obstacle à la responsabilité proportionnée, sans représenter contribution factuelle, réparation ou changement. La prise en charge d'autrui n'est pas un équivalent.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Responsabilité imposée par autrui",
+        "Excuses utilisées pour éviter un changement"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "distractibility",
+      "source_description": "Décrire des difficultés de concentration selon les tâches et environnements, sans inférer un TDAH ni une autre cause clinique.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La concentration dépend des tâches et du milieu actuels. Aucune carte ne permet d'inférer TDAH ou cause éducative à partir d'une attention détournée.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Tâche peu claire",
+        "Manque de sommeil ou contrainte environnementale"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "attentional_capture",
+      "source_description": "Remarquer qu’un signal saillant ou chargé affectivement ramène souvent l’attention vers lui, même lorsque l’on vise une autre activité.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_hypervigilance",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La captation par un signe menaçant est un sous-ensemble du repère ; sollicitation neutre, gratifiante, urgente ou volontairement suivie n'est pas de l'hypervigilance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Information réellement urgente",
+        "Choix de suivi limité et assumé"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "attention_switching",
+      "source_description": "Observer l’effort pour quitter une activité, entrer dans une autre puis retrouver le fil, sans confondre ce coût avec de la mauvaise volonté.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Le coût d'un changement de tâche est un fonctionnement situé, sans carte développementale spécifique ni jugement de volonté ; complexité et organisation imposée restent à examiner.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Demande inhabituelle très complexe",
+        "Organisation imposant trop de tâches simultanées"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "planning_steps",
+      "source_description": "Transformer une tâche en séquence compréhensible et repérer les dépendances, les moyens et le prochain geste.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Rendre les étapes visibles est un outil fonctionnel actuel ; procrastination et difficultés scolaires ne mesurent pas la planification.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Planification qui remplace l’action",
+        "Projet encore trop incertain pour un plan détaillé"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "time_estimation",
+      "source_description": "Comparer le temps imaginé au temps réellement pris pour ajuster les engagements sans jugement moral.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Comparer temps prévu et réel est une observation actuelle ; imprévus et délais imposés ne prouvent ni trait personnel ni origine infantile.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Imprévus exceptionnels",
+        "Délais fixés par autrui sans marge"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "priority_setting",
+      "source_description": "Choisir ce qui doit recevoir l’attention maintenant en tenant compte des enjeux, de l’énergie et des demandes négociables.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La priorité dépend des enjeux, de l'énergie et des demandes présentes ; le questionnaire ne mesure pas cet arbitrage ni la marge de négociation.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Priorités incompatibles imposées",
+        "Évitement d’une tâche importante"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "working_memory_load",
+      "source_description": "Observer les difficultés quand plusieurs consignes, étapes ou intentions doivent être maintenues mentalement ; aucune mesure cognitive n’en est déduite.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Une surcharge d'informations ne constitue pas un test de mémoire de travail ni un diagnostic ; fatigue, langue et consignes ne sont pas déductibles des vécus d'enfance.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Instruction ambiguë",
+        "Fatigue, langue ou environnement peu adaptés"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "external_supports",
+      "source_description": "Utiliser listes, rappels, supports visuels ou aménagements comme outils choisis plutôt que comme preuve d’une incapacité.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Listes, rappels et aménagements sont des outils choisis. L'accès aux soins ou les aides matérielles générales ne décrivent pas leur usage fonctionnel précis.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Outils trop nombreux à gérer",
+        "Rappels imposés ou infantilisants"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "prospective_memory",
+      "source_description": "Repérer les écarts entre savoir quoi faire et y penser au moment utile, en examinant les indices disponibles.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Se rappeler une intention au moment utile est distinct d'une maladie neurocognitive ; aucun lien infantile ni capacité mesurée ne peut être inféré de ce récit seul.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Priorité délibérément modifiée",
+        "Trop d’engagements pour les ressources disponibles"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "body_awareness",
+      "source_description": "Décrire les sensations remarquées et leurs variations sans leur attribuer une signification psychologique ou médicale certaine.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Reconnaître une sensation est une capacité ordinaire ; ni douleur persistante ni détresse corporelle ne la représentent, et les causes physiques restent ouvertes.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Variation physiologique ordinaire",
+        "Cause médicale ou traitement déclaré"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "sensory_load",
+      "source_description": "Prendre en compte bruit, lumière, foule ou sollicitations tactiles rapportés comme coûteux, sans en déduire une neurodivergence.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Les sollicitations sensorielles présentes sont un contexte à recueillir ; elles ne permettent pas d'inférer neurodivergence, traumatisme ou cause familiale.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Fatigue générale",
+        "Inconfort physique à faire évaluer"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "anticipatory_arousal",
+      "source_description": "Repérer une activation corporelle à l’approche d’un enjeu, en distinguant observation, interprétation et causes possibles.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "anx_generale",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "L'anxiété peut comporter l'activation anticipée, mais enthousiasme, effort ou causes physiques sont distincts. L'hypervigilance décrit une surveillance de menace, pas toute mobilisation corporelle.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Effet physique non lié au contexte",
+        "Enthousiasme ou effort récent"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "sleep_onset",
+      "source_description": "Décrire ce qui occupe la période d’endormissement sans poser un diagnostic d’insomnie ni en présumer la cause.",
+      "status": "agrege",
+      "targets": [
+        {
+          "id": "ten_sommeil",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "La difficulté d'endormissement est explicitement incluse dans la carte sommeil plus large. Cela ne valide ni diagnostic d'insomnie ni origine psychologique ; horaires, douleur et traitement restent possibles.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Horaires de travail imposés",
+        "Douleur ou effet de traitement déclaré"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "sleep_rhythm",
+      "source_description": "Situer les horaires, occasions de sommeil et contraintes réelles avant d’interpréter la fatigue comme un défaut d’organisation.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "ten_sommeil",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Les nuits courtes et difficultés de sommeil recoupent le thème, sans mesurer horaires imposés, occasions de dormir ou préférence chronobiologique compatible avec la vie quotidienne.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Préférence horaire compatible avec les obligations",
+        "Changement temporaire sans gêne"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "fatigue_pacing",
+      "source_description": "Observer les variations d’énergie et la façon de répartir l’effort sans attribuer toute fatigue au stress ni conseiller de dépasser ses limites.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Répartir l'effort selon l'énergie est une pratique actuelle ; une carte de santé générale ne la mesure pas et ne justifie pas d'attribuer toute fatigue au stress.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Fatigue passagère après effort inhabituel",
+        "Cause physique ou traitement à discuter"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "rest_permission",
+      "source_description": "Repérer ce qui autorise ou empêche une pause, en distinguant culpabilité intérieure et impossibilité matérielle de s’arrêter.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "pat_guilt",
+          "kind": "outcome"
+        },
+        {
+          "id": "pat_perfectionism",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_exigences_elevees",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Culpabilité et exigences peuvent limiter le repos, mais absence de relais ou échéance réelle ne relèvent pas nécessairement de ces tendances ; aucune carte spécifique de repos.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Absence de relais réel",
+        "Période brève avec échéance exceptionnelle"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "health_declared",
+      "source_description": "Garder comme contexte les informations de santé, handicap, traitement ou neurodivergence que la personne choisit de déclarer, sans les confirmer ni les déduire du récit.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "La santé, le handicap, le traitement ou la neurodivergence explicitement déclarés restent un contexte choisi par la personne. Le questionnaire ne confirme ni ne déduit cette information.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Terme employé comme hypothèse personnelle",
+        "Information ancienne dont le statut actuel est incertain"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "movement_regulation",
+      "source_description": "Identifier une forme de mouvement appréciée et compatible avec les capacités et conseils de santé de la personne, sans prescription d’intensité.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Un mouvement apprécié et compatible avec la santé est une ressource actuelle ; aucun vécu infantile ne suffit à prescrire son intensité ou sa pertinence.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Mouvement vécu comme obligation de performance",
+        "État physique demandant un avis préalable"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "observational_learning",
+      "source_description": "Reconnaître des façons de faire apprises auprès de proches ou de modèles, sans affirmer qu’elles expliquent à elles seules un comportement actuel.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'apprentissage par observation est un mécanisme général à explorer lorsque raconté, pas une issue défavorable. Une ressemblance de conduite ne démontre ni apprentissage ni cause familiale.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Préférence personnelle développée autrement",
+        "Ressemblance sans souvenir d’apprentissage précis"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "learned_expectation",
+      "source_description": "Anticiper une issue à partir d’expériences passées, en vérifiant si le contexte présent lui ressemble réellement.",
+      "status": "partiel",
+      "targets": [
+        {
+          "id": "sch_abandon",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_mefiance",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_echec",
+          "kind": "outcome"
+        },
+        {
+          "id": "sch_negativite",
+          "kind": "outcome"
+        }
+      ],
+      "reason": "Ces schémas représentent quelques attentes négatives durables. Les attentes apprises peuvent aussi être ponctuelles, proportionnées ou positives : l'ancien agrégat était trop large.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Contexte actuel effectivement similaire",
+        "Anticipation ponctuelle proportionnée"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "behavioral_experiment",
+      "source_description": "Choisir un essai volontaire, limité et sûr pour observer une prédiction plutôt que la traiter comme déjà certaine.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Un petit essai volontaire et sûr est une méthode actuelle d'exploration, pas une conséquence infantile ni un défi à imposer pour démontrer une capacité.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Mise à l’épreuve dangereuse",
+        "Défi imposé pour prouver sa valeur"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "feedback_learning",
+      "source_description": "Extraire une information utile d’un retour en examinant sa précision, sa source et ce qu’il permet d’apprendre.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Utiliser un retour précis est une compétence actuelle ; avoir subi des critiques ne décrit pas son fonctionnement, et un retour humiliant peut être écarté.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Retour humiliant ou discriminatoire",
+        "Conseil hors contexte peu pertinent"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "skill_practice",
+      "source_description": "Décrire la pratique, les occasions, les retours et les conditions qui soutiennent un apprentissage sans traiter la difficulté comme une identité fixe.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Pratique, retours et accès à l'apprentissage sont des conditions présentes. Les difficultés scolaires ne mesurent pas la capacité à développer une compétence choisie.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Objectif sans intérêt personnel",
+        "Conditions d’apprentissage inaccessibles"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "consent_boundaries",
+      "source_description": "Faire place au choix explicite, révisable et sans pression dans l’intimité, sans inférer une histoire sexuelle ni une expérience de violence.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Le consentement libre et révisable est un choix actuel ; aucune histoire de violence ou difficulté sexuelle n'en permet l'inférence ou l'évaluation indirecte.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Accord obtenu sous insistance ou dépendance",
+        "Silence ou absence de refus sans accord clair"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "privacy_boundaries",
+      "source_description": "Choisir l’accès à son corps, ses messages, ses objets ou ses informations personnelles, selon ses préférences et sa sécurité.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'accès choisi au corps et aux informations dépend des préférences et de la sécurité présentes. Secrets familiaux et contrôle imposé ne sont pas une mesure de cette compétence.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Partage librement choisi et révisable",
+        "Mesure temporaire convenue dans un contexte précis"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "desire_variation",
+      "source_description": "Décrire des variations ou différences de désir sans norme de fréquence, sans diagnostic et sans devoir satisfaire une attente d’autrui.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Les variations ordinaires de désir n'établissent aucune dysfonction. Aucune norme de fréquence, obligation de répondre à autrui ou causalité infantile n'est introduite.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Différence vécue sans difficulté",
+        "Cause de santé ou effet de traitement déclaré"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "relational_jealousy",
+      "source_description": "Explorer l’inquiétude, la comparaison ou l’accord relationnel en jeu sans justifier surveillance, contrôle ou restriction de l’autre.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "La jalousie n'est pas réductible à l'abandon, à l'attachement anxieux ou au contrôle du partenaire. Aucune paire précise admissible suffisamment vérifiée ; accord rompu et manque d'information restent possibles.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Accord relationnel effectivement rompu",
+        "Incertitude née d’un manque d’information"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "affection_preferences",
+      "source_description": "Reconnaître que paroles, gestes, temps partagé et distance peuvent avoir des significations différentes selon les personnes et les moments.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Les préférences de gestes, paroles et distance varient selon les personnes et moments ; les styles d'attachement ne les résument pas.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Préférence momentanée liée à la fatigue",
+        "Manque de respect malgré une demande claire"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "intimacy_communication",
+      "source_description": "Choisir un échange respectueux sur les attentes, limites ou préoccupations intimes sans devoir révéler des détails non souhaités.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Parler de son intimité à son rythme est une pratique choisie ; peur d'intimité et difficulté sexuelle ne mesurent ni communication, ni consentement, ni sécurité. Anciennes cibles retirées.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Conversation imposée ou intrusive",
+        "Contexte qui ne permet pas de parler en sécurité"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "bicultural_navigation",
+      "source_description": "Articuler des références culturelles, familiales ou linguistiques multiples sans imposer de choisir une appartenance unique.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Composer entre univers culturels est une articulation personnelle ; migration ou discrimination ne la résument pas et ne justifient aucune pathologisation.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Préférences variant sans tension",
+        "Pression extérieure qui réduit les choix"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "identity_recognition",
+      "source_description": "Prendre au sérieux les mots et appartenances que la personne choisit pour elle-même sans les déduire de son apparence, de ses goûts ou de son récit.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Les mots et appartenances choisis se recueillent directement ; sentiment de différence, apparence et goûts ne permettent pas de les déduire.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Incompréhension corrigée dans le dialogue",
+        "Préférence de ne pas définir certaines dimensions"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_expression",
+      "source_description": "Expérimenter des façons de parler, créer, s’habiller ou participer qui correspondent à ses préférences, sans faire d’un style un indicateur clinique ou identitaire.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Une présentation personnelle choisie n'a pas de valeur diagnostique ou identitaire implicite ; adaptation professionnelle et pression de groupe se clarifient dans le récit.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Adaptation professionnelle volontaire",
+        "Pression de groupe sur l’apparence ou les choix"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "disclosure_choice",
+      "source_description": "Décider du moment, du public et des limites d’un partage identitaire ou personnel en fonction de ses préférences et de la sécurité réelle.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Le choix du public, du moment et des limites d'un partage dépend des préférences et de la sécurité actuelles ; non-dit familial et refus de partager ne sont pas équivalents.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Secret imposé par une menace",
+        "Absence d’envie de partager sans tension particulière"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "social_media_comparison",
+      "source_description": "Situer les comparaisons dans des contenus sélectionnés et des sollicitations répétées plutôt que les attribuer seulement à un manque d’estime de soi.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "L'environnement numérique et ses contenus sélectionnés sont un contexte présent. Comparaisons fraternelles et usage problématique des écrans ne mesurent pas ce processus ; nouvelle exclusion explicite.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Usage inspirant et limité",
+        "Insatisfaction antérieure indépendante des contenus"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "role_expectations",
+      "source_description": "Repérer les attentes liées à l’âge, au genre, à la classe, à la religion ou à d’autres appartenances telles que la personne les décrit, sans présumer qu’elles s’appliquent à tout son groupe.",
+      "status": "hors_perimetre_questionnaire",
+      "targets": [],
+      "reason": "Les attentes sociales liées aux appartenances doivent être rapportées concrètement ; aucune identité ni norme de groupe n'est inférée des vécus familiaux ou de la discrimination.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Projet personnel conforme à une tradition choisie",
+        "Conseil ponctuel sans pression durable"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_focused_attention",
+      "source_description": "Porter une grande partie de l’attention sur sa propre voix, ses gestes ou son apparence au point de moins suivre l’échange, sans inférer un trouble anxieux.",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "L'autosurveillance de la voix ou des gestes n'est pas décrite par la carte d'anxiété sociale. Sa place dans certains modèles du trouble est un voisinage clinique, insuffisant pour un appariement ; décision plus prudente que le lot 6.",
+      "reviewed_by": "coverage17 — relecture sémantique indépendante",
+      "reviewed_on": "2026-11-17",
+      "alternatives_considered": [
+        "Ajustement ponctuel à une prise de parole",
+        "Milieu réellement jugeant"
+      ],
+      "causal_equivalence_claimed": false
+    }
+  ],
+  "dsm5tr": {
+    "chapter_presence_review_complete": true,
+    "diagnosis_by_diagnosis_review_complete": false,
+    "complete_manual_criteria_accessed": false,
+    "reference_edition": "DSM-5-TR, édition 2022 comme cible ; notices et mises à jour accessibles, inventaire DSM-5 2013 explicitement signalé lorsqu’utilisé.",
+    "access_notes": [
+      "La table des matières de l’édition APA est accessible dans l’aperçu Google Books.",
+      "Les trois chapitres non exposés dans cet aperçu textuel sont confirmés par les pages de chapitre indexées de PsychiatryOnline.",
+      "La page officielle DSM-5-TR Classification a été trouvée ; son ouverture et celle du livre complet renvoient HTTP 403 dans cet environnement. Aucune barrière d’accès n’a été contournée.",
+      "Ces restrictions et l’absence de registre diagnostique complet dans le dépôt empêchent une comparaison critère par critère de tous les diagnostics DSM ; le relevé des chapitres ne la remplace pas.",
+      "Le 17 novembre : décisions diagnostiques des lots 1/3/4 et complément indépendant regroupés dans couverture-referentiels.json. Ce registre inclut diagnostics, spécificateurs, catégories résiduelles et conditions à l’étude ; son effectif n’est pas un nombre de diagnostics validés.",
+      "Pages publiques APA effectivement ouvertes par coverage17 : psychoses, dissociation, alimentation, stress, deuil prolongé et somatique. Table DSM-5 2013 de neuf pages lue comme inventaire ancien ; aucune actualisation TR complète supposée.",
+      "Ouverture directe des chapitres DSM-5-TR élimination et somatique : HTTP403. Les titres indexés ne constituent pas une lecture des critères. Le chapitre des effets des médicaments et les situations nécessitant une attention clinique restent incomplètement inventoriés."
+    ],
+    "sources": [
+      {
+        "title": "APA DSM-5-TR, table des matières de l’édition 2022 (aperçu éditeur)",
+        "url": "https://books.google.com/books?vid=ISBN9780890425770",
+        "read": "Table des matières HTML et notice APA ; pas le texte intégral."
+      },
+      {
+        "title": "APA, DSM-5-TR Classification",
+        "url": "https://psychiatryonline.org/doi/10.1176/appi.books.9780890425787.x00_Diagnostic_Classification",
+        "read": "Référence officielle identifiée par recherche ; ouverture HTTP403."
+      },
+      {
+        "title": "APA, Neurodevelopmental Disorders",
+        "url": "https://psychiatryonline.org/doi/10.1176/appi.books.9780890425787.x01_Neurodevelopmental_Disorders",
+        "read": "Titre et notice officiels indexés."
+      },
+      {
+        "title": "APA, Paraphilic Disorders",
+        "url": "https://psychiatryonline.org/doi/10.1176/appi.books.9780890425787.x19_Paraphilic_Disorders",
+        "read": "Titre et notice officiels indexés."
+      },
+      {
+        "title": "APA, Medication-Induced Movement Disorders",
+        "url": "https://psychiatryonline.org/doi/10.1176/appi.books.9780890425787.Medication_Induced_Movement_Disorders",
+        "read": "Titre et notice officiels indexés."
+      },
+      {
+        "title": "APA, mises à jour DSM",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/dsm/updates-to-dsm/",
+        "read": "Présentation des mises à jour ; ne remplace pas le manuel."
+      }
+    ],
+    "chapters": [
+      {
+        "id": "neurodevelopment",
+        "label": "Neurodéveloppement",
+        "status": "hors_perimetre_questionnaire",
+        "targets": [],
+        "reason": "Les diagnostics développementaux inventoriés restent exclus de toute inférence par l’éducation ; la liste ancienne du DSM et le cadre CIM ne vérifient pas tous critères TR.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "psychotic",
+        "label": "Spectre de la schizophrénie et autres psychoses",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6a20",
+            "kind": "outcome",
+            "label": "Troubles psychotiques (dont la schizophrénie)",
+            "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic."
+          },
+          {
+            "id": "ten_traits_schizotypiques",
+            "kind": "outcome",
+            "label": "Traits schizotypiques mesurés par questionnaires",
+            "description": "Scores de recherche portant sur des perceptions, croyances ou façons de penser inhabituelles. Un score ne constitue ni un trouble schizotypique ni une schizophrénie."
+          }
+        ],
+        "reason": "La comparaison distingue schizophrénie, schizoaffectif, bref, schizophréniforme et délirant. L’agrégat psychotique et les scores schizotypiques ne couvrent pas chacun de ces diagnostics ; les états induits et catatonies restent hors inférence.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "bipolar",
+        "label": "Troubles bipolaires et apparentés",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6a60",
+            "kind": "outcome",
+            "label": "Troubles bipolaires (preuves agrégées)",
+            "description": "Des épisodes maniaques ou hypomaniaques et dépressifs dont la présentation varie selon le diagnostic. Les preuves développementales réunies ici concernent les troubles bipolaires dans leur ensemble."
+          }
+        ],
+        "reason": "La carte historique représente désormais les troubles bipolaires regroupés, sans code exact de type I. Les types I/II restent agrégés ; cyclothymie et rubriques résiduelles ont des décisions propres, sans critères DSM complets validés.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "depressive",
+        "label": "Troubles dépressifs",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "dep_generale",
+            "kind": "outcome",
+            "label": "Dépression ou symptômes dépressifs",
+            "description": "Symptômes dépressifs durables ou épisodes dépressifs (CIM-11 6A70–6A71) : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation."
+          },
+          {
+            "id": "icd_6a72",
+            "kind": "outcome",
+            "label": "Dysthymie",
+            "description": "Une humeur dépressive persistante, présente la plupart du temps pendant au moins deux ans."
+          },
+          {
+            "id": "ten_symptomes_depressifs_perinataux",
+            "kind": "outcome",
+            "label": "Symptômes dépressifs pendant la grossesse ou après la naissance",
+            "description": "Une souffrance dépressive pendant la grossesse ou l’année qui suit la naissance. Ce repère symptomatique n’équivaut pas aux diagnostics périnataux CIM-11."
+          },
+          {
+            "id": "ten_symptomes_premenstruels",
+            "kind": "outcome",
+            "label": "Symptômes prémenstruels importants",
+            "description": "Des symptômes émotionnels et physiques cycliques avant les règles, assez importants pour gêner la vie quotidienne. Ce repère ne constitue pas un diagnostic de trouble dysphorique prémenstruel."
+          }
+        ],
+        "reason": "Dépression générale et dysthymie sont proches de tableaux DSM ; périnatalité et symptômes prémenstruels restent symptomatiques. Ni PMDD ni DMDD ne sont couverts par analogie ; résiduels et états induits sont documentés séparément.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "anxiety",
+        "label": "Troubles anxieux",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "anx_generale",
+            "kind": "outcome",
+            "label": "Anxiété ou troubles anxieux",
+            "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée (CIM-11 6B00)."
+          },
+          {
+            "id": "icd_6b01",
+            "kind": "outcome",
+            "label": "Trouble panique",
+            "description": "Des attaques de panique répétées et inattendues, suivies d'une inquiétude à l'idée qu'elles reviennent."
+          },
+          {
+            "id": "icd_6b02",
+            "kind": "outcome",
+            "label": "Agoraphobie",
+            "description": "La peur et l'évitement de lieux ou situations d'où il semble difficile de partir ou d'être aidé."
+          },
+          {
+            "id": "icd_6b04",
+            "kind": "outcome",
+            "label": "Trouble d'anxiété sociale",
+            "description": "Une peur marquée et durable du regard et du jugement des autres."
+          },
+          {
+            "id": "icd_6b05",
+            "kind": "outcome",
+            "label": "Trouble d'anxiété de séparation",
+            "description": "Une peur excessive d'être séparé des personnes auxquelles on est attaché."
+          }
+        ],
+        "reason": "Plusieurs tableaux CIM et l’agrégat anxieux sont présents ; TAG, phobie spécifique, mutisme sélectif et catégories secondaires ont des décisions distinctes. Les définitions, durées et spécificateurs DSM ne sont pas certifiés.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "obsessive_compulsive",
+        "label": "Troubles obsessionnels-compulsifs et apparentés",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6b20",
+            "kind": "outcome",
+            "label": "Trouble obsessionnel-compulsif (TOC)",
+            "description": "Des obsessions intrusives et des gestes ou rituels mentaux répétés, pénibles et gênants au quotidien. Les liens présentés ici portent sur la sévérité des symptômes chez des personnes déjà concernées, pas sur un diagnostic à partir de leur enfance."
+          }
+        ],
+        "reason": "La carte TOC est désormais présente mais contextuelle : les preuves nouvelles portent sur la sévérité chez des personnes déjà concernées. Dysmorphie, accumulation, arrachage, excoriation et référence olfactive gardent leurs décisions ; aucun alias depuis perfectionnisme.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "trauma_stress",
+        "label": "Troubles liés aux traumatismes et aux facteurs de stress",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6b40",
+            "kind": "outcome",
+            "label": "Trouble de stress post-traumatique",
+            "description": "Revivre un événement terrifiant comme s'il se reproduisait, l'éviter et rester en alerte."
+          },
+          {
+            "id": "icd_6b42",
+            "kind": "outcome",
+            "label": "Trouble du deuil prolongé",
+            "description": "Un chagrin intense et envahissant qui dure bien au-delà de ce qui est attendu après un décès."
+          },
+          {
+            "id": "icd_6b43",
+            "kind": "outcome",
+            "label": "Trouble de l'adaptation",
+            "description": "Une réaction difficile à un changement ou un stress de vie, avec préoccupations et difficultés à s'adapter."
+          },
+          {
+            "id": "icd_6b44",
+            "kind": "outcome",
+            "label": "Trouble réactionnel de l'attachement",
+            "description": "Chez le jeune enfant, très peu chercher ou accepter le réconfort après des soins gravement insuffisants."
+          },
+          {
+            "id": "icd_6b45",
+            "kind": "outcome",
+            "label": "Trouble de l'engagement social désinhibé",
+            "description": "Chez le jeune enfant, aller vers des adultes inconnus sans aucune réserve après des soins gravement insuffisants."
+          }
+        ],
+        "reason": "PTSD, deuil prolongé, adaptation et les deux troubles précoces ont une comparaison documentaire ; stress aigu est distinct. Le PTSD complexe CIM n’est pas présenté comme un diagnostic DSM autonome et aucun contexte d’exposition ne suffit au diagnostic.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "dissociative",
+        "label": "Troubles dissociatifs",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "ten_dissociation",
+            "kind": "outcome",
+            "label": "Symptômes dissociatifs",
+            "description": "Se sentir déconnecté de soi, de son corps ou de ce qui se passe, avec des trous de mémoire."
+          },
+          {
+            "id": "icd_6b64",
+            "kind": "outcome",
+            "label": "Trouble dissociatif de l'identité",
+            "description": "Plusieurs états d'identité distincts qui prennent tour à tour le contrôle."
+          }
+        ],
+        "reason": "Symptômes généraux et identité dissociative sont représentés ; amnésie et dépersonnalisation/déréalisation restent à examiner. Le trouble neurologique fonctionnel est comparé dans le chapitre somatique DSM, sans équivalence de tous critères.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "somatic",
+        "label": "Symptômes somatiques et troubles apparentés",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6c20",
+            "kind": "outcome",
+            "label": "Trouble de détresse physique",
+            "description": "Symptômes corporels pénibles accompagnés d'une attention excessive et persistante, avec un retentissement important. Une affection médicale peut aussi être présente."
+          },
+          {
+            "id": "icd_6b23",
+            "kind": "outcome",
+            "label": "Hypocondrie (anxiété liée à la santé)",
+            "description": "La peur persistante d'avoir une maladie grave, malgré des examens rassurants."
+          },
+          {
+            "id": "icd_6b60",
+            "kind": "outcome",
+            "label": "Trouble dissociatif à symptômes neurologiques",
+            "description": "Symptômes neurologiques fonctionnels, par exemple moteurs ou sensoriels, dont les caractéristiques cliniques sont incompatibles avec une maladie neurologique reconnue. L'évaluation médicale reste nécessaire."
+          }
+        ],
+        "reason": "Détresse somatique, anxiété de maladie et trouble neurologique fonctionnel ont des rapprochements documentaires ; factices et facteurs affectant une maladie sont traités séparément. Aucune définition par seule absence de cause médicale ni équivalence CIM–DSM complète.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "feeding_eating",
+        "label": "Troubles des conduites alimentaires et de l’ingestion",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6b80",
+            "kind": "outcome",
+            "label": "Anorexie mentale",
+            "description": "Restriction alimentaire et préoccupations concernant le poids ou la silhouette, avec un poids significativement bas ou une perte de poids importante. Le diagnostic nécessite une évaluation clinique."
+          },
+          {
+            "id": "icd_6b81_boulimie",
+            "kind": "outcome",
+            "label": "Boulimie nerveuse",
+            "description": "Crises alimentaires répétées avec perte de contrôle et comportements compensatoires réguliers, avec préoccupations marquées concernant le poids ou la silhouette."
+          },
+          {
+            "id": "icd_6b82",
+            "kind": "outcome",
+            "label": "Hyperphagie boulimique",
+            "description": "Crises alimentaires répétées avec sentiment de perdre le contrôle et détresse, sans comportements compensatoires réguliers. Le diagnostic nécessite une évaluation clinique."
+          },
+          {
+            "id": "icd_6b81",
+            "kind": "outcome",
+            "label": "Troubles des conduites alimentaires",
+            "description": "Boulimie, crises alimentaires, restrictions ou préoccupations envahissantes pour le poids et l’image du corps."
+          }
+        ],
+        "reason": "Trois cartes CIM distinguent anorexie, boulimie et hyperphagie ; l’ancien agrégat garde son historique. ARFID, pica, régurgitation et rubriques résiduelles ne sont pas automatiquement couverts, et les critères DSM restent non validés.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "elimination",
+        "label": "Troubles de l’élimination",
+        "status": "a_examiner",
+        "targets": [],
+        "reason": "Énurésie, encoprésie et résiduels sont inventoriés avec contexte d’âge. Le chapitre APA complet reste inaccessible ; la cohorte de trajectoires urinaires ne valide pas un diagnostic ou une carte adulte.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "sleep_wake",
+        "label": "Troubles du sommeil et de l’éveil",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "ten_sommeil",
+            "kind": "outcome",
+            "label": "Difficultés de sommeil (insomnie, cauchemars)",
+            "description": "Du mal à s'endormir, des réveils fréquents, des nuits courtes ou des cauchemars qui reviennent."
+          }
+        ],
+        "reason": "Les difficultés d’endormissement et cauchemars sont représentées dans un agrégat symptomatique ; l’inventaire diagnostique conserve narcolepsie, respiration, rythmes, parasomnies et états induits sans transfert de preuve.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "sexual_dysfunctions",
+        "label": "Dysfonctions sexuelles",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "ten_difficultes_sexuelles",
+            "kind": "outcome",
+            "label": "Difficultés dans la vie sexuelle",
+            "description": "Peu de désir, douleurs, difficultés d'excitation ou de plaisir, ou une sexualité vécue avec malaise."
+          }
+        ],
+        "reason": "Des rapprochements thématiques sont consignés diagnostic par diagnostic, mais désir, excitation, orgasme et douleur n’ont pas de preuves propres vérifiées par carte ; variations ordinaires et critères DSM restent distincts.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "gender_dysphoria",
+        "label": "Dysphorie de genre",
+        "status": "hors_perimetre_questionnaire",
+        "targets": [],
+        "reason": "Aucune identité ni dysphorie n’est inférée de l’enfance. Les catégories DSM inventoriées ne se confondent pas avec l’incongruence CIM, située hors troubles mentaux ; vécu de discrimination distinct et identités non pathologisées.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "disruptive_impulse_conduct",
+        "label": "Troubles disruptifs, du contrôle des impulsions et des conduites",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "ten_externalisation",
+            "kind": "outcome",
+            "label": "Comportements d’opposition, d’agressivité ou antisociaux",
+            "description": "Opposition, colères, agressivité ou conduites antisociales, observées dans l’enfance, l’adolescence ou plus tard ; elles relèvent parfois d’un trouble oppositionnel avec provocation (CIM-11 6C90)."
+          },
+          {
+            "id": "ten_traits_personnalite_antisociale",
+            "kind": "outcome",
+            "label": "Traits de personnalité antisociale (repère de recherche)",
+            "description": "Nombre de symptômes étudiés en recherche, distinct d’un diagnostic établi. Ce repère ne permet pas de qualifier une personne ni de prévoir ses actes."
+          }
+        ],
+        "reason": "Externalisation et traits de recherche recoupent certains thèmes sans poser les diagnostics oppositionnel, conduites ou antisocial. Explosif intermittent, kleptomanie et pyromanie ont leurs limites propres ; un schéma de contrôle de soi n’est pas une cible diagnostique.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "substance_addiction",
+        "label": "Troubles liés aux substances et addictions",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6c40_2",
+            "kind": "outcome",
+            "label": "Dépendance à l'alcool",
+            "description": "Une consommation d'alcool devenue difficile à contrôler malgré ses conséquences."
+          },
+          {
+            "id": "ten_usage_substances",
+            "kind": "outcome",
+            "label": "Usage problématique d’alcool, de tabac ou de drogues",
+            "description": "Consommer des substances de façon risquée ou difficile à contrôler."
+          },
+          {
+            "id": "ten_usage_cannabis",
+            "kind": "outcome",
+            "label": "Usage problématique du cannabis",
+            "description": "Un usage de cannabis difficile à maîtriser ou associé à des difficultés dans la vie quotidienne. Les recherches citées utilisent notamment les anciennes catégories d’abus et de dépendance du DSM-IV."
+          },
+          {
+            "id": "ten_tabagisme_persistant",
+            "kind": "outcome",
+            "label": "Tabagisme quotidien persistant",
+            "description": "Une consommation quotidienne de cigarettes qui se maintient au fil des années. Ce repère ne suffit pas à établir une dépendance à la nicotine."
+          },
+          {
+            "id": "ten_jeu_argent_problematique",
+            "kind": "outcome",
+            "label": "Difficultés avec les jeux d’argent",
+            "description": "Des pratiques de jeu d’argent difficiles à limiter, avec des répercussions sur la vie quotidienne. Les études regroupent plusieurs degrés de difficultés et ne confirment pas toutes un diagnostic."
+          }
+        ],
+        "reason": "Alcool et plusieurs tendances sont distingués. Trouble d’usage DSM, dépendance CIM et comportement mesuré ne sont pas synonymes ; produits, intoxications, sevrages et états induits restent documentés sans couverture uniforme. Gaming est traité séparément comme condition à l’étude.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "neurocognitive",
+        "label": "Troubles neurocognitifs",
+        "status": "hors_perimetre_questionnaire",
+        "targets": [],
+        "reason": "Déclin acquis, delirium et causes médicales ne se déduisent pas des réponses d’enfance. Les lignes diagnostiques de la table ancienne et les limites ACE–démence sont conservées ; aucune validation des critères TR.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "personality",
+        "label": "Troubles de la personnalité",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "icd_6d11_5",
+            "kind": "outcome",
+            "label": "Trouble de la personnalité avec motif borderline",
+            "description": "Une instabilité des relations, de l'image de soi et des émotions, avec une grande sensibilité au rejet."
+          },
+          {
+            "id": "ten_narcissisme_vulnerable",
+            "kind": "outcome",
+            "label": "Vulnérabilité narcissique (dimension de recherche)",
+            "description": "Dimension étudiée associant vulnérabilité de l’estime de soi et besoin de reconnaissance. Elle ne se confond pas avec le trouble de la personnalité narcissique."
+          },
+          {
+            "id": "ten_narcissisme_grandiose",
+            "kind": "outcome",
+            "label": "Grandiosité narcissique (dimension de recherche)",
+            "description": "Dimension de recherche portant sur une image de soi grandiose et des attentes de reconnaissance. Elle ne suffit pas à établir un diagnostic."
+          },
+          {
+            "id": "ten_traits_personnalite_antisociale",
+            "kind": "outcome",
+            "label": "Traits de personnalité antisociale (repère de recherche)",
+            "description": "Nombre de symptômes étudiés en recherche, distinct d’un diagnostic établi. Ce repère ne permet pas de qualifier une personne ni de prévoir ses actes."
+          }
+        ],
+        "reason": "Les dix diagnostics catégoriels ont une décision distincte. Le motif borderline CIM et les dimensions narcissiques/antisociales de recherche ne remplacent pas ces diagnostics ; sévérité CIM et AMPD restent non interchangeables.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "paraphilic",
+        "label": "Troubles paraphiliques",
+        "status": "hors_perimetre_questionnaire",
+        "targets": [],
+        "reason": "Exclusion explicite du questionnaire, documentée par le lot 3 : aucun trouble paraphilique ne peut être attribué à une victime à partir de son enfance. Intérêt atypique, consentement, détresse et diagnostic restent distincts.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "other_mental",
+        "label": "Autres troubles mentaux et codes supplémentaires",
+        "status": "hors_perimetre_questionnaire",
+        "targets": [],
+        "reason": "Rubriques résiduelles et contextes médicaux inventoriés sans fabriquer un construit d’enfance ; aucune nouvelle carte automatique, et actualisations TR détaillées encore à vérifier.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "medication_effects",
+        "label": "Mouvements induits et autres effets indésirables des médicaments",
+        "status": "hors_perimetre_questionnaire",
+        "targets": [],
+        "reason": "Effets médicamenteux à évaluer médicalement, hors inférence d’enfance. Le chapitre est identifié ; ses sous-rubriques ne sont pas toutes inventoriées ni comparées critère par critère.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      },
+      {
+        "id": "clinical_attention",
+        "label": "Autres situations pouvant nécessiter une attention clinique",
+        "status": "partiel",
+        "targets": [
+          {
+            "id": "precarite",
+            "kind": "factor",
+            "label": "Précarité et insécurité matérielle",
+            "description": "Pauvreté, logement instable, expulsions, insécurité alimentaire."
+          },
+          {
+            "id": "discrimination",
+            "kind": "factor",
+            "label": "Racisme ou discrimination",
+            "description": "Être traité différemment ou rabaissé pour son origine, sa religion, son genre, son orientation ou un handicap."
+          },
+          {
+            "id": "parentification",
+            "kind": "factor",
+            "label": "Devoir s'occuper d'un parent ou de la fratrie",
+            "description": "Prendre en charge des tâches ou le moral d'adultes, au-delà de son âge."
+          },
+          {
+            "id": "deces_proche",
+            "kind": "factor",
+            "label": "Décès d'un parent ou d'un proche",
+            "description": "Mort d'un parent, d'un frère, d'une sœur ou d'une personne centrale."
+          },
+          {
+            "id": "conflits_parents",
+            "kind": "factor",
+            "label": "Disputes fréquentes entre les parents",
+            "description": "Tensions, cris ou silences hostiles entre les adultes, sans violence physique."
+          }
+        ],
+        "reason": "Plusieurs contextes sont représentés et les rapprochements QE du lot 8 sont documentés. Ils ne constituent pas une table exhaustive des codes DSM ni une équivalence de ces situations aux diagnostics.",
+        "level": "chapter_thematic_summary_with_diagnostic_registry",
+        "diagnostic_equivalence_verified": false,
+        "criteria_reviewed": false,
+        "source": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787",
+        "reviewed_by": "coverage17",
+        "reviewed_on": "2026-11-17"
+      }
+    ],
+    "section_iii": {
+      "status": "partial_documentary_review",
+      "ampd": "Fonctionnement, cinq domaines et modèle à traits examinés documentairement au lot 4 ; revue lue, manuel non consulté.",
+      "conditions_for_further_study": "Entrées de la table ancienne conservées individuellement avec réserves d’actualisation. Gaming et caféine au lot 3 ; deuil complexe ancien distingué du deuil prolongé DSM-5-TR.",
+      "cultural_formulation": "Outils et glossaire identifiés dans la table ; contenu détaillé non examiné, aucune conclusion sur un groupe culturel.",
+      "complete_manual_criteria_accessed": false
+    }
+  },
+  "review_summary": {
+    "patterns_read": 161,
+    "new_reasons_written": 161,
+    "status_counts": {
+      "partiel": 69,
+      "a_examiner": 11,
+      "hors_perimetre_questionnaire": 65,
+      "reference_exact": 12,
+      "agrege": 4
+    },
+    "status_changes": 23,
+    "mapping_changes": 50,
+    "final_graph_check_pending": false,
+    "target_order_only_changes_excluded_from_mapping_count": [
+      "boundaries",
+      "power_imbalance"
+    ]
+  },
+  "final_validation": {
+    "status": "passed",
+    "reviewed_on": "2026-11-17",
+    "graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
+    "active_factors": 59,
+    "active_outcomes": 109,
+    "resources": 11,
+    "links": 493,
+    "sources": 260,
+    "retired_outcomes": 3,
+    "all_semantic_targets_exist": true,
+    "no_semantic_targets_are_retired": true,
+    "all_descriptions_and_alternatives_match_catalog": true,
+    "all_161_unique_patterns_present": true,
+    "all_22_historical_dsm_chapters_preserved": true,
+    "all_lot_out_of_scope_objects_preserved": true,
+    "all_858_icd_codes_present_structurally": true,
+    "unresolved_registry_source_ids": [],
+    "does_not_validate_clinical_criteria_or_causality": true,
+    "post_integration_delta_independently_reviewed": true
+  },
+  "post_integration_reviews": [
+    {
+      "reviewed_by": "coverage17",
+      "reviewed_on": "2026-11-17",
+      "previous_graph_core_sha256": "a76619bc2d7e51a7dbb8b075e4276e13559351ca58e5b2ba20bc74d116728b30",
+      "validated_graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
+      "changes": [
+        {
+          "type": "link_and_unused_source_removed",
+          "factor": "emprise_religieuse",
+          "outcome": "ten_qualite_relationnelle",
+          "source_id": "saldana2022",
+          "independent_reading": "Résumé original PMID 34445910 relu via API Europe PMC ; PubMed n’affichait qu’un pied de page. Questionnaire de 636 anciens membres : 377 victimes et 259 non-victimes ; entrées dans le groupe pendant l’enfance et à l’âge adulte. Relations positives et bien-être mesurés, mais pas d’estimation infantile isolée permettant la paire du questionnaire. Texte intégral non lu.",
+          "reason": "Retrait cohérent avec la limite d’âge déjà identifiée au lot 9. Une absence de différence statistique selon âge d’entrée ne démontre pas une association enfance → qualité relationnelle. Aucune preuve d’absence universelle ni nouvelle paire substituée."
+        },
+        {
+          "type": "outcome_presentation_metadata",
+          "outcome_ids": [
+            "ten_diabete_type2",
+            "ten_fibromyalgie",
+            "ten_maladies_cardiovasculaires",
+            "ten_migraine"
+          ],
+          "fields_changed": {
+            "category": [
+              "tendency",
+              "health_outcome"
+            ],
+            "domain": [
+              "perceptions",
+              "comportements"
+            ]
+          },
+          "independent_check": "Les quatre descriptions, identifiants, liens et marqueurs contextual_only sont inchangés. Aucune des 161 décisions ni aucun des 22 chapitres DSM ne cible ces cartes. La catégorie santé évite de les présenter comme des tendances psychologiques."
+        }
+      ],
+      "all_161_descriptions_alternatives_and_targets_rechecked": true,
+      "all_22_dsm_chapter_targets_rechecked": true,
+      "all_858_icd_codes_and_original_lot_decisions_preserved": true,
+      "other_links_unchanged": true,
+      "factors_resources_and_retired_outcomes_unchanged": true
+    }
+  ]
+}
