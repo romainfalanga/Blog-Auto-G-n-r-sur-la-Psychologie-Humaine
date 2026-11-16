@@ -364,6 +364,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    if(relationNotes?.quotes.length)promptData.observation_candidates={person_id:relationNotes.person.id,quotes:relationNotes.quotes};
    const totalTurns=Number(history[0]?.total||0);
    promptData.conversation_coverage={included_turns:includedTurns,total_turns:totalTurns,excerpted_turns:excerptedTurns,omitted_turns:totalTurns-includedTurns,truncated:includedTurns<totalTurns||excerptedTurns>0};
+   let reviewShortened=false;
    while(JSON.stringify(promptData).length>16000){
     const remembered=promptData.reported_relationship_observations;
     if(remembered?.observations.length){
@@ -379,7 +380,8 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
     if(optional>=0){childhoodMap.convergence.splice(optional,1);childhoodMap.truncated=true;continue;}
     if(childhoodMap?.evidence.length>1){childhoodMap.evidence.pop();childhoodMap.evidence_truncated=true;continue;}
     if(childhoodMap?.person_notes.length>6){childhoodMap.person_notes.pop();childhoodMap.notes_truncated=true;continue;}
-    if(promptData.last_review&&promptData.last_review.text.length>1200){promptData.last_review={...promptData.last_review,text:excerpt(promptData.last_review.text,1200).text,excerpt:true};continue;}
+    // Shortened once only: the excerpt marker keeps the text above 1200 characters.
+    if(promptData.last_review&&!reviewShortened&&promptData.last_review.text.length>1200){reviewShortened=true;promptData.last_review={...promptData.last_review,text:excerpt(promptData.last_review.text,1200).text,excerpt:true};continue;}
     promptData.truncated=true;const removable=promptData.sources.findLastIndex(s=>s.type!=='memory');
     if(removable>=0)promptData.sources.splice(removable,1);else if(promptData.events.length)promptData.events.pop();else if(promptData.people.length)promptData.people.pop();else if(promptData.portrait)promptData.portrait=null;else break;
    }
