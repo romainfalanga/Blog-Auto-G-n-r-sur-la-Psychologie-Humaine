@@ -431,10 +431,28 @@ test('a pending turn keeps one user bubble while the cleared composer accepts th
 
 test('V6 self information and reflection groups open with all fields in their own compact grids',async()=>{
  const env=environment({api:async()=>({profile:{},revision:0}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
- const form=env.doc.getElementById('self-profile-form'),groups=form.querySelectorAll('details');assert.equal(groups.length,2);assert.ok(groups.every(group=>group.open));
- assert.equal(env.doc.getElementById('self-identity-fields').elements.occupation.tagName,'INPUT');assert.equal(env.doc.getElementById('self-description-fields').elements.self_description.tagName,'TEXTAREA');
- assert.deepEqual(Object.keys(env.doc.getElementById('self-reflection-fields').elements),['self_perception','recurring_patterns','emotions','current_context']);assert.equal(form.querySelectorAll('textarea').length,5);
- assert.match(HTML,/#self-profile-form \.self-presentation textarea\{min-height:160px/);
+ const form=env.doc.getElementById('self-profile-form'),host=env.doc.getElementById('self-profile'),groups=host.querySelectorAll('.profile-group');
+ assert.deepEqual(groups.map(group=>group.id),['self-identity','self-description-fields','self-reflection']);assert.equal(host.querySelectorAll('details').length,0);
+ assert.equal(env.doc.getElementById('self-identity-fields').elements.occupation.tagName,'INPUT');assert.equal(env.doc.getElementById('self-identity-fields').className,'form-grid');
+ assert.deepEqual(env.doc.getElementById('self-description-fields').querySelectorAll('.self-text').map(item=>item.id),['self-text-self_description']);
+ assert.deepEqual(env.doc.getElementById('self-reflection-fields').querySelectorAll('.self-text').map(item=>item.id),['self_perception','recurring_patterns','emotions','current_context'].map(name=>'self-text-'+name));
+ assert.equal(host.querySelectorAll('textarea').length,0);assert.equal(host.querySelectorAll('.self-text-edit').length,5);
+ // No rule is left behind for the former collapsible groups and in-page text areas.
+ assert.doesNotMatch(HTML,/#self-profile(?:-form)? [^{}]*(?:summary|textarea)/);assert.doesNotMatch(HTML,/\.self-presentation textarea|\.self-reflections textarea/);
+ assert.match(HTML,/#self-profile \.profile-group\{margin:0 0 24px/);assert.match(HTML,/#self-profile \.profile-group \{\s*padding: 0 0 21px/);
+});
+
+test('the lists of close people and of moments show their heading without any counter',()=>{
+ const env=environment();vm.runInContext(functionCode('emptyState')+'\n'+functionCode('drawSourceSection'),env.ctx);env.ctx.drawSourceItem=()=>env.doc.createElement('article');
+ const people=['Anaïs','Bernard','Chloé','Driss','Élise'].map((display_name,index)=>({id:'p'+index,display_name,role:'friend'}));
+ const events=[{id:'e1',title:'Un déclic',date_precision:'year',date_start:'2020'},{id:'e2',title:'Sans date',date_precision:'unknown'}];
+ for(const [kind,rows,heading,cursor] of [['people',people,'Votre répertoire',null],['people',[],'Votre répertoire',null],['events',[],'Vos moments',null],['events',events.slice(0,1),'Vos moments',null],['events',events,'Vos moments','next-page']]){
+  const box=env.host(kind+'-content');env.ctx.state[kind]=rows;env.ctx.state.eventsCursor=cursor;env.ctx.drawSourceSection(kind);
+  const toolbar=box.querySelector('.source-toolbar');assert.equal(toolbar.textContent,heading);assert.equal(toolbar.children.length,1);assert.equal(toolbar.children[0].tagName,'H2');
+  assert.equal(box.querySelector('.source-count'),null);assert.doesNotMatch(box.textContent,/\d+ (?:proches?|moments?)|affichés/);
+  assert.equal(box.querySelectorAll('article').length,rows.length);assert.equal(box.querySelectorAll('.pagination-button').length,cursor?1:0);
+ }
+ assert.doesNotMatch(HTML,/source-count/);assert.doesNotMatch(functionCode('drawSourceSection'),/affichés|' proches'|' moments'/);assert.match(HTML,/\.source-tag \{/);
 });
 
 test('application contains no footer and keeps liked articles out of the portrait menu',()=>{
