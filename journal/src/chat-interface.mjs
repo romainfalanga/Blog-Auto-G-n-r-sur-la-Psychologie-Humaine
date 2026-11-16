@@ -151,7 +151,7 @@ function drawChat(view,current,options){
  messages.forEach(function(message){var entry=chatMessageEntry(shell,message,current,animate&&message.id!==data.welcome?.id);keys.add(String(message.id));entry.meta.replaceChildren();shell.thread.append(entry.item);
   if(message.role==='user'&&['failed','expired','cancelled'].includes(message.status)&&!(box&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')))entry.meta.append(el('p','helper','Réponse non aboutie.'));
   if(message.role==='user'&&box&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')&&['uncertain','failed'].includes(box.status)){
-   var retryButton=actionButton('Réessayer ce message',function(){retryChatMessage(box,current)},'text');retryButton.dataset.chatRetry=box.client_key;entry.meta.append(el('p','status error',box.error||'Ce message n’a pas abouti.'),retryButton);
+   var retryButton=actionButton('Réessayer ce message',function(){retryChatMessage(box,current)},'text');retryButton.dataset.chatRetry=box.client_key;var errorLine=el('p','status error'+(box.safety?' chat-safety-error':''),box.error||'Ce message n’a pas abouti.');if(box.safety){errorLine.style.whiteSpace='pre-line';errorLine.setAttribute('role','alert')}entry.meta.append(errorLine,retryButton);
   }
  });
  shell.messages.forEach(function(entry,id){if(!keys.has(id)){entry.item.remove();shell.messages.delete(id)}});
@@ -186,6 +186,8 @@ async function sendChat(form,current,retry){
   if(!chatIsCurrent(current)||state.chatOutbox!==box)return;
   var definitive=Number(err.status)>=400&&Number(err.status)<500||['provider_cooldown','provider_missing','generation_paused','subscription_required','consent_required'].includes(err.code);
   box.status=definitive?'failed':'uncertain';box.error=err.message+(definitive?' Votre texte reste disponible.':' L’envoi n’a pas été confirmé. Vous pouvez réessayer ce message.');state.chatSending=false;state.chatRequest=null;
+  // F17: a refused send that carries safety resources keeps them visible, line by line.
+  box.safety=/\b(?:3114|3919)\b|17 ou le 112|15 ou le 112/.test(err.message||'');var safetyFeedback=document.getElementById('chat-status');if(safetyFeedback)safetyFeedback.style.whiteSpace=box.safety?'pre-line':'';
   if(definitive){state.chatSendKey=null;if(!state.chatDraft&&!input.value){input.value=content;state.chatDraft=content;box.restored=true}}
   if(view)drawChat(view,current);updateChatControls();status('chat-status',box.error,true);
   try{var latest=await api('/api/chat');if(!chatIsCurrent(current)||state.chatOutbox!==box)return;state.chatData=latest;reconcileChatTurn(latest);if(view)drawChat(view,current,{animate:true});applyChatAvailability(latest,current);if(state.chatSending)pollChat(state.chatRequest||{id:box.request_id,client_key:key},current,null)}catch(ignore){}

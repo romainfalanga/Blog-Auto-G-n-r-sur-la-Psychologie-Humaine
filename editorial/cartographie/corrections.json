@@ -1499,6 +1499,153 @@
    "outcome": "ten_qualite_relationnelle",
    "remove": true,
    "reason": "Saldaña2022 porte sur des adultes ayant quitté un groupe à forte emprise, sans exposition infantile distincte. Même inadéquation d’âge documentée par le lot9 pour la dépression ; aucun nouveau lien substitué."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_maladies_cardiovasculaires",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Soares 2022 (UK Biobank, rétrospectif) : harmonisé avec la carte « santé physique » qui citait déjà cette cohorte en « limitée »."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_maladies_cardiovasculaires",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Soares 2022 (UK Biobank, rétrospectif) : harmonisé avec la carte « santé physique » qui citait déjà cette cohorte en « limitée »."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_maladies_cardiovasculaires",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Soares 2022 (UK Biobank, rétrospectif) : harmonisé avec la carte « santé physique » qui citait déjà cette cohorte en « limitée »."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_maladies_cardiovasculaires",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Soares 2022 (UK Biobank, rétrospectif) : harmonisé avec la carte « santé physique » qui citait déjà cette cohorte en « limitée »."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_maladies_cardiovasculaires",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Soares 2022 (UK Biobank, rétrospectif) : harmonisé avec la carte « santé physique » qui citait déjà cette cohorte en « limitée »."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_symptomes_premenstruels",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_symptomes_premenstruels",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_tabagisme_persistant",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_tabagisme_persistant",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_usage_cannabis",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_usage_cannabis",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_qualite_relationnelle",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "ten_usage_substances",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "demenagements",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b01",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b02",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés."
+  },
+  {
+   "factor": "parent_addiction",
+   "outcome": "icd_6c40_2",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C (revue 2026-11-18 §5.1, §8.5) : une seule étude primaire (cohorte) ; même exigence que pour les études isolées, force plafonnée à « limitée ». Sens, population et résumé relus, inchangés. Kosty 2020 : 730 descendants, critères DSM-IV, part génétique non séparée."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_difficultes_professionnelles",
+   "strength": "limitee",
+   "reason": "Plan v4.1 lot C : Brimblecombe 2018 et Takizawa 2014 analysent la même cohorte britannique de 1958 (NCDS), vérifié sur les deux résumés Europe PMC le 18/11/2026 ; une seule cohorte, force plafonnée à « limitée »."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "limitee",
+   "summary": "Chez les jeunes de 5 à 24 ans, une méta-analyse associe la négligence affective à des tentatives de suicide plus fréquentes, à partir de peu d'études aux estimations très hétérogènes.",
+   "reason": "Plan v4.1 lot C (revue §3.3, §8.4) : seule source Angelakis 2020, même résultat que la carte « tentatives de suicide » notée « limitée » ; forces harmonisées vers le bas."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_conduites_suicidaires",
+   "strength": "moderee",
+   "summary": "Des méta-analyses associent les violences psychologiques infantiles à davantage d'idées suicidaires chez l'adulte et de tentatives chez les jeunes ; pour les tentatives, peu d'études aux estimations très hétérogènes. Ces résultats de groupe ne s'appliquent pas automatiquement aux automutilations sans intention suicidaire.",
+   "reason": "Plan v4.1 lot C (revue §8.4) : l'agrégat repose sur Angelakis 2019 (idées, « modérée ») et Angelakis 2020 (tentatives, « limitée ») ; il ne peut pas être plus fort que ses composantes."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "summary": "Des méta-analyses associent les violences sexuelles infantiles à davantage de troubles anxieux ultérieurs, mais une revue de synthèse juge faible la qualité des méta-analyses sur l'anxiété. Ce résultat ne prédit pas la santé d'une personne.",
+   "reason": "Plan v4.1 lot C (revue §5.2 n°4, §8.5) : Hailes 2019 (texte intégral PMC7015702 relu le 18/11/2026) juge faible (AMSTAR 1/5) la qualité des méta-analyses sur l'anxiété ; Li 2016 ne donne qu'une estimation combinée."
+  },
+  {
+   "factor": "isolement_social_enfant",
+   "outcome": "ten_usage_substances",
+   "remove": true,
+   "reason": "Plan v4.1 lot C (revue §5.2 n°23, §8.6) : résumé de Lacey 2014 relu le 18/11/2026 (Europe PMC) ; l'issue étudiée est la CRP à 44 ans, le tabagisme n'est qu'un médiateur (« plus susceptibles de fumer ») ; ni usage problématique ni tabagisme persistant mesurés. Aucun reciblage."
   }
  ],
  "retarget": [],

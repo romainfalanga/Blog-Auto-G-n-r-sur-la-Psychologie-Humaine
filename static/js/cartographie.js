@@ -3,8 +3,10 @@
 (function (root) {
   'use strict';
 
-  var TIER_ORDER = { convergence: 0, piste: 1, theorique: 2 };
   var STRONG = { forte: true, moderee: true };
+  // Only empirical associations (strong, moderate or limited) count as an associated
+  // experience. Clinical models, definitions and classification contexts are shown apart.
+  var ASSOCIATED = { forte: true, moderee: true, limitee: true };
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
   function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité (dimension)', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma (modèle clinique)', schema_coping_style: 'Style d’adaptation aux schémas (modèle clinique)', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
@@ -39,19 +41,26 @@
     var outcomes = {};
     (data.outcomes || []).forEach(function (o) { outcomes[o.id] = o; });
     var results = Object.keys(byOutcome).filter(function (id) { return outcomes[id] && !outcomes[id].retired; }).map(function (id) {
-      var links = byOutcome[id].slice().sort(function (a, b) { return weights[b.strength] - weights[a.strength]; });
-      var factors = links.map(function (l) { return l.factor; });
       var relation = function (l) { return l.relation_type || (l.definitional ? 'definitional' : l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); };
-      var empirical = links.filter(function (l) { return !l.definitional && relation(l) === 'empirical_association'; });
+      var isEmpirical = function (l) { return !l.definitional && relation(l) === 'empirical_association'; };
+      // Empirical links first, then by strength; the other references follow, never counted.
+      var links = byOutcome[id].slice().sort(function (a, b) { return Number(isEmpirical(b)) - Number(isEmpirical(a)) || weights[b.strength] - weights[a.strength]; });
+      var factors = links.map(function (l) { return l.factor; });
+      var empirical = links.filter(isEmpirical);
+      var associated = [];
+      empirical.forEach(function (l) { if (ASSOCIATED[l.strength] && associated.indexOf(l.factor) === -1) associated.push(l.factor); });
       var groups = new Set(empirical.filter(function (l) { return STRONG[l.strength]; }).map(function (l) { return factorIndex[l.factor].overlap_group || l.factor; }));
       // Editorial families reduce overlapping checkboxes. They do not establish
       // statistical independence, diagnostic convergence or increased certainty.
       var tier = outcomes[id].contextual_only ? 'theorique' : groups.size >= 2 ? 'convergence' : groups.size ? 'piste' : 'theorique';
       var score = empirical.reduce(function (best, l) { return Math.max(best, weights[l.strength] || 0); }, 0);
-      return { outcome: outcomes[id], links: links, factors: factors, tier: tier, score: score, evidence_groups: groups.size, relation_types: Array.from(new Set(links.map(relation))) };
+      return { outcome: outcomes[id], links: links, factors: factors, associated_factors: associated, associated_count: associated.length, other_links: links.length - empirical.length, tier: tier, score: score, evidence_groups: groups.size, relation_types: Array.from(new Set(links.map(relation))) };
     });
+    // One public order, shared with Ambre: contextual references last; then the number
+    // of experiences linked by an empirical association, distinct evidence families,
+    // strongest empirical evidence. Never a sum of risks; intensity stays context.
     results.sort(function (a, b) {
-      return TIER_ORDER[a.tier] - TIER_ORDER[b.tier] || b.evidence_groups - a.evidence_groups || b.score - a.score || a.outcome.id.localeCompare(b.outcome.id, 'en');
+      return Number(Boolean(a.outcome.contextual_only)) - Number(Boolean(b.outcome.contextual_only)) || b.associated_count - a.associated_count || b.evidence_groups - a.evidence_groups || b.score - a.score || a.outcome.id.localeCompare(b.outcome.id, 'en');
     });
     var aceCount = new Set((data.factors || []).filter(function (f) { return f.ace && chosen.has(f.id); }).map(function (f) {
       var exclusive = (data.exclusive || []).find(function (group) { return group.indexOf(f.id) !== -1; });

@@ -4,32 +4,32 @@
   {
    "id": "violences",
    "label": "Violences et maltraitance",
-   "description": "Actes subis ou vus, de la part d'adultes ou de pairs."
+   "description": "Actes subis ou vus avant 18 ans, de la part d'adultes ou de pairs."
   },
   {
    "id": "negligence",
    "label": "Manques de soins et de présence",
-   "description": "Besoins physiques ou affectifs qui n'étaient pas assurés."
+   "description": "Besoins physiques ou affectifs qui n'étaient pas assurés avant 18 ans."
   },
   {
    "id": "famille",
    "label": "Situation familiale",
-   "description": "Événements et difficultés qui touchaient la famille."
+   "description": "Événements et difficultés qui touchaient la famille, avant 18 ans."
   },
   {
    "id": "climat",
    "label": "Climat éducatif et relationnel",
-   "description": "La manière dont on était traité au quotidien."
+   "description": "La manière dont on était traité au quotidien, avant 18 ans."
   },
   {
    "id": "ressentis",
    "label": "Ressentis de l'enfance",
-   "description": "Impressions durables que l'on garde de cette période."
+   "description": "Impressions durables que l'on garde de son enfance et de son adolescence."
   },
   {
    "id": "contexte",
    "label": "Contexte social et événements",
-   "description": "Ce qui se passait hors de la famille."
+   "description": "Ce qui se passait hors de la famille, avant 18 ans."
   }
  ],
  "factors": [
@@ -382,7 +382,7 @@
    "label": "Racisme ou discrimination",
    "description": "Être traité différemment ou rabaissé pour son origine, sa religion, son genre, son orientation ou un handicap.",
    "examples": [
-    "Rejet familial lié à l'orientation ou à l'identité",
+    "Moqueries ou mises à l'écart liées à l'origine, à la couleur de peau ou à la religion",
     "Stigmatisation à cause d'un handicap ou de difficultés d'apprentissage"
    ],
    "ace": false
@@ -413,7 +413,12 @@
    "group": "contexte",
    "label": "Événement traumatique ponctuel",
    "description": "Accident grave, catastrophe, agression, menace de mort.",
-   "examples": [],
+   "examples": [
+    "Accident de la route",
+    "Incendie",
+    "Catastrophe naturelle",
+    "Attentat"
+   ],
    "ace": false
   },
   {
@@ -450,7 +455,7 @@
    "id": "parent_absent",
    "group": "famille",
    "label": "Parent longtemps éloigné ou absent",
-   "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un père qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective ».",
+   "description": "Un parent parti travailler loin, souvent absent pendant de longues périodes, ou un parent qui n'a pas vécu avec vous. S'il était là mais peu attentif, cochez plutôt « Négligence affective ».",
    "examples": [
     "Parent parti travailler dans une autre ville ou un autre pays",
     "Parent toujours en déplacement"
@@ -503,8 +508,8 @@
   {
    "id": "punitions_corporelles",
    "group": "violences",
-   "label": "Punitions corporelles « ordinaires »",
-   "description": "Fessées, tapes ou gifles occasionnelles utilisées comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
+   "label": "Fessées, tapes ou gifles éducatives",
+   "description": "Gestes physiques occasionnels utilisés comme moyen d'éducation. Si les coups étaient violents, laissaient des marques ou faisaient peur pour sa sécurité, cochez plutôt « Violences physiques ».",
    "examples": [],
    "ace": false
   },

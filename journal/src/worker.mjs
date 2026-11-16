@@ -45,6 +45,21 @@ async function limit(env,key,max,seconds) {
   const row=await first(env,`INSERT INTO rate_limits(key,count,expires_at) VALUES(?,1,?) ON CONFLICT(key) DO UPDATE SET count=CASE WHEN expires_at<=? THEN 1 ELSE count+1 END, expires_at=CASE WHEN expires_at<=? THEN ? ELSE expires_at END RETURNING count`,k,t+seconds,t,t,t+seconds);
   if(row.count>max) error(429,'Trop de tentatives. Réessayez plus tard.');
 }
+// F11: the Worker sits behind the Netlify proxy, so CF-Connecting-IP is the proxy's
+// egress address shared by every visitor. Netlify forwards the visitor address in
+// x-nf-client-connection-ip. Without a signed header this value can be forged, which
+// only lets a client escape the per-address limiter: the per-email limiter remains,
+// and nobody can block every login at once any more. IPv6 is grouped by /64.
+export function clientAddress(request) {
+  const raw=String(request.headers.get('x-nf-client-connection-ip')||request.headers.get('CF-Connecting-IP')||'').trim().slice(0,64);
+  if(!raw) return 'unknown';
+  if(raw.includes(':')) {
+    const [head,tail='']=raw.toLowerCase().split('::'),left=head?head.split(':'):[],right=tail?tail.split(':'):[];
+    const groups=raw.includes('::')?[...left,...Array(Math.max(0,8-left.length-right.length)).fill('0'),...right]:left;
+    return groups.slice(0,4).map(g=>(g||'0').replace(/^0+(?=.)/,'')).join(':')+'::/64';
+  }
+  return raw;
+}
 function originCheck(request,env) {
   const expected=env.PUBLIC_ORIGIN||new URL(request.url).origin;
   if(request.headers.get('origin')!==expected) error(403,'Origine de la requête refusée.');
@@ -173,6 +188,8 @@ async function internal(request,env,path) {
   await githubIdentity(request,env);
   if(request.method!=='POST') error(405,'Méthode non autorisée.');
   if(path==='/api/internal/jobs/run') return json(await runGenerationBatch(env));
+  // F13: aggregated counters, backlog and cooldowns; never any private text.
+  if(path==='/api/internal/metrics') return json(await chat.metrics(env));
   if(path==='/api/internal/jobs/claim') return claimJobs(env);
   const match=path.match(/^\/api\/internal\/jobs\/([\w-]+)\/(complete|fail|llm)$/);if(!match) error(404,'Route inconnue.');
   const data=await body(request,1000000);
@@ -220,8 +237,11 @@ async function routes(request,env,ctx) {
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
     const data=await body(request,3000),email=text(data.email,254).toLowerCase(),password=data.password;
     if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)||typeof password!=='string'||password.length<12||password.length>256) error(400,'Saisissez une adresse valide et un mot de passe de 12 caractères minimum.');
-    await limit(env,'auth-ip:'+request.headers.get('CF-Connecting-IP'),30,900); await limit(env,'auth-email:'+email,12,900);
+    const address=clientAddress(request);
+    await limit(env,'auth-ip:'+address,30,900); await limit(env,'auth-email:'+email,12,900);
     if(path.endsWith('register')) {
+      // F12: bounded account creation per address and per day (ACCOUNT_CREATIONS_PER_IP_DAY, default 20).
+      await limit(env,'register-ip-day:'+address,Math.max(1,Number(env.ACCOUNT_CREATIONS_PER_IP_DAY)||20),86400);
       const role=data.role||'member';if(!['member','psychologist'].includes(role))error(400,'Type de compte invalide.');
       const professional=role==='psychologist'?{name:text(data.professional?.name,160),title:text(data.professional?.title,160),registration_number:text(data.professional?.registration_number,80)}:null;
       if(professional&&Object.values(professional).some(v=>!v))error(400,'Indiquez votre nom, votre titre et votre numéro professionnel déclarés.');
@@ -402,10 +422,23 @@ async function routes(request,env,ctx) {
   }
   error(404,'Route inconnue.');
 }
+// F11/F14: expired limiter rows and sessions are purged in bounded batches.
+async function housekeeping(env) {
+  const t=now();
+  const limits=await run(env,'DELETE FROM rate_limits WHERE key IN (SELECT key FROM rate_limits WHERE expires_at<=? LIMIT 500)',t);
+  const sessions=await run(env,'DELETE FROM sessions WHERE token_hash IN (SELECT token_hash FROM sessions WHERE expires_at<=? LIMIT 500)',t);
+  return {rate_limits_purged:limits.meta.changes,sessions_purged:sessions.meta.changes};
+}
 export default {
   async scheduled(controller,env,ctx) {
-    // Portraits and Ambre's written reviews are resumed independently, in bounded batches.
-    const work=Promise.allSettled([runGenerationBatch(env),resumeReviews(env),chat.resumeEngine(env),care.resume(env)]).then(([portraits,reviews,engine,careWork])=>{if(portraits.status==='rejected')throw portraits.reason;return {...portraits.value,reviews:reviews.status==='fulfilled'?reviews.value:{error:true},engine:engine.status==='fulfilled'?engine.value:{error:true},care:careWork.status==='fulfilled'?careWork.value:{error:true}};});
+    // Portraits, reviews, conversation, care and housekeeping are isolated chains
+    // (F13): one failure never hides the others, and only typed counters are kept.
+    const started=Date.now(),chains=[['portraits',()=>runGenerationBatch(env)],['reviews',()=>resumeReviews(env)],['engine',()=>chat.resumeEngine(env)],['care',()=>care.resume(env)],['housekeeping',()=>housekeeping(env)]];
+    const work=Promise.allSettled(chains.map(([,run])=>run())).then(async settled=>{
+      const out=Object.fromEntries(chains.map(([name],i)=>[name,settled[i].status==='fulfilled'?settled[i].value:{error:true}]));
+      await chat.recordCron(env,{failed:chains.filter((_,i)=>settled[i].status==='rejected').map(([name])=>name),engine:out.engine,reviews:out.reviews,duration_ms:Date.now()-started}).catch(()=>null);
+      const {portraits,...rest}=out;return {...(portraits?.error?{portraits}:portraits),...rest};
+    });
     if(ctx?.waitUntil) ctx.waitUntil(work);
     return work;
   },

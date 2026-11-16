@@ -3635,12 +3635,12 @@
   "final_validation": {
     "status": "passed",
     "reviewed_on": "2026-11-17",
-    "graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
+    "graph_core_sha256": "13ad65d205d8682345e8dceb5f1f5b69ee0d0eb0e0c635e63fefa72ae60877dd",
     "active_factors": 59,
     "active_outcomes": 109,
     "resources": 11,
-    "links": 493,
-    "sources": 260,
+    "links": 496,
+    "sources": 261,
     "retired_outcomes": 3,
     "all_semantic_targets_exist": true,
     "no_semantic_targets_are_retired": true,
@@ -3651,7 +3651,10 @@
     "all_858_icd_codes_present_structurally": true,
     "unresolved_registry_source_ids": [],
     "does_not_validate_clinical_criteria_or_causality": true,
-    "post_integration_delta_independently_reviewed": true
+    "post_integration_delta_independently_reviewed": true,
+    "revalidated_on": "2026-11-18",
+    "revalidated_by": "lot_C_v4_1",
+    "v4_delta_independent_review": "pending"
   },
   "post_integration_reviews": [
     {
@@ -3694,6 +3697,142 @@
       "all_858_icd_codes_and_original_lot_decisions_preserved": true,
       "other_links_unchanged": true,
       "factors_resources_and_retired_outcomes_unchanged": true
+    },
+    {
+      "reviewed_by": "lot_C_v4_1",
+      "reviewed_on": "2026-11-18",
+      "plan": "docs/plan-ambre-v4-2026-11-18.md (révision v4.1, lot C : C3 et C4) ; journal docs/v4-C-avancement.md",
+      "previous_graph_core_sha256": "f60aaa891c0c8e884385176e4c61e292123e041c025bc735fe34ff884584146d",
+      "validated_graph_core_sha256": "13ad65d205d8682345e8dceb5f1f5b69ee0d0eb0e0c635e63fefa72ae60877dd",
+      "changes": [
+        {
+          "type": "links_lowered_single_cohort",
+          "strength": [
+            "moderee",
+            "limitee"
+          ],
+          "links": [
+            "abus_emotionnel → ten_maladies_cardiovasculaires",
+            "abus_physique → ten_maladies_cardiovasculaires",
+            "abus_sexuel → ten_maladies_cardiovasculaires",
+            "negligence_emotionnelle → ten_maladies_cardiovasculaires",
+            "negligence_physique → ten_maladies_cardiovasculaires",
+            "abus_emotionnel → ten_symptomes_premenstruels",
+            "abus_physique → ten_symptomes_premenstruels",
+            "abus_emotionnel → ten_tabagisme_persistant",
+            "abus_physique → ten_tabagisme_persistant",
+            "abus_emotionnel → ten_usage_cannabis",
+            "abus_physique → ten_usage_cannabis",
+            "abus_physique → ten_qualite_relationnelle",
+            "deces_proche → anx_generale",
+            "deces_proche → ten_usage_substances",
+            "demenagements → ten_conduites_suicidaires",
+            "harcelement → icd_6b01",
+            "harcelement → icd_6b02",
+            "harcelement → pat_social_isolation",
+            "parent_addiction → icd_6c40_2"
+          ],
+          "reason": "Une seule étude primaire (cohorte) : plafond « limitée », comme pour les études isolées (revue §5.1, §8.5). Sens, population et résumés relus sur les notices déjà publiées ; aucun résumé ne dépend de la force."
+        },
+        {
+          "type": "link_lowered_single_cohort",
+          "link": "harcelement → ten_difficultes_professionnelles",
+          "strength": [
+            "moderee",
+            "limitee"
+          ],
+          "independent_reading": "Résumés Europe PMC de Brimblecombe 2018 (PMID 29803971) et Takizawa 2014 (PMID 24743774) relus : même cohorte britannique de 1958 (NCDS).",
+          "reason": "Deux articles d'une seule cohorte."
+        },
+        {
+          "type": "links_harmonized",
+          "links": [
+            "negligence_emotionnelle → ten_conduites_suicidaires",
+            "abus_emotionnel → ten_conduites_suicidaires"
+          ],
+          "strength": [
+            [
+              "moderee",
+              "limitee"
+            ],
+            [
+              "forte",
+              "moderee"
+            ]
+          ],
+          "reason": "Angelakis 2020 seul alimentait l'agrégat et la carte « tentatives » avec deux forces ; l'agrégat Angelakis 2019+2020 des violences psychologiques ne peut dépasser ses composantes (idées « modérée », tentatives « limitée »). Norman 2012 (PMC3507962, relu) rapporte une association négligence → tentatives : l'agrégat de la négligence physique, qui cite aussi Norman, reste « modérée »."
+        },
+        {
+          "type": "link_lowered",
+          "link": "abus_sexuel → anx_generale",
+          "strength": [
+            "forte",
+            "moderee"
+          ],
+          "independent_reading": "Hailes 2019, texte intégral PMC7015702 relu : qualité AMSTAR 1/5 pour les méta-analyses sur l'anxiété (OR 2,7).",
+          "reason": "Résumé complété par cette réserve."
+        },
+        {
+          "type": "link_removed",
+          "link": "isolement_social_enfant → ten_usage_substances",
+          "source_id": "lacey2014",
+          "independent_reading": "Résumé Lacey 2014 (PMID 25197797, Europe PMC) relu : issue = CRP à 44 ans ; tabagisme seulement médiateur.",
+          "reason": "Glissement de construit ; ni usage problématique ni tabagisme persistant mesurés ; pas de reciblage. La source n'est plus utilisée par le graphe (registre inchangé)."
+        },
+        {
+          "type": "links_added_classification_context",
+          "links": [
+            "exil → icd_6b40",
+            "exil → icd_6b41"
+          ],
+          "source_id": "cim11_cddr_stress",
+          "independent_reading": "CDDR OMS 2024, PDF anglais IRIS 10665/375767 ouvert : exigences essentielles 6B40 (combat, torture, terrorisme, catastrophes…) et 6B41 (torture, camps, génocide, autres violences organisées).",
+          "reason": "Parité avec traumatisme_ponctuel, temoin_violences, deces_proche ; aucune valeur empirique, aucune association avec l'exil en tant que tel."
+        },
+        {
+          "type": "link_added",
+          "link": "temoin_violences → ten_externalisation",
+          "strength": "limitee",
+          "source_id": "vu2016_temoin",
+          "independent_reading": "Résumé Vu 2016 (PMID 27136293) : 74 études longitudinales, exposition des enfants aux violences entre partenaires → problèmes externalisés. Texte intégral fermé (Unpaywall, Semantic Scholar).",
+          "reason": "La source mesure bien le vécu (violences entre partenaires vues ou entendues) et le sujet (externalisation) ; méthodes et tableaux non lus : plafond « limitée » au lieu de la « modérée » proposée par la revue."
+        },
+        {
+          "type": "link_added",
+          "link": "precarite → dep_generale",
+          "strength": "limitee",
+          "source_id": "gilman2003_precarite",
+          "independent_reading": "Résumé Gilman 2003 (PMID 12727699) : 1 104 descendants, faible statut socio-économique avant la naissance et à 7 ans → épisode dépressif majeur 18–39 ans, indépendamment du statut adulte.",
+          "reason": "Une cohorte ; la précarité n'est mesurée que par le statut socio-économique, ce que dit le résumé."
+        },
+        {
+          "type": "proposal_not_applied",
+          "link": "abus_sexuel → icd_6b60",
+          "independent_reading": "Hailes 2019 (PMC7015702, tableau 1) : le résultat « trouble de conversion » provient de Ludwig 2018, déjà seule source du lien.",
+          "reason": "Pas de preuve indépendante : ni source ajoutée ni force relevée."
+        },
+        {
+          "type": "factor_wording",
+          "factor_ids": [
+            "punitions_corporelles",
+            "parent_absent",
+            "traumatisme_ponctuel",
+            "discrimination"
+          ],
+          "group_ids": [
+            "violences",
+            "negligence",
+            "famille",
+            "climat",
+            "ressentis",
+            "contexte"
+          ],
+          "independent_check": "Libellé « Fessées, tapes ou gifles éducatives », « un parent », exemples neutres, doublon d'orientation retiré de discrimination (conservé dans abus_emotionnel), « avant 18 ans » dans les thèmes. Identifiants et réponses inchangés. Les décisions separation_reunion, ambiguous_loss et discrimination_context qui ciblent ces facteurs restent exactes."
+        }
+      ],
+      "independent_review_of_this_delta": "pending",
+      "all_161_targets_still_exist": true,
+      "factors_outcomes_resources_and_retired_outcomes_identifiers_unchanged": true
     }
   ]
 }
