@@ -4,7 +4,7 @@ import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,readdirSync} from 'node:fs';
 import {createRequire} from 'node:module';
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
-import {validateCartography,computeCartography,summarizeCartography,cartographyHighlights,companionCartography,chooseAmbreNotes,appendAmbreNotes} from '../src/cartographie.mjs';
+import {validateCartography,computeCartography,summarizeCartography,cartographyHighlights,companionCartography,cartographyEvidence,chooseAmbreNotes,appendAmbreNotes} from '../src/cartographie.mjs';
 import {loadContext} from '../src/private-context.mjs';
 import {createPersonalBackend} from '../src/personal-backend.mjs';
 import {createChatBackend} from '../src/chat-backend.mjs';
@@ -48,7 +48,7 @@ test('validation accepts known identifiers and normalizes their order',()=>{
 
 test('validation rejects unknown ids, invalid intensities, invalid feedback and wrong shapes',()=>{
  const f=CARTOGRAPHIE.factors[0].id,o=CARTOGRAPHIE.outcomes[0].id;
- for(const input of [{answers:{inconnu:1}},{answers:{[f]:3}},{answers:{[f]:'2'}},{answers:{[f]:true}},{answers:{[f]:0}},{answers:[f]},{answers:null},{},
+ for(const input of [{answers:{inconnu:1}},{answers:{[f]:3}},{answers:{[f]:'2'}},{answers:{[f]:true}},{answers:[f]},{answers:null},{},
   {answers:{[f]:1},feedback:{[o]:'peut-être'}},{answers:{[f]:1},feedback:{inconnue:'oui'}},{answers:{[f]:1},feedback:[o]},{answers:JSON.parse('{"__proto__":1}')},{answers:{[f]:1},feedback:{[o]:1}}])
   assert.throws(()=>validateCartography(input,fail),e=>e.status===400&&e.code==='invalid_cartography',JSON.stringify(input));
 });
@@ -64,27 +64,27 @@ test('the Worker ranking matches the public page compute on the real dataset, wi
  }
 });
 
-test('the public compute keeps accepting lists and Sets as intensity 1 and weighs intensity 2 by 1.5',()=>{
+test('the public compute keeps accepting lists and Sets without an intensity multiplier',()=>{
  const data={weights:{forte:3,moderee:2,limitee:1,theorique:1},factors:[{id:'a'},{id:'b'}],outcomes:[{id:'o',label:'O',kind:'schema'}],links:[{factor:'a',outcome:'o',strength:'forte'},{factor:'b',outcome:'o',strength:'limitee',definitional:true}]};
  assert.equal(publicPage.compute(data,['a']).results[0].score,3);
  assert.equal(publicPage.compute(data,new Set(['a'])).results[0].score,3);
  assert.equal(publicPage.compute(data,{a:1}).results[0].score,3);
- assert.equal(publicPage.compute(data,{a:2}).results[0].score,4.5);
- assert.equal(publicPage.compute(data,{a:2,b:2}).results[0].score,5.25);
+ assert.equal(publicPage.compute(data,{a:2}).results[0].score,3);
+ assert.equal(publicPage.compute(data,{a:2,b:2}).results[0].score,3);
  assert.equal(publicPage.compute(data,{a:2,b:2}).results[0].tier,'piste');
  assert.equal(publicPage.compute(data,{a:3}).selectedCount,0);
- assert.equal(computeCartography({a:2,b:2},data).results[0].score,5.25);
+ assert.equal(computeCartography({a:2,b:2},data).results[0].score,3);
 });
 
 test('the summary lists causes, convergences, leads and the person’s feedback; definitional links do not converge',()=>{
  const data={weights:{forte:3,critere:2,moderee:2,limitee:1,theorique:1},factors:[{id:'a',label:'A',ace:true},{id:'b',label:'B'},{id:'c',label:'C'}],
   outcomes:[{id:'conv',label:'Convergente',kind:'trouble',code:'6B40',url:'/posts/x/y/'},{id:'def',label:'Définitionnelle',kind:'schema'},{id:'solo',label:'Seule',kind:'tendance'},{id:'theo',label:'Théorique',kind:'tendance'},{id:'sui',label:'Idées suicidaires',kind:'tendance',note:'suicide'}],
-  links:[{factor:'a',outcome:'conv',strength:'forte'},{factor:'b',outcome:'conv',strength:'limitee'},{factor:'a',outcome:'def',strength:'moderee',definitional:true},{factor:'b',outcome:'def',strength:'moderee'},{factor:'c',outcome:'solo',strength:'moderee'},{factor:'c',outcome:'theo',strength:'theorique'},{factor:'a',outcome:'sui',strength:'moderee'}]};
+  links:[{factor:'a',outcome:'conv',strength:'forte'},{factor:'b',outcome:'conv',strength:'moderee'},{factor:'a',outcome:'def',strength:'moderee',definitional:true},{factor:'b',outcome:'def',strength:'moderee'},{factor:'c',outcome:'solo',strength:'moderee'},{factor:'c',outcome:'theo',strength:'theorique'},{factor:'a',outcome:'sui',strength:'moderee'}]};
  const s=summarizeCartography({a:2,b:1,c:1},{solo:'oui',theo:'non',sui:'oui'},{data});
  assert.equal(s.cause_count,3);assert.equal(s.ace_count,1);
  assert.deepEqual(s.causes,[{id:'a',label:'A',intensity:2},{id:'b',label:'B',intensity:1},{id:'c',label:'C',intensity:1}]);
  assert.deepEqual(s.convergence.map(x=>x.id),['conv']);
- assert.deepEqual(s.convergence[0],{id:'conv',label:'Convergente',kind:'trouble',code:'6B40',tier:'convergence',causes:['A','B'],max_strength:'forte',url:'/posts/x/y/'});
+ assert.deepEqual(s.convergence[0],{id:'conv',label:'Convergente',kind:'trouble',code:'6B40',tier:'convergence',causes:['A','B'],max_strength:'forte',relation_types:['empirical_association'],evidence_groups:2,url:'/posts/x/y/'});
  assert.ok(s.pistes.some(x=>x.id==='def'),'a definitional link alone leaves a lead');
  assert.equal(s.pistes.find(x=>x.id==='solo').feedback,'oui');
  assert.equal(s.theorique_count,1);
@@ -100,6 +100,41 @@ test('only a locked map saved with consent reaches Ambre',()=>{
  assert.equal(companionCartography({answers:JSON.stringify(answers),feedback:'{}',consent:1,locked_at:null,version:1}),null);
  assert.equal(companionCartography({answers:JSON.stringify(answers),feedback:'{}',consent:0,locked_at:5,version:1}),null);
  assert.equal(companionCartography({answers:JSON.stringify(answers),feedback:'{}',consent:1,locked_at:5,version:3}).version,3);
+});
+
+test('explicit negative answers are preserved without becoming reported experiences',()=>{
+ const answers={abus_physique:0,abus_sexuel:2};
+ assert.deepEqual(validateCartography({answers},fail).answers,answers);
+ const summary=summarizeCartography(answers);
+ assert.equal(summary.cause_count,1);assert.equal(summary.answered_count,2);
+ assert.deepEqual(summary.explicit_negative,[{id:'abus_physique',label:'Violences physiques'}]);
+ assert.deepEqual(summary.causes.map(x=>x.id),['abus_sexuel']);
+ assert.equal(computeCartography({abus_physique:0}).results.length,0);
+ assert.throws(()=>validateCartography({answers:{divorce:1,separation_conflit:2}},fail),e=>e.code==='invalid_cartography');
+ assert.equal(computeCartography({divorce:1,separation_conflit:2}).aceCount,1,'old contradictory maps do not double count parental separation');
+});
+
+test('childhood diagnoses remain context and age restrictions survive recognition and evidence',()=>{
+ const answers={negligence_emotionnelle:1,negligence_physique:1,soins_instables:2};
+ const summary=summarizeCartography(answers,{icd_6b44:'oui'});
+ assert.ok(summary.contextual.some(o=>o.id==='icd_6b44'&&o.age_scope==='young_child_only'&&o.contextual_only));
+ assert.ok(summary.recognized.find(o=>o.id==='icd_6b44').contextual_only);
+ assert.ok(!cartographyHighlights(summary,100).some(o=>['icd_6b44','icd_6b45'].includes(o.id)));
+ const evidence=cartographyEvidence(answers,{icd_6b44:'oui'});
+ const entry=evidence.evidence.find(o=>o.id==='icd_6b44');
+ assert.equal(entry.age_scope,'young_child_only');assert.equal(entry.contextual_only,true);
+ assert.ok(entry.links.every(l=>Array.isArray(l.source_ids)&&l.relation_type&&typeof l.definitional==='boolean'));
+ assert.ok(evidence.evidence_sources.length>0);
+ for(const id of entry.links.flatMap(l=>l.source_ids))assert.ok(evidence.evidence_sources.some(s=>s.id===id&&s.url.startsWith('https://')));
+});
+
+test('public and backend agree for every factor pair, including explicit negatives',()=>{
+ const ids=CARTOGRAPHIE.factors.map(f=>f.id);
+ for(let a=0;a<ids.length;a++)for(let b=a;b<ids.length;b++){
+  const answers={[ids[a]]:1,[ids[b]]:2,[ids[(b+1)%ids.length]]:0};
+  const page=publicPage.compute(CARTOGRAPHIE,answers),worker=computeCartography(answers);
+  assert.deepEqual(worker,page);
+ }
 });
 
 // Worker harness: same in-memory D1 and import rewriting as backend.test.mjs.

@@ -315,8 +315,8 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  // Compact childhood map for the model: labels and tiers, no public URL.
  function cartographyPrompt(map){
   if(!map)return null;
-  const item=({url,note,...x})=>({...x,...(note==='suicide'?{note}:{})});
-  return {version:map.version,locked_at:map.locked_at,cause_count:map.cause_count,ace_count:map.ace_count,causes:map.causes,convergence:map.convergence.map(item),pistes:map.pistes.map(item),theorique_count:map.theorique_count,recognized:map.recognized,dismissed:map.dismissed,suicide_recognized:map.suicide_recognized,truncated:map.truncated,evidence:(map.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(map.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(map)};
+  const item=({url,...x})=>x;
+  return {version:map.version,locked_at:map.locked_at,cause_count:map.cause_count,ace_count:map.ace_count,answered_count:map.answered_count,explicit_negative:map.explicit_negative||[],contextual:(map.contextual||[]).map(item),exploratory:(map.exploratory||[]).map(item),evidence_sources:(map.evidence_sources||[]).map(({url,...reference})=>reference),causes:map.causes,convergence:map.convergence.map(item),pistes:map.pistes.map(item),theorique_count:map.theorique_count,recognized:map.recognized,dismissed:map.dismissed,suicide_recognized:map.suicide_recognized,truncated:map.truncated,evidence:(map.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(map.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(map)};
  }
  // The member's notes, checked resources and Ambre's own notes, within a fixed budget.
  // Ambre's most recent notes are kept first; the list stays in chronological order.
@@ -375,7 +375,8 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
     const optional=childhoodMap&&childhoodMap.convergence.length>3?childhoodMap.convergence.findLastIndex(x=>x.feedback!=='oui'):-1;
     if(optional>=0){childhoodMap.convergence.splice(optional,1);childhoodMap.truncated=true;continue;}
     if(childhoodMap?.evidence.length>1){childhoodMap.evidence.pop();childhoodMap.evidence_truncated=true;continue;}
-    if(childhoodMap?.person_notes.length>6){childhoodMap.person_notes.pop();childhoodMap.notes_truncated=true;continue;}
+    if(childhoodMap?.evidence_sources.length>1){childhoodMap.evidence_sources.pop();childhoodMap.evidence_sources_truncated=true;continue;}
+    if(childhoodMap?.person_notes.length>4){childhoodMap.person_notes.pop();childhoodMap.notes_truncated=true;continue;}
     // Shortened once only: the excerpt marker keeps the text above 1200 characters.
     if(promptData.last_review&&!reviewShortened&&promptData.last_review.text.length>1200){reviewShortened=true;promptData.last_review={...promptData.last_review,text:excerpt(promptData.last_review.text,1200).text,excerpt:true};continue;}
     promptData.truncated=true;const removable=promptData.sources.findLastIndex(s=>s.type!=='memory');
@@ -608,6 +609,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    if(childhood?.ambre_notes.length>4){childhood.ambre_notes.shift();childhood.notes_truncated=true;continue;}
    if(childhood?.pistes.length>3){childhood.pistes.pop();childhood.truncated=true;continue;}
    if(childhood?.evidence.length>3){childhood.evidence.pop();childhood.evidence_truncated=true;continue;}
+   if(childhood?.evidence_sources.length>1){childhood.evidence_sources.pop();childhood.evidence_sources_truncated=true;continue;}
    if(data.people_observations?.length>6){data.people_observations.pop();continue;}
    const removable=data.sources.findLastIndex(source=>source.type!=='memory');
    if(removable>=0){data.sources.splice(removable,1);data.truncated=true;continue;}

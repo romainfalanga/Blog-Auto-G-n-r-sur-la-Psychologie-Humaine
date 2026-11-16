@@ -1,17 +1,16 @@
-/* Cartographie : relie des vécus de l'enfance aux conséquences psychologiques
-   que la recherche leur associe. Tout est calculé dans le navigateur ;
-   aucune réponse n'est envoyée ni enregistrée. */
+/* Shared exploratory calculation. Saving and consent are managed by the UI;
+   this module never estimates an individual risk or establishes a diagnosis. */
 (function (root) {
   'use strict';
 
   var TIER_ORDER = { convergence: 0, piste: 1, theorique: 2 };
-  var STRONG = { forte: true, critere: true, moderee: true };
-  var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Condition du diagnostic (CIM-11)', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
-  var NOTE_TEXT = { jeune_enfant: 'Diagnostic posé chez le jeune enfant après des soins gravement insuffisants : il ne s’applique pas à un adulte.' };
+  var STRONG = { forte: true, moderee: true };
+  var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
+  var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
   var KIND_LABEL = { trouble: 'Trouble étudié (CIM-11)', schema: 'Schéma précoce', attachement: "Style d'attachement", tendance: 'Tendance psychologique' };
 
-  // A selection is a list or Set of ids (intensity 1) or an object {id: 1|2},
-  // where 2 means "often or severely" and weighs 1.5 times as much.
+  // 0 is an explicit no; 1 and 2 are reported experiences. Intensity is context,
+  // never an uncalibrated multiplier of a clinical risk or evidence strength.
   function intensities(selected) {
     var map = {};
     if (selected instanceof Set || Array.isArray(selected)) {
@@ -26,6 +25,9 @@
 
   function compute(data, selected) {
     var level = intensities(selected);
+    var factorIndex = {};
+    (data.factors || []).forEach(function (f) { factorIndex[f.id] = f; });
+    Object.keys(level).forEach(function (id) { if (!factorIndex[id]) delete level[id]; });
     var chosen = new Set(Object.keys(level));
     var weights = data.weights || { forte: 3, moderee: 2, limitee: 1, theorique: 1 };
     var byOutcome = {};
@@ -38,18 +40,22 @@
     var results = Object.keys(byOutcome).filter(function (id) { return outcomes[id]; }).map(function (id) {
       var links = byOutcome[id].slice().sort(function (a, b) { return weights[b.strength] - weights[a.strength]; });
       var factors = links.map(function (l) { return l.factor; });
-      // A feeling that merely restates a schema's definition is shown but does not count as convergence.
-      var counted = links.filter(function (l) { return !l.definitional; });
-      var strong = counted.some(function (l) { return STRONG[l.strength]; });
-      // Three distinct causes converging also count, even when each link rests on a clinical model.
-      var tier = (counted.length >= 2 && strong) || counted.length >= 3 ? 'convergence' : (strong ? 'piste' : 'theorique');
-      var score = links.reduce(function (sum, l) { return sum + (l.definitional ? 0.5 : (weights[l.strength] || 1)) * (level[l.factor] === 2 ? 1.5 : 1); }, 0);
-      return { outcome: outcomes[id], links: links, factors: factors, tier: tier, score: score };
+      var relation = function (l) { return l.relation_type || (l.definitional ? 'definitional' : l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); };
+      var empirical = links.filter(function (l) { return !l.definitional && relation(l) === 'empirical_association'; });
+      var groups = new Set(empirical.filter(function (l) { return STRONG[l.strength]; }).map(function (l) { return factorIndex[l.factor].overlap_group || l.factor; }));
+      // Editorial families reduce overlapping checkboxes. They do not establish
+      // statistical independence, diagnostic convergence or increased certainty.
+      var tier = outcomes[id].contextual_only ? 'theorique' : groups.size >= 2 ? 'convergence' : groups.size ? 'piste' : 'theorique';
+      var score = empirical.reduce(function (best, l) { return Math.max(best, weights[l.strength] || 0); }, 0);
+      return { outcome: outcomes[id], links: links, factors: factors, tier: tier, score: score, evidence_groups: groups.size, relation_types: Array.from(new Set(links.map(relation))) };
     });
     results.sort(function (a, b) {
       return TIER_ORDER[a.tier] - TIER_ORDER[b.tier] || b.score - a.score || a.outcome.label.localeCompare(b.outcome.label, 'fr');
     });
-    var aceCount = (data.factors || []).filter(function (f) { return f.ace && chosen.has(f.id); }).length;
+    var aceCount = new Set((data.factors || []).filter(function (f) { return f.ace && chosen.has(f.id); }).map(function (f) {
+      var exclusive = (data.exclusive || []).find(function (group) { return group.indexOf(f.id) !== -1; });
+      return exclusive ? exclusive.join('|') : f.id;
+    })).size;
     return { results: results, aceCount: aceCount, selectedCount: chosen.size };
   }
 
@@ -179,9 +185,9 @@
       }
       var shown = state.results.filter(function (r) { return kindFilter === 'all' || r.outcome.kind === kindFilter; });
       var tiers = [
-        ['convergence', 'Plusieurs de vos réponses y sont associées', 'Au moins deux éléments cochés sont associés à cette conséquence dans la recherche, dont un avec des preuves solides ou modérées. Cela décrit une fréquence plus élevée dans des groupes, pas un diagnostic.'],
-        ['piste', 'Une de vos réponses y est associée', 'Un élément coché est associé à cette conséquence par des preuves solides ou modérées, ou en est une condition dans la classification.'],
-        ['theorique', 'Liens issus de modèles cliniques ou de preuves limitées', 'Ces liens viennent de modèles thérapeutiques ou d’études encore peu nombreuses.']
+        ['convergence', 'Plusieurs vécus associés', 'Des familles de vécus différentes ont des associations documentées avec ce sujet. Leur nombre ne renforce pas le niveau de preuve et ne mesure pas votre risque.'],
+        ['piste', 'Une association documentée', 'Au moins un lien repose sur des études ; cela ne démontre pas ce qui vous arrive.'],
+        ['theorique', 'Autres repères à explorer', 'Liens limités, modèles cliniques ou contextes cités dans une classification ; ils n’établissent ni cause ni diagnostic.']
       ];
       tiers.forEach(function (t) {
         var items = shown.filter(function (r) { return r.tier === t[0]; });

@@ -21,6 +21,13 @@ OUT = ROOT / "data" / "cartographie.json"
 KINDS = {"trouble", "schema", "attachement", "tendance"}
 STRENGTHS = {"forte": 3, "critere": 2, "moderee": 2, "limitee": 1, "theorique": 1}
 SOURCE_TYPES = {"classification", "recommandation", "meta-analyse", "revue", "etude", "theorie"}
+RELATION_TYPES = {"empirical_association", "classification_context", "clinical_model", "definitional"}
+YOUNG_SCHEMA_IDS = {
+    "sch_abandon", "sch_mefiance", "sch_carence_affective", "sch_imperfection", "sch_isolement",
+    "sch_dependance", "sch_vulnerabilite", "sch_fusion", "sch_echec", "sch_droits_excessifs",
+    "sch_controle_insuffisant", "sch_assujettissement", "sch_abnegation", "sch_recherche_approbation",
+    "sch_negativite", "sch_surcontrole", "sch_exigences_elevees", "sch_punition",
+}
 # Conditions that research does not attribute to upbringing or adversity.
 FORBIDDEN_OUTCOME_PREFIXES = ("icd_6a00", "icd_6a01", "icd_6a02", "icd_6a03", "icd_6a04", "icd_6a05")
 DETERMINISTIC = re.compile(r"\b(provoque|cause directement|entraîne forcément|entraine forcement|garantit|toujours)\b", re.I)
@@ -68,6 +75,11 @@ def domain_of(outcome: dict) -> str:
 def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, sources: dict) -> list[str]:
     """Apply the pilot's traceable corrections after the independent review."""
     errors: list[str] = []
+    for fid, fields in corr.get("factor_overrides", {}).items():
+        if fid not in factors:
+            errors.append(f"correction : facteur inconnu {fid}")
+        else:
+            factors[fid].update({k: v for k, v in fields.items() if k != "id"})
     for oid, fields in corr.get("outcome_overrides", {}).items():
         if oid in outcomes:
             merged = {**outcomes[oid], **{k: v for k, v in fields.items() if k != "id"}}
@@ -102,7 +114,7 @@ def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, so
         if change.get("remove"):
             del links[key]
             continue
-        links[key] = {**links[key], **{k: v for k, v in change.items() if k in ("strength", "summary", "sources")}}
+        links[key] = {**links[key], **{k: v for k, v in change.items() if k in ("strength", "summary", "sources", "relation_type", "definitional")}}
     # A classification criterion is a precondition of the diagnosis, not a measured risk.
     for key, link in links.items():
         if link["strength"] == "forte" and all(sources.get(s, {}).get("type") == "classification" for s in link["sources"]):
@@ -189,6 +201,26 @@ def build() -> tuple[dict, list[str]]:
                     link = dict(old, sources=sorted(set(link["sources"]) | set(old["sources"])))
             links[key] = link
     errors.extend(apply_corrections(corr, factors, outcomes, links, sources))
+    # Nature of a link is separate from its editorial evidence label. A diagnostic
+    # context and a clinical model must never become an empirical association.
+    for link in links.values():
+        classification_only = all(sources.get(s, {}).get("type") == "classification" for s in link["sources"])
+        link["relation_type"] = link.get("relation_type") or (
+            "definitional" if link.get("definitional") else
+            "classification_context" if link["strength"] == "critere" or classification_only else
+            "clinical_model" if link["strength"] == "theorique" else "empirical_association")
+        if link["relation_type"] not in RELATION_TYPES:
+            errors.append(f"nature de lien invalide : {link['factor']} → {link['outcome']}")
+        if link["relation_type"] == "classification_context":
+            link["strength"] = "critere"
+    # Canonicalize identical reference URLs rather than treating aliases as studies.
+    canonical_sources: dict[str, str] = {}
+    source_aliases: dict[str, str] = {}
+    for sid, source in sources.items():
+        url = source["url"].rstrip("/")
+        source_aliases[sid] = canonical_sources.setdefault(url, sid)
+    for item in [*links.values(), *protections, *[n for n in notes.values() if isinstance(n, dict)]]:
+        item["sources"] = list(dict.fromkeys(source_aliases.get(s, s) for s in item.get("sources", [])))
     for (fid, oid), link in links.items():
         if oid not in outcomes:
             errors.append(f"lien {fid} → {oid} : conséquence non définie")
@@ -205,7 +237,14 @@ def build() -> tuple[dict, list[str]]:
     notes.pop("adversite_cumul", None)  # merged into the displayed « cumul » note
     used_outcomes = {oid for _, oid in links}
     data = {
-        "schema_version": 1,
+        "schema_version": 2,
+        "interpretation": {
+            "purpose": "Exploration de rapprochements, sans dépistage ni diagnostic.",
+            "validated_ace_instrument": False,
+            "ranking": "Niveau maximal du lien ; jamais une somme de risques. L’intensité reste un contexte déclaré.",
+            "convergence": "Au moins deux familles de vécus avec des associations empiriques modérées ou solides ; aucun gain de certitude individuelle.",
+            "warning": "Des facteurs associés, même cumulés, ne suffisent pas à établir un trouble et ne sont pas nécessairement requis pour qu’il apparaisse."
+        },
         "weights": STRENGTHS,
         "groups": base["groups"],
         "factors": base["factors"],
@@ -216,6 +255,24 @@ def build() -> tuple[dict, list[str]]:
         "exclusive": json.loads((SRC / "corrections.json").read_text(encoding="utf-8")).get("exclusive_factors", []),
         "notes": notes,
         "sources": sorted((s for s in sources.values() if s["id"] in used_sources), key=lambda s: s["id"]),
+    }
+    for outcome in data["outcomes"]:
+        outcome.setdefault("category", {"trouble": "diagnosis", "schema": "schema", "attachement": "attachment_pattern", "tendance": "tendency"}[outcome["kind"]])
+    clinical = json.loads((ROOT / "data/clinical_catalog.json").read_text(encoding="utf-8"))
+    psychology = json.loads((ROOT / "data/psychology_catalog.json").read_text(encoding="utf-8"))
+    exact_codes = sorted({o["code"] for o in data["outcomes"] if o.get("code") in {c["code"] for c in clinical["codes"]}})
+    pattern_ids = {p["id"] for p in psychology["patterns"]}
+    pattern_links = {o["id"][4:]: o["id"] for o in data["outcomes"] if o["id"].startswith("pat_") and o["id"][4:] in pattern_ids}
+    data["coverage"] = {
+        "scope": "Sélection documentée de vécus de l’enfance ; ni inventaire de la psychologie ni couverture de tous les diagnostics.",
+        "outcomes": len(data["outcomes"]),
+        "kinds": {kind: sum(o["kind"] == kind for o in data["outcomes"]) for kind in sorted(KINDS)},
+        "icd11": {"reference": "CIM-11 MMS 2026-01, chapitre 06", "catalog_codes": len(clinical["codes"]), "exact_code_references": exact_codes, "exact_code_count": len(exact_codes), "aggregate_references": [{"outcome": o["id"], "codes": o["classification_codes"]} for o in data["outcomes"] if o.get("classification_codes")], "not_exactly_referenced_count": len(clinical["codes"]) - len(exact_codes), "complete": False, "note": "Un code cité ou agrégé n’atteste ni diagnostic ni validation de chacun de ses critères."},
+        "dsm5tr": {"complete": False, "status": "diagnosis_by_diagnosis_comparison_pending", "note": "Aucun inventaire diagnostic DSM-5-TR complet ni équivalence automatique CIM/DSM."},
+        "young_schemas": {"reference_count": len(YOUNG_SCHEMA_IDS), "represented_count": len(YOUNG_SCHEMA_IDS & used_outcomes), "missing_ids": sorted(YOUNG_SCHEMA_IDS - used_outcomes), "source": "young_schemas", "note": "Présence des concepts du modèle ; ni validation psychométrique ni causalité établie."},
+        "psychology_catalog": {"catalog_patterns": len(pattern_ids), "explicit_prefix_links": pattern_links, "without_explicit_prefix_link": sorted(pattern_ids - pattern_links.keys()), "note": "Correspondances d’identifiants uniquement ; les recouvrements sémantiques et les ressources restent à examiner."},
+        "known_exclusions": [{"scope": "icd_6a00–icd_6a05", "reason": "Aucun lien causal avec l’éducation ou les vécus listés n’est inféré pour les troubles neurodéveloppementaux."}],
+        "remaining_review": ["Comparaison DSM-5-TR diagnostic par diagnostic", "Populations, âges, méthodes et limites pour chaque lien", "Recouvrements du catalogue psychologique au-delà des identifiants explicites", f"Évaluation clinique indépendante des {len(data['links'])} liens, au-delà des contrôles de structure"]
     }
     return data, errors
 

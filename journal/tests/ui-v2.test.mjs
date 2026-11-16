@@ -134,7 +134,7 @@ test('V3 separates relationship and life pages from the declared and interpreted
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
   assert.match(HTML,/À propos de moi/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="synthesis">Mon portrait/);
-  assert.match(HTML,/@media \(max-width: 600px\) \{[^@]*\.portrait-tabs \[data-portrait-tab="synthesis"\] \{ grid-column: 1\/-1; \}/);
+  assert.match(HTML,/\.portrait-tabs \{[^}]*grid-template-columns: repeat\(2,minmax\(0,1fr\)\)/);
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
 
@@ -289,8 +289,8 @@ test('V6 self information and reflection groups open with all fields in their ow
  assert.match(HTML,/#self-profile-form \.self-presentation textarea\{min-height:160px/);
 });
 
-test('V6 application contains no footer element and labels its liked-article tab directly',()=>{
- assert.doesNotMatch(HTML,/<footer\b/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="readings">Articles aimés/);
+test('application contains no footer and keeps liked articles out of the portrait menu',()=>{
+ assert.doesNotMatch(HTML,/<footer\b/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
  assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
@@ -561,10 +561,10 @@ test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · assistante psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
 });
 
-test('the public portrait renders three views without the cartography or a repeated Ambre note',async()=>{
+test('the portrait menu has only presentation and synthesis, with existing article links preserved',async()=>{
  const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){},renderLikes(){},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});env.ctx.state.tab='portrait';env.host('view');env.host('portrait-body');for(const name of ['renderPortrait','refreshPortraitData'])vm.runInContext(functionCode(name),env.ctx);await env.ctx.renderPortrait();assert.deepEqual(calls,['/api/portrait']);
  const view=env.doc.getElementById('view'),labels=[...view.innerHTML.matchAll(/data-portrait-tab="[^"]+">([^<]+)/g)].map(match=>match[1]);
- assert.deepEqual(labels,['Mon portrait','À propos de moi','Articles aimés']);assert.doesNotMatch(view.innerHTML,/ambre-hint|Ma cartographie|role="note"/);assert.equal(env.doc.getElementById('ma-cartographie'),null);assert.doesNotMatch(functionCode('applyPortraitData'),/drawPsychologyMap/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|\/api\/memory|function loadPortraitCorrection/);
+ assert.deepEqual(labels,['À propos de moi','Mon portrait']);assert.doesNotMatch(view.innerHTML,/ambre-hint|Ma cartographie|role="note"/);assert.equal(env.doc.getElementById('ma-cartographie'),null);assert.doesNotMatch(functionCode('applyPortraitData'),/drawPsychologyMap/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|function loadPortraitCorrection/);
  assert.ok(view.innerHTML.indexOf('id="portrait-body"')<view.innerHTML.indexOf('id="portrait-status"'));
 });
 
@@ -578,7 +578,7 @@ test('portrait transport failures leave useful options and a retry, while a fail
  for(const name of ['appendPortrait','personalizePortraitText','emptyState','appendPortraitEmpty','applyPortraitData','showPortraitLoadFailure','refreshPortraitData','schedulePortraitPoll'])vm.runInContext(functionCode(name),env.ctx);
  const body=env.host('portrait-body'),statusBox=env.host('portrait-status');
  await env.ctx.refreshPortraitData();
- assert.match(body.textContent,/Voir ma présentation/);assert.match(body.textContent,/Voir mes articles aimés/);
+ assert.match(body.textContent,/Voir ma présentation/);assert.doesNotMatch(body.textContent,/Voir mes articles aimés/);
  assert.equal(body.querySelector('a').href,'/mon-accompagnement/');assert.doesNotMatch(statusBox.textContent,/Backend transport details/);
  const retry=statusBox.querySelector('button');assert.equal(retry.className,'text');
  unavailable=false;await retry.fire('click');

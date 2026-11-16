@@ -33,12 +33,12 @@ test('a single strong link is a lead, not a convergence', () => {
   assert.strictEqual(o1.tier, 'piste');
 });
 
-test('two factors including a strong link converge and rank first', () => {
+test('a limited link does not promote a documented association to convergence', () => {
   const r = compute(fixture, ['a', 'b']);
   assert.strictEqual(r.results[0].outcome.id, 'o1');
-  assert.strictEqual(r.results[0].tier, 'convergence');
+  assert.strictEqual(r.results[0].tier, 'piste');
   assert.deepStrictEqual(r.results[0].factors, ['a', 'b']);
-  assert.strictEqual(r.results[0].score, 4);
+  assert.strictEqual(r.results[0].score, 3);
 });
 
 test('several weak or theoretical links never count as a convergence', () => {
@@ -82,26 +82,49 @@ test('definitional feelings do not create a convergence on their own', () => {
   assert.notStrictEqual(r.results[0].tier, 'convergence');
 });
 
-test('a classification criterion is a lead, not proof of a disorder', () => {
+test('a classification context remains a contextual reference, not empirical evidence', () => {
   const data = { factors: [{ id: 'a' }], outcomes: [{ id: 'o', label: 'O', kind: 'trouble' }], links: [{ factor: 'a', outcome: 'o', strength: 'critere' }] };
-  assert.strictEqual(compute(data, ['a']).results[0].tier, 'piste');
+  assert.strictEqual(compute(data, ['a']).results[0].tier, 'theorique');
 });
 
-test('a selection object carries intensity: 2 means often or severely and weighs 1.5 times', () => {
+test('reported intensity does not multiply uncalibrated evidence or risk', () => {
   const list = compute(fixture, ['a', 'b']);
   const intensity = compute(fixture, { a: 2, b: 1 });
   assert.strictEqual(intensity.results[0].outcome.id, 'o1');
   assert.strictEqual(intensity.results[0].tier, list.results[0].tier);
-  assert.strictEqual(intensity.results[0].score, 3 * 1.5 + 1);
+  assert.strictEqual(intensity.results[0].score, 3);
   assert.strictEqual(intensity.selectedCount, 2);
   assert.strictEqual(compute(fixture, { a: 1, b: 1 }).results[0].score, list.results[0].score);
   assert.strictEqual(compute(fixture, { a: 0, b: 'x' }).selectedCount, 0);
   assert.strictEqual(compute(fixture, new Set(['a'])).results.length, compute(fixture, ['a']).results.length);
 });
 
-test('three distinct causes converge even on clinical-model links', () => {
+test('three clinical-model or limited links never become an empirical convergence', () => {
   const data = { factors: [{ id: 'a' }, { id: 'b' }, { id: 'c' }], outcomes: [{ id: 'o', label: 'O', kind: 'tendance' }],
     links: [{ factor: 'a', outcome: 'o', strength: 'theorique' }, { factor: 'b', outcome: 'o', strength: 'limitee' }, { factor: 'c', outcome: 'o', strength: 'theorique' }] };
   assert.strictEqual(compute(data, ['a', 'b']).results[0].tier, 'theorique');
-  assert.strictEqual(compute(data, ['a', 'b', 'c']).results[0].tier, 'convergence');
+  assert.strictEqual(compute(data, ['a', 'b', 'c']).results[0].tier, 'theorique');
+});
+
+test('overlapping experiences count as one family and never increase the strongest evidence', () => {
+  const data = { factors: [{id:'a',overlap_group:'same'},{id:'b',overlap_group:'same'},{id:'c'}], outcomes:[{id:'o',label:'O'}], links:['a','b','c'].map(factor=>({factor,outcome:'o',strength:'moderee',relation_type:'empirical_association'})) };
+  assert.strictEqual(compute(data,{a:1,b:2}).results[0].tier,'piste');
+  const result=compute(data,{a:1,b:2,c:1}).results[0];
+  assert.strictEqual(result.tier,'convergence');
+  assert.strictEqual(result.score,2);
+  assert.strictEqual(result.evidence_groups,2);
+});
+
+test('coverage reports exact denominators without turning reference presence into diagnosis coverage', () => {
+  const data=JSON.parse(fs.readFileSync(path.join(__dirname,'..','data','cartographie.json'),'utf8'));
+  assert.strictEqual(data.outcomes.length,82);
+  assert.strictEqual(data.coverage.young_schemas.represented_count,18);
+  assert.strictEqual(data.coverage.icd11.catalog_codes,858);
+  assert.strictEqual(data.coverage.icd11.exact_code_count,19);
+  assert.strictEqual(data.coverage.dsm5tr.complete,false);
+  assert.strictEqual(data.coverage.psychology_catalog.catalog_patterns,161);
+  assert.strictEqual(data.coverage.icd11.not_exactly_referenced_count,839);
+  assert.ok(data.links.filter(l=>l.outcome==='sch_negativite').every(l=>l.relation_type==='clinical_model'&&l.strength==='theorique'));
+  const definitions=new Set(data.links.filter(l=>l.definitional).map(l=>l.relation_type));
+  assert.deepStrictEqual([...definitions],['definitional']);
 });

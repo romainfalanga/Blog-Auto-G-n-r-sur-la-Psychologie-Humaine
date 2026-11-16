@@ -22,14 +22,16 @@
    "kind": "trouble",
    "label": "Dépression ou symptômes dépressifs",
    "description": "Symptômes dépressifs durables ou épisodes dépressifs (CIM-11 6A70–6A71) : tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.",
-   "url": "/personnages/louise/"
+   "url": "/personnages/louise/",
+   "category": "symptom_group"
   },
   "anx_generale": {
    "id": "anx_generale",
    "kind": "trouble",
    "label": "Anxiété ou troubles anxieux",
    "description": "Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne, dont l’anxiété généralisée (CIM-11 6B00).",
-   "url": "/personnages/antonin/"
+   "url": "/personnages/antonin/",
+   "category": "symptom_group"
   },
   "ten_conduites_suicidaires": {
    "label": "Idées suicidaires, tentatives ou automutilations",
@@ -47,7 +49,8 @@
   },
   "icd_6d11_5": {
    "label": "Trouble de la personnalité avec motif borderline",
-   "code": "6D11.5"
+   "code": "6D11.5",
+   "category": "pattern_qualifier"
   },
   "ten_externalisation": {
    "label": "Comportements d’opposition, d’agressivité ou antisociaux",
@@ -58,17 +61,28 @@
   "icd_6b81": {
    "label": "Troubles des conduites alimentaires",
    "description": "Boulimie, crises alimentaires, restrictions ou préoccupations envahissantes pour le poids et l’image du corps.",
-   "code": "6B80–6B82"
+   "code": "6B80–6B82",
+   "category": "clinical_group",
+   "classification_codes": [
+    "6B80",
+    "6B81",
+    "6B82"
+   ]
   },
   "icd_6a20": {
    "label": "Troubles psychotiques (dont la schizophrénie)",
-   "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic."
+   "description": "Expériences psychotiques (perceptions ou convictions inhabituelles) ou troubles psychotiques ; la plupart des études portent sur des symptômes, pas sur un diagnostic.",
+   "category": "clinical_group"
   },
   "icd_6b44": {
-   "note": "jeune_enfant"
+   "note": "jeune_enfant",
+   "age_scope": "young_child_only",
+   "contextual_only": true
   },
   "icd_6b45": {
-   "note": "jeune_enfant"
+   "note": "jeune_enfant",
+   "age_scope": "young_child_only",
+   "contextual_only": true
   },
   "pat_migration_adjustment": {
    "label": "Stress lié à l’adaptation après une migration",
@@ -328,5 +342,133 @@
    "divorce",
    "separation_conflit"
   ]
- ]
+ ],
+ "factor_overrides": {
+  "abus_emotionnel": {
+   "overlap_group": "emotional_treatment"
+  },
+  "invalidation": {
+   "overlap_group": "emotional_treatment"
+  },
+  "critique": {
+   "overlap_group": "emotional_treatment"
+  },
+  "amour_conditionnel": {
+   "overlap_group": "emotional_treatment"
+  },
+  "negligence_emotionnelle": {
+   "overlap_group": "emotional_neglect"
+  },
+  "debrouiller_seul": {
+   "overlap_group": "reported_feelings"
+  },
+  "pas_protege": {
+   "overlap_group": "reported_feelings"
+  },
+  "abus_physique": {
+   "overlap_group": "physical_violence"
+  },
+  "punitions_corporelles": {
+   "overlap_group": "physical_violence"
+  },
+  "temoin_violences": {
+   "overlap_group": "family_conflict"
+  },
+  "conflits_parents": {
+   "overlap_group": "family_conflict"
+  },
+  "triangulation": {
+   "overlap_group": "family_conflict"
+  },
+  "separation_conflit": {
+   "overlap_group": "family_conflict"
+  },
+  "divorce": {
+   "overlap_group": "family_conflict"
+  },
+  "famille_recomposee": {
+   "overlap_group": "family_conflict"
+  },
+  "harcelement": {
+   "overlap_group": "peer_rejection"
+  },
+  "violences_fratrie": {
+   "overlap_group": "peer_rejection"
+  },
+  "moqueries_corps": {
+   "overlap_group": "peer_rejection"
+  },
+  "isolement_social_enfant": {
+   "overlap_group": "peer_rejection"
+  },
+  "parent_trouble": {
+   "overlap_group": "family_care_burden"
+  },
+  "parent_addiction": {
+   "overlap_group": "family_care_burden"
+  },
+  "parent_malade_physique": {
+   "overlap_group": "family_care_burden"
+  },
+  "maladie_famille": {
+   "overlap_group": "family_care_burden"
+  },
+  "parentification": {
+   "overlap_group": "family_care_burden"
+  },
+  "imprevisibilite": {
+   "overlap_group": "care_instability"
+  },
+  "soins_instables": {
+   "overlap_group": "care_instability"
+  },
+  "parent_absent": {
+   "overlap_group": "care_instability"
+  },
+  "adoption": {
+   "overlap_group": "care_instability"
+  },
+  "demenagements": {
+   "overlap_group": "care_instability"
+  },
+  "parent_incarcere": {
+   "overlap_group": "care_instability"
+  },
+  "ressenti_pas_compter": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_abandon": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_honte": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_responsable": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_perfection": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_peur": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_solitude": {
+   "overlap_group": "reported_feelings"
+  },
+  "ressenti_colere_interdite": {
+   "overlap_group": "reported_feelings"
+  },
+  "honte_famille": {
+   "overlap_group": "reported_feelings"
+  },
+  "se_sentir_different": {
+   "overlap_group": "reported_feelings"
+  },
+  "enfant_sage": {
+   "overlap_group": "reported_feelings"
+  },
+  "enfant_prefere_role": {
+   "overlap_group": "reported_feelings"
+  }
+ }
 }

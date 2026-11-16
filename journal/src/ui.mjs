@@ -63,7 +63,7 @@ var PAGE_DESCRIPTIONS={
  people:'Gardez une trace des personnes qui comptent et de ce que vous vivez avec elles.',
  events:'Situez les moments qui ont compté et notez ce qu’ils représentent pour vous aujourd’hui.',
  reviews:'Relisez l’analyse initiale d’Ambre et les points que vous lui avez demandés.',
- settings:'Votre suivi et l’envers du décor d’Ambre.',
+ settings:'Vos informations, leur utilisation et les modèles qui construisent les réponses d’Ambre.',
  care:'Votre accompagnement, vos séances et vos partages.',
  psychologist:'Consultez les dossiers que les personnes ont choisi de partager avec vous.',
  account:'Retrouvez votre accès, vos réglages et les données que vous avez enregistrées.'
@@ -204,7 +204,7 @@ function appendPortrait(container,portrait,title){var block=el('section','portra
 async function renderPortrait(){
  clearTimeout(state.portraitTimer);state.portraitData=null;
  var view=document.getElementById('view'),current=renderGuard(view);state.portraitCurrent=current;
- view.innerHTML='<nav class="portrait-tabs narrow" aria-label="Vues du portrait"><a href="#mon-portrait" data-portrait-tab="synthesis">Mon portrait</a><a href="#self-profile" data-portrait-tab="self">À propos de moi</a><a href="#mes-articles" data-portrait-tab="readings">Articles aimés</a></nav><section id="portrait-synthesis" data-portrait-pane="synthesis" class="panel narrow"><div id="portrait-body" tabindex="-1"><p class="muted" role="status">Chargement du portrait…</p></div><div id="portrait-status" class="portrait-state" role="status"></div></section>';
+ view.innerHTML='<nav class="portrait-tabs narrow" aria-label="Vues du portrait"><a href="#self-profile" data-portrait-tab="self">À propos de moi</a><a href="#mon-portrait" data-portrait-tab="synthesis">Mon portrait</a></nav><section id="portrait-synthesis" data-portrait-pane="synthesis" class="panel narrow"><div id="portrait-body" tabindex="-1"><p class="muted" role="status">Chargement du portrait…</p></div><div id="portrait-status" class="portrait-state" role="status"></div></section>';
  var self=el('section','panel narrow personal-section');self.id='self-profile';self.dataset.portraitPane='self';view.append(self);renderSelfProfile();
  var collection=el('section');collection.id='mes-articles';collection.dataset.portraitPane='readings';view.append(collection);
  setupPortraitViews(view);renderLikes();await refreshPortraitData(current)
@@ -213,11 +213,10 @@ async function renderPortrait(){
 function appendPortraitEmpty(body,mode){
  var collecting=mode==='collecting',unavailable=mode==='unavailable',canChat=state.me?.configuration?.ai!==false;
  var title=collecting?'Votre portrait prend forme ici':unavailable?'Vos informations et vos lectures':'En attendant votre synthèse';
- var description=collecting?(canChat?'Vous pouvez commencer par vous présenter ou raconter à Ambre une situation que vous aimeriez mieux comprendre.':'Vous pouvez commencer par vous présenter ou aimer un article qui vous parle.'):unavailable&&canChat?'Vous pouvez consulter vos autres onglets ou parler avec Ambre.':'Retrouvez votre présentation et vos articles aimés dans leurs onglets.';
+ var description=collecting?(canChat?'Vous pouvez commencer par vous présenter ou raconter à Ambre une situation que vous aimeriez mieux comprendre.':'Vous pouvez commencer par vous présenter ou aimer un article qui vous parle.'):unavailable&&canChat?'Vous pouvez compléter votre présentation ou parler avec Ambre.':'Retrouvez votre présentation dans À propos de moi.';
  var empty=emptyState('portrait',title,description),actions=el('div','actions');
  function tabAction(label,key,cls){return actionButton(label,function(){var tab=document.querySelector('[data-portrait-tab="'+key+'"]');if(tab){tab.click();tab.focus()}},cls)}
  actions.append(tabAction(collecting?'Me présenter':'Voir ma présentation','self',collecting?'':'secondary'));
- if(!collecting||!canChat)actions.append(tabAction('Voir mes articles aimés','readings','secondary'));
  if(canChat&&(collecting||unavailable)){var companion=el('a','button secondary','Parler avec Ambre');companion.href='/mon-accompagnement/';actions.append(companion)}
  empty.append(actions);body.append(empty)
 }

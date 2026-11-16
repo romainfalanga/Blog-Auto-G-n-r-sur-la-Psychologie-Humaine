@@ -1,0 +1,33 @@
+{
+ "sources": [
+  {
+   "id": "isst_young_domains",
+   "citation": "Young JE, 2003 ; International Society of Schema Therapy, Schema Therapy Central Concepts : Overvigilance & Inhibition et Negativity/Pessimism",
+   "url": "https://www.schematherapysociety.com/Schema-Therapy",
+   "type": "theorie",
+   "read": "sections du domaine survigilance/inhibition et du schéma négativité/pessimisme, consultées le 2026-11-16"
+  }
+ ],
+ "outcomes": [
+  {
+   "id": "sch_negativite",
+   "kind": "schema",
+   "label": "Schéma de négativité et de pessimisme",
+   "description": "Dans le modèle de Young, tendance persistante à anticiper surtout ce qui pourrait mal se passer et à sous-estimer les aspects favorables. Ce concept n’est pas un diagnostic.",
+   "domain": "soi"
+  }
+ ],
+ "links": [
+  {
+   "factor": "critique",
+   "outcome": "sch_negativite",
+   "strength": "theorique",
+   "relation_type": "clinical_model",
+   "summary": "Le modèle de Young situe ce schéma dans un domaine décrit avec des milieux familiaux très exigeants ou punitifs. Ce rapprochement théorique avec les critiques et exigences ne démontre ni un effet causal ni la présence du schéma chez une personne.",
+   "sources": [
+    "isst_young_domains",
+    "young_schemas"
+   ]
+  }
+ ]
+}

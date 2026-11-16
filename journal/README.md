@@ -60,12 +60,12 @@ Le statut Stripe n’est pas modifié par le mode de test. Pour rétablir le pai
 
 ## Cartographie de l’enfance enregistrée
 
-`0016_cartographies.sql` crée `cartographies` (une ligne par compte : `answers` `{facteur: 1|2}`, `feedback` `{conséquence: "oui"|"non"}`, `consent`, `locked_at`, `version`, `updated_at`). `0017_cartographie_notes.sql` ajoute `notes` `{"factors":{id:"texte"},"outcomes":{id:"texte"}}`, `resources` `{protection: 1}` et `ambre_notes` `[{id,target,target_id,text,created_at}]`. Les deux migrations sont additives. Suppression en cascade avec le compte ; `/api/export` contient toute la ligne sous `cartographie`.
+`0016_cartographies.sql` crée `cartographies` (une ligne par compte : `answers` `{facteur: 0|1|2}` (non explicite, oui, souvent), `feedback` `{conséquence: "oui"|"non"}`, `consent`, `locked_at`, `version`, `updated_at`). `0017_cartographie_notes.sql` ajoute `notes` `{"factors":{id:"texte"},"outcomes":{id:"texte"}}`, `resources` `{protection: 1}` et `ambre_notes` `[{id,target,target_id,text,created_at}]`. Les deux migrations sont additives. Suppression en cascade avec le compte ; `/api/export` contient toute la ligne sous `cartographie`.
 
 Routes authentifiées :
 
 - `GET /api/cartographie` → `{cartographie, summary}` (les deux `null` sans enregistrement). `cartographie` : `answers`, `feedback`, `notes`, `resources`, `ambre_notes`, `consent`, `locked`, `locked_at`, `version`, `updated_at`.
-- `PUT /api/cartographie` avec l’état complet `{answers, feedback?, notes?, resources?, consent: true, locked, expected_version}` (alias `version`, `null` ou `0` pour une première sauvegarde ; un bloc absent vaut un bloc vide). 80 000 octets au plus, 1 000 caractères par note, 80 notes. `400 consent_required` sans accord explicite, `400 invalid_cartography`, `409 revision_conflict`. `locked: true` exige au moins une cause, une note ou une ressource. Le PUT ne modifie jamais `ambre_notes`.
+- `PUT /api/cartographie` avec l’état complet `{answers, feedback?, notes?, resources?, consent: true, locked, expected_version}` (alias `version`, `null` ou `0` pour une première sauvegarde ; un bloc absent vaut un bloc vide). 80 000 octets au plus, 1 000 caractères par note, 80 notes. `400 consent_required` sans accord explicite, `400 invalid_cartography`, `409 revision_conflict`. `locked: true` exige au moins une réponse, une note ou une ressource. Un non explicite compte comme réponse mais jamais comme vécu dans le calcul. Le PUT ne modifie jamais `ambre_notes`.
 - `DELETE /api/cartographie/ambre-notes/:id` retire une note d’Ambre sans changer `version` ; `DELETE /api/cartographie` supprime tout.
 
 La cartographie n’est pas une source du portrait : l’enregistrer ne change pas `profiles.version` et ne relance pas d’analyse.
@@ -108,7 +108,8 @@ La production active `createChatBackend({engineEnabled:true})`. Le moteur persis
 
 La mémoire évolue par lots d'au moins quatre, au plus huit échanges. Elle conserve des citations vérifiables des messages de la personne, pas des inventions de l'assistant. Une correction ou un effacement avance le repère de lecture : les anciens échanges ne recréent pas la note effacée. Les sujets fermés et les appuis de sécurité sont prioritaires dans le budget de contexte. Une limite conservatrice empêche l'exploration si toutes les fermetures ne tiennent plus dans le résumé.
 
-- `GET /api/chat/insight?offset=0` : cadre de suivi, sources/index paginé, mémoire, vingt traces et règles. Les traces contiennent catégories, tailles, jetons, durées et verdicts ; aucun message privé ni raisonnement interne du modèle.
+- `GET /api/chat/insight?offset=0&turns_offset=0` : contexte actuel réel, sources consultables par pages de 100 (`current.sources.next_offset`), mémoire, résumés de traces par pages de 20 (`turns_next_offset`), modèles configurés et règles. Les données enregistrées hors usage direct de la conversation sont distinguées.
+- `GET /api/chat/insight?turn_id=ID` : uniquement `selected_turn`, vérifiée contre le propriétaire du compte. Les nouvelles traces V2 conservent les entrées et consignes effectivement transmises à chaque appel, son modèle demandé, le modèle indiqué par le fournisseur lorsqu’il est disponible, son statut et sa consommation. `ambre-insight.mjs` déduplique les valeurs et limite le détail à 128 Ko ; toute omission est explicite. Aucun raisonnement interne retourné par le fournisseur ni secret n’est conservé. Les anciennes traces n’ont pas de détails reconstructibles. Les entrées sont des instantanés historiques : modifier une source ne réécrit pas un appel passé.
 - `PUT /api/chat/memory` : `{revision,sections:{goals,facts,hypotheses,tried,alliance,safety,closed,session}}`, tableaux de textes (300 caractères chacun ; 12 par rubrique, 30 sujets fermés). `{sections:{}}` efface la note. Une révision obsolète renvoie 409.
 - `DELETE /api/chat` purge aussi mémoire, tâches et traces. L'export et la suppression du compte couvrent ces tables.
 
@@ -137,3 +138,11 @@ Le point avant séance couvre la période suivant la séance précédente, à pa
 `/parametres/` remplace Mon compte dans le menu et conserve un bouton vers `/mon-compte/`. `/mon-suivi/` contient les réglages, séances, partages, points et accès. `/espace-psychologue/` permet d'activer un code et de consulter les dossiers. Les nouvelles pages disposent de routes Worker et de proxys Netlify ; les réponses privées restent `no-store`.
 
 Appliquer **0019 puis 0020**, après point de restauration D1 et suspension temporaire des générations ; ne pas rejouer une migration déjà appliquée. Déployer ensuite tous les modules Worker, conserver les secrets existants, retirer la suspension, puis fusionner les routes/menu dans `main`. Vérifier les deux rôles, le moteur réel, les points, la révocation et la suppression des comptes temporaires en production.
+
+## Interface et pertinence de la cartographie — novembre 2026
+
+Six thèmes en accordéons fermés au chargement, sans parcours imposé ni septième thème. Les anciennes ressources sont préservées en base. Pour un membre connecté, les nouvelles saisies déclenchent la sauvegarde avec `consent: true`, sans case supplémentaire ; une notice explique enregistrement et usage par Ambre. Sans connexion, seul le brouillon local est écrit. La file de sauvegarde conserve les saisies pendant un PUT, affiche les conflits 409 sans les écraser et attend un PUT en cours avant DELETE.
+
+Le classement organise des pistes de lecture : aucun score de risque individuel ni multiplicateur d’intensité. Les familles de vécus évitent certains recouvrements, sans prétendre indépendance statistique. Les modèles cliniques, définitions et contextes de classification ne deviennent pas des preuves empiriques par addition. Les restrictions du jeune enfant et les réponses négatives restent explicites, y compris dans le contexte d’Ambre. Le résumé contient les références disponibles et leurs limites ; le moteur sélectionne des extraits bornés, en conservant les métadonnées prudentes.
+
+Le périmètre audité est décrit dans `docs/audit-cartographie-transparence-2026-11-16.md`. Les 18 schémas de Young sont référencés ; ce fait n’implique pas une couverture exhaustive du DSM-5-TR ni une validation psychométrique. Le menu du portrait contient uniquement À propos de moi et Mon portrait ; les anciens liens directs vers les lectures restent utilisables.
