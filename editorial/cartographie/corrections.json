@@ -35,7 +35,8 @@
   },
   "ten_conduites_suicidaires": {
    "label": "Idées suicidaires, tentatives ou automutilations",
-   "note": "suicide"
+   "note": "suicide",
+   "contextual_only": true
   },
   "ten_usage_substances": {
    "label": "Usage problématique d’alcool, de tabac ou de drogues",
@@ -121,6 +122,28 @@
   },
   "ten_douleurs_persistantes": {
    "description": "Des douleurs qui durent (dos, tête, ventre, douleurs diffuses) ou des maux physiques fréquents, sans que cela veuille dire qu'ils sont « dans la tête ». Quand de nombreux symptômes envahissent la vie quotidienne, voir aussi le trouble de détresse physique."
+  },
+  "icd_6b64": {
+   "contextual_only": true
+  },
+  "icd_6b60": {
+   "description": "Symptômes neurologiques fonctionnels, par exemple moteurs ou sensoriels, dont les caractéristiques cliniques sont incompatibles avec une maladie neurologique reconnue. L'évaluation médicale reste nécessaire."
+  },
+  "icd_6c20": {
+   "description": "Symptômes corporels pénibles accompagnés d'une attention excessive et persistante, avec un retentissement important. Une affection médicale peut aussi être présente."
+  },
+  "icd_6a60": {
+   "label": "Troubles bipolaires (preuves agrégées)",
+   "description": "Des épisodes maniaques ou hypomaniaques et dépressifs dont la présentation varie selon le diagnostic. Les preuves développementales réunies ici concernent les troubles bipolaires dans leur ensemble.",
+   "category": "clinical_group",
+   "code": null,
+   "classification_codes": [
+    "6A60",
+    "6A61"
+   ]
+  },
+  "icd_6b20": {
+   "contextual_only": true
   }
  },
  "remove_outcomes": [
@@ -291,7 +314,17 @@
   {
    "factor": "triangulation",
    "outcome": "dep_generale",
-   "summary": "Être pris à partie dans les conflits des parents est associé, dans une étude suivie sur quatre ans et dans d'autres travaux, à une hausse des difficultés anxieuses et dépressives à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant."
+   "summary": "Être pris à partie dans les conflits des parents est associé, dans une étude suivie quatre ans et dans d'autres travaux, à une hausse des difficultés anxieuses et dépressives à l'adolescence, au-delà de l'effet du conflit lui-même. Après une séparation, une méta-analyse retrouve le même risque quand les rôles se brouillent entre parent et enfant."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b60",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse cas-témoins retrouve davantage d'antécédents de violences sexuelles chez les personnes ayant un trouble neurologique fonctionnel. Les résultats sont hétérogènes et ne démontrent pas de causalité.",
+   "sources": [
+    "ludwig2018"
+   ]
   }
  ],
  "retarget": [
@@ -319,6 +352,21 @@
   },
   "walker2019": {
    "type": "etude"
+  },
+  "peverill2021": {
+   "read": "texte intégral : méthodes de sélection des 13 cohortes, résultats 3.2–3.4 et tableau 2 ; PDF de Harvard"
+  },
+  "angelakis2019": {
+   "read": "texte intégral : méthodes et résultats lus sur Cambridge Core, dont distinction idées/tentatives et limites"
+  },
+  "angelakis2020": {
+   "read": "texte intégral : méthodes, critères d'inclusion et tableau 1 lus sur PMC"
+  },
+  "oms_cddr": {
+   "read": "section : 6A2, 6B6, 6B8, 6C0, 6C2, texte du PDF officiel téléchargé ; certaines sections également consultées sur une copie du même ouvrage ; section : liste des catégories p. 44–55 et 84 ; TOC p. 300–301 ; périnatal p. 639–643, en plus des sections déjà lues"
+  },
+  "palmierclaus2016": {
+   "read": "section : méthodes, résultats, tableau 1, comparaison types I/II et limites, texte intégral éditeur"
   }
  },
  "add_sources": [
@@ -469,6 +517,9 @@
   },
   "enfant_prefere_role": {
    "overlap_group": "reported_feelings"
+  },
+  "violence_quartier": {
+   "overlap_group": "physical_violence"
   }
  }
 }

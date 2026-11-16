@@ -1,0 +1,719 @@
+{
+  "part": "schemas-attachement-emotions",
+  "author": "recherche_lot5",
+  "outcomes": [
+    {
+      "id": "ten_honte",
+      "kind": "tendance",
+      "label": "Honte de soi",
+      "description": "Se sentir diminué ou exposé au jugement des autres. Cette émotion ne suffit pas à identifier un schéma durable.",
+      "domain": "soi",
+      "category": "tendency"
+    },
+    {
+      "id": "ten_rumination",
+      "kind": "tendance",
+      "label": "Pensées en boucle (rumination)",
+      "description": "Revenir sans cesse sur sa détresse et ses difficultés, avec peu de nouvelles pistes pour agir.",
+      "domain": "emotions",
+      "category": "cognitive_process"
+    },
+    {
+      "id": "ten_surcompensation_schema",
+      "kind": "tendance",
+      "label": "Surcompensation face aux schémas",
+      "description": "Dans le modèle de Young, réagir à une difficulté en cherchant excessivement à en montrer le contraire.",
+      "domain": "relations",
+      "category": "schema_coping_style"
+    },
+    {
+      "id": "ten_mode_parent_exigeant",
+      "kind": "tendance",
+      "label": "Mode du parent exigeant",
+      "description": "Dans le modèle de Young, un état où les exigences intériorisées prennent le dessus.",
+      "domain": "soi",
+      "category": "schema_mode"
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_estime_soi",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, tous âges étudiés confondus, associe les violences psychologiques de l’enfance à une estime de soi plus basse. Le lien moyen est modeste.",
+      "sources": [
+        "zhang2023_estime"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_estime_soi",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, tous âges étudiés confondus, associe les violences physiques de l’enfance à une estime de soi plus basse. Le lien moyen est faible.",
+      "sources": [
+        "zhang2023_estime"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_estime_soi",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, tous âges étudiés confondus, associe les violences sexuelles de l’enfance à une estime de soi plus basse. Le lien moyen est faible.",
+      "sources": [
+        "zhang2023_estime"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_estime_soi",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, tous âges étudiés confondus, associe la négligence affective de l’enfance à une estime de soi plus basse. Le lien moyen est modeste.",
+      "sources": [
+        "zhang2023_estime"
+      ]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_estime_soi",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, tous âges étudiés confondus, associe la négligence matérielle de l’enfance à une estime de soi plus basse. Le lien moyen est faible.",
+      "sources": [
+        "zhang2023_estime"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_honte",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, dans des populations d’âges variés, associe les violences psychologiques de l’enfance à davantage de honte. L’association moyenne est modérée.",
+      "sources": [
+        "meng2026"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_honte",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, dans des populations d’âges variés, associe les violences physiques de l’enfance à davantage de honte. L’association moyenne est faible.",
+      "sources": [
+        "meng2026"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_honte",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, dans des populations d’âges variés, associe les violences sexuelles de l’enfance à davantage de honte. L’association moyenne est faible.",
+      "sources": [
+        "meng2026"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_honte",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, dans des populations d’âges variés, associe la négligence affective de l’enfance à davantage de honte. L’association moyenne est modeste.",
+      "sources": [
+        "meng2026"
+      ]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_honte",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse, dans des populations d’âges variés, associe la négligence matérielle de l’enfance à davantage de honte. L’association moyenne est modeste.",
+      "sources": [
+        "meng2026"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_alexithymie",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez l’adulte, une méta-analyse associe les violences physiques rapportées dans l’enfance à davantage d’alexithymie. Le lien est faible ; les vécus sont rétrospectifs.",
+      "sources": [
+        "ditzer2023"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_alexithymie",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez l’adulte, une méta-analyse associe les violences sexuelles rapportées dans l’enfance à davantage d’alexithymie. Le lien est faible ; les vécus sont rétrospectifs.",
+      "sources": [
+        "ditzer2023"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "sch_abandon",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adolescents, une petite méta-analyse relie les violences psychologiques au schéma d’abandon. L’estimation moyenne est modérée mais son intervalle est large.",
+      "sources": [
+        "may2022"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "sch_droits_excessifs",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adolescents, une petite méta-analyse relie faiblement les violences psychologiques au schéma de droits excessifs ; l’estimation reste imprécise.",
+      "sources": [
+        "may2022"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "sch_controle_insuffisant",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adolescents, une petite méta-analyse relie la négligence affective au schéma de contrôle insuffisant. L’association moyenne est modérée, mais les études divergent fortement.",
+      "sources": [
+        "may2022"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "sch_vulnerabilite",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les adolescents, une petite méta-analyse relie faiblement la négligence affective au schéma de vulnérabilité. Les résultats varient sensiblement entre études.",
+      "sources": [
+        "may2022"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_rumination",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte de jeunes suivis trois ans, les violences psychologiques rapportées sont associées à plus de rumination. Le lien est modeste et ne reste pas propre à ce vécu après prise en compte des autres facteurs.",
+      "sources": [
+        "hankin2025_rumination"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_dysregulation_emotionnelle",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez des adultes, une méta-analyse transversale relie les violences psychologiques de l’enfance à des difficultés émotionnelles et à des stratégies d’évitement. Les liens moyens sont modestes et les études hétérogènes.",
+      "sources": [
+        "aminitehrani2026_regulation"
+      ]
+    },
+    {
+      "factor": "controle",
+      "outcome": "ten_surcompensation_schema",
+      "strength": "theorique",
+      "relation_type": "clinical_model",
+      "summary": "Young décrit la surcompensation comme une réaction possible au contrôle subi enfant. Ce rapprochement clinique ne prédit pas la réaction d’une personne.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "factor": "critique",
+      "outcome": "ten_mode_parent_exigeant",
+      "strength": "theorique",
+      "relation_type": "clinical_model",
+      "summary": "Young décrit un mode où les exigences parentales intériorisées se réactivent. Le rapprochement avec des exigences répétées est théorique, sans mesure de risque.",
+      "sources": [
+        "young2003"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "zhang2023_estime",
+      "citation": "Zhang H, Wang W, Liu S, Feng Y, Wei Q, 2023, A Meta-Analytic Review of the Impact of Child Maltreatment on Self-Esteem: 1981 to 2021, Trauma, Violence, & Abuse 24(5):3398-3411",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36341581/",
+      "type": "meta-analyse",
+      "read": "résumé PubMed, méthodes et résultats par sous-type ; consulté le 2026-11-16"
+    },
+    {
+      "id": "hankin2025_rumination",
+      "citation": "Hankin BL, Schweizer TH, Young JF, 2025, Trajectories of Rumination and Negative Cognitive Style from Late Childhood Through Adolescence: Modeling Normative Growth Patterns and Predicting Cognitive Vulnerabilities, Clinical Psychological Science, publication en ligne, doi:10.1177/21677026251335346",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12396740/",
+      "type": "etude",
+      "read": "sections méthodes, résultats et tableau 3, analyses multivariables et limites du manuscrit auteur PMC ; lues par urllib le 2026-11-16"
+    },
+    {
+      "id": "aminitehrani2026_regulation",
+      "citation": "Amini-Tehrani M, Mazidi M, Ranjbar S, Ohan JL, Weinborn M, Naragon-Gainey K, 2026, Meta-analysis of associations between childhood emotional abuse and adulthood emotion regulation, Clinical Psychology Review 128:102778",
+      "url": "https://research-repository.uwa.edu.au/en/publications/meta-analysis-of-associations-between-childhood-emotional-abuse-a/",
+      "type": "meta-analyse",
+      "read": "résumé publié dans le dépôt institutionnel UWA ; éditeur ScienceDirect HTTP 403 ; consulté le 2026-11-16"
+    },
+    {
+      "id": "mansueto2021_rumination",
+      "citation": "Mansueto G, Cavallo C, Palmieri S, Ruggiero GM, Sassaroli S, Caselli G, 2021, Adverse childhood experiences and repetitive negative thinking in adulthood: A systematic review, Clinical Psychology & Psychotherapy 28(3):557-568",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/cpp.2590",
+      "type": "revue",
+      "read": "résumé éditeur, méthodes et résultats ; texte intégral non lu ; consulté le 2026-11-16"
+    },
+    {
+      "id": "vaneickels2025_honte_culpabilite",
+      "citation": "van Eickels RL, Siegel M, Juhasz AJ, Zemp M, 2025, The parent–child relationship and child shame and guilt: A meta-analytic systematic review, Child Development 96(3):907-929",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12023818/",
+      "type": "meta-analyse",
+      "read": "sections introduction, critères d’inclusion, méthodes, résultats et tableaux 3–4, discussion et limites ; lues par urllib le 2026-11-16"
+    }
+  ],
+  "notes": [],
+  "out_of_scope": [
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "att_craintif_adulte",
+      "label": "Style craintif adulte",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Les résultats adultes lus portent sur anxiété et évitement. Leur coexistence ne valide pas une catégorie craintive distincte.",
+      "sources": [
+        "li2026"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "att_securise",
+      "label": "Attachement sécure",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource relationnelle, pas conséquence défavorable à inférer des cases du questionnaire.",
+      "sources": [
+        "li2026"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "relational_jealousy",
+      "label": "Jalousie relationnelle",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Aucune preuve spécifique enfance→jalousie suffisamment vérifiée ici ; anxiété d’attachement et peur d’abandon ne sont pas des synonymes.",
+      "sources": [
+        "li2026"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "schema_surrender",
+      "label": "Soumission au schéma",
+      "statut": "a_examiner",
+      "raison": "Style défini dans le modèle ; aucun lien spécifique supplémentaire suffisamment établi avec une case du questionnaire dans les sections lues.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "schema_avoidance",
+      "label": "Évitement des schémas",
+      "statut": "a_examiner",
+      "raison": "L’évitement mesuré en régulation émotionnelle ne valide pas à lui seul le style de Young. Pas de carte ajoutée.",
+      "sources": [
+        "young2003",
+        "gruhn2020"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_vulnerable",
+      "label": "Mode enfant vulnérable",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_angry",
+      "label": "Mode enfant en colère",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_impulsive",
+      "label": "Mode enfant impulsif",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_surrenderer",
+      "label": "Mode soumis",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_detached_protector",
+      "label": "Mode protecteur détaché",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_overcompensator",
+      "label": "Mode surcompensateur",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_punitive_parent",
+      "label": "Mode parent punitif",
+      "statut": "a_examiner",
+      "raison": "Construit du modèle identifié ; correspondance avec un vécu précis non suffisamment étayée ici. Aucune équivalence avec un symptôme ou un diagnostic.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_happy_child",
+      "label": "Mode enfant heureux",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource du modèle, hors graphe des difficultés.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "mode_healthy_adult",
+      "label": "Mode adulte sain",
+      "statut": "hors_perimetre_justifie",
+      "raison": "Ressource du modèle, hors graphe des difficultés.",
+      "sources": [
+        "young2003"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "culpabilite_liens_nouveaux",
+      "label": "Nouvelles associations spécifiques vers la culpabilité",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "La synthèse lue regroupe les relations parent-enfant dysfonctionnelles ; aucun effet propre à une case isolée n’est retenu. Culpabilité adaptée et excessive sont distinctes.",
+      "sources": [
+        "vaneickels2025_honte_culpabilite"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "regulation_strategies_distinctes",
+      "label": "Réévaluation, distraction, tolérance à la détresse et évitement expérientiel",
+      "statut": "a_examiner",
+      "raison": "Le résumé adulte ne donne pas les résultats détaillés par stratégie ; le résultat agrégé ne justifie pas des cartes séparées.",
+      "sources": [
+        "aminitehrani2026_regulation"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "rumination_sous_types_adversite",
+      "label": "Rumination : autres vécus candidats",
+      "statut": "a_examiner",
+      "raison": "La revue adulte lue au résumé fusionne abus et négligences. Pas de liens vers chaque sous-type ni vers contrôle, critique ou parent dépressif.",
+      "sources": [
+        "mansueto2021_rumination",
+        "hankin2025_rumination"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "schemas_non_significatifs",
+      "label": "Nouveaux liens empiriques vers fusion, dépendance, abnégation et inhibition",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Les analyses adolescentes consultées ne permettent pas de nouveaux liens suffisamment précis. Les associations de domaines ne sont pas distribuées à leurs schémas.",
+      "sources": [
+        "may2022"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "schemas_recents_non_mesures",
+      "label": "Approbation, négativité, punition",
+      "statut": "a_examiner",
+      "raison": "Pas de nouvelle estimation propre à ces schémas dans les tableaux adolescents lus ; leurs liens existants restent de niveau modèle.",
+      "sources": [
+        "may2022",
+        "isst_young_domains"
+      ]
+    },
+    {
+      "referentiel": "Modèles cliniques et catalogue psychologique",
+      "code": "defenses_dmrs",
+      "label": "Défenses DMRS : intellectualisation, rationalisation, minimisation",
+      "statut": "a_examiner",
+      "raison": "Traitement confié au lot 4 ; aucune assimilation aux modes de Young ou à l’alexithymie.",
+      "sources": [
+        "young2003"
+      ]
+    }
+  ],
+  "proposed_corrections": [
+    {
+      "action": "reformuler",
+      "target_type": "source",
+      "source_id": "young2003",
+      "fields": {
+        "url": "https://www.guilford.com/excerpts/young.pdf?t=1",
+        "read": "sections du chapitre 1 : définition et origines (p. 7–10), figure 1.1 des 18 schémas (p. 14–17), styles d’adaptation (p. 32–36) et modes (p. 37, 40, 43–44) ; PDF de 62 pages ; consulté le 2026-11-16"
+      },
+      "reason": "Accès primaire réellement consulté ; ne pas transformer les origines postulées en preuves empiriques."
+    },
+    {
+      "action": "reformuler",
+      "target_type": "source",
+      "source_id": "isst_young_domains",
+      "fields": {
+        "read": "sections des quatre concepts centraux et des 18 schémas/domaines ; consultées le 2026-11-16"
+      },
+      "reason": "Vérification du modèle ; identifiant existant conservé."
+    },
+    {
+      "action": "reformuler",
+      "target_type": "source",
+      "source_id": "ditzer2023",
+      "fields": {
+        "read": "sections méthodes, tableau 1, résultats et limites du PDF APA hébergé sur CareKnowledge ; consultées le 2026-11-16 ; https://www.careknowledge.com/media/56066/2023-78411-001.pdf"
+      },
+      "reason": "Lecture au-delà du résumé ; aucun diagnostic ni équivalence autisme/alexithymie."
+    },
+    {
+      "action": "reformuler",
+      "target_type": "source",
+      "source_id": "gruhn2020",
+      "fields": {
+        "read": "sections méthodes, résultats, tableaux 1–3 et discussion du PDF auteur Vanderbilt ; consultées le 2026-11-16 ; https://cdn.vanderbilt.edu/t2-my/my-prd/wp-content/uploads/sites/2804/2018/04/Effects-of-maltreatment-on-coping-and-emotion-regulation-in-T-childhood-and-adolescence-A-meta-analytic-review.pdf"
+      },
+      "reason": "Lecture ciblée ; effets agrégés non reportés sur chaque sous-type de maltraitance."
+    }
+  ],
+  "catalogue_decisions": [
+    {
+      "id": "rumination",
+      "status": "partiel",
+      "targets": [
+        "ten_rumination"
+      ],
+      "reason": "La carte couvre la rumination centrée sur la détresse ; le repère plus large peut aussi décrire d’autres pensées répétitives. Réflexion utile et préparation ponctuelle restent distinctes.",
+      "sources": [
+        "hankin2025_rumination",
+        "mansueto2021_rumination"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "shame",
+      "status": "partiel",
+      "targets": [
+        "ten_honte",
+        "ressenti_honte",
+        "sch_imperfection"
+      ],
+      "reason": "La carte de honte améliore la couverture ; honte située, peur du regard et schéma durable restent distincts.",
+      "sources": [
+        "meng2026",
+        "vaneickels2025_honte_culpabilite"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_identification",
+      "status": "partiel",
+      "targets": [
+        "ten_alexithymie"
+      ],
+      "reason": "La capacité ordinaire d’identification et son apprentissage dépassent une difficulté mesurée par l’alexithymie.",
+      "sources": [
+        "ditzer2023"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_suppression",
+      "status": "reference_exact",
+      "targets": [
+        "pat_emotional_suppression"
+      ],
+      "reason": "Même retenue expressive ; aucune équivalence avec un schéma ou un mode.",
+      "sources": [
+        "gruhn2020"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_overload",
+      "status": "agrege",
+      "targets": [
+        "ten_dysregulation_emotionnelle"
+      ],
+      "reason": "Débordement inclus, sans assimiler épisode ponctuel et difficulté persistante.",
+      "sources": [
+        "gruhn2020"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "guilt",
+      "status": "reference_exact",
+      "targets": [
+        "pat_guilt"
+      ],
+      "reason": "Le catalogue définit une culpabilité disproportionnée ; responsabilité réelle et réparation adaptée restent distinctes.",
+      "sources": [
+        "vaneickels2025_honte_culpabilite"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "distress_tolerance",
+      "status": "partiel",
+      "targets": [
+        "ten_dysregulation_emotionnelle",
+        "sch_controle_insuffisant"
+      ],
+      "reason": "Capacité d’accueil de l’inconfort, difficulté de régulation et schéma ne sont pas interchangeables.",
+      "sources": [
+        "gruhn2020",
+        "isst_young_domains"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "closeness_distance",
+      "status": "partiel",
+      "targets": [
+        "att_anxieux",
+        "att_evitant",
+        "ten_peur_intimite"
+      ],
+      "reason": "Choisir une distance confortable ne démontre pas une orientation insécure.",
+      "sources": [
+        "li2026"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "relational_security",
+      "status": "partiel",
+      "targets": [
+        "prot_adulte_chaleureux",
+        "prot_amities"
+      ],
+      "reason": "Ressources déjà présentes ; aucune carte défavorable supplémentaire.",
+      "sources": [
+        "li2026"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "emotional_detachment",
+      "status": "partiel",
+      "targets": [
+        "ten_dissociation",
+        "pat_emotional_suppression"
+      ],
+      "reason": "Distance momentanée, dissociation, retenue et mode protecteur ne sont pas synonymes.",
+      "sources": [
+        "young2003",
+        "gruhn2020"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "overcontrol",
+      "status": "partiel",
+      "targets": [
+        "sch_surcontrole",
+        "pat_perfectionism"
+      ],
+      "reason": "La maîtrise des situations dépasse l’inhibition émotionnelle et ne définit pas la surcompensation.",
+      "sources": [
+        "isst_young_domains"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "self_trust",
+      "status": "partiel",
+      "targets": [
+        "sch_dependance",
+        "ten_estime_soi"
+      ],
+      "reason": "Confiance en ses décisions, valeur personnelle et dépendance sont des dimensions voisines, distinctes.",
+      "sources": [
+        "isst_young_domains",
+        "zhang2023_estime"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "withdrawal",
+      "status": "partiel",
+      "targets": [
+        "pat_social_isolation",
+        "att_evitant"
+      ],
+      "reason": "Retrait temporaire, isolement subi et évitement relationnel demeurent distincts.",
+      "sources": [
+        "li2026"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "id": "relational_jealousy",
+      "status": "a_examiner",
+      "targets": [],
+      "reason": "Pas de correspondance automatique avec peur d’abandon ou attachement anxieux.",
+      "sources": [
+        "li2026"
+      ],
+      "causal_equivalence_claimed": false
+    }
+  ],
+  "proposed_categories": [
+    {
+      "id": "cognitive_process",
+      "label": "Processus cognitif"
+    },
+    {
+      "id": "schema_coping_style",
+      "label": "Style d’adaptation aux schémas (modèle clinique)"
+    },
+    {
+      "id": "schema_mode",
+      "label": "Mode de schéma (modèle clinique)"
+    }
+  ]
+}

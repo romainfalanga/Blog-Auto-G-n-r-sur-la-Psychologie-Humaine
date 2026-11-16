@@ -39,7 +39,7 @@ Abréviations : PA = violence physique ; SA = sexuelle ; EA = psychologique ; PN
 | `separation_conflit` | SEP~ | SEP~ | — | — | QE70.1 ; QE52.1~ si perte de relation |
 | `deces_proche` | — | SEP~ pour parent | — | — | QE52.1, QE61~ selon proche |
 | `maladie_famille` | — | — | — | — | QE92~ / QE70.2~ selon retentissement |
-| `precarite` | PN~ seulement si besoins non couverts | PN~ seulement si besoins non couverts | PN~ | PN~ | — ; pauvreté ≠ négligence |
+| `precarite` | PN~ seulement si besoins non couverts | — ; P3 suppose des moyens disponibles | PN~ | PN~ | — ; pauvreté ≠ négligence |
 | `invalidation` | EA~ | EA~ | EA~ | PVA~ | QE82.2~ selon actes et retentissement |
 | `critique` | EA~ | EA~ | EA~ | PVA/NVEA~ | QE95/QE96~ selon événements |
 | `amour_conditionnel` | — | — | — | EN~ | QE52.0~ ; pas de correspondance spécifique |
@@ -49,7 +49,7 @@ Abréviations : PA = violence physique ; SA = sexuelle ; EA = psychologique ; PN
 | `parentification` | — | — | — | — | QE95~ pour responsabilités inadéquates à l’âge |
 | `comparaison_fratrie` | — | — | — | — | QE52.0/QE96~ selon actes et retentissement |
 | `secret_famille` | — | — | — | — | — ; QE96 vise l’événement dévalorisant, pas tout secret |
-| `absence_limites` | — | PN~ surveillance | — | PN~ surveillance | QE90~ ; permissivité ≠ défaut grave de surveillance |
+| `absence_limites` | — | — | — | PN~ surveillance | QE90~ ; permissivité ≠ défaut grave de surveillance |
 | `ressenti_pas_compter` | EN~ | EN~ | EN~ | EN~ | — ; impression distincte d’un déficit de soins établi |
 | `ressenti_abandon` | — | EA~ menace explicite seulement | — | NVEA~ menace explicite seulement | — ; peur ≠ abandon observé |
 | `ressenti_honte` | — | — | — | — | — ; QE96 nécessite un événement, pas la honte seule |
@@ -83,6 +83,8 @@ Abréviations : PA = violence physique ; SA = sexuelle ; EA = psychologique ; PN
 | `moqueries_corps` | EA~ adulte foyer | EA/BULL~ auteur | EA~ | PVA/PEA~ | QE96/QE82.2~ selon actes et retentissement |
 | `parent_malade_physique` | — | — | — | — | QE92/QE70.2~ selon retentissement et aide |
 | `isolement_social_enfant` | — | BULL~ exclusion imposée | — | PEA~ exclusion imposée | — ; peu d’amis ≠ rejet imposé |
+
+Attention au détail des items : ACE-IQ P3 vise le manque de nourriture malgré des moyens disponibles, et P5 la non-scolarisation malgré une école accessible. La précarité matérielle ne satisfait pas automatiquement ces items.
 
 Le constat initial « ACE dix sur dix » est donc une couverture des grandes familles, pas une équivalence exacte. ACE-IQ : communauté absente ; foyer partiellement couvert ; collectif présent dans `exil`. CTQ : les cinq familles sont présentes, sans cotation validée. MACE : neuf familles présentes avec fusions, WITS manquant ; ni âge annuel ni durée ne sont recueillis. La distinction verbale/non verbale ou physique/émotionnelle peut rester dans les exemples. Le nombre de facteurs ne résout pas l’absence de fréquence, d’âge et de durée.
 
@@ -167,4 +169,6 @@ Extraction du jeu publié, filtre `group == ressentis` et `relation_type == empi
 
 Le fragment n’ajoute aucune paire déjà publiée, aucun identifiant de source existant, aucun sujet existant redéclaré. Les liens de facteurs inconnus restent exclusivement dans `proposed_links`. Les propositions d’exemples ont `target: factor_editorial`, les réserves de périmètre `target: factor_scope`, et l’enrichissement de lecture Peverill `target: source_read` : ces objets sont ignorés par le générateur et doivent être interprétés par l’intégrateur, sans modification automatique de données enregistrées.
 
-Vérifications finales à renseigner après contrôle local : syntaxe JSON, identifiants/paires, références et budget des résumés ; compilation en mémoire du générateur sans écriture, erreur d’empreinte d’audit attendue. Aucun test produit ni déploiement ne relève de ce lot.
+Contrôles effectués : JSON valide ; 58 facteurs présents exactement une fois dans la table ; aucune collision avec les identifiants ou paires publiés, ni avec les autres fragments présents au contrôle ; tous les sujets et toutes les sources référencés connus ; aucune expression interdite ; résumé maximal de 253 caractères. Les propositions respectent les plafonds.
+
+Compilation en mémoire, sans écrire de fichiers générés : l’arbre partagé retournait 58 facteurs, 91 sujets, 461 liens et 253 sources. Hors erreur attendue d’empreinte d’audit, une erreur indépendante de ce lot subsistait : `triangulation → dep_generale`, résumé de plus de 350 caractères. Elle a été signalée à l’intégrateur ; aucun autre fragment n’a été modifié pour la corriger. Ces compteurs sont un instantané de l’arbre partagé et non les effectifs de ce lot. Aucun test produit ni déploiement exécuté.

@@ -21,11 +21,11 @@ test('quoted questions preserve the entire sentence with or without structured q
 });
 
 test('direct, indirect, means-related and third-party danger have a deterministic backstop',()=>{
- for(const text of ['Je vais me suicider.','Je veux mourir.','J’ai envie d’en finir.','Je n’en peux plus de vivre.','Je ne peux plus vivre.','Je voudrais disparaître.','Je ne veux plus être là.','Je voudrais ne pas me réveiller.','Mes proches seraient mieux sans moi.','Quelle dose serait mortelle ?','J’ai avalé toute la boîte de médicaments.','Je vais sauter du pont.','Ma sœur parle de suicide.']){
+ for(const text of ['Je vais me suicider.','Je veux mourir.','J’ai envie d’en finir.','Je n’en peux plus de vivre.','Je ne peux plus vivre.','Je voudrais disparaître.','Je ne veux plus être là.','Je voudrais ne pas me réveiller.','Mes proches seraient mieux sans moi.','Je ne serai plus là demain.','J’aimerais ne plus être là.','Je suis un fardeau pour ma famille.','Quelle dose serait mortelle ?','J’ai avalé toute la boîte de médicaments.','Je vais sauter du pont.','Ma sœur parle de suicide.']){
   assert.equal(crisisSignal(text),'self_harm',text);
  }
  for(const text of ['Je vais le tuer.','Il menace de me tuer.','Je veux poignarder mon voisin.'])assert.equal(crisisSignal(text),'violence',text);
- for(const text of ['Je veux comprendre mes émotions.','Je n’en peux plus de mon travail.','Je vais me faire du bien.','Le train arrive à quinze heures.'])assert.equal(crisisSignal(text),null,text);
+ for(const text of ['Je veux comprendre mes émotions.','Je n’en peux plus de mon travail.','Je vais me faire du bien.','Le train arrive à quinze heures.','Je veux faire disparaître cette habitude.','Ce travail est un fardeau.'])assert.equal(crisisSignal(text),null,text);
  assert.match(safetyReply('self_harm'),/3114/);assert.match(safetyReply('self_harm'),/15 ou le 112/);assert.match(safetyReply('self_harm'),/suicide/);
  assert.match(safetyReply('violence'),/17 ou le 112/);
 });

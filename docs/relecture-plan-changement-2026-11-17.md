@@ -20,3 +20,23 @@ Points à résoudre avant implémentation :
 10. **Couverture réelle des corrections** : ajouter la modification d'une étape, la suppression d'un essai et d'une proposition et la création d'un résultat sans date connue aux routes. Les réponses privées ne peuvent pas annoncer une suppression qui laisse une citation dans une carte de conversation, un bilan, un point ou un export.
 
 Décision : **v1 à réviser**. Aucun code du nouveau plan autorisé par cette revue tant que les réponses bloquantes ne sont pas stabilisées en v2 puis soumises au cycle suivant.
+
+## Cycle 2 — version 2
+
+Les dix réponses sont présentes. Les scénarios de rejeu après effacement, carte déjà acceptée, consigne privée exposée par la route care et relance perdue en réécriture possèdent maintenant des contrats vérifiables. Le point personnel déterministe et les identifiants stables réduisent les ambiguïtés d'implémentation. La marge de coût est explicitement mesurée, sans présenter les estimations simulées comme une facture réelle.
+
+Derniers ajustements demandés pour v3 :
+
+1. **Purge proportionnée et respect des refus** : limiter la coupure de reconstruction aux suppressions et corrections de contenus déjà transmis ; un changement de priorité, de date prévue ou de statut administratif ne doit pas vider la continuité. Les textes dérivés sans provenance sont invalidés, mais un effacement du plan ne doit pas effacer silencieusement un arrêt de relance ni autoriser de nouveau des explorations refusées. Si leurs textes doivent être purgés, conserver seulement des indicateurs non textuels de vigilance passée et de refus à respecter, sans conclure à un danger actuel. L'utilisateur garde une action explicite pour effacer toute sa mémoire. Les messages originaux conservés sont annoncés distinctement des copies générées.
+2. **Préciser les limites de la révocation** : elle bloque les nouvelles lectures/publications et invalide les copies servies par l'application. Elle ne peut retirer un document déjà téléchargé par son destinataire ; ne pas promettre d'effacement à distance impossible.
+3. **Rôles, consentement et défauts** : routes privées du plan réservées au propriétaire membre, aucun accès professionnel implicite. Les propositions utilisent le consentement de conversation existant ; elles ne sont pas des engagements. Relances inactives par défaut, partage plan absent de toute liaison existante, consigne privée séparée. La possibilité de désactiver les propositions ne supprime pas les objectifs choisis.
+4. **Conserver les limites cliniques dans le format compact** : les 1600caractères de fiches ne peuvent tronquer une exclusion ou transformer C09 en exercice. Représenter les restrictions par champs courts systématiques et omettre une fiche entière si nécessaire. Tester une violence rapportée avec une demande de phrase pour dire non : aucune mise en situation à risque ne doit passer par la seule sélection C08.
+5. **Implémentation physique** : le modèle des quatre objets est requis, pas nécessairement quatre pipelines. Un agrégat JSON versionné sous CAS, avec IDs stables et bornes explicites, peut satisfaire le contrat si cela réduit les transactions fragiles. Les plafonds de stockage doivent être annoncés et les exports couvrir tous les objets conservés. Ce choix ne dispense d'aucun test de concurrence, isolation ou suppression.
+
+Décision : **v2 cohérente après ces ajustements** ; demander v3 écrite avec réponses, puis vérifier ces cinq points avant le début du code. Aucune nouvelle source clinique ni efficacité validée n'est déduite de cette revue.
+
+## Vérification de la version 3 — feu vert d'implémentation
+
+Les cinq ajustements ont été vérifiés dans les sections1,3,4,7,9,12 et le tableau de réponses. Les bornes de stockage sont explicites ; la purge distingue contenu déjà transmis et modification administrative ; les refus et la vigilance passée survivent sous forme non textuelle sans créer un danger actuel. Les sources privées et la révocation ont des limites précises. Les restrictions ne sont pas des textes facultatifs supprimables par compression.
+
+**Plan v3 retenu pour implémentation**, après deux cycles indépendants et deux révisions. Ce feu vert concerne le contrat produit/technique et ses limites documentaires. Il ne vaut pas validation clinique de l'outil. La publication reste conditionnée aux tests, à la relecture indépendante du code et des réponses, aux mesures de coût et à la recette prévues. Toute déviation matérielle sera consignée et revue.

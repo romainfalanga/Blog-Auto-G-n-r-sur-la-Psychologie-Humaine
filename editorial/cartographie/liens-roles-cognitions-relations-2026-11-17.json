@@ -1,0 +1,1402 @@
+{
+  "part": "roles-cognitions-relations",
+  "author": "recherche_lot6",
+  "outcomes": [
+    {
+      "id": "ten_inferences_negatives",
+      "kind": "tendance",
+      "label": "Interprétations négatives durables des difficultés",
+      "description": "Attribuer les événements difficiles à des causes durables et générales, ou en tirer des conclusions négatives sur soi. Ce style étudié ne résume pas toutes les distorsions cognitives.",
+      "domain": "soi",
+      "category": "tendency"
+    },
+    {
+      "id": "ten_recompense_immediate_jeunes",
+      "kind": "tendance",
+      "label": "Préférence pour une récompense immédiate chez les jeunes",
+      "description": "Dans des tâches de choix, préférer une petite somme disponible maintenant à une somme plus élevée après un délai. Ce repère de recherche chez les enfants et adolescents ne mesure ni la volonté ni un trouble.",
+      "domain": "comportements",
+      "category": "tendency",
+      "contextual_only": true
+    }
+  ],
+  "links": [
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_inferences_negatives",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse ancienne, surtout auprès de jeunes adultes, trouve une faible association entre maltraitance émotionnelle et interprétations négatives durables des événements. Peu d’études et des mesures hétérogènes limitent la conclusion.",
+      "sources": [
+        "gibb2002_cognitions"
+      ]
+    },
+    {
+      "factor": "abus_sexuel",
+      "outcome": "ten_inferences_negatives",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse ancienne trouve une faible association entre violences sexuelles infantiles et style d’interprétation négatif. Le résultat concerne surtout des femmes adultes ; il n’était pas net dans les échantillons les plus jeunes.",
+      "sources": [
+        "gibb2002_cognitions"
+      ]
+    },
+    {
+      "factor": "precarite",
+      "outcome": "ten_recompense_immediate_jeunes",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Chez les enfants et adolescents, une méta-analyse trouve une très faible association entre faibles revenus familiaux et préférence pour une récompense monétaire immédiate. Cela ne permet pas de prédire les choix d’un adulte.",
+      "sources": [
+        "felton2026_delai"
+      ]
+    },
+    {
+      "factor": "parent_addiction",
+      "outcome": "ten_recompense_immediate_jeunes",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse de quelques études associe les antécédents familiaux d’addiction à une préférence un peu plus marquée pour les récompenses immédiates chez les jeunes. Les études de suivi et les échantillons ordinaires sont moins concordants.",
+      "sources": [
+        "felton2026_delai"
+      ]
+    },
+    {
+      "factor": "punitions_corporelles",
+      "outcome": "ten_recompense_immediate_jeunes",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue systématique rapporte une association modeste entre punitions corporelles et préférence pour une récompense immédiate chez les jeunes. Ce résultat repose sur peu de données et ne décrit pas leurs choix futurs à l’âge adulte.",
+      "sources": [
+        "felton2026_delai"
+      ]
+    },
+    {
+      "factor": "abus_emotionnel",
+      "outcome": "ten_codependance",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue systématique rapporte des associations entre abus émotionnels infantiles et scores de codépendance chez des adultes. Les études sont transversales, sans estimation combinée ; la définition du construit reste discutée.",
+      "sources": [
+        "molina2026_codependance"
+      ]
+    },
+    {
+      "factor": "negligence_emotionnelle",
+      "outcome": "ten_codependance",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue systématique retrouve une association entre négligence émotionnelle infantile et scores de codépendance chez des adultes. Les données rétrospectives ne démontrent pas une origine causale et les mesures varient.",
+      "sources": [
+        "molina2026_codependance"
+      ]
+    },
+    {
+      "factor": "abus_physique",
+      "outcome": "ten_qualite_relationnelle",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte américaine suivie de l’enfance à la trentaine, les violences physiques documentées étaient modestement associées à une moins bonne qualité du fonctionnement amoureux. Le résultat combine observations, entretiens et satisfaction déclarée.",
+      "sources": [
+        "labella2018_relations"
+      ]
+    },
+    {
+      "factor": "negligence_physique",
+      "outcome": "ten_qualite_relationnelle",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Dans une cohorte américaine, la négligence des besoins matériels ou de surveillance était modestement associée à un fonctionnement amoureux adulte moins satisfaisant. L’association s’atténuait après prise en compte des violences dans le couple.",
+      "sources": [
+        "labella2018_relations"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "gibb2002_cognitions",
+      "citation": "Gibb BE, 2002, Childhood maltreatment and negative cognitive styles: A quantitative and qualitative review, Clinical Psychology Review 22(2):223–246",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11806020/",
+      "type": "meta-analyse",
+      "read": "sections : définition du construit, méthode §2.1, résultats quantitatifs §2.2.1 et §2.2.3, tableau 1 ; PDF auteur Binghamton ouvert et lu, pp. 225–233"
+    },
+    {
+      "id": "felton2026_delai",
+      "citation": "Felton JW, Kahn G, Johnson J, Ali H, Saleh S, Habib N, Maher B, Strickland JC, Cheong J, Yi R, Rabinowitz JA, 2026 [en ligne 2025], A systematic review and meta-analysis of the impact of environmental disadvantage on youth delayed reward discounting, Development and Psychopathology 38:945–960",
+      "url": "https://www.cambridge.org/core/journals/development-and-psychopathology/article/systematic-review-and-metaanalysis-of-the-impact-of-environmental-disadvantage-on-youth-delayed-reward-discounting/4A9481D212C52C01CFE23192C5FCBA2E",
+      "type": "meta-analyse",
+      "read": "sections : méthodes, résultats par exposition, figures 2–4 et discussion ; PDF Cambridge pp. 946–957 lu via extraction locale"
+    },
+    {
+      "id": "molina2026_codependance",
+      "citation": "Molina E, Taiwo A, Grey B, 2026, Co-Dependency Revisited: An Integrative Review of Conceptualisations and Mental Health Outcomes, Clinical Psychology & Psychotherapy 33(2):e70265",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13067074/",
+      "type": "revue",
+      "read": "sections : méthodes §2, résultats §3, tableau 2, synthèse développementale §3.4.5, limites §4.3 ; HTML intégral obtenu par urllib après échec navigateur"
+    },
+    {
+      "id": "labella2018_relations",
+      "citation": "Labella MH, Johnson WF, Martin J, Ruiz SK, Shankman JL, Englund MM, Collins WA, Roisman GI, Simpson JA, 2018, Multiple Dimensions of Childhood Abuse and Neglect Prospectively Predict Poorer Adult Romantic Functioning, Personality and Social Psychology Bulletin 44(2):238–251",
+      "url": "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2018/Labella%2520et%2520al%2520%2528PSPB%252C%25202018%2529.pdf",
+      "type": "etude",
+      "read": "sections : méthodes pp. 240–243, résultats pp. 243–247, tableaux 1–3 ; PDF auteur ouvert dans le navigateur web"
+    },
+    {
+      "id": "dariotis2023_parentification",
+      "citation": "Dariotis JK, Chen FR, Park YR, Nowak MK, French KM, Codamon AM, 2023, Parentification Vulnerability, Reactivity, Resilience, and Thriving: A Mixed Methods Systematic Literature Review, International Journal of Environmental Research and Public Health 20(13):6197",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10341267/",
+      "type": "revue",
+      "read": "sections : définition, méthodes §2, mesures §3.3, résultats quantitatifs §3.4 et qualitatifs §3.5, limites ; HTML ouvert via navigateur et urllib"
+    },
+    {
+      "id": "kenyhercz2024_travail",
+      "citation": "Kenyhercz V, Mervó B, Lehel N, Demetrovics Z, Kun B, 2024, Work addiction and social functioning: A systematic review and five meta-analyses, PLOS ONE 19(6):e0303563",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11149883/",
+      "type": "meta-analyse",
+      "read": "sections : méthodes, résultats, synthèse narrative famille d’origine et limites ; HTML intégral obtenu par urllib après échec navigateur"
+    },
+    {
+      "id": "sharratt2025_incertitude",
+      "citation": "Sharratt L, Ridout N, 2025 [en ligne 2024], Direct and indirect effects of childhood adversity on psychopathology: Investigating parallel mediation via self-concept clarity, self-esteem and intolerance of uncertainty, British Journal of Clinical Psychology 64(2):539–552",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12057305/",
+      "type": "etude",
+      "read": "sections : méthode, résultats et limites ; étude transversale exclue de la création de liens ; HTML lu par urllib"
+    },
+    {
+      "id": "gisselbaek2026_imposture",
+      "citation": "Gisselbaek M, Seyour M, Saxena S, Berger-Estilita J, LaDonna KA, Elia N, Savoldelli GL, 2026 [en ligne 2025], Rethinking the impostor phenomenon: An umbrella review of concept, context and interventions, Medical Education 60(6):607–624",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129615/",
+      "type": "revue",
+      "read": "sections : méthodes §2, résultats §3, tableau 1 dont revue des facteurs parentaux et évaluation de qualité ; HTML lu par urllib"
+    },
+    {
+      "id": "jhang2023_couts",
+      "citation": "Jhang J, Lee DC, Park J, Lee J, Kim J, 2023 [en ligne 2022], The impact of childhood environments on the sunk-cost fallacy, Psychology & Marketing 40(3):531–541",
+      "url": "https://doi.org/10.1002/mar.21750",
+      "type": "etude",
+      "read": "sections : étude 3, participants et plan §6.1, résultats §6.2, discussion et limites §7 ; article ouvert dans Wiley ; pas une cohorte développementale"
+    }
+  ],
+  "notes": [],
+  "out_of_scope": [
+    {
+      "referentiel": "Catalogue161",
+      "code": "rumination",
+      "pattern_id": "rumination",
+      "label": "Pensées en boucle",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_rumination"
+      ],
+      "raison": "Coordination lot 5 : carte de rumination proposée. Le repère plus large inclut une réflexion répétée encore utile ; ne pas convertir toute répétition en rumination problématique.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "intellectualization",
+      "pattern_id": "intellectualization",
+      "label": "Intellectualisation",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Coordination lot 4 : exclusion proposée faute de lien enfance spécifique ; analyser utilement un problème ne suffit pas à conclure à une défense. Pas d’alias avec alexithymie. Sources du lot 4 non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot4"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "uncertainty",
+      "pattern_id": "uncertainty",
+      "label": "Besoin de certitude",
+      "statut": "a_examiner",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "L’étude lue utilise un total d’adversités et un devis transversal. Elle ne permet pas d’isoler surprotection ou imprévisibilité ; seuil revue/cohorte non atteint pour un lien nouveau. Besoin de certitude et anxiété ne sont pas synonymes.",
+      "sources": [
+        "sharratt2025_incertitude"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "catastrophizing",
+      "pattern_id": "catastrophizing",
+      "label": "Anticipation du pire",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_negativite",
+        "sch_vulnerabilite",
+        "ten_inferences_negatives"
+      ],
+      "raison": "Une anticipation catastrophique peut recouper les schémas et certaines inférences négatives, sans être un style durable ni une mesure spécifique dans Gibb. Pas de carte autonome faute de lien infantile propre vérifié.",
+      "sources": [
+        "gibb2002_cognitions"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "mind_reading",
+      "pattern_id": "mind_reading",
+      "label": "Interpréter le regard des autres",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "L’inférence des jugements d’autrui n’est ni le style attributionnel mesuré ni une méfiance générale. Aucune revue ou cohorte spécifique suffisamment vérifiée ; pas de carte par voisinage lexical.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "all_or_nothing",
+      "pattern_id": "all_or_nothing",
+      "label": "Pensée tout ou rien",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "La revue de style cognitif porte sur des inférences stables/globales et non sur une mesure distincte de pensée dichotomique. Le perfectionnisme ne suffit pas à en faire un alias. Aucun lien spécifique admissible trouvé.",
+      "sources": [
+        "gibb2002_cognitions"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "confirmation",
+      "pattern_id": "confirmation",
+      "label": "Attention aux indices qui confirment",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Recherche ciblée sans source admissible reliant une exposition infantile définie au biais de confirmation. Processus de jugement ordinaire, sans alias diagnostique.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "emotional_identification",
+      "pattern_id": "emotional_identification",
+      "label": "Identifier ses émotions",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_alexithymie"
+      ],
+      "raison": "La difficulté d’identification est représentée ; la capacité ordinaire et son apprentissage ne se confondent pas avec l’alexithymie. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "anger_needs",
+      "pattern_id": "anger_needs",
+      "label": "Colère et besoins contrariés",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_colere",
+        "ressenti_colere_interdite"
+      ],
+      "raison": "Expression ou rétention de colère présentes ; le repérage des besoins et la différence entre émotion et action sont plus larges. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "shame",
+      "pattern_id": "shame",
+      "label": "Honte et exposition",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_honte"
+      ],
+      "raison": "Coordination lot 5 : carte distincte proposée, sans assimiler honte située et schéma durable d’imperfection.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "body_stress",
+      "pattern_id": "body_stress",
+      "label": "Signaux corporels du stress",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_douleurs_persistantes",
+        "icd_6c20"
+      ],
+      "raison": "Coordination lot 7. Des sensations liées à une situation ne démontrent ni douleur chronique ni trouble de détresse corporelle. Les causes médicales et les émotions ordinaires restent ouvertes.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "comparison",
+      "pattern_id": "comparison",
+      "label": "Comparaison sociale",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "comparaison_fratrie",
+        "moqueries_corps"
+      ],
+      "raison": "Distinguer expositions infantiles à des comparaisons et comparaison sociale actuelle. Le contexte numérique appartient encore à une autre description ; aucune flèche enfance → comparaison globale ajoutée.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "boundaries",
+      "pattern_id": "boundaries",
+      "label": "Exprimer ses limites",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_assujettissement",
+        "pat_needs_expression"
+      ],
+      "raison": "L’effacement et les besoins sont représentés ; exprimer librement une limite est une compétence plus large.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "reassurance",
+      "pattern_id": "reassurance",
+      "label": "Recherche de validation",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_recherche_approbation"
+      ],
+      "raison": "La recherche d’approbation couvre une partie du besoin de validation ; conseil ponctuel et réassurance de sécurité sont distincts. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "reciprocity",
+      "pattern_id": "reciprocity",
+      "label": "Réciprocité",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_qualite_relationnelle",
+        "sch_abnegation"
+      ],
+      "raison": "Qualité des liens et sacrifice de soi touchent la réciprocité, sans évaluer le donner/recevoir dans chaque relation.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "trust",
+      "pattern_id": "trust",
+      "label": "Confiance et prudence",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_mefiance"
+      ],
+      "raison": "Conserver le recouvrement : ajuster sa confiance selon des faits est une compétence, distincte d’un schéma de méfiance et de la confiance épistémique. Les pistes récentes retrouvées ne sont pas assez lues par facteur pour ajouter un lien.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "family_loyalty",
+      "pattern_id": "family_loyalty",
+      "label": "Loyauté et autonomie",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_fusion",
+        "sch_assujettissement"
+      ],
+      "raison": "Fusion ou soumission peuvent recouper une tension de loyauté ; une loyauté choisie n’est ni l’une ni l’autre. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "closeness_distance",
+      "pattern_id": "closeness_distance",
+      "label": "Proximité et distance",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "att_anxieux",
+        "att_evitant",
+        "ten_peur_intimite"
+      ],
+      "raison": "Coordination lot 5 pour l’attachement. Choisir une distance ajustée n’est pas un style insécure ; la peur d’intimité ne décrit qu’une difficulté possible. Aucun alias total.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "relational_security",
+      "pattern_id": "relational_security",
+      "label": "Sécurité relationnelle",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "prot_adulte_chaleureux",
+        "prot_amities"
+      ],
+      "raison": "Des appuis sûrs sont recueillis ; ils ne mesurent pas toute la liberté de rester soi dans un lien actuel. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "avoidance",
+      "pattern_id": "avoidance",
+      "label": "Évitement et report",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_procrastination",
+        "att_evitant"
+      ],
+      "raison": "Le report d’action et certaines distances relationnelles ne couvrent pas toutes les formes d’évitement.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "overcontrol",
+      "pattern_id": "overcontrol",
+      "label": "Besoin de contrôle",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_surcontrole",
+        "pat_perfectionism"
+      ],
+      "raison": "Coordination lot 5. Le surcontrôle des émotions, le perfectionnisme et la maîtrise générale des situations ne sont pas interchangeables ; les dimensions de Curran ne justifient pas cet alias.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "withdrawal",
+      "pattern_id": "withdrawal",
+      "label": "Retrait relationnel",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_social_isolation",
+        "att_evitant"
+      ],
+      "raison": "Un retrait temporaire pour récupérer peut être choisi et utile. Il ne mesure pas l’isolement subi, l’attachement évitant ou un trait de détachement ; aucune carte autonome ajoutée.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "impulsive_reaction",
+      "pattern_id": "impulsive_reaction",
+      "label": "Réagir dans l’urgence",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_controle_insuffisant",
+        "ten_externalisation"
+      ],
+      "raison": "Coordination lot 4 pour désinhibition. Une réaction sous tension n’est ni un trait stable, ni le choix monétaire différé étudié ici ; aucun alias avec la nouvelle carte de récompense.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "overwork",
+      "pattern_id": "overwork",
+      "label": "Surinvestissement et récupération",
+      "statut": "a_examiner",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "La revue trouve peu de données sur la famille d’origine, avec résultats mixtes. Le travail excessif parental est distinct des 58 facteurs ; pas d’extrapolation depuis parentification ou pression scolaire. Le repère ordinaire n’est pas une addiction au travail.",
+      "sources": [
+        "kenyhercz2024_travail"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "grief_change",
+      "pattern_id": "grief_change",
+      "label": "Perte et changement",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "deces_proche",
+        "icd_6b42"
+      ],
+      "raison": "Décès et deuil prolongé présents ; changements ordinaires, pertes non mortelles et deuil normal ne sont pas équivalents.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "autonomy",
+      "pattern_id": "autonomy",
+      "label": "Autonomie",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "surprotection",
+        "controle",
+        "sch_dependance"
+      ],
+      "raison": "Les obstacles à l’autonomie sont approchés ; choix libre et dépendance matérielle réelle ne sont pas des schémas. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "needs_expression",
+      "pattern_id": "needs_expression",
+      "label": "Reconnaître ses besoins",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_needs_expression"
+      ],
+      "raison": "Même thème des besoins mais la carte porte une difficulté ; elle ne couvre pas toute la compétence de négociation.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "support_seeking",
+      "pattern_id": "support_seeking",
+      "label": "Demander du soutien",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "prot_soutien_apres",
+        "prot_soins"
+      ],
+      "raison": "L’existence d’aides est recueillie ; savoir demander et préférer un type de soutien restent distincts. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "emotional_flexibility",
+      "pattern_id": "emotional_flexibility",
+      "label": "Souplesse émotionnelle",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_dysregulation_emotionnelle",
+        "prot_ressources_personnelles"
+      ],
+      "raison": "Les difficultés de régulation et des appuis sont présents ; leur absence ne démontre pas une souplesse émotionnelle. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "personalization",
+      "pattern_id": "personalization",
+      "label": "Tout ramener à sa responsabilité",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_guilt",
+        "ressenti_responsable",
+        "pat_overresponsibility"
+      ],
+      "raison": "Responsabilité et culpabilité excessives recouvrent une partie de l’attribution personnelle ; pas un mécanisme cognitif identique.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "negative_filter",
+      "pattern_id": "negative_filter",
+      "label": "Retenir surtout le négatif",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_negativite"
+      ],
+      "raison": "Le schéma négativité/pessimisme contient une attention au négatif ; un filtre ponctuel n’établit pas ce schéma. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "overgeneralization",
+      "pattern_id": "overgeneralization",
+      "label": "Étendre une expérience à toutes les situations",
+      "statut": "agrege_dans",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_inferences_negatives"
+      ],
+      "raison": "Une nouvelle carte couvre les attributions globales après un événement négatif. Le repère inclut aussi des généralisations hors de ce contexte : correspondance partielle seulement, pas alias exact.",
+      "sources": [
+        "gibb2002_cognitions"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "emotional_reasoning",
+      "pattern_id": "emotional_reasoning",
+      "label": "Prendre un ressenti pour une preuve",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Prendre une émotion pour une preuve n’est pas mesuré par les études d’attributions négatives lues. Aucun lien infantile spécifique admissible trouvé ; aucune équivalence avec intensité émotionnelle.",
+      "sources": [
+        "gibb2002_cognitions"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "sunk_cost",
+      "pattern_id": "sunk_cost",
+      "label": "Rester pour ce qui a déjà coûté",
+      "statut": "a_examiner",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Une publication rapporte des expériences de décision liées au niveau socioéconomique infantile rappelé. Ce n’est ni une cohorte développementale ni une synthèse : seuil d’admission du plan non atteint. Dire preuve préliminaire, non absence de recherche.",
+      "sources": [
+        "jhang2023_couts"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "distress_tolerance",
+      "pattern_id": "distress_tolerance",
+      "label": "Traverser un inconfort émotionnel",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_dysregulation_emotionnelle",
+        "sch_controle_insuffisant"
+      ],
+      "raison": "Coordination lot 5. Capacité à rester en contact avec l’inconfort et possibilités de soutien dépassent les difficultés de régulation ; pas d’équivalence avec un schéma.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "joy_permission",
+      "pattern_id": "joy_permission",
+      "label": "S’autoriser la joie",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_surcontrole",
+        "sch_negativite",
+        "pat_guilt"
+      ],
+      "raison": "L’inhibition, l’anticipation négative et la culpabilité peuvent recouper ce thème ; aucune carte spécifique de permission de joie. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "self_trust",
+      "pattern_id": "self_trust",
+      "label": "S’appuyer sur son propre jugement",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_dependance",
+        "ten_estime_soi"
+      ],
+      "raison": "Coordination lot 5. Jugement situé, confiance dans ses préférences et estime globale ne sont pas identiques ; aucune preuve propre ne justifie de les fusionner.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "authenticity",
+      "pattern_id": "authenticity",
+      "label": "Accorder son expression à ce que l’on vit",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_conditional_worth",
+        "sch_recherche_approbation"
+      ],
+      "raison": "La dépendance au regard extérieur est approchée ; la présentation choisie et protectrice de soi dépasse ces cartes.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "assertive_request",
+      "pattern_id": "assertive_request",
+      "label": "Faire une demande explicite",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_needs_expression",
+        "sch_assujettissement"
+      ],
+      "raison": "Les difficultés à exprimer ses besoins sont présentes ; la demande négociable n’est pas évaluée comme compétence.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "receiving_help",
+      "pattern_id": "receiving_help",
+      "label": "Recevoir sans devoir rembourser immédiatement",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "sch_abnegation",
+        "pat_guilt"
+      ],
+      "raison": "Dette et sacrifice peuvent gêner la réception d’aide ; la capacité à recevoir reste un sujet distinct.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "power_imbalance",
+      "pattern_id": "power_imbalance",
+      "label": "Marge de choix dans un rapport de pouvoir",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_appeasement",
+        "emprise_religieuse",
+        "controle"
+      ],
+      "raison": "Des contextes de pouvoir sont présents dans l’enfance ; dépendances professionnelles et économiques actuelles sont plus larges.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "family_mediation",
+      "pattern_id": "family_mediation",
+      "label": "Se retrouver médiateur familial",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "triangulation",
+        "parentification"
+      ],
+      "raison": "Une médiation infantile imposée peut recouper ces facteurs ; une médiation adulte consentie n’est ni parentification ni rôle de sauveur.",
+      "sources": [
+        "dariotis2023_parentification"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "consistency_in_relationships",
+      "pattern_id": "consistency_in_relationships",
+      "label": "Prévisibilité de la disponibilité",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "imprevisibilite",
+        "soins_instables",
+        "prot_adulte_chaleureux"
+      ],
+      "raison": "Prévisibilité des soins infantiles approchée ; cohérence des liens actuels n’est pas mesurée.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "separation_reunion",
+      "pattern_id": "separation_reunion",
+      "label": "Vivre les séparations et retrouvailles",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ressenti_abandon",
+        "parent_absent",
+        "pat_abandonment_fear"
+      ],
+      "raison": "Absence et crainte du lien sont présentes ; attentes de contact et retrouvailles ordinaires dépassent ce périmètre. Coordination lot5 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "co_regulation",
+      "pattern_id": "co_regulation",
+      "label": "S’apaiser dans une présence sûre",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "prot_adulte_chaleureux",
+        "prot_soutien_apres"
+      ],
+      "raison": "Présences soutenantes recueillies ; le processus concret d’apaisement partagé n’a pas de carte propre. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "task_initiation",
+      "pattern_id": "task_initiation",
+      "label": "Passer du projet au premier geste",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_procrastination"
+      ],
+      "raison": "Le report d’action est représenté ; manque de moyens, flou et fatigue ne sont pas couverts comme causes alternatives structurées.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "reward_delay",
+      "pattern_id": "reward_delay",
+      "label": "Composer avec une récompense lointaine",
+      "statut": "agrege_dans",
+      "decision_semantique": "nouvelle_carte",
+      "targets": [
+        "ten_recompense_immediate_jeunes"
+      ],
+      "raison": "Carte contextuelle de choix monétaire chez enfants/adolescents. Elle couvre le construit expérimental, seulement une partie du repère quotidien effort/bénéfice ; aucune origine infantile d’un trouble neurodéveloppemental ni identité adulte inférée.",
+      "sources": [
+        "felton2026_delai"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "flexible_standards",
+      "pattern_id": "flexible_standards",
+      "label": "Adapter ses exigences à la situation",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_perfectionism",
+        "sch_exigences_elevees"
+      ],
+      "raison": "Adapter ses exigences est une compétence. Les dimensions mesurées du perfectionnisme n’autorisent pas à considérer toute exigence ou toute qualité de travail comme pathologique.",
+      "sources": [
+        "curran2022"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "financial_strain",
+      "pattern_id": "financial_strain",
+      "label": "Pression financière",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "precarite",
+        "ten_difficultes_professionnelles"
+      ],
+      "raison": "Précarité infantile et difficultés de revenus sont présentes ; dettes et possibilités actuelles restent à recueillir séparément. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "housing_instability",
+      "pattern_id": "housing_instability",
+      "label": "Instabilité du lieu de vie",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "precarite",
+        "demenagements",
+        "prot_installation"
+      ],
+      "raison": "Quelques contextes de logement instable sont présents ; déménagement choisi et instabilité actuelle ne sont pas identiques. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "caregiver_load",
+      "pattern_id": "caregiver_load",
+      "label": "Charge d’aidance",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "parentification",
+        "parent_malade_physique",
+        "maladie_famille"
+      ],
+      "raison": "La parentification suppose un rôle infantile inadapté à l’âge. Une aidance adulte choisie, même lourde, ne doit pas devenir un alias de parentification ou de codépendance.",
+      "sources": [
+        "dariotis2023_parentification"
+      ],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "illness_adjustment",
+      "pattern_id": "illness_adjustment",
+      "label": "S’adapter à un changement de santé déclaré",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "maladie_enfant",
+        "icd_6b43"
+      ],
+      "raison": "Maladie vécue enfant et trouble d’adaptation sont présents ; une adaptation normale à une santé déclarée ne vaut pas diagnostic. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "access_barriers",
+      "pattern_id": "access_barriers",
+      "label": "Obstacles pour accéder à une aide",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "prot_soins",
+        "precarite"
+      ],
+      "raison": "Accès à des soins et précarité approchés ; délais, langue, transport ou accueil ne sont pas détaillés. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "ambiguous_loss",
+      "pattern_id": "ambiguous_loss",
+      "label": "Perte sans clôture claire",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "parent_absent",
+        "separation_conflit"
+      ],
+      "raison": "Absence et perte de contact peuvent recouvrir certaines pertes ambiguës ; toute séparation n’en est pas une.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "community_participation",
+      "pattern_id": "community_participation",
+      "label": "Trouver une place dans un collectif",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "prot_ecole",
+        "prot_amities"
+      ],
+      "raison": "Appartenance scolaire et amitiés approchées ; voisinage et participation collective adulte ne sont pas évalués. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "self_efficacy",
+      "pattern_id": "self_efficacy",
+      "label": "Reconnaître sa capacité d’agir",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "prot_ressources_personnelles",
+        "sch_dependance"
+      ],
+      "raison": "Appuis et difficulté à se sentir compétent présents ; l’efficacité située ne se confond pas avec estime globale ou dépendance. Coordination lot7 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot7"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "minimization",
+      "pattern_id": "minimization",
+      "label": "Réduire l’importance de ce qui touche",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Coordination lot 4 : pas d’équivalence avec déni ou rationalisation. Respecter une discrétion choisie ; aucune nouvelle carte ni source du lot 4 revérifiée ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot4"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "rationalization",
+      "pattern_id": "rationalization",
+      "label": "Construire une explication après coup",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Coordination lot 4 : pas de lien infantile vérifié ni de motif inconscient inféré à partir d’une explication cohérente. Sources du lot 4 non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot4"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "emotional_detachment",
+      "pattern_id": "emotional_detachment",
+      "label": "Se sentir momentanément à distance",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_dissociation",
+        "pat_emotional_suppression"
+      ],
+      "raison": "Coordination lots 4 et 5 : détachement comme trait, émoussement momentané, dissociation et suppression sont distincts. Pas d’alias automatique entre ces phénomènes.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "safety_behaviors",
+      "pattern_id": "safety_behaviors",
+      "label": "Se rassurer par des précautions répétées",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_hypervigilance",
+        "anx_generale"
+      ],
+      "raison": "Les comportements de sécurité se définissent par leur fonction dans la situation, pas par une vigilance élevée. Aucun lien infantile spécifique lu ; conserver le recouvrement sans carte ou alias.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "responsibility_repair",
+      "pattern_id": "responsibility_repair",
+      "label": "Reconnaître une responsabilité proportionnée",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_guilt",
+        "pat_overresponsibility"
+      ],
+      "raison": "Responsabilité excessive représentée ; contribution réelle et réparation choisie restent des objets distincts.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "attentional_capture",
+      "pattern_id": "attentional_capture",
+      "label": "Attention captée par une sollicitation",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_hypervigilance"
+      ],
+      "raison": "L’attention captée par une menace ne représente pas la captation par un signal neutre ou gratifiant. Une mesure cérébrale de menace ne prouve pas une hypervigilance vécue ; aucune nouvelle équivalence.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "anticipatory_arousal",
+      "pattern_id": "anticipatory_arousal",
+      "label": "Corps mobilisé avant un événement",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_hypervigilance",
+        "anx_generale"
+      ],
+      "raison": "Activation corporelle avant un événement : conserver le recouvrement sans écarter enthousiasme, effort ou cause physique ; pas d’inférence infantile nouvelle.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "sleep_rhythm",
+      "pattern_id": "sleep_rhythm",
+      "label": "Rythmes et possibilités de sommeil",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_sommeil"
+      ],
+      "raison": "Les difficultés de sommeil sont présentes ; horaires, travail posté et possibilités de repos ne sont pas explicitement structurés. Coordination lot3 ; preuves de ce lot non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot3"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "rest_permission",
+      "pattern_id": "rest_permission",
+      "label": "S’accorder du repos",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "pat_guilt",
+        "pat_perfectionism",
+        "sch_exigences_elevees"
+      ],
+      "raison": "La culpabilité ou les exigences peuvent gêner le repos, mais une absence de relais et des contraintes de travail sont des conditions actuelles distinctes. Pas d’alias avec addiction au travail.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "observational_learning",
+      "pattern_id": "observational_learning",
+      "label": "Apprendre en observant les autres",
+      "statut": "hors_perimetre_justifie",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "L’apprentissage par observation est un mécanisme général, pas une issue clinique ou un vécu infantile à déduire d’un comportement. Il peut éclairer un récit explicite ; aucune nouvelle carte de conséquence.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "relational_jealousy",
+      "pattern_id": "relational_jealousy",
+      "label": "Comprendre un ressenti de jalousie",
+      "statut": "aucune_preuve_trouvee",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Coordination lot 5 : aucune preuve infantile spécifique suffisamment vérifiée. La jalousie n’est pas un alias d’attachement anxieux, de peur d’abandon ou de contrôle du partenaire ; sources du lot 5 non revérifiées ici.",
+      "sources": [],
+      "causal_equivalence_claimed": false,
+      "coordination": "lot5"
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "intimacy_communication",
+      "pattern_id": "intimacy_communication",
+      "label": "Parler de son intimité à son rythme",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "ten_peur_intimite",
+        "ten_difficultes_sexuelles"
+      ],
+      "raison": "Difficultés possibles présentes ; communication choisie, rythme et sécurité dépassent ces issues.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "social_media_comparison",
+      "pattern_id": "social_media_comparison",
+      "label": "Se comparer dans un environnement numérique",
+      "statut": "hors_perimetre_justifie",
+      "decision_semantique": "exclusion",
+      "targets": [],
+      "raison": "Le repère décrit l’environnement numérique actuel et les contenus sélectionnés. Il ne peut servir de conséquence de la comparaison fraternelle ni d’un vécu infantile ; aucun alias avec usage problématique des écrans.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "role_expectations",
+      "pattern_id": "role_expectations",
+      "label": "Attentes sociales autour des identités",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "enfant_prefere_role",
+        "enfant_sage",
+        "pression_scolaire",
+        "discrimination"
+      ],
+      "raison": "Les rôles familiaux assignés peuvent recouper certaines attentes sociales. Les normes actuelles liées aux identités ne sont pas une séquelle infantile générale ni une identité clinique.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Catalogue161",
+      "code": "self_focused_attention",
+      "pattern_id": "self_focused_attention",
+      "label": "Se surveiller pendant un échange",
+      "statut": "a_examiner",
+      "decision_semantique": "partiel",
+      "targets": [
+        "icd_6b04"
+      ],
+      "raison": "Le modèle de l’anxiété sociale peut comporter une surveillance de soi, mais le repère est transdiagnostique. Pas d’alias intégral ni de lien infantile distinct ajouté à partir de la seule cooccurrence clinique.",
+      "sources": [],
+      "causal_equivalence_claimed": false
+    },
+    {
+      "referentiel": "Lot6",
+      "code": "roles_familiaux_figes",
+      "label": "Héros, clown, enfant parfait, bouc émissaire comme issues adultes",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Pas de synthèse admissible directement vérifiée pour ces étiquettes comme conséquences stables. Ne pas multiplier les cartes à partir de typologies cliniques. Les facteurs existants restent des vécus déclarés.",
+      "sources": []
+    },
+    {
+      "referentiel": "Lot6",
+      "code": "sauveur_empirique_general",
+      "label": "Rôle de sauveur comme conséquence générale des difficultés familiales",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Les travaux sur parentification et codépendance ne démontrent pas tous les liens familiaux du rôle de sauveur. Aucune nouvelle carte ni hausse générale des liens théoriques ; les compétences de soin choisies sont distinctes.",
+      "sources": [
+        "dariotis2023_parentification",
+        "molina2026_codependance"
+      ]
+    },
+    {
+      "referentiel": "Lot6",
+      "code": "hypervigilance_adulte_specifique",
+      "label": "Hypervigilance adulte par sous-type de vécu",
+      "statut": "a_examiner",
+      "raison": "Ne pas substituer réactivité cérébrale, reconnaissance des visages et attention expérimentale au vécu d’hypervigilance. Pas de nouveau lien ; liens existants mclaughlin2020 confiés au lot 9.",
+      "sources": [],
+      "coordination": "lot9"
+    },
+    {
+      "referentiel": "Lot6",
+      "code": "perfectionnisme_dimensions",
+      "label": "Scission en dimensions du perfectionnisme",
+      "statut": "agrege_dans",
+      "targets": [
+        "pat_perfectionism"
+      ],
+      "raison": "Distinguer dans les résumés exigences envers soi, envers autrui et perfection socialement prescrite ; conserver une carte. Une association parentale ne caractérise pas toutes les dimensions.",
+      "sources": [
+        "curran2022"
+      ]
+    },
+    {
+      "referentiel": "Lot6",
+      "code": "mentalisation_enfance",
+      "label": "Mentalisation et théorie de l’esprit",
+      "statut": "a_examiner",
+      "raison": "Revue récente repérée, mais résultats par sous-type et texte complet non vérifiés ici ; aucune carte ou lien ajouté. Ne pas confondre mentalisation avec inférence supposée des pensées ni avec diagnostic neurodéveloppemental.",
+      "sources": []
+    }
+  ],
+  "proposed_links": [],
+  "proposed_corrections": [
+    {
+      "action": "reformuler",
+      "target_type": "source",
+      "source_id": "curran2022",
+      "fields": {
+        "read": "sections : méthodes et résultats étude 1, limites ; manuscrit accepté pp. 18–25 et 44–47, https://ray.yorksj.ac.uk/id/eprint/5802/1/Curran%20%26%20Hill%20%282022%29%20PB.pdf"
+      },
+      "reason": "Lecture effective au-delà du résumé ; ne pas redéclarer la source existante."
+    },
+    {
+      "factor": "critique",
+      "outcome": "pat_perfectionism",
+      "action": "reformuler",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse associe les critiques parentales perçues surtout au sentiment que les autres exigent la perfection. Le lien avec les exigences envers soi est plus faible ; les données surtout transversales ne montrent pas le sens de l’association.",
+      "sources": [
+        "curran2022"
+      ],
+      "reason": "Distinguer perfectionnisme socialement prescrit et auto-orienté ; dépendance des mesures et hétérogénéité, sans carte doublon."
+    },
+    {
+      "factor": "pression_scolaire",
+      "outcome": "pat_perfectionism",
+      "action": "reformuler",
+      "strength": "moderee",
+      "relation_type": "empirical_association",
+      "summary": "Une méta-analyse relie les attentes parentales élevées perçues à plusieurs dimensions du perfectionnisme, surtout à la pression de devoir être parfait pour autrui. Elle mesure des attentes parentales, pas toute forme de pression scolaire.",
+      "sources": [
+        "curran2022"
+      ],
+      "reason": "L’exposition est parental expectations, non charge scolaire objective ; conserver la réserve de correspondance."
+    },
+    {
+      "outcome": "pat_parentification",
+      "action": "reformuler",
+      "target_type": "outcome",
+      "fields": {
+        "contextual_only": true,
+        "description": "Avoir tenu enfant des responsabilités familiales inadaptées à son âge. C’est un vécu à contextualiser, distinct d’une aide familiale soutenue et adaptée, et non un diagnostic ou une conséquence adulte."
+      },
+      "sources": [
+        "dariotis2023_parentification"
+      ],
+      "reason": "Le sujet actuel duplique un vécu ; garder le repère contextuel et le facteur existant, sans suggérer une identité adulte parentifiée."
+    },
+    {
+      "factor": "parentification",
+      "outcome": "ten_codependance",
+      "action": "relever",
+      "strength": "limitee",
+      "relation_type": "empirical_association",
+      "summary": "Une revue systématique rapporte une association entre parentification passée et scores de codépendance chez des adultes. Elle repose sur des données transversales peu nombreuses ; il ne s’agit ni d’une équivalence ni d’un diagnostic.",
+      "sources": [
+        "molina2026_codependance"
+      ],
+      "reason": "Une synthèse récente inclut une étude empirique spécifique ; changement proposé de modèle clinique à association limitée, sans prétendre à une méta-analyse."
+    },
+    {
+      "factor": "parentification",
+      "outcome": "dep_generale",
+      "action": "conserver",
+      "strength": "limitee",
+      "sources": [
+        "dariotis2023_parentification"
+      ],
+      "reason": "Complément de source à fusionner avec les références existantes : revue surtout transversale, résultats plus cohérents pour parentification émotionnelle ; ne pas relever automatiquement."
+    },
+    {
+      "factor": "parentification",
+      "outcome": "anx_generale",
+      "action": "conserver",
+      "strength": "limitee",
+      "sources": [
+        "dariotis2023_parentification"
+      ],
+      "reason": "Complément de source : les symptômes internalisés agrégés ne permettent pas de conclure séparément sur un trouble anxieux ; niveau limité conservé."
+    },
+    {
+      "factor": "controle",
+      "outcome": "pat_impostor",
+      "action": "conserver",
+      "strength": "limitee",
+      "sources": [
+        "gisselbaek2026_imposture"
+      ],
+      "reason": "Revue parapluie confirmant une littérature parentale essentiellement transversale et évaluant sa revue spécifique de qualité très faible ; pas de relèvement, ni de nouveaux facteurs extrapolés."
+    }
+  ]
+}

@@ -139,7 +139,7 @@ def apply_corrections(corr: dict, factors: dict, outcomes: dict, links: dict, so
     return errors
 
 
-def build() -> tuple[dict, list[str]]:
+def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
     errors: list[str] = []
     base = json.loads((SRC / "facteurs.json").read_text(encoding="utf-8"))
     groups = {g["id"] for g in base["groups"]}
@@ -296,8 +296,10 @@ def build() -> tuple[dict, list[str]]:
     # The complete semantic review is a documentary artifact, not a causal-link
     # generator. Check its inputs and expose honest counters without importing
     # its editorial correspondences into the recommendation graph.
-    audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-16.json"
-    if audit_path.exists():
+    audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-17.json"
+    if not audit_path.exists():
+        audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-16.json"
+    if check_audit and audit_path.exists():
         audit = json.loads(audit_path.read_text(encoding="utf-8"))
         core = {key: data[key] for key in ("factors", "outcomes", "links", "protections")}
         fingerprint = hashlib.sha256(json.dumps(core, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
@@ -312,12 +314,19 @@ def build() -> tuple[dict, list[str]]:
             errors.append("audit des correspondances incomplet ou dupliqué")
         data["coverage"]["psychology_catalog"]["semantic_review"] = {
             "reviewed_patterns": len(reviewed), "status_counts": audit["counts"]["psychology_statuses"],
-            "report": "docs/audit-cartographie-correspondances-2026-11-16.json",
+            "report": str(audit_path.relative_to(ROOT)),
             "causal_validation": False,
         }
         data["coverage"]["psychology_catalog"]["note"] = "Les 161 repères ont une décision sémantique documentée ; un identifiant commun, un regroupement ou un recouvrement partiel ne prouvent ni causalité ni couverture clinique complète."
         data["coverage"]["dsm5tr"].update({"chapters_reviewed": audit["counts"]["dsm_section_ii_chapters_reviewed"], "chapter_status_counts": audit["counts"]["dsm_chapter_statuses"], "level": "chapter_thematic_presence_only"})
         data["coverage"]["remaining_review"][2] = "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux"
+    registry_path = SRC / "couverture-referentiels.json"
+    if registry_path.exists():
+        registry = json.loads(registry_path.read_text(encoding="utf-8"))
+        entries = registry.get("entries", [])
+        statuses = {status: sum(row.get("statut") == status for row in entries) for status in ("hors_perimetre_justifie", "aucune_preuve_trouvee", "agrege_dans", "a_examiner")}
+        data["coverage"]["reference_registry"] = {"report": str(registry_path.relative_to(ROOT)), "decisions": len(entries), "statuses": statuses, "exhaustive_diagnostic_criteria_review": False}
+        data["coverage"]["known_exclusions"].append({"scope": "Registre documenté des neuf lots", "reason": "Les exclusions et recherches non concluantes sont distinguées des sujets reliés.", "report": str(registry_path.relative_to(ROOT))})
     return data, errors
 
 

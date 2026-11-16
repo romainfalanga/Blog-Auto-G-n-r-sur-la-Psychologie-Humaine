@@ -1,0 +1,22 @@
+# Intégration du plan au suivi — 17 novembre 2026
+
+Contrat appliqué : plan v3 après deux critiques, audit Ambre du 17 novembre §14 défaut 16. Le point personnel est réalisé par le module privé `change-backend.mjs` et rendu par `renderChangePlan`, que Mon suivi appelle même sans professionnel lié. Le contexte public historique `care-context.mjs` reste inchangé.
+
+## Partage professionnel
+
+- `plan` est le septième périmètre admissible. Aucune migration ni ouverture d’écran ne l’ajoute aux liaisons existantes. L’invitation et la modification de périmètre proposent une case décochée par défaut et un aperçu depuis `/api/plan/sharing-preview`.
+- Le dossier professionnel utilise exclusivement `serializeSharedPlan` : objectifs et étapes explicitement adoptés, essais explicitement choisis rattachés à ces étapes. Les données privées, propositions, points personnels, citations et références conversationnelles sont exclus, y compris dans l’instantané d’une étape. Le dossier reste en lecture seule, isolé par propriétaire, et paginé par lots de 50 objets au total.
+- Le point partagé charge le plan uniquement si ce périmètre est accordé. Les intentions et objectifs sont étiquetés comme des choix, les résultats comme des retours déclarés ; une date de modification ne devient pas une date d’événement. Les citations de synthèses IA et de cartographie restent dans « À discuter en séance » même si le fournisseur les classe parmi les faits.
+- La mémoire textuelle sans provenance vérifiable reste exclue des sources professionnelles. Le dossier et l’interface expliquent cette limite. Les consignes privées rapportées du professionnel suivent le chargeur privé distinct ; elles ne sont ajoutées ni au cadre `care` ni au JSON du dossier.
+
+## Révocation, concurrence et effacement
+
+Les révisions de sources sont contrôlées avant génération, à la publication atomique et à la lecture. Le dossier plan vérifie ensemble l’autorisation actuelle et la révision source après sa lecture. Les déclencheurs de la migration 0021 font avancer la source `plan` à l’insertion, à la modification et à la suppression du document.
+
+Les dépendances des objets de plan effectivement transmis au fournisseur sont enregistrées dans la même transaction que chaque lot de point, même si le fournisseur n’en cite aucun. Une perte de garde n’écrit ni le point ni ses dépendances.
+
+L’interface explique avant partage que la révocation bloque les consultations ultérieures sans reprendre un document déjà téléchargé, copié ou capturé. Une lecture refusée ou la détection d’un changement de périmètre retire les copies visibles du dossier. L’écran ouvert revérifie le partage toutes les 30 secondes ; le contrôle serveur s’applique à chaque requête sans attendre ce rafraîchissement.
+
+## Vérification
+
+Tests ciblés en cours d’écriture dans `journal/tests/care-change.test.mjs`, puis reprise complète de la suite care historique. Aucun déploiement réalisé par ce chantier isolé ; l’intégration et la recette d’ensemble restent à réaliser par l’agent principal.

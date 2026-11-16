@@ -1,0 +1,111 @@
+{
+ "part": "integration-propositions",
+ "author": "integration_principale",
+ "outcomes": [
+  {
+   "label": "Boulimie nerveuse",
+   "code": "6B81",
+   "category": "diagnosis",
+   "description": "Crises alimentaires répétées avec perte de contrôle et comportements compensatoires réguliers, avec préoccupations marquées concernant le poids ou la silhouette.",
+   "id": "icd_6b81_boulimie",
+   "kind": "trouble",
+   "domain": "comportements"
+  }
+ ],
+ "links": [
+  {
+   "factor": "violence_quartier",
+   "outcome": "dep_generale",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une revue d'études chez des adolescents associe le fait d'assister à des violences dans la communauté à davantage de symptômes dépressifs dans certaines études. Les résultats sont variables, parfois nuls, et ne prédisent pas une dépression individuelle.",
+   "sources": [
+    "miliauskas2022_communaute"
+   ]
+  },
+  {
+   "factor": "violence_quartier",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une revue d'études chez des adolescents rapporte des associations variables entre violences communautaires observées et symptômes anxieux. Certaines études ne retrouvent pas de lien ; aucune conclusion individuelle n'en découle.",
+   "sources": [
+    "miliauskas2022_communaute"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une méta-analyse d'études observationnelles, les violences sexuelles infantiles sont associées à une boulimie plus fréquente. L'écart moyen est notable, sans preuve de causalité individuelle.",
+   "sources": [
+    "caslini2016"
+   ],
+   "outcome": "icd_6b81_boulimie"
+  },
+  {
+   "factor": "abus_physique",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse d'études observationnelles associe les violences physiques infantiles à une boulimie plus fréquente. Cette association moyenne ne détermine pas le parcours d'une personne.",
+   "sources": [
+    "caslini2016"
+   ],
+   "outcome": "icd_6b81_boulimie"
+  },
+  {
+   "factor": "abus_emotionnel",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse d'études observationnelles associe les violences émotionnelles infantiles à une boulimie plus fréquente ; peu d'études étayent ce résultat.",
+   "sources": [
+    "caslini2016"
+   ],
+   "outcome": "icd_6b81_boulimie"
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6a60",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre violences physiques dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+   "sources": [
+    "palmierclaus2016"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6a60",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre abus sexuels dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+   "sources": [
+    "palmierclaus2016"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6a60",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre négligences physiques dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+   "sources": [
+    "palmierclaus2016"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6a60",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse surtout rétrospective observe une association moyenne entre négligences émotionnelles dans l’enfance et troubles bipolaires chez l’adulte, types I et II réunis.",
+   "sources": [
+    "palmierclaus2016"
+   ]
+  }
+ ],
+ "sources": [],
+ "notes": [
+  "Décisions documentées dans docs/integration-cartographie-2026-11-17.md. Le suffixe boulimie distingue le nouveau diagnostic de l’identifiant historique icd_6b81, qui désigne un agrégat : les retours déjà stockés conservent leur sens."
+ ]
+}

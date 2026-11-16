@@ -1,4 +1,5 @@
 import {createCareBackend} from './care-backend.mjs';
+import {createChangeBackend} from './change-backend.mjs';
 import { isEntitled, accessUntil, platformAccess } from './entitlements.mjs';
 import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
@@ -151,6 +152,7 @@ async function likesResponse(env,userId) {
 const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:EXAMPLES});
 const chat=createChatBackend({error,json,text,body,now,random,personal,catalogue:catalog,engineEnabled:true});
 const care=createCareBackend({error,json,body,now,random,limit,chat});
+const change=createChangeBackend({error,json,body,now,random,limit});
 // The childhood map is not a portrait source: saving it does not bump profiles.version.
 const cartography=createCartographyBackend({error,json,body,now});
 const readingContext=(env,userId)=>personal.context(env,userId);
@@ -236,6 +238,7 @@ async function routes(request,env,ctx) {
   const user=await userFor(request,env);
   if(path==='/api/portrait/feedback') error(404,'Route inconnue.');
   const careResponse=await care.routes(request,env,user,path,url,ctx);if(careResponse)return careResponse;
+  const changeResponse=await change.routes(request,env,user,path,url);if(changeResponse)return changeResponse;
   const cartographyResponse=await cartography.routes(request,env,user,path);if(cartographyResponse)return cartographyResponse;
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
@@ -382,7 +385,7 @@ async function routes(request,env,ctx) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await care.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await care.exportData(env,user.id),...await change.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);
