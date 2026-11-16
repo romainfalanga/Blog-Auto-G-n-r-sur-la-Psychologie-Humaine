@@ -163,6 +163,7 @@ export const completeJob=(env,id,data)=>personal.completeJob(env,id,data);
 export const proxyJobLLM=(env,id,data)=>personal.proxyJobLLM(env,id,data);
 export const failJob=(env,id,data)=>personal.failJob(env,id,data);
 export const refreshUserPortrait=(env,userId,options)=>personal.refreshUserPortrait(env,userId,options);
+export const resumeReviews=(env,options)=>chat.resumeReviews(env,options);
 export async function runGenerationBatch(env) {return env?.OPENROUTER_API_KEY?personal.refreshPendingPortraits(env):{status:'workflow-managed',claimed:0,completed:0,failed:0};}
 async function internal(request,env,path) {
   await githubIdentity(request,env);
@@ -180,7 +181,7 @@ async function routes(request,env,ctx) {
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
@@ -394,7 +395,8 @@ async function routes(request,env,ctx) {
 }
 export default {
   async scheduled(controller,env,ctx) {
-    const work=runGenerationBatch(env);
+    // Portraits and Ambre's written reviews are resumed independently, in bounded batches.
+    const work=Promise.allSettled([runGenerationBatch(env),resumeReviews(env)]).then(([portraits,reviews])=>{if(portraits.status==='rejected')throw portraits.reason;return {...portraits.value,reviews:reviews.status==='fulfilled'?reviews.value:{error:true}};});
     if(ctx?.waitUntil) ctx.waitUntil(work);
     return work;
   },

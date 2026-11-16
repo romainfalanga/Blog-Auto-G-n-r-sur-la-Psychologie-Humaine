@@ -52,7 +52,7 @@ function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','drawChatReadings','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','drawChatNotes','chatInitialPending','journeyDialog','closeJourneyDialog','showJourneyDialog','journeySourceItem','journeyCount','drawJourneyDialog','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -384,11 +384,119 @@ test('V7 a synthesis uses the declared first name and targeted agreements, while
  assert.equal(env.ctx.personalizePortraitText('La personne est créative.',{first_name:'Camille',gender:'female'}),'Camille est créative.');assert.equal(env.ctx.personalizePortraitText('La personne est créative.',{gender:'male'}),'La personne est créative.');
 });
 
-test('V7 assistant reading suggestions are safe links attached to their message, capped at three',()=>{
- const env=environment({location:{origin:'https://example.test'}});env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:99},messages:[{role:'assistant',content:'Une réponse.',reading_suggestions:[{id:'a',title:'Une lecture',url:'/lecture/',character:'Nina',reason:'Pour réfléchir à votre place.'},{title:'Refusé',url:'javascript:alert(1)'},{title:'Deuxième',url:'/suite/'},{title:'Au-delà de la limite',url:'/trop/'}]},{role:'user',content:'Merci',reading_suggestions:[{title:'Ne pas afficher',url:'/non/'}]}],proposals:[]};env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('safeArticleLink')+'\n'+functionCode('drawChatReadings')+'\n'+functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const messages=host.querySelector('.chat-thread').children;assert.equal(messages[0].querySelectorAll('.chat-reading').length,2);assert.equal(messages[1].querySelector('.chat-readings'),null);assert.match(messages[0].textContent,/Pour réfléchir à votre place/);assert.doesNotMatch(host.textContent,/Refusé|Au-delà de la limite|Ne pas afficher/);assert.equal(messages[0].querySelector('.chat-reading').querySelector('a').href,'https://example.test/lecture/');
+test('assistant messages render no reading suggestion; notes written on the map and reviews are marked',()=>{
+ const env=chatFixture();env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:99},messages:[
+  {id:'t1-assistant',role:'assistant',content:'Une réponse.',reading_suggestions:[{id:'a',title:'Une lecture',url:'/lecture/',character:'Nina',reason:'Raison.'}],cartography_notes:[{target:'factor',target_id:'f',label:'Cris à la maison',text:'Vous dites que votre père criait souvent.'},{target:'general',target_id:null,text:'Vous voulez oser dire non.'},{target:'general',text:'  '}]},
+  {id:'t2-user',role:'user',content:'Merci',cartography_notes:[{target:'general',text:'Ne pas afficher'}]},
+  {id:'t3-assistant',role:'assistant',content:'Premier paragraphe.\n\nSecond paragraphe.',review_id:'r1',review_kind:'initial'},
+  {id:'t4-assistant',role:'assistant',content:'Un point.',review_id:'r2',review_kind:'point'}],proposals:[]};
+ env.ctx.drawChat(env.view,()=>true);const messages=env.view.querySelector('.chat-thread').children;
+ assert.equal(env.view.querySelector('.chat-readings'),null);assert.doesNotMatch(env.view.textContent,/Une lecture|Nina|Pour prolonger/);
+ const noted=messages[0].querySelector('.chat-noted');assert.match(noted.textContent,/^Noté dans votre cartographie : Cris à la maison — « Vous dites que votre père criait souvent\. » · « Vous voulez oser dire non\. »/);
+ assert.equal(noted.querySelector('a').href,'/cartographie/');assert.equal(messages[1].querySelector('.chat-noted'),null);
+ assert.equal(messages[2].querySelector('h3').textContent,'Ambre · Analyse initiale');assert.equal(messages[3].querySelector('h3').textContent,'Ambre · Point d’étape');
+ assert.equal(messages[2].querySelector('.chat-review-link').href,'/mes-bilans/');assert.equal(messages[0].querySelector('.chat-review-link'),null);
+ env.ctx.drawChat(env.view,()=>true);assert.equal(messages[0].querySelectorAll('.chat-noted').length,1);assert.equal(messages[2].querySelectorAll('.chat-review-link').length,1);
+ assert.doesNotMatch(script,/drawChatReadings|reading_suggestions|Lectures suggérées/);
 });
 
+const journeyState=(journey,extra={})=>({consent:false,access:{allowed:false,reason:'consent_required'},quota:{used:0,remaining:100,limit:100},messages:[],proposals:[],journey,...extra});
+const notStarted=(overrides={})=>({started:false,can_start:true,sources:{cartography:{done:true,count:7},portrait:{done:false},people:{done:true,count:1},life_events:{done:false,count:0}},review:{running_id:null,last_at:null,next_point_at:null},...overrides});
 
+test('the welcome window lists the four sources, confirms with an explicit agreement, then waits for the initial analysis',async()=>{
+ const calls=[];let next;
+ const env=chatFixture({api:async(path,method,data)=>{calls.push([path,method||'GET',data]);return next;}});
+ env.ctx.state.chatData=journeyState(notStarted({can_start:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}}}));
+ env.ctx.drawChat(env.view,()=>true);
+ const dialog=env.doc.getElementById('journey-dialog');
+ assert.equal(dialog.open,true);assert.equal(dialog.dataset.step,'intro');assert.equal(dialog.attributes['aria-labelledby'],'journey-title');
+ assert.equal(dialog.querySelector('h2').textContent,'Avant de commencer avec Ambre');assert.equal(env.doc.activeElement,dialog.querySelector('h2'));
+ assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné : votre cartographie, votre portrait, vos proches et votre ligne de vie/);
+ let items=dialog.querySelectorAll('.journey-source');assert.equal(items.length,4);
+ assert.deepEqual(items.map(i=>i.querySelector('a').href),['/cartographie/','/mon-portrait/','/mes-proches/','/ma-ligne-de-vie/']);
+ assert.ok(items.every(i=>i.querySelector('.journey-source-state').textContent==='À compléter'));
+ let start=env.doc.getElementById('journey-start');assert.equal(start.disabled,true);assert.match(env.doc.getElementById('journey-hint').textContent,/au moins une de ces sources/);
+ assert.equal(env.send.disabled,true);assert.equal(env.view.querySelector('.chat-gate'),null,'the agreement is asked in the window, not in a second gate');
+ let prevented=false;await dialog.fire('cancel',{preventDefault(){prevented=true}});assert.equal(prevented,true,'Escape does not dismiss the welcome window');
+ env.ctx.state.chatData=journeyState(notStarted());env.ctx.drawChat(env.view,()=>true);
+ items=dialog.querySelectorAll('.journey-source');assert.deepEqual(items.map(i=>i.querySelector('.journey-source-state').textContent),['Renseigné','À compléter','Renseigné','À compléter']);
+ assert.match(items[0].textContent,/7 éléments cochés/);assert.match(items[2].textContent,/1 proche/);
+ start=env.doc.getElementById('journey-start');assert.equal(start.disabled,false);await start.fire('click');
+ assert.equal(dialog.dataset.step,'confirm');assert.equal(dialog.querySelector('h2').textContent,'Êtes-vous certain ?');
+ assert.match(dialog.textContent,/Cela va initier la conversation à partir des informations que vous avez renseignées\./);
+ let buttons=dialog.querySelectorAll('button');assert.deepEqual(buttons.map(b=>b.textContent),['Oui, lancer','Pas encore']);assert.equal(buttons[0].disabled,true);
+ await buttons[1].fire('click');assert.equal(dialog.dataset.step,'intro');assert.equal(calls.length,0);
+ await env.doc.getElementById('journey-start').fire('click');buttons=dialog.querySelectorAll('button');
+ const checkbox=env.doc.getElementById('journey-consent');checkbox.checked=true;await checkbox.fire('change');assert.equal(buttons[0].disabled,false);
+ next=journeyState({started:true,can_start:false,sources:notStarted().sources,review:{running_id:'r1',last_at:null,next_point_at:null}},{consent:true,access:{allowed:true,reason:null},review_id:'r1'});
+ await buttons[0].fire('click');
+ assert.equal(calls.length,1);assert.equal(calls[0][0],'/api/chat/start');assert.equal(calls[0][1],'POST');assert.equal(calls[0][2].accepted,true);assert.match(calls[0][2].idempotency_key,/^[\w-]{8,}$/);
+ assert.equal(dialog.dataset.step,'waiting');assert.equal(dialog.open,true);assert.equal(dialog.querySelector('h2').textContent,'Ambre prépare votre analyse…');assert.equal(dialog.querySelectorAll('button').length,0);
+ assert.equal(env.send.disabled,true);
+ env.ctx.state.chatData=journeyState({started:true,can_start:false,sources:notStarted().sources,review:{running_id:null,last_at:100,next_point_at:Math.floor(Date.now()/1000)+3600}},{consent:true,access:{allowed:true,reason:null},messages:[{id:'t1-assistant',role:'assistant',content:'Votre analyse.',review_id:'r1',review_kind:'initial'}]});
+ env.ctx.drawChat(env.view,()=>true);
+ assert.equal(dialog.open,false);assert.equal(env.view.querySelector('.chat-thread').children.at(-1).querySelector('h3').textContent,'Ambre · Analyse initiale');
+ env.input.value='Bonjour';assert.equal(env.send.disabled,false);
+});
+
+test('a failed initial analysis returns to the welcome window with an explanation and a fresh key',async()=>{
+ const keys=[];const env=chatFixture({api:async(_path,_method,data)=>{keys.push(data.idempotency_key);return journeyState({started:true,can_start:false,sources:notStarted().sources,review:{running_id:'r'+keys.length,last_at:null,next_point_at:null}},{consent:true,access:{allowed:true}});}});
+ const launch=async()=>{await env.doc.getElementById('journey-start').fire('click');const box=env.doc.getElementById('journey-consent');box.checked=true;await box.fire('change');await env.doc.getElementById('journey-dialog').querySelectorAll('button')[0].fire('click');};
+ env.ctx.state.chatData=journeyState(notStarted());env.ctx.drawChat(env.view,()=>true);await launch();
+ const dialog=env.doc.getElementById('journey-dialog');assert.equal(dialog.dataset.step,'waiting');
+ env.ctx.state.chatData=journeyState(notStarted(),{consent:true,access:{allowed:false,reason:'journey_not_started'}});env.ctx.drawChat(env.view,()=>true);
+ assert.equal(dialog.dataset.step,'intro');assert.match(dialog.textContent,/n’a pas pu être préparée/);
+ await launch();assert.equal(keys.length,2);assert.notEqual(keys[0],keys[1]);
+});
+
+test('“Faire le point” explains why it is unavailable, confirms lightly and shows the wait in the thread',async()=>{
+ const calls=[];let next;const soon=Math.floor(Date.now()/1000)+7200;
+ const started=(review,extra={})=>journeyState({started:true,can_start:false,sources:notStarted().sources,review},{consent:true,access:{allowed:true,reason:null},messages:[{id:'t1-assistant',role:'assistant',content:'Analyse.',review_id:'r1',review_kind:'initial'}],...extra});
+ const env=chatFixture({api:async(path,method,data)=>{calls.push([path,method||'GET',data]);return next;}});
+ assert.equal(env.doc.getElementById('chat-point').hidden,true,'no journey information: the button stays hidden');
+ env.ctx.state.chatData=started({running_id:null,last_at:100,next_point_at:soon});env.ctx.drawChat(env.view,()=>true);
+ const point=env.doc.getElementById('chat-point'),note=env.doc.getElementById('chat-point-note');
+ assert.equal(point.hidden,false);assert.equal(point.disabled,true);assert.equal(note.hidden,false);assert.match(note.textContent,/^Prochain point possible à partir du /);
+ await point.fire('click');assert.notEqual(env.doc.getElementById('journey-dialog')?.dataset.step,'point');
+ env.ctx.state.chatData=started({running_id:null,last_at:100,next_point_at:null});env.ctx.drawChat(env.view,()=>true);
+ assert.equal(point.disabled,false);assert.equal(note.hidden,true);
+ await point.fire('click');const dialog=env.doc.getElementById('journey-dialog');
+ assert.equal(dialog.open,true);assert.equal(dialog.dataset.step,'point');assert.equal(dialog.querySelector('h2').textContent,'Faire le point ?');
+ let buttons=dialog.querySelectorAll('button');assert.deepEqual(buttons.map(b=>b.textContent),['Oui, faire le point','Pas maintenant']);
+ await buttons[1].fire('click');assert.equal(dialog.open,false);assert.equal(calls.length,0);assert.equal(env.doc.activeElement,point);
+ await point.fire('click');next=started({running_id:'r2',last_at:100,next_point_at:null},{review_id:'r2'});
+ await dialog.querySelectorAll('button')[0].fire('click');
+ assert.deepEqual(calls.map(c=>[c[0],c[1]]),[['/api/chat/review','POST']]);assert.match(calls[0][2].idempotency_key,/^[\w-]{8,}$/);
+ assert.equal(dialog.open,false);const waiting=env.doc.getElementById('chat-review-indicator');
+ assert.match(waiting.textContent,/Ambre prépare votre bilan…/);assert.equal(waiting.parentElement,env.view.querySelector('.chat-thread'));
+ env.input.value='Un message';assert.equal(env.send.disabled,true);assert.equal(point.disabled,true);assert.match(note.textContent,/prépare déjà un bilan/);
+ env.ctx.state.chatData=started({running_id:null,last_at:200,next_point_at:soon},{messages:[{id:'t1-assistant',role:'assistant',content:'Analyse.',review_id:'r1',review_kind:'initial'},{id:'t2-assistant',role:'assistant',content:'Le point.',review_id:'r2',review_kind:'point'}]});
+ env.ctx.drawChat(env.view,()=>true);
+ assert.equal(waiting.isConnected,false);assert.equal(env.send.disabled,false);assert.equal(env.view.querySelector('.chat-thread').children.at(-1).querySelector('h3').textContent,'Ambre · Point d’étape');
+});
+
+test('“Mes bilans” lists dated reviews, reads one in full, deletes with confirmation and explains an empty history',async()=>{
+ const calls=[];let confirmed=false,answer=true;
+ const responses={'/api/reviews':{reviews:[{id:'r2',kind:'point',status:'ready',created_at:1794700800,completed_at:1794700900,excerpt:'Depuis le dernier bilan',length:4000},{id:'r1',kind:'initial',status:'ready',created_at:1794600000,completed_at:1794600100,excerpt:'Ce qui semble ressortir',length:5000},{id:'r0',kind:'point',status:'failed',created_at:1794500000,completed_at:1794500100,excerpt:'',length:0}],next_cursor:null},'/api/reviews/r1':{review:{id:'r1',kind:'initial',status:'ready',content:'Premier paragraphe.\n\nSecond paragraphe.'}}};
+ const env=environment({api:async(path,method)=>{calls.push([path,method||'GET']);return method==='DELETE'?{deleted:true}:responses[path];},confirm:message=>{confirmed=message;return answer;},status(id,message){env.doc.getElementById(id).textContent=message;}});
+ for(const name of ['reviewTitle','renderReviews','drawReviewPage','drawReviewItem'])vm.runInContext(functionCode(name),env.ctx);
+ env.ctx.state.tab='reviews';const view=env.host('view');await env.ctx.renderReviews();
+ const items=view.querySelectorAll('.review-item');assert.equal(items.length,3);
+ assert.match(items[0].querySelector('h2').textContent,/^Point du \d{1,2} novembre 2026$/);assert.equal(items[1].querySelector('h2').textContent,'Analyse initiale');
+ assert.match(items[1].textContent,/Ce qui semble ressortir…/);assert.match(items[2].textContent,/n’a pas abouti/);assert.equal(items[2].querySelectorAll('button').length,1,'a failed review can only be removed');
+ const [read,remove]=items[1].querySelectorAll('button');await read.fire('click');
+ assert.deepEqual(calls.at(-1),['/api/reviews/r1','GET']);assert.deepEqual(items[1].querySelector('.review-body').children.map(p=>p.textContent),['Premier paragraphe.','Second paragraphe.']);assert.equal(read.textContent,'Replier');
+ await read.fire('click');assert.equal(items[1].querySelector('.review-body').hidden,true);assert.equal(calls.filter(c=>c[0]==='/api/reviews/r1').length,1,'the full text is fetched once');
+ answer=false;await remove.fire('click');assert.match(confirmed,/Analyse initiale/);assert.match(confirmed,/relancée/);assert.equal(calls.some(c=>c[1]==='DELETE'),false);
+ answer=true;await remove.fire('click');assert.deepEqual(calls.at(-1),['/api/reviews/r1','DELETE']);assert.equal(view.querySelectorAll('.review-item').length,2);
+ responses['/api/reviews']={reviews:[],next_cursor:null};await env.ctx.renderReviews();
+ assert.equal(view.querySelectorAll('.review-item').length,0);assert.match(view.textContent,/Aucun bilan pour le moment/);assert.match(view.textContent,/Faire le point/);assert.equal(view.querySelector('.workspace-empty').querySelector('a').href,'/mon-accompagnement/');
+});
+
+test('the application shell routes “Mes bilans” like the other personal pages',()=>{
+ assert.match(script,/reviews:\{path:'\/mes-bilans\/',title:'Mes bilans'\}/);assert.match(functionCode('renderApp'),/state\.tab==='reviews'\)renderReviews\(\)/);
+ assert.match(HTML,/<dialog id="journey-dialog" class="journey-dialog"><\/dialog>/);
+});
 test('V7 personalization changes direct attributes and preserves complements and quoted words',()=>{
  const env=mapFixture(),subject={first_name:'Romain',gender:'male'},personalize=value=>env.ctx.personalizePortraitText(value,subject);
  assert.equal(personalize('La personne parle de sa mère créative et de son amie anxieuse.'),'Romain parle de sa mère créative et de son amie anxieuse.');
@@ -406,7 +514,7 @@ test('V7 the pattern index uses one tab stop and supports arrow, home and end ke
 
 test('V7 a provider 429 keeps its precise message, quota and draft, then automatically restores sending after cooldown',async()=>{
  const timers=[],clock=Date.now(),calls=[];let now=clock;const data={consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]},env=environment({Date:{now:()=>now},setTimeout(fn,delay){timers.push({fn,delay});return timers.length},clearTimeout(){},api:async(path,method)=>{calls.push({path,method});return {...data,last_error:{message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'}}}});
- Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mes mots complets',chatSending:true,chatSendKey:{key:'failed-key'},chatData:data});env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('drawChatReadings')+'\n'+functionCode('drawChat')+'\n'+functionCode('pollChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const input=env.doc.getElementById('chat-content'),form=env.doc.getElementById('chat-form'),button=form.querySelector('button[type=submit]');
+ Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mes mots complets',chatSending:true,chatSendKey:{key:'failed-key'},chatData:data});env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('drawChat')+'\n'+functionCode('pollChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const input=env.doc.getElementById('chat-content'),form=env.doc.getElementById('chat-form'),button=form.querySelector('button[type=submit]');
  env.ctx.api=async(path,method)=>{calls.push({path,method});return {...data,access:{allowed:false,reason:'provider_cooldown',retry_at:(clock+45000)/1000},last_request:{id:'failed',status:'failed'},last_error:{code:'provider_http_429_request',message:'Le fournisseur limite temporairement les demandes. Réessayez dans 45 secondes. Aucun message n’a été décompté.',action:'retry_later',retry_at:(clock+45000)/1000}}};env.ctx.pollChat({id:'failed'},()=>true,'Mes mots complets');await timers.shift().fn();assert.match(env.doc.getElementById('chat-status').textContent,/Réessayez dans 45 secondes/);assert.match(env.doc.getElementById('chat-status').textContent,/Aucun message n’a été décompté/);assert.equal(env.ctx.state.chatSendKey,null);assert.equal(button.disabled,true);assert.equal(input.value,'Mes mots complets');assert.equal(env.ctx.state.chatData.quota.remaining,100);
  input.value='Un complément pendant l’attente';await input.fire('input');assert.ok(timers[0].delay>=45000&&timers[0].delay<=60000);now=clock+46000;env.ctx.api=async(path,method)=>{calls.push({path,method});return data};await timers.shift().fn();assert.equal(button.disabled,false);assert.equal(env.doc.getElementById('chat-form'),form);assert.equal(input.value,'Un complément pendant l’attente');assert.equal(env.ctx.state.chatDraft,input.value);assert.ok(calls.every(call=>call.path==='/api/chat'&&!call.method));
 });

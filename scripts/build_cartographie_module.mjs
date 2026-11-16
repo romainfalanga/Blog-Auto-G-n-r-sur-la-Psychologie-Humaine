@@ -1,7 +1,7 @@
 import {readFileSync, writeFileSync} from 'node:fs';
 // Compact copy of data/cartographie.json for the private Worker (Ambre).
 // Sources and long descriptions stay on the public page; the Worker needs only
-// identifiers, labels and the ranking inputs used by static/js/cartographie.js.
+// identifiers, labels, link summaries and the ranking inputs used by static/js/cartographie.js.
 const data=JSON.parse(readFileSync(new URL('../data/cartographie.json',import.meta.url),'utf8'));
 const STRENGTHS=['forte','critere','moderee','limitee','theorique'];
 const fail=message=>{throw new Error('Invalid cartographie: '+message);};
@@ -13,7 +13,8 @@ const pairs=new Set();
 const links=data.links.map(link=>{
   if(!factorIds.has(link.factor)||!outcomeIds.has(link.outcome)||!STRENGTHS.includes(link.strength))fail('link '+link.factor+'->'+link.outcome);
   const key=link.factor+'>'+link.outcome;if(pairs.has(key))fail('duplicate link '+key);pairs.add(key);
-  return {factor:link.factor,outcome:link.outcome,strength:link.strength,...(link.definitional?{definitional:true}:{})};
+  // The sourced one-sentence summary lets Ambre explain a link without the public articles.
+  return {factor:link.factor,outcome:link.outcome,strength:link.strength,...(link.definitional?{definitional:true}:{}),...(typeof link.summary==='string'&&link.summary.trim()?{summary:link.summary.trim()}:{})};
 });
 const factors=data.factors.map(f=>({id:f.id,label:f.label,group:f.group||'',...(f.ace?{ace:true}:{})}));
 const outcomes=data.outcomes.map(o=>({id:o.id,label:o.label,kind:o.kind,...(o.code?{code:o.code}:{}),...(typeof o.url==='string'&&/^\/(?!\/)/.test(o.url)?{url:o.url}:{}),...(o.note?{note:o.note}:{})}));

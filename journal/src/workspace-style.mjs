@@ -294,4 +294,44 @@ input,textarea,select { border-color: var(--line); }
 @media (max-height: 560px) {
   .conversation { border-radius: 10px; }
 }
+/* Journey with Ambre: welcome window, written reviews and notes on the map. */
+.journey-dialog { max-width: 560px; padding: clamp(22px, 5vw, 34px); max-height: calc(100dvh - 32px); overflow-y: auto; }
+.journey-dialog h2 { margin: 0 0 14px; font-size: clamp(1.25rem, 4vw, 1.6rem); line-height: 1.25; letter-spacing: -.3px; }
+.journey-dialog h2:focus { outline: none; }
+.journey-dialog p { margin: 0 0 14px; font-size: .9375rem; line-height: 1.6; }
+.journey-dialog .muted, .journey-dialog .helper { font-size: .8125rem; color: var(--muted); }
+.journey-sources { list-style: none; margin: 18px 0; padding: 0; border-top: 1px solid var(--line); }
+.journey-source { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: 6px 14px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.journey-source-text { display: flex; flex-direction: column; min-width: 0; }
+.journey-source-name { font-weight: 600; font-size: .9375rem; }
+.journey-source-detail { font-size: .75rem; color: var(--muted); }
+.journey-source-state { font-size: .75rem; padding: 3px 9px; border-radius: 999px; background: #f6efe6; color: #6f4e22; white-space: nowrap; }
+.journey-source.is-done .journey-source-state { background: #e6f3ef; color: #24594e; }
+.journey-source .text-link { margin-left: 0; font-size: .8125rem; }
+.journey-dialog .check { margin: 4px 0 6px; font-size: .875rem; }
+.journey-dialog .actions { margin-top: 18px; }
+.journey-dialog button:disabled { opacity: .55; cursor: not-allowed; }
+.journey-dialog .status:empty { display: none; }
+.journey-wait { color: var(--muted); }
+.conversation-toolbar .chat-point { flex: none; margin-left: auto; padding: 7px 14px; font-size: .8125rem; }
+.conversation-toolbar .chat-point:disabled { opacity: .55; cursor: not-allowed; }
+.chat-point-note { margin: 0; padding: 6px clamp(12px, 3vw, 24px); font-size: .75rem; color: var(--muted); background: var(--wash); border-bottom: 1px solid var(--line); text-align: right; }
+.chat-noted { margin: 10px 0 0; padding-top: 9px; border-top: 1px dashed var(--line); font-size: .8125rem; line-height: 1.55; color: var(--muted); }
+.chat-noted-label { font-weight: 600; color: #316e62; }
+.chat-noted .text-link, .chat-review-link { margin-left: 0; font-size: .8125rem; }
+.chat-review-link { display: block; margin-top: 10px; }
+.chat-content { white-space: pre-wrap; }
+.review-list { display: grid; gap: 0; }
+.review-item { padding: 22px 0; border-bottom: 1px solid var(--line); }
+.review-item:first-child { padding-top: 4px; }
+.review-item .review-title { margin: 0 0 4px; font-size: 1.25rem; letter-spacing: -.2px; }
+.review-meta { margin: 0 0 10px; font-size: .8125rem; color: var(--muted); }
+.review-body p { margin: 0 0 12px; font-size: .9375rem; line-height: 1.7; max-width: 68ch; }
+.review-excerpt { color: var(--muted); }
+.review-item .actions { margin-top: 10px; }
+@media (max-width: 600px) {
+  .journey-source { grid-template-columns: minmax(0, 1fr) auto; }
+  .journey-source .text-link { grid-column: 1 / -1; }
+  .conversation-toolbar { flex-wrap: wrap; }
+}
 `;

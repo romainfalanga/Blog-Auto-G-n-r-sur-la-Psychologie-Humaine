@@ -68,7 +68,7 @@
 <script defer src="/js/article-likes.js?v={{ readFile "static/js/article-likes.js" | md5 }}"></script>
 <script defer src="/js/site-navigation.js?v={{ readFile "static/js/site-navigation.js" | md5 }}"></script>
 
-{{ if .IsHome }}<script defer src="/js/character-search.js?v={{ readFile "static/js/character-search.js" | md5 }}"></script>{{ end }}
+{{ if or .IsHome (and (eq .Kind "section") (eq .Section "personnages")) }}<script defer src="/js/character-search.js?v={{ readFile "static/js/character-search.js" | md5 }}"></script>{{ end }}
 
 {{/* ── Schema.org WebSite (pour Sitelinks Search Box Google) ── */}}
 {{- if .IsHome }}

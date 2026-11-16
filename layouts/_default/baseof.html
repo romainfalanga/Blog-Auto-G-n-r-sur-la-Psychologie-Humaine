@@ -3,7 +3,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body class="{{ if .IsHome }}home-page{{ else if and .IsPage (eq .Section "posts") }}reading-page{{ end }}">
+<body class="{{ if or .IsHome (and (eq .Kind "section") (eq .Section "personnages")) }}home-page{{ else if and .IsPage (eq .Section "posts") }}reading-page{{ end }}">
   <a class="skip-link" href="#main-content">Aller au contenu</a>
   {{ partial "header.html" . }}
   <main id="main-content" tabindex="-1">

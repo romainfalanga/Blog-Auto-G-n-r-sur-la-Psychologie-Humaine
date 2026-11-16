@@ -177,10 +177,28 @@ export function cartographyView(row){
  if(!row)return {cartographie:null,summary:null};
  return {cartographie:{answers:parse(row.answers),feedback:parse(row.feedback),notes:rowNotes(row),resources:rowResources(row),ambre_notes:rowAmbreNotes(row),consent:Boolean(row.consent),locked:row.locked_at!=null,locked_at:row.locked_at??null,version:row.version,updated_at:row.updated_at},summary:rowSummary(row)};
 }
+// What research says about each recognized or converging consequence, for the checked
+// causes only: cause, level of evidence and the sourced summary. Recognized first.
+export function cartographyEvidence(answers,feedback={},{data=CARTOGRAPHIE,budget=6000}={}){
+ const {factors}=index(data),state=computeCartography(answers,data),evidence=[];let used=0,truncated=false;
+ const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||r.tier==='convergence')).sort((a,b)=>Number(feedback?.[b.outcome.id]==='oui')-Number(feedback?.[a.outcome.id]==='oui'));
+ for(const r of wanted){
+  const links=[];
+  // The strongest links come first; six per consequence keep room for the others.
+  for(const l of r.links.filter(l=>l.summary).slice(0,6)){
+   const entry={cause:factors.get(l.factor)?.label||l.factor,strength:l.strength,summary:l.summary},size=JSON.stringify(entry).length;
+   if(used+size>budget){truncated=true;continue;}
+   used+=size;links.push(entry);
+  }
+  if(links.length<r.links.length)truncated=true;
+  if(links.length)evidence.push({id:r.outcome.id,label:r.outcome.label,links});
+ }
+ return {evidence,evidence_truncated:truncated};
+}
 // Only a saved (locked) map with explicit consent becomes Ambre's working document.
 export function companionCartography(row){
  if(!row||!row.consent||row.locked_at==null)return null;
- return {version:row.version,locked_at:row.locked_at,...rowSummary(row)};
+ return {version:row.version,locked_at:row.locked_at,...rowSummary(row),...cartographyEvidence(parse(row.answers),parse(row.feedback))};
 }
 // Ambre's notes never touch answers, version or updated_at. The compare-and-swap
 // on the stored list keeps a concurrent removal by the member.

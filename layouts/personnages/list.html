@@ -1,7 +1,5 @@
 {{ define "main" }}
-<section class="list-page">
-  <h1>Les personnages</h1>
-  <p>Retrouvez les personnages et leurs histoires dans le catalogue.</p>
-  <a class="catalogue-back" href="/#personnages">Explorer le catalogue</a>
-</section>
+<div class="container-wide">
+  {{ partial "character-directory.html" . }}
+</div>
 {{ end }}

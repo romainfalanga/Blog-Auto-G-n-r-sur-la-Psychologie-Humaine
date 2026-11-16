@@ -16,6 +16,7 @@
     theorique: ['Pistes issues de modèles cliniques ou de preuves limitées', 'Des liens à garder en tête, moins établis.']
   };
   var NOTE_MAX = 1000;
+  var DRAFT_KEY = 'cartographie-brouillon-v1';
 
   function el(tag, attrs, children) {
     var node = document.createElement(tag);
@@ -65,11 +66,31 @@
       return state.ambreNotes.filter(function (n) { return n.target === target && n.target_id === id; });
     }
 
+    /* ---- Brouillon local : rien n'est perdu au rechargement, même sans compte ---- */
+    function readDraft() {
+      try {
+        var d = JSON.parse(window.localStorage.getItem(DRAFT_KEY) || 'null');
+        if (!d || typeof d !== 'object') return false;
+        var known = function (obj, index) { var out = {}; Object.keys(obj || {}).forEach(function (k) { if (index[k]) out[k] = obj[k]; }); return out; };
+        var prot = {}; (data.protections || []).forEach(function (x) { prot[x.id] = true; });
+        state.answers = known(d.answers, factors); state.feedback = known(d.feedback, outcomes); state.resources = known(d.resources, prot);
+        state.notes = { factors: known(d.notes && d.notes.factors, factors), outcomes: known(d.notes && d.notes.outcomes, outcomes) };
+        return true;
+      } catch (e) { return false; }
+    }
+    function writeDraft() {
+      try {
+        if (hasContent()) window.localStorage.setItem(DRAFT_KEY, JSON.stringify({ answers: state.answers, feedback: state.feedback, notes: state.notes, resources: state.resources, at: Date.now() }));
+        else window.localStorage.removeItem(DRAFT_KEY);
+      } catch (e) { /* stockage indisponible : la page reste utilisable */ }
+    }
+    function clearDraft() { try { window.localStorage.removeItem(DRAFT_KEY); } catch (e) { /* idem */ } }
+
     /* ---- Enregistrement ---- */
     var saveTimer = null;
     function changed() {
       state.saveError = '';
-      if (!state.saved) return;
+      if (!state.saved) { writeDraft(); renderSave(); return; }
       clearTimeout(saveTimer);
       saveTimer = setTimeout(function () { save(false); }, 1200);
     }
@@ -95,7 +116,7 @@
       api('PUT', '', { answers: state.answers, feedback: state.feedback, notes: state.notes, resources: state.resources, locked: true, consent: true, version: state.version })
         .then(function (j) {
           var before = JSON.stringify(state.ambreNotes), wasSaved = state.saved;
-          state.saving = false; applyServer(j, true);
+          state.saving = false; applyServer(j, true); clearDraft();
           var typing = document.activeElement && document.activeElement.tagName === 'TEXTAREA';
           if ((before !== JSON.stringify(state.ambreNotes) || !wasSaved) && !typing) renderAll(); else renderSave();
         })
@@ -118,7 +139,7 @@
       if (!saveBox) return;
       saveBox.innerHTML = '';
       if (!state.account) {
-        saveBox.appendChild(el('p', {}, ['Vos réponses restent sur cet appareil. ', el('a', { href: '/mon-compte/', text: 'Connectez-vous' }), ' pour les enregistrer : Ambre s’appuiera sur votre cartographie et pourra y noter ce qui ressort de vos échanges.']));
+        saveBox.appendChild(el('p', {}, ['Vos réponses sont gardées sur cet appareil. ', el('a', { href: '/mon-compte/', text: 'Connectez-vous' }), ' pour les enregistrer dans votre profil : Ambre s’appuiera sur votre cartographie.']));
         return;
       }
       if (state.saved) {
@@ -130,6 +151,8 @@
         ]));
         return;
       }
+      if (!hasContent()) { saveBox.appendChild(el('p', { text: 'Vos réponses seront gardées sur cet appareil, puis enregistrées dans votre profil dès que vous aurez donné votre accord.' })); return; }
+      saveBox.appendChild(el('p', { className: 'carto-save-warning', text: 'Vos réponses ne sont pas encore enregistrées dans votre profil. Elles sont gardées sur cet appareil en attendant.' }));
       var consent = el('input', { type: 'checkbox', id: 'carto-consent' });
       var msg = el('p', { className: 'carto-save-status is-error', role: 'status', text: state.saveError });
       saveBox.appendChild(el('label', { className: 'carto-consent', for: 'carto-consent' }, [consent, ' J’accepte que mes réponses et mes textes, qui concernent ma santé et mon histoire, soient enregistrés dans mon profil et utilisés par Ambre. Je peux les modifier ou les supprimer à tout moment.']));
@@ -261,6 +284,7 @@
     function resetAll() {
       if (!window.confirm('Effacer toutes vos réponses et vos précisions ?')) return;
       state.answers = {}; state.feedback = {}; state.resources = {}; state.notes = { factors: {}, outcomes: {} }; state.open = {}; state.noteOpen = {}; state.theme = null;
+      clearDraft();
       if (state.saved) { api('DELETE').catch(function () {}); state.saved = false; state.version = null; state.ambreNotes = []; }
       renderAll();
     }
@@ -345,7 +369,6 @@
           ]);
         })));
         if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Risque moyen observé dans des groupes de personnes, pas votre situation : seul un professionnel peut évaluer un trouble.' }));
-        if (o.url) body.push(el('a', { className: 'carto-read', href: o.url, text: o.url.indexOf('/personnages/') === 0 ? 'Découvrir le parcours qui l’illustre →' : 'Lire l’article qui l’illustre →' }));
         children.push(el('div', { className: 'carto-card-body' }, body));
       }
       children.push(el('div', { className: 'carto-feedback', role: 'group', 'aria-label': 'Vous reconnaissez-vous ?' }, [
@@ -424,12 +447,11 @@
     fetch('/api/me', { credentials: 'same-origin' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (me) {
       if (!me || !me.user) return null;
       state.account = me.user;
-      return api('GET').then(function (j) { applyServer(j, false); });
+      // An enregistrement in the profile is the reference; a local draft only fills an empty profile.
+      return api('GET').then(function (j) { if (j && j.cartographie) { applyServer(j, false); clearDraft(); } });
     }).catch(function () { /* hors ligne ou aperçu : la page reste utilisable sans compte */ }).then(renderAll);
 
-    window.addEventListener('pageshow', function (e) {
-      if (e.persisted && !state.account) { state.answers = {}; state.feedback = {}; state.resources = {}; state.notes = { factors: {}, outcomes: {} }; renderAll(); }
-    });
+    readDraft();
     setView('form');
     renderAll();
   }

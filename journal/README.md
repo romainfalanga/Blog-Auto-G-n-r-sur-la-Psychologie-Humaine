@@ -1,6 +1,6 @@
 # Espace personnel et Ambre
 
-Pages de l’interface : `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-compte/`. Les données sont privées et authentifiées. Les anciens liens conservent les paramètres liés aux articles publics, à la navigation personnelle ou au paiement lorsque la destination les utilise.
+Pages de l’interface : `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mes-bilans/`, `/mon-compte/`. Les données sont privées et authentifiées. Les anciens liens conservent les paramètres liés aux articles publics, à la navigation personnelle ou au paiement lorsque la destination les utilise.
 
 ## Base et migration
 
@@ -75,3 +75,17 @@ La cartographie n’est pas une source du portrait : l’enregistrer ne change p
 Ambre lit une cartographie enregistrée (`locked_at` renseigné) avec accord : le bloc `childhood_cartography` du contexte contient causes, convergences, pistes, retours, notes de la personne, ressources et ses propres notes, et les consignes `CHILDHOOD_CARTOGRAPHY_GUIDANCE` s’ajoutent au système. Elle écrit par le champ de sortie `cartography_notes` (3 par tour, 400 caractères, cible `factor`, `outcome` ou `general`) : le serveur valide les identifiants, écarte les doublons, plafonne à 60 notes en retirant les plus anciennes, et n’écrit rien en cas de danger immédiat, de demande de ne pas conserver ou de cadre fictif. Ces écritures ne changent ni les réponses ni `version`. Le message du tour porte `cartography_notes` quand des notes ont été ajoutées.
 
 Déploiement : migration D1 `0017` puis Worker (`cartographie.mjs`, `cartographie.generated.mjs`, `chat-backend.mjs`, `people-observations.mjs`, `psychology-framework.mjs`).
+
+## Parcours avec Ambre et bilans
+
+`0018_ambre_reviews.sql` (additive) crée `ambre_reviews` : `kind` (`initial`, `point`), `status` (`running`, `ready`, `failed`), `content`, `error_code`, `idempotency_key` (unique par compte), `sources` (ce qui était disponible), `attempts`, `lease_token`, `lease_until`, `created_at`, `completed_at`. Un seul bilan `running` par compte ; suppression en cascade ; `/api/export` contient `ambre_reviews`.
+
+La conversation ne commence qu’après une analyse initiale. `GET /api/chat` renvoie `journey` : `{started, sources:{cartography:{done,count}, portrait:{done}, people:{done,count}, life_events:{done,count}}, can_start, review:{running_id, last_at, next_point_at}}` (dates en secondes). `started` vaut vrai dès qu’une analyse initiale est `running` ou `ready`. Tant qu’il est faux, `POST /api/chat/messages` répond `403 journey_not_started` ; pendant la préparation d’un bilan, `409 review_in_progress`.
+
+- `POST /api/chat/start` `{idempotency_key, accepted: true}` : `400 nothing_to_analyze` si aucune source, enregistre l’accord de conversation, crée l’analyse initiale, répond `202` avec l’état de la conversation et `review_id` (`200` si la même clé a déjà abouti, `409 journey_started` ou `review_in_progress` sinon).
+- `POST /api/chat/review` `{idempotency_key}` : nouveau point ; `403 journey_not_started`, `409 review_in_progress`, `429 review_too_soon` avec `retry_at` si le dernier bilan abouti date de moins de 24 h.
+- `GET /api/reviews?limit=&cursor=` (20 au plus par page, sans le texte : `excerpt` et `length`), `GET /api/reviews/:id` (texte complet, statut), `DELETE /api/reviews/:id` (retire aussi le message correspondant de la conversation ; supprimer l’analyse initiale demande de relancer la discussion).
+
+Exécution : la demande fait une tentative immédiate bornée (`REVIEW_INLINE_TIMEOUT_MS`, 25 s par défaut, `0` pour la désactiver) sous un bail. Le cron minute (`scheduled`) reprend les bails expirés par lots (`REVIEW_CRON_BATCH`, 5 par défaut, 20 au plus) avec un délai de 120 s ; trois tentatives au plus, puis `failed`. Chaque tentative réserve des jetons dans `provider_budgets` (`WEEKLY_TOKEN_BUDGET`). Un bilan terminé est publié avec son message dans la conversation (`review_id`, `review_kind`), sans compter dans les 100 messages hebdomadaires. `OPENROUTER_REVIEW_MODEL` permet un modèle distinct (défaut : celui de la conversation).
+
+Ambre ne propose plus d’articles ni de personnages : plus de `reading_candidates`, de `catalogue_lookup` ni de `reading_suggestions`. Le bloc `childhood_cartography` reçoit `evidence` : pour les conséquences reconnues ou en convergence, les liens des causes cochées (cause, niveau de preuve, résumé issu des sources), 6 000 caractères au plus, reconnues d’abord. Le dernier bilan accompagne chaque tour (`last_review`, borné).
