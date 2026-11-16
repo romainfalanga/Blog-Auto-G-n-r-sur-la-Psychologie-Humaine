@@ -73,3 +73,9 @@ export async function countMetric(env,now,name,delta=1){
  if(!/^[a-z0-9_]{1,64}$/.test(name)||!Number.isFinite(delta))return;
  await tolerant(()=>env.DB.prepare('INSERT INTO service_metrics(day,name,value) VALUES(?,?,?) ON CONFLICT(day,name) DO UPDATE SET value=value+excluded.value').bind(parisDay(now),name,Math.round(delta)).run(),null).catch(()=>null);
 }
+// Several counters in one statement (one D1 write per provider call).
+export async function countMetrics(env,now,values){
+ const rows=Object.entries(values).filter(([name,delta])=>/^[a-z0-9_]{1,64}$/.test(name)&&Number.isFinite(delta)).map(([name,delta])=>[name,Math.round(delta)]);
+ if(!rows.length)return;
+ await tolerant(()=>env.DB.prepare("INSERT INTO service_metrics(day,name,value) SELECT ?,json_extract(value,'$[0]'),json_extract(value,'$[1]') FROM json_each(?) WHERE true ON CONFLICT(day,name) DO UPDATE SET value=value+excluded.value").bind(parisDay(now),JSON.stringify(rows)).run(),null).catch(()=>null);
+}

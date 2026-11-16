@@ -437,7 +437,8 @@ test('audit17 recent memory, final question, Paris dates and reviewer care remai
 });
 
 test('audit17 summarizer failure keeps coverage and summary intact, exposes retry and recovers later',async t=>{
- const s=setup();await ready(s);seedTurns(s);let failure=true;provider(t,p=>p==='ambre_memory'?(failure?new Response('Unavailable',{status:503}):{items:[{section:'facts',turn_id:'history-4',quote:'Fait rapporté 4'}]}):undefined);
+ const s=setup();await ready(s);seedTurns(s);let failure=true;provider(t,p=>p==='ambre_memory'?(failure?new Response('Unavailable',{status:502}):{items:[{section:'facts',turn_id:'history-4',quote:'Fait rapporté 4'}]}):undefined);
+ // Lot S: a 503 is a provider refusal (lot R) and no longer a failed attempt; 502 is a consumed failure.
  await s.chat.engine.updateMemory(s.env,'a');assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_memory').get().n,0);assert.equal(s.raw.prepare('SELECT attempts FROM chat_memory_jobs').get().attempts,1);assert.equal((await s.call('/api/chat/insight')).memory.status,'retry_pending');
  failure=false;s.setClock(s.getClock()+61);await s.chat.engine.updateMemory(s.env,'a');const memory=s.raw.prepare('SELECT * FROM chat_memory').get();assert.equal(memory.turns_covered,4);assert.deepEqual(JSON.parse(memory.summary).facts,['Fait rapporté 4']);
  s.raw.prepare('UPDATE chat_memory SET summary=?').run(JSON.stringify({facts:['Un fait'],safety:[],safety_seen:true}));await s.call('/api/chat/memory','PUT',{revision:memory.revision,sections:{facts:['Fait corrigé']}});assert.equal(JSON.parse(s.raw.prepare('SELECT summary FROM chat_memory').get().summary).safety_seen,true);

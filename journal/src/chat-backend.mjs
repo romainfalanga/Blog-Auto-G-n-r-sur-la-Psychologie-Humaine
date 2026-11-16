@@ -1,4 +1,4 @@
-import {createAmbreEngine,mergeClosed,deterministicAnalysis} from './ambre-engine.mjs';
+import {createAmbreEngine,mergeClosed,deterministicAnalysis,replySignal} from './ambre-engine.mjs';
 import {readChangeState,isStopFollowups,suspendChangeFollowups,clearChatChangeState,changeGuard,changeArtifactStatements} from './change-plan.mjs';
 import {CHANGE_DRAFT_FIELDS,changePublication} from './change-engine.mjs';
 import {limitQuestions,responseSentences} from './chat-text.mjs';
@@ -7,10 +7,12 @@ import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
 import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily,dailyCapReached,countMetric} from './provider-access.mjs';
 import {COMPACT_TRACE_SQL} from './ambre-insight.mjs';
+import {cachedContext} from './context-cache.mjs';
 import {platformAccess,accessSql} from './entitlements.mjs';
 import {buildCompanionSystemPrompt,buildReviewSystemPrompt} from './psychology-framework.mjs';
 import {readCartography,companionCartography,cartographyHighlights,chooseAmbreNotes,appendAmbreNotes,ambreNotesWrite,addAmbreNotes,AMBRE_NOTE_MAX_LENGTH,AMBRE_NOTES_PER_TURN} from './cartographie.mjs';
 import {anchorQuote,quoteSupport,cartographyNoteCandidates} from './quote-guard.mjs';
+import {ipvSignal} from './clinical-signals.mjs';
 import {declinesRetention,PEOPLE_OBSERVATION_AXES,peopleObservationContext,choosePeopleObservations,peopleObservationWrites,peopleObservationModeSql,peopleObservationRevision} from './people-observations.mjs';
 const parse=(x,f={})=>{try{return JSON.parse(x);}catch{return f;}};
 const kinds=['self_profile_patch','memory_append','person_create','person_update','life_event_create','life_event_update'];
@@ -150,7 +152,11 @@ function excerpt(value,max,tail=0,start=0){
  const windows=tail&&tailStart<=end?[{start:Math.max(0,text.length-max),end:text.length}]:[{start,end},...(tail?[{start:tailStart,end:text.length}]:[])];
  return {text:(windows[0].start?'[… début omis …]\n':'')+windows.map(w=>text.slice(w.start,w.end)).join('\n[… passage omis …]\n')+(windows.at(-1).end<text.length?'\n[… suite omise …]':''),excerpt:true,windows};
 }
-export function createChatBackend({error,json,text,body,now,random,personal,catalogue=new Map(),engineEnabled=false}) {
+export function createChatBackend({error,json,text,body,now,random,personal:basePersonal,catalogue=new Map(),engineEnabled=false}) {
+ // F23 (active engine): one full read of the personal context per version for the
+ // request and every engine stage; other personal methods are read through the proxy.
+ const sharedContext=cachedContext((env,userId)=>basePersonal.context(env,userId),{now});
+ const personal=engineEnabled?new Proxy(basePersonal,{get:(target,key)=>key==='context'?sharedContext:target[key]}):basePersonal;
  const fail=(status,message,code)=>error(status,message,code);
  const stmt=(env,sql,...args)=>env.DB.prepare(sql).bind(...args);
  const first=(env,sql,...args)=>stmt(env,sql,...args).first();
@@ -535,7 +541,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
    await run(env,"UPDATE chat_turns SET status='failed',credit_status='released',lease_token=NULL,lease_until=?,error_code=? WHERE id=? AND user_id=? AND status='running' AND lease_token=?",Number(e.retryAt||0),code,turn.id,userId,turn.lease_token);
   }
  }
- async function send(request,env,user,ctx){const data=await body(request,12000),content=bounded(data.content,6000,true),key=bounded(data.idempotency_key,120,true);if(!/^[\w-]{8,120}$/.test(key))fail(400,'Clé d’idempotence requise.','idempotency_required');const signal=crisisSignal(content)||(engineEnabled?riskSignal(content)?.signal||null:null);
+ async function send(request,env,user,ctx){const data=await body(request,12000),content=bounded(data.content,6000,true),key=bounded(data.idempotency_key,120,true);if(!/^[\w-]{8,120}$/.test(key))fail(400,'Clé d’idempotence requise.','idempotency_required');const lexical=crisisSignal(content)||(engineEnabled?riskSignal(content)?.signal||null:null),signal=lexical==='violence'&&ipvSignal(content)==='severe'?'ipv_severe':lexical;
   // F17: a refused or conflicting send never hides the resources when the message carries a danger signal.
   try{return await sendChecked(request,env,user,ctx,{content,key,signal,data})}catch(e){if(!signal||!(e?.status>=400))throw e;const reply=safetyReply(signal);return json({error:String(e.message||'').includes(reply)?e.message:(e.message?e.message+'\n\n':'')+reply,...(e.code?{code:e.code}:{}),safety:true,safety_reply:reply},e.status)}
  }
@@ -817,7 +823,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  }
  async function routes(request,env,user,path,url,ctx){
   if(path==='/api/reviews'||path.startsWith('/api/reviews/'))return reviewRoutes(request,env,user,path,url);
-  if(!path.startsWith('/api/chat'))return null;const method=request.method;if(path==='/api/chat/insight'&&method==='GET')return json(await engine.insight(env,user.id,url));if(path==='/api/chat/memory'&&method==='PUT'){try{await engine.editMemory(env,user.id,await body(request,40000));return json(await engine.insight(env,user.id,url))}catch(e){fail(e.status||500,e.message,e.code)}}if(path==='/api/chat/start'&&method==='POST')return startJourney(request,env,user,ctx);if(path==='/api/chat/review'&&method==='POST')return requestPoint(request,env,user,ctx);if(path==='/api/chat'&&method==='GET'){const current=await state(env,user.id);if(engineEnabled&&current.pending_request?.id&&ctx?.waitUntil)ctx.waitUntil(engine.work(env,current.pending_request.id));return json(current);}if(path==='/api/chat/messages'&&method==='POST')return send(request,env,user,ctx);if(path==='/api/chat/character/prepare')fail(410,'Cette fonction a été retirée.','feature_retired');if(path==='/api/chat/consent'&&method==='PUT'){const data=await body(request,1000);if(typeof data.accepted!=='boolean')fail(400,'Votre choix explicite est requis.','invalid_consent');
+  if(!path.startsWith('/api/chat'))return null;const method=request.method;if(path==='/api/chat/insight'&&method==='GET')return json(await engine.insight(env,user.id,url));if(path==='/api/chat/memory'&&method==='PUT'){try{await engine.editMemory(env,user.id,await body(request,40000));return json(await engine.insight(env,user.id,url))}catch(e){/* F16: only typed errors keep their message; never a raw database text. */if(e.status)fail(e.status,e.message,e.code);fail(500,'Une erreur temporaire est survenue. Réessayez plus tard.','internal_error')}}if(path==='/api/chat/start'&&method==='POST')return startJourney(request,env,user,ctx);if(path==='/api/chat/review'&&method==='POST')return requestPoint(request,env,user,ctx);if(path==='/api/chat'&&method==='GET'){const current=await state(env,user.id);if(engineEnabled&&current.pending_request?.id&&ctx?.waitUntil)ctx.waitUntil(engine.work(env,current.pending_request.id));return json(current);}if(path==='/api/chat/messages'&&method==='POST')return send(request,env,user,ctx);if(path==='/api/chat/character/prepare')fail(410,'Cette fonction a été retirée.','feature_retired');if(path==='/api/chat/consent'&&method==='PUT'){const data=await body(request,1000);if(typeof data.accepted!=='boolean')fail(400,'Votre choix explicite est requis.','invalid_consent');
   await setConsent(env,user.id,data.accepted);return json(await state(env,user.id));}if(path==='/api/chat'&&method==='DELETE'){
    const data=await body(request,1000);if(data.include_plan!==undefined&&typeof data.include_plan!=='boolean')fail(400,'Choix de suppression invalide.','invalid_input');
    const planState=await readChangeState(env,user.id),change=planState.available?await clearChatChangeState(env,user.id,{includePlan:data.include_plan===true,now:now()}):{statements:[],guard:{sql:'1=1',args:[]},retained:''},g=change.guard;
@@ -830,7 +836,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   const questions=Array.isArray(output.questions)?output.questions.filter(q=>typeof q==='string'&&q.trim()&&q.length<=320).slice(0,1).map(q=>q.trim()):[];
   draft.questions=questions;
   if(questions.length)draft.content+='\n\n'+questions.join('\n\n');
-  if(analysis.risk!=='none'){draft.content=ensureSafetyResources(draft.content,analysis.safety_signal||crisisSignal(turn.content)||'self_harm');return draft}
+  if(analysis.risk!=='none'){draft.content=ensureSafetyResources(draft.content,replySignal(analysis,turn.content));return draft}
   for(const proposal of (output.proposals||[]).slice(0,3)){try{await makeProposal(env,userId,turn.id,proposal,turn.content,context,output.proposals.length);draft.proposals.push(proposal)}catch{}}
   if(!declinesRetention(turn.content)&&context.cartography){
    const notes=cartographyNoteCandidates(output.cartography_notes,turn.content,context.cartography,options.cartography_targets);

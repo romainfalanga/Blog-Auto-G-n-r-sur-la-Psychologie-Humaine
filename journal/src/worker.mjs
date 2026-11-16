@@ -262,6 +262,11 @@ async function routes(request,env,ctx) {
   const cartographyResponse=await cartography.routes(request,env,user,path);if(cartographyResponse)return cartographyResponse;
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
+  // F14: ends every session of the account (lost device, shared computer, password doubt).
+  if(path==='/api/auth/logout-all'&&method==='POST') {
+    await run(env,'DELETE FROM sessions WHERE user_id=?',user.id);
+    return json({ok:true},200,{'Set-Cookie':`${COOKIE}=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0`});
+  }
   if(path==='/api/auth/logout'&&method==='POST') {
     const token=request.headers.get('cookie')?.split(';').map(s=>s.trim()).find(s=>s.startsWith(COOKIE+'='))?.slice(COOKIE.length+1);
     if(token) await run(env,'DELETE FROM sessions WHERE token_hash=?',await digest(token));
@@ -447,7 +452,14 @@ export default {
     try {response=await routes(request,env,ctx);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
     const headers=new Headers(response.headers);
     headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
-    headers.set('Content-Security-Policy',"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
-    return new Response(response.body,{status:response.status,headers});
+    // F16: no 'unsafe-inline' for scripts. The application shell's single inline
+    // script carries a per-response nonce; every other response allows no inline script.
+    let body=response.body,scripts="'self'";
+    if(request.method==='GET'&&(headers.get('Content-Type')||'').startsWith('text/html')&&body){
+      const nonce=btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(16))));
+      body=(await response.text()).replace(/<script>/g,`<script nonce="${nonce}">`);scripts+=` 'nonce-${nonce}'`;
+    }
+    headers.set('Content-Security-Policy',`default-src 'self'; script-src ${scripts}; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'`);
+    return new Response(body,{status:response.status,headers});
   }
 };

@@ -9,8 +9,13 @@ Suite de départ : `npm --prefix journal test` 594/594.
 - F20 : notes de cartographie, propositions de profil et de plan passent par ce module.
 - Filet lexical à trois niveaux (`chat-safety.mjs` : explicite, possible, indice), F17 (ressources sur toutes les erreurs d'envoi).
 
+- F18/F19 dans le moteur (vérification de risque dédiée en cas de panne d'analyse, voie prudente `cautiousReply`, ancrage approché, critère indépendant du relecteur).
+- F5–F7 (`mergeMemory` : `safety_history` et `key_facts` épinglés et datés, dédoublonnage approché, éléments invalides écartés un à un, lot « non résumé » après 3 échecs, phrase du signal), R6, R16.
+- Signaux cliniques (`clinical-signals.mjs`) branchés dans l'analyse, la rédaction et la relecture ; R1/R24/R27/R33 dans le rédacteur.
+- Tests : `v4-S-corpus`, `v4-S-safety`, `v4-S-memory`.
+
 ## En cours
-- F18/F19 dans le moteur, F5–F7, signaux cliniques (`clinical-signals.mjs`).
+- Tests des signaux (R2–R8, R10, R13, R14, R17, R20, R21, #12, #34), budget, batterie R11.
 
 ## Reste
-- R1, R2–R8, R10, R13, R14, R16, R17, R20, R21, R24, R27, R33, #12, #34, budget, R11.
+- Troisième corpus de contrôle (demandé à la session indépendante), rapport final.

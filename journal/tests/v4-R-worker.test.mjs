@@ -5,7 +5,7 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {database,setup,provider,refused} from './v4-R-helper.mjs';
 
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES=[];')
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title><main>App shell</main><script>window.started=1</script>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES=[];')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
 const rewritten=['change-backend','care-backend','chat-backend','entitlements','personal-backend','cartographie'].reduce((text,name)=>text.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
 const worker=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));
@@ -74,4 +74,33 @@ test('F13: internal metrics are protected like other internal routes and carry n
  for(const name of ['provider_refusal_429','turn_waiting','turn_published','provider_calls','provider_input_tokens'])assert.ok(names.includes(name),name);
  assert.equal(m.backlog.turns_live,0);
  assert.doesNotMatch(JSON.stringify(m),/Zéphyrine|secret|a@example|id_0/);
+});
+
+test('F14: « Déconnecter tous les appareils » ends every session of the account only',async()=>{
+ const env=environment(),login=async(email,client)=>{const r=await request(env,'/api/auth/login',{method:'POST',data:{email,password},client});assert.equal(r.status,200);return r.headers.get('set-cookie').split(';')[0]};
+ const first=await request(env,'/api/auth/register',{method:'POST',data:{email:'me@example.test',password},client:'203.0.113.40'}),phone=first.headers.get('set-cookie').split(';')[0];
+ await request(env,'/api/auth/register',{method:'POST',data:{email:'other@example.test',password},client:'203.0.113.41'});
+ const laptop=await login('me@example.test','203.0.113.42'),other=await login('other@example.test','203.0.113.43');
+ const out=await request(env,'/api/auth/logout-all',{method:'POST',data:{},cookie:laptop});assert.equal(out.status,200);assert.match(out.headers.get('set-cookie'),/Max-Age=0/);
+ assert.equal((await request(env,'/api/me',{cookie:phone})).status,200);
+ assert.equal((await (await request(env,'/api/me',{cookie:phone})).json()).user,null);
+ assert.ok((await (await request(env,'/api/me',{cookie:other})).json()).user,'another account keeps its session');
+});
+
+test('F16: the application shell runs under a per-response nonce, never unsafe-inline scripts',async()=>{
+ const env=environment();
+ const page=await worker.default.fetch(new Request(origin+'/mon-compte/'),env,{}),csp=page.headers.get('content-security-policy'),html=await page.text();
+ assert.doesNotMatch(csp,/script-src[^;]*unsafe-inline/);
+ const nonce=csp.match(/'nonce-([^']+)'/)[1];assert.ok(nonce.length>=20);
+ const tags=html.match(/<script[^>]*>/g)||[];assert.ok(tags.length);for(const tag of tags)assert.equal(tag,`<script nonce="${nonce}">`);
+ const again=await worker.default.fetch(new Request(origin+'/mon-compte/'),env,{});assert.notEqual(again.headers.get('content-security-policy'),csp);
+ const api=await worker.default.fetch(new Request(origin+'/api/health'),env,{});assert.match(api.headers.get('content-security-policy'),/script-src 'self';/);
+});
+
+test('F16: an unexpected database error on the memory route never reaches the client',async()=>{
+ const s=setup();await s.ready('a');
+ const original=s.env.DB.prepare;s.env.DB.prepare=sql=>{if(/FROM chat_memory WHERE user_id/.test(sql))throw new Error('SQLITE_ERROR: near "SELECT summary FROM chat_memory": secret schema');return original(sql)};
+ const r=await s.call('/api/chat/memory','PUT',{revision:0,sections:{}});
+ s.env.DB.prepare=original;
+ assert.equal(r.status,500);assert.doesNotMatch(r.message,/SQLITE|schema|SELECT/);
 });

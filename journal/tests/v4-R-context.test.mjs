@@ -3,7 +3,9 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {setup,provider,filledProfile} from './v4-R-helper.mjs';
 
-const lifeEventReads=used=>[...used.sql.entries()].filter(([sql])=>/FROM life_events/.test(sql)).reduce((n,[,count])=>n+count,0);
+// Reads of the event contents (the 4 MB part); bounded count(*) subqueries are listed apart.
+const lifeEventReads=used=>[...used.sql.entries()].filter(([sql])=>/FROM life_events/.test(sql)&&/description/.test(sql)).reduce((n,[,count])=>n+count,0);
+const lifeEventCounts=used=>[...used.sql.entries()].filter(([sql])=>/FROM life_events/.test(sql)&&!/description/.test(sql)).reduce((n,[,count])=>n+count,0);
 
 test('F23: a maximal profile reads life_events at most twice per turn and uses far less CPU',async t=>{
  const rows=[];
@@ -12,10 +14,24 @@ test('F23: a maximal profile reads life_events at most twice per turn and uses f
   const m=s.measure(),cpu=process.cpuUsage();
   const r=await s.call('/api/chat/messages','POST',{content:'Je rumine quand ma sœur me critique.',idempotency_key:'cpu_turn_00001'});
   const spent=process.cpuUsage(cpu),used=m();assert.equal(r.status,200,r.message);
-  rows.push({profile:maximal?'maximal':'rempli',life_event_reads:lifeEventReads(used),statements:used.statements,cpu_ms:Math.round((spent.user+spent.system)/1000)});
+  rows.push({profile:maximal?'maximal':'rempli',life_event_reads:lifeEventReads(used),life_event_counts:lifeEventCounts(used),statements:used.statements,cpu_ms:Math.round((spent.user+spent.system)/1000)});
   assert.ok(lifeEventReads(used)<=2,`${lifeEventReads(used)} reads of life_events`);
  }
  t.diagnostic(JSON.stringify(rows));
+});
+
+test('F23: on a maximal profile the per-turn CPU is several times lower than without the context cache',async t=>{
+ async function turn(cached){const s=setup();filledProfile(s,'a',true);await s.ready();provider(t);
+  // Without the revision stamp every stage reloads and re-derives the full context (pre-F23 behaviour).
+  if(!cached){const original=s.env.DB.prepare;s.env.DB.prepare=sql=>{if(sql.startsWith('SELECT p.version,p.self_revision'))throw new Error('no stamp');return original(sql)}}
+  const m=s.measure(),cpu=process.cpuUsage();await s.call('/api/chat/messages','POST',{content:'Je rumine quand ma sœur me critique.',idempotency_key:'cpu_turn_00001'});const c=process.cpuUsage(cpu);return {cpu:(c.user+c.system)/1000,reads:lifeEventReads(m())}}
+ await turn(true);await turn(false);
+ const before=[],after=[];for(let i=0;i<3;i++){before.push(await turn(false));after.push(await turn(true))}
+ const median=list=>list.map(x=>x.cpu).sort((a,b)=>a-b)[1],ratio=median(before)/median(after);
+ t.diagnostic(JSON.stringify({before_ms:Math.round(median(before)),after_ms:Math.round(median(after)),ratio:+ratio.toFixed(2),reads_before:before[0].reads,reads_after:after[0].reads}));
+ assert.ok(before[0].reads>2&&after[0].reads<=2);
+ // CPU timings vary on shared runners: the measured ratio is reported; 2 is the floor checked here.
+ assert.ok(ratio>=2,`ratio ${ratio.toFixed(2)}`);
 });
 
 test('F23: a source edited between two stages is still detected (no stale cache)',async t=>{
