@@ -52,14 +52,24 @@ function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
-  vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','selfTextItem','openSelfTextDialog']) vm.runInContext(functionCode(name),ctx);
+  vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0]+script.match(/var SELF_SHORT_FIELDS=.*\n/)[0]+script.match(/var SELF_TEXT_FIELDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
   return {ctx,doc,host(id){const host=doc.createElement('div');host.id=id;return host;}};
 }
 function editFixture(kind,values,extra={}) { const env=environment(extra);env.host(kind+'-editor');env.ctx.state.sourceDrafts.set(kind,{id:null,creation_id:'creation-stable',values});env.ctx.drawSourceEditor(kind);return {...env,form:env.doc.getElementById(kind+'-form')}; }
 function field(form,name,value) {const input=form.elements[name];assert.ok(input,name);input.value=value;return input;}
+// The simulated DOM has no native <dialog>: by default the pop-up uses its `open` attribute fallback; `nativeDialog` adds showModal/close.
+async function selfFixture(api,extra={}) {
+  const {nativeDialog,...globals}=extra,env=environment({api,location:{hash:''},...globals}),host=env.host('self-profile'),dialogCalls=[];
+  if(nativeDialog){const create=env.doc.createElement;env.doc.createElement=function(tag){const node=create.call(this,tag);if(tag==='dialog'){node.open=false;node.showModal=()=>{node.open=true;dialogCalls.push('showModal')};node.close=()=>{node.open=false;dialogCalls.push('close')}}return node}}
+  vm.runInContext(functionCode('status')+'\n'+functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
+  return {...env,host,dialogCalls,form:env.doc.getElementById('self-profile-form'),
+    view(name){return env.doc.getElementById('self-text-'+name+'-value')},trigger(name){return env.doc.getElementById('self-text-'+name+'-edit')},
+    get dialog(){return host.querySelector('dialog')},
+    async open(name){await this.trigger(name).fire('click');const dialog=this.dialog;assert.ok(dialog,'dialog for '+name);const buttons=dialog.querySelector('.self-text-dialog-actions').querySelectorAll('button');return {dialog,form:dialog.querySelector('form'),input:dialog.querySelector('textarea'),save:buttons[0],cancel:buttons[1],get status(){return env.doc.getElementById('self-text-dialog-status')}}}};
+}
 
 function chatFixture(extra={}) {
  let clientSerial=0;const env=environment({crypto:{randomUUID:()=> 'client-key-'+(++clientSerial)},...extra});Object.assign(env.ctx.state,{tab:'chat',chatDraft:'',chatOutbox:null,chatProposalDrafts:new Map(),chatSending:false,chatData:{consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]}});
@@ -138,22 +148,160 @@ test('V3 separates relationship and life pages from the declared and interpreted
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
 
-test('self presentation retains the full draft and original revision on 409 conflict',async()=>{
-  let sent;const env=environment({api:async(path,method,payload)=>{if(!method)return {profile:{self_description:'Ma présentation',occupation:'Mon métier'},revision:4};sent=payload;const error=new Error('conflit');error.status=409;throw error;},location:{hash:''}});
-  env.host('self-profile');vm.runInContext(functionCode('status')+'\n'+functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
-  const form=env.doc.getElementById('self-profile-form');field(form,'self_description','Mon texte personnel complet');await form.fire('input');await form.fire('submit');
-  assert.equal(sent.expected_revision,4);assert.equal(sent.self_description,'Mon texte personnel complet');assert.equal(sent.occupation,'Mon métier');
-  assert.equal(env.ctx.state.selfDraft.self_description,'Mon texte personnel complet');assert.equal(env.ctx.state.selfRevision,4);
+const SELF_SHORT=['first_name','last_name','birth_date','gender','gender_description','occupation'],SELF_LONG=['self_description','self_perception','recurring_patterns','emotions','current_context'];
+
+test('self information retains its draft and original revision on 409 conflict, and never sends a stale long text',async()=>{
+  let sent,stored={profile:{self_description:'Ma présentation',occupation:'Mon métier',emotions:'Calme'},revision:4},conflict=true;
+  const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;sent=payload;if(!conflict)return {profile:{...stored.profile,...payload},revision:6};const error=new Error('conflit');error.status=409;throw error;});
+  const form=env.form;field(form,'first_name','Mon prénom complet');await form.fire('input');await form.fire('submit');
+  assert.equal(sent.expected_revision,4);assert.equal(sent.first_name,'Mon prénom complet');assert.equal(sent.occupation,'Mon métier');
+  assert.equal(sent.self_description,'Ma présentation');assert.equal(sent.emotions,'Calme');assert.equal(sent.current_context,'');
+  assert.deepEqual(Object.keys(sent).sort(),[...SELF_SHORT,...SELF_LONG,'expected_revision'].sort());
+  assert.equal(env.ctx.state.selfDraft.first_name,'Mon prénom complet');assert.deepEqual(Object.keys(env.ctx.state.selfDraft),SELF_SHORT);assert.equal(env.ctx.state.selfRevision,4);
   assert.match(env.doc.getElementById('self-profile-status').textContent,/brouillon est conservé/);
-  assert.equal(form.elements.self_description.maxLength,10000);assert.equal(form.elements.current_context.maxLength,4000);assert.equal(form.elements.gender.required,undefined);
+  assert.equal(form.elements.first_name.maxLength,100);assert.equal(form.elements.occupation.maxLength,4000);assert.equal(form.elements.gender.required,undefined);
   assert.equal('relationship_text' in sent,false);assert.equal('consent' in sent,false);
+  // Comparing reloads the saved long texts, keeps the typed draft, and only then accepts the newer revision.
+  stored={profile:{self_description:'Présentation acceptée avec Ambre',occupation:'Mon métier',emotions:'Calme',first_name:'Autre',gender:'female',birth_date:'1990-05-02'},revision:5};
+  await form.querySelector('[data-reload-source]').fire('click');
+  assert.equal(env.view('self_description').textContent,'Présentation acceptée avec Ambre');assert.equal(form.elements.first_name.value,'Mon prénom complet');assert.equal(env.ctx.state.selfRevision,4);
+  const notice=form.querySelector('.notice');assert.match(notice.textContent,/Prénom ou pseudonyme : Autre/);assert.match(notice.textContent,/Genre : Femme/);assert.match(notice.textContent,/Date de naissance : 2 mai 1990/);assert.doesNotMatch(notice.textContent,/self_description|Présentation acceptée/);
+  await notice.querySelector('button').fire('click');assert.equal(env.ctx.state.selfRevision,5);assert.equal(form.querySelector('.notice'),null);
+  conflict=false;await form.fire('submit');
+  assert.equal(sent.expected_revision,5);assert.equal(sent.first_name,'Mon prénom complet');assert.equal(sent.self_description,'Présentation acceptée avec Ambre');
+  assert.equal(env.ctx.state.selfRevision,6);assert.equal(env.ctx.state.selfDraft,null);
 });
 
-test('self presentation keeps edits typed during a save with the new revision',async()=>{
-  let resolve;const pending=new Promise(r=>resolve=r);const env=environment({api:async(path,method)=>method?pending:{profile:{self_description:'Avant'},revision:2},location:{hash:''}});
-  env.host('self-profile');vm.runInContext(functionCode('status')+'\n'+functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
-  const form=env.doc.getElementById('self-profile-form');const saving=form.fire('submit');field(form,'self_description','Après');await form.fire('input');resolve({profile:{self_description:'Avant'},revision:3});await saving;
-  assert.equal(env.ctx.state.selfRevision,3);assert.equal(env.ctx.state.selfDraft.self_description,'Après');assert.match(env.doc.getElementById('self-profile-status').textContent,/restent à sauvegarder/);
+test('self information keeps edits typed during a save with the new revision',async()=>{
+  let resolve;const pending=new Promise(r=>resolve=r);const env=await selfFixture(async(path,method)=>method?pending:{profile:{self_description:'Avant',first_name:'Avant'},revision:2});
+  const form=env.form;const saving=form.fire('submit');assert.equal(form.querySelector('button[type=submit]').disabled,true);
+  field(form,'first_name','Après');await form.fire('input');resolve({profile:{self_description:'Avant',first_name:'Avant'},revision:3});await saving;
+  assert.equal(env.ctx.state.selfRevision,3);assert.equal(env.ctx.state.selfDraft.first_name,'Après');assert.match(env.doc.getElementById('self-profile-status').textContent,/restent à sauvegarder/);
+  assert.equal(form.querySelector('button[type=submit]').disabled,false);assert.equal(env.view('self_description').textContent,'Avant');
+});
+
+test('self sections cannot be collapsed and long texts are shown for reading with an edit button',async()=>{
+  const env=await selfFixture(async()=>({profile:{self_perception:'Première ligne\nSeconde ligne'},revision:1}));
+  for(const tag of ['details','summary','textarea'])assert.equal(env.host.querySelectorAll(tag).length,0,tag);
+  assert.deepEqual(env.host.querySelectorAll('h3').map(title=>title.textContent),['Mes informations','Ma présentation','Mon fonctionnement, mes émotions']);
+  assert.deepEqual(env.host.querySelectorAll('h4').map(title=>title.textContent),['Comment je me perçois','Les schémas que je remarque','Les émotions présentes','Mon contexte actuel']);
+  const identity=env.doc.getElementById('self-identity');assert.equal(identity.tagName,'SECTION');assert.equal(identity.attributes['aria-labelledby'],'self-identity-title');assert.equal(identity.parentElement,env.form);
+  assert.deepEqual(Object.keys(env.form.elements),SELF_SHORT);
+  const save=env.form.querySelector('button[type=submit]');assert.equal(save.textContent,'Enregistrer mes informations');assert.equal(save.parentElement.parentElement,identity);
+  assert.equal(env.view('self_perception').textContent,'Première ligne\nSeconde ligne');assert.equal(env.view('self_perception').className,'self-text-value');
+  assert.equal(env.trigger('self_perception').textContent,'Modifier');assert.equal(env.trigger('self_perception').attributes['aria-label'],'Modifier : Comment je me perçois');assert.equal(env.trigger('self_perception').type,'button');
+  assert.equal(env.view('emotions').textContent,'Ce que vous ressentez en ce moment, avec vos mots.');assert.equal(env.view('emotions').className,'self-text-value is-empty');
+  assert.equal(env.trigger('emotions').textContent,'Ajouter');assert.equal(env.trigger('emotions').attributes['aria-label'],'Ajouter : Les émotions présentes');
+  assert.match(HTML,/\.self-text-value \{[^}]*white-space: pre-wrap/);assert.match(HTML,/#self-profile \.profile-group-title \{[^}]*font: 700 1rem/);
+});
+
+test('the pop-up opens pre-filled, labelled and focused, with the field limit and a counter',async()=>{
+  for(const nativeDialog of [false,true]){
+    const env=await selfFixture(async()=>({profile:{self_description:'Ma présentation\nsur deux lignes'},revision:1}),{nativeDialog});
+    const popup=await env.open('self_description'),dialog=popup.dialog;
+    assert.equal(dialog.tagName,'DIALOG');assert.equal(dialog.attributes['aria-labelledby'],'self-text-dialog-title');assert.equal(env.doc.getElementById('self-text-dialog-title').textContent,'Ma présentation');
+    assert.equal(env.doc.getElementById('self-text-dialog-help').textContent,'Ce qui vous semble utile pour vous présenter aujourd’hui.');
+    assert.equal(popup.input.value,'Ma présentation\nsur deux lignes');assert.equal(popup.input.maxLength,10000);assert.equal(env.doc.activeElement,popup.input);
+    assert.equal(popup.input.attributes['aria-describedby'],'self-text-dialog-help self-text-dialog-count');
+    assert.match(env.doc.getElementById('self-text-dialog-count').textContent,/^31 \/ 10\s?000 caractères$/);
+    popup.input.value='abc';await popup.input.fire('input');assert.match(env.doc.getElementById('self-text-dialog-count').textContent,/^3 \//);
+    assert.equal(popup.save.textContent,'Enregistrer les modifications');assert.equal(popup.save.type,'submit');assert.equal(popup.cancel.textContent,'Annuler');assert.equal(popup.cancel.type,'button');
+    if(nativeDialog){assert.deepEqual(env.dialogCalls,['showModal']);assert.equal(dialog.className,'self-text-dialog')}
+    else{assert.equal(dialog.attributes.open,'');assert.equal(dialog.className,'self-text-dialog is-fallback')}
+    await env.trigger('emotions').fire('click');assert.equal(env.host.querySelectorAll('dialog').length,1);assert.equal(env.doc.getElementById('self-text-dialog-title').textContent,'Ma présentation');
+  }
+  const env=await selfFixture(async()=>({profile:{},revision:1}));
+  for(const name of SELF_LONG.slice(1)){const popup=await env.open(name);assert.equal(popup.input.maxLength,4000);assert.equal(popup.input.value,'');await popup.cancel.fire('click');assert.equal(env.dialog,null)}
+  assert.match(HTML,/\.self-text-dialog::backdrop \{ background:/);assert.match(HTML,/\.self-text-dialog \{[^}]*width: min\(640px,calc\(100% - 32px\)\)/);assert.match(HTML,/@media \(max-width: 600px\) \{[\s\S]*?\.self-text-dialog \{[^}]*width: calc\(100% - 16px\)/);
+});
+
+test('saving a long text sends every saved field with the revision, then closes and refreshes the view',async()=>{
+  const profile={first_name:'Nina',last_name:'',birth_date:'',gender:'',gender_description:'',occupation:'Mon métier',self_description:'Ma présentation',self_perception:'',recurring_patterns:'',emotions:'',current_context:'Mon contexte'};
+  const sent=[],savedResults=[];let resolve;
+  const env=await selfFixture(async(path,method,payload)=>{if(!method)return {profile,revision:7};sent.push(payload);return new Promise(r=>resolve=r)});
+  env.ctx.sourceSaved=result=>savedResults.push(result);
+  field(env.form,'first_name','Prénom en brouillon');await env.form.fire('input');
+  const popup=await env.open('emotions');popup.input.value='Sereine\naujourd’hui';await popup.input.fire('input');
+  const saving=popup.form.fire('submit');assert.equal(popup.save.disabled,true);assert.equal(popup.cancel.disabled,true);
+  await popup.cancel.fire('click');await popup.dialog.fire('keydown',{key:'Escape'});assert.equal(env.dialog,popup.dialog);
+  assert.deepEqual({...sent[0]},{...profile,emotions:'Sereine\naujourd’hui',expected_revision:7});
+  resolve({profile:{...profile,emotions:'Sereine\naujourd’hui'},revision:8,source_version:12});await saving;
+  assert.equal(env.dialog,null);assert.equal(env.view('emotions').textContent,'Sereine\naujourd’hui');assert.equal(env.trigger('emotions').textContent,'Modifier');
+  assert.equal(env.doc.activeElement,env.trigger('emotions'));assert.equal(env.doc.getElementById('self-text-emotions-status').textContent,'Enregistré.');
+  assert.equal(savedResults.length,1);assert.equal(savedResults[0].source_version,12);
+  // The unsaved short fields stay a draft, now based on the revision this page just wrote.
+  assert.equal(env.ctx.state.selfDraft.first_name,'Prénom en brouillon');assert.equal(env.form.elements.first_name.value,'Prénom en brouillon');assert.equal(env.ctx.state.selfRevision,8);
+  const identity=env.form.fire('submit');assert.deepEqual({...sent[1]},{...profile,first_name:'Prénom en brouillon',emotions:'Sereine\naujourd’hui',expected_revision:8});
+  resolve({profile:{...profile,first_name:'Prénom en brouillon',emotions:'Sereine\naujourd’hui'},revision:9});await identity;
+  assert.equal(env.ctx.state.selfRevision,9);assert.equal(env.ctx.state.selfDraft,null);assert.equal(env.view('emotions').textContent,'Sereine\naujourd’hui');assert.equal(env.view('self_description').textContent,'Ma présentation');
+  // The next long text starts from what was just saved, short fields included.
+  const next=await env.open('current_context');assert.equal(next.input.value,'Mon contexte');next.input.value='';const clearing=next.form.fire('submit');
+  assert.deepEqual({...sent[2]},{...profile,first_name:'Prénom en brouillon',emotions:'Sereine\naujourd’hui',current_context:'',expected_revision:9});
+  resolve({profile:{...profile,first_name:'Prénom en brouillon',emotions:'Sereine\naujourd’hui',current_context:''},revision:10});await clearing;
+  assert.equal(env.view('current_context').className,'self-text-value is-empty');assert.equal(env.trigger('current_context').textContent,'Ajouter');
+});
+
+test('text typed in the pop-up while it saves is kept open as unsaved',async()=>{
+  let resolve;const env=await selfFixture(async(path,method)=>method?new Promise(r=>resolve=r):{profile:{emotions:'Avant'},revision:2});
+  const popup=await env.open('emotions');popup.input.value='Pendant';const saving=popup.form.fire('submit');popup.input.value='Pendant et après';
+  resolve({profile:{emotions:'Pendant'},revision:3});await saving;
+  assert.equal(env.dialog,popup.dialog);assert.equal(popup.input.value,'Pendant et après');assert.match(popup.status.textContent,/reste à sauvegarder/);
+  assert.equal(env.view('emotions').textContent,'Pendant');assert.equal(env.ctx.state.selfRevision,3);assert.equal(popup.save.disabled,false);
+});
+
+test('cancel, Escape and an outside click close the pop-up without a request, after confirmation when text changed',async()=>{
+  for(const nativeDialog of [false,true]){
+    const requests=[],questions=[];let answer=false;
+    const env=await selfFixture(async(path,method)=>{requests.push(method||'GET');return {profile:{emotions:'Texte enregistré'},revision:3}},{nativeDialog,confirm:question=>{questions.push(question);return answer}});
+    const escape=dialog=>nativeDialog?dialog.fire('cancel',{cancelable:true}):dialog.fire('keydown',{key:'Escape'});
+    let popup=await env.open('emotions');await popup.cancel.fire('click');
+    assert.equal(env.dialog,null);assert.equal(questions.length,0);assert.equal(env.doc.activeElement,env.trigger('emotions'));
+    popup=await env.open('emotions');await escape(popup.dialog);assert.equal(env.dialog,null);assert.equal(questions.length,0);
+    popup=await env.open('emotions');await popup.dialog.fire('pointerdown',{target:popup.dialog});await popup.dialog.fire('click',{target:popup.dialog});assert.equal(env.dialog,null);
+    popup=await env.open('emotions');popup.input.value='Texte modifié';await popup.input.fire('input');
+    await popup.cancel.fire('click');await escape(popup.dialog);await popup.dialog.fire('pointerdown',{target:popup.dialog});await popup.dialog.fire('click',{target:popup.dialog});
+    assert.equal(questions.length,3);assert.match(questions[0],/Fermer sans enregistrer/);assert.equal(env.dialog,popup.dialog);assert.equal(popup.input.value,'Texte modifié');
+    // Releasing a text selection outside the window is not an outside click.
+    answer=true;await popup.dialog.fire('pointerdown',{target:popup.input});await popup.dialog.fire('click',{target:popup.dialog});assert.equal(env.dialog,popup.dialog);
+    await popup.dialog.fire('click',{target:popup.input});assert.equal(env.dialog,popup.dialog);assert.equal(questions.length,3);
+    if(nativeDialog){ // A close the browser did not let the page cancel reopens the window instead of dropping the text.
+      answer=false;popup.dialog.open=false;await popup.dialog.fire('close');assert.equal(env.dialog,popup.dialog);assert.equal(popup.dialog.open,true);assert.equal(questions.length,4);answer=true;
+    }
+    await escape(popup.dialog);assert.equal(env.dialog,null);assert.equal(env.doc.activeElement,env.trigger('emotions'));
+    assert.equal(env.view('emotions').textContent,'Texte enregistré');assert.deepEqual(requests,['GET']);assert.equal(env.ctx.state.selfDraft,null);
+  }
+});
+
+test('an error or a conflict stays in the pop-up with the typed text, and reloading keeps it visible',async()=>{
+  const sent=[];let stored={profile:{first_name:'Nina',self_perception:'Version initiale'},revision:4},failure;
+  const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;sent.push(payload);if(failure){const error=new Error(failure.message);error.status=failure.status;throw error}stored={profile:{...stored.profile,...payload},revision:stored.revision+1};return stored});
+  const popup=await env.open('self_perception');popup.input.value='Ma saisie à ne pas perdre';await popup.input.fire('input');
+  failure={message:'Le service est indisponible.'};await popup.form.fire('submit');
+  assert.equal(env.dialog,popup.dialog);assert.equal(popup.status.textContent,'Le service est indisponible.');assert.equal(popup.status.className,'status error');
+  assert.equal(popup.input.value,'Ma saisie à ne pas perdre');assert.equal(popup.save.disabled,false);assert.equal(popup.cancel.disabled,false);assert.equal(env.view('self_perception').textContent,'Version initiale');
+  failure={message:'conflit',status:409};stored={profile:{first_name:'Nina modifiée',self_perception:'Version d’un autre onglet'},revision:9};await popup.form.fire('submit');
+  assert.equal(sent[1].expected_revision,4);assert.equal(env.dialog,popup.dialog);assert.match(popup.status.textContent,/modifié ailleurs/);assert.match(popup.status.textContent,/saisie est conservée/);assert.equal(popup.status.className,'status error');
+  assert.equal(popup.input.value,'Ma saisie à ne pas perdre');assert.equal(env.ctx.state.selfRevision,4);
+  const reload=popup.dialog.querySelector('.self-text-conflict').querySelector('button');assert.equal(reload.textContent,'Recharger la version enregistrée');await reload.fire('click');
+  assert.equal(popup.dialog.querySelector('.self-text-saved-value').textContent,'Version d’un autre onglet');assert.equal(popup.input.value,'Ma saisie à ne pas perdre');assert.match(popup.status.textContent,/saisie est conservée/);assert.equal(popup.status.className,'status success');
+  assert.equal(env.view('self_perception').textContent,'Version d’un autre onglet');assert.equal(env.form.elements.first_name.value,'Nina modifiée');assert.equal(env.ctx.state.selfRevision,9);assert.equal(env.ctx.state.selfDraft,null);
+  failure=null;await popup.form.fire('submit');
+  assert.equal(sent[2].expected_revision,9);assert.equal(sent[2].self_perception,'Ma saisie à ne pas perdre');assert.equal(sent[2].first_name,'Nina modifiée');
+  assert.equal(env.dialog,null);assert.equal(env.view('self_perception').textContent,'Ma saisie à ne pas perdre');assert.equal(env.ctx.state.selfRevision,10);
+});
+
+test('a conflict caused by another part of the profile says so, and an unsaved short-field draft keeps its own revision',async()=>{
+  let stored={profile:{first_name:'Nina',emotions:'Calme'},revision:2},conflict=true;const sent=[];
+  const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;sent.push(payload);if(conflict){const error=new Error('conflit');error.status=409;throw error}stored={profile:{...stored.profile,...payload},revision:stored.revision+1};return stored});
+  field(env.form,'first_name','Brouillon');await env.form.fire('input');
+  const popup=await env.open('emotions');popup.input.value='Joie';stored={profile:{first_name:'Prénom changé ailleurs',emotions:'Calme'},revision:3};await popup.form.fire('submit');
+  await popup.dialog.querySelector('.self-text-conflict').querySelector('button').fire('click');
+  assert.match(popup.dialog.querySelector('.self-text-saved').textContent,/n’a pas changé/);assert.equal(popup.input.value,'Joie');
+  assert.equal(env.form.elements.first_name.value,'Brouillon');assert.equal(env.ctx.state.selfRevision,2);
+  conflict=false;await popup.form.fire('submit');assert.equal(sent[1].expected_revision,3);assert.equal(sent[1].first_name,'Prénom changé ailleurs');assert.equal(env.dialog,null);
+  // The draft was typed against revision 2: saving it must still be refused until the newer short fields are compared.
+  assert.equal(env.ctx.state.selfRevision,2);assert.equal(env.ctx.state.selfDraft.first_name,'Brouillon');
+  conflict=true;await env.form.fire('submit');assert.equal(sent[2].expected_revision,2);assert.equal(sent[2].emotions,'Joie');assert.match(env.doc.getElementById('self-profile-status').textContent,/brouillon est conservé/);
 });
 
 test('V4 global navigation has exactly the shared public links in source order',()=>{
