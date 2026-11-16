@@ -781,3 +781,61 @@ test('removing a note in flight prevents stale recall and writes while unrelated
   }
  });
 });
+
+test('quoted question marks survive structured provider output without losing the surrounding prose',async t=>{
+ const s=setup();await ready(s);
+ const prose='Quand vous vous demandez « est-ce que j’en fais assez ? », la culpabilité prend le dessus.';
+ withFetch(t,async()=>Response.json({choices:[{message:{content:JSON.stringify({content:prose,questions:['Que remarquez-vous ensuite ?'],proposals:[]})},finish_reason:'stop'}]}));
+ const result=await message(s);assert.equal(result.messages.at(-1).content,prose+'\n\nQue remarquez-vous ensuite ?');
+});
+
+test('a safety reply is visible before the provider resolves, survives failure and stays idempotent',async t=>{
+ const s=setup();await ready(s);let reject,started,calls=0;
+ const begun=new Promise(resolve=>{started=resolve});
+ withFetch(t,async()=>{calls++;started();return new Promise((_,no)=>{reject=no})});
+ const tasks=[],content='J’ai envie d’en finir.',key='crisis_pending';
+ const pending=await message(s,key,content,{waitUntil:task=>tasks.push(task)});
+ assert.equal(pending.status,202);assert.match(pending.messages.at(-1).content,/3114/);assert.match(pending.messages.at(-1).content,/suicide/);
+ await begun;assert.equal((await message(s,key,content)).request_id,pending.request_id);assert.equal(calls,1);
+ assert.equal((await s.call('/api/chat', 'GET', undefined,'b')).messages.length,0);
+ reject(Object.assign(new Error('unavailable'),{name:'TimeoutError'}));await Promise.all(tasks);
+ const failed=await s.call('/api/chat');assert.equal(failed.last_request.status,'failed');assert.equal(failed.last_error.code,'provider_timeout');
+ assert.equal(failed.quota.used,0);assert.equal(failed.quota.reserved,0);assert.equal(failed.proposals.length,0);
+ assert.equal(failed.messages.at(-1).content,pending.messages.at(-1).content);
+ assert.match((await s.chat.exportData(s.env,'a')).chat_messages.at(-1).content,/3114/);
+ await s.call('/api/chat','DELETE',{});assert.equal((await s.call('/api/chat')).messages.length,0);
+});
+
+test('crisis fallback survives upstream errors, invalid JSON and token budget rejection',async t=>{
+ const previous=globalThis.fetch;t.after(()=>{globalThis.fetch=previous});
+ for(const failure of ['429','503','invalid','budget']){
+  const s=setup();await ready(s);if(failure==='budget')s.env.WEEKLY_TOKEN_BUDGET=1;
+  globalThis.fetch=async()=>failure==='invalid'?Response.json({choices:[{message:{content:'not JSON'},finish_reason:'stop'}]}):new Response('{}',{status:Number(failure)});
+  const result=await message(s,'failure_'+failure,'Je veux mourir.');
+  assert.equal(result.last_request.status,'failed',failure);assert.equal(result.quota.used,0,failure);
+  assert.match(result.messages.at(-1).content,/3114/,failure);assert.match(result.messages.at(-1).content,/15 ou le 112/,failure);
+ }
+});
+
+test('expiry and consent changes cannot remove the already delivered safety guidance or publish late notes',async t=>{
+ const previous=globalThis.fetch;t.after(()=>{globalThis.fetch=previous});
+ for(const action of ['expiry','consent','purge']){
+  const s=setup();await ready(s);let resolve,started;const begun=new Promise(r=>{started=r});
+  globalThis.fetch=async()=>{started();return new Promise(r=>{resolve=()=>r(output([],'Réponse tardive.'))})};
+  const tasks=[];await message(s,'crisis_'+action,'Je ne veux plus vivre.',{waitUntil:p=>tasks.push(p)});await begun;
+  if(action==='expiry')s.setClock(s.getClock()+80);
+  else if(action==='consent')await s.call('/api/chat/consent','PUT',{accepted:false});
+  else await s.call('/api/chat','DELETE',{});
+  await s.call('/api/chat');resolve();await Promise.all(tasks);const result=await s.call('/api/chat');
+  assert.equal(result.quota.used,0);assert.equal(result.quota.reserved,0);assert.equal(result.proposals.length,0);
+  if(action==='purge')assert.equal(result.messages.length,0);else {assert.match(result.messages.at(-1).content,/3114/);assert.doesNotMatch(result.messages.at(-1).content,/tardive/);}
+ }
+});
+
+test('successful crisis response keeps its direct safety question and always includes trusted resources',async t=>{
+ const s=setup();await ready(s);
+ withFetch(t,async()=>Response.json({choices:[{message:{content:JSON.stringify({content:'Ce que vous décrivez est douloureux. Pensez-vous au suicide maintenant ?',questions:[],proposals:[]})},finish_reason:'stop'}]}));
+ const result=await message(s,'crisis_success','Je veux mourir.');
+ assert.equal(result.quota.used,1);assert.match(result.messages.at(-1).content,/Pensez-vous au suicide maintenant \?/);
+ assert.match(result.messages.at(-1).content,/3114/);assert.match(result.messages.at(-1).content,/15 ou le 112/);
+});

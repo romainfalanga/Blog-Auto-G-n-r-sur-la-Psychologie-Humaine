@@ -77,7 +77,7 @@ function drawChatNotes(host,notes){
 function createChatShell(view,current){
  var data=state.chatData||{},guest=data.access&&data.access.reason==='authentication_required',surface=el('section','conversation');
  var toolbar=el('div','conversation-toolbar'),title=el('h1');
- title.append(el('span','','Ambre'),el('span','conversation-title-divider',' · '),el('span','conversation-role','psychologue IA'));
+ title.append(el('span','','Ambre'),el('span','conversation-title-divider',' · '),el('span','conversation-role','assistante psychologue IA'));
  title.id='conversation-title';surface.setAttribute('aria-labelledby',title.id);
  var quota=el('div','message-quota'),count=el('strong','','—');count.id='chat-quota';
  quota.setAttribute('role','status');quota.append(count,el('span','',' messages'));
@@ -85,7 +85,7 @@ function createChatShell(view,current){
  var pointNote=el('p','chat-point-note');pointNote.id='chat-point-note';pointNote.hidden=true;point.setAttribute('aria-describedby',pointNote.id);
  toolbar.append(title,point,quota);
  surface.append(toolbar,pointNote);
- var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
+ var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var panel=el('section','journey-panel');panel.id='journey-panel';panel.hidden=true;panel.setAttribute('aria-labelledby','journey-title');scroll.append(panel);var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
  var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);
  var gate=el('div');gate.id='chat-gates';surface.append(gate);
  var form=el('form','chat-composer');form.id='chat-form';var row=el('div','composer-row'),label=el('label','visually-hidden','Votre message');label.htmlFor='chat-content';var input=el('textarea');input.id='chat-content';input.name='content';input.maxLength=6000;input.required=true;input.placeholder=guest?'Connectez-vous pour écrire…':'Votre message…';input.value=state.chatDraft||'';input.disabled=guest;
@@ -157,7 +157,7 @@ function drawChat(view,current,options){
  if(shell.responseToAnchor){if(shell.follow){scrollChatTo(shell,shell.responseToAnchor,false);shell.follow=false}else shell.next.hidden=false;shell.responseToAnchor=null}
  drawChatGate(shell,data,current);updateChatControls();if(!state.chatSending){if(box&&box.error&&['failed','uncertain'].includes(box.status)){shell.feedback.textContent=box.error;shell.feedback.className='status error'}else if(data.last_error){shell.feedback.textContent=chatFailureMessage(data);shell.feedback.className='status error'}else{shell.feedback.textContent='';shell.feedback.className='status'}}scheduleChatCooldown(current,data);
  if(options&&options.sent){shell.follow=true;scrollChatTo(shell,shell.waiting||shell.thread.children[shell.thread.children.length-1],false)}
- drawJourneyDialog(current);if(chatReviewRunning(data))pollJourney(current);
+ drawJourneyPanel(current);if(chatReviewRunning(data))pollJourney(current);
  if(!shell.initialPositioned){shell.initialPositioned=true;var last=messages.slice().reverse().find(function(message){return message.role==='assistant'});if(last){var entry=shell.messages.get(String(last.id));scrollChatTo(shell,entry&&entry.item,false)}}
 }
 async function sendChat(form,current,retry){
@@ -205,20 +205,15 @@ function pollChat(request,current,sentDraft){
  },1500);
 }
 function chatInitialPending(data){var journey=chatJourney(data);return !!(journey&&journey.review&&journey.review.running_id&&journey.review.last_at==null)}
-function journeyDialog(){
- var dialog=document.getElementById('journey-dialog');
- if(!dialog){dialog=el('dialog','journey-dialog');dialog.id='journey-dialog';if(document.body)document.body.append(dialog)}
- if(!dialog.dataset.bound){dialog.dataset.bound='1';dialog.setAttribute('aria-labelledby','journey-title');
-  // The welcome window cannot be dismissed by accident; a simple confirmation can.
-  dialog.addEventListener('cancel',function(event){if(dialog.dataset.step!=='point')event.preventDefault();else state.journeyStep=null});
- }
- return dialog;
+function journeyPanel(){
+ var panel=document.getElementById('journey-panel'),scroll=document.getElementById('conversation-scroll');
+ if(!panel&&scroll){panel=el('section','journey-panel');panel.id='journey-panel';panel.hidden=true;panel.setAttribute('aria-labelledby','journey-title');scroll.append(panel)}
+ return panel;
 }
-function closeJourneyDialog(){var dialog=document.getElementById('journey-dialog');if(!dialog)return;if(dialog.open&&typeof dialog.close==='function')dialog.close();else dialog.open=false;dialog.dataset.step=''}
-function showJourneyDialog(dialog,step,nodes){
- var changed=dialog.dataset.step!==step;dialog.dataset.step=step;dialog.replaceChildren.apply(dialog,nodes);
- if(!dialog.open){if(typeof dialog.showModal==='function')dialog.showModal();else dialog.open=true}
- if(changed){var target=dialog.querySelector('h2');if(target){target.tabIndex=-1;target.focus()}}
+function closeJourneyPanel(){var panel=document.getElementById('journey-panel');if(!panel)return;panel.hidden=true;panel.dataset.step=''}
+function showJourneyPanel(panel,step,nodes){
+ var changed=panel.dataset.step!==step;panel.dataset.step=step;panel.replaceChildren.apply(panel,nodes);panel.hidden=false;
+ if(changed){var target=panel.querySelector('h2');if(target){target.tabIndex=-1;target.focus()}var scroll=document.getElementById('conversation-scroll');if(scroll)scroll.scrollTop=0}
 }
 function journeySourceItem(label,href,source,detail){
  var item=el('li','journey-source'+(source&&source.done?' is-done':'')),name=el('span','journey-source-name',label),badge=el('span','journey-source-state',source&&source.done?'Renseigné':'À compléter'),link=el('a','text-link',source&&source.done?'Modifier':'Compléter');
@@ -227,22 +222,22 @@ function journeySourceItem(label,href,source,detail){
  item.append(text,badge,link);return item;
 }
 function journeyCount(count,one,many){count=Number(count)||0;return count?count+' '+(count>1?many:one):''}
-function drawJourneyDialog(current){
+function drawJourneyPanel(current){
  var data=state.chatData||{},journey=chatJourney(data),guest=data.access&&data.access.reason==='authentication_required';
- if(!journey||guest||!chatIsCurrent(current)){if(state.journeyStep!=='point')closeJourneyDialog();return}
- if(state.journeyStep==='point'){if(chatReviewRunning(data)||!journey.started){state.journeyStep=null;closeJourneyDialog()}else return}
- var pending=chatInitialPending(data);
- if(journey.started&&!pending){state.journeyStep=null;state.journeyWaiting=false;state.journeyKey=null;closeJourneyDialog();return}
- var dialog=journeyDialog(),title=el('h2');title.id='journey-title';
+ if(!journey||guest||!chatIsCurrent(current)){if(state.journeyStep!=='point')closeJourneyPanel();return}
+ if(state.journeyStep==='point'){if(chatReviewRunning(data)||!journey.started){state.journeyStep=null;closeJourneyPanel()}else return}
+ var pending=chatInitialPending(data),view=document.getElementById('view'),shell=view&&view.chatShell;if(shell){shell.thread.hidden=!journey.started||pending;shell.form.hidden=!journey.started||pending}
+ if(journey.started&&!pending){state.journeyStep=null;state.journeyWaiting=false;state.journeyKey=null;closeJourneyPanel();return}
+ var dialog=journeyPanel(),title=el('h2');title.id='journey-title';
  if(pending){
   state.journeyWaiting=true;title.textContent='Ambre prépare votre analyse…';
   var wait=el('p','journey-wait');wait.setAttribute('role','status');wait.append(document.createTextNode('Elle relit ce que vous avez renseigné et rédige votre analyse initiale. Cela prend en général une à deux minutes. Vous pouvez laisser cette page ouverte : l’analyse apparaîtra dans la conversation.'));
   var dots=el('span','thinking-dots');dots.setAttribute('aria-hidden','true');for(var i=0;i<3;i++)dots.append(el('i'));
-  showJourneyDialog(dialog,'waiting',[title,wait,dots]);return;
+  showJourneyPanel(dialog,'waiting',[title,wait,dots]);return;
  }
  var failed=state.journeyWaiting;if(failed){state.journeyWaiting=false;state.journeyKey=null;state.journeyStep=null;state.journeyError='L’analyse n’a pas pu être préparée. Rien n’a été perdu : vous pouvez la relancer.'}
  if(state.journeyStep==='confirm'&&journey.can_start){
-  title.textContent='Êtes-vous certain ?';
+  title.textContent='Voulez-vous lancer la discussion ?';
   var consent=el('label','check'),checkbox=el('input');checkbox.type='checkbox';checkbox.id='journey-consent';
   consent.append(checkbox,document.createTextNode('J’accepte que mes messages et les informations que j’ai renseignées soient traités par OpenRouter pour l’analyse et la conversation. Ambre peut retenir des repères concrets sur les proches que j’ai déjà ajoutés et écrire de courtes notes dans ma cartographie.'));
   var feedback=el('p','status');feedback.setAttribute('role','status');
@@ -252,31 +247,31 @@ function drawJourneyDialog(current){
     if(!state.journeyKey)state.journeyKey=newClientId();
     var result=await api('/api/chat/start','POST',{idempotency_key:state.journeyKey,accepted:true});if(!chatIsCurrent(current))return;
     state.journeyError=null;state.chatData=Object.assign({},state.chatData||{},result);state.journeyWaiting=true;
-    var view=document.getElementById('view');if(view)drawChat(view,current,{animate:true});else drawJourneyDialog(current);
+    var view=document.getElementById('view');if(view)drawChat(view,current,{animate:true});else drawJourneyPanel(current);
    }catch(err){
     if(!chatIsCurrent(current))return;if(Number(err.status)>=400&&Number(err.status)<500)state.journeyKey=null;
     feedback.textContent=err.message;feedback.className='status error';no.disabled=false;yes.disabled=!checkbox.checked;
    }
   });
-  var no=actionButton('Pas encore',function(){state.journeyStep=null;drawJourneyDialog(current)},'secondary');
+  var no=actionButton('Pas encore',function(){state.journeyStep=null;drawJourneyPanel(current)},'secondary');
   yes.disabled=true;checkbox.addEventListener('change',function(){yes.disabled=!checkbox.checked});
   var actions=el('div','actions');actions.append(yes,no);
-  showJourneyDialog(dialog,'confirm',[title,el('p','','Cela va initier la conversation à partir des informations que vous avez renseignées.'),consent,actions,feedback]);return;
+  showJourneyPanel(dialog,'confirm',[title,el('p','','Cela va initier la conversation à partir des informations que vous avez renseignées.'),consent,actions,feedback]);return;
  }
  state.journeyStep=null;title.textContent='Avant de commencer avec Ambre';
  var sources=journey.sources||{},list=el('ul','journey-sources');
  list.append(journeySourceItem('Ma cartographie','/cartographie/',sources.cartography,journeyCount(sources.cartography&&sources.cartography.count,'élément coché','éléments cochés')),journeySourceItem('Mon portrait','/mon-portrait/',sources.portrait,''),journeySourceItem('Mes proches','/mes-proches/',sources.people,journeyCount(sources.people&&sources.people.count,'proche','proches')),journeySourceItem('Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')));
- var start=actionButton('Lancer la discussion avec Ambre',function(){state.journeyError=null;state.journeyStep='confirm';drawJourneyDialog(current)});start.id='journey-start';start.disabled=!journey.can_start;
+ var start=actionButton('Lancer la discussion avec Ambre',function(){state.journeyError=null;state.journeyStep='confirm';drawJourneyPanel(current)});start.id='journey-start';start.disabled=!journey.can_start;
  var hint=el('p','helper',journey.can_start?'Plus vous renseignez de sources, plus l’analyse est précise. Vous pourrez les compléter ensuite et demander un nouveau point.':'Renseignez au moins une de ces sources pour lancer la discussion.');hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
- var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné : votre cartographie, votre portrait, vos proches et votre ligne de vie. La conversation se poursuit ensuite autour de ce que vous voulez comprendre et de ce que vous voulez changer.'),el('p','muted','Ambre est une IA de réflexion psychologique. Elle ne pose pas de diagnostic et ne remplace pas un professionnel de santé.'),list,hint];
+ var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné : votre cartographie, votre portrait, vos proches et votre ligne de vie. La conversation se poursuit ensuite autour de ce que vous voulez comprendre et de ce que vous voulez changer.'),el('p','muted','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'),list,hint];
  if(state.journeyError){var error=el('p','status error',state.journeyError);error.setAttribute('role','alert');nodes.push(error)}
- nodes.push(start);showJourneyDialog(dialog,'intro',nodes);
+ nodes.push(start);showJourneyPanel(dialog,'intro',nodes);
 }
 function openPointDialog(current){
  var data=state.chatData||{};if(!chatIsCurrent(current)||chatPointNote(data)||!chatJourney(data)||!chatJourney(data).started)return;
- var dialog=journeyDialog(),title=el('h2','','Faire le point ?');title.id='journey-title';state.journeyStep='point';
+ var dialog=journeyPanel(),title=el('h2','','Faire le point ?');title.id='journey-title';state.journeyStep='point';
  var feedback=el('p','status');feedback.setAttribute('role','status');
- function close(){state.journeyStep=null;closeJourneyDialog();var point=document.getElementById('chat-point');if(point)point.focus()}
+ function close(){state.journeyStep=null;closeJourneyPanel();var point=document.getElementById('chat-point');if(point)point.focus()}
  var yes=actionButton('Oui, faire le point',async function(){
   yes.disabled=true;no.disabled=true;feedback.textContent='Demande envoyée…';feedback.className='status';
   try{
@@ -290,7 +285,7 @@ function openPointDialog(current){
   }
  });
  var no=actionButton('Pas maintenant',close,'secondary'),actions=el('div','actions');actions.append(yes,no);
- showJourneyDialog(dialog,'point',[title,el('p','','Ambre rédige un nouveau bilan à partir de vos informations et de vos échanges depuis le dernier bilan. Cela prend en général une à deux minutes ; il sera aussi conservé dans Mes bilans.'),actions,feedback]);
+ showJourneyPanel(dialog,'point',[title,el('p','','Ambre rédige un nouveau bilan à partir de vos informations et de vos échanges depuis le dernier bilan. Cela prend en général une à deux minutes ; il sera aussi conservé dans Mes bilans.'),actions,feedback]);
 }
 function pollJourney(current){
  if(!chatIsCurrent(current))return;clearTimeout(state.journeyTimer);state.journeyTimer=setTimeout(async function(){
