@@ -56,3 +56,44 @@ Différé, documenté : formulation de cas partagée (R23), retour rapide sur ch
 ## Ordre, tests, publication
 
 Lots R, S, C en parallèle avec propriété de fichiers ; migration `0022` (R) appliquée avant le Worker ; suites complètes, `verify.yml`, scénarios navigateur ; relecture indépendante finale ; recette réelle avec comptes synthétiques supprimés ; publication.
+
+---
+
+# Révision v4.1 après critique indépendante (fait foi en cas de contradiction avec ce qui précède)
+
+## Lot R — corrections
+- **F11** : pas de redirection signée dans cette livraison (secret Netlify = décision du propriétaire). Limiteur par adresse e-mail conservé ; limiteur par IP calculé sur `x-nf-client-connection-ip` si présent, sinon `CF-Connecting-IP` (IPv6 par préfixe /64). Une falsification ne permet que d'échapper au limiteur IP (le limiteur e-mail demeure), plus de blocage global de toutes les connexions. Pas de 403, `workers_dev` reste ouvert. Purge bornée de `rate_limits` et des `sessions` expirées dans le cron. Test : 31 échecs d'une IP n'empêchent pas une autre IP de se connecter.
+- **F10** : garde fournisseur consultée **avant** toute réservation et toute trace ; un refus 429/402/503 ne compte ni dans `attempt` ni dans `attempts`, rembourse `provider_budgets` et `chat_engine_jobs.reserved_tokens` ; `Retry-After` respecté ; refroidissement commun alimenté par le moteur actif ; bilans et portrait passent par le même module commun d'accès au fournisseur. R livre ce correctif du bloc d'erreur de `work()` en premier.
+- **F12** : plafond global quotidien `DAILY_PROVIDER_TOKEN_CAP` (variable, défaut 0 = désactivé, documenté), commun à tous les usages, conversation prioritaire ; au-delà : refus clair (avec ressources si un signal de danger est présent), pas de file longue. Plafond de création de comptes par IP et par jour.
+- **F8/F9** : priorité d'étape (relecture et publication avant analyse) puis `created_at` ; `queued_at` pour la mémoire ; au plus 5 appels simultanés par invocation ; critère : 20 tours en ≤ 4 passages, mémoire servie dans les 3 premiers.
+- **F3** : index `chat_turns(user_id, …)` dans 0022 ; comptages horaires et quotidiens bornés ; critère `EXPLAIN` sans `SCAN` ni `TEMP B-TREE` sur les requêtes de sondage.
+- **F22** : script de ligne de base hors `migrations/` (`journal/ops/d1-baseline.sql`) qui crée `d1_migrations` au format Wrangler et y inscrit 0001–0021 ; appliqué une fois en production avant 0022 ; critère : `migrations list` n'indique que 0022.
+- **F1** : purge limitée aux tâches terminées (`done`/`failed`) ; détail 30 jours puis résumé, 200 traces détaillées par personne ; critère mesuré par `sum(length(trace))` à J+31 simulé ; Paramètres et texte de confidentialité mis à jour.
+- **F13** : compteurs agrégés lisibles par une route `/api/internal/metrics` protégée comme les autres routes internes ; retirer `throw portraits.reason` (worker.mjs).
+- **F23** : critère « lectures de `life_events` ≤ 2 par tour ».
+- **F16** (message d'erreur brut, CSP), **F21** (modèle de secours pour les petits appels : `OPENROUTER_ANALYSIS_FALLBACK_MODEL`), **F14** partiel (bouton « Déconnecter tous les appareils » dans Mon compte ; mention « identité professionnelle déclarée, non vérifiée » visible partout où le psychologue apparaît) ajoutés. F15 différé.
+
+## Lot S — corrections
+- **F17** : tous les codes d'erreur de `send` (409, 403, 429, 503…) portent les ressources quand le message contient un signal de danger ; affichage vérifié dans le navigateur.
+- **F19** : corpus indépendant ≥ 50 messages à risque et ≥ 50 neutres (écrit par un agent distinct, avant la règle), rappel et faux positifs publiés ; en cas de panne de l'analyse, **vérification de risque dédiée** (petit appel) ; voie prudente avec ressources seulement si un signal lexical (liste documentée) est présent ou si la vérification échoue elle aussi sur un tel message.
+- **Ordre des signaux** : un signal déterministe n'est jamais rétrogradé (ni par R10 ni par R5) ; `reality_concern` jamais sur une croyance religieuse ou culturelle seule ; R21 vise l'approbation d'actes nuisibles, jamais la validation d'émotions ; R8 seulement sur l'âge actuel déclaré ; R16 ne stocke aucun diagnostic.
+- **F5** : séparer `safety_history` (épinglé, daté, dédoublonné, modifiable et supprimable par la personne) des appuis évincables ; format daté compatible avec `memoryPrompt`, `PUT /api/chat/memory`, l'export et Paramètres.
+- **R14** : « proposition refusée » = proposition de plan refusée, ou refus explicite d'un exercice ou d'une piste dans le message (liste d'expressions testée).
+- **Ajouts** : #12 (registre d'événements indésirables sans contenu, consultable par l'administrateur), #34 (consommations : EM d'abord, jamais d'arrêt brutal d'alcool ou de benzodiazépines sans médecin ; ressources vérifiées uniquement).
+- **Budget** : test de budget sur les 3 étapes ; ajout ≤ +10 % sur le profil rempli, compensé en réduisant les `details` si besoin.
+- **R11** : batterie simulée dans la CI ; passe réelle (≈ 40 scénarios × 6 tours) documentée comme procédure, non lancée automatiquement.
+
+## Lot C — corrections
+- **C1** : tri et nombre affiché = vécus reliés par une association empirique (forte, modérée, limitée) ; liens théoriques, définitionnels et de classification affichés à part, non comptés ; cartes contextuelles après toutes les autres ; Ambre reçoit le même ordre. Critères par simulation : top 5 affiché = top 5 transmis à Ambre ; aucune carte contextuelle avant une carte non contextuelle ; parité navigateur/Worker.
+- **C2 (scinder `controle`) et « Je ne sais pas »** : différés, décision du propriétaire (changement de sens des réponses enregistrées).
+- **C3–C6** maintenus ; tout changement de lien relance `audit_cartographie.py` et une relecture des liens modifiés, pas seulement l'empreinte.
+- Saisie des ressources (PCE/BCE) : décision du propriétaire.
+
+## Propriété des fichiers (implémentation parallèle)
+- **R** : `worker.mjs`, `netlify.toml`, `wrangler.jsonc`, `journal/migrations/0022_*`, `journal/ops/`, `ambre-insight.mjs`, `personal-backend.mjs` (appel fournisseur), nouveau module commun d'accès au fournisseur ; dans `ambre-engine.mjs` : `generateText`, bloc d'erreur de `work()`, `startTrace`/`finishTrace`/`saveTrace`, `resume`, `snapshot`, planification du cron ; dans `chat-backend.mjs` : `state`, `exportData`, `providerCooldown`, `failureInfo`, appel des bilans, requêtes de sondage ; dans `chat-interface.mjs` : boucle de sondage ; `ui.mjs` (Mon compte : déconnexion globale).
+- **S** : `chat-safety.mjs`, `psychology-framework.mjs`, `change-engine.mjs`, nouveau module de citations ; dans `ambre-engine.mjs` : consignes, analyse, matrice, relecture, `checkedRisk`, `updateMemory` ; dans `chat-backend.mjs` : `send`, `makeProposal`, filtrage des notes ; rendu des erreurs dans `chat-interface.mjs` ; migration `0023_*` si indispensable.
+- **C** : `data/`, `editorial/cartographie/`, `scripts/build_cartographie*`, `scripts/audit_cartographie*`, `static/js/cartographie*.js`, `layouts/_default/cartographie.html`, `journal/src/cartographie.mjs`, `journal/src/cartographie.generated.mjs`, `tests/cartographie*`.
+- Chacun écrit ses tests dans de nouveaux fichiers ; Edit uniquement, relire avant chaque modification d'un fichier partagé.
+
+## Décisions laissées au propriétaire (rien n'est fait sans accord)
+Secret de signature Netlify ; montant du plafond quotidien ; vérification d'adresse e-mail ; accès des mineurs ; scission de `controle` et « Je ne sais pas » ; saisie des ressources ; revue humaine mensuelle ; intitulé « psychologue IA » (avis juridique) ; encadré 3114 dans la Cartographie.
