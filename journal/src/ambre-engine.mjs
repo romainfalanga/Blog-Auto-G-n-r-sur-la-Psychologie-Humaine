@@ -1,3 +1,4 @@
+import {PSYCHOLOGY_CATALOG} from './psychology-catalog.generated.mjs';
 import {appendTraceStage,traceDetail,sourceLocation,indexLines,INDEX_LEGEND,USAGE_POLICY} from './ambre-insight.mjs';
 import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
@@ -12,6 +13,7 @@ const object=properties=>({type:'object',properties,required:Object.keys(propert
 const strings={type:'array',items:{type:'string'}};
 const STATES=['distress','rupture','shame','ambivalence','dissociation','dependency','unusual_belief'];
 const CONSTRAINTS=['no_advice','no_questions','no_exploration','respect_closed_topics'];
+const PATTERN_LABELS=new Map(PSYCHOLOGY_CATALOG.patterns.map(pattern=>[pattern.id,pattern.label]));
 // Stored boundaries remain intact; prompt excerpts cannot silently reopen an omitted topic.
 export function memoryPrompt(summary={}){
  const out={};let omitted=0;
@@ -43,7 +45,7 @@ export function deterministicAnalysis(message,memory={}){
  const t=normalized(message),risk=crisisSignal(message)?'explicit':/disparaitre|plus etre la|a quoi bon vivre|fardeau|adieu.*(?:tous|monde)/.test(t)?'possible':'none';
  const rupture=/tu ne comprends|vous ne comprenez|reponse de robot|tu n.ecoutes|ce n.est pas ca|si tu le dis/.test(t),distress=/panique|je n.en peux plus|submerge|plus rien sentir|ne sens plus rien|pas moi|honte/.test(t);
  const states=[...(distress?['distress']:[]),...(rupture?['rupture']:[]),...(/honte|c.est ridicule/.test(t)?['shame']:[]),...(/ne sens plus rien|comme si ce n.etait pas moi/.test(t)?['dissociation']:[]),...(/d.un cote.*de l.autre|je voudrais mais/.test(t)?['ambivalence']:[]),...(/seule a me comprendre|personne d.autre que (?:toi|vous)/.test(t)?['dependency']:[])];
- const listen=/(?:juste|seulement|simplement|uniquement)[^.!?]{0,100}(?:parler|ecout)|(?:pas|plus) de conseils?|sans (?:aucun )?conseils?|aucun conseil/.test(t),noQuestions=/\b(?:pas|plus|aucune?|sans)(?: de)? questions?\b/.test(t),advice=/que (?:dois.je|faire)|conseil|avis|penses.?(?:tu|vous)|tu en penses/.test(t);
+ const listen=/(?:juste|seulement|simplement|uniquement)[^.!?]{0,100}(?:parler|ecout)|(?:pas|plus) de conseils?|sans (?:aucun )?conseils?|ni (?:de )?conseils?|aucun conseil/.test(t),noQuestions=/\b(?:pas|plus|aucune?|sans|ni)(?: de)? questions?\b/.test(t),advice=/que (?:dois.je|faire)|conseil|avis|penses.?(?:tu|vous)|tu en penses/.test(t);
  const closed=/ne (?:veux|souhaite) (?:pas|plus) (?:en )?parler|n.en parlons plus|changeons de sujet/.test(t)?[clip(message,240)]:[];
  return {need:listen?'listen':advice?'advice':'understand',states,risk,posture:risk!=='none'?'safety':rupture?'repair':distress?'stabilize':listen?'listen':advice?'options':'explore',sensitive_allowed:false,constraints:[...(listen?['no_advice']:[]),...(noQuestions&&risk==='none'?['no_questions']:[]),...(distress||closed.length?['no_exploration',...(risk==='none'?['no_questions']:[])]:[]),...((memory.closed||[]).length?['respect_closed_topics']:[]),...(memory.closed_omitted||memory.closed_overflow?['no_exploration',...(risk==='none'?['no_questions']:[])]:[])],selected_ids:[],closed_topics:closed};
 }
@@ -74,7 +76,7 @@ export function knowledgeIndex(context){
   add('cartography:outcome:'+item.id,'outcome',(feedback==='non'?'Écarté · ':feedback==='oui'?'Reconnu · ':metadata.contextual_only?'Jeune enfant · ':'Piste · ')+item.label,content,map.locked_at,metadata);
  }
  for(const resource of (map?.resources||[]).slice(0,80))add('cartography:resource:'+resource.id,'resource',resource.label,{...resource,reported:true},map.locked_at);
- for(const h of (context.portrait?.psychological_map||[]).slice(0,60))add('hypothesis:'+(h.id||h.label),'hypothesis',h.label||h.id,h,context.updated_at,{inference:'hypothesis_only'});
+ for(const h of (context.portrait?.psychological_map||[]).slice(0,60)){const id=h.pattern_id||h.id||h.label;if(id)add('hypothesis:'+id,'hypothesis',h.label||PATTERN_LABELS.get(id)||id,h,context.updated_at,{inference:'hypothesis_only',pattern_id:id})}
  for(const [i,n] of [...(map?.notes||[]),...(map?.ambre_notes||[])].slice(0,140).entries())add('note:'+i,'note',n.label||n.target||'Note',n.text,map?.locked_at,{target:n.target,target_id:n.target_id||n.id||null});
  return entries;
 }

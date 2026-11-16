@@ -37,7 +37,7 @@ Tests des contrats API et de l’isolation des traces, comparaison du calcul pub
 
 ## Preuves avant publication
 
-- 440 tests du journal, 31 tests du site, 43 tests personnels et les contrôles du workflow passent. Les deux calculs de cartographie concordent sur 1 711 cas (réponses isolées et toutes les paires).
+- 442 tests du journal, 31 tests du site, 43 tests personnels et les contrôles du workflow passent. Les deux calculs de cartographie concordent sur 1 711 cas (réponses isolées et toutes les paires).
 - 13 scénarios Playwright de cartographie passent : accordéons, non explicite, brouillon, autosauvegarde sérialisée, erreurs, conflit 409, suppression, chargement initial tardif, sources et centrage mobile. Le bouton de précision est vérifié sur le même axe que les réponses.
 - Un parcours intégré utilise le vrai Worker avec SQLite et un fournisseur simulé : trois entrées d’appels enregistrées à l’identique, contenu de Paramètres consultable, six thèmes publics Hugo et PUT réels, deux onglets du portrait, absence d’erreur JavaScript et de débordement à 1 440, 390 et 320 px.
 - Relecture indépendante : navigation clavier, correction de mémoire, conflit CAS, filtres de recherche et affichage mobile validés. Deux écarts de transmission clinique repérés puis corrigés : preuve coupée avant les 1 100 caractères et métadonnées omises du contexte historique.
@@ -46,3 +46,7 @@ Tests des contrats API et de l’isolation des traces, comparaison du calcul pub
 Les limites et références sont dans [l’audit](audit-cartographie-transparence-2026-11-16.md) et [ses correspondances détaillées](audit-cartographie-correspondances-2026-11-16.json). Aucun ajout de liens causaux destiné à remplir artificiellement le catalogue.
 
 Dernière relecture clinique : le résumé de la preuve primaire et son URL sont conservés dans des métadonnées distinctes du texte raccourci. La nuance sur la foi et l’emprise survit à l’extrait. Le surcoût maximal mesuré est de 464 caractères par source ; les textes restent bornés à 6 500 caractères pour huit sources. Les étiquettes distinguent symptômes, groupes de troubles et qualificatifs cliniques.
+
+## Correctifs issus de la recette réelle
+
+La première réponse réelle a respecté « sans conseil ni question », mais seule la contrainte sans conseil était enregistrée. Les formulations liées par « ni » sont désormais reconnues explicitement pour les conseils et les questions ; la sécurité actuelle reste prioritaire. La relecture a également identifié le format canonique `pattern_id` du portrait : chaque piste conserve maintenant un identifiant distinct et le libellé du catalogue, au lieu d’être fusionnée sous un identifiant absent. Deux tests de comportement couvrent ces cas, et une relecture indépendante les a vérifiés.

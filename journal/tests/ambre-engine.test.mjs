@@ -282,3 +282,15 @@ test('primary evidence retains the complete religion-versus-coercion nuance in t
  const writing=JSON.parse(calls.find(c=>c.purpose==='ambre_writing').body.messages[1].content),entry=writing.details.find(x=>x.key==='cartography:outcome:dep_generale');assert.equal(entry.metadata.evidence_summary,link.summary);assert.ok(link.source_ids.includes(entry.metadata.evidence_source.id));assert.equal(entry.metadata.evidence_source.url,CARTOGRAPHIE.sources.find(x=>x.id===entry.metadata.evidence_source.id).url);assert.match(entry.metadata.evidence_summary,/Ce n'est pas la foi elle-même.*mais l'emprise/);assert.ok(entry.text.length<=1100);assert.ok(writing.details.reduce((sum,x)=>sum+x.text.length,0)<=6500);
  const references=new Map(CARTOGRAPHIE.sources.map(x=>[x.id,x]));const overhead=Math.max(...CARTOGRAPHIE.links.map(x=>{const ref=references.get(x.source_ids?.[0]);return JSON.stringify({evidence_summary:x.summary||'',evidence_source:ref?{id:ref.id,url:ref.url}:null}).length}));assert.ok(overhead<=500,'current primary-evidence metadata remains bounded to 500 characters per source');assert.ok(writing.details.length<=8);
 });
+
+
+test('joined refusal phrases preserve the no-question constraint without suppressing crisis safety',()=>{
+ for(const text of ['Je voudrais seulement être écouté, sans conseil ni question pour le moment.','Sans conseils ni questions, écoutez-moi.','Je ne veux ni conseil ni question.']){const result=deterministicAnalysis(text);assert.ok(result.constraints.includes('no_questions'),text);assert.ok(result.constraints.includes('no_advice'),text);assert.equal(result.need,'listen',text);assert.ok(deterministicReview({content:'Que ressentez-vous ?'},result).includes(12));}
+ assert.equal(deterministicAnalysis('Je veux mourir, sans conseil ni question.').constraints.includes('no_questions'),false);
+});
+test('every validated portrait pattern has its own stable labelled index entry',()=>{
+ const hypotheses=[{pattern_id:'rumination',status:'exploring',observation:'Je repense aux critiques.',alternatives:['Un souci ponctuel.']},{pattern_id:'perfectionism',status:'mixed',observation:'Je vise un résultat parfait.',counter_evidence:['profile:a']}];
+ const index=knowledgeIndex({people:[],events:[],sources:[],portrait:{psychological_map:hypotheses}}),entries=index.filter(x=>x.kind==='hypothesis');
+ assert.deepEqual(entries.map(x=>x.key),['hypothesis:rumination','hypothesis:perfectionism']);assert.ok(entries.every(x=>x.label&&!x.label.includes('undefined')));assert.match(entries[0].label,/Pensées/);
+ const selected=selectDetails(index,entries.map(x=>x.id),'Ces deux pistes');assert.equal(selected.length,2);assert.ok(selected[1].text.includes('counter_evidence'));assert.equal(selected[1].metadata.pattern_id,'perfectionism');
+});
