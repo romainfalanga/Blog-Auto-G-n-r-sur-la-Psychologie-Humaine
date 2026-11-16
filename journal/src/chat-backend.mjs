@@ -518,7 +518,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  // ---- Journey and written reviews -------------------------------------------------
  // A review is generated asynchronously under a lease. The request makes one bounded
  // attempt; the minute cron resumes expired leases in small batches, up to a cap.
- const REVIEW_INTERVAL=86400,REVIEW_ATTEMPTS=3,REVIEW_CONTEXT_LIMIT=34000;
+ const REVIEW_INTERVAL=86400,REVIEW_FIRST_INTERVAL=3600,REVIEW_ATTEMPTS=3,REVIEW_CONTEXT_LIMIT=34000;
  const generationPaused=env=>['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase());
  const missingReviews=e=>/no such table:\s*ambre_reviews/i.test(String(e?.message||''));
  // Before the 0018 migration the conversation simply cannot be started.
@@ -529,8 +529,10 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   return {cartography:{done:Boolean(map),count:map?map.cause_count:0},portrait:{done:Boolean(available.profile?.has_description||memory)},people:{done:available.person_update.count>0,count:available.person_update.count},life_events:{done:available.life_event_update.count>0,count:available.life_event_update.count}};
  }
  async function journey(env,userId,available,mapRow){
-  const row=await reviewTable(()=>first(env,"SELECT (SELECT id FROM ambre_reviews WHERE user_id=? AND status='running') AS running_id,EXISTS(SELECT 1 FROM ambre_reviews WHERE user_id=? AND kind='initial' AND status IN ('running','ready')) AS started,(SELECT max(completed_at) FROM ambre_reviews WHERE user_id=? AND status='ready') AS last_at",userId,userId,userId),null);
-  const sources=journeySources(available,mapRow),started=Boolean(row?.started),lastAt=row?.last_at??null,next=lastAt!=null&&lastAt+REVIEW_INTERVAL>now()?lastAt+REVIEW_INTERVAL:null;
+  const row=await reviewTable(()=>first(env,"SELECT (SELECT id FROM ambre_reviews WHERE user_id=? AND status='running') AS running_id,EXISTS(SELECT 1 FROM ambre_reviews WHERE user_id=? AND kind='initial' AND status IN ('running','ready')) AS started,(SELECT max(completed_at) FROM ambre_reviews WHERE user_id=? AND status='ready') AS last_at,(SELECT max(completed_at) FROM ambre_reviews WHERE user_id=? AND status='ready' AND kind='point') AS last_point_at",userId,userId,userId,userId),null);
+  const sources=journeySources(available,mapRow),started=Boolean(row?.started),lastAt=row?.last_at??null,
+   // A first point is allowed an hour after the initial analysis; later points are a day apart.
+   due=Math.max(row?.last_point_at!=null?row.last_point_at+REVIEW_INTERVAL:0,lastAt!=null?lastAt+REVIEW_FIRST_INTERVAL:0),next=due>now()?due:null;
   return {started,sources,can_start:Boolean(row)&&!started&&!row.running_id&&Object.values(sources).some(source=>source.done),review:{running_id:row?.running_id||null,last_at:lastAt,next_point_at:next}};
  }
  // Same availability rules as a message, without the weekly message quota.
@@ -576,7 +578,7 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
   const available=await capabilities(env,user.id),path=await journey(env,user.id,available,await readCartography(env,user.id));
   if(path.review.running_id)fail(409,'Un bilan est déjà en préparation.','review_in_progress');
   if(!path.started)fail(403,'Lancez d’abord la discussion avec Ambre.','journey_not_started');
-  if(path.review.next_point_at)return json({error:'Le dernier bilan date de moins de 24 heures. Vous pourrez refaire le point un peu plus tard.',code:'review_too_soon',retry_at:path.review.next_point_at},429);
+  if(path.review.next_point_at)return json({error:'Le dernier bilan est trop récent. Vous pourrez refaire le point un peu plus tard.',code:'review_too_soon',retry_at:path.review.next_point_at},429);
   await generationAccess(env,user.id);
   return createReview(env,user,'point',key,ctx);
  }

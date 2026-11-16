@@ -64,7 +64,7 @@ test('the journey: sources, refusals before launch, initial analysis, conversati
  const initialId=r.review_id;
  assert.equal(r.consent,true,'launching records the conversation agreement');
  assert.equal(r.journey.started,true);assert.equal(r.journey.can_start,false);assert.equal(r.journey.review.running_id,null);
- assert.equal(r.journey.review.last_at,s.now());assert.equal(r.journey.review.next_point_at,s.now()+86400);
+ assert.equal(r.journey.review.last_at,s.now());assert.equal(r.journey.review.next_point_at,s.now()+3600);
  assert.equal(r.access.allowed,true);assert.equal(r.quota.used,0,'a review is not a message of the weekly quota');
  assert.deepEqual(r.messages.map(m=>[m.role,m.review_id,m.review_kind]),[['assistant',initialId,'initial']]);assert.equal(r.messages[0].content,reviewText());
  assert.equal(requests.length,1);
@@ -96,7 +96,7 @@ test('the journey: sources, refusals before launch, initial analysis, conversati
  assert.equal(chatRequest.messages.length,3);
 
  r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_001'});
- assert.equal(r.status,429);assert.equal(r.code,'review_too_soon');assert.equal(r.retry_at,review(s,initialId).completed_at+86400);assert.equal(typeof r.error,'string');
+ assert.equal(r.status,429);assert.equal(r.code,'review_too_soon');assert.equal(r.retry_at,review(s,initialId).completed_at+3600);assert.equal(typeof r.error,'string');
  assert.equal(s.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n,1);
  s.advance(86401);
  assert.equal((await s.call('/api/chat')).journey.review.next_point_at,null);
