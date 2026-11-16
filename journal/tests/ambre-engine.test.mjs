@@ -339,8 +339,11 @@ test('a transient risk verification failure resumes the same substep under an ex
  await Promise.all([s.chat.engine.work(s.env,sent.request_id),s.chat.engine.work(s.env,sent.request_id)]);assert.equal(job(s).stage,'done');assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(checks,2);const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.stages[1].error_code,'provider_timeout');assert.equal(detail.stages[2].stage,'risk_check');assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET/);
 });
 
-test('three unavailable risk checks release the quota without publishing an invented crisis',async t=>{
- const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?new Response('PRIVATE_PROVIDER_SECRET',{status:502}):undefined),sent=await message(s,'risk_unavailable','Une question de diagnostic.');await s.chat.resumeEngine(s.env);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'failed');const turn=s.raw.prepare('SELECT * FROM chat_turns').get();assert.equal(turn.credit_status,'released');assert.equal(turn.response,'');assert.equal(calls.filter(x=>x.purpose==='ambre_risk_check').length,3);assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(calls.some(x=>x.purpose==='ambre_writing'),false);
+// Lot S (F18): an unavailable check never ends in a bare failure; the fixed cautious
+// reply names the resources without asserting a crisis. A published reply counts
+// as one message (the chat_turns CHECK ties completed to consumed).
+test('three unavailable risk checks publish a cautious reply with resources, never an invented crisis',async t=>{
+ const s=setup();await ready(s);const calls=provider(t,p=>p==='ambre_analysis'?flaggedAnalysis():p==='ambre_risk_check'?new Response('PRIVATE_PROVIDER_SECRET',{status:502}):undefined),sent=await message(s,'risk_unavailable','Une question de diagnostic.');await s.chat.resumeEngine(s.env);await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const turn=s.raw.prepare('SELECT * FROM chat_turns').get();assert.equal(turn.credit_status,'consumed');const reply=JSON.parse(turn.response).content;assert.match(reply,/3114/);assert.match(reply,/n’ai pas pu analyser/);assert.doesNotMatch(reply,/pensez au suicide ou risquez/);assert.equal(calls.filter(x=>x.purpose==='ambre_risk_check').length,3);assert.equal(calls.filter(x=>x.purpose==='ambre_analysis').length,1);assert.equal(calls.some(x=>x.purpose==='ambre_writing'),false);
  const detail=(await s.call('/api/chat/insight?turn_id='+sent.request_id)).selected_turn;assert.equal(detail.analysis.risk_check.status,'unavailable');assert.equal(detail.stages.filter(x=>x.stage==='risk_check').length,3);assert.doesNotMatch(JSON.stringify(detail),/PRIVATE_PROVIDER_SECRET/);await s.chat.resumeEngine(s.env);assert.equal(calls.length,4);
 });
 
@@ -350,8 +353,9 @@ test('risk checks reject malformed, contradictory or unanchored verdicts without
  }
 });
 
+// Lot S (F18): the exhausted turn budget buys no extra call; the possible danger gets the fixed cautious reply.
 test('the conditional verification obeys the existing total turn budget',async t=>{
- const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});const sent=await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(sent.last_error.code,'turn_budget');assert.doesNotMatch(sent.last_error.message,/semaine/);assert.equal(job(s).stage,'failed');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'released');
+ const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_analysis'){s.raw.prepare('UPDATE chat_engine_jobs SET reserved_tokens=29000').run();return flaggedAnalysis()}});const sent=await message(s,'risk_budget_extra','Une question de diagnostic.');assert.equal(sent.last_error,null);assert.match(sent.messages.at(-1).content,/3114/);assert.equal(job(s).stage,'done');assert.equal(JSON.parse(job(s).analysis).risk_check.error_code,'turn_budget');assert.equal(job(s).reserved_tokens,29000);assert.equal(calls.length,1);assert.equal(s.raw.prepare('SELECT credit_status FROM chat_turns').get().credit_status,'consumed');
 });
 
 test('confirmed violence selects violence resources in the published answer and fallback',async t=>{

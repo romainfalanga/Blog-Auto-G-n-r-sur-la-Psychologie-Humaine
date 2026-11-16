@@ -13,9 +13,11 @@ Suite de départ : `npm --prefix journal test` 594/594.
 - F13 (avancé) : chaînes du cron isolées (plus de `throw portraits.reason`), compteurs `service_metrics` sans contenu, route `POST /api/internal/metrics` (OIDC comme les autres routes internes).
 - F21 : `OPENROUTER_ANALYSIS_FALLBACK_MODEL` pour analyse, contrôle de risque, relecture et mémoire ; bascule dès qu'un 5xx ou un refus met le modèle principal en refroidissement.
 - Tests : `v4-R-provider.test.mjs` (6), `v4-R-worker.test.mjs` (5). Suite : 614/614.
+- F3 : index `chat_turns_owner_live(user_id,purged)` et `chat_turns_owner_time(user_id,created_at)` ; sondage léger `GET /api/chat/requests/:id?view=status` (lectures par clé primaire, 4 instructions, 69 octets, identiques à 0 et 3 000 échanges ; avant : 10 instructions et 94 651 octets à 3 000) ; l'interface sonde ce statut puis lit l'état complet une seule fois au changement, avec avis d'attente fournisseur. Lecture complète du fil sans `TEMP B-TREE`. Test UI V7 adapté (le sondage léger est un GET autorisé, toujours aucun POST).
+- F8/F9 : `resume` en rondes de 5 tâches parallèles au plus, priorité publication > relecture > réécriture > rédaction > analysis puis ancienneté, nouvelle ronde seulement si < 30 s écoulées, reprise immédiate d'une tâche seulement si sa fenêtre a expiré (`work()` renvoie son issue) ; mémoire : `queued_at` fixé à la première mise en file, file triée par `queued_at`, personnes ayant un tour en cours exclues, tourniquet après chaque lot. Mesures (horloge virtuelle, latences analyse 4 s / rédaction 15 s / relecture 4 s / mémoire 6 s) : 20 tours abandonnés publiés en 4 passages de 42 s au plus (avant : 8 passages de 95 s) ; personne active servie au 3ᵉ passage (avant : 51ᵉ minute). Tests `v4-R-polling.test.mjs` (3), `v4-R-cron.test.mjs` (3).
 
 ## En cours
-- F3, F8/F9.
+- F22, F4.
 
 ## Reste
-- F22, F4, F16, F23, F14 partiel.
+- F16, F23, F14 partiel.

@@ -6,6 +6,7 @@ import {crisisSignal,riskSignal,safetyReply,ensureSafetyResources} from './chat-
 import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
 import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily,dailyCapReached,countMetric} from './provider-access.mjs';
+import {COMPACT_TRACE_SQL} from './ambre-insight.mjs';
 import {platformAccess,accessSql} from './entitlements.mjs';
 import {buildCompanionSystemPrompt,buildReviewSystemPrompt} from './psychology-framework.mjs';
 import {readCartography,companionCartography,cartographyHighlights,chooseAmbreNotes,appendAmbreNotes,ambreNotesWrite,addAmbreNotes,AMBRE_NOTE_MAX_LENGTH,AMBRE_NOTES_PER_TURN} from './cartographie.mjs';
@@ -553,7 +554,31 @@ export function createChatBackend({error,json,text,body,now,random,personal,cata
  else{const cols=Object.keys(merged).filter(k=>k!=='people_ids'),values=cols.map(k=>merged[k]),hash=await contextHash(serialized);if(p.kind.endsWith('_create'))statements.push(stmt(env,`INSERT INTO ${table}(id,user_id,creation_id,payload_hash,${cols.join(',')}) SELECT ?,?,?,?,${cols.map(()=>'?').join(',')} WHERE ${guard}`,p.target_id,userId,'chat-'+id,hash,...values,...args));else statements.push(stmt(env,`UPDATE ${table} SET ${cols.map(k=>k+'=?').join(',')},payload_hash=?,revision=revision+1,updated_at=CURRENT_TIMESTAMP WHERE id=? AND user_id=? AND ${guard}`,...values,hash,p.target_id,userId,...args));statements.push(stmt(env,`UPDATE profiles SET version=version+1 WHERE user_id=? AND changes()>0 AND ${guard}`,userId,...args));if(table==='life_events'){statements.push(stmt(env,`DELETE FROM life_event_people WHERE event_id=? AND user_id=? AND ${guard}`,p.target_id,userId,...args));statements.push(stmt(env,`INSERT INTO life_event_people(event_id,person_id,user_id) SELECT ?,value,? FROM json_each(?) WHERE ${guard}`,p.target_id,userId,JSON.stringify(merged.people_ids),...args));}}
  statements.push(stmt(env,`UPDATE chat_proposals SET status='accepted',revision=revision+1,apply_token=NULL,result_json=? WHERE id=? AND user_id=? AND ${guard}`,JSON.stringify({target_id:p.target_id,kind:p.kind}),id,userId,...args));const result=await env.DB.batch(statements);if(!result[0].meta.changes)fail(409,'Les données ont changé depuis cette proposition. Rechargez-les avant de réessayer.','revision_conflict');await personal.sourcesChanged(env,userId,ctx);return json({ok:true,...await state(env,userId)});
  }
- async function exportData(env,userId){return {chat_memory:await first(env,'SELECT summary,through_turn,turns_covered,updated_at FROM chat_memory WHERE user_id=?',userId),chat_traces:await all(env,'SELECT turn_id,trace,created_at FROM chat_turn_traces WHERE user_id=? ORDER BY created_at DESC LIMIT 1000',userId),chat_consent:Boolean((await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent),chat_messages:(await all(env,'SELECT id,idempotency_key,content,response,status,created_at FROM chat_turns WHERE user_id=? AND purged=0 ORDER BY rowid',userId)).flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,status:t.status,created_at:t.created_at}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]),chat_proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY created_at,id',userId)).map(proposalRow),ambre_reviews:(await reviewTable(()=>all(env,'SELECT id,kind,status,content,error_code,sources,created_at,completed_at FROM ambre_reviews WHERE user_id=? ORDER BY created_at DESC,id DESC LIMIT 1000',userId),[])).map(reviewRow)};}
+ // F4: paginated export with a declared coverage. Every trace and every message is
+ // exported; past a size budget the exact stage inputs of older traces are left out
+ // (and counted) so the export stays within Worker memory.
+ const EXPORT_PAGE=200,EXPORT_TRACE_BYTES=16*1024*1024;
+ async function exportData(env,userId){
+  const started=now(),traces=[],messages=[],reviews=[],traceCoverage={total:0,with_exact_inputs:0,summarized_by_retention:0,exact_inputs_omitted_for_size:0};let budget=EXPORT_TRACE_BYTES;
+  for(let cursor=null;;){
+   const page=await all(env,`SELECT turn_id,created_at,length(trace) AS size,json_extract(trace,'$.details.compacted') AS compacted FROM chat_turn_traces WHERE user_id=?${cursor?' AND (created_at<? OR (created_at=? AND turn_id<?))':''} ORDER BY created_at DESC,turn_id DESC LIMIT ?`,userId,...(cursor?[cursor.created_at,cursor.created_at,cursor.turn_id]:[]),EXPORT_PAGE);
+   if(!page.length)break;
+   const full=page.filter(row=>{if(row.size>budget)return false;budget-=row.size;return true}).map(row=>row.turn_id);
+   const rows=await all(env,`SELECT turn_id,created_at,CASE WHEN turn_id IN (SELECT value FROM json_each(?)) THEN trace ELSE json_set(${COMPACT_TRACE_SQL},'$.details.export_omitted',1) END AS trace FROM chat_turn_traces WHERE user_id=? AND turn_id IN (SELECT value FROM json_each(?)) ORDER BY created_at DESC,turn_id DESC`,JSON.stringify(full),userId,JSON.stringify(page.map(row=>row.turn_id)));
+   for(const row of rows){const kept=full.includes(row.turn_id),compacted=page.find(p=>p.turn_id===row.turn_id)?.compacted;traceCoverage.total++;if(compacted)traceCoverage.summarized_by_retention++;else if(kept)traceCoverage.with_exact_inputs++;else traceCoverage.exact_inputs_omitted_for_size++;traces.push(row)}
+   cursor=page.at(-1);if(page.length<EXPORT_PAGE)break;
+  }
+  for(let after=0;;){
+   const page=await all(env,'SELECT rowid AS n,id,idempotency_key,content,response,status,created_at FROM chat_turns WHERE user_id=? AND purged=0 AND rowid>? ORDER BY rowid LIMIT ?',userId,after,EXPORT_PAGE*2);
+   for(const t of page)messages.push(...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,status:t.status,created_at:t.created_at}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[]));
+   if(page.length<EXPORT_PAGE*2)break;after=page.at(-1).n;
+  }
+  for(let cursor=null;;){
+   const page=await reviewTable(()=>all(env,`SELECT id,kind,status,content,error_code,sources,created_at,completed_at FROM ambre_reviews WHERE user_id=?${cursor?' AND (created_at<? OR (created_at=? AND id<?))':''} ORDER BY created_at DESC,id DESC LIMIT ?`,userId,...(cursor?[cursor.created_at,cursor.created_at,cursor.id]:[]),EXPORT_PAGE),[]);
+   reviews.push(...page.map(reviewRow));if(page.length<EXPORT_PAGE)break;cursor=page.at(-1);
+  }
+  return {chat_memory:await first(env,'SELECT summary,through_turn,turns_covered,updated_at FROM chat_memory WHERE user_id=?',userId),chat_traces:traces,chat_consent:Boolean((await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent),chat_messages:messages,chat_proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY created_at,id',userId)).map(proposalRow),ambre_reviews:reviews,chat_export_coverage:{complete:true,started_at:started,page_size:EXPORT_PAGE,consistency:'Lecture paginée, sans instantané transactionnel. Toutes les traces, tous les messages conservés et tous les bilans sont inclus.',included:{chat_traces:traces.length,chat_messages:messages.length,ambre_reviews:reviews.length},traces:{...traceCoverage,exact_inputs_byte_budget:EXPORT_TRACE_BYTES,note:'Les entrées exactes sont conservées 30 jours (200 derniers échanges au plus), puis résumées. Au-delà du budget de taille de l’export, les entrées exactes des traces les plus anciennes sont omises et comptées ici ; elles restent consultables dans Paramètres.'}}};
+ }
  const purgePeopleObservations=(env,userId)=>stmt(env,'DELETE FROM people_observations WHERE user_id=?',userId);
 
  // ---- Journey and written reviews -------------------------------------------------

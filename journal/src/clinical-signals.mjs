@@ -137,3 +137,10 @@ export function signalGuidance(signals){
  if(signals.repair_followup)lines.push(SIGNAL_GUIDANCE.repair_followup);
  return lines.length?'\nSignaux de ce tour :\n- '+lines.join('\n- '):'';
 }
+// Keeps only active signals so a nominal turn carries {} to the writer and reviewer.
+export function compactSignals(signals={}){
+ const out={};
+ for(const [key,value] of Object.entries(signals))if(value&&value!=='none'&&value!==0)out[key]=value;
+ if(out.declined_streak<2)delete out.declined_streak;
+ return out;
+}
