@@ -34,6 +34,10 @@ def build():
         raise ValueError("\n".join(errors))
     decisions = read(SOURCE)
     registry = read(REGISTRY)
+    core_fingerprint = fingerprint({key: data[key] for key in ("factors", "outcomes", "retired_outcomes", "links", "protections")})
+    final_review = decisions.get("final_validation", {})
+    if decisions.get("review_summary", {}).get("final_graph_check_pending") is not False or final_review.get("status") != "passed" or final_review.get("graph_core_sha256") != core_fingerprint:
+        raise ValueError("Les décisions sémantiques doivent être revalidées sur le graphe final avant de produire l’audit")
     psychology, clinical = read(ROOT / "data/psychology_catalog.json"), read(ROOT / "data/clinical_catalog.json")
     reference = {row["id"]: row for row in psychology["patterns"]}
     rows = decisions["psychology_patterns"]
@@ -82,7 +86,7 @@ def build():
     dsm = decisions["dsm5tr"]
     dsm = {**dsm, "registry_decisions": [entry for entry in registry["entries"] if "DSM" in entry.get("referentiel", "").upper()]}
     counts = {"psychology_reviewed": len(rows), "psychology_statuses": dict(Counter(row["status"] for row in rows)), "cartography_outcomes": len(outcomes), "cartography_factors": len(factors), "cartography_resources": len(data["protections"]), "icd11_codes_reviewed": len(codes), "icd11_code_statuses": dict(Counter(row["status"] for row in codes)), "dsm_section_ii_chapters_reviewed": len(dsm["chapters"]), "dsm_chapter_statuses": dict(Counter(row["status"] for row in dsm["chapters"])), "reference_registry_decisions": len(registry["entries"]), "dsm_registry_decisions": len(dsm["registry_decisions"])}
-    return {"schema_version": 2, "reviewed_on": "2026-11-17", "scope": "Décisions explicites sur les 161 repères internes, présence exacte des codes du catalogue CIM-11 et registre documentaire des neuf lots. Pas de validation clinique individuelle ni de lecture complète du DSM-5-TR.", "method": decisions["method"], "input_fingerprints": {"cartography_core_sha256": fingerprint({key: data[key] for key in ("factors", "outcomes", "links", "protections")}), **{name + "_sha256": hashlib.sha256((ROOT / ("data/" + name + ".json")).read_bytes()).hexdigest() for name in ("psychology_catalog", "clinical_catalog")}, "semantic_decisions_sha256": hashlib.sha256(SOURCE.read_bytes()).hexdigest(), "reference_registry_sha256": hashlib.sha256(REGISTRY.read_bytes()).hexdigest()}, "counts": counts, "psychology_patterns": materialized, "icd11_codes": codes, "cartography_outcomes": outcomes, "cartography_factors": factors, "dsm5tr": dsm}
+    return {"schema_version": 2, "reviewed_on": "2026-11-17", "scope": "Décisions explicites sur les 161 repères internes, présence exacte des codes du catalogue CIM-11 et registre documentaire des neuf lots. Pas de validation clinique individuelle ni de lecture complète du DSM-5-TR.", "method": decisions["method"], "input_fingerprints": {"cartography_core_sha256": fingerprint({key: data[key] for key in ("factors", "outcomes", "retired_outcomes", "links", "protections")}), **{name + "_sha256": hashlib.sha256((ROOT / ("data/" + name + ".json")).read_bytes()).hexdigest() for name in ("psychology_catalog", "clinical_catalog")}, "semantic_decisions_sha256": hashlib.sha256(SOURCE.read_bytes()).hexdigest(), "reference_registry_sha256": hashlib.sha256(REGISTRY.read_bytes()).hexdigest()}, "counts": counts, "psychology_patterns": materialized, "icd11_codes": codes, "cartography_outcomes": outcomes, "cartography_factors": factors, "dsm5tr": dsm}
 
 
 def main():

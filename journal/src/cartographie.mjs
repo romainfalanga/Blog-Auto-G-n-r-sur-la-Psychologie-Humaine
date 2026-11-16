@@ -13,7 +13,7 @@ const AMBRE_TARGETS=['factor','outcome','general'];
 const plainObject=v=>Boolean(v)&&typeof v==='object'&&!Array.isArray(v)&&Object.getPrototypeOf(v)===Object.prototype;
 const index=(data=CARTOGRAPHIE)=>{
  if(index.cache?.data===data)return index.cache;
- const value={data,factors:new Map(data.factors.map(f=>[f.id,f])),outcomes:new Map(data.outcomes.map(o=>[o.id,o])),protections:new Map((data.protections||[]).map(p=>[p.id,p]))};
+ const value={data,factors:new Map(data.factors.map(f=>[f.id,f])),outcomes:new Map([...(data.retired_outcomes||[]),...data.outcomes].map(o=>[o.id,o])),protections:new Map((data.protections||[]).map(p=>[p.id,p]))};
  index.cache=value;return value;
 };
 
@@ -76,7 +76,7 @@ export function computeCartography(answers,data=CARTOGRAPHIE){
  const {factors,outcomes}=index(data),level={};for(const [id,value] of Object.entries(answers||{}))if(factors.has(id)&&(value===1||value===2))level[id]=value;
  const weights=data.weights||{forte:3,moderee:2,limitee:1,theorique:1},byOutcome={};
  for(const link of data.links||[])if(Object.hasOwn(level,link.factor))(byOutcome[link.outcome]=byOutcome[link.outcome]||[]).push(link);
- const results=Object.keys(byOutcome).filter(id=>outcomes.has(id)).map(id=>{
+ const results=Object.keys(byOutcome).filter(id=>outcomes.has(id)&&!outcomes.get(id).retired).map(id=>{
   const links=byOutcome[id].slice().sort((a,b)=>weights[b.strength]-weights[a.strength]);
   const empirical=links.filter(l=>!l.definitional&&relationType(l)==='empirical_association');
   const groups=new Set(empirical.filter(l=>STRONG[l.strength]).map(l=>factors.get(l.factor).overlap_group||l.factor));
@@ -89,7 +89,7 @@ export function computeCartography(answers,data=CARTOGRAPHIE){
  return {results,aceCount,selectedCount:Object.keys(level).length};
 }
 
-// Stored notes written by Ambre; entries about identifiers that left the dataset are hidden.
+// Historical identifiers retain their original meaning for saved feedback and notes.
 function storedAmbreNotes(value,data=CARTOGRAPHIE){
  const {factors,outcomes}=index(data);
  return (Array.isArray(value)?value:[]).filter(n=>n&&typeof n.id==='string'&&typeof n.text==='string'&&AMBRE_TARGETS.includes(n.target)&&(n.target==='general'?n.target_id==null:(n.target==='factor'?factors:outcomes).has(n.target_id))).map(n=>({id:n.id,target:n.target,target_id:n.target==='general'?null:n.target_id,text:n.text,created_at:Number(n.created_at)||0}));
@@ -103,6 +103,7 @@ export function chooseAmbreNotes(value,existing=[],data=CARTOGRAPHIE){
   if(!item||!AMBRE_TARGETS.includes(item.target)||typeof item.text!=='string')continue;
   const general=item.target==='general',known=item.target==='factor'?factors:outcomes;
   if(general?item.target_id!=null&&item.target_id!=='':typeof item.target_id!=='string'||!known.has(item.target_id))continue;
+  if(!general&&known.get(item.target_id).retired)continue;
   const text=cleanText(item.text).replace(/\s+/g,' ');
   if(!fold(text)||text.length>AMBRE_NOTE_MAX_LENGTH)continue;
   const note={target:item.target,target_id:general?null:item.target_id,text};
@@ -134,7 +135,7 @@ function diverseResults(items,limit,feedback={}){
 
 export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxConvergence=15,maxPistes=10,notes=null,resources=null,ambreNotes=null}={}){
  const {factors,outcomes,protections}=index(data),state=computeCartography(answers,data),label=id=>factors.get(id)?.label||id;
- const metadata=o=>({...(o.category?{category:o.category}:{}),...(o.note?{note:o.note}:{}),...(o.age_scope?{age_scope:o.age_scope}:{}),...(o.contextual_only?{contextual_only:true}:{})});
+ const metadata=o=>({...(o.category?{category:o.category}:{}),...(o.note?{note:o.note}:{}),...(o.age_scope?{age_scope:o.age_scope}:{}),...(o.contextual_only?{contextual_only:true}:{}),...(o.retired?{retired:true,description:o.description}:{})});
  const item=r=>{
   const empirical=r.links.filter(l=>!l.definitional&&relationType(l)==='empirical_association'),pool=empirical.length?empirical:r.links;
   const max=pool.reduce((best,l)=>STRENGTH_RANK[l.strength]>STRENGTH_RANK[best]?l.strength:best,pool[0].strength);
@@ -162,7 +163,7 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   selection_policy:{order:'evidence_families_then_member_recognition',per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
   // The member's own words, attached to the cause or consequence they annotate.
   notes:[...Object.entries(notes?.factors||{}).filter(([id,text])=>factors.has(id)&&typeof text==='string').map(([id,text])=>({target:'factor',id,label:factors.get(id).label,text})),
-   ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text}))],
+   ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text,...(outcomes.get(id).retired?{retired:true,contextual_only:true}:{})}))],
   resources:Object.keys(resources||{}).filter(id=>protections.has(id)).map(id=>({id,label:protections.get(id).label})),
   ambre_notes:storedAmbreNotes(ambreNotes,data).map(n=>({...n,...(n.target==='general'?{}:{label:(n.target==='factor'?factors:outcomes).get(n.target_id).label})}))
  };
@@ -173,7 +174,7 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
 export function cartographyHighlights(summary,limit=3){
  if(!summary)return [];
  const dismissed=new Set(summary.dismissed.map(d=>d.id)),seen=new Set(),picked=[];
- const add=x=>{if(picked.length<limit&&!seen.has(x.id)&&!dismissed.has(x.id)&&x.note!=='suicide'&&!x.contextual_only){seen.add(x.id);picked.push(x);}};
+ const add=x=>{if(picked.length<limit&&!seen.has(x.id)&&!dismissed.has(x.id)&&x.note!=='suicide'&&!x.contextual_only&&!x.retired){seen.add(x.id);picked.push(x);}};
  const byId=new Map([...summary.convergence,...summary.pistes].map(x=>[x.id,x]));
  for(const r of summary.recognized)if(byId.has(r.id))add(byId.get(r.id));
  for(const x of summary.convergence)add(x);

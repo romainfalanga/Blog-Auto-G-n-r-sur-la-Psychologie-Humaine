@@ -7,7 +7,7 @@
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
   var STRENGTH_ORDER = ['forte', 'critere', 'moderee', 'limitee', 'theorique'];
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
-  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
+  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité (dimension)', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma (modèle clinique)', schema_coping_style: 'Style d’adaptation aux schémas (modèle clinique)', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
   var NOTE_MAX = 1000;
   var DRAFT_KEY = 'cartographie-brouillon-v1';
@@ -31,7 +31,7 @@
     var data = JSON.parse(document.getElementById('cartographie-data').textContent);
     var factors = {}, outcomes = {}, sources = {};
     data.factors.forEach(function (f) { factors[f.id] = f; });
-    data.outcomes.forEach(function (o) { outcomes[o.id] = o; });
+    (data.retired_outcomes || []).concat(data.outcomes).forEach(function (o) { outcomes[o.id] = o; });
     data.sources.forEach(function (s) { sources[s.id] = s; });
     var linksByFactor = {};
     data.links.forEach(function (l) { (linksByFactor[l.factor] = linksByFactor[l.factor] || []).push(l); });
@@ -91,7 +91,7 @@
       if (state.accountReady && !state.conflict && !state.loadError && !state.deleting) saveTimer = setTimeout(save, 700);
     }
     function hasContent() {
-      return Object.keys(state.answers).length || Object.keys(state.resources).length || Object.keys(state.notes.factors).length || Object.keys(state.notes.outcomes).length;
+      return Object.keys(state.answers).length || Object.keys(state.feedback).length || Object.keys(state.resources).length || Object.keys(state.notes.factors).length || Object.keys(state.notes.outcomes).length;
     }
     function api(method, path, body) {
       return fetch('/api/cartographie' + (path || ''), { method: method, credentials: 'same-origin', headers: body ? { 'Content-Type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined })
@@ -370,6 +370,10 @@
       if (general) results.appendChild(el('section', { className: 'carto-ambre-general' }, [el('h3', { className: 'carto-tier-title', text: 'Notes d’Ambre' }), general]));
       if (!s.selectedCount) {
         results.appendChild(el('p', { className: 'carto-empty', text: 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Une réponse « Non » reste enregistrée et ne crée pas d’association.' }));
+        return;
+      }
+      if (!s.results.length) {
+        results.appendChild(el('p', { className: 'carto-empty', text: 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
         return;
       }
       // One list, from the most associated experiences to the fewest; the engine's order breaks ties.

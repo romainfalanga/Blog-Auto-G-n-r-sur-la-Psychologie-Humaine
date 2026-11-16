@@ -36,14 +36,14 @@ test('listening, refusal and closed subjects override an otherwise actionable re
     assert.deepEqual(choose(message),[],message);
   }
   for(const patch of [{need:'listen'},{posture:'listen'},{posture:'stabilize'},{posture:'repair'},
-    {constraints:['no_advice']},{closed_topics:['Je refuse ce sujet']}]) {
+    {constraints:['no_advice']},{constraints:['respect_closed_topics']},{closed_topics:['Je refuse ce sujet']}]) {
     assert.deepEqual(choose('Je voudrais apprendre à dire non.',{analysis:{...analysis(),...patch}}),[]);
   }
   assert.deepEqual(choose('Je veux comprendre mon enfance.',{plan:{...plan(),closed_topics:['enfance']}}),[]);
 });
 
 test('disabled or unavailable plans never produce strategy selections', () => {
-  for(const patch of [{available:false},{proposals_enabled:false},{proposals_enabled:0}]) {
+  for(const patch of [{available:false},{proposals_enabled:false},{proposals_enabled:0},{instruction_review_required:true}]) {
     assert.deepEqual(choose('Je veux retrouver du plaisir.',{plan:{...plan(),...patch}}),[]);
   }
 });
@@ -144,6 +144,15 @@ test('implicit exercises trigger criteria even when the writer omits structured 
   assert.equal(criteria.find(item=>item.id==='C-R8').applicable,false);
 });
 
+test('goal steps trigger exercise checks while a recalled quotation does not', () => {
+  const draft={content:'Cette proposition reste à votre choix.',change_proposals:[{kind:'goal',payload:{title:'Retrouver du plaisir',step_text:'Marcher cinq minutes'}}]};
+  const criteria=changeReviewCriteria({draft});
+  for(const id of ['C-R2','C-R4','C-R6']) assert.equal(criteria.find(item=>item.id===id).applicable,true,id);
+  assert.ok(deterministicChangeReview({analysis:{...analysis(),constraints:['no_advice']},draft}).failed_ids.includes('C-R2'));
+  const listening={content:'Vous avez entendu « essayez de positiver » et vous vous êtes senti seul.'};
+  assert.ok(changeReviewCriteria({draft:listening}).every(item=>!item.applicable));
+});
+
 test('trial reports and relevant professional instructions receive their own checks', () => {
   const criteria=changeReviewCriteria({analysis:{change_signal:{kind:'trial_reported'}},draft:{content:'Cet essai a été pénible.'},
     changeContext:{plan:trialPlan(),private_care_instructions:[{text:'Une consigne privée'}]}});
@@ -184,4 +193,20 @@ test('followup checks the final exact invitation, target and stop/budget control
   assert.ok(deterministicChangeReview({...args,plan:{...current,due_trial:{...current.due_trial,reminder_count:2}}}).failed_ids.includes('C-R8'));
   assert.ok(deterministicChangeReview({...args,draft:{content:quote}}).failed_ids.includes('C-R8'));
   assert.match(CHANGE_SYSTEM_RULES,/jamais une exposition autonome/);
+});
+
+test('the runtime contract includes permissions and critical common exclusions within its budget', () => {
+  assert.ok(CHANGE_SYSTEM_RULES.length<=1600);
+  for(const term of ['P0:','P1:','P2:','P3:','C0:','modification médicamenteuse','restriction alimentaire',
+    'privation de sommeil','TIPP','reconstruction de souvenir','exposition traumatique','sans validation clinique']) {
+    assert.ok(CHANGE_SYSTEM_RULES.includes(term),term);
+  }
+});
+
+
+test('standard hyphenated French requests select the same candidates as spaced requests', () => {
+ const sentence='Pouvez-vous m’aider à retrouver du plaisir dans une activité agréable et commencer une tâche ?';
+ assert.deepEqual(ids(choose(sentence)),ids(choose(sentence.replace('Pouvez-vous','Pouvez vous'))));
+ assert.ok(ids(choose(sentence)).includes('C04'));assert.ok(ids(choose(sentence)).includes('C05'));
+ assert.ok(ids(choose('Aide-moi à commencer une tâche.')).includes('C05'));
 });

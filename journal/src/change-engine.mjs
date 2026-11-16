@@ -11,13 +11,16 @@ export const CHANGE_ANALYSIS_FIELDS={strategy_ids:{type:'array',maxItems:2,items
 export const CHANGE_DRAFT_FIELDS={change_proposals:{type:'array',maxItems:1,items:object({kind:{type:'string',enum:['goal','step','trial','result']},target_id:nullable,quote:text,payload:object({title:text,why:text,step_text:text,text,measure:text,strategy_id:nullable,result_text:text})})},followup:{...object({trial_id:text,quote:text}),type:['object','null']}};
 export const CHANGE_REVIEW_FIELD={type:'array',maxItems:8,items:object({id:{type:'string',enum:Array.from({length:8},(_,i)=>'C-R'+(i+1))},verdict:{type:'string',enum:['pass','fail','not_applicable','not_checked']}})};
 export const CHANGE_DRAFT_RULES='change_proposals : zéro ou une proposition, jamais un choix adopté. kind goal (title/why/step_text/strategy_id), step (target_id objectif, text/measure/strategy_id), trial (target_id étape), result (target_id essai, result_text citation exacte du message). quote exacte du message actuel, 240 caractères au plus ; autres champs inutilisés vides. Aucun compteur, état, date, autorisation ou adoption décidés par le modèle. Une ambiguïté ne crée rien. followup=null sauf invitation facultative au seul due_trial admissible ; donner trial_id et quote exacte de cette invitation dans la réponse finale (300 caractères au plus). Une réécriture doit fournir son propre followup. Aucun enregistrement ou engagement annoncé.';
+// Reopening is local to the present request; it never clears durable refusals or reminder preferences.
+export function explicitlyReopensChange(message){const value=String(message||'').normalize('NFD').replace(/\p{M}/gu,'').toLowerCase().replace(/[’']/g,' ').replace(/«[^»]*»|"[^"]*"/g,' ');return /\b(?:je (?:veux|voudrais|souhaite|aimerais) (?:reparler|rouvrir|explorer|comprendre)|(?:aide moi|aidez moi|pouvez vous m aider) a (?:explorer|comprendre|reparler))\b.{3,}/.test(value)}
 export async function loadChangeContext(env,userId,message,now,options={}){
  const state=await readChangeState(env,userId),plan=compactChangeContext(state,message,now,options),instructions=privateCareInstructions(state,plan);
  if(instructions.requires_session_check)plan.instruction_review_required=true;
+ if(plan.exploration_reconsent_required&&explicitlyReopensChange(message))plan.current_topic_reopened=true;
  return {state,context:{plan,private_care_instructions:instructions.items||[],instructions_omitted:instructions.omitted||0,strategies:[],due_trial:plan.due_trial||null},catalogue_version:CHANGE_STRATEGIES.version};
 }
 export function changeBlocked(analysis,plan={}){
- return !plan.available||!plan.proposals_enabled||plan.instruction_review_required||plan.exploration_reconsent_required||analysis.risk!=='none'||['listen','stabilize','repair','safety'].includes(analysis.posture)||analysis.need==='listen'||(analysis.constraints||[]).some(x=>['no_advice','no_exploration','respect_closed_topics'].includes(x));
+ return !plan.available||!plan.proposals_enabled||plan.instruction_review_required||(plan.exploration_reconsent_required&&!plan.current_topic_reopened)||analysis.risk!=='none'||['listen','stabilize','repair','safety'].includes(analysis.posture)||analysis.need==='listen'||(analysis.constraints||[]).some(x=>['no_advice','no_exploration','respect_closed_topics'].includes(x));
 }
 export function changeCandidates(message,context,analysis,care){return changeBlocked(analysis,context.plan)?[]:selectChangeCandidates({message,plan:context.plan,care,analysis})}
 export function analyzeChange(ai,{message,analysis,context,candidates}){
@@ -36,7 +39,7 @@ export function changeInputRefs(input){
 }
 const bounded=(value,max)=>typeof value==='string'&&value.length<=max&&!/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/.test(value)?value.trim():null;
 export function prepareChangeDraft(output,{message,analysis,context}){
- const result={change_proposals:[],followup:null,change_errors:[]},blocked=changeBlocked(analysis,context.plan),proposed=output.change_proposals||[];
+ const result={change_proposals:[],followup:null,change_errors:[]},blocked=changeBlocked(analysis,context.plan)||context.disabled_reason||context.active===false,proposed=output.change_proposals||[];
  if(!Array.isArray(proposed)||proposed.length>1){result.change_errors.push('C-R2');return result}
  for(const proposal of proposed){
   const quote=bounded(proposal?.quote,240),payload=proposal?.payload||{},kind=proposal?.kind,target=proposal?.target_id||null,p={};
@@ -56,8 +59,11 @@ export function prepareChangeDraft(output,{message,analysis,context}){
 }
 export function changeReviewInput(analysis,draft,context){return changeReviewCriteria({analysis,draft,changeContext:context})}
 export function reviewChange(verdicts,{analysis,draft,message,context,candidates=[]}){
- const criteria=changeReviewInput(analysis,draft,context),base=normalizeChangeReview(verdicts,criteria),deterministic=deterministicChangeReview({analysis,draft,message,plan:context.plan,candidates,changeContext:context});
- const failed=[...new Set([...(base.failed_ids||[]),...(deterministic.failed_ids||[]),...(draft.change_errors||[])])];
+ const semanticFailures=new Set((Array.isArray(verdicts)?verdicts:[]).filter(x=>x?.verdict==='fail').map(x=>x.id));
+ // The reviewer may discover an implicit exercise missed by deterministic detection; a failure can activate a criterion, a pass cannot.
+ const criteria=changeReviewInput(analysis,draft,context).map(x=>semanticFailures.has(x.id)?{...x,applicable:true}:x),base=normalizeChangeReview(verdicts,criteria),deterministic=deterministicChangeReview({analysis,draft,message,plan:context.plan,candidates,changeContext:context});
+ const inactiveExercise=(context.active===false||context.disabled_reason||changeBlocked(analysis,context.plan))&&criteria.some(x=>x.id==='C-R4'&&x.applicable);
+ const failed=[...new Set([...(inactiveExercise?['C-R1','C-R2']:[]),...(base.failed_ids||[]),...(deterministic.failed_ids||[]),...(draft.change_errors||[])])];
  return {...base,failed_ids:failed,passed:failed.length?false:base.passed};
 }
 export async function changePublication(env,userId,{context,draft,analysis,message,turnId,now,random,guard,guardArgs}){

@@ -15,8 +15,14 @@ Les révisions de sources sont contrôlées avant génération, à la publicatio
 
 Les dépendances des objets de plan effectivement transmis au fournisseur sont enregistrées dans la même transaction que chaque lot de point, même si le fournisseur n’en cite aucun. Une perte de garde n’écrit ni le point ni ses dépendances.
 
+L’export du compte revérifie également les sources, le partage et la séance des points prêts. Un contenu périmé n’est pas exporté, même si personne n’a encore rouvert le point depuis sa modification ; la dernière lecture SQL est gardée contre une mutation concurrente.
+
 L’interface explique avant partage que la révocation bloque les consultations ultérieures sans reprendre un document déjà téléchargé, copié ou capturé. Une lecture refusée ou la détection d’un changement de périmètre retire les copies visibles du dossier. L’écran ouvert revérifie le partage toutes les 30 secondes ; le contrôle serveur s’applique à chaque requête sans attendre ce rafraîchissement.
 
 ## Vérification
 
-Tests ciblés en cours d’écriture dans `journal/tests/care-change.test.mjs`, puis reprise complète de la suite care historique. Aucun déploiement réalisé par ce chantier isolé ; l’intégration et la recette d’ensemble restent à réaliser par l’agent principal.
+`node --test journal/tests/care.test.mjs journal/tests/care-change.test.mjs` : **38 tests réussis, aucun échec** (22 historiques, 16 nouveaux, plusieurs avec variantes de course). Couverture : sept périmètres sans ajout aux liens anciens ; JSON malformé et champs privés imbriqués ; isolation et lecture seule ; pagination de 69 objets ; sources réellement partagées et dépendances ; révocation/réduction pendant génération ; modification/suppression physique pendant lecture ou publication ; export périmé et concurrent ; hypothèses non promues en faits ; migration indisponible ; affichage personnel sans liaison et cases non sélectionnées par défaut.
+
+La vérification de toutes les sources historiques inclut maintenant un objectif adopté réel, soit huit sources correspondant aux sept périmètres (le portrait a deux sources distinctes). Le test ne fige donc pas silencieusement le comportement antérieur à six périmètres.
+
+Syntaxe du module serveur et du script navigateur embarqué vérifiée ; aucune erreur de whitespace dans les modifications contrôlées. Aucun déploiement réalisé par ce chantier isolé ; l’intégration et la recette d’ensemble restent à réaliser par l’agent principal.

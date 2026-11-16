@@ -60,6 +60,22 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
   await check('connected first answer autosaves with consent and explicit Non survives a reload',async()=>{
    const {page,context,server}=await pageFor();await select(page,'abus_physique',0);await saved(page);assert.equal(server.puts.length,1);assert.equal(server.puts[0].consent,true);assert.equal(server.map.answers.abus_physique,0);assert.equal(await page.locator('.carto-card').count(),0);await page.reload();await page.locator('.carto-theme-panel').first().waitFor();await opened(page);assert.equal(await page.locator('[data-factor="abus_physique"] [data-level="0"]').getAttribute('aria-pressed'),'true');assert.equal(await page.locator('.carto-theme-panel[open]').count(),1);assert.deepEqual(server.errors,[]);await context.close();
   });
+  await check('stored retired feedback and notes survive editing without moving to a new card',async()=>{
+   const map=fixture({abus_physique:1});map.feedback={att_desorganise:'oui',icd_6b81:'oui',pat_migration_adjustment:'non'};map.notes.outcomes={att_desorganise:'Mon vécu adulte enregistré.'};
+   const {page,context,server}=await pageFor({map});await select(page,'abus_physique',2);await saved(page);
+   assert.deepEqual(server.map.feedback,map.feedback);assert.deepEqual(server.map.notes,map.notes);
+   assert.equal(Object.hasOwn(server.map.feedback,'att_desorganisation_enfant'),false);assert.equal(Object.hasOwn(server.map.feedback,'icd_6b81_boulimie'),false);
+   assert.equal(await page.locator('[data-focus="feedback:att_desorganise:oui"]').count(),0);
+   await page.reload();await saved(page);assert.deepEqual(server.map.feedback,map.feedback);assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('anonymous drafts retain historical identifiers and unlinked experiences show an honest empty state',async()=>{
+   const draft={answers:{},feedback:{att_desorganise:'oui'},notes:{factors:{},outcomes:{att_desorganise:'Ancienne note.'}},resources:{}};
+   const {page,context,server}=await pageFor({anonymous:true,draft});await select(page,'migration',1);
+   const stored=await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')));
+   assert.deepEqual(stored.feedback,draft.feedback);assert.deepEqual(stored.notes,draft.notes);assert.equal(stored.answers.migration,1);
+   assert.equal(await page.locator('.carto-card').count(),0);assert.match(await page.locator('[data-results]').innerText(),/Aucun rapprochement suffisamment documenté/);
+   assert.equal(server.puts.length,0);assert.deepEqual(server.errors,[]);await context.close();
+  });
   await check('reselecting a saved answer creates no pending draft or conflict after reload',async()=>{
    const {page,context,server}=await pageFor({map:fixture({critique:2})});await select(page,'critique',2);assert.equal(await page.evaluate(()=>localStorage.getItem('cartographie-brouillon-v1:synthetic-member')),null);await page.reload();await saved(page);await page.waitForTimeout(900);assert.equal(server.puts.length,0);assert.equal(await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).count(),0);assert.equal(server.map.answers.critique,2);assert.deepEqual(server.errors,[]);await context.close();
   });

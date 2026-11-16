@@ -30,7 +30,7 @@ export function createChangeBackend({error,json,body,now,random,limit}){
   const collection=url.searchParams.get('collection'),offset=Math.max(0,Math.floor(Number(url.searchParams.get('offset'))||0)),document=state.document;
   if(collection&&!PLAN_COLLECTIONS.includes(collection))fail(400,'Rubrique inconnue.');
   const selected=collection?[collection]:PLAN_COLLECTIONS;
-  const result={available:state.available,...changeControl(state),updated_at:state.updated_at,timezone:'Europe/Paris',limits:PLAN_LIMITS,counts:Object.fromEntries(PLAN_COLLECTIONS.map(key=>[key,document[key].length])),next_offsets:{}};
+  const result={schema_version:1,available:state.available,...changeControl(state),updated_at:state.updated_at,timezone:'Europe/Paris',limits:PLAN_LIMITS,counts:Object.fromEntries(PLAN_COLLECTIONS.map(key=>[key,document[key].length])),next_offsets:{}};
   for(const key of selected){const start=collection?offset:0;result[key]=document[key].slice(start,start+50);result.next_offsets[key]=document[key].length>start+50?start+50:null}
   return result;
  }
@@ -42,7 +42,7 @@ export function createChangeBackend({error,json,body,now,random,limit}){
  }
  function trialFields(data,old={}){
   const status=choice(data.status,['planned','reported','cancelled'],old.status||'planned'),followup=bool(data.followup_opt_in,old.followup_opt_in||false);
-  if(old.status==='reported'&&status==='planned')fail(400,'Créez un nouvel essai pour répéter cette étape ; votre résultat précédent reste conservé.');
+  if(old.status==='reported'&&status!=='reported')fail(400,'Créez un nouvel essai pour répéter cette étape ; votre résultat précédent reste conservé.');
   const mode=followup?choice(data.review_mode,['none','on_date','next_conversation'],old.review_mode||'none'):'none',reviewOn=day(data.review_on===undefined?old.review_on:data.review_on);
   if(followup&&(mode==='none'||mode==='on_date'&&!reviewOn))fail(400,'Choisissez quand Ambre pourra revenir sur cet essai.');
   const result={status,planned_on:day(data.planned_on===undefined?old.planned_on:data.planned_on),occurred_on:day(data.occurred_on===undefined?old.occurred_on:data.occurred_on),occurred_at:null,timing_note:text(data.timing_note??old.timing_note,240),followup_opt_in:status==='planned'&&followup,review_mode:status==='planned'?mode:'none',review_on:mode==='on_date'?reviewOn:null};
@@ -171,7 +171,7 @@ export function createChangeBackend({error,json,body,now,random,limit}){
       if(edited.step_text){const step=addStep(document,chosen.id,{text:edited.step_text,strategy_id:edited.strategy_id,measure:edited.measure},'chosen_proposal');if(data.create_trial===true)addTrial(document,step.id,data,'chosen_proposal')}
      }else if(proposal.kind==='step'){chosen=addStep(document,proposal.target_id,edited,'chosen_proposal');entityKind='steps';if(data.create_trial===true)addTrial(document,chosen.id,data,'chosen_proposal')}
      else if(proposal.kind==='trial'){chosen=addTrial(document,proposal.target_id,data,'chosen_proposal');entityKind='trials'}
-     else if(proposal.kind==='result'){chosen=get(document,'trials',proposal.target_id);const old=JSON.stringify(chosen);stamp(chosen,trialFields({...edited,...data,status:'reported'},chosen));if(old!==JSON.stringify(chosen))changedContents.push(chosen.id);entityKind='trials'}
+     else if(proposal.kind==='result'){chosen=get(document,'trials',proposal.target_id);const fields=trialFields({...edited,...data,status:'reported'},chosen);if(['attempt','result_text','outcome','adverse_effect_text','occurred_on'].some(key=>fields[key]!==chosen[key]))changedContents.push(chosen.id);stamp(chosen,fields);entityKind='trials'}
      else fail(400,'Proposition inconnue.');
      entityId=chosen.id;stamp(proposal,{status:'accepted',resolved_id:chosen.id,resolved_kind:entityKind,resolved_at:now(),payload:null,source_quote:null});
     }
@@ -193,6 +193,6 @@ export function createChangeBackend({error,json,body,now,random,limit}){
   const result=await save(env,state,document,{data,controls,receiptInfo,entityKind,entityId,removed,changedContents});
   return json({...visible(result.state),entity_kind:entityKind||undefined,entity_id:entityId||undefined,...(result.continuity_reset?{continuity_reset:true}:{}),...(result.removed?{removed:result.removed,retained:result.retained}:{})},method==='POST'?201:200);
  }
- async function exportData(env,userId){const state=await readChangeState(env,userId);return {change_plan:state.available?{...changeControl(state),updated_at:state.updated_at,limits:PLAN_LIMITS,...state.document}:null}}
+ async function exportData(env,userId){const state=await readChangeState(env,userId);return {change_plan:state.available?{schema_version:1,...changeControl(state),updated_at:state.updated_at,limits:PLAN_LIMITS,...state.document}:null}}
  return {routes,exportData,preparation,visible};
 }

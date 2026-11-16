@@ -41,7 +41,7 @@
       "outcome": "ten_maladies_cardiovasculaires",
       "strength": "moderee",
       "relation_type": "empirical_association",
-      "summary": "Dans une cohorte britannique adulte, les violences physiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les données restent observationnelles et rétrospectives.",
+      "summary": "Dans une cohorte britannique adulte, les violences physiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
       "sources": [
         "soares2022_cardiovasculaire"
       ]
@@ -51,7 +51,7 @@
       "outcome": "ten_maladies_cardiovasculaires",
       "strength": "moderee",
       "relation_type": "empirical_association",
-      "summary": "Dans une cohorte britannique adulte, les violences sexuelles infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les données restent observationnelles et rétrospectives.",
+      "summary": "Dans une cohorte britannique adulte, les violences sexuelles infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
       "sources": [
         "soares2022_cardiovasculaire"
       ]
@@ -61,7 +61,7 @@
       "outcome": "ten_maladies_cardiovasculaires",
       "strength": "moderee",
       "relation_type": "empirical_association",
-      "summary": "Dans une cohorte britannique adulte, les violences psychologiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les données restent observationnelles et rétrospectives.",
+      "summary": "Dans une cohorte britannique adulte, les violences psychologiques infantiles déclarées sont associées à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
       "sources": [
         "soares2022_cardiovasculaire"
       ]
@@ -71,7 +71,7 @@
       "outcome": "ten_maladies_cardiovasculaires",
       "strength": "moderee",
       "relation_type": "empirical_association",
-      "summary": "Dans une cohorte britannique adulte, la négligence physique infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les données restent observationnelles et rétrospectives.",
+      "summary": "Dans une cohorte britannique adulte, la négligence physique infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
       "sources": [
         "soares2022_cardiovasculaire"
       ]
@@ -81,7 +81,7 @@
       "outcome": "ten_maladies_cardiovasculaires",
       "strength": "moderee",
       "relation_type": "empirical_association",
-      "summary": "Dans une cohorte britannique adulte, la négligence affective infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les données restent observationnelles et rétrospectives.",
+      "summary": "Dans une cohorte britannique adulte, la négligence affective infantile déclarée est associée à une hausse modeste des maladies cardiovasculaires. Les vécus sont recueillis rétrospectivement.",
       "sources": [
         "soares2022_cardiovasculaire"
       ]

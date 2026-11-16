@@ -707,6 +707,9 @@ test('withdrawal stops automatic notes and conversation deletion removes saved o
  assert.equal(cleared.people_observations_enabled,false);
  assert.deepEqual((await s.call(milaObservations)).observations,[]);
  await ready(s);
+ assert.equal((await message(s,'before_new_initial',milaQuote)).code,'journey_not_started');
+ assert.equal(s.raw.prepare("SELECT content FROM ambre_reviews WHERE id='seed-a'").get().content,'');
+ s.raw.prepare("DELETE FROM ambre_reviews WHERE id='seed-a'").run();await ready(s);
  assert.equal((await message(s,'notes_after_purge',milaQuote)).last_request.status,'completed');
  assert.equal((await s.call(milaObservations)).observations.length,1);
 });

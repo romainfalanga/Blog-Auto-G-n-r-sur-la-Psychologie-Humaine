@@ -205,6 +205,20 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
   }
   fail(404,'Route inconnue.','not_found');
  }
- async function exportData(env,userId){return {care_settings:await first(env,'SELECT * FROM care_settings WHERE user_id=?',userId),professional_profile:await first(env,'SELECT * FROM professional_profiles WHERE user_id=?',userId),care_links:(await all(env,'SELECT * FROM care_links WHERE user_id=? ORDER BY created_at DESC LIMIT 1000',userId)).map(({code_hash,...row})=>row),care_sessions:await all(env,'SELECT * FROM care_sessions WHERE user_id=? ORDER BY session_at LIMIT 500',userId),care_access_log:await all(env,'SELECT id,action,scope,created_at FROM care_access_log WHERE user_id=? ORDER BY created_at DESC LIMIT 10000',userId),care_briefs:await all(env,'SELECT id,session_id,status,content,coverage,created_at FROM care_briefs WHERE user_id=? ORDER BY created_at DESC LIMIT 1000',userId)}}
+ async function exportData(env,userId){
+  const briefs=await all(env,'SELECT * FROM care_briefs WHERE user_id=? ORDER BY created_at DESC LIMIT 1000',userId),safe=[];
+  for(const brief of briefs){
+   let current=null;
+   if(brief.status==='ready'){
+    const link=await first(env,"SELECT * FROM care_links WHERE id=? AND user_id=? AND status='active' AND revision=?",brief.link_id,userId,brief.link_revision),session=await first(env,'SELECT * FROM care_sessions WHERE id=? AND user_id=? AND revision=?',brief.session_id,userId,brief.session_revision);
+    if(link&&session){const state=await sourceState(env,link,session);if(state.stamp===brief.source_hash){
+     const guards=state.entries.map(()=>"COALESCE((SELECT revision FROM care_source_revisions WHERE user_id=? AND scope=?),0)=?").join(' AND '),args=state.entries.flatMap(([scope,revision])=>[userId,scope,revision]);
+     current=await first(env,`SELECT b.content FROM care_briefs b JOIN care_links l ON l.id=b.link_id JOIN care_sessions s ON s.id=b.session_id WHERE b.id=? AND b.user_id=? AND b.status='ready' AND b.source_hash=? AND l.status='active' AND l.revision=b.link_revision AND s.revision=b.session_revision AND ${guards} AND COALESCE((SELECT max(session_at) FROM care_sessions WHERE user_id=? AND session_at<?),0)=?`,brief.id,userId,brief.source_hash,...args,userId,session.session_at,state.since);
+    }}
+   }
+   safe.push({id:brief.id,session_id:brief.session_id,status:brief.status==='ready'&&!current?'failed':brief.status,content:current?.content||'',coverage:brief.coverage,created_at:brief.created_at});
+  }
+  return {care_settings:await first(env,'SELECT * FROM care_settings WHERE user_id=?',userId),professional_profile:await first(env,'SELECT * FROM professional_profiles WHERE user_id=?',userId),care_links:(await all(env,'SELECT * FROM care_links WHERE user_id=? ORDER BY created_at DESC LIMIT 1000',userId)).map(({code_hash,...row})=>row),care_sessions:await all(env,'SELECT * FROM care_sessions WHERE user_id=? ORDER BY session_at LIMIT 500',userId),care_access_log:await all(env,'SELECT id,action,scope,created_at FROM care_access_log WHERE user_id=? ORDER BY created_at DESC LIMIT 10000',userId),care_briefs:safe};
+ }
  return {routes,resume,exportData,processBrief,queueBrief};
 }

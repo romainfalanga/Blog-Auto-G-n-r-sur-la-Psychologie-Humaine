@@ -10,6 +10,17 @@
    "id": "icd_6b81_boulimie",
    "kind": "trouble",
    "domain": "comportements"
+  },
+  {
+   "id": "att_desorganisation_enfant",
+   "kind": "attachement",
+   "category": "attachment_pattern",
+   "domain": "relations",
+   "label": "Attachement désorganisé chez le jeune enfant",
+   "description": "Organisation des comportements d’attachement du jeune enfant envers la personne qui s’occupe de lui, évaluée dans des contextes spécifiques. Ce repère ne définit pas un style amoureux adulte.",
+   "contextual_only": true,
+   "age_scope": "young_child_only",
+   "note": "jeune_enfant"
   }
  ],
  "links": [
@@ -102,6 +113,99 @@
    "sources": [
     "palmierclaus2016"
    ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "att_desorganisation_enfant",
+   "strength": "moderee",
+   "summary": "Dans une méta-analyse chez les jeunes enfants maltraités, la désorganisation de l’attachement est plus fréquente. Les données ne permettent pas d’assimiler ce résultat à un style amoureux adulte ni d’isoler partout les seules violences physiques.",
+   "sources": [
+    "cyr2010"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "imprevisibilite",
+   "outcome": "att_desorganisation_enfant",
+   "strength": "moderee",
+   "summary": "Chez les nourrissons, une méta-analyse relie des comportements parentaux atypiques ou effrayants à davantage de désorganisation de l’attachement. Il ne s’agit pas de toute imprévisibilité familiale ni d’un style amoureux adulte.",
+   "sources": [
+    "madigan2006"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "att_desorganisation_enfant",
+   "strength": "moderee",
+   "summary": "Une méta-analyse associe la maltraitance infantile, incluant des situations de négligence, à davantage d’attachement désorganisé chez l’enfant. Ce résultat ne décrit pas un style amoureux adulte.",
+   "sources": [
+    "cyr2010"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "att_desorganisation_enfant",
+   "strength": "limitee",
+   "summary": "Une ancienne méta-analyse chez les moins de trois ans associe la dépression maternelle à un peu plus d’attachement désorganisé. Le résultat ne concerne pas tous les troubles parentaux et ne mesure pas l’attachement amoureux adulte.",
+   "sources": [
+    "martins2000"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "soins_instables",
+   "outcome": "att_desorganisation_enfant",
+   "strength": "moderee",
+   "summary": "Les travaux sur l’institutionnalisation décrivent davantage de difficultés d’attachement chez les jeunes enfants. Ils ne permettent pas d’assimiler toute garde changeante à une institution, ni d’inférer un style amoureux adulte.",
+   "sources": [
+    "vanijzendoorn2020"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "summary": "Les personnes ayant un trouble de la personnalité borderline rapportent plus souvent des adversités dans l'enfance, dont les violences physiques ; les études rétrospectives dominent.",
+   "sources": [
+    "porter2020"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "summary": "Les violences sexuelles sont associées au trouble de la personnalité borderline, mais la qualité des méta-analyses sur ce point est jugée faible.",
+   "sources": [
+    "hailes2019",
+    "porter2020"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "summary": "Les violences psychologiques font partie des adversités les plus fréquemment rapportées par les personnes ayant un trouble de la personnalité borderline, dans des études surtout rétrospectives.",
+   "sources": [
+    "porter2020",
+    "xiao2023"
+   ],
+   "relation_type": "empirical_association"
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "summary": "La négligence fait partie des adversités les plus rapportées par les personnes ayant un trouble de la personnalité borderline, dans des études surtout rétrospectives.",
+   "sources": [
+    "porter2020",
+    "xiao2023"
+   ],
+   "relation_type": "empirical_association"
   }
  ],
  "sources": [],

@@ -6,10 +6,10 @@ export const PLAN_COLLECTIONS=['goals','steps','trials','proposals','preparation
 const parse=(value,fallback={})=>{try{return JSON.parse(value)}catch{return fallback}};
 const clone=value=>JSON.parse(JSON.stringify(value));
 const missingTable=error=>/no such table:\s*change_plans/i.test(String(error?.message||''));
-export const emptyPlan=()=>Object.fromEntries(PLAN_COLLECTIONS.map(key=>[key,[]]));
+export const emptyPlan=()=>({schema_version:1,...Object.fromEntries(PLAN_COLLECTIONS.map(key=>[key,[]]))});
 export function planDocument(value){
  const document=typeof value==='string'?parse(value):value||{};
- return Object.fromEntries(PLAN_COLLECTIONS.map(key=>[key,Array.isArray(document[key])?document[key]:[]]));
+ return {schema_version:1,...Object.fromEntries(PLAN_COLLECTIONS.map(key=>[key,Array.isArray(document[key])?document[key]:[]]))};
 }
 export async function readChangeState(env,userId){
  try{
@@ -69,13 +69,15 @@ export function compactChangeContext(state,message,now,options={}){
  const refs=[];
  const pick=(kind,item,fields)=>{if(!item)return null;refs.push({kind,id:item.id,revision:item.revision});return Object.fromEntries(['id','revision',...fields].filter(k=>item[k]!==undefined).map(k=>[k,item[k]]))};
  const context={available:true,...changeControl(state),timezone:'Europe/Paris',goals:goals.map(x=>pick('goals',x,['title','why','priority','status'])),step:pick('steps',step,['goal_id','text','strategy_id','measure','status']),trial:pick('trials',trial,['step_id','status','attempt','result_text','outcome','adverse_effect_text','occurred_on','planned_on']),due_trial:pick('trials',due,['step_id','step_snapshot','review_mode','review_on','reminder_count'])};
+ const withDependencies=()=>{const used=new Set([...context.goals.map(x=>x.id),context.step?.id,context.trial?.id,context.due_trial?.id].filter(Boolean));return {...context,dependencies:refs.filter((ref,i,list)=>used.has(ref.id)&&list.findIndex(x=>x.id===ref.id)===i)}};
+ const overBudget=()=>JSON.stringify(withDependencies()).length>1800;
  // Remove whole optional blocks. Permissions and restrictions are never clipped.
- for(const key of ['trial','step'])if(JSON.stringify(context).length>1800)context[key]=null;
- while(context.goals.length>1&&JSON.stringify(context).length>1800)context.goals.pop();
- if(JSON.stringify(context).length>1800)context.goals=context.goals.map(({id,revision,title,status})=>({id,revision,title,status}));
- if(context.due_trial&&JSON.stringify(context).length>1800){context.due_trial=null;context.followup_omitted=true}
- const used=new Set([...context.goals.map(x=>x.id),context.step?.id,context.trial?.id,context.due_trial?.id].filter(Boolean));
- return {...context,dependencies:refs.filter((ref,i,list)=>used.has(ref.id)&&list.findIndex(x=>x.id===ref.id)===i)};
+ for(const key of ['trial','step'])if(overBudget())context[key]=null;
+ while(context.goals.length>1&&overBudget())context.goals.pop();
+ if(overBudget())context.goals=context.goals.map(({id,revision,title,status})=>({id,revision,title,status}));
+ if(context.due_trial&&overBudget()){context.due_trial=null;context.followup_omitted=true}
+ while(context.goals.length&&overBudget())context.goals.pop();
+ return withDependencies();
 }
 export function privateCareInstructions(state,compact){
  if(!state.available)return {items:[],omitted:0};
@@ -105,7 +107,7 @@ export function invalidateChangeArtifacts(env,userId,ids,mutation,{cutoff=false,
  statements.push(stmt(`UPDATE chat_turns SET response='' WHERE user_id=? AND id IN (${ref}'turn') AND ${guard.sql}`,userId,userId,selected,...guard.args));
  statements.push(stmt(`DELETE FROM chat_turn_traces WHERE user_id=? AND turn_id IN (${ref}'turn') AND ${guard.sql}`,userId,userId,selected,...guard.args));
  statements.push(stmt(`DELETE FROM chat_engine_jobs WHERE user_id=? AND turn_id IN (${ref}'turn') AND ${guard.sql}`,userId,userId,selected,...guard.args));
- statements.push(stmt(`UPDATE care_briefs SET status='revoked',content='',notes='[]',lease_token=NULL,lease_until=0,updated_at=? WHERE user_id=? AND (id IN (${ref}'brief') OR link_id IN (SELECT id FROM care_links WHERE user_id=? AND EXISTS(SELECT 1 FROM json_each(scopes) WHERE value='plan'))) AND ${guard.sql}`,now,userId,userId,selected,userId,...guard.args));
+ statements.push(stmt(`UPDATE care_briefs SET status='revoked',content='',notes='[]',lease_token=NULL,lease_until=0,updated_at=? WHERE user_id=? AND id IN (${ref}'brief') AND ${guard.sql}`,now,userId,userId,selected,...guard.args));
  if(cutoff){
   statements.push(stmt(`DELETE FROM chat_memory WHERE user_id=? AND ${guard.sql}`,userId,...guard.args));
   statements.push(stmt(`DELETE FROM chat_memory_jobs WHERE user_id=? AND ${guard.sql}`,userId,...guard.args));

@@ -63,10 +63,16 @@ test('published dataset is consistent', () => {
     assert.ok(outcomes.has(l.outcome), l.outcome);
     assert.ok(l.sources.length > 0 && l.sources.every(s => sources.has(s)), `${l.factor}->${l.outcome}`);
     assert.ok(!/\d+\s?%/.test(l.summary), 'no individual percentages');
+    assert.ok(l.summary.length<=350, `${l.factor}->${l.outcome} stays within the reading budget`);
   }
   for (const o of data.outcomes) assert.ok(!/^icd_6a0[0-5]/.test(o.id), `${o.id} must not be linked to upbringing`);
   const all = compute(data, data.factors.map(f => f.id));
   assert.ok(all.results.length === outcomes.size);
+  assert.strictEqual(data.groups.length,6);
+  assert.ok(data.factors.length<=72);
+  for(const group of data.groups)assert.ok(data.factors.filter(f=>f.group===group.id).length<=14);
+  assert.ok(fs.statSync(path.join(__dirname,'../journal/src/cartographie.generated.mjs')).size<500000);
+  for(const o of data.retired_outcomes){assert.ok(o.retired&&o.contextual_only);assert.ok(!outcomes.has(o.id));assert.ok(!all.results.some(r=>r.outcome.id===o.id));}
 });
 
 test('definitional feelings do not create a convergence on their own', () => {
@@ -117,10 +123,14 @@ test('overlapping experiences count as one family and never increase the stronge
 
 test('coverage reports exact denominators without turning reference presence into diagnosis coverage', () => {
   const data=JSON.parse(fs.readFileSync(path.join(__dirname,'..','data','cartographie.json'),'utf8'));
-  assert.strictEqual(data.outcomes.length,82);
+  const catalog=JSON.parse(fs.readFileSync(path.join(__dirname,'..','data','clinical_catalog.json'),'utf8'));
+  const catalogCodes=new Set(catalog.codes.map(c=>c.code));
+  const exactCodes=[...new Set(data.outcomes.map(o=>o.code).filter(code=>catalogCodes.has(code)))].sort();
+  assert.strictEqual(data.coverage.outcomes,data.outcomes.length);
   assert.strictEqual(data.coverage.young_schemas.represented_count,18);
   assert.strictEqual(data.coverage.icd11.catalog_codes,858);
-  assert.strictEqual(data.coverage.icd11.exact_code_count,19);
+  assert.deepStrictEqual(data.coverage.icd11.exact_code_references,exactCodes);
+  assert.strictEqual(data.coverage.icd11.exact_code_count,exactCodes.length);
   assert.strictEqual(data.coverage.dsm5tr.complete,false);
   assert.strictEqual(data.coverage.psychology_catalog.catalog_patterns,161);
   const review=data.coverage.psychology_catalog.semantic_review;
@@ -132,8 +142,29 @@ test('coverage reports exact denominators without turning reference presence int
   assert.strictEqual(audit.icd11_codes.length,858);
   const targets=new Set([...data.factors,...data.outcomes,...data.protections].map(x=>x.id));
   for(const p of audit.psychology_patterns){assert.ok(p.reason.length>30);for(const t of p.targets)assert.ok(targets.has(t.id),t.id);}
-  assert.strictEqual(data.coverage.icd11.not_exactly_referenced_count,839);
+  assert.strictEqual(data.coverage.icd11.not_exactly_referenced_count,catalogCodes.size-exactCodes.length);
   assert.ok(data.links.filter(l=>l.outcome==='sch_negativite').every(l=>l.relation_type==='clinical_model'&&l.strength==='theorique'));
   const definitions=new Set(data.links.filter(l=>l.definitional).map(l=>l.relation_type));
   assert.deepStrictEqual([...definitions],['definitional']);
+});
+
+test('reviewed constructs and historical meanings stay distinct',()=>{
+  const data=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/cartographie.json'),'utf8'));
+  const outcome=id=>data.outcomes.find(o=>o.id===id);
+  assert.strictEqual(data.factors.length,59,'only the admitted community-violence question was added');
+  assert.ok(data.factors.some(f=>f.id==='violence_quartier'&&!f.ace&&f.overlap_group==='physical_violence'));
+  assert.strictEqual(outcome('icd_6b81').category,'clinical_group');
+  assert.strictEqual(outcome('icd_6b81_boulimie').code,'6B81');
+  assert.ok(!outcome('icd_6a60').code);
+  assert.deepStrictEqual(outcome('icd_6a60').classification_codes,['6A60','6A61']);
+  assert.ok(!outcome('att_desorganise'));
+  assert.ok(outcome('att_desorganisation_enfant').contextual_only);
+  assert.strictEqual(outcome('att_desorganisation_enfant').age_scope,'young_child_only');
+  assert.ok(outcome('icd_6b20').contextual_only);
+  for(const o of data.outcomes.filter(o=>o.note==='suicide'))assert.ok(o.contextual_only);
+  assert.ok(data.links.filter(l=>l.sources.includes('meng2026')).every(l=>l.outcome==='ten_honte'));
+  assert.ok(!data.links.some(l=>l.outcome==='sch_mefiance'&&l.sources.some(id=>['peter2026','chokhani2026','grethel2026'].includes(id))));
+  assert.ok(!data.links.some(l=>l.outcome==='sch_isolement'&&l.sources.includes('caba2026')));
+  assert.ok(!data.links.some(l=>['migration','exil'].includes(l.factor)));
+  for(const id of ['secret_famille','migration','exil'])assert.ok(data.factors.some(f=>f.id===id),'unlinked experience remains a valid saved answer');
 });

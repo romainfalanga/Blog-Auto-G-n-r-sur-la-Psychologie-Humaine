@@ -255,6 +255,13 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         own_links = [link for (_, target), link in links.items() if target == oid]
         if outcome.get("age_scope") == "young_child_only" or outcome.get("category") in {"health_outcome", "categorical_personality_diagnosis"} or (own_links and all(link["relation_type"] == "classification_context" for link in own_links)):
             outcome["contextual_only"] = True
+    retired_outcomes = corr.get("retired_outcomes", [])
+    retired_ids = [o.get("id") for o in retired_outcomes]
+    if len(retired_ids) != len(set(retired_ids)):
+        errors.append("identifiant historique retiré dupliqué")
+    for outcome in retired_outcomes:
+        if outcome.get("id") in used_outcomes or not outcome.get("retired") or not outcome.get("contextual_only"):
+            errors.append(f"sujet historique encore actif ou non protégé : {outcome.get('id')}")
     data = {
         "schema_version": 2,
         "interpretation": {
@@ -269,6 +276,9 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         "factors": base["factors"],
         "domains": [{"id": k, "label": label} for k, label, _ in DOMAINS],
         "outcomes": sorted(({**o, "domain": o.get("domain") or domain_of(o)} for o in outcomes.values() if o["id"] in used_outcomes), key=lambda o: o["label"]),
+        # Immutable historical meanings accepted on save, excluded from the graph.
+        # An adult recognition must never migrate to a newly distinct child card.
+        "retired_outcomes": sorted(retired_outcomes, key=lambda o: o["id"]),
         "links": [links[k] for k in sorted(links)],
         "protections": protections,
         "exclusive": json.loads((SRC / "corrections.json").read_text(encoding="utf-8")).get("exclusive_factors", []),
@@ -297,11 +307,11 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
     # generator. Check its inputs and expose honest counters without importing
     # its editorial correspondences into the recommendation graph.
     audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-17.json"
-    if not audit_path.exists():
-        audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-16.json"
+    if check_audit and not audit_path.exists():
+        errors.append("audit des correspondances du 17 novembre absent : lancer scripts/audit_cartographie.py")
     if check_audit and audit_path.exists():
         audit = json.loads(audit_path.read_text(encoding="utf-8"))
-        core = {key: data[key] for key in ("factors", "outcomes", "links", "protections")}
+        core = {key: data[key] for key in ("factors", "outcomes", "retired_outcomes", "links", "protections")}
         fingerprint = hashlib.sha256(json.dumps(core, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
         if fingerprint != audit.get("input_fingerprints", {}).get("cartography_core_sha256"):
             errors.append("audit des correspondances périmé : les facteurs, sujets, liens ou ressources ont changé")
@@ -309,6 +319,10 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
             actual = hashlib.sha256((ROOT / f"data/{name}.json").read_bytes()).hexdigest()
             if actual != audit.get("input_fingerprints", {}).get(f"{name}_sha256"):
                 errors.append(f"audit des correspondances périmé : {name} a changé")
+        for key, filename in (("semantic_decisions_sha256", "correspondances-2026-11-17.json"), ("reference_registry_sha256", "couverture-referentiels.json")):
+            path = SRC / filename
+            if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest() != audit.get("input_fingerprints", {}).get(key):
+                errors.append(f"audit des correspondances périmé : {filename} a changé")
         reviewed = audit.get("psychology_patterns", [])
         if len(reviewed) != len(pattern_ids) or {r.get("id") for r in reviewed} != pattern_ids:
             errors.append("audit des correspondances incomplet ou dupliqué")
@@ -324,7 +338,7 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
     if registry_path.exists():
         registry = json.loads(registry_path.read_text(encoding="utf-8"))
         entries = registry.get("entries", [])
-        statuses = {status: sum(row.get("statut") == status for row in entries) for status in ("hors_perimetre_justifie", "aucune_preuve_trouvee", "agrege_dans", "a_examiner")}
+        statuses = {status: sum(row.get("statut") == status for row in entries) for status in sorted({row["statut"] for row in entries})}
         data["coverage"]["reference_registry"] = {"report": str(registry_path.relative_to(ROOT)), "decisions": len(entries), "statuses": statuses, "exhaustive_diagnostic_criteria_review": False}
         data["coverage"]["known_exclusions"].append({"scope": "Registre documenté des neuf lots", "reason": "Les exclusions et recherches non concluantes sont distinguées des sujets reliés.", "report": str(registry_path.relative_to(ROOT))})
     return data, errors

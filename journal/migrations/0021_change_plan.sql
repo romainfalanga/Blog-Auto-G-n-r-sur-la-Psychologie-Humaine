@@ -48,7 +48,11 @@ CREATE TRIGGER care_revision_change_plans_insert AFTER INSERT ON change_plans
  ON CONFLICT(user_id,scope) DO UPDATE SET revision=revision+1;
 END;
 CREATE TRIGGER care_revision_change_plans_update AFTER UPDATE ON change_plans
- WHEN EXISTS(SELECT 1 FROM users WHERE id=NEW.user_id) BEGIN
+ WHEN EXISTS(SELECT 1 FROM users WHERE id=NEW.user_id) AND (
+  COALESCE(json_extract(NEW.document_json,'$.goals'),'[]') != COALESCE(json_extract(OLD.document_json,'$.goals'),'[]') OR
+  COALESCE(json_extract(NEW.document_json,'$.steps'),'[]') != COALESCE(json_extract(OLD.document_json,'$.steps'),'[]') OR
+  COALESCE(json_extract(NEW.document_json,'$.trials'),'[]') != COALESCE(json_extract(OLD.document_json,'$.trials'),'[]')
+ ) BEGIN
  INSERT INTO care_source_revisions(user_id,scope,revision) VALUES(NEW.user_id,'plan',1)
  ON CONFLICT(user_id,scope) DO UPDATE SET revision=revision+1;
 END;
