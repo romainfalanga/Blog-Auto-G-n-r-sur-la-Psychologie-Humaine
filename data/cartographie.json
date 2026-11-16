@@ -7857,7 +7857,15 @@
   "dsm5tr": {
    "complete": false,
    "status": "diagnosis_by_diagnosis_comparison_pending",
-   "note": "Aucun inventaire diagnostic DSM-5-TR complet ni équivalence automatique CIM/DSM."
+   "note": "Aucun inventaire diagnostic DSM-5-TR complet ni équivalence automatique CIM/DSM.",
+   "chapters_reviewed": 22,
+   "chapter_status_counts": {
+    "hors_perimetre_questionnaire": 5,
+    "partiel": 12,
+    "a_examiner": 3,
+    "agrege": 2
+   },
+   "level": "chapter_thematic_presence_only"
   },
   "young_schemas": {
    "reference_count": 18,
@@ -8033,7 +8041,19 @@
     "working_memory_load",
     "workload_context"
    ],
-   "note": "Correspondances d’identifiants uniquement ; les recouvrements sémantiques et les ressources restent à examiner."
+   "note": "Les 161 repères ont une décision sémantique documentée ; un identifiant commun, un regroupement ou un recouvrement partiel ne prouvent ni causalité ni couverture clinique complète.",
+   "semantic_review": {
+    "reviewed_patterns": 161,
+    "status_counts": {
+     "partiel": 55,
+     "a_examiner": 16,
+     "hors_perimetre_questionnaire": 61,
+     "reference_exact": 16,
+     "agrege": 13
+    },
+    "report": "docs/audit-cartographie-correspondances-2026-11-16.json",
+    "causal_validation": false
+   }
   },
   "known_exclusions": [
    {
@@ -8044,7 +8064,7 @@
   "remaining_review": [
    "Comparaison DSM-5-TR diagnostic par diagnostic",
    "Populations, âges, méthodes et limites pour chaque lien",
-   "Recouvrements du catalogue psychologique au-delà des identifiants explicites",
+   "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux",
    "Évaluation clinique indépendante des 425 liens, au-delà des contrôles de structure"
   ]
  }

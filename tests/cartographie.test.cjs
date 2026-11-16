@@ -123,6 +123,15 @@ test('coverage reports exact denominators without turning reference presence int
   assert.strictEqual(data.coverage.icd11.exact_code_count,19);
   assert.strictEqual(data.coverage.dsm5tr.complete,false);
   assert.strictEqual(data.coverage.psychology_catalog.catalog_patterns,161);
+  const review=data.coverage.psychology_catalog.semantic_review;
+  assert.strictEqual(review.reviewed_patterns,161);
+  assert.strictEqual(Object.values(review.status_counts).reduce((sum,n)=>sum+n,0),161);
+  assert.strictEqual(data.coverage.dsm5tr.chapters_reviewed,22);
+  const audit=JSON.parse(fs.readFileSync(path.join(__dirname,'..',review.report),'utf8'));
+  assert.strictEqual(new Set(audit.psychology_patterns.map(p=>p.id)).size,161);
+  assert.strictEqual(audit.icd11_codes.length,858);
+  const targets=new Set([...data.factors,...data.outcomes,...data.protections].map(x=>x.id));
+  for(const p of audit.psychology_patterns){assert.ok(p.reason.length>30);for(const t of p.targets)assert.ok(targets.has(t.id),t.id);}
   assert.strictEqual(data.coverage.icd11.not_exactly_referenced_count,839);
   assert.ok(data.links.filter(l=>l.outcome==='sch_negativite').every(l=>l.relation_type==='clinical_model'&&l.strength==='theorique'));
   const definitions=new Set(data.links.filter(l=>l.definitional).map(l=>l.relation_type));

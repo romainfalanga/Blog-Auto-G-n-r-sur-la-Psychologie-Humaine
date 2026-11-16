@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import glob
+import hashlib
 import json
 import re
 import sys
@@ -274,6 +275,31 @@ def build() -> tuple[dict, list[str]]:
         "known_exclusions": [{"scope": "icd_6a00–icd_6a05", "reason": "Aucun lien causal avec l’éducation ou les vécus listés n’est inféré pour les troubles neurodéveloppementaux."}],
         "remaining_review": ["Comparaison DSM-5-TR diagnostic par diagnostic", "Populations, âges, méthodes et limites pour chaque lien", "Recouvrements du catalogue psychologique au-delà des identifiants explicites", f"Évaluation clinique indépendante des {len(data['links'])} liens, au-delà des contrôles de structure"]
     }
+    # The complete semantic review is a documentary artifact, not a causal-link
+    # generator. Check its inputs and expose honest counters without importing
+    # its editorial correspondences into the recommendation graph.
+    audit_path = ROOT / "docs/audit-cartographie-correspondances-2026-11-16.json"
+    if audit_path.exists():
+        audit = json.loads(audit_path.read_text(encoding="utf-8"))
+        core = {key: data[key] for key in ("factors", "outcomes", "links", "protections")}
+        fingerprint = hashlib.sha256(json.dumps(core, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+        if fingerprint != audit.get("input_fingerprints", {}).get("cartography_core_sha256"):
+            errors.append("audit des correspondances périmé : les facteurs, sujets, liens ou ressources ont changé")
+        for name in ("psychology_catalog", "clinical_catalog"):
+            actual = hashlib.sha256((ROOT / f"data/{name}.json").read_bytes()).hexdigest()
+            if actual != audit.get("input_fingerprints", {}).get(f"{name}_sha256"):
+                errors.append(f"audit des correspondances périmé : {name} a changé")
+        reviewed = audit.get("psychology_patterns", [])
+        if len(reviewed) != len(pattern_ids) or {r.get("id") for r in reviewed} != pattern_ids:
+            errors.append("audit des correspondances incomplet ou dupliqué")
+        data["coverage"]["psychology_catalog"]["semantic_review"] = {
+            "reviewed_patterns": len(reviewed), "status_counts": audit["counts"]["psychology_statuses"],
+            "report": "docs/audit-cartographie-correspondances-2026-11-16.json",
+            "causal_validation": False,
+        }
+        data["coverage"]["psychology_catalog"]["note"] = "Les 161 repères ont une décision sémantique documentée ; un identifiant commun, un regroupement ou un recouvrement partiel ne prouvent ni causalité ni couverture clinique complète."
+        data["coverage"]["dsm5tr"].update({"chapters_reviewed": audit["counts"]["dsm_section_ii_chapters_reviewed"], "chapter_status_counts": audit["counts"]["dsm_chapter_statuses"], "level": "chapter_thematic_presence_only"})
+        data["coverage"]["remaining_review"][2] = "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux"
     return data, errors
 
 

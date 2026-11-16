@@ -7,6 +7,7 @@
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
   var STRENGTH_ORDER = ['forte', 'critere', 'moderee', 'limitee', 'theorique'];
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
+  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
   var TIERS = {
     convergence: ['Plusieurs vécus associés', 'Des familles de vécus différentes ont des associations documentées avec ce sujet. Leur nombre ne renforce pas le niveau de preuve et ne mesure pas votre risque.'],
@@ -313,7 +314,7 @@
         body.appendChild(el('ul', { className: 'carto-dialog-list' }, items.map(function (l) {
           var o = outcomes[l.outcome];
           return el('li', {}, [
-            el('span', { className: 'carto-kind', text: KIND_LABEL[o.kind] + (o.code ? ' · ' + o.code : '') }),
+            el('span', { className: 'carto-kind', text: kindLabel(o) + (o.code ? ' · ' + o.code : '') }),
             el('strong', { text: o.label }),
             el('p', { text: l.summary }),
             sourceList(l.sources)
@@ -346,7 +347,7 @@
       var o = r.outcome, fb = state.feedback[o.id];
       var open = Boolean(state.open[o.id]);
       var children = [el('button', { type: 'button', className: 'carto-card-toggle', 'data-focus': 'outcome:' + o.id, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.open[o.id] = !open; renderResults(); } }, [
-        el('span', { className: 'carto-kind', text: KIND_LABEL[o.kind] + (o.code ? ' · ' + o.code : '') }),
+        el('span', { className: 'carto-kind', text: kindLabel(o) + (o.code ? ' · ' + o.code : '') }),
         el('span', { className: 'carto-card-title', text: o.label }),
         el('span', { className: 'carto-card-meta', text: r.factors.length + ' vécu' + (r.factors.length > 1 ? 's' : '') + ' associé' + (r.factors.length > 1 ? 's' : '') + ' · ' + STRENGTH_LABEL[r.links[0].strength] + (open ? ' · Replier' : ' · Voir le détail') })
       ])];

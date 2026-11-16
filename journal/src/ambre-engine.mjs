@@ -65,9 +65,12 @@ export function knowledgeIndex(context){
   const feedback=(map.dismissed||[]).some(x=>x.id===item.id)?'non':(map.recognized||[]).some(x=>x.id===item.id)?'oui':null;
   const evidence=(map.evidence||[]).find(x=>x.id===item.id),sourceIds=[...new Set((evidence?.links||[]).flatMap(link=>link.source_ids||[]))];
   const metadata={feedback,inference:'hypothesis_only',category:item.category||null,age_scope:item.age_scope||null,contextual_only:Boolean(item.contextual_only||item.note==='jeune_enfant'),note:item.note||null,relation_types:item.relation_types||evidence?.relation_types||[],source_ids:sourceIds};
-  const references=(map.evidence_sources||[]).filter(ref=>sourceIds.includes(ref.id)),lead=evidence?.links?.[0],reference=references[0];
+  const references=(map.evidence_sources||[]).filter(ref=>sourceIds.includes(ref.id)),lead=evidence?.links?.[0],reference=references.find(ref=>(lead?.source_ids||[]).includes(ref.id));
+  // Keep the primary finding whole outside the text excerpt, including its cautionary conclusion.
+  if(lead?.summary)metadata.evidence_summary=lead.summary;
+  if(reference)metadata.evidence_source={id:reference.id,url:reference.url};
   // A selected 1,100-character excerpt must retain a concrete proof and its limits before long cause lists.
-  const content={label:item.label,feedback,age_scope:metadata.age_scope,note:metadata.note,relation_type:lead?.relation_type||null,evidence_summary:lead?clip(lead.summary,280):null,evidence_source:reference?{id:reference.id,url:reference.url,citation:clip(reference.citation,180)}:null,...item,...metadata,...(evidence?{evidence}:{}),sources:references};
+  const content={label:item.label,feedback,age_scope:metadata.age_scope,note:metadata.note,relation_type:lead?.relation_type||null,evidence_summary:lead?.summary||null,evidence_source:reference?{id:reference.id,url:reference.url,citation:clip(reference.citation,180)}:null,...item,...metadata,...(evidence?{evidence}:{}),sources:references};
   add('cartography:outcome:'+item.id,'outcome',(feedback==='non'?'Écarté · ':feedback==='oui'?'Reconnu · ':metadata.contextual_only?'Jeune enfant · ':'Piste · ')+item.label,content,map.locked_at,metadata);
  }
  for(const resource of (map?.resources||[]).slice(0,80))add('cartography:resource:'+resource.id,'resource',resource.label,{...resource,reported:true},map.locked_at);

@@ -4,16 +4,16 @@ Ce chantier remplace les choix d’interface de la V3 et la première page Param
 
 | Exigence | Critère observable | Responsable | État |
 |---|---|---|---|
-| R1 Portrait | Seulement À propos de moi et Mon portrait dans le menu local | Principal | Réalisé, à vérifier |
-| R2 Paramètres | Données réelles consultables, sélection explicitée, modèles par étape, détails des nouvelles réponses | Principal + engine_review | En cours |
-| R3 Six thèmes | Six accordéons fermés au chargement, aucun suivant, aucun septième thème | care_review | En cours |
-| R4 Sauvegarde | Aucune case à cocher, sauvegarde automatique pour le compte connecté ; brouillon local sans compte ; erreurs et conflits visibles | care_review | En cours |
-| R5 Mobile | Réponses et ajout d’explication centrés à 320 et 390 px, sans débordement | care_review | En cours |
-| R6 Résultats | Tous les types sans filtre, explication associations/diagnostic, absence du bloc avant de commencer | care_review + clinical_coverage | En cours |
-| R7 Vue d’ensemble | Hiérarchie lisible, absence d’espace vide au-dessus du titre | care_review | En cours |
-| R8 Fond scientifique | Audit chiffré CIM-11/DSM-5-TR/modèles ; corrections sourcées ; limites de couverture explicites | clinical_coverage | En cours |
-| R9 Calcul et Ambre | Classement prudent, cohérence client/serveur, retours négatifs et limites d’âge transmis, tests de non-régression | clinical_coverage + engine_review | En cours |
-| R10 Livraison | Relecture indépendante, tests projet, navigateur mobile/bureau, déploiements vérifiés | Principal | À faire |
+| R1 Portrait | Seulement À propos de moi et Mon portrait dans le menu local | Principal | Vérifié en navigateur |
+| R2 Paramètres | Données réelles consultables, sélection explicitée, modèles par étape, détails des nouvelles réponses | Principal + engine_review | Vérifié localement ; voir les preuves ci-dessous |
+| R3 Six thèmes | Six accordéons fermés au chargement, aucun suivant, aucun septième thème | care_review | Vérifié localement ; voir les preuves ci-dessous |
+| R4 Sauvegarde | Aucune case à cocher, sauvegarde automatique pour le compte connecté ; brouillon local sans compte ; erreurs et conflits visibles | care_review | Vérifié localement ; voir les preuves ci-dessous |
+| R5 Mobile | Réponses et ajout d’explication centrés à 320 et 390 px, sans débordement | care_review | Vérifié localement ; voir les preuves ci-dessous |
+| R6 Résultats | Tous les types sans filtre, explication associations/diagnostic, absence du bloc avant de commencer | care_review + clinical_coverage | Vérifié localement ; voir les preuves ci-dessous |
+| R7 Vue d’ensemble | Hiérarchie lisible, absence d’espace vide au-dessus du titre | care_review | Vérifié localement ; voir les preuves ci-dessous |
+| R8 Fond scientifique | Audit chiffré CIM-11/DSM-5-TR/modèles ; corrections sourcées ; limites de couverture explicites | clinical_coverage | Vérifié localement ; voir les preuves ci-dessous |
+| R9 Calcul et Ambre | Classement prudent, cohérence client/serveur, retours négatifs et limites d’âge transmis, tests de non-régression | clinical_coverage + engine_review | Vérifié localement ; voir les preuves ci-dessous |
+| R10 Livraison | Relecture indépendante, tests projet, navigateur mobile/bureau, déploiements vérifiés | Principal | Recette locale validée ; publication et recette distante en cours |
 
 ## Décisions
 
@@ -34,3 +34,15 @@ La cartographie utilise les six intitulés de thèmes comme entrées d’accord�
 ## Vérifications prévues
 
 Tests des contrats API et de l’isolation des traces, comparaison du calcul public/serveur, cas cliniques limites, mémoire et reprise des étapes, tests projet existants. Recette Playwright à 1440, 390 et 320 px avec données synthétiques : accordéons, réponses, explications, sauvegarde, conflits, résultats, contenu réellement utilisé par Ambre, modèles et navigation portrait. Vérifier les publications et supprimer les comptes de recette.
+
+## Preuves avant publication
+
+- 440 tests du journal, 31 tests du site, 43 tests personnels et les contrôles du workflow passent. Les deux calculs de cartographie concordent sur 1 711 cas (réponses isolées et toutes les paires).
+- 13 scénarios Playwright de cartographie passent : accordéons, non explicite, brouillon, autosauvegarde sérialisée, erreurs, conflit 409, suppression, chargement initial tardif, sources et centrage mobile. Le bouton de précision est vérifié sur le même axe que les réponses.
+- Un parcours intégré utilise le vrai Worker avec SQLite et un fournisseur simulé : trois entrées d’appels enregistrées à l’identique, contenu de Paramètres consultable, six thèmes publics Hugo et PUT réels, deux onglets du portrait, absence d’erreur JavaScript et de débordement à 1 440, 390 et 320 px.
+- Relecture indépendante : navigation clavier, correction de mémoire, conflit CAS, filtres de recherche et affichage mobile validés. Deux écarts de transmission clinique repérés puis corrigés : preuve coupée avant les 1 100 caractères et métadonnées omises du contexte historique.
+- Audit exhaustif des identifiants du projet : 858 codes du registre, 161 repères, 82 sujets de cartographie ; correspondances sémantiques justifiées pour les 161 repères. Les 22 chapitres diagnostiques du DSM-5-TR ont un statut thématique ; cela ne certifie pas l’intégralité des critères ou diagnostics du manuel. Les 425 liens ne sont pas tous relus dans le texte intégral des études : cette limite est documentée, sans allégation de validation clinique complète.
+
+Les limites et références sont dans [l’audit](audit-cartographie-transparence-2026-11-16.md) et [ses correspondances détaillées](audit-cartographie-correspondances-2026-11-16.json). Aucun ajout de liens causaux destiné à remplir artificiellement le catalogue.
+
+Dernière relecture clinique : le résumé de la preuve primaire et son URL sont conservés dans des métadonnées distinctes du texte raccourci. La nuance sur la foi et l’emprise survit à l’extrait. Le surcoût maximal mesuré est de 464 caractères par source ; les textes restent bornés à 6 500 caractères pour huit sources. Les étiquettes distinguent symptômes, groupes de troubles et qualificatifs cliniques.

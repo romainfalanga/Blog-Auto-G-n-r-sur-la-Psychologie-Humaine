@@ -6,6 +6,7 @@
   var TIER_ORDER = { convergence: 0, piste: 1, theorique: 2 };
   var STRONG = { forte: true, moderee: true };
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
+  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique'})[outcome.category] || KIND_LABEL[outcome.kind]; }
   var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
   var KIND_LABEL = { trouble: 'Trouble étudié (CIM-11)', schema: 'Schéma précoce', attachement: "Style d'attachement", tendance: 'Tendance psychologique' };
 
@@ -135,7 +136,7 @@
     function card(result) {
       var o = result.outcome;
       var head = el('div', { className: 'carto-card-head' }, [
-        el('span', { className: 'carto-kind carto-kind-' + o.kind, text: KIND_LABEL[o.kind] + (o.code ? ' · ' + o.code : '') }),
+        el('span', { className: 'carto-kind carto-kind-' + o.kind, text: kindLabel(o) + (o.code ? ' · ' + o.code : '') }),
         el('h3', { text: o.label })
       ]);
       var list = el('ul', { className: 'carto-links' });
