@@ -9,7 +9,7 @@
       <summary>À savoir avant de commencer</summary>
       <p><strong>Ce n’est ni un test ni un diagnostic.</strong> Ces liens sont des tendances observées sur de grands groupes : beaucoup de personnes qui ont vécu ces situations n’ont aucune de ces difficultés, et un même vécu mène à des chemins très différents. Seul un professionnel peut évaluer votre situation.</p>
       <p>Ces liens ne désignent pas de coupable : les parents agissent avec leur propre histoire et leurs contraintes, et le tempérament de l’enfant influence aussi les échanges.</p>
-      <p>Vos réponses restent sur votre appareil. Elles ne sont enregistrées que si vous êtes connecté et choisissez de les ajouter à votre profil. <a href="#carto-help-title">Trouver de l’aide</a></p>
+      <p>Vos réponses restent sur votre appareil. Elles ne sont enregistrées que si vous êtes connecté et choisissez de les ajouter à votre profil. En cas de détresse : 3114 (24 h/24), urgence 15 ou 112.</p>
     </details>
   </header>
 
@@ -20,12 +20,7 @@
 
   <div class="carto-layout">
     <section class="carto-pane carto-pane-form" data-pane-form aria-label="Mon enfance">
-      <nav class="carto-steps" data-steps aria-label="Étapes"></nav>
-      <div class="carto-step-body" data-step-body></div>
-      <div class="carto-form-foot">
-        <span class="carto-count" data-count role="status" aria-live="polite"></span>
-        <button type="button" class="carto-btn carto-btn-quiet" data-reset>Tout effacer</button>
-      </div>
+      <div class="carto-form-body" data-form-body></div>
     </section>
     <section class="carto-pane carto-pane-results" data-pane-results aria-label="Ce qui en ressort">
       <div class="carto-summary" data-summary></div>
@@ -47,33 +42,6 @@
     <div class="carto-dialog-body" data-dialog-body></div>
   </dialog>
 
-  <div class="carto-more">
-    {{ with $data.protections }}
-    <details class="carto-more-item"><summary>Ce qui protège</summary>
-      <p>Ce qui aide à traverser une enfance difficile ou à s’en remettre plus tard compte autant que ce qui a manqué.</p>
-      <ul>{{ range . }}<li><strong>{{ .label }}</strong> — {{ .description }}</li>{{ end }}</ul>
-    </details>
-    {{ end }}
-    {{ with $data.notes }}
-    {{ with .multifinalite }}<details class="carto-more-item"><summary>Pourquoi une même enfance mène à des chemins différents</summary><p>{{ .text | default . }}</p></details>{{ end }}
-    {{ with .neurodeveloppement }}<details class="carto-more-item"><summary>Ce que l’éducation ne cause pas</summary><p>{{ .text | default . }}</p></details>{{ end }}
-    {{ with .limites }}<details class="carto-more-item"><summary>Les limites de cette carte</summary><p>{{ .text | default . }}</p></details>{{ end }}
-    {{ end }}
-    <section class="carto-help" aria-labelledby="carto-help-title">
-      <h2 id="carto-help-title">Trouver de l’aide</h2>
-      {{ with $data.notes.consulter }}<p>{{ .text | default . }}</p>{{ end }}
-      <ul>
-        <li><strong>3114</strong> : prévention du suicide, gratuit, 24 h/24.</li>
-        <li><strong>119</strong> : Allô Enfance en danger, si un enfant est en danger aujourd’hui.</li>
-        <li><strong>116 006</strong> : France Victimes, aide aux victimes de violences, y compris anciennes, gratuit, 7 j/7.</li>
-        <li><strong>3919</strong> : Violences Femmes Info, qui accueille aussi les proches et les témoins.</li>
-        <li><strong>15</strong> ou <strong>112</strong> : urgence ou danger immédiat.</li>
-      </ul>
-    </section>
-    <details class="carto-more-item"><summary>Sources ({{ len $data.sources }})</summary>
-      <ol class="carto-sources-all">{{ range $data.sources }}<li><a href="{{ .url }}" rel="noopener" target="_blank">{{ .citation }}</a></li>{{ end }}</ol>
-    </details>
-  </div>
   <script id="cartographie-data" type="application/json">{{ $data | jsonify | safeJS }}</script>
 </div>
 <script defer src="/js/cartographie.js?v={{ readFile "static/js/cartographie.js" | md5 }}"></script>

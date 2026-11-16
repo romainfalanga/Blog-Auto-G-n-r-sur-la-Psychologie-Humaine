@@ -4,3 +4,6 @@ resources/
 __pycache__/
 *.pyc
 editorial/automation/.pipeline.lock
+
+# Captures de test locales
+/*.png

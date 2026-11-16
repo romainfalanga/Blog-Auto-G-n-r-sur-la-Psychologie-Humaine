@@ -35,6 +35,8 @@ const reportPatterns=[
  `(?:me dit|m a dit) qu (?:elle|il|iel) (?:prefere ${choice}|a besoin (?:de temps|d une pause|d espace)|se sent (?:a l aise|mal a l aise|(?:ecoute|entendu|contrarie|rassure)e?))`
 ];
 const ordinaryReport=new RegExp(`^(?:${reportPatterns.join('|')})(?: ${situation})?$`,'u');
+// Shared with other automatic notes: an opt-out or a fictional frame blocks any retention.
+export const declinesRetention=message=>{const words=fold(message);return optOut.test(words)||fictional.test(words);};
 const followUp=/\b(?:il|elle|lui|cette personne|ce proche|la meme personne)\b/u;
 const namedPeople=(words,people)=>people.filter(person=>mentions(words,fold(person.display_name)));
 

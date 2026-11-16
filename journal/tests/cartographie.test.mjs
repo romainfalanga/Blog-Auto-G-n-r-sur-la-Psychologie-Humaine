@@ -4,7 +4,7 @@ import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,readdirSync} from 'node:fs';
 import {createRequire} from 'node:module';
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
-import {validateCartography,computeCartography,summarizeCartography,cartographyHighlights,companionCartography} from '../src/cartographie.mjs';
+import {validateCartography,computeCartography,summarizeCartography,cartographyHighlights,companionCartography,chooseAmbreNotes,appendAmbreNotes} from '../src/cartographie.mjs';
 import {loadContext} from '../src/private-context.mjs';
 import {createPersonalBackend} from '../src/personal-backend.mjs';
 import {createChatBackend} from '../src/chat-backend.mjs';
@@ -42,7 +42,7 @@ test('validation accepts known identifiers and normalizes their order',()=>{
  const result=validateCartography({answers:{[f2]:2,[f1]:1},feedback:{[o1]:'non'}},fail);
  assert.deepEqual(Object.keys(result.answers),[f1,f2].sort());
  assert.deepEqual(result.feedback,{[o1]:'non'});
- assert.deepEqual(validateCartography({answers:{}},fail),{answers:{},feedback:{}});
+ assert.deepEqual(validateCartography({answers:{}},fail),{answers:{},feedback:{},notes:{factors:{},outcomes:{}},resources:{}});
 });
 
 test('validation rejects unknown ids, invalid intensities, invalid feedback and wrong shapes',()=>{
@@ -191,17 +191,19 @@ function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=fn;t.a
 test('the welcome message invites to fill the map, then starts from a locked one',async()=>{
  const s=chatSetup();
  let state=await s.call('/api/chat');
- assert.equal(state.welcome.id,'ambre-welcome-v7');assert.match(state.welcome.content,/\/cartographie\//);
+ assert.equal(state.welcome.id,'ambre-welcome-v8');assert.match(state.welcome.content,/\/cartographie\//);assert.ok(!state.welcome.content.split('\n\n')[1].includes('cartographie'),'an invitation stays near the end');
  saveRow(s.raw,'a',{answers:{[strongFactors[0]]:1},locked:false});
  state=await s.call('/api/chat');
- assert.equal(state.welcome.id,'ambre-welcome-v7-draft');assert.match(state.welcome.content,/verrouillerez/);
+ assert.equal(state.welcome.id,'ambre-welcome-v8-draft');assert.match(state.welcome.content,/enregistrez-la/);
  const answers=Object.fromEntries(strongFactors.slice(0,4).map(id=>[id,2]));
  const summary=summarizeCartography(answers,{});
  const recognized=summary.convergence.find(x=>x.note!=='suicide')||summary.pistes[0];
  s.raw.prepare('UPDATE cartographies SET answers=?,feedback=?,locked_at=1700000000,version=5 WHERE user_id=?').run(JSON.stringify(answers),JSON.stringify({[recognized.id]:'oui',[suicide.id]:'oui'}),'a');
  state=await s.call('/api/chat');
- assert.equal(state.welcome.id,'ambre-welcome-v7-c5');
- assert.match(state.welcome.content,/4 éléments de votre enfance sont cochés/);
+ assert.equal(state.welcome.id,'ambre-welcome-v8-c5');
+ const second=state.welcome.content.split('\n\n')[1];
+ assert.match(second,/carte de travail commune : 4 éléments de votre enfance y sont cochés/,'a saved map is introduced in the second paragraph');
+ assert.match(second,/je peux y ajouter une courte note/);
  assert.ok(state.welcome.content.includes('« '+recognized.label+' »'));
  assert.match(state.welcome.content,/Voulez-vous que nous commencions par/);
  assert.match(state.welcome.content,/pas un diagnostic/);
@@ -238,4 +240,174 @@ test('Ambre receives the locked map, its guidance and matching catalogue reading
 test('without a locked map the system prompt has no cartography section',()=>{
  assert.ok(!buildCompanionSystemPrompt({query:'Bonjour'}).includes('CARTOGRAPHIE DE L’ENFANCE'));
  assert.ok(buildCompanionSystemPrompt({query:'Bonjour',cartography:true}).length<18000);
+});
+
+// --- V3: the member's notes, resources and Ambre's notes ---
+const [fa,fb]=CARTOGRAPHIE.factors.map(f=>f.id),[oa,ob]=CARTOGRAPHIE.outcomes.map(o=>o.id),[pa,pb]=CARTOGRAPHIE.protections.map(p=>p.id);
+const fullRow=(raw,user,{answers={},feedback={},notes={},resources={},ambre=[],locked=true,consent=1,version=1})=>raw.prepare('INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?)').run(user,JSON.stringify(answers),JSON.stringify(feedback),JSON.stringify(notes),JSON.stringify(resources),JSON.stringify(ambre),consent,locked?1700000000:null,version,1700000000);
+const stored=(raw,user='a')=>JSON.parse(raw.prepare('SELECT ambre_notes FROM cartographies WHERE user_id=?').get(user).ambre_notes);
+
+test('the generated module carries the protective resources',()=>{
+ const data=JSON.parse(readFileSync(new URL('../../data/cartographie.json',import.meta.url),'utf8'));
+ assert.deepEqual(CARTOGRAPHIE.protections,data.protections.map(p=>({id:p.id,label:p.label})));
+});
+
+test('notes and resources are validated: known ids, cleaned text, bounded length and count',()=>{
+ const r=validateCartography({answers:{},notes:{factors:{[fa]:'  Mon père criait\r\nsouvent.\u0000  ',[fb]:'   '},outcomes:{[oa]:'Je me tais en réunion.'}},resources:{[pa]:1}},fail);
+ assert.deepEqual(r.notes,{factors:{[fa]:'Mon père criait\nsouvent.'},outcomes:{[oa]:'Je me tais en réunion.'}});
+ assert.deepEqual(r.resources,{[pa]:1});
+ assert.equal(validateCartography({answers:{},notes:{factors:{[fa]:'x'.repeat(1000)}}},fail).notes.factors[fa].length,1000);
+ const many=Object.fromEntries(CARTOGRAPHIE.factors.slice(0,50).map(f=>[f.id,'note'])),manyOutcomes=Object.fromEntries(CARTOGRAPHIE.outcomes.slice(0,31).map(o=>[o.id,'note']));
+ assert.equal(Object.keys(validateCartography({answers:{},notes:{factors:many,outcomes:Object.fromEntries(Object.entries(manyOutcomes).slice(0,30))}},fail).notes.outcomes).length,30);
+ for(const input of [{answers:{},notes:{factors:{inconnu:'x'}}},{answers:{},notes:{outcomes:{[fa]:'x'}}},{answers:{},notes:{factors:{[fa]:'x'.repeat(1001)}}},{answers:{},notes:{factors:{[fa]:3}}},{answers:{},notes:{general:{a:'x'}}},{answers:{},notes:[]},{answers:{},notes:{factors:[]}},
+  {answers:{},notes:{factors:many,outcomes:manyOutcomes}},{answers:{},resources:{inconnue:1}},{answers:{},resources:{[pa]:2}},{answers:{},resources:{[pa]:true}},{answers:{},resources:[pa]},{answers:{},resources:{[fa]:1}}])
+  assert.throws(()=>validateCartography(input,fail),e=>e.status===400&&e.code==='invalid_cartography',JSON.stringify(input).slice(0,120));
+});
+
+test('the summary attaches the member’s notes, resources and Ambre’s notes to their labels',()=>{
+ const s=summarizeCartography({[fa]:1},{},{notes:{factors:{[fa]:'Mes mots.'},outcomes:{[oa]:'Aujourd’hui.'}},resources:{[pb]:1},ambreNotes:[{id:'n1',target:'outcome',target_id:ob,text:'Elle dit se taire.',created_at:5},{id:'n2',target:'general',target_id:null,text:'Note libre.',created_at:6},{id:'n3',target:'factor',target_id:'disparu',text:'x',created_at:7}]});
+ assert.deepEqual(s.notes,[{target:'factor',id:fa,label:CARTOGRAPHIE.factors[0].label,text:'Mes mots.'},{target:'outcome',id:oa,label:CARTOGRAPHIE.outcomes[0].label,text:'Aujourd’hui.'}]);
+ assert.deepEqual(s.resources,[{id:pb,label:CARTOGRAPHIE.protections[1].label}]);
+ assert.deepEqual(s.ambre_notes,[{id:'n1',target:'outcome',target_id:ob,text:'Elle dit se taire.',created_at:5,label:CARTOGRAPHIE.outcomes[1].label},{id:'n2',target:'general',target_id:null,text:'Note libre.',created_at:6}]);
+ const empty=summarizeCartography({[fa]:1},{});
+ assert.deepEqual([empty.notes,empty.resources,empty.ambre_notes],[[],[],[]]);
+});
+
+test('Ambre’s notes are validated, deduplicated and capped at sixty, oldest first out',()=>{
+ const existing=[{id:'n1',target:'factor',target_id:fa,text:'Mon père criait souvent.',created_at:1}];
+ const chosen=chooseAmbreNotes([{target:'factor',target_id:fa,text:'mon pere criait  souvent'},{target:'outcome',target_id:oa,text:' Je me tais\nen réunion. '},{target:'general',target_id:null,text:'Note générale.'},{target:'factor',target_id:fb,text:'quatrième'}],existing);
+ assert.deepEqual(chosen,[{target:'outcome',target_id:oa,text:'Je me tais en réunion.',label:CARTOGRAPHIE.outcomes[0].label},{target:'general',target_id:null,text:'Note générale.'}],'three per turn, duplicate dropped');
+ for(const bad of [{target:'factor',target_id:'inconnu',text:'x y'},{target:'factor',target_id:oa,text:'x y'},{target:'outcome',target_id:null,text:'x y'},{target:'general',target_id:fa,text:'x y'},{target:'autre',target_id:null,text:'x y'},{target:'general',target_id:null,text:'x'.repeat(401)},{target:'general',target_id:null,text:' … '},{target:'general',target_id:null,text:4},null])
+  assert.deepEqual(chooseAmbreNotes([bad]),[],JSON.stringify(bad)?.slice(0,80));
+ assert.deepEqual(chooseAmbreNotes([{target:'general',target_id:null,text:'Même'},{target:'general',target_id:null,text:'même.'}]).length,1);
+ assert.deepEqual(chooseAmbreNotes('non'),[]);
+ let n=0;const list=appendAmbreNotes(Array.from({length:59},(_,i)=>({id:'o'+i,target:'general',target_id:null,text:'t'+i,created_at:i})),[{target:'general',target_id:null,text:'a',label:'ignored'},{target:'factor',target_id:fa,text:'b'}],{now:()=>99,random:()=>'new'+(++n)});
+ assert.equal(list.length,60);assert.equal(list[0].id,'o1');assert.deepEqual(list.at(-1),{id:'new2',target:'factor',target_id:fa,text:'b',created_at:99});
+});
+
+test('V3 routes: notes and resources round-trip, autosave lock rule, Ambre’s notes survive PUT and can be removed',async()=>{
+ const env={DB:d1(migrated())},a=await register(env,'v3-a@example.test'),b=await register(env,'v3-b@example.test'),raw=env.DB.raw;
+ let r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{},notes:{factors:{},outcomes:{}},resources:{},consent:true,locked:true,version:null}});
+ assert.equal(r.status,400);assert.equal(r.code,'invalid_cartography');
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{},notes:{factors:{[fa]:' Ce que j’en retiens. '}},resources:{},consent:true,locked:true,version:null}});
+ assert.equal(r.status,200,'a note alone is enough to save');
+ assert.deepEqual(r.cartographie.notes,{factors:{[fa]:'Ce que j’en retiens.'},outcomes:{}});
+ assert.deepEqual(r.cartographie.resources,{});assert.deepEqual(r.cartographie.ambre_notes,[]);assert.equal(r.cartographie.version,1);assert.equal(r.cartographie.locked,true);
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:b.cookie,data:{answers:{},resources:{[pa]:1},consent:true,locked:true,version:null}});
+ assert.equal(r.status,200,'a resource alone is enough to save');assert.deepEqual(r.summary.resources,[{id:pa,label:CARTOGRAPHIE.protections[0].label}]);
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{},notes:{factors:{inconnu:'x'}},consent:true,locked:true,version:1}});
+ assert.equal(r.code,'invalid_cartography');
+ raw.prepare('UPDATE cartographies SET ambre_notes=? WHERE user_id=?').run(JSON.stringify([{id:'n1',target:'factor',target_id:fa,text:'Première note.',created_at:10},{id:'n2',target:'general',target_id:null,text:'Deuxième note.',created_at:11}]),a.user.id);
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{[fa]:2},notes:{factors:{[fa]:'Ce que j’en retiens.'},outcomes:{[oa]:'Aujourd’hui.'}},resources:{[pa]:1,[pb]:1},ambre_notes:[],consent:true,locked:true,version:1}});
+ assert.equal(r.status,200);assert.equal(r.cartographie.version,2);
+ assert.deepEqual(r.cartographie.ambre_notes.map(n=>n.id),['n1','n2'],'PUT never modifies Ambre’s notes');
+ assert.deepEqual(r.cartographie.resources,{[pa]:1,[pb]:1});assert.equal(r.summary.notes.length,2);assert.equal(r.summary.ambre_notes[0].label,CARTOGRAPHIE.factors[0].label);
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{[fa]:2},notes:{factors:{[fa]:'Ce que j’en retiens.'},outcomes:{[oa]:'Aujourd’hui.'}},resources:{[pb]:1,[pa]:1},consent:true,locked:true,version:2}});
+ assert.equal(r.cartographie.version,2,'an identical complete state is idempotent');
+ r=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{[fa]:2},consent:true,locked:true,version:2}});
+ assert.equal(r.cartographie.version,3);assert.deepEqual(r.cartographie.notes,{factors:{},outcomes:{}},'absent notes mean no notes');assert.deepEqual(r.cartographie.resources,{});
+ assert.equal((await request(env,'/api/cartographie/ambre-notes/n1',{method:'DELETE',cookie:a.cookie,originHeader:'https://evil.example'})).status,403);
+ assert.equal((await request(env,'/api/cartographie/ambre-notes/n1',{method:'DELETE'})).status,401);
+ assert.equal((await request(env,'/api/cartographie/ambre-notes/n1',{method:'DELETE',cookie:b.cookie})).status,404,'another account cannot remove it');
+ assert.equal((await request(env,'/api/cartographie/ambre-notes/n1',{cookie:a.cookie})).status,405);
+ r=await send(env,'/api/cartographie/ambre-notes/n1',{method:'DELETE',cookie:a.cookie});
+ assert.equal(r.status,200);assert.equal(r.ok,true);assert.deepEqual(r.cartographie.ambre_notes.map(n=>n.id),['n2']);assert.equal(r.cartographie.version,3,'removing a note keeps the version');assert.ok(r.summary);
+ assert.equal((await request(env,'/api/cartographie/ambre-notes/n1',{method:'DELETE',cookie:a.cookie})).status,404);
+ r=await send(env,'/api/cartographie',{cookie:a.cookie});
+ assert.deepEqual(Object.keys(r.cartographie).sort(),['ambre_notes','answers','consent','feedback','locked','locked_at','notes','resources','updated_at','version']);
+ const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();
+ assert.deepEqual(exported.cartographie.ambre_notes.map(n=>n.id),['n2']);assert.deepEqual(exported.cartographie.notes,{factors:{},outcomes:{}});assert.deepEqual(exported.cartographie.resources,{});
+ assert.equal((await request(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{answers:{[fa]:1},notes:{factors:{[fa]:'é'.repeat(1000)}},consent:true,locked:true,version:3,padding:'x'.repeat(80000)}})).status,413);
+});
+
+const reply=(notes,content='Je l’ai noté dans votre cartographie.')=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content,questions:[],reading_suggestions:[],proposals:[],cartography_notes:notes})},finish_reason:'stop'}],usage:{prompt_tokens:10,completion_tokens:10,cost:0}}));
+const say=(s,key,content)=>s.call('/api/chat/messages','POST',{content,idempotency_key:key});
+
+test('Ambre reads the notes and resources and writes validated notes without touching answers or version',async t=>{
+ const s=chatSetup();
+ fullRow(s.raw,'a',{answers:{[fa]:2},notes:{factors:{[fa]:'Ce que j’en retiens.'}},resources:{[pa]:1},ambre:[{id:'old',target:'general',target_id:null,text:'Ancienne note.',created_at:1}],version:7});
+ assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
+ let request;
+ withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return reply([{target:'factor',target_id:fa,text:'Dit que son père criait presque tous les soirs.'},{target:'general',target_id:null,text:'ancienne note'},{target:'outcome',target_id:'inconnue',text:'À écarter.'}]);});
+ const before=s.raw.prepare('SELECT answers,feedback,notes,resources,version,updated_at,locked_at FROM cartographies WHERE user_id=?').get('a');
+ const result=await say(s,'carto_write_001','Mon père criait presque tous les soirs.');
+ assert.ok([200,202].includes(result.status),JSON.stringify(result));
+ const data=JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{'))),map=data.childhood_cartography;
+ assert.deepEqual(map.person_notes,[{target:'factor',id:fa,label:CARTOGRAPHIE.factors[0].label,text:'Ce que j’en retiens.'}]);
+ assert.deepEqual(map.resources,[CARTOGRAPHIE.protections[0].label]);
+ assert.deepEqual(map.ambre_notes,[{target:'general',text:'Ancienne note.'}]);
+ const schema=request.response_format.json_schema.schema;
+ assert.equal(schema.properties.cartography_notes.maxItems,3);assert.ok(schema.required.includes('cartography_notes'));
+ assert.match(request.messages[0].content,/cartography_notes/);assert.match(request.messages[0].content,/faux souvenirs/);assert.match(request.messages[0].content,/Tu ne coches jamais une cause/);
+ const notes=stored(s.raw);
+ assert.deepEqual(notes.map(n=>[n.target,n.target_id,n.text]),[['general',null,'Ancienne note.'],['factor',fa,'Dit que son père criait presque tous les soirs.']]);
+ assert.equal(typeof notes[1].id,'string');assert.equal(typeof notes[1].created_at,'number');
+ assert.deepEqual(s.raw.prepare('SELECT answers,feedback,notes,resources,version,updated_at,locked_at FROM cartographies WHERE user_id=?').get('a'),before);
+ const message=(await s.call('/api/chat')).messages.find(m=>m.role==='assistant');
+ assert.deepEqual(message.cartography_notes,[{target:'factor',target_id:fa,text:'Dit que son père criait presque tous les soirs.',label:CARTOGRAPHIE.factors[0].label}]);
+ globalThis.fetch=async()=>reply([{target:'factor',target_id:fa,text:'dit que son père criait presque tous les soirs'}]);
+ await say(s,'carto_write_002','Oui, presque tous les soirs.');
+ assert.equal(stored(s.raw).length,2,'a repeated note is not stored twice');
+ assert.equal((await s.call('/api/chat')).messages.at(-1).cartography_notes,undefined);
+});
+
+test('Ambre writes nothing without a saved, consented map, after an opt-out or in immediate danger',async t=>{
+ const attempt=async(prepare,content='Mon père criait presque tous les soirs.')=>{
+  const s=chatSetup();prepare(s);assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
+  let request;globalThis.fetch=async(_url,options)=>{request=JSON.parse(options.body);return reply([{target:'general',target_id:null,text:'Dit que son père criait.'}],'Je vous écoute.');};
+  const result=await say(s,'carto_none_001',content);assert.ok([200,202].includes(result.status),JSON.stringify(result));
+  return {s,request,message:(await s.call('/api/chat')).messages.find(m=>m.role==='assistant')};
+ };
+ const previous=globalThis.fetch;t.after(()=>{globalThis.fetch=previous;});
+ let run=await attempt(()=>{});
+ assert.equal(run.request.response_format.json_schema.schema.properties.cartography_notes,undefined);assert.ok(!run.request.messages[0].content.includes('Remplis cartography_notes'));
+ assert.equal(run.s.raw.prepare('SELECT count(*) n FROM cartographies').get().n,0);assert.equal(run.message.cartography_notes,undefined);
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1},consent:0}));
+ assert.deepEqual(stored(run.s.raw),[],'no consent, no note');assert.equal(run.request.response_format.json_schema.schema.properties.cartography_notes,undefined);
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1},locked:false}));
+ assert.deepEqual(stored(run.s.raw),[],'a map that is not saved for Ambre receives no note');
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1}}),'Mon père criait souvent, mais ne garde pas ça dans mon profil.');
+ assert.deepEqual(stored(run.s.raw),[],'an opt-out blocks the note');assert.equal(run.request.response_format.json_schema.schema.properties.cartography_notes,undefined);
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1}}),'Je vais me suicider ce soir.');
+ assert.deepEqual(stored(run.s.raw),[],'no note in immediate danger');
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1}}));
+ assert.equal(stored(run.s.raw).length,1,'the same reply is stored when the map is saved with consent');
+});
+
+test('a note removed by the member during the turn stays removed and the new note is still kept',async t=>{
+ const s=chatSetup();fullRow(s.raw,'a',{answers:{[fa]:1},ambre:[{id:'old',target:'general',target_id:null,text:'Ancienne note.',created_at:1}]});
+ assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
+ const cas=s.env.DB.prepare;let raced=false;
+ // Simulate the member removing a note between Ambre's read and her guarded write.
+ s.env.DB.prepare=sql=>{if(!raced&&sql.startsWith('UPDATE cartographies SET ambre_notes=?')&&sql.includes('chat_turns')){raced=true;s.raw.prepare("UPDATE cartographies SET ambre_notes='[]' WHERE user_id='a'").run();}return cas(sql);};
+ withFetch(t,async()=>reply([{target:'factor',target_id:fa,text:'Dit que son père criait.'}]));
+ await say(s,'carto_race_001','Mon père criait.');
+ assert.equal(raced,true);
+ assert.deepEqual(stored(s.raw).map(n=>n.text),['Dit que son père criait.']);
+});
+
+test('an oversized context drops Ambre’s oldest notes first and keeps the member’s words bounded',async t=>{
+ const s=chatSetup();
+ const notes={factors:Object.fromEntries(CARTOGRAPHIE.factors.slice(0,40).map(f=>[f.id,'n'.repeat(1000)])),outcomes:{}};
+ const ambre=Array.from({length:60},(_,i)=>({id:'n'+i,target:'general',target_id:null,text:'Note numéro '+i+' '+'x'.repeat(380),created_at:i}));
+ fullRow(s.raw,'a',{answers:Object.fromEntries(CARTOGRAPHIE.factors.map(f=>[f.id,2])),notes,ambre});
+ s.raw.prepare("UPDATE memories SET text=? WHERE user_id='a'").run('m'.repeat(9000));
+ assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
+ let request;withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return reply([]);});
+ await say(s,'carto_big_001','Bonjour Ambre.');
+ const raw=request.messages[1].content,map=JSON.parse(raw.slice(raw.indexOf('{'))).childhood_cartography;
+ assert.ok(raw.length<17000,String(raw.length));
+ assert.equal(map.notes_truncated,true);
+ assert.ok(map.person_notes.length>=1&&map.person_notes.every(n=>n.text.length<=440));
+ assert.ok(map.ambre_notes.length<60);
+ if(map.ambre_notes.length)assert.match(map.ambre_notes.at(-1).text,/^Note numéro 59 /,'the most recent note is kept last');
+});
+
+test('a database migrated to 0016 only still serves the map to Ambre without notes',async()=>{
+ const raw=new DatabaseSync(':memory:');
+ for(const name of readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')&&n<'0017').sort())raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
+ raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES('a','a@example.test','h','s')").run();raw.prepare("INSERT INTO profiles(user_id) VALUES('a')").run();raw.prepare("INSERT INTO memories(user_id) VALUES('a')").run();raw.prepare("INSERT INTO subscriptions(user_id) VALUES('a')").run();
+ saveRow(raw,'a',{answers:{[fa]:1}});
+ const context=await loadContext({DB:d1(raw)},'a');
+ assert.equal(context.cartography.cause_count,1);assert.deepEqual(context.cartography.ambre_notes,[]);assert.deepEqual(context.cartography.notes,[]);
 });
