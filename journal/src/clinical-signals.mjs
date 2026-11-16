@@ -6,7 +6,7 @@
 // identity (R27) and substance use (#34). These are lexical backstops, never a
 // diagnosis; the analysis model may add a signal, never remove one.
 import {foldText} from './quote-guard.mjs';
-const fold=value=>foldText(value).replace(/'/g,' ');
+const fold=value=>foldText(value).replace(/['-]/g,' ');
 const PARTNER=String.raw`(?:mon (?:mari|conjoint|compagnon|copain|partenaire|ex|fiance|petit ami)|ma (?:femme|conjointe|compagne|copine|partenaire|fiancee|petite amie)|mon ex mari|mon ex femme)`;
 const IPV_SEVERE=new RegExp(String.raw`\b(?:serre\w* (?:par |a )?(?:le|mon) cou|etrangl\w*|(?:pris|tenu)\w* (?:par )?la gorge|menac\w* (?:de mort|de me tuer|avec (?:un|une|son) (?:couteau|arme|fusil|pistolet))|(?:il|elle) (?:va|veut) me tuer|me tue(?:ra)? si je (?:pars|le quitte|la quitte)|(?:fusil|arme|pistolet|revolver|couteau)\b[^.!?]{0,60}\b(?:pour moi|si je pars|si je le quitte|me menace)|enceinte\b[^.!?]{0,60}\b(?:frapp|coups|pouss)|(?:frapp|coups|pouss)\w*\b[^.!?]{0,60}\benceinte|revenait finir ce qu)`);
 const IPV_PHYSICAL=new RegExp(String.raw`\b(?:m a|me) (?:encore |de nouveau )?(?:frappe|battu|bat|cogne|gifle|pousse|tape|frappe)\w*|\bdes coups\b|\bdes bleus\b|\bviolent(?:e)? avec moi\b`);
