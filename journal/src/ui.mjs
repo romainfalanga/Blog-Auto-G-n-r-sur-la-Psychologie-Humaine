@@ -442,7 +442,7 @@ function openSelfTextDialog(host,options){
  }
  function requestClose(){
   if(sending)return;
-  if(unsaved()&&!confirm('Fermer sans enregistrer ? Le texte que vous avez saisi sera perdu.'))return;
+  if(!mayDiscard())return;
   finish()
  }
  async function loadSaved(event){

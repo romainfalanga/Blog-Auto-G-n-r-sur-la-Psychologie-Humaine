@@ -268,7 +268,7 @@ test('cancel, Escape and an outside click close the pop-up without a request, af
       answer=false;popup.dialog.open=false;await popup.dialog.fire('close');assert.equal(env.dialog,popup.dialog);assert.equal(popup.dialog.open,true);assert.equal(questions.length,4);answer=true;
     }
     await escape(popup.dialog);assert.equal(env.dialog,null);assert.equal(env.doc.activeElement,env.trigger('emotions'));
-    assert.equal(env.view('emotions').textContent,'Texte enregistré');assert.deepEqual(requests,['GET']);assert.equal(env.ctx.state.selfDraft,null);
+    assert.equal(env.view('emotions').textContent,'Texte enregistré');assert.deepEqual(requests,['GET']);assert.equal(env.ctx.state.selfDraft??null,null);
   }
 });
 
@@ -284,7 +284,7 @@ test('an error or a conflict stays in the pop-up with the typed text, and reload
   assert.equal(popup.input.value,'Ma saisie à ne pas perdre');assert.equal(env.ctx.state.selfRevision,4);
   const reload=popup.dialog.querySelector('.self-text-conflict').querySelector('button');assert.equal(reload.textContent,'Recharger la version enregistrée');await reload.fire('click');
   assert.equal(popup.dialog.querySelector('.self-text-saved-value').textContent,'Version d’un autre onglet');assert.equal(popup.input.value,'Ma saisie à ne pas perdre');assert.match(popup.status.textContent,/saisie est conservée/);assert.equal(popup.status.className,'status success');
-  assert.equal(env.view('self_perception').textContent,'Version d’un autre onglet');assert.equal(env.form.elements.first_name.value,'Nina modifiée');assert.equal(env.ctx.state.selfRevision,9);assert.equal(env.ctx.state.selfDraft,null);
+  assert.equal(env.view('self_perception').textContent,'Version d’un autre onglet');assert.equal(env.form.elements.first_name.value,'Nina modifiée');assert.equal(env.ctx.state.selfRevision,9);assert.equal(env.ctx.state.selfDraft??null,null);
   failure=null;await popup.form.fire('submit');
   assert.equal(sent[2].expected_revision,9);assert.equal(sent[2].self_perception,'Ma saisie à ne pas perdre');assert.equal(sent[2].first_name,'Nina modifiée');
   assert.equal(env.dialog,null);assert.equal(env.view('self_perception').textContent,'Ma saisie à ne pas perdre');assert.equal(env.ctx.state.selfRevision,10);
@@ -443,7 +443,7 @@ test('V6 self information and reflection groups open with all fields in their ow
 });
 
 test('the lists of close people and of moments show their heading without any counter',()=>{
- const env=environment();vm.runInContext(functionCode('emptyState')+'\n'+functionCode('drawSourceSection'),env.ctx);env.ctx.drawSourceItem=()=>env.doc.createElement('article');
+ const env=environment();vm.runInContext(functionCode('emptyState')+'\n'+functionCode('drawSourceSection'),env.ctx);env.ctx.drawSourceItem=()=>env.doc.createElement('article');env.ctx.drawSourceEditor=()=>{};
  const people=['Anaïs','Bernard','Chloé','Driss','Élise'].map((display_name,index)=>({id:'p'+index,display_name,role:'friend'}));
  const events=[{id:'e1',title:'Un déclic',date_precision:'year',date_start:'2020'},{id:'e2',title:'Sans date',date_precision:'unknown'}];
  for(const [kind,rows,heading,cursor] of [['people',people,'Votre répertoire',null],['people',[],'Votre répertoire',null],['events',[],'Vos moments',null],['events',events.slice(0,1),'Vos moments',null],['events',events,'Vos moments','next-page']]){
@@ -939,18 +939,24 @@ test('a liked article renders from the real application state and preserves its 
 });
 
 test('leaving an untouched profile does not hide a later update accepted in Ambre',async()=>{
- let revision=1;
- const env=environment({api:async()=>({profile:{self_description:revision===1?'Avant':'Après Ambre'},revision}),location:{hash:''}});
- env.host('self-profile');
+ let revision=1,sent;const accepted={1:'Avant',2:'Après Ambre',3:'Encore précisé avec Ambre'};
+ const env=environment({api:async(path,method,payload)=>{if(method){sent=payload;revision++;return {profile:{first_name:'Nina',...payload},revision}}return {profile:{first_name:'Nina',self_description:accepted[revision]},revision}},location:{hash:''}});
+ env.host('self-profile');const shown=()=>env.doc.getElementById('self-text-self_description-value').textContent;
  for(const name of ['capturePageDrafts','renderSelfProfile'])vm.runInContext(functionCode(name),env.ctx);
- await env.ctx.renderSelfProfile();env.ctx.capturePageDrafts();
+ await env.ctx.renderSelfProfile();assert.equal(shown(),'Avant');env.ctx.capturePageDrafts();
  revision=2;await env.ctx.renderSelfProfile();
- assert.equal(env.doc.getElementById('self-profile-form').elements.self_description.value,'Après Ambre');
+ assert.equal(shown(),'Après Ambre');
  assert.equal(env.ctx.state.selfRevision,2);
- const form=env.doc.getElementById('self-profile-form');field(form,'self_description','Mon brouillon');await form.fire('input');
+ let form=env.doc.getElementById('self-profile-form');field(form,'first_name','Mon brouillon');await form.fire('input');
  env.ctx.capturePageDrafts();revision=3;await env.ctx.renderSelfProfile();
- assert.equal(env.doc.getElementById('self-profile-form').elements.self_description.value,'Mon brouillon');
- assert.equal(env.ctx.state.selfRevision,2);
+ // The unsaved short fields survive with the revision they were typed against; the text accepted in Ambre is shown anyway.
+ form=env.doc.getElementById('self-profile-form');assert.equal(form.elements.first_name.value,'Mon brouillon');
+ assert.equal(env.ctx.state.selfRevision,2);assert.equal(shown(),'Encore précisé avec Ambre');
+ // The pop-up starts from that accepted text and writes against the revision it was loaded with.
+ await env.doc.getElementById('self-text-self_description-edit').fire('click');const dialog=env.doc.getElementById('self-profile').querySelector('dialog'),input=dialog.querySelector('textarea');
+ assert.equal(input.value,'Encore précisé avec Ambre');input.value='Encore précisé avec Ambre, puis par moi';await dialog.querySelector('form').fire('submit');
+ assert.equal(sent.expected_revision,3);assert.equal(sent.self_description,'Encore précisé avec Ambre, puis par moi');assert.equal(sent.first_name,'Nina');
+ assert.equal(shown(),'Encore précisé avec Ambre, puis par moi');assert.equal(env.ctx.state.selfRevision,2);assert.equal(form.elements.first_name.value,'Mon brouillon');
 });
 
 test('saving a timeline change reloads its chronological cursor without discarding an edit draft',async()=>{
