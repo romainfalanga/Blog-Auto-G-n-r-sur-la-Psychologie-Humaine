@@ -10,7 +10,7 @@ const fold=value=>foldText(value).replace(/['-]/g,' ');
 const PARTNER=String.raw`(?:mon (?:mari|conjoint|compagnon|copain|partenaire|ex|fiance|petit ami)|ma (?:femme|conjointe|compagne|copine|partenaire|fiancee|petite amie)|mon ex mari|mon ex femme)`;
 const IPV_SEVERE=new RegExp(String.raw`\b(?:serre\w* (?:par |a )?(?:le|mon) cou|etrangl\w*|(?:pris|tenu)\w* (?:par )?la gorge|menac\w* (?:de mort|de me tuer|avec (?:un|une|son) (?:couteau|arme|fusil|pistolet))|(?:il|elle) (?:va|veut) me tuer|me tue(?:ra)? si je (?:pars|le quitte|la quitte)|(?:fusil|arme|pistolet|revolver|couteau)\b[^.!?]{0,60}\b(?:pour moi|si je pars|si je le quitte|me menace)|enceinte\b[^.!?]{0,60}\b(?:frapp|coups|pouss)|(?:frapp|coups|pouss)\w*\b[^.!?]{0,60}\benceinte|revenait finir ce qu)`);
 const IPV_PHYSICAL=new RegExp(String.raw`\b(?:m a|me) (?:encore |de nouveau )?(?:frappe|battu|bat|cogne|gifle|pousse|tape|frappe)\w*|\bdes coups\b|\bdes bleus\b|\bviolent(?:e)? avec moi\b`);
-const IPV_CONTROL=new RegExp(String.raw`\b(?:controle|surveille|fouille|lit|regarde) (?:tout |toujours )?(?:mon telephone|mes messages|mes comptes|mon argent|mes depenses|mes sorties)|\bm (?:interdit|empeche) de (?:voir|sortir|travailler|parler)|\bconfisque\w*\b|\bje n ai pas le droit de (?:sortir|voir|travailler)|\bm isole\b|\bmenace\w* de me faire interner\b|\bme suit partout\b|\bpeur de (?:lui|rentrer)\b`);
+const IPV_CONTROL=new RegExp(String.raw`\b(?:controle|surveille|fouille|lit|regarde|garde|prend|confisque) (?:tout |tous |toujours )?(?:mon telephone|mes messages|mes mails|mes comptes|mon argent|ma carte(?: bancaire)?|mes papiers|mes depenses|mes sorties)|\bm (?:interdit|empeche) de (?:voir|sortir|travailler|parler)|\bconfisque\w*\b|\bje n ai pas le droit de (?:sortir|voir|travailler)|\bm isole\b|\bmenace\w* de me faire interner\b|\bme suit partout\b|\bpeur de (?:lui|rentrer)\b`);
 const PARTNER_RE=new RegExp(String.raw`\b${PARTNER}\b|\b(?:il|elle)\b`);
 export function ipvSignal(message){
  const t=fold(message);if(!t)return 'none';
@@ -102,8 +102,26 @@ export function signalReview(content,signals={}){
  if(APPROVAL.test(t))failed.push(11);
  if(IDENTITY_FIX.test(t))failed.push(10);
  if(signals.substance&&ABRUPT_STOP.test(t))failed.push(2);
+ // R5: an unusual belief is never confirmed as a fact.
+ if(signals.reality&&signals.reality!=='none'&&CONFIRM_BELIEF.test(t))failed.push(5);
+ // R5: no activation when signs of acceleration are present.
+ if(signals.reality==='mania_signs'&&ACTIVATION.test(t))failed.push(13);
  return failed;
 }
+const ACTIVATION=/\b(?:profitez de cette energie|lancez|foncez|faites en (?:le )?plus|multipliez|enchainez|lancez vous)\b/;
+const CONFIRM_BELIEF=/\b(?:oui|en effet|effectivement|c est (?:vrai|certain|sur|evident)|vous avez raison|sans doute|bien sur)\b[^.!?]{0,60}\b(?:surveill\w*|espionn\w*|suiv\w*|cameras?|puces?|complot\w*|messages? caches?|elue?|choisie?)\b/;
+// R13: when the reply falls back, the verified referral of an active signal stays.
+export function referralFallback(signals={}){
+ const lines=[];
+ if(signals.ipv&&signals.ipv!=='none')lines.push('Si vous vivez des violences dans votre couple, le 3919 écoute gratuitement, 24 h/24 et 7 j/7 (ce n’est pas un numéro d’urgence) ; en danger immédiat, appelez le 17 ou le 112, ou envoyez un SMS au 114.');
+ if(signals.minor)lines.push('Vous pouvez en parler à un adulte de confiance ; en cas de danger, le 119 répond gratuitement, 24 h/24.');
+ if(signals.eating)lines.push('Un médecin peut vous accompagner sur ce sujet ; en cas de malaise, appelez le 15.');
+ if(signals.reality&&signals.reality!=='none')lines.push('Un médecin peut vous aider à y voir plus clair ; en cas de danger, appelez le 15.');
+ if(signals.substance)lines.push('Un médecin peut vous accompagner, notamment pour ne pas arrêter brutalement certains produits.');
+ return lines.join(' ');
+}
+// Signal checks that block publication on their own (a reviewer pass cannot override them).
+export function blockingReview(content,signals={},history=[]){return [...signalReview(content,signals),...(missingReferral(content,signals,history).length?[13]:[])]}
 // R13: the applicable referral must appear unless it was already given in
 // the last three replies (no repetition beyond the rule).
 export function missingReferral(content,signals={},history=[]){
@@ -114,6 +132,8 @@ export function missingReferral(content,signals={},history=[]){
 export function clinicalSignals(message,{identity,history=[],plan,memory={}}={}){
  const signals={ipv:ipvSignal(message),reality:realitySignal(message),eating:eatingSignal(message),minor:minorSignal(message,identity),intrusive:intrusiveSignal(message),substance:substanceSignal(message),meta_ai:metaAiSignal(message),perpetrator:perpetratorSignal(message)};
  signals.declined_streak=declinedStreak({plan,history,message});
+ // An unusual belief stated in the last two messages still frames this one.
+ if(signals.reality==='none')for(const turn of history.slice(-2))if(realitySignal(turn?.user)!=='none')signals.reality=realitySignal(turn.user);
  signals.reality_count=Number(memory.reality_count)||0;
  return signals;
 }
