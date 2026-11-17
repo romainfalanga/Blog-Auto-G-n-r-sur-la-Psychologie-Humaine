@@ -99,8 +99,8 @@
    "url": null
   },
   "pat_social_isolation": {
-   "label": "Isolement social subi",
-   "description": "Moins de liens et de soutien que ce que l’on souhaiterait."
+   "label": "Solitude ou isolement subis",
+   "description": "Se sentir seul, avec moins de liens et de soutien que ce que l'on souhaiterait."
   },
   "ten_violences_couple": {
    "url": null
@@ -168,6 +168,9 @@
    "category": "health_outcome",
    "domain": "comportements",
    "contextual_only": true
+  },
+  "att_anxieux": {
+   "description": "Craindre de perdre l'autre et chercher beaucoup de signes de son affection. Ce que l'on appelle couramment « dépendance affective », qui n'est pas un diagnostic, s'en rapproche."
   }
  },
  "remove_outcomes": [
@@ -1232,22 +1235,24 @@
    "outcome": "anx_generale",
    "strength": "limitee",
    "relation_type": "empirical_association",
-   "summary": "Une cohorte d’enfants relie les événements traumatiques à des difficultés anxieuses, surtout après des événements multiples ou sur un terrain déjà vulnérable. Les effets d’un premier événement étaient souvent transitoires.",
+   "summary": "Une cohorte d'enfants et une méta-analyse sur les catastrophes naturelles relient les événements traumatiques à un peu plus de difficultés anxieuses chez les jeunes, surtout quand les événements se cumulent ou que l'exposition est forte. La méta-analyse ne sépare pas anxiété et tristesse ; les effets sont modestes.",
    "sources": [
-    "copeland2007"
+    "copeland2007",
+    "rubens2018_catastrophes"
    ],
-   "reason": "Copeland2007 suit les enfants jusqu’à 16 ans et retrouve peu d’effets durables d’un premier événement. Le facteur événement ponctuel et la lecture adulte sont trop larges pour un niveau modéré."
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §5-6 : Rubens 2018 ajoutée, force inchangée."
   },
   {
    "factor": "traumatisme_ponctuel",
    "outcome": "dep_generale",
    "strength": "limitee",
    "relation_type": "empirical_association",
-   "summary": "Une cohorte d’enfants observe des difficultés dépressives en lien avec des événements traumatiques, surtout quand plusieurs se cumulent. Elle ne démontre pas un effet durable propre à un événement isolé.",
+   "summary": "Une cohorte d'enfants et une méta-analyse sur les catastrophes naturelles relient les événements traumatiques à un peu plus de difficultés dépressives chez les jeunes, surtout quand les événements se cumulent ou que l'exposition est forte. La méta-analyse ne sépare pas tristesse et anxiété ; les effets sont modestes.",
    "sources": [
-    "copeland2007"
+    "copeland2007",
+    "rubens2018_catastrophes"
    ],
-   "reason": "Copeland2007 suit les enfants jusqu’à 16 ans et retrouve peu d’effets durables d’un premier événement. Le facteur événement ponctuel et la lecture adulte sont trop larges pour un niveau modéré."
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §5-7 : Rubens 2018 ajoutée, force inchangée."
   },
   {
    "factor": "traumatisme_ponctuel",
@@ -1647,6 +1652,49 @@
    "outcome": "ten_usage_substances",
    "remove": true,
    "reason": "Plan v4.1 lot C (revue §5.2 n°23, §8.6) : résumé de Lacey 2014 relu le 18/11/2026 (Europe PMC) ; l'issue étudiée est la CRP à 44 ans, le tabagisme n'est qu'un médiateur (« plus susceptibles de fumer ») ; ni usage problématique ni tabagisme persistant mesurés. Aucun reciblage."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "summary": "Les jeunes harcelés ont en moyenne plus de symptômes d'anxiété sociale. Dans les études qui suivent les jeunes dans le temps, c'est surtout l'inverse qui s'observe : l'anxiété sociale annonce un harcèlement ultérieur. Cela ne rend jamais l'enfant responsable du harcèlement qu'il subit.",
+   "sources": [
+    "gonzalez2017",
+    "deng2024_anxiete_sociale"
+   ],
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §5-5 : force limitee maintenue (19 études longitudinales sans effet du harcèlement vers l’anxiété sociale)."
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "icd_6a60",
+   "strength": "limitee",
+   "summary": "Une méta-analyse de 7 études cas-témoins, fondées surtout sur des questionnaires rétrospectifs, trouve plus de négligence matérielle rapportée par les personnes ayant un trouble bipolaire que par des témoins sans trouble, mais des taux proches de ceux d'autres patients en psychiatrie. Types I et II réunis.",
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §7 : 7 études cas-témoins, adversité non spécifique par rapport aux témoins psychiatriques."
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6a60",
+   "strength": "limitee",
+   "summary": "Une méta-analyse de 7 études cas-témoins, fondées surtout sur des questionnaires rétrospectifs, trouve plus de négligence affective rapportée par les personnes ayant un trouble bipolaire que par des témoins sans trouble, mais des taux proches de ceux d'autres patients en psychiatrie. Types I et II réunis.",
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §7 (signalé à l’intégrateur) : même méta-analyse et même plan que la négligence matérielle ; aligné par cohérence à la demande du coordinateur."
+  },
+  {
+   "factor": "parent_trouble",
+   "outcome": "icd_6b05",
+   "summary": "Une méta-analyse d'études familiales trouve que les enfants et adolescents dont un parent a un trouble anxieux diagnostiqué ont plus souvent un trouble anxieux, dont l'anxiété de séparation, que ceux dont les parents n'en ont pas. Gènes et environnement familial s'y mêlent ; il n'y a pas de transmission propre à un trouble précis.",
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §7 : force moderee maintenue, texte corrigé."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6b40",
+   "summary": "Apprendre la mort soudaine, inattendue ou violente d'un proche fait partie des événements que la CIM-11 retient pour le stress post-traumatique. Un deuil attendu n'en fait pas partie ; la CIM-11 décrit à part le trouble du deuil prolongé, que la carte ne relie pas à l'enfance faute d'études.",
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §7 : contexte CIM-11 précisé."
+  },
+  {
+   "factor": "deces_proche",
+   "outcome": "icd_6a20",
+   "summary": "Le lien entre décès d'un parent et troubles psychotiques est incertain : non significatif dans une méta-analyse, présent dans un grand registre norvégien après un décès par suicide ou accident. Les deux sources ne portent pas sur les mêmes décès.",
+   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §7 : texte corrigé, force limitee."
   }
  ],
  "retarget": [],

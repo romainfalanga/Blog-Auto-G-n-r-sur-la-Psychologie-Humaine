@@ -10,12 +10,14 @@ import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
 
 const writingInput=run=>JSON.parse(run.get('ambre_writing').input);
 
+// A5-P1: the review thread replaced last_review; these seeded reviews have no digest, so the
+// thread carries the dated head + tail excerpt of the latest one, as P0 did.
 for(const strategy of ['none','ideal'])test(`A: the dated last review reaches the writer for the four message types (${strategy})`,async()=>{
  for(const [label,message] of MESSAGES){
-  const run=await replayTurn(message,{strategy});assert.equal(run.stage,'done',label);const input=writingInput(run);
-  assert.equal(input.last_review.id,'rev-p2',label);assert.equal(input.last_review.kind,'point d’étape');assert.ok(input.last_review.date);
-  assert.ok(input.last_review.text.startsWith('BILAN_P2_DEBUT')&&input.last_review.text.endsWith('BILAN_P2_FIN'),label+': beginning and end of the review');
-  assert.ok(input.last_review.text.length<=900);assert.ok(!input.details.some(x=>x.key==='review:rev-p2'),label);
+  const run=await replayTurn(message,{strategy});assert.equal(run.stage,'done',label);const input=writingInput(run),last=input.review_thread.last;
+  assert.equal(input.last_review,undefined);assert.equal(last.id,'rev-p2',label);assert.equal(last.kind,'point d’étape');assert.ok(last.date);
+  assert.ok(last.text.startsWith('BILAN_P2_DEBUT')&&last.text.endsWith('BILAN_P2_FIN'),label+': beginning and end of the review');
+  assert.ok(last.text.length<=900);assert.ok(JSON.stringify(input.review_thread).length<=1200);assert.ok(!input.details.some(x=>x.key==='review:rev-p2'),label);
  }
 });
 

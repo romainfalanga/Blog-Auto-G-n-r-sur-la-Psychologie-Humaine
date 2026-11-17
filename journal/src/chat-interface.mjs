@@ -13,6 +13,13 @@ function chatPointNote(data){
  if(next&&next*1000>Date.now())return 'Prochain point possible à partir du '+new Date(next*1000).toLocaleString('fr-FR',{day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'})+'.';
  return '';
 }
+// Lot A5-P1: a point may be suggested (a session soon, or many exchanges); it is never started for the person.
+function chatPointSuggestion(data){
+ var journey=chatJourney(data),suggestion=journey&&journey.review&&journey.review.suggestion;if(!suggestion)return '';
+ if(suggestion.reason==='session_soon'&&suggestion.session_at)return 'Une séance est prévue le '+new Date(suggestion.session_at*1000).toLocaleString('fr-FR',{weekday:'long',day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'})+' : vous pouvez faire le point avant, si vous le souhaitez.';
+ if(suggestion.reason==='many_exchanges')return 'Vous avez beaucoup échangé depuis le dernier bilan : vous pouvez faire le point quand vous le souhaitez.';
+ return '';
+}
 function chatHasPending(){return !!(state.chatSending||state.chatOutbox&&['sending','pending','uncertain'].includes(state.chatOutbox.status))}
 function chatCapabilityMessage(kind){
  var capability=state.chatData&&state.chatData.capabilities&&state.chatData.capabilities[kind];if(!capability||capability.allowed!==false)return '';
@@ -22,7 +29,7 @@ function chatCapabilityMessage(kind){
 function updateChatControls(){
  var data=state.chatData||{},form=document.getElementById('chat-form');if(!form)return;
  var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!!state.chatVoice?.isActive()||!chatConsent(data)||!data.access||!data.access.allowed||chatJourneyBlocked(data)||!!(data.quota&&Number(data.quota.remaining||0)<=0);
- var point=document.getElementById('chat-point'),pointNote=document.getElementById('chat-point-note'),journey=chatJourney(data);if(point){var reason=chatPointNote(data);point.hidden=!(journey&&journey.started);point.disabled=!!reason||chatHasPending()||!chatConsent(data);if(pointNote){pointNote.textContent=reason;pointNote.hidden=!reason||point.hidden}}
+ var point=document.getElementById('chat-point'),pointNote=document.getElementById('chat-point-note'),journey=chatJourney(data);if(point){var reason=chatPointNote(data);point.hidden=!(journey&&journey.started);point.disabled=!!reason||chatHasPending()||!chatConsent(data);if(pointNote){var hint=reason||(point.disabled?'':chatPointSuggestion(data));pointNote.textContent=hint;pointNote.hidden=!hint||point.hidden}}
  var mounted=document.getElementById('view'),shell=mounted&&mounted.chatShell;if(shell)shell.thread.querySelectorAll('button').forEach(function(button){if(button.dataset.chatRetry)button.disabled=!!(state.chatSending||!data.access||!data.access.allowed||data.quota&&Number(data.quota.remaining||0)<=0)});
  var input=form.elements.content;if(input)input.disabled=!!(data.access&&data.access.reason==='authentication_required');
  var notice=document.getElementById('chat-memory-notice');if(notice){notice.hidden=!(chatConsent(data)&&data.people_observations_enabled);if(notice.hidden)input.removeAttribute('aria-describedby');else input.setAttribute('aria-describedby',notice.id)}
@@ -329,17 +336,38 @@ function drawReviewPage(list,result,current){
  reviews.forEach(function(review){list.append(drawReviewItem(review,current))});
  if(result.next_cursor){var more=actionButton('Afficher les bilans plus anciens',async function(){more.disabled=true;try{var next=await api('/api/reviews?cursor='+encodeURIComponent(result.next_cursor));if(!current())return;more.remove();drawReviewPage(list,next,current)}catch(err){if(current()){status('reviews-status',err.message,true);more.disabled=false}}},'secondary');list.append(more)}
 }
+// Lot A5-P1: what Ambre keeps from a review (its structured part, as prose) and the person's answer.
+function drawReviewDigest(text){
+ var box=el('section','review-digest'),heading=el('h3','','Ce qu’Ambre retient de ce bilan');box.append(heading);
+ String(text).split(/\n{2,}/).forEach(function(paragraph){if(paragraph.trim())box.append(el('p','',paragraph.trim()))});
+ box.append(el('p','helper','Chaque élément s’appuie sur vos propres mots. Ce résumé accompagne les prochains échanges avec Ambre ; votre retour ci-dessous aussi.'));return box;
+}
+var REVIEW_FEEDBACK=[['resembles','Ce bilan me ressemble'],['not_really','Pas vraiment'],['to_correct','À corriger']];
+function drawReviewFeedback(review,current){
+ var box=el('section','review-feedback'),legend=el('h3','','Ce bilan vous ressemble-t-il ?'),choices=el('div','review-feedback-choices'),label=el('label','field','Ce que vous voudriez préciser ou corriger (facultatif)'),text=el('textarea'),status=el('p','status'),chosen=review.feedback&&review.feedback.verdict||null;
+ choices.setAttribute('role','group');choices.setAttribute('aria-label','Votre réponse');status.setAttribute('role','status');
+ text.maxLength=600;text.rows=3;text.value=review.feedback&&review.feedback.text||'';label.append(text);
+ var buttons=REVIEW_FEEDBACK.map(function(item){var button=actionButton(item[1],function(){chosen=item[0];buttons.forEach(function(b,i){b.setAttribute('aria-pressed',String(REVIEW_FEEDBACK[i][0]===chosen))});save.disabled=false},'secondary');button.setAttribute('aria-pressed',String(item[0]===chosen));choices.append(button);return button});
+ var save=actionButton('Enregistrer mon retour',async function(){
+  if(!chosen)return;save.disabled=true;
+  try{var result=await api('/api/reviews/'+encodeURIComponent(review.id)+'/feedback','PUT',{verdict:chosen,text:text.value.trim()});if(!current())return;review.feedback=result.feedback;status.className='status';status.textContent='Merci, votre retour est enregistré. Ambre en tiendra compte au prochain point.'}
+  catch(err){if(current()){status.className='status error';status.textContent=err.message}}
+  finally{save.disabled=false}
+ });save.disabled=!chosen;
+ var actions=el('div','actions');actions.append(save);
+ box.append(legend,choices,label,actions,status);return box;
+}
 function drawReviewItem(review,current){
  var item=el('article','review-item'),title=el('h2','review-title',reviewTitle(review)),meta=el('p','review-meta'),body=el('div','review-body'),actions=el('div','actions');
  item.dataset.reviewId=review.id;
- meta.textContent=review.status==='running'?'En préparation…':review.status==='failed'?'Ce bilan n’a pas abouti. Aucun message n’a été décompté.':'Rédigé le '+dateLabel(Number(review.completed_at||review.created_at));
+ meta.textContent=review.status==='running'?'En préparation…':review.status==='failed'?'Ce bilan n’a pas abouti. Aucun message n’a été décompté.':'Rédigé le '+dateLabel(Number(review.completed_at||review.created_at))+(review.feedback&&review.feedback.verdict?' · Votre retour : '+(REVIEW_FEEDBACK.find(function(item){return item[0]===review.feedback.verdict})||['',''])[1]:'');
  if(review.status==='ready'&&review.excerpt)body.append(el('p','review-excerpt',review.excerpt+(Number(review.length)>review.excerpt.length?'…':'')));
  var loaded=false;
  if(review.status==='ready'){
   var read=actionButton('Lire le bilan',async function(){
    if(loaded){body.hidden=!body.hidden;read.textContent=body.hidden?'Lire le bilan':'Replier';read.setAttribute('aria-expanded',String(!body.hidden));return}
    read.disabled=true;
-   try{var result=await api('/api/reviews/'+encodeURIComponent(review.id));if(!current())return;loaded=true;body.replaceChildren();String(result.review.content||'').split(/\n{2,}/).forEach(function(paragraph){if(paragraph.trim())body.append(el('p','',paragraph.trim()))});body.hidden=false;read.textContent='Replier';read.setAttribute('aria-expanded','true')}
+   try{var result=await api('/api/reviews/'+encodeURIComponent(review.id));if(!current())return;loaded=true;body.replaceChildren();String(result.review.content||'').split(/\n{2,}/).forEach(function(paragraph){if(paragraph.trim())body.append(el('p','',paragraph.trim()))});if(result.review.digest_text)body.append(drawReviewDigest(result.review.digest_text));if(result.review.feedback!==undefined)body.append(drawReviewFeedback(result.review,current));body.hidden=false;read.textContent='Replier';read.setAttribute('aria-expanded','true')}
    catch(err){if(current())status('reviews-status',err.message,true)}
    finally{read.disabled=false}
   },'secondary');read.setAttribute('aria-expanded','false');actions.append(read);

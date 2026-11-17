@@ -35,12 +35,22 @@ export function seedProfile(s,user='a'){
  const portrait={schema_version:2,summary:'SYNTH_DEBUT {{prenom}} décrit une vigilance forte face à la critique. '+filler('synthèse',1800)+' SYNTH_FIN',summary_evidence:['profile:'+user],axes:[{label:'AXE_Vigilance à la critique',why:'AXEWHY '+filler('axe',600),confidence:0.6,claim_type:'hypothesis',evidence:['profile:'+user]},{label:'AXE_Besoin de limites',why:'AXEWHY2 '+filler('axe2',400),confidence:0.5,claim_type:'hypothesis',evidence:['person:lea']}],strengths:[{text:'FORCE_ lucidité et humour',evidence:['profile:'+user]}],uncertainties:['INCERT_ rôle du travail'],current_state:{summary:'ETAT_ACTUEL '+filler('état',500),evidence:['profile:'+user]},evolution:{summary:'EVOLUTION_ '+filler('évolution',500),evidence:['profile:'+user]},citations:[{source_id:'profile:'+user,revision:1,quote:'PRES_DEBUT'}],psychological_map:[],coverage:{processed:[],pending:[]}};
  s.raw.prepare('INSERT OR REPLACE INTO user_portraits(user_id,portrait,analyzed_version,schema_version,updated_at) VALUES(?,?,?,2,CURRENT_TIMESTAMP)').run(user,JSON.stringify(portrait),v);
 }
-export function seedReviews(s,user='a'){
+// Lot A5-P1: with digests=true the three reviews also carry a full digest (three goals followed
+// across the reviews, formulation, trials, alliance, questions, feedback), the realistic P1 case.
+export const QUOTE='je remarque que cela revient souvent dans ma vie, avec des nuances selon les moments';
+const digestOf=(i,status)=>({v:1,formulation:{holds:[{text:'La critique réveille une vigilance ancienne, surtout avec les proches',quote:QUOTE}],revised:i?[{text:'Les limites sont parfois possibles quand le cadre est clair',quote:QUOTE}]:[],new:[{text:'Le corps signale la fatigue avant la pensée',quote:QUOTE}]},goals:[{key:'moins-ruminer',words:'moins ruminer après les critiques',status:status[0],quote:QUOTE,next_step:'noter la pensée puis revenir au présent'},{key:'dire-non-paul',words:'dire non à Paul une fois par semaine',status:status[1],quote:QUOTE,next_step:'choisir une demande simple'},{key:'limite-lea',words:'poser une limite avec Léa au dîner',status:status[2],quote:QUOTE,next_step:'quitter la table calmement'}],tried:[{what:'Quitter la table calmement',result:'helped',quote:QUOTE},{what:'Répondre par écrit à Paul',result:'hard',quote:QUOTE}],alliance:{text:'Les réponses courtes aident',quote:QUOTE},open_questions:['Qu’est-ce qui rend une limite possible avec Léa ?','Que se passe-t-il dans le corps avant la rumination ?'],next_focus:'Ce qui rend une limite possible',safety:'',dropped:0});
+export function seedReviews(s,user='a',{digests=false}={}){
  s.raw.prepare('DELETE FROM ambre_reviews WHERE user_id=?').run(user);
  const ins=s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES(?,?,?,'ready',?,?,?,?)");
  ins.run('rev-init',user,'initial','BILAN_INIT_DEBUT objectif initial : moins ruminer après les critiques. '+filler('analyse initiale',4200)+' BILAN_INIT_FIN','k-init',100,100);
  ins.run('rev-p1',user,'point','BILAN_P1_DEBUT objectif : dire non à Paul une fois par semaine. '+filler('point 1',4000)+' BILAN_P1_FIN','k-p1',200,200);
  ins.run('rev-p2',user,'point','BILAN_P2_DEBUT objectif confirmé : poser une limite avec Léa ; essai réalisé : quitter la table calmement. '+filler('point 2',4000)+' BILAN_P2_FIN','k-p2',300,300);
+ if(digests){
+  const set=s.raw.prepare('UPDATE ambre_reviews SET digest=?,feedback=? WHERE id=?');
+  set.run(JSON.stringify(digestOf(0,['new','new','new'])),null,'rev-init');
+  set.run(JSON.stringify(digestOf(1,['ongoing','ongoing','new'])),JSON.stringify({verdict:'to_correct',text:'Paul n’est pas mon responsable direct, c’est un collègue plus ancien.',at:250}),'rev-p1');
+  set.run(JSON.stringify(digestOf(2,['progressing','paused','ongoing'])),JSON.stringify({verdict:'resembles',text:'',at:350}),'rev-p2');
+ }
 }
 export function seedMemoryAndHistory(s,user='a'){
  const ins=s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,created_at) VALUES(?,?,?,'hash','completed','consumed','2026-01-01',1,1,?,?,?)");
@@ -63,8 +73,8 @@ export function pick(strategy,index){
 }
 const stageTokens=c=>Math.ceil((c.system.length+c.input.length+c.schema.length)/3);
 // Runs one turn on the filled profile; returns every provider call (purpose, system, input, schema, tokens).
-export async function replayTurn(message,{strategy='ideal',choose=null}={}){
- const s=setup();await s.ready();seedProfile(s);seedReviews(s);seedMemoryAndHistory(s);
+export async function replayTurn(message,{strategy='ideal',choose=null,digests=false}={}){
+ const s=setup();await s.ready();seedProfile(s);seedReviews(s,'a',{digests});seedMemoryAndHistory(s);
  const calls=[],original=globalThis.fetch;
  globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name,input=body.messages[1].content,system=Array.isArray(body.messages[0].content)?body.messages[0].content[0].text:body.messages[0].content,call={purpose,input,system,schema:JSON.stringify(body.response_format?.json_schema.schema||{})};call.tokens=stageTokens(call);calls.push(call);
   if(purpose==='ambre_analysis'){const data=JSON.parse(input);return response(analysis({selected_ids:choose?choose(data.index):pick(strategy,data.index)}))}
@@ -73,12 +83,16 @@ export async function replayTurn(message,{strategy='ideal',choose=null}={}){
  return {s,calls,stage:s.job()?.stage,get:p=>calls.find(c=>c.purpose===p)};
 }
 // Runs an initial analysis or a point review on the filled profile; returns the provider input.
-export async function replayReview(kind){
+// Lot A5-P1: the separate check is answered (pass) and measured too (check, checkTokens).
+export const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+const bodyTokens=body=>{const system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text;return Math.ceil((system.length+body.messages[1].content.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3)};
+export async function replayReview(kind,{digests=false,write=null}={}){
  const s=setup();seedProfile(s);
- if(kind==='point'){await s.ready();seedReviews(s);seedMemoryAndHistory(s)}
+ if(kind==='point'){await s.ready();seedReviews(s,'a',{digests});seedMemoryAndHistory(s)}
  const calls=[],original=globalThis.fetch;
- globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body);calls.push(body);return response({content:'BILAN_GENERE '+'Ce qui a évolué depuis le dernier bilan. '.repeat(60)})};
+ globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body);calls.push(body);if(body.response_format?.json_schema?.name==='ambre_review_check')return response(CHECK_PASS);return response(write?write(body):{content:'BILAN_GENERE '+'Ce qui a évolué depuis le dernier bilan. '.repeat(60)})};
  let r;try{r=kind==='point'?await s.call('/api/chat/review','POST',{idempotency_key:'point-0001'}):await s.call('/api/chat/start','POST',{idempotency_key:'start-0001',accepted:true})}finally{globalThis.fetch=original}
  const body=calls[0],system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text,user=body.messages[1].content;
- return {s,r,system,user,data:JSON.parse(user.slice(user.indexOf('{'))),tokens:Math.ceil((system.length+user.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3)};
+ const check=calls.find(c=>c.response_format?.json_schema?.name==='ambre_review_check');
+ return {s,r,calls,system,user,data:JSON.parse(user.slice(user.indexOf('{'))),tokens:Math.ceil((system.length+user.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3),check,checkTokens:check?bodyTokens(check):0,outputCap:body.max_tokens+(check?check.max_tokens:0)};
 }

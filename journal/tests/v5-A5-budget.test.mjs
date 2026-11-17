@@ -23,3 +23,31 @@ for(const kind of ['initial','point'])test(`review budget ${kind}: within +10 % 
  t.diagnostic(JSON.stringify({tokens:run.tokens,ref:REFERENCE.review[kind],ratio:+(run.tokens/REFERENCE.review[kind]).toFixed(3)}));
  assert.ok(run.tokens<=REFERENCE.review[kind]*1.1);
 });
+
+// Lot A5-P1: the review thread replaces the last-review excerpt. Measured with the three reviews
+// carrying full digests (three goals followed, trials, feedback): every stage stays within +10 %
+// of the same frozen reference, and the thread keeps its fixed share (1 200 characters).
+// Measured on this tree: writing +9.0 % (ideal), +0 % to +7 % (none) against the frozen reference,
+// i.e. +1.4 % against P0 (6 397 → 6 487 tokens, system +206 characters); turn total +5.1 % at most.
+for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)test(`A5-P1 turn budget with a full review thread ${strategy}/${label}: within +10 %`,async t=>{
+ const run=await replayTurn(message,{strategy,digests:true});assert.equal(run.stage,'done');
+ const sizes=Object.fromEntries(run.calls.map(c=>[c.purpose,c.tokens])),ref=REFERENCE[strategy][label],input=JSON.parse(run.get('ambre_writing').input);
+ t.diagnostic(JSON.stringify({sizes,ref,ratio:+(sum(sizes)/sum(ref)).toFixed(3),thread_chars:JSON.stringify(input.review_thread).length}));
+ assert.ok(input.review_thread.goals.length>=2&&input.review_thread.feedback.length>=1,'goals and feedback reach the writer');
+ assert.ok(JSON.stringify(input.review_thread).length<=1200);
+ for(const [purpose,tokens] of Object.entries(ref))assert.ok(sizes[purpose]<=tokens*1.1,`${purpose} ${sizes[purpose]} > ${tokens}*1.1`);
+ assert.ok(sum(sizes)<=sum(ref)*1.1);
+});
+// The review may cost more (plan v5.1): its writing input stays within +10 % (the context ceiling
+// of 34 000 characters is unchanged), and the separate check adds one small call. Measured:
+// initial 13 047 + check 2 629 tokens (+26 % in all), point 13 622 + 2 628 (+30 %); output cap
+// 3 200 → 4 800 (text and digest) + 1 500 (check). A rewrite at most doubles both calls.
+for(const kind of ['initial','point'])test(`A5-P1 review cost ${kind}: writing within +10 %, check under 3 500 tokens, both published together`,async t=>{
+ const content='BILAN '+'Vous écrivez que la critique réveille une vigilance ancienne ; cela peut se relier à votre histoire. '.repeat(55);
+ const run=await replayReview(kind,{digests:true,write:()=>({content,digest:{formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],alliance:{text:'',quote:''},open_questions:['Qu’aimeriez-vous travailler ?'],next_focus:'La suite',safety:''}})});
+ const ref=REFERENCE.review[kind],total=run.tokens+run.checkTokens;
+ t.diagnostic(JSON.stringify({write:run.tokens,check:run.checkTokens,total,ref,ratio:+(total/ref).toFixed(3),output_cap:run.outputCap}));
+ assert.equal(run.r.status,202);assert.ok(run.check,'a separate check call');
+ assert.ok(run.tokens<=ref*1.1);assert.ok(run.checkTokens<=3500);assert.ok(total<=ref*1.35);
+ if(kind==='point')assert.ok(JSON.stringify(run.data.review_thread).length<=3000);
+});

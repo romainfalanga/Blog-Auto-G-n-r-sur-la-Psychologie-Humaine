@@ -422,6 +422,11 @@ button.self-text-edit { flex: none; padding: 8px 14px; font-size: .875rem; }
 .review-body p { margin: 0 0 12px; font-size: .9375rem; line-height: 1.7; max-width: 68ch; }
 .review-excerpt { color: var(--muted); }
 .review-item .actions { margin-top: 10px; }
+.review-digest, .review-feedback { margin: 18px 0 0; padding: 16px 0 0; border-top: 1px solid var(--line); max-width: 68ch; }
+.review-digest h3, .review-feedback h3 { margin: 0 0 8px; font-size: 1rem; }
+.review-feedback-choices { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+.review-feedback-choices button { min-height: 44px; }
+.review-feedback-choices button[aria-pressed=true] { background: var(--accent-wash); border-color: #a7c4bd; }
 @media (max-width: 600px) {
   .journey-source { grid-template-columns: minmax(0, 1fr) auto; }
   .journey-source .text-link { grid-column: 1 / -1; }
