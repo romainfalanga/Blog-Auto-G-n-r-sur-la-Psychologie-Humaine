@@ -197,15 +197,54 @@ async function internal(request,env,path) {
   if(match[2]==='complete') return completeJob(env,match[1],data);
   return personal.failJob(env,match[1],data);
 }
+const INITIAL_PAGES={
+  portrait:{path:'/mon-portrait/',routes:['/api/self-profile']},
+  people:{path:'/mes-proches/',routes:['/api/people']},
+  events:{path:'/ma-ligne-de-vie/',routes:['/api/people','/api/life-events']},
+  cartographie:{path:'/cartographie/',routes:['/api/cartographie']},
+};
+function initialJSON(value) {
+  return JSON.stringify(value).replace(/[<>&\u2028\u2029]/g,c=>'\\u'+c.charCodeAt(0).toString(16).padStart(4,'0'));
+}
+async function initialPageData(request,env,ctx,key) {
+  const page=Object.hasOwn(INITIAL_PAGES,key)?INITIAL_PAGES[key]:null;
+  if(!page) error(400,'Page inconnue.','invalid_page');
+  const read=async path=>{
+    try {
+      // Reuse the authenticated GET routes directly: no HTTP round trip or model call.
+      const headers=new Headers(),cookie=request.headers.get('cookie');
+      if(cookie)headers.set('Cookie',cookie);
+      const response=await routes(new Request(new URL(path,request.url),{method:'GET',headers}),env,ctx);
+      return {status:response.status,body:await response.json()};
+    } catch(e) {
+      return {status:e instanceof HTTPError?e.status:500,body:{error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})}};
+    }
+  };
+  const me=await read('/api/me'),responses={'/api/me':me};
+  if(me.status===200&&me.body?.user){
+    const entries=await Promise.all(page.routes.map(async path=>[path,await read(path)]));
+    for(const [path,response] of entries)responses[path]=response;
+  }
+  return {page:page.path,responses};
+}
 async function routes(request,env,ctx) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
+  if(path==='/api/initial-state') {
+    if(method!=='GET')error(405,'Méthode non autorisée.');
+    return json(await initialPageData(request,env,ctx,url.searchParams.get('page')));
+  }
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
   const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
-    const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
+    let page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
+    const initialKey=Object.keys(INITIAL_PAGES).find(key=>key!=='cartographie'&&INITIAL_PAGES[key].path===pagePath+'/');
+    if(method==='GET'&&initialKey){
+      const initial=await initialPageData(request,env,ctx,initialKey);
+      page=page.replace('/*INITIAL_PAGE_DATA*/null',()=>initialJSON(initial));
+    }
     return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
   if(['GET','HEAD'].includes(method)&&/^\/journal(?:\/|$)/.test(path)) {

@@ -9,8 +9,11 @@ const root=path.resolve(__dirname,'..');
 const data=JSON.parse(fs.readFileSync(path.join(root,'data/cartographie.json'),'utf8'));
 const Carto=require(path.join(root,'static/js/cartographie.js'));
 const template=fs.readFileSync(path.join(root,'layouts/_default/cartographie.html'),'utf8');
-const markup=template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')).replace(/{{[^}]*}}/g,match=>match.includes('$data | jsonify')?JSON.stringify(data):match.includes('readFile')?'test':'');
-const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/cartographie.css"></head><body><main>'+markup+'</main></body></html>';
+const renderTemplate=input=>input.replace(/{{[^}]*}}/g,match=>match.includes('jsonify')?JSON.stringify(data):match.includes('safeJS')&&match.includes('readFile')?fs.readFileSync(path.join(root,match.match(/readFile "([^"]+)"/)[1]),'utf8'):match.includes('readFile')?'test':'');
+// Match the real page: data and both inline scripts execute in the head, before the app exists.
+const head=renderTemplate(template.slice(0,template.indexOf('{{ define "main" }}')));
+const markup=renderTemplate(template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')));
+const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><main>'+markup+'</main></body></html>';
 const artifacts=path.join(root,'work','mon-enfance');fs.mkdirSync(artifacts,{recursive:true});
 const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_peur:1,pas_protege:1};
 
@@ -55,9 +58,10 @@ const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_p
    await page.locator('[data-theme="violences"] > summary').click();
    const factor=page.locator('[data-factor="abus_physique"]');
    const checks=await factor.locator('.carto-choice').evaluateAll(nodes=>nodes.map(n=>{const r=n.getBoundingClientRect();return {label:n.textContent,width:r.width,height:r.height,clipped:n.scrollWidth>n.clientWidth,wrap:getComputedStyle(n).whiteSpace}}));
-   assert.deepEqual(checks.map(c=>c.label),['Non','Oui','Souvent','Je ne sais pas']);
+   assert.deepEqual(checks.map(c=>c.label),['Non','Oui','Je ne sais pas']);
    assert.ok(checks.every(c=>c.height>=44&&c.width>=44&&!c.clipped&&c.wrap==='nowrap'),JSON.stringify(checks));
-   const unknown=factor.locator('[data-level="unknown"]');await factor.locator('[data-level="2"]').focus();await page.keyboard.press('Tab');
+   assert.equal(await factor.locator('[data-level="1"]').getAttribute('aria-pressed'),'true','stored 2 is displayed as Yes');assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')).answers.abus_physique),2,'viewing preserves the original frequency');
+   const unknown=factor.locator('[data-level="unknown"]');await factor.locator('[data-level="1"]').focus();await page.keyboard.press('Tab');
    assert.equal(await unknown.evaluate(n=>n===document.activeElement),true);
    assert.equal(await unknown.evaluate(n=>n.matches(':focus-visible')),true);
    assert.ok(await unknown.evaluate(n=>parseFloat(getComputedStyle(n).outlineWidth)>=2));
@@ -68,7 +72,7 @@ const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_p
    const binary=page.locator('[data-factor="adoption"]');
    assert.deepEqual(await binary.locator('.carto-choice').allInnerTexts(),['Non','Oui','Je ne sais pas']);
    assert.ok(await binary.locator('.carto-choice').evaluateAll(nodes=>nodes.every(n=>n.getBoundingClientRect().height>=44&&n.scrollWidth<=n.clientWidth)));
-   await factor.scrollIntoViewIfNeeded();await factor.locator('[data-level="2"]').focus();await page.keyboard.press('Tab');
+   await factor.scrollIntoViewIfNeeded();await factor.locator('[data-level="1"]').focus();await page.keyboard.press('Tab');
    await page.screenshot({path:path.join(artifacts,'choices-'+width+'.png')});
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true);
    // Factor details also retain explanations without visible references.

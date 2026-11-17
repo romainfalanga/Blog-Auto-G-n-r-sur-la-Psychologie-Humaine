@@ -6,6 +6,15 @@
   HUGO_VERSION = "0.140.0"
   HUGO_ENV = "production"
 
+# Personal data is assembled per request, never stored in the public CDN cache.
+[[edge_functions]]
+  path = "/cartographie"
+  function = "personal-page-data"
+
+[[edge_functions]]
+  path = "/cartographie/"
+  function = "personal-page-data"
+
 # Redirection www -> non-www
 [[redirects]]
   from = "https://www.decodetonesprit.fr/*"

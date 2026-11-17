@@ -1,5 +1,10 @@
-{{ define "main" }}
+{{ define "head-end" }}
 <link rel="stylesheet" href="/css/cartographie.css?v={{ readFile "static/css/cartographie.css" | md5 }}">
+<script id="cartographie-data" type="application/json">{{ .Site.Data.cartographie | jsonify | safeJS }}</script>
+<script>{{ readFile "static/js/cartographie.js" | safeJS }}</script>
+<script>{{ readFile "static/js/cartographie-ui.js" | safeJS }}</script>
+{{ end }}
+{{ define "main" }}
 {{ $data := .Site.Data.cartographie }}
 {{ if not $data }}<div class="container-wide carto"><h1>Mon enfance</h1><p>Cette page est en cours de préparation.</p></div>{{ else }}
 <div class="container-wide carto" data-cartographie-app data-view="form" data-loading="true" aria-busy="true">
@@ -12,7 +17,7 @@
     <button type="button" role="tab" data-tab="results" aria-selected="false" disabled>Ce qui en ressort</button>
   </div>
 
-  <p class="carto-loading" data-loading-status role="status">Chargement de Mon enfance…</p>
+  <p class="carto-loading" data-loading-status role="status" hidden>Chargement de Mon enfance…</p>
 
   <div class="carto-save" data-save></div>
 
@@ -37,9 +42,6 @@
     <div class="carto-dialog-body" data-dialog-body></div>
   </dialog>
 
-  <script id="cartographie-data" type="application/json">{{ $data | jsonify | safeJS }}</script>
 </div>
-<script defer src="/js/cartographie.js?v={{ readFile "static/js/cartographie.js" | md5 }}"></script>
-<script defer src="/js/cartographie-ui.js?v={{ readFile "static/js/cartographie-ui.js" | md5 }}"></script>
 {{ end }}
 {{ end }}

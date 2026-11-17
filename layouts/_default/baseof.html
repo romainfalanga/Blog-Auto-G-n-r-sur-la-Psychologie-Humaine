@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
   {{ partial "head.html" . }}
+  {{ block "head-end" . }}{{ end }}
 </head>
 <body class="{{ if or .IsHome (and (eq .Kind "section") (eq .Section "personnages")) }}home-page{{ else if and .IsPage (eq .Section "posts") }}reading-page{{ end }}">
   <a class="skip-link" href="#main-content">Aller au contenu</a>

@@ -4,15 +4,29 @@
 (function () {
   'use strict';
 
-  var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
-  var EMPIRICAL_ORDER = ['forte', 'moderee', 'limitee'];
   // Links that are not measured associations: explanations only, never counted.
-  var OTHER_RELATIONS = [['clinical_model', 'Modèle clinique'], ['definitional', 'Correspondance de définition'], ['classification_context', 'Contexte décrit par la CIM-11']];
+  var OTHER_RELATIONS = [['clinical_model', 'Repères cliniques']];
   function relationOf(l) { return l.definitional ? 'definitional' : l.relation_type || (l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); }
   function isEmpirical(l) { return relationOf(l) === 'empirical_association'; }
   function plural(n, one, many) { return n + ' ' + (n > 1 ? many : one); }
   var FAMILIAL_TEXT = 'Ce lien reflète en grande partie une transmission familiale (hérédité et environnement partagé), pas seulement l’effet de ce vécu.';
-  var EVIDENCE_LABEL = { 12: 'Preuves solides', 8: 'Preuves modérées', 4: 'Preuves limitées', 0: 'Modèle clinique, non mesuré' };
+  // Presentation only: the source descriptions, classification and evidence stay intact.
+  var PLAIN_DESCRIPTIONS = {
+    anx_generale: 'Inquiétudes, peurs ou angoisses durables qui gênent la vie quotidienne.',
+    ten_externalisation: 'Opposition, colères, agressivité ou conduites antisociales, observées dans l’enfance, l’adolescence ou plus tard.',
+    dep_generale: 'Tristesse, perte d’intérêt, fatigue, pensées de dévalorisation.',
+    ten_symptomes_depressifs_perinataux: 'Une souffrance dépressive pendant la grossesse ou l’année qui suit la naissance.',
+    icd_6a60: 'Des épisodes maniaques ou hypomaniaques et dépressifs dont la présentation varie selon les personnes.',
+    ten_usage_cannabis: 'Un usage de cannabis difficile à maîtriser ou associé à des difficultés dans la vie quotidienne.'
+  };
+  function outcomeLabel(o) { return o.label.replace(' (preuves agrégées)', ''); }
+  function explanation(text) {
+    return text.replace(/ selon le DSM-IV/g, '')
+      .replace(/^La CIM-11 retient les violences physiques comme événement pouvant précéder un stress post-traumatique ; chez/, 'Chez')
+      .replace('le diagnostic CIM-11', 'un diagnostic')
+      .replace('La CIM-11 décrit la personnalité par dimensions. ', '')
+      .replace('; elle indique les repères de la CIM-11 sur les événements extrêmement menaçants', '');
+  }
   var NOTE_MAX = 1000;
   var DRAFT_KEY = 'cartographie-brouillon-v1';
 
@@ -100,8 +114,27 @@
     function hasContent() {
       return Object.keys(state.answers).length || Object.keys(state.feedback).length || Object.keys(state.resources).length || Object.keys(state.notes.factors).length || Object.keys(state.notes.outcomes).length;
     }
+    // Navigation may carry the first GET responses. Consume each once so retries
+    // and conflict refreshes always read the current server state.
+    var initialResponses = {};
+    try {
+      var initialNode = document.getElementById('cartographie-initial');
+      var initial = initialNode && JSON.parse(initialNode.textContent);
+      if (initial && initial.page === '/cartographie/' && initial.responses && typeof initial.responses === 'object') initialResponses = initial.responses;
+    } catch (e) { /* Missing or invalid bootstrap uses the ordinary API path. */ }
+    function request(path, options) {
+      options = options || {};
+      if ((!options.method || options.method === 'GET') && Object.prototype.hasOwnProperty.call(initialResponses, path)) {
+        var entry = initialResponses[path];
+        delete initialResponses[path];
+        if (entry && Number.isInteger(entry.status) && entry.status >= 100 && entry.status <= 599 && Object.prototype.hasOwnProperty.call(entry, 'body')) {
+          return Promise.resolve({ ok: entry.status >= 200 && entry.status < 300, status: entry.status, json: function () { return Promise.resolve(entry.body); } });
+        }
+      }
+      return fetch(path, Object.assign({}, options, { cache: 'no-store' }));
+    }
     function api(method, path, body) {
-      return fetch('/api/cartographie' + (path || ''), { method: method, credentials: 'same-origin', headers: body ? { 'Content-Type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined })
+      return request('/api/cartographie' + (path || ''), { method: method, credentials: 'same-origin', headers: body ? { 'Content-Type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined })
         .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { if (!r.ok) { var e = new Error((j.error && j.error.message) || j.message || (typeof j.error === 'string' ? j.error : '') || 'Enregistrement impossible pour le moment.'); e.status = r.status; throw e; } return j; }); });
     }
     function applyServer(j, keepLocal) {
@@ -231,7 +264,8 @@
 
     /* ---- Mon enfance ---- */
     function choice(current, level, label, onPick) {
-      var on = current === level;
+      // Historical frequency stays stored as 2; the three-choice UI presents it as Yes.
+      var on = current === level || current === 2 && level === 1;
       return el('button', { type: 'button', className: 'carto-choice' + (on ? ' is-on' : ''), 'data-level': String(level), 'aria-pressed': on ? 'true' : 'false', onclick: function () { onPick(level); } }, [label]);
     }
     function setAnswer(f, level) {
@@ -248,10 +282,9 @@
       formBody.querySelectorAll('[data-factor]').forEach(function (row) {
         var id = row.getAttribute('data-factor'), value = state.answers[id];
         row.classList.toggle('is-checked', value === 1 || value === 2);
-        var legacy = row.querySelector('.carto-legacy-frequency'); if (legacy) legacy.hidden = value !== 2;
         row.querySelectorAll('[data-level]').forEach(function (button) {
           var level = button.getAttribute('data-level');
-          var selected = value === (level === 'unknown' ? 'unknown' : Number(level));
+          var selected = value === (level === 'unknown' ? 'unknown' : Number(level)) || value === 2 && level === '1';
           button.classList.toggle('is-on', selected); button.setAttribute('aria-pressed', selected ? 'true' : 'false');
         });
       });
@@ -281,11 +314,11 @@
     }
 
     function factorRow(f) {
-      var nLinks = (linksByFactor[f.id] || []).length, value = state.answers[f.id];
+      var nLinks = (linksByFactor[f.id] || []).filter(function (l) { return isEmpirical(l) || relationOf(l) === 'clinical_model'; }).length, value = state.answers[f.id];
       var hint = f.description + (f.examples && f.examples.length ? ' Par exemple : ' + f.examples.join(' ; ') + '.' : '');
       var controls;
       if (f.historical) {
-        var answer = value === 'unknown' ? 'Je ne sais pas' : value === 0 ? 'Non' : value === 1 ? 'Oui' : value === 2 ? 'Souvent' : 'Non renseignée';
+        var answer = value === 'unknown' ? 'Je ne sais pas' : value === 0 ? 'Non' : value === 1 || value === 2 ? 'Oui' : 'Non renseignée';
         controls = el('div', { className: 'carto-legacy-answer' }, [
           el('p', { text: 'Ancienne question — réponse conservée : ' + answer + '.' }),
           el('p', { text: 'Cette question réunissait des règles strictes et du contrôle psychologique. Vous pouvez répondre séparément aux deux questions suivantes ; votre ancienne réponse ne permet pas de choisir à votre place.' }),
@@ -293,14 +326,12 @@
         ]);
       } else {
         var choices = [choice(value, 0, 'Non', function (l) { setAnswer(f, l); }), choice(value, 1, 'Oui', function (l) { setAnswer(f, l); })];
-        if (f.response_mode !== 'binary') choices.push(choice(value, 2, 'Souvent', function (l) { setAnswer(f, l); }));
         choices.push(choice(value, 'unknown', 'Je ne sais pas', function (l) { setAnswer(f, l); }));
         controls = el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, choices);
       }
       return el('li', { 'data-factor': f.id, className: 'carto-factor-row' + (value === 1 || value === 2 ? ' is-checked' : '') }, [
         el('strong', { className: 'carto-factor-label', text: f.label }),
         el('p', { className: 'carto-factor-hint', text: hint }),
-        f.response_mode === 'binary' ? el('p', { className: 'carto-legacy-frequency', hidden: value !== 2, text: 'Ancienne réponse : Souvent. Elle reste enregistrée telle quelle ; vous pouvez choisir une nouvelle réponse.' }) : null,
         el('div', { className: 'carto-factor-actions' }, [controls,
           nLinks ? el('button', { type: 'button', className: 'carto-see', 'aria-label': 'Voir les ' + nLinks + ' associations étudiées : ' + f.label, onclick: function () { openFactor(f); } }, ['Liens étudiés (' + nLinks + ')']) : null
         ]),
@@ -316,7 +347,7 @@
       dialog.querySelector('[data-dialog-title]').textContent = f.label;
       body.appendChild(el('p', { className: 'carto-dialog-intro', text: 'Associations étudiées et repères cliniques concernant ce vécu. Une association observée dans un groupe ne démontre ni une cause ni un trouble chez vous.' }));
       var links = linksByFactor[f.id] || [];
-      var sections = EMPIRICAL_ORDER.map(function (s) { return [STRENGTH_LABEL[s], links.filter(function (l) { return isEmpirical(l) && l.strength === s; })]; })
+      var sections = [['Associations étudiées', links.filter(isEmpirical)]]
         .concat(OTHER_RELATIONS.map(function (r) { return [r[1], links.filter(function (l) { return !isEmpirical(l) && relationOf(l) === r[0]; })]; }));
       sections.forEach(function (section) {
         var items = section[1];
@@ -325,8 +356,8 @@
         body.appendChild(el('ul', { className: 'carto-dialog-list' }, items.map(function (l) {
           var o = outcomes[l.outcome];
           return el('li', {}, [
-            el('strong', { text: o.label }),
-            el('p', { text: l.summary }),
+            el('strong', { text: outcomeLabel(o) }),
+            el('p', { text: explanation(l.summary) }),
           ]);
         })));
       });
@@ -339,8 +370,8 @@
       body.innerHTML = '';
       dialog.querySelector('[data-dialog-title]').textContent = scope.title || 'Ce que la carte ne couvre pas';
       if (scope.text) body.appendChild(el('p', { className: 'carto-dialog-intro', text: scope.text }));
-      body.appendChild(el('ul', { className: 'carto-dialog-list carto-scope-list' }, (scope.items || []).map(function (item) {
-        return el('li', {}, [el('strong', { text: item.scope }), el('p', { text: item.reason })]);
+      body.appendChild(el('ul', { className: 'carto-dialog-list carto-scope-list' }, (scope.items || []).filter(function (item) { return item.scope !== 'Modèles de classement HiTOP et AMPD'; }).map(function (item) {
+        return el('li', {}, [el('strong', { text: item.scope }), el('p', { text: explanation(item.reason) })]);
       })));
       if (typeof dialog.showModal === 'function') dialog.showModal(); else dialog.setAttribute('open', '');
     }
@@ -350,13 +381,13 @@
 
     /* ---- Ce qui en ressort ---- */
     // Checked experiences behind a subject: measured associations first by strength,
-    // then experiences linked only by a model; "(souvent)" after a « Souvent » answer.
+    // then experiences linked only by a model. Stored frequency does not change the label.
     function fromLine(r) {
       var seen = {}, names = [];
       r.links.forEach(function (l) {
         if (seen[l.factor]) return;
         seen[l.factor] = true;
-        names.push(factors[l.factor].label + (factors[l.factor].historical ? ' (ancienne question)' : '') + (state.answers[l.factor] === 2 ? factors[l.factor].response_mode === 'binary' ? ' (ancienne réponse : Souvent)' : ' (souvent)' : ''));
+        names.push(factors[l.factor].label + (factors[l.factor].historical ? ' (ancienne question)' : ''));
       });
       if (names.length <= 3) return names.join(', ');
       var rest = names.length - 3;
@@ -368,11 +399,8 @@
       var o = r.outcome, fb = state.feedback[o.id];
       var open = Boolean(state.open[o.id]);
       var children = [
-        el('h4', { className: 'carto-card-title', text: o.label }),
+        el('h4', { className: 'carto-card-title', text: outcomeLabel(o) }),
         el('p', { className: 'carto-from-line' }, ['Relié à : ', el('b', { text: fromLine(r) })]),
-        el('div', { className: 'carto-card-meta' }, [
-          el('span', { className: 'carto-badge', text: EVIDENCE_LABEL[r.max_points] }),
-        ]),
         r.familial ? el('p', { className: 'carto-familial', text: FAMILIAL_TEXT }) : null,
         el('div', { className: 'carto-feedback', role: 'group', 'aria-label': 'Vous reconnaissez-vous ?' }, [
           el('button', { type: 'button', className: 'carto-fb' + (fb === 'oui' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':oui', 'aria-pressed': fb === 'oui' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'oui'); } }, ['Je me reconnais']),
@@ -382,19 +410,19 @@
       ];
       if (open) {
         var body = [];
-        if (o.description) body.push(el('p', { className: 'carto-desc', text: o.description }));
+        if (o.description) body.push(el('p', { className: 'carto-desc', text: PLAIN_DESCRIPTIONS[o.id] || o.description }));
         var linkItem = function (label) { return function (l) {
           return el('li', {}, [
-            el('div', { className: 'carto-from' }, [el('strong', { text: factors[l.factor].label }), el('span', { className: 'carto-strength carto-strength-' + l.strength, text: label(l) })]),
-            el('p', { className: 'carto-link-text', text: l.summary }),
+            el('div', { className: 'carto-from' }, [el('strong', { text: factors[l.factor].label }), label ? el('span', { className: 'carto-relation', text: label(l) }) : null]),
+            el('p', { className: 'carto-link-text', text: explanation(l.summary) }),
             familialFactors[l.factor] && isEmpirical(l) ? el('p', { className: 'carto-familial', text: FAMILIAL_TEXT }) : null,
           ]);
         }; };
-        var measured = r.links.filter(isEmpirical), others = r.links.filter(function (l) { return !isEmpirical(l); });
-        if (measured.length) body.push(el('ul', { className: 'carto-links' }, measured.map(linkItem(function (l) { return STRENGTH_LABEL[l.strength]; }))));
+        var measured = r.links.filter(isEmpirical), others = r.links.filter(function (l) { return relationOf(l) === 'clinical_model'; });
+        if (measured.length) body.push(el('ul', { className: 'carto-links' }, measured.map(linkItem(null))));
         if (others.length) {
-          body.push(el('p', { className: 'carto-other-title', text: 'Autres repères (modèles cliniques, définitions)' }));
-          body.push(el('ul', { className: 'carto-links carto-links-other' }, others.map(linkItem(function (l) { return OTHER_RELATIONS.filter(function (x) { return x[0] === relationOf(l); }).map(function (x) { return x[1]; })[0] || STRENGTH_LABEL[l.strength]; }))));
+          body.push(el('p', { className: 'carto-other-title', text: 'Autres repères' }));
+          body.push(el('ul', { className: 'carto-links carto-links-other' }, others.map(linkItem(function (l) { return OTHER_RELATIONS.filter(function (x) { return x[0] === relationOf(l); }).map(function (x) { return x[1]; })[0] || 'Repère clinique'; }))));
         }
         if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Ces rapprochements ne décrivent pas votre situation clinique et ne mesurent pas votre risque personnel. Seul un professionnel peut évaluer un trouble.' }));
         children.push(el('div', { className: 'carto-card-body' }, body));
@@ -406,12 +434,11 @@
       if (an) children.push(el('div', { className: 'carto-card-notes' }, [an]));
       return el('article', { className: 'carto-card', 'data-section': r.section, 'data-outcome': o.id, 'data-associated': String(r.associated_count) }, children);
     }
-    // A folded subject: one line (title, evidence) that turns into the full card in place.
+    // A folded subject: its title turns into the full card in place.
     function row(r) {
       var o = r.outcome, open = Boolean(state.rowOpen[o.id]);
       var line = el('button', { type: 'button', className: 'carto-row', 'data-focus': 'row:' + o.id, 'data-outcome': o.id, 'data-section': r.section, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.rowOpen[o.id] = !open; renderResults(); } }, [
-        el('span', { className: 'carto-row-title', text: o.label }),
-        el('small', { text: EVIDENCE_LABEL[r.max_points] })
+        el('span', { className: 'carto-row-title', text: outcomeLabel(o) })
       ]);
       return el('li', { className: 'carto-row-item' }, open ? [line, card(r)] : [line]);
     }
@@ -524,7 +551,7 @@
       readDraft(DRAFT_KEY);
       state.loading = false; state.initialized = true; renderAll();
     }
-    fetch('/api/me', { credentials: 'same-origin' }).then(function (r) {
+    request('/api/me', { credentials: 'same-origin' }).then(function (r) {
       if (!r.ok) throw new Error('Session unavailable');
       return r.json();
     }).then(function (me) {
