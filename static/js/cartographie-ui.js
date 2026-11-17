@@ -6,14 +6,15 @@
 
   var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
   var EMPIRICAL_ORDER = ['forte', 'moderee', 'limitee'];
-  // Links that are not measured associations: shown apart, never counted in the order.
+  // Links that are not measured associations: shown apart, they weigh little in the order.
   var OTHER_RELATIONS = [['clinical_model', 'Modèle clinique'], ['definitional', 'Correspondance de définition'], ['classification_context', 'Contexte décrit par la CIM-11']];
   function relationOf(l) { return l.definitional ? 'definitional' : l.relation_type || (l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); }
   function isEmpirical(l) { return relationOf(l) === 'empirical_association'; }
   function plural(n, one, many) { return n + ' ' + (n > 1 ? many : one); }
   var KIND_LABEL = { trouble: 'Trouble étudié', schema: 'Schéma précoce', attachement: 'Attachement', tendance: 'Tendance' };
   function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité (dimension)', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma (modèle clinique)', schema_coping_style: 'Style d’adaptation aux schémas (modèle clinique)', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
-  var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
+  var FAMILIAL_TEXT = 'Ce lien reflète en grande partie une transmission familiale (hérédité et environnement partagé), pas seulement l’effet de ce vécu.';
+  var EVIDENCE_LABEL = { 12: 'Preuves solides', 8: 'Preuves modérées', 4: 'Preuves limitées', 0: 'Modèle clinique, non mesuré' };
   var NOTE_MAX = 1000;
   var DRAFT_KEY = 'cartographie-brouillon-v1';
 
@@ -38,12 +39,14 @@
     data.factors.forEach(function (f) { factors[f.id] = f; });
     (data.retired_outcomes || []).concat(data.outcomes).forEach(function (o) { outcomes[o.id] = o; });
     data.sources.forEach(function (s) { sources[s.id] = s; });
+    // Contextual and retired subjects are not displayed, here or in « Liens étudiés ».
+    function visible(id) { var o = outcomes[id]; return Boolean(o && !o.retired && !o.contextual_only); }
     var linksByFactor = {};
-    data.links.forEach(function (l) { (linksByFactor[l.factor] = linksByFactor[l.factor] || []).push(l); });
+    data.links.forEach(function (l) { if (visible(l.outcome)) (linksByFactor[l.factor] = linksByFactor[l.factor] || []).push(l); });
 
     var state = {
       answers: {}, feedback: {}, notes: { factors: {}, outcomes: {} }, resources: {}, ambreNotes: [],
-      view: 'form', themesOpen: {}, open: {}, noteOpen: {},
+      view: 'form', themesOpen: {}, open: {}, noteOpen: {}, rowOpen: {}, foldOpen: {},
       account: null, accountReady: false, loading: true, loadError: false, saved: false, version: 0,
       saving: false, deleting: false, deleted: false, dirty: false, editRevision: 0, conflict: null,
       saveError: '', savedAt: null
@@ -57,7 +60,7 @@
     var formBody = $('[data-form-body]'), results = $('[data-results]');
     var countEls = root.querySelectorAll('[data-count]'), saveBox = $('[data-save]'), dialog = $('[data-dialog]');
 
-    function compute() { return window.Cartographie.compute(data, state.answers); }
+    function compute() { return window.Cartographie.compute(data, state.answers, state.feedback); }
     function answered(t) {
       return t.items.filter(function (i) { return Object.prototype.hasOwnProperty.call(state.answers, i.id) || state.notes.factors[i.id]; }).length;
     }
@@ -174,6 +177,9 @@
       if (!saveBox) return;
       saveBox.innerHTML = '';
       if (!state.account) {
+        // While the session check runs, show nothing: a connected member would otherwise
+        // see a notice flash and vanish.
+        if (state.loading) { saveBox.dataset.state = 'loading'; return; }
         saveBox.dataset.state = 'anonymous';
         saveBox.appendChild(el('p', {}, [state.loading ? 'Vérification de votre connexion… Vos réponses restent sur cet appareil.' : 'Sans connexion, vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ', state.loading ? null : el('a', { href: '/mon-compte/', text: 'Se connecter' })]));
         if (hasContent()) saveBox.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting, onclick: removeSaved }, ['Effacer mon brouillon']));
@@ -306,9 +312,9 @@
       body.innerHTML = '';
       dialog.querySelector('[data-dialog-title]').textContent = f.label;
       body.appendChild(el('p', { className: 'carto-dialog-intro', text: 'Associations étudiées et repères cliniques concernant ce vécu. Une association observée dans un groupe ne démontre ni une cause ni un trouble chez vous.' }));
-      var links = (linksByFactor[f.id] || []).filter(function (l) { return outcomes[l.outcome]; });
+      var links = linksByFactor[f.id] || [];
       var sections = EMPIRICAL_ORDER.map(function (s) { return [STRENGTH_LABEL[s], links.filter(function (l) { return isEmpirical(l) && l.strength === s; })]; })
-        .concat(OTHER_RELATIONS.map(function (r) { return [r[1] + ' · non compté', links.filter(function (l) { return !isEmpirical(l) && relationOf(l) === r[0]; })]; }));
+        .concat(OTHER_RELATIONS.map(function (r) { return [r[1] + ' · poids faible', links.filter(function (l) { return !isEmpirical(l) && relationOf(l) === r[0]; })]; }));
       sections.forEach(function (section) {
         var items = section[1];
         if (!items.length) return;
@@ -344,16 +350,40 @@
     dialog.addEventListener('click', function (e) { if (e.target === dialog && dialog.close) dialog.close(); });
 
     /* ---- Ce qui en ressort ---- */
+    // Checked experiences behind a subject: measured associations first by strength,
+    // then experiences linked only by a model; "(souvent)" after a « Souvent » answer.
+    function fromLine(r) {
+      var seen = {}, names = [];
+      r.links.forEach(function (l) {
+        if (seen[l.factor]) return;
+        seen[l.factor] = true;
+        names.push(factors[l.factor].label + (state.answers[l.factor] === 2 ? ' (souvent)' : ''));
+      });
+      if (names.length <= 3) return names.join(', ');
+      var rest = names.length - 3;
+      return names.slice(0, 3).join(', ') + ' et ' + rest + (rest > 1 ? ' autres' : ' autre');
+    }
+    var familialFactors = {};
+    ((data.ranking && data.ranking.familial_factors) || []).forEach(function (id) { familialFactors[id] = true; });
+    function kindText(o) { return kindLabel(o) + (o.code ? ' · ' + o.code : ''); }
     function card(r) {
       var o = r.outcome, fb = state.feedback[o.id];
       var open = Boolean(state.open[o.id]);
-      var children = [el('button', { type: 'button', className: 'carto-card-toggle', 'data-focus': 'outcome:' + o.id, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.open[o.id] = !open; renderResults(); } }, [
-        el('span', { className: 'carto-kind', text: kindLabel(o) + (o.code ? ' · ' + o.code : '') }),
-        el('span', { className: 'carto-card-title', text: o.label }),
-        el('span', { className: 'carto-card-meta', 'data-associated': String(r.associated_count), text: cardMeta(r, open) })
-      ])];
-      if (o.contextual_only && !(o.note && NOTE_TEXT[o.note])) children.push(el('p', { className: 'carto-caution carto-card-caution', text: 'Repère de contexte : Ambre ne vous le suggère pas à partir de ces réponses.' }));
-      if (o.note && NOTE_TEXT[o.note]) children.push(el('p', { className: 'carto-caution carto-card-caution', text: NOTE_TEXT[o.note] }));
+      var children = [
+        el('h4', { className: 'carto-card-title', text: o.label }),
+        el('p', { className: 'carto-from-line' }, ['Relié à : ', el('b', { text: fromLine(r) })]),
+        el('div', { className: 'carto-card-meta' }, [
+          el('span', { className: 'carto-badge', text: EVIDENCE_LABEL[r.max_points] }),
+          r.frequent ? el('span', { className: 'carto-badge is-frequent', text: 'Associé à de nombreux vécus' }) : null,
+          el('span', { className: 'carto-kind', text: kindText(o) })
+        ]),
+        r.familial ? el('p', { className: 'carto-familial', text: FAMILIAL_TEXT }) : null,
+        el('div', { className: 'carto-feedback', role: 'group', 'aria-label': 'Vous reconnaissez-vous ?' }, [
+          el('button', { type: 'button', className: 'carto-fb' + (fb === 'oui' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':oui', 'aria-pressed': fb === 'oui' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'oui'); } }, ['Je me reconnais']),
+          el('button', { type: 'button', className: 'carto-fb' + (fb === 'non' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':non', 'aria-pressed': fb === 'non' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'non'); } }, ['Pas moi']),
+          el('button', { type: 'button', className: 'carto-detail', 'data-focus': 'outcome:' + o.id, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.open[o.id] = !open; renderResults(); } }, [open ? 'Replier' : 'Voir le détail'])
+        ])
+      ];
       if (open) {
         var body = [];
         if (o.description) body.push(el('p', { className: 'carto-desc', text: o.description }));
@@ -361,43 +391,52 @@
           return el('li', {}, [
             el('div', { className: 'carto-from' }, [el('strong', { text: factors[l.factor].label }), el('span', { className: 'carto-strength carto-strength-' + l.strength, text: label(l) })]),
             el('p', { className: 'carto-link-text', text: l.summary }),
+            familialFactors[l.factor] && isEmpirical(l) ? el('p', { className: 'carto-familial', text: FAMILIAL_TEXT }) : null,
             sourceList(l.sources)
           ]);
         }; };
         var measured = r.links.filter(isEmpirical), others = r.links.filter(function (l) { return !isEmpirical(l); });
         if (measured.length) body.push(el('ul', { className: 'carto-links' }, measured.map(linkItem(function (l) { return STRENGTH_LABEL[l.strength]; }))));
         if (others.length) {
-          body.push(el('p', { className: 'carto-other-title', text: 'Autres repères, non comptés dans l’ordre de la liste' }));
-          body.push(el('p', { className: 'carto-other-desc', text: 'Modèles cliniques, correspondances de définition ou contextes de classification : ils aident à comprendre, sans être une association mesurée.' }));
+          body.push(el('p', { className: 'carto-other-title', text: 'Autres repères (modèles cliniques, définitions) — comptent peu dans l’ordre' }));
           body.push(el('ul', { className: 'carto-links carto-links-other' }, others.map(linkItem(function (l) { return OTHER_RELATIONS.filter(function (x) { return x[0] === relationOf(l); }).map(function (x) { return x[1]; })[0] || STRENGTH_LABEL[l.strength]; }))));
         }
         if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Ces rapprochements ne décrivent pas votre situation clinique et ne mesurent pas votre risque personnel. Seul un professionnel peut évaluer un trouble.' }));
         children.push(el('div', { className: 'carto-card-body' }, body));
       }
-      children.push(el('div', { className: 'carto-feedback', role: 'group', 'aria-label': 'Vous reconnaissez-vous ?' }, [
-        el('button', { type: 'button', className: 'carto-fb' + (fb === 'oui' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':oui', 'aria-pressed': fb === 'oui' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'oui'); } }, ['Je me reconnais']),
-        el('button', { type: 'button', className: 'carto-fb' + (fb === 'non' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':non', 'aria-pressed': fb === 'non' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'non'); } }, ['Pas moi'])
-      ]));
       if (fb === 'oui' || open || state.notes.outcomes[o.id]) {
         children.push(el('div', { className: 'carto-card-notes' }, [noteField('outcomes', o.id, 'Décrire comment cela se manifeste aujourd’hui', 'Dans quelles situations, avec qui, ce que vous faites ou ressentez…', 'Comment cela se manifeste aujourd’hui')]));
       }
       var an = ambreNotes('outcome', o.id);
       if (an) children.push(el('div', { className: 'carto-card-notes' }, [an]));
-      return el('article', { className: 'carto-card carto-tier-' + r.tier + (fb === 'non' ? ' is-dismissed' : '') }, children);
+      return el('article', { className: 'carto-card', 'data-section': r.section, 'data-outcome': o.id, 'data-associated': String(r.associated_count) }, children);
     }
-    // Collapsed header: the count is the number of checked experiences linked by an
-    // empirical association; contextual references never carry an evidence label.
-    function cardMeta(r, open) {
-      var n = r.associated_count, parts = [];
-      parts.push(n ? plural(n, 'vécu associé', 'vécus associés') : 'Aucune association étudiée');
-      if (r.outcome.contextual_only) parts.push('Repère de contexte');
-      else if (n) parts.push(STRENGTH_LABEL[r.links[0].strength]);
-      if (r.other_links) parts.push(plural(r.other_links, 'autre repère', 'autres repères'));
-      parts.push(open ? 'Replier' : 'Voir le détail');
-      return parts.join(' · ');
+    // A folded subject: one line (title, evidence) that turns into the full card in place.
+    function row(r) {
+      var o = r.outcome, open = Boolean(state.rowOpen[o.id]);
+      var line = el('button', { type: 'button', className: 'carto-row', 'data-focus': 'row:' + o.id, 'data-outcome': o.id, 'data-section': r.section, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.rowOpen[o.id] = !open; renderResults(); } }, [
+        el('span', { className: 'carto-row-title', text: o.label }),
+        el('small', { text: EVIDENCE_LABEL[r.max_points] + (r.frequent ? ' · associé à de nombreux vécus' : '') })
+      ]);
+      return el('li', { className: 'carto-row-item' }, open ? [line, card(r)] : [line]);
+    }
+    function fold(name, title, items) {
+      var details = el('details', { className: 'carto-fold', 'data-fold': name }, [
+        el('summary', { 'data-focus': 'fold:' + name, text: title + ' (' + items.length + ')' }),
+        el('ul', { className: 'carto-rows' }, items.map(row))
+      ]);
+      if (state.foldOpen[name]) details.open = true;
+      details.addEventListener('toggle', function () { if (details.isConnected) state.foldOpen[name] = details.open; });
+      return details;
+    }
+    function section(title, items) {
+      return el('section', { className: 'carto-section' }, [el('h3', { className: 'carto-section-title', text: title }), el('div', { className: 'carto-grid' }, items.map(card))]);
     }
     function setFeedback(id, value) {
       if (state.feedback[id] === value) delete state.feedback[id]; else state.feedback[id] = value;
+      // The card moves to its new section; a folded section opens so focus can follow it.
+      var moved = compute().results.filter(function (r) { return r.outcome.id === id; })[0];
+      if (moved && (moved.section === 'other' || moved.section === 'dismissed')) { state.foldOpen[moved.section] = true; state.rowOpen[id] = true; }
       changed(); renderResults();
     }
 
@@ -417,9 +456,14 @@
         results.appendChild(el('p', { className: 'carto-empty', text: 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
         return;
       }
-      // One list in the engine's order, shared with Ambre: experiences linked by an empirical
-      // association first; contextual references last.
-      results.appendChild(el('div', { className: 'carto-grid' }, s.results.map(card)));
+      // One list in the engine's order, shared with Ambre, grouped in sections.
+      var sec = s.sections;
+      results.appendChild(el('p', { className: 'carto-rank-note', text: 'Classés selon la solidité des études et ce qui est le plus propre à vos réponses ; ce n’est pas une mesure de votre risque.' }));
+      if (sec.recognized.length) results.appendChild(section('Vous vous y reconnaissez (' + sec.recognized.length + ')', sec.recognized));
+      if (sec.top.length) results.appendChild(section('Le plus en lien avec vos réponses', sec.top));
+      if (sec.frequent.length) results.appendChild(section('Aussi associés à la plupart des vécus difficiles', sec.frequent));
+      if (sec.other.length) results.appendChild(fold('other', 'Autres sujets reliés à vos réponses', sec.other));
+      if (sec.dismissed.length) results.appendChild(fold('dismissed', 'Écartés : « Pas moi »', sec.dismissed));
       restoreFocus(focused);
     }
 

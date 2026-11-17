@@ -67,7 +67,10 @@ test('published dataset is consistent', () => {
   }
   for (const o of data.outcomes) assert.ok(!/^icd_6a0[0-5]/.test(o.id), `${o.id} must not be linked to upbringing`);
   const all = compute(data, data.factors.map(f => f.id));
-  assert.ok(all.results.length === outcomes.size);
+  // v5 (lot C5a): every visible subject is reachable; contextual subjects are never displayed.
+  assert.equal(all.results.length, data.outcomes.filter(o => !o.contextual_only).length);
+  assert.ok(!all.results.some(r => r.outcome.contextual_only));
+  for (const o of data.outcomes) { assert.ok(Number.isInteger(data.ranking.specificity[o.id]) && data.ranking.specificity[o.id] > 0, o.id); }
   assert.strictEqual(data.groups.length,6);
   assert.ok(data.factors.length<=72);
   for(const group of data.groups)assert.ok(data.factors.filter(f=>f.group===group.id).length<=14);

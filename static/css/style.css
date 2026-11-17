@@ -742,7 +742,7 @@ main:has(> .carto) { padding-top: 0; }
 .carto-ambre-notes { list-style: none; padding: 0; display: flex; flex-direction: column; gap: .35rem; }
 .carto-ambre-notes li { background: #FFF8F0; border: 1px solid #F0D9C4; border-radius: var(--radius); padding: .5rem .65rem; font-size: .88rem; line-height: 1.45; display: flex; flex-direction: column; gap: .15rem; }
 .carto-ambre-tag { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--color-cta-hover); }
-.carto-ambre-remove { align-self: flex-end; border: 0; background: none; color: var(--color-text-light); font: inherit; font-size: .78rem; text-decoration: underline; cursor: pointer; }
+.carto-ambre-remove { align-self: flex-end; border: 0; background: none; color: var(--color-text-light); font: inherit; font-size: .78rem; text-decoration: underline; cursor: pointer; min-height: 24px; min-width: 24px; padding: .2rem .3rem; }
 .carto-ambre-general { margin-bottom: .8rem; }
 .carto-form-foot { display: flex; justify-content: flex-end; margin-top: .6rem; }
 .carto-btn { border: 1px solid var(--color-border); background: var(--color-card-bg); border-radius: 999px; padding: .5rem 1rem; font: inherit; font-size: .9rem; cursor: pointer; color: var(--color-text); text-decoration: none; display: inline-block; }
@@ -762,17 +762,33 @@ main:has(> .carto) { padding-top: 0; }
 .carto-tier-desc { color: var(--color-text-light); font-size: .82rem; margin: .15rem 0 .5rem; }
 .carto-grid { display: flex; flex-direction: column; gap: .5rem; }
 .carto-card { background: var(--color-card-bg); border: 1px solid var(--color-border); border-radius: 12px; overflow: hidden; }
-.carto-card.is-dismissed { opacity: .55; }
-.carto-card-toggle { display: grid; width: 100%; text-align: left; border: 0; background: none; padding: .7rem .9rem .4rem; cursor: pointer; font: inherit; color: var(--color-text); gap: .1rem; }
-.carto-card-title { font-weight: 700; font-size: .98rem; }
-.carto-card-meta { font-size: .75rem; color: var(--color-text-light); }
+.carto-card-title { font-weight: 700; font-size: 1rem; margin: 0; padding: .7rem .9rem 0; }
+.carto-from-line { margin: .3rem .9rem 0; font-size: .84rem; line-height: 1.4; }
+.carto-from-line b { font-weight: 600; }
+.carto-card-meta { display: flex; flex-wrap: wrap; gap: .3rem .5rem; align-items: center; font-size: .75rem; color: var(--color-text-light); padding: .4rem .9rem .5rem; }
+.carto-badge { border: 1px solid var(--color-border); border-radius: 999px; padding: .05rem .5rem; background: var(--color-bg); }
+.carto-badge.is-frequent { border-style: dashed; }
+.carto-familial { margin: 0 .9rem .5rem; font-size: .78rem; color: var(--color-text-light); line-height: 1.4; }
+.carto-card-body .carto-familial { margin: .2rem 0 0; }
+.carto-rank-note { font-size: .8rem; color: var(--color-text-light); margin: 0 0 .75rem; line-height: 1.45; }
+.carto-section { margin-bottom: .9rem; }
+.carto-section-title { font-size: .95rem; font-weight: 700; margin: 1rem 0 .45rem; }
+.carto-section:first-of-type .carto-section-title { margin-top: 0; }
+.carto-detail { margin-left: auto; font: inherit; font-size: .78rem; background: none; border: 0; color: var(--color-accent); text-decoration: underline; cursor: pointer; padding: .25rem 0; min-height: 24px; }
+.carto-fold { margin-top: 1rem; border-top: 1px solid var(--color-border); padding-top: .6rem; }
+.carto-fold > summary { cursor: pointer; font-weight: 700; font-size: .95rem; padding: .35rem 0; min-height: 24px; }
+.carto-rows { list-style: none; padding: 0; margin: .3rem 0 0; display: flex; flex-direction: column; }
+.carto-row-item .carto-card { margin: .2rem 0 .6rem; }
+.carto-row { display: flex; width: 100%; justify-content: space-between; gap: .75rem; align-items: baseline; padding: .55rem .1rem; border: 0; border-bottom: 1px solid var(--color-border); background: none; font: inherit; font-size: .86rem; color: var(--color-text); text-align: left; cursor: pointer; }
+.carto-row small { color: var(--color-text-light); font-size: .75rem; text-align: right; }
+.carto-row[aria-expanded="true"] { font-weight: 600; }
 .carto-kind { font-size: .75rem; color: var(--color-text-light); }
 .carto-card-body { padding: 0 .9rem .6rem; display: flex; flex-direction: column; gap: .5rem; font-size: .88rem; }
 .carto-desc { color: var(--color-text-light); }
 .carto-caution { font-size: .8rem; color: var(--color-text-light); background: var(--color-bg); border-radius: var(--radius); padding: .4rem .6rem; }
 .carto-links { list-style: none; padding: 0; display: flex; flex-direction: column; gap: .55rem; }
 .carto-from { display: flex; flex-wrap: wrap; gap: .35rem; align-items: center; }
-.carto-strength { font-size: .7rem; padding: .05rem .45rem; border-radius: 999px; background: var(--color-bg); border: 1px solid var(--color-border); }
+.carto-strength { font-size: .75rem; padding: .05rem .45rem; border-radius: 999px; background: var(--color-bg); border: 1px solid var(--color-border); }
 .carto-strength-forte { background: #FCE9DF; border-color: #F3C3AA; }
 .carto-strength-moderee, .carto-strength-critere { background: var(--color-accent-light); }
 .carto-link-text { line-height: 1.45; margin-top: .15rem; }
@@ -786,7 +802,7 @@ main:has(> .carto) { padding-top: 0; }
 .carto-sources ul { padding-left: 1rem; margin-top: .25rem; display: flex; flex-direction: column; gap: .2rem; }
 .carto-sources a { color: inherit; }
 .carto-read { font-weight: 600; color: var(--color-accent); }
-.carto-feedback { display: flex; gap: .4rem; padding: 0 .9rem .7rem; }
+.carto-feedback { display: flex; gap: .4rem; align-items: center; padding: 0 .9rem .7rem; }
 .carto-fb { border: 1px solid var(--color-border); background: var(--color-bg); border-radius: 999px; padding: .25rem .65rem; font: inherit; font-size: .78rem; cursor: pointer; color: var(--color-text); }
 .carto-fb.is-on { background: var(--color-text); color: #fff; border-color: var(--color-text); }
 .carto-dialog { border: 0; border-radius: var(--radius-lg); padding: 0; width: min(640px, 94vw); max-height: 85vh; box-shadow: var(--shadow-lg); }

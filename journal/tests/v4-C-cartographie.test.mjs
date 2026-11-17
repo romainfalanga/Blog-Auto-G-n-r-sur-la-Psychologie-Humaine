@@ -29,7 +29,7 @@ function profiles(size,count,seed){
 }
 const displayed=answers=>publicPage.compute(fullData,answers).results;
 
-test('simulation: top 5 displayed equals top 5 handed to Ambre, contextual cards last, page/Worker parity',()=>{
+test('simulation: top 5 displayed equals top 5 handed to Ambre, no contextual card, page/Worker parity',()=>{
  let checked=0;
  for(const size of [1,3,6,10,15,30])for(const answers of profiles(size,size>10?150:400,1000+size)){
   const page=displayed(answers),worker=computeCartography(answers).results,summary=summarizeCartography(answers);
@@ -38,9 +38,10 @@ test('simulation: top 5 displayed equals top 5 handed to Ambre, contextual cards
   assert.deepEqual(summary.display_order.slice(0,5).map(x=>x.id),pageIds.slice(0,5),'top 5 shown = top 5 for Ambre');
   assert.deepEqual(summary.display_order.map(x=>x.id),pageIds.slice(0,DISPLAY_ORDER_MAX));
   assert.equal(summary.display_count,page.length);
-  const firstContext=page.findIndex(r=>r.outcome.contextual_only);
-  if(firstContext>=0)assert.ok(page.slice(firstContext).every(r=>r.outcome.contextual_only),'no contextual card before a non-contextual one');
-  for(let i=1;i<(firstContext<0?page.length:firstContext);i++)assert.ok(page[i-1].associated_count>=page[i].associated_count,'sorted by experiences with an empirical association');
+  // v5 (lot C5a): contextual subjects are never displayed; subjects with a measured
+  // association come before model-only subjects; strength guard (see v5-C5a tests).
+  assert.ok(!page.some(r=>r.outcome.contextual_only),'no contextual card');
+  for(let i=1;i<page.length;i++)if(page[i-1].section===page[i].section)assert.ok(Number(page[i-1].has_empirical)>=Number(page[i].has_empirical),'measured associations before models only');
   // Ambre's bounded lists keep the same order (subsequences of the display order).
   for(const list of [summary.convergence,summary.pistes,summary.exploratory]){const positions=list.map(x=>pageIds.indexOf(x.id));assert.deepEqual(positions,positions.slice().sort((a,b)=>a-b));}
   checked++;
@@ -62,20 +63,24 @@ test('the displayed count only includes empirical associations; other references
 
 test('theoretical, definitional and classification links no longer push a subject up the list',()=>{
  const data={weights:{forte:3,critere:2,moderee:2,limitee:1,theorique:1},factors:['a','b','c','d'].map(id=>({id,label:id.toUpperCase()})),
-  outcomes:[{id:'model',label:'Modèle',kind:'schema'},{id:'measured',label:'Mesuré',kind:'trouble'},{id:'ctx',label:'Contexte',kind:'trouble',contextual_only:true}],
+  outcomes:[{id:'model',label:'Modèle',kind:'schema'},{id:'measured',label:'Mesuré',kind:'trouble'},{id:'tie',label:'Égalité',kind:'trouble'},{id:'ctx',label:'Contexte',kind:'trouble',contextual_only:true}],
   links:[{factor:'a',outcome:'model',strength:'theorique',relation_type:'clinical_model'},{factor:'b',outcome:'model',strength:'theorique',relation_type:'definitional',definitional:true},{factor:'c',outcome:'model',strength:'critere',relation_type:'classification_context'},
    {factor:'d',outcome:'measured',strength:'limitee',relation_type:'empirical_association'},
+   {factor:'d',outcome:'tie',strength:'limitee',relation_type:'empirical_association'},{factor:'a',outcome:'tie',strength:'theorique',relation_type:'clinical_model'},
    {factor:'a',outcome:'ctx',strength:'forte',relation_type:'empirical_association'},{factor:'b',outcome:'ctx',strength:'forte',relation_type:'empirical_association'}]};
  const answers={a:1,b:1,c:1,d:1},page=publicPage.compute(data,answers).results,worker=computeCartography(answers,data).results;
- assert.deepEqual(page.map(r=>r.outcome.id),['measured','model','ctx']);
- assert.deepEqual(worker.map(r=>r.outcome.id),['measured','model','ctx']);
- assert.equal(page[1].associated_count,0);assert.equal(page[1].other_links,3);
- assert.equal(page[2].associated_count,2,'a contextual card keeps its count but stays last');
+ // v5: a model never passes a measured subject, but it breaks a tie between two
+ // subjects of equal measured weight; contextual subjects are not displayed.
+ assert.deepEqual(page.map(r=>r.outcome.id),['tie','measured','model']);
+ assert.deepEqual(worker.map(r=>r.outcome.id),['tie','measured','model']);
+ assert.equal(page[2].associated_count,0);assert.equal(page[2].other_links,3);
+ assert.ok(page[2].relevance<page[1].relevance);
 });
 
 test('interpretation.ranking describes the order actually displayed',()=>{
  for(const text of [fullData.interpretation.ranking,CARTOGRAPHIE.interpretation.ranking]){
-  assert.match(text,/association empirique/);assert.match(text,/ne comptent pas/);assert.match(text,/contextuels viennent en dernier/);assert.match(text,/Ambre/);
+  assert.match(text,/spécificité/);assert.match(text,/Souvent/);assert.match(text,/reconnaissez/);assert.match(text,/ni une probabilité ni un risque/);assert.match(text,/Ambre/);
+  assert.doesNotMatch(text,/contextuels viennent en dernier/);assert.doesNotMatch(text,/ne comptent pas/);
   assert.doesNotMatch(text,/Niveau maximal du lien/);
  }
 });

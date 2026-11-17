@@ -1,19 +1,22 @@
-/* Shared exploratory calculation. Saving and consent are managed by the UI;
-   this module never estimates an individual risk or establishes a diagnosis. */
+/* Shared exploratory calculation. Saving and consent are managed by the UI
+   (cartographie-ui.js); this module never estimates an individual risk or
+   establishes a diagnosis. The same algorithm, in integers only, is implemented in
+   journal/src/cartographie.mjs (computeCartography): tests require strict parity. */
 (function (root) {
   'use strict';
 
   var STRONG = { forte: true, moderee: true };
   // Only empirical associations (strong, moderate or limited) count as an associated
-  // experience. Clinical models, definitions and classification contexts are shown apart.
+  // experience. Clinical models, definitions and classification contexts weigh little.
   var ASSOCIATED = { forte: true, moderee: true, limitee: true };
-  var STRENGTH_LABEL = { forte: 'Preuves solides', critere: 'Contexte décrit par la CIM-11', moderee: 'Preuves modérées', limitee: 'Preuves limitées', theorique: 'Modèle clinique' };
-  function kindLabel(outcome) { return ({symptom_group: 'Symptômes étudiés', clinical_group: 'Groupe de troubles', pattern_qualifier: 'Qualificatif clinique', personality_trait: 'Trait de personnalité (dimension)', defense_mechanism: 'Mécanisme de défense', schema_mode: 'Mode de schéma (modèle clinique)', schema_coping_style: 'Style d’adaptation aux schémas (modèle clinique)', health_outcome: 'Repère de santé', cognitive_process: 'Processus cognitif', categorical_personality_diagnosis: 'Repère clinique de personnalité'})[outcome.category] || KIND_LABEL[outcome.kind]; }
-  var NOTE_TEXT = { jeune_enfant: 'Repère clinique du jeune enfant : ces réponses ne permettent pas de l’attribuer à votre situation adulte.' };
-  var KIND_LABEL = { trouble: 'Trouble étudié (CIM-11)', schema: 'Schéma précoce', attachement: "Style d'attachement", tendance: 'Tendance psychologique' };
+  // v5 ranking (variant L with strength guard). Defaults mirror data.ranking.
+  var POINTS = { forte: 12, moderee: 8, limitee: 4 };
+  var OTHER_POINTS = 1;
+  var INTENSITY = { 1: 2, 2: 3 };
+  var SECTION_TOP = 5;
+  var SECTION_ORDER = ['recognized', 'top', 'frequent', 'other', 'dismissed'];
 
-  // 0 is an explicit no; 1 and 2 are reported experiences. Intensity is context,
-  // never an uncalibrated multiplier of a clinical risk or evidence strength.
+  // 0 is an explicit no; 1 and 2 are reported experiences.
   function intensities(selected) {
     var map = {};
     if (selected instanceof Set || Array.isArray(selected)) {
@@ -25,201 +28,100 @@
     }
     return map;
   }
+  function relation(l) { return l.relation_type || (l.definitional ? 'definitional' : l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); }
+  function isEmpirical(l) { return !l.definitional && relation(l) === 'empirical_association'; }
+  function measured(l) { return isEmpirical(l) && POINTS[l.strength] > 0; }
+  function binary(a, b) { return a < b ? -1 : a > b ? 1 : 0; }
+  // Relevance order: subjects with a measured association first; strength guard: a
+  // subject whose best measured link is limited never precedes a subject with a moderate
+  // or strong link; then relevance, evidence families, strongest link, identifier
+  // (binary order, no locale).
+  // A subject whose measured links all come from a parent's illness or addiction
+  // (familial transmission) is treated as limited by the guard (clinical counter-review).
+  function evidenceClass(r) { return r.max_points > POINTS.limitee && !r.familial ? 0 : 1; }
+  function compareRank(a, b) {
+    return Number(b.has_empirical) - Number(a.has_empirical) || evidenceClass(a) - evidenceClass(b) || b.relevance - a.relevance || b.evidence_families - a.evidence_families || b.max_points - a.max_points || binary(a.outcome.id, b.outcome.id);
+  }
+  // Specificity is capped at 1 (1000) for serious disorders and for links that
+  // largely reflect familial transmission (independent clinical review, lot C5a).
+  var UNIT = 1000;
 
-  function compute(data, selected) {
+  function compute(data, selected, feedback) {
     var level = intensities(selected);
+    feedback = feedback || {};
     var factorIndex = {};
     (data.factors || []).forEach(function (f) { factorIndex[f.id] = f; });
     Object.keys(level).forEach(function (id) { if (!factorIndex[id]) delete level[id]; });
     var chosen = new Set(Object.keys(level));
     var weights = data.weights || { forte: 3, moderee: 2, limitee: 1, theorique: 1 };
-    var byOutcome = {};
-    (data.links || []).forEach(function (link) {
-      if (!chosen.has(link.factor)) return;
-      (byOutcome[link.outcome] = byOutcome[link.outcome] || []).push(link);
-    });
+    var ranking = data.ranking || {};
+    var specificity = ranking.specificity || {};
+    var frequentSet = new Set(ranking.frequent || []);
+    var top = ranking.section_top || SECTION_TOP;
+    var familial = new Set(ranking.familial_factors || []), serious = new Set(ranking.serious_outcomes || []);
+    var traumaOutcomes = new Set(ranking.trauma_outcomes || []), traumaFactors = new Set(ranking.trauma_factors || []);
     var outcomes = {};
     (data.outcomes || []).forEach(function (o) { outcomes[o.id] = o; });
-    var results = Object.keys(byOutcome).filter(function (id) { return outcomes[id] && !outcomes[id].retired; }).map(function (id) {
-      var relation = function (l) { return l.relation_type || (l.definitional ? 'definitional' : l.strength === 'critere' ? 'classification_context' : l.strength === 'theorique' ? 'clinical_model' : 'empirical_association'); };
-      var isEmpirical = function (l) { return !l.definitional && relation(l) === 'empirical_association'; };
-      // Empirical links first, then by strength; the other references follow, never counted.
-      var links = byOutcome[id].slice().sort(function (a, b) { return Number(isEmpirical(b)) - Number(isEmpirical(a)) || weights[b.strength] - weights[a.strength]; });
-      var factors = links.map(function (l) { return l.factor; });
+    var byOutcome = {};
+    (data.links || []).forEach(function (link) {
+      var o = outcomes[link.outcome];
+      // Retired and contextual subjects are never displayed (their stored feedback stays valid).
+      if (!chosen.has(link.factor) || !o || o.retired || o.contextual_only) return;
+      (byOutcome[link.outcome] = byOutcome[link.outcome] || []).push(link);
+    });
+    var rows = Object.keys(byOutcome).map(function (id) {
+      // Measured associations first, by strength; the other references follow.
+      var links = byOutcome[id].slice().sort(function (a, b) { return Number(isEmpirical(b)) - Number(isEmpirical(a)) || weights[b.strength] - weights[a.strength] || binary(a.factor, b.factor); });
       var empirical = links.filter(isEmpirical);
       var associated = [];
       empirical.forEach(function (l) { if (ASSOCIATED[l.strength] && associated.indexOf(l.factor) === -1) associated.push(l.factor); });
       var groups = new Set(empirical.filter(function (l) { return STRONG[l.strength]; }).map(function (l) { return factorIndex[l.factor].overlap_group || l.factor; }));
       // Editorial families reduce overlapping checkboxes. They do not establish
       // statistical independence, diagnostic convergence or increased certainty.
-      var tier = outcomes[id].contextual_only ? 'theorique' : groups.size >= 2 ? 'convergence' : groups.size ? 'piste' : 'theorique';
+      var tier = groups.size >= 2 ? 'convergence' : groups.size ? 'piste' : 'theorique';
       var score = empirical.reduce(function (best, l) { return Math.max(best, weights[l.strength] || 0); }, 0);
-      return { outcome: outcomes[id], links: links, factors: factors, associated_factors: associated, associated_count: associated.length, other_links: links.length - empirical.length, tier: tier, score: score, evidence_groups: groups.size, relation_types: Array.from(new Set(links.map(relation))) };
+      var families = {}, measuredFamilies = {}, maxPoints = 0, spec = specificity[id] || UNIT, trauma = false, familialOnly = null;
+      if (serious.has(id)) spec = Math.min(spec, UNIT);
+      links.forEach(function (l) {
+        var m = measured(l);
+        var pts = (m ? POINTS[l.strength] : OTHER_POINTS) * INTENSITY[level[l.factor]] * (familial.has(l.factor) ? Math.min(spec, UNIT) : spec);
+        var fam = factorIndex[l.factor].overlap_group || l.factor;
+        if (!(families[fam] >= pts)) families[fam] = pts;
+        if (m) { measuredFamilies[fam] = true; maxPoints = Math.max(maxPoints, POINTS[l.strength]); }
+        if (m) familialOnly = (familialOnly !== false) && familial.has(l.factor);
+        if (m && POINTS[l.strength] >= POINTS.moderee && traumaOutcomes.has(id) && traumaFactors.has(l.factor) && level[l.factor] === 2) trauma = true;
+      });
+      var points = Object.keys(families).reduce(function (s, k) { return s + families[k]; }, 0);
+      return {
+        outcome: outcomes[id], links: links, factors: links.map(function (l) { return l.factor; }),
+        associated_factors: associated, associated_count: associated.length, other_links: links.length - empirical.length,
+        tier: tier, score: score, evidence_groups: groups.size, relation_types: Array.from(new Set(links.map(relation))),
+        relevance: points, has_empirical: maxPoints > 0, evidence_families: Object.keys(measuredFamilies).length,
+        max_points: maxPoints, frequent: frequentSet.has(id), familial: familialOnly === true, trauma_first: trauma, serious: serious.has(id)
+      };
     });
-    // One public order, shared with Ambre: contextual references last; then the number
-    // of experiences linked by an empirical association, distinct evidence families,
-    // strongest empirical evidence. Never a sum of risks; intensity stays context.
-    results.sort(function (a, b) {
-      return Number(Boolean(a.outcome.contextual_only)) - Number(Boolean(b.outcome.contextual_only)) || b.associated_count - a.associated_count || b.evidence_groups - a.evidence_groups || b.score - a.score || a.outcome.id.localeCompare(b.outcome.id, 'en');
+    rows.sort(compareRank);
+    // The five first: trauma subjects first chosen, then in rank order; a serious
+    // disorder needs a strong link. Kept in rank order inside the section.
+    var open = rows.filter(function (r) { return !feedback[r.outcome.id]; });
+    var picked = open.filter(function (r) { return r.trauma_first; }).slice(0, top);
+    open.forEach(function (r) { if (picked.length < top && picked.indexOf(r) === -1 && !(r.serious && r.max_points < POINTS.forte)) picked.push(r); });
+    var sections = { recognized: [], top: [], frequent: [], other: [], dismissed: [] };
+    rows.forEach(function (r) {
+      var fb = feedback[r.outcome.id];
+      r.section = fb === 'oui' ? 'recognized' : fb === 'non' ? 'dismissed' : picked.indexOf(r) !== -1 ? 'top' : r.frequent && r.max_points >= POINTS.moderee ? 'frequent' : 'other';
+      sections[r.section].push(r);
     });
+    var results = [];
+    SECTION_ORDER.forEach(function (s) { results = results.concat(sections[s]); });
     var aceCount = new Set((data.factors || []).filter(function (f) { return f.ace && chosen.has(f.id); }).map(function (f) {
       var exclusive = (data.exclusive || []).find(function (group) { return group.indexOf(f.id) !== -1; });
       return exclusive ? exclusive.join('|') : f.id;
     })).size;
-    return { results: results, aceCount: aceCount, selectedCount: chosen.size };
+    return { results: results, sections: sections, aceCount: aceCount, selectedCount: chosen.size };
   }
 
-  function el(tag, attrs, children) {
-    var node = document.createElement(tag);
-    Object.keys(attrs || {}).forEach(function (k) {
-      if (k === 'text') node.textContent = attrs[k];
-      else if (k === 'className') node.className = attrs[k];
-      else node.setAttribute(k, attrs[k]);
-    });
-    (children || []).forEach(function (c) { if (c) node.appendChild(c); });
-    return node;
-  }
-
-  function mount(container) {
-    var data = JSON.parse(document.getElementById('cartographie-data').textContent);
-    var factorsById = {};
-    data.factors.forEach(function (f) { factorsById[f.id] = f; });
-    var sourcesById = {};
-    data.sources.forEach(function (s) { sourcesById[s.id] = s; });
-    var selected = new Set();
-    var kindFilter = 'all';
-    var form = container.querySelector('[data-carto-form]');
-    var output = container.querySelector('[data-carto-results]');
-    var counter = container.querySelector('[data-carto-count]');
-    var reset = container.querySelector('[data-carto-reset]');
-    var filters = container.querySelector('[data-carto-filters]');
-
-    data.groups.forEach(function (group) {
-      var fieldset = el('fieldset', { className: 'carto-group' }, [
-        el('legend', { text: group.label }),
-        el('p', { className: 'carto-group-desc', text: group.description })
-      ]);
-      data.factors.filter(function (f) { return f.group === group.id; }).forEach(function (f) {
-        var input = el('input', { type: 'checkbox', value: f.id, id: 'carto-' + f.id });
-        input.addEventListener('change', function () {
-          if (input.checked) selected.add(f.id); else selected.delete(f.id);
-          render();
-        });
-        var hint = f.description + (f.examples && f.examples.length ? ' Par exemple : ' + f.examples.join(' ; ') + '.' : '');
-        fieldset.appendChild(el('label', { className: 'carto-factor', for: 'carto-' + f.id }, [
-          input,
-          el('span', { className: 'carto-factor-text' }, [
-            el('strong', { text: f.label }),
-            el('span', { className: 'carto-factor-hint', text: hint })
-          ])
-        ]));
-      });
-      form.appendChild(fieldset);
-    });
-
-    if (filters) {
-      [['all', 'Tout']].concat(Object.keys(KIND_LABEL).map(function (k) { return [k, KIND_LABEL[k]]; })).forEach(function (pair) {
-        var button = el('button', { type: 'button', className: 'carto-filter', 'data-kind': pair[0], 'aria-pressed': pair[0] === 'all' ? 'true' : 'false', text: pair[1] });
-        button.addEventListener('click', function () {
-          kindFilter = pair[0];
-          filters.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b === button ? 'true' : 'false'); });
-          render();
-        });
-        filters.appendChild(button);
-      });
-    }
-
-    // Browsers may restore checked boxes from their cache: clear them so nothing persists.
-    window.addEventListener('pageshow', function () {
-      form.querySelectorAll('input[type=checkbox]').forEach(function (i) { i.checked = false; });
-      selected.clear();
-      render();
-    });
-
-    reset.addEventListener('click', function () {
-      selected.clear();
-      form.querySelectorAll('input[type=checkbox]').forEach(function (i) { i.checked = false; });
-      render();
-    });
-
-    function card(result) {
-      var o = result.outcome;
-      var head = el('div', { className: 'carto-card-head' }, [
-        el('span', { className: 'carto-kind carto-kind-' + o.kind, text: kindLabel(o) + (o.code ? ' · ' + o.code : '') }),
-        el('h3', { text: o.label })
-      ]);
-      var list = el('ul', { className: 'carto-links' });
-      result.links.forEach(function (l) {
-        var src = (l.sources || []).map(function (id) { return sourcesById[id]; }).filter(Boolean);
-        var srcList = el('details', { className: 'carto-sources' }, [el('summary', { text: 'Sources (' + src.length + ')' })]);
-        var srcItems = el('ul');
-        src.forEach(function (s) {
-          srcItems.appendChild(el('li', {}, [el('a', { href: s.url, rel: 'noopener', target: '_blank', text: s.citation })]));
-        });
-        srcList.appendChild(srcItems);
-        list.appendChild(el('li', {}, [
-          el('span', { className: 'carto-from' }, [
-            el('strong', { text: factorsById[l.factor].label }),
-            el('span', { className: 'carto-strength carto-strength-' + l.strength, text: STRENGTH_LABEL[l.strength] })
-          ]),
-          el('span', { className: 'carto-summary', text: l.summary }),
-          srcList
-        ]));
-      });
-      var body = [head, o.description ? el('p', { className: 'carto-desc', text: o.description }) : null,
-        o.note && NOTE_TEXT[o.note] ? el('p', { className: 'carto-caution', text: NOTE_TEXT[o.note] }) : null, list];
-      if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Ce lien décrit un risque moyen observé dans des groupes de personnes, pas votre situation : seul un professionnel peut évaluer un trouble.' }));
-      if (o.url) body.push(el('a', { className: 'carto-read', href: o.url, text: o.url.indexOf('/personnages/') === 0 ? 'Découvrir le parcours qui l’illustre' : 'Lire l’article qui l’illustre' }));
-      return el('article', { className: 'carto-card carto-tier-' + result.tier }, body);
-    }
-
-    function render() {
-      var state = compute(data, selected);
-      counter.textContent = state.selectedCount ? state.selectedCount + ' élément' + (state.selectedCount > 1 ? 's' : '') + ' coché' + (state.selectedCount > 1 ? 's' : '') : 'Aucun élément coché';
-      output.innerHTML = '';
-      if (!state.selectedCount) {
-        output.appendChild(el('p', { className: 'carto-empty', text: 'Cochez ce qui correspond à votre enfance : les conséquences associées apparaîtront ici, avec les éléments qui y convergent et les sources.' }));
-        return;
-      }
-      if (state.results.some(function (r) { return r.outcome.note === 'suicide'; })) {
-        output.appendChild(el('div', { className: 'carto-note carto-note-urgent', role: 'note' }, [
-          el('strong', { text: 'Si vous avez des idées suicidaires en ce moment, ' }),
-          el('span', { text: 'appelez le 3114 (gratuit, 24 h/24, 7 j/7). En cas de danger immédiat : 15 ou 112.' })
-        ]));
-      }
-      if (state.aceCount >= 4 && data.notes && data.notes.cumul) {
-        output.appendChild(el('div', { className: 'carto-note carto-note-cumul' }, [
-          el('strong', { text: state.aceCount + ' expériences adverses de l’enfance cochées. ' }),
-          el('span', { text: data.notes.cumul.text || data.notes.cumul })
-        ]));
-      }
-      var shown = state.results.filter(function (r) { return kindFilter === 'all' || r.outcome.kind === kindFilter; });
-      var tiers = [
-        ['convergence', 'Plusieurs vécus associés', 'Des familles de vécus différentes ont des associations documentées avec ce sujet. Leur nombre ne renforce pas le niveau de preuve et ne mesure pas votre risque.'],
-        ['piste', 'Une association documentée', 'Au moins un lien repose sur des études ; cela ne démontre pas ce qui vous arrive.'],
-        ['theorique', 'Autres repères à explorer', 'Liens limités, modèles cliniques ou contextes cités dans une classification ; ils n’établissent ni cause ni diagnostic.']
-      ];
-      tiers.forEach(function (t) {
-        var items = shown.filter(function (r) { return r.tier === t[0]; });
-        if (!items.length) return;
-        var section = el('section', { className: 'carto-tier' }, [el('h2', { text: t[1] + ' (' + items.length + ')' }), el('p', { className: 'carto-tier-desc', text: t[2] })]);
-        var grid = el('div', { className: 'carto-grid' });
-        items.forEach(function (r) { grid.appendChild(card(r)); });
-        section.appendChild(grid);
-        output.appendChild(section);
-      });
-      if (!shown.length) output.appendChild(el('p', { className: 'carto-empty', text: 'Aucune conséquence de ce type n’est associée aux éléments cochés.' }));
-    }
-    render();
-  }
-
-  var api = { compute: compute, intensities: intensities, mount: mount };
+  var api = { compute: compute, intensities: intensities, relation: relation, isEmpirical: isEmpirical, SECTION_ORDER: SECTION_ORDER };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.Cartographie = api;
-  if (typeof document !== 'undefined') {
-    document.addEventListener('DOMContentLoaded', function () {
-      var c = document.querySelector('[data-cartographie]');
-      if (c) mount(c);
-    });
-  }
 })(this);

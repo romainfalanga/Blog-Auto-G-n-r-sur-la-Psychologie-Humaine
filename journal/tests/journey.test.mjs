@@ -17,10 +17,11 @@ function d1(raw){
  let queue=Promise.resolve();
  return {raw,prepare,batch(statements){const next=queue.then(async()=>{raw.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());raw.exec('COMMIT');return r;}catch(e){raw.exec('ROLLBACK');throw e;}});queue=next.catch(()=>{});return next;}};
 }
-function setup(users=['a','b'],envExtra={}){
+// engineEnabled:true is the production path (worker.mjs); the default replays the legacy generate() path.
+function setup(users=['a','b'],envExtra={},{engineEnabled=false}={}){
  const raw=migrated(),DB=d1(raw);let clock=Math.floor(Date.now()/1000),serial=0;
  const utils={error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:(v,status=200)=>new Response(JSON.stringify(v),{status}),text:(v,max=1000)=>typeof v==='string'?v.slice(0,max).trim():'',body:async req=>req.json(),now:()=>clock,random:()=>`id_${String(++serial).padStart(8,'0')}`,decorateLikes:x=>x,recommender:{provisionalPortrait:()=>null,recommend:()=>[]}};
- const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal}),env={DB,OPENROUTER_API_KEY:'mock-only',...envExtra};
+ const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal,engineEnabled}),env={DB,OPENROUTER_API_KEY:'mock-only',...envExtra};
  for(const id of users){raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,'hash','salt')").run(id,id+'@example.com');raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(id);raw.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES(?,'active',?)").run(id,clock+864000);}
  async function call(path,method='GET',data,user='a',ctx){const req=new Request('https://example.com'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:user},url.pathname,url,ctx)||await personal.routes(req,env,{id:user},url.pathname,url,ctx);return {status:res.status,...await res.json()};}catch(e){return {status:e.status||500,code:e.code,message:e.message};}}
  return {raw,env,chat,personal,call,advance:seconds=>{clock+=seconds;},now:()=>clock};
@@ -34,7 +35,7 @@ const contextOf=request=>JSON.parse(request.messages[1].content.slice(request.me
 const review=(s,id)=>s.raw.prepare('SELECT * FROM ambre_reviews WHERE id=?').get(id);
 const start=(s,key='start_key_001',user='a',ctx)=>s.call('/api/chat/start','POST',{idempotency_key:key,accepted:true},user,ctx);
 
-test('the journey: sources, refusals before launch, initial analysis, conversation, point, 24 h limit, history and export',async t=>{
+test('the journey (legacy generate() path, inactive in production): sources, refusals before launch, initial analysis, conversation, point, 24 h limit, history and export',async t=>{
  const s=setup(),requests=[];let reply=reviewReply;
  withFetch(t,async(_url,options)=>{requests.push(JSON.parse(options.body));return reply();});
  let state=await s.call('/api/chat');
@@ -270,4 +271,33 @@ test('Worker: “Mes bilans” page, cron resumption, export and account deletio
  assert.equal(exported.ambre_reviews.length,1);assert.equal(exported.ambre_reviews[0].content,reviewText());assert.equal(exported.ambre_reviews[0].sources.portrait,true);
  assert.equal((await request(env,'/api/account',{method:'DELETE',cookie:a.cookie,data:{password:'long secure password 123'}})).status,200);
  assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n,0,'account deletion removes the reviews');
+});
+
+// Lot A5-P0: the same journey on the production engine. The last review reaches every
+// writing request (dated, beginning and end kept); a point reads each rubric of the self
+// description and the accounts of people.
+const engineReply=name=>({ambre_analysis:{need:'understand',states:[],risk:'none',posture:'explore',sensitive_allowed:false,constraints:[],selected_ids:[],closed_topics:[],signals:[],strategy_ids:[],change_signal:{kind:'none',target_id:null,quote:''}},ambre_risk_check:{risk:'none',category:'none',evidence_quote:''},ambre_writing:{content:'Je vous écoute. Vous vous taisez pour éviter un conflit.',questions:[],proposals:[],cartography_notes:[],people_observations:[],change_proposals:[],followup:null},ambre_review:{criteria:Array(15).fill('yes'),reasons:[],change_criteria:Array.from({length:8},(_,i)=>({id:'C-R'+(i+1),verdict:'not_applicable'}))},ambre_memory:{items:[]}})[name];
+test('the journey on the production engine: last review in every writing request, rubrics and accounts in the point',async t=>{
+ const s=setup(['a','b'],{},{engineEnabled:true}),requests=[];
+ withFetch(t,async(_url,options)=>{const body=JSON.parse(options.body),schema=body.response_format?.json_schema,data=schema?.schema?.properties?.criteria?engineReply(schema.name):schema?.name==='ambre_review'?null:engineReply(schema?.name);requests.push(body);return data?new Response(JSON.stringify({choices:[{message:{content:JSON.stringify(data)},finish_reason:'stop'}],usage:{prompt_tokens:100,completion_tokens:80,cost:0.001}})):reviewReply()});
+ addPerson(s);
+ s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Alix',birth_date:'1990-05-04',self_description:'Je me tais souvent pour éviter les conflits.',self_perception:'PERCEPTION_MARK je me trouve trop prudente.',current_context:'CONTEXTE_MARK un nouveau poste depuis septembre.'}));
+ let r=await start(s);assert.equal(r.status,202);const initialId=r.review_id,initialRequest=requests.at(-1);
+ assert.ok(contextOf(initialRequest).sources.some(x=>x.rubric==='current_context'&&x.text.includes('CONTEXTE_MARK')),'each rubric is its own source in a review');
+ const work=async()=>{for(let n=0;n<10;n++){const job=s.raw.prepare('SELECT * FROM chat_engine_jobs ORDER BY rowid DESC LIMIT 1').get();if(!job||['done','failed'].includes(job.stage))return job;await s.chat.engine.work(s.env,job.turn_id)}};
+ for(const [i,content] of ['J’aimerais comprendre pourquoi je me tais en réunion.','Et avec Mila aussi, je me tais.'].entries()){
+  r=await s.call('/api/chat/messages','POST',{content,idempotency_key:'engine_message_'+i});assert.equal(r.status,200,JSON.stringify(r).slice(0,300));assert.equal((await work()).stage,'done');
+  const writing=requests.filter(x=>x.response_format?.json_schema?.name==='ambre_writing').at(-1),input=JSON.parse(writing.messages[1].content);
+  assert.equal(input.last_review.id,initialId);assert.equal(input.last_review.kind,'analyse initiale');assert.match(input.last_review.date,/^\d{4}-\d{2}-\d{2}$/);
+  assert.ok(input.last_review.text.length<=900);assert.ok(input.last_review.text.startsWith('Ce qui semble ressortir.'));assert.ok(input.last_review.text.endsWith('Qu’avez-vous envie de comprendre ou de changer en priorité ?'),'the end of the review (its question) is kept');
+  assert.ok(!input.details.some(x=>x.key==='review:'+initialId),'the last review is not sent twice');
+  assert.match(writing.messages[0].content[0].text,/last_review/);
+ }
+ assert.equal((await s.call('/api/chat')).quota.used,2);
+ s.advance(86401);
+ r=await s.call('/api/chat/review','POST',{idempotency_key:'engine_point_001'});assert.equal(r.status,202);
+ const point=contextOf(requests.at(-1));
+ assert.equal(point.previous_review.kind,'initial');assert.equal(point.conversation_since.length,2);
+ assert.ok(point.sources.some(x=>x.rubric==='self_perception'&&x.text.includes('PERCEPTION_MARK')));assert.ok(point.sources.some(x=>x.type==='person'&&x.text.includes('elle m’écoute')));
+ assert.ok(JSON.stringify(point).length<=34000);
 });
