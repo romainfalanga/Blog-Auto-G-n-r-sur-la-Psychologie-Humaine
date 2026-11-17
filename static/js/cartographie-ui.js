@@ -174,6 +174,9 @@
       if (!saveBox) return;
       saveBox.innerHTML = '';
       if (!state.account) {
+        // While the session check runs, show nothing: a connected member would otherwise
+        // see a notice flash and vanish.
+        if (state.loading) { saveBox.dataset.state = 'loading'; return; }
         saveBox.dataset.state = 'anonymous';
         saveBox.appendChild(el('p', {}, [state.loading ? 'Vérification de votre connexion… Vos réponses restent sur cet appareil.' : 'Sans connexion, vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ', state.loading ? null : el('a', { href: '/mon-compte/', text: 'Se connecter' })]));
         if (hasContent()) saveBox.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting, onclick: removeSaved }, ['Effacer mon brouillon']));
