@@ -9,8 +9,11 @@ const {pathToFileURL}=require('node:url');
 const root=path.resolve(__dirname,'..');
 const data=JSON.parse(fs.readFileSync(path.join(root,'data/cartographie.json'),'utf8'));
 const template=fs.readFileSync(path.join(root,'layouts/_default/cartographie.html'),'utf8');
-const markup=template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')).replace(/{{[^}]*}}/g,match=>match.includes('$data | jsonify')?JSON.stringify(data):match.includes('readFile')?'test':'');
-const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/cartographie.css"></head><body><main>'+markup+'</main></body></html>';
+const renderTemplate=input=>input.replace(/{{[^}]*}}/g,match=>match.includes('jsonify')?JSON.stringify(data):match.includes('safeJS')&&match.includes('readFile')?fs.readFileSync(path.join(root,match.match(/readFile "([^"]+)"/)[1]),'utf8'):match.includes('readFile')?'test':'');
+// Match the real page: data and both inline scripts execute in the head, before the app exists.
+const head=renderTemplate(template.slice(0,template.indexOf('{{ define "main" }}')));
+const markup=renderTemplate(template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')));
+const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><main>'+markup+'</main></body></html>';
 
 (async()=>{
  const {summarizeCartography}=await import(pathToFileURL(path.join(root,'journal/src/cartographie.mjs')).href);
@@ -38,7 +41,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    const answers={parentification:1,ressenti_responsable:1,enfant_sage:1,debrouiller_seul:1,parent_trouble:1,abus_sexuel:1};
    for(const id of Object.keys(answers))await select(page,id);
    const titles=await page.locator('article.carto-card .carto-card-title').allInnerTexts();
-   const ambre=summarizeCartography(answers).display_order.slice(0,5).map(x=>x.label);
+   const ambre=summarizeCartography(answers).display_order.slice(0,5).map(x=>x.label.replace(' (preuves agrégées)',''));
    assert.deepEqual(titles.slice(0,5),ambre);
    // v5 (lot C5a): contextual subjects are no longer displayed, even in the folded rows.
    const contextual=new Set(data.outcomes.filter(o=>o.contextual_only).map(o=>o.id));
@@ -59,20 +62,17 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    const mixed=page.locator('article.carto-card').filter({has:page.locator('.carto-from-line')}).first();
    await mixed.locator('.carto-detail').click();
    const card=page.locator('article.carto-card').filter({has:page.locator('.carto-other-title')}).first();
-   if(await card.count()){assert.equal(await card.locator('.carto-other-title').innerText(),'Autres repères (modèles cliniques, définitions)');assert.ok(await card.locator('.carto-links-other > li').count()>0);}
+   if(await card.count()){assert.equal(await card.locator('.carto-other-title').innerText(),'Autres repères');assert.ok(await card.locator('.carto-links-other > li').count()>0);}
    const counted=Number(await mixed.getAttribute('data-associated'));
    assert.equal(await mixed.locator('.carto-links:not(.carto-links-other) > li').count()>=counted,true);
    assert.deepEqual(errors,[]);await context.close();
   });
-  await check('questions without any link say so; the dialog separates measured links from other references',async()=>{
+  await check('questions without visible links say so; classifications stay internal',async()=>{
    const {page,context,errors}=await pageFor(390);
    for(const group of new Set(['secret_famille','migration','exil'].map(id=>data.factors.find(f=>f.id===id).group))){const panel=page.locator('[data-theme="'+group+'"]');if(!await panel.evaluate(n=>n.open))await panel.locator('summary').click();assert.equal(await panel.evaluate(n=>n.open),true);}
    for(const id of ['secret_famille','migration']){assert.equal(await page.locator('[data-factor="'+id+'"] .carto-no-link').innerText(),'Aucune association suffisamment documentée n’est retenue pour l’instant.');assert.equal(await page.locator('[data-factor="'+id+'"] .carto-see').count(),0);}
-   assert.equal(await page.locator('[data-factor="exil"] .carto-see').count(),1,'exile now has its ICD-11 context');
-   await page.locator('[data-factor="exil"] .carto-see').click();
-   const headings=await page.locator('[data-dialog-body] .carto-dialog-h').allInnerTexts();
-   assert.deepEqual(headings,['Contexte décrit par la CIM-11 ('+data.links.filter(l=>l.factor==='exil'&&!data.outcomes.find(o=>o.id===l.outcome).contextual_only).length+')']);
-   await page.locator('[data-dialog-close]').click();
+   assert.equal(await page.locator('[data-factor="exil"] .carto-see').count(),0,'classification-only references have no empty public dialog');
+   assert.ok(data.links.some(l=>l.factor==='exil'&&l.relation_type==='classification_context'),'the scientific classification remains unchanged internally');
    assert.deepEqual(errors,[]);await context.close();
   });
   await check('only the counter is announced to screen readers',async()=>{
@@ -93,7 +93,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    assert.equal(await page.locator('.carto-home-intro,.carto-lead,.carto-reading-guide,.carto-coverage,.carto-note-urgent,.carto-mobile-bar').count(),0);
    await link.click();
    assert.equal(await page.locator('[data-dialog-title]').innerText(),'Ce que la carte ne couvre pas');
-   assert.equal(await page.locator('.carto-scope-list > li').count(),data.notes.hors_perimetre.items.length);
+   assert.equal(await page.locator('.carto-scope-list > li').count(),data.notes.hors_perimetre.items.filter(item=>item.scope!=='Modèles de classement HiTOP et AMPD').length);
    assert.equal(await page.locator('[data-dialog-body] .carto-sources a').count(),0);
    await page.locator('[data-dialog-close]').click();
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true);

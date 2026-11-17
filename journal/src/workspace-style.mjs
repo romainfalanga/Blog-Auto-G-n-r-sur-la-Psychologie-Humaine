@@ -58,7 +58,9 @@ input,textarea,select { border-color: var(--line); }
 .portrait-state:empty { display: none; }
 .portrait-state button.text { padding: 0; font-size: inherit; }
 #portrait-body > div > p,#portrait-body .portrait-reading > p { max-width: 74ch; }
-/* A single, directly editable presentation. */
+/* Identity fields and a single directly editable presentation, without category headings. */
+.self-identity-fields { gap: 14px 20px; margin-bottom: 24px; }
+.self-identity-fields .field { margin: 0; }
 #self-description { display: block; min-height: 320px; font-size: 1rem; }
 .self-profile-saved { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 240px; overflow-y: auto; }
 .page-loading { min-height: 180px; margin: 0; padding-block: 12px; }

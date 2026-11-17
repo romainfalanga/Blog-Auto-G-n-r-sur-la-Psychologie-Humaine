@@ -144,29 +144,29 @@ test('personal pages keep the declared portrait without a synthesis subpage',()=
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
 
-test('Mon portrait is one labelled presentation field with its saved words and no historical controls',async()=>{
+test('Mon portrait keeps identity above one labelled presentation and hides only secondary paragraphs',async()=>{
  const env=await selfFixture(async()=>({profile:{self_description:'Mes mots\nsur deux lignes',first_name:'Nina',emotions:'Calme',what_brings_me:'Comprendre'},revision:4}));
- assert.equal(env.host.querySelectorAll('form').length,1);assert.equal(env.host.querySelectorAll('input,select,textarea').length,1);
+ assert.equal(env.host.querySelectorAll('form').length,1);assert.deepEqual(env.host.querySelectorAll('input,select,textarea').map(x=>x.name),['first_name','last_name','birth_date','gender','gender_description','occupation','self_description']);
  assert.equal(env.input.name,'self_description');assert.equal(env.input.id,'self-description');assert.equal(env.input.maxLength,10000);
- assert.equal(env.input.value,'Mes mots\nsur deux lignes');assert.equal(env.form.querySelector('label').htmlFor,env.input.id);
- assert.equal(env.form.querySelector('button[type=submit]').textContent,'Enregistrer ma présentation');
+ assert.equal(env.input.value,'Mes mots\nsur deux lignes');assert.equal(env.form.children[1].htmlFor,env.input.id);
+ assert.equal(env.form.querySelector('button[type=submit]').textContent,'Enregistrer mes informations');
  assert.equal(env.host.querySelectorAll('dialog').length,0);assert.equal(env.host.getAttribute('aria-busy'),undefined);
- assert.doesNotMatch(env.host.textContent,/Articles aimés|Mes informations|Calme|Comprendre|Nina/);
+ assert.doesNotMatch(env.host.textContent,/Articles aimés|Calme|Comprendre/);
 });
 
 test('saving the presentation sends only its field and revision, with hidden historical fields left to the backend',async()=>{
  const historical={first_name:'Nina',gender:'female',occupation:'Mon métier',self_perception:'Mon regard',what_brings_me:'Comprendre',what_helps_me:'Marcher',life_rhythm:'Le matin'};let sent;
  const env=await selfFixture(async(path,method,payload)=>{if(!method)return {profile:{...historical,self_description:'Avant'},revision:7};sent={path,method,payload};return {profile:{...historical,self_description:payload.self_description},revision:8}});
- env.input.value='Ma présentation complète';await env.input.fire('input');await env.form.fire('submit');
+ env.input.value='Ma présentation complète';await env.form.fire('input');await env.form.fire('submit');
  assert.equal(sent.path,'/api/self-profile');assert.equal(sent.method,'PUT');assert.deepEqual(Object.keys(sent.payload).sort(),['expected_revision','self_description']);
  assert.equal(sent.payload.self_description,'Ma présentation complète');assert.equal(sent.payload.expected_revision,7);
- assert.equal(env.ctx.state.selfDraft,null);assert.equal(env.ctx.state.selfRevision,8);assert.match(env.message.textContent,/Présentation enregistrée/);
+ assert.equal(env.ctx.state.selfDraft,null);assert.equal(env.ctx.state.selfRevision,8);assert.match(env.message.textContent,/Informations enregistrées/);
 });
 
 test('409 comparison requires an explicit revision choice and never replaces typed presentation',async()=>{
  let stored={profile:{self_description:'Avant'},revision:4},failure=true;const calls=[];
  const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;calls.push(payload);if(failure)throw Object.assign(new Error('conflit'),{status:409});return {profile:{self_description:payload.self_description},revision:6}});
- env.input.value='Mon brouillon complet';await env.input.fire('input');stored={profile:{self_description:'Présentation acceptée avec Ambre'},revision:5};await env.form.fire('submit');
+ env.input.value='Mon brouillon complet';await env.form.fire('input');stored={profile:{self_description:'Présentation acceptée avec Ambre'},revision:5};await env.form.fire('submit');
  assert.equal(env.ctx.state.selfRevision,4);assert.equal(env.input.value,'Mon brouillon complet');assert.match(env.message.textContent,/brouillon est conservé/);
  await env.form.querySelector('[data-reload-source]').fire('click');assert.match(env.form.querySelector('.notice').textContent,/Présentation acceptée avec Ambre/);
  assert.equal(env.ctx.state.selfRevision,4);assert.equal(calls.length,1);assert.equal(env.input.value,'Mon brouillon complet');
@@ -176,23 +176,23 @@ test('409 comparison requires an explicit revision choice and never replaces typ
 
 test('typing while a save is pending stays editable and becomes a draft at the returned revision',async()=>{
  let resolve,calls=0;const env=await selfFixture(async(path,method,payload)=>{if(!method)return {profile:{self_description:'Avant'},revision:2};calls++;return new Promise(r=>resolve=r)});
- env.input.value='Premier texte';await env.input.fire('input');const saving=env.form.fire('submit');assert.equal(env.form.querySelector('button[type=submit]').disabled,true);
- env.input.value='Texte saisi pendant la sauvegarde';await env.input.fire('input');await env.form.fire('submit');assert.equal(calls,1);assert.equal(env.input.disabled,false);
+ env.input.value='Premier texte';await env.form.fire('input');const saving=env.form.fire('submit');assert.equal(env.form.querySelector('button[type=submit]').disabled,true);
+ env.input.value='Texte saisi pendant la sauvegarde';await env.form.fire('input');await env.form.fire('submit');assert.equal(calls,1);assert.equal(env.input.disabled,false);
  resolve({profile:{self_description:'Premier texte'},revision:3});await saving;
  assert.equal(env.input.value,'Texte saisi pendant la sauvegarde');assert.equal(env.ctx.state.selfDraft.self_description,env.input.value);assert.equal(env.ctx.state.selfRevision,3);
- assert.equal(env.form.querySelector('button[type=submit]').disabled,false);assert.match(env.message.textContent,/reste à sauvegarder/);
+ assert.equal(env.form.querySelector('button[type=submit]').disabled,false);assert.match(env.message.textContent,/restent à sauvegarder/);
 });
 
 test('a failed save keeps the full presentation and original revision available for retry',async()=>{
  let offline=true;const sent=[];const env=await selfFixture(async(path,method,payload)=>{if(!method)return {profile:{self_description:'Avant'},revision:3};sent.push(payload);if(offline)throw new Error('Connexion interrompue');return {profile:{self_description:payload.self_description},revision:4}});
- env.input.value='Mes mots à garder\nUne seconde ligne';await env.input.fire('input');await env.form.fire('submit');assert.match(env.message.textContent,/Connexion interrompue/);
+ env.input.value='Mes mots à garder\nUne seconde ligne';await env.form.fire('input');await env.form.fire('submit');assert.match(env.message.textContent,/Connexion interrompue/);
  assert.equal(env.ctx.state.selfRevision,3);assert.equal(env.input.value,env.ctx.state.selfDraft.self_description);assert.equal(env.form.querySelector('button[type=submit]').disabled,false);
  offline=false;await env.form.fire('submit');assert.deepEqual(sent[1],sent[0]);assert.equal(env.ctx.state.selfDraft,null);assert.equal(env.ctx.state.selfRevision,4);
 });
 
 test('a failed comparison can be retried without adopting an unseen revision or losing input',async()=>{
  let failRead=false;const env=await selfFixture(async(path,method)=>{if(method)throw Object.assign(new Error('conflit'),{status:409});if(failRead)throw new Error('Lecture indisponible');return {profile:{self_description:'Enregistré'},revision:3}});
- env.input.value='Brouillon';await env.input.fire('input');await env.form.fire('submit');const compare=env.form.querySelector('[data-reload-source]');failRead=true;await compare.fire('click');
+ env.input.value='Brouillon';await env.form.fire('input');await env.form.fire('submit');const compare=env.form.querySelector('[data-reload-source]');failRead=true;await compare.fire('click');
  assert.equal(compare.disabled,false);assert.equal(env.ctx.state.selfRevision,3);assert.equal(env.input.value,'Brouillon');assert.match(env.message.textContent,/Lecture indisponible/);
  failRead=false;await compare.fire('click');assert.match(env.form.querySelector('.notice').textContent,/Enregistré/);assert.equal(env.input.value,'Brouillon');
 });
@@ -203,6 +203,32 @@ test('an initial profile read failure offers a reload and does not create an emp
  offline=false;await env.host.querySelector('button').fire('click');assert.equal(env.input.value,'Version enregistrée');assert.equal(env.ctx.state.selfRevision,9);
 });
 
+test('identity-only edits and explicit clears patch only changed fields, never the unchanged presentation',async()=>{
+ let stored={profile:{first_name:'Camille',last_name:'Martin',birth_date:'1990-05-02',gender:'female',gender_description:'',occupation:'Activité',self_description:'Présentation conservée',emotions:'Calme'},revision:4};const sent=[];
+ const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;sent.push(payload);const {expected_revision,...changes}=payload;stored={profile:{...stored.profile,...changes},revision:stored.revision+1};return stored});
+ assert.equal(env.form.elements.first_name.value,'Camille');assert.equal(env.form.elements.birth_date.type,'date');assert.equal(env.form.elements.occupation.maxLength,4000);
+ field(env.form,'first_name','Prénom modifié');field(env.form,'last_name','');await env.form.fire('input');await env.form.fire('submit');
+ assert.deepEqual(Object.keys(sent[0]).sort(),['expected_revision','first_name','last_name']);assert.equal(sent[0].last_name,'');assert.equal(sent[0].expected_revision,4);
+ assert.equal(env.input.value,'Présentation conservée');assert.equal(stored.profile.emotions,'Calme');assert.equal(env.ctx.state.selfDraft,null);
+});
+
+test('a conflict rebases untouched identity from the server while keeping each locally edited field',async()=>{
+ let stored={profile:{first_name:'Camille',occupation:'Avant',self_description:'Présentation'},revision:2},conflict=true;const sent=[];
+ const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;sent.push(payload);if(conflict)throw Object.assign(new Error('conflit'),{status:409});const {expected_revision,...changes}=payload;stored={profile:{...stored.profile,...changes},revision:stored.revision+1};return stored});
+ field(env.form,'first_name','Prénom local');env.input.value='Présentation locale';await env.form.fire('input');
+ stored={profile:{first_name:'Prénom distant',occupation:'Activité distante',self_description:'Présentation distante'},revision:3};await env.form.fire('submit');await env.form.querySelector('[data-reload-source]').fire('click');
+ assert.equal(env.form.elements.occupation.value,'Avant');assert.equal(env.ctx.state.selfRevision,2);
+ await env.form.querySelector('.notice').querySelector('button').fire('click');assert.equal(env.form.elements.first_name.value,'Prénom local');assert.equal(env.form.elements.occupation.value,'Activité distante');assert.equal(env.input.value,'Présentation locale');
+ assert.equal(env.ctx.state.selfBase.occupation,'Activité distante');assert.equal(env.ctx.state.selfBase.first_name,'Prénom distant');conflict=false;await env.form.fire('submit');
+ assert.deepEqual(Object.keys(sent[1]).sort(),['expected_revision','first_name','self_description']);assert.equal(sent[1].expected_revision,3);assert.equal(stored.profile.occupation,'Activité distante');
+});
+
+test('gender details appear when requested and preserve previously declared words',async()=>{
+ const env=await selfFixture(async()=>({profile:{gender:'unspecified',gender_description:'',self_description:''},revision:1}));const gender=env.form.elements.gender,description=env.form.elements.gender_description;
+ assert.equal(description.parentElement.hidden,true);gender.value='self_described';await gender.fire('change');await env.form.fire('change');assert.equal(description.parentElement.hidden,false);
+ description.value='Mes mots';await description.fire('input');await env.form.fire('input');gender.value='female';await gender.fire('change');await env.form.fire('change');assert.equal(description.parentElement.hidden,false);assert.equal(description.value,'Mes mots');assert.equal(env.ctx.state.selfDraft.gender_description,'Mes mots');
+});
+
 test('V4 global navigation has exactly the shared public links in source order',()=>{
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
@@ -211,21 +237,36 @@ test('V4 global navigation has exactly the shared public links in source order',
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
-test('private navigation renders the destination after updating history',()=>{
-  const location={pathname:'/mon-portrait/',search:'',hash:''};
-  const rendered=[];
-  const {ctx}=environment({
-    location,
-    history:{pushState(_state,_unused,path){location.pathname=path}},
-    window:{scrollTo(){}},
-    capturePageDrafts(){},
-    syncPageLocation(){ctx.state.tab='people'},
-    renderApp(){rendered.push(ctx.state.tab)},
-  });
-  vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('go'),ctx);
-  ctx.go('people');
-  assert.equal(location.pathname,'/mes-proches/');
-  assert.deepEqual(rendered,['people']);
+function navigationFixture(preparePageData){
+ const location={pathname:'/mon-portrait/',search:'',hash:''},rendered=[];
+ const env=environment({location,preparedResponses:{},preparePageData,history:{pushState(_state,_unused,path){location.pathname=path}},window:{scrollTo(){}},capturePageDrafts(){},syncPageLocation(){env.ctx.state.tab=env.ctx.pageForPath(location.pathname)},renderApp(){rendered.push(env.ctx.state.tab)}});
+ env.ctx.state.me={user:{id:'owner'}};env.ctx.state.tab='portrait';vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('pageForPath')+'\n'+functionCode('go'),env.ctx);
+ return {...env,location,rendered};
+}
+
+test('private navigation retains the complete current page and URL until destination data arrives',async()=>{
+ let resolve;const pending=new Promise(r=>resolve=r),env=navigationFixture(()=>pending),responses={'/api/people':{status:200,body:{people:[]}}};
+ const moving=env.ctx.go('people');assert.equal(env.location.pathname,'/mon-portrait/');assert.equal(env.ctx.state.tab,'portrait');assert.deepEqual(env.rendered,[]);
+ resolve(responses);await moving;assert.equal(env.location.pathname,'/mes-proches/');assert.deepEqual(env.rendered,['people']);assert.equal(env.ctx.preparedResponses,responses);
+});
+
+test('rapid navigation only renders the latest requested destination, even when old data arrives last',async()=>{
+ const releases={};const env=navigationFixture(tab=>new Promise(resolve=>releases[tab]=resolve));
+ const first=env.ctx.go('people'),last=env.ctx.go('events');releases.events({events:'latest'});await last;releases.people({people:'old'});await first;
+ assert.equal(env.location.pathname,'/ma-ligne-de-vie/');assert.deepEqual(env.rendered,['events']);assert.equal(env.ctx.preparedResponses.events,'latest');
+});
+
+test('navigation data from the previous signed-in owner cannot be installed after sign-out',async()=>{
+ let resolve;const env=navigationFixture(()=>new Promise(r=>resolve=r));const moving=env.ctx.go('people');env.ctx.state.me={user:null};resolve({'/api/people':{status:200,body:{people:[{display_name:'Private'}]}}});await moving;
+ assert.equal(env.location.pathname,'/mon-portrait/');assert.deepEqual(env.rendered,[]);assert.deepEqual(Object.keys(env.ctx.preparedResponses),[]);
+});
+
+test('prepared API responses are consumed once; writes and subsequent reads use the network',async()=>{
+ const calls=[],env=environment({preparedResponses:{'/api/self-profile':{status:200,body:{profile:{first_name:'Initial'}}}},fetch:async(path,options)=>{calls.push({path,options});return {ok:true,json:async()=>({profile:{first_name:'Fresh'}})}}});vm.runInContext(functionCode('api'),env.ctx);
+ assert.equal((await env.ctx.api('/api/self-profile')).profile.first_name,'Initial');assert.equal(calls.length,0);
+ assert.equal((await env.ctx.api('/api/self-profile')).profile.first_name,'Fresh');await env.ctx.api('/api/self-profile','PUT',{first_name:'Edited',expected_revision:1});
+ assert.equal(calls.length,2);assert.equal(calls[0].options.cache,'no-store');assert.equal(calls[1].options.method,'PUT');
+ env.ctx.preparedResponses={'/api/self-profile':{status:409,body:{error:'Conflit',code:'revision_conflict'}}};await assert.rejects(env.ctx.api('/api/self-profile'),error=>error.status===409&&error.code==='revision_conflict');assert.deepEqual(Object.keys(env.ctx.preparedResponses),[]);
 });
 
 test('portrait rendering no longer exposes the obsolete fictional character card',()=>{
@@ -823,8 +864,8 @@ test('leaving an untouched presentation shows later Ambre updates; a real draft 
  let revision=1;const accepted={1:'Avant',2:'Après Ambre',3:'Encore précisé avec Ambre'};
  const env=await selfFixture(async()=>({profile:{self_description:accepted[revision]},revision}));vm.runInContext(functionCode('capturePageDrafts'),env.ctx);
  assert.equal(env.input.value,'Avant');env.ctx.capturePageDrafts();revision=2;await env.ctx.renderSelfProfile();assert.equal(env.input.value,'Après Ambre');assert.equal(env.ctx.state.selfRevision,2);
- env.input.value='Mon brouillon';await env.input.fire('input');env.ctx.capturePageDrafts();revision=3;await env.ctx.renderSelfProfile();
- assert.equal(env.input.value,'Mon brouillon');assert.equal(env.ctx.state.selfRevision,2);assert.equal(env.ctx.state.selfDraft.self_description,'Mon brouillon');
+ env.input.value='Mon brouillon';field(env.form,'first_name','Prénom local');await env.form.fire('input');env.ctx.capturePageDrafts();revision=3;await env.ctx.renderSelfProfile();
+ assert.equal(env.input.value,'Mon brouillon');assert.equal(env.ctx.state.selfRevision,2);assert.equal(env.ctx.state.selfDraft.self_description,'Mon brouillon');assert.equal(env.form.elements.first_name.value,'Prénom local');assert.equal(env.ctx.state.selfBase.self_description,'Après Ambre');
 });
 
 
