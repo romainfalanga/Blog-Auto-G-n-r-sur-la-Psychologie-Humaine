@@ -58,3 +58,30 @@
 .carto[data-loading="true"] .carto-save,
 .carto[data-loading="true"] .carto-live { display: none; }
 .carto[data-loading="true"] .carto-tabs button { cursor: wait; }
+
+/* Results explain the subject before asking for recognition. */
+.carto-card > .carto-desc { margin: .6rem .9rem .9rem; font-size: .9rem; line-height: 1.55; }
+.carto .carto-feedback { margin-top: 1.5rem; gap: .5rem; flex-wrap: wrap; }
+.carto .carto-feedback button { min-height: 44px; }
+.carto-row-description { margin: .5rem .1rem 1rem; font-size: .86rem; color: var(--color-text-light); line-height: 1.5; }
+.carto-note-preview { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; font-size: .9rem; line-height: 1.5; }
+.carto .carto-note-add { min-height: 44px; }
+.carto-note-conflicts { margin: .75rem 0; overflow-wrap: anywhere; }
+.carto-note-conflicts summary { min-height: 44px; cursor: pointer; }
+.carto-note-conflicts p { white-space: pre-wrap; }
+
+/* A separate native dialog keeps detail and note lifecycles independent. */
+.carto .carto-note-dialog { color: var(--color-text); background: var(--color-card-bg); max-height: min(85dvh, calc(var(--note-viewport-height, 100dvh) - 2rem)); overflow: hidden; }
+.carto-note-dialog form { display: flex; flex-direction: column; max-height: inherit; }
+.carto-note-dialog .carto-dialog-head { position: static; flex: 0 0 auto; }
+.carto-note-dialog .carto-dialog-body { overflow-y: auto; min-height: 0; overscroll-behavior: contain; }
+.carto-note-dialog .carto-note-label { display: block; margin-bottom: .6rem; font-size: .95rem; }
+.carto-note-dialog .carto-note { min-height: 7rem; max-height: 45dvh; font-size: 16px; box-sizing: border-box; }
+.carto-note-dialog [data-note-count] { margin: .4rem 0 0; font-size: .8rem; color: var(--color-text-light); }
+.carto-note-actions { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: .75rem; padding: .8rem 1.1rem max(.8rem, env(safe-area-inset-bottom)); border-top: 1px solid var(--color-border); flex: 0 0 auto; }
+.carto-note-actions button { min-height: 44px; }
+@media (max-width: 900px) {
+  .carto .carto-feedback { margin-top: 1.8rem; }
+  .carto .carto-note-dialog { inset: var(--note-viewport-top, 0px) 0 auto; margin: 0 auto; width: 100%; max-height: calc(var(--note-viewport-height, 100dvh) - .5rem); border-radius: 0 0 var(--radius-lg) var(--radius-lg); }
+  .carto-note-dialog .carto-dialog-head { padding-top: max(.9rem, env(safe-area-inset-top)); }
+}

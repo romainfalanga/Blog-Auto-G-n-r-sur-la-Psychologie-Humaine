@@ -94,7 +94,7 @@ test('E: a point keeps at least 6 people and 8 moments with text, the present ru
 
 test('welcome message follows the count-based public order',async()=>{
  const s=setup();await s.ready();const answers=Object.fromEntries(CARTOGRAPHIE.factors.map((x,i)=>[x.id,i%3===0?1:0]));
- s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,2,1)").run(JSON.stringify(answers));
+ s.raw.prepare("INSERT OR REPLACE INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,2,1)").run(JSON.stringify(answers));
  const summary=companionCartography(await readCartography(s.env,'a')),welcome=(await s.call('/api/chat')).welcome.content;
  const expected=summary.sections.top.filter(x=>x.note!=='suicide').slice(0,3);assert.ok(expected.length);
  for(const item of expected)assert.ok(welcome.includes('« '+item.label+' »'),item.label);

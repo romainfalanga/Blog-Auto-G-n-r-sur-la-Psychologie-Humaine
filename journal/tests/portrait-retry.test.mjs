@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync,readdirSync} from 'node:fs';
@@ -8,7 +9,7 @@ function setup(t){
  const db=new DatabaseSync(':memory:');t.after(()=>db.close());
  const dir=new URL('../migrations/',import.meta.url);
  for(const file of readdirSync(dir).filter(file=>file.endsWith('.sql')).sort())db.exec(readFileSync(new URL(file,dir),'utf8'));
- const DB={prepare(query){return {bind(...args){return {
+ const DB={prepare(query){return {all:()=>({results:db.prepare(query).all()}),bind(...args){return {
   first:()=>db.prepare(query).get(...args)||null,
   all:()=>({results:db.prepare(query).all(...args)}),
   run:()=>({meta:{changes:db.prepare(query).run(...args).changes}})
@@ -21,6 +22,7 @@ function setup(t){
   db.prepare('INSERT INTO profiles(user_id,version,self_data) VALUES(?,2,?)').run(id,JSON.stringify({self_description:'Je souhaite mieux comprendre mes réactions au travail.'}));
   db.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);
   db.prepare('INSERT INTO subscriptions(user_id) VALUES(?)').run(id);
+  seedCompanionPrerequisites(db,id);
   const diagnostic=JSON.stringify({analysis_version:3,rejected:true,failed_paths:paths});
   db.prepare("INSERT INTO journal_jobs(id,user_id,kind,source_version,memory_version,status,attempts,provider_calls,reserved_tokens,error_code,native_candidate,created_at) VALUES(?,?,'portrait',?,1,'failed',3,?,1200,'validation_error',?,datetime('now',?))").run(id,id,sourceVersion,providerCalls,diagnostic,old?'-2 days':'-0 days');
  };

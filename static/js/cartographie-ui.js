@@ -70,6 +70,8 @@
     var $ = function (sel) { return root.querySelector(sel); };
     var formBody = $('[data-form-body]'), results = $('[data-results]');
     var countEls = root.querySelectorAll('[data-count]'), saveBox = $('[data-save]'), dialog = $('[data-dialog]');
+    var noteDialog = $('[data-note-dialog]'), noteDraft = null, previousOverflow = '';
+    var noteArea = noteDialog.querySelector('textarea');
 
     function compute() { return window.Cartographie.compute(data, state.answers, state.feedback); }
     function factorVisible(f) { return !f.historical || Object.prototype.hasOwnProperty.call(state.answers, f.id) || state.notes.factors[f.id] || ambreFor('factor', f.id).length || state.noteOpen['legacy:' + f.id]; }
@@ -226,6 +228,22 @@
         var remote = state.conflict.remote && state.conflict.remote.cartographie;
         if (state.conflict.remote) {
           saveBox.appendChild(el('p', { className: 'carto-conflict-detail', text: remote ? 'Version enregistrée : ' + Object.keys(remote.answers || {}).length + ' situations sélectionnées ; version affichée ici : ' + Object.keys(state.answers).length + '.' : 'La cartographie a été supprimée du profil depuis votre dernière lecture.' }));
+          var differences = [];
+          ['factors', 'outcomes'].forEach(function (kind) {
+            var local = state.notes[kind], stored = remote && remote.notes && remote.notes[kind] || {};
+            Object.keys(Object.assign({}, local, stored)).forEach(function (id) {
+              if ((local[id] || '') === (stored[id] || '')) return;
+              var item = (kind === 'factors' ? factors : outcomes)[id];
+              differences.push(el('li', {}, [
+                el('strong', { text: item ? item.label : 'Précision' }),
+                el('p', { text: 'Ici : ' + (local[id] || 'Aucune précision') }),
+                el('p', { text: 'Version enregistrée : ' + (stored[id] || 'Aucune précision') })
+              ]));
+            });
+          });
+          if (differences.length) saveBox.appendChild(el('details', { className: 'carto-note-conflicts' }, [
+            el('summary', { text: 'Comparer les précisions (' + differences.length + ')' }), el('ul', {}, differences)
+          ]));
           actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: function () { resolveConflict(false); } }, ['Charger la version enregistrée']));
           actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: function () { resolveConflict(true); } }, ['Garder mes réponses affichées']));
         } else actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: fetchConflict }, ['Recharger la version enregistrée']));
@@ -246,21 +264,74 @@
         ]);
       }));
     }
+    // Editing a note never mutates the saved document. Only the explicit save
+    // joins the existing serialized autosave and account-scoped recovery draft.
     function noteField(kind, id, label, placeholder, fieldLabel) {
-      var store = state.notes[kind], key = kind + ':' + id;
-      var has = Boolean(store[id]);
-      if (!has && !state.noteOpen[key]) {
-        return el('button', { type: 'button', className: 'carto-note-add', onclick: function () { state.noteOpen[key] = true; renderAll(); var t = root.querySelector('[data-note="' + key + '"]'); if (t) t.focus(); } }, ['+ ' + label]);
-      }
-      var fieldId = 'carto-note-' + kind + '-' + id;
-      var area = el('textarea', { id: fieldId, className: 'carto-note', 'data-note': key, 'data-focus': 'note:' + key, rows: '3', maxlength: String(NOTE_MAX), placeholder: placeholder, 'aria-label': label + ' : ' + (kind === 'factors' ? factors[id].label : outcomes[id].label), value: store[id] || '' });
-      area.addEventListener('input', function () {
-        var v = area.value.trim();
-        if (v) store[id] = area.value.slice(0, NOTE_MAX); else delete store[id];
-        changed(); refreshChoices();
-      });
-      return el('div', { className: 'carto-note-wrap' }, [el('label', { className: 'carto-note-label', for: fieldId, text: fieldLabel || label }), area]);
+      var text = state.notes[kind][id] || '', key = kind + ':' + id;
+      var button = el('button', {
+        type: 'button', className: 'carto-note-add', 'data-focus': 'note:' + key,
+        'aria-haspopup': 'dialog', onclick: function () { openNote(kind, id, label, placeholder, fieldLabel); }
+      }, [text ? (kind === 'factors' ? 'Modifier ma précision' : 'Modifier ma description') : '+ ' + label]);
+      if (!text) return button;
+      return el('div', { className: 'carto-note-wrap' }, [
+        el('p', { className: 'carto-note-preview', text: text }), button
+      ]);
     }
+    function sizeNoteDialog() {
+      var viewport = window.visualViewport;
+      noteDialog.style.setProperty('--note-viewport-height', (viewport ? viewport.height : window.innerHeight) + 'px');
+      noteDialog.style.setProperty('--note-viewport-top', (viewport ? viewport.offsetTop : 0) + 'px');
+    }
+    function openNote(kind, id, label, placeholder, fieldLabel) {
+      noteDraft = { kind: kind, id: id, key: 'note:' + kind + ':' + id, fallback: kind === 'factors' ? 'theme:' + factors[id].group : 'outcome:' + id, initial: state.notes[kind][id] || '' };
+      noteDialog.querySelector('[data-note-title]').textContent = (kind === 'factors' ? factors[id] : outcomes[id]).label;
+      noteDialog.querySelector('label').textContent = fieldLabel || label;
+      noteArea.value = noteDraft.initial;
+      noteArea.placeholder = placeholder;
+      updateNoteCount(); sizeNoteDialog();
+      previousOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      noteDialog.showModal();
+      // Focus the heading first: opening a note must not summon the mobile keyboard.
+      noteDialog.querySelector('[data-note-title]').focus({ preventScroll: true });
+    }
+    function closeNote() { noteDialog.close(); }
+    function updateNoteCount() {
+      noteDialog.querySelector('[data-note-count]').textContent = noteArea.value.length + ' / ' + NOTE_MAX + ' caractères';
+    }
+    noteArea.addEventListener('input', updateNoteCount);
+    noteDialog.querySelector('[data-note-cancel]').addEventListener('click', closeNote);
+    noteDialog.addEventListener('cancel', function (event) { event.preventDefault(); closeNote(); });
+    noteDialog.addEventListener('keydown', function (event) {
+      if (event.key !== 'Tab') return;
+      var controls = Array.from(noteDialog.querySelectorAll('textarea, button')).filter(function (node) { return !node.disabled; });
+      var first = controls[0], last = controls[controls.length - 1], active = document.activeElement;
+      if (event.shiftKey && (active === first || active === noteDialog.querySelector('[data-note-title]'))) { event.preventDefault(); last.focus(); }
+      else if (!event.shiftKey && active === last) { event.preventDefault(); first.focus(); }
+    });
+    noteDialog.addEventListener('close', function () {
+      var key = noteDraft && noteDraft.key, fallback = noteDraft && noteDraft.fallback;
+      noteDraft = null; noteArea.value = '';
+      document.body.style.overflow = previousOverflow;
+      if (key && !restoreFocus({ key: key })) restoreFocus({ key: fallback });
+    });
+    noteDialog.querySelector('form').addEventListener('submit', function (event) {
+      event.preventDefault();
+      if (!noteDraft) return;
+      if (noteArea.value === noteDraft.initial) { closeNote(); return; }
+      var value = noteArea.value.slice(0, NOTE_MAX), store = state.notes[noteDraft.kind];
+      if (!value.trim()) value = '';
+      if (value !== noteDraft.initial) {
+        if (value) store[noteDraft.id] = value; else delete store[noteDraft.id];
+        changed(); renderAll();
+      }
+      closeNote();
+    });
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', sizeNoteDialog);
+      window.visualViewport.addEventListener('scroll', sizeNoteDialog);
+    }
+    window.addEventListener('resize', sizeNoteDialog);
 
     /* ---- Mon enfance ---- */
     function choice(current, level, label, onPick) {
@@ -400,6 +471,7 @@
       var open = Boolean(state.open[o.id]);
       var children = [
         el('h4', { className: 'carto-card-title', text: outcomeLabel(o) }),
+        o.description ? el('p', { className: 'carto-desc', text: PLAIN_DESCRIPTIONS[o.id] || o.description }) : null,
         el('p', { className: 'carto-from-line' }, ['Relié à : ', el('b', { text: fromLine(r) })]),
         r.familial ? el('p', { className: 'carto-familial', text: FAMILIAL_TEXT }) : null,
         el('div', { className: 'carto-feedback', role: 'group', 'aria-label': 'Vous reconnaissez-vous ?' }, [
@@ -410,7 +482,6 @@
       ];
       if (open) {
         var body = [];
-        if (o.description) body.push(el('p', { className: 'carto-desc', text: PLAIN_DESCRIPTIONS[o.id] || o.description }));
         var linkItem = function (label) { return function (l) {
           return el('li', {}, [
             el('div', { className: 'carto-from' }, [el('strong', { text: factors[l.factor].label }), label ? el('span', { className: 'carto-relation', text: label(l) }) : null]),
@@ -424,7 +495,6 @@
           body.push(el('p', { className: 'carto-other-title', text: 'Autres repères' }));
           body.push(el('ul', { className: 'carto-links carto-links-other' }, others.map(linkItem(function (l) { return OTHER_RELATIONS.filter(function (x) { return x[0] === relationOf(l); }).map(function (x) { return x[1]; })[0] || 'Repère clinique'; }))));
         }
-        if (o.kind === 'trouble') body.push(el('p', { className: 'carto-caution', text: 'Ces rapprochements ne décrivent pas votre situation clinique et ne mesurent pas votre risque personnel. Seul un professionnel peut évaluer un trouble.' }));
         children.push(el('div', { className: 'carto-card-body' }, body));
       }
       if (fb === 'oui' || open || state.notes.outcomes[o.id]) {
@@ -440,7 +510,7 @@
       var line = el('button', { type: 'button', className: 'carto-row', 'data-focus': 'row:' + o.id, 'data-outcome': o.id, 'data-section': r.section, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.rowOpen[o.id] = !open; renderResults(); } }, [
         el('span', { className: 'carto-row-title', text: outcomeLabel(o) })
       ]);
-      return el('li', { className: 'carto-row-item' }, open ? [line, card(r)] : [line]);
+      return el('li', { className: 'carto-row-item' }, open ? [line, card(r)] : [line, o.description ? el('p', { className: 'carto-row-description', text: PLAIN_DESCRIPTIONS[o.id] || o.description }) : null]);
     }
     function fold(name, title, items) {
       var details = el('details', { className: 'carto-fold', 'data-fold': name }, [
@@ -499,7 +569,7 @@
     function restoreFocus(saved) {
       if (!saved) return;
       var active = Array.from(root.querySelectorAll('[data-focus]')).find(function (node) { return node.getAttribute('data-focus') === saved.key; });
-      if (active) { active.focus({ preventScroll: true }); if (typeof active.setSelectionRange === 'function' && saved.start != null) active.setSelectionRange(saved.start, saved.end); }
+      if (active) { active.focus({ preventScroll: true }); if (typeof active.setSelectionRange === 'function' && saved.start != null) active.setSelectionRange(saved.start, saved.end); return true; }
     }
     function renderReadiness() {
       var waiting = !state.initialized;
@@ -565,7 +635,7 @@
     }).catch(function () { openAnonymous(true); });
 
     window.addEventListener('beforeunload', function (event) {
-      if (state.account && (state.dirty || state.saving || state.deleting)) { event.preventDefault(); event.returnValue = ''; }
+      if ((noteDraft && noteArea.value !== noteDraft.initial) || (state.account && (state.dirty || state.saving || state.deleting))) { event.preventDefault(); event.returnValue = ''; }
     });
 
     setView('form');

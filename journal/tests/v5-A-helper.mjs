@@ -20,7 +20,8 @@ export const EVENTS=[
  ['ev12','Reprise du travail','turning_point','month','2024-09','','',['paul'],4]
 ];
 export function seedProfile(s,user='a'){
- const self={first_name:'Camille',gender:'female',birth_date:'1991-03-02',occupation:'Cheffe de projet'};
+ s.raw.prepare("DELETE FROM personal_people WHERE user_id=? AND payload_hash='ready'").run(user);s.raw.prepare("DELETE FROM life_events WHERE user_id=? AND payload_hash='ready'").run(user);
+ const self={first_name:'Camille',last_name:'Test',gender:'female',birth_date:'1991-03-02',occupation:'Cheffe de projet'};
  const sizes={self_description:2400,self_perception:800,recurring_patterns:800,emotions:800,current_context:800};
  for(const [k,[a,b]] of Object.entries(MARK))self[k]=a+' '+filler(k,sizes[k]-a.length-b.length-2)+' '+b;
  s.raw.prepare('UPDATE profiles SET self_data=? WHERE user_id=?').run(JSON.stringify(self),user);
@@ -30,7 +31,7 @@ export function seedProfile(s,user='a'){
   for(const p of people)s.raw.prepare('INSERT INTO life_event_people(event_id,person_id,user_id) VALUES(?,?,?)').run(id,p,user);
  }
  const answers=Object.fromEntries(CARTOGRAPHIE.factors.map((x,i)=>[x.id,i%4===0?0:i%5===0?2:1]));
- s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES(?,?,'{}','{}','{}','[]',1,1,1,1)").run(user,JSON.stringify(answers));
+ s.raw.prepare("INSERT OR REPLACE INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES(?,?,'{}','{}','{}','[]',1,1,1,1)").run(user,JSON.stringify(answers));
  const v=s.raw.prepare('SELECT version FROM profiles WHERE user_id=?').get(user).version;
  const portrait={schema_version:2,summary:'SYNTH_DEBUT {{prenom}} décrit une vigilance forte face à la critique. '+filler('synthèse',1800)+' SYNTH_FIN',summary_evidence:['profile:'+user],axes:[{label:'AXE_Vigilance à la critique',why:'AXEWHY '+filler('axe',600),confidence:0.6,claim_type:'hypothesis',evidence:['profile:'+user]},{label:'AXE_Besoin de limites',why:'AXEWHY2 '+filler('axe2',400),confidence:0.5,claim_type:'hypothesis',evidence:['person:lea']}],strengths:[{text:'FORCE_ lucidité et humour',evidence:['profile:'+user]}],uncertainties:['INCERT_ rôle du travail'],current_state:{summary:'ETAT_ACTUEL '+filler('état',500),evidence:['profile:'+user]},evolution:{summary:'EVOLUTION_ '+filler('évolution',500),evidence:['profile:'+user]},citations:[{source_id:'profile:'+user,revision:1,quote:'PRES_DEBUT'}],psychological_map:[],coverage:{processed:[],pending:[]}};
  s.raw.prepare('INSERT OR REPLACE INTO user_portraits(user_id,portrait,analyzed_version,schema_version,updated_at) VALUES(?,?,?,2,CURRENT_TIMESTAMP)').run(user,JSON.stringify(portrait),v);
@@ -87,9 +88,10 @@ export async function replayTurn(message,{strategy='ideal',choose=null,digests=f
 // Lot A5-P1: the separate check is answered (pass) and measured too (check, checkTokens).
 export const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
 const bodyTokens=body=>{const system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text;return Math.ceil((system.length+body.messages[1].content.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3)};
-export async function replayReview(kind,{digests=false,write=null}={}){
- const s=setup();seedProfile(s);
- if(kind==='point'){await s.ready();seedReviews(s,'a',{digests});seedMemoryAndHistory(s)}
+export async function replayReview(kind,{digests=false,write=null,extend=null}={}){
+ const s=setup();if(kind==='point')await s.ready();seedProfile(s);
+ if(kind==='point'){seedReviews(s,'a',{digests});seedMemoryAndHistory(s)}
+ if(extend)await extend(s);
  const calls=[],original=globalThis.fetch;
  globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body);calls.push(body);if(body.response_format?.json_schema?.name==='ambre_review_check')return response(CHECK_PASS);return response(write?write(body):{content:'BILAN_GENERE '+'Ce qui a évolué depuis le dernier bilan. '.repeat(60)})};
  let r;try{r=kind==='point'?await s.call('/api/chat/review','POST',{idempotency_key:'point-0001'}):await s.call('/api/chat/start','POST',{idempotency_key:'start-0001',accepted:true})}finally{globalThis.fetch=original}

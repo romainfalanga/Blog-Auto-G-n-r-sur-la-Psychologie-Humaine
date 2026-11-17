@@ -15,9 +15,9 @@ test('legacy page redirects drop retired identifiers and retain public article o
     ['/mes-personnages?character=old', '/mon-accompagnement/'],
     ['/mes-histoires/old?story=old', '/mon-accompagnement/'],
     ['/journal/?story=old', '/mon-accompagnement/'],
-    ['/journal/?article=public&like=1&story=old', '/mon-portrait/?article=public&like=1#mes-articles'],
+    ['/journal/?article=public&like=1&story=old', '/mon-compte/?article=public&like=1#mes-articles'],
     ['/journal/?payment=success&character=old', '/mon-compte/?payment=success'],
-    ['/journal/?tab=portrait&character=old', '/mon-portrait/'],
+    ['/journal/?tab=portrait&character=old', '/mon-compte/'],
   ]) {
     const url = new URL(base + path);
     assert.equal(route.test(url.pathname), true, path);

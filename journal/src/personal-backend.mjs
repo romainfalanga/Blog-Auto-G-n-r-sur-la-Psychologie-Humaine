@@ -1,3 +1,6 @@
+import {createTimelineBackend} from './timeline-backend.mjs';
+import {MEETING_FIELDS,meetingData,timelineReady,eventRows} from './timeline-data.mjs';
+import {readCompanionReadiness,companionReadinessSql} from './companion-readiness.mjs';
 import { accessSql } from './entitlements.mjs';
 import {PSYCHOLOGY_CATALOG,buildPsychologyMap} from './psychology-map.mjs';
 import {createReadingLookup,expandReadingQuery} from './reading-intent.mjs';
@@ -20,6 +23,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const articleById=new Map(examples.map(article=>[article.id,article]));
  const readingLookup=createReadingLookup(examples);
  const peopleObservations=createPeopleObservationApi({error,json,body});
+ const timeline=createTimelineBackend({error,json,body,now,random});
  const first=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).first();
  const all=async(env,sql,...args)=>(await env.DB.prepare(sql).bind(...args).all()).results;
  const run=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).run();
@@ -34,7 +38,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const string=(v,max=80)=>text(v??'',max);
  const revision=data=>{if(!Number.isInteger(data.revision)||data.revision<1)fail(400,'La révision actuelle est requise.','revision_required');return data.revision;};
  const creation=data=>{const id=string(data.creation_id,120);if(!/^[A-Za-z0-9_-]{8,120}$/.test(id))fail(400,'Identifiant de création requis.','creation_id_required');return id;};
- function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');optionalFields(p,data,PERSON_CHOICES,PERSON_TEXTS);return p;}
+ function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');optionalFields(p,data,PERSON_CHOICES,PERSON_TEXTS);Object.assign(p,meetingData(data,fail));return p;}
  function eventData(data){const e={title:string(data.title,160),kind:choices(data.kind??'other',['difficult','positive','turning_point','ambivalent','other'],'Type'),description:string(data.description,6000),meaning_now:string(data.meaning_now,2000),date_precision:choices(data.date_precision??'unknown',['unknown','year','month','day','range','age'],'Précision de date'),date_start:string(data.date_start,10),date_end:string(data.date_end,10),age_text:string(data.age_text,80),current_importance:data.current_importance??null};
  if(['unknown','age'].includes(e.date_precision)){e.date_start='';e.date_end='';}
  if(e.date_precision!=='range')e.date_end='';
@@ -74,29 +78,35 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   const row=await first(env,'SELECT self_data,self_revision,version FROM profiles WHERE user_id=?',user.id);return json({profile:Object.fromEntries(selfFields.map(k=>[k,parse(row.self_data)[k]||''])),revision:row.self_revision,source_version:row.version});
  }
  const personRow=row=>{if(!row)return null;const {user_id,creation_id,payload_hash,fiction_use,...p}=row;return p;};
- const eventRow=async(env,row)=>row?{...personRow(row),people_ids:(await all(env,'SELECT person_id FROM life_event_people WHERE event_id=? AND user_id=? ORDER BY person_id',row.id,row.user_id)).map(r=>r.person_id)}:null;
+ const eventRow=async(env,row)=>row?(await eventRows(env,[row],row.user_id))[0]:null;
  async function crud(request,env,user,path,url){const match=path.match(/^\/api\/(people|life-events)(?:\/([\w-]+))?$/);if(!match)return null;const isPerson=match[1]==='people',table=isPerson?'personal_people':'life_events',kind=isPerson?'person':'event',id=match[2],method=request.method;
  const transform=row=>isPerson?personRow(row):eventRow(env,row);
- if(method==='GET'&&id){const row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');return json({[kind]:await transform(row),source_version:await version(env,user.id)});}
+ if(method==='GET'&&id){const snapshot=await version(env,user.id),row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');const item=await transform(row);if(await version(env,user.id)!==snapshot)fail(409,'Cet élément a changé. Rechargez-le.','revision_conflict');return json({[kind]:item,source_version:snapshot});}
  if(method==='GET'&&!id){
+  const snapshot=await version(env,user.id);
+  const personFilter=isPerson?'':string(url.searchParams.get('person_id')||'',120);
+  if(personFilter&&!await first(env,'SELECT id FROM personal_people WHERE id=? AND user_id=?',personFilter,user.id))fail(404,'Proche introuvable.','not_found');
   const cursor=string(url.searchParams.get('cursor')||'',120),limit=Number(url.searchParams.get('limit')||50);
   if(!Number.isInteger(limit)||limit<1||limit>50)fail(400,'Pagination invalide.','invalid_pagination');
   let rows;
   if(isPerson)rows=await all(env,'SELECT * FROM personal_people WHERE user_id=? AND id>? ORDER BY id LIMIT ?',user.id,cursor,limit+1);
   else{
    const dateOrder="CASE WHEN date_precision IN ('unknown','age') THEN '' ELSE date_start END";
-   const anchor=cursor?await first(env,`SELECT id,${dateOrder} AS sort_date FROM life_events WHERE id=? AND user_id=?`,cursor,user.id):null;
+   const filter=personFilter?' AND EXISTS(SELECT 1 FROM life_event_people l WHERE l.event_id=life_events.id AND l.user_id=life_events.user_id AND l.person_id=?)':'',filterArgs=personFilter?[personFilter]:[];
+   const anchor=cursor?await first(env,`SELECT id,${dateOrder} AS sort_date FROM life_events WHERE id=? AND user_id=?${filter}`,cursor,user.id,...filterArgs):null;
    if(cursor&&!anchor)fail(409,'Ce repère de pagination a changé. Rechargez votre ligne de vie.','pagination_changed');
-   rows=anchor?await all(env,`SELECT * FROM life_events WHERE user_id=? AND (${dateOrder}<? OR (${dateOrder}=? AND id>?)) ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,anchor.sort_date,anchor.sort_date,anchor.id,limit+1):await all(env,`SELECT * FROM life_events WHERE user_id=? ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,limit+1);
+   rows=anchor?await all(env,`SELECT * FROM life_events WHERE user_id=?${filter} AND (${dateOrder}<? OR (${dateOrder}=? AND id>?)) ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,...filterArgs,anchor.sort_date,anchor.sort_date,anchor.id,limit+1):await all(env,`SELECT * FROM life_events WHERE user_id=?${filter} ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,...filterArgs,limit+1);
   }
-  const more=rows.length>limit,items=await Promise.all(rows.slice(0,limit).map(transform));
-  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id),fields_ready:await contextFieldsReady(env)});
+  const more=rows.length>limit,items=isPerson?await Promise.all(rows.slice(0,limit).map(transform)):await eventRows(env,rows.slice(0,limit),user.id);
+  if(await version(env,user.id)!==snapshot)fail(409,'La liste a changé. Rechargez-la.','pagination_changed');
+  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id),fields_ready:await contextFieldsReady(env),notes_available:await timelineReady(env)});
  }
  if(!['POST','PATCH','DELETE'].includes(method)||method==='POST'&&id||method!=='POST'&&!id)fail(405,'Méthode non autorisée.','method_not_allowed');
  const data=await body(request,45000);let prior=null,expected=null;
  // Lot A5-P2: before migration 0024 the new optional fields cannot be stored. Empty values are
  // dropped silently (an older form state); a filled one is refused rather than lost.
  if(!await contextFieldsReady(env))for(const key of isPerson?PERSON_P2_FIELDS:EVENT_P2_FIELDS)if(Object.hasOwn(data,key)){if(data[key]!=null&&data[key]!=='')fail(503,'Ces nouvelles rubriques ne sont pas encore disponibles. Le reste peut être enregistré.','feature_unavailable');delete data[key];}
+ if(isPerson&&!await timelineReady(env))for(const key of MEETING_FIELDS)if(Object.hasOwn(data,key)){if(data[key]&&!(key==='meeting_date_precision'&&data[key]==='unknown'))fail(503,'Le repère de rencontre n’est pas encore disponible.','feature_unavailable');delete data[key];}
  if(id){prior=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!prior)fail(404,'Élément introuvable.','not_found');expected=revision(data);if(expected!==prior.revision)fail(409,'Cet élément a été modifié dans un autre onglet.','revision_conflict');}
  if(method==='DELETE'){
  const statements=[stmt(env,`DELETE FROM ${table} WHERE id=? AND user_id=? AND revision=?`,id,user.id,expected),bump(env,user.id)];
@@ -168,6 +178,8 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return crud(request,env,user,path,url);
  }
  async function routes(request,env,user,path,url,ctx){
+  const timelineResponse=await timeline.routes(request,env,user,path,url);
+  if(timelineResponse){if(['POST','PATCH','DELETE'].includes(request.method))await sourcesChanged(env,user.id,ctx);return timelineResponse;}
   const observationsResponse=await peopleObservations.routes(request,env,user,path);
   if(observationsResponse)return observationsResponse;
   const response=await routePersonal(request,env,user,path,url);
@@ -175,14 +187,15 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return response;
  }
  const sourcesSql=`(${selfSql} OR EXISTS(SELECT 1 FROM article_likes l WHERE l.user_id=p.user_id) OR trim(m.text)!='' OR EXISTS(SELECT 1 FROM personal_people pp WHERE pp.user_id=p.user_id AND trim(pp.relationship_text)!='') OR EXISTS(SELECT 1 FROM life_events e WHERE e.user_id=p.user_id AND (trim(e.description)!='' OR trim(e.meaning_now)!='')))`;
- const guard=`EXISTS(SELECT 1 FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id WHERE j.id=? AND j.lease_token=? AND j.kind='portrait' AND j.status='running' AND j.lease_until>? AND j.source_version=p.version AND j.memory_version=m.version AND ${sourcesSql})`;
+ const portraitSourcesSql=async env=>`((${sourcesSql}${await timelineReady(env)?' OR EXISTS(SELECT 1 FROM personal_notes pn WHERE pn.user_id=p.user_id)':''}) AND ${companionReadinessSql('p.user_id')})`;
+ const guard=async env=>`EXISTS(SELECT 1 FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id WHERE j.id=? AND j.lease_token=? AND j.kind='portrait' AND j.status='running' AND j.lease_until>? AND j.source_version=p.version AND j.memory_version=m.version AND ${await portraitSourcesSql(env)})`;
  const guardArgs=(id,lease)=>[id,lease,now()];
  async function validJob(env,id,data){
   checkPause(env);
   const job=await first(env,"SELECT * FROM journal_jobs WHERE id=? AND kind='portrait'",id);
   if(!job||job.lease_token!==data.lease_token||job.status!=='running'||job.lease_until<=now())fail(409,'Bail expiré ou inconnu.','lease_expired');
   if(data.source_version!==undefined&&data.source_version!==job.source_version||data.memory_version!==undefined&&data.memory_version!==job.memory_version)fail(409,'Le contexte a changé.','context_changed');
-  if(!await first(env,`SELECT 1 AS ok WHERE ${guard}`,...guardArgs(id,data.lease_token)))fail(409,'Le contexte a changé.','context_changed');
+  if(!await first(env,`SELECT 1 AS ok WHERE ${await guard(env)}`,...guardArgs(id,data.lease_token)))fail(409,'Le contexte a changé.','context_changed');
   return job;
  }
  const portraitBudget=env=>Number(env.PORTRAIT_TOKEN_BUDGET||env.STORY_TOKEN_BUDGET)||300000;
@@ -196,9 +209,9 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  await env.DB.batch([
  stmt(env,"UPDATE journal_jobs SET memory_version=(SELECT version FROM memories m WHERE m.user_id=journal_jobs.user_id) WHERE kind='portrait' AND status='pending'"),
  stmt(env,`UPDATE journal_jobs SET status='pending',attempts=0,provider_calls=0,reserved_tokens=0,lease_token=NULL,lease_until=0,error_code=NULL,created_at=CURRENT_TIMESTAMP WHERE kind='portrait' AND status NOT IN ('complete','obsolete') AND (attempts>=3 OR provider_calls>=20 OR error_code='generation_budget') AND lease_until<=? AND created_at<=datetime('now','-24 hours') AND NOT ${legacyLanguageRetry()}`,t,LEGACY_LANGUAGE_DIAGNOSTIC),
- stmt(env,`INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version) SELECT lower(hex(randomblob(16))),p.user_id,'portrait',p.version,m.version FROM profiles p JOIN memories m ON m.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE ${sourcesSql} AND (up.schema_version IS NULL OR up.schema_version!=2 OR up.analyzed_version!=p.version OR COALESCE(json_array_length(json_extract(up.portrait,'$.coverage.pending')),0)>0 OR json_type(up.portrait,'$.psychological_map') IS NULL)`) ]);
+ stmt(env,`INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version) SELECT lower(hex(randomblob(16))),p.user_id,'portrait',p.version,m.version FROM profiles p JOIN memories m ON m.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE ${await portraitSourcesSql(env)} AND (up.schema_version IS NULL OR up.schema_version!=2 OR up.analyzed_version!=p.version OR COALESCE(json_array_length(json_extract(up.portrait,'$.coverage.pending')),0)>0 OR json_type(up.portrait,'$.psychological_map') IS NULL)`) ]);
  const candidates=await all(env,`SELECT j.* FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id JOIN subscriptions s ON s.user_id=j.user_id LEFT JOIN portrait_usage pu ON pu.user_id=j.user_id
- WHERE j.kind='portrait' AND (? IS NULL OR j.user_id=?) AND (?=0 OR COALESCE(j.error_code,'')!='batch_required') AND (?=0 OR j.attempts=0 OR j.native_candidate IS NOT NULL OR j.error_code='validation_error') AND ${claimable('j.')} AND j.lease_until<=? AND j.provider_calls<20 AND j.source_version=p.version AND ${sourcesSql}
+ WHERE j.kind='portrait' AND (? IS NULL OR j.user_id=?) AND (?=0 OR COALESCE(j.error_code,'')!='batch_required') AND (?=0 OR j.attempts=0 OR j.native_candidate IS NOT NULL OR j.error_code='validation_error') AND ${claimable('j.')} AND j.lease_until<=? AND j.provider_calls<20 AND j.source_version=p.version AND ${await portraitSourcesSql(env)}
  AND (${accessSql(env,'s')} OR pu.user_id IS NULL OR pu.window_started<=? OR pu.starts<3 AND pu.last_started<=?)
  ORDER BY CASE WHEN ${accessSql(env,'s')} THEN 0 ELSE 1 END,j.created_at,j.id LIMIT 30`,userId,userId,Number(native),Number(resumeCached),retryLegacy,LEGACY_LANGUAGE_DIAGNOSTIC,t,t,t-86400,t-600,t);
  for(const candidate of candidates){try{
@@ -210,7 +223,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   continue;
  }
  const lease=random()+random(),paid=c.access.allowed;
- const statements=[stmt(env,`UPDATE journal_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,memory_version=?,error_code=NULL,created_at=CASE WHEN status='failed' THEN CURRENT_TIMESTAMP ELSE created_at END WHERE id=? AND kind='portrait' AND ${claimable()} AND lease_until<=? AND provider_calls<20 AND source_version=(SELECT version FROM profiles WHERE user_id=journal_jobs.user_id) AND (${paid?1:0}=1 OR NOT EXISTS(SELECT 1 FROM portrait_usage pu WHERE pu.user_id=journal_jobs.user_id AND pu.window_started>? AND (pu.starts>=3 OR pu.last_started>?)))`,lease,t+Math.min(1800,Math.max(90,leaseSeconds)),c.memory.version,candidate.id,retryLegacy,LEGACY_LANGUAGE_DIAGNOSTIC,t,t-86400,t-600)];
+ const statements=[stmt(env,`UPDATE journal_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,memory_version=?,error_code=NULL,created_at=CASE WHEN status='failed' THEN CURRENT_TIMESTAMP ELSE created_at END WHERE id=? AND kind='portrait' AND ${claimable()} AND lease_until<=? AND provider_calls<20 AND source_version=(SELECT version FROM profiles WHERE user_id=journal_jobs.user_id) AND ${companionReadinessSql('journal_jobs.user_id')} AND (${paid?1:0}=1 OR NOT EXISTS(SELECT 1 FROM portrait_usage pu WHERE pu.user_id=journal_jobs.user_id AND pu.window_started>? AND (pu.starts>=3 OR pu.last_started>?)))`,lease,t+Math.min(1800,Math.max(90,leaseSeconds)),c.memory.version,candidate.id,retryLegacy,LEGACY_LANGUAGE_DIAGNOSTIC,t,t-86400,t-600)];
  if(!paid)statements.push(stmt(env,`INSERT INTO portrait_usage(user_id,window_started,starts,last_started) SELECT ?,?,1,? WHERE EXISTS(SELECT 1 FROM journal_jobs WHERE id=? AND lease_token=?) ON CONFLICT(user_id) DO UPDATE SET window_started=CASE WHEN window_started<=? THEN excluded.window_started ELSE window_started END,starts=CASE WHEN window_started<=? THEN 1 ELSE starts+1 END,last_started=excluded.last_started`,candidate.user_id,t,t,candidate.id,lease,t-86400,t-86400));
  const result=await env.DB.batch(statements);if(!result[0].meta.changes)continue;
  const base={schema_version:2,id:candidate.id,kind:candidate.kind,provider_calls:candidate.provider_calls,attempts:candidate.attempts+1,reserved_tokens:candidate.reserved_tokens,token_budget:portraitBudget(env),user_id:candidate.user_id,day:dateString(new Date()),lease_token:lease,source_version:c.source_version,profile_version:c.source_version,memory_version:c.memory.version,self_context:c.self_context,memory:c.memory,likes:c.likes,people:c.people,events:c.events,sources:c.sources,source_manifest:c.source_manifest,portrait_previous:null,portrait_previous_version:0,native_candidate:parse(candidate.native_candidate,null)};
@@ -224,9 +237,9 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const sourceVersion=data.source_version??data.profile_version;if(!Number.isInteger(sourceVersion)||!Number.isInteger(data.memory_version))fail(400,'Versions du contexte requises.','versions_required');const job=await validJob(env,id,{...data,source_version:sourceVersion}),args=guardArgs(id,data.lease_token);
  const c=await context(env,job.user_id),p=validatePortraitV2({...data.portrait,analysis_version:PORTRAIT_ANALYSIS_VERSION,identity_context:c.self_context},c.sources,fail),statements=[];
  const derivatives=data.source_derivatives??[];if(!Array.isArray(derivatives)||derivatives.length>1000)fail(400,'Extractions invalides.','invalid_derivative');
- for(const d of derivatives){const s=c.sources.find(s=>s.id===d.source_id);if(!s||d.revision!==s.revision||d.source_hash!==s.hash||d.analysis_version!==2||!Array.isArray(d.derivative?.signals)||d.derivative.signals.length>50)fail(400,'Extraction périmée.','invalid_derivative');for(const signal of d.derivative.signals){if(typeof signal.quote!=='string'||!signal.quote.trim()||signal.quote.length>1200||!s.text.includes(signal.quote)||typeof signal.text!=='string'||signal.text.length>2000)fail(400,'Extraction sans preuve.','invalid_derivative');}const manifest={[s.id]:c.source_manifest[s.id]};statements.push(stmt(env,`INSERT INTO context_source_derivatives(user_id,source_id,revision,analysis_version,source_hash,derivative,manifest) SELECT ?,?,?,?,?,?,? WHERE ${guard} ON CONFLICT(user_id,source_id,revision,analysis_version) DO UPDATE SET derivative=excluded.derivative,manifest=excluded.manifest,source_hash=excluded.source_hash`,job.user_id,s.id,s.revision,2,s.hash,JSON.stringify(d.derivative),JSON.stringify(manifest),...args));}
- statements.push(stmt(env,`INSERT INTO user_portraits(user_id,portrait,analyzed_version,schema_version) SELECT ?,?,?,2 WHERE ${guard} ON CONFLICT(user_id) DO UPDATE SET portrait=excluded.portrait,analyzed_version=excluded.analyzed_version,schema_version=2,updated_at=CURRENT_TIMESTAMP`,job.user_id,JSON.stringify(p),job.source_version,...args));
- statements.push(stmt(env,`UPDATE journal_jobs SET status='complete',lease_until=0,native_candidate=NULL WHERE id=? AND lease_token=? AND ${guard}`,id,data.lease_token,...args));const results=await env.DB.batch(statements);if(!results.at(-1).meta.changes)fail(409,'Le contexte a changé.','context_changed');return json({ok:true,kind:'portrait',source_version:job.source_version,analyzed_version:job.source_version});}
+ for(const d of derivatives){const s=c.sources.find(s=>s.id===d.source_id);if(!s||d.revision!==s.revision||d.source_hash!==s.hash||d.analysis_version!==2||!Array.isArray(d.derivative?.signals)||d.derivative.signals.length>50)fail(400,'Extraction périmée.','invalid_derivative');for(const signal of d.derivative.signals){if(typeof signal.quote!=='string'||!signal.quote.trim()||signal.quote.length>1200||!s.text.includes(signal.quote)||typeof signal.text!=='string'||signal.text.length>2000)fail(400,'Extraction sans preuve.','invalid_derivative');}const manifest={[s.id]:c.source_manifest[s.id]};statements.push(stmt(env,`INSERT INTO context_source_derivatives(user_id,source_id,revision,analysis_version,source_hash,derivative,manifest) SELECT ?,?,?,?,?,?,? WHERE ${await guard(env)} ON CONFLICT(user_id,source_id,revision,analysis_version) DO UPDATE SET derivative=excluded.derivative,manifest=excluded.manifest,source_hash=excluded.source_hash`,job.user_id,s.id,s.revision,2,s.hash,JSON.stringify(d.derivative),JSON.stringify(manifest),...args));}
+ statements.push(stmt(env,`INSERT INTO user_portraits(user_id,portrait,analyzed_version,schema_version) SELECT ?,?,?,2 WHERE ${await guard(env)} ON CONFLICT(user_id) DO UPDATE SET portrait=excluded.portrait,analyzed_version=excluded.analyzed_version,schema_version=2,updated_at=CURRENT_TIMESTAMP`,job.user_id,JSON.stringify(p),job.source_version,...args));
+ statements.push(stmt(env,`UPDATE journal_jobs SET status='complete',lease_until=0,native_candidate=NULL WHERE id=? AND lease_token=? AND ${await guard(env)}`,id,data.lease_token,...args));const results=await env.DB.batch(statements);if(!results.at(-1).meta.changes)fail(409,'Le contexte a changé.','context_changed');return json({ok:true,kind:'portrait',source_version:job.source_version,analyzed_version:job.source_version});}
  async function failJob(env,id,data,{retryAfterSeconds=null}={}){
   const job=await first(env,"SELECT * FROM journal_jobs WHERE id=? AND kind='portrait' AND lease_token=? AND status='running' AND lease_until>?",id,string(data.lease_token,100),now());
   if(!job)fail(409,'Bail expiré ou inconnu.','lease_expired');
@@ -240,10 +253,14 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  }
  async function proxyJobLLM(env,id,data,{timeoutMs=180000}={}){if(!env.OPENROUTER_API_KEY)fail(503,'Fournisseur indisponible.','provider_missing');const job=await validJob(env,id,{...data,source_version:data.source_version??data.profile_version});const allowed=[env.OPENROUTER_MODEL||'openai/gpt-5-mini',env.OPENROUTER_ANALYST_MODEL,env.OPENROUTER_PORTRAIT_MODEL].filter(Boolean),model=data.model||env.OPENROUTER_ANALYST_MODEL||allowed[0];if(!allowed.includes(model))fail(400,'Modèle non autorisé.','invalid_model');if(await providerBlock(env,[model],now()))fail(503,'Fournisseur momentanément indisponible.','provider_cooldown');const system=text(data.system_prompt,50000),prompt=text(data.user_prompt,500000);if(!system||!prompt)fail(400,'Prompts requis.','invalid_prompt');const maxTokens=data.max_tokens??6000,temperature=data.temperature??0.2;if(!Number.isInteger(maxTokens)||maxTokens<128||maxTokens>8000||typeof temperature!=='number'||!Number.isFinite(temperature)||temperature<0||temperature>1)fail(400,'Paramètres de génération invalides.','invalid_parameters');const reservation=Math.ceil((system.length+prompt.length)/3)+maxTokens,requestLimit=portraitBudget(env),weeklyLimit=Number(env.WEEKLY_TOKEN_BUDGET)||3000000,w=parisWeek().week_start;
  const result=await env.DB.batch([
- stmt(env,`UPDATE journal_jobs SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+? WHERE id=? AND provider_calls<20 AND reserved_tokens+?<=? AND ${guard} AND COALESCE((SELECT reserved_tokens FROM provider_budgets b WHERE b.user_id=journal_jobs.user_id AND b.week_start=?),0)+?<=?`,reservation,id,reservation,requestLimit,...guardArgs(id,data.lease_token),w,reservation,weeklyLimit),
+ stmt(env,`UPDATE journal_jobs SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+? WHERE id=? AND provider_calls<20 AND reserved_tokens+?<=? AND ${await guard(env)} AND COALESCE((SELECT reserved_tokens FROM provider_budgets b WHERE b.user_id=journal_jobs.user_id AND b.week_start=?),0)+?<=?`,reservation,id,reservation,requestLimit,...guardArgs(id,data.lease_token),w,reservation,weeklyLimit),
  stmt(env,`INSERT INTO provider_budgets(user_id,week_start,provider_calls,reserved_tokens) SELECT ?,?,1,? WHERE changes()>0 ON CONFLICT(user_id,week_start) DO UPDATE SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+excluded.reserved_tokens`,job.user_id,w,reservation)]);
  if(!result[0].meta.changes)fail(429,'Budget de génération atteint ou contexte expiré.','generation_budget');
  if(!await reserveDaily(env,{tokens:reservation,now:now()})){await env.DB.batch([stmt(env,'UPDATE journal_jobs SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE id=?',reservation,id),stmt(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reservation,job.user_id,w)]);fail(503,'Limite quotidienne du service atteinte.','daily_cap');}
+ // Recheck after the final asynchronous reservation: a prerequisite or source
+ // can be removed while the budget write is in flight. Nothing was sent yet.
+ try{await validJob(env,id,{lease_token:data.lease_token,source_version:job.source_version,memory_version:job.memory_version});}
+ catch(error){await env.DB.batch([stmt(env,'UPDATE journal_jobs SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE id=?',reservation,id),stmt(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reservation,job.user_id,w)]);await releaseDaily(env,{tokens:reservation,now:now()});throw error;}
  let response;try{response=await fetch('https://openrouter.ai/api/v1/chat/completions',{method:'POST',headers:{Authorization:`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages:[{role:'system',content:system},{role:'user',content:prompt}],...(model==='anthropic/claude-sonnet-5.5'?{}:{temperature}),reasoning:{effort:'low'},max_tokens:maxTokens,provider:{data_collection:'deny',zdr:true,allow_fallbacks:true}}),signal:AbortSignal.timeout(Math.min(timeoutMs,180000,Math.max(1000,(job.lease_until-now())*1000-5000)))});}catch{fail(502,'Fournisseur momentanément indisponible.','provider_error');}if(REFUSAL_STATUSES.includes(response.status)){
   // Nothing was consumed upstream: refund the job and weekly reservations, share the cooldown (F10).
   const detail=await response.json().catch(()=>({}));await recordRefusal(env,{status:response.status,headers:response.headers,metadata:detail?.error?.metadata,model,now:now()});
@@ -257,9 +274,9 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  // Persist the latest portrait request before starting background work. Source
  // version triggers revoke older leases, so a late model result cannot publish.
  async function sourcesChanged(env,userId,ctx){
-  if(paused(env)||!env.OPENROUTER_API_KEY)return;
+  if(paused(env)||!env.OPENROUTER_API_KEY||!(await readCompanionReadiness(env,userId)).complete)return;
   const delay=ctx?.waitUntil?3:0,t=now();
-  await run(env,`INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version,lease_until) SELECT ?,p.user_id,'portrait',p.version,m.version,? FROM profiles p JOIN memories m ON m.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=? AND ${sourcesSql} AND (up.schema_version IS NULL OR up.schema_version!=2 OR up.analyzed_version!=p.version OR COALESCE(json_array_length(json_extract(up.portrait,'$.coverage.pending')),0)>0 OR json_type(up.portrait,'$.psychological_map') IS NULL)`,random(),t+delay,userId);
+  await run(env,`INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version,lease_until) SELECT ?,p.user_id,'portrait',p.version,m.version,? FROM profiles p JOIN memories m ON m.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=? AND ${await portraitSourcesSql(env)} AND (up.schema_version IS NULL OR up.schema_version!=2 OR up.analyzed_version!=p.version OR COALESCE(json_array_length(json_extract(up.portrait,'$.coverage.pending')),0)>0 OR json_type(up.portrait,'$.psychological_map') IS NULL)`,random(),t+delay,userId);
   const job=await first(env,"SELECT source_version,status,lease_until,attempts,provider_calls,native_candidate,error_code FROM journal_jobs WHERE user_id=? AND kind='portrait' AND source_version=(SELECT version FROM profiles WHERE user_id=?) AND status IN ('pending','running') AND COALESCE(error_code,'')!='batch_required' ORDER BY created_at DESC LIMIT 1",userId,userId);
   if(!ctx?.waitUntil||!job||job.attempts>=3||job.attempts>0&&!job.native_candidate&&job.error_code!=='validation_error'||job.provider_calls>=20||job.status==='running'&&job.lease_until>t)return;
   // A queue lease is also a durable debounce deadline; GET recovery never
@@ -282,7 +299,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
     await validJob(env,job.id,{lease_token:job.lease_token,source_version:job.source_version,memory_version:job.memory_version});
     // The candidate is private intermediate data. It is never served as a
     // portrait before semantic verification; both revision and lease must match.
-    const saved=await run(env,`UPDATE journal_jobs SET native_candidate=? WHERE id=? AND kind='portrait' AND ${guard}`,JSON.stringify(portrait),job.id,...guardArgs(job.id,job.lease_token));
+    const saved=await run(env,`UPDATE journal_jobs SET native_candidate=? WHERE id=? AND kind='portrait' AND ${await guard(env)}`,JSON.stringify(portrait),job.id,...guardArgs(job.id,job.lease_token));
     if(!saved.meta.changes)fail(409,'Le contexte a changé.','context_changed');
    }});
    await completeJob(env,job.id,{...result,lease_token:job.lease_token,source_version:job.source_version,memory_version:job.memory_version});
@@ -290,13 +307,13 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   }catch(e){
    if(e?.code==='support_context_budget'){
     // A context-size limit needs the batch analyst, not three identical native retries.
-    const released=await run(env,`UPDATE journal_jobs SET status='pending',lease_token=NULL,lease_until=0,error_code='batch_required',native_candidate=NULL WHERE id=? AND ${guard}`,job.id,...guardArgs(job.id,job.lease_token));
+    const released=await run(env,`UPDATE journal_jobs SET status='pending',lease_token=NULL,lease_until=0,error_code='batch_required',native_candidate=NULL WHERE id=? AND ${await guard(env)}`,job.id,...guardArgs(job.id,job.lease_token));
     return {claimed:1,completed:0,failed:0,status:released.meta.changes?'batch_required':'context_changed'};
    }
    const reason=['context_changed','lease_expired'].includes(e?.code)?'context_changed':['generation_budget','quota_exceeded'].includes(e?.code)||e?.message==='generation_budget'?'generation_budget':['invalid_portrait','validation_error'].includes(e?.code)||e?.message==='validation_error'?'validation_error':'provider_error';
    // A rejected claim must be redrafted on the next long retry. Transport and
    // deadline failures keep the candidate so GET can resume verification only.
-   if(reason==='validation_error')try{const diagnostic=Array.isArray(e.verification_failures)?JSON.stringify({analysis_version:PORTRAIT_ANALYSIS_VERSION,rejected:true,failed_paths:e.verification_failures}):null;await run(env,`UPDATE journal_jobs SET native_candidate=? WHERE id=? AND ${guard}`,diagnostic,job.id,...guardArgs(job.id,job.lease_token));}catch{}
+   if(reason==='validation_error')try{const diagnostic=Array.isArray(e.verification_failures)?JSON.stringify({analysis_version:PORTRAIT_ANALYSIS_VERSION,rejected:true,failed_paths:e.verification_failures}):null;await run(env,`UPDATE journal_jobs SET native_candidate=? WHERE id=? AND ${await guard(env)}`,diagnostic,job.id,...guardArgs(job.id,job.lease_token));}catch{}
    try{await failJob(env,job.id,{lease_token:job.lease_token,reason},{retryAfterSeconds:reason==='validation_error'||timeoutMs<=22000?30:null});}catch{}
    return {claimed:1,completed:0,failed:1,status:reason};
   }
@@ -309,7 +326,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return result;
  }
  async function exportData(env,userId){
-  const [self_profile,recommendation_exposures,people,events,characters,story_requests,stories,feedback,observations]=await Promise.all([
+  const [self_profile,recommendation_exposures,people,events,characters,story_requests,stories,feedback,observations,notes]=await Promise.all([
    first(env,'SELECT self_data,self_revision FROM profiles WHERE user_id=?',userId),
    all(env,'SELECT article_id,shown_at FROM recommendation_exposures WHERE user_id=? ORDER BY shown_at DESC LIMIT 100',userId),
    all(env,'SELECT * FROM personal_people WHERE user_id=? ORDER BY id',userId),
@@ -318,13 +335,13 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    all(env,'SELECT * FROM story_requests WHERE user_id=? ORDER BY created_at,id',userId),
    all(env,'SELECT * FROM stories WHERE user_id=? ORDER BY character_id,episode_number',userId),
    all(env,'SELECT * FROM feedback WHERE user_id=?',userId),
-   peopleObservations.exportData(env,userId)
+   peopleObservations.exportData(env,userId),timeline.exportData(env,userId)
   ]);
   return {self_profile,recommendation_exposures,people:people.map(personRow),
-   events:await Promise.all(events.map(async row=>({...await eventRow(env,row),fiction_use:row.fiction_use}))),
+   events:(await eventRows(env,events,userId)).map((row,index)=>({...row,fiction_use:events[index].fiction_use})),
    // Retired private material remains available only as an account data export.
    characters:characters.map(({user_id,...row})=>({...row,identity:parse(row.identity),facet:parse(row.facet),narrative_state:parse(row.narrative_state)})),
-   story_requests,stories,feedback,...observations};
+   story_requests,stories,feedback,...observations,...notes};
  }
  function readingSuggestionsFromContext(c,{query='',limit=6}={}){
   // This helper accepts only the authenticated, request-local server snapshot.

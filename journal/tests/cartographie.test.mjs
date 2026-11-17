@@ -9,6 +9,7 @@ import {loadContext} from '../src/private-context.mjs';
 import {createPersonalBackend} from '../src/personal-backend.mjs';
 import {createChatBackend} from '../src/chat-backend.mjs';
 import {buildCompanionSystemPrompt} from '../src/psychology-framework.mjs';
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 const require=createRequire(import.meta.url);
 const publicPage=require('../../static/js/cartographie.js');
 const fail=(status,message,code)=>{throw Object.assign(new Error(message),{status,code});};
@@ -200,7 +201,7 @@ test('the complete serialized evidence, including wrappers and sources, respects
 const examples=Array.from({length:3},(_,i)=>({id:`posts/c/example-${i}`,title:`Exemple ${i}`,url:`/posts/c/example-${i}/`,character:'P',keywords:[],description:'R'}));
 const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
-const rewritten=['care-backend','change-backend','chat-backend','entitlements','personal-backend','cartographie'].reduce((s,name)=>s.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
+const rewritten=source.replace(/from '(\.\/[^']+)'/g,(_,specifier)=>'from '+JSON.stringify(new URL('../src/'+specifier.slice(2),import.meta.url).href));
 const {default:worker}=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));
 const origin='https://journal.example';
 const request=(env,path,{method='GET',data,cookie,originHeader=origin}={})=>worker.fetch(new Request(origin+path,{method,headers:{...(data?{'Content-Type':'application/json'}:{}),...(cookie?{Cookie:cookie}:{}),...(originHeader?{Origin:originHeader}:{}),'CF-Connecting-IP':'192.0.2.9'},body:data?JSON.stringify(data):undefined}),env);
@@ -298,6 +299,16 @@ function chatSetup(catalogue=new Map()){
  return {raw,env,call};
 }
 function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=fn;t.after(()=>{globalThis.fetch=previous;});}
+// Complete only the prerequisites unrelated to each test's map-access condition.
+// The common fixture opts in and locks maps, so restore both original flags (or
+// remove its synthetic map) before exercising missing/unconsented/unlocked maps.
+function seedChatPrerequisites(raw){
+ const map=raw.prepare("SELECT consent,locked_at FROM cartographies WHERE user_id='a'").get();
+ seedCompanionPrerequisites(raw,'a');
+ if(map)raw.prepare("UPDATE cartographies SET consent=?,locked_at=? WHERE user_id='a'").run(map.consent,map.locked_at);
+ else raw.prepare("DELETE FROM cartographies WHERE user_id='a'").run();
+}
+
 
 test('the welcome message invites to fill the map, then starts from a locked one',async()=>{
  const s=chatSetup();
@@ -328,6 +339,7 @@ test('Ambre receives the locked map, its guidance and the research summaries of 
  const recognized=summary.pistes[0]||summary.convergence[0],dismissed=summary.convergence.find(x=>x.id!==recognized.id);
  const s=chatSetup(new Map(all.filter(x=>x.url?.startsWith('/posts/')).map(x=>[x.url.slice(1,-1),{id:x.url.slice(1,-1),title:'Article',url:x.url}])));
  saveRow(s.raw,'a',{answers,feedback:{[recognized.id]:'oui',...(dismissed?{[dismissed.id]:'non'}:{})},version:2});
+ seedChatPrerequisites(s.raw);
  assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
  let request;
  withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content:'Partons de ce que vous avez reconnu.',questions:[],proposals:[],cartography_notes:[]})},finish_reason:'stop'}],usage:{prompt_tokens:10,completion_tokens:10,cost:0}}));});
@@ -437,6 +449,7 @@ const say=(s,key,content)=>s.call('/api/chat/messages','POST',{content,idempoten
 test('Ambre reads the notes and resources and writes validated notes without touching answers or version',async t=>{
  const s=chatSetup();
  fullRow(s.raw,'a',{answers:{[fa]:2},notes:{factors:{[fa]:'Ce que j’en retiens.'}},resources:{[pa]:1},ambre:[{id:'old',target:'general',target_id:null,text:'Ancienne note.',created_at:1}],version:7});
+ seedChatPrerequisites(s.raw);
  assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
  let request;
  withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return reply([{target:'factor',target_id:fa,text:'Dit que son père criait presque tous les soirs.'},{target:'general',target_id:null,text:'ancienne note'},{target:'outcome',target_id:'inconnue',text:'À écarter.'}]);});
@@ -462,20 +475,25 @@ test('Ambre reads the notes and resources and writes validated notes without tou
  assert.equal((await s.call('/api/chat')).messages.at(-1).cartography_notes,undefined);
 });
 
-test('Ambre writes nothing without a saved, consented map, after an opt-out or in immediate danger',async t=>{
- const attempt=async(prepare,content='Mon père criait presque tous les soirs.')=>{
-  const s=chatSetup();prepare(s);assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
+test('prerequisites block absent, unconsented and unlocked maps; eligible opt-outs and immediate danger write no notes',async t=>{
+ const attempt=async(prepare,content='Mon père criait presque tous les soirs.',blocked=false)=>{
+  const s=chatSetup();prepare(s);seedChatPrerequisites(s.raw);assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
   let request;globalThis.fetch=async(_url,options)=>{request=JSON.parse(options.body);return reply([{target:'general',target_id:null,text:'Dit que son père criait.'}],'Je vous écoute.');};
-  const result=await say(s,'carto_none_001',content);assert.ok([200,202].includes(result.status),JSON.stringify(result));
-  return {s,request,message:(await s.call('/api/chat')).messages.find(m=>m.role==='assistant')};
+  const before=s.raw.prepare("SELECT * FROM cartographies WHERE user_id='a'").get();
+  const result=await say(s,'carto_none_001',content);
+  if(blocked){
+   assert.equal(result.status,403,JSON.stringify(result));assert.equal(result.code,'prerequisites_required');
+   assert.equal(request,undefined,'ineligible maps must never reach the provider');
+   assert.deepEqual(s.raw.prepare("SELECT * FROM cartographies WHERE user_id='a'").get(),before,'rejection must not alter the map or append a note');
+  }else assert.ok([200,202].includes(result.status),JSON.stringify(result));
+  return {s,request,result,message:(await s.call('/api/chat')).messages.find(m=>m.role==='assistant')};
  };
  const previous=globalThis.fetch;t.after(()=>{globalThis.fetch=previous;});
- let run=await attempt(()=>{});
- assert.equal(run.request.response_format.json_schema.schema.properties.cartography_notes,undefined);assert.ok(!run.request.messages[0].content.includes('Remplis cartography_notes'));
- assert.equal(run.s.raw.prepare('SELECT count(*) n FROM cartographies').get().n,0);assert.equal(run.message.cartography_notes,undefined);
- run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1},consent:0}));
- assert.deepEqual(stored(run.s.raw),[],'no consent, no note');assert.equal(run.request.response_format.json_schema.schema.properties.cartography_notes,undefined);
- run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1},locked:false}));
+ let run=await attempt(()=>{},undefined,true);
+ assert.equal(run.s.raw.prepare('SELECT count(*) n FROM cartographies').get().n,0);assert.equal(run.message,undefined);
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1},consent:0}),undefined,true);
+ assert.deepEqual(stored(run.s.raw),[],'no consent, no note');assert.equal(run.message,undefined);
+ run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1},locked:false}),undefined,true);
  assert.deepEqual(stored(run.s.raw),[],'a map that is not saved for Ambre receives no note');
  run=await attempt(s=>fullRow(s.raw,'a',{answers:{[fa]:1}}),'Mon père criait souvent, mais ne garde pas ça dans mon profil.');
  assert.deepEqual(stored(run.s.raw),[],'an opt-out blocks the note');assert.equal(run.request.response_format.json_schema.schema.properties.cartography_notes,undefined);
@@ -487,6 +505,7 @@ test('Ambre writes nothing without a saved, consented map, after an opt-out or i
 
 test('a note removed by the member during the turn stays removed and the new note is still kept',async t=>{
  const s=chatSetup();fullRow(s.raw,'a',{answers:{[fa]:1},ambre:[{id:'old',target:'general',target_id:null,text:'Ancienne note.',created_at:1}]});
+ seedChatPrerequisites(s.raw);
  assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
  const cas=s.env.DB.prepare;let raced=false;
  // Simulate the member removing a note between Ambre's read and her guarded write.
@@ -503,6 +522,7 @@ test('an oversized context drops Ambre’s oldest notes first and keeps the memb
  const ambre=Array.from({length:60},(_,i)=>({id:'n'+i,target:'general',target_id:null,text:'Note numéro '+i+' '+'x'.repeat(380),created_at:i}));
  fullRow(s.raw,'a',{answers:Object.fromEntries(CARTOGRAPHIE.factors.map(f=>[f.id,2])),notes,ambre});
  s.raw.prepare("UPDATE memories SET text=? WHERE user_id='a'").run('m'.repeat(9000));
+ seedChatPrerequisites(s.raw);
  assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);
  let request;withFetch(t,async(_url,options)=>{request=JSON.parse(options.body);return reply([]);});
  await say(s,'carto_big_001','Bonjour Ambre.');

@@ -4,6 +4,8 @@ const escape=value=>String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&l
 if(!Array.isArray(navigation)||navigation.some(item=>!item.label||!/^\/(?!\/)/.test(item.href)))throw new Error('Invalid navigation');
 const markup=navigation.map(item=>'<li><a href="'+escape(item.href)+'">'+escape(item.label)+'</a></li>').join('\n');
 const shared = {
+  AMBRE_WIDGET_SCRIPT: readFileSync(new URL('../static/js/ambre-widget.js', import.meta.url), 'utf8'),
+  AMBRE_WIDGET_CSS: readFileSync(new URL('../static/css/ambre-widget.css', import.meta.url), 'utf8'),
   NAVIGATION_HTML: markup,
   HEADER_BRAND_HTML: readFileSync(new URL('../layouts/partials/header-brand.html', import.meta.url), 'utf8').trim(),
   SITE_HEADER_CSS: readFileSync(new URL('../static/css/site-header.css', import.meta.url), 'utf8'),

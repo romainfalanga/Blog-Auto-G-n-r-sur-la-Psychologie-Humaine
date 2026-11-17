@@ -4,8 +4,8 @@ import {createHash} from 'node:crypto';
 import worker from '../src/worker.mjs';
 import {setup} from './v4-S-helper.mjs';
 
-const paths={portrait:'/mon-portrait/',people:'/mes-proches/',events:'/ma-ligne-de-vie/',cartographie:'/cartographie/'};
-const routes={portrait:['/api/self-profile'],people:['/api/people'],events:['/api/people','/api/life-events'],cartographie:['/api/cartographie']};
+const paths={account:'/mon-compte/',people:'/mes-proches/',events:'/ma-ligne-de-vie/',cartographie:'/cartographie/'};
+const routes={account:['/api/self-profile'],people:['/api/people'],events:['/api/people','/api/life-events'],cartographie:['/api/cartographie']};
 const malicious='</script><script>alert("x")</script><>&\u2028\u2029';
 function fixture(t){
   const s=setup();t.after(()=>s.raw.close());
@@ -41,9 +41,9 @@ test('anonymous and expired sessions contain only me; methods and unknown page k
   }
   s.env.DB.prepare=()=>assert.fail('Invalid page/method or HEAD must not access D1');
   for(const key of ['','other','__proto__','constructor','https://evil.test/'])assert.equal((await s.request('/api/initial-state?page='+encodeURIComponent(key))).status,400);
-  for(const method of ['POST','PUT','DELETE','HEAD','OPTIONS'])assert.equal((await s.request('/api/initial-state?page=portrait','a',method)).status,405);
-  for(const page of ['portrait','people','events']){const response=await s.request(paths[page],'a','HEAD');assert.equal(response.status,200);assert.equal(await response.text(),'')}
-  for(const path of ['/mon-compte/','/parametres/','/mes-bilans/','/mon-accompagnement/'])assert.equal((await s.request(path)).status,200,'Other HTML routes remain shells without database reads');
+  for(const method of ['POST','PUT','DELETE','HEAD','OPTIONS'])assert.equal((await s.request('/api/initial-state?page=account','a',method)).status,405);
+  for(const page of ['account','people','events']){const response=await s.request(paths[page],'a','HEAD');assert.equal(response.status,200);assert.equal(await response.text(),'')}
+  for(const path of ['/parametres/','/mes-bilans/','/mon-accompagnement/'])assert.equal((await s.request(path)).status,200,'Other HTML routes remain shells without database reads');
 });
 test('event bootstrap starts both independent business reads before either has completed',{timeout:3000},async t=>{
   const s=fixture(t),prepare=s.env.DB.prepare.bind(s.env.DB),started=new Set();let release;
@@ -62,19 +62,31 @@ test('initial entry errors are safe and isolated; a failed session check does no
   let response=await s.request('/api/initial-state?page=events'),data=await response.json();
   assert.equal(data.responses['/api/people'].status,500);assert.equal(data.responses['/api/life-events'].status,200);assert.doesNotMatch(JSON.stringify(data),/SECRET_DB_CONNECTION/);
   s.env.DB.prepare=()=>{throw new Error('SECRET_SESSION')};
-  data=await (await s.request('/api/initial-state?page=portrait')).json();
+  data=await (await s.request('/api/initial-state?page=account')).json();
   assert.deepEqual(Object.keys(data.responses),['/api/me']);assert.equal(data.responses['/api/me'].status,500);assert.equal(data.responses['/api/me'].body.user,undefined);assert.doesNotMatch(JSON.stringify(data),/SECRET_SESSION/);
 });
 test('personal HTML embeds escaped data in its existing nonce-bearing script',async t=>{
   const s=fixture(t);
-  for(const key of ['portrait','people','events']){
+  for(const key of ['account','people','events']){
     const response=await s.request(paths[key]),html=await response.text();assert.equal(response.status,200);
-    assert.doesNotMatch(html,/\/\*INITIAL_PAGE_DATA\*\/null/);assert.equal((html.match(/<script\b/g)||[]).length,1);
+    assert.doesNotMatch(html,/\/\*INITIAL_PAGE_DATA\*\/null/);assert.equal((html.match(/<script\b/g)||[]).length,2);
     assert.match(html,new RegExp('"page":"'+paths[key]+'"'));
     const nonce=html.match(/<script nonce="([^"]+)"/)[1];assert.ok(response.headers.get('Content-Security-Policy').includes("'nonce-"+nonce+"'"));
-    if(key==='portrait'){
+    if(key==='account'){
       assert.ok(html.includes('\\u003c/script\\u003e'));assert.ok(html.includes('\\u0026\\u2028\\u2029'));assert.ok(!html.includes(malicious));
       assert.ok(html.includes('"first_name":"Name a"'));assert.ok(!html.includes('Presentation B'));
     }
   }
+});
+test('only the embedded Ambre HTML permits same-origin framing; old portrait redirects to account',async t=>{
+  const s=fixture(t);
+  for(const [path,embedded] of [['/mon-accompagnement/?embedded=1',true],['/mon-accompagnement?embedded=1',true],['/mon-accompagnement/',false],['/mon-compte/?embedded=1',false],['/api/me?embedded=1',false]]){
+    const response=await s.request(path);
+    assert.equal(response.status,200);
+    assert.equal(response.headers.get('X-Frame-Options'),embedded?'SAMEORIGIN':'DENY');
+    assert.ok(response.headers.get('Content-Security-Policy').includes(embedded?"frame-ancestors 'self'":"frame-ancestors 'none'"));
+    if(embedded)assert.doesNotMatch(await response.text(),/id = 'ambre-launcher'/);
+  }
+  const response=await s.request('/mon-portrait/?article=example&like=1');
+  assert.equal(response.status,302);assert.equal(response.headers.get('Location'),'/mon-compte/?article=example&like=1');
 });

@@ -5,10 +5,11 @@ function chatFailureMessage(data){var error=data&&data.last_error;return (error&
 function chatIsCurrent(current){return current()&&state.tab==='chat'}
 function chatJourney(data){return data&&data.journey||null}
 function chatReviewRunning(data){var journey=chatJourney(data);return !!(journey&&journey.review&&journey.review.running_id)}
-function chatJourneyBlocked(data){var journey=chatJourney(data);return !!(journey&&(!journey.started||chatReviewRunning(data)))}
+function chatJourneyBlocked(data){var journey=chatJourney(data),readiness=data&&(data.readiness||journey&&journey.readiness);return !!(journey&&(!journey.started||chatReviewRunning(data))||readiness&&!readiness.complete)}
 function chatPointNote(data){
  var journey=chatJourney(data);if(!journey||!journey.started)return '';
  if(chatReviewRunning(data))return 'Ambre prépare déjà un bilan.';
+ var readiness=data.readiness||journey.readiness;if(readiness&&!readiness.complete)return 'Complétez les informations nécessaires pour faire le point.';
  var next=Number(journey.review&&journey.review.next_point_at||0);
  if(next&&next*1000>Date.now())return 'Prochain point possible à partir du '+new Date(next*1000).toLocaleString('fr-FR',{day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'})+'.';
  return '';
@@ -115,7 +116,7 @@ function drawChatGate(shell,data,current){
  if(guest){var guestBox=el('div','chat-gate'),actions=el('div','actions');['login','register'].forEach(function(mode){var button=el('button',mode==='register'?'secondary':'',mode==='register'?'Créer mon compte':'Me connecter');button.type='button';button.dataset.auth=mode;actions.append(button)});guestBox.append(actions);shell.gate.append(guestBox);return}
  if(!chatConsent(data)&&!(chatJourney(data)&&!chatJourney(data).started)){var box=el('div','chat-gate'),consent=el('label','check'),checkbox=el('input');checkbox.type='checkbox';consent.append(checkbox,document.createTextNode('J’accepte le traitement de mes messages et du contexte personnel utile par OpenRouter. Ambre peut retenir des repères concrets tirés de mes échanges sur les proches que j’ai déjà ajoutés.'));var activate=actionButton('Activer la conversation',async function(){activate.disabled=true;try{await api('/api/chat/consent','PUT',{accepted:true});if(current())renderChat()}catch(err){if(current()){box.append(el('p','status error',err.message));activate.disabled=!checkbox.checked}}});activate.disabled=true;checkbox.addEventListener('change',function(){activate.disabled=!checkbox.checked});box.append(consent,activate);shell.gate.append(box)}
  var reason=data.access&&data.access.reason,reasons={quota_exhausted:'Vos 100 messages sont utilisés. Reprise au prochain renouvellement.',provider_missing:'Ambre est momentanément indisponible.',generation_paused:'Les réponses sont momentanément en pause.',provider_cooldown:'Le fournisseur est temporairement indisponible. La disponibilité sera vérifiée automatiquement.',subscription_required:'Un abonnement ou un essai actif est nécessaire.'};
- if(reason&&reason!=='consent_required'&&reason!=='journey_not_started'){var blocked=el('div','chat-gate');blocked.id='chat-access-gate';blocked.append(el('p','',reasons[reason]||'L’envoi est momentanément indisponible.'));if(reason==='subscription_required'){var link=el('a','text-link','Voir mon abonnement');link.href='/mon-compte/';blocked.append(link)}shell.gate.append(blocked)}
+ if(reason&&reason!=='consent_required'&&reason!=='journey_not_started'&&reason!=='prerequisites_required'){var blocked=el('div','chat-gate');blocked.id='chat-access-gate';blocked.append(el('p','',reasons[reason]||'L’envoi est momentanément indisponible.'));if(reason==='subscription_required'){var link=el('a','text-link','Voir mon abonnement');link.href='/mon-compte/';blocked.append(link)}shell.gate.append(blocked)}
 }
 function scrollChatTo(shell,node,smooth){
  if(!node)return;var top;
@@ -237,7 +238,7 @@ function showJourneyPanel(panel,step,nodes){
 function journeySourceItem(label,href,source,detail){
  var item=el('li','journey-source'+(source&&source.done?' is-done':'')),name=el('span','journey-source-name',label),badge=el('span','journey-source-state',source&&source.done?'Renseigné':'À compléter'),link=el('a','text-link',source&&source.done?'Modifier':'Compléter');
  link.href=href;link.setAttribute('aria-label',(source&&source.done?'Modifier : ':'Compléter : ')+label);
- var text=el('span','journey-source-text');text.append(name);if(source&&source.done&&detail)text.append(el('span','journey-source-detail',detail));
+ var text=el('span','journey-source-text');text.append(name);if(detail)text.append(el('span','journey-source-detail',detail));
  item.append(text,badge,link);return item;
 }
 function journeyCount(count,one,many){count=Number(count)||0;return count?count+' '+(count>1?many:one):''}
@@ -245,8 +246,8 @@ function drawJourneyPanel(current){
  var data=state.chatData||{},journey=chatJourney(data),guest=data.access&&data.access.reason==='authentication_required';
  if(!journey||guest||!chatIsCurrent(current)){if(state.journeyStep!=='point')closeJourneyPanel();return}
  if(state.journeyStep==='point'){if(chatReviewRunning(data)||!journey.started){state.journeyStep=null;closeJourneyPanel()}else return}
- var pending=chatInitialPending(data),view=document.getElementById('view'),shell=view&&view.chatShell;if(shell){shell.thread.hidden=!journey.started||pending;shell.form.hidden=!journey.started||pending}
- if(journey.started&&!pending){state.journeyStep=null;state.journeyWaiting=false;state.journeyKey=null;closeJourneyPanel();return}
+ var readiness=data.readiness||journey.readiness,incomplete=!!(readiness&&!readiness.complete),pending=chatInitialPending(data),view=document.getElementById('view'),shell=view&&view.chatShell;if(shell){shell.thread.hidden=!journey.started||pending;shell.form.hidden=!journey.started||pending||incomplete}
+ if(journey.started&&!pending&&!incomplete){state.journeyStep=null;state.journeyWaiting=false;state.journeyKey=null;closeJourneyPanel();return}
  var dialog=journeyPanel(),title=el('h2');title.id='journey-title';
  if(pending){
   state.journeyWaiting=true;title.textContent='Ambre prépare votre analyse…';
@@ -278,11 +279,13 @@ function drawJourneyPanel(current){
   showJourneyPanel(dialog,'confirm',[title,el('p','','Cela va initier la conversation à partir des informations que vous avez renseignées.'),consent,actions,feedback]);return;
  }
  state.journeyStep=null;title.textContent='Avant de commencer avec Ambre';
- var sources=journey.sources||{},list=el('ul','journey-sources');
- list.append(journeySourceItem('Mon enfance','/cartographie/',sources.cartography,journeyCount(sources.cartography&&sources.cartography.count,'élément coché','éléments cochés')),journeySourceItem('Mon portrait','/mon-portrait/',sources.portrait,''),journeySourceItem('Mes proches','/mes-proches/',sources.people,journeyCount(sources.people&&sources.people.count,'proche','proches')),journeySourceItem('Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')));
- var start=actionButton('Lancer la discussion avec Ambre',function(){state.journeyError=null;state.journeyStep='confirm';drawJourneyPanel(current)});start.id='journey-start';start.disabled=!journey.can_start;
- var hint=el('p','helper',journey.can_start?'Plus vous renseignez de sources, plus l’analyse est précise. Vous pourrez les compléter ensuite et demander un nouveau point.':'Renseignez au moins une de ces sources pour lancer la discussion.');hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
- var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné : vos réponses dans Mon enfance, votre portrait, vos proches et votre ligne de vie. La conversation se poursuit ensuite autour de ce que vous voulez comprendre et de ce que vous voulez changer.'),el('p','muted','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'),list,hint];
+ var sources=journey.sources||{},list=el('ul','journey-sources');if(readiness)sources={cartography:{done:readiness.childhood.complete,count:readiness.childhood.answered},portrait:{done:readiness.identity.complete},people:{done:readiness.people.complete,count:readiness.people.count},life_events:{done:readiness.events.complete,count:readiness.events.count}};
+ list.append(journeySourceItem('Mon enfance','/cartographie/',sources.cartography,journeyCount(sources.cartography&&sources.cartography.count,'élément coché','éléments cochés')),journeySourceItem('Mon compte','/mon-compte/',sources.portrait,''),journeySourceItem('Mes proches','/mes-proches/',sources.people,journeyCount(sources.people&&sources.people.count,'proche','proches')),journeySourceItem('Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')));
+ var start=actionButton(journey.started?'Actualiser mes informations':'Lancer la discussion avec Ambre',function(){if(journey.started){renderChat();return}state.journeyError=null;state.journeyStep='confirm';drawJourneyPanel(current)});start.id='journey-start';start.disabled=!journey.started&&!journey.can_start;
+ var hint=el('p','helper',readiness?'Renseignez votre prénom, votre nom, votre date de naissance et votre genre, au moins trois proches et trois moments de vie, puis répondez aux 60 questions de Mon enfance. « Je ne sais pas » est une réponse possible.':'Complétez vos informations avant de lancer la discussion.');hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
+ var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné : vos réponses dans Mon enfance, vos informations de compte, vos proches et votre ligne de vie. La conversation se poursuit ensuite autour de ce que vous voulez comprendre et de ce que vous voulez changer.'),el('p','muted','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'),list,hint];
+ var reviewQuota=data.quotas&&data.quotas.reviews||journey.quotas&&journey.quotas.reviews;
+ if(!journey.started&&reviewQuota&&reviewQuota.remaining<=0)nodes.push(el('p','status','Votre bilan mensuel est utilisé. Prochain bilan disponible le '+dateLabel(reviewQuota.renews_at)+'.'));
  if(state.journeyError){var error=el('p','status error',state.journeyError);error.setAttribute('role','alert');nodes.push(error)}
  nodes.push(start);showJourneyPanel(dialog,'intro',nodes);
 }
