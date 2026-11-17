@@ -1,0 +1,351 @@
+{
+ "part": "exhaustivite_v5",
+ "author": "recherche_v5_relue",
+ "notes": [
+  "Recherche v5 du 19/11 (rédigée le 17/11), intégrée après la relecture indépendante docs/relecture-cartographie-v5-2026-11-19.md (§8) : textes corrigés, forces abaissées à limitee pour la solitude.",
+  "Non intégrés : cartes ten_traits_psychopathiques et ten_defenses_peu_adaptees, liens proposés refusés ou en attente ; la proposition complète reste archivée dans propositions/.",
+  "deng2024_anxiete_sociale est déclarée ici pour la correction du lien harcelement → icd_6b04 (corrections.json)."
+ ],
+ "sources": [
+  {
+   "id": "deheer2024_solitude",
+   "citation": "de Heer C, Bi S, Finkenauer C, Alink L, Maes M, 2024, The Association Between Child Maltreatment and Loneliness Across the Lifespan: A Systematic Review and Multilevel Meta-Analysis, Child Maltreatment 29(2):388-404",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11539460/",
+   "type": "meta-analyse",
+   "read": "section : résultats, tableau 1 des modérateurs, biais de publication et limites (texte Europe PMC, PMC11539460)"
+  },
+  {
+   "id": "curtis2025_solitude",
+   "citation": "Curtis A, Luchetti M, Prendergast C, et al., 2025, Adverse childhood experiences and loneliness: A systematic review and meta-analysis, Social Science & Medicine 370:117860",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40015144/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "liu2023_anxiete_sociale",
+   "citation": "Liu J, Deng J, Zhang H, Tang X, 2023, The relationship between child maltreatment and social anxiety: A meta-analysis, Journal of Affective Disorders 329:157-167",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36841306/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "liu2019_impulsivite",
+   "citation": "Liu RT, 2019, Childhood Maltreatment and Impulsivity: A Meta-Analysis and Recommendations for Future Study, Journal of Abnormal Child Psychology 47(2):221-243",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6269232/",
+   "type": "meta-analyse",
+   "read": "section : tableau 2, plan des études, biais de publication, mesures comportementales et limites (PMC6269232, environ les deux tiers du texte)"
+  },
+  {
+   "id": "johnson2006_personnalite",
+   "citation": "Johnson JG, Cohen P, Chen H, Kasen S, Brook JS, 2006, Parenting behaviors associated with risk for offspring personality disorder during adulthood, Archives of General Psychiatry 63(5):579-587",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16651515/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "miron2026_abus_emotionnel",
+   "citation": "Miron N, D'Andrea WM, Barzilai E, et al., 2026, Childhood emotional abuse and adult psychopathology: A multilevel meta-analytic review, Psychological Bulletin 152(7-8):623-664",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42831821/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "longobardi2022_dysmorphie",
+   "citation": "Longobardi C, Badenes-Ribera L, Fabris MA, 2022, Adverse childhood experiences and body dysmorphic symptoms: A meta-analysis, Body Image 40:267-284",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35085863/",
+   "type": "meta-analyse",
+   "read": "résumé (texte intégral fermé : dépôt de Turin en accès réservé, dépôt de Valence non lisible)"
+  },
+  {
+   "id": "zych2021_violences_amoureuses",
+   "citation": "Zych I, Viejo C, Vila E, Farrington DP, 2021, School Bullying and Dating Violence in Adolescents: A Systematic Review and Meta-Analysis, Trauma, Violence, & Abuse 22(2):397-412",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31185827/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "rubens2018_catastrophes",
+   "citation": "Rubens SL, Felix ED, Hambrick EP, 2018, A Meta-Analysis of the Impact of Natural Disasters on Internalizing and Externalizing Problems in Youth, Journal of Traumatic Stress 31(3):332-341",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6055700/",
+   "type": "meta-analyse",
+   "read": "section : méthodes (types de mesure d'exposition), résultats, modérateurs, biais de publication et limites (PMC6055700)"
+  },
+  {
+   "id": "furr2010_catastrophes",
+   "citation": "Furr JM, Comer JS, Edmunds JM, Kendall PC, 2010, Disasters and youth: a meta-analytic examination of posttraumatic stress, Journal of Consulting and Clinical Psychology 78(6):765-780",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21114340/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "deng2024_anxiete_sociale",
+   "citation": "Deng J, Liu J, Luo J, et al., 2024, Social anxiety and bullying victimization: A three-level meta-analysis of cross-sectional and longitudinal studies, Child Abuse & Neglect 157:107052",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39306940/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  }
+ ],
+ "outcomes": [
+  {
+   "id": "ten_difficultes_personnalite",
+   "kind": "tendance",
+   "label": "Difficultés de personnalité au sens large (repère de recherche)",
+   "description": "Des façons durables de se vivre et d'être en relation qui font souffrir, étudiées en recherche par des symptômes de plusieurs troubles de la personnalité. Ce repère n'est pas un diagnostic.",
+   "domain": "relations",
+   "category": "categorical_personality_diagnosis",
+   "contextual_only": true
+  },
+  {
+   "id": "ten_impulsivite",
+   "kind": "tendance",
+   "label": "Impulsivité (agir sans prendre le temps de réfléchir)",
+   "description": "Tendance déclarée à agir vite, sans prendre le temps de réfléchir, surtout sous le coup d'émotions fortes. Ce trait varie entre personnes et n'est pas un diagnostic ; il ne se confond pas avec le TDAH, que la carte ne relie pas aux vécus de l'enfance.",
+   "domain": "comportements",
+   "category": "personality_trait"
+  },
+  {
+   "id": "ten_preoccupation_apparence",
+   "kind": "tendance",
+   "label": "Préoccupation excessive pour l'apparence",
+   "description": "Être très préoccupé par un défaut physique que les autres voient peu ou pas, au point d'y penser longtemps ou de vérifier souvent. Les études mesurent des symptômes, pas un diagnostic.",
+   "domain": "soi",
+   "category": "symptom_group"
+  },
+  {
+   "id": "ten_violences_amoureuses_jeunes",
+   "kind": "tendance",
+   "label": "Violences subies dans les premières relations amoureuses",
+   "description": "Subir des violences psychologiques, physiques ou sexuelles de la part d'un partenaire à l'adolescence ou au début de l'âge adulte. La responsabilité en revient à l'auteur des violences.",
+   "domain": "relations",
+   "category": "tendency"
+  }
+ ],
+ "links": [
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une cohorte new-yorkaise suivie de l'enfance au début de l'âge adulte, les jeunes dont les violences physiques étaient attestées par les services de protection avaient plus de symptômes de plusieurs troubles de la personnalité. Les groupes étaient petits et l'étude est unique.",
+   "sources": [
+    "johnson1999_personnalite"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même cohorte, une négligence attestée par les services de protection était associée à plus de symptômes de troubles de la personnalité au début de l'âge adulte (évitante, borderline, narcissique, entre autres). Les effectifs sont petits ; ce repère ne vaut pas diagnostic.",
+   "sources": [
+    "johnson1999_personnalite"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une cohorte new-yorkaise suivie jusqu'à 33 ans en moyenne, un faible niveau d'affection parentale relevé lors d'entretiens pendant l'enfance et l'adolescence était associé à plus de troubles de la personnalité à l'âge adulte, en tenant compte des difficultés de l'enfant et des troubles des parents. Une seule cohorte.",
+   "sources": [
+    "johnson2006_personnalite"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 104 études, surtout transversales et fondées sur des souvenirs, trouve que les violences psychologiques sont associées à plus de symptômes de personnalité à l'âge adulte, souvent plus nettement que les violences physiques ou sexuelles, en tenant compte de leur cumul.",
+   "sources": [
+    "miron2026_abus_emotionnel"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 55 études trouve que les violences psychologiques sont, parmi les formes de maltraitance, les plus associées à une impulsivité déclarée par questionnaire. Les analyses sont toutes transversales, un biais de publication est signalé et les rares tests de laboratoire ne montrent pas de lien.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences physiques sont associées, en moyenne, à une impulsivité déclarée un peu plus élevée dans une méta-analyse d'analyses transversales. Le sens du lien et la part des facteurs familiaux partagés restent inconnus.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences sexuelles sont associées à une impulsivité déclarée un peu plus élevée, avec l'effet le plus faible des formes étudiées, dans une méta-analyse d'études transversales.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence matérielle est associée, en moyenne, à une impulsivité déclarée un peu plus élevée dans une méta-analyse d'études transversales. Les formes de maltraitance se cumulent souvent, ce qui empêche d'isoler l'effet de chacune.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence affective est associée, en moyenne, à une impulsivité déclarée un peu plus élevée dans une méta-analyse d'analyses transversales, où un biais de publication est signalé.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Deux méta-analyses trouvent que les personnes ayant subi des violences psychologiques se sentent en moyenne plus seules, avec l'un des écarts les plus nets. Il repose surtout sur des souvenirs : les études fondées sur des dossiers ou sur des mesures prises pendant l'enfance ne trouvent pas d'écart net.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence affective est associée, dans deux méta-analyses, à un sentiment de solitude plus fréquent, avec l'un des écarts les plus nets. L'écart diminue avec l'âge et n'apparaît pas nettement dans les études fondées sur des dossiers ou sur des mesures prises pendant l'enfance.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences physiques sont associées à un sentiment de solitude un peu plus fréquent au cours de la vie dans deux méta-analyses, avec un effet moindre que pour les violences psychologiques. Données surtout transversales.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences sexuelles sont associées à un sentiment de solitude un peu plus fréquent dans deux méta-analyses d'études surtout transversales, avec un écart plus faible que pour les violences psychologiques.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence matérielle est associée à un sentiment de solitude un peu plus fréquent dans deux méta-analyses d'études surtout transversales, avec un écart plus faible que pour la négligence affective.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 29 études trouve que la maltraitance émotionnelle (violences psychologiques et négligence affective regroupées) est la forme la plus associée à l'anxiété sociale. Le lien porte sur des symptômes, pas forcément sur un trouble diagnostiqué.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même méta-analyse, la maltraitance émotionnelle, qui regroupe négligence affective et violences psychologiques, est associée à plus de symptômes d'anxiété sociale ; l'effet propre de la négligence n'y est pas isolé et les études sont très hétérogènes.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences physiques sont associées à un peu plus de symptômes d'anxiété sociale dans une méta-analyse de 29 études, avec un effet faible. Le lien porte sur des symptômes, pas forcément sur un trouble diagnostiqué.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences sexuelles sont associées à un peu plus de symptômes d'anxiété sociale dans une méta-analyse de 29 études, avec un effet faible et des études hétérogènes.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_preoccupation_apparence",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 27 articles trouve que les moqueries subies sont la forme d'adversité la plus associée aux symptômes de préoccupation excessive pour l'apparence. Elle mesure des symptômes, pas un diagnostic, et ne permet pas de dire dans quel sens va le lien.",
+   "sources": [
+    "longobardi2022_dysmorphie"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_preoccupation_apparence",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même méta-analyse, le harcèlement par les pairs est associé de façon faible à modérée à une préoccupation excessive pour l'apparence. Le sens du lien n'est pas établi.",
+   "sources": [
+    "longobardi2022_dysmorphie"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_violences_amoureuses_jeunes",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 23 projets trouve que les adolescents harcelés à l'école subissent plus souvent des violences dans leurs relations amoureuses, y compris en tenant compte d'autres facteurs, avec un lien plus net dans les études qui suivent les jeunes dans le temps. La responsabilité des violences revient à leur auteur.",
+   "sources": [
+    "zych2021_violences_amoureuses"
+   ]
+  },
+  {
+   "factor": "traumatisme_ponctuel",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Des méta-analyses sur les catastrophes naturelles trouvent que les jeunes plus exposés ont en moyenne un peu plus de symptômes de stress post-traumatique, d'anxiété ou de tristesse. Les effets sont modestes, mesurés surtout dans l'année qui suit et souvent selon le degré d'exposition plutôt que par comparaison avec des jeunes épargnés.",
+   "sources": [
+    "rubens2018_catastrophes",
+    "furr2010_catastrophes"
+   ]
+  }
+ ]
+}

@@ -122,6 +122,19 @@
       "report_sha256": "1084ad2d83ede759a5668ec236950b63e5318b68befc5204916f0df30019e48f",
       "out_of_scope_count": 0,
       "note": "Décisions et portées de lecture attribuées au chercheur du lot ; elles ne signifient pas relecture de toutes les publications par coverage17."
+    },
+    {
+      "lot": "v5",
+      "name": "exhaustivite_v5",
+      "fragment": "editorial/cartographie/liens-exhaustivite-v5-2026-11-19.json",
+      "fragment_sha256": "7700b6952b613c9044fa7fe7e15b2d1b980ec5f8b46925cd92b8a8678c7e4a44",
+      "proposal_archive": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+      "report": "docs/recherche-cartographie-v5-2026-11-19.md",
+      "report_sha256": "93592adf7985306c57b943df21c9a4211964213664d7eaf998a24e016c4f145f",
+      "review": "docs/relecture-cartographie-v5-2026-11-19.md",
+      "review_sha256": "e952507364dcd961f79ec0c47cfe5d665ba1502402a350c5e8cd1eef803d3dc7",
+      "out_of_scope_count": 18,
+      "note": "Registre de la recherche v5 avec les ajustements de la relecture indépendante (§6) ; deux entrées ajoutées par la relecture (traits_psychopathiques, defenses_maturite_globale)."
     }
   ],
   "entries": [
@@ -58488,6 +58501,584 @@
           "unresolved": false
         }
       ]
+    },
+    {
+      "referentiel": "Big Five",
+      "code": "traits_hors_nevrosisme",
+      "label": "Extraversion, agréabilité, conscienciosité, ouverture",
+      "statut": "a_examiner",
+      "raison": "Une méta-analyse (Credé 2023, 32 échantillons) existe mais son texte et son résumé n'ont pas pu être ouverts ; seul un extrait de moteur de recherche mentionne stabilité émotionnelle et psychoticisme plus liés. Aucun lien sans lecture.",
+      "sources": [
+        "crede2023_traits"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 0,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0001",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "crede2023_traits",
+          "reading_records_ref": "source_records.crede2023_traits",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "DSM-5-TR AMPD / PID-5",
+      "code": "pid5_domaines",
+      "label": "Affectivité négative, détachement, antagonisme, désinhibition, psychoticisme",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Aucune méta-analyse par domaine trouvée ; seulement des études transversales isolées (médiation des symptômes internalisés). La carte névrosisme existante couvre l'affectivité négative.",
+      "sources": [],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 1,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0002",
+      "causal_equivalence_claimed": false,
+      "source_reading": []
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6D10",
+      "label": "Trouble de la personnalité (sévérité)",
+      "statut": "agrege_dans",
+      "raison": "Rapprochement proposé avec ten_difficultes_personnalite, sans équivalence : les études portent sur des symptômes de catégories DSM-IV, pas sur la sévérité CIM-11.",
+      "sources": [
+        "johnson1999_personnalite",
+        "johnson2006_personnalite"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 2,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0003",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "johnson1999_personnalite",
+          "reading_records_ref": "source_records.johnson1999_personnalite",
+          "unresolved": false
+        },
+        {
+          "source_id": "johnson2006_personnalite",
+          "reading_records_ref": "source_records.johnson2006_personnalite",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Concept courant",
+      "code": "dependance_affective",
+      "label": "« Dépendance affective »",
+      "statut": "agrege_dans",
+      "raison": "Pas de définition consensuelle (Özal 2023) ; mesures de « love addiction » corrélées surtout à l'attachement anxieux (Cavalli 2025). Mention proposée dans la description d’Attachement anxieux seulement.",
+      "sources": [
+        "cavalli2025_dependance_affective",
+        "ozal2023_dependance_affective"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 3,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0004",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "cavalli2025_dependance_affective",
+          "reading_records_ref": "source_records.cavalli2025_dependance_affective",
+          "unresolved": false
+        },
+        {
+          "source_id": "ozal2023_dependance_affective",
+          "reading_records_ref": "source_records.ozal2023_dependance_affective",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Exil, guerre",
+      "code": "exil_comparaison",
+      "label": "Enfants exposés à la guerre comparés à des enfants non exposés",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Recherche ciblée (PubMed, Europe PMC) : méta-analyses de prévalence (Attanayake 2009, Blackmore 2020, Zasiekina 2025, Adugna 2026) ou de dose d'exposition (Eltanamly 2021) ; aucune méta-analyse avec groupe non exposé. Les registres nordiques comparant enfants réfugiés et natifs mesurent le recours aux soins, biaisé par l'accès. Les comparaisons de réfugiés avec des natifs pour les troubles psychotiques (Brandt 2019, Hollander 2016) ne portent pas sur une exposition limitée à l'enfance : non retenues.",
+      "sources": [
+        "eltanamly2021_guerre",
+        "brandt2019_refugies",
+        "hollander2016"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 4,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0005",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "eltanamly2021_guerre",
+          "reading_records_ref": "source_records.eltanamly2021_guerre",
+          "unresolved": false
+        },
+        {
+          "source_id": "brandt2019_refugies",
+          "reading_records_ref": "source_records.brandt2019_refugies",
+          "unresolved": false
+        },
+        {
+          "source_id": "hollander2016",
+          "reading_records_ref": "source_records.hollander2016",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Catastrophes",
+      "code": "catastrophe_naturelle",
+      "label": "Catastrophes naturelles dans l'enfance",
+      "statut": "agrege_dans",
+      "raison": "Couvert par traumatisme_ponctuel (exemple « Catastrophe naturelle ») ; lien proposé vers ten_souffrance_enfance. Les effets portent sur la jeunesse peu après l'événement ; aucune méta-analyse sur l'âge adulte trouvée.",
+      "sources": [
+        "rubens2018_catastrophes",
+        "furr2010_catastrophes"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 5,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0006",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "rubens2018_catastrophes",
+          "reading_records_ref": "source_records.rubens2018_catastrophes",
+          "unresolved": false
+        },
+        {
+          "source_id": "furr2010_catastrophes",
+          "reading_records_ref": "source_records.furr2010_catastrophes",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "DMRS",
+      "code": "defenses_par_mecanisme",
+      "label": "Mécanismes de défense un à un",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Aucune méta-analyse reliant l'enfance aux défenses ; études transversales en population clinique, revue narrative sur l'attachement (Howell 2025). Cramer et Block 1998 relient la personnalité de l'enfant d'âge préscolaire, pas un vécu, aux défenses à 23 ans.",
+      "sources": [
+        "howell2025_defenses",
+        "cramer1998_defenses",
+        "soldz1998_defenses"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 6,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0007",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "howell2025_defenses",
+          "reading_records_ref": "source_records.howell2025_defenses",
+          "unresolved": false
+        },
+        {
+          "source_id": "cramer1998_defenses",
+          "reading_records_ref": "source_records.cramer1998_defenses",
+          "unresolved": false
+        },
+        {
+          "source_id": "soldz1998_defenses",
+          "reading_records_ref": "source_records.soldz1998_defenses",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Repère",
+      "code": "burn_out",
+      "label": "Burn-out (phénomène professionnel, CIM-11 QD85)",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Seules des études transversales isolées chez des médecins ou étudiants infirmiers ; aucune synthèse. Ne pas relier.",
+      "sources": [],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 7,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0008",
+      "causal_equivalence_claimed": false,
+      "source_reading": []
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B42",
+      "label": "Trouble du deuil prolongé (lien empirique avec l'enfance)",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "La méta-analyse des facteurs de risque (Buur 2024, 120 études) retient des caractéristiques de la perte et l'attachement anxieux, pas des vécus d'enfance. Les repères de contexte CIM-11 existants suffisent.",
+      "sources": [
+        "buur2024_deuil"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 8,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0009",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "buur2024_deuil",
+          "reading_records_ref": "source_records.buur2024_deuil",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B24",
+      "label": "Trouble d'accumulation",
+      "statut": "a_examiner",
+      "raison": "Revue systématique (Chia 2021) : liens possibles avec un climat familial froid et contrôlant et des événements adverses, mais études peu nombreuses, hétérogènes et non spécifiques. Pas de méta-analyse.",
+      "sources": [
+        "chia2021_accumulation"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 9,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0010",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "chia2021_accumulation",
+          "reading_records_ref": "source_records.chia2021_accumulation",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6B23",
+      "label": "Hypocondrie / anxiété de santé (nouveaux liens)",
+      "statut": "aucune_preuve_trouvee",
+      "raison": "Aucune méta-analyse trouvée ; une cohorte danoise de 2026 (maladie d'un parent et anxiété de santé à l'adolescence) n'a pas de résumé accessible. Lien existant maladie_enfant conservé.",
+      "sources": [],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 10,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0011",
+      "causal_equivalence_claimed": false,
+      "source_reading": []
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6C51",
+      "label": "Trouble du jeu vidéo",
+      "statut": "a_examiner",
+      "raison": "Lo 2026 (36 études, résumé relu) : association faible avec la victimisation, plus forte en transversal ; les types de victimisation ne sont pas nommés dans le résumé, donc aucun lien par facteur. Couvert en partie par ten_ecrans.",
+      "sources": [
+        "lo2026_gaming"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 11,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0012",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "lo2026_gaming",
+          "reading_records_ref": "source_records.lo2026_gaming",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Construit",
+      "code": "mentalisation",
+      "label": "Mentalisation",
+      "statut": "a_examiner",
+      "raison": "Yang 2024 (23 études, résumé) : association négative modérée avec la maltraitance globale ; pas de résultat par forme dans le résumé.",
+      "sources": [
+        "yang2024_mentalisation"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 12,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0013",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "yang2024_mentalisation",
+          "reading_records_ref": "source_records.yang2024_mentalisation",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Construit",
+      "code": "autocompassion",
+      "label": "Peu de bienveillance envers soi",
+      "statut": "a_examiner",
+      "raison": "Zhang 2023 (résumé) : effets par forme disponibles ; voir proposed_links (rapprochement avec l'autocritique à décider).",
+      "sources": [
+        "zhang2023_autocompassion"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 13,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0014",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "zhang2023_autocompassion",
+          "reading_records_ref": "source_records.zhang2023_autocompassion",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Repère",
+      "code": "colere_agressivite_adulte",
+      "label": "Colère et agressivité à l'âge adulte",
+      "statut": "agrege_dans",
+      "raison": "Déjà couvertes par ten_colere et ten_externalisation ; aucune méta-analyse nouvelle retenue ici.",
+      "sources": [],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 14,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0015",
+      "causal_equivalence_claimed": false,
+      "source_reading": []
+    },
+    {
+      "referentiel": "CIM-11",
+      "code": "6C73",
+      "label": "Trouble explosif intermittent",
+      "statut": "a_examiner",
+      "raison": "Statut inchangé (Fanning 2014, cas-témoins transversaux) ; aucune méta-analyse trouvée.",
+      "sources": [],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 15,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0016",
+      "causal_equivalence_claimed": false,
+      "source_reading": []
+    },
+    {
+      "referentiel": "Construit",
+      "code": "traits_psychopathiques",
+      "label": "Traits psychopathiques",
+      "statut": "agrege_dans",
+      "raison": "Méta-analyse de Ruiter 2022 : associations faibles à modestes, sans étude prospective ; versants mode de vie et antisocial couverts par ten_traits_personnalite_antisociale. Pas de carte propre, pour ne pas étiqueter des personnes ayant subi des violences.",
+      "sources": [
+        "deruiter2022_psychopathie"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 16,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0017",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "deruiter2022_psychopathie",
+          "reading_records_ref": "source_records.deruiter2022_psychopathie",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "referentiel": "Construit",
+      "code": "defenses_maturite_globale",
+      "label": "Maturité globale des défenses",
+      "statut": "a_examiner",
+      "raison": "Une seule cohorte de 72 hommes (Martin-Joy 2017) : enfance chaleureuse et défenses plus mûres vers 52 ans, écart disparu vers 75 ans. Insuffisant pour une carte.",
+      "sources": [
+        "martinjoy2017_defenses"
+      ],
+      "lot": "v5",
+      "reviewed_on": "2026-11-19",
+      "provenance": [
+        {
+          "lot": "v5",
+          "file": "editorial/cartographie/propositions/liens-exhaustivite-v5-2026-11-19.json",
+          "field": "out_of_scope",
+          "index": 17,
+          "author": "recherche_exhaustivite_v5"
+        }
+      ],
+      "evidence_read_by": "recherche v5, relue (docs/relecture-cartographie-v5-2026-11-19.md §6)",
+      "independently_reread_all_sources": false,
+      "registry_id": "v5-0018",
+      "causal_equivalence_claimed": false,
+      "source_reading": [
+        {
+          "source_id": "martinjoy2017_defenses",
+          "reading_records_ref": "source_records.martinjoy2017_defenses",
+          "unresolved": false
+        }
+      ]
     }
   ],
   "conflicts": [
@@ -64311,6 +64902,159 @@
         "read_by": "coverage17",
         "accessed_on": "2026-11-16"
       }
+    ],
+    "crede2023_traits": [
+      {
+        "id": "crede2023_traits",
+        "citation": "Credé M, Kim HS, Cindrich SL, et al., 2023, The relationship between adverse childhood experiences and non-clinical personality traits: A meta-analytic synthesis, Personality and Individual Differences 200:111868",
+        "url": "https://doi.org/10.1016/j.paid.2022.111868",
+        "type": "meta-analyse",
+        "read": "non lu : texte fermé (HTTP 403), résumé absent de PubMed/Crossref/OpenAlex ; seul un extrait de moteur de recherche a été vu"
+      }
+    ],
+    "johnson2006_personnalite": [
+      {
+        "id": "johnson2006_personnalite",
+        "citation": "Johnson JG, Cohen P, Chen H, Kasen S, Brook JS, 2006, Parenting behaviors associated with risk for offspring personality disorder during adulthood, Archives of General Psychiatry 63(5):579-587",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16651515/",
+        "type": "etude",
+        "read": "résumé"
+      }
+    ],
+    "cavalli2025_dependance_affective": [
+      {
+        "id": "cavalli2025_dependance_affective",
+        "citation": "Cavalli RG, Feeney J, Rogier G, Velotti P, 2025, Conceptualizing love addiction within the attachment perspective: A systematic review and meta-analysis, Journal of Behavioral Addictions 14(2):611-629",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40299575/",
+        "type": "meta-analyse",
+        "read": "résumé"
+      }
+    ],
+    "ozal2023_dependance_affective": [
+      {
+        "id": "ozal2023_dependance_affective",
+        "citation": "Özal Z, Mancini G, De Fino G, et al., 2023, \"I Can't Do without You\": Treatment Perspectives for Affective Dependence: A Scoping Review, Journal of Clinical Medicine 12(21):6769",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37959234/",
+        "type": "revue",
+        "read": "résumé"
+      }
+    ],
+    "eltanamly2021_guerre": [
+      {
+        "id": "eltanamly2021_guerre",
+        "citation": "Eltanamly H, Leijten P, Jak S, Overbeek G, 2021, Parenting in Times of War: A Meta-Analysis and Qualitative Synthesis of War Exposure, Parenting, and Child Adjustment, Trauma, Violence, & Abuse 22(1):147-160",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7675766/",
+        "type": "meta-analyse",
+        "read": "section : méthodes et résultats (PMC7675766, environ les quatre cinquièmes du texte ; tableaux S2–S3 non lus)"
+      }
+    ],
+    "brandt2019_refugies": [
+      {
+        "id": "brandt2019_refugies",
+        "citation": "Brandt L, Henssler J, Müller M, Wall S, Gabel D, Heinz A, 2019, Risk of Psychosis Among Refugees: A Systematic Review and Meta-analysis, JAMA Psychiatry 76(11):1133-1140",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31411649/",
+        "type": "meta-analyse",
+        "read": "résumé"
+      }
+    ],
+    "rubens2018_catastrophes": [
+      {
+        "id": "rubens2018_catastrophes",
+        "citation": "Rubens SL, Felix ED, Hambrick EP, 2018, A Meta-Analysis of the Impact of Natural Disasters on Internalizing and Externalizing Problems in Youth, Journal of Traumatic Stress 31(3):332-341",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6055700/",
+        "type": "meta-analyse",
+        "read": "section : méthodes (types de mesure d'exposition), résultats, modérateurs, biais de publication et limites (PMC6055700)"
+      }
+    ],
+    "furr2010_catastrophes": [
+      {
+        "id": "furr2010_catastrophes",
+        "citation": "Furr JM, Comer JS, Edmunds JM, Kendall PC, 2010, Disasters and youth: a meta-analytic examination of posttraumatic stress, Journal of Consulting and Clinical Psychology 78(6):765-780",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21114340/",
+        "type": "meta-analyse",
+        "read": "résumé"
+      }
+    ],
+    "howell2025_defenses": [
+      {
+        "id": "howell2025_defenses",
+        "citation": "Howell R, Békés V, 2025, The relationship between defense mechanisms and attachment: a narrative review, Research in Psychotherapy 28(3):879",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645772/",
+        "type": "revue",
+        "read": "résumé"
+      }
+    ],
+    "cramer1998_defenses": [
+      {
+        "id": "cramer1998_defenses",
+        "citation": "Cramer P, Block J, 1998, Preschool antecedents of defense mechanism use in young adults: a longitudinal study, Journal of Personality and Social Psychology 74(1):159-169",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9457780/",
+        "type": "etude",
+        "read": "résumé"
+      }
+    ],
+    "soldz1998_defenses": [
+      {
+        "id": "soldz1998_defenses",
+        "citation": "Soldz S, Vaillant GE, 1998, A 50-year longitudinal study of defense use among inner city men: a validation of the DSM-IV defense axis, Journal of Nervous and Mental Disease 186(2):104-111",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9484310/",
+        "type": "etude",
+        "read": "résumé"
+      }
+    ],
+    "buur2024_deuil": [
+      {
+        "id": "buur2024_deuil",
+        "citation": "Buur C, Zachariae R, Komischke-Konnerup KB, et al., 2024, Risk factors for prolonged grief symptoms: A systematic review and meta-analysis, Clinical Psychology Review 107:102375",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38181586/",
+        "type": "meta-analyse",
+        "read": "résumé"
+      }
+    ],
+    "chia2021_accumulation": [
+      {
+        "id": "chia2021_accumulation",
+        "citation": "Chia K, Pasalich DS, Fassnacht DB, et al., 2021, Interpersonal attachment, early family environment, and trauma in hoarding: A systematic review, Clinical Psychology Review 90:102096",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34717158/",
+        "type": "revue",
+        "read": "résumé"
+      }
+    ],
+    "yang2024_mentalisation": [
+      {
+        "id": "yang2024_mentalisation",
+        "citation": "Yang L, Huang M, 2024, Childhood maltreatment and mentalizing capacity: A meta-analysis, Child Abuse & Neglect 149:106623",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38245975/",
+        "type": "meta-analyse",
+        "read": "résumé"
+      }
+    ],
+    "zhang2023_autocompassion": [
+      {
+        "id": "zhang2023_autocompassion",
+        "citation": "Zhang H, Li J, Sun B, Wei Q, 2023, Effects of Childhood Maltreatment on Self-Compassion: A Systematic Review and Meta-Analysis, Trauma, Violence, & Abuse 24(2):873-885",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34510982/",
+        "type": "meta-analyse",
+        "read": "résumé"
+      }
+    ],
+    "deruiter2022_psychopathie": [
+      {
+        "id": "deruiter2022_psychopathie",
+        "citation": "de Ruiter C, Burghart M, De Silva R, et al., 2022, A meta-analysis of childhood maltreatment in relation to psychopathic traits, PLoS One 17(8):e0272704",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9365173/",
+        "type": "meta-analyse",
+        "read": "section : méthodes, résultats par type et par facette, modérateurs, biais de publication et limites (PMC9365173, environ les deux tiers du texte)"
+      }
+    ],
+    "martinjoy2017_defenses": [
+      {
+        "id": "martinjoy2017_defenses",
+        "citation": "Martin-Joy JS, Malone JC, Cui XJ, et al., 2017, Development of Adaptive Coping From Mid to Late Life: A 70-Year Longitudinal Study of Defense Maturity and Its Psychosocial Correlates, Journal of Nervous and Mental Disease 205(9):685-691",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28682982/",
+        "type": "etude",
+        "read": "résumé"
+      }
     ]
   },
   "source_reading_proposals": [
@@ -64648,7 +65392,7 @@
     }
   ],
   "counts": {
-    "entries": 1567,
+    "entries": 1585,
     "by_lot": {
       "1": 141,
       "2": 27,
@@ -64658,13 +65402,14 @@
       "6": 76,
       "7": 100,
       "8": 28,
-      "audit_independant": 372
+      "audit_independant": 372,
+      "v5": 18
     },
     "by_status": {
-      "agrege_dans": 280,
+      "agrege_dans": 285,
       "hors_perimetre_justifie": 798,
-      "a_examiner": 410,
-      "aucune_preuve_trouvee": 68,
+      "a_examiner": 417,
+      "aucune_preuve_trouvee": 74,
       "reference_exact": 11
     },
     "dsm_documentary_entries": 273,

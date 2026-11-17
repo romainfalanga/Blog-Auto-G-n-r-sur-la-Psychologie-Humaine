@@ -3635,12 +3635,12 @@
   "final_validation": {
     "status": "passed",
     "reviewed_on": "2026-11-17",
-    "graph_core_sha256": "ce03dcd3e7af2067d0e3a15fafae53b1ec18e39e14794e21e0cfd412e57ea32d",
+    "graph_core_sha256": "6029d38cdd8b35bc43efa3a8023b5a17bf0e2538107e57a3657e772a4ab26274",
     "active_factors": 59,
-    "active_outcomes": 109,
+    "active_outcomes": 113,
     "resources": 11,
-    "links": 496,
-    "sources": 261,
+    "links": 518,
+    "sources": 272,
     "retired_outcomes": 3,
     "all_semantic_targets_exist": true,
     "no_semantic_targets_are_retired": true,
@@ -3652,9 +3652,10 @@
     "unresolved_registry_source_ids": [],
     "does_not_validate_clinical_criteria_or_causality": true,
     "post_integration_delta_independently_reviewed": true,
-    "revalidated_on": "2026-11-18",
-    "revalidated_by": "lot_C_v4_1",
-    "v4_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v4-2026-11-18.md)"
+    "revalidated_on": "2026-11-19",
+    "revalidated_by": "lot_C5b_v5",
+    "v4_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v4-2026-11-18.md)",
+    "v5_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v5-2026-11-19.md §8) : 4 sujets ajoutés, 22 liens limités, 8 liens existants corrigés, aucun sujet existant retiré ni renommé hors pat_social_isolation (libellé seulement)"
   },
   "post_integration_reviews": [
     {

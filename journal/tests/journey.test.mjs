@@ -30,7 +30,13 @@ const addPerson=(s,user='a')=>s.raw.prepare("INSERT INTO personal_people(id,user
 const reviewText=(label='Ce qui semble ressortir.')=>label+' '+'Vous écrivez que vous vous taisez souvent pour éviter un conflit, et cela peut se relier à ce que vous avez coché. '.repeat(22)+'Qu’avez-vous envie de comprendre ou de changer en priorité ?';
 const reviewReply=(content=reviewText())=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content})},finish_reason:'stop'}],usage:{prompt_tokens:900,completion_tokens:1100,cost:0.02}}));
 const chatReply=(content='Je vous écoute. Dans quelle situation cela arrive-t-il ?')=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content,questions:[],proposals:[],cartography_notes:[]})},finish_reason:'stop'}],usage:{prompt_tokens:100,completion_tokens:100,cost:0.001}}));
-function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=fn;t.after(()=>{globalThis.fetch=previous;});}
+// Lot A5-P1: every review is checked by a separate call before publication. These tests count the
+// writing calls; the check passes here and is tested on its own in v5-A5-P1-reviews.test.mjs.
+const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+const isCheck=options=>{try{return JSON.parse(options.body).response_format?.json_schema?.name==='ambre_review_check'}catch{return false}};
+const checkReply=()=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify(CHECK_PASS)},finish_reason:'stop'}],usage:{prompt_tokens:0,completion_tokens:0,cost:0}}));
+const checked=fn=>async(url,options)=>isCheck(options)?checkReply():fn(url,options);
+function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=checked(fn);t.after(()=>{globalThis.fetch=previous;});}
 const contextOf=request=>JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{')));
 const review=(s,id)=>s.raw.prepare('SELECT * FROM ambre_reviews WHERE id=?').get(id);
 const start=(s,key='start_key_001',user='a',ctx)=>s.call('/api/chat/start','POST',{idempotency_key:key,accepted:true},user,ctx);
@@ -71,7 +77,7 @@ test('the journey (legacy generate() path, inactive in production): sources, ref
  assert.equal(requests.length,1);
  const initialRequest=requests[0],initialContext=contextOf(initialRequest);
  assert.match(initialRequest.messages[0].content,/ANALYSE INITIALE/);assert.doesNotMatch(initialRequest.messages[0].content,/POINT D’ÉTAPE/);
- assert.equal(initialRequest.max_tokens,3200);assert.equal(initialRequest.provider.zdr,true);assert.equal(initialRequest.provider.data_collection,'deny');assert.equal(initialRequest.response_format.json_schema.strict,true);
+ assert.equal(initialRequest.max_tokens,4800,'A5-P1: the text and its digest');assert.equal(initialRequest.provider.zdr,true);assert.equal(initialRequest.provider.data_collection,'deny');assert.equal(initialRequest.response_format.json_schema.strict,true);
  assert.deepEqual(initialContext.available,{cartography:{done:true,count:2},portrait:{done:true},people:{done:true,count:1},life_events:{done:false,count:0}});
  assert.equal(initialContext.kind,'initial');assert.equal(initialContext.childhood_cartography.cause_count,2);assert.equal(initialContext.childhood_cartography.person_notes[0].text,'Ce que j’en retiens.');assert.equal(initialContext.childhood_cartography.resources.length,1);
  assert.ok(initialContext.sources.some(x=>x.type==='profile'));assert.equal(initialContext.people[0].name,'Mila');assert.equal(initialContext.current_identity.first_name,'Alix');
@@ -79,9 +85,9 @@ test('the journey (legacy generate() path, inactive in production): sources, ref
  assert.ok(JSON.stringify(initialContext).length<=34000);
  let row=review(s,initialId);
  assert.equal(row.status,'ready');assert.equal(row.kind,'initial');assert.equal(row.attempts,1);assert.equal(row.lease_token,null);assert.equal(row.completed_at,s.now());
- assert.deepEqual(JSON.parse(row.sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:1,life_events:0,messages:0,previous_review_id:null});
+ assert.deepEqual(JSON.parse(row.sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:1,life_events:0,messages:0,previous_review_id:null,check:{passed:true,rewritten:false,failed:[]}});
  const budget=s.raw.prepare("SELECT * FROM provider_budgets WHERE user_id='a'").get();
- assert.equal(budget.provider_calls,1);assert.equal(budget.input_tokens,900);assert.equal(budget.output_tokens,1100);assert.ok(budget.reserved_tokens>3500);
+ assert.equal(budget.provider_calls,2,'the review and its separate check');assert.equal(budget.input_tokens,900);assert.equal(budget.output_tokens,1100);assert.ok(budget.reserved_tokens>3500);
 
  r=await start(s);assert.equal(r.status,200);assert.equal(r.review_id,initialId);assert.equal(requests.length,1,'the same key never generates twice');
  r=await start(s,'start_key_002');assert.equal(r.status,409);assert.equal(r.code,'journey_started');
@@ -111,7 +117,7 @@ test('the journey (legacy generate() path, inactive in production): sources, ref
  assert.equal(pointContext.previous_review.kind,'initial');assert.ok(pointContext.previous_review.text.startsWith('Ce qui semble ressortir.'));
  assert.deepEqual(pointContext.conversation_since,[{vous:'J’aimerais comprendre pourquoi je me tais en réunion.',ambre:'Je vous écoute.'}]);
  assert.deepEqual(pointContext.conversation_coverage,{included_turns:1,total_turns:1,truncated:false});
- assert.deepEqual(JSON.parse(review(s,pointId).sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:1,life_events:0,messages:1,previous_review_id:initialId});
+ assert.deepEqual(JSON.parse(review(s,pointId).sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:1,life_events:0,messages:1,previous_review_id:initialId,thread_reviews:1,check:{passed:true,rewritten:false,failed:[]}});
  assert.equal((await s.call('/api/chat/review','POST',{idempotency_key:'point_key_002'})).code,'review_too_soon');
 
  r=await s.call('/api/reviews');
@@ -172,7 +178,7 @@ test('an interrupted review is resumed by the cron, with a cap on attempts',asyn
  assert.deepEqual(await s.chat.resumeReviews(s.env),{claimed:1,failed:0});
  row=review(s,id);assert.equal(row.status,'ready');assert.equal(row.attempts,2);assert.equal(row.error_code,null);
  assert.equal((await s.call('/api/chat')).messages[0].review_id,id);assert.equal(calls,2);
- assert.equal(s.raw.prepare("SELECT provider_calls FROM provider_budgets WHERE user_id='a'").get().provider_calls,2,'each attempt is counted in the provider budget');
+ assert.equal(s.raw.prepare("SELECT provider_calls FROM provider_budgets WHERE user_id='a'").get().provider_calls,3,'each attempt is counted in the provider budget (the timed-out write, then the write and its check)');
 
  const f=setup();addPerson(f);mode='error';
  r=await start(f);const failing=r.review_id;
@@ -213,13 +219,13 @@ test('no inline attempt when it is disabled, and final causes end a review at on
  assert.equal((await s.chat.resumeReviews(s.env)).claimed,1);assert.equal(review(s,r.review_id).status,'ready');assert.equal(calls,1);
 
  const w=setup();addPerson(w);
- globalThis.fetch=async()=>{await w.call('/api/chat/consent','PUT',{accepted:false});return reviewReply();};
+ globalThis.fetch=checked(async()=>{await w.call('/api/chat/consent','PUT',{accepted:false});return reviewReply();});
  r=await start(w);
  let row=review(w,r.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,'consent_withdrawn');
  assert.equal(w.raw.prepare('SELECT count(*) n FROM chat_turns').get().n,0,'nothing is published after the agreement is withdrawn');
  assert.equal(row.content,'');
 
- const b=setup(['a'],{WEEKLY_TOKEN_BUDGET:'10'});addPerson(b);calls=0;globalThis.fetch=async()=>{calls++;return reviewReply();};
+ const b=setup(['a'],{WEEKLY_TOKEN_BUDGET:'10'});addPerson(b);calls=0;globalThis.fetch=checked(async()=>{calls++;return reviewReply();});
  r=await start(b);row=review(b,r.review_id);
  assert.equal(row.status,'failed');assert.equal(row.error_code,'generation_budget');assert.equal(calls,0);
 
@@ -288,10 +294,12 @@ test('the journey on the production engine: last review in every writing request
  for(const [i,content] of ['J’aimerais comprendre pourquoi je me tais en réunion.','Et avec Mila aussi, je me tais.'].entries()){
   r=await s.call('/api/chat/messages','POST',{content,idempotency_key:'engine_message_'+i});assert.equal(r.status,200,JSON.stringify(r).slice(0,300));assert.equal((await work()).stage,'done');
   const writing=requests.filter(x=>x.response_format?.json_schema?.name==='ambre_writing').at(-1),input=JSON.parse(writing.messages[1].content);
-  assert.equal(input.last_review.id,initialId);assert.equal(input.last_review.kind,'analyse initiale');assert.match(input.last_review.date,/^\d{4}-\d{2}-\d{2}$/);
-  assert.ok(input.last_review.text.length<=900);assert.ok(input.last_review.text.startsWith('Ce qui semble ressortir.'));assert.ok(input.last_review.text.endsWith('Qu’avez-vous envie de comprendre ou de changer en priorité ?'),'the end of the review (its question) is kept');
+  // A5-P1: the review thread replaces last_review; a review without digest travels as a dated excerpt.
+  const thread=input.review_thread;assert.equal(input.last_review,undefined);
+  assert.equal(thread.last.id,initialId);assert.equal(thread.last.kind,'analyse initiale');assert.match(thread.last.date,/^\d{4}-\d{2}-\d{2}$/);
+  assert.ok(thread.last.text.length<=900);assert.ok(thread.last.text.startsWith('Ce qui semble ressortir.'));assert.ok(thread.last.text.endsWith('Qu’avez-vous envie de comprendre ou de changer en priorité ?'),'the end of the review (its question) is kept');assert.ok(JSON.stringify(thread).length<=1200);
   assert.ok(!input.details.some(x=>x.key==='review:'+initialId),'the last review is not sent twice');
-  assert.match(writing.messages[0].content[0].text,/last_review/);
+  assert.match(writing.messages[0].content[0].text,/review_thread/);
  }
  assert.equal((await s.call('/api/chat')).quota.used,2);
  s.advance(86401);

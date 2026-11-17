@@ -848,7 +848,9 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(!registered[0].meta.changes)throw Object.assign(new Error('Sources changed'),{code:'context_changed'});
    const supplied=suppliedText(data),corpus=reviewCorpus(data),signal=reviewSafetySignal(data),knownGoals=threadGoals(data.review_thread),system=buildReviewSystemPrompt(review.kind),payload='Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data);
    const call=(options)=>reviewCall(env,{userId,review,held,deadline,...options});
-   const keep=async next=>{if(!columns)return;const saved=await run(env,`UPDATE ambre_reviews SET stage=?,draft=? WHERE ${held}`,next,JSON.stringify(draft),review.id,review.lease_token);if(!saved.meta.changes)throw Object.assign(new Error('lease lost'),{code:'lease_lost'});};
+   // The draft is saved under the same guard as the publication: a plan or context change between
+   // two calls ends the review before the next call is bought.
+   const keep=async next=>{if(!columns)return;const saved=await run(env,`UPDATE ambre_reviews SET stage=?,draft=? WHERE ${held} AND ${cas.sql}`,next,JSON.stringify(draft),review.id,review.lease_token,...cas.args);if(!saved.meta.changes)throw Object.assign(new Error('lease lost'),{code:await first(env,`SELECT 1 AS held FROM ambre_reviews WHERE ${held}`,review.id,review.lease_token)?'context_changed':'lease_lost'});};
    let usage=addUsage(draft?.usage,null);
    while(stage!=='publish'){
     if(stage==='write'||stage==='rewrite'){

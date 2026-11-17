@@ -76,7 +76,11 @@
     },
     {
      "scope": "Troubles de la personnalité autres que borderline",
-     "reason": "La CIM-11 décrit la personnalité par dimensions. La recherche associe la maltraitance à des difficultés de personnalité au sens large, mais seules les associations avec le trouble borderline sont assez solides pour une carte."
+     "reason": "La CIM-11 décrit la personnalité par dimensions. Seules les associations avec le trouble borderline sont assez solides pour une carte de trouble ; les difficultés de personnalité au sens large figurent comme repère de recherche, jamais comme diagnostic."
+    },
+    {
+     "scope": "Traits psychopathiques",
+     "reason": "Les associations avec la maltraitance sont faibles à modestes et aucune étude ne suit les personnes dans le temps ; leurs aspects de comportement sont déjà décrits par la carte des traits antisociaux. Pas de carte propre, pour ne pas étiqueter des personnes qui ont subi des violences."
     },
     {
      "scope": "Mécanismes de défense",
@@ -88,7 +92,7 @@
     },
     {
      "scope": "Exil, guerre et migration comme causes mesurées",
-     "reason": "Les études trouvées décrivent la fréquence des difficultés chez les personnes exposées, sans groupe de comparaison. La carte n'en tire pas d'association ; pour l'exil et la guerre, elle indique seulement les repères de la CIM-11 sur les événements extrêmement menaçants."
+     "reason": "Les études sur les enfants exposés à la guerre décrivent surtout la fréquence des difficultés ou leur lien avec l'intensité de l'exposition, sans groupe de comparaison. La carte n'en tire pas d'association ; elle indique les repères de la CIM-11 sur les événements extrêmement menaçants. Les comparaisons de réfugiés avec la population d'accueil pour les troubles psychotiques ne portent pas sur une exposition limitée à l'enfance : elles ne sont pas retenues."
     },
     {
      "scope": "Secrets de famille",
