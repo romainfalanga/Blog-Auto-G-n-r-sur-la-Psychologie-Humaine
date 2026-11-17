@@ -61,8 +61,10 @@
     var countEls = root.querySelectorAll('[data-count]'), saveBox = $('[data-save]'), dialog = $('[data-dialog]');
 
     function compute() { return window.Cartographie.compute(data, state.answers, state.feedback); }
+    function factorVisible(f) { return !f.historical || Object.prototype.hasOwnProperty.call(state.answers, f.id) || state.notes.factors[f.id] || ambreFor('factor', f.id).length || state.noteOpen['legacy:' + f.id]; }
+    function themeItems(t) { return t.items.filter(factorVisible); }
     function answered(t) {
-      return t.items.filter(function (i) { return Object.prototype.hasOwnProperty.call(state.answers, i.id) || state.notes.factors[i.id]; }).length;
+      return themeItems(t).filter(function (i) { return Object.prototype.hasOwnProperty.call(state.answers, i.id) || state.notes.factors[i.id]; }).length;
     }
     function ambreFor(target, id) {
       return state.ambreNotes.filter(function (n) { return n.target === target && n.target_id === id; });
@@ -238,9 +240,9 @@
     function setAnswer(f, level) {
       if (state.answers[f.id] === level) return;
       state.answers[f.id] = level;
-      if (level) (data.exclusive || []).forEach(function (pair) {
+      if (level === 1 || level === 2) (data.exclusive || []).forEach(function (pair) {
         var i = pair.indexOf(f.id);
-        if (i !== -1) delete state.answers[pair[1 - i]];
+        if (i !== -1 && (state.answers[pair[1 - i]] === 1 || state.answers[pair[1 - i]] === 2)) delete state.answers[pair[1 - i]];
       });
       changed(); refreshChoices(); renderResults();
     }
@@ -248,15 +250,17 @@
     function refreshChoices() {
       formBody.querySelectorAll('[data-factor]').forEach(function (row) {
         var id = row.getAttribute('data-factor'), value = state.answers[id];
-        row.classList.toggle('is-checked', Boolean(value));
+        row.classList.toggle('is-checked', value === 1 || value === 2);
+        var legacy = row.querySelector('.carto-legacy-frequency'); if (legacy) legacy.hidden = value !== 2;
         row.querySelectorAll('[data-level]').forEach(function (button) {
-          var selected = value === Number(button.getAttribute('data-level'));
+          var level = button.getAttribute('data-level');
+          var selected = value === (level === 'unknown' ? 'unknown' : Number(level));
           button.classList.toggle('is-on', selected); button.setAttribute('aria-pressed', selected ? 'true' : 'false');
         });
       });
       themes.forEach(function (theme) {
         var count = root.querySelector('[data-theme-count="' + theme.id + '"]');
-        if (count) count.textContent = answered(theme) + ' / ' + theme.items.length + ' renseignés';
+        if (count) count.textContent = answered(theme) + ' / ' + themeItems(theme).length + ' renseignés';
       });
       updateCounts();
     }
@@ -267,10 +271,10 @@
         var details = el('details', { className: 'carto-theme-panel', 'data-theme': theme.id, open: Boolean(state.themesOpen[theme.id]) });
         details.appendChild(el('summary', { className: 'carto-theme', 'data-focus': 'theme:' + theme.id }, [
           el('span', { className: 'carto-theme-text' }, [el('strong', { text: theme.label }), el('span', { className: 'carto-theme-desc', text: theme.description })]),
-          el('span', { className: 'carto-theme-progress', 'data-theme-count': theme.id, text: answered(theme) + ' / ' + theme.items.length + ' renseignés' }),
+          el('span', { className: 'carto-theme-progress', 'data-theme-count': theme.id, text: answered(theme) + ' / ' + themeItems(theme).length + ' renseignés' }),
           el('span', { className: 'carto-theme-arrow', 'aria-hidden': 'true', text: '+' })
         ]));
-        details.appendChild(el('ul', { className: 'carto-factors' }, theme.items.map(factorRow)));
+        details.appendChild(el('ul', { className: 'carto-factors' }, themeItems(theme).map(factorRow)));
         details.addEventListener('toggle', function () { if (details.isConnected) state.themesOpen[theme.id] = details.open; });
         list.appendChild(details);
       });
@@ -280,20 +284,30 @@
     }
 
     function factorRow(f) {
-      var nLinks = (linksByFactor[f.id] || []).length;
+      var nLinks = (linksByFactor[f.id] || []).length, value = state.answers[f.id];
       var hint = f.description + (f.examples && f.examples.length ? ' Par exemple : ' + f.examples.join(' ; ') + '.' : '');
-      return el('li', { 'data-factor': f.id, className: 'carto-factor-row' + (state.answers[f.id] ? ' is-checked' : '') }, [
+      var controls;
+      if (f.historical) {
+        var answer = value === 'unknown' ? 'Je ne sais pas' : value === 0 ? 'Non' : value === 1 ? 'Oui' : value === 2 ? 'Souvent' : 'Non renseignée';
+        controls = el('div', { className: 'carto-legacy-answer' }, [
+          el('p', { text: 'Ancienne question — réponse conservée : ' + answer + '.' }),
+          el('p', { text: 'Cette question réunissait des règles strictes et du contrôle psychologique. Vous pouvez répondre séparément aux deux questions suivantes ; votre ancienne réponse ne permet pas de choisir à votre place.' }),
+          Object.prototype.hasOwnProperty.call(state.answers, f.id) ? el('button', { type: 'button', className: 'carto-note-add', onclick: function () { delete state.answers[f.id]; state.noteOpen['legacy:' + f.id] = true; changed(); renderAll(); var next = root.querySelector('[data-factor="' + f.replaced_by[0] + '"] button'); if (next) next.focus({ preventScroll: true }); } }, ['Effacer cette ancienne réponse']) : null
+        ]);
+      } else {
+        var choices = [choice(value, 0, 'Non', function (l) { setAnswer(f, l); }), choice(value, 1, 'Oui', function (l) { setAnswer(f, l); })];
+        if (f.response_mode !== 'binary') choices.push(choice(value, 2, 'Souvent', function (l) { setAnswer(f, l); }));
+        choices.push(choice(value, 'unknown', 'Je ne sais pas', function (l) { setAnswer(f, l); }));
+        controls = el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, choices);
+      }
+      return el('li', { 'data-factor': f.id, className: 'carto-factor-row' + (value === 1 || value === 2 ? ' is-checked' : '') }, [
         el('strong', { className: 'carto-factor-label', text: f.label }),
         el('p', { className: 'carto-factor-hint', text: hint }),
-        el('div', { className: 'carto-factor-actions' }, [
-          el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, [
-            choice(state.answers[f.id], 0, 'Non', function (l) { setAnswer(f, l); }),
-            choice(state.answers[f.id], 1, 'Oui', function (l) { setAnswer(f, l); }),
-            choice(state.answers[f.id], 2, 'Souvent', function (l) { setAnswer(f, l); })
-          ]),
+        f.response_mode === 'binary' ? el('p', { className: 'carto-legacy-frequency', hidden: value !== 2, text: 'Ancienne réponse : Souvent. Elle reste enregistrée telle quelle ; vous pouvez choisir une nouvelle réponse.' }) : null,
+        el('div', { className: 'carto-factor-actions' }, [controls,
           nLinks ? el('button', { type: 'button', className: 'carto-see', 'aria-label': 'Voir les ' + nLinks + ' associations étudiées : ' + f.label, onclick: function () { openFactor(f); } }, ['Liens étudiés (' + nLinks + ')']) : null
         ]),
-        nLinks ? null : el('p', { className: 'carto-no-link', text: 'Aucune association suffisamment documentée n’est retenue pour l’instant.' }),
+        nLinks ? null : el('p', { className: 'carto-no-link', text: f.association_status === 'unreviewed' ? 'Votre réponse peut préciser le contexte pour Ambre. Aucun rapprochement scientifique n’est proposé pour cette nouvelle question.' : 'Aucune association suffisamment documentée n’est retenue pour l’instant.' }),
         noteField('factors', f.id, 'Ajouter une précision', 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Ma précision'),
         ambreNotes('factor', f.id)
       ]);
@@ -357,7 +371,7 @@
       r.links.forEach(function (l) {
         if (seen[l.factor]) return;
         seen[l.factor] = true;
-        names.push(factors[l.factor].label + (state.answers[l.factor] === 2 ? ' (souvent)' : ''));
+        names.push(factors[l.factor].label + (factors[l.factor].historical ? ' (ancienne question)' : '') + (state.answers[l.factor] === 2 ? factors[l.factor].response_mode === 'binary' ? ' (ancienne réponse : Souvent)' : ' (souvent)' : ''));
       });
       if (names.length <= 3) return names.join(', ');
       var rest = names.length - 3;
@@ -449,7 +463,7 @@
       var general = ambreNotes('general', null);
       if (general) results.appendChild(el('section', { className: 'carto-ambre-general' }, [el('h3', { className: 'carto-tier-title', text: 'Notes d’Ambre' }), general]));
       if (!s.selectedCount) {
-        results.appendChild(el('p', { className: 'carto-empty', text: 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Une réponse « Non » reste enregistrée et ne crée pas d’association.' }));
+        results.appendChild(el('p', { className: 'carto-empty', text: 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Les réponses « Non » et « Je ne sais pas » restent enregistrées et ne créent pas d’association.' }));
         return;
       }
       if (!s.results.length) {

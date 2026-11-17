@@ -2,10 +2,19 @@
 // virtual clock where simulated provider latencies really overlap.
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
 import {setup,response,analysis,draft,review} from './v4-R-helper.mjs';
 
 const LATENCY={ambre_analysis:4000,ambre_risk_check:3000,ambre_writing:15000,ambre_review:4000,ambre_memory:6000};
 function virtualTime(t){
+ // The provider clock must not advance while a real libuv SHA-256 job is queued.
+ // Keep exact hashes but remove unsimulated wall-clock I/O from this virtual-time test.
+ const digest=crypto.subtle.digest.bind(crypto.subtle);
+ t.mock.method(crypto.subtle,'digest',async (algorithm,data)=>{
+  if(String(typeof algorithm==='string'?algorithm:algorithm.name).toUpperCase()!=='SHA-256')return digest(algorithm,data);
+  const bytes=ArrayBuffer.isView(data)?new Uint8Array(data.buffer,data.byteOffset,data.byteLength):new Uint8Array(data);
+  const result=createHash('sha256').update(bytes).digest();return result.buffer.slice(result.byteOffset,result.byteOffset+result.byteLength);
+ });
  const realNow=Date.now,realFetch=globalThis.fetch;let V=1794830400000;const timers=[];
  const clock={get now(){return V},sleep:ms=>new Promise(resolve=>timers.push({at:V+ms,resolve})),advanceTo(at){V=Math.max(V,at)}};
  Date.now=()=>V;

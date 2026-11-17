@@ -18,7 +18,7 @@ const links=data.links.map(link=>{
   // The sourced one-sentence summary lets Ambre explain a link without the public articles.
   return {factor:link.factor,outcome:link.outcome,strength:link.strength,relation_type:link.relation_type,source_ids:[...link.sources],...(link.definitional?{definitional:true}:{}),...(typeof link.summary==='string'&&link.summary.trim()?{summary:link.summary.trim()}:{})};
 });
-const factors=data.factors.map(f=>({id:f.id,label:f.label,group:f.group||'',...(f.overlap_group?{overlap_group:f.overlap_group}:{}),...(f.ace?{ace:true}:{})}));
+const factors=data.factors.map(f=>({id:f.id,label:f.label,group:f.group||'',...(f.response_mode?{response_mode:f.response_mode}:{}),...(f.historical?{historical:true,replaced_by:f.replaced_by}:{}),...(f.association_status?{association_status:f.association_status}:{}),...(f.overlap_group?{overlap_group:f.overlap_group}:{}),...(f.ace?{ace:true}:{})}));
 const outcomes=data.outcomes.map(o=>({id:o.id,label:o.label,kind:o.kind,category:o.category,domain:o.domain,...(o.code?{code:o.code}:{}),...(typeof o.url==='string'&&/^\/(?!\/)/.test(o.url)?{url:o.url}:{}),...(o.note?{note:o.note}:{}),...(o.age_scope?{age_scope:o.age_scope}:{}),...(o.contextual_only?{contextual_only:true}:{})}));
 const retired_outcomes=(data.retired_outcomes||[]).map(({id,label,description,kind})=>({id,label,description,kind,retired:true,contextual_only:true}));
 // Protective factors ("Ce qui m'a aidé") are answers too: Ambre needs their labels.
