@@ -12,6 +12,12 @@
 - Tests : `v5-A5-P1-reviews.test.mjs` (11) ; `v5-A5-budget` (+10 : tour avec fil complet, coût du bilan) ; `v4-R-export` (+1) ; `v4-R-migrations` (+1, attentes 0022+0023) ; adaptés : `journey` (relecture répondue à part, `max_tokens` 4 800, `sources.check`), `ambre-engine` et `v5-A5-sources` (`review_thread` au lieu de `last_review`), `ui-v2` (liste de fonctions), `v5-A-helper` (digests, relecture mesurée).
 - README (migration, bilans structurés, relecture, fil, retour, suggestion).
 
+## Corrections après relecture indépendante
+- Cron : un bilan `running` depuis plus de 10 min pendant un refroidissement du modèle passe en `failed/provider_cooldown` (brouillon vidé) ; `attempts_exhausted` vide aussi `draft`.
+- Listes fermées (`FEEDBACK_VERDICTS`, `GOAL_STATUS`, `TRIED_RESULT`) testées par `Object.hasOwn`.
+- Plafond de 8 créations par jour compté dans `rate_limits` (`review-created:<id>`, fenêtre 24 h), insensible aux suppressions.
+- Tests : 4 de plus dans `v5-A5-P1-reviews.test.mjs` (15).
+
 ## Mesures (profil rempli de l'audit v5, jetons ≈ car./3)
 - Tour, rédaction : P0 6 397 → P1 6 487 (+1,4 % ; +9,0 % contre la référence figée) ; tour total ≤ +5,1 % ; fil avec 3 bilans structurés : 1 081 car.
 - Bilan : écriture initial 13 047 / point 13 622 (≤ +8,8 %) + relecture ≈ 2 630 → +26 % / +30 % au total ; sortie max 3 200 → 4 800 + 1 500 ; réécriture au plus : ×2.
