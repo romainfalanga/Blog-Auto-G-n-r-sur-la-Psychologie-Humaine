@@ -458,7 +458,7 @@
       }
       // One list in the engine's order, shared with Ambre, grouped in sections.
       var sec = s.sections;
-      results.appendChild(el('p', { className: 'carto-rank-note', text: 'Classés selon la solidité des études qui relient chaque sujet à vos réponses, en faisant passer les sujets reliés à moins de vécus avant ce qui accompagne presque tous les vécus difficiles ; ce n’est pas une mesure de votre risque.' }));
+      results.appendChild(el('p', { className: 'carto-rank-note', text: 'Classés selon la solidité des études et ce qui est le plus propre à vos réponses ; ce n’est pas une mesure de votre risque.' }));
       if (sec.recognized.length) results.appendChild(section('Vous vous y reconnaissez (' + sec.recognized.length + ')', sec.recognized));
       if (sec.top.length) results.appendChild(section('Le plus en lien avec vos réponses', sec.top));
       if (sec.frequent.length) results.appendChild(section('Aussi associés à la plupart des vécus difficiles', sec.frequent));

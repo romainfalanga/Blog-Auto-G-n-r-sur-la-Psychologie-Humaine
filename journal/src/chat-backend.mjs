@@ -394,15 +394,6 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  function cartographyPrompt(map){
   return cartographyPromptBlock(map);
  }
- // The member's notes, checked resources and Ambre's own notes, within a fixed budget.
- // Ambre's most recent notes are kept first; the list stays in chronological order.
- function cartographyWords(map){
-  let budget=4500,notes_truncated=false;const person_notes=[],own=[];
-  for(const n of map.notes||[]){const text=excerpt(n.text,400).text;if(text.length>budget){notes_truncated=true;continue;}budget-=text.length;if(text!==n.text)notes_truncated=true;person_notes.push({target:n.target,id:n.id,label:n.label,text});}
-  budget=3000;
-  for(const n of (map.ambre_notes||[]).slice().reverse()){if(n.text.length>budget){notes_truncated=true;break;}budget-=n.text.length;own.unshift({target:n.target,...(n.target==='general'?{}:{id:n.target_id,label:n.label}),text:n.text});}
-  return {person_notes,resources:(map.resources||[]).map(r=>r.label),ambre_notes:own,...(notes_truncated?{notes_truncated:true}:{})};
- }
  async function generate(env,userId,turn,context){
   // Cloudflare permits only a short waitUntil tail after the 202 response.
   // Leave time for parsing, guarded D1 publication and releasing failed credit.
@@ -922,7 +913,10 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   // Plan v5.1: the fixed cautious reply after a double outage (analysis and verification) is not
   // counted in the weekly quota. The completed turn keeps credit_status='consumed' (schema); a
   // marker excludes it from the count.
-  const uncounted=Boolean(analysis.cautious&&analysis.fallback);
+  // Only a provider failure on both stages (timeout, error, HTTP status) qualifies; a refusal,
+  // an exhausted budget, an invalid or unanchored answer, or an output limit is counted.
+  const outage=code=>code==='provider_timeout'||code==='provider_error'||/^provider_http_\d{3}$/.test(code||'');
+  const uncounted=Boolean(analysis.cautious&&analysis.fallback&&outage(analysis.failure_code)&&outage(analysis.risk_check?.error_code));
   statements.push(stmt(env,`UPDATE chat_turns SET status='completed',credit_status='consumed',error_code=?,response=CASE WHEN EXISTS(SELECT 1 FROM cartographies WHERE user_id=? AND consent=1 AND locked_at IS NOT NULL AND ambre_notes=?) THEN ? ELSE ? END,lease_token=NULL,lease_until=0,input_tokens=?,output_tokens=?,observed_cost=? WHERE id=? AND ${guard}`,uncounted?UNCOUNTED_REPLY:null,userId,JSON.stringify(nextNotes),noted,envelope,job.input_tokens,job.output_tokens,job.cost,turn.id,...args));
   // A newly refused topic commits with the reply, even if the process stops before tracing.
   if(analysis.closed_topics?.length){

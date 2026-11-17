@@ -256,10 +256,10 @@ test('legacy traces remain explicitly unavailable and turn summaries are paginat
 
 test('cartography sources retain explicit feedback, negative answers, evidence and child-only limits',()=>{
  const context={people:[],events:[],sources:[],cartography:{locked_at:1,causes:[{id:'f1',label:'Vécu rapporté',intensity:1}],explicit_negative:[{id:'f2',label:'Vécu écarté'}],convergence:[{id:'o1',label:'Piste empirique',category:'tendency',relation_types:['empirical_association']}],recognized:[{id:'o1',label:'Piste empirique'},{id:'child',label:'Contexte du jeune enfant',contextual_only:true,note:'jeune_enfant',age_scope:'young_child_only',category:'diagnosis'}],dismissed:[{id:'o2',label:'Piste écartée',category:'schema'}],contextual:[{id:'hidden',label:'Repère contextuel masqué',contextual_only:true}],resources:[{id:'r1',label:'Adulte soutenant'}],evidence:[{id:'o1',links:[{factor_id:'f1',relation_type:'empirical_association',source_ids:['ref1'],summary:'Association observée dans des groupes.'}]}],evidence_sources:[{id:'ref1',url:'https://example.org/study',citation:'Étude vérifiable'}]}};
- const index=knowledgeIndex(context),outcome=index.find(x=>x.key==='cartography:outcome:o1'),child=index.find(x=>x.key==='cartography:outcome:child');assert.equal(outcome.metadata.feedback,'oui');assert.equal(index.find(x=>x.key==='cartography:outcome:o2').metadata.feedback,'non');assert.ok(index.some(x=>x.metadata?.explicit_negative));assert.ok(index.some(x=>x.kind==='resource'));assert.match(outcome.text,/empirical_association|Étude vérifiable/);assert.equal(child.metadata.age_scope,'young_child_only');assert.equal(child.metadata.contextual_only,true);
- // Plan v5.1: contextual subjects are no longer indexed; an old answer on one keeps its limits.
+ const index=knowledgeIndex(context),outcome=index.find(x=>x.key==='cartography:outcome:o1'),child=index.find(x=>x.key==='cartography:outcome:child');assert.equal(outcome.metadata.feedback,'oui');assert.equal(index.find(x=>x.key==='cartography:outcome:o2').metadata.feedback,'non');assert.ok(index.some(x=>x.metadata?.explicit_negative));assert.ok(index.some(x=>x.kind==='resource'));assert.match(outcome.text,/empirical_association|Étude vérifiable/);assert.equal(child,undefined,'v5 final review: an older answer on a hidden contextual subject stays stored but is no longer indexed');
+ // Plan v5.1: contextual subjects are no longer indexed.
  assert.equal(index.some(x=>x.key==='cartography:outcome:hidden'),false);
- assert.equal(selectDetails(index,[],'Bonjour').some(x=>x.key===child.key),false);assert.equal(selectDetails(index,[child.id],'Question sur ce cadre').find(x=>x.key===child.key).metadata.age_scope,'young_child_only');
+ assert.equal(selectDetails(index,[],'Bonjour').some(x=>x.key==='cartography:outcome:child'),false);
 });
 
 test('snapshot storage shares identical inputs and marks omissions instead of inventing exact content',()=>{
@@ -478,9 +478,9 @@ test('a long primary nuance remains whole in the source serializer without asser
  assert.equal(entry.metadata.evidence_summary,summary);assert.match(entry.metadata.evidence_summary,/foi elle-même.*emprise/);
 });
 
-test('contextual adult references keep their scope distinct from young-child-only entries',()=>{
- // Plan v5.1: contextual subjects leave the index; an old answer on one stays indexed with its scope.
+test('hidden contextual subjects never reach the index, even with an older answer',()=>{
+ // v5 final review: contextual subjects leave the index; an older answer on one stays stored but is not sent.
  assert.equal(knowledgeIndex({sources:[],people:[],events:[],cartography:{contextual:[{id:'adult_context',label:'Repère somatique',contextual_only:true,age_scope:'adult'}]}}).length,0);
  const index=knowledgeIndex({sources:[],people:[],events:[],cartography:{contextual:[],recognized:[{id:'adult_context',label:'Repère somatique',contextual_only:true,age_scope:'adult'}],dismissed:[{id:'child_context',label:'Attachement du jeune enfant',contextual_only:true,age_scope:'young_child_only'}]}});
- assert.match(index.find(x=>x.key==='cartography:outcome:adult_context').label,/^Reconnu/);assert.equal(index.find(x=>x.key==='cartography:outcome:adult_context').metadata.contextual_only,true);assert.doesNotMatch(index.find(x=>x.key==='cartography:outcome:adult_context').label,/Jeune enfant/);assert.match(index.find(x=>x.key==='cartography:outcome:child_context').label,/^Écarté/);assert.equal(index.find(x=>x.key==='cartography:outcome:child_context').metadata.age_scope,'young_child_only');
+ assert.equal(index.some(x=>/adult_context|child_context/.test(x.key)),false);
 });

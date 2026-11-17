@@ -138,12 +138,9 @@ export function computeCartography(answers,data=CARTOGRAPHIE,feedback={}){
  const aceCount=new Set((data.factors||[]).filter(f=>f.ace&&Object.hasOwn(level,f.id)).map(f=>{const group=(data.exclusive||[]).find(g=>g.includes(f.id));return group?group.join('|'):f.id;})).size;
  return {results,sections,aceCount,selectedCount:Object.keys(level).length};
 }
-// Recognized contextual subjects (older feedback) are no longer displayed, but the
-// person's own recognition keeps its evidence for Ambre.
-function recognizedContextualRows(answers,feedback,data){
- const {factors,outcomes}=index(data),level=answerLevels(answers,factors),weights=data.weights||{forte:3,moderee:2,limitee:1,theorique:1};
- return Object.keys(feedback||{}).filter(id=>feedback[id]==='oui'&&outcomes.get(id)?.contextual_only&&!outcomes.get(id).retired).sort().map(id=>({outcome:outcomes.get(id),links:sortLinks((data.links||[]).filter(l=>l.outcome===id&&Object.hasOwn(level,l.factor)),weights)})).filter(r=>r.links.length);
-}
+// Hidden subjects (contextual or retired): older feedback and notes stay stored and
+// valid, but are no longer sent to Ambre, since the page no longer shows them.
+const hiddenOutcome=o=>Boolean(o&&(o.retired||o.contextual_only));
 
 // Historical identifiers retain their original meaning for saved feedback and notes.
 function storedAmbreNotes(value,data=CARTOGRAPHIE){
@@ -159,7 +156,7 @@ export function chooseAmbreNotes(value,existing=[],data=CARTOGRAPHIE){
   if(!item||!AMBRE_TARGETS.includes(item.target)||typeof item.text!=='string')continue;
   const general=item.target==='general',known=item.target==='factor'?factors:outcomes;
   if(general?item.target_id!=null&&item.target_id!=='':typeof item.target_id!=='string'||!known.has(item.target_id))continue;
-  if(!general&&known.get(item.target_id).retired)continue;
+  if(!general&&item.target==='outcome'&&hiddenOutcome(known.get(item.target_id)))continue;
   const text=cleanText(item.text).replace(/\s+/g,' ');
   if(!fold(text)||text.length>AMBRE_NOTE_MAX_LENGTH)continue;
   const note={target:item.target,target_id:general?null:item.target_id,text};
@@ -205,7 +202,7 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
  const shortItem=r=>({id:r.outcome.id,label:r.outcome.label,section:r.section,max_strength:sectionItem(r).max_strength,...(r.frequent?{frequent:true}:{})});
  const sections={recognized:state.sections.recognized.map(sectionItem),top:state.sections.top.map(sectionItem),frequent:state.sections.frequent.map(sectionItem),other:state.sections.other.slice(0,SECTION_OTHER_MAX).map(shortItem),dismissed:state.sections.dismissed.map(shortItem)};
  const convergence=state.results.filter(r=>r.tier==='convergence'),pistes=state.results.filter(r=>r.tier==='piste'),tierOf=new Map(state.results.map(r=>[r.outcome.id,r.tier]));
- const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',...metadata(outcomes.get(id))}));
+ const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)&&!hiddenOutcome(outcomes.get(id))).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',...metadata(outcomes.get(id))}));
  const recognized=reported('oui'),dismissed=reported('non');
  const selectedConvergence=diverseResults(convergence,maxConvergence,feedback),selectedPistes=diverseResults(pistes,maxPistes,feedback);
  const exploratory=state.results.filter(r=>r.tier==='theorique'&&!r.outcome.contextual_only&&feedback[r.outcome.id]==='oui'),selectedExploratory=diverseResults(exploratory,maxPistes,feedback);
@@ -231,9 +228,9 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   selection_policy:{order:'public_display_order',ranking:'relevance_specificity_v5_strength_guard',sections:SECTION_ORDER,per_section_top:SECTION_TOP,contextual_hidden:true,recognized_selected_first:true,per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
   // The member's own words, attached to the cause or consequence they annotate.
   notes:[...Object.entries(notes?.factors||{}).filter(([id,text])=>factors.has(id)&&typeof text==='string').map(([id,text])=>({target:'factor',id,label:factors.get(id).label,text})),
-   ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text,...(outcomes.get(id).retired?{retired:true,contextual_only:true}:{})}))],
+   ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&!hiddenOutcome(outcomes.get(id))&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text}))],
   resources:Object.keys(resources||{}).filter(id=>protections.has(id)).map(id=>({id,label:protections.get(id).label})),
-  ambre_notes:storedAmbreNotes(ambreNotes,data).map(n=>({...n,...(n.target==='general'?{}:{label:(n.target==='factor'?factors:outcomes).get(n.target_id).label})}))
+  ambre_notes:storedAmbreNotes(ambreNotes,data).filter(n=>n.target!=='outcome'||!hiddenOutcome(outcomes.get(n.target_id))).map(n=>({...n,...(n.target==='general'?{}:{label:(n.target==='factor'?factors:outcomes).get(n.target_id).label})}))
  };
 }
 
@@ -272,7 +269,7 @@ export function cartographyPromptBlock(summary,budget=Infinity){
   display_order:(summary.display_order||[]).slice(),display_count:summary.display_count||0,
   sections:{top:(sections.top||[]).map(x=>x.id),frequent:(sections.frequent||[]).map(compact),other_count:summary.other_count??(sections.other||[]).length},
   contextual:[],exploratory:(summary.exploratory||[]).map(withoutUrl),evidence_sources:(summary.evidence_sources||[]).map(({url,...reference})=>reference),causes:(summary.causes||[]).slice(),
-  convergence:(summary.convergence||[]).map(withoutUrl),pistes:(summary.pistes||[]).map(withoutUrl),theorique_count:summary.theorique_count,recognized:summary.recognized||[],dismissed:summary.dismissed||[],suicide_recognized:Boolean(summary.suicide_recognized),truncated:Boolean(summary.truncated),
+  convergence:(summary.convergence||[]).map(withoutUrl),pistes:(summary.pistes||[]).map(withoutUrl),theorique_count:summary.theorique_count,recognized:(summary.recognized||[]).filter(x=>!hiddenOutcome(x)),dismissed:(summary.dismissed||[]).filter(x=>!hiddenOutcome(x)),suicide_recognized:false,truncated:Boolean(summary.truncated),
   evidence:(summary.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(summary.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(summary)};
  const size=()=>JSON.stringify(block).length;
  while(Number.isFinite(budget)&&size()>budget){
@@ -308,7 +305,8 @@ export function cartographyIndexEntries(summary){
  for(const name of SECTION_ORDER)for(const item of (sections[name]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});
  for(const list of ['convergence','pistes','exploratory','recognized','dismissed'])for(const item of (map[list]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});
  const dismissed=new Set((map.dismissed||[]).map(x=>x.id)),recognized=new Set((map.recognized||[]).map(x=>x.id));
- for(const item of [...outcomes.values()].slice(0,180)){
+ // Hidden subjects (contextual or retired) never reach the index, even from an older summary.
+ for(const item of [...outcomes.values()].filter(x=>!hiddenOutcome(x)&&x.note!=='jeune_enfant').slice(0,180)){
   const feedback=dismissed.has(item.id)?'non':recognized.has(item.id)?'oui':null;
   const evidence=(map.evidence||[]).find(x=>x.id===item.id),sourceIds=[...new Set((evidence?.links||[]).flatMap(link=>link.source_ids||[]))];
   const metadata={feedback,inference:'hypothesis_only',category:item.category||null,age_scope:item.age_scope||null,contextual_only:Boolean(item.contextual_only||item.note==='jeune_enfant'),note:item.note||null,relation_types:item.relation_types||evidence?.relation_types||[],source_ids:sourceIds,section:item.section||(feedback==='oui'?'recognized':feedback==='non'?'dismissed':null),...(item.frequent?{frequent:true}:{})};
@@ -321,7 +319,7 @@ export function cartographyIndexEntries(summary){
   push('cartography:outcome:'+item.id,'outcome',(feedback==='non'?'Écarté · ':feedback==='oui'?'Reconnu · ':metadata.age_scope==='young_child_only'?'Jeune enfant · ':metadata.contextual_only?'Repère contextuel · ':item.frequent&&item.section==='frequent'?'Fréquent · ':'Piste · ')+item.label,content,metadata);
  }
  for(const resource of (map.resources||[]).slice(0,80))push('cartography:resource:'+resource.id,'resource',resource.label,{...resource,reported:true});
- for(const [i,n] of [...(map.notes||[]),...(map.ambre_notes||[])].slice(0,140).entries())push('note:'+i,'note',n.label||n.target||'Note',n.text,{target:n.target,target_id:n.target_id||n.id||null});
+ for(const [i,n] of [...(map.notes||[]),...(map.ambre_notes||[])].filter(n=>!n.retired&&!n.contextual_only).slice(0,140).entries())push('note:'+i,'note',n.label||n.target||'Note',n.text,{target:n.target,target_id:n.target_id||n.id||null});
  return entries;
 }
 
@@ -351,7 +349,7 @@ export function cartographyView(row){
 export function cartographyEvidence(answers,feedback={},{data=CARTOGRAPHIE,budget=6000}={}){
  const {factors}=index(data),state=computeCartography(answers,data,feedback),evidence=[],sourceIndex=new Map((data.sources||[]).map(s=>[s.id,s])),usedSources=new Map();let truncated=false;
  const selected=new Set(diverseResults(state.results.filter(r=>r.tier==='convergence'),15,feedback).map(r=>r.outcome.id));
- const wanted=[...state.results,...recognizedContextualRows(answers,feedback,data)].filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||(!r.outcome.contextual_only&&selected.has(r.outcome.id)))).sort((a,b)=>Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui'));
+ const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||selected.has(r.outcome.id))).sort((a,b)=>Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui'));
  const collected=new Map();
  const evidenceItem=(r,links)=>({id:r.outcome.id,label:r.outcome.label,...(r.outcome.note?{note:r.outcome.note}:{}),...(r.outcome.age_scope?{age_scope:r.outcome.age_scope}:{}),...(r.outcome.contextual_only?{contextual_only:true}:{}),links});
  // One sourced link per subject before adding a second: a long first card must

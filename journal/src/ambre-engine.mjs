@@ -481,7 +481,7 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
        if(analysis.need==='listen')analysis.constraints=unique([...analysis.constraints,'no_advice']);
        analysis.sensitive_allowed=Boolean(ai.sensitive_allowed)&&analysis.risk==='none'&&!states.some(x=>['distress','rupture','shame','dissociation'].includes(x))&&!analysis.closed_topics.length&&!(memory.closed||[]).length&&!memory.closed_omitted&&!history.at(-1)?.assistant?.includes('?');
        Object.assign(analysis,analyzeChange(ai,{message:turn.content,analysis,context:snap.change.context,candidates}));
-      }catch(error){if(error.code==='stage_deferred')throw error;analysis.fallback=true;analysis.error_code=error.code==='output_limit'?'output_limit':'analysis_unavailable';analysisUsage=tokenUsage(error.usage||analysisUsage)}
+      }catch(error){if(error.code==='stage_deferred')throw error;analysis.fallback=true;analysis.error_code=error.code==='output_limit'?'output_limit':'analysis_unavailable';analysis.failure_code=error.refusal?'provider_refused':providerFailure(error);analysisUsage=tokenUsage(error.usage||analysisUsage)}
       analysis.usage=analysisUsage;
       // Deterministic clinical signals; the model may add a signal, never remove one.
       const previousJob=history.at(-1)?.id?await first(env,'SELECT analysis FROM chat_engine_jobs WHERE turn_id=? AND user_id=?',history.at(-1).id,job.user_id):null;

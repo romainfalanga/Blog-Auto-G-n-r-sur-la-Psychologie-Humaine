@@ -117,7 +117,9 @@ test('the bounded summary leaves room for different categories and records omiss
  assert.equal(summary.truncated,true);
  assert.ok(!cartographyHighlights(summary).some(x=>x.id==='context'));
  assert.ok(!cartographyEvidence({a:1,b:1},{},{data}).evidence.some(x=>x.id==='context'));
- assert.ok(cartographyEvidence({a:1,b:1},{context:'oui'},{data}).evidence.some(x=>x.id==='context'),'explicit recognition can be discussed as context, never an automatic suggestion');
+ // v5 (final review): an older recognition of a hidden (contextual) subject stays stored but is no longer sent to Ambre.
+ assert.ok(!cartographyEvidence({a:1,b:1},{context:'oui'},{data}).evidence.some(x=>x.id==='context'));
+ assert.ok(!summarizeCartography({a:1,b:1},{context:'oui'},{data}).recognized.some(x=>x.id==='context'));
 });
 
 test('explicit negative answers are preserved without becoming reported experiences',()=>{
@@ -135,19 +137,14 @@ test('explicit negative answers are preserved without becoming reported experien
 test('childhood diagnoses remain context and age restrictions survive recognition and evidence',()=>{
  const answers={negligence_emotionnelle:1,negligence_physique:1,soins_instables:2};
  const summary=summarizeCartography(answers,{icd_6b44:'oui'});
- // v5 (lot C5a): contextual subjects are no longer displayed nor listed for Ambre;
- // an older recognition keeps its markers and its evidence.
+ // v5 (final review): contextual subjects are neither displayed nor sent to Ambre;
+ // an older recognition stays stored (validated) but leaves the summary and the evidence.
  assert.deepEqual(summary.contextual,[]);
  assert.ok(!summary.display_order.some(o=>o.id==='icd_6b44'));
- const recognized=summary.recognized.find(o=>o.id==='icd_6b44');
- assert.ok(recognized.contextual_only);assert.equal(recognized.age_scope,'young_child_only');
+ assert.ok(!summary.recognized.some(o=>o.id==='icd_6b44'));
+ assert.deepEqual(validateCartography({answers,feedback:{icd_6b44:'oui'}},fail).feedback,{icd_6b44:'oui'});
  assert.ok(!cartographyHighlights(summary,100).some(o=>['icd_6b44','icd_6b45'].includes(o.id)));
- const evidence=cartographyEvidence(answers,{icd_6b44:'oui'});
- const entry=evidence.evidence.find(o=>o.id==='icd_6b44');
- assert.equal(entry.age_scope,'young_child_only');assert.equal(entry.contextual_only,true);
- assert.ok(entry.links.every(l=>Array.isArray(l.source_ids)&&l.relation_type&&typeof l.definitional==='boolean'));
- assert.ok(evidence.evidence_sources.length>0);
- for(const id of entry.links.flatMap(l=>l.source_ids))assert.ok(evidence.evidence_sources.some(s=>s.id===id&&s.url.startsWith('https://')));
+ assert.ok(!cartographyEvidence(answers,{icd_6b44:'oui'}).evidence.some(o=>o.id==='icd_6b44'));
 });
 
 test('public and backend agree for every factor pair, including explicit negatives',()=>{
@@ -178,9 +175,9 @@ test('retired identifiers survive validation and preserve meaning without sugges
  const automatic=[...summary.convergence,...summary.pistes,...summary.contextual,...summary.exploratory,...cartographyHighlights(summary,100)];
  const evidence=cartographyEvidence(answers,feedback).evidence;
  for(const old of CARTOGRAPHIE.retired_outcomes){
-  const recognized=summary.recognized.find(o=>o.id===old.id);
-  assert.equal(recognized.label,old.label);assert.equal(recognized.description,old.description);assert.ok(recognized.retired&&recognized.contextual_only);
-  assert.ok(summary.notes.some(n=>n.id===old.id&&n.retired));
+  // v5 (final review): stored and validated, but no longer sent to Ambre.
+  assert.ok(!summary.recognized.some(o=>o.id===old.id));
+  assert.ok(!summary.notes.some(n=>n.id===old.id));
   assert.ok(!automatic.some(o=>o.id===old.id));assert.ok(!evidence.some(o=>o.id===old.id));
   assert.deepEqual(chooseAmbreNotes([{target:'outcome',target_id:old.id,text:'Inférence nouvelle.'}]),[]);
  }
@@ -221,7 +218,7 @@ test('autosave keeps historical feedback and notes across real API validation',a
  r=await send(env,'/api/cartographie',{cookie:a.cookie});
  assert.equal(r.status,200);assert.deepEqual(r.cartographie.feedback,feedback);
  assert.ok(!r.summary.recognized.some(o=>['att_desorganisation_enfant','icd_6b81_boulimie'].includes(o.id)));
- assert.ok(r.summary.recognized.find(o=>o.id==='att_desorganise').retired);
+ assert.ok(!r.summary.recognized.some(o=>o.id==='att_desorganise'),'a retired recognition stays stored but is not sent to Ambre');assert.deepEqual(r.cartographie.notes,notes);
  env.DB.raw.close();
 });
 
@@ -283,7 +280,7 @@ test('the private context carries only a locked, consented map and tolerates a d
  saveRow(raw,'a',{answers:{[strongFactors[0]]:2,[strongFactors[1]]:1},feedback:{[suicide.id]:'oui'},version:4});
  saveRow(raw,'b',{answers:{[strongFactors[0]]:1},locked:false});
  const context=await loadContext(env,'a');
- assert.equal(context.cartography.version,4);assert.equal(context.cartography.cause_count,2);assert.equal(context.cartography.suicide_recognized,true);
+ assert.equal(context.cartography.version,4);assert.equal(context.cartography.cause_count,2);assert.equal(context.cartography.suicide_recognized,false,'an older recognition of a hidden suicide card is no longer sent');
  assert.ok(context.sources.every(s=>!String(s.id).startsWith('cartograph')),'the map is not a portrait source');
  assert.equal((await loadContext(env,'b')).cartography,null);
  assert.equal((await loadContext(env,'c')).cartography,null);
@@ -321,8 +318,8 @@ test('the welcome message invites to fill the map, then starts from a locked one
  assert.ok(state.welcome.content.includes('« '+recognized.label+' »'));
  assert.match(state.welcome.content,/Voulez-vous que nous commencions par/);
  assert.match(state.welcome.content,/pas un diagnostic/);
- assert.match(state.welcome.content,/3114/);
- assert.ok(!state.welcome.content.includes('commencions par « '+suicide.label));
+ // v5 (final review): the hidden suicide card no longer reaches Ambre; safety relies on the conversation.
+ assert.ok(!state.welcome.content.includes(suicide.label));
 });
 
 test('Ambre receives the locked map, its guidance and the research summaries of recognized or converging consequences',async t=>{

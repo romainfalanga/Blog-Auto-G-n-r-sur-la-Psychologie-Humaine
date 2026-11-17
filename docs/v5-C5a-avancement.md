@@ -74,3 +74,10 @@ Non bloquant, non fait : santé physique après les sujets psychologiques dans �
 - `cartographyIndexEntries` est branché par A5-P0 dans `ambre-engine.mjs` ; `cartographyWords` de `chat-backend.mjs` reste inutilisée (à retirer par A5).
 - Décisions du propriétaire (conception § 5) toujours ouvertes : acceptation de la baisse de dépression/anxiété en tête ; notes anciennes sur un sujet devenu invisible (laissées comme les sujets retirés : lues par Ambre, non visibles sur la page).
 - Points « à transmettre » ci-dessus pour C5b ; `content/cartographie.md` inchangé.
+
+## Relecture finale (coordinateur) — appliquée
+- Données sur des sujets masqués (contextuels ou retirés) : toujours stockées et validées, mais plus transmises à Ambre (exclues de `recognized`, `dismissed`, des notes de la personne et d'Ambre, des preuves, de l'index et du bloc ; `suicide_recognized` vaut toujours false) ; `chooseAmbreNotes` refuse ces sujets. Tests adaptés : `cartographie.test.mjs`, `ambre-engine.test.mjs` (contextuel avec ancien retour : plus indexé), `v5-C5a-cartographie.test.mjs`.
+- Phrase : « Classés selon la solidité des études et ce qui est le plus propre à vos réponses ; ce n'est pas une mesure de votre risque. »
+- Cibles tactiles ≥ 24 px (titres des replis, « Retirer », « Voir le détail ») ; pastilles et méta à 12 px.
+- Réponse prudente non décomptée seulement si le fournisseur a échoué aux deux étapes (`analysis.failure_code` enregistré par le moteur, codes délai/erreur/HTTP) ; test `journal/tests/v5-C5a-quota.test.mjs`.
+- `cartographyWords` retirée de `chat-backend.mjs`.
