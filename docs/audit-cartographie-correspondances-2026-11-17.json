@@ -31,10 +31,10 @@
   ]
  },
  "input_fingerprints": {
-  "cartography_core_sha256": "a2b1572f81f0ac0233e0aa5d3d41664df1b4fb4e3eba92aeb82739b218e61b69",
+  "cartography_core_sha256": "d9ab1373af12b3bdc9d3634d64115bc258d430b6f4b0aa7cd9effa4c80292308",
   "psychology_catalog_sha256": "6d88dee0c919c56a5c501f25735ae02f357c3822e6d58e5023723c89c5deb0c9",
   "clinical_catalog_sha256": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
-  "semantic_decisions_sha256": "2266f9f0b15325ec693d659db25d067602f3be621db834d689cfea8153be6897",
+  "semantic_decisions_sha256": "52bef3e6d4ca9f458c8001e5d48c9900b88bf3d71ff2ec962cf57b1abdc3b235",
   "reference_registry_sha256": "b576a52cae2aa1690363f633d0b01b48dc775596ed6771b5c7b9e131edd8bd79"
  },
  "counts": {
@@ -17099,9 +17099,9 @@
     "6A61"
    ],
    "domain": "humeur",
-   "link_count": 6,
+   "link_count": 5,
    "relation_types": {
-    "empirical_association": 6
+    "empirical_association": 5
    }
   },
   {
@@ -17303,7 +17303,7 @@
   {
    "id": "negligence_emotionnelle",
    "label": "Négligence affective",
-   "link_count": 37,
+   "link_count": 36,
    "mapped_psychology_patterns": []
   },
   {

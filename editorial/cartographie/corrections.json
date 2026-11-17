@@ -1674,9 +1674,8 @@
   {
    "factor": "negligence_emotionnelle",
    "outcome": "icd_6a60",
-   "strength": "limitee",
-   "summary": "Une méta-analyse de 7 études cas-témoins, fondées surtout sur des questionnaires rétrospectifs, trouve plus de négligence affective rapportée par les personnes ayant un trouble bipolaire que par des témoins sans trouble, mais des taux proches de ceux d'autres patients en psychiatrie. Types I et II réunis.",
-   "reason": "Relecture v5 du 19/11 (docs/relecture-cartographie-v5-2026-11-19.md) §7 (signalé à l’intégrateur) : même méta-analyse et même plan que la négligence matérielle ; aligné par cohérence à la demande du coordinateur."
+   "remove": true,
+   "reason": "Décision explicite du propriétaire du 17 novembre 2026 : ne pas afficher le lien entre négligence affective et troubles bipolaires, y compris avec la mention « preuves limitées ». Retrait de cette seule association du calcul, de l’interface et du contexte d’Ambre ; réponses et notes de la personne conservées."
   },
   {
    "factor": "parent_trouble",

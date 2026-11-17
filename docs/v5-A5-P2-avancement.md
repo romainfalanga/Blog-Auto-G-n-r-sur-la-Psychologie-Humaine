@@ -7,7 +7,8 @@
 - Point D1 avant migration : `000000a5-000006c9-00005126-72ff6de7275583f636ab438d8e1cdd08`. Migration 0024 appliquée une seule fois puis inscrite ; 24 migrations, aucune violation de clé étrangère.
 - Worker publié le 17 novembre à 11:55 UTC, identifiant `845db15084ec40f48ad98bae0b342f09`. Les 44 modules ont été relus après déploiement : zéro différence SHA-256. Les 7 liaisons, le secret `OPENROUTER_API_KEY` et le cron `* * * * *` sont conservés.
 - Netlify `6afc40c77420eb243264a72f`, ready, même commit de fusion, publié à 11:56:27 UTC.
-- La recette réelle avec comptes synthétiques est en cours ; les résultats et suppressions sont consignés dans la note finale de reprise. Le compte réel du propriétaire n’est jamais utilisé.
+- Recette réelle terminée pour les formulaires, export et Paramètres : six parcours à 1440/390 px, sans erreur JS ni débordement au dernier passage. Trois comptes supprimés, zéro reliquat dans 43 tables D1, aucune violation de clé étrangère. Le bilan et l’échange IA restent non vérifiés : démarrage bloqué par `provider_cooldown`, cause fournisseur `provider_http_402`. Aucun compte réel utilisé.
+- Le Worker du lot Cartographie suivant conserve ces formulaires : `fad51c8803c94152a88d508dfd8bfe8b`, 44 empreintes vérifiées. Voir la note de reprise pour le déploiement statique en cours.
 
 Les paragraphes de préparation ci-dessous sont historiques ; cet état courant fait foi.
 

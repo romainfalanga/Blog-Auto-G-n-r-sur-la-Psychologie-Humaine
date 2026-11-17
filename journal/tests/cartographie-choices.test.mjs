@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {createRequire} from 'node:module';
 import {readFileSync} from 'node:fs';
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
-import {validateCartography,computeCartography,summarizeCartography,cartographyPromptBlock,cartographyIndexEntries} from '../src/cartographie.mjs';
+import {validateCartography,computeCartography,summarizeCartography,cartographyPromptBlock,cartographyIndexEntries,cartographyEvidence} from '../src/cartographie.mjs';
 const require=createRequire(import.meta.url),publicPage=require('../../static/js/cartographie.js');
 const data=JSON.parse(readFileSync(new URL('../../data/cartographie.json',import.meta.url)));
 const fail=(status,message,code)=>{throw Object.assign(new Error(message),{status,code})};
@@ -42,4 +42,12 @@ test('the combined historical control retains its meaning and links without popu
  for(const value of [0,1,2,'unknown']){const answer=validateCartography({answers:{controle:value}},fail).answers;assert.deepEqual(answer,{controle:value});assert.equal(Object.hasOwn(answer,'parents_stricts'),false);assert.equal(Object.hasOwn(answer,'controle_psychologique'),false)}
  const summary=summarizeCartography({controle:2});assert.equal(summary.causes[0].historical,true);assert.match(summary.causes[0].interpretation,/ne pas attribuer/);assert.match(cartographyPromptBlock(summary).causes[0].label,/ancienne question combinée/);
  const separated={parents_stricts:2,controle_psychologique:1};assert.equal(computeCartography(separated).results.length,0);assert.ok(summarizeCartography(separated).causes.every(c=>c.interpretation.includes('aucune association scientifique')));assert.ok(data.links.every(l=>!old.replaced_by.includes(l.factor)));assert.equal(data.factors.filter(f=>f.group==='climat'&&!f.historical).length,14);
+});
+
+test('the declined emotional-neglect to bipolar association is absent without changing saved answers',()=>{
+ const answers={negligence_emotionnelle:2},validated=validateCartography({answers,notes:{factors:{negligence_emotionnelle:'Mes mots conservés.'},outcomes:{}}},fail);assert.deepEqual(validated.answers,answers);assert.equal(validated.notes.factors.negligence_emotionnelle,'Mes mots conservés.');
+ for(const graph of [data,CARTOGRAPHIE])assert.ok(!graph.links.some(l=>l.factor==='negligence_emotionnelle'&&l.outcome==='icd_6a60'));
+ assert.ok(!publicPage.compute(data,answers).results.some(r=>r.outcome.id==='icd_6a60'));assert.ok(!computeCartography(answers).results.some(r=>r.outcome.id==='icd_6a60'));
+ const summary=summarizeCartography(answers),block=cartographyPromptBlock({...summary,...cartographyEvidence(answers)}),entries=cartographyIndexEntries({...summary,...cartographyEvidence(answers)});assert.deepEqual(summary.causes.map(c=>c.id),['negligence_emotionnelle']);assert.ok(!JSON.stringify(block).includes('icd_6a60'));assert.ok(!entries.some(e=>e.key.includes('icd_6a60')));
+ assert.ok(CARTOGRAPHIE.links.some(l=>l.factor==='negligence_physique'&&l.outcome==='icd_6a60'),'other independently retained associations are unchanged');
 });

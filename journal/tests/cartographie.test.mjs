@@ -532,3 +532,14 @@ test('new choices survive API reload and export without migrating historical ans
  saved=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{...stale,version:1}});assert.equal(saved.status,200);assert.equal(saved.cartographie.answers.controle,2);assert.equal(saved.cartographie.answers.adoption,2);assert.equal(saved.cartographie.answers.parents_stricts,0);assert.equal(saved.cartographie.answers.controle_psychologique,'unknown');
  const exported=await send(env,'/api/export',{cookie:a.cookie});assert.deepEqual(exported.cartographie.answers,saved.cartographie.answers);assert.deepEqual(exported.cartographie.notes,original.notes);env.DB.raw.close();
 });
+
+test('the declined association stays absent from real saved-map endpoints and Ambre context',async()=>{
+ const env={DB:d1(migrated())},member=await register(env,'carto-declined-association@example.test');
+ try{
+  const answers={negligence_emotionnelle:2},notes={factors:{negligence_emotionnelle:'Précision conservée après retrait du lien.'},outcomes:{}};
+  const saved=await send(env,'/api/cartographie',{method:'PUT',cookie:member.cookie,data:{answers,notes,consent:true,locked:true,version:0}});assert.equal(saved.status,200);assert.deepEqual(saved.cartographie.answers,answers);
+  const read=await send(env,'/api/cartographie',{cookie:member.cookie});assert.equal(read.status,200);assert.deepEqual(read.cartographie.notes,notes);assert.ok(read.summary.display_count>0);assert.ok(!JSON.stringify(read.summary).includes('icd_6a60'));
+  const context=await loadContext(env,member.user.id);assert.deepEqual(context.cartography.causes.map(c=>c.id),['negligence_emotionnelle']);assert.ok(!JSON.stringify(context.cartography).includes('icd_6a60'),'no result, score, evidence or source selection transmits the declined association');
+  const exported=await send(env,'/api/export',{cookie:member.cookie});assert.deepEqual(exported.cartographie.answers,answers);assert.deepEqual(exported.cartographie.notes,notes);
+ }finally{env.DB.raw.close()}
+});

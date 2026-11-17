@@ -5119,16 +5119,6 @@
   },
   {
    "factor": "negligence_emotionnelle",
-   "outcome": "icd_6a60",
-   "strength": "limitee",
-   "relation_type": "empirical_association",
-   "summary": "Une méta-analyse de 7 études cas-témoins, fondées surtout sur des questionnaires rétrospectifs, trouve plus de négligence affective rapportée par les personnes ayant un trouble bipolaire que par des témoins sans trouble, mais des taux proches de ceux d'autres patients en psychiatrie. Types I et II réunis.",
-   "sources": [
-    "palmierclaus2016"
-   ]
-  },
-  {
-   "factor": "negligence_emotionnelle",
    "outcome": "icd_6b04",
    "strength": "limitee",
    "relation_type": "empirical_association",
@@ -9411,7 +9401,7 @@
    "att_evitant": 2464,
    "dep_generale": 852,
    "icd_6a20": 1754,
-   "icd_6a60": 2100,
+   "icd_6a60": 2262,
    "icd_6a72": 3784,
    "icd_6b01": 2262,
    "icd_6b02": 3784,
@@ -9827,7 +9817,7 @@
    "Comparaison DSM-5-TR diagnostic par diagnostic",
    "Populations, âges, méthodes et limites pour chaque lien",
    "Relecture clinique indépendante des correspondances sémantiques documentées, sans les transformer en liens causaux",
-   "Évaluation clinique indépendante des 518 liens, au-delà des contrôles de structure"
+   "Évaluation clinique indépendante des 517 liens, au-delà des contrôles de structure"
   ],
   "reference_registry": {
    "report": "editorial/cartographie/couverture-referentiels.json",
