@@ -51,3 +51,19 @@ for(const kind of ['initial','point'])test(`A5-P1 review cost ${kind}: writing w
  assert.ok(run.tokens<=ref*1.1);assert.ok(run.checkTokens<=3500);assert.ok(total<=ref*1.35);
  if(kind==='point')assert.ok(JSON.stringify(run.data.review_thread).length<=3000);
 });
+
+// A5-P2: every new text filled to its maximum; no larger context allocation or extra call.
+function fillP2(s){
+ const p=s.raw.prepare("SELECT self_data FROM profiles WHERE user_id='a'").get();
+ s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({...JSON.parse(p.self_data),what_brings_me:'Je cherche à comprendre. '.repeat(100).slice(0,2000),what_helps_me:'La marche me ressource. '.repeat(100).slice(0,2000),life_rhythm:'Je travaille de nuit. '.repeat(110).slice(0,2000)}));
+ s.raw.prepare("UPDATE personal_people SET bond_quality='ambivalent',presence_now='daily',feels_safe='yes',bond_note=?,helps=?,hurts=?,evolution=?").run('Nuance du lien '.repeat(30).slice(0,300),...Array(3).fill('Ce lien change selon les périodes. '.repeat(30).slice(0,600)));
+ s.raw.prepare("UPDATE life_events SET felt_then=?,felt_now=?,impact=?,support_level='some',support_text=?,exposure='witnessed'").run(...Array(3).fill('Ce moment compte dans ma vie. '.repeat(30).slice(0,600)),'Une personne a écouté. '.repeat(20).slice(0,300));
+}
+for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)test(`A5-P2 full optional fields ${strategy}/${label}: turn within +10 %`,async t=>{
+ const run=await replayTurn(message,{strategy,digests:true,extend:fillP2});assert.equal(run.stage,'done');
+ const sizes=Object.fromEntries(run.calls.map(c=>[c.purpose,c.tokens])),ref=REFERENCE[strategy][label];
+ t.diagnostic(JSON.stringify({sizes,total:sum(sizes),reference:sum(ref),ratio:+(sum(sizes)/sum(ref)).toFixed(3)}));
+ assert.equal(run.calls.length,3,'no extra provider call for forms');
+ for(const [purpose,tokens] of Object.entries(ref))assert.ok(sizes[purpose]<=tokens*1.1,`${purpose} ${sizes[purpose]} > ${tokens}*1.1`);
+ assert.ok(sum(sizes)<=sum(ref)*1.1);
+});

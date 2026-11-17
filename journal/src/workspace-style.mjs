@@ -92,7 +92,7 @@ input,textarea,select { border-color: var(--line); }
   margin: 0 0 21px;
   border-bottom: 1px solid var(--line);
 }
-#self-profile #self-reflection { padding-bottom: 0; margin-bottom: 0; border-bottom: 0; }
+#self-profile #self-context { padding-bottom: 0; margin-bottom: 0; border-bottom: 0; }
 #self-profile .profile-group-title {
   margin: 0;
   padding: 8px 0;
@@ -224,6 +224,12 @@ button.self-text-edit { flex: none; padding: 8px 14px; font-size: .875rem; }
 }
 .source-editor .form-grid .field { min-width: 0; }
 .source-editor .actions { gap: 8px; }
+.source-context { display: grid; gap: 12px; margin-top: 18px; }
+.source-context-row { min-width: 0; }
+.source-context-row h4 { margin: 0 0 3px; font-size: .8125rem; font-weight: 600; color: var(--muted); }
+.source-context-row p { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+.source-comparison { width: 100%; }
+.source-comparison p { white-space: pre-wrap; overflow-wrap: anywhere; }
 .people-directory { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; }
 .source-item {
   padding: 17px 18px;

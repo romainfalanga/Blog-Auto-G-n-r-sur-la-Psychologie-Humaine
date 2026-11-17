@@ -16,7 +16,7 @@ test('an empty chat welcomes without consent, provider call, turn, quota or priv
  let state=await s.call('/api/chat');assert.equal(state.consent,false);assert.equal(state.messages.length,0);assert.equal(state.welcome.id,'ambre-welcome-v9');assert.equal(state.welcome.role,'assistant');assert.equal(state.quota.used,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turns').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
  for(const page of ['Mon portrait','Mes proches','Ma ligne de vie'])assert.ok(state.welcome.content.includes(page));
  assert.match(state.welcome.content,/^Bonjour\. Je suis Ambre\. Mon rôle est de vous aider à comprendre ce que vous vivez/);assert.match(state.welcome.content,/analyse écrite/);assert.match(state.welcome.content,/Mes bilans/);
- assert.match(state.welcome.content,/un proche déjà ajouté, je peux en retenir automatiquement un repère/);
+ assert.match(state.welcome.content,/un proche déjà ajouté, je peux vous proposer un repère/);
  assert.match(state.welcome.content,/Qu’avez-vous envie de comprendre ou de changer en priorité \?/);
  assert.equal((state.welcome.content.match(/\?/g)||[]).length,1);
  s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Alix',self_description:'PRIVATE PROFILE VALUE'}));s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES('p','a','person','hash','PRIVATE NAME','friend','PRIVATE ACCOUNT')").run();
@@ -524,6 +524,12 @@ test('an accepted partial date correction removes obsolete dates and age fields'
  assert.deepEqual({...saved},{date_precision:'unknown',date_start:'',date_end:'',age_text:''});
 });
 
+async function acceptLatestObservation(s){
+ const state=await s.call('/api/chat'),proposal=state.proposals.find(p=>p.kind==='person_observation'&&p.status==='pending');
+ assert.ok(proposal,'a proposed observation awaits individual consent');
+ const result=await s.call('/api/chat/proposals/'+proposal.id+'/accept','POST',{revision:proposal.revision});
+ assert.equal(result.status,200,JSON.stringify(result));return proposal;
+}
 const observationPreferences='/api/people-observations/preferences';
 const milaObservations='/api/people/mila/observations';
 const milaQuote='Mila me laisse terminer quand nous parlons de nos désaccords.';
@@ -537,7 +543,7 @@ function observationReply(quote=milaQuote,person_id='mila',axis='communication')
  })},finish_reason:'stop'}]});
 }
 
-test('relation observations follow existing chat consent and are recallable, deduplicated, isolated and removable',async t=>{
+test('relation observations require individual acceptance and are recallable, deduplicated, isolated and removable',async t=>{
  const s=setup();addMila(s);
  assert.equal((await s.call(milaObservations)).enabled,false);
  assert.equal((await message(s,'notes_no_consent',milaQuote)).code,'consent_required');
@@ -553,10 +559,12 @@ test('relation observations follow existing chat consent and are recallable, ded
  assert.equal((await s.call('/api/chat')).people_observations_enabled,true);
  const savedTurn=await message(s,'notes_first',milaQuote);
  assert.equal(savedTurn.last_request.status,'completed');
- assert.equal(savedTurn.proposals.length,0);
+ assert.equal(savedTurn.proposals.length,1);
+ assert.deepEqual((await s.call(milaObservations)).observations,[]);
+ await acceptLatestObservation(s);
  assert.deepEqual(promptContexts.at(-1).observation_candidates,{person_id:'mila',quotes:[milaQuote]});
  const [note]= (await s.call(milaObservations)).observations;
- assert.deepEqual(note,{id:note.id,axis:'communication',quote:milaQuote,created_at:s.getClock()});
+ assert.deepEqual(note,{id:note.id,axis:'communication',quote:milaQuote,origin:'accepted',created_at:s.getClock()});
  assert.equal(s.raw.prepare("SELECT relationship_text FROM personal_people WHERE id='mila'").get().relationship_text,'Nous nous voyons chaque samedi.');
  assert.equal(s.raw.prepare("SELECT version FROM profiles WHERE user_id='a'").get().version,1);
  assert.equal((await s.call(milaObservations,'GET',undefined,'b')).status,404);
@@ -572,12 +580,12 @@ test('relation observations follow existing chat consent and are recallable, ded
  assert.equal((await message(s,'notes_first',milaQuote)).last_request.status,'completed');
  assert.deepEqual((await s.call(milaObservations)).observations,[]);
  assert.equal((await message(s,'new_example',quote)).last_request.status,'completed');
- assert.equal((await s.call(milaObservations)).observations.length,1);
+ assert.equal((await s.call(milaObservations)).observations.length,0);
  assert.equal((await s.call('/api/people/mila','DELETE',{revision:1})).status,200);
  assert.deepEqual((await s.personal.exportData(s.env,'a')).people_observations,[]);
 });
 
-test('an old refusal remains until a fresh chat agreement that includes automatic notes',async t=>{
+test('an old refusal remains until a fresh chat agreement permits proposals requiring acceptance',async t=>{
  const s=setup();addMila(s);
  s.raw.prepare('INSERT INTO chat_settings(user_id,consent,people_observations_enabled,people_observations_revision) VALUES(?,1,0,3)').run('a');
  const prompts=[];
@@ -596,10 +604,11 @@ test('an old refusal remains until a fresh chat agreement that includes automati
  assert.equal((await s.call('/api/chat')).people_observations_enabled,true);
  assert.equal((await message(s,'new_agreement',milaQuote)).last_request.status,'completed');
  assert.deepEqual(prompts.at(-1).observation_candidates,{person_id:'mila',quotes:[milaQuote]});
+ await acceptLatestObservation(s);
  assert.deepEqual((await s.call(milaObservations)).observations.map(note=>note.quote),[milaQuote]);
 });
 
-test('ambiguous, sensitive, opted-out or fabricated relation evidence never becomes an automatic note',async t=>{
+test('ambiguous, sensitive, opted-out or fabricated relation evidence never becomes a proposal',async t=>{
  const s=setup();addMila(s);await ready(s);
  let quote,personId='mila',candidates;
  withFetch(t,async (_url,{body})=>{
@@ -635,7 +644,7 @@ test('ambiguous, sensitive, opted-out or fabricated relation evidence never beco
   quote=source.split(/(?<=\.) /).at(-1);
   const result=await message(s,'note_'+key,source);
   assert.equal(result.last_request.status,'completed',key);
-  assert.equal(candidates,undefined,key);
+  assert.equal(candidates,undefined,key);assert.equal(result.proposals.length,0,key);
  }
  quote='Mila me demande de réfléchir ensemble à une pause.';
  assert.equal((await message(s,'bad_quote_1',milaQuote)).last_request.status,'completed');
@@ -667,11 +676,12 @@ test('ordinary first-hand relationship reports pass verbatim, including reported
   const result=await message(s,'ordinary_report_'+i,quote);
   assert.equal(result.last_request.status,'completed');
   assert.deepEqual(prompts.at(-1).observation_candidates,{person_id:person,quotes:[quote]});
+  await acceptLatestObservation(s);
   assert.ok((await s.call('/api/people/'+person+'/observations')).observations.some(note=>note.axis===axis&&note.quote===quote));
  }
 });
 
-test('withdrawal stops automatic notes and conversation deletion removes saved observations',async t=>{
+test('withdrawal stops pending proposals and conversation deletion removes saved observations',async t=>{
  const s=setup();addMila(s);await ready(s);
  const nextQuote='Mila me répond par écrit quand le ton monte.';
  let providerReady,finishProvider;
@@ -683,6 +693,7 @@ test('withdrawal stops automatic notes and conversation deletion removes saved o
   return observationReply();
  });
  assert.equal((await message(s,'notes_before_withdrawal',milaQuote)).last_request.status,'completed');
+ await acceptLatestObservation(s);
  assert.equal((await s.call(milaObservations)).observations.length,1);
  const tasks=[];
  const pending=await message(s,'notes_pending',nextQuote,{waitUntil:task=>tasks.push(task)});
@@ -711,6 +722,7 @@ test('withdrawal stops automatic notes and conversation deletion removes saved o
  assert.equal(s.raw.prepare("SELECT content FROM ambre_reviews WHERE id='seed-a'").get().content,'');
  s.raw.prepare("DELETE FROM ambre_reviews WHERE id='seed-a'").run();await ready(s);
  assert.equal((await message(s,'notes_after_purge',milaQuote)).last_request.status,'completed');
+ await acceptLatestObservation(s);
  assert.equal((await s.call(milaObservations)).observations.length,1);
 });
 
@@ -718,7 +730,7 @@ test('a changed observation revision blocks provider reservation after a note wa
  const s=setup();addMila(s);await ready(s);
  let calls=0;
  withFetch(t,async()=>{calls++;return observationReply();});
- await message(s,'seed_recalled_note',milaQuote);
+ await message(s,'seed_recalled_note',milaQuote);await acceptLatestObservation(s);
  const [note]=(await s.call(milaObservations)).observations;
  const originalPrepare=s.env.DB.prepare;
  s.env.DB.prepare=sql=>{
@@ -760,7 +772,7 @@ test('removing a note in flight prevents stale recall and writes while unrelated
    readPrompt(JSON.parse(JSON.parse(body).messages[1].content.replace(/^[^{]*/,'')));
    return providerPending;
   });
-  await message(s,'seed_recalled_note',milaQuote);
+  await message(s,'seed_recalled_note',milaQuote);await acceptLatestObservation(s);
   const [note]=(await s.call(milaObservations)).observations,tasks=[];
   const pending=await message(s,'recall_while_waiting',query,{waitUntil:task=>tasks.push(task)});
   assert.equal(pending.status,202);

@@ -84,6 +84,10 @@ export const SIGNAL_GUIDANCE={
  substance:'Consommations : écoute l’ambivalence sans jugement (entretien motivationnel) ; jamais de conseil d’arrêt brutal de l’alcool, des benzodiazépines ou d’un traitement sans médecin ; propose d’en parler à un médecin.',
  meta_ai:'Question sur ta nature ou votre relation : réponds honnêtement que tu es une IA sans sentiments ni vie propre, sans froideur, puis reviens à la personne ; jamais de déclaration d’attachement ni de promesse de présence permanente.',
  perpetrator:'La personne dit avoir été violente : reconnais la démarche sans minimiser ni justifier ; la sécurité des autres passe d’abord ; encourage un accompagnement par un professionnel ; 17 ou 112 si quelqu’un est en danger.',
+ // Lot A5-P2: declared in Mes proches ("not safe" or "not always safe" with the person named). The
+ // posture of lot S without announcing it: no alarm, no label of violence the person did not use.
+ unsafe_relation:'Dans Mes proches, la personne a indiqué ne pas se sentir (toujours) en sécurité avec ce proche : ne le dis pas et ne qualifie pas la relation ; crois-la ; jamais de conseil de confronter, de « parler calmement » à ce proche, de menacer de partir ni de rompre en sa présence ; sa sécurité d’abord, protection seulement si elle le souhaite. Si elle évoque peur, contrôle ou violence : 17 ou 112 en danger immédiat',
+ unsafe_partner:'Dans le couple, le 3919 (gratuit, 24 h/24, pas un numéro d’urgence) peut être proposé si elle évoque peur, contrôle ou violence.',
  declined:'La personne a refusé plusieurs propositions : reviens à l’écoute, aucune méthode ni exercice, demande ce qui lui serait utile.',
  repair_followup:'Le tour précédent réparait une incompréhension : aucune méthode ni exercice ; si la personne ne l’a pas fait, vérifie légèrement que l’échange lui convient.'
 };
@@ -96,7 +100,7 @@ const IDENTITY_FIX=/\b(?:changer|corriger|guerir|soigner|reprimer|surmonter) (?:
 const ABRUPT_STOP=/\b(?:arretez|arreter) (?:net|du jour au lendemain|d un coup|brutalement|immediatement) (?:l alcool|de boire|les benzo\w*|vos medicaments|votre traitement|les anxiolytiques)\b|\b(?:arretez|stoppez) (?:tout de suite )?(?:l alcool|de boire|les benzo\w*|votre traitement)\b/;
 export function signalReview(content,signals={}){
  const t=fold(content),failed=[];
- if((signals.ipv&&signals.ipv!=='none')&&CONFRONT.test(t))failed.push(2);
+ if((signals.ipv&&signals.ipv!=='none'||signals.unsafe_relation)&&CONFRONT.test(t))failed.push(2);
  if(signals.eating&&NUMBERS_EATING.test(t))failed.push(2);
  if(ATTACHMENT.test(t))failed.push(15);
  if(APPROVAL.test(t))failed.push(11);
@@ -137,7 +141,7 @@ export function clinicalSignals(message,{identity,history=[],plan,memory={}}={})
  signals.reality_count=Number(memory.reality_count)||0;
  return signals;
 }
-export const anySignal=signals=>Boolean(signals&&(signals.ipv!=='none'||signals.reality!=='none'||signals.eating||signals.minor||signals.intrusive||signals.substance||signals.meta_ai||signals.perpetrator||signals.declined_streak>=2||signals.repair_followup));
+export const anySignal=signals=>Boolean(signals&&(signals.ipv!=='none'||signals.reality!=='none'||signals.eating||signals.minor||signals.intrusive||signals.substance||signals.meta_ai||signals.perpetrator||signals.unsafe_relation||signals.declined_streak>=2||signals.repair_followup));
 // Merge model-proposed signals into deterministic ones: the model may add, never remove.
 const IPV_RANK=['none','control','physical','severe'];
 export function mergeSignals(base,model={}){
@@ -153,6 +157,7 @@ export function signalGuidance(signals){
  if(signals.ipv&&signals.ipv!=='none')lines.push(SIGNAL_GUIDANCE.ipv,...(signals.ipv==='severe'?[SIGNAL_GUIDANCE.ipv_severe]:[]));
  if(signals.reality&&signals.reality!=='none')lines.push(SIGNAL_GUIDANCE.reality,...(signals.reality_count>=3?[SIGNAL_GUIDANCE.reality_repeated]:[]));
  for(const key of ['eating','minor','intrusive','substance','meta_ai','perpetrator'])if(signals[key])lines.push(SIGNAL_GUIDANCE[key]);
+ if(signals.unsafe_relation)lines.push(SIGNAL_GUIDANCE.unsafe_relation+'.',...(signals.unsafe_relation.relation==='partner'?[SIGNAL_GUIDANCE.unsafe_partner]:[]));
  if(signals.declined_streak>=2)lines.push(SIGNAL_GUIDANCE.declined);
  if(signals.repair_followup)lines.push(SIGNAL_GUIDANCE.repair_followup);
  return lines.length?'\nSignaux de ce tour :\n- '+lines.join('\n- '):'';

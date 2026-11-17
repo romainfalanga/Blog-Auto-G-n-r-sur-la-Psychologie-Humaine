@@ -5,6 +5,7 @@ import {createPeopleObservationApi} from './people-observations.mjs';
 import {PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 import {REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily} from './provider-access.mjs';
 import {loadContext,hasPersonalizationSources,validatePortraitV2,contextHash} from './private-context.mjs';
+import {PERSON_CHOICES,PERSON_TEXTS,EVENT_CHOICES,EVENT_TEXTS,PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,SELF_P2_MAX,contextFieldsReady} from './context-fields.mjs';
 export {hasPersonalizationSources,validatePortraitV2};
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const LEGACY_LANGUAGE_DIAGNOSTIC=JSON.stringify({analysis_version:3,rejected:true,failed_paths:['contract.language']});
@@ -33,7 +34,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const string=(v,max=80)=>text(v??'',max);
  const revision=data=>{if(!Number.isInteger(data.revision)||data.revision<1)fail(400,'La révision actuelle est requise.','revision_required');return data.revision;};
  const creation=data=>{const id=string(data.creation_id,120);if(!/^[A-Za-z0-9_-]{8,120}$/.test(id))fail(400,'Identifiant de création requis.','creation_id_required');return id;};
- function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');return p;}
+ function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');optionalFields(p,data,PERSON_CHOICES,PERSON_TEXTS);return p;}
  function eventData(data){const e={title:string(data.title,160),kind:choices(data.kind??'other',['difficult','positive','turning_point','ambivalent','other'],'Type'),description:string(data.description,6000),meaning_now:string(data.meaning_now,2000),date_precision:choices(data.date_precision??'unknown',['unknown','year','month','day','range','age'],'Précision de date'),date_start:string(data.date_start,10),date_end:string(data.date_end,10),age_text:string(data.age_text,80),current_importance:data.current_importance??null};
  if(['unknown','age'].includes(e.date_precision)){e.date_start='';e.date_end='';}
  if(e.date_precision!=='range')e.date_end='';
@@ -44,13 +45,20 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  if(e.date_start&&!validDate(e.date_start)||e.date_end&&!validDate(e.date_end))fail(400,'Date partielle invalide.','invalid_date');
  const lengths={year:4,month:7,day:10};if(lengths[e.date_precision]&&e.date_start.length!==lengths[e.date_precision]||e.date_precision==='range'&&(!e.date_start||!e.date_end||e.date_start>e.date_end)||e.date_precision==='age'&&!e.age_text)fail(400,'La date ne correspond pas à sa précision.','invalid_date');
  if(!Array.isArray(data.people_ids??[])||(data.people_ids??[]).length>10||(data.people_ids??[]).some(id=>typeof id!=='string'||id.length>120))fail(400,'Associations invalides.','invalid_people');
- e.people_ids=[...new Set(data.people_ids??[])].sort();return e;}
+ optionalFields(e,data,EVENT_CHOICES,EVENT_TEXTS);e.people_ids=[...new Set(data.people_ids??[])].sort();return e;}
+ // Lot A5-P2: optional fields are kept only when supplied, so that a record (and its payload hash)
+ // written without them is unchanged, and a proposal that does not carry them never resets them.
+ function optionalFields(out,data,choiceLists,texts){
+  for(const [key,list] of Object.entries(choiceLists))if(Object.hasOwn(data,key)){const value=data[key]??'';if(typeof value!=='string'||value!==''&&!Object.hasOwn(list,value))fail(400,'Choix invalide.','invalid_input');out[key]=value;}
+  for(const [key,max] of Object.entries(texts))if(Object.hasOwn(data,key)){if(data[key]!=null&&typeof data[key]!=='string')fail(400,'Texte attendu.','invalid_input');if(String(data[key]??'').trim().length>max)fail(400,'Texte trop long.','invalid_input');out[key]=string(data[key],max);}
+ }
  const narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
- const selfFields=['first_name','last_name','birth_date','gender','gender_description',...narrativeKeys,'occupation'];
- const selfSql="EXISTS(SELECT 1 FROM json_each(p.self_data) sp WHERE sp.key IN ('self_description','self_perception','recurring_patterns','emotions','current_context') AND trim(sp.value)!='')";
+ const selfFields=['first_name','last_name','birth_date','gender','gender_description',...narrativeKeys,'occupation',...SELF_P2_FIELDS];
+ // Lot A5-P2: "what brings me", "what helps me" and "my rhythm of life" are personal accounts too.
+ const selfSql="EXISTS(SELECT 1 FROM json_each(p.self_data) sp WHERE sp.key IN ('self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm') AND trim(sp.value)!='')";
  function validateSelfPatch(data,existing={}) {
    const profile={...existing};
-   for(const key of selfFields)if(Object.hasOwn(data,key)){if(typeof data[key]!=='string')fail(400,'Texte attendu.','invalid_input');const max=key==='self_description'?10000:narrativeKeys.includes(key)||key==='occupation'?4000:key==='birth_date'?10:['first_name','last_name'].includes(key)?100:key==='gender_description'?200:40; if(data[key].length>max)fail(400,'Texte trop long.','invalid_input');profile[key]=data[key].trim();}
+   for(const key of selfFields)if(Object.hasOwn(data,key)){if(typeof data[key]!=='string')fail(400,'Texte attendu.','invalid_input');const max=key==='self_description'?10000:narrativeKeys.includes(key)||key==='occupation'?4000:SELF_P2_FIELDS.includes(key)?SELF_P2_MAX:key==='birth_date'?10:['first_name','last_name'].includes(key)?100:key==='gender_description'?200:40; if(data[key].length>max)fail(400,'Texte trop long.','invalid_input');profile[key]=data[key].trim();}
    if(profile.gender&&!['female','male','non_binary','self_described','unspecified'].includes(profile.gender))fail(400,'Genre invalide.','invalid_input');
    if(profile.birth_date&&(!/^\d{4}-\d{2}-\d{2}$/.test(profile.birth_date)||!Number.isFinite(Date.parse(profile.birth_date))||new Date(profile.birth_date).toISOString().slice(0,10)!==profile.birth_date||profile.birth_date>new Date().toISOString().slice(0,10)||profile.birth_date<'0001-01-01'))fail(400,'Date de naissance invalide.','invalid_date');
    return profile;
@@ -82,10 +90,13 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    rows=anchor?await all(env,`SELECT * FROM life_events WHERE user_id=? AND (${dateOrder}<? OR (${dateOrder}=? AND id>?)) ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,anchor.sort_date,anchor.sort_date,anchor.id,limit+1):await all(env,`SELECT * FROM life_events WHERE user_id=? ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,limit+1);
   }
   const more=rows.length>limit,items=await Promise.all(rows.slice(0,limit).map(transform));
-  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id)});
+  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id),fields_ready:await contextFieldsReady(env)});
  }
  if(!['POST','PATCH','DELETE'].includes(method)||method==='POST'&&id||method!=='POST'&&!id)fail(405,'Méthode non autorisée.','method_not_allowed');
  const data=await body(request,45000);let prior=null,expected=null;
+ // Lot A5-P2: before migration 0024 the new optional fields cannot be stored. Empty values are
+ // dropped silently (an older form state); a filled one is refused rather than lost.
+ if(!await contextFieldsReady(env))for(const key of isPerson?PERSON_P2_FIELDS:EVENT_P2_FIELDS)if(Object.hasOwn(data,key)){if(data[key]!=null&&data[key]!=='')fail(503,'Ces nouvelles rubriques ne sont pas encore disponibles. Le reste peut être enregistré.','feature_unavailable');delete data[key];}
  if(id){prior=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!prior)fail(404,'Élément introuvable.','not_found');expected=revision(data);if(expected!==prior.revision)fail(409,'Cet élément a été modifié dans un autre onglet.','revision_conflict');}
  if(method==='DELETE'){
  const statements=[stmt(env,`DELETE FROM ${table} WHERE id=? AND user_id=? AND revision=?`,id,user.id,expected),bump(env,user.id)];
@@ -124,7 +135,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   if(!row)fail(401,'Compte introuvable.','account_missing');
   const self=parse(row.self_data),hasValue=key=>typeof self[key]==='string'&&Boolean(self[key].trim());
   const memoryLength=String(row.memory_text||'').length,remaining=Math.max(0,10000-memoryLength-(memoryLength?2:0));
-  return {source_version:row.version,profile:{has_information:selfFields.some(hasValue),has_description:narrativeKeys.some(hasValue),first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):''},
+  return {source_version:row.version,profile:{has_information:selfFields.some(hasValue),has_description:[...narrativeKeys,...SELF_P2_FIELDS].some(hasValue),first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):''},
    self_profile_patch:{allowed:true},memory_append:{allowed:remaining>0,remaining_characters:remaining,max_characters:2000},
    person_create:{allowed:row.people_count<50,count:row.people_count,limit:50},person_update:{allowed:row.people_count>0,count:row.people_count},
    life_event_create:{allowed:row.events_count<500,count:row.events_count,limit:500},life_event_update:{allowed:row.events_count>0,count:row.events_count},reading_lookup:{allowed:true}};
