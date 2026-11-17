@@ -7,6 +7,7 @@ test('legacy page redirects drop retired identifiers and retain public article o
   const { default: redirect } = await import('../netlify/edge-functions/legacy-private-pages.js');
   const base = 'https://decodetonesprit.fr';
   const config = readFileSync(join(__dirname, '../netlify.toml'), 'utf8');
+  assert.ok(!config.split('[[redirects]]').slice(1).some(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block)), 'The home page must remain available beside the Ambre launcher');
   const [, pattern] = config.match(/pattern = "([^"]+)"\s+function = "legacy-private-pages"/);
   const route = new RegExp('^(?:' + pattern + ')$');
   assert.equal(route.test('/personnages/camille/'), false);
@@ -25,6 +26,9 @@ test('legacy page redirects drop retired identifiers and retain public article o
     assert.equal(response.status, 302, path);
     assert.equal(response.headers.get('Location'), location, path);
     assert.equal(response.headers.get('Cache-Control'), 'private, no-store', path);
+  }
+  for (const path of ['/', '/cartographie/', '/personnages/camille/', '/mon-compte/', '/posts/example/', '/journalisme/']) {
+    assert.equal(redirect(new Request(base + path)), undefined, 'Unrelated pages must never redirect: ' + path);
   }
   const request = new Request(base + '/mon-personnage', { method: 'POST' });
   assert.equal(redirect(request), undefined);

@@ -69,12 +69,7 @@
   [headers.values]
     Cache-Control = "private, no-store"
 
-# Le site s’ouvre sur Ambre ; le catalogue des personnages reste à /personnages/.
-[[redirects]]
-  from = "/"
-  to = "/mon-accompagnement/"
-  status = 302
-  force = true
+# L’accueil public reste accessible ; Ambre s’ouvre depuis la bulle de conversation.
 
 [[redirects]]
   from = "/mes-bilans"

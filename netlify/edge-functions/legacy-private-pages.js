@@ -2,6 +2,8 @@ export default function legacyPrivatePages(request) {
   if (request.method !== 'GET' && request.method !== 'HEAD') return;
 
   const url = new URL(request.url);
+  // Also guard the handler itself: an Edge route must never redirect the home page.
+  if (!/^\/(?:mon-personnage|mes-personnages|mes-histoires|journal)(?:\/|$)/.test(url.pathname)) return;
   let location = '/mon-accompagnement/';
   if (/^\/journal(?:\/|$)/.test(url.pathname)) {
     const query = url.searchParams;
