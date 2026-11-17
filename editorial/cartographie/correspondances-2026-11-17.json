@@ -3635,11 +3635,11 @@
   "final_validation": {
     "status": "passed",
     "reviewed_on": "2026-11-17",
-    "graph_core_sha256": "a2b1572f81f0ac0233e0aa5d3d41664df1b4fb4e3eba92aeb82739b218e61b69",
+    "graph_core_sha256": "d9ab1373af12b3bdc9d3634d64115bc258d430b6f4b0aa7cd9effa4c80292308",
     "active_factors": 60,
     "active_outcomes": 113,
     "resources": 11,
-    "links": 518,
+    "links": 517,
     "sources": 272,
     "retired_outcomes": 3,
     "all_semantic_targets_exist": true,
@@ -3653,11 +3653,12 @@
     "does_not_validate_clinical_criteria_or_causality": true,
     "post_integration_delta_independently_reviewed": true,
     "revalidated_on": "2026-11-17",
-    "revalidated_by": "independent_cartography_choices_review",
+    "revalidated_by": "independent_refused_link_review",
     "v4_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v4-2026-11-18.md)",
     "v5_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v5-2026-11-19.md §8) : 4 sujets ajoutés, 22 liens limités, 8 liens existants corrigés, aucun sujet existant retiré ni renommé hors pat_social_isolation (libellé seulement)",
     "historical_factors": 1,
-    "questionnaire_delta_independent_review": "Accepté : 79 tests et 7 parcours navigateur ; 518 liens, 272 sources et 113 sujets inchangés. Relecture limitée aux réponses incertaines, choix binaires et conservation historique du contrôle ; aucune nouvelle validation clinique de tous les liens."
+    "questionnaire_delta_independent_review": "Accepté : 79 tests et 7 parcours navigateur ; 518 liens, 272 sources et 113 sujets inchangés. Relecture limitée aux réponses incertaines, choix binaires et conservation historique du contrôle ; aucune nouvelle validation clinique de tous les liens.",
+    "refused_link_delta_independent_review": "Accepté : retrait unique negligence_emotionnelle → icd_6a60 à la demande du propriétaire ; 517 autres liens identiques, réponses et notes conservées. 60 tests puis 7 tests finaux réussis. Spécificité de icd_6a60 recalculée par le même algorithme de 2100 à 2262. Pas de nouvelle revue clinique globale."
   },
   "post_integration_reviews": [
     {
@@ -3861,6 +3862,28 @@
         "controle historique intact ; 2 questions nouvelles sans liens et sans copie des anciennes réponses"
       ],
       "links_sources_outcomes_unchanged": true,
+      "clinical_rereview_of_all_links": false
+    },
+    {
+      "reviewed_by": "independent_refused_link_review",
+      "reviewed_on": "2026-11-17",
+      "previous_graph_core_sha256": "a2b1572f81f0ac0233e0aa5d3d41664df1b4fb4e3eba92aeb82739b218e61b69",
+      "validated_graph_core_sha256": "d9ab1373af12b3bdc9d3634d64115bc258d430b6f4b0aa7cd9effa4c80292308",
+      "report": "docs/cartographie-choix-2026-11-17.md",
+      "scope": "Retrait de la seule association dont le propriétaire refuse l’affichage.",
+      "removed_link": {
+        "factor": "negligence_emotionnelle",
+        "outcome": "icd_6a60"
+      },
+      "remaining_517_links_identical": true,
+      "answers_and_notes_preserved": true,
+      "sources_outcomes_factors_identical": true,
+      "derived_specificity_change": {
+        "outcome": "icd_6a60",
+        "before": 2100,
+        "after": 2262,
+        "algorithm_changed": false
+      },
       "clinical_rereview_of_all_links": false
     }
   ]

@@ -22,7 +22,7 @@ test('accepted subjects and links are present, all limited; refused ones are abs
 
 test('corrections of existing links and descriptions follow the review', () => {
   assert.equal(link('negligence_physique', 'icd_6a60').strength, 'limitee');
-  assert.equal(link('negligence_emotionnelle', 'icd_6a60').strength, 'limitee');
+  assert.equal(link('negligence_emotionnelle', 'icd_6a60'), undefined, 'the owner declined displaying this association, including as limited evidence');
   assert.equal(link('parent_trouble', 'icd_6b05').strength, 'moderee');
   assert.deepEqual(link('harcelement', 'icd_6b04').sources.slice().sort(), ['deng2024_anxiete_sociale', 'gonzalez2017']);
   for (const o of ['anx_generale', 'dep_generale']) assert.ok(link('traumatisme_ponctuel', o).sources.includes('rubens2018_catastrophes'));
