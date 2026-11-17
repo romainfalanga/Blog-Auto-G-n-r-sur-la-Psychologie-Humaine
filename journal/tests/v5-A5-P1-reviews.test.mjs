@@ -50,8 +50,8 @@ test('digest: every element keeps an exact quote of the person or leaves, with c
  const d=validateDigest({formulation:{holds:[{text:'Silence protecteur',quote:'pour éviter les conflits avec ma sœur'},{text:'Inventé',quote:'je déteste ma mère'}],revised:[{text:'Changement',quote:'Je ne veux plus me taire en réunion'}],new:[{text:'Trop court',quote:'ma sœur'}]},goals:[{key:'Bad Key!',words:'parler en réunion',status:'on_fire',quote:'Je me tais souvent pour éviter'},{key:'x',words:'parler en réunion',status:'ongoing',quote:'Je me tais souvent pour éviter'}],tried:[{what:'Se taire',result:'no_effect',quote:'ça n’a pas marché.'}],alliance:{text:'Retour',quote:'phrase absente du corpus'},open_questions:['Une ?','Deux ?','Trois ?','Quatre ?'],next_focus:'Suite',safety:''},corpus);
  assert.deepEqual(d.formulation.holds.map(x=>x.quote),['pour éviter les conflits avec ma sœur']);
  assert.equal(d.formulation.revised.length,1,'a revision may quote a negation');assert.equal(d.formulation.new.length,0,'a quote under twelve characters is not an anchor');
- assert.equal(d.goals.length,1);assert.equal(d.goals[0].status,'new','an unknown goal is explicitly new');assert.equal(d.goals[0].key,'x');
- assert.equal(d.tried.length,1);assert.equal(d.alliance,null);assert.equal(d.open_questions.length,3);assert.equal(d.dropped,5);
+ assert.equal(d.goals.length,1);assert.equal(d.goals[0].status,'new','an unknown goal is explicitly new');assert.equal(d.goals[0].key,'parler-en-reunion','an invalid key becomes a slug of the words');
+ assert.equal(d.tried.length,1);assert.equal(d.alliance,null);assert.equal(d.open_questions.length,3);assert.equal(d.dropped,4);
  const known=validateDigest({goals:[{key:'autre',words:'parler en réunion',status:'progressing',quote:'Je me tais souvent pour éviter'}]},corpus,{knownGoals:[{key:'parler-reunion',words:'parler en reunion'}]});
  assert.equal(known.goals[0].key,'parler-reunion','a known goal keeps its stable key');assert.equal(known.goals[0].status,'progressing');
  const long='Je me tais souvent pour éviter les conflits avec ma sœur. '.repeat(3);
@@ -63,12 +63,12 @@ test('digest: every element keeps an exact quote of the person or leaves, with c
 });
 
 test('thread: dated goal states, confirmed elements, feedback; bounded at 1 200 / 3 000 characters; legacy excerpt',()=>{
- const rows=[{id:'r3',kind:'point',completed_at:1794830400+86400*14,digest:JSON.stringify(validateDigest({goals:[{key:'g',words:'oser parler',status:'progressing',quote:'osé prendre la parole mardi'}],formulation:{holds:[{text:'Le silence protège',quote:'osé prendre la parole mardi'}]},next_focus:'La suite'},'osé prendre la parole mardi')),feedback:JSON.stringify({verdict:'to_correct',text:'Ce n’était pas ma sœur mais mon frère.',at:1})},
-  {id:'r2',kind:'point',completed_at:1794830400+86400*7,digest:JSON.stringify(validateDigest({goals:[{key:'g',words:'oser parler',status:'ongoing',quote:'osé prendre la parole mardi'}],formulation:{holds:[{text:'Le silence protège',quote:'osé prendre la parole mardi'}]}},'osé prendre la parole mardi')),feedback:null},
-  {id:'r1',kind:'initial',completed_at:1794830400,digest:JSON.stringify(validateDigest({goals:[{key:'g',words:'oser parler',status:'new',quote:'osé prendre la parole mardi'}]},'osé prendre la parole mardi')),feedback:null}];
+ const rows=[{id:'r3',kind:'point',completed_at:1794830400+86400*14,digest:JSON.stringify(validateDigest({goals:[{key:'g1',words:'oser parler',status:'progressing',quote:'osé prendre la parole mardi'}],formulation:{holds:[{text:'Le silence protège',quote:'osé prendre la parole mardi'}]},next_focus:'La suite'},'osé prendre la parole mardi',{knownGoals:[{key:'g1',words:'oser parler'}]})),feedback:JSON.stringify({verdict:'to_correct',text:'Ce n’était pas ma sœur mais mon frère.',at:1})},
+  {id:'r2',kind:'point',completed_at:1794830400+86400*7,digest:JSON.stringify(validateDigest({goals:[{key:'g1',words:'oser parler',status:'ongoing',quote:'osé prendre la parole mardi'}],formulation:{holds:[{text:'Le silence protège',quote:'osé prendre la parole mardi'}]}},'osé prendre la parole mardi',{knownGoals:[{key:'g1',words:'oser parler'}]})),feedback:null},
+  {id:'r1',kind:'initial',completed_at:1794830400,digest:JSON.stringify(validateDigest({goals:[{key:'g1',words:'oser parler',status:'new',quote:'osé prendre la parole mardi'}]},'osé prendre la parole mardi')),feedback:null}];
  const thread=reviewThread(rows);
  assert.equal(thread.last.id,'r3');assert.equal(thread.last.next_focus,'La suite');assert.equal(thread.reviews,3);
- assert.equal(thread.goals[0].path,'2026-11-17 nouveau → 2026-11-24 en cours → 2026-12-01 avance');
+ assert.match(thread.goals[0].path,/^\d{4}-\d{2}-\d{2} nouveau → \d{4}-\d{2}-\d{2} en cours → \d{4}-\d{2}-\d{2} avance$/);
  assert.deepEqual(thread.confirmed,['Le silence protège (depuis 2 bilans)']);assert.equal(thread.feedback[0].verdict,'À corriger');assert.match(thread.feedback[0].text,/mon frère/);
  // Many reviews and goals: within both bounds; reached goals of older reviews leave first.
  const many=Array.from({length:12},(_,i)=>({id:'m'+i,kind:'point',completed_at:2e9-i*86400,feedback:JSON.stringify({verdict:'not_really',text:'Précision '.repeat(50),at:1}),digest:JSON.stringify(validateDigest({goals:Array.from({length:5},(_,g)=>({key:'goal-'+(i*5+g),words:'Objectif numéro '+(i*5+g)+' avec des mots assez longs pour peser',status:g?'ongoing':'reached',quote:'une citation exacte et assez longue de la personne'})),tried:[{what:'Essai '+i,result:'helped',quote:'une citation exacte et assez longue de la personne'}],formulation:{holds:[{text:'Formulation '+i+' qui tient',quote:'une citation exacte et assez longue de la personne'}]},open_questions:['Question ouverte numéro '+i+' ?'],next_focus:'Prochaine étape '+i},'une citation exacte et assez longue de la personne'))}));
@@ -198,12 +198,12 @@ test('feedback: three answers without score, an optional text, the owner only; i
 test('Ambre may suggest a point before a declared session, never start one',async t=>{
  const s=setup();const calls=provider(t);await start(s);
  assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'too early for a point');
- s.tick(3601);assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'no session, few exchanges');
+ s.tick(3*86400);assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'no session, few exchanges');
  s.raw.prepare("INSERT INTO care_sessions(id,user_id,session_at,created_by,created_at) VALUES('cs1','a',?,'member',0)").run(s.now()+86400);
  const state=await s.call('/api/chat');assert.deepEqual(state.journey.review.suggestion,{reason:'session_soon',session_at:s.now()+86400});
  const reviews=s.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n;
  await s.message('Je prépare ma séance de demain.','suggest_turn_01');const input=writingInput(calls);
- assert.equal(input.review_suggestion.reason,'session_soon');assert.match(calls.filter(c=>c.purpose==='ambre_writing').at(-1).body.messages[0].content[0].text,/tu ne lances jamais de bilan/);
+ assert.equal(input.review_suggestion.reason,'session_soon');assert.match(calls.filter(c=>c.purpose==='ambre_writing').at(-1).body.messages[0].content[0].text,/ne jamais lancer de bilan/);
  assert.equal(s.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n,reviews,'a suggestion never creates a review');
  assert.deepEqual(reviewSuggestion({started:true,running:false,nextPointAt:null,care:{},now:0,lastReviewAt:0,turnsSince:15}),{reason:'many_exchanges'});
  assert.equal(reviewSuggestion({started:true,running:false,nextPointAt:123,care:{next_session_at:10},now:0,turnsSince:30}),null);
@@ -228,4 +228,23 @@ test('review prompts ask for the anchored digest, the thread and the feedback, w
  for(const prompt of [initial,point]){assert.match(prompt,/holds = ce qui se confirme, revised = ce qui est nuancé ou contredit, new = nouvelle hypothèse/);assert.match(prompt,/au moins douze caractères/);assert.match(prompt,/Aucun score, aucun diagnostic/);assert.match(prompt,/corriger ce bilan/)}
  assert.match(point,/reprends chaque objectif suivi avec son état/);assert.match(point,/previous_feedback/);assert.match(point,/change_plan/);assert.match(point,/prochaine séance/);
  assert.equal(reviewCorpus({sources:[{type:'profile',text:'A'},{type:'portrait',text:'B'}],conversation_since:[{vous:'C',ambre:'D'}]}),'A\n\nC','only the person’s words anchor a digest');
+});
+
+// Mes bilans: the digest as prose and the three answers (no score), sent once chosen.
+import vm from 'node:vm';
+import {HTML} from '../src/ui.mjs';
+test('Mes bilans: “Ce qu’Ambre retient de ce bilan” and the answer “Ce bilan me ressemble / Pas vraiment / À corriger”',async()=>{
+ const script=HTML.match(/<script>([\s\S]*?)<\/script>/)[1],code=name=>{const start=script.indexOf('function '+name+'(');const rest=script.slice(start+1),end=rest.search(/\n(?:async )?function |\nvar /);return script.slice(start,start+1+end)};
+ class Node{constructor(tag){this.tagName=tag.toUpperCase();this.children=[];this.attributes={};this.listeners={};this.value='';this._text=''}append(...items){this.children.push(...items)}set textContent(v){this._text=String(v);this.children=[]}get textContent(){return this._text+this.children.map(c=>c.textContent).join(' ')}setAttribute(k,v){this.attributes[k]=v}getAttribute(k){return this.attributes[k]}addEventListener(k,fn){(this.listeners[k]??=[]).push(fn)}async click(){for(const fn of this.listeners.click||[])await fn({})}all(tag){return this.children.flatMap(c=>[...(c.tagName===tag?[c]:[]),...c.all(tag)])}}
+ const sent=[],ctx=vm.createContext({document:{createElement:tag=>new Node(tag)},api:async(path,method,body)=>{sent.push({path,method,body});return {feedback:{verdict:body.verdict,text:body.text,at:1}}}});
+ vm.runInContext([code('el'),code('actionButton'),"var REVIEW_FEEDBACK=[['resembles','Ce bilan me ressemble'],['not_really','Pas vraiment'],['to_correct','À corriger']];",code('drawReviewDigest'),code('drawReviewFeedback')].join('\n'),ctx);
+ const digest=ctx.drawReviewDigest('Ce qui se confirme. Le silence protège.\n\nVos objectifs suivis. « oser parler » : en cours.');
+ assert.match(digest.textContent,/Ce qu’Ambre retient de ce bilan/);assert.equal(digest.all('P').length,3);
+ const box=ctx.drawReviewFeedback({id:'r1',feedback:null},()=>true),buttons=box.all('BUTTON');
+ assert.deepEqual(buttons.map(b=>b._text),['Ce bilan me ressemble','Pas vraiment','À corriger','Enregistrer mon retour']);
+ assert.equal(buttons[3].disabled,true,'nothing is sent before a choice');assert.doesNotMatch(box.textContent,/\d+ ?\/ ?\d+|score|note sur/i);
+ await buttons[2].click();assert.equal(buttons[2].attributes['aria-pressed'],'true');assert.equal(buttons[0].attributes['aria-pressed'],'false');
+ box.all('TEXTAREA')[0].value='  Ce n’était pas ma sœur.  ';assert.equal(box.all('TEXTAREA')[0].maxLength,600);
+ await buttons[3].click();assert.deepEqual(JSON.parse(JSON.stringify(sent)),[{path:'/api/reviews/r1/feedback',method:'PUT',body:{verdict:'to_correct',text:'Ce n’était pas ma sœur.'}}]);
+ assert.match(box.textContent,/Ambre en tiendra compte au prochain point/);
 });

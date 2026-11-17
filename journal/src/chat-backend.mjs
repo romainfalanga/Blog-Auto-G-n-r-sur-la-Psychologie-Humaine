@@ -667,6 +667,8 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   const id=random(),lease=random(),inline=Math.max(0,Math.min(28000,Number(env.REVIEW_INLINE_TIMEOUT_MS??25000)||0)),t=now();
   // At most four reviews reach the conversation per day, whatever was deleted since.
   if((await first(env,"SELECT count(*) AS n FROM chat_turns WHERE user_id=? AND idempotency_key LIKE 'review-%' AND created_at>datetime('now','-1 day')",user.id)).n>=4)fail(429,'Trop de bilans demandés aujourd’hui. Réessayez demain.','request_limit');
+  // A5-P1: a review not approved by its check is not published; attempts stay bounded per day too.
+  if((await first(env,"SELECT count(*) AS n FROM ambre_reviews WHERE user_id=? AND created_at>?",user.id,t-86400)).n>=8)fail(429,'Trop de bilans demandés aujourd’hui. Réessayez demain.','request_limit');
   // With no inline attempt the lease is already expired: the next cron run takes it.
   const result=await run(env,"INSERT OR IGNORE INTO ambre_reviews(id,user_id,kind,status,idempotency_key,attempts,lease_token,lease_until,created_at) SELECT ?,?,?,'running',?,?,?,?,? WHERE NOT EXISTS(SELECT 1 FROM ambre_reviews WHERE user_id=? AND status='running')",id,user.id,kind,key,inline?1:0,inline?lease:null,inline?t+Math.ceil(inline/1000)+30:0,t,user.id);
   if(!result.meta.changes){
