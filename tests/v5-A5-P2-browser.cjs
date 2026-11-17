@@ -31,8 +31,20 @@ const fs=require('node:fs'),path=require('node:path'),os=require('node:os');cons
   await member.goto('https://ambre.test/mon-portrait/');await member.locator('#self-profile-form').waitFor();
   assert.deepEqual(await member.locator('#site-navigation a').allTextContents(),['Ambre','Mon portrait','Mon enfance','Mes proches','Ma ligne de vie','Mes bilans']);
   assert.equal(await member.locator('[data-portrait-tab], .portrait-tabs, #portrait-synthesis').count(),0);assert.equal(await member.locator('#self-profile').isVisible(),true);
-  for(const name of ['what_brings_me','what_helps_me','life_rhythm']){await member.locator('#self-text-'+name+'-edit').click();await member.locator('#self-text-dialog-input').fill('Mes mots '+name+' '+width);await member.getByRole('button',{name:'Enregistrer les modifications',exact:true}).click();await member.locator('#self-text-dialog').waitFor({state:'detached'});assert.equal(await member.locator('#self-text-'+name+'-value').textContent(),'Mes mots '+name+' '+width)}
-  data=await api(member,'/api/self-profile');for(const name of ['what_brings_me','what_helps_me','life_rhythm'])assert.equal(data.profile[name],'Mes mots '+name+' '+width);await member.screenshot({path:path.join(artifacts,'portrait-'+width+'.png'),fullPage:true});assert.ok(await member.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+  assert.deepEqual(await member.locator('#self-profile-form input,#self-profile-form select,#self-profile-form textarea').evaluateAll(nodes=>nodes.map(n=>n.name)),['self_description']);
+  assert.equal(await member.locator('#mes-articles,#self-text-dialog').count(),0);
+  data=await api(member,'/api/self-profile');
+  const historical={what_brings_me:'Comprendre',what_helps_me:'Marcher',life_rhythm:'Le matin',emotions:'Calme',first_name:'Camille'};
+  const seeded=await api(member,'/api/self-profile','PUT',{...historical,expected_revision:data.revision});assert.equal(seeded.status,200);
+  await member.reload();await member.locator('#self-description').fill('Ma présentation personnelle '+width);
+  const outgoing=member.waitForRequest(req=>new URL(req.url()).pathname==='/api/self-profile'&&req.method()==='PUT');
+  await member.getByRole('button',{name:'Enregistrer ma présentation',exact:true}).click();
+  const payload=(await outgoing).postDataJSON();assert.deepEqual(Object.keys(payload).sort(),['expected_revision','self_description']);assert.equal(payload.expected_revision,seeded.revision);
+  await member.getByText('Présentation enregistrée.',{exact:true}).waitFor();
+  data=await api(member,'/api/self-profile');assert.equal(data.profile.self_description,'Ma présentation personnelle '+width);for(const [key,value]of Object.entries(historical))assert.equal(data.profile[key],value);
+  await member.reload();await member.locator('#self-description').waitFor();assert.equal(await member.locator('#self-description').inputValue(),'Ma présentation personnelle '+width);
+  await member.screenshot({path:path.join(artifacts,'portrait-'+width+'.png'),fullPage:true});assert.ok(await member.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+
  }
  assert.deepEqual(errors,[]);console.log('6 parcours A5-P2 validés à 1440 et 390 px, sans erreur JavaScript ni débordement.');
  }finally{await browser.close();await Promise.allSettled(tasks);raw.close()}

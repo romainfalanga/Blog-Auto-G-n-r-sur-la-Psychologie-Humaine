@@ -17,8 +17,9 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
  const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined});let passed=0;
  async function pageFor(options={}){
   const context=await browser.newContext({viewport:{width:options.width||1440,height:1000}}),page=await context.newPage();
-  const server={account:options.anonymous?null:{id:'synthetic-member'},map:options.map||null,puts:[],requests:[],errors:[],beforePut:null,beforeGet:options.beforeGet||null,getFailure:Boolean(options.getFailure),deleteFailure:false,putFailure:false,inflight:0,maxInflight:0};
+  const server={account:options.anonymous?null:{id:'synthetic-member'},map:options.map||null,puts:[],requests:[],errors:[],beforePut:null,beforeMe:options.beforeMe||null,meFailure:Boolean(options.meFailure),beforeGet:options.beforeGet||null,getFailure:Boolean(options.getFailure),deleteFailure:false,putFailure:false,inflight:0,maxInflight:0};
   page.on('pageerror',error=>server.errors.push(error.message));page.on('dialog',dialog=>dialog.accept());
+  if(options.accountDraft)await page.addInitScript(draft=>localStorage.setItem('cartographie-brouillon-v1:synthetic-member',JSON.stringify(draft)),options.accountDraft);
   if(options.draft)await page.addInitScript(draft=>{if(!sessionStorage.getItem('draft-seeded')){localStorage.setItem('cartographie-brouillon-v1',JSON.stringify(draft));sessionStorage.setItem('draft-seeded','1')}},options.draft);
   await page.route('https://carto.test/**',async route=>{
    const request=route.request(),url=new URL(request.url()),method=request.method();
@@ -26,7 +27,7 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    if(url.pathname.startsWith('/css/'))return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static',url.pathname),'utf8')});
    if(url.pathname==='/js/cartographie.js')return route.fulfill({contentType:'application/javascript',body:fs.readFileSync(path.join(root,'static/js/cartographie.js'),'utf8')});
    if(url.pathname==='/js/cartographie-ui.js')return route.fulfill({contentType:'application/javascript',body:source});
-   if(url.pathname==='/api/me')return route.fulfill({contentType:'application/json',body:JSON.stringify({user:server.account})});
+   if(url.pathname==='/api/me'){if(server.beforeMe)await server.beforeMe();if(server.meFailure)return route.abort('failed');return route.fulfill({contentType:'application/json',body:JSON.stringify({user:server.account})});}
    if(url.pathname==='/api/cartographie'){
     server.requests.push(method);
     if(method==='GET'){if(server.beforeGet)await server.beforeGet();if(server.getFailure)return route.fulfill({status:503,json:{error:'Chargement indisponible.'}});return route.fulfill({json:{cartographie:server.map}})}
@@ -43,8 +44,8 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    }
    return route.fulfill({status:404,body:''});
   });
-  await page.goto('https://carto.test/');await page.locator('.carto-theme-panel').first().waitFor();
-  if(options.waitForLoad!==false)await page.waitForFunction(()=>!document.querySelector('[data-save]').textContent.includes('Chargement de votre cartographie')&&!document.querySelector('[data-save]').textContent.includes('Vérification de votre connexion'));
+  await page.goto('https://carto.test/');
+  if(options.waitForLoad!==false){await page.waitForFunction(()=>document.querySelector('[data-cartographie-app]').dataset.loading==='false');await page.locator('.carto-theme-panel').first().waitFor();}
   return {page,context,server};
  }
  async function check(name,fn){if(process.env.CARTOGRAPHY_BROWSER_CASE&&!name.includes(process.env.CARTOGRAPHY_BROWSER_CASE))return;await fn();passed++;console.log('PASS '+name)}
@@ -97,8 +98,24 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
   await check('the results page has no crisis banner or saved-map deletion button',async()=>{
    const {page,context,server}=await pageFor({map:fixture({abus_physique:1,abus_sexuel:1})});assert.ok(await page.locator('.carto-card').count()>0);assert.equal(await page.locator('.carto-note-urgent,[data-delete]').count(),0);assert.equal(await page.getByRole('button',{name:'Supprimer ma cartographie',exact:true}).count(),0);assert.deepEqual(server.errors,[]);await context.close();
   });
-  await check('typing during initial GET is preserved and requires an explicit conflict choice',async()=>{
-   const pending=pause();const {page,context,server}=await pageFor({map:fixture({critique:1}),beforeGet:()=>pending.promise,waitForLoad:false});await select(page,'abus_physique',1);pending.resolve();await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).waitFor();assert.equal(server.puts.length,0);assert.equal(await page.locator('[data-factor="abus_physique"] [data-level="1"]').getAttribute('aria-pressed'),'true');assert.equal(await page.locator('.carto-theme-panel[open]').count(),1);assert.equal(await page.locator('[data-factor="abus_physique"] [data-level="1"]').evaluate(node=>node===document.activeElement),true);assert.deepEqual(server.errors,[]);await context.close();
+  await check('slow session and map never paint the anonymous draft or an empty member map',async()=>{
+   const session=pause(),map=pause();let mapRequested=false;const draft={answers:{abus_physique:1},notes:{factors:{abus_physique:'ANONYMOUS DRAFT MUST NOT FLASH'},outcomes:{}}};
+   const {page,context,server}=await pageFor({width:390,draft,map:fixture({critique:2}),beforeMe:()=>session.promise,beforeGet:()=>{mapRequested=true;return map.promise},waitForLoad:false});
+   for(let i=0;i<2;i++){assert.equal(await page.locator('[data-cartographie-app]').getAttribute('aria-busy'),'true');assert.equal(await page.locator('.carto-theme-panel').count(),0);assert.equal(await page.locator('[data-tab="results"]').isDisabled(),true);assert.equal(await page.locator('[data-loading-status]').isVisible(),true);assert.equal(await page.getByText('ANONYMOUS DRAFT MUST NOT FLASH').count(),0);if(!i){session.resolve();for(let n=0;n<100&&!mapRequested;n++)await page.waitForTimeout(10);assert.ok(mapRequested)}}
+   const artifacts=path.join(root,'work','cartographie-chargement');fs.mkdirSync(artifacts,{recursive:true});await page.screenshot({path:path.join(artifacts,'attente-390.png'),fullPage:true});
+   map.resolve();await saved(page);assert.equal(await page.locator('[data-cartographie-app]').getAttribute('aria-busy'),'false');await opened(page,'climat');assert.equal(await page.locator('[data-factor="critique"] [data-level="2"]').getAttribute('aria-pressed'),'true');assert.equal(await page.locator('[data-factor="abus_physique"] [aria-pressed="true"]').count(),0);assert.equal(server.puts.length,0);assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('account drafts are revealed only with their account and require an explicit conflict choice',async()=>{
+   const map=pause(),draft={answers:{abus_physique:1},notes:{factors:{abus_physique:'ACCOUNT DRAFT'},outcomes:{}}};const {page,context,server}=await pageFor({accountDraft:draft,map:fixture({critique:1}),beforeGet:()=>map.promise,waitForLoad:false});assert.equal(await page.getByText('ACCOUNT DRAFT').count(),0);assert.equal(await page.locator('.carto-theme-panel').count(),0);map.resolve();await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).waitFor();await opened(page);assert.equal(await page.locator('[data-factor="abus_physique"] textarea').inputValue(),'ACCOUNT DRAFT');assert.equal(server.puts.length,0);await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).click();await saved(page);assert.equal(server.map.answers.abus_physique,1);assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('offline session checking releases the anonymous draft without loading or saving an account',async()=>{
+   const draft={answers:{critique:'unknown'},notes:{factors:{},outcomes:{}}};const {page,context,server}=await pageFor({meFailure:true,draft});assert.match(await page.locator('[data-save]').innerText(),/Connexion non vérifiée/);await select(page,'critique',1);assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')).answers.critique),1);assert.equal(server.requests.length,0);assert.equal(server.puts.length,0);assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('typing during a retry GET keeps local edits and requires an explicit conflict choice',async()=>{
+   const {page,context,server}=await pageFor({getFailure:true,map:fixture({critique:1})});const pending=pause();server.beforeGet=()=>pending.promise;server.getFailure=false;await page.getByRole('button',{name:'Réessayer le chargement',exact:true}).click();await select(page,'abus_physique',1);pending.resolve();await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).waitFor();assert.equal(server.puts.length,0);assert.equal(await page.locator('[data-factor="abus_physique"] [data-level="1"]').getAttribute('aria-pressed'),'true');assert.equal(await page.locator('.carto-theme-panel[open]').count(),1);assert.equal(await page.locator('[data-factor="abus_physique"] [data-level="1"]').evaluate(node=>node===document.activeElement),true);assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('an anonymous draft seeds only a confirmed empty account and survives an initial map error',async()=>{
+   const draft={answers:{critique:2},notes:{factors:{critique:'LOCAL DRAFT'},outcomes:{}}};const {page,context,server}=await pageFor({draft,getFailure:true});assert.equal(await page.locator('[data-level][aria-pressed="true"]').count(),0);assert.equal(await page.getByText('LOCAL DRAFT').count(),0);assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')).answers.critique),2);server.getFailure=false;await page.getByRole('button',{name:'Réessayer le chargement',exact:true}).click();await saved(page);assert.equal(server.map.answers.critique,2);assert.equal(server.map.notes.factors.critique,'LOCAL DRAFT');assert.equal(server.puts.length,1);assert.deepEqual(server.errors,[]);await context.close();
   });
   await check('failed initial GET blocks upload and exposes a working reload action',async()=>{
    const {page,context,server}=await pageFor({getFailure:true});await select(page,'abus_physique',1);await page.waitForTimeout(900);assert.equal(server.puts.length,0);server.getFailure=false;await page.getByRole('button',{name:'Réessayer le chargement',exact:true}).click();await saved(page);assert.equal(server.puts.length,1);assert.equal(server.map.answers.abus_physique,1);assert.deepEqual(server.errors,[]);await context.close();

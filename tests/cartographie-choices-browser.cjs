@@ -56,6 +56,12 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
   for(const width of [390,1440])await check('uncertainty and new dimensions remain distinct at '+width+'px',async()=>{
    const {page,context,server}=await pageFor({width,anonymous:true});
    assert.equal(await page.locator('[data-factor="controle"]').count(),0);
+   await opened(page,'violences');
+   const dividers=await page.locator('[data-factor="abus_physique"] .carto-choice').evaluateAll(nodes=>nodes.map(n=>({left:getComputedStyle(n).borderLeftWidth,top:getComputedStyle(n).borderTopWidth,rect:{x:n.getBoundingClientRect().x,y:n.getBoundingClientRect().y}})));
+   assert.equal(dividers.length,4);assert.deepEqual(dividers.map(x=>x.left),width<601?['0px','1px','0px','1px']:['0px','1px','1px','1px']);assert.deepEqual(dividers.map(x=>x.top),width<601?['0px','0px','1px','1px']:['0px','0px','0px','0px']);
+   if(width<601){assert.equal(dividers[0].rect.x,dividers[2].rect.x);assert.equal(dividers[1].rect.x,dividers[3].rect.x);assert.ok(dividers[2].rect.y>dividers[0].rect.y)}
+   await opened(page,'famille');const binary=page.locator('[data-factor="adoption"] .carto-choice');assert.equal(await binary.count(),3);assert.equal(await binary.filter({hasText:'Souvent'}).count(),0);
+   await opened(page,'violences');await page.locator('[data-factor="abus_physique"] .carto-choices').screenshot({path:path.join(artifacts,'separateurs-'+width+'.png')});
    const unknown=await select(page,'abus_physique','unknown');assert.equal(await unknown.getAttribute('aria-pressed'),'true');assert.equal(await page.locator('[data-factor="abus_physique"]').evaluate(n=>n.classList.contains('is-checked')),false);assert.equal(await page.locator('article.carto-card').count(),0);
    await opened(page,'climat');assert.equal(await page.locator('[data-factor="parents_stricts"] [aria-pressed="true"]').count(),0);assert.equal(await page.locator('[data-factor="controle_psychologique"] [aria-pressed="true"]').count(),0);
    await select(page,'parents_stricts',1);await select(page,'controle_psychologique','unknown');assert.equal(await page.locator('article.carto-card').count(),0);assert.match(await page.locator('[data-factor="parents_stricts"]').innerText(),/Aucun rapprochement scientifique/);

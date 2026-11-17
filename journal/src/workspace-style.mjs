@@ -58,89 +58,10 @@ input,textarea,select { border-color: var(--line); }
 .portrait-state:empty { display: none; }
 .portrait-state button.text { padding: 0; font-size: inherit; }
 #portrait-body > div > p,#portrait-body .portrait-reading > p { max-width: 74ch; }
-#self-profile .profile-group {
-  padding: 0 0 21px;
-  margin: 0 0 21px;
-  border-bottom: 1px solid var(--line);
-}
-#self-profile #self-context { padding-bottom: 0; margin-bottom: 0; border-bottom: 0; }
-#self-profile .profile-group-title {
-  margin: 0;
-  padding: 8px 0;
-  color: var(--ink);
-  font: 700 1rem/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-  letter-spacing: 0;
-}
-.profile-save { padding-top: 3px; }
-#self-profile .self-presentation > .self-text { margin-top: 0; }
-.self-text + .self-text { margin-top: 20px; }
-.self-text-head { display: flex; align-items: center; justify-content: space-between; gap: 6px 14px; }
-#self-profile .self-text-title { min-width: 0; margin: 0; overflow-wrap: anywhere; }
-#self-profile h4.self-text-title { color: var(--ink); font-size: .9375rem; font-weight: 650; line-height: 1.4; }
-button.self-text-edit { flex: none; padding: 8px 14px; font-size: .875rem; }
-.self-text-value { max-width: 74ch; margin: 2px 0 0; white-space: pre-wrap; overflow-wrap: anywhere; }
-.self-text-value.is-empty { color: var(--muted); font-size: .9rem; }
-.self-text > .status { margin-top: 6px; }
-
-/* Pop-up editor for one long text of the self profile: fixed title and buttons, scrollable content. */
-.self-text-dialog {
-  position: fixed;
-  inset: 0;
-  width: min(640px,calc(100% - 32px));
-  max-width: none;
-  height: fit-content;
-  max-height: calc(var(--self-text-viewport,100vh) - 32px);
-  margin: auto;
-  padding: 0;
-  overflow: hidden;
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  background: var(--paper);
-  color: var(--ink);
-  box-shadow: 0 18px 48px #172d3c33;
-}
-.self-text-dialog[open] { display: flex; flex-direction: column; }
-.self-text-dialog::backdrop { background: #172d3c8c; }
-.self-text-dialog.is-fallback { z-index: 1000; box-shadow: 0 0 0 100vmax #172d3c8c; }
-.self-text-form { display: flex; flex: 1 1 auto; flex-direction: column; min-height: 0; }
-.self-text-dialog .self-text-dialog-title {
-  flex: none;
-  margin: 0;
-  padding: 18px 22px 4px;
-  color: var(--ink);
-  font: 650 1.2rem/1.35 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-  letter-spacing: -.01em;
-  overflow-wrap: anywhere;
-}
-.self-text-dialog-body {
-  display: flex;
-  flex: 1 1 auto;
-  flex-direction: column;
-  min-height: 0;
-  padding: 0 22px 14px;
-  overflow-y: auto;
-  overscroll-behavior: contain;
-}
-.self-text-dialog-body > * { flex: none; }
-.self-text-dialog-body > .helper { margin: 0 0 12px; font-size: .9rem; }
-.self-text-dialog textarea { display: block; height: min(42vh,340px); min-height: 200px; }
-.self-text-count { margin: 5px 0 0; color: var(--muted); font-size: .75rem; font-variant-numeric: tabular-nums; text-align: right; }
-.self-text-dialog .status { margin: 8px 0 0; }
-.self-text-conflict { margin-top: 10px; }
-.self-text-conflict:empty { display: none; }
-.self-text-saved { margin: 0; }
-.self-text-saved h3 { margin: 0 0 6px; font-size: .9rem; }
-.self-text-saved p { margin: 0; }
-.self-text-saved-value { max-height: 190px; overflow-y: auto; white-space: pre-wrap; overflow-wrap: anywhere; }
-.self-text-saved-value.is-empty { color: var(--muted); }
-.self-text-dialog .self-text-dialog-actions {
-  flex: none;
-  gap: 10px;
-  margin: 0;
-  padding: 12px 22px 16px;
-  border-top: 1px solid var(--line);
-  background: var(--paper);
-}
+/* A single, directly editable presentation. */
+#self-description { display: block; min-height: 320px; font-size: 1rem; }
+.self-profile-saved { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 240px; overflow-y: auto; }
+.page-loading { min-height: 180px; margin: 0; padding-block: 12px; }
 .liked-article { padding-block: 18px; }
 
 .workspace-empty { padding: clamp(16px,4vw,35px) 0; }
@@ -331,21 +252,7 @@ button.self-text-edit { flex: none; padding: 8px 14px; font-size: .875rem; }
   .event-timeline { padding-left: 16px; }
   .event-timeline .timeline-year::before { left: -20px; }
   .workspace-empty .actions { align-items: stretch; }
-  .self-text-dialog {
-    top: calc(var(--self-text-top,0px) + 8px);
-    bottom: auto;
-    width: calc(100% - 16px);
-    height: calc(var(--self-text-viewport,100vh) - 16px);
-    max-height: none;
-    margin-block: 0;
-  }
-  .self-text-dialog .self-text-dialog-title { padding: 14px 16px 4px; font-size: 1.1rem; }
-  .self-text-dialog-body { padding: 0 16px 10px; }
-  .self-text-dialog textarea { flex: 1 1 auto; height: auto; min-height: 120px; resize: none; }
-  .self-text-dialog .self-text-dialog-actions { flex-wrap: nowrap; align-items: stretch; gap: 8px; padding: 10px 16px 12px; }
-  .self-text-dialog-actions > button { padding: 8px 12px; font-size: .9375rem; line-height: 1.25; }
-  .self-text-dialog-actions > button[type="submit"] { flex: 1 1 auto; min-width: 0; }
-  .self-text-dialog-actions > button.secondary { flex: none; }
+
 }
 @media (max-width: 380px) {
   .workspace-empty .actions > * { width: 100%; }
