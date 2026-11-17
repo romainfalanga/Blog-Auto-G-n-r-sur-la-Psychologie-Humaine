@@ -52,8 +52,8 @@ function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','selfTextItem','openSelfTextDialog']) vm.runInContext(functionCode(name),ctx);
-  vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0]+script.match(/var SELF_SHORT_FIELDS=.*\n/)[0]+script.match(/var SELF_TEXT_FIELDS=.*\n/)[0],ctx);
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','selfTextItem','openSelfTextDialog']) vm.runInContext(functionCode(name),ctx);
+  vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0]+script.match(/var SELF_SHORT_FIELDS=.*\n/)[0]+script.match(/var SELF_TEXT_FIELDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
   return {ctx,doc,host(id){const host=doc.createElement('div');host.id=id;return host;}};
@@ -148,7 +148,7 @@ test('V3 separates relationship and life pages from the declared and interpreted
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
 
-const SELF_SHORT=['first_name','last_name','birth_date','gender','gender_description','occupation'],SELF_LONG=['self_description','self_perception','recurring_patterns','emotions','current_context'];
+const SELF_SHORT=['first_name','last_name','birth_date','gender','gender_description','occupation'],SELF_LONG=['self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm'];
 
 test('self information retains its draft and original revision on 409 conflict, and never sends a stale long text',async()=>{
   let sent,stored={profile:{self_description:'Ma présentation',occupation:'Mon métier',emotions:'Calme'},revision:4},conflict=true;
@@ -183,8 +183,8 @@ test('self information keeps edits typed during a save with the new revision',as
 test('self sections cannot be collapsed and long texts are shown for reading with an edit button',async()=>{
   const env=await selfFixture(async()=>({profile:{self_perception:'Première ligne\nSeconde ligne'},revision:1}));
   for(const tag of ['details','summary','textarea'])assert.equal(env.host.querySelectorAll(tag).length,0,tag);
-  assert.deepEqual(env.host.querySelectorAll('h3').map(title=>title.textContent),['Mes informations','Ma présentation','Mon fonctionnement, mes émotions']);
-  assert.deepEqual(env.host.querySelectorAll('h4').map(title=>title.textContent),['Comment je me perçois','Les schémas que je remarque','Les émotions présentes','Mon contexte actuel']);
+  assert.deepEqual(env.host.querySelectorAll('h3').map(title=>title.textContent),['Mes informations','Ma présentation','Mon fonctionnement, mes émotions','Mes repères aujourd’hui']);
+  assert.deepEqual(env.host.querySelectorAll('h4').map(title=>title.textContent),['Comment je me perçois','Les schémas que je remarque','Les émotions présentes','Mon contexte actuel','Ce qui m’amène','Ce qui m’aide','Mon rythme de vie']);
   const identity=env.doc.getElementById('self-identity');assert.equal(identity.tagName,'SECTION');assert.equal(identity.attributes['aria-labelledby'],'self-identity-title');assert.equal(identity.parentElement,env.form);
   assert.deepEqual(Object.keys(env.form.elements),SELF_SHORT);
   const save=env.form.querySelector('button[type=submit]');assert.equal(save.textContent,'Enregistrer mes informations');assert.equal(save.parentElement.parentElement,identity);
@@ -211,12 +211,12 @@ test('the pop-up opens pre-filled, labelled and focused, with the field limit an
     await env.trigger('emotions').fire('click');assert.equal(env.host.querySelectorAll('dialog').length,1);assert.equal(env.doc.getElementById('self-text-dialog-title').textContent,'Ma présentation');
   }
   const env=await selfFixture(async()=>({profile:{},revision:1}));
-  for(const name of SELF_LONG.slice(1)){const popup=await env.open(name);assert.equal(popup.input.maxLength,4000);assert.equal(popup.input.value,'');await popup.cancel.fire('click');assert.equal(env.dialog,null)}
+  for(const name of SELF_LONG.slice(1)){const popup=await env.open(name);assert.equal(popup.input.maxLength,['what_brings_me','what_helps_me','life_rhythm'].includes(name)?2000:4000);assert.equal(popup.input.value,'');await popup.cancel.fire('click');assert.equal(env.dialog,null)}
   assert.match(HTML,/\.self-text-dialog::backdrop \{ background:/);assert.match(HTML,/\.self-text-dialog \{[^}]*width: min\(640px,calc\(100% - 32px\)\)/);assert.match(HTML,/@media \(max-width: 600px\) \{[\s\S]*?\.self-text-dialog \{[^}]*width: calc\(100% - 16px\)/);
 });
 
 test('saving a long text sends every saved field with the revision, then closes and refreshes the view',async()=>{
-  const profile={first_name:'Nina',last_name:'',birth_date:'',gender:'',gender_description:'',occupation:'Mon métier',self_description:'Ma présentation',self_perception:'',recurring_patterns:'',emotions:'',current_context:'Mon contexte'};
+  const profile={first_name:'Nina',last_name:'',birth_date:'',gender:'',gender_description:'',occupation:'Mon métier',self_description:'Ma présentation',self_perception:'',recurring_patterns:'',emotions:'',current_context:'Mon contexte',what_brings_me:'Comprendre',what_helps_me:'Marcher',life_rhythm:'À mon rythme'};
   const sent=[],savedResults=[];let resolve;
   const env=await selfFixture(async(path,method,payload)=>{if(!method)return {profile,revision:7};sent.push(payload);return new Promise(r=>resolve=r)});
   env.ctx.sourceSaved=result=>savedResults.push(result);
@@ -432,11 +432,11 @@ test('a pending turn keeps one user bubble while the cleared composer accepts th
 test('V6 self information and reflection groups open with all fields in their own compact grids',async()=>{
  const env=environment({api:async()=>({profile:{},revision:0}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
  const form=env.doc.getElementById('self-profile-form'),host=env.doc.getElementById('self-profile'),groups=host.querySelectorAll('.profile-group');
- assert.deepEqual(groups.map(group=>group.id),['self-identity','self-description-fields','self-reflection']);assert.equal(host.querySelectorAll('details').length,0);
+ assert.deepEqual(groups.map(group=>group.id),['self-identity','self-description-fields','self-reflection','self-context']);assert.equal(host.querySelectorAll('details').length,0);
  assert.equal(env.doc.getElementById('self-identity-fields').elements.occupation.tagName,'INPUT');assert.equal(env.doc.getElementById('self-identity-fields').className,'form-grid');
  assert.deepEqual(env.doc.getElementById('self-description-fields').querySelectorAll('.self-text').map(item=>item.id),['self-text-self_description']);
  assert.deepEqual(env.doc.getElementById('self-reflection-fields').querySelectorAll('.self-text').map(item=>item.id),['self_perception','recurring_patterns','emotions','current_context'].map(name=>'self-text-'+name));
- assert.equal(host.querySelectorAll('textarea').length,0);assert.equal(host.querySelectorAll('.self-text-edit').length,5);
+ assert.equal(host.querySelectorAll('textarea').length,0);assert.equal(host.querySelectorAll('.self-text-edit').length,8);
  // No rule is left behind for the former collapsible groups and in-page text areas.
  assert.doesNotMatch(HTML,/#self-profile(?:-form)? [^{}]*(?:summary|textarea)/);assert.doesNotMatch(HTML,/\.self-presentation textarea|\.self-reflections textarea/);
  assert.match(HTML,/#self-profile \.profile-group\{margin:0 0 24px/);assert.match(HTML,/#self-profile \.profile-group \{\s*padding: 0 0 21px/);
@@ -971,4 +971,55 @@ test('saving a timeline change reloads its chronological cursor without discardi
  assert.equal(env.ctx.state.sourceDrafts.get('events').values.title,'New unsaved text');
  env.ctx.state.tab='people';env.ctx.sourceSaved({source_version:4});
  assert.equal(reloads,1);
+});
+
+test('A5-P2 optional relation fields use shared choices and limits, retain input after failure, and allow clearing',async()=>{
+ const sent=[],env=environment({api:async(path,method,payload)=>{sent.push(payload);throw new Error('Connexion interrompue')}});env.host('people-editor');env.ctx.state.peopleFieldsReady=true;
+ const values={display_name:'Camille',role:'friend',bond_quality:'ambivalent',bond_note:'Une nuance',presence_now:'regular',helps:'Nos échanges',hurts:'Les silences',evolution:'Plus de distance',feels_safe:'not_always'};
+ env.ctx.state.sourceDrafts.set('people',{id:'p1',revision:4,values});env.ctx.drawSourceEditor('people');const form=env.doc.getElementById('people-form');
+ for(const name of ['bond_quality','bond_note','presence_now','helps','hurts','evolution','feels_safe']){assert.equal(form.elements[name].value,values[name]);assert.ok(!form.elements[name].required)}
+ assert.equal(form.elements.bond_note.maxLength,300);assert.equal(form.elements.helps.maxLength,600);assert.equal(form.elements.feels_safe.querySelectorAll('option')[0].value,'');
+ await form.fire('submit');assert.equal(sent[0].revision,4);assert.equal(sent[0].feels_safe,'not_always');assert.equal(form.elements.hurts.value,'Les silences');
+ form.elements.feels_safe.value='';form.elements.hurts.value='';await form.fire('submit');assert.equal(sent[1].feels_safe,'');assert.equal(sent[1].hurts,'');assert.equal(env.ctx.state.sourceDrafts.get('people').values.hurts,'');
+});
+
+test('A5-P2 moment fields remain separate from meaning and preserve support and exposure on error',async()=>{
+ let sent;const env=environment({api:async(path,method,payload)=>{sent=payload;throw new Error('Indisponible')}});env.host('events-editor');env.ctx.state.eventsFieldsReady=true;
+ env.ctx.state.sourceDrafts.set('events',{id:null,creation_id:'stable',values:{title:'Un changement',kind:'ambivalent',date_precision:'unknown',description:'Mon récit',meaning_now:'Mon sens',people_ids:[],felt_then:'Surprise',felt_now:'Apaisement',impact:'Un autre quotidien',support_level:'some',support_text:'Une présence',exposure:'witnessed'}});env.ctx.drawSourceEditor('events');const form=env.doc.getElementById('events-form');
+ assert.equal(form.elements.felt_then.maxLength,600);assert.equal(form.elements.support_text.maxLength,300);await form.fire('submit');assert.equal(sent.meaning_now,'Mon sens');assert.equal(sent.felt_now,'Apaisement');assert.equal(sent.exposure,'witnessed');assert.equal(sent.support_level,'some');assert.equal(sent.creation_id,'stable');assert.equal(form.elements.support_text.value,'Une présence');
+});
+
+test('A5-P2 pre-migration forms omit new payload fields while preserving a newer unsaved draft',async()=>{
+ let sent;const env=editFixture('people',{display_name:'Camille',role:'friend',helps:'Texte non enregistré',feels_safe:'no'},{api:async(path,method,payload)=>{sent=payload;throw new Error('Hors ligne')}});
+ assert.equal(env.form.elements.helps,undefined);await env.form.fire('submit');assert.equal('helps' in sent,false);assert.equal('feels_safe' in sent,false);assert.equal(env.ctx.state.sourceDrafts.get('people').values.helps,'Texte non enregistré');
+ env.ctx.state.peopleFieldsReady=true;env.ctx.drawSourceEditor('people');assert.equal(env.doc.getElementById('people-form').elements.helps.value,'Texte non enregistré');
+});
+
+test('A5-P2 conflict compares new fields and rebases only after keeping the draft explicitly',async()=>{
+ const calls=[],env=environment({api:async(path,method,payload)=>{if(!method)return {person:{id:'p1',revision:9,display_name:'Camille',role:'friend',helps:'Version ailleurs',feels_safe:'yes'}};calls.push(payload);throw Object.assign(new Error('Conflit'),{code:'revision_conflict'})}});env.host('people-editor');env.ctx.state.peopleFieldsReady=true;env.ctx.state.sourceDrafts.set('people',{id:'p1',revision:8,values:{display_name:'Camille',role:'friend',helps:'Mon brouillon',feels_safe:'no'}});env.ctx.drawSourceEditor('people');const form=env.doc.getElementById('people-form');
+ await form.fire('submit');await form.querySelector('[data-reload-source]').fire('click');const comparison=form.querySelector('.source-comparison');assert.match(comparison.textContent,/Version ailleurs/);assert.match(comparison.textContent,/sécurité.*oui/);assert.equal(form.elements.helps.value,'Mon brouillon');assert.equal(env.ctx.state.sourceDrafts.get('people').revision,8);
+ await comparison.querySelector('button').fire('click');assert.equal(env.ctx.state.sourceDrafts.get('people').revision,9);await form.fire('submit');assert.equal(calls[1].helps,'Mon brouillon');assert.equal(calls[1].feels_safe,'no');assert.equal(calls[1].revision,9);
+});
+
+test('A5-P2 readable context uses labels, preserves newlines, and never interprets unset fields',()=>{
+ const env=environment(),host=env.host('context');env.ctx.appendSourceContextText(host,'people',{bond_quality:'ambivalent',bond_note:'Nuance\nsuite',feels_safe:'no',helps:'<b>Mes mots</b>'});assert.match(host.textContent,/Qualité du lienambivalent/);assert.match(host.textContent,/Nuance\nsuite/);assert.match(host.textContent,/<b>Mes mots<\/b>/);assert.doesNotMatch(host.textContent,/Présence aujourd’hui/);env.ctx.appendSourceContextText(host,'events',{exposure:'learned',support_level:'none'});assert.match(host.textContent,/je l’ai appris/);assert.match(host.textContent,/aucun/);
+});
+
+test('A5-P2 all three portrait texts save at the existing revision without replacing other saved texts',async()=>{
+ let stored={profile:{what_brings_me:'Comprendre',what_helps_me:'Marcher',life_rhythm:'Le matin'},revision:3},sent;
+ const env=await selfFixture(async(path,method,payload)=>{if(!method)return stored;sent=payload;stored={profile:{...stored.profile,...payload},revision:stored.revision+1};return stored});
+ for(const name of ['what_brings_me','what_helps_me','life_rhythm']){const popup=await env.open(name);assert.equal(popup.input.maxLength,2000);const previous=stored.revision;popup.input.value='Mes mots pour '+name;await popup.form.fire('submit');assert.equal(sent.expected_revision,previous);assert.equal(env.view(name).textContent,'Mes mots pour '+name);for(const other of ['what_brings_me','what_helps_me','life_rhythm'].filter(x=>x!==name))assert.equal(sent[other],stored.profile[other]);}
+});
+
+test('A5-P2 observation proposals require an explicit decision and retain edited quote after conflict',async()=>{
+ const calls=[],env=environment({api:async(path,method,payload)=>{calls.push({path,payload});throw Object.assign(new Error('Cette proposition a changé.'),{status:409})}});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(script.match(/var PEOPLE_AXES = \{[\s\S]*?\};/)[0]+functionCode('drawChatProposal'),env.ctx);
+ const host=env.host('observation-proposal');env.ctx.drawChatProposal(host,{id:'obs1',kind:'person_observation',target_id:'p1',revision:2,payload:{axis:'communication',quote:'Camille prend le temps de me répondre.'},evidence_quote:'Camille prend le temps de me répondre.'},()=>true);const form=host.children[0];assert.equal(calls.length,0);assert.equal(form.elements.axis.tagName,'SELECT');assert.equal(form.elements.quote.maxLength,280);assert.equal(form.elements.quote.minLength,20);assert.match(form.textContent,/votre point de vue/);assert.doesNotMatch(form.textContent,/person_observation/);
+ form.elements.quote.value='Camille me répond avec attention.';await form.elements.quote.fire('input');form.elements.axis.value='appuis';await form.elements.axis.fire('change');await form.fire('submit');assert.equal(calls[0].path,'/api/chat/proposals/obs1/accept');assert.equal(calls[0].payload.revision,2);assert.equal(calls[0].payload.payload.quote,'Camille me répond avec attention.');assert.equal(calls[0].payload.payload.axis,'appuis');assert.match(form.textContent,/Vos modifications sont conservées/);assert.equal(form.elements.quote.value,'Camille me répond avec attention.');
+ await form.querySelectorAll('button').find(button=>button.textContent==='Refuser').fire('click');assert.equal(calls[1].path,'/api/chat/proposals/obs1/reject');assert.equal(calls[1].payload.revision,2);assert.equal(calls[1].payload.payload,undefined);
+});
+
+test('A5-P2 Settings translates optional context and separates pending proposals from recorded observations',async()=>{
+ const {SETTINGS_INTERFACE_SCRIPT}=await import('../src/settings-interface.mjs'),calls=[],env=environment({api:async path=>{calls.push(path);return path==='/api/people'?{people:[{id:'p1',display_name:'Camille'}]}:{available:true,proposals:[{status:'pending',payload:{axis:'appuis',quote:'Une présence à vérifier.'}}],observations:[{origin:'accepted',axis:'communication',quote:'Une parole déjà validée.'},{origin:'auto',quote:'Un ancien repère.'}]}}});
+ vm.runInContext(SETTINGS_INTERFACE_SCRIPT.slice(0,SETTINGS_INTERFACE_SCRIPT.indexOf('async function renderSettings(')),env.ctx);const info=env.ctx.settingsValue({bond_quality:'ambivalent',feels_safe:'not_always',exposure:'witnessed',what_brings_me:'Comprendre',life_rhythm:'Le matin'});assert.match(info.textContent,/Qualité du lienambivalent/);assert.match(info.textContent,/pas toujours/);assert.match(info.textContent,/j’en ai été témoin/);assert.doesNotMatch(info.textContent,/what_brings_me|life_rhythm|not_always/);
+ const box=env.ctx.settingsObservationRecords(()=>true);assert.equal(calls.length,0);box.open=true;await box.fire('toggle');const person=box.querySelectorAll('details').find(node=>node.querySelector('summary').textContent==='Camille');person.open=true;await person.fire('toggle');assert.deepEqual(calls,['/api/people','/api/people/p1/observations']);assert.match(person.textContent,/Propositions à vérifier/);assert.match(person.textContent,/Repères enregistrés/);assert.match(person.textContent,/Validé par vous/);assert.match(person.textContent,/Ancien repère automatique/);assert.match(person.textContent,/À vérifier/);
 });

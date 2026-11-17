@@ -637,15 +637,15 @@ test('reading and removing people observations require authenticated same-origin
  assert.equal((await request(env,path)).status,401);
  const initial=await request(env,path,{cookie:account.cookie});
  assert.equal(initial.headers.get('Cache-Control'),'private, no-store');
- assert.deepEqual(await initial.json(),{enabled:false,observations:[]});
+ assert.deepEqual(await initial.json(),{enabled:false,available:false,observations:[],proposals:[]});
  assert.equal((await request(env,'/api/chat/consent',{method:'PUT',cookie:account.cookie,data:{accepted:true}})).status,200);
  const quote='Mila me répond par écrit quand le ton monte.';
  db.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content) VALUES('turn',?,'key','hash','completed','consumed',?,1,1,?)").run(userId,parisWeek().week_start,quote);
  db.prepare("INSERT INTO people_observations(id,user_id,person_id,turn_id,axis,quote,fingerprint,created_at) VALUES('note',?,'mila','turn','communication',?,'hash',1)").run(userId,quote);
  assert.equal((await request(env,path+'/note',{method:'DELETE',cookie:account.cookie,originHeader:'https://another.example'})).status,403);
- assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:true,observations:[{id:'note',axis:'communication',quote,created_at:1}]});
+ assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:false,available:false,observations:[{id:'note',axis:'communication',quote,created_at:1,origin:'auto'}],proposals:[]});
  assert.equal((await request(env,path+'/note',{method:'DELETE',cookie:account.cookie})).status,200);
- assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:true,observations:[]});
+ assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:false,available:false,observations:[],proposals:[]});
 });
 
 test('professional registration persists a declared role, exposes complete pages and preserves member defaults',async()=>{

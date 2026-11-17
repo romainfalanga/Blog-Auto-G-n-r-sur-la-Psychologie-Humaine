@@ -66,7 +66,7 @@ export function nativePortraitClaims(p){
  return claims;
 }
 const SUPPORT_SOURCE_CHAR_LIMIT=130000;
-const personalFields={profile:['self_description','self_perception','recurring_patterns','emotions','current_context'],like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
+const personalFields={profile:['self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm'],like:['reason','differences'],person:['relationship_text','helps','hurts','evolution'],event:['description','meaning_now','felt_then','felt_now','impact'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
 const hasText=value=>typeof value==='string'&&!!value.trim();
 function correctiveSource(source){
  if(!source.explicit)return false;

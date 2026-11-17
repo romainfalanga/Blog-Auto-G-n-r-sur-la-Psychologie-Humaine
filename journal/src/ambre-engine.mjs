@@ -10,6 +10,7 @@ import {approximateQuote,locateQuote,similarQuotes,sentenceAround,foldWithMap} f
 import {clinicalSignals,mergeSignals,compactSignals,signalGuidance,referralFallback,blockingReview,signalReview,missingReferral,asksAdvice,realitySignal,VERIFIED_NUMBERS} from './clinical-signals.mjs';
 import {responseSentences,conversationExcerpt} from './chat-text.mjs';
 import {peopleObservationContext,peopleObservationRevision} from './people-observations.mjs';
+import {PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,personLabelSuffix,eventLabelSuffix,unsafeRelation} from './context-fields.mjs';
 import {readChangeState,changeGuard,changeArtifactStatements,clearChangeMemoryState,dueChangeTrial} from './change-plan.mjs';
 import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,refusalError,reserveDaily,releaseDaily,dailyCapError,countMetric,countMetrics,DAILY_CAP_CODE as DAILY_CAP} from './provider-access.mjs';
 // A turn waits for a provider cooldown at most this long after it was queued.
@@ -152,7 +153,10 @@ export function deterministicAnalysis(message,memory={}){
  return {need:listen?'listen':advice?'advice':'understand',states,risk,posture:risk!=='none'?'safety':rupture?'repair':distress?'stabilize':listen?'listen':advice?'options':'explore',sensitive_allowed:false,constraints:[...(listen?['no_advice']:[]),...(noQuestions&&risk==='none'?['no_questions']:[]),...(distress||closed.length?['no_exploration',...(risk==='none'?['no_questions']:[])]:[]),...((memory.closed||[]).length?['respect_closed_topics']:[]),...(memory.closed_omitted||memory.closed_overflow?['no_exploration',...(risk==='none'?['no_questions']:[])]:[])],selected_ids:[],closed_topics:closed,...(hint?{risk_hint:true}:{}),...(signal?{safety_signal:signal.signal}:{})};
 }
 // Lot A5-P0: readable French labels and headers for the excerpts read by the writer.
-export const PROFILE_RUBRICS=[['self_description','Ma présentation'],['self_perception','Comment je me perçois'],['recurring_patterns','Les schémas que je remarque'],['emotions','Les émotions présentes'],['current_context','Mon contexte actuel'],['occupation','Activité']];
+// Lot A5-P2: three optional rubrics of the portrait page (self_data, no migration).
+export const PROFILE_RUBRICS=[['self_description','Ma présentation'],['self_perception','Comment je me perçois'],['recurring_patterns','Les schémas que je remarque'],['emotions','Les émotions présentes'],['current_context','Mon contexte actuel'],['occupation','Activité'],['what_brings_me','Ce qui m’amène'],['what_helps_me','Ce qui m’aide'],['life_rhythm','Mon rythme de vie']];
+// The analysis always sees these rubrics first (six rows at most), then the synthesis (four rows).
+const PINNED_RUBRICS=['self_description','what_brings_me','current_context','emotions','recurring_patterns','self_perception','what_helps_me','life_rhythm','occupation'];
 const ROLE_LABELS={father:'Père',mother:'Mère',parent:'Parent',partner:'Partenaire',child:'Enfant',sibling:'Frère ou sœur',friend:'Ami ou amie',best_friend:'Meilleur ami ou meilleure amie',other:'Autre'};
 const EVENT_KINDS={difficult:'difficile',positive:'positif',turning_point:'tournant',ambivalent:'ambivalent',other:'autre'};
 const confidenceWords=value=>typeof value!=='number'?null:value>=.75?'piste plus présente':value>=.45?'piste à confirmer':'piste fragile';
@@ -179,13 +183,17 @@ export function knowledgeIndex(context){
  const names=new Map((context.people||[]).map(p=>[p.id,p.display_name]));
  for(const p of (context.people||[]).slice(0,50)){
   const meta={role:p.role,custom_role:p.custom_role,period_start:p.period_start,period_end:p.period_end},role=p.custom_role||ROLE_LABELS[p.role]||p.role,period=[p.period_start,p.period_end].filter(Boolean).join(' – ');
-  add('person:'+p.id,'person',p.display_name+' — '+role,{...meta,display_name:p.display_name,relationship_text:p.relationship_text},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:''].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text}]});
+  // Lot A5-P2: the quality of the bond and the presence in the label; bond, presence and safety in
+  // the header; what helps, hurts and how the bond changed as parts of the detail.
+  const suffix=personLabelSuffix(p),extra=Object.fromEntries(PERSON_PARTS.filter(([k])=>String(p[k]||'').trim()).map(([k])=>[k,p[k]]));
+  add('person:'+p.id,'person',p.display_name+' — '+role+(suffix?' · '+suffix:''),{...meta,display_name:p.display_name,relationship_text:p.relationship_text,...(personFacts(p).length?{facts:personFacts(p)}:{}),...extra},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:'',...personFacts(p)].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text},...PERSON_PARTS.map(([k,name])=>({name,text:String(p[k]||'')}))]});
  }
  for(const e of (context.events||[]).slice(0,500)){
   const people=(e.people_ids||[]).map(id=>names.get(id)).filter(Boolean),age=Number.isInteger(e.age_at_event)?(e.age_at_event_approx?'vers ':'')+e.age_at_event+' ans':e.age_text||null;
   const meta={kind:e.kind,date_precision:e.date_precision,date_start:e.date_start,date_end:e.date_end,age_text:e.age_text,people_ids:e.people_ids,...(people.length?{people}:{}),...(Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event}:{}),...(e.current_importance!=null?{current_importance:e.current_importance}:{})};
   const when=[e.date_start,e.date_end].filter(Boolean).join(' – ');
-  add('event:'+e.id,'event',e.title,{...meta,description:e.description,meaning_now:e.meaning_now},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):''].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now}]});
+  const suffix=eventLabelSuffix(e),extra=Object.fromEntries(EVENT_PARTS.filter(([k])=>String(e[k]||'').trim()).map(([k])=>[k,e[k]]));
+  add('event:'+e.id,'event',e.title+(suffix?' · '+suffix:''),{...meta,description:e.description,meaning_now:e.meaning_now,...(eventFacts(e).length?{facts:eventFacts(e)}:{}),...extra},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):'',...eventFacts(e)].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now},...EVENT_PARTS.map(([k,name])=>({name,text:String(e[k]||'')}))]});
  }
  for(const source of (context.sources||[]).filter(source=>source.type!=='like').slice(0,560)){
   // C (audit v5): one entry per rubric of the self description, so that the later rubrics are reachable.
@@ -217,7 +225,7 @@ function rankIndex(index,message){
 export function analysisIndex(index,message,maxChars=2600){
  // A5-P0: the rubrics of the self description and the parts of the synthesis (ten short rows at
  // most) are always offered; lexical matches and the page order of the map follow.
- const pinned=index.filter(x=>['profile','portrait'].includes(x.kind)).slice(0,10),ranked=rankIndex(index,message),ordered=unique([...pinned,...ranked,...index]),selected=[];
+ const rank=x=>PINNED_RUBRICS.indexOf(x.metadata?.rubric),profiles=index.filter(x=>x.kind==='profile'),kept=new Set(profiles.slice().sort((a,b)=>rank(a)-rank(b)).slice(0,6)),pinned=[...profiles.filter(x=>kept.has(x)),...index.filter(x=>x.kind==='portrait').slice(0,4)],ranked=rankIndex(index,message),ordered=unique([...pinned,...ranked,...index]),selected=[];
  // F23: same selection as re-joining the lines for every candidate, in linear time.
  let length=0;for(const entry of ordered){if(selected.length>=48)break;const next=length+(selected.length?1:0)+indexLines([entry]).length;if(next>maxChars)continue;selected.push(entry);length=next}
  return {entries:selected,text:indexLines(selected),total:index.length,omitted:index.length-selected.length};
@@ -245,7 +253,7 @@ export function selectDetails(index,ids,message,maxChars=DETAILS_MAX_CHARS,{excl
 // A (audit v5, P0): the latest ready review as a bounded head + tail excerpt. Since A5-P1 the turn
 // receives the review thread instead (review-digest.mjs), which keeps this excerpt for reviews
 // without a digest; latestReview stays for the legacy path and its tests.
-export const LAST_REVIEW_CHARS=900,WRITING_SOURCES_CHARS=6500;
+export const LAST_REVIEW_CHARS=900,WRITING_SOURCES_CHARS=6300;
 export function latestReview(reviews){
  const review=(reviews||[])[0];if(!review?.content)return null;
  const text=headTail(review.content,LAST_REVIEW_CHARS);
@@ -502,7 +510,7 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
       // Deterministic clinical signals; the model may add a signal, never remove one.
       const previousJob=history.at(-1)?.id?await first(env,'SELECT analysis FROM chat_engine_jobs WHERE turn_id=? AND user_id=?',history.at(-1).id,job.user_id):null;
       // Only active signals are kept: nominal turns carry an empty object.
-      analysis.signals=compactSignals({...mergeSignals(clinicalSignals(turn.content,{identity:{age:snap.context.self_context?.age},history,plan:snap.change.state,memory}),analysis.model_signals||{}),repair_followup:parse(previousJob?.analysis).posture==='repair'});delete analysis.model_signals;if(!Object.keys(analysis.signals).length)delete analysis.signals;
+      analysis.signals=compactSignals({...mergeSignals(clinicalSignals(turn.content,{identity:{age:snap.context.self_context?.age},history,plan:snap.change.state,memory}),analysis.model_signals||{}),repair_followup:parse(previousJob?.analysis).posture==='repair',unsafe_relation:unsafeRelation(snap.context.people,turn.content,history.at(-1)?.user,parse(previousJob?.analysis).signals?.unsafe_relation)});delete analysis.model_signals;if(!Object.keys(analysis.signals).length)delete analysis.signals;
       // F19: when the analysis is unavailable, a dedicated risk check runs before any writing.
       if(fallback.risk==='none'&&(analysis.risk!=='none'||analysis.fallback)){
        analysis.risk_check={status:'pending',proposed_risk:analysis.risk!=='none'?analysis.risk:'unknown',...(analysis.fallback?{reason:'analysis_unavailable'}:{})};analysis.risk='none';
@@ -548,8 +556,9 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
      // Lot S budget: the depth rules and any signal guidance are paid for by fewer source excerpts.
      const lotS=WRITING_DEPTH_RULES.length+signalGuidance(analysis.signals).length+JSON.stringify(data.memory?.style||[]).length;
      // A5-P1: the thread has its own fixed share (1 200 characters): the details never compete with it,
-     // whatever its length, and the total stays that of P0 (6 500 characters with the last-review excerpt).
-     data.details=selectDetails(snap.index,analysis.selected_ids,turn.content,WRITING_SOURCES_CHARS-extra-lotS-(thread?THREAD_TURN_CHARS:0),{exclude:thread?['review:'+thread.last.id]:[]});
+     // whatever its length. A5-P2 reserves 200 more characters for the new field/consent contract;
+     // proposed and remembered observations also share this envelope instead of expanding it.
+     data.details=selectDetails(snap.index,analysis.selected_ids,turn.content,WRITING_SOURCES_CHARS-extra-lotS-(thread?THREAD_TURN_CHARS:0)-JSON.stringify(data.observation_candidates||{}).length-JSON.stringify(data.reported_relationship_observations||{}).length,{exclude:thread?['review:'+thread.last.id]:[]});
      data.cartography_targets=data.details.filter(x=>['cause','outcome'].includes(x.kind)).map(x=>({target:x.kind==='cause'?'factor':'outcome',target_id:x.key.split(':').at(-1),label:x.label}));
      const ledger=await first(env,'SELECT reserved_tokens FROM chat_engine_jobs WHERE turn_id=?',job.turn_id),traced=parse((await first(env,'SELECT trace FROM chat_turn_traces WHERE turn_id=?',job.turn_id))?.trace),baseReserved=ledger.reserved_tokens-recoveryReservations(traced);
      // Reserve both writer passes and both reviews before buying the first draft.
@@ -722,7 +731,7 @@ Utilise les dates Europe/Paris et le suivi déclaré : prépare ce qui compte po
    {key:'accepted_memory',label:'Précisions personnelles confirmées',api_path:'/api/memory',edit_path:'/mon-compte/',usage:'selected_only',description:'Cette mémoire permanente distincte de la mémoire de conversation figure dans l’index ; son extrait est lu si sélectionné.'},
    {key:'older_history',label:'Conversation plus ancienne',count:Math.max(0,(counts?.history||0)-history.length),api_path:'/api/chat',full_api_path:'/api/export',edit_path:'/mon-accompagnement/',usage:'summarized_only',description:'Au-delà des six échanges récents, seuls les éléments retenus dans la mémoire de conversation sont transmis. L’export contient l’historique conservé.'},
    {key:'reviews',label:'Bilans préparés par Ambre',count:counts?.reviews||0,api_path:'/api/reviews',edit_path:'/mes-bilans/',usage:'selected_only',description:'Le fil des bilans (1 200 caractères au plus : formulation, objectifs suivis et leur état, essais, vos retours sur les bilans) accompagne chaque message ; un point d’étape en reçoit une version plus longue (3 000 caractères). Pour un bilan rédigé avant ce fil, un extrait daté (début et fin) le remplace. Les quatre derniers bilans figurent dans l’index et leur extrait est lu s’il est pertinent. Une synthèse d’Ambre ne remplace pas les faits rapportés par la personne.'},
-   {key:'people_observations',label:'Notes enregistrées sur vos proches',count:counts?.observations||0,api_path:'/api/people',edit_path:'/mes-proches/',usage:'selected_only',description:'Les notes autorisées sont rappelées seulement pour le proche identifié dans l’échange, selon les protections de consentement et de contenu.'},
+   {key:'people_observations',label:'Notes enregistrées sur vos proches',count:counts?.observations||0,api_path:'/api/people',edit_path:'/mes-proches/',usage:'selected_only',description:'Seuls les repères validés individuellement sont rappelés pour le proche identifié. Chaque proposition peut être corrigée ou refusée avant enregistrement.'},
    {key:'care_records',label:'Séances, partages et comptes rendus de suivi',api_path:'/api/care',edit_path:'/mon-suivi/',usage:'care_dates_only',description:'Le cadre du suivi et les dates encadrantes sont transmis. Les dossiers partagés et comptes rendus restent dans Mon suivi.'},
    {key:'account',label:'Compte, abonnement et préférences',api_path:'/api/me',edit_path:'/mon-compte/',usage:'not_sent_to_chat',description:'L’adresse de connexion, les données de paiement et les paramètres techniques ne sont pas envoyés aux modèles de conversation.'}
   ];

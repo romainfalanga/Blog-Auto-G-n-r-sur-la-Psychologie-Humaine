@@ -26,7 +26,7 @@ const yesNo={type:'string',enum:['yes','no']},yesNoNa={type:'string',enum:['yes'
 export const REVIEW_CHECK_CRITERIA={no_diagnosis:'Aucun diagnostic ni nom de trouble présenté comme acquis, pour la personne ou un proche.',quotes_faithful:'Les citations et « vous écrivez que… » reprennent des mots présents dans le contexte, sans invention ni déformation.',safety_resources:'Si safety_signal est présent : le 3114 (ou 17/112 pour une violence) et une aide humaine figurent ; sinon na.',hypotheses_open:'Les interprétations restent des hypothèses révisables, sans score, pourcentage ni certitude.',no_saved_claim:'Aucun enregistrement annoncé, aucune consigne professionnelle inventée.',sources_honest:'Les sources manquantes ou minces sont dites sans reproche.'};
 export const REVIEW_CHECK_SCHEMA=object({criteria:object(Object.fromEntries(Object.keys(REVIEW_CHECK_CRITERIA).map(key=>[key,key==='safety_resources'?yesNoNa:yesNo]))),reasons:list(s)});
 // Blocking criteria (plan v5.1): no diagnosis, no invented quote, safety resources when a signal is present.
-export const BLOCKING_CHECKS=['diagnosis','invented_quote','safety_missing','unverified_number','no_diagnosis','quotes_faithful','safety_resources'];
+export const BLOCKING_CHECKS=['unsafe_confrontation','diagnosis','invented_quote','safety_missing','unverified_number','no_diagnosis','quotes_faithful','safety_resources'];
 // Closed lists: own keys only (never "constructor", "__proto__" or "toString").
 export const inList=(list,value)=>typeof value==='string'&&Object.hasOwn(list,value);
 const clip=(value,max)=>typeof value==='string'?value.replace(/\s+/g,' ').trim().slice(0,max):'';

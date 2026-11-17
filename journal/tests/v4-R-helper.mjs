@@ -7,13 +7,13 @@ import {createChatBackend} from '../src/chat-backend.mjs';
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
 
 export const migrationNames=()=>readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort();
-export function database(){
+export function database(until='9999'){
  const raw=new DatabaseSync(':memory:');raw.exec('PRAGMA foreign_keys=ON');
- for(const name of migrationNames())raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
+ for(const name of migrationNames().filter(name=>name<until))raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
  return raw;
 }
-export function setup({users=['a','b'],env:extra={}}={}){
- const raw=database(),stats={statements:0,sql:new Map()};
+export function setup({users=['a','b'],env:extra={},until='9999'}={}){
+ const raw=database(until),stats={statements:0,sql:new Map()};
  const note=sql=>{stats.statements++;stats.sql.set(sql,(stats.sql.get(sql)||0)+1)};
  function prepare(sql){let args=[];return {bind(...a){args=a;return this},async first(){note(sql);return raw.prepare(sql).get(...args)||null},async all(){note(sql);return {results:raw.prepare(sql).all(...args)}},async run(){note(sql);return {meta:{changes:raw.prepare(sql).run(...args).changes}}}}}
  let queue=Promise.resolve();
