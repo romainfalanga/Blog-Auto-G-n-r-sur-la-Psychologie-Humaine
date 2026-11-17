@@ -64,7 +64,7 @@ test('strength guard: a subject held only by limited links or models never prece
  for(const answers of mixed(2000,99)){
   const shown=computeCartography(answers).results.filter(r=>r.section!=='recognized'&&r.section!=='dismissed');
   // Serious disorders without a strong link are kept out of the five first on purpose.
-  const lastStrong=shown.map(r=>r.max_points>=8&&!(r.serious&&r.max_points<12)).lastIndexOf(true);
+  const lastStrong=shown.map(r=>r.max_points>=8&&!r.familial&&!(r.serious&&r.max_points<12)).lastIndexOf(true);
   const firstWeak=shown.findIndex(r=>r.max_points<=4);
   if(lastStrong>=0&&firstWeak>=0)assert.ok(firstWeak>lastStrong,JSON.stringify(answers));
   // Without the guard a weak subject would sometimes lead: the guard is not a no-op.
@@ -86,6 +86,11 @@ test('simulation on 2 000 mixed profiles stays within the agreed bounds',()=>{
  assert.ok(first/n<0.40,'depression or anxiety first: '+first/n);
  assert.ok(top3/n<0.70,'depression or anxiety in top 3: '+top3/n);
  assert.ok(weak/n<0.12,'head held by a single limited link: '+weak/n);
+ // Clinical counter-review: a first card resting only on familial transmission, or a
+ // serious disorder without a strong link among the five first, should not happen.
+ let familial=0,serious=0;
+ for(const answers of mixed(2000,20261119)){const state=computeCartography(answers);if(state.results[0]?.familial)familial++;if(state.sections.top.some(r=>r.serious&&r.max_points<12))serious++;}
+ assert.ok(familial/n<0.01,'first card only familial: '+familial/n);assert.equal(serious,0);
 });
 
 test('« Souvent » may change the order but never the tier, the evidence or the count',()=>{
@@ -133,4 +138,19 @@ test('contract: summary sections, prompt block without score, index entries in s
  assert.ok(entries.every(e=>e.key&&e.kind&&typeof e.label==='string'&&e.metadata&&e.updated_at===5));
  assert.equal(entries.find(e=>e.key==='cartography:outcome:ten_sommeil').metadata.feedback,'non');
  assert.deepEqual(cartographyIndexEntries(null),[]);
+});
+
+test('a tight budget also reduces display_order duplicates, explicit negatives and checked causes, never recognized, top or frequent',()=>{
+ const answers=Object.fromEntries(ids.filter(id=>id!=='divorce').map((id,i)=>[id,i%7===0?0:1])),feedback={att_anxieux:'oui'};
+ const summary={version:1,locked_at:5,...summarizeCartography(answers,feedback),...cartographyEvidence(answers,feedback)};
+ const full=cartographyPromptBlock(summary),tight=cartographyPromptBlock(summary,6000);
+ assert.ok(JSON.stringify(full).length>9000);
+ assert.ok(JSON.stringify(tight).length<JSON.stringify(full).length);
+ assert.ok(tight.display_order.length<full.display_order.length&&tight.display_order_truncated);
+ assert.ok(tight.display_order.every(x=>x.feedback==='oui'||tight.sections.top.includes(x.id)));
+ assert.equal(tight.explicit_negative.length,0);assert.equal(tight.explicit_negative_omitted,full.explicit_negative.length);
+ assert.ok(tight.causes.length>=12&&tight.causes.length<full.causes.length);assert.equal(tight.causes_omitted,full.causes.length-tight.causes.length);
+ assert.deepEqual(tight.sections,full.sections);assert.deepEqual(tight.recognized,full.recognized);
+ assert.equal(summary.causes.length,full.causes.length,'the summary itself is never mutated');
+ assert.equal(summary.display_order.length,full.display_order.length);
 });

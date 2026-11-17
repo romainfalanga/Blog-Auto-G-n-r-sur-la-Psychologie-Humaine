@@ -84,7 +84,8 @@ const measuredLink=l=>isEmpiricalLink(l)&&POINTS[l.strength]>0;
 // Strength guard: a subject whose best measured link is limited never precedes a
 // subject with a moderate or strong link. Specificity is capped at 1 (1000) for serious
 // disorders and for links reflecting familial transmission (clinical review, lot C5a).
-const evidenceClass=r=>r.max_points>POINTS.limitee?0:1,UNIT=1000;
+// Familial-only subjects are treated as limited by the guard (clinical counter-review).
+const evidenceClass=r=>r.max_points>POINTS.limitee&&!r.familial?0:1,UNIT=1000;
 const compareRank=(a,b)=>Number(b.has_empirical)-Number(a.has_empirical)||evidenceClass(a)-evidenceClass(b)||b.relevance-a.relevance||b.evidence_families-a.evidence_families||b.max_points-a.max_points||binary(a.outcome.id,b.outcome.id);
 const sortLinks=(links,weights)=>links.slice().sort((a,b)=>Number(isEmpiricalLink(b))-Number(isEmpiricalLink(a))||weights[b.strength]-weights[a.strength]||binary(a.factor,b.factor));
 const answerLevels=(answers,factors)=>{const level={};for(const [id,value] of Object.entries(answers||{}))if(factors.has(id)&&(value===1||value===2))level[id]=value;return level;};
@@ -267,10 +268,10 @@ function cartographyWords(map){
 export function cartographyPromptBlock(summary,budget=Infinity){
  if(!summary)return null;
  const sections=summary.sections||{},compact=x=>({id:x.id,label:x.label,max_strength:x.max_strength,...(x.frequent?{frequent:true}:{}),...(x.familial_transmission?{familial_transmission:true}:{}),...(x.feedback?{feedback:x.feedback}:{})});
- const block={version:summary.version,locked_at:summary.locked_at,cause_count:summary.cause_count,ace_count:summary.ace_count,answered_count:summary.answered_count,explicit_negative:summary.explicit_negative||[],
-  display_order:summary.display_order||[],display_count:summary.display_count||0,
+ const block={version:summary.version,locked_at:summary.locked_at,cause_count:summary.cause_count,ace_count:summary.ace_count,answered_count:summary.answered_count,explicit_negative:(summary.explicit_negative||[]).slice(),
+  display_order:(summary.display_order||[]).slice(),display_count:summary.display_count||0,
   sections:{top:(sections.top||[]).map(x=>x.id),frequent:(sections.frequent||[]).map(compact),other_count:summary.other_count??(sections.other||[]).length},
-  contextual:[],exploratory:(summary.exploratory||[]).map(withoutUrl),evidence_sources:(summary.evidence_sources||[]).map(({url,...reference})=>reference),causes:summary.causes,
+  contextual:[],exploratory:(summary.exploratory||[]).map(withoutUrl),evidence_sources:(summary.evidence_sources||[]).map(({url,...reference})=>reference),causes:(summary.causes||[]).slice(),
   convergence:(summary.convergence||[]).map(withoutUrl),pistes:(summary.pistes||[]).map(withoutUrl),theorique_count:summary.theorique_count,recognized:summary.recognized||[],dismissed:summary.dismissed||[],suicide_recognized:Boolean(summary.suicide_recognized),truncated:Boolean(summary.truncated),
   evidence:(summary.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(summary.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(summary)};
  const size=()=>JSON.stringify(block).length;
@@ -283,6 +284,13 @@ export function cartographyPromptBlock(summary,budget=Infinity){
   if(block.evidence.length>1){block.evidence.pop();block.evidence_truncated=true;continue;}
   if(block.evidence_sources.length>1){block.evidence_sources.pop();block.evidence_sources_truncated=true;continue;}
   if(block.person_notes.length>4){block.person_notes.pop();block.notes_truncated=true;continue;}
+  // Tight budgets (reviews): display_order duplicates the sections beyond the recognized
+  // and first subjects; explicit "no" answers, then the checked causes beyond 12, go last.
+  const keep=new Set([...block.recognized.map(x=>x.id),...block.sections.top]);
+  const extra=block.display_order.findLastIndex(x=>!keep.has(x.id));
+  if(extra>=0){block.display_order.splice(extra,1);block.display_order_truncated=true;continue;}
+  if(block.explicit_negative.length){block.explicit_negative_omitted=(block.explicit_negative_omitted||0)+1;block.explicit_negative.pop();continue;}
+  if(block.causes?.length>12){block.causes_omitted=(block.causes_omitted||0)+1;block.causes.pop();continue;}
   break;
  }
  return block;

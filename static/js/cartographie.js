@@ -36,7 +36,9 @@
   // subject whose best measured link is limited never precedes a subject with a moderate
   // or strong link; then relevance, evidence families, strongest link, identifier
   // (binary order, no locale).
-  function evidenceClass(r) { return r.max_points > POINTS.limitee ? 0 : 1; }
+  // A subject whose measured links all come from a parent's illness or addiction
+  // (familial transmission) is treated as limited by the guard (clinical counter-review).
+  function evidenceClass(r) { return r.max_points > POINTS.limitee && !r.familial ? 0 : 1; }
   function compareRank(a, b) {
     return Number(b.has_empirical) - Number(a.has_empirical) || evidenceClass(a) - evidenceClass(b) || b.relevance - a.relevance || b.evidence_families - a.evidence_families || b.max_points - a.max_points || binary(a.outcome.id, b.outcome.id);
   }

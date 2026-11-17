@@ -86,7 +86,8 @@ test('E: a point keeps at least 6 people and 8 moments with text, the present ru
  assert.ok(user.includes('CTX_DEBUT')&&user.includes('EMO_DEBUT'),'current context and emotions stay');
  assert.equal(data.conversation_since.length,6);assert.ok(data.previous_review.text.includes('BILAN_P2_FIN'));
  const kept=data.sources.filter(x=>x.type==='event').map(x=>x.id),importance=Object.fromEntries(data.events.map(e=>[e.id,e.current_importance]));
- assert.ok(kept.every(id=>importance[id.slice(6)]>=2),'the moments kept are the most important today');
+ const keptSet=new Set(kept.map(id=>id.slice(6))),omitted=data.events.filter(e=>!keptSet.has(e.id)).map(e=>e.current_importance||0),minKept=Math.min(...kept.map(id=>importance[id.slice(6)]||0));
+ assert.ok(omitted.every(v=>v<=minKept),'omitted moments are never more important today than the moments kept');
  assert.ok(JSON.stringify(data).length<=34000);assert.equal(data.coverage.included,data.sources.length);
 });
 
