@@ -14,7 +14,7 @@ L’accès gratuit reste actif jusqu’à configuration du paiement (choix expli
 | R7 | Description résultat immédiate, détails utiles et espacement mobile | Enfance | Réalisé, vérifié localement |
 | R8 | Fenêtres de précision/manifestation préremplies avec sauvegarde explicite | Enfance | Réalisé, vérifié localement |
 | R9 | Retrait des mentions répétées demandées, anciennes données conservées | Enfance + UI | Réalisé, vérifié localement |
-| R10 | Affichage prêt, navigation sans ancien contenu, vérifications mobile/ordinateur | Tous + intégration | Recettes locales réussies ; vérification distante à faire |
+| R10 | Affichage prêt, navigation sans ancien contenu, vérifications mobile/ordinateur | Tous + intégration | Réalisé ; 16 premiers affichages vérifiés en production |
 
 Ordre : contrats et migrations additives → implémentations séparées → intégration → tests du projet et recette navigateur → relecture indépendante → sauvegarde Git et déploiement vérifié selon autorisation existante.
 
@@ -27,3 +27,7 @@ Relectures indépendantes : [données et accès](relecture-compte-timelines-donn
 Recettes locales : 113 tests UI, 19 parcours affichage/navigation, 12 parcours formulaires et timelines aux quatre largeurs, 55 parcours Mon enfance et 4 largeurs pour la bulle. Les scénarios couvrent aussi dates partielles, CAS des notes, brouillons, conservation des champs historiques et premier affichage prêt. La suite complète serveur et la livraison distante sont consignées dans la note de livraison finale.
 
 Validation finale locale : `npm --prefix journal test` : **838/838** ; `node --test tests/*.test.cjs` : **46/46** ; toutes les commandes de `.github/workflows/verify.yml` exécutées, dont **43 + 13 + 21 tests Python**, vertes. Génération de navigation cohérente, vérification de syntaxe et `git diff --check` sans erreur. Aucun appel modèle distant pour ces tests.
+
+## Livraison terminée
+
+PR 97 et 98 publiées, Worker complet et migrations 0025/0026 vérifiés, Netlify final prêt sur la fusion `9fa668063912bad7810e6cf0721e600aeb4571ba`. Recette distante réussie et comptes synthétiques supprimés. [Résultat, preuves et restauration](livraison-compte-timelines-2026-11-17.md).
