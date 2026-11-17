@@ -1,0 +1,19 @@
+{
+ "_doc": "Lacunes restantes de la Cartographie de l'enfance, reprises dans docs/etat-couverture.md par scripts/build_coverage_status.py. Source : docs/v5-C5b-avancement.md et docs/relecture-cartographie-v5-2026-11-19.md. Une lacune n'est ni un lien publié ni une absence de recherche.",
+ "items": [
+  {"kind": "lecture", "subject": "Longobardi 2022 (moqueries et préoccupation pour l'apparence)", "status": "texte_ferme", "note": "Lu au résumé seulement ; les deux liens restent « limitée »."},
+  {"kind": "lecture", "subject": "Liu 2023 (maltraitance et anxiété sociale)", "status": "texte_ferme", "note": "Lu au résumé seulement ; les quatre liens restent « limitée »."},
+  {"kind": "lecture", "subject": "Lawrence 2019 (parent anxieux et troubles anxieux de l'enfant)", "status": "texte_ferme", "note": "Risque propre à l'anxiété de séparation non vérifié dans le texte intégral."},
+  {"kind": "lecture", "subject": "Eltanamly 2021 (guerre, parentalité et adaptation des enfants)", "status": "tableaux_non_lus", "note": "Tableaux S2–S3 à lire avant de rouvrir le lien exil → difficultés dans l'enfance."},
+  {"kind": "lecture", "subject": "Credé 2023 (maltraitance et traits de personnalité)", "status": "non_lu", "note": "Ni le texte ni le résumé n'ont pu être ouverts."},
+  {"kind": "decision", "subject": "Négligence affective → troubles bipolaires", "status": "a_confirmer", "note": "Abaissé en « limitée » par cohérence avec la négligence matérielle (même méta-analyse) ; à confirmer par le propriétaire."},
+  {"kind": "domaine", "subject": "Big Five hors névrosisme (extraversion, agréabilité, conscienciosité, ouverture)", "status": "a_examiner", "note": "Registre : traits_hors_nevrosisme."},
+  {"kind": "domaine", "subject": "Domaines PID-5", "status": "a_examiner", "note": "Registre : pid5_domaines (aucune preuve trouvée à ce jour)."},
+  {"kind": "domaine", "subject": "Trouble du jeu vidéo (6C51)", "status": "a_examiner", "note": "Registre : 6C51."},
+  {"kind": "domaine", "subject": "Mentalisation", "status": "a_examiner", "note": "Registre : mentalisation."},
+  {"kind": "domaine", "subject": "Trouble d'accumulation (6B24)", "status": "a_examiner", "note": "Registre : 6B24."},
+  {"kind": "domaine", "subject": "Trouble explosif intermittent (6C73)", "status": "a_examiner", "note": "Registre : 6C73."},
+  {"kind": "domaine", "subject": "Trichotillomanie (6B25.0)", "status": "a_examiner", "note": "Registre : 6B25.0 (aucune preuve trouvée lors du lot 1)."},
+  {"kind": "domaine", "subject": "Achats compulsifs", "status": "a_examiner", "note": "Aucune entrée de registre à ce jour."}
+ ]
+}

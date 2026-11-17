@@ -7,7 +7,7 @@ import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,readdirSync} from 'node:fs';
 import {createPersonalBackend} from '../src/personal-backend.mjs';
 import {createChatBackend} from '../src/chat-backend.mjs';
-import {validateDigest,reviewThread,digestProse,reviewChecks,reviewVerdict,reviewSuggestion,reviewCorpus,REVIEW_OUTPUT_SCHEMA,REVIEW_CHECK_SCHEMA,THREAD_TURN_CHARS,THREAD_REVIEW_CHARS,DIGEST_MAX_CHARS} from '../src/review-digest.mjs';
+import {parseFeedback as parseFeedbackValue,validateDigest,reviewThread,digestProse,reviewChecks,reviewVerdict,reviewSuggestion,reviewCorpus,REVIEW_OUTPUT_SCHEMA,REVIEW_CHECK_SCHEMA,THREAD_TURN_CHARS,THREAD_REVIEW_CHARS,DIGEST_MAX_CHARS} from '../src/review-digest.mjs';
 import {buildReviewSystemPrompt} from '../src/psychology-framework.mjs';
 import {analysis,draft,review as critic,response} from './v4-R-helper.mjs';
 
@@ -247,4 +247,40 @@ test('Mes bilans: “Ce qu’Ambre retient de ce bilan” and the answer “Ce b
  box.all('TEXTAREA')[0].value='  Ce n’était pas ma sœur.  ';assert.equal(box.all('TEXTAREA')[0].maxLength,600);
  await buttons[3].click();assert.deepEqual(JSON.parse(JSON.stringify(sent)),[{path:'/api/reviews/r1/feedback',method:'PUT',body:{verdict:'to_correct',text:'Ce n’était pas ma sœur.'}}]);
  assert.match(box.textContent,/Ambre en tiendra compte au prochain point/);
+});
+
+// Independent review fixes (A5-P1): cooldown, exhausted attempts, closed lists, daily creations.
+test('fix 1: during a model cooldown the cron ends a review running for more than ten minutes',async t=>{
+ const s=setup();provider(t,{write:()=>{throw Object.assign(new Error('timeout'),{name:'TimeoutError'})}});
+ const r=await start(s);assert.equal(s.row(r.review_id).status,'running');
+ s.raw.prepare("INSERT INTO provider_state(scope,retry_at,reason,updated_at) VALUES('key',?,'provider_http_429',?)").run(s.now()+3600,s.now());
+ s.tick(300);assert.deepEqual(await s.chat.resumeReviews(s.env),{claimed:0,failed:0},'not yet ten minutes');assert.equal(s.row(r.review_id).status,'running');
+ s.tick(301);assert.deepEqual(await s.chat.resumeReviews(s.env),{claimed:0,failed:1});
+ const row=s.row(r.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,'provider_cooldown');assert.equal(row.draft,'');
+ assert.equal((await s.call('/api/chat')).journey.review.running_id,null,'the conversation is no longer blocked');
+});
+test('fix 2: a review failed by exhausted attempts loses its unchecked draft',async t=>{
+ const s=setup();provider(t,{check:()=>new Response('{}',{status:500})});
+ const r=await start(s);assert.equal(s.row(r.review_id).stage,'check');assert.notEqual(s.row(r.review_id).draft,'');
+ s.raw.prepare('UPDATE ambre_reviews SET attempts=3,lease_until=0 WHERE id=?').run(r.review_id);
+ assert.equal((await s.chat.resumeReviews(s.env)).failed,1);
+ const row=s.row(r.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,'provider_http_500');assert.equal(row.draft,'');
+});
+test('fix 3: closed lists accept their own keys only',async t=>{
+ const corpus='Je me tais souvent pour éviter les conflits avec ma sœur.';
+ for(const bad of ['constructor','__proto__','toString','hasOwnProperty']){
+  const d=validateDigest({goals:[{key:'g1',words:'parler',status:bad,quote:'Je me tais souvent pour éviter'}],tried:[{what:'Se taire',result:bad,quote:'Je me tais souvent pour éviter'}]},corpus);
+  assert.equal(d.goals.length,0,bad);assert.equal(d.tried.length,0,bad);
+  assert.equal(parseFeedbackValue({verdict:bad}),null,bad);
+ }
+ const s=setup();provider(t);const r=await start(s);
+ for(const bad of ['constructor','__proto__','toString'])assert.equal((await s.call('/api/reviews/'+r.review_id+'/feedback','PUT',{verdict:bad})).code,'invalid_input',bad);
+ assert.equal(s.row(r.review_id).feedback,null);
+});
+test('fix 4: eight review creations per day, whatever was deleted since',async t=>{
+ const s=setup();provider(t,{check:()=>({...PASS,criteria:{...PASS.criteria,no_diagnosis:'no'}})});
+ for(let i=0;i<8;i++){const r=await s.call('/api/chat/start','POST',{idempotency_key:'start_key_00'+i,accepted:true});assert.equal(r.status,202,i+' '+r.message);assert.equal(s.row(r.review_id).status,'failed');assert.equal((await s.call('/api/reviews/'+r.review_id,'DELETE')).deleted,true)}
+ assert.equal(s.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n,0,'every attempt was deleted');
+ const blocked=await s.call('/api/chat/start','POST',{idempotency_key:'start_key_009',accepted:true});assert.equal(blocked.status,429);assert.equal(blocked.code,'request_limit');
+ s.tick(86401);assert.equal((await s.call('/api/chat/start','POST',{idempotency_key:'start_key_010',accepted:true})).status,202,'a new day reopens the counter');
 });

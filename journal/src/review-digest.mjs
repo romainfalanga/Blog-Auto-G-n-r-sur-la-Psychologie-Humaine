@@ -27,13 +27,15 @@ export const REVIEW_CHECK_CRITERIA={no_diagnosis:'Aucun diagnostic ni nom de tro
 export const REVIEW_CHECK_SCHEMA=object({criteria:object(Object.fromEntries(Object.keys(REVIEW_CHECK_CRITERIA).map(key=>[key,key==='safety_resources'?yesNoNa:yesNo]))),reasons:list(s)});
 // Blocking criteria (plan v5.1): no diagnosis, no invented quote, safety resources when a signal is present.
 export const BLOCKING_CHECKS=['diagnosis','invented_quote','safety_missing','unverified_number','no_diagnosis','quotes_faithful','safety_resources'];
+// Closed lists: own keys only (never "constructor", "__proto__" or "toString").
+export const inList=(list,value)=>typeof value==='string'&&Object.hasOwn(list,value);
 const clip=(value,max)=>typeof value==='string'?value.replace(/\s+/g,' ').trim().slice(0,max):'';
 const parse=(value,fallback)=>{if(value&&typeof value==='object')return value;try{const out=JSON.parse(value);return out&&typeof out==='object'?out:fallback}catch{return fallback}};
 const headTail=(value,max)=>{const text=String(value??'');if(text.length<=max)return text;const gap=' […] ',head=Math.ceil((max-gap.length)*.6);return text.slice(0,head)+gap+text.slice(text.length-(max-gap.length-head))};
 const slug=value=>foldText(value).replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,40)||'objectif';
 export const parseDigest=value=>{const out=parse(value,{});return out&&typeof out==='object'&&!Array.isArray(out)?out:{}};
 export const emptyDigest=digest=>!digest||!['holds','revised','new'].some(k=>digest.formulation?.[k]?.length)&&!digest.goals?.length&&!digest.tried?.length&&!digest.alliance?.text&&!digest.open_questions?.length&&!digest.next_focus;
-export function parseFeedback(value){const out=parse(value,null);return out&&FEEDBACK_VERDICTS[out.verdict]?{verdict:out.verdict,text:clip(out.text,FEEDBACK_TEXT_MAX),at:Number(out.at)||null}:null}
+export function parseFeedback(value){const out=parse(value,null);return out&&inList(FEEDBACK_VERDICTS,out.verdict)?{verdict:out.verdict,text:clip(out.text,FEEDBACK_TEXT_MAX),at:Number(out.at)||null}:null}
 
 // The person's own words supplied to the review writer: the only place a digest quote may come from.
 export function reviewCorpus(data){
@@ -69,14 +71,14 @@ export function validateDigest(raw,corpus,{knownGoals=[]}={}){
  for(const key of ['holds','revised','new'])formulation[key]=items(input.formulation?.[key],3,v=>{const text=clip(v?.text,300),quote=anchor(v?.quote,key==='revised');return text&&quote?{text,quote}:null});
  const known=knownGoals.filter(g=>g&&typeof g.key==='string');
  const goals=items(input.goals,5,v=>{
-  const words=clip(v?.words,200),status=GOAL_STATUS[v?.status]?v.status:null,quote=anchor(v?.quote,['paused','dropped'].includes(v?.status));if(!words||!status||!quote)return null;
+  const words=clip(v?.words,200),status=inList(GOAL_STATUS,v?.status)?v.status:null,quote=anchor(v?.quote,['paused','dropped'].includes(v?.status));if(!words||!status||!quote)return null;
   // A goal is either a known one (same key or same words) or explicitly new.
   let key=/^[a-z0-9-]{2,40}$/.test(String(v.key||''))?v.key:slug(words);const match=known.find(g=>g.key===key)||known.find(g=>similarQuotes(g.words,words,0.6));
   if(match)key=match.key;
   return {key,words,status:match||status==='new'?status:'new',quote,next_step:clip(v?.next_step,200)};
  });
  const keys=new Set();for(const goal of goals){while(keys.has(goal.key))goal.key=(goal.key+'-2').slice(-40);keys.add(goal.key)}
- const tried=items(input.tried,5,v=>{const what=clip(v?.what,200),result=TRIED_RESULT[v?.result]?v.result:null,quote=anchor(v?.quote,['no_effect','hard','not_yet'].includes(v?.result));return what&&result&&quote?{what,result,quote}:null});
+ const tried=items(input.tried,5,v=>{const what=clip(v?.what,200),result=inList(TRIED_RESULT,v?.result)?v.result:null,quote=anchor(v?.quote,['no_effect','hard','not_yet'].includes(v?.result));return what&&result&&quote?{what,result,quote}:null});
  const allianceQuote=input.alliance?.text?anchor(input.alliance.quote):null;if(input.alliance?.text&&!allianceQuote)dropped++;
  const digest={v:1,formulation,goals,tried,alliance:allianceQuote?{text:clip(input.alliance.text,300),quote:allianceQuote}:null,open_questions:(Array.isArray(input.open_questions)?input.open_questions:[]).map(q=>clip(q,220)).filter(Boolean).slice(0,3),next_focus:clip(input.next_focus,300),safety:clip(input.safety,300),dropped};
  // Bounded: the least central elements leave first, and are counted.

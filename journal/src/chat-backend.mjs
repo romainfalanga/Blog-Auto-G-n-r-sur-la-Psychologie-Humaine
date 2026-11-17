@@ -663,12 +663,15 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  }
  const reviewKey=data=>{const key=bounded(data.idempotency_key,120,true);if(!/^[\w-]{8,120}$/.test(key))fail(400,'Clé d’idempotence requise.','idempotency_required');return key;};
  const reviewAnswer=async(env,userId,review)=>json({...await state(env,userId),review_id:review.id,review:reviewRow(review)},review.status==='running'?202:200);
+ const REVIEW_CREATED_KEY='review-created:',REVIEW_CREATED_PER_DAY=8;
  async function createReview(env,user,kind,key,ctx){
   const id=random(),lease=random(),inline=Math.max(0,Math.min(28000,Number(env.REVIEW_INLINE_TIMEOUT_MS??25000)||0)),t=now();
   // At most four reviews reach the conversation per day, whatever was deleted since.
   if((await first(env,"SELECT count(*) AS n FROM chat_turns WHERE user_id=? AND idempotency_key LIKE 'review-%' AND created_at>datetime('now','-1 day')",user.id)).n>=4)fail(429,'Trop de bilans demandés aujourd’hui. Réessayez demain.','request_limit');
-  // A5-P1: a review not approved by its check is not published; attempts stay bounded per day too.
-  if((await first(env,"SELECT count(*) AS n FROM ambre_reviews WHERE user_id=? AND created_at>?",user.id,t-86400)).n>=8)fail(429,'Trop de bilans demandés aujourd’hui. Réessayez demain.','request_limit');
+  // A5-P1: a review not approved by its check is not published; creations stay bounded per day too,
+  // in a per-person counter that deleting a review does not lower (rate_limits, 24 h window).
+  const created=await first(env,'SELECT count,expires_at FROM rate_limits WHERE key=?',REVIEW_CREATED_KEY+user.id);
+  if(created&&created.expires_at>t&&created.count>=REVIEW_CREATED_PER_DAY)fail(429,'Trop de bilans demandés aujourd’hui. Réessayez demain.','request_limit');
   // With no inline attempt the lease is already expired: the next cron run takes it.
   const result=await run(env,"INSERT OR IGNORE INTO ambre_reviews(id,user_id,kind,status,idempotency_key,attempts,lease_token,lease_until,created_at) SELECT ?,?,?,'running',?,?,?,?,? WHERE NOT EXISTS(SELECT 1 FROM ambre_reviews WHERE user_id=? AND status='running')",id,user.id,kind,key,inline?1:0,inline?lease:null,inline?t+Math.ceil(inline/1000)+30:0,t,user.id);
   if(!result.meta.changes){
@@ -676,6 +679,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(duplicate)return reviewAnswer(env,user.id,duplicate);
    fail(409,'Un bilan est déjà en préparation.','review_in_progress');
   }
+  await run(env,'INSERT INTO rate_limits(key,count,expires_at) VALUES(?,1,?) ON CONFLICT(key) DO UPDATE SET count=CASE WHEN expires_at<=? THEN 1 ELSE count+1 END,expires_at=CASE WHEN expires_at<=? THEN ? ELSE expires_at END',REVIEW_CREATED_KEY+user.id,t+86400,t,t,t+86400);
   const review={id,user_id:user.id,kind,status:'running',lease_token:lease,attempts:1,created_at:t};
   if(inline){const task=runReview(env,review,{timeoutMs:inline});if(ctx?.waitUntil)ctx.waitUntil(task);else await task;}
   return json({...await state(env,user.id),review_id:id},202);
@@ -918,10 +922,15 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   const summary={claimed:0,failed:0};
   if(!env?.OPENROUTER_API_KEY||generationPaused(env))return summary;
   const t=now();
-  const expired=await reviewTable(()=>run(env,"UPDATE ambre_reviews SET status='failed',error_code=COALESCE(error_code,'attempts_exhausted'),lease_token=NULL,lease_until=0,completed_at=? WHERE status='running' AND lease_until<=? AND attempts>=?",t,t,REVIEW_ATTEMPTS),null);
+  const columns=await reviewColumnsReady(env).catch(()=>false),clear=columns?",draft=''":'';
+  const expired=await reviewTable(()=>run(env,`UPDATE ambre_reviews SET status='failed',error_code=COALESCE(error_code,'attempts_exhausted'),lease_token=NULL,lease_until=0,completed_at=?${clear} WHERE status='running' AND lease_until<=? AND attempts>=?`,t,t,REVIEW_ATTEMPTS),null);
   if(!expired)return summary;
   summary.failed=expired.meta.changes;
-  if(!engineEnabled&&await providerCooldown(env)||await providerBlock(env,[reviewModel(env)],now()))return summary;
+  if(!engineEnabled&&await providerCooldown(env)||await providerBlock(env,[reviewModel(env)],now())){
+   // A running review blocks the conversation: during a cooldown it is not left waiting past ten minutes.
+   const stale=await run(env,`UPDATE ambre_reviews SET status='failed',error_code='provider_cooldown',lease_token=NULL,lease_until=0,completed_at=?${clear} WHERE status='running' AND lease_until<=? AND created_at<?`,t,t,t-600);
+   summary.failed+=stale.meta.changes;return summary;
+  }
   const due=await all(env,"SELECT id,user_id,kind,created_at FROM ambre_reviews WHERE status='running' AND lease_until<=? ORDER BY lease_until,id LIMIT ?",t,Math.max(1,Math.min(20,limit))),tasks=[];
   for(const row of due){
    const lease=random(),claim=await run(env,"UPDATE ambre_reviews SET lease_token=?,lease_until=?,attempts=attempts+1 WHERE id=? AND status='running' AND lease_until<=? AND attempts<?",lease,t+Math.ceil(timeoutMs/1000)+30,row.id,t,REVIEW_ATTEMPTS);
@@ -939,7 +948,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(method!=='PUT')fail(405,'Méthode non autorisée.','method_not_allowed');
    if(!columns)fail(503,'Le retour sur un bilan sera disponible prochainement.','feature_unavailable');
    const data=await body(request,4000),verdict=data.verdict===null?null:data.verdict;
-   if(verdict!==null&&!FEEDBACK_VERDICTS[verdict])fail(400,'Choisissez « Ce bilan me ressemble », « Pas vraiment » ou « À corriger ».','invalid_input');
+   if(verdict!==null&&!(typeof verdict==='string'&&Object.hasOwn(FEEDBACK_VERDICTS,verdict)))fail(400,'Choisissez « Ce bilan me ressemble », « Pas vraiment » ou « À corriger ».','invalid_input');
    if(data.text!==undefined&&typeof data.text!=='string')fail(400,'Texte invalide.','invalid_input');
    const text=bounded(data.text||'',FEEDBACK_TEXT_MAX);
    if(verdict===null&&text)fail(400,'Choisissez d’abord une réponse.','invalid_input');

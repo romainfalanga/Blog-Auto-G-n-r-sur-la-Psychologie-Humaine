@@ -119,6 +119,27 @@ Ce tableau suit les scénarios candidats déjà présents dans la cartographie. 
 | 6C45.72 | Trouble obsessionnel-compulsif ou apparenté provoqué par la cocaïne | Iris |
 | 6C45.73 | Trouble du contrôle des impulsions provoqué par la cocaïne | Daphné |
 
+## Cartographie de l’enfance : lacunes restantes
+
+La carte relie 113 sujets par 518 liens sourcés. Les points suivants restent ouverts ; ils ne sont ni des liens publiés ni des absences de recherche. Les décisions détaillées figurent dans [le registre des référentiels](../editorial/cartographie/couverture-referentiels.json).
+
+| Nature | Sujet | Note |
+| --- | --- | --- |
+| Source à lire | Longobardi 2022 (moqueries et préoccupation pour l'apparence) | Lu au résumé seulement ; les deux liens restent « limitée ». |
+| Source à lire | Liu 2023 (maltraitance et anxiété sociale) | Lu au résumé seulement ; les quatre liens restent « limitée ». |
+| Source à lire | Lawrence 2019 (parent anxieux et troubles anxieux de l'enfant) | Risque propre à l'anxiété de séparation non vérifié dans le texte intégral. |
+| Source à lire | Eltanamly 2021 (guerre, parentalité et adaptation des enfants) | Tableaux S2–S3 à lire avant de rouvrir le lien exil → difficultés dans l'enfance. |
+| Source à lire | Credé 2023 (maltraitance et traits de personnalité) | Ni le texte ni le résumé n'ont pu être ouverts. |
+| Décision à confirmer | Négligence affective → troubles bipolaires | Abaissé en « limitée » par cohérence avec la négligence matérielle (même méta-analyse) ; à confirmer par le propriétaire. |
+| Domaine à examiner | Big Five hors névrosisme (extraversion, agréabilité, conscienciosité, ouverture) | Registre : traits_hors_nevrosisme. |
+| Domaine à examiner | Domaines PID-5 | Registre : pid5_domaines (aucune preuve trouvée à ce jour). |
+| Domaine à examiner | Trouble du jeu vidéo (6C51) | Registre : 6C51. |
+| Domaine à examiner | Mentalisation | Registre : mentalisation. |
+| Domaine à examiner | Trouble d'accumulation (6B24) | Registre : 6B24. |
+| Domaine à examiner | Trouble explosif intermittent (6C73) | Registre : 6C73. |
+| Domaine à examiner | Trichotillomanie (6B25.0) | Registre : 6B25.0 (aucune preuve trouvée lors du lot 1). |
+| Domaine à examiner | Achats compulsifs | Aucune entrée de registre à ce jour. |
+
 ## Reproduire et contrôler cet état
 
 ```sh

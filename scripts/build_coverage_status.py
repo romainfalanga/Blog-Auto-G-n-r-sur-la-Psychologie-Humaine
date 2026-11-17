@@ -14,6 +14,21 @@ def read(path):
     return json.loads((ROOT / path).read_text())
 
 
+GAP_KIND = {'lecture': 'Source à lire', 'decision': 'Décision à confirmer', 'domaine': 'Domaine à examiner'}
+
+
+def cartography_gaps():
+    """Remaining gaps of the childhood map, kept visible until they are resolved."""
+    path = ROOT / 'editorial/cartographie/lacunes.json'
+    if not path.exists():
+        return {'subjects': 0, 'links': 0, 'items': []}
+    data = read('data/cartographie.json')
+    items = json.loads(path.read_text())['items']
+    for item in items:
+        assert item['kind'] in GAP_KIND and item['subject'] and item['status'], item
+    return {'subjects': len(data['outcomes']), 'links': len(data['links']), 'items': items}
+
+
 def build():
     clinical = read('data/clinical_catalog.json')
     releases = read('editorial/clinical/releases.json')['arcs']
@@ -110,6 +125,7 @@ def build():
                  'note': 'Distinguer le tableau DSM du besoin de soutien et des schémas de dépendance ordinaires.'},
             ],
             'psychology_patterns': pattern_rows,
+            'cartography_gaps': cartography_gaps(),
             'broader_framework_review': 'data/psychology_coverage_review.json'}
 
 
@@ -162,6 +178,15 @@ def markdown(data):
               '| Code | Sujet | Scénario candidat |', '| --- | --- | --- |']
     for row in data['pending_cases']:
         lines.append(f"| {row['code']} | {row['label'].replace('|', ' / ')} | {row['name']} |")
+    gaps = data['cartography_gaps']
+    if gaps['items']:
+        lines += ['', '## Cartographie de l’enfance : lacunes restantes', '',
+                  f"La carte relie {gaps['subjects']} sujets par {gaps['links']} liens sourcés. Les points suivants "
+                  "restent ouverts ; ils ne sont ni des liens publiés ni des absences de recherche. Les décisions "
+                  "détaillées figurent dans [le registre des référentiels](../editorial/cartographie/couverture-referentiels.json).", '',
+                  '| Nature | Sujet | Note |', '| --- | --- | --- |']
+        for item in gaps['items']:
+            lines.append(f"| {GAP_KIND[item['kind']]} | {item['subject'].replace('|', ' / ')} | {item['note'].replace('|', ' / ')} |")
     lines += ['', '## Reproduire et contrôler cet état', '', '```sh',
               'python3 scripts/build_coverage_status.py', 'python3 scripts/build_coverage_status.py --check',
               '```', '', 'La génération vérifie les empreintes de relecture et les douze articles indexés de chaque '
