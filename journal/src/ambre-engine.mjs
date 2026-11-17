@@ -422,16 +422,20 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
  }
  async function snapshot(env,userId,message='',options={}){
   const entry=await personalContext(env,userId),context=entry.context,memory=await first(env,'SELECT * FROM chat_memory WHERE user_id=?',userId),care=timedCare(await loadCareContext(env,userId,now()));
-  const reviews=await all(env,"SELECT id,kind,content,completed_at FROM ambre_reviews WHERE user_id=? AND status='ready' ORDER BY completed_at DESC,id DESC LIMIT 4",userId),settings=await first(env,'SELECT * FROM chat_settings WHERE user_id=?',userId),observationRevision=peopleObservationRevision(settings);
+  // Lot A5-P1: one bounded read gives the four latest texts (index) and the digests and feedback of
+  // the twelve latest reviews (thread); before the 0023 migration, the four texts only.
+  const reviewRows=await reviewColumnsReady(env)?await all(env,`SELECT id,kind,completed_at,digest,feedback,CASE WHEN rn<=4 THEN content END AS content FROM (SELECT id,kind,completed_at,digest,feedback,content,row_number() OVER (ORDER BY completed_at DESC,id DESC) AS rn FROM ambre_reviews WHERE user_id=? AND status='ready' ORDER BY completed_at DESC,id DESC LIMIT ${THREAD_REVIEWS}) ORDER BY rn`,userId):await all(env,"SELECT id,kind,content,completed_at FROM ambre_reviews WHERE user_id=? AND status='ready' ORDER BY completed_at DESC,id DESC LIMIT 4",userId);
+  const reviews=reviewRows.slice(0,4),settings=await first(env,'SELECT * FROM chat_settings WHERE user_id=?',userId),observationRevision=peopleObservationRevision(settings);
   const change=await loadChangeContext(env,userId,message,now(),options),memoryContext=memoryPrompt(parse(memory?.summary));
   if(change.state.exploration_reconsent_required&&!change.context.plan.current_topic_reopened)memoryContext.closed_omitted=true;
   if(change.state.past_safety_signal)memoryContext.safety_seen=true;
   // Byte-identical to JSON.stringify of the full array, so stored source hashes stay valid.
   const prefix=entry.prefix||[context.source_version,context.portrait_version,context.updated_at,context.portrait,context.subject,context.self_context,context.cartography].map(jsonPiece);
-  const hash=await contextHash('['+[...prefix,...[memory?.revision||0,care,reviews,observationRevision,change.state.revision,change.state.epoch,change.state.context_generation,change.catalogue_version].map(jsonPiece)].join(',')+']');
-  const indexKey=JSON.stringify(reviews);let index=entry.indexes?.get(indexKey);
+  // The source hash and the index cache key cover the digests and the feedback (thread inputs).
+  const hash=await contextHash('['+[...prefix,...[memory?.revision||0,care,reviewRows,observationRevision,change.state.revision,change.state.epoch,change.state.context_generation,change.catalogue_version].map(jsonPiece)].join(',')+']');
+  const indexKey=JSON.stringify(reviewRows);let index=entry.indexes?.get(indexKey);
   if(!index){index=knowledgeIndex({...context,reviews});if(entry.indexes){entry.indexes.clear();entry.indexes.set(indexKey,index)}}
-  return {context,memory:memoryContext,memoryRow:memory,care,reviews,change,observationRevision,hash,index};
+  return {context,memory:memoryContext,memoryRow:memory,care,reviews,reviewRows,change,observationRevision,hash,index};
  }
  async function recent(env,userId,limit=6){const change=await readChangeState(env,userId),generation=change.available?' AND context_generation=?':'',rows=(await all(env,"SELECT id,content,response,created_at FROM chat_turns WHERE user_id=? AND status='completed' AND purged=0 AND idempotency_key NOT LIKE 'review-%'"+generation+" ORDER BY rowid DESC LIMIT ?",userId,...(change.available?[change.context_generation]:[]),limit)).reverse();return rows.map((x,i)=>({id:x.id,at:parisTime(Date.parse(x.created_at.replace(' ','T')+'Z')/1000),user:conversationExcerpt(x.content,i===rows.length-1?500:200),assistant:conversationExcerpt(parse(x.response,{content:x.response}).content,i===rows.length-1?700:320)}))}
  async function enqueue(env,userId,turn){const s=await snapshot(env,userId);const row=await first(env,'SELECT * FROM chat_turns WHERE id=? AND user_id=?',turn.id,userId);if(s.change.state.available&&row?.context_generation!==s.change.state.context_generation)throw Object.assign(Error('Generation changed'),{code:'context_changed'});await run(env,"INSERT OR IGNORE INTO chat_engine_jobs(turn_id,user_id,source_hash,created_at,updated_at) VALUES(?,?,?,?,?)",turn.id,userId,s.hash,now(),now());await run(env,'UPDATE chat_turns SET lease_until=? WHERE id=? AND status=\'running\'',now()+600,turn.id)}
