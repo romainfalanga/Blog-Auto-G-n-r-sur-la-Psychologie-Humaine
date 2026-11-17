@@ -4,7 +4,7 @@ import {CARE_SCOPES} from '../src/care-backend.mjs';
 import {careSetup} from './care-helper.mjs';
 
 function setup(t){const s=careSetup();t.after(()=>s.close());return s}
-async function prepare(s,link,id='session'){s.session(id);return s.call('/api/care/briefs','POST',{link_id:link.id,session_id:id})}
+async function prepare(s,link,id='session'){s.readyGeneration(link.user_id);s.session(id);return s.call('/api/care/briefs','POST',{link_id:link.id,session_id:id})}
 
 test('pending codes disclose no account existence, are random, hashed and bound to a preexisting professional',async t=>{
  const s=setup(t),pending=[];
@@ -66,8 +66,8 @@ test('all authorized source types have readable labels and derived provenance; p
  s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES('review','a','point','ready','Synthèse antérieure','review',?,?)").run(s.now()-60,s.now()-60);
  s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,updated_at) VALUES('a','{\"critique\":1}','{}','{\"factors\":{\"critique\":\"Mots personnels\"}}','{}','[]',1,?,?)").run(s.now(),s.now());
  s.raw.prepare("INSERT INTO user_portraits(user_id,portrait,analyzed_version,updated_at) VALUES('a','{\"summary\":\"Synthèse du portrait\"}',1,?)").run(new Date(s.now()*1000).toISOString());
- const queued=await prepare(s,link);const sources=JSON.parse(s.calls[0].user).sources;assert.equal(CARE_SCOPES.length,7);assert.equal(sources.length,8);assert.equal(new Set(sources.map(source=>source.id)).size,8);assert.match(sources.find(source=>source.id==='plan:goals:goal').provenance,/explicitement choisi/);assert.match(sources.find(source=>source.id==='cartography').text,/Critiques et exigences constantes/);assert.match(sources.find(source=>source.id==='portrait').provenance,/date de modification inconnue/);assert.match(sources.find(source=>source.id==='review:review').provenance,/Synthèse IA/);
- assert.equal((await s.call(`/api/care/briefs/${queued.id}`)).brief.coverage.processed,8);const map=await s.call(`/api/care/dossiers/${link.id}/cartography`,'GET',undefined,'pro');assert.equal(map.data.summary.causes[0].label,'Critiques et exigences constantes');
+ const queued=await prepare(s,link);const sources=JSON.parse(s.calls[0].user).sources;assert.equal(CARE_SCOPES.length,7);assert.equal(sources.length,14);assert.equal(new Set(sources.map(source=>source.id)).size,14);assert.match(sources.find(source=>source.id==='plan:goals:goal').provenance,/explicitement choisi/);assert.match(sources.find(source=>source.id==='cartography').text,/Critiques et exigences constantes/);assert.match(sources.find(source=>source.id==='portrait').provenance,/date de modification inconnue/);assert.match(sources.find(source=>source.id==='review:review').provenance,/Synthèse IA/);
+ assert.equal((await s.call(`/api/care/briefs/${queued.id}`)).brief.coverage.processed,14);const map=await s.call(`/api/care/dossiers/${link.id}/cartography`,'GET',undefined,'pro');assert.equal(map.data.summary.causes[0].label,'Critiques et exigences constantes');
 });
 
 test('revocation during generation clears in-flight content and immediately denies later reads',async t=>{
@@ -93,7 +93,7 @@ test('ready points stop exposing removed source text and are regenerated after e
 });
 
 test('leases exclude duplicate work, resume after expiry and reject late publication',async t=>{
- const s=setup(t),link=await s.share();s.turn('turn');s.session('session');const queued=await s.care.queueBrief(s.env,link,s.raw.prepare("SELECT * FROM care_sessions WHERE id='session'").get());s.raw.prepare("UPDATE care_briefs SET status='running',lease_token='previous',lease_until=? WHERE id=?").run(s.now()+100,queued.id);await s.care.processBrief(s.env,queued.id);assert.equal(s.calls.length,0);s.setClock(s.now()+101);await s.care.processBrief(s.env,queued.id);assert.equal(s.calls.length,1);assert.equal((await s.call(`/api/care/briefs/${queued.id}`)).brief.status,'ready');
+ const s=setup(t),link=await s.share();s.turn('turn');s.readyGeneration();s.session('session');const queued=await s.care.queueBrief(s.env,link,s.raw.prepare("SELECT * FROM care_sessions WHERE id='session'").get());s.raw.prepare("UPDATE care_briefs SET status='running',lease_token='previous',lease_until=? WHERE id=?").run(s.now()+100,queued.id);await s.care.processBrief(s.env,queued.id);assert.equal(s.calls.length,0);s.setClock(s.now()+101);await s.care.processBrief(s.env,queued.id);assert.equal(s.calls.length,1);assert.equal((await s.call(`/api/care/briefs/${queued.id}`)).brief.status,'ready');
  s.turn('second');s.setGenerator(async()=>{s.setClock(s.now()+151);return {text:'{"items":[]}'}});await s.call('/api/care/briefs','POST',{link_id:link.id,session_id:'session'});assert.equal(s.raw.prepare('SELECT status FROM care_briefs WHERE id=?').get(queued.id).status,'failed');
 });
 
@@ -108,13 +108,13 @@ test('manual and automatic preparation share four daily slots and unchanged read
 });
 
 test('automatic preparation rotates past unchanged ready points and exhausted member budgets',async t=>{
- const s=setup(t);for(let i=0;i<12;i++){const member='member'+i;s.addUser(member);await s.share(['conversation'],member);s.session('session'+i,s.now()+3600+i,member)}
+ const s=setup(t);for(let i=0;i<12;i++){const member='member'+i;s.addUser(member);s.readyGeneration(member);await s.share(['conversation'],member);s.session('session'+i,s.now()+3600+i,member)}
  assert.equal((await s.care.resume(s.env)).scheduled,10);assert.equal((await s.care.resume(s.env)).scheduled,2);assert.equal(s.raw.prepare('SELECT count(*) AS n FROM care_briefs').get().n,12);
  s.setClock(s.now()+901);await s.care.resume(s.env);await s.care.resume(s.env);assert.equal(s.raw.prepare('SELECT count(*) AS n FROM care_brief_checks WHERE checked_at=?').get(s.now()).n,12);
 });
 
 test('concurrent queue requests debit once and never reset an already running lease',async t=>{
- const s=setup(t),link=await s.share();s.session('session');const session=s.raw.prepare("SELECT * FROM care_sessions WHERE id='session'").get(),queued=await Promise.all(Array.from({length:8},()=>s.care.queueBrief(s.env,link,session)));assert.equal(new Set(queued.map(job=>job.id)).size,1);assert.equal(s.raw.prepare('SELECT count FROM care_daily_budget').get().count,1);assert.equal(s.raw.prepare('SELECT count(*) AS n FROM care_briefs').get().n,1);
+ const s=setup(t),link=await s.share();s.readyGeneration();s.session('session');const session=s.raw.prepare("SELECT * FROM care_sessions WHERE id='session'").get(),queued=await Promise.all(Array.from({length:8},()=>s.care.queueBrief(s.env,link,session)));assert.equal(new Set(queued.map(job=>job.id)).size,1);assert.equal(s.raw.prepare('SELECT count FROM care_daily_budget').get().count,1);assert.equal(s.raw.prepare('SELECT count(*) AS n FROM care_briefs').get().n,1);
  s.raw.prepare("UPDATE care_briefs SET status='running',lease_token='worker',lease_until=?").run(s.now()+100);await s.care.queueBrief(s.env,link,session);assert.equal(s.raw.prepare('SELECT lease_token FROM care_briefs').get().lease_token,'worker');assert.equal(s.raw.prepare('SELECT count FROM care_daily_budget').get().count,1);
 });
 
@@ -124,7 +124,7 @@ test('source revision is guarded atomically at publication and final brief read'
 });
 
 test('an expired worker cannot overwrite a resumed worker that has already published',async t=>{
- const s=setup(t),link=await s.share();s.turn('turn','Ancienne citation. Nouvelle citation.');s.session('session');const queued=await s.care.queueBrief(s.env,link,s.raw.prepare("SELECT * FROM care_sessions WHERE id='session'").get());s.setGenerator(async()=>{s.setClock(s.now()+151);s.setGenerator(async()=>({text:JSON.stringify({items:[{source_id:'conversation:turn',quote:'Nouvelle citation.',theme:'Faits rapportés'}]})}));await s.care.processBrief(s.env,queued.id);return {text:JSON.stringify({items:[{source_id:'conversation:turn',quote:'Ancienne citation.',theme:'Faits rapportés'}]})}});await s.care.processBrief(s.env,queued.id);const result=await s.call(`/api/care/briefs/${queued.id}`);assert.equal(result.brief.status,'ready');assert.match(result.brief.content,/Nouvelle citation/);assert.doesNotMatch(result.brief.content,/Ancienne citation/);assert.equal(s.calls.length,2);
+ const s=setup(t),link=await s.share();s.turn('turn','Ancienne citation. Nouvelle citation.');s.readyGeneration();s.session('session');const queued=await s.care.queueBrief(s.env,link,s.raw.prepare("SELECT * FROM care_sessions WHERE id='session'").get());s.setGenerator(async()=>{s.setClock(s.now()+151);s.setGenerator(async()=>({text:JSON.stringify({items:[{source_id:'conversation:turn',quote:'Nouvelle citation.',theme:'Faits rapportés'}]})}));await s.care.processBrief(s.env,queued.id);return {text:JSON.stringify({items:[{source_id:'conversation:turn',quote:'Ancienne citation.',theme:'Faits rapportés'}]})}});await s.care.processBrief(s.env,queued.id);const result=await s.call(`/api/care/briefs/${queued.id}`);assert.equal(result.brief.status,'ready');assert.match(result.brief.content,/Nouvelle citation/);assert.doesNotMatch(result.brief.content,/Ancienne citation/);assert.equal(s.calls.length,2);
 });
 
 test('link and brief histories are paginated, owner isolated, and resumable in the shared dossier',async t=>{

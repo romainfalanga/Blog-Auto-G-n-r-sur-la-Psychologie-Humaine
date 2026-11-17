@@ -1,13 +1,5 @@
 [
   {
-    "label": "Ambre",
-    "href": "/mon-accompagnement/"
-  },
-  {
-    "label": "Mon portrait",
-    "href": "/mon-portrait/"
-  },
-  {
     "label": "Mon enfance",
     "href": "/cartographie/"
   },
@@ -22,5 +14,9 @@
   {
     "label": "Mes bilans",
     "href": "/mes-bilans/"
+  },
+  {
+    "label": "Mon compte",
+    "href": "/mon-compte/"
   }
 ]

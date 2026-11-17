@@ -42,6 +42,23 @@
     <div class="carto-dialog-body" data-dialog-body></div>
   </dialog>
 
+  <dialog class="carto-dialog carto-note-dialog" data-note-dialog aria-labelledby="carto-note-title">
+    <form>
+      <div class="carto-dialog-head">
+        <h2 id="carto-note-title" data-note-title tabindex="-1"></h2>
+      </div>
+      <div class="carto-dialog-body">
+        <label class="carto-note-label" for="carto-note-editor"></label>
+        <textarea id="carto-note-editor" class="carto-note" rows="6" maxlength="1000" aria-describedby="carto-note-count"></textarea>
+        <p id="carto-note-count" data-note-count></p>
+      </div>
+      <div class="carto-note-actions">
+        <button type="button" class="carto-btn carto-btn-quiet" data-note-cancel>Annuler</button>
+        <button type="submit" class="carto-btn" data-note-save>Enregistrer</button>
+      </div>
+    </form>
+  </dialog>
+
 </div>
 {{ end }}
 {{ end }}

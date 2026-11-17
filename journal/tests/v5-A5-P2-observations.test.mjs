@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
@@ -107,7 +108,7 @@ test('P2 close-person UI requires a per-proposal click, sends edits and preserve
 });
 
 test('P2 a declared unsafe relationship blocks confrontation in a review despite a permissive model check',async t=>{
- const s=setup();addPerson(s);s.raw.prepare("UPDATE personal_people SET feels_safe='not_always' WHERE id='mila'").run();
+ const s=setup();addPerson(s);seedCompanionPrerequisites(s.raw);s.raw.prepare("UPDATE personal_people SET feels_safe='not_always' WHERE id='mila'").run();
  const calls=provider(t,p=>{
   if(p==='ambre_review')return {content:'Confrontez Mila ce soir. '+('Ce bilan décrit des informations limitées sur votre relation. Vous pouvez les préciser selon ce qui vous convient. '.repeat(12)),digest:{}};
   if(p==='ambre_review_check')return {criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};

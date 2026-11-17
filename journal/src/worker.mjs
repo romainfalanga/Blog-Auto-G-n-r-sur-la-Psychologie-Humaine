@@ -3,6 +3,9 @@ import {createChangeBackend} from './change-backend.mjs';
 import { isEntitled, accessUntil, platformAccess } from './entitlements.mjs';
 import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
+import { AMBRE_WIDGET_SCRIPT, AMBRE_WIDGET_CSS } from './navigation.generated.mjs';
+import { readCompanionReadiness } from './companion-readiness.mjs';
+import { readMonthlyQuotas } from './monthly-quotas.mjs';
 import { EXAMPLES } from './examples.mjs';
 import { createRecommender } from './recommendations.mjs';
 import { createPersonalBackend, hasPersonalizationSources } from './personal-backend.mjs';
@@ -198,7 +201,7 @@ async function internal(request,env,path) {
   return personal.failJob(env,match[1],data);
 }
 const INITIAL_PAGES={
-  portrait:{path:'/mon-portrait/',routes:['/api/self-profile']},
+  account:{path:'/mon-compte/',routes:['/api/self-profile']},
   people:{path:'/mes-proches/',routes:['/api/people']},
   events:{path:'/ma-ligne-de-vie/',routes:['/api/people','/api/life-events']},
   cartographie:{path:'/cartographie/',routes:['/api/cartographie']},
@@ -222,7 +225,9 @@ async function initialPageData(request,env,ctx,key) {
   };
   const me=await read('/api/me'),responses={'/api/me':me};
   if(me.status===200&&me.body?.user){
-    const entries=await Promise.all(page.routes.map(async path=>[path,await read(path)]));
+    const initialURL=new URL(request.url),person=initialURL.searchParams.get('person');
+    const routesForPage=page.routes.map(path=>key==='events'&&path==='/api/life-events'&&person?path+'?person_id='+encodeURIComponent(person):path);
+    const entries=await Promise.all(routesForPage.map(async path=>[path,await read(path)]));
     for(const [path,response] of entries)responses[path]=response;
   }
   return {page:page.path,responses};
@@ -234,9 +239,10 @@ async function routes(request,env,ctx) {
     return json(await initialPageData(request,env,ctx,url.searchParams.get('page')));
   }
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
-  if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+  if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-compte/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     let page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
@@ -245,6 +251,7 @@ async function routes(request,env,ctx) {
       const initial=await initialPageData(request,env,ctx,initialKey);
       page=page.replace('/*INITIAL_PAGE_DATA*/null',()=>initialJSON(initial));
     }
+    if(url.searchParams.get('embedded')!=='1'||pagePath!=='/mon-accompagnement') page=page.replace('</head>','<style>'+AMBRE_WIDGET_CSS+'</style></head>').replace('</body>','<script>'+AMBRE_WIDGET_SCRIPT+'</script></body>');
     return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
   if(['GET','HEAD'].includes(method)&&/^\/journal(?:\/|$)/.test(path)) {
@@ -255,9 +262,9 @@ async function routes(request,env,ctx) {
     }
     if(query.has('article')||tab==='likes') {
       for(const key of ['article','like'])if(query.has(key))params.set(key,query.get(key));
-      return new Response(null,{status:302,headers:{Location:'/mon-portrait/'+(params.size?'?'+params:'')+'#mes-articles'}});
+      return new Response(null,{status:302,headers:{Location:'/mon-compte/'+(params.size?'?'+params:'')+'#mes-articles'}});
     }
-    const destination=tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mon-accompagnement/';
+    const destination=tab==='portrait'?'/mon-compte/':tab==='account'?'/mon-compte/':'/mon-accompagnement/';
     return new Response(null,{status:302,headers:{Location:destination}});
   }
   if(/^\/api\/(?:characters|stories|story-requests)(?:\/|$)/.test(path)) error(410,'Cette fonctionnalité a été retirée.','feature_retired');
@@ -271,7 +278,8 @@ async function routes(request,env,ctx) {
     const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
     const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),m=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
     const readiness=likeCounts(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
-    return json({user,access:platformAccess(env,s),inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
+    const [companion_readiness,quotas]=await Promise.all([readCompanionReadiness(env,user.id),readMonthlyQuotas(env,user.id)]);
+    return json({user,access:platformAccess(env,s),inspirations_count,readiness,companion_readiness,quotas,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
   }
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
     const data=await body(request,3000),email=text(data.email,254).toLowerCase(),password=data.password;
@@ -490,7 +498,8 @@ export default {
     let response;
     try {response=await routes(request,env,ctx);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
     const headers=new Headers(response.headers);
-    headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
+    const requestURL=new URL(request.url),embedded=['/mon-accompagnement','/mon-accompagnement/'].includes(requestURL.pathname)&&requestURL.searchParams.get('embedded')==='1'&&response.status===200&&(headers.get('Content-Type')||'').startsWith('text/html');
+    headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options',embedded?'SAMEORIGIN':'DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
     // F16: no 'unsafe-inline' for scripts. The application shell's single inline
     // script carries a per-response nonce; every other response allows no inline script.
     let body=response.body,scripts="'self'";
@@ -498,7 +507,7 @@ export default {
       const nonce=btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(16))));
       body=(await response.text()).replace(/<script>/g,`<script nonce="${nonce}">`);scripts+=` 'nonce-${nonce}'`;
     }
-    headers.set('Content-Security-Policy',`default-src 'self'; script-src ${scripts}; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'`);
+    headers.set('Content-Security-Policy',`default-src 'self'; script-src ${scripts}; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors ${embedded?"'self'":"'none'"}; base-uri 'none'; form-action 'self'`);
     return new Response(body,{status:response.status,headers});
   }
 };

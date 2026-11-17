@@ -59,6 +59,62 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
  async function select(page,id,value){const factor=data.factors.find(f=>f.id===id);await opened(page,factor.group);const button=page.locator('[data-factor="'+id+'"] [data-level="'+value+'"]');await button.click();return button}
  async function saved(page){try{await page.waitForFunction(()=>document.querySelector('[data-save]').dataset.state==='saved',{},{timeout:7000})}catch(error){console.error('Save UI:',await page.locator('[data-save]').innerText());throw error}}
  try{
+  for (const width of [320,390,768,1440]) await check('note dialog saves explicitly, cancels and restores focus at '+width+'px', async()=>{
+   const map=fixture({abus_physique:2,adoption:0,controle_psychologique:'unknown'});map.notes.factors.abus_physique='Précision déjà enregistrée.';
+   const {page,context,server}=await pageFor({width,map});await opened(page);
+   const button=page.locator('[data-factor="abus_physique"] .carto-note-add');
+   await page.locator('[data-factor="abus_physique"] .carto-see').click();await page.locator('[data-dialog-close]').click();
+   await button.click();const modal=page.locator('[data-note-dialog]'),area=modal.locator('textarea');
+   assert.equal(await modal.getAttribute('aria-labelledby'),'carto-note-title');
+   assert.equal(await page.locator('[data-note-title]').innerText(),data.factors.find(f=>f.id==='abus_physique').label);
+   assert.equal(await page.evaluate(()=>document.activeElement.id),'carto-note-title');assert.equal(await area.inputValue(),'Précision déjà enregistrée.');
+   await page.keyboard.press('Tab');assert.equal(await area.evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.locator('[data-note-cancel]').evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.locator('[data-note-save]').evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.evaluate(()=>document.activeElement.closest('[data-note-dialog]')!==null),true);
+   await area.fill('Brouillon à annuler');await page.waitForTimeout(800);assert.equal(server.puts.length,0);
+   assert.equal(await page.evaluate(()=>localStorage.getItem('cartographie-brouillon-v1:synthetic-member')),null);
+   await page.keyboard.press('Escape');await modal.waitFor({state:'hidden'});assert.equal(await button.evaluate(n=>n===document.activeElement),true);
+   await button.click();assert.equal(await area.inputValue(),'Précision déjà enregistrée.');await area.fill('Autre brouillon');await page.locator('[data-note-cancel]').click();await modal.waitFor({state:'hidden'});assert.equal(server.puts.length,0);
+   await button.click();await area.fill('Une précision enregistrée explicitement.');
+   assert.equal(await area.getAttribute('maxlength'),'1000');
+   // Reduced viewport simulates the space left by a software keyboard.
+   if(width<901){await page.setViewportSize({width,height:450});await area.focus();}
+   const bounds=await modal.evaluate(n=>{const r=n.getBoundingClientRect(),save=n.querySelector('[data-note-save]').getBoundingClientRect();return {left:r.left,right:r.right,top:r.top,bottom:r.bottom,saveBottom:save.bottom}});
+   assert.ok(bounds.left>=0&&bounds.right<=width&&bounds.top>=0&&bounds.bottom<=(width<901?450:1000));assert.ok(bounds.saveBottom<=bounds.bottom);
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
+   await page.screenshot({path:path.resolve(root,'work/mon-enfance/note-'+width+'.png')});
+   await page.locator('[data-note-save]').click();await modal.waitFor({state:'hidden'});assert.equal(await button.evaluate(n=>n===document.activeElement),true);await saved(page);
+   assert.equal(server.map.notes.factors.abus_physique,'Une précision enregistrée explicitement.');assert.deepEqual(server.map.answers,map.answers);assert.deepEqual(server.map.resources,map.resources);
+   assert.equal(await page.locator('[data-factor="abus_physique"] .carto-note-preview').innerText(),server.map.notes.factors.abus_physique);
+   await button.click();await area.fill('');await page.locator('[data-note-save]').click();await saved(page);assert.equal(Object.hasOwn(server.map.notes.factors,'abus_physique'),false);assert.equal(await button.evaluate(n=>n===document.activeElement),true);
+   assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('note save failure preserves recovery draft and retry; conflict exposes both note versions',async()=>{
+   const map=fixture({abus_physique:2});map.notes.factors.abus_physique='Note initiale';
+   const {page,context,server}=await pageFor({map});await opened(page);server.putFailure=true;
+   const button=page.locator('[data-factor="abus_physique"] .carto-note-add'),area=page.locator('[data-note-dialog] textarea');
+   await button.click();await area.fill('Note conservée après panne');await page.locator('[data-note-save]').click();await page.getByRole('button',{name:'Réessayer l’enregistrement',exact:true}).waitFor();
+   assert.equal(server.map.notes.factors.abus_physique,'Note initiale');
+   assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1:synthetic-member')).notes.factors.abus_physique),'Note conservée après panne');
+   await button.click();assert.equal(await area.inputValue(),'Note conservée après panne');await page.locator('[data-note-cancel]').click();server.putFailure=false;
+   await page.getByRole('button',{name:'Réessayer l’enregistrement',exact:true}).click();await saved(page);assert.equal(server.map.notes.factors.abus_physique,'Note conservée après panne');
+   server.map={...server.map,version:server.map.version+1,notes:{factors:{abus_physique:'Version distante différente'},outcomes:{}}};
+   await button.click();await area.fill('Version locale différente');await page.locator('[data-note-save]').click();await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).waitFor();
+   await page.locator('.carto-note-conflicts summary').click();assert.match(await page.locator('.carto-note-conflicts').innerText(),/Version locale différente/);assert.match(await page.locator('.carto-note-conflicts').innerText(),/Version distante différente/);
+   await button.click();assert.equal(await area.inputValue(),'Version locale différente');await page.keyboard.press('Escape');
+   await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).click();await saved(page);assert.equal(server.map.notes.factors.abus_physique,'Version locale différente');assert.equal(server.map.answers.abus_physique,2);assert.deepEqual(server.errors,[]);await context.close();
+  });
+  await check('folded results show descriptions, distinct detail, generous spacing and editable outcome notes',async()=>{
+   const {page,context,server}=await pageFor({width:390,map:fixture({abus_physique:2,abus_emotionnel:1})});await page.locator('[data-tab="results"]').click();
+   const card=page.locator('article.carto-card').first(),id=await card.getAttribute('data-outcome');
+   assert.equal(await card.locator('.carto-card-body').count(),0);assert.ok((await card.locator(':scope > .carto-desc').innerText()).length>20);
+   const spacing=await card.evaluate(n=>n.querySelector('.carto-feedback').getBoundingClientRect().top-n.querySelector('.carto-from-line').getBoundingClientRect().bottom);assert.ok(spacing>=28,spacing);
+   await card.locator('.carto-detail').click();assert.equal(await card.locator('.carto-desc').count(),1);assert.ok((await card.locator('.carto-link-text').first().innerText()).length>30);
+   assert.doesNotMatch(await page.locator('[data-results]').innerText(),/Ces rapprochements ne décrivent|Seul un professionnel peut évaluer/);
+   await card.locator('.carto-note-add').click();await page.locator('[data-note-dialog] textarea').fill('Ma manifestation au quotidien');await page.locator('[data-note-save]').click();await saved(page);assert.equal(server.map.notes.outcomes[id],'Ma manifestation au quotidien');
+   await card.locator('.carto-detail').click();assert.equal(await card.locator('.carto-card-body').count(),0);await card.locator('.carto-note-add').click();assert.equal(await page.locator('[data-note-dialog] textarea').inputValue(),'Ma manifestation au quotidien');await page.keyboard.press('Escape');assert.equal(await card.locator('.carto-note-add').evaluate(n=>n===document.activeElement),true);
+   await card.locator('.carto-note-add').click();await page.locator('[data-note-dialog] textarea').fill('');await page.locator('[data-note-save]').click();await saved(page);assert.equal(await card.locator('.carto-note-add').count(),0);assert.equal(await card.locator('.carto-detail').evaluate(n=>n===document.activeElement),true);
+   await card.getByRole('button',{name:'Pas moi',exact:true}).click();await page.locator('[data-focus="row:'+id+'"]').click();
+   assert.ok(await page.locator('.carto-row-description').count());assert.deepEqual(server.errors,[]);await context.close();
+  });
   for(const anonymous of [false,true])await check('bootstrap '+(anonymous?'anonymous':'member')+' is ready at DOMContentLoaded without initial API roundtrips',async()=>{
    const map=fixture({critique:2});const initial={page:'/cartographie/',responses:{'/api/me':{status:200,body:{user:anonymous?null:{id:'synthetic-member'}}},'/api/cartographie':{status:200,body:{cartographie:map}}}};
    const {page,context,server}=await pageFor({anonymous,map,initial,draft:{answers:{abus_physique:1}}});
@@ -80,7 +136,7 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
   await check('six independent closed accordions, anonymous local-only answers and stable focus',async()=>{
    const {page,context,server}=await pageFor({anonymous:true});assert.equal(await page.locator('.carto-theme-panel').count(),6);assert.equal(await page.locator('.carto-theme-panel[open]').count(),0);assert.equal(await page.locator('[data-theme="ressources"]').count(),0);assert.equal(await page.locator('input[type=checkbox]').count(),0);
    const button=await select(page,'abus_physique',1);assert.equal(await button.evaluate(node=>node===document.activeElement),true);await opened(page,'negligence');assert.equal(await page.locator('.carto-theme-panel[open]').count(),2);assert.equal(await button.getAttribute('aria-pressed'),'true');
-   const row=page.locator('[data-factor="abus_physique"]');await row.locator('.carto-note-add').click();const note=row.locator('textarea');await note.fill('Une précision personnelle synthétique.');await page.waitForTimeout(900);assert.equal(await note.evaluate(node=>node===document.activeElement),true);assert.equal(server.puts.length,0);assert.equal(server.requests.length,0);assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')).answers.abus_physique),1);assert.deepEqual(server.errors,[]);await context.close();
+   const row=page.locator('[data-factor="abus_physique"]');await row.locator('.carto-note-add').click();const note=page.locator('[data-note-dialog] textarea');await note.fill('Une précision personnelle synthétique.');await page.waitForTimeout(900);assert.equal(await note.evaluate(node=>node===document.activeElement),true);assert.equal(server.puts.length,0);assert.equal(server.requests.length,0);assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')).answers.abus_physique),1);assert.deepEqual(server.errors,[]);await context.close();
   });
   await check('connected first answer autosaves with consent and explicit Non survives a reload',async()=>{
    const {page,context,server}=await pageFor();await select(page,'abus_physique',0);await saved(page);assert.equal(server.puts.length,1);assert.equal(server.puts[0].consent,true);assert.equal(server.map.answers.abus_physique,0);assert.equal(await page.locator('.carto-card').count(),0);await page.reload();await page.locator('.carto-theme-panel').first().waitFor();await opened(page);assert.equal(await page.locator('[data-factor="abus_physique"] [data-level="0"]').getAttribute('aria-pressed'),'true');assert.equal(await page.locator('.carto-theme-panel[open]').count(),1);assert.deepEqual(server.errors,[]);await context.close();
@@ -130,7 +186,7 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    map.resolve();await saved(page);assert.equal(await page.locator('[data-cartographie-app]').getAttribute('aria-busy'),'false');await opened(page,'climat');assert.equal(await page.locator('[data-factor="critique"] [data-level="1"]').getAttribute('aria-pressed'),'true');assert.equal(await page.locator('[data-factor="abus_physique"] [aria-pressed="true"]').count(),0);assert.equal(server.puts.length,0);assert.deepEqual(server.errors,[]);await context.close();
   });
   await check('account drafts are revealed only with their account and require an explicit conflict choice',async()=>{
-   const map=pause(),draft={answers:{abus_physique:1},notes:{factors:{abus_physique:'ACCOUNT DRAFT'},outcomes:{}}};const {page,context,server}=await pageFor({accountDraft:draft,map:fixture({critique:1}),beforeGet:()=>map.promise,waitForLoad:false});assert.equal(await page.getByText('ACCOUNT DRAFT').count(),0);assert.equal(await page.locator('.carto-theme-panel').count(),0);map.resolve();await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).waitFor();await opened(page);assert.equal(await page.locator('[data-factor="abus_physique"] textarea').inputValue(),'ACCOUNT DRAFT');assert.equal(server.puts.length,0);await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).click();await saved(page);assert.equal(server.map.answers.abus_physique,1);assert.deepEqual(server.errors,[]);await context.close();
+   const map=pause(),draft={answers:{abus_physique:1},notes:{factors:{abus_physique:'ACCOUNT DRAFT'},outcomes:{}}};const {page,context,server}=await pageFor({accountDraft:draft,map:fixture({critique:1}),beforeGet:()=>map.promise,waitForLoad:false});assert.equal(await page.getByText('ACCOUNT DRAFT').count(),0);assert.equal(await page.locator('.carto-theme-panel').count(),0);map.resolve();await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).waitFor();await opened(page);assert.equal(await page.locator('[data-factor="abus_physique"] .carto-note-preview').innerText(),'ACCOUNT DRAFT');assert.equal(server.puts.length,0);await page.getByRole('button',{name:'Garder mes réponses affichées',exact:true}).click();await saved(page);assert.equal(server.map.answers.abus_physique,1);assert.deepEqual(server.errors,[]);await context.close();
   });
   await check('offline session checking releases the anonymous draft without loading or saving an account',async()=>{
    const draft={answers:{critique:'unknown'},notes:{factors:{},outcomes:{}}};const {page,context,server}=await pageFor({meFailure:true,draft});assert.match(await page.locator('[data-save]').innerText(),/Connexion non vérifiée/);await select(page,'critique',1);assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('cartographie-brouillon-v1')).answers.critique),1);assert.equal(server.requests.length,0);assert.equal(server.puts.length,0);assert.deepEqual(server.errors,[]);await context.close();

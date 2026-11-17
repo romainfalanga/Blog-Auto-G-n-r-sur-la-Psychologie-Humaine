@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 // Shared harness for lot S tests: real Worker modules, in-memory SQLite with
 // every migration and a simulated provider (no network).
 import {DatabaseSync} from 'node:sqlite';
@@ -19,7 +20,7 @@ export function setup({users=['a','b'],env:extra={}}={}){
  const env={DB,OPENROUTER_API_KEY:'mock-only',...extra};
  for(const id of users){raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,'hash','salt')").run(id,id+'@example.test');raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(id);raw.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES(?,'active',?)").run(id,clock+86400*30)}
  async function call(path,method='GET',data,user='a',ctx){const req=new Request('https://example.test'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:user},url.pathname,url,ctx)||await personal.routes(req,env,{id:user},url.pathname,url,ctx);return {status:res.status,...await res.json()}}catch(e){return {status:e.status||500,code:e.code,message:e.message}}}
- async function ready(id='a'){raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES(?,?,'initial','ready','Analyse initiale.',?,0,0)").run('seed-'+id,id,'seed-initial-'+id);const r=await call('/api/chat/consent','PUT',{accepted:true},id);if(r.status!==200)throw Error('consent '+JSON.stringify(r))}
+ async function ready(id='a'){seedCompanionPrerequisites(raw,id);raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES(?,?,'initial','ready','Analyse initiale.',?,0,0)").run('seed-'+id,id,'seed-initial-'+id);const r=await call('/api/chat/consent','PUT',{accepted:true},id);if(r.status!==200)throw Error('consent '+JSON.stringify(r))}
  const send=(content,key,user='a',ctx)=>call('/api/chat/messages','POST',{content,idempotency_key:key},user,ctx);
  const job=()=>raw.prepare('SELECT * FROM chat_engine_jobs ORDER BY rowid DESC LIMIT 1').get();
  const turn=()=>raw.prepare('SELECT * FROM chat_turns ORDER BY rowid DESC LIMIT 1').get();

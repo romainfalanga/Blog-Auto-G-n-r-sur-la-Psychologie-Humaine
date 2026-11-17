@@ -11,9 +11,9 @@ export default function legacyPrivatePages(request) {
     } else if (query.has('article') || tab === 'likes') {
       const reading = new URLSearchParams();
       for (const key of ['article', 'like']) if (query.has(key)) reading.set(key, query.get(key));
-      location = '/mon-portrait/' + (reading.size ? '?' + reading : '') + '#mes-articles';
+      location = '/mon-compte/' + (reading.size ? '?' + reading : '') + '#mes-articles';
     } else if (tab === 'portrait' || tab === 'account') {
-      location = tab === 'portrait' ? '/mon-portrait/' : '/mon-compte/';
+      location = tab === 'portrait' ? '/mon-compte/' : '/mon-compte/';
     }
   }
 

@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 // Lot S: F17 (resources on every refused send), F18 (cautious path when the
 // risk check fails or paraphrases), F19 (dedicated check when the analysis is
 // down, independent reviewer criterion), F20 (quotes: negation, minimal length,
@@ -16,14 +17,14 @@ test('F17: a danger signal receives the resources on every refusal of send',asyn
  provider(t);
  {const s=setup();await s.ready();s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,idempotency_key,lease_token,lease_until,created_at,attempts) VALUES('rv','a','point','running','point_key_0001','x',?,0,1)").run(s.now()+600);
   const r=await s.send(crisis,'crisis_review_01');assert.equal(r.status,409);assert.equal(r.code,'review_in_progress');assert.ok(hasResources(r));assert.equal(r.safety,true);assert.match(r.safety_reply,/3114/)}
- {const s=setup();await s.call('/api/chat/consent','PUT',{accepted:true});const r=await s.send(crisis,'crisis_journey_01');assert.equal(r.status,403);assert.equal(r.code,'journey_not_started');assert.ok(hasResources(r));assert.equal(r.safety,true)}
+ {const s=setup();seedCompanionPrerequisites(s.raw);await s.call('/api/chat/consent','PUT',{accepted:true});const r=await s.send(crisis,'crisis_journey_01');assert.equal(r.status,403);assert.equal(r.code,'journey_not_started');assert.ok(hasResources(r));assert.equal(r.safety,true)}
  {const s=setup();await s.ready();s.chat.engine.work=async()=>{};await s.send('Une question ordinaire sur ma semaine.','busy_turn_0001','a',{waitUntil(){}});
   const r=await s.send(crisis,'crisis_busy_0001');assert.equal(r.status,409);assert.equal(r.code,'request_in_progress');assert.ok(hasResources(r));assert.equal(r.safety,true)}
- {const s=setup();await s.ready();const week=parisWeek(new Date(s.now()*1000)).week_start,ins=s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,created_at) VALUES(?,'a',?,'h','completed','consumed',?,1,1,'x','{}','2020-01-01 00:00:00')");for(let i=0;i<100;i++)ins.run('q'+i,'q'+i,week);
+ {const s=setup();await s.ready();const week=parisWeek(new Date(s.now()*1000)).week_start,ins=s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,quota_period,source_version,consent_revision,content,response,created_at) VALUES(?,'a',?,'h','completed','consumed',?,'2026-11',1,1,'x','{}','2020-01-01 00:00:00')");for(let i=0;i<100;i++)ins.run('q'+i,'q'+i,week);
   const r=await s.send(crisis,'crisis_quota_01');assert.equal(r.status,429);assert.ok(hasResources(r));assert.equal(r.safety,true)}
  // Violence keeps its own numbers; an ordinary refused message carries nothing extra.
- {const s=setup();await s.call('/api/chat/consent','PUT',{accepted:true});const r=await s.send('Il menace de me tuer ce soir.','violence_journey_1');assert.match(r.error,/17 ou le 112/);assert.doesNotMatch(r.error,/3114/)}
- {const s=setup();await s.call('/api/chat/consent','PUT',{accepted:true});const r=await s.send('Une question ordinaire.','plain_journey_01');assert.equal(r.status,403);assert.equal(r.safety,undefined)}
+ {const s=setup();seedCompanionPrerequisites(s.raw);await s.call('/api/chat/consent','PUT',{accepted:true});const r=await s.send('Il menace de me tuer ce soir.','violence_journey_1');assert.match(r.error,/17 ou le 112/);assert.doesNotMatch(r.error,/3114/)}
+ {const s=setup();seedCompanionPrerequisites(s.raw);await s.call('/api/chat/consent','PUT',{accepted:true});const r=await s.send('Une question ordinaire.','plain_journey_01');assert.equal(r.status,403);assert.equal(r.safety,undefined)}
 });
 
 test('F17: the interface keeps a refused safety message readable line by line',async()=>{
@@ -105,7 +106,7 @@ test('F20: cartography notes need a supplied target, a non-negated quote and nev
 
 test('F20: the audit demonstration 5 writes no note on a lived experience answered "no"',async t=>{
  const s=setup();await s.ready();const answers=Object.fromEntries(CARTOGRAPHIE.factors.map((x,i)=>[x.id,i===0?0:1]));
- s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,1,1)").run(JSON.stringify(answers));
+ s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,1,1) ON CONFLICT(user_id) DO UPDATE SET answers=excluded.answers").run(JSON.stringify(answers));
  provider(t,p=>p==='ambre_writing'?draft({cartography_notes:[{target:'factor',target_id:CARTOGRAPHIE.factors[0].id,quote:'mon père était violent'}]}):undefined);
  await s.send('Je ne dirais pas que mon père était violent, il était surtout absent.','carto_negated_1');await s.settle(1);
  assert.equal(s.raw.prepare("SELECT ambre_notes FROM cartographies WHERE user_id='a'").get().ambre_notes,'[]');assert.equal(JSON.parse(s.turn().response).cartography_notes,undefined);

@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {DatabaseSync} from 'node:sqlite';
@@ -65,14 +66,14 @@ test('the authenticated snapshot carries event importance and serves readings wi
 });
 
 test('the private job proxy keeps the same data-retention constraints as Ambre',async t=>{
- const f=fixture(),now=Math.floor(at/1000);f.env.OPENROUTER_API_KEY='mock-only';f.raw.prepare("INSERT INTO journal_jobs(id,user_id,kind,source_version,memory_version,status,lease_token,lease_until) VALUES('j','u','portrait',1,1,'running','lease',?)").run(now+120);
+ const f=fixture(),now=Math.floor(at/1000);seedCompanionPrerequisites(f.raw,'u');f.env.OPENROUTER_API_KEY='mock-only';f.raw.prepare("INSERT INTO journal_jobs(id,user_id,kind,source_version,memory_version,status,lease_token,lease_until) VALUES('j','u','portrait',1,1,'running','lease',?)").run(now+120);
  const previous=globalThis.fetch;t.after(()=>{globalThis.fetch=previous});globalThis.fetch=async(_url,options)=>{const body=JSON.parse(options.body);assert.deepEqual(body.provider,{data_collection:'deny',zdr:true,allow_fallbacks:true});return Response.json({choices:[{message:{content:'{}'},finish_reason:'stop'}]})};
  f.DB.batch=async statements=>{f.raw.exec('BEGIN');try{const results=[];for(const statement of statements)results.push(await statement.run());f.raw.exec('COMMIT');return results}catch(e){f.raw.exec('ROLLBACK');throw e}};
  const response=await f.personal.proxyJobLLM(f.env,'j',{lease_token:'lease',source_version:1,memory_version:1,system_prompt:'Return JSON.',user_prompt:'Synthetic test.',max_tokens:128});assert.equal(response.status,200);
 });
 
 test('an impossible native token budget is terminal and never calls the provider',async t=>{
- const f=fixture();f.env.OPENROUTER_API_KEY='mock-only';f.env.STORY_TOKEN_BUDGET='1';
+ const f=fixture();seedCompanionPrerequisites(f.raw,'u');f.env.OPENROUTER_API_KEY='mock-only';f.env.STORY_TOKEN_BUDGET='1';
  f.DB.batch=async statements=>{f.raw.exec('BEGIN');try{const results=[];for(const statement of statements)results.push(await statement.run());f.raw.exec('COMMIT');return results}catch(e){f.raw.exec('ROLLBACK');throw e}};
  const previous=globalThis.fetch;let calls=0;t.after(()=>{globalThis.fetch=previous});globalThis.fetch=async()=>{calls++;throw Error('Unexpected provider call')};
  const result=await f.personal.refreshUserPortrait(f.env,'u');assert.equal(result.status,'generation_budget');

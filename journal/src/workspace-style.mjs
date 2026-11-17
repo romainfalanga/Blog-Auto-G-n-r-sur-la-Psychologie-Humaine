@@ -228,7 +228,7 @@ input,textarea,select { border-color: var(--line); }
 .account-panel { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 26px; }
 .account-row { min-width: 0; overflow-wrap: anywhere; border-color: var(--line); }
 .account-row:first-child { grid-column: 1 / -1; }
-.account-row:nth-child(2) { grid-row: span 2; }
+.account-row:nth-child(2) { grid-row: auto; }
 .account-row h3 { font-size: 1rem; }
 .journal-welcome { padding: clamp(24px,5vw,50px); background: var(--paper); border: 1px solid var(--line); border-radius: 16px; }
 
@@ -417,4 +417,30 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
  .settings-tabs { gap: 0 12px; }
  .settings-context,.settings-source-area,.settings-turn-detail { padding: 14px; }
 }
+
+/* The same conversation is mounted inside the controlled same-origin panel. */
+.ambre-embedded .site-header { display:none; }
+.ambre-embedded .shell { max-width:none; padding:0; }
+.ambre-embedded .conversation-page { margin:0; padding:0; }
+.ambre-embedded .conversation { height:100dvh; min-height:0; max-height:none; border:0; border-radius:0; margin:0; }
+.ambre-embedded .conversation-toolbar { flex-wrap:wrap; padding:14px; gap:10px; }
+.ambre-embedded .conversation-toolbar h1 { font-size:1.35rem; }
+.ambre-embedded .conversation-role { display:block; font-size:.8rem; }
+.ambre-embedded .conversation-title-divider { display:none; }
+.ambre-embedded .chat-composer { padding-bottom:max(12px,env(safe-area-inset-bottom)); }
+.ambre-embedded dialog { max-height:calc(100dvh - 24px); overflow:auto; }
+
+.people-directory { align-items:start; }
+.person-timeline,.event-notes,.source-note-editor { margin-block:18px; }
+.person-timeline>summary,.source-note-editor>summary { min-height:44px; padding-block:10px; color:var(--accent); }
+.person-timeline-body { padding-block:10px; }
+.timeline-entry,.timeline-note { border-left:2px solid var(--line); padding:8px 0 14px 18px; margin-block:16px; }
+.timeline-note .source-note { white-space:pre-wrap; overflow-wrap:anywhere; }
+.source-note-editor form { display:grid; gap:12px; margin-top:12px; }
+.source-note-editor textarea { min-height:110px; }
+.source-note-editor button { justify-self:start; }
+.event-notes { border-top:1px solid var(--line); padding-top:8px; }
+.ambre-observation { border-color:var(--accent); }
+.account-panel #self-profile { margin:0; }
+@media(max-width:600px){.timeline-entry,.timeline-note{padding-left:12px}.source-note-editor button{width:100%}.person-timeline>summary{overflow-wrap:anywhere}}
 `;

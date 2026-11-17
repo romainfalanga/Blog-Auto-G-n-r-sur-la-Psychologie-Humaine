@@ -8,7 +8,9 @@ var PEOPLE_AXES = {
  tensions: 'Moments de tension'
 };
 
-function personObservationDetails(person){
+function personObservationDetails(person,options){
+ options=options||{};
+ function changed(){window.dispatchEvent(new CustomEvent('dte:person-observations-changed',{detail:{personId:person.id}}))}
  var details=el('details','person-observations'),summary=el('summary','','Repères sur cette relation'),body=el('div','person-observation-content');
  details.append(summary,body);
  var path='/api/people/'+encodeURIComponent(person.id)+'/observations',loading=false,notes=null,proposals=[],available=true;
@@ -30,7 +32,7 @@ function personObservationDetails(person){
      var payload={revision:p.revision};if(action==='accept')payload.payload={axis:axis.value,quote:quote.value};
      await api('/api/chat/proposals/'+encodeURIComponent(p.id)+'/'+action,'POST',payload);
      if(!details.isConnected)return;
-     await loadNotes();summary.focus();feedback.textContent=action==='accept'?'Repère validé et enregistré.':'Proposition refusée. Aucun repère enregistré.'
+     await loadNotes();changed();summary.focus();feedback.textContent=action==='accept'?'Repère validé et enregistré.':'Proposition refusée. Aucun repère enregistré.'
     }catch(err){notice.textContent=err.message;accept.disabled=false;reject.disabled=false}
    }
    var accept=actionButton('Valider ce repère',function(){return decide('accept')},'primary'),reject=actionButton('Refuser',function(){return decide('reject')},'text');
@@ -59,7 +61,7 @@ function personObservationDetails(person){
       await api(path+'/'+encodeURIComponent(note.id),'DELETE');
       if(!details.isConnected)return;
       notes=notes.filter(function(entry){return entry.id!==note.id});
-      draw();summary.focus();feedback.textContent='Repère retiré.'
+      draw();changed();summary.focus();feedback.textContent='Repère retiré.'
      }catch(err){feedback.textContent=err.message;remove.disabled=false}
     },'text');
     row.append(quote,el('p','helper',note.origin==='accepted'?'Validé par vous':'Ancien repère automatique, non validé individuellement'),remove);list.append(row)
@@ -75,7 +77,7 @@ function personObservationDetails(person){
    var result=await api(path);
    if(!details.isConnected)return;
    available=result.available!==false;proposals=result.proposals||[];
-   notes=(result.observations||[]).filter(function(note){return Object.hasOwn(PEOPLE_AXES,note.axis)});
+   notes=(result.observations||[]).filter(function(note){return Object.hasOwn(PEOPLE_AXES,note.axis)&&(!options.proposalsOnly||note.origin!=='accepted')});
    draw()
   }catch(err){
    if(details.isConnected)body.replaceChildren(el('p','status error',err.message),actionButton('Réessayer',loadNotes,'text'))

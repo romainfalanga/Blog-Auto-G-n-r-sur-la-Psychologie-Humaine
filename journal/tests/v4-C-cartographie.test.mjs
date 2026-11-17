@@ -1,6 +1,7 @@
 // Plan v4.1, lot C1: one public order shared by the page and Ambre, counting only
 // experiences linked by an empirical association. Criteria checked by simulation.
 import test from 'node:test';
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import assert from 'node:assert/strict';
 import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,readdirSync} from 'node:fs';
@@ -116,6 +117,7 @@ test('Ambre’s prompt carries the same display order as the page',async t=>{
  raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES('seed','a','initial','ready','Analyse initiale de test.','seed-initial',0,0)").run();
  const answers={parentification:1,ressenti_responsable:1,enfant_sage:2,debrouiller_seul:1,parent_trouble:1};
  raw.prepare('INSERT INTO cartographies(user_id,answers,feedback,consent,locked_at,version,updated_at) VALUES(?,?,?,?,?,?,?)').run('a',JSON.stringify(answers),'{}',1,1700000000,1,1700000000);
+ seedCompanionPrerequisites(raw,'a');
  const call=async(path,method='GET',data)=>{const req=new Request('https://example.com'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:'a'},path,url)||await personal.routes(req,env,{id:'a'},path,url);return {status:res.status,...await res.json()};}catch(e){return {status:e.status||500,code:e.code,message:e.message};}};
  let request;const previous=globalThis.fetch;t.after(()=>{globalThis.fetch=previous;});
  globalThis.fetch=async(_url,options)=>{request=request||JSON.parse(options.body);return new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content:'Partons de votre carte.',questions:[],proposals:[],cartography_notes:[]})},finish_reason:'stop'}],usage:{prompt_tokens:10,completion_tokens:10,cost:0}}));};

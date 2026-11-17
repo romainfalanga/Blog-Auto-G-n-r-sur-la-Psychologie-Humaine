@@ -19,7 +19,7 @@ function seedPlan(s,{owner='a',trials=1,malformed=false}={}){
  s.raw.prepare('INSERT INTO change_plans(user_id,revision,document_json,updated_at) VALUES(?,1,?,?)').run(owner,JSON.stringify(document),s.now());return document;
 }
 function replacePlan(s,document,owner='a'){s.raw.prepare('UPDATE change_plans SET document_json=?,revision=revision+1,updated_at=? WHERE user_id=?').run(JSON.stringify(document),s.now(),owner)}
-async function prepare(s,link,id='session'){s.session(id);return s.call('/api/care/briefs','POST',{link_id:link.id,session_id:id})}
+async function prepare(s,link,id='session'){s.readyGeneration(link.user_id);s.session(id);return s.call('/api/care/briefs','POST',{link_id:link.id,session_id:id})}
 
 test('plan is the seventh opt-in scope and never appears on preexisting links',async t=>{
  const s=setup(t),legacy=await s.share(['conversation','cartography','portrait','people','life_events','reviews']);seedPlan(s);

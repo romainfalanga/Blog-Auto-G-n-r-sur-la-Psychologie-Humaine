@@ -1,3 +1,6 @@
+import {requireCompanionGenerationAccess,companionReadinessSql} from './companion-readiness.mjs';
+import {reservedUsageSql} from './monthly-quotas.mjs';
+import {accessSql} from './entitlements.mjs';
 import {PSYCHOLOGY_CATALOG} from './psychology-catalog.generated.mjs';
 import {appendTraceStage,traceDetail,sourceLocation,indexLines,INDEX_LEGEND,USAGE_POLICY,COMPACT_TRACE_SQL,TRACE_DETAIL_DAYS,TRACE_DETAIL_MAX} from './ambre-insight.mjs';
 import {parisWeek} from './personal-backend.mjs';
@@ -182,18 +185,18 @@ export function knowledgeIndex(context){
  };
  const names=new Map((context.people||[]).map(p=>[p.id,p.display_name]));
  for(const p of (context.people||[]).slice(0,50)){
-  const meta={role:p.role,custom_role:p.custom_role,period_start:p.period_start,period_end:p.period_end},role=p.custom_role||ROLE_LABELS[p.role]||p.role,period=[p.period_start,p.period_end].filter(Boolean).join(' – ');
+  const meta={role:p.role,custom_role:p.custom_role,period_start:p.period_start,period_end:p.period_end,...(p.meeting_date_precision?{meeting_date_precision:p.meeting_date_precision,meeting_date_start:p.meeting_date_start||'',meeting_date_end:p.meeting_date_end||'',meeting_age_text:p.meeting_age_text||''}:{})},role=p.custom_role||ROLE_LABELS[p.role]||p.role,period=[p.period_start,p.period_end].filter(Boolean).join(' – ');
   // Lot A5-P2: the quality of the bond and the presence in the label; bond, presence and safety in
   // the header; what helps, hurts and how the bond changed as parts of the detail.
   const suffix=personLabelSuffix(p),extra=Object.fromEntries(PERSON_PARTS.filter(([k])=>String(p[k]||'').trim()).map(([k])=>[k,p[k]]));
-  add('person:'+p.id,'person',p.display_name+' — '+role+(suffix?' · '+suffix:''),{...meta,display_name:p.display_name,relationship_text:p.relationship_text,...(personFacts(p).length?{facts:personFacts(p)}:{}),...extra},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:'',...personFacts(p)].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text},...PERSON_PARTS.map(([k,name])=>({name,text:String(p[k]||'')}))]});
+  add('person:'+p.id,'person',p.display_name+' — '+role+(suffix?' · '+suffix:''),{...meta,display_name:p.display_name,relationship_text:p.relationship_text,...(p.user_notes_text||p.user_notes_total?{user_notes_text:p.user_notes_text,user_notes_total:p.user_notes_total||0,user_notes_omitted:p.user_notes_omitted||0}:{}),...(personFacts(p).length?{facts:personFacts(p)}:{}),...extra},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:'',p.meeting_date_precision==='age'&&p.meeting_age_text?'Rencontre, âge déclaré : '+p.meeting_age_text:p.meeting_date_start?'Rencontre ('+p.meeting_date_precision+') : '+[p.meeting_date_start,p.meeting_date_end].filter(Boolean).join(' – '):'',...personFacts(p)].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text},...(p.user_notes_text?[{name:'Notes écrites par vous',text:p.user_notes_text}]:[]),...PERSON_PARTS.map(([k,name])=>({name,text:String(p[k]||'')}))]});
  }
  for(const e of (context.events||[]).slice(0,500)){
   const people=(e.people_ids||[]).map(id=>names.get(id)).filter(Boolean),age=Number.isInteger(e.age_at_event)?(e.age_at_event_approx?'vers ':'')+e.age_at_event+' ans':e.age_text||null;
   const meta={kind:e.kind,date_precision:e.date_precision,date_start:e.date_start,date_end:e.date_end,age_text:e.age_text,people_ids:e.people_ids,...(people.length?{people}:{}),...(Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event}:{}),...(e.current_importance!=null?{current_importance:e.current_importance}:{})};
   const when=[e.date_start,e.date_end].filter(Boolean).join(' – ');
   const suffix=eventLabelSuffix(e),extra=Object.fromEntries(EVENT_PARTS.filter(([k])=>String(e[k]||'').trim()).map(([k])=>[k,e[k]]));
-  add('event:'+e.id,'event',e.title+(suffix?' · '+suffix:''),{...meta,description:e.description,meaning_now:e.meaning_now,...(eventFacts(e).length?{facts:eventFacts(e)}:{}),...extra},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):'',...eventFacts(e)].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now},...EVENT_PARTS.map(([k,name])=>({name,text:String(e[k]||'')}))]});
+  add('event:'+e.id,'event',e.title+(suffix?' · '+suffix:''),{...meta,description:e.description,meaning_now:e.meaning_now,...(e.user_notes_text||e.user_notes_total?{user_notes_text:e.user_notes_text,user_notes_total:e.user_notes_total||0,user_notes_omitted:e.user_notes_omitted||0}:{}),...(eventFacts(e).length?{facts:eventFacts(e)}:{}),...extra},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):'',...eventFacts(e)].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now},...(e.user_notes_text?[{name:'Notes écrites par vous',text:e.user_notes_text}]:[]),...EVENT_PARTS.map(([k,name])=>({name,text:String(e[k]||'')}))]});
  }
  for(const source of (context.sources||[]).filter(source=>source.type!=='like').slice(0,560)){
   // C (audit v5): one entry per rubric of the self description, so that the later rubrics are reachable.
@@ -321,7 +324,7 @@ const providerModel=value=>typeof value==='string'&&/^[\w./:@-]{1,160}$/.test(va
 const addUsage=(before,next)=>Object.fromEntries(Object.keys(tokenUsage()).map(key=>[key,tokenUsage(before)[key]+tokenUsage(next)[key]]));
 const providerFailure=error=>{
  if(['TimeoutError','AbortError'].includes(error?.name))return 'provider_timeout';
- if(['context_changed','generation_budget','turn_budget','context_budget','generation_paused','provider_timeout','output_limit','risk_check_invalid_response','risk_check_unanchored',DAILY_CAP].includes(error?.code))return error.code;
+ if(['prerequisites_required','access_required','consent_withdrawn','quota_reservation_missing','context_changed','generation_budget','turn_budget','context_budget','generation_paused','provider_timeout','output_limit','risk_check_invalid_response','risk_check_unanchored',DAILY_CAP].includes(error?.code))return error.code;
  if(['invalid_response','invalid_review'].includes(error?.code)||error instanceof SyntaxError)return 'review_invalid_response';
  if(/^provider_http_\d{3}$/.test(error?.code||''))return error.code;
  return 'provider_error';
@@ -382,7 +385,9 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
   if(purged)await countMetric(env,now(),'jobs_purged',purged);
   return {traces_compacted:compacted,jobs_purged:purged};
  }
- async function generateText(env,{userId,system,user,maxTokens=1200,timeoutMs=18000,purpose='care',schema:format,jobId,jobLease,traceStage,sourceVersion,budgetKey=traceStage||purpose}){
+ async function generateText(env,{userId,system,user,maxTokens=1200,timeoutMs=18000,purpose='care',schema:format,jobId,jobLease,traceStage,sourceVersion,budgetKey=traceStage||purpose,accessContext='conversation'}){
+  await requireCompanionGenerationAccess(env,userId,{at:now(),consent:accessContext!=='care'});
+  if(jobId&&!await first(env,"SELECT 1 FROM monthly_usage WHERE user_id=? AND kind='message' AND operation_id=? AND state='reserved'",userId,jobId))throw Object.assign(Error('Reservation missing'),{code:'quota_reservation_missing'});
   if(['analysis','review','risk_check'].includes(purpose))maxTokens=Math.max(1500,maxTokens);
   if(purpose==='memory')maxTokens=Math.max(2400,maxTokens);
   if(!env.OPENROUTER_API_KEY||['true','1','yes'].includes(String(env.GENERATION_PAUSED)))throw Object.assign(Error('Generation unavailable'),{code:'generation_paused'});
@@ -402,10 +407,16 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
    if(attempt>=3){await releaseDaily(env,{tokens:reserve,now:now()});throw Object.assign(Error('Phase attempts exhausted'),{code:'turn_budget'})}
    const reserved=await run(env,'UPDATE chat_engine_jobs SET reserved_tokens=reserved_tokens+? WHERE turn_id=? AND user_id=? AND lease_token=? AND lease_until>? AND reserved_tokens+?<=? AND reserved_tokens+?<=94500',reserve,jobId,userId,jobLease,now(),reserve,allowance,reserve);if(!reserved.meta.changes){await releaseDaily(env,{tokens:reserve,now:now()});throw Object.assign(Error('Turn budget'),{code:'turn_budget'})}
   }
-  const result=await run(env,`INSERT INTO provider_budgets(user_id,week_start,provider_calls,reserved_tokens) SELECT ?,?,1,? WHERE ?<=? AND EXISTS(SELECT 1 FROM users WHERE id=?) ON CONFLICT(user_id,week_start) DO UPDATE SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+excluded.reserved_tokens WHERE reserved_tokens+excluded.reserved_tokens<=?`,userId,week,reserve,reserve,limit,userId,limit);
-  if(!result.meta.changes){if(jobId)await run(env,'UPDATE chat_engine_jobs SET reserved_tokens=reserved_tokens-? WHERE turn_id=? AND user_id=?',reserve,jobId,userId);await releaseDaily(env,{tokens:reserve,now:now()});throw Object.assign(Error('Budget exceeded'),{code:'generation_budget'})}
+  const providerGuard=`${companionReadinessSql('u.id')} AND EXISTS(SELECT 1 FROM subscriptions s WHERE s.user_id=u.id AND ${accessSql(env,'s',String(now()))})${accessContext==='care'?'':" AND EXISTS(SELECT 1 FROM chat_settings cs WHERE cs.user_id=u.id AND cs.consent=1)"}${jobId?` AND EXISTS(SELECT 1 FROM chat_turns t JOIN chat_engine_jobs j ON j.turn_id=t.id WHERE t.user_id=u.id AND t.id=? AND j.lease_token=? AND j.lease_until>${now()} AND t.status='running' AND t.purged=0 AND ${reservedUsageSql('t.user_id','message','t.id')} AND EXISTS(SELECT 1 FROM chat_settings cs WHERE cs.user_id=t.user_id AND cs.consent=1 AND cs.revision=t.consent_revision))`:''}`;
+  const providerArgs=[userId,...(jobId?[jobId,jobLease]:[])];
+  const result=await run(env,`INSERT INTO provider_budgets(user_id,week_start,provider_calls,reserved_tokens) SELECT ?,?,1,? WHERE ?<=? AND EXISTS(SELECT 1 FROM users u WHERE u.id=? AND ${providerGuard}) ON CONFLICT(user_id,week_start) DO UPDATE SET provider_calls=provider_calls+1,reserved_tokens=reserved_tokens+excluded.reserved_tokens WHERE reserved_tokens+excluded.reserved_tokens<=?`,userId,week,reserve,reserve,limit,...providerArgs,limit);
+  if(!result.meta.changes){if(jobId)await run(env,'UPDATE chat_engine_jobs SET reserved_tokens=reserved_tokens-? WHERE turn_id=? AND user_id=?',reserve,jobId,userId);await releaseDaily(env,{tokens:reserve,now:now()});await requireCompanionGenerationAccess(env,userId,{at:now(),consent:accessContext!=='care'});throw Object.assign(Error('Budget exceeded'),{code:'generation_budget'})}
   const started=Date.now(),traceId=jobId?await startTrace(env,jobId,userId,jobLease,traceStage||purpose,model,parse(user,{text:user}),system,sourceVersion,maxTokens,reserve,budgetKey):null;
+  let sent=false;
   try{
+  await requireCompanionGenerationAccess(env,userId,{at:now(),consent:accessContext!=='care'});
+  if(!await first(env,`SELECT 1 FROM users u WHERE u.id=? AND ${providerGuard}`,...providerArgs))throw Object.assign(Error('Generation guard changed'),{code:'lease_lost'});
+  sent=true;
   const response=await fetch(PROVIDER_URL,{method:'POST',headers:{Authorization:'Bearer '+env.OPENROUTER_API_KEY,'Content-Type':'application/json','HTTP-Referer':env.PUBLIC_ORIGIN||'https://decodetonesprit.fr','X-Title':'Décode ton esprit'},signal:AbortSignal.timeout(Math.max(1000,Math.min(timeoutMs,100000))),body:JSON.stringify({model,messages:[{role:'system',content:[{type:'text',text:system,cache_control:{type:'ephemeral'}}]},{role:'user',content:user}],max_tokens:maxTokens,reasoning:{effort:['analysis','review','memory','risk_check'].includes(purpose)?'minimal':'low'},provider:{require_parameters:true,data_collection:'deny',zdr:true,allow_fallbacks:true},...(format?{response_format:{type:'json_schema',json_schema:{name:'ambre_'+purpose,strict:true,schema:format}}}:{})})});
   if(REFUSAL_STATUSES.includes(response.status)){
    // Nothing was consumed upstream: refund every reservation, record the shared cooldown.
@@ -426,7 +437,7 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
   if(purpose==='risk_check'){try{checkedRisk(text,parse(user))}catch(error){throw Object.assign(error,{usage:measured,model_received:receivedModel})}}
   await finishTrace(env,jobId,userId,traceId,'completed',measured,null,receivedModel,jobLease);
   return {text,...measured};
-  }catch(error){if(purpose==='risk_check'&&(error.code==='invalid_response'||error instanceof SyntaxError))error.code='risk_check_invalid_response';if(error.refusal)await finishTrace(env,jobId,userId,traceId,'refused',null,error.provider_code,null,jobLease,{refunded:true});else await finishTrace(env,jobId,userId,traceId,'error',error.usage,providerFailure(error),error.model_received,jobLease);throw error}
+  }catch(error){if(!sent){await run(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reserve,userId,week);if(jobId)await run(env,'UPDATE chat_engine_jobs SET reserved_tokens=max(0,reserved_tokens-?) WHERE turn_id=? AND user_id=?',reserve,jobId,userId);await releaseDaily(env,{tokens:reserve,now:now()});}if(purpose==='risk_check'&&(error.code==='invalid_response'||error instanceof SyntaxError))error.code='risk_check_invalid_response';if(error.refusal)await finishTrace(env,jobId,userId,traceId,'refused',null,error.provider_code,null,jobLease,{refunded:true});else await finishTrace(env,jobId,userId,traceId,'error',error.usage,providerFailure(error),error.model_received,jobLease);throw error}
  }
  // F23: the personal context (up to ~4 MB on a maximal profile) is read once per
  // version (context-cache.mjs revalidates it with one small row of revisions).
@@ -459,7 +470,7 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
  }
  async function recent(env,userId,limit=6){const change=await readChangeState(env,userId),generation=change.available?' AND context_generation=?':'',rows=(await all(env,"SELECT id,content,response,created_at FROM chat_turns WHERE user_id=? AND status='completed' AND purged=0 AND idempotency_key NOT LIKE 'review-%'"+generation+" ORDER BY rowid DESC LIMIT ?",userId,...(change.available?[change.context_generation]:[]),limit)).reverse();return rows.map((x,i)=>({id:x.id,at:parisTime(Date.parse(x.created_at.replace(' ','T')+'Z')/1000),user:conversationExcerpt(x.content,i===rows.length-1?500:200),assistant:conversationExcerpt(parse(x.response,{content:x.response}).content,i===rows.length-1?700:320)}))}
  async function enqueue(env,userId,turn){const s=await snapshot(env,userId);const row=await first(env,'SELECT * FROM chat_turns WHERE id=? AND user_id=?',turn.id,userId);if(s.change.state.available&&row?.context_generation!==s.change.state.context_generation)throw Object.assign(Error('Generation changed'),{code:'context_changed'});await run(env,"INSERT OR IGNORE INTO chat_engine_jobs(turn_id,user_id,source_hash,created_at,updated_at) VALUES(?,?,?,?,?)",turn.id,userId,s.hash,now(),now());await run(env,'UPDATE chat_turns SET lease_until=? WHERE id=? AND status=\'running\'',now()+600,turn.id)}
- const valid=async(env,job)=>first(env,`SELECT t.*,cs.consent,cs.revision AS settings_revision FROM chat_turns t JOIN chat_settings cs ON cs.user_id=t.user_id WHERE t.id=? AND t.user_id=? AND t.status='running' AND t.purged=0 AND cs.consent=1 AND cs.revision=t.consent_revision`,job.turn_id,job.user_id);
+ const valid=async(env,job)=>first(env,`SELECT t.*,cs.consent,cs.revision AS settings_revision FROM chat_turns t JOIN chat_settings cs ON cs.user_id=t.user_id WHERE t.id=? AND t.user_id=? AND t.status='running' AND t.purged=0 AND cs.consent=1 AND cs.revision=t.consent_revision AND ${companionReadinessSql('t.user_id')} AND ${reservedUsageSql('t.user_id','message','t.id')} AND EXISTS(SELECT 1 FROM subscriptions s WHERE s.user_id=t.user_id AND ${accessSql(env,'s',String(now()))})`,job.turn_id,job.user_id);
  async function advance(env,job,patch){const keys=Object.keys(patch),saved=await run(env,`UPDATE chat_engine_jobs SET ${keys.map(k=>k+'=?').join(',')},attempts=0,updated_at=? WHERE turn_id=? AND lease_token=? AND lease_until>?`,...Object.values(patch),now(),job.turn_id,job.lease_token,now());if(!saved.meta.changes)throw Object.assign(Error('Lease lost'),{code:'lease_lost'});Object.assign(job,patch)}
  async function work(env,turnId,milliseconds=22000){
   const token=random(),claimed=await run(env,"UPDATE chat_engine_jobs SET lease_token=?,lease_until=? WHERE turn_id=? AND stage NOT IN ('done','failed') AND lease_until<=?",token,now()+150,turnId,now());if(!claimed.meta.changes)return 'busy';
@@ -505,7 +516,7 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
        if(analysis.need==='listen')analysis.constraints=unique([...analysis.constraints,'no_advice']);
        analysis.sensitive_allowed=Boolean(ai.sensitive_allowed)&&analysis.risk==='none'&&!states.some(x=>['distress','rupture','shame','dissociation'].includes(x))&&!analysis.closed_topics.length&&!(memory.closed||[]).length&&!memory.closed_omitted&&!history.at(-1)?.assistant?.includes('?');
        Object.assign(analysis,analyzeChange(ai,{message:turn.content,analysis,context:snap.change.context,candidates}));
-      }catch(error){if(error.code==='stage_deferred')throw error;analysis.fallback=true;analysis.error_code=error.code==='output_limit'?'output_limit':'analysis_unavailable';analysis.failure_code=error.refusal?'provider_refused':providerFailure(error);analysisUsage=tokenUsage(error.usage||analysisUsage)}
+      }catch(error){if(['stage_deferred','prerequisites_required','access_required','consent_withdrawn','quota_reservation_missing'].includes(error.code))throw error;analysis.fallback=true;analysis.error_code=error.code==='output_limit'?'output_limit':'analysis_unavailable';analysis.failure_code=error.refusal?'provider_refused':providerFailure(error);analysisUsage=tokenUsage(error.usage||analysisUsage)}
       analysis.usage=analysisUsage;
       // Deterministic clinical signals; the model may add a signal, never remove one.
       const previousJob=history.at(-1)?.id?await first(env,'SELECT analysis FROM chat_engine_jobs WHERE turn_id=? AND user_id=?',history.at(-1).id,job.user_id):null;
@@ -642,7 +653,7 @@ Utilise les dates Europe/Paris et le suivi déclaré : prépare ce qui compte po
     if(error.wait&&retryAt-job.created_at<=PROVIDER_WAIT_MAX){releaseAt=retryAt;await countMetric(env,now(),'turn_waiting');return 'waiting'}
    }
    const code=error.refusal?error.provider_code:providerFailure(error);
-   const terminal=Boolean(error.refusal)||code==='context_changed'||job.attempts>=2||['generation_budget','turn_budget',DAILY_CAP].includes(code),a=parse(job.analysis);if(terminal&&a.risk_check?.status==='pending')a.risk_check.status='unavailable';
+   const terminal=Boolean(error.refusal)||code==='context_changed'||job.attempts>=2||['prerequisites_required','access_required','consent_withdrawn','quota_reservation_missing','generation_budget','turn_budget',DAILY_CAP].includes(code),a=parse(job.analysis);if(terminal&&a.risk_check?.status==='pending')a.risk_check.status='unavailable';
    const trace={analysis:{need:a.need,states:(a.states||[]).filter(x=>STATES.includes(x)),risk:a.risk,posture:a.posture,constraints:(a.constraints||[]).filter(x=>CONSTRAINTS.includes(x)),...(a.risk_check?{risk_check:a.risk_check}:{})},context:{input_tokens:job.input_tokens,output_tokens:job.output_tokens,cached_tokens:job.cached_tokens},review:parse(job.review),error:{code,stage:job.stage,...(error.usage?{usage:tokenUsage(error.usage)}:{})},duration_ms:job.duration_ms,models:models(env)};
    await saveTrace(env,job,trace);
    if(terminal){
@@ -657,6 +668,7 @@ Utilise les dates Europe/Paris et le suivi déclaré : prépare ce qui compte po
   }finally{await run(env,'UPDATE chat_engine_jobs SET lease_token=NULL,lease_until=? WHERE turn_id=? AND lease_token=?',releaseAt||now(),turnId,token)}
  }
  async function updateMemory(env,userId){
+  try{await requireCompanionGenerationAccess(env,userId,{at:now()})}catch{return}
   const token=random(),lock=await run(env,'UPDATE chat_memory_jobs SET lease_token=?,lease_until=? WHERE user_id=? AND lease_until<=? AND NOT EXISTS(SELECT 1 FROM chat_turns WHERE user_id=? AND status=\'running\')',token,now()+150,userId,now(),userId);if(!lock.meta.changes)return;
   try{
    const settings=await first(env,'SELECT consent,revision FROM chat_settings WHERE user_id=?',userId);if(!settings?.consent){await run(env,'DELETE FROM chat_memory_jobs WHERE user_id=?',userId);return}

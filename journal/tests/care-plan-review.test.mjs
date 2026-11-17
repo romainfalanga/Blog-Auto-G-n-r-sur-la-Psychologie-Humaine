@@ -17,7 +17,7 @@ function setup(t){
   const trialIds=[];for(let i=0;i<trials;i++){const trial=ok(await planCall(`/api/plan/steps/${step.entity_id}/results`,'POST',{result_text:'RETOUR_CHOISI_'+i,attempt:'partial',outcome:'neutral'},owner));trialIds.push(trial.entity_id)}
   return {goal:goal.entity_id,step:step.entity_id,trials:trialIds};
  }
- async function prepare(link,id='session'){s.session(id);return ok(await s.call('/api/care/briefs','POST',{link_id:link.id,session_id:id}),202)}
+ async function prepare(link,id='session'){s.readyGeneration(link.user_id);s.session(id);return ok(await s.call('/api/care/briefs','POST',{link_id:link.id,session_id:id}),202)}
  return {...s,change,planCall,choices,prepare};
 }
 function ok(result,status=201){assert.equal(result.httpStatus,status,JSON.stringify(result));return result}

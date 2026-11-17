@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 // Lot A5-P1 (plan v5.1, audit v5 F): structured reviews anchored in the person's words, a
 // separate check before publication, the review thread at every turn, the person's feedback,
 // a suggested (never started) point, and a Worker that tolerates the missing 0023 columns.
@@ -14,7 +15,7 @@ import {analysis,draft,review as critic,response} from './v4-R-helper.mjs';
 const migrations=readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort();
 function setup({before=null}={}){
  const raw=new DatabaseSync(':memory:');raw.exec('PRAGMA foreign_keys=ON');
- for(const name of migrations.filter(n=>!before||n<before))raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
+ for(const name of migrations.filter(n=>!before||n<before||n.startsWith('0026_')))raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
  const prepare=sql=>{let args=[];return {bind(...a){args=a;return this},async first(){return raw.prepare(sql).get(...args)||null},async all(){return {results:raw.prepare(sql).all(...args)}},async run(){return {meta:{changes:raw.prepare(sql).run(...args).changes}}}}};
  let queue=Promise.resolve();
  const DB={raw,prepare,batch(statements){const next=queue.then(async()=>{raw.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());raw.exec('COMMIT');return r}catch(e){raw.exec('ROLLBACK');throw e}});queue=next.catch(()=>{});return next}};
@@ -23,6 +24,7 @@ function setup({before=null}={}){
  const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal,catalogue:new Map(),engineEnabled:true}),env={DB,OPENROUTER_API_KEY:'mock-only'};
  for(const id of ['a','b']){raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,'hash','salt')").run(id,id+'@example.test');raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(id);raw.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES(?,'active',?)").run(id,clock+86400*400)}
  raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Alix',self_description:'Je me tais souvent pour éviter les conflits avec ma sœur.'}));
+ seedCompanionPrerequisites(raw);
  async function call(path,method='GET',data,user='a'){const req=new Request('https://example.test'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:user},url.pathname,url)||await personal.routes(req,env,{id:user},url.pathname,url);return {status:res.status,...await res.json()}}catch(e){return {status:e.status||500,code:e.code,message:e.message}}}
  const job=()=>raw.prepare('SELECT * FROM chat_engine_jobs ORDER BY rowid DESC LIMIT 1').get();
  async function message(content,key){const r=await call('/api/chat/messages','POST',{content,idempotency_key:key});for(let n=0;n<8&&job()&&!['done','failed'].includes(job().stage);n++)await chat.engine.work(env,job().turn_id);return r}
@@ -119,7 +121,7 @@ test('a review is written with its digest, checked separately, then published; t
  assert.equal((await s.call('/api/reviews/'+initialId+'/feedback','PUT',{verdict:'to_correct',text:'Ce n’est pas ma sœur, c’est mon frère.'})).status,200);
  s.raw.prepare("INSERT INTO chat_memory(user_id,summary,through_turn,turns_covered,updated_at) VALUES('a',?,NULL,1,0) ON CONFLICT(user_id) DO UPDATE SET summary=excluded.summary").run(JSON.stringify({goals:['MEM_GOAL oser parler en réunion'],tried:['MEM_TRIED prendre la parole mardi'],alliance:['MEM_ALLIANCE questions précises'],facts:['MEM_FACT hors bilan']}));
  const now=s.now();s.raw.prepare("INSERT INTO change_plans(user_id,revision,document_json,updated_at) VALUES('a',1,?,?)").run(JSON.stringify({schema_version:1,goals:[{id:'g1',revision:1,title:'PLAN_GOAL Oser parler',why:'Être entendue',status:'active',priority:1,accepted_at:now,updated_at:now}],steps:[{id:'s1',revision:1,goal_id:'g1',text:'PLAN_STEP Dire une phrase en réunion',strategy_id:null,measure:'Mon ressenti',status:'active',accepted_at:now,updated_at:now}],trials:[],proposals:[],preparations:[],instructions:[]}),now);
- s.tick(86401);s.raw.prepare("INSERT INTO care_sessions(id,user_id,session_at,created_by,created_at) VALUES('cs1','a',?,'member',0)").run(s.now()+86400);
+ s.tick(32*86400);s.raw.prepare("INSERT INTO care_sessions(id,user_id,session_at,created_by,created_at) VALUES('cs1','a',?,'member',0)").run(s.now()+86400);
  phase='point';r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_0001'});assert.equal(r.status,202,r.message);
  const pointWrite=calls.filter(c=>c.purpose==='ambre_review').at(-1),point=reviewInput(pointWrite);
  assert.equal(point.review_thread.last.id,initialId);assert.equal(point.review_thread.goals[0].key,'parler-reunion');assert.equal(point.review_thread.feedback[0].verdict,'À corriger');
@@ -171,7 +173,7 @@ test('a failed check asks one rewrite; a second failure publishes nothing; an un
 test('a safety signal since the last review makes the resources blocking in the check',async t=>{
  const s=setup();provider(t);await start(s);
  await s.message('Je pense au suicide depuis quelques jours.','risk_turn_0001');
- s.tick(86401);let writes=0;const calls=provider(t,{write:()=>++writes===1?{content:text(),digest:initialDigest()}:{content:text('Le 3114 répond 24 h/24, 7 j/7 ; parlez-en aussi à une personne de confiance. '),digest:initialDigest()}});
+ s.tick(32*86400);let writes=0;const calls=provider(t,{write:()=>++writes===1?{content:text(),digest:initialDigest()}:{content:text('Le 3114 répond 24 h/24, 7 j/7 ; parlez-en aussi à une personne de confiance. '),digest:initialDigest()}});
  const r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_0001'});
  const checks=calls.filter(c=>c.purpose==='ambre_review_check').map(c=>JSON.parse(c.body.messages[1].content));
  assert.equal(checks[0].safety_signal,'self_harm');assert.deepEqual(checks[0].deterministic_failures,['safety_missing']);
@@ -198,7 +200,7 @@ test('feedback: three answers without score, an optional text, the owner only; i
 test('Ambre may suggest a point before a declared session, never start one',async t=>{
  const s=setup();const calls=provider(t);await start(s);
  assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'too early for a point');
- s.tick(3*86400);assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'no session, few exchanges');
+ s.tick(32*86400);assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'no session, few exchanges');
  s.raw.prepare("INSERT INTO care_sessions(id,user_id,session_at,created_by,created_at) VALUES('cs1','a',?,'member',0)").run(s.now()+86400);
  const state=await s.call('/api/chat');assert.deepEqual(state.journey.review.suggestion,{reason:'session_soon',session_at:s.now()+86400});
  const reviews=s.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n;
@@ -218,7 +220,7 @@ test('before the 0023 migration the Worker keeps working: checked reviews withou
  assert.equal((await s.call('/api/reviews')).reviews.length,1);assert.equal((await s.call('/api/reviews/'+id)).review.content,text());
  await s.message('Bonjour.','legacy_turn_0001');assert.equal(s.job().stage,'done');const input=writingInput(calls);
  assert.equal(input.review_thread.last.id,id);assert.ok(input.review_thread.last.text.startsWith('Vous écrivez'));
- s.tick(86401);r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_0001'});assert.equal(s.row(r.review_id).status,'ready');
+ s.tick(32*86400);r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_0001'});assert.equal(s.row(r.review_id).status,'ready');
  const exported=await s.chat.exportData(s.env,'a');assert.equal(exported.ambre_reviews.length,2);assert.equal(exported.ambre_review_thread,null);
  assert.equal((await s.call('/api/chat','DELETE',{})).status,200);
 });

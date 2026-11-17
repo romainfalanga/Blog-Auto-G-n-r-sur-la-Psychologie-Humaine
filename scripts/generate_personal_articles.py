@@ -211,8 +211,8 @@ def portrait_claims(p):
 
 
 SELF_DESCRIPTION_FIELDS=('self_description','self_perception','recurring_patterns','emotions','current_context')
-PERSONAL_SOURCE_FIELDS={'like':('reason','differences'),'person':('relationship_text',),
-                       'event':('description','meaning_now'),
+PERSONAL_SOURCE_FIELDS={'like':('reason','differences'),'person':('relationship_text','user_notes_text'),
+                       'event':('description','meaning_now','user_notes_text'),
                        'memory':('text',),'profile':SELF_DESCRIPTION_FIELDS}
 
 
