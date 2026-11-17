@@ -25,7 +25,7 @@ const fold=value=>String(value||'').normalize('NFD').replace(/\p{M}/gu,'').toLow
 const emptyNotes=()=>({factors:{},outcomes:{}});
 const noteCount=notes=>Object.keys(notes?.factors||{}).length+Object.keys(notes?.outcomes||{}).length;
 
-// Strict validation: known identifiers only, 0=no and intensity 1|2, feedback oui|non,
+// Strict validation: known identifiers only, unknown=uncertain, 0=no and intensity 1|2, feedback oui|non,
 // bounded notes in the member's words and known protective resources.
 export function validateCartography(input,fail,data=CARTOGRAPHIE){
  const {factors,outcomes,protections}=index(data),invalid=message=>fail(400,message,'invalid_cartography');
@@ -61,7 +61,7 @@ export function validateCartography(input,fail,data=CARTOGRAPHIE){
  const cleanAnswers={},cleanFeedback={};
  for(const id of answerKeys.sort()){
   if(!factors.has(id))invalid('Élément de l’enfance inconnu.');
-  if(answers[id]!==0&&answers[id]!==1&&answers[id]!==2)invalid('Réponse invalide : 0, 1 ou 2 attendu.');
+  if(answers[id]!==0&&answers[id]!==1&&answers[id]!==2&&answers[id]!=='unknown')invalid('Choisissez Non, Oui, Souvent ou Je ne sais pas.');
   cleanAnswers[id]=answers[id];
  }
  for(const group of data.exclusive||[])if(group.filter(id=>cleanAnswers[id]===1||cleanAnswers[id]===2).length>1)invalid('Ces réponses décrivent des situations alternatives : choisissez celle qui correspond à votre vécu.');
@@ -208,9 +208,10 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
  const exploratory=state.results.filter(r=>r.tier==='theorique'&&!r.outcome.contextual_only&&feedback[r.outcome.id]==='oui'),selectedExploratory=diverseResults(exploratory,maxPistes,feedback);
  return {
   cause_count:state.selectedCount,ace_count:state.aceCount,
-  answered_count:Object.keys(answers||{}).filter(id=>factors.has(id)&&[0,1,2].includes(answers[id])).length,
-  explicit_negative:Object.keys(answers||{}).filter(id=>factors.has(id)&&answers[id]===0).map(id=>({id,label:label(id)})),
-  causes:Object.keys(answers||{}).filter(id=>factors.has(id)&&(answers[id]===1||answers[id]===2)).map(id=>({id,label:label(id),intensity:answers[id]})),
+  answered_count:Object.keys(answers||{}).filter(id=>factors.has(id)&&[0,1,2,'unknown'].includes(answers[id])).length,
+  explicit_uncertain:Object.keys(answers||{}).filter(id=>factors.has(id)&&answers[id]==='unknown').map(id=>({id,label:label(id),answer:'Je ne sais pas',...(factors.get(id).historical?{historical:true}:{})})),
+  explicit_negative:Object.keys(answers||{}).filter(id=>factors.has(id)&&answers[id]===0).map(id=>({id,label:label(id),...(factors.get(id).historical?{historical:true}:{})})),
+  causes:Object.keys(answers||{}).filter(id=>factors.has(id)&&(answers[id]===1||answers[id]===2)).map(id=>({id,label:label(id),intensity:answers[id],...(factors.get(id).historical?{historical:true,interpretation:'Ancienne question combinée : ne pas attribuer cette réponse aux nouvelles dimensions.',replaced_by:factors.get(id).replaced_by}:{}),...(factors.get(id).response_mode==='binary'&&answers[id]===2?{historical_frequency:true,answer:'Ancienne réponse : Souvent, conservée sans conversion.'}:{}),...(factors.get(id).association_status==='unreviewed'?{association_status:'unreviewed',interpretation:'Contexte déclaré ; aucune association scientifique retenue pour cette question.'}:{})})),
   convergence:selectedConvergence.map(item),
   pistes:selectedPistes.map(item),
   // Contextual subjects are no longer displayed nor sent; the empty list stays one
@@ -265,10 +266,10 @@ function cartographyWords(map){
 export function cartographyPromptBlock(summary,budget=Infinity){
  if(!summary)return null;
  const sections=summary.sections||{},compact=x=>({id:x.id,label:x.label,max_strength:x.max_strength,...(x.frequent?{frequent:true}:{}),...(x.familial_transmission?{familial_transmission:true}:{}),...(x.feedback?{feedback:x.feedback}:{})});
- const block={version:summary.version,locked_at:summary.locked_at,cause_count:summary.cause_count,ace_count:summary.ace_count,answered_count:summary.answered_count,explicit_negative:(summary.explicit_negative||[]).slice(),
+ const block={version:summary.version,locked_at:summary.locked_at,cause_count:summary.cause_count,ace_count:summary.ace_count,answered_count:summary.answered_count,explicit_negative:(summary.explicit_negative||[]).map(c=>({...c,label:c.label+(c.historical?' (ancienne question combinée)':'')})),explicit_uncertain:(summary.explicit_uncertain||[]).slice(),
   display_order:(summary.display_order||[]).slice(),display_count:summary.display_count||0,
   sections:{top:(sections.top||[]).map(x=>x.id),frequent:(sections.frequent||[]).map(compact),other_count:summary.other_count??(sections.other||[]).length},
-  contextual:[],exploratory:(summary.exploratory||[]).map(withoutUrl),evidence_sources:(summary.evidence_sources||[]).map(({url,...reference})=>reference),causes:(summary.causes||[]).slice(),
+  contextual:[],exploratory:(summary.exploratory||[]).map(withoutUrl),evidence_sources:(summary.evidence_sources||[]).map(({url,...reference})=>reference),causes:(summary.causes||[]).map(c=>({id:c.id,label:c.label+(c.historical?' (ancienne question combinée)':'')+(c.historical_frequency?' (ancien Souvent)':'')+(c.association_status==='unreviewed'?' (contexte sans lien retenu)':''),intensity:c.intensity})),
   convergence:(summary.convergence||[]).map(withoutUrl),pistes:(summary.pistes||[]).map(withoutUrl),theorique_count:summary.theorique_count,recognized:(summary.recognized||[]).filter(x=>!hiddenOutcome(x)),dismissed:(summary.dismissed||[]).filter(x=>!hiddenOutcome(x)),suicide_recognized:false,truncated:Boolean(summary.truncated),
   evidence:(summary.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(summary.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(summary)};
  const size=()=>JSON.stringify(block).length;
@@ -286,6 +287,7 @@ export function cartographyPromptBlock(summary,budget=Infinity){
   const keep=new Set([...block.recognized.map(x=>x.id),...block.sections.top]);
   const extra=block.display_order.findLastIndex(x=>!keep.has(x.id));
   if(extra>=0){block.display_order.splice(extra,1);block.display_order_truncated=true;continue;}
+  if(block.explicit_uncertain.length){block.explicit_uncertain_omitted=(block.explicit_uncertain_omitted||0)+1;block.explicit_uncertain.pop();continue;}
   if(block.explicit_negative.length){block.explicit_negative_omitted=(block.explicit_negative_omitted||0)+1;block.explicit_negative.pop();continue;}
   if(block.causes?.length>12){block.causes_omitted=(block.causes_omitted||0)+1;block.causes.pop();continue;}
   break;
@@ -301,6 +303,7 @@ export function cartographyIndexEntries(summary){
  const map=summary,at=map.locked_at??null,entries=[],push=(key,kind,label,content,metadata={})=>entries.push({key,kind,label,content,updated_at:at,metadata});
  for(const c of (map.causes||[]).slice(0,80))push('cause:'+c.id,'cause',c.label,c);
  for(const c of (map.explicit_negative||[]).slice(0,80))push('cartography:negative:'+c.id,'boundary','Réponse non · '+c.label,{...c,answer:0},{answer:0,explicit_negative:true});
+ for(const c of (map.explicit_uncertain||[]).slice(0,80))push('cartography:uncertain:'+c.id,'cartography','Je ne sais pas · '+c.label,{...c,answer:'Je ne sais pas',interpretation:'Incertitude déclarée : ni oui, ni non, ne pas en déduire un vécu.'},{answer:'unknown',explicit_uncertain:true});
  const outcomes=new Map(),sections=map.sections||{};
  for(const name of SECTION_ORDER)for(const item of (sections[name]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});
  for(const list of ['convergence','pistes','exploratory','recognized','dismissed'])for(const item of (map[list]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});

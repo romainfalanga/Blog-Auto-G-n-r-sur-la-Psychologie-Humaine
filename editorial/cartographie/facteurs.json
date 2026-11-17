@@ -157,7 +157,8 @@
    "examples": [
     "Visites au parloir"
    ],
-   "ace": true
+   "ace": true,
+   "response_mode": "binary"
   },
   {
    "id": "separation_conflit",
@@ -179,7 +180,8 @@
     "Deuil d'un parent avant 18 ans",
     "Mort d'un proche par suicide"
    ],
-   "ace": false
+   "ace": false,
+   "response_mode": "binary"
   },
   {
    "id": "maladie_famille",
@@ -257,7 +259,36 @@
     "Culpabilisation pour obtenir son obéissance",
     "Retrait affectif ou intrusion dans les pensées et émotions"
    ],
-   "ace": false
+   "ace": false,
+   "historical": true,
+   "replaced_by": [
+    "parents_stricts",
+    "controle_psychologique"
+   ]
+  },
+  {
+   "id": "parents_stricts",
+   "group": "climat",
+   "label": "Règles strictes et obéissance exigée",
+   "description": "Des règles imposées et peu de place pour discuter les décisions des parents ou des adultes qui vous élevaient.",
+   "examples": [
+    "Choix d’activités ou de sorties imposés",
+    "Interdiction de contredire une décision"
+   ],
+   "ace": false,
+   "association_status": "unreviewed"
+  },
+  {
+   "id": "controle_psychologique",
+   "group": "climat",
+   "label": "Culpabilisation, manipulation ou retrait d’affection",
+   "description": "Un parent ou un adulte qui vous élevait cherchait à obtenir votre obéissance en vous faisant culpabiliser, en retirant son affection ou en imposant ce que vous deviez penser ou ressentir.",
+   "examples": [
+    "« Après tout ce que je fais pour toi… » pour imposer un choix",
+    "Cesser de vous parler ou de manifester de l’affection après un désaccord"
+   ],
+   "ace": false,
+   "association_status": "unreviewed"
   },
   {
    "id": "imprevisibilite",
@@ -406,7 +437,8 @@
    "examples": [
     "Arriver dans un pays dont on ne parlait pas la langue"
    ],
-   "ace": false
+   "ace": false,
+   "response_mode": "binary"
   },
   {
    "id": "traumatisme_ponctuel",
@@ -419,7 +451,8 @@
     "Catastrophe naturelle",
     "Attentat"
    ],
-   "ace": false
+   "ace": false,
+   "response_mode": "binary"
   },
   {
    "id": "maladie_enfant",
@@ -471,7 +504,8 @@
     "Garde alternée",
     "Déménagement après la séparation"
    ],
-   "ace": true
+   "ace": true,
+   "response_mode": "binary"
   },
   {
    "id": "famille_recomposee",
@@ -495,7 +529,8 @@
    "label": "Adoption",
    "description": "Avoir été adopté. Les placements ou le séjour en institution avant l'adoption relèvent de « Prise en charge précoce instable ».",
    "examples": [],
-   "ace": false
+   "ace": false,
+   "response_mode": "binary"
   },
   {
    "id": "violences_fratrie",

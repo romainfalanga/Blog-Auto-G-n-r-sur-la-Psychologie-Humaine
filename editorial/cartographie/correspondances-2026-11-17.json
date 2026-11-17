@@ -3635,8 +3635,8 @@
   "final_validation": {
     "status": "passed",
     "reviewed_on": "2026-11-17",
-    "graph_core_sha256": "6029d38cdd8b35bc43efa3a8023b5a17bf0e2538107e57a3657e772a4ab26274",
-    "active_factors": 59,
+    "graph_core_sha256": "a2b1572f81f0ac0233e0aa5d3d41664df1b4fb4e3eba92aeb82739b218e61b69",
+    "active_factors": 60,
     "active_outcomes": 113,
     "resources": 11,
     "links": 518,
@@ -3652,10 +3652,12 @@
     "unresolved_registry_source_ids": [],
     "does_not_validate_clinical_criteria_or_causality": true,
     "post_integration_delta_independently_reviewed": true,
-    "revalidated_on": "2026-11-19",
-    "revalidated_by": "lot_C5b_v5",
+    "revalidated_on": "2026-11-17",
+    "revalidated_by": "independent_cartography_choices_review",
     "v4_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v4-2026-11-18.md)",
-    "v5_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v5-2026-11-19.md §8) : 4 sujets ajoutés, 22 liens limités, 8 liens existants corrigés, aucun sujet existant retiré ni renommé hors pat_social_isolation (libellé seulement)"
+    "v5_delta_independent_review": "accepté après corrections (docs/relecture-cartographie-v5-2026-11-19.md §8) : 4 sujets ajoutés, 22 liens limités, 8 liens existants corrigés, aucun sujet existant retiré ni renommé hors pat_social_isolation (libellé seulement)",
+    "historical_factors": 1,
+    "questionnaire_delta_independent_review": "Accepté : 79 tests et 7 parcours navigateur ; 518 liens, 272 sources et 113 sujets inchangés. Relecture limitée aux réponses incertaines, choix binaires et conservation historique du contrôle ; aucune nouvelle validation clinique de tous les liens."
   },
   "post_integration_reviews": [
     {
@@ -3845,6 +3847,21 @@
         "factor_label": "punitions_corporelles : « Fessées, tapes ou gifles données pour éduquer »",
         "strengths_changed": false
       }
+    },
+    {
+      "reviewed_by": "independent_cartography_choices_review",
+      "reviewed_on": "2026-11-17",
+      "previous_graph_core_sha256": "6029d38cdd8b35bc43efa3a8023b5a17bf0e2538107e57a3657e772a4ab26274",
+      "validated_graph_core_sha256": "a2b1572f81f0ac0233e0aa5d3d41664df1b4fb4e3eba92aeb82739b218e61b69",
+      "report": "docs/cartographie-choix-2026-11-17.md",
+      "scope": "Delta de questionnaire uniquement ; aucun lien scientifique ajouté, retiré ou réaffecté.",
+      "changes": [
+        "unknown distinct de Non/Oui/absence",
+        "6 questions binaires ; ancien 2 préservé",
+        "controle historique intact ; 2 questions nouvelles sans liens et sans copie des anciennes réponses"
+      ],
+      "links_sources_outcomes_unchanged": true,
+      "clinical_rereview_of_all_links": false
     }
   ]
 }

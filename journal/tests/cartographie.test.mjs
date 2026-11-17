@@ -522,3 +522,13 @@ test('a database migrated to 0016 only still serves the map to Ambre without not
  const context=await loadContext({DB:d1(raw)},'a');
  assert.equal(context.cartography.cause_count,1);assert.deepEqual(context.cartography.ambre_notes,[]);assert.deepEqual(context.cartography.notes,[]);
 });
+
+test('new choices survive API reload and export without migrating historical answers or losing notes on conflict',async()=>{
+ const env={DB:d1(migrated())},a=await register(env,'carto-explicit-choices@example.test');
+ const original={answers:{controle:2,adoption:2,abus_physique:'unknown',divorce:'unknown',separation_conflit:1},notes:{factors:{controle:'Ma précision historique',adoption:'Mon récit conservé'},outcomes:{}},consent:true,locked:true,version:0};
+ let saved=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:original});assert.equal(saved.status,200);assert.deepEqual(saved.cartographie.answers,original.answers);assert.equal(saved.summary.explicit_uncertain.length,2);
+ const stale={...original,answers:{...original.answers,parents_stricts:0,controle_psychologique:'unknown'},version:0};assert.equal((await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:stale})).status,409);
+ let read=await send(env,'/api/cartographie',{cookie:a.cookie});assert.deepEqual(read.cartographie.answers,original.answers);assert.deepEqual(read.cartographie.notes,original.notes);assert.equal(Object.hasOwn(read.cartographie.answers,'parents_stricts'),false);
+ saved=await send(env,'/api/cartographie',{method:'PUT',cookie:a.cookie,data:{...stale,version:1}});assert.equal(saved.status,200);assert.equal(saved.cartographie.answers.controle,2);assert.equal(saved.cartographie.answers.adoption,2);assert.equal(saved.cartographie.answers.parents_stricts,0);assert.equal(saved.cartographie.answers.controle_psychologique,'unknown');
+ const exported=await send(env,'/api/export',{cookie:a.cookie});assert.deepEqual(exported.cartographie.answers,saved.cartographie.answers);assert.deepEqual(exported.cartographie.notes,original.notes);env.DB.raw.close();
+});

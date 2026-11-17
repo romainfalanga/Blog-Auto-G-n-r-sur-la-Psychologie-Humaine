@@ -1,5 +1,16 @@
 # Lot A5-P2 — formulaires et observations
 
+## Mise en ligne du 17 novembre 2026 — état actuel
+
+- Confirmation explicite du propriétaire reçue après le refus initial du contrôle automatique.
+- PR 91 fusionnée : `57ed975c418e161e69d53f65566e4c444325432f` ; source `36011eeee70ded42ad0480ae0c07c95285e9a771`. CI GitHub `44071907530` réussie. Empreinte d’arbre locale et distante identique : `ed0fe4dac662b507e1ff7e9c141c8f5e72817031`.
+- Point D1 avant migration : `000000a5-000006c9-00005126-72ff6de7275583f636ab438d8e1cdd08`. Migration 0024 appliquée une seule fois puis inscrite ; 24 migrations, aucune violation de clé étrangère.
+- Worker publié le 17 novembre à 11:55 UTC, identifiant `845db15084ec40f48ad98bae0b342f09`. Les 44 modules ont été relus après déploiement : zéro différence SHA-256. Les 7 liaisons, le secret `OPENROUTER_API_KEY` et le cron `* * * * *` sont conservés.
+- Netlify `6afc40c77420eb243264a72f`, ready, même commit de fusion, publié à 11:56:27 UTC.
+- La recette réelle avec comptes synthétiques est en cours ; les résultats et suppressions sont consignés dans la note finale de reprise. Le compte réel du propriétaire n’est jamais utilisé.
+
+Les paragraphes de préparation ci-dessous sont historiques ; cet état courant fait foi.
+
 Reprise depuis `f9aa647` (PR 90), le 17 novembre 2026. Le patch `docs/wip/a5-p2-en-cours.patch` a été relu puis appliqué comme point de départ ; ce fichier reste une archive du travail interrompu.
 
 | Exigence | Responsable | État / preuve |

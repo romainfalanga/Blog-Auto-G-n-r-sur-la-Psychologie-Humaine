@@ -149,14 +149,18 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         errors.append("le questionnaire doit conserver ses six thèmes")
     if len(factors) != len(base["factors"]):
         errors.append("identifiant de facteur dupliqué")
-    if len(factors) > MAX_QUESTIONS:
+    if sum(not f.get("historical") for f in factors.values()) > MAX_QUESTIONS:
         errors.append(f"questionnaire : plafond de {MAX_QUESTIONS} questions dépassé")
     for group in groups:
-        if sum(f.get("group") == group for f in factors.values()) > MAX_QUESTIONS_PER_GROUP:
+        if sum(f.get("group") == group and not f.get("historical") for f in factors.values()) > MAX_QUESTIONS_PER_GROUP:
             errors.append(f"thème {group} : plafond de {MAX_QUESTIONS_PER_GROUP} questions dépassé")
     for f in base["factors"]:
         if f["group"] not in groups:
             errors.append(f"facteur {f['id']} : groupe inconnu {f['group']}")
+        if f.get("response_mode", "frequency") not in {"frequency", "binary"}:
+            errors.append(f"facteur {f['id']} : mode de réponse inconnu")
+        if f.get("historical") and (not f.get("replaced_by") or any(fid not in factors or factors[fid].get("historical") for fid in f["replaced_by"])):
+            errors.append(f"facteur {f['id']} : remplacements historiques invalides")
     corr = json.loads((SRC / "corrections.json").read_text(encoding="utf-8")) if (SRC / "corrections.json").exists() else {}
     aliases = corr.get("aliases", {})
     canon = corr.get("outcome_overrides", {})

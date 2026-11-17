@@ -73,5 +73,5 @@ test('C6: the out-of-scope list is published with existing sources', () => {
 test('C5: experiences without any link remain valid questions', () => {
   const linked = new Set(data.links.map(l => l.factor));
   const unlinked = data.factors.filter(f => !linked.has(f.id)).map(f => f.id).sort();
-  assert.deepStrictEqual(unlinked, ['migration', 'secret_famille']);
+  assert.deepStrictEqual(unlinked, ['controle_psychologique', 'migration', 'parents_stricts', 'secret_famille']);
 });

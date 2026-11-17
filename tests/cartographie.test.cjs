@@ -73,7 +73,7 @@ test('published dataset is consistent', () => {
   for (const o of data.outcomes) { assert.ok(Number.isInteger(data.ranking.specificity[o.id]) && data.ranking.specificity[o.id] > 0, o.id); }
   assert.strictEqual(data.groups.length,6);
   assert.ok(data.factors.length<=72);
-  for(const group of data.groups)assert.ok(data.factors.filter(f=>f.group===group.id).length<=14);
+  for(const group of data.groups)assert.ok(data.factors.filter(f=>f.group===group.id&&!f.historical).length<=14);
   assert.ok(fs.statSync(path.join(__dirname,'../journal/src/cartographie.generated.mjs')).size<500000);
   for(const o of data.retired_outcomes){assert.ok(o.retired&&o.contextual_only);assert.ok(!outcomes.has(o.id));assert.ok(!all.results.some(r=>r.outcome.id===o.id));}
 });
@@ -154,7 +154,8 @@ test('coverage reports exact denominators without turning reference presence int
 test('reviewed constructs and historical meanings stay distinct',()=>{
   const data=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/cartographie.json'),'utf8'));
   const outcome=id=>data.outcomes.find(o=>o.id===id);
-  assert.strictEqual(data.factors.length,59,'only the admitted community-violence question was added');
+  assert.strictEqual(data.factors.filter(f=>!f.historical).length,60,'two distinct questions replace the combined one for new answers');
+  assert.strictEqual(data.factors.filter(f=>f.historical).length,1,'the original combined meaning remains available for saved history');
   assert.ok(data.factors.some(f=>f.id==='violence_quartier'&&!f.ace&&f.overlap_group==='physical_violence'));
   assert.strictEqual(outcome('icd_6b81').category,'clinical_group');
   assert.strictEqual(outcome('icd_6b81_boulimie').code,'6B81');

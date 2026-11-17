@@ -31,10 +31,10 @@
   ]
  },
  "input_fingerprints": {
-  "cartography_core_sha256": "6029d38cdd8b35bc43efa3a8023b5a17bf0e2538107e57a3657e772a4ab26274",
+  "cartography_core_sha256": "a2b1572f81f0ac0233e0aa5d3d41664df1b4fb4e3eba92aeb82739b218e61b69",
   "psychology_catalog_sha256": "6d88dee0c919c56a5c501f25735ae02f357c3822e6d58e5023723c89c5deb0c9",
   "clinical_catalog_sha256": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
-  "semantic_decisions_sha256": "a46c21313df3929593efedc98856224ffc901e8eea3c2ea5830c8d15e1a12af9",
+  "semantic_decisions_sha256": "2266f9f0b15325ec693d659db25d067602f3be621db834d689cfea8153be6897",
   "reference_registry_sha256": "b576a52cae2aa1690363f633d0b01b48dc775596ed6771b5c7b9e131edd8bd79"
  },
  "counts": {
@@ -48,7 +48,7 @@
   },
   "cartography_outcomes": 113,
   "cartography_retired_outcomes": 3,
-  "cartography_factors": 59,
+  "cartography_factors": 61,
   "cartography_resources": 11,
   "icd11_codes_reviewed": 858,
   "icd11_code_statuses": {
@@ -17407,6 +17407,18 @@
     "power_imbalance",
     "inherited_rules"
    ]
+  },
+  {
+   "id": "parents_stricts",
+   "label": "Règles strictes et obéissance exigée",
+   "link_count": 0,
+   "mapped_psychology_patterns": []
+  },
+  {
+   "id": "controle_psychologique",
+   "label": "Culpabilisation, manipulation ou retrait d’affection",
+   "link_count": 0,
+   "mapped_psychology_patterns": []
   },
   {
    "id": "imprevisibilite",
