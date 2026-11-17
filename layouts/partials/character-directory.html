@@ -50,7 +50,7 @@
       {{ end }}
     {{ end }}
     {{ $keywords = uniq $keywords }}
-    {{ $publicParcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" | plainify }}
+    {{ $publicParcours := partial "public-content.html" .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" | plainify }}
     {{ $diagnosis := .Params.clinical_diagnosis | default "" }}
     {{ $searchIndex = $searchIndex | append (dict "id" .File.ContentBaseName "name" (.Params.prenom | default .Title) "diagnosis" $diagnosis "profile" (printf "%s %s %s %s" $presentation .Params.profession .Params.situation $traits) "keywords" $keywords "stories" (printf "%s %s" $stories $publicParcours)) }}
     <article class="perso-card" data-character-id="{{ .File.ContentBaseName }}">

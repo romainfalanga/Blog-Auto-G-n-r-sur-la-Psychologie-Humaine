@@ -10,7 +10,7 @@ const artifacts=path.join(root,'work','cartographie-choix');fs.mkdirSync(artifac
 const source=fs.readFileSync(path.join(root,'static/js/cartographie-ui.js'),'utf8');
 const template=fs.readFileSync(path.join(root,'layouts/_default/cartographie.html'),'utf8');
 const markup=template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')).replace(/{{[^}]*}}/g,match=>match.includes('$data | jsonify')?JSON.stringify(data):match.includes('readFile')?'test':'');
-const document='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"></head><body><header style="height:130px">Décode ton esprit</header><main>'+markup+'</main></body></html>';
+const document='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/cartographie.css"></head><body><header style="height:130px">Décode ton esprit</header><main>'+markup+'</main></body></html>';
 const fixture=(answers={},version=1)=>({answers,version,feedback:{},notes:{factors:{},outcomes:{}},resources:{prot_amities:1},ambre_notes:[],updated_at:1794830400,consent:true,locked:true});
 const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});return {promise,resolve}};
 
@@ -24,7 +24,7 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
   await page.route('https://carto.test/**',async route=>{
    const request=route.request(),url=new URL(request.url()),method=request.method();
    if(url.pathname==='/')return route.fulfill({contentType:'text/html',body:document});
-   if(url.pathname==='/css/style.css')return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static/css/style.css'),'utf8')});
+   if(url.pathname.startsWith('/css/'))return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static',url.pathname),'utf8')});
    if(url.pathname==='/js/cartographie.js')return route.fulfill({contentType:'application/javascript',body:fs.readFileSync(path.join(root,'static/js/cartographie.js'),'utf8')});
    if(url.pathname==='/js/cartographie-ui.js')return route.fulfill({contentType:'application/javascript',body:source});
    if(url.pathname==='/api/me')return route.fulfill({contentType:'application/json',body:JSON.stringify({user:server.account})});

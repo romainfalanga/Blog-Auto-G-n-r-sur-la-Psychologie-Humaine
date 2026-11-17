@@ -68,10 +68,9 @@ test('index: the map follows the page sections and carries no contextual subject
  const run=await replayTurn(MESSAGES[0][1],{strategy:'none'}),s=run.s,context=await s.personal.context(s.env,'a'),index=knowledgeIndex(context);
  const outcomes=index.filter(x=>x.kind==='outcome');assert.ok(outcomes.length);
  assert.ok(outcomes.every(x=>!x.metadata.contextual_only));assert.equal(outcomes[0].metadata.section,'top');
- // Subjects beyond the capped sections come last, without a section.
- const order=['recognized','top','frequent','other','dismissed'],ranks=outcomes.map(x=>x.metadata.section?order.indexOf(x.metadata.section):9);
- assert.deepEqual(ranks,[...ranks].sort((a,b)=>a-b),'section order');
- assert.match(run.get('ambre_writing').system,/section : recognized=reconnu, top=le plus en lien/);
+ const counts=outcomes.filter(x=>x.metadata.feedback!=='non').map(x=>x.metadata.associated_count);
+ assert.deepEqual(counts,[...counts].sort((a,b)=>b-a),'associated experience count order');
+
 });
 
 test('E: the initial analysis reads every rubric, the whole synthesis and the accounts of people and moments',async()=>{
@@ -93,7 +92,7 @@ test('E: a point keeps at least 6 people and 8 moments with text, the present ru
  assert.ok(JSON.stringify(data).length<=34000);assert.equal(data.coverage.included,data.sources.length);
 });
 
-test('welcome message follows the sections (recognized, then most related to the answers)',async()=>{
+test('welcome message follows the count-based public order',async()=>{
  const s=setup();await s.ready();const answers=Object.fromEntries(CARTOGRAPHIE.factors.map((x,i)=>[x.id,i%3===0?1:0]));
  s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,version,updated_at) VALUES('a',?,'{}','{}','{}','[]',1,1,2,1)").run(JSON.stringify(answers));
  const summary=companionCartography(await readCartography(s.env,'a')),welcome=(await s.call('/api/chat')).welcome.content;

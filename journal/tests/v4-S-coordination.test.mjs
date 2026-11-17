@@ -27,6 +27,6 @@ test('memory: a provider refusal or the daily cap never counts as a failed attem
 
 test('lot C: the cartography guidance explains display_order without turning a rank into a risk',async()=>{
  const {CHILDHOOD_CARTOGRAPHY_GUIDANCE}=await import('../src/psychology-framework.mjs');
- assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/display_order/);assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/associations empiriques/);
- assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/jamais un rang comme un risque/);assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/« limitée » est théorique/);
+ assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/display_order/);assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/associated_count.*décroissant/);
+ assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/sans le décrire comme un risque/);assert.match(CHILDHOOD_CARTOGRAPHY_GUIDANCE,/« limitée » est théorique/);
 });

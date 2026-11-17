@@ -4,12 +4,12 @@
     "href": "/mon-accompagnement/"
   },
   {
-    "label": "Cartographie",
-    "href": "/cartographie/"
-  },
-  {
     "label": "Mon portrait",
     "href": "/mon-portrait/"
+  },
+  {
+    "label": "Mon enfance",
+    "href": "/cartographie/"
   },
   {
     "label": "Mes proches",
@@ -22,9 +22,5 @@
   {
     "label": "Mes bilans",
     "href": "/mes-bilans/"
-  },
-  {
-    "label": "Paramètres",
-    "href": "/parametres/"
   }
 ]

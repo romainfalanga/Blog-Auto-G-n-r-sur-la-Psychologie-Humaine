@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{- $parcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" }}
+{{- $parcours := partial "public-content.html" .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" }}
 {{- $parcours = $parcours | replaceRE `(<a[^>]*class="parcours-link"[^>]*>).*?(</a>)` "${1}Lire${2}" }}
 {{- $parcours = $parcours | replaceRE `(?s)<div class="parcours-(?:date|cat)">.*?</div>` "" }}
 {{- $counts := newScratch }}

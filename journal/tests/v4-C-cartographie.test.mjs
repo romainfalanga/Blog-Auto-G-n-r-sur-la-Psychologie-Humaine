@@ -69,18 +69,18 @@ test('theoretical, definitional and classification links no longer push a subjec
    {factor:'d',outcome:'tie',strength:'limitee',relation_type:'empirical_association'},{factor:'a',outcome:'tie',strength:'theorique',relation_type:'clinical_model'},
    {factor:'a',outcome:'ctx',strength:'forte',relation_type:'empirical_association'},{factor:'b',outcome:'ctx',strength:'forte',relation_type:'empirical_association'}]};
  const answers={a:1,b:1,c:1,d:1},page=publicPage.compute(data,answers).results,worker=computeCartography(answers,data).results;
- // v5: a model never passes a measured subject, but it breaks a tie between two
- // subjects of equal measured weight; contextual subjects are not displayed.
- assert.deepEqual(page.map(r=>r.outcome.id),['tie','measured','model']);
- assert.deepEqual(worker.map(r=>r.outcome.id),['tie','measured','model']);
+ // Models add no associated experience; equal counts use the identifier.
+ // Contextual subjects are not displayed.
+ assert.deepEqual(page.map(r=>r.outcome.id),['measured','tie','model']);
+ assert.deepEqual(worker.map(r=>r.outcome.id),['measured','tie','model']);
  assert.equal(page[2].associated_count,0);assert.equal(page[2].other_links,3);
  assert.ok(page[2].relevance<page[1].relevance);
 });
 
 test('interpretation.ranking describes the order actually displayed',()=>{
  for(const text of [fullData.interpretation.ranking,CARTOGRAPHIE.interpretation.ranking]){
-  assert.match(text,/spécificité/);assert.match(text,/Souvent/);assert.match(text,/reconnaissez/);assert.match(text,/ni une probabilité ni un risque/);assert.match(text,/Ambre/);
-  assert.doesNotMatch(text,/contextuels viennent en dernier/);assert.doesNotMatch(text,/ne comptent pas/);
+  assert.match(text,/nombre de vécus associés décroissant/);assert.match(text,/Souvent/);assert.match(text,/reconnaissez/);assert.match(text,/ni une probabilité ni un risque/);assert.match(text,/Ambre/);
+  assert.doesNotMatch(text,/contextuels viennent en dernier/);assert.match(text,/ne comptent pas/);
   assert.doesNotMatch(text,/Niveau maximal du lien/);
  }
 });

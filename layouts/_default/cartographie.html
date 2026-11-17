@@ -1,12 +1,13 @@
 {{ define "main" }}
+<link rel="stylesheet" href="/css/cartographie.css?v={{ readFile "static/css/cartographie.css" | md5 }}">
 {{ $data := .Site.Data.cartographie }}
-{{ if not $data }}<div class="container-wide carto"><h1>Cartographie</h1><p>La cartographie est en cours de préparation.</p></div>{{ else }}
+{{ if not $data }}<div class="container-wide carto"><h1>Mon enfance</h1><p>Cette page est en cours de préparation.</p></div>{{ else }}
 <div class="container-wide carto" data-cartographie-app data-view="form">
   <header class="carto-intro">
-    <h1>Cartographie</h1>
+    <h1>Mon enfance</h1>
   </header>
 
-  <div class="carto-tabs" role="tablist" aria-label="Sections de la cartographie">
+  <div class="carto-tabs" role="tablist" aria-label="Sections de Mon enfance">
     <button type="button" role="tab" data-tab="form" aria-selected="true">Mon enfance</button>
     <button type="button" role="tab" data-tab="results" aria-selected="false">Ce qui en ressort</button>
   </div>

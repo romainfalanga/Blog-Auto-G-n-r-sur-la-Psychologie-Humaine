@@ -73,7 +73,7 @@ export function validateCartography(input,fail,data=CARTOGRAPHIE){
  return {answers:cleanAnswers,feedback:cleanFeedback,notes,resources};
 }
 
-// v5 ranking (variant L with strength guard), identical to compute() in
+// Legacy evidence metadata, identical to compute() in
 // static/js/cartographie.js, integers only: tests require strict parity.
 const POINTS={forte:12,moderee:8,limitee:4},OTHER_POINTS=1,INTENSITY={1:2,2:3};
 export const SECTION_TOP=5;
@@ -81,12 +81,10 @@ export const SECTION_ORDER=['recognized','top','frequent','other','dismissed'];
 const binary=(a,b)=>a<b?-1:a>b?1:0;
 const isEmpiricalLink=l=>!l.definitional&&relationType(l)==='empirical_association';
 const measuredLink=l=>isEmpiricalLink(l)&&POINTS[l.strength]>0;
-// Strength guard: a subject whose best measured link is limited never precedes a
-// subject with a moderate or strong link. Specificity is capped at 1 (1000) for serious
-// disorders and for links reflecting familial transmission (clinical review, lot C5a).
-// Familial-only subjects are treated as limited by the guard (clinical counter-review).
-const evidenceClass=r=>r.max_points>POINTS.limitee&&!r.familial?0:1,UNIT=1000;
-const compareRank=(a,b)=>Number(b.has_empirical)-Number(a.has_empirical)||evidenceClass(a)-evidenceClass(b)||b.relevance-a.relevance||b.evidence_families-a.evidence_families||b.max_points-a.max_points||binary(a.outcome.id,b.outcome.id);
+// Count distinct measured experiences; ties use the identifier. Legacy relevance
+// metadata remains available but never changes this display order.
+const UNIT=1000;
+const compareRank=(a,b)=>b.associated_count-a.associated_count||binary(a.outcome.id,b.outcome.id);
 const sortLinks=(links,weights)=>links.slice().sort((a,b)=>Number(isEmpiricalLink(b))-Number(isEmpiricalLink(a))||weights[b.strength]-weights[a.strength]||binary(a.factor,b.factor));
 const answerLevels=(answers,factors)=>{const level={};for(const [id,value] of Object.entries(answers||{}))if(factors.has(id)&&(value===1||value===2))level[id]=value;return level;};
 
@@ -124,14 +122,12 @@ export function computeCartography(answers,data=CARTOGRAPHIE,feedback={}){
    relevance:points,has_empirical:maxPoints>0,evidence_families:measuredFamilies.size,max_points:maxPoints,frequent:frequentSet.has(id),familial:familialOnly===true,trauma_first:trauma,serious:serious.has(id)};
  });
  rows.sort(compareRank);
- // The five first: trauma subjects first chosen, then in rank order; a serious
- // disorder needs a strong link. Kept in rank order inside the section.
- const open=rows.filter(r=>!feedback[r.outcome.id]),picked=open.filter(r=>r.trauma_first).slice(0,top);
- for(const r of open)if(picked.length<top&&!picked.includes(r)&&!(r.serious&&r.max_points<POINTS.forte))picked.push(r);
+ // Keep existing section keys, with a single visible list (top + other).
+ const picked=rows.filter(r=>feedback[r.outcome.id]!=='non').slice(0,top);
  const sections={recognized:[],top:[],frequent:[],other:[],dismissed:[]};
  for(const r of rows){
   const fb=feedback[r.outcome.id];
-  r.section=fb==='oui'?'recognized':fb==='non'?'dismissed':picked.includes(r)?'top':r.frequent&&r.max_points>=POINTS.moderee?'frequent':'other';
+  r.section=fb==='non'?'dismissed':picked.includes(r)?'top':'other';
   sections[r.section].push(r);
  }
  const results=SECTION_ORDER.flatMap(s=>sections[s]);
@@ -195,14 +191,14 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   const empirical=r.links.filter(l=>!l.definitional&&relationType(l)==='empirical_association'),pool=empirical.length?empirical:r.links;
   const max=pool.reduce((best,l)=>STRENGTH_RANK[l.strength]>STRENGTH_RANK[best]?l.strength:best,pool[0].strength);
   const o=r.outcome;
-  return {id:o.id,label:o.label,kind:o.kind,...metadata(o),...(o.code?{code:o.code}:{}),tier:r.tier,causes:r.factors.map(label),max_strength:max,relation_types:r.relation_types,evidence_groups:r.evidence_groups,...(o.url?{url:o.url}:{}),...(feedback[o.id]?{feedback:feedback[o.id]}:{})};
+  return {id:o.id,label:o.label,kind:o.kind,associated_count:r.associated_count,...metadata(o),...(o.code?{code:o.code}:{}),tier:r.tier,causes:r.factors.map(label),max_strength:max,relation_types:r.relation_types,evidence_groups:r.evidence_groups,...(o.url?{url:o.url}:{}),...(feedback[o.id]?{feedback:feedback[o.id]}:{})};
  };
- // Sections in display order, without any score. "other" is capped (lowest relevance).
+ // Sections in display order; other is capped after the first five subjects.
  const sectionItem=r=>({...item(r),section:r.section,...(r.frequent?{frequent:true}:{}),...(r.familial?{familial_transmission:true}:{})});
- const shortItem=r=>({id:r.outcome.id,label:r.outcome.label,section:r.section,max_strength:sectionItem(r).max_strength,...(r.frequent?{frequent:true}:{})});
+ const shortItem=r=>({id:r.outcome.id,label:r.outcome.label,associated_count:r.associated_count,...metadata(r.outcome),section:r.section,max_strength:sectionItem(r).max_strength,...(r.frequent?{frequent:true}:{})});
  const sections={recognized:state.sections.recognized.map(sectionItem),top:state.sections.top.map(sectionItem),frequent:state.sections.frequent.map(sectionItem),other:state.sections.other.slice(0,SECTION_OTHER_MAX).map(shortItem),dismissed:state.sections.dismissed.map(shortItem)};
- const convergence=state.results.filter(r=>r.tier==='convergence'),pistes=state.results.filter(r=>r.tier==='piste'),tierOf=new Map(state.results.map(r=>[r.outcome.id,r.tier]));
- const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)&&!hiddenOutcome(outcomes.get(id))).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',...metadata(outcomes.get(id))}));
+ const convergence=state.results.filter(r=>r.tier==='convergence'),pistes=state.results.filter(r=>r.tier==='piste'),tierOf=new Map(state.results.map(r=>[r.outcome.id,r.tier])),countOf=new Map(state.results.map(r=>[r.outcome.id,r.associated_count]));
+ const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)&&!hiddenOutcome(outcomes.get(id))).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',associated_count:countOf.get(id)||0,...metadata(outcomes.get(id))}));
  const recognized=reported('oui'),dismissed=reported('non');
  const selectedConvergence=diverseResults(convergence,maxConvergence,feedback),selectedPistes=diverseResults(pistes,maxPistes,feedback);
  const exploratory=state.results.filter(r=>r.tier==='theorique'&&!r.outcome.contextual_only&&feedback[r.outcome.id]==='oui'),selectedExploratory=diverseResults(exploratory,maxPistes,feedback);
@@ -226,7 +222,7 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   // Same order as the public list: what the person sees first is what Ambre reads first.
   display_order:state.results.slice(0,Math.max(0,maxDisplay)).map(r=>({id:r.outcome.id,label:r.outcome.label,associated_count:r.associated_count,section:r.section,...(r.frequent?{frequent:true}:{}),...(feedback[r.outcome.id]?{feedback:feedback[r.outcome.id]}:{})})),
   display_count:state.results.length,
-  selection_policy:{order:'public_display_order',ranking:'relevance_specificity_v5_strength_guard',sections:SECTION_ORDER,per_section_top:SECTION_TOP,contextual_hidden:true,recognized_selected_first:true,per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
+  selection_policy:{order:'public_display_order',ranking:'associated_experiences_desc',sections:SECTION_ORDER,per_section_top:SECTION_TOP,contextual_hidden:true,recognized_selected_first:true,recognition_changes_rank:false,per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
   // The member's own words, attached to the cause or consequence they annotate.
   notes:[...Object.entries(notes?.factors||{}).filter(([id,text])=>factors.has(id)&&typeof text==='string').map(([id,text])=>({target:'factor',id,label:factors.get(id).label,text})),
    ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&!hiddenOutcome(outcomes.get(id))&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text}))],
@@ -235,17 +231,14 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
  };
 }
 
-// Two or three consequences to start from: recognized first, then convergences
-// the person has not set aside. Suicide-related items get a relay, not a topic offer.
+// Two or three subjects in the public order. Suicide-related items get a relay,
+// not a topic offer; dismissed, contextual and retired subjects stay excluded.
 export function cartographyHighlights(summary,limit=3){
  if(!summary)return [];
- const dismissed=new Set(summary.dismissed.map(d=>d.id)),seen=new Set(),picked=[];
- const add=x=>{if(picked.length<limit&&!seen.has(x.id)&&!dismissed.has(x.id)&&x.note!=='suicide'&&!x.contextual_only&&!x.retired){seen.add(x.id);picked.push(x);}};
- const byId=new Map([...summary.convergence,...summary.pistes].map(x=>[x.id,x]));
- for(const r of summary.recognized)if(byId.has(r.id))add(byId.get(r.id));
- for(const x of summary.convergence)add(x);
- if(!picked.length)for(const x of summary.pistes)add(x);
- return picked;
+ const dismissed=new Set(summary.dismissed.map(d=>d.id)),byId=new Map();
+ for(const x of [...(summary.sections?.top||[]),...(summary.sections?.other||[]),...summary.convergence,...summary.pistes])byId.set(x.id,{...byId.get(x.id),...x});
+ return [...byId.values()].filter(x=>!dismissed.has(x.id)&&x.note!=='suicide'&&!x.contextual_only&&!x.retired)
+  .sort((a,b)=>(b.associated_count||0)-(a.associated_count||0)||binary(a.id,b.id)).slice(0,limit);
 }
 
 // ---- Contract for Ambre (A5 lots call these, see docs/v5-C5a-avancement.md) ----
@@ -309,10 +302,10 @@ export function cartographyIndexEntries(summary){
  for(const list of ['convergence','pistes','exploratory','recognized','dismissed'])for(const item of (map[list]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});
  const dismissed=new Set((map.dismissed||[]).map(x=>x.id)),recognized=new Set((map.recognized||[]).map(x=>x.id));
  // Hidden subjects (contextual or retired) never reach the index, even from an older summary.
- for(const item of [...outcomes.values()].filter(x=>!hiddenOutcome(x)&&x.note!=='jeune_enfant').slice(0,180)){
+ for(const item of [...outcomes.values()].filter(x=>!hiddenOutcome(x)&&x.note!=='jeune_enfant').sort((a,b)=>Number(dismissed.has(a.id))-Number(dismissed.has(b.id))||(b.associated_count||0)-(a.associated_count||0)||binary(a.id,b.id)).slice(0,180)){
   const feedback=dismissed.has(item.id)?'non':recognized.has(item.id)?'oui':null;
   const evidence=(map.evidence||[]).find(x=>x.id===item.id),sourceIds=[...new Set((evidence?.links||[]).flatMap(link=>link.source_ids||[]))];
-  const metadata={feedback,inference:'hypothesis_only',category:item.category||null,age_scope:item.age_scope||null,contextual_only:Boolean(item.contextual_only||item.note==='jeune_enfant'),note:item.note||null,relation_types:item.relation_types||evidence?.relation_types||[],source_ids:sourceIds,section:item.section||(feedback==='oui'?'recognized':feedback==='non'?'dismissed':null),...(item.frequent?{frequent:true}:{})};
+  const metadata={feedback,associated_count:item.associated_count||0,inference:'hypothesis_only',category:item.category||null,age_scope:item.age_scope||null,contextual_only:Boolean(item.contextual_only||item.note==='jeune_enfant'),note:item.note||null,relation_types:item.relation_types||evidence?.relation_types||[],source_ids:sourceIds,section:item.section||(feedback==='non'?'dismissed':null),...(item.frequent?{frequent:true}:{})};
   const references=(map.evidence_sources||[]).filter(ref=>sourceIds.includes(ref.id)),lead=evidence?.links?.[0],reference=references.find(ref=>(lead?.source_ids||[]).includes(ref.id));
   // Keep the primary finding whole outside the text excerpt, including its cautionary conclusion.
   if(lead?.summary)metadata.evidence_summary=lead.summary;
