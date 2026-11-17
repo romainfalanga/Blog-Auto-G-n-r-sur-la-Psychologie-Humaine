@@ -1,11 +1,860 @@
 {
  "part": "exhaustivite-v5",
  "author": "recherche_exhaustivite_v5",
- "notes": ["Fragment en cours de rédaction (19/11) : recherche d'exhaustivité v5, personnalité, dépendance affective, exil et catastrophes, défenses, sujets absents."],
- "sources": [],
- "outcomes": [],
- "links": [],
- "proposed_links": [],
- "proposed_corrections": [],
- "out_of_scope": []
+ "notes": [
+  "Recherche v5 du 19/11 (rédigée le 17/11) : personnalité au sens large, dépendance affective, exil et catastrophes, défenses, sujets absents. Rapport : docs/recherche-cartographie-v5-2026-11-19.md.",
+  "Les sources de proposed_sources ne sont pas lues par le générateur ; elles servent aux propositions et au registre hors périmètre.",
+  "Catégorie nouvelle proposée : defense_mechanism (libellé d'interface à créer)."
+ ],
+ "sources": [
+  {
+   "id": "deheer2024_solitude",
+   "citation": "de Heer C, Bi S, Finkenauer C, Alink L, Maes M, 2024, The Association Between Child Maltreatment and Loneliness Across the Lifespan: A Systematic Review and Multilevel Meta-Analysis, Child Maltreatment 29(2):388-404",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11539460/",
+   "type": "meta-analyse",
+   "read": "section : résultats, tableau 1 des modérateurs, biais de publication et limites (texte Europe PMC, PMC11539460)"
+  },
+  {
+   "id": "curtis2025_solitude",
+   "citation": "Curtis A, Luchetti M, Prendergast C, et al., 2025, Adverse childhood experiences and loneliness: A systematic review and meta-analysis, Social Science & Medicine 370:117860",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40015144/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "liu2023_anxiete_sociale",
+   "citation": "Liu J, Deng J, Zhang H, Tang X, 2023, The relationship between child maltreatment and social anxiety: A meta-analysis, Journal of Affective Disorders 329:157-167",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36841306/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "liu2019_impulsivite",
+   "citation": "Liu RT, 2019, Childhood Maltreatment and Impulsivity: A Meta-Analysis and Recommendations for Future Study, Journal of Abnormal Child Psychology 47(2):221-243",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6269232/",
+   "type": "meta-analyse",
+   "read": "section : tableau 2, plan des études, biais de publication, mesures comportementales et limites (PMC6269232, environ les deux tiers du texte)"
+  },
+  {
+   "id": "deruiter2022_psychopathie",
+   "citation": "de Ruiter C, Burghart M, De Silva R, et al., 2022, A meta-analysis of childhood maltreatment in relation to psychopathic traits, PLoS One 17(8):e0272704",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9365173/",
+   "type": "meta-analyse",
+   "read": "section : méthodes, résultats par type et par facette, modérateurs, biais de publication et limites (PMC9365173, environ les deux tiers du texte)"
+  },
+  {
+   "id": "johnson2006_personnalite",
+   "citation": "Johnson JG, Cohen P, Chen H, Kasen S, Brook JS, 2006, Parenting behaviors associated with risk for offspring personality disorder during adulthood, Archives of General Psychiatry 63(5):579-587",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16651515/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "miron2026_abus_emotionnel",
+   "citation": "Miron N, D'Andrea WM, Barzilai E, et al., 2026, Childhood emotional abuse and adult psychopathology: A multilevel meta-analytic review, Psychological Bulletin 152(7-8):623-664",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42831821/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "martinjoy2017_defenses",
+   "citation": "Martin-Joy JS, Malone JC, Cui XJ, et al., 2017, Development of Adaptive Coping From Mid to Late Life: A 70-Year Longitudinal Study of Defense Maturity and Its Psychosocial Correlates, Journal of Nervous and Mental Disease 205(9):685-691",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28682982/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "longobardi2022_dysmorphie",
+   "citation": "Longobardi C, Badenes-Ribera L, Fabris MA, 2022, Adverse childhood experiences and body dysmorphic symptoms: A meta-analysis, Body Image 40:267-284",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35085863/",
+   "type": "meta-analyse",
+   "read": "résumé (texte intégral fermé : dépôt de Turin en accès réservé, dépôt de Valence non lisible)"
+  },
+  {
+   "id": "zych2021_violences_amoureuses",
+   "citation": "Zych I, Viejo C, Vila E, Farrington DP, 2021, School Bullying and Dating Violence in Adolescents: A Systematic Review and Meta-Analysis, Trauma, Violence, & Abuse 22(2):397-412",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31185827/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "rubens2018_catastrophes",
+   "citation": "Rubens SL, Felix ED, Hambrick EP, 2018, A Meta-Analysis of the Impact of Natural Disasters on Internalizing and Externalizing Problems in Youth, Journal of Traumatic Stress 31(3):332-341",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6055700/",
+   "type": "meta-analyse",
+   "read": "section : méthodes (types de mesure d'exposition), résultats, modérateurs, biais de publication et limites (PMC6055700)"
+  },
+  {
+   "id": "furr2010_catastrophes",
+   "citation": "Furr JM, Comer JS, Edmunds JM, Kendall PC, 2010, Disasters and youth: a meta-analytic examination of posttraumatic stress, Journal of Consulting and Clinical Psychology 78(6):765-780",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21114340/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  }
+ ],
+ "outcomes": [
+  {
+   "id": "ten_difficultes_personnalite",
+   "kind": "tendance",
+   "label": "Difficultés de personnalité au sens large (repère de recherche)",
+   "description": "Des façons durables de se vivre et d'être en relation qui font souffrir, étudiées en recherche par des symptômes de plusieurs troubles de la personnalité. Ce repère n'est pas un diagnostic.",
+   "domain": "relations",
+   "category": "categorical_personality_diagnosis",
+   "contextual_only": true
+  },
+  {
+   "id": "ten_traits_psychopathiques",
+   "kind": "tendance",
+   "label": "Traits psychopathiques (dimension de recherche)",
+   "description": "Dimension de recherche réunissant froideur affective, manipulation, impulsivité et conduites antisociales. Elle ne qualifie pas une personne et ne permet pas de prévoir ses actes.",
+   "domain": "comportements",
+   "category": "personality_trait",
+   "contextual_only": true
+  },
+  {
+   "id": "ten_impulsivite",
+   "kind": "tendance",
+   "label": "Impulsivité (agir sans prendre le temps de réfléchir)",
+   "description": "Tendance déclarée à agir vite, surtout sous le coup d'émotions fortes. Ce trait varie entre personnes ; il ne correspond pas à un TDAH, qui ne vient pas de l'éducation.",
+   "domain": "comportements",
+   "category": "personality_trait"
+  },
+  {
+   "id": "ten_preoccupation_apparence",
+   "kind": "tendance",
+   "label": "Préoccupation excessive pour l'apparence",
+   "description": "Être très préoccupé par un défaut physique que les autres voient peu ou pas, au point d'y penser longtemps ou de vérifier souvent. Les études mesurent des symptômes, pas un diagnostic.",
+   "domain": "soi",
+   "category": "symptom_group"
+  },
+  {
+   "id": "ten_violences_amoureuses_jeunes",
+   "kind": "tendance",
+   "label": "Violences subies dans les premières relations amoureuses",
+   "description": "Subir des violences psychologiques, physiques ou sexuelles de la part d'un partenaire à l'adolescence ou au début de l'âge adulte.",
+   "domain": "relations",
+   "category": "tendency"
+  },
+  {
+   "id": "ten_defenses_peu_adaptees",
+   "kind": "tendance",
+   "label": "Mécanismes de défense peu adaptés (repère clinique)",
+   "description": "Façons automatiques de se protéger d'émotions pénibles (déni, projection, passage à l'acte) que les cliniciens jugent moins adaptées. Elles s'évaluent en entretien, pas par une case cochée.",
+   "domain": "emotions",
+   "category": "defense_mechanism",
+   "contextual_only": true
+  }
+ ],
+ "links": [
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une cohorte new-yorkaise suivie de l'enfance au début de l'âge adulte, les jeunes dont les violences physiques étaient attestées par les services de protection avaient plus de symptômes de plusieurs troubles de la personnalité. Les groupes étaient petits et l'étude est unique.",
+   "sources": [
+    "johnson1999_personnalite"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même cohorte, une négligence attestée par les services de protection était associée à plus de symptômes de troubles de la personnalité au début de l'âge adulte (évitante, borderline, narcissique, entre autres). Les effectifs sont petits ; ce repère ne vaut pas diagnostic.",
+   "sources": [
+    "johnson1999_personnalite"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans une cohorte suivie jusqu'à 33 ans en moyenne, un faible niveau d'affection parentale observé pendant l'enfance était associé à un risque plus élevé de plusieurs troubles de la personnalité, en tenant compte des difficultés de l'enfant et des troubles des parents. Une seule cohorte.",
+   "sources": [
+    "johnson2006_personnalite"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 104 études, surtout transversales et fondées sur des souvenirs, trouve que les violences psychologiques sont associées aux difficultés de personnalité, plus nettement que les autres formes de violence, même en tenant compte de leur cumul.",
+   "sources": [
+    "miron2026_abus_emotionnel"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_traits_psychopathiques",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 47 études, surtout transversales et souvent menées en milieu judiciaire, trouve une association modeste entre violences physiques et traits psychopathiques, plus nette pour les conduites antisociales que pour la froideur affective. La causalité n'est pas établie.",
+   "sources": [
+    "deruiter2022_psychopathie"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_traits_psychopathiques",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même méta-analyse, la négligence (matérielle et affective souvent mesurées ensemble) est associée de façon modeste aux traits psychopathiques, y compris à leur versant affectif. Les études sont surtout transversales ; les souvenirs peuvent être biaisés.",
+   "sources": [
+    "deruiter2022_psychopathie"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_traits_psychopathiques",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence, souvent mesurée sans distinguer ses formes, est associée de façon modeste aux traits psychopathiques dans une méta-analyse d'études surtout transversales. La plupart des personnes négligées ne présentent pas ces traits.",
+   "sources": [
+    "deruiter2022_psychopathie"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_traits_psychopathiques",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse trouve une association faible entre violences psychologiques et traits psychopathiques, surtout pour certaines facettes. Les études sont surtout transversales et souvent menées en milieu judiciaire.",
+   "sources": [
+    "deruiter2022_psychopathie"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 55 études transversales trouve que les violences psychologiques sont, parmi les formes de maltraitance, les plus associées à une impulsivité déclarée. Les tests de laboratoire ne confirment pas ce lien, et un biais de publication est signalé.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences physiques sont associées, en moyenne, à une impulsivité déclarée un peu plus élevée dans une méta-analyse d'études transversales. Le sens du lien et le rôle de l'impulsivité des parents restent inconnus.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences sexuelles sont associées à une impulsivité déclarée un peu plus élevée, avec l'effet le plus faible des formes étudiées, dans une méta-analyse d'études transversales.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence matérielle est associée, en moyenne, à une impulsivité déclarée un peu plus élevée dans une méta-analyse d'études transversales. Les formes de maltraitance se cumulent souvent, ce qui empêche d'isoler l'effet de chacune.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_impulsivite",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence affective est associée, en moyenne, à une impulsivité déclarée un peu plus élevée dans une méta-analyse d'études transversales ; les mesures en laboratoire ne montrent pas ce lien.",
+   "sources": [
+    "liu2019_impulsivite"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "pat_social_isolation",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "Deux méta-analyses trouvent que les adultes ayant subi des violences psychologiques se sentent en moyenne plus seuls, avec un effet parmi les plus nets. Les études sont surtout transversales ; celles qui utilisent des dossiers ou des mesures prospectives trouvent un écart plus faible.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "pat_social_isolation",
+   "strength": "moderee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence affective est associée, dans deux méta-analyses, à un sentiment de solitude plus fréquent à l'âge adulte, avec un effet parmi les plus nets. Les études sont surtout transversales et l'écart diminue avec l'âge.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences physiques sont associées à un sentiment de solitude un peu plus fréquent au cours de la vie dans deux méta-analyses, avec un effet moindre que pour les violences psychologiques. Données surtout transversales.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences sexuelles sont associées à un sentiment de solitude un peu plus fréquent dans deux méta-analyses d'études surtout transversales. Beaucoup de personnes concernées ont des liens qui les soutiennent.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "negligence_physique",
+   "outcome": "pat_social_isolation",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "La négligence matérielle est associée à un sentiment de solitude un peu plus fréquent dans deux méta-analyses ; peu d'études portent sur cette forme et elles sont surtout transversales.",
+   "sources": [
+    "deheer2024_solitude",
+    "curtis2025_solitude"
+   ]
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 29 études trouve que la maltraitance émotionnelle (violences psychologiques et négligence affective regroupées) est la forme la plus associée aux symptômes d'anxiété sociale. Il s'agit surtout de questionnaires, pas de diagnostics.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même méta-analyse, la maltraitance émotionnelle, qui inclut la négligence affective, est associée à plus de symptômes d'anxiété sociale. Les études sont hétérogènes et surtout transversales.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences physiques sont associées à un peu plus de symptômes d'anxiété sociale dans une méta-analyse de 29 études, avec un effet faible. Il s'agit surtout de questionnaires, pas de diagnostics.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Les violences sexuelles sont associées à un peu plus de symptômes d'anxiété sociale dans une méta-analyse de 29 études, avec un effet faible et des études hétérogènes.",
+   "sources": [
+    "liu2023_anxiete_sociale"
+   ]
+  },
+  {
+   "factor": "moqueries_corps",
+   "outcome": "ten_preoccupation_apparence",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 27 articles trouve que les moqueries subies sont la forme d'adversité la plus associée aux symptômes de préoccupation excessive pour l'apparence. Les études sont surtout transversales ; elles mesurent des symptômes, pas un diagnostic.",
+   "sources": [
+    "longobardi2022_dysmorphie"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_preoccupation_apparence",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans la même méta-analyse, le harcèlement par les pairs est associé de façon faible à modérée à une préoccupation excessive pour l'apparence. Le sens du lien n'est pas établi.",
+   "sources": [
+    "longobardi2022_dysmorphie"
+   ]
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "ten_violences_amoureuses_jeunes",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 23 projets trouve que les adolescents harcelés à l'école subissent plus souvent des violences dans leurs relations amoureuses, y compris en tenant compte d'autres facteurs, avec un lien plus net dans les études qui suivent les jeunes dans le temps.",
+   "sources": [
+    "zych2021_violences_amoureuses"
+   ]
+  },
+  {
+   "factor": "traumatisme_ponctuel",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Des méta-analyses d'études sur des catastrophes naturelles trouvent que les jeunes plus exposés ont un peu plus de symptômes de stress post-traumatique, d'anxiété ou de tristesse, et de rares troubles du comportement. Les effets sont modestes, mesurés surtout peu après l'événement.",
+   "sources": [
+    "rubens2018_catastrophes",
+    "furr2010_catastrophes"
+   ]
+  },
+  {
+   "factor": "negligence_emotionnelle",
+   "outcome": "ten_defenses_peu_adaptees",
+   "strength": "theorique",
+   "relation_type": "clinical_model",
+   "summary": "Les modèles cliniques des défenses (Vaillant) relient un climat familial peu chaleureux à des défenses moins mûres. Une petite cohorte d'hommes suivis 70 ans l'observe vers 50 ans, mais l'écart disparaît vers 75 ans. Ce repère ne se déduit pas d'une case cochée.",
+   "sources": [
+    "martinjoy2017_defenses"
+   ]
+  }
+ ],
+ "proposed_sources": [
+  {
+   "id": "deng2024_anxiete_sociale",
+   "citation": "Deng J, Liu J, Luo J, et al., 2024, Social anxiety and bullying victimization: A three-level meta-analysis of cross-sectional and longitudinal studies, Child Abuse & Neglect 157:107052",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39306940/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hebert2019_violences_amoureuses",
+   "citation": "Hébert M, Daspe MÈ, Lapierre A, et al., 2019, A Meta-Analysis of Risk and Protective Factors for Dating Violence Victimization: The Role of Family and Peer Interpersonal Context, Trauma, Violence, & Abuse 20(4):574-590",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29333960/",
+   "type": "meta-analyse",
+   "read": "résumé (texte fermé)"
+  },
+  {
+   "id": "eltanamly2021_guerre",
+   "citation": "Eltanamly H, Leijten P, Jak S, Overbeek G, 2021, Parenting in Times of War: A Meta-Analysis and Qualitative Synthesis of War Exposure, Parenting, and Child Adjustment, Trauma, Violence, & Abuse 22(1):147-160",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7675766/",
+   "type": "meta-analyse",
+   "read": "section : méthodes et résultats (PMC7675766, environ les quatre cinquièmes du texte ; tableaux S2–S3 non lus)"
+  },
+  {
+   "id": "brandt2019_refugies",
+   "citation": "Brandt L, Henssler J, Müller M, Wall S, Gabel D, Heinz A, 2019, Risk of Psychosis Among Refugees: A Systematic Review and Meta-analysis, JAMA Psychiatry 76(11):1133-1140",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31411649/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "hollander2016",
+   "citation": "(identifiant déjà déclaré dans liens-contexte.json ; ne pas redéclarer) Hollander AC, Dal H, Lewis G, et al., 2016, Refugee migration and risk of schizophrenia and other non-affective psychoses: cohort study of 1.3 million people in Sweden, BMJ 352:i1030",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26979256/",
+   "type": "etude",
+   "read": "section (cette recherche) : plan, résultats, forces et faiblesses, texte Europe PMC PMC4793153"
+  },
+  {
+   "id": "cavalli2025_dependance_affective",
+   "citation": "Cavalli RG, Feeney J, Rogier G, Velotti P, 2025, Conceptualizing love addiction within the attachment perspective: A systematic review and meta-analysis, Journal of Behavioral Addictions 14(2):611-629",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40299575/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "ozal2023_dependance_affective",
+   "citation": "Özal Z, Mancini G, De Fino G, et al., 2023, \"I Can't Do without You\": Treatment Perspectives for Affective Dependence: A Scoping Review, Journal of Clinical Medicine 12(21):6769",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37959234/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "zhang2023_autocompassion",
+   "citation": "Zhang H, Li J, Sun B, Wei Q, 2023, Effects of Childhood Maltreatment on Self-Compassion: A Systematic Review and Meta-Analysis, Trauma, Violence, & Abuse 24(2):873-885",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34510982/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "yang2024_mentalisation",
+   "citation": "Yang L, Huang M, 2024, Childhood maltreatment and mentalizing capacity: A meta-analysis, Child Abuse & Neglect 149:106623",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38245975/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "crede2023_traits",
+   "citation": "Credé M, Kim HS, Cindrich SL, et al., 2023, The relationship between adverse childhood experiences and non-clinical personality traits: A meta-analytic synthesis, Personality and Individual Differences 200:111868",
+   "url": "https://doi.org/10.1016/j.paid.2022.111868",
+   "type": "meta-analyse",
+   "read": "non lu : texte fermé (HTTP 403), résumé absent de PubMed/Crossref/OpenAlex ; seul un extrait de moteur de recherche a été vu"
+  },
+  {
+   "id": "buur2024_deuil",
+   "citation": "Buur C, Zachariae R, Komischke-Konnerup KB, et al., 2024, Risk factors for prolonged grief symptoms: A systematic review and meta-analysis, Clinical Psychology Review 107:102375",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38181586/",
+   "type": "meta-analyse",
+   "read": "résumé"
+  },
+  {
+   "id": "chia2021_accumulation",
+   "citation": "Chia K, Pasalich DS, Fassnacht DB, et al., 2021, Interpersonal attachment, early family environment, and trauma in hoarding: A systematic review, Clinical Psychology Review 90:102096",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34717158/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "howell2025_defenses",
+   "citation": "Howell R, Békés V, 2025, The relationship between defense mechanisms and attachment: a narrative review, Research in Psychotherapy 28(3):879",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41645772/",
+   "type": "revue",
+   "read": "résumé"
+  },
+  {
+   "id": "cramer1998_defenses",
+   "citation": "Cramer P, Block J, 1998, Preschool antecedents of defense mechanism use in young adults: a longitudinal study, Journal of Personality and Social Psychology 74(1):159-169",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9457780/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "soldz1998_defenses",
+   "citation": "Soldz S, Vaillant GE, 1998, A 50-year longitudinal study of defense use among inner city men: a validation of the DSM-IV defense axis, Journal of Nervous and Mental Disease 186(2):104-111",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9484310/",
+   "type": "etude",
+   "read": "résumé"
+  },
+  {
+   "id": "lo2026_gaming",
+   "citation": "(identifiant déjà déclaré dans couverture-referentiels.json) Lo CKM, Cho YW, Chen Q, Chan KL, 2026, Associations Between Different Types of Child Victimization and Gaming Disorder in Children and Adolescents: A Meta-Analysis, Trauma, Violence, & Abuse 27(4):1499-1513",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40692358/",
+   "type": "meta-analyse",
+   "read": "résumé (relu ici via Europe PMC)"
+  }
+ ],
+ "proposed_links": [
+  {
+   "factor": "exil",
+   "outcome": "icd_6a20",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de registres nordiques et canadiens et une cohorte suédoise trouvent plus de troubles psychotiques chez les réfugiés que chez les autres migrants et la population née sur place. Les arrivées ont eu lieu dans l'enfance, l'adolescence ou au début de l'âge adulte ; le risque reste faible pour chacun.",
+   "sources": [
+    "brandt2019_refugies",
+    "hollander2016"
+   ],
+   "reason": "Comparaison réelle avec groupes témoins (seule trouvée pour l'exil), mais âge à l'arrivée non limité à l'enfance (cohorte suédoise : arrivées après 1998, personnes nées après 1984, donc jusqu'à environ 27 ans) ; sujet très sensible ; Brandt lu au résumé seulement. À décider par l'intégrateur et une relecture indépendante."
+  },
+  {
+   "factor": "exil",
+   "outcome": "ten_souffrance_enfance",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Dans 38 études menées surtout en Palestine et en Israël, les enfants plus exposés à la guerre ont un peu plus de symptômes de stress post-traumatique, d'anxiété ou de tristesse et de troubles du comportement ; une partie du lien passe par des parents plus durs et moins chaleureux.",
+   "sources": [
+    "eltanamly2021_guerre"
+   ],
+   "reason": "Relation dose-effet à l'intérieur de populations exposées, pas comparaison exposés/non exposés ; effets totaux par issue dans des tableaux supplémentaires non lus. Ne satisfait pas l'exigence d'un groupe de comparaison posée par la mission."
+  },
+  {
+   "factor": "abus_sexuel",
+   "outcome": "ten_traits_psychopathiques",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse trouve une association très faible entre violences sexuelles et traits psychopathiques, significative pour une seule facette.",
+   "sources": [
+    "deruiter2022_psychopathie"
+   ],
+   "reason": "Effet très faible ; risque de stigmatisation des victimes ; non placé dans links par prudence."
+  },
+  {
+   "factor": "abus_physique",
+   "outcome": "ten_violences_amoureuses_jeunes",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 87 études trouve des associations faibles entre plusieurs formes de maltraitance dans l'enfance et les violences subies dans les relations amoureuses à l'adolescence ou au début de l'âge adulte.",
+   "sources": [
+    "hebert2019_violences_amoureuses"
+   ],
+   "reason": "Le résumé parle de « various forms of child maltreatment » sans détail par forme ; texte fermé. Même réserve pour abus_sexuel, abus_emotionnel et temoin_violences : n'ajouter qu'après lecture des tableaux."
+  },
+  {
+   "factor": "abus_emotionnel",
+   "outcome": "pat_self_criticism",
+   "strength": "limitee",
+   "relation_type": "empirical_association",
+   "summary": "Une méta-analyse de 20 études trouve que les violences psychologiques sont associées à moins de bienveillance envers soi-même (autocompassion), avec un effet modéré.",
+   "sources": [
+    "zhang2023_autocompassion"
+   ],
+   "reason": "Glissement de construit possible : l'autocompassion faible n'est pas identique à l'autocritique. Même proposition pour negligence_emotionnelle (effet modéré) ; physique, sexuelle et négligence matérielle faibles. Alternative : carte propre « Peu de bienveillance envers soi »."
+  }
+ ],
+ "proposed_corrections": [
+  {
+   "target": "corrections.json → outcome_overrides",
+   "outcome": "att_anxieux",
+   "action": "reformuler",
+   "fields": {
+    "description": "Craindre de perdre l'autre et chercher beaucoup de signes de son affection. On parle parfois de « dépendance affective », un terme courant qui n'est pas un diagnostic."
+   },
+   "sources": [
+    "cavalli2025_dependance_affective",
+    "ozal2023_dependance_affective"
+   ],
+   "reason": "Rend « dépendance affective » visible comme nom recherché sans créer de sujet ni de lien. La clé `aliases` de corrections.json ne convient pas : elle redirige un ancien identifiant vers un seul identifiant canonique et n'affiche aucun nom. Cavalli 2025 : méta-analyse de 15 études, « love addiction » liée à l'attachement anxieux (corrélation modérée) et très faiblement, en sens inverse, à l'attachement évitant ; Özal 2023 : aucune définition consensuelle."
+  },
+  {
+   "target": "corrections.json → outcome_overrides",
+   "outcome": "ten_codependance",
+   "action": "reformuler",
+   "fields": {
+    "description": "S'oublier pour prendre en charge un proche en difficulté ; une notion clinique sans définition consensuelle, proche de ce qu'on appelle parfois « dépendance affective »."
+   },
+   "sources": [
+    "ozal2023_dependance_affective"
+   ],
+   "reason": "Second point d'entrée pour le terme recherché ; aucune force ni lien modifié."
+  },
+  {
+   "target": "évolution du générateur et de l'interface (hors fragment)",
+   "outcome": "att_anxieux, ten_codependance",
+   "action": "reformuler",
+   "fields": {
+    "also_known_as": [
+     "Dépendance affective"
+    ]
+   },
+   "reason": "Option durable : un champ facultatif `also_known_as` (liste de chaînes) recopié par build_cartographie.py et affiché sous le libellé, voire indexé par la recherche. Demande une modification du code (build_cartographie.py, cartographie-ui.js, tests) : non faite ici."
+  },
+  {
+   "target": "corrections.json → outcome_overrides",
+   "outcome": "pat_social_isolation",
+   "action": "reformuler",
+   "fields": {
+    "description": "Se sentir seul, avec moins de liens et de soutien que ce que l'on souhaiterait."
+   },
+   "reason": "Les nouveaux liens reposent sur des méta-analyses de la solitude ressentie ; la description actuelle la décrit déjà presque. Vérifier que le libellé « Isolement social subi » reste juste ou passer à « Solitude et isolement subis »."
+  },
+  {
+   "factor": "harcelement",
+   "outcome": "icd_6b04",
+   "action": "reformuler",
+   "strength": "limitee",
+   "summary": "Les jeunes harcelés ont plus souvent des symptômes d'anxiété sociale. Dans les études qui suivent les jeunes dans le temps, l'anxiété sociale annonce surtout un harcèlement ultérieur, tandis que l'inverse n'est pas confirmé : le lien va probablement dans les deux sens.",
+   "sources": [
+    "gonzalez2017",
+    "deng2024_anxiete_sociale"
+   ],
+   "reason": "Deng 2024 (133 études transversales, 19 longitudinales, résumé) : association modérée, mais le harcèlement ne prédit pas significativement l'anxiété sociale ultérieure ; la formulation actuelle doit le dire. Déclarer deng2024_anxiete_sociale (voir proposed_sources)."
+  },
+  {
+   "factor": "traumatisme_ponctuel",
+   "outcome": "anx_generale",
+   "action": "remplacer_source",
+   "strength": "limitee",
+   "sources": [
+    "copeland2007",
+    "rubens2018_catastrophes"
+   ],
+   "reason": "Ajouter Rubens 2018 (méta-analyse, sections lues) : exposition à une catastrophe naturelle et symptômes internalisés chez les jeunes, effet modeste, biais de publication possible ; dépression et anxiété non séparées. Force inchangée."
+  },
+  {
+   "factor": "traumatisme_ponctuel",
+   "outcome": "dep_generale",
+   "action": "remplacer_source",
+   "strength": "limitee",
+   "sources": [
+    "copeland2007",
+    "rubens2018_catastrophes"
+   ],
+   "reason": "Idem ; force inchangée."
+  },
+  {
+   "target": "notes.hors_perimetre (item « Troubles de la personnalité autres que borderline »)",
+   "action": "reformuler",
+   "fields": {
+    "reason": "La CIM-11 décrit la personnalité par dimensions. Seules les associations avec le trouble borderline sont assez solides pour une carte de trouble ; les difficultés de personnalité au sens large et les traits psychopathiques figurent comme repères de recherche, jamais comme diagnostic."
+   },
+   "reason": "À appliquer seulement si ten_difficultes_personnalite et ten_traits_psychopathiques sont intégrés."
+  },
+  {
+   "target": "notes.hors_perimetre (item « Mécanismes de défense »)",
+   "action": "reformuler",
+   "fields": {
+    "reason": "Ils sont évalués par un clinicien au fil d'entretiens. Un seul repère clinique est montré, fondé sur un modèle et une petite cohorte ; les défenses une à une ne sont pas reliées à l'enfance."
+   },
+   "reason": "À appliquer seulement si ten_defenses_peu_adaptees est intégré ; sinon garder le texte actuel."
+  },
+  {
+   "target": "notes.hors_perimetre (item « Exil, guerre et migration comme causes mesurées »)",
+   "action": "reformuler",
+   "fields": {
+    "reason": "Les études sur les enfants exposés à la guerre décrivent surtout la fréquence des difficultés ou leur lien avec l'intensité de l'exposition, sans groupe de comparaison. La carte n'en tire pas d'association ; elle indique les repères de la CIM-11 sur les événements extrêmement menaçants."
+   },
+   "reason": "Précision après cette recherche ; à modifier encore si le lien proposé exil → icd_6a20 est retenu."
+  }
+ ],
+ "out_of_scope": [
+  {
+   "referentiel": "Big Five",
+   "code": "traits_hors_nevrosisme",
+   "label": "Extraversion, agréabilité, conscienciosité, ouverture",
+   "statut": "a_examiner",
+   "raison": "Une méta-analyse (Credé 2023, 32 échantillons) existe mais son texte et son résumé n'ont pas pu être ouverts ; seul un extrait de moteur de recherche mentionne stabilité émotionnelle et psychoticisme plus liés. Aucun lien sans lecture.",
+   "sources": [
+    "crede2023_traits"
+   ]
+  },
+  {
+   "referentiel": "DSM-5-TR AMPD / PID-5",
+   "code": "pid5_domaines",
+   "label": "Affectivité négative, détachement, antagonisme, désinhibition, psychoticisme",
+   "statut": "aucune_preuve_trouvee",
+   "raison": "Aucune méta-analyse par domaine trouvée ; seulement des études transversales isolées (médiation des symptômes internalisés). La carte névrosisme existante couvre l'affectivité négative.",
+   "sources": []
+  },
+  {
+   "referentiel": "CIM-11",
+   "code": "6D10",
+   "label": "Trouble de la personnalité (sévérité)",
+   "statut": "agrege_dans",
+   "raison": "Rapprochement proposé avec ten_difficultes_personnalite, sans équivalence : les études portent sur des symptômes de catégories DSM-IV, pas sur la sévérité CIM-11.",
+   "sources": [
+    "johnson1999_personnalite",
+    "johnson2006_personnalite"
+   ]
+  },
+  {
+   "referentiel": "Concept courant",
+   "code": "dependance_affective",
+   "label": "« Dépendance affective »",
+   "statut": "agrege_dans",
+   "raison": "Pas de définition consensuelle (Özal 2023) ; mesures de « love addiction » corrélées surtout à l'attachement anxieux (Cavalli 2025). Affichage proposé comme autre nom dans les descriptions d'Attachement anxieux et de Codépendance.",
+   "sources": [
+    "cavalli2025_dependance_affective",
+    "ozal2023_dependance_affective"
+   ]
+  },
+  {
+   "referentiel": "Exil, guerre",
+   "code": "exil_comparaison",
+   "label": "Enfants exposés à la guerre comparés à des enfants non exposés",
+   "statut": "aucune_preuve_trouvee",
+   "raison": "Recherche ciblée (PubMed, Europe PMC) : méta-analyses de prévalence (Attanayake 2009, Blackmore 2020, Zasiekina 2025, Adugna 2026) ou de dose d'exposition (Eltanamly 2021) ; aucune méta-analyse avec groupe non exposé. Les registres nordiques comparant enfants réfugiés et natifs mesurent le recours aux soins, biaisé par l'accès.",
+   "sources": [
+    "eltanamly2021_guerre"
+   ]
+  },
+  {
+   "referentiel": "Catastrophes",
+   "code": "catastrophe_naturelle",
+   "label": "Catastrophes naturelles dans l'enfance",
+   "statut": "agrege_dans",
+   "raison": "Couvert par traumatisme_ponctuel (exemple « Catastrophe naturelle ») ; lien proposé vers ten_souffrance_enfance. Les effets portent sur la jeunesse peu après l'événement ; aucune méta-analyse sur l'âge adulte trouvée.",
+   "sources": [
+    "rubens2018_catastrophes",
+    "furr2010_catastrophes"
+   ]
+  },
+  {
+   "referentiel": "DMRS",
+   "code": "defenses_par_mecanisme",
+   "label": "Mécanismes de défense un à un",
+   "statut": "aucune_preuve_trouvee",
+   "raison": "Aucune méta-analyse reliant l'enfance aux défenses ; études transversales en population clinique, revue narrative sur l'attachement (Howell 2025). Cramer et Block 1998 relient la personnalité de l'enfant d'âge préscolaire, pas un vécu, aux défenses à 23 ans.",
+   "sources": [
+    "howell2025_defenses",
+    "cramer1998_defenses",
+    "soldz1998_defenses"
+   ]
+  },
+  {
+   "referentiel": "Repère",
+   "code": "burn_out",
+   "label": "Burn-out (phénomène professionnel, CIM-11 QD85)",
+   "statut": "aucune_preuve_trouvee",
+   "raison": "Seules des études transversales isolées chez des médecins ou étudiants infirmiers ; aucune synthèse. Ne pas relier.",
+   "sources": []
+  },
+  {
+   "referentiel": "CIM-11",
+   "code": "6B42",
+   "label": "Trouble du deuil prolongé (lien empirique avec l'enfance)",
+   "statut": "aucune_preuve_trouvee",
+   "raison": "La méta-analyse des facteurs de risque (Buur 2024, 120 études) retient des caractéristiques de la perte et l'attachement anxieux, pas des vécus d'enfance. Les repères de contexte CIM-11 existants suffisent.",
+   "sources": [
+    "buur2024_deuil"
+   ]
+  },
+  {
+   "referentiel": "CIM-11",
+   "code": "6B24",
+   "label": "Trouble d'accumulation",
+   "statut": "a_examiner",
+   "raison": "Revue systématique (Chia 2021) : liens possibles avec un climat familial froid et contrôlant et des événements adverses, mais études peu nombreuses, hétérogènes et non spécifiques. Pas de méta-analyse.",
+   "sources": [
+    "chia2021_accumulation"
+   ]
+  },
+  {
+   "referentiel": "CIM-11",
+   "code": "6B23",
+   "label": "Hypocondrie / anxiété de santé (nouveaux liens)",
+   "statut": "aucune_preuve_trouvee",
+   "raison": "Aucune méta-analyse trouvée ; une cohorte danoise de 2026 (maladie d'un parent et anxiété de santé à l'adolescence) n'a pas de résumé accessible. Lien existant maladie_enfant conservé.",
+   "sources": []
+  },
+  {
+   "referentiel": "CIM-11",
+   "code": "6C51",
+   "label": "Trouble du jeu vidéo",
+   "statut": "a_examiner",
+   "raison": "Lo 2026 (36 études, résumé relu) : association faible avec la victimisation, plus forte en transversal ; les types de victimisation ne sont pas nommés dans le résumé, donc aucun lien par facteur. Couvert en partie par ten_ecrans.",
+   "sources": [
+    "lo2026_gaming"
+   ]
+  },
+  {
+   "referentiel": "Construit",
+   "code": "mentalisation",
+   "label": "Mentalisation",
+   "statut": "a_examiner",
+   "raison": "Yang 2024 (23 études, résumé) : association négative modérée avec la maltraitance globale ; pas de résultat par forme dans le résumé.",
+   "sources": [
+    "yang2024_mentalisation"
+   ]
+  },
+  {
+   "referentiel": "Construit",
+   "code": "autocompassion",
+   "label": "Peu de bienveillance envers soi",
+   "statut": "a_examiner",
+   "raison": "Zhang 2023 (résumé) : effets par forme disponibles ; voir proposed_links (rapprochement avec l'autocritique à décider).",
+   "sources": [
+    "zhang2023_autocompassion"
+   ]
+  },
+  {
+   "referentiel": "Repère",
+   "code": "colere_agressivite_adulte",
+   "label": "Colère et agressivité à l'âge adulte",
+   "statut": "agrege_dans",
+   "raison": "Déjà couvertes par ten_colere et ten_externalisation ; aucune méta-analyse nouvelle retenue ici.",
+   "sources": []
+  },
+  {
+   "referentiel": "CIM-11",
+   "code": "6C73",
+   "label": "Trouble explosif intermittent",
+   "statut": "a_examiner",
+   "raison": "Statut inchangé (Fanning 2014, cas-témoins transversaux) ; aucune méta-analyse trouvée.",
+   "sources": []
+  }
+ ]
 }
