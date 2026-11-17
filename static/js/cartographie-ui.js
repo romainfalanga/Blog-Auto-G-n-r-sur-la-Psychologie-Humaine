@@ -44,7 +44,7 @@
     var state = {
       answers: {}, feedback: {}, notes: { factors: {}, outcomes: {} }, resources: {}, ambreNotes: [],
       view: 'form', themesOpen: {}, open: {}, noteOpen: {}, rowOpen: {}, foldOpen: {},
-      account: null, accountReady: false, loading: true, loadError: false, saved: false, version: 0,
+      account: null, accountReady: false, initialized: false, sessionUnavailable: false, mayImportAnonymous: false, loading: true, loadError: false, saved: false, version: 0,
       saving: false, deleting: false, deleted: false, dirty: false, editRevision: 0, conflict: null,
       saveError: '', savedAt: null
     };
@@ -69,9 +69,9 @@
 
     /* ---- Brouillon local : rien n'est perdu au rechargement, même sans compte ---- */
     function draftKey() { return DRAFT_KEY + (state.account ? ':' + state.account.id : ''); }
-    function readDraft() {
+    function readDraft(key) {
       try {
-        var d = JSON.parse(window.localStorage.getItem(draftKey()) || 'null');
+        var d = JSON.parse(window.localStorage.getItem(key || draftKey()) || 'null');
         if (!d || typeof d !== 'object') return false;
         var known = function (obj, index) { var out = {}; Object.keys(obj || {}).forEach(function (k) { if (index[k]) out[k] = obj[k]; }); return out; };
         var prot = {}; (data.protections || []).forEach(function (x) { prot[x.id] = true; });
@@ -180,7 +180,7 @@
         // see a notice flash and vanish.
         if (state.loading) { saveBox.dataset.state = 'loading'; return; }
         saveBox.dataset.state = 'anonymous';
-        saveBox.appendChild(el('p', {}, [state.loading ? 'Vérification de votre connexion… Vos réponses restent sur cet appareil.' : 'Sans connexion, vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ', state.loading ? null : el('a', { href: '/mon-compte/', text: 'Se connecter' })]));
+        saveBox.appendChild(el('p', {}, [state.sessionUnavailable ? 'Connexion non vérifiée. Vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ' : 'Sans connexion, vos réponses restent sur cet appareil et ne sont pas envoyées à Ambre. ', state.loading ? null : el('a', { href: '/mon-compte/', text: 'Se connecter' })]));
         if (hasContent()) saveBox.appendChild(el('button', { type: 'button', className: 'carto-btn carto-btn-quiet', disabled: state.deleting, onclick: removeSaved }, ['Effacer mon brouillon']));
         return;
       }
@@ -474,7 +474,19 @@
       var active = Array.from(root.querySelectorAll('[data-focus]')).find(function (node) { return node.getAttribute('data-focus') === saved.key; });
       if (active) { active.focus({ preventScroll: true }); if (typeof active.setSelectionRange === 'function' && saved.start != null) active.setSelectionRange(saved.start, saved.end); }
     }
-    function renderAll() { var focused = captureFocus(); renderForm(); renderResults(); restoreFocus(focused); }
+    function renderReadiness() {
+      var waiting = !state.initialized;
+      root.setAttribute('data-loading', waiting ? 'true' : 'false');
+      root.setAttribute('aria-busy', waiting ? 'true' : 'false');
+      var message = $('[data-loading-status]'); if (message) message.hidden = !waiting;
+      root.querySelectorAll('[data-tab]').forEach(function (tab) { tab.disabled = waiting; });
+    }
+    function renderAll() {
+      // Neither anonymous storage nor an empty map is a member's saved map.
+      // Build the first view only after session and map loading have settled.
+      if (!state.initialized) { renderReadiness(); return; }
+      var focused = captureFocus(); renderForm(); renderResults(); restoreFocus(focused); renderReadiness();
+    }
 
     /* ---- Onglets (mobile) ---- */
     function setView(v, scroll) {
@@ -494,6 +506,10 @@
     function loadAccountMap() {
       state.loading = true; state.loadError = false; state.saveError = ''; renderSave();
       return api('GET').then(function (j) {
+        // Import the local anonymous draft only after an empty account is confirmed.
+        // A failed GET must never present another storage scope as this account's map.
+        if (!j.cartographie && state.mayImportAnonymous && !state.dirty && !hasContent()) readDraft(DRAFT_KEY);
+        state.mayImportAnonymous = false;
         if (state.dirty && j.cartographie) {
           state.conflict = { remote: j };
           state.saveError = 'Une cartographie est déjà enregistrée. Vos réponses ici sont conservées : choisissez la version à garder.';
@@ -501,20 +517,30 @@
         else if (hasContent()) { state.dirty = true; state.editRevision++; }
         state.accountReady = true;
       }).catch(function () { state.loadError = true; state.saveError = 'Impossible de charger votre cartographie. Vos modifications restent sur cet appareil ; réessayez avant de les enregistrer.'; })
-        .then(function () { state.loading = false; renderAll(); if (state.dirty && !state.loadError && !state.conflict) save(); });
+        .then(function () { state.loading = false; state.initialized = true; renderAll(); if (state.dirty && !state.loadError && !state.conflict) save(); });
     }
-    fetch('/api/me', { credentials: 'same-origin' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (me) {
-      if (!me || !me.user) { state.loading = false; renderSave(); return; }
+    function openAnonymous(unavailable) {
+      state.sessionUnavailable = Boolean(unavailable);
+      readDraft(DRAFT_KEY);
+      state.loading = false; state.initialized = true; renderAll();
+    }
+    fetch('/api/me', { credentials: 'same-origin' }).then(function (r) {
+      if (!r.ok) throw new Error('Session unavailable');
+      return r.json();
+    }).then(function (me) {
+      if (!me || !me.user) { openAnonymous(false); return; }
       state.account = me.user;
-      if (!state.dirty && readDraft()) { state.dirty = true; state.editRevision++; }
+      // An account draft has priority. An anonymous draft may still seed an
+      // empty account, as before, but is never painted during the session check.
+      if (readDraft()) { state.dirty = true; state.editRevision++; }
+      else state.mayImportAnonymous = true;
       return loadAccountMap();
-    }).catch(function () { state.loading = false; renderSave(); });
+    }).catch(function () { openAnonymous(true); });
 
     window.addEventListener('beforeunload', function (event) {
       if (state.account && (state.dirty || state.saving || state.deleting)) { event.preventDefault(); event.returnValue = ''; }
     });
 
-    readDraft();
     setView('form');
     renderAll();
   }
