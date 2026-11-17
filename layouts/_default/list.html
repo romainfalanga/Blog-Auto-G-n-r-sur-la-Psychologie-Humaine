@@ -5,7 +5,7 @@
     <h1>{{ if $isCategory }}Explorer les articles{{ else }}{{ .Title }}{{ end }}</h1>
     {{ if and .Content (not $isCategory) }}
     <div class="category-description">
-      {{ .Content }}
+      {{ partial "public-content.html" .Content }}
     </div>
     {{ end }}
   </div>

@@ -65,7 +65,7 @@ const fs=require('node:fs'),path=require('node:path'),os=require('node:os');cons
   await member.setViewportSize({width,height:900});await member.goto('https://ambre.test/parametres/');await member.getByRole('heading',{name:'Paramètres',exact:true}).waitFor();
   for(const tab of ['Au prochain message','Mes informations','Réponses précédentes']){await member.getByRole('tab',{name:tab,exact:true}).click();assert.equal(await member.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,'settings '+tab+' '+width)}
   await member.getByRole('tab',{name:'Mes informations',exact:true}).click();await member.getByText('Méthodes, sources et limites',{exact:true}).click();await member.getByText(/Catalogue documentaire, version/).waitFor();assert.equal(await member.locator('.change-source').count(),36);
-  await member.goto('https://ambre.test/mon-portrait/');await member.locator('.portrait-tabs').waitFor();assert.deepEqual(await member.locator('.portrait-tabs a').allTextContents(),['Mon portrait','Ambre']);assert.equal(await member.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,'portrait '+width);
+  await member.goto('https://ambre.test/mon-portrait/');await member.locator('#self-profile-form').waitFor();assert.equal(await member.locator('.portrait-tabs, [data-portrait-tab], #portrait-synthesis').count(),0);assert.equal(await member.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,'portrait '+width);
  }
  raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES(?,?,'initial','ready','Point de départ.',?,0,0)").run('initial-review',id,'initial-key');
  assert.equal((await api(member,'/api/chat/consent','PUT',{accepted:true})).status,200);

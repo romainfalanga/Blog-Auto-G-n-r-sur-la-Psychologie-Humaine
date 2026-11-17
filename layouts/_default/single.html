@@ -13,7 +13,7 @@
   </header>
 
   <div class="article-content" itemprop="articleBody">
-    {{ .Content }}
+    {{ partial "public-content.html" .Content }}
     {{ partial "article-mirror.html" . }}
   </div>
 

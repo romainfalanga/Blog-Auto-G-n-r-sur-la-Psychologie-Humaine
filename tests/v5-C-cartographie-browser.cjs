@@ -1,7 +1,6 @@
 // Run with: PLAYWRIGHT_BROWSERS_PATH=/path/to/browsers node tests/v5-C-cartographie-browser.cjs
-// Plan v5.1, lot C5a: sections of « Ce qui en ressort » (recognized, five closest,
-// frequent subjects as cards, folded others and dismissed), focus following a moved
-// card, no horizontal scroll at 390 px. Every API response is synthetic and local.
+// Mon enfance: one count-based order, full answer labels and preserved feedback.
+// Every API response is synthetic and local.
 const {chromium}=require('playwright');
 const assert=require('node:assert/strict');
 const fs=require('node:fs');
@@ -11,11 +10,12 @@ const data=JSON.parse(fs.readFileSync(path.join(root,'data/cartographie.json'),'
 const Carto=require(path.join(root,'static/js/cartographie.js'));
 const template=fs.readFileSync(path.join(root,'layouts/_default/cartographie.html'),'utf8');
 const markup=template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')).replace(/{{[^}]*}}/g,match=>match.includes('$data | jsonify')?JSON.stringify(data):match.includes('readFile')?'test':'');
-const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"></head><body><main>'+markup+'</main></body></html>';
+const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/cartographie.css"></head><body><main>'+markup+'</main></body></html>';
+const artifacts=path.join(root,'work','mon-enfance');fs.mkdirSync(artifacts,{recursive:true});
 const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_peur:1,pas_protege:1};
 
 (async()=>{
- const browser=await chromium.launch({headless:true});let passed=0;
+ const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined});let passed=0;
  async function pageFor(width,answers,feedback={}){
   const context=await browser.newContext({viewport:{width,height:1000}}),page=await context.newPage(),errors=[];
   page.on('pageerror',error=>errors.push(error.message));
@@ -23,7 +23,7 @@ const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_p
   await page.route('https://carto.test/**',route=>{
    const url=new URL(route.request().url());
    if(url.pathname==='/')return route.fulfill({contentType:'text/html',body:html});
-   if(url.pathname==='/css/style.css')return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static/css/style.css'),'utf8')});
+   if(url.pathname.startsWith('/css/'))return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static',url.pathname),'utf8')});
    if(url.pathname.startsWith('/js/'))return route.fulfill({contentType:'application/javascript',body:fs.readFileSync(path.join(root,'static',url.pathname),'utf8')});
    if(url.pathname==='/api/me')return route.fulfill({contentType:'application/json',body:JSON.stringify({user:null})});
    return route.fulfill({status:404,body:''});
@@ -35,69 +35,68 @@ const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_p
  async function check(name,fn){await fn();passed++;console.log('PASS '+name);}
  const ids=sel=>sel.evaluateAll(nodes=>nodes.map(n=>n.dataset.outcome));
  try{
-  for(const width of [390,1440])await check('sections, one ranking sentence, frequent cards and closed folds at '+width+'px',async()=>{
+  for(const width of [320,390,768,1440])await check('Mon enfance, descending counts, explanations without categories or bibliography at '+width+'px',async()=>{
    const feedback={att_anxieux:'oui'};
    const {page,context,errors}=await pageFor(width,VIOLENCES,feedback);
-   const expected=Carto.compute(data,VIOLENCES,feedback).sections;
+   const expected=Carto.compute(data,VIOLENCES,feedback).results;
+   assert.equal(await page.locator('h1').innerText(),'Mon enfance');
+   assert.deepEqual(await ids(page.locator('article.carto-card')),expected.map(r=>r.outcome.id));
+   const counts=await page.locator('article.carto-card').evaluateAll(nodes=>nodes.map(n=>Number(n.dataset.associated)));
+   assert.deepEqual(counts,[...counts].sort((a,b)=>b-a));
+   assert.equal(await page.locator('.carto-section-title,.carto-kind,.carto-sources,details.carto-fold').count(),0);
    assert.equal(await page.locator('.carto-rank-note').count(),1);
-   assert.deepEqual(await page.locator('.carto-section-title').allInnerTexts(),['Vous vous y reconnaissez (1)','Le plus en lien avec vos réponses','Aussi associés à la plupart des vécus difficiles']);
-   assert.deepEqual(await ids(page.locator('article.carto-card[data-section="recognized"]')),expected.recognized.map(r=>r.outcome.id));
-   assert.deepEqual(await ids(page.locator('article.carto-card[data-section="top"]')),expected.top.map(r=>r.outcome.id));
-   assert.equal(expected.top.length,5);
-   assert.deepEqual(await ids(page.locator('article.carto-card[data-section="frequent"]')),expected.frequent.map(r=>r.outcome.id));
-   assert.ok(expected.frequent.some(r=>r.outcome.id==='dep_generale'),'depression with a strong link stays visible as a card');
-   assert.match(await page.locator('article.carto-card[data-section="frequent"]').first().innerText(),/Associé à de nombreux vécus/);
-   const fold=page.locator('details.carto-fold[data-fold="other"]');
-   assert.equal(await fold.evaluate(n=>n.open),false);
-   assert.equal(await fold.locator('summary').innerText(),'Autres sujets reliés à vos réponses ('+expected.other.length+')');
-   assert.deepEqual(await ids(fold.locator('.carto-row')),expected.other.map(r=>r.outcome.id));
-   assert.equal(await page.locator('details.carto-fold[data-fold="dismissed"]').count(),0);
-   const text=await page.locator('[data-results]').innerText();
-   assert.doesNotMatch(text,/3114|Repère de contexte|Tendance psychologique\n/);
-   assert.equal(await page.locator('.carto-filters,.carto-progress,.carto-note-urgent,[data-delete]').count(),0);
-   const contextual=new Set(data.outcomes.filter(o=>o.contextual_only).map(o=>o.id));
-   assert.ok(!(await ids(page.locator('[data-results] [data-outcome]'))).some(id=>contextual.has(id)));
-   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true,'no horizontal scroll');
-   await page.locator('article.carto-card[data-section="frequent"] .carto-detail').first().click();
-   assert.equal(await page.locator('article.carto-card[data-section="frequent"] .carto-detail').first().getAttribute('aria-expanded'),'true');
-   assert.ok(await page.locator('article.carto-card[data-section="frequent"] .carto-card-body').count()>0);
+   await page.locator('.carto-detail').first().click();
+   assert.ok(await page.locator('.carto-link-text').count()>0);
+   assert.equal(await page.locator('[data-results] a,.carto-sources,.carto-kind').count(),0);
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true);
+   await page.evaluate(()=>window.scrollTo(0,0));
+   await page.screenshot({path:path.join(artifacts,'results-'+width+'.png')});
+   if(width<901)await page.locator('[data-tab="form"]').click();
+   await page.locator('[data-theme="violences"] > summary').click();
+   const factor=page.locator('[data-factor="abus_physique"]');
+   const checks=await factor.locator('.carto-choice').evaluateAll(nodes=>nodes.map(n=>{const r=n.getBoundingClientRect();return {label:n.textContent,width:r.width,height:r.height,clipped:n.scrollWidth>n.clientWidth,wrap:getComputedStyle(n).whiteSpace}}));
+   assert.deepEqual(checks.map(c=>c.label),['Non','Oui','Souvent','Je ne sais pas']);
+   assert.ok(checks.every(c=>c.height>=44&&c.width>=44&&!c.clipped&&c.wrap==='nowrap'),JSON.stringify(checks));
+   const unknown=factor.locator('[data-level="unknown"]');await factor.locator('[data-level="2"]').focus();await page.keyboard.press('Tab');
+   assert.equal(await unknown.evaluate(n=>n===document.activeElement),true);
+   assert.equal(await unknown.evaluate(n=>n.matches(':focus-visible')),true);
+   assert.ok(await unknown.evaluate(n=>parseFloat(getComputedStyle(n).outlineWidth)>=2));
+   await page.keyboard.press('Space');assert.equal(await unknown.getAttribute('aria-pressed'),'true');
+   assert.ok(await unknown.evaluate(n=>Number(getComputedStyle(n).fontWeight)>Number(getComputedStyle(n.parentElement.querySelector('[data-level="0"]')).fontWeight)&&getComputedStyle(n).boxShadow!=='none'&&n.scrollWidth<=n.clientWidth),'selection has a visible shape and weight, not color alone');
+   await page.keyboard.press('Space');assert.equal(await unknown.getAttribute('aria-pressed'),'true','reselecting preserves the answer');
+   await page.locator('[data-theme="famille"] > summary').click();
+   const binary=page.locator('[data-factor="adoption"]');
+   assert.deepEqual(await binary.locator('.carto-choice').allInnerTexts(),['Non','Oui','Je ne sais pas']);
+   assert.ok(await binary.locator('.carto-choice').evaluateAll(nodes=>nodes.every(n=>n.getBoundingClientRect().height>=44&&n.scrollWidth<=n.clientWidth)));
+   await factor.scrollIntoViewIfNeeded();await factor.locator('[data-level="2"]').focus();await page.keyboard.press('Tab');
+   await page.screenshot({path:path.join(artifacts,'choices-'+width+'.png')});
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true);
+   // Factor details also retain explanations without visible references.
+   await factor.locator('.carto-see').click();
+   assert.ok(await page.locator('[data-dialog-body] p').count()>0);
+   assert.equal(await page.locator('[data-dialog-body] a,.carto-sources,.carto-kind').count(),0);
    assert.deepEqual(errors,[]);await context.close();
   });
-  await check('a folded row opens in place; « Je me reconnais » moves it first and keeps focus; the fold stays open',async()=>{
-   const {page,context,errors}=await pageFor(1440,VIOLENCES);
-   const fold=page.locator('details.carto-fold[data-fold="other"]');
-   await fold.locator('summary').click();
-   const row=fold.locator('.carto-row').first(),id=await row.getAttribute('data-outcome');
-   await row.click();
-   assert.equal(await fold.locator('.carto-row').first().getAttribute('aria-expanded'),'true');
-   const inner=fold.locator('article.carto-card[data-outcome="'+id+'"]');assert.equal(await inner.count(),1);
-   await inner.getByRole('button',{name:'Je me reconnais'}).click();
-   assert.deepEqual(await ids(page.locator('article.carto-card[data-section="recognized"]')),[id]);
-   assert.equal(await page.evaluate(()=>document.activeElement&&document.activeElement.getAttribute('data-focus')),'feedback:'+id+':oui','focus follows the moved card');
-   assert.equal(await page.locator('details.carto-fold[data-fold="other"]').evaluate(n=>n.open),true,'the fold stays open after re-rendering');
-   assert.deepEqual(errors,[]);await context.close();
-  });
-  for(const width of [390,1440])await check('« Pas moi » moves a card to the dismissed fold, reversibly, focus kept at '+width+'px',async()=>{
+  for(const width of [320,390,768,1440])await check('recognition keeps rank; Pas moi folds reversibly with focus at '+width+'px',async()=>{
    const {page,context,errors}=await pageFor(width,VIOLENCES);
-   const first=page.locator('article.carto-card[data-section="top"]').first(),id=await first.getAttribute('data-outcome');
+   const before=await ids(page.locator('article.carto-card'));
+   const card=page.locator('article.carto-card').nth(8),id=await card.getAttribute('data-outcome');
+   await card.getByRole('button',{name:'Je me reconnais'}).click();
+   assert.deepEqual(await ids(page.locator('article.carto-card')),before);
+   assert.equal(await page.evaluate(()=>document.activeElement.getAttribute('data-focus')),'feedback:'+id+':oui');
+   assert.equal(await card.getByRole('button',{name:'Je me reconnais'}).getAttribute('aria-pressed'),'true');
+   const first=page.locator('article.carto-card').first(),firstId=await first.getAttribute('data-outcome');
    await first.getByRole('button',{name:'Pas moi'}).click();
    const dismissed=page.locator('details.carto-fold[data-fold="dismissed"]');
    assert.equal(await dismissed.evaluate(n=>n.open),true);
-   assert.equal(await dismissed.locator('summary').innerText(),'Écartés : « Pas moi » (1)');
-   assert.equal(await page.evaluate(()=>document.activeElement&&document.activeElement.getAttribute('data-focus')),'feedback:'+id+':non');
-   assert.ok(!(await ids(page.locator('article.carto-card[data-section="top"]'))).includes(id));
-   await dismissed.locator('article.carto-card[data-outcome="'+id+'"]').getByRole('button',{name:'Pas moi'}).click();
-   assert.equal(await page.locator('article.carto-card[data-section="top"]').first().getAttribute('data-outcome'),id,'undoing restores the rank');
+   assert.equal(await page.evaluate(()=>document.activeElement.getAttribute('data-focus')),'feedback:'+firstId+':non');
+   assert.deepEqual(await ids(page.locator('article.carto-card:not([data-section="dismissed"])')),before.slice(1));
+   await dismissed.locator('article.carto-card').getByRole('button',{name:'Pas moi'}).click();
+   assert.deepEqual(await ids(page.locator('article.carto-card')),before);
+   assert.equal(await page.evaluate(()=>document.activeElement.getAttribute('data-focus')),'feedback:'+firstId+':non');
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true);
    assert.deepEqual(errors,[]);await context.close();
   });
-  await check('few subjects: no fold; only models: the five first are model cards with an honest label',async()=>{
-   const {page,context,errors}=await pageFor(1440,{ressenti_responsable:1});
-   assert.equal(await page.locator('details.carto-fold').count(),Carto.compute(data,{ressenti_responsable:1}).sections.other.length?1:0);
-   const badges=await page.locator('article.carto-card .carto-badge').allInnerTexts();
-   assert.ok(badges.length>0);
-   assert.deepEqual(errors,[]);await context.close();
-  });
-  console.log(passed+' lot C5a browser scenarios passed.');
+  console.log(passed+' Mon enfance browser scenarios passed.');
  }finally{await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1;});

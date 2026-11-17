@@ -1,5 +1,5 @@
 // Run with: PLAYWRIGHT_BROWSERS_PATH=/path/to/browsers node tests/v4-C-cartographie-browser.cjs
-// Plan v4.1, lot C: shared order page/Ambre, references shown apart, unlinked questions,
+// Plan v4.1, lot C: shared order page/Ambre, explanations without visible bibliography, unlinked questions,
 // screen-reader counter and out-of-scope list. Every API response is synthetic and local.
 const {chromium}=require('playwright');
 const assert=require('node:assert/strict');
@@ -10,18 +10,18 @@ const root=path.resolve(__dirname,'..');
 const data=JSON.parse(fs.readFileSync(path.join(root,'data/cartographie.json'),'utf8'));
 const template=fs.readFileSync(path.join(root,'layouts/_default/cartographie.html'),'utf8');
 const markup=template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')).replace(/{{[^}]*}}/g,match=>match.includes('$data | jsonify')?JSON.stringify(data):match.includes('readFile')?'test':'');
-const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"></head><body><main>'+markup+'</main></body></html>';
+const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/cartographie.css"></head><body><main>'+markup+'</main></body></html>';
 
 (async()=>{
  const {summarizeCartography}=await import(pathToFileURL(path.join(root,'journal/src/cartographie.mjs')).href);
- const browser=await chromium.launch({headless:true});let passed=0;
+ const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined});let passed=0;
  async function pageFor(width=1440){
   const context=await browser.newContext({viewport:{width,height:1000}}),page=await context.newPage(),errors=[];
   page.on('pageerror',error=>errors.push(error.message));
   await page.route('https://carto.test/**',route=>{
    const url=new URL(route.request().url());
    if(url.pathname==='/')return route.fulfill({contentType:'text/html',body:html});
-   if(url.pathname==='/css/style.css')return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static/css/style.css'),'utf8')});
+   if(url.pathname.startsWith('/css/'))return route.fulfill({contentType:'text/css',body:fs.readFileSync(path.join(root,'static',url.pathname),'utf8')});
    if(url.pathname.startsWith('/js/'))return route.fulfill({contentType:'application/javascript',body:fs.readFileSync(path.join(root,'static',url.pathname),'utf8')});
    if(url.pathname==='/api/me')return route.fulfill({contentType:'application/json',body:JSON.stringify({user:null})});
    return route.fulfill({status:404,body:''});
@@ -46,7 +46,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    assert.ok(shown.length>5);assert.ok(!shown.some(id=>contextual.has(id)),'no contextual subject');
    assert.deepEqual(errors,[]);await context.close();
   });
-  await check('no contextual subject anywhere, in the list or in « Liens étudiés »; other references weigh little',async()=>{
+  await check('no contextual subject anywhere, in the list or in « Liens étudiés »; other references add no associated experience',async()=>{
    const {page,context,errors}=await pageFor();
    await select(page,'abus_sexuel');await select(page,'abus_physique');await select(page,'critique');
    assert.equal(await page.getByText('Repère de contexte').count(),0);
@@ -59,7 +59,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    const mixed=page.locator('article.carto-card').filter({has:page.locator('.carto-from-line')}).first();
    await mixed.locator('.carto-detail').click();
    const card=page.locator('article.carto-card').filter({has:page.locator('.carto-other-title')}).first();
-   if(await card.count()){assert.equal(await card.locator('.carto-other-title').innerText(),'Autres repères (modèles cliniques, définitions) — comptent peu dans l’ordre');assert.ok(await card.locator('.carto-links-other > li').count()>0);}
+   if(await card.count()){assert.equal(await card.locator('.carto-other-title').innerText(),'Autres repères (modèles cliniques, définitions)');assert.ok(await card.locator('.carto-links-other > li').count()>0);}
    const counted=Number(await mixed.getAttribute('data-associated'));
    assert.equal(await mixed.locator('.carto-links:not(.carto-links-other) > li').count()>=counted,true);
    assert.deepEqual(errors,[]);await context.close();
@@ -71,7 +71,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    assert.equal(await page.locator('[data-factor="exil"] .carto-see').count(),1,'exile now has its ICD-11 context');
    await page.locator('[data-factor="exil"] .carto-see').click();
    const headings=await page.locator('[data-dialog-body] .carto-dialog-h').allInnerTexts();
-   assert.deepEqual(headings,['Contexte décrit par la CIM-11 · poids faible ('+data.links.filter(l=>l.factor==='exil'&&!data.outcomes.find(o=>o.id===l.outcome).contextual_only).length+')']);
+   assert.deepEqual(headings,['Contexte décrit par la CIM-11 ('+data.links.filter(l=>l.factor==='exil'&&!data.outcomes.find(o=>o.id===l.outcome).contextual_only).length+')']);
    await page.locator('[data-dialog-close]').click();
    assert.deepEqual(errors,[]);await context.close();
   });
@@ -94,7 +94,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    await link.click();
    assert.equal(await page.locator('[data-dialog-title]').innerText(),'Ce que la carte ne couvre pas');
    assert.equal(await page.locator('.carto-scope-list > li').count(),data.notes.hors_perimetre.items.length);
-   assert.ok(await page.locator('[data-dialog-body] .carto-sources a').count()>0);
+   assert.equal(await page.locator('[data-dialog-body] .carto-sources a').count(),0);
    await page.locator('[data-dialog-close]').click();
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),true);
    assert.deepEqual(errors,[]);await context.close();

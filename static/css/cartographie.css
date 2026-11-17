@@ -1,0 +1,41 @@
+/* Answer controls keep their full labels, including on narrow screens. */
+.carto .carto-choices {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(max-content, 1.8fr);
+  width: min(100%, 30rem);
+  overflow: visible;
+  gap: .25rem;
+  padding: .25rem;
+}
+.carto .carto-choices:not(:has([data-level="2"])) {
+  grid-template-columns: repeat(2, minmax(0, 1fr)) minmax(max-content, 1.8fr);
+}
+.carto .carto-choice {
+  min-height: 48px;
+  padding: .65rem .5rem;
+  border: 0;
+  border-radius: 11px;
+  white-space: nowrap;
+  line-height: 1.4;
+}
+.carto .carto-choice + .carto-choice { border-left: 0; }
+.carto .carto-choice.is-on {
+  font-weight: 700;
+  box-shadow: inset 0 0 0 2px currentColor;
+}
+.carto .carto-choice:focus-visible {
+  outline: 3px solid var(--color-text);
+  outline-offset: 2px;
+  position: relative;
+  z-index: 1;
+}
+@media (max-width: 600px) {
+  .carto .carto-choices,
+  .carto .carto-choices:not(:has([data-level="2"])) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: 23rem;
+  }
+  .carto .carto-choices:not(:has([data-level="2"])) [data-level="unknown"] {
+    grid-column: 1 / -1;
+  }
+}

@@ -279,7 +279,7 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         "interpretation": {
             "purpose": "Exploration de rapprochements, sans dépistage ni diagnostic.",
             "validated_ace_instrument": False,
-            "ranking": "Liste unique, même ordre pour la page et pour Ambre. Chaque vécu coché relié à un sujet compte selon le niveau de preuve du lien (solide, modéré, limité ; modèles cliniques et définitions comptent peu), un peu plus si vous avez répondu « Souvent », une seule fois par famille de vécus proches ; ce total est pondéré par la spécificité du sujet, moindre quand la recherche le relie à presque tous les vécus difficiles. Un sujet appuyé seulement par des preuves limitées ou des modèles ne passe jamais devant un sujet appuyé par des preuves modérées ou solides ; les sujets fréquents appuyés par des preuves modérées ou solides restent affichés à part. Les liens avec la souffrance psychique ou l’addiction d’un parent reflètent en grande partie une transmission familiale et ne sont pas renforcés par la spécificité ; les troubles graves (bipolaires, psychotiques, dissociatifs à symptômes neurologiques) ne figurent parmi les premiers sujets qu’avec des preuves solides ; un trouble de stress post-traumatique ou des symptômes dissociatifs reliés à des violences ou à la peur vécues souvent sont montrés parmi les premiers. Les sujets dans lesquels vous vous reconnaissez viennent d’abord, ceux que vous avez écartés à la fin. Ce n’est ni une probabilité ni un risque personnel ; les repères de contexte ne sont pas affichés.",
+            "ranking": "Liste unique, même ordre pour la page et pour Ambre : nombre de vécus associés décroissant, puis identifiant stable en cas d’égalité. Chaque vécu déclaré compte une fois lorsqu’un lien empirique solide, modéré ou limité est retenu ; les modèles cliniques, définitions et contextes de classification ne comptent pas. Une réponse « Souvent » ne change pas le nombre, et les sujets dans lesquels vous vous reconnaissez gardent leur place. Les sujets écartés par « Pas moi » sont repliés à la fin, dans le même ordre. Ce n’est ni une probabilité ni un risque personnel ; les repères de contexte ne sont pas affichés.",
             "convergence": "Au moins deux familles de vécus avec des associations empiriques modérées ou solides ; aucun gain de certitude individuelle.",
             "warning": "Des facteurs associés, même cumulés, ne suffisent pas à établir un trouble et ne sont pas nécessairement requis pour qu’il apparaisse."
         },
@@ -362,7 +362,10 @@ EMPIRICAL_STRENGTHS = {"forte", "moderee", "limitee"}
 
 
 def ranking_parameters(data: dict) -> dict:
-    """Frozen integers shared by the page and the Worker (v5 ranking, variant L).
+    """Display order plus legacy metadata shared by the page and the Worker.
+
+    Only associated_count descending and id ascending determine display order.
+    Older evidence metadata is retained for compatibility, never for ranking.
 
     specificity = round(1000 * ln(1 + N / df)), where N is the number of questions with
     at least one measured association and df the number of questions linked to the
@@ -399,7 +402,7 @@ def ranking_parameters(data: dict) -> dict:
     for oid in [*serious, *trauma_outcomes]:
         if oid not in outcome_ids:
             raise ValueError(f"classement : sujet inconnu {oid}")
-    return {"version": "v5_relevance_specificity_strength_guard_review1", "questions_with_measured_link": n, "points": {"forte": 12, "moderee": 8, "limitee": 4, "other": 1}, "intensity_factor": {"1": 2, "2": 3}, "section_top": 5, "specificity": specificity, "frequent": frequent, "familial_factors": familial, "serious_outcomes": serious, "trauma_outcomes": trauma_outcomes, "trauma_factors": trauma_factors}
+    return {"version": "associated_experiences_desc", "order": ["associated_count_desc", "id_asc"], "dismissed_last": True, "legacy_metadata_not_used_for_order": True, "questions_with_measured_link": n, "points": {"forte": 12, "moderee": 8, "limitee": 4, "other": 1}, "intensity_factor": {"1": 2, "2": 3}, "section_top": 5, "specificity": specificity, "frequent": frequent, "familial_factors": familial, "serious_outcomes": serious, "trauma_outcomes": trauma_outcomes, "trauma_factors": trauma_factors}
 
 
 def main() -> int:

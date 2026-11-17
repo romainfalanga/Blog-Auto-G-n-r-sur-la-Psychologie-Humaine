@@ -3,7 +3,7 @@
  "interpretation": {
   "purpose": "Exploration de rapprochements, sans dépistage ni diagnostic.",
   "validated_ace_instrument": false,
-  "ranking": "Liste unique, même ordre pour la page et pour Ambre. Chaque vécu coché relié à un sujet compte selon le niveau de preuve du lien (solide, modéré, limité ; modèles cliniques et définitions comptent peu), un peu plus si vous avez répondu « Souvent », une seule fois par famille de vécus proches ; ce total est pondéré par la spécificité du sujet, moindre quand la recherche le relie à presque tous les vécus difficiles. Un sujet appuyé seulement par des preuves limitées ou des modèles ne passe jamais devant un sujet appuyé par des preuves modérées ou solides ; les sujets fréquents appuyés par des preuves modérées ou solides restent affichés à part. Les liens avec la souffrance psychique ou l’addiction d’un parent reflètent en grande partie une transmission familiale et ne sont pas renforcés par la spécificité ; les troubles graves (bipolaires, psychotiques, dissociatifs à symptômes neurologiques) ne figurent parmi les premiers sujets qu’avec des preuves solides ; un trouble de stress post-traumatique ou des symptômes dissociatifs reliés à des violences ou à la peur vécues souvent sont montrés parmi les premiers. Les sujets dans lesquels vous vous reconnaissez viennent d’abord, ceux que vous avez écartés à la fin. Ce n’est ni une probabilité ni un risque personnel ; les repères de contexte ne sont pas affichés.",
+  "ranking": "Liste unique, même ordre pour la page et pour Ambre : nombre de vécus associés décroissant, puis identifiant stable en cas d’égalité. Chaque vécu déclaré compte une fois lorsqu’un lien empirique solide, modéré ou limité est retenu ; les modèles cliniques, définitions et contextes de classification ne comptent pas. Une réponse « Souvent » ne change pas le nombre, et les sujets dans lesquels vous vous reconnaissez gardent leur place. Les sujets écartés par « Pas moi » sont repliés à la fin, dans le même ordre. Ce n’est ni une probabilité ni un risque personnel ; les repères de contexte ne sont pas affichés.",
   "convergence": "Au moins deux familles de vécus avec des associations empiriques modérées ou solides ; aucun gain de certitude individuelle.",
   "warning": "Des facteurs associés, même cumulés, ne suffisent pas à établir un trouble et ne sont pas nécessairement requis pour qu’il apparaisse."
  },
@@ -9381,7 +9381,13 @@
   }
  ],
  "ranking": {
-  "version": "v5_relevance_specificity_strength_guard_review1",
+  "version": "associated_experiences_desc",
+  "order": [
+   "associated_count_desc",
+   "id_asc"
+  ],
+  "dismissed_last": true,
+  "legacy_metadata_not_used_for_order": true,
   "questions_with_measured_link": 43,
   "points": {
    "forte": 12,

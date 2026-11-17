@@ -77,9 +77,9 @@ async function renderChat(){
 }
 function drawChatNotes(host,notes){
  var valid=(notes||[]).filter(function(note){return note&&typeof note.text==='string'&&note.text.trim()}).slice(0,3);if(!valid.length)return;
- var line=el('p','chat-noted');line.append(el('span','chat-noted-label','Noté dans votre cartographie : '));
+ var line=el('p','chat-noted');line.append(el('span','chat-noted-label','Noté dans Mon enfance : '));
  valid.forEach(function(note,index){if(index)line.append(document.createTextNode(' · '));line.append(document.createTextNode((note.label?note.label+' — ':'')+'« '+note.text+' »'))});
- var link=el('a','text-link','Voir ma cartographie');link.href='/cartographie/';line.append(document.createTextNode(' '),link);host.append(line);
+ var link=el('a','text-link','Voir Mon enfance');link.href='/cartographie/';line.append(document.createTextNode(' '),link);host.append(line);
 }
 function createChatShell(view,current){
  var data=state.chatData||{},guest=data.access&&data.access.reason==='authentication_required',surface=el('section','conversation');
@@ -258,7 +258,7 @@ function drawJourneyPanel(current){
  if(state.journeyStep==='confirm'&&journey.can_start){
   title.textContent='Voulez-vous lancer la discussion ?';
   var consent=el('label','check'),checkbox=el('input');checkbox.type='checkbox';checkbox.id='journey-consent';
-  consent.append(checkbox,document.createTextNode('J’accepte que mes messages et les informations que j’ai renseignées soient traités par OpenRouter pour l’analyse et la conversation. Ambre peut retenir des repères concrets sur les proches que j’ai déjà ajoutés et écrire de courtes notes dans ma cartographie.'));
+  consent.append(checkbox,document.createTextNode('J’accepte que mes messages et les informations que j’ai renseignées soient traités par OpenRouter pour l’analyse et la conversation. Ambre peut retenir des repères concrets sur les proches que j’ai déjà ajoutés et écrire de courtes notes dans Mon enfance.'));
   var feedback=el('p','status');feedback.setAttribute('role','status');
   var yes=actionButton('Oui, lancer',async function(){
    yes.disabled=true;no.disabled=true;feedback.textContent='Lancement…';feedback.className='status';
@@ -279,10 +279,10 @@ function drawJourneyPanel(current){
  }
  state.journeyStep=null;title.textContent='Avant de commencer avec Ambre';
  var sources=journey.sources||{},list=el('ul','journey-sources');
- list.append(journeySourceItem('Ma cartographie','/cartographie/',sources.cartography,journeyCount(sources.cartography&&sources.cartography.count,'élément coché','éléments cochés')),journeySourceItem('Mon portrait','/mon-portrait/',sources.portrait,''),journeySourceItem('Mes proches','/mes-proches/',sources.people,journeyCount(sources.people&&sources.people.count,'proche','proches')),journeySourceItem('Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')));
+ list.append(journeySourceItem('Mon enfance','/cartographie/',sources.cartography,journeyCount(sources.cartography&&sources.cartography.count,'élément coché','éléments cochés')),journeySourceItem('Mon portrait','/mon-portrait/',sources.portrait,''),journeySourceItem('Mes proches','/mes-proches/',sources.people,journeyCount(sources.people&&sources.people.count,'proche','proches')),journeySourceItem('Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')));
  var start=actionButton('Lancer la discussion avec Ambre',function(){state.journeyError=null;state.journeyStep='confirm';drawJourneyPanel(current)});start.id='journey-start';start.disabled=!journey.can_start;
  var hint=el('p','helper',journey.can_start?'Plus vous renseignez de sources, plus l’analyse est précise. Vous pourrez les compléter ensuite et demander un nouveau point.':'Renseignez au moins une de ces sources pour lancer la discussion.');hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
- var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné : votre cartographie, votre portrait, vos proches et votre ligne de vie. La conversation se poursuit ensuite autour de ce que vous voulez comprendre et de ce que vous voulez changer.'),el('p','muted','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'),list,hint];
+ var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné : vos réponses dans Mon enfance, votre portrait, vos proches et votre ligne de vie. La conversation se poursuit ensuite autour de ce que vous voulez comprendre et de ce que vous voulez changer.'),el('p','muted','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'),list,hint];
  if(state.journeyError){var error=el('p','status error',state.journeyError);error.setAttribute('role','alert');nodes.push(error)}
  nodes.push(start);showJourneyPanel(dialog,'intro',nodes);
 }
@@ -330,7 +330,7 @@ async function renderReviews(){
 function drawReviewPage(list,result,current){
  var reviews=result.reviews||[];
  if(!reviews.length&&!list.children.length){
-  var empty=el('div','workspace-empty');empty.append(el('h2','','Aucun bilan pour le moment'),el('p','','Les bilans sont rédigés par Ambre. Le premier, l’analyse initiale, est écrit au lancement de la discussion à partir de votre cartographie, de votre portrait, de vos proches et de votre ligne de vie. Ensuite, un nouveau point s’ajoute chaque fois que vous le demandez avec « Faire le point » dans la conversation.'));
+  var empty=el('div','workspace-empty');empty.append(el('h2','','Aucun bilan pour le moment'),el('p','','Les bilans sont rédigés par Ambre. Le premier, l’analyse initiale, est écrit au lancement de la discussion à partir de vos réponses dans Mon enfance, de votre portrait, de vos proches et de votre ligne de vie. Ensuite, un nouveau point s’ajoute chaque fois que vous le demandez avec « Faire le point » dans la conversation.'));
   var link=el('a','text-link','Ouvrir la conversation avec Ambre');link.href='/mon-accompagnement/';empty.append(link);list.append(empty);return;
  }
  reviews.forEach(function(review){list.append(drawReviewItem(review,current))});

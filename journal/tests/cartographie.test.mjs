@@ -85,14 +85,14 @@ test('the summary lists causes, convergences, leads and the person’s feedback;
  assert.equal(s.cause_count,3);assert.equal(s.ace_count,1);
  assert.deepEqual(s.causes,[{id:'a',label:'A',intensity:2},{id:'b',label:'B',intensity:1},{id:'c',label:'C',intensity:1}]);
  assert.deepEqual(s.convergence.map(x=>x.id),['conv']);
- assert.deepEqual(s.convergence[0],{id:'conv',label:'Convergente',kind:'trouble',code:'6B40',tier:'convergence',causes:['A','B'],max_strength:'forte',relation_types:['empirical_association'],evidence_groups:2,url:'/posts/x/y/'});
+ assert.deepEqual(s.convergence[0],{id:'conv',label:'Convergente',kind:'trouble',associated_count:2,code:'6B40',tier:'convergence',causes:['A','B'],max_strength:'forte',relation_types:['empirical_association'],evidence_groups:2,url:'/posts/x/y/'});
  assert.ok(s.pistes.some(x=>x.id==='def'),'a definitional link alone leaves a lead');
  assert.equal(s.pistes.find(x=>x.id==='solo').feedback,'oui');
  assert.equal(s.theorique_count,1);
- assert.deepEqual(s.dismissed,[{id:'theo',label:'Théorique',tier:'theorique'}]);
+ assert.deepEqual(s.dismissed,[{id:'theo',label:'Théorique',tier:'theorique',associated_count:0}]);
  assert.equal(s.suicide_recognized,true);
  const highlights=cartographyHighlights(s).map(x=>x.id);
- assert.equal(highlights[0],'solo');assert.ok(!highlights.includes('sui'));assert.ok(!highlights.includes('theo'));
+ assert.deepEqual(highlights,['conv','def','solo']);assert.ok(!highlights.includes('sui'));assert.ok(!highlights.includes('theo'));
 });
 
 test('only a locked map saved with consent reaches Ambre',()=>{

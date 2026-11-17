@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import vm from 'node:vm';
 import { readFileSync } from 'node:fs';
 import { HTML } from '../src/ui.mjs';
+import { SETTINGS_INTERFACE_SCRIPT } from '../src/settings-interface.mjs';
 
 const script = HTML.match(/<script>([\s\S]*?)<\/script>/)[1];
 function functionCode(name) {
@@ -138,13 +139,13 @@ test('a late source-save response cannot replace another editor opened in the sa
   assert.equal(env.ctx.state.sourceDrafts.get('people').id,'other-person');assert.equal(env.doc.getElementById('people-form').elements.relationship_text.value,'Autre brouillon');
 });
 
-test('V3 separates relationship and life pages from the declared and interpreted portrait',()=>{
+test('personal pages keep the declared portrait without a synthesis subpage',()=>{
   const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('pageForPath'),env.ctx);
   assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-accompagnement/'),'chat');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
-  assert.doesNotMatch(HTML,/À propos de moi/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="self">Mon portrait/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="synthesis">Ambre</);
-  assert.match(HTML,/\.portrait-tabs \{[^}]*grid-template-columns: repeat\(2,minmax\(0,1fr\)\)/);
+  assert.doesNotMatch(HTML,/À propos de moi/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab|portrait-synthesis|portrait-body/);
+  assert.doesNotMatch(HTML,/\.portrait-tabs/);
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
 
@@ -308,7 +309,7 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,7);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,6);assert.deepEqual(links.slice(0,3).map(link=>link.label),['Ambre','Mon portrait','Mon enfance']);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
@@ -401,20 +402,17 @@ test('V5 blocked sends retain editable draft, history and proposals for all acce
   }
 });
 
-test('portrait panes preserve deep links and drafts while redirecting the former map pane',async()=>{
- for(const [hash,key] of [['#ma-cartographie','synthesis'],['#cartographie','synthesis'],['#mon-portrait','synthesis'],['#synthese','synthesis'],['#self-profile','self'],['#mes-articles','readings'],['#suggestions','readings'],['#correction-form','synthesis'],['','synthesis']]){
-  const location={hash,pathname:'/mon-portrait/',search:'?article=old'};const env=environment({location,history:{replaceState(a,b,url){location.hash=url.includes('#')?url.slice(url.indexOf('#')):''}}});
-  env.ctx.state.pendingArticle=hash?'old':null;const view=env.host('view'),panes=['synthesis','self','readings'].map(key=>{const e=env.doc.createElement('section');e.dataset.portraitPane=key;view.append(e);return e}),tabs=['synthesis','self','readings'].map((key,i)=>{const e=env.doc.createElement('a');e.dataset.portraitTab=key;e.getAttribute=()=>['#mon-portrait','#self-profile','#mes-articles'][i];view.append(e);return e});
-  const form=env.doc.createElement('form');panes[1].append(form);
-  view.querySelectorAll=selector=>selector==='[data-portrait-pane]'?panes:tabs;
+test('removed portrait subpage links lead to the single portrait while reading links survive',()=>{
+ for(const hash of ['#ma-cartographie','#cartographie','#mon-portrait','#synthese','#correction-form','#self-profile','#mes-articles','#suggestions','']){
+  const location={hash,pathname:'/mon-portrait/',search:'?article=old'};const historyCalls=[];
+  const env=environment({location,history:{replaceState(a,b,url){historyCalls.push(url);location.hash=url.includes('#')?url.slice(url.indexOf('#')):''}}});
+  const view=env.host('view'),form=env.doc.createElement('form');view.append(form);
   vm.runInContext(functionCode('setupPortraitViews'),env.ctx);env.ctx.setupPortraitViews(view);
-  assert.equal(panes.find(p=>!p.hidden).dataset.portraitPane,key);
-  if(['#ma-cartographie','#cartographie'].includes(hash))assert.equal(location.hash,'#mon-portrait');
-  await tabs[1].fire('click');assert.equal(panes[1].hidden,false);assert.equal(panes[1].children[0],form);
-  await tabs[2].fire('click');assert.equal(panes[2].hidden,false);assert.equal(panes[1].children[0],form);
+  const obsolete=['#ma-cartographie','#cartographie','#mon-portrait','#synthese','#correction-form'].includes(hash);
+  assert.equal(location.hash,obsolete?'#self-profile':hash);assert.equal(historyCalls.length,obsolete?1:0);assert.equal(view.children[0],form);
+  if(obsolete)assert.equal(historyCalls[0],'/mon-portrait/?article=old#self-profile');
  }
 });
-
 
 test('an immediate completed chat turn reconciles its optimistic bubble and enables the existing composer',async()=>{
  const env=chatFixture({api:async(path,method,payload)=>({consent:true,access:{allowed:true},quota:{remaining:99,limit:100},request_id:'turn',last_request:{id:'turn',status:'completed'},messages:[{id:'turn-user',client_key:payload.idempotency_key,role:'user',content:payload.content,status:'completed'},{id:'turn-assistant',role:'assistant',content:'Réponse complète.'}],proposals:[]})});
@@ -558,7 +556,7 @@ test('assistant messages render no reading suggestion; notes written on the map 
   {id:'t4-assistant',role:'assistant',content:'Un point.',review_id:'r2',review_kind:'point'}],proposals:[]};
  env.ctx.drawChat(env.view,()=>true);const messages=env.view.querySelector('.chat-thread').children;
  assert.equal(env.view.querySelector('.chat-readings'),null);assert.doesNotMatch(env.view.textContent,/Une lecture|Nina|Pour prolonger/);
- const noted=messages[0].querySelector('.chat-noted');assert.match(noted.textContent,/^Noté dans votre cartographie : Cris à la maison — « Vous dites que votre père criait souvent\. » · « Vous voulez oser dire non\. »/);
+ const noted=messages[0].querySelector('.chat-noted');assert.match(noted.textContent,/^Noté dans Mon enfance : Cris à la maison — « Vous dites que votre père criait souvent\. » · « Vous voulez oser dire non\. »/);
  assert.equal(noted.querySelector('a').href,'/cartographie/');assert.equal(messages[1].querySelector('.chat-noted'),null);
  assert.equal(messages[2].querySelector('h3').textContent,'Ambre · Analyse initiale');assert.equal(messages[3].querySelector('h3').textContent,'Ambre · Point d’étape');
  assert.equal(messages[2].querySelector('.chat-review-link').href,'/mes-bilans/');assert.equal(messages[0].querySelector('.chat-review-link'),null);
@@ -577,7 +575,7 @@ test('the welcome panel lists the four sources, confirms with an explicit agreem
  const dialog=env.doc.getElementById('journey-panel');
  assert.equal(dialog.hidden,false);assert.equal(dialog.dataset.step,'intro');assert.equal(dialog.attributes['aria-labelledby'],'journey-title');
  assert.equal(dialog.querySelector('h2').textContent,'Avant de commencer avec Ambre');assert.equal(env.doc.activeElement,dialog.querySelector('h2'));
- assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné : votre cartographie, votre portrait, vos proches et votre ligne de vie/);
+ assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné : vos réponses dans Mon enfance, votre portrait, vos proches et votre ligne de vie/);
  let items=dialog.querySelectorAll('.journey-source');assert.equal(items.length,4);
  assert.deepEqual(items.map(i=>i.querySelector('a').href),['/cartographie/','/mon-portrait/','/mes-proches/','/ma-ligne-de-vie/']);
  assert.ok(items.every(i=>i.querySelector('.journey-source-state').textContent==='À compléter'));
@@ -727,11 +725,13 @@ test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · assistante psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
 });
 
-test('the portrait menu has only presentation and synthesis, with existing article links preserved',async()=>{
- const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){},renderLikes(){},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});env.ctx.state.tab='portrait';env.host('view');env.host('portrait-body');for(const name of ['renderPortrait','refreshPortraitData'])vm.runInContext(functionCode(name),env.ctx);await env.ctx.renderPortrait();assert.deepEqual(calls,['/api/portrait']);
- const view=env.doc.getElementById('view'),labels=[...view.innerHTML.matchAll(/data-portrait-tab="[^"]+">([^<]+)/g)].map(match=>match[1]);
- assert.deepEqual(labels,['Mon portrait','Ambre']);assert.doesNotMatch(view.innerHTML,/ambre-hint|Ma cartographie|role="note"/);assert.equal(env.doc.getElementById('ma-cartographie'),null);assert.doesNotMatch(functionCode('applyPortraitData'),/drawPsychologyMap/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|function loadPortraitCorrection/);
- assert.ok(view.innerHTML.indexOf('id="portrait-body"')<view.innerHTML.indexOf('id="portrait-status"'));
+test('the single portrait renders its form and readings without requesting a removed synthesis',async()=>{
+ const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){calls.push('self')},renderLikes(){calls.push('readings')},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});
+ env.ctx.state.tab='portrait';env.host('view');for(const name of ['renderPortrait','refreshPortraitData'])vm.runInContext(functionCode(name),env.ctx);
+ await env.ctx.renderPortrait();assert.deepEqual(calls,['self','readings']);
+ const view=env.doc.getElementById('view');assert.equal(env.doc.getElementById('self-profile').hidden,false);assert.ok(env.doc.getElementById('mes-articles'));
+ assert.equal(env.doc.getElementById('portrait-body'),null);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab|portrait-synthesis/);
+ await env.ctx.refreshPortraitData();assert.deepEqual(calls,['self','readings']);
 });
 
 test('portrait transport failures leave useful options and a retry, while a failed synthesis keeps its provisional reading',async()=>{
@@ -1022,4 +1022,14 @@ test('A5-P2 Settings translates optional context and separates pending proposals
  const {SETTINGS_INTERFACE_SCRIPT}=await import('../src/settings-interface.mjs'),calls=[],env=environment({api:async path=>{calls.push(path);return path==='/api/people'?{people:[{id:'p1',display_name:'Camille'}]}:{available:true,proposals:[{status:'pending',payload:{axis:'appuis',quote:'Une présence à vérifier.'}}],observations:[{origin:'accepted',axis:'communication',quote:'Une parole déjà validée.'},{origin:'auto',quote:'Un ancien repère.'}]}}});
  vm.runInContext(SETTINGS_INTERFACE_SCRIPT.slice(0,SETTINGS_INTERFACE_SCRIPT.indexOf('async function renderSettings(')),env.ctx);const info=env.ctx.settingsValue({bond_quality:'ambivalent',feels_safe:'not_always',exposure:'witnessed',what_brings_me:'Comprendre',life_rhythm:'Le matin'});assert.match(info.textContent,/Qualité du lienambivalent/);assert.match(info.textContent,/pas toujours/);assert.match(info.textContent,/j’en ai été témoin/);assert.doesNotMatch(info.textContent,/what_brings_me|life_rhythm|not_always/);
  const box=env.ctx.settingsObservationRecords(()=>true);assert.equal(calls.length,0);box.open=true;await box.fire('toggle');const person=box.querySelectorAll('details').find(node=>node.querySelector('summary').textContent==='Camille');person.open=true;await person.fire('toggle');assert.deepEqual(calls,['/api/people','/api/people/p1/observations']);assert.match(person.textContent,/Propositions à vérifier/);assert.match(person.textContent,/Repères enregistrés/);assert.match(person.textContent,/Validé par vous/);assert.match(person.textContent,/Ancien repère automatique/);assert.match(person.textContent,/À vérifier/);
+});
+
+
+test('Settings hides research bibliographies in rendered values and JSON without changing private evidence or stored data',()=>{
+ const env=environment();vm.runInContext(SETTINGS_INTERFACE_SCRIPT.slice(0,SETTINGS_INTERFACE_SCRIPT.indexOf('async function renderSettings(')),env.ctx);
+ const original={label:'Mon enfance',evidence_source:{id:'afifi2017',citation:'Citation scientifique',url:'https://pubmed.ncbi.nlm.nih.gov/28126359/'},evidence_sources:[{id:'afifi2017',citation:'Citation scientifique'}],evidence:[{source_ids:['afifi2017'],summary:'Une association prudente.'}],sources:[{id:'afifi2017',citation:'Citation scientifique',url:'https://pubmed.ncbi.nlm.nih.gov/28126359/'},{id:'person:p1',content:'Mes propres mots',source_quote:'Un souvenir précis.'}],source_ids:['afifi2017','person:p1'],reference_ids:['S01'],content:JSON.stringify({evidence_sources:[{id:'afifi2017',citation:'Citation scientifique'}],source_id:'person:p1',quote:'Ma citation personnelle'})};
+ original.trace={messages:[{role:'user',content:'Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify({evidence_sources:[{id:'afifi2017',citation:'Citation scientifique',url:'https://pubmed.ncbi.nlm.nih.gov/28126359/'}],quote:'Mes mots dans la trace'})}]};
+ const before=JSON.stringify(original),view=env.ctx.settingsValue(original),jsonView=env.ctx.settingsJSON('Données',original);
+ for(const node of [view,jsonView]){assert.doesNotMatch(node.textContent,/afifi2017|pubmed|Citation scientifique|S01/);assert.match(node.textContent,/person:p1/);assert.match(node.textContent,/Mes propres mots/);assert.match(node.textContent,/Ma citation personnelle/);assert.match(node.textContent,/Une association prudente/);assert.match(node.textContent,/Contexte privé enregistré/);assert.match(node.textContent,/Mes mots dans la trace/)}
+ assert.equal(JSON.stringify(original),before);
 });

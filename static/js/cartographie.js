@@ -7,9 +7,9 @@
 
   var STRONG = { forte: true, moderee: true };
   // Only empirical associations (strong, moderate or limited) count as an associated
-  // experience. Clinical models, definitions and classification contexts weigh little.
+  // experience. Clinical models, definitions and classification contexts do not add to this count.
   var ASSOCIATED = { forte: true, moderee: true, limitee: true };
-  // v5 ranking (variant L with strength guard). Defaults mirror data.ranking.
+  // Legacy evidence metadata remains available; it does not determine display order.
   var POINTS = { forte: 12, moderee: 8, limitee: 4 };
   var OTHER_POINTS = 1;
   var INTENSITY = { 1: 2, 2: 3 };
@@ -32,15 +32,10 @@
   function isEmpirical(l) { return !l.definitional && relation(l) === 'empirical_association'; }
   function measured(l) { return isEmpirical(l) && POINTS[l.strength] > 0; }
   function binary(a, b) { return a < b ? -1 : a > b ? 1 : 0; }
-  // Relevance order: subjects with a measured association first; strength guard: a
-  // subject whose best measured link is limited never precedes a subject with a moderate
-  // or strong link; then relevance, evidence families, strongest link, identifier
-  // (binary order, no locale).
-  // A subject whose measured links all come from a parent's illness or addiction
-  // (familial transmission) is treated as limited by the guard (clinical counter-review).
-  function evidenceClass(r) { return r.max_points > POINTS.limitee && !r.familial ? 0 : 1; }
+  // The number of distinct measured experiences is the only ranking criterion.
+  // Equal counts use the identifier, independently of intensity and feedback.
   function compareRank(a, b) {
-    return Number(b.has_empirical) - Number(a.has_empirical) || evidenceClass(a) - evidenceClass(b) || b.relevance - a.relevance || b.evidence_families - a.evidence_families || b.max_points - a.max_points || binary(a.outcome.id, b.outcome.id);
+    return b.associated_count - a.associated_count || binary(a.outcome.id, b.outcome.id);
   }
   // Specificity is capped at 1 (1000) for serious disorders and for links that
   // largely reflect familial transmission (independent clinical review, lot C5a).
@@ -101,15 +96,13 @@
       };
     });
     rows.sort(compareRank);
-    // The five first: trauma subjects first chosen, then in rank order; a serious
-    // disorder needs a strong link. Kept in rank order inside the section.
-    var open = rows.filter(function (r) { return !feedback[r.outcome.id]; });
-    var picked = open.filter(function (r) { return r.trauma_first; }).slice(0, top);
-    open.forEach(function (r) { if (picked.length < top && picked.indexOf(r) === -1 && !(r.serious && r.max_points < POINTS.forte)) picked.push(r); });
+    // Keep the section keys for existing consumers; the UI shows top + other as
+    // one list. Recognition never changes rank; only dismissed subjects are folded.
+    var picked = rows.filter(function (r) { return feedback[r.outcome.id] !== 'non'; }).slice(0, top);
     var sections = { recognized: [], top: [], frequent: [], other: [], dismissed: [] };
     rows.forEach(function (r) {
       var fb = feedback[r.outcome.id];
-      r.section = fb === 'oui' ? 'recognized' : fb === 'non' ? 'dismissed' : picked.indexOf(r) !== -1 ? 'top' : r.frequent && r.max_points >= POINTS.moderee ? 'frequent' : 'other';
+      r.section = fb === 'non' ? 'dismissed' : picked.indexOf(r) !== -1 ? 'top' : 'other';
       sections[r.section].push(r);
     });
     var results = [];

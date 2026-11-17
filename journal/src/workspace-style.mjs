@@ -44,35 +44,6 @@ button.text.danger { color: var(--error); }
 button.text:hover { background: transparent; }
 input,textarea,select { border-color: var(--line); }
 .notice { background: var(--accent-wash); border-color: var(--accent); border-radius: 0 8px 8px 0; }
-
-.portrait-tabs {
-  display: grid;
-  grid-template-columns: repeat(2,minmax(0,1fr));
-  gap: 5px;
-  margin: 0 auto 16px;
-  padding: 4px;
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  background: #eaf0f3;
-}
-.portrait-tabs a {
-  display: grid;
-  place-items: center;
-  min-height: 44px;
-  padding: 8px;
-  border-radius: 8px;
-  color: var(--muted);
-  font-size: .875rem;
-  font-weight: 600;
-  text-align: center;
-  text-decoration: none;
-}
-.portrait-tabs a[aria-current="page"] {
-  background: var(--paper);
-  color: var(--accent);
-  box-shadow: 0 1px 3px #172d3c17;
-}
-.portrait-tabs a:hover { color: var(--accent); }
 .portrait-state {
   display: flex;
   flex-wrap: wrap;
@@ -352,8 +323,6 @@ button.self-text-edit { flex: none; padding: 8px 14px; font-size: .875rem; }
   .shell { padding-inline: 15px; }
   .app-head { margin-block: 28px 19px; }
   .page-description { font-size: .875rem; margin-top: 9px; }
-  .portrait-tabs { grid-template-columns: repeat(2,minmax(0,1fr)); }
-  .portrait-tabs a { padding: 7px 5px; font-size: .8125rem; }
   .people-directory,.account-panel { grid-template-columns: minmax(0,1fr); }
   .account-row:nth-child(2) { grid-row: auto; }
   .account-row .row { flex-wrap: wrap; gap: 5px; }
