@@ -28,4 +28,11 @@ Les anciens liens d'onglets du portrait reviennent au champ unique. Le lien « M
 
 ## Livraison
 
-Publication et recette distante à consigner après vérification réelle. Les sorties locales et captures sont sous `work/chargement-pages/`, `work/cartographie-chargement/` et `work/cartographie-choix/` ; aucun identifiant de compte ni secret n'est versionné.
+- PR [95](https://github.com/romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/pull/95), source `987c9f2ecdbb8dc057ff003cbc45759aeb4614d8`, fusion `4e2ab45a2e5e73f979b662833276d4d3f4ae01c3`, arbre `e4ce506a054a761e925c4613e4c292a770629983`.
+- CI `44117038532` réussie ; relecture indépendante favorable (99 UI, 18 personnels, 27 cartographie et complément déconnexion/retour).
+- Worker `a1d26191d90a4cda920233278861bc5b`, 17 novembre à 16:41:11 Paris : 44 modules transférés puis relus SHA-256, zéro différence, 7 liaisons et cron conservés, aucun changement de schéma.
+- Netlify `6afc75f61cb72d01449c6e84`, `ready`, même commit de fusion, publié le 17 novembre à 16:43:23 Paris.
+
+Recette distante terminée : 16 parcours (les quatre pages à 320/390/768/1440 px), 32 captures, délais réels de session et de données contrôlés, sauvegarde/rechargement de présentation et historique préservé. Séparateurs, réponse inconnue et ancienne réponse à `controle` vérifiés. Aucune erreur JavaScript, console ou interception et aucun appel de génération.
+
+Le premier essai a été interrompu par une erreur de l'interception réseau du test (retrait d'un gestionnaire avant la poursuite de sa requête), sans défaut applicatif établi. Le compte a été supprimé avant la relance avec un gestionnaire stable. Le second parcours complet a réussi. Les deux comptes synthétiques ont été supprimés (API 200 et session vide), les fichiers d'identifiants effacés ; contrôle D1 sur 43 tables : zéro ligne résiduelle, aucune violation de clé étrangère et 24 migrations inchangées. Les sorties locales et captures sont sous `work/chargement-pages/`, `work/cartographie-chargement/` et `work/cartographie-choix/` ; aucun identifiant de compte ni secret n'est versionné.
