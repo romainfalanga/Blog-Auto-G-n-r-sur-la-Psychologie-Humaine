@@ -1,0 +1,405 @@
+diff --git a/journal/migrations/0024_person_moment_fields.sql b/journal/migrations/0024_person_moment_fields.sql
+new file mode 100644
+index 0000000..32271c4
+--- /dev/null
++++ b/journal/migrations/0024_person_moment_fields.sql
+@@ -0,0 +1,26 @@
++-- Lot A5-P2 (plan v5.1): optional form fields for people and moments, and the origin of a note on
++-- a person (an observation Ambre proposed and the person accepted, or corrected, before it was saved).
++-- Additive only: columns with constant defaults, no table rewritten, no row changed or deleted.
++-- ALTER TABLE cannot be guarded in SQLite: applied once through `wrangler d1 migrations apply`.
++-- The Worker probes these columns and keeps the previous forms and notes until they exist.
++-- Every value is optional: '' means "not given". Closed lists are stored as codes, shown in words.
++-- People (genogram emotional lines, convoy model): the quality of the bond with a nuance in the
++--   person's words, presence today, what helps, what hurts, how the bond changed, feeling safe.
++ALTER TABLE personal_people ADD COLUMN bond_quality TEXT NOT NULL DEFAULT '' CHECK(bond_quality IN ('','close','distant','conflictual','cut_off','fusional','supportive','ambivalent','unsure'));
++ALTER TABLE personal_people ADD COLUMN bond_note TEXT NOT NULL DEFAULT '' CHECK(length(bond_note)<=300);
++ALTER TABLE personal_people ADD COLUMN presence_now TEXT NOT NULL DEFAULT '' CHECK(presence_now IN ('','daily','regular','rare','no_contact','deceased'));
++ALTER TABLE personal_people ADD COLUMN helps TEXT NOT NULL DEFAULT '' CHECK(length(helps)<=600);
++ALTER TABLE personal_people ADD COLUMN hurts TEXT NOT NULL DEFAULT '' CHECK(length(hurts)<=600);
++ALTER TABLE personal_people ADD COLUMN evolution TEXT NOT NULL DEFAULT '' CHECK(length(evolution)<=600);
++ALTER TABLE personal_people ADD COLUMN feels_safe TEXT NOT NULL DEFAULT '' CHECK(feels_safe IN ('','yes','not_always','no'));
++-- Moments (NIMH life chart, life story interview, LEC-5 exposure without any detail requested):
++--   feeling then, feeling now, impact, support received (level and who or how), exposure.
++ALTER TABLE life_events ADD COLUMN felt_then TEXT NOT NULL DEFAULT '' CHECK(length(felt_then)<=600);
++ALTER TABLE life_events ADD COLUMN felt_now TEXT NOT NULL DEFAULT '' CHECK(length(felt_now)<=600);
++ALTER TABLE life_events ADD COLUMN impact TEXT NOT NULL DEFAULT '' CHECK(length(impact)<=600);
++ALTER TABLE life_events ADD COLUMN support_level TEXT NOT NULL DEFAULT '' CHECK(support_level IN ('','none','some','much'));
++ALTER TABLE life_events ADD COLUMN support_text TEXT NOT NULL DEFAULT '' CHECK(length(support_text)<=300);
++ALTER TABLE life_events ADD COLUMN exposure TEXT NOT NULL DEFAULT '' CHECK(exposure IN ('','happened_to_me','witnessed','learned'));
++-- Notes on people: 'auto' for the closed-vocabulary capture (lot S), 'accepted' for a proposal
++-- the person accepted or corrected (observation H). Existing notes are automatic.
++ALTER TABLE people_observations ADD COLUMN origin TEXT NOT NULL DEFAULT 'auto' CHECK(origin IN ('auto','accepted'));
+diff --git a/journal/src/ambre-engine.mjs b/journal/src/ambre-engine.mjs
+index dcae0e5..e4c8d64 100644
+--- a/journal/src/ambre-engine.mjs
++++ b/journal/src/ambre-engine.mjs
+@@ -10,6 +10,7 @@ import {approximateQuote,locateQuote,similarQuotes,sentenceAround,foldWithMap} f
+ import {clinicalSignals,mergeSignals,compactSignals,signalGuidance,referralFallback,blockingReview,signalReview,missingReferral,asksAdvice,realitySignal,VERIFIED_NUMBERS} from './clinical-signals.mjs';
+ import {responseSentences,conversationExcerpt} from './chat-text.mjs';
+ import {peopleObservationContext,peopleObservationRevision} from './people-observations.mjs';
++import {PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,personLabelSuffix,eventLabelSuffix,unsafeRelation} from './context-fields.mjs';
+ import {readChangeState,changeGuard,changeArtifactStatements,clearChangeMemoryState,dueChangeTrial} from './change-plan.mjs';
+ import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,refusalError,reserveDaily,releaseDaily,dailyCapError,countMetric,countMetrics,DAILY_CAP_CODE as DAILY_CAP} from './provider-access.mjs';
+ // A turn waits for a provider cooldown at most this long after it was queued.
+@@ -152,7 +153,10 @@ export function deterministicAnalysis(message,memory={}){
+  return {need:listen?'listen':advice?'advice':'understand',states,risk,posture:risk!=='none'?'safety':rupture?'repair':distress?'stabilize':listen?'listen':advice?'options':'explore',sensitive_allowed:false,constraints:[...(listen?['no_advice']:[]),...(noQuestions&&risk==='none'?['no_questions']:[]),...(distress||closed.length?['no_exploration',...(risk==='none'?['no_questions']:[])]:[]),...((memory.closed||[]).length?['respect_closed_topics']:[]),...(memory.closed_omitted||memory.closed_overflow?['no_exploration',...(risk==='none'?['no_questions']:[])]:[])],selected_ids:[],closed_topics:closed,...(hint?{risk_hint:true}:{}),...(signal?{safety_signal:signal.signal}:{})};
+ }
+ // Lot A5-P0: readable French labels and headers for the excerpts read by the writer.
+-export const PROFILE_RUBRICS=[['self_description','Ma présentation'],['self_perception','Comment je me perçois'],['recurring_patterns','Les schémas que je remarque'],['emotions','Les émotions présentes'],['current_context','Mon contexte actuel'],['occupation','Activité']];
++// Lot A5-P2: three optional rubrics of the portrait page (self_data, no migration).
++export const PROFILE_RUBRICS=[['self_description','Ma présentation'],['self_perception','Comment je me perçois'],['recurring_patterns','Les schémas que je remarque'],['emotions','Les émotions présentes'],['current_context','Mon contexte actuel'],['occupation','Activité'],['what_brings_me','Ce qui m’amène'],['what_helps_me','Ce qui m’aide'],['life_rhythm','Mon rythme de vie']];
++// The analysis always sees these rubrics first (six rows at most), then the synthesis (four rows).
++const PINNED_RUBRICS=['self_description','what_brings_me','current_context','emotions','recurring_patterns','self_perception','what_helps_me','life_rhythm','occupation'];
+ const ROLE_LABELS={father:'Père',mother:'Mère',parent:'Parent',partner:'Partenaire',child:'Enfant',sibling:'Frère ou sœur',friend:'Ami ou amie',best_friend:'Meilleur ami ou meilleure amie',other:'Autre'};
+ const EVENT_KINDS={difficult:'difficile',positive:'positif',turning_point:'tournant',ambivalent:'ambivalent',other:'autre'};
+ const confidenceWords=value=>typeof value!=='number'?null:value>=.75?'piste plus présente':value>=.45?'piste à confirmer':'piste fragile';
+@@ -179,13 +183,17 @@ export function knowledgeIndex(context){
+  const names=new Map((context.people||[]).map(p=>[p.id,p.display_name]));
+  for(const p of (context.people||[]).slice(0,50)){
+   const meta={role:p.role,custom_role:p.custom_role,period_start:p.period_start,period_end:p.period_end},role=p.custom_role||ROLE_LABELS[p.role]||p.role,period=[p.period_start,p.period_end].filter(Boolean).join(' – ');
+-  add('person:'+p.id,'person',p.display_name+' — '+role,{...meta,display_name:p.display_name,relationship_text:p.relationship_text},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:''].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text}]});
++  // Lot A5-P2: the quality of the bond and the presence in the label; bond, presence and safety in
++  // the header; what helps, hurts and how the bond changed as parts of the detail.
++  const suffix=personLabelSuffix(p),extra=Object.fromEntries(PERSON_PARTS.filter(([k])=>String(p[k]||'').trim()).map(([k])=>[k,p[k]]));
++  add('person:'+p.id,'person',p.display_name+' — '+role+(suffix?' · '+suffix:''),{...meta,display_name:p.display_name,relationship_text:p.relationship_text,...(personFacts(p).length?{facts:personFacts(p)}:{}),...extra},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:'',...personFacts(p)].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text},...PERSON_PARTS.map(([k,name])=>({name,text:String(p[k]||'')}))]});
+  }
+  for(const e of (context.events||[]).slice(0,500)){
+   const people=(e.people_ids||[]).map(id=>names.get(id)).filter(Boolean),age=Number.isInteger(e.age_at_event)?(e.age_at_event_approx?'vers ':'')+e.age_at_event+' ans':e.age_text||null;
+   const meta={kind:e.kind,date_precision:e.date_precision,date_start:e.date_start,date_end:e.date_end,age_text:e.age_text,people_ids:e.people_ids,...(people.length?{people}:{}),...(Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event}:{}),...(e.current_importance!=null?{current_importance:e.current_importance}:{})};
+   const when=[e.date_start,e.date_end].filter(Boolean).join(' – ');
+-  add('event:'+e.id,'event',e.title,{...meta,description:e.description,meaning_now:e.meaning_now},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):''].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now}]});
++  const suffix=eventLabelSuffix(e),extra=Object.fromEntries(EVENT_PARTS.filter(([k])=>String(e[k]||'').trim()).map(([k])=>[k,e[k]]));
++  add('event:'+e.id,'event',e.title+(suffix?' · '+suffix:''),{...meta,description:e.description,meaning_now:e.meaning_now,...(eventFacts(e).length?{facts:eventFacts(e)}:{}),...extra},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):'',...eventFacts(e)].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now},...EVENT_PARTS.map(([k,name])=>({name,text:String(e[k]||'')}))]});
+  }
+  for(const source of (context.sources||[]).filter(source=>source.type!=='like').slice(0,560)){
+   // C (audit v5): one entry per rubric of the self description, so that the later rubrics are reachable.
+@@ -217,7 +225,7 @@ function rankIndex(index,message){
+ export function analysisIndex(index,message,maxChars=2600){
+  // A5-P0: the rubrics of the self description and the parts of the synthesis (ten short rows at
+  // most) are always offered; lexical matches and the page order of the map follow.
+- const pinned=index.filter(x=>['profile','portrait'].includes(x.kind)).slice(0,10),ranked=rankIndex(index,message),ordered=unique([...pinned,...ranked,...index]),selected=[];
++ const rank=x=>PINNED_RUBRICS.indexOf(x.metadata?.rubric),profiles=index.filter(x=>x.kind==='profile'),kept=new Set(profiles.slice().sort((a,b)=>rank(a)-rank(b)).slice(0,6)),pinned=[...profiles.filter(x=>kept.has(x)),...index.filter(x=>x.kind==='portrait').slice(0,4)],ranked=rankIndex(index,message),ordered=unique([...pinned,...ranked,...index]),selected=[];
+  // F23: same selection as re-joining the lines for every candidate, in linear time.
+  let length=0;for(const entry of ordered){if(selected.length>=48)break;const next=length+(selected.length?1:0)+indexLines([entry]).length;if(next>maxChars)continue;selected.push(entry);length=next}
+  return {entries:selected,text:indexLines(selected),total:index.length,omitted:index.length-selected.length};
+@@ -502,7 +510,7 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
+       // Deterministic clinical signals; the model may add a signal, never remove one.
+       const previousJob=history.at(-1)?.id?await first(env,'SELECT analysis FROM chat_engine_jobs WHERE turn_id=? AND user_id=?',history.at(-1).id,job.user_id):null;
+       // Only active signals are kept: nominal turns carry an empty object.
+-      analysis.signals=compactSignals({...mergeSignals(clinicalSignals(turn.content,{identity:{age:snap.context.self_context?.age},history,plan:snap.change.state,memory}),analysis.model_signals||{}),repair_followup:parse(previousJob?.analysis).posture==='repair'});delete analysis.model_signals;if(!Object.keys(analysis.signals).length)delete analysis.signals;
++      analysis.signals=compactSignals({...mergeSignals(clinicalSignals(turn.content,{identity:{age:snap.context.self_context?.age},history,plan:snap.change.state,memory}),analysis.model_signals||{}),repair_followup:parse(previousJob?.analysis).posture==='repair',unsafe_relation:unsafeRelation(snap.context.people,turn.content)});delete analysis.model_signals;if(!Object.keys(analysis.signals).length)delete analysis.signals;
+       // F19: when the analysis is unavailable, a dedicated risk check runs before any writing.
+       if(fallback.risk==='none'&&(analysis.risk!=='none'||analysis.fallback)){
+        analysis.risk_check={status:'pending',proposed_risk:analysis.risk!=='none'?analysis.risk:'unknown',...(analysis.fallback?{reason:'analysis_unavailable'}:{})};analysis.risk='none';
+diff --git a/journal/src/chat-backend.mjs b/journal/src/chat-backend.mjs
+index 4cffe08..99d1ff7 100644
+--- a/journal/src/chat-backend.mjs
++++ b/journal/src/chat-backend.mjs
+@@ -15,6 +15,7 @@ import {buildCompanionSystemPrompt,buildReviewSystemPrompt} from './psychology-f
+ import {readCartography,companionCartography,cartographyHighlights,cartographyPromptBlock,chooseAmbreNotes,appendAmbreNotes,ambreNotesWrite,addAmbreNotes,AMBRE_NOTE_MAX_LENGTH,AMBRE_NOTES_PER_TURN} from './cartographie.mjs';
+ import {anchorQuote,quoteSupport,cartographyNoteCandidates} from './quote-guard.mjs';
+ import {ipvSignal} from './clinical-signals.mjs';
++import {PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,unsafePerson,contextFieldsReady,SELF_P2_FIELDS} from './context-fields.mjs';
+ import {declinesRetention,PEOPLE_OBSERVATION_AXES,peopleObservationContext,choosePeopleObservations,peopleObservationWrites,peopleObservationModeSql,peopleObservationRevision} from './people-observations.mjs';
+ const parse=(x,f={})=>{try{return JSON.parse(x);}catch{return f;}};
+ const kinds=['self_profile_patch','memory_append','person_create','person_update','life_event_create','life_event_update'];
+@@ -320,8 +321,11 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
+  // G (audit v5): each field of a moment keeps its beginning and its end (the meaning comes after the account).
+  function reviewSourceText(s,chars=REVIEW_SOURCE_CHARS){
+   const tail=Math.round(chars*.4);
+-  if(s.type==='event'&&s.fields){const description=excerpt(s.fields.description,Math.round(chars*.65),Math.round(tail*.65)),meaning=excerpt(s.fields.meaning_now,Math.round(chars*.35),Math.round(tail*.35));return {text:[description.text&&'Récit : '+description.text,meaning.text&&'Ce que cela signifie aujourd’hui : '+meaning.text].filter(Boolean).join('\n'),excerpt:description.excerpt||meaning.excerpt}}
+-  if(s.type==='person'&&s.fields)return excerpt(s.fields.relationship_text,chars,tail);
++  // Lot A5-P2: the feelings then and now, the impact, what helps or hurts and how a bond changed
++  // share the same excerpt size (the account keeps the largest part); nothing is added when empty.
++  const shared=(parts)=>{const given=parts.filter(([,v])=>String(v||'').trim()),weight=given.reduce((n,[, ,w])=>n+w,0)||1;const pieces=given.map(([label,value,w])=>({label,...excerpt(value,Math.round(chars*w/weight),Math.round(tail*w/weight))}));return {text:pieces.map(x=>x.label+x.text).join('\n'),excerpt:pieces.some(x=>x.excerpt)}};
++  if(s.type==='event'&&s.fields){const extra=EVENT_PARTS.map(([k,label])=>[label+' : ',s.fields[k],.15]),out=shared([['Récit : ',s.fields.description,.65],['Ce que cela signifie aujourd’hui : ',s.fields.meaning_now,.35],...extra]);if(s.fields.lived)out.text+=(out.text?'\n':'')+s.fields.lived;return out}
++  if(s.type==='person'&&s.fields){if(!PERSON_PARTS.some(([k])=>String(s.fields[k]||'').trim())&&!s.fields.bond)return excerpt(s.fields.relationship_text,chars,tail);const out=shared([['',s.fields.relationship_text,1],...PERSON_PARTS.map(([k,label])=>[label+' : ',s.fields[k],.25])]);if(s.fields.bond)out.text=s.fields.bond+(out.text?'\n'+out.text:'');return out}
+   return excerpt(s.text,chars,tail);
+  }
+  // Lot A5-P0 (audit v5, C/D/E/G): a review reads every rubric of the self description as its own
+@@ -359,9 +363,9 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
+    const compact={id:s.id,revision:s.revision,type:s.type,...excerpt(s.text,s.type==='memory'?2500:1600,s.type==='memory'?2000:0,start),explicit:s.explicit,...(s.temporal?{temporal:s.temporal}:{}),...(s.updated_at?{updated_at:s.updated_at}:{}),...(s.related_people?.length?{related_people:s.related_people}:{}),...(s.current_importance!=null?{current_importance:s.current_importance}:{})};
+    const len=JSON.stringify(compact).length;if(size+len>(review?REVIEW_SOURCES_BUDGET:10500))continue;chosen.push(compact);size+=len;
+   }
+-  const people=[...peopleById.values()].map(p=>({id:p.id,name:p.display_name.slice(0,80),role:p.role,custom_role:p.custom_role||'',period_start:p.period_start||'',period_end:p.period_end||''})).sort((a,b)=>Number(relevantPeople.has(b.id))-Number(relevantPeople.has(a.id))).slice(0,20);
++  const people=[...peopleById.values()].map(p=>({id:p.id,name:p.display_name.slice(0,80),role:p.role,custom_role:p.custom_role||'',period_start:p.period_start||'',period_end:p.period_end||'',...(review&&personFacts(p).length?{bond:personFacts(p).join(' ; ')}:{})})).sort((a,b)=>Number(relevantPeople.has(b.id))-Number(relevantPeople.has(a.id))).slice(0,20);
+   const includedPeople=new Set(people.map(person=>person.id));
+-  const events=[...eventsById.values()].map(e=>({id:e.id,title:e.title.slice(0,120),temporal:{precision:e.date_precision||'unknown',start:e.date_start||'',end:e.date_end||'',age:e.age_text||''},...(review&&Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event,...(e.age_at_event_approx?{age_approx:true}:{})}:{}),...(review&&e.current_importance!=null?{current_importance:e.current_importance}:{}),people_ids:(e.people_ids||[]).filter(id=>includedPeople.has(id)).slice(0,10),...(review&&e.people_ids?.length?{people:(e.people_ids||[]).map(id=>peopleById.get(id)?.display_name).filter(Boolean).slice(0,10)}:{})})).sort((a,b)=>Number(relatedEvents.has(b.id))-Number(relatedEvents.has(a.id))).slice(0,12);
++  const events=[...eventsById.values()].map(e=>({id:e.id,title:e.title.slice(0,120),temporal:{precision:e.date_precision||'unknown',start:e.date_start||'',end:e.date_end||'',age:e.age_text||''},...(review&&Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event,...(e.age_at_event_approx?{age_approx:true}:{})}:{}),...(review&&e.current_importance!=null?{current_importance:e.current_importance}:{}),people_ids:(e.people_ids||[]).filter(id=>includedPeople.has(id)).slice(0,10),...(review&&e.people_ids?.length?{people:(e.people_ids||[]).map(id=>peopleById.get(id)?.display_name).filter(Boolean).slice(0,10)}:{}),...(review&&eventFacts(e).length?{lived:eventFacts(e).join(' ; ')}:{})})).sort((a,b)=>Number(relatedEvents.has(b.id))-Number(relatedEvents.has(a.id))).slice(0,12);
+   const portrait=context.portrait_version===context.source_version?context.portrait:null,psychological_hypotheses=[];
+   const chosenIds=new Set(chosen.map(source=>source.id));
+   const hypothesisRelevance=h=>terms.reduce((score,term)=>score+(fold([h.pattern_id,h.observation,h.next_question].join(' ')).includes(term)?3:0),0)+(h.evidence||[]).filter(id=>chosenIds.has(id)).length;
+diff --git a/journal/src/clinical-signals.mjs b/journal/src/clinical-signals.mjs
+index 778dd56..578c0c9 100644
+--- a/journal/src/clinical-signals.mjs
++++ b/journal/src/clinical-signals.mjs
+@@ -84,6 +84,10 @@ export const SIGNAL_GUIDANCE={
+  substance:'Consommations : écoute l’ambivalence sans jugement (entretien motivationnel) ; jamais de conseil d’arrêt brutal de l’alcool, des benzodiazépines ou d’un traitement sans médecin ; propose d’en parler à un médecin.',
+  meta_ai:'Question sur ta nature ou votre relation : réponds honnêtement que tu es une IA sans sentiments ni vie propre, sans froideur, puis reviens à la personne ; jamais de déclaration d’attachement ni de promesse de présence permanente.',
+  perpetrator:'La personne dit avoir été violente : reconnais la démarche sans minimiser ni justifier ; la sécurité des autres passe d’abord ; encourage un accompagnement par un professionnel ; 17 ou 112 si quelqu’un est en danger.',
++ // Lot A5-P2: declared in Mes proches ("not safe" or "not always safe" with the person named). The
++ // posture of lot S without announcing it: no alarm, no label of violence the person did not use.
++ unsafe_relation:'Dans Mes proches, la personne a indiqué ne pas se sentir (toujours) en sécurité avec ce proche : ne le dis pas et ne qualifie pas la relation ; crois-la ; jamais de conseil de confronter, de « parler calmement » à ce proche, de menacer de partir ni de rompre en sa présence ; sa sécurité d’abord, protection seulement si elle le souhaite. Si elle évoque peur, contrôle ou violence : 17 ou 112 en danger immédiat',
++ unsafe_partner:'Dans le couple, le 3919 (gratuit, 24 h/24, pas un numéro d’urgence) peut être proposé si elle évoque peur, contrôle ou violence.',
+  declined:'La personne a refusé plusieurs propositions : reviens à l’écoute, aucune méthode ni exercice, demande ce qui lui serait utile.',
+  repair_followup:'Le tour précédent réparait une incompréhension : aucune méthode ni exercice ; si la personne ne l’a pas fait, vérifie légèrement que l’échange lui convient.'
+ };
+@@ -96,7 +100,7 @@ const IDENTITY_FIX=/\b(?:changer|corriger|guerir|soigner|reprimer|surmonter) (?:
+ const ABRUPT_STOP=/\b(?:arretez|arreter) (?:net|du jour au lendemain|d un coup|brutalement|immediatement) (?:l alcool|de boire|les benzo\w*|vos medicaments|votre traitement|les anxiolytiques)\b|\b(?:arretez|stoppez) (?:tout de suite )?(?:l alcool|de boire|les benzo\w*|votre traitement)\b/;
+ export function signalReview(content,signals={}){
+  const t=fold(content),failed=[];
+- if((signals.ipv&&signals.ipv!=='none')&&CONFRONT.test(t))failed.push(2);
++ if((signals.ipv&&signals.ipv!=='none'||signals.unsafe_relation)&&CONFRONT.test(t))failed.push(2);
+  if(signals.eating&&NUMBERS_EATING.test(t))failed.push(2);
+  if(ATTACHMENT.test(t))failed.push(15);
+  if(APPROVAL.test(t))failed.push(11);
+@@ -137,7 +141,7 @@ export function clinicalSignals(message,{identity,history=[],plan,memory={}}={})
+  signals.reality_count=Number(memory.reality_count)||0;
+  return signals;
+ }
+-export const anySignal=signals=>Boolean(signals&&(signals.ipv!=='none'||signals.reality!=='none'||signals.eating||signals.minor||signals.intrusive||signals.substance||signals.meta_ai||signals.perpetrator||signals.declined_streak>=2||signals.repair_followup));
++export const anySignal=signals=>Boolean(signals&&(signals.ipv!=='none'||signals.reality!=='none'||signals.eating||signals.minor||signals.intrusive||signals.substance||signals.meta_ai||signals.perpetrator||signals.unsafe_relation||signals.declined_streak>=2||signals.repair_followup));
+ // Merge model-proposed signals into deterministic ones: the model may add, never remove.
+ const IPV_RANK=['none','control','physical','severe'];
+ export function mergeSignals(base,model={}){
+@@ -153,6 +157,7 @@ export function signalGuidance(signals){
+  if(signals.ipv&&signals.ipv!=='none')lines.push(SIGNAL_GUIDANCE.ipv,...(signals.ipv==='severe'?[SIGNAL_GUIDANCE.ipv_severe]:[]));
+  if(signals.reality&&signals.reality!=='none')lines.push(SIGNAL_GUIDANCE.reality,...(signals.reality_count>=3?[SIGNAL_GUIDANCE.reality_repeated]:[]));
+  for(const key of ['eating','minor','intrusive','substance','meta_ai','perpetrator'])if(signals[key])lines.push(SIGNAL_GUIDANCE[key]);
++ if(signals.unsafe_relation)lines.push(SIGNAL_GUIDANCE.unsafe_relation+'.',...(signals.unsafe_relation.relation==='partner'?[SIGNAL_GUIDANCE.unsafe_partner]:[]));
+  if(signals.declined_streak>=2)lines.push(SIGNAL_GUIDANCE.declined);
+  if(signals.repair_followup)lines.push(SIGNAL_GUIDANCE.repair_followup);
+  return lines.length?'\nSignaux de ce tour :\n- '+lines.join('\n- '):'';
+diff --git a/journal/src/context-fields.mjs b/journal/src/context-fields.mjs
+new file mode 100644
+index 0000000..8c3e420
+--- /dev/null
++++ b/journal/src/context-fields.mjs
+@@ -0,0 +1,67 @@
++// Lot A5-P2 (plan v5.1): optional form fields of Mes proches, Ma ligne de vie and Mon portrait.
++// One place for their codes, limits and French words, shared by the Worker, Ambre and the pages.
++// Sources: genogram emotional lines (McGoldrick, Gerson), convoy model (Kahn, Antonucci), NIMH
++// life chart (Leverich, Post), life story interview (McAdams), LEC-5 exposure (no detail asked).
++export const BOND_QUALITY=Object.freeze({close:'proche',distant:'distant',conflictual:'conflictuel',cut_off:'coupé',fusional:'fusionnel',supportive:'soutenant',ambivalent:'ambivalent',unsure:'je ne sais pas'});
++export const PRESENCE_NOW=Object.freeze({daily:'au quotidien',regular:'régulièrement',rare:'rarement',no_contact:'plus de contact',deceased:'personne décédée'});
++export const FEELS_SAFE=Object.freeze({yes:'oui',not_always:'pas toujours',no:'non'});
++export const SUPPORT_LEVEL=Object.freeze({none:'aucun',some:'un peu',much:'beaucoup'});
++export const EXPOSURE=Object.freeze({happened_to_me:'cela m’est arrivé',witnessed:'j’en ai été témoin',learned:'je l’ai appris'});
++// Closed lists ('' = not given) and free texts with their limits.
++export const PERSON_CHOICES=Object.freeze({bond_quality:BOND_QUALITY,presence_now:PRESENCE_NOW,feels_safe:FEELS_SAFE});
++export const PERSON_TEXTS=Object.freeze({bond_note:300,helps:600,hurts:600,evolution:600});
++export const EVENT_CHOICES=Object.freeze({support_level:SUPPORT_LEVEL,exposure:EXPOSURE});
++export const EVENT_TEXTS=Object.freeze({felt_then:600,felt_now:600,impact:600,support_text:300});
++export const PERSON_P2_FIELDS=Object.freeze([...Object.keys(PERSON_CHOICES),...Object.keys(PERSON_TEXTS)]);
++export const EVENT_P2_FIELDS=Object.freeze([...Object.keys(EVENT_CHOICES),...Object.keys(EVENT_TEXTS)]);
++// Portrait (self_data, no migration): reason for coming, current resources, rhythm of life.
++export const SELF_P2_FIELDS=Object.freeze(['what_brings_me','what_helps_me','life_rhythm']);
++export const SELF_P2_MAX=2000;
++// Readable parts of a person or a moment, in the order a clinician would read them.
++export const PERSON_PARTS=Object.freeze([['helps','Ce qui m’aide dans cette relation'],['hurts','Ce qui me blesse ou me pèse'],['evolution','Comment le lien a évolué']]);
++export const EVENT_PARTS=Object.freeze([['felt_then','Ce que j’ai ressenti alors'],['felt_now','Ce que je ressens aujourd’hui en y repensant'],['impact','Ce que cela a changé pour moi']]);
++const word=(list,value)=>Object.hasOwn(list,value)?list[value]:'';
++// Short words for an index label or a header: only what was given.
++export function personFacts(p){
++ if(!p)return [];
++ const out=[];
++ const bond=word(BOND_QUALITY,p.bond_quality);if(bond||p.bond_note)out.push('Qualité du lien : '+[bond,String(p.bond_note||'').trim()].filter(Boolean).join(', '));
++ const presence=word(PRESENCE_NOW,p.presence_now);if(presence)out.push('Présence aujourd’hui : '+presence);
++ const safe=word(FEELS_SAFE,p.feels_safe);if(safe)out.push('En sécurité avec cette personne : '+safe);
++ return out;
++}
++export function eventFacts(e){
++ if(!e)return [];
++ const out=[];
++ const exposure=word(EXPOSURE,e.exposure);if(exposure)out.push('Vécu : '+exposure);
++ const support=word(SUPPORT_LEVEL,e.support_level);if(support||e.support_text)out.push('Soutien reçu : '+[support,String(e.support_text||'').trim()].filter(Boolean).join(', '));
++ return out;
++}
++// Index labels stay short (100 characters in the index line): the bond, then the presence.
++export const personLabelSuffix=p=>[word(BOND_QUALITY,p?.bond_quality),p?.presence_now==='deceased'?'décès':''].filter(Boolean).join(', ');
++export const eventLabelSuffix=e=>({witnessed:'témoin',learned:'appris'})[e?.exposure]||'';
++// A person the member does not (always) feel safe with: Ambre takes the partner or family violence
++// posture of lot S, without saying so in an alarming way.
++export const unsafePerson=p=>p?.feels_safe==='no'||p?.feels_safe==='not_always';
++// Column probe: before migration 0024 the forms and Ambre keep their previous fields.
++const PROBED=new WeakMap();
++export async function contextFieldsReady(env){
++ const db=env?.DB;if(!db)return false;const cached=PROBED.get(db);if(cached===true)return true;if(typeof cached==='number'&&cached>Date.now())return false;
++ try{
++  await db.prepare(`SELECT ${PERSON_P2_FIELDS.join(',')} FROM personal_people LIMIT 0`).all();
++  await db.prepare(`SELECT ${EVENT_P2_FIELDS.join(',')} FROM life_events LIMIT 0`).all();
++  await db.prepare('SELECT origin FROM people_observations LIMIT 0').all();
++  PROBED.set(db,true);return true;
++ }catch(error){if(/no such (?:column|table)/i.test(String(error?.message||''))){PROBED.set(db,Date.now()+60000);return false}throw error}
++}
++// The person named in the message (by first name, or by a role word when that role is unique)
++// whom the member does not always feel safe with. Returns {relation, safe} or null; no name kept.
++const foldWords=value=>' '+String(value||'').normalize('NFD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim()+' ';
++const ROLE_WORDS={father:['pere','papa'],mother:['mere','maman'],parent:['parent','parents'],partner:['conjoint','conjointe','compagnon','compagne','mari','partenaire','copain','copine'],child:['fils','fille'],sibling:['frere','soeur']};
++export function unsafeRelation(people,message){
++ const words=foldWords(message),flagged=(people||[]).filter(unsafePerson);if(!flagged.length)return null;
++ const named=flagged.filter(p=>{const name=foldWords(p.display_name).trim();return name.length>=2&&words.includes(' '+name+' ')||(ROLE_WORDS[p.role]||[]).some(w=>words.includes(' '+w+' '))&&(people||[]).filter(q=>q.role===p.role).length===1});
++ if(!named.length)return null;
++ const partner=named.some(p=>p.role==='partner'),safe=named.some(p=>p.feels_safe==='no')?'no':'not_always';
++ return {relation:partner?'partner':['father','mother','parent','child','sibling'].includes(named[0].role)?'family':'other',safe};
++}
+diff --git a/journal/src/personal-backend.mjs b/journal/src/personal-backend.mjs
+index dfe94e2..bfed3ff 100644
+--- a/journal/src/personal-backend.mjs
++++ b/journal/src/personal-backend.mjs
+@@ -5,6 +5,7 @@ import {createPeopleObservationApi} from './people-observations.mjs';
+ import {PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
+ import {REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily} from './provider-access.mjs';
+ import {loadContext,hasPersonalizationSources,validatePortraitV2,contextHash} from './private-context.mjs';
++import {PERSON_CHOICES,PERSON_TEXTS,EVENT_CHOICES,EVENT_TEXTS,PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,SELF_P2_MAX,contextFieldsReady} from './context-fields.mjs';
+ export {hasPersonalizationSources,validatePortraitV2};
+ const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
+ const LEGACY_LANGUAGE_DIAGNOSTIC=JSON.stringify({analysis_version:3,rejected:true,failed_paths:['contract.language']});
+@@ -33,7 +34,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
+  const string=(v,max=80)=>text(v??'',max);
+  const revision=data=>{if(!Number.isInteger(data.revision)||data.revision<1)fail(400,'La révision actuelle est requise.','revision_required');return data.revision;};
+  const creation=data=>{const id=string(data.creation_id,120);if(!/^[A-Za-z0-9_-]{8,120}$/.test(id))fail(400,'Identifiant de création requis.','creation_id_required');return id;};
+- function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');return p;}
++ function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');optionalFields(p,data,PERSON_CHOICES,PERSON_TEXTS);return p;}
+  function eventData(data){const e={title:string(data.title,160),kind:choices(data.kind??'other',['difficult','positive','turning_point','ambivalent','other'],'Type'),description:string(data.description,6000),meaning_now:string(data.meaning_now,2000),date_precision:choices(data.date_precision??'unknown',['unknown','year','month','day','range','age'],'Précision de date'),date_start:string(data.date_start,10),date_end:string(data.date_end,10),age_text:string(data.age_text,80),current_importance:data.current_importance??null};
+  if(['unknown','age'].includes(e.date_precision)){e.date_start='';e.date_end='';}
+  if(e.date_precision!=='range')e.date_end='';
+@@ -44,13 +45,20 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
+  if(e.date_start&&!validDate(e.date_start)||e.date_end&&!validDate(e.date_end))fail(400,'Date partielle invalide.','invalid_date');
+  const lengths={year:4,month:7,day:10};if(lengths[e.date_precision]&&e.date_start.length!==lengths[e.date_precision]||e.date_precision==='range'&&(!e.date_start||!e.date_end||e.date_start>e.date_end)||e.date_precision==='age'&&!e.age_text)fail(400,'La date ne correspond pas à sa précision.','invalid_date');
+  if(!Array.isArray(data.people_ids??[])||(data.people_ids??[]).length>10||(data.people_ids??[]).some(id=>typeof id!=='string'||id.length>120))fail(400,'Associations invalides.','invalid_people');
+- e.people_ids=[...new Set(data.people_ids??[])].sort();return e;}
++ optionalFields(e,data,EVENT_CHOICES,EVENT_TEXTS);e.people_ids=[...new Set(data.people_ids??[])].sort();return e;}
++ // Lot A5-P2: optional fields are kept only when supplied, so that a record (and its payload hash)
++ // written without them is unchanged, and a proposal that does not carry them never resets them.
++ function optionalFields(out,data,choiceLists,texts){
++  for(const [key,list] of Object.entries(choiceLists))if(Object.hasOwn(data,key)){const value=data[key]??'';if(value!==''&&!Object.hasOwn(list,value))fail(400,'Choix invalide.','invalid_input');out[key]=value;}
++  for(const [key,max] of Object.entries(texts))if(Object.hasOwn(data,key)){if(data[key]!=null&&typeof data[key]!=='string')fail(400,'Texte attendu.','invalid_input');if(String(data[key]??'').trim().length>max)fail(400,'Texte trop long.','invalid_input');out[key]=string(data[key],max);}
++ }
+  const narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
+- const selfFields=['first_name','last_name','birth_date','gender','gender_description',...narrativeKeys,'occupation'];
+- const selfSql="EXISTS(SELECT 1 FROM json_each(p.self_data) sp WHERE sp.key IN ('self_description','self_perception','recurring_patterns','emotions','current_context') AND trim(sp.value)!='')";
++ const selfFields=['first_name','last_name','birth_date','gender','gender_description',...narrativeKeys,'occupation',...SELF_P2_FIELDS];
++ // Lot A5-P2: "what brings me", "what helps me" and "my rhythm of life" are personal accounts too.
++ const selfSql="EXISTS(SELECT 1 FROM json_each(p.self_data) sp WHERE sp.key IN ('self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm') AND trim(sp.value)!='')";
+  function validateSelfPatch(data,existing={}) {
+    const profile={...existing};
+-   for(const key of selfFields)if(Object.hasOwn(data,key)){if(typeof data[key]!=='string')fail(400,'Texte attendu.','invalid_input');const max=key==='self_description'?10000:narrativeKeys.includes(key)||key==='occupation'?4000:key==='birth_date'?10:['first_name','last_name'].includes(key)?100:key==='gender_description'?200:40; if(data[key].length>max)fail(400,'Texte trop long.','invalid_input');profile[key]=data[key].trim();}
++   for(const key of selfFields)if(Object.hasOwn(data,key)){if(typeof data[key]!=='string')fail(400,'Texte attendu.','invalid_input');const max=key==='self_description'?10000:narrativeKeys.includes(key)||key==='occupation'?4000:SELF_P2_FIELDS.includes(key)?SELF_P2_MAX:key==='birth_date'?10:['first_name','last_name'].includes(key)?100:key==='gender_description'?200:40; if(data[key].length>max)fail(400,'Texte trop long.','invalid_input');profile[key]=data[key].trim();}
+    if(profile.gender&&!['female','male','non_binary','self_described','unspecified'].includes(profile.gender))fail(400,'Genre invalide.','invalid_input');
+    if(profile.birth_date&&(!/^\d{4}-\d{2}-\d{2}$/.test(profile.birth_date)||!Number.isFinite(Date.parse(profile.birth_date))||new Date(profile.birth_date).toISOString().slice(0,10)!==profile.birth_date||profile.birth_date>new Date().toISOString().slice(0,10)||profile.birth_date<'0001-01-01'))fail(400,'Date de naissance invalide.','invalid_date');
+    return profile;
+@@ -82,10 +90,13 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
+    rows=anchor?await all(env,`SELECT * FROM life_events WHERE user_id=? AND (${dateOrder}<? OR (${dateOrder}=? AND id>?)) ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,anchor.sort_date,anchor.sort_date,anchor.id,limit+1):await all(env,`SELECT * FROM life_events WHERE user_id=? ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,limit+1);
+   }
+   const more=rows.length>limit,items=await Promise.all(rows.slice(0,limit).map(transform));
+-  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id)});
++  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id),fields_ready:await contextFieldsReady(env)});
+  }
+  if(!['POST','PATCH','DELETE'].includes(method)||method==='POST'&&id||method!=='POST'&&!id)fail(405,'Méthode non autorisée.','method_not_allowed');
+  const data=await body(request,45000);let prior=null,expected=null;
++ // Lot A5-P2: before migration 0024 the new optional fields cannot be stored. Empty values are
++ // dropped silently (an older form state); a filled one is refused rather than lost.
++ if(!await contextFieldsReady(env))for(const key of isPerson?PERSON_P2_FIELDS:EVENT_P2_FIELDS)if(Object.hasOwn(data,key)){if(data[key]!=null&&data[key]!=='')fail(503,'Ces nouvelles rubriques ne sont pas encore disponibles. Le reste peut être enregistré.','feature_unavailable');delete data[key];}
+  if(id){prior=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!prior)fail(404,'Élément introuvable.','not_found');expected=revision(data);if(expected!==prior.revision)fail(409,'Cet élément a été modifié dans un autre onglet.','revision_conflict');}
+  if(method==='DELETE'){
+  const statements=[stmt(env,`DELETE FROM ${table} WHERE id=? AND user_id=? AND revision=?`,id,user.id,expected),bump(env,user.id)];
+@@ -124,7 +135,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
+   if(!row)fail(401,'Compte introuvable.','account_missing');
+   const self=parse(row.self_data),hasValue=key=>typeof self[key]==='string'&&Boolean(self[key].trim());
+   const memoryLength=String(row.memory_text||'').length,remaining=Math.max(0,10000-memoryLength-(memoryLength?2:0));
+-  return {source_version:row.version,profile:{has_information:selfFields.some(hasValue),has_description:narrativeKeys.some(hasValue),first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):''},
++  return {source_version:row.version,profile:{has_information:selfFields.some(hasValue),has_description:[...narrativeKeys,...SELF_P2_FIELDS].some(hasValue),first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):''},
+    self_profile_patch:{allowed:true},memory_append:{allowed:remaining>0,remaining_characters:remaining,max_characters:2000},
+    person_create:{allowed:row.people_count<50,count:row.people_count,limit:50},person_update:{allowed:row.people_count>0,count:row.people_count},
+    life_event_create:{allowed:row.events_count<500,count:row.events_count,limit:500},life_event_update:{allowed:row.events_count>0,count:row.events_count},reading_lookup:{allowed:true}};
+diff --git a/journal/src/portrait-refresh.mjs b/journal/src/portrait-refresh.mjs
+index e720a45..f0e0003 100644
+--- a/journal/src/portrait-refresh.mjs
++++ b/journal/src/portrait-refresh.mjs
+@@ -66,7 +66,7 @@ export function nativePortraitClaims(p){
+  return claims;
+ }
+ const SUPPORT_SOURCE_CHAR_LIMIT=130000;
+-const personalFields={profile:['self_description','self_perception','recurring_patterns','emotions','current_context'],like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
++const personalFields={profile:['self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm'],like:['reason','differences'],person:['relationship_text','helps','hurts','evolution'],event:['description','meaning_now','felt_then','felt_now','impact'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
+ const hasText=value=>typeof value==='string'&&!!value.trim();
+ function correctiveSource(source){
+  if(!source.explicit)return false;
+diff --git a/journal/src/private-context.mjs b/journal/src/private-context.mjs
+index ad7b8d4..37cce25 100644
+--- a/journal/src/private-context.mjs
++++ b/journal/src/private-context.mjs
+@@ -2,6 +2,7 @@ import { isEntitled, platformAccess } from './entitlements.mjs';
+ import {validatePsychologicalMap} from './psychology-map.mjs';
+ import {declaredLifeContext,assertPortraitLanguage,PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
+ import {loadCompanionCartography} from './cartographie.mjs';
++import {PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,contextFieldsReady} from './context-fields.mjs';
+ // Canonical private sources used to understand the member and suggest public readings.
+ const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
+ const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value))),b=>b.toString(16).padStart(2,'0')).join('');
+@@ -10,13 +11,15 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
+  // Read bounded rows rather than aggregating an entire 500-event timeline into
+  // one SQLite cell. Retry if any source changed during the snapshot reads.
+  let row,likes,people,events,exposures;
++ // Lot A5-P2: the optional fields of migration 0024, once it is applied.
++ const extended=await contextFieldsReady(env),personExtra=extended?','+PERSON_P2_FIELDS.join(','):'',eventExtra=extended?','+EVENT_P2_FIELDS.map(k=>'e.'+k).join(','):'';
+  for(let attempt=0;attempt<4;attempt++){
+   row=await env.DB.prepare(`SELECT p.version AS source_version,p.self_data,p.self_revision,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until,s.trial_end FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
+   if(!row)return null;
+   const queries=[
+    'SELECT article_id,reason,differences,revision,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id LIMIT 2000',
+-   'SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end,revision,created_at,updated_at FROM personal_people WHERE user_id=? ORDER BY id LIMIT 50',
+-   `SELECT e.id,e.title,e.kind,e.description,e.meaning_now,e.date_precision,e.date_start,e.date_end,e.age_text,e.current_importance,e.fiction_use,e.revision,e.created_at,e.updated_at,(SELECT json_group_array(person_id) FROM life_event_people WHERE event_id=e.id AND user_id=e.user_id) AS people_ids FROM life_events e WHERE e.user_id=? ORDER BY e.id LIMIT 500`,
++   `SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end${personExtra},revision,created_at,updated_at FROM personal_people WHERE user_id=? ORDER BY id LIMIT 50`,
++   `SELECT e.id,e.title,e.kind,e.description,e.meaning_now,e.date_precision,e.date_start,e.date_end,e.age_text,e.current_importance${eventExtra},e.fiction_use,e.revision,e.created_at,e.updated_at,(SELECT json_group_array(person_id) FROM life_event_people WHERE event_id=e.id AND user_id=e.user_id) AS people_ids FROM life_events e WHERE e.user_id=? ORDER BY e.id LIMIT 500`,
+    "SELECT article_id,shown_at FROM recommendation_exposures WHERE user_id=? AND shown_at>datetime('now','-7 days') ORDER BY shown_at DESC,article_id LIMIT 100"
+   ];
+   [likes,people,events,exposures]=await Promise.all(queries.map(async sql=>(await env.DB.prepare(sql).bind(userId).all()).results));
+@@ -31,7 +34,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
+   context.portrait=null;
+   context.portrait_version=0;
+  }
+- const self=parse(row.self_data),narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
++ const self=parse(row.self_data),narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context',...SELF_P2_FIELDS];
+  context.has_self_description=narrativeKeys.some(k=>typeof self[k]==='string'&&self[k].trim());
+  const today=new Date().toISOString().slice(0,10),birth=self.birth_date;
+  // Display identity stays separate from psychological evidence. Renaming
+@@ -50,8 +53,12 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
+  if(context.has_self_description)add('profile:'+userId,'profile',row.self_revision,Object.fromEntries([...narrativeKeys,'occupation'].map(k=>[k,self[k]||''])));
+  for(const l of context.likes)add('like:'+l.article_id,'like',l.revision,{title:l.title||l.article_id,article_summary:l.summary||'',subject:l.sujet||'',reason:l.reason,differences:l.differences},{explicit:Boolean(l.reason.trim()||l.differences.trim()),created_at:l.created_at,updated_at:l.updated_at});
+  if(context.memory.text.trim())add('memory:'+userId,'memory',context.memory.version,{text:context.memory.text});
+- for(const p of context.people)if(p.relationship_text.trim())add('person:'+p.id,'person',p.revision,{role:p.role,custom_role:p.custom_role,relationship_text:p.relationship_text},{created_at:p.created_at,updated_at:p.updated_at,temporal:{start:p.period_start,end:p.period_end}});
+- for(const e of context.events)if(e.description.trim()||e.meaning_now.trim())add('event:'+e.id,'event',e.revision,{title:e.title,description:e.description,meaning_now:e.meaning_now},{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},current_importance:e.current_importance,related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
++ // Lot A5-P2: the bond, presence and safety in words, then what helps, hurts and how it changed.
++ // Only given fields enter the text, so a person without them keeps the same hash.
++ const personFields=p=>({role:p.role,custom_role:p.custom_role,relationship_text:p.relationship_text,...(personFacts(p).length?{bond:personFacts(p).join(' ; ')}:{}),...Object.fromEntries(PERSON_PARTS.filter(([k])=>String(p[k]||'').trim()).map(([k])=>[k,p[k]]))});
++ const eventFields=e=>({title:e.title,description:e.description,meaning_now:e.meaning_now,...Object.fromEntries(EVENT_PARTS.filter(([k])=>String(e[k]||'').trim()).map(([k])=>[k,e[k]])),...(eventFacts(e).length?{lived:eventFacts(e).join(' ; ')}:{})});
++ for(const p of context.people)if(p.relationship_text.trim()||PERSON_PARTS.some(([k])=>String(p[k]||'').trim()))add('person:'+p.id,'person',p.revision,personFields(p),{created_at:p.created_at,updated_at:p.updated_at,temporal:{start:p.period_start,end:p.period_end}});
++ for(const e of context.events)if(e.description.trim()||e.meaning_now.trim())add('event:'+e.id,'event',e.revision,eventFields(e),{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},current_importance:e.current_importance,related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
+  // Retain the historic source hashes to reuse valid portrait extractions.
+  const eventHashVersions=new Map(events.map(e=>['event:'+e.id,e.fiction_use]));
+  for(const source of sources)source.hash=await hash(JSON.stringify([source.type,source.revision,source.text,source.temporal,eventHashVersions.get(source.id)||'abstract',source.related_people||[]]));
+@@ -67,7 +74,7 @@ export function validatePortraitV2(value,sources,fail) {
+  if(!value||value.schema_version!==2||value.fictional_character!==undefined)invalid('Un portrait V2 sourcé est requis.');
+  const clean=(v,max)=>{if(typeof v!=='string'||!v.trim()||v.length>max)invalid('Texte du portrait invalide.');return v.trim();};
+  const allowed=new Map(sources.map(s=>[s.id,s])),proofs=new Set(),personalProofs=new Set();
+- const personalQuote=(s,quote)=>{const keys={like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],profile:['self_description','self_perception','recurring_patterns','emotions','current_context'],memory:['text']}[s.type]||[];const start=s.text.indexOf(quote),end=start+quote.length;return keys.some(k=>{const value=s.fields?.[k];if(!value?.trim())return false;const pos=s.text.indexOf(k+': '+value)+k.length+2;return Math.min(end,pos+value.length)-Math.max(start,pos)>=Math.min(8,value.trim().length);});};
++ const personalQuote=(s,quote)=>{const keys={like:['reason','differences'],person:['relationship_text','helps','hurts','evolution'],event:['description','meaning_now','felt_then','felt_now','impact'],profile:['self_description','self_perception','recurring_patterns','emotions','current_context',...SELF_P2_FIELDS],memory:['text']}[s.type]||[];const start=s.text.indexOf(quote),end=start+quote.length;return keys.some(k=>{const value=s.fields?.[k];if(!value?.trim())return false;const pos=s.text.indexOf(k+': '+value)+k.length+2;return Math.min(end,pos+value.length)-Math.max(start,pos)>=Math.min(8,value.trim().length);});};
+  if(!Array.isArray(value.citations)||!value.citations.length||value.citations.length>500)invalid('Citations requises.');
+  const citations=value.citations.map(p=>{const source=allowed.get(p?.source_id),quote=clean(p?.quote,1200);if(!source||p.revision!==source.revision||!source.text.includes(quote))invalid('Citation absente ou révision périmée.');proofs.add(p.source_id);if(source.explicit&&personalQuote(source,quote))personalProofs.add(p.source_id);return {source_id:p.source_id,revision:p.revision,quote};});
+  const evidence=(ids,explicit=false)=>{if(!Array.isArray(ids)||!ids.length||ids.length>50||ids.some(id=>!proofs.has(id)||explicit&&!personalProofs.has(id)))invalid('Preuves du portrait invalides.');return [...new Set(ids)];};
+diff --git a/journal/src/psychology-map.mjs b/journal/src/psychology-map.mjs
+index 2bec188..4b4c406 100644
+--- a/journal/src/psychology-map.mjs
++++ b/journal/src/psychology-map.mjs
+@@ -2,7 +2,7 @@ import { PSYCHOLOGY_CATALOG } from './psychology-catalog.generated.mjs';
+ import {hasReviewedStoryLinks} from './recommendations.mjs';
+ export { PSYCHOLOGY_CATALOG };
+ const patterns=new Map(PSYCHOLOGY_CATALOG.patterns.map(p=>[p.id,p]));
+-const PERSONAL={profile:['self_description','self_perception','recurring_patterns','emotions','current_context'],like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
++const PERSONAL={profile:['self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm'],like:['reason','differences'],person:['relationship_text','helps','hurts','evolution'],event:['description','meaning_now','felt_then','felt_now','impact'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
+ function personalQuote(source,quote){return !!source?.explicit&&(PERSONAL[source.type]||[]).some(key=>{const value=source.fields?.[key];return typeof value==='string'&&value.trim()&&value.includes(quote)});}
+ const fingerprint=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+ function independentProofs(ids,allowed,citations){const groups=[];for(const id of ids){const source=allowed.get(id),text=fingerprint((PERSONAL[source.type]||[]).map(k=>source.fields?.[k]||'').join(' ')),quotes=citations.filter(c=>c.source_id===id&&personalQuote(source,c.quote)).map(c=>fingerprint(c.quote));if(groups.some(g=>g.text===text||g.quotes.some(q=>quotes.some(v=>q===v||Math.min(q.length,v.length)>=20&&(q.includes(v)||v.includes(q))))))continue;groups.push({text,quotes})}return groups.length;}
