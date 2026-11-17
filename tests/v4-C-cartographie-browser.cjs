@@ -37,26 +37,31 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    const {page,context,errors}=await pageFor();
    const answers={parentification:1,ressenti_responsable:1,enfant_sage:1,debrouiller_seul:1,parent_trouble:1,abus_sexuel:1};
    for(const id of Object.keys(answers))await select(page,id);
-   const titles=await page.locator('.carto-card-title').allInnerTexts();
+   const titles=await page.locator('article.carto-card .carto-card-title').allInnerTexts();
    const ambre=summarizeCartography(answers).display_order.slice(0,5).map(x=>x.label);
    assert.deepEqual(titles.slice(0,5),ambre);
-   const contextual=new Set(data.outcomes.filter(o=>o.contextual_only).map(o=>o.label));
-   const first=titles.findIndex(t=>contextual.has(t));assert.ok(first>0);assert.ok(titles.slice(first).every(t=>contextual.has(t)),'contextual cards last');
+   // v5 (lot C5a): contextual subjects are no longer displayed, even in the folded rows.
+   const contextual=new Set(data.outcomes.filter(o=>o.contextual_only).map(o=>o.id));
+   const shown=await page.locator('[data-results] [data-outcome]').evaluateAll(nodes=>nodes.map(n=>n.dataset.outcome));
+   assert.ok(shown.length>5);assert.ok(!shown.some(id=>contextual.has(id)),'no contextual subject');
    assert.deepEqual(errors,[]);await context.close();
   });
-  await check('contextual headers carry no evidence label; other references are shown apart and not counted',async()=>{
+  await check('no contextual subject anywhere, in the list or in « Liens étudiés »; other references weigh little',async()=>{
    const {page,context,errors}=await pageFor();
    await select(page,'abus_sexuel');await select(page,'abus_physique');await select(page,'critique');
-   const metas=await page.locator('.carto-card').evaluateAll(cards=>cards.map(c=>({title:c.querySelector('.carto-card-title').textContent,meta:c.querySelector('.carto-card-meta').textContent})));
+   assert.equal(await page.getByText('Repère de contexte').count(),0);
    const contextual=new Set(data.outcomes.filter(o=>o.contextual_only).map(o=>o.label));
-   for(const m of metas.filter(m=>contextual.has(m.title))){assert.match(m.meta,/Repère de contexte/);assert.doesNotMatch(m.meta,/Preuves/);}
-   const mixed=page.locator('.carto-card').filter({has:page.locator('.carto-card-meta',{hasText:'autre'})}).first();
-   await mixed.locator('.carto-card-toggle').click();
-   const card=page.locator('.carto-card').filter({has:page.locator('.carto-other-title')}).first();
-   assert.equal(await card.locator('.carto-other-title').innerText(),'Autres repères, non comptés dans l’ordre de la liste');
-   const counted=Number(await card.locator('.carto-card-meta').getAttribute('data-associated'));
-   assert.equal(await card.locator('.carto-links:not(.carto-links-other) > li').count()>=counted,true);
-   assert.ok(await card.locator('.carto-links-other > li').count()>0);
+   await page.locator('[data-factor="abus_sexuel"] .carto-see').click();
+   const listed=await page.locator('[data-dialog-body] .carto-dialog-list strong').allInnerTexts();
+   assert.ok(listed.length>0);assert.ok(!listed.some(t=>contextual.has(t)),'the dialog hides contextual subjects');
+   assert.doesNotMatch(await page.locator('[data-dialog-body]').innerText(),/non compté/);
+   await page.locator('[data-dialog-close]').click();
+   const mixed=page.locator('article.carto-card').filter({has:page.locator('.carto-from-line')}).first();
+   await mixed.locator('.carto-detail').click();
+   const card=page.locator('article.carto-card').filter({has:page.locator('.carto-other-title')}).first();
+   if(await card.count()){assert.equal(await card.locator('.carto-other-title').innerText(),'Autres repères (modèles cliniques, définitions) — comptent peu dans l’ordre');assert.ok(await card.locator('.carto-links-other > li').count()>0);}
+   const counted=Number(await mixed.getAttribute('data-associated'));
+   assert.equal(await mixed.locator('.carto-links:not(.carto-links-other) > li').count()>=counted,true);
    assert.deepEqual(errors,[]);await context.close();
   });
   await check('questions without any link say so; the dialog separates measured links from other references',async()=>{
@@ -66,7 +71,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    assert.equal(await page.locator('[data-factor="exil"] .carto-see').count(),1,'exile now has its ICD-11 context');
    await page.locator('[data-factor="exil"] .carto-see').click();
    const headings=await page.locator('[data-dialog-body] .carto-dialog-h').allInnerTexts();
-   assert.deepEqual(headings,['Contexte décrit par la CIM-11 · non compté (2)']);
+   assert.deepEqual(headings,['Contexte décrit par la CIM-11 · poids faible ('+data.links.filter(l=>l.factor==='exil'&&!data.outcomes.find(o=>o.id===l.outcome).contextual_only).length+')']);
    await page.locator('[data-dialog-close]').click();
    assert.deepEqual(errors,[]);await context.close();
   });
@@ -76,7 +81,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    const live=page.locator('[data-count][role="status"][aria-live="polite"]');assert.equal(await live.count(),1);
    assert.equal(await live.innerText(),'Aucune réponse');
    await select(page,'abus_physique');
-   const n=await page.locator('.carto-card').count();
+   const n=await page.locator('[data-results] article.carto-card,[data-results] .carto-row').count();
    assert.equal(await live.textContent(),'1 réponse · '+n+' sujet'+(n>1?'s affichés':' affiché'));
    assert.equal(await page.locator('[aria-live]').count(),1);
    assert.deepEqual(errors,[]);await context.close();

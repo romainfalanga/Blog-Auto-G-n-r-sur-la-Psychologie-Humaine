@@ -37,6 +37,13 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  // Display identity stays separate from psychological evidence. Renaming
  // needs no new inference about the person.
  context.subject={first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):'',gender:self.gender||'unspecified'};
+ // G (audit v5): the age at a dated moment is derived from the declared birth date (never stored).
+ const born=/^\d{4}-\d{2}-\d{2}$/.test(String(birth||''))?birth:null;
+ for(const e of context.events){
+  const m=/^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?$/.exec(String(e.date_start||''));if(!born||!m||['age','unknown'].includes(e.date_precision))continue;
+  const month=m[2]||null,birthMonth=born.slice(5,7),age=Number(m[1])-Number(born.slice(0,4))-(month&&(month<birthMonth||month===birthMonth&&m[3]&&m[3]<born.slice(8))?1:0);
+  if(age<0||age>130)continue;e.age_at_event=age;if(!month||month===birthMonth&&!m[3])e.age_at_event_approx=true;
+ }
  context.self_context=declaredLifeContext({age:birth?Number(today.slice(0,4))-Number(birth.slice(0,4))-(today.slice(5)<birth.slice(5)?1:0):null,gender:self.gender||'',gender_description:self.gender_description||'',occupation:self.occupation||''});
  const sources=[];
  const add=(id,type,revision,fields,extra={})=>{const text=Object.entries(fields).filter(([,v])=>typeof v==='string'&&v.trim()).map(([k,v])=>`${k}: ${v}`).join('\n');if(text)sources.push({id,type,revision,text,fields,explicit:true,temporal:null,created_at:null,updated_at:null,...extra});};

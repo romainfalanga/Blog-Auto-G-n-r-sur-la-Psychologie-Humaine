@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import glob
 import hashlib
+import math
 import json
 import re
 import sys
@@ -274,7 +275,7 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         "interpretation": {
             "purpose": "Exploration de rapprochements, sans dépistage ni diagnostic.",
             "validated_ace_instrument": False,
-            "ranking": "Liste unique, même ordre pour la page et pour Ambre : les repères contextuels viennent en dernier ; les autres sujets sont triés par nombre de vécus cochés reliés par une association empirique (forte, modérée ou limitée), puis par familles de vécus distinctes et force maximale. Modèles cliniques, définitions et contextes de classification sont affichés à part et ne comptent pas. Jamais une somme de risques ; l’intensité reste un contexte déclaré.",
+            "ranking": "Liste unique, même ordre pour la page et pour Ambre. Chaque vécu coché relié à un sujet compte selon le niveau de preuve du lien (solide, modéré, limité ; modèles cliniques et définitions comptent peu), un peu plus si vous avez répondu « Souvent », une seule fois par famille de vécus proches ; ce total est pondéré par la spécificité du sujet, moindre quand la recherche le relie à presque tous les vécus difficiles. Un sujet appuyé seulement par des preuves limitées ou des modèles ne passe jamais devant un sujet appuyé par des preuves modérées ou solides ; les sujets fréquents appuyés par des preuves modérées ou solides restent affichés à part. Les liens avec la souffrance psychique ou l’addiction d’un parent reflètent en grande partie une transmission familiale et ne sont pas renforcés par la spécificité ; les troubles graves (bipolaires, psychotiques, dissociatifs à symptômes neurologiques) ne figurent parmi les premiers sujets qu’avec des preuves solides ; un trouble de stress post-traumatique ou des symptômes dissociatifs reliés à des violences ou à la peur vécues souvent sont montrés parmi les premiers. Les sujets dans lesquels vous vous reconnaissez viennent d’abord, ceux que vous avez écartés à la fin. Ce n’est ni une probabilité ni un risque personnel ; les repères de contexte ne sont pas affichés.",
             "convergence": "Au moins deux familles de vécus avec des associations empiriques modérées ou solides ; aucun gain de certitude individuelle.",
             "warning": "Des facteurs associés, même cumulés, ne suffisent pas à établir un trouble et ne sont pas nécessairement requis pour qu’il apparaisse."
         },
@@ -292,6 +293,7 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         "notes": notes,
         "sources": sorted((s for s in sources.values() if s["id"] in used_sources), key=lambda s: s["id"]),
     }
+    data["ranking"] = ranking_parameters(data)
     for outcome in data["outcomes"]:
         outcome.setdefault("category", {"trouble": "diagnosis", "schema": "schema", "attachement": "attachment_pattern", "tendance": "tendency"}[outcome["kind"]])
     clinical = json.loads((ROOT / "data/clinical_catalog.json").read_text(encoding="utf-8"))
@@ -350,6 +352,50 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
         data["coverage"]["reference_registry"] = {"report": str(registry_path.relative_to(ROOT)), "decisions": len(entries), "statuses": statuses, "exhaustive_diagnostic_criteria_review": False}
         data["coverage"]["known_exclusions"].append({"scope": "Registre documenté des neuf lots", "reason": "Les exclusions et recherches non concluantes sont distinguées des sujets reliés.", "report": str(registry_path.relative_to(ROOT))})
     return data, errors
+
+
+EMPIRICAL_STRENGTHS = {"forte", "moderee", "limitee"}
+
+
+def ranking_parameters(data: dict) -> dict:
+    """Frozen integers shared by the page and the Worker (v5 ranking, variant L).
+
+    specificity = round(1000 * ln(1 + N / df)), where N is the number of questions with
+    at least one measured association and df the number of questions linked to the
+    subject by one (minimum 1). A subject is "frequent" when 4 * df >= N. Kept outside
+    the outcomes so that the correspondence audit fingerprint is unaffected.
+    """
+    empirical = [l for l in data["links"] if l["relation_type"] == "empirical_association" and not l.get("definitional") and l["strength"] in EMPIRICAL_STRENGTHS]
+    n = len({l["factor"] for l in empirical})
+    df: dict[str, set] = {}
+    for link in empirical:
+        df.setdefault(link["outcome"], set()).add(link["factor"])
+    specificity, frequent = {}, []
+    for outcome in sorted(data["outcomes"], key=lambda o: o["id"]):
+        d = max(1, len(df.get(outcome["id"], ())))
+        specificity[outcome["id"]] = int(round(1000 * math.log(1 + n / d)))
+        if 4 * d >= n:
+            frequent.append(outcome["id"])
+    # Corrections of the independent clinical review of the ranking (lot C5a):
+    # - familial transmission: links from a parent's mental illness or addiction largely
+    #   reflect heredity and shared environment; their specificity is capped at 1 (1000);
+    # - serious disorders: specificity capped at 1 and never among the five first
+    #   subjects without a strong link (few linked questions reflect few studies);
+    # - trauma: PTSD or dissociative symptoms linked by a moderate or strong association
+    #   to a violence or fear experience answered « Souvent » are shown among the first.
+    factor_ids = {f["id"] for f in data["factors"]}
+    outcome_ids = {o["id"] for o in data["outcomes"]}
+    familial = ["parent_addiction", "parent_trouble"]
+    serious = ["icd_6a20", "icd_6a60", "icd_6b60"]
+    trauma_outcomes = ["icd_6b40", "ten_dissociation"]
+    trauma_factors = sorted({f["id"] for f in data["factors"] if f.get("group") == "violences"} | {"exil", "ressenti_peur", "violence_quartier"})
+    for fid in [*familial, *trauma_factors]:
+        if fid not in factor_ids:
+            raise ValueError(f"classement : facteur inconnu {fid}")
+    for oid in [*serious, *trauma_outcomes]:
+        if oid not in outcome_ids:
+            raise ValueError(f"classement : sujet inconnu {oid}")
+    return {"version": "v5_relevance_specificity_strength_guard_review1", "questions_with_measured_link": n, "points": {"forte": 12, "moderee": 8, "limitee": 4, "other": 1}, "intensity_factor": {"1": 2, "2": 3}, "section_top": 5, "specificity": specificity, "frequent": frequent, "familial_factors": familial, "serious_outcomes": serious, "trauma_outcomes": trauma_outcomes, "trauma_factors": trauma_factors}
 
 
 def main() -> int:

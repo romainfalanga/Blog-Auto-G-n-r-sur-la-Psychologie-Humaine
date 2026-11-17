@@ -112,7 +112,7 @@ test('the bounded summary leaves room for different categories and records omiss
  // v4.1 (lot C): recognition still wins a place under the category cap, but the list
  // keeps the public display order shared with the page.
  assert.ok(summary.convergence.some(x=>x.id==='z_recognized'),'a recognized subject is selected despite the category cap');
- assert.deepEqual(summary.convergence.map(x=>x.id),computeCartography({a:1,b:1},data).results.map(r=>r.outcome.id).filter(id=>summary.convergence.some(x=>x.id===id)),'selection keeps the display order');
+ assert.deepEqual(summary.convergence.map(x=>x.id),computeCartography({a:1,b:1},data,{z_recognized:'oui'}).results.map(r=>r.outcome.id).filter(id=>summary.convergence.some(x=>x.id===id)),'selection keeps the display order');
  assert.ok(summary.convergence.some(x=>x.id==='other'));
  assert.equal(summary.truncated,true);
  assert.ok(!cartographyHighlights(summary).some(x=>x.id==='context'));
@@ -135,8 +135,12 @@ test('explicit negative answers are preserved without becoming reported experien
 test('childhood diagnoses remain context and age restrictions survive recognition and evidence',()=>{
  const answers={negligence_emotionnelle:1,negligence_physique:1,soins_instables:2};
  const summary=summarizeCartography(answers,{icd_6b44:'oui'});
- assert.ok(summary.contextual.some(o=>o.id==='icd_6b44'&&o.age_scope==='young_child_only'&&o.contextual_only));
- assert.ok(summary.recognized.find(o=>o.id==='icd_6b44').contextual_only);
+ // v5 (lot C5a): contextual subjects are no longer displayed nor listed for Ambre;
+ // an older recognition keeps its markers and its evidence.
+ assert.deepEqual(summary.contextual,[]);
+ assert.ok(!summary.display_order.some(o=>o.id==='icd_6b44'));
+ const recognized=summary.recognized.find(o=>o.id==='icd_6b44');
+ assert.ok(recognized.contextual_only);assert.equal(recognized.age_scope,'young_child_only');
  assert.ok(!cartographyHighlights(summary,100).some(o=>['icd_6b44','icd_6b45'].includes(o.id)));
  const evidence=cartographyEvidence(answers,{icd_6b44:'oui'});
  const entry=evidence.evidence.find(o=>o.id==='icd_6b44');
@@ -149,11 +153,13 @@ test('childhood diagnoses remain context and age restrictions survive recognitio
 test('public and backend agree for every factor pair, including explicit negatives',()=>{
  const fullData=JSON.parse(readFileSync(new URL('../../data/cartographie.json',import.meta.url),'utf8'));
  const ids=CARTOGRAPHIE.factors.map(f=>f.id);
- const resultShape=result=>({...result,results:result.results.map(({outcome,links,...rest})=>({id:outcome.id,...rest}))});
+ const row=({outcome,links,...rest})=>({id:outcome.id,...rest});
+ const resultShape=result=>({...result,results:result.results.map(row),sections:Object.fromEntries(Object.entries(result.sections).map(([k,v])=>[k,v.map(row)]))});
  for(let a=0;a<ids.length;a++)for(let b=a;b<ids.length;b++){
   const negative=ids.find(id=>id!==ids[a]&&id!==ids[b]);
   const answers={[ids[a]]:1,[ids[b]]:2,[negative]:0};
-  const page=publicPage.compute(CARTOGRAPHIE,answers),worker=computeCartography(answers),fullPage=publicPage.compute(fullData,answers);
+  const outs=CARTOGRAPHIE.outcomes,feedback=a%3===0?{[outs[(a*7+b)%outs.length].id]:b%2?'oui':'non',[outs[(a+b*5)%outs.length].id]:'non'}:{};
+  const page=publicPage.compute(CARTOGRAPHIE,answers,feedback),worker=computeCartography(answers,CARTOGRAPHIE,feedback),fullPage=publicPage.compute(fullData,answers,feedback);
   assert.deepEqual(worker,page);
   assert.deepEqual(resultShape(worker),resultShape(fullPage));
  }

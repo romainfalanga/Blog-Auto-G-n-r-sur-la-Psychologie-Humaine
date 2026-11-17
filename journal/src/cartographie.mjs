@@ -73,27 +73,75 @@ export function validateCartography(input,fail,data=CARTOGRAPHIE){
  return {answers:cleanAnswers,feedback:cleanFeedback,notes,resources};
 }
 
-// Same exploratory order as the public compute(); no summed risk or intensity multiplier.
-export function computeCartography(answers,data=CARTOGRAPHIE){
- const {factors,outcomes}=index(data),level={};for(const [id,value] of Object.entries(answers||{}))if(factors.has(id)&&(value===1||value===2))level[id]=value;
+// v5 ranking (variant L with strength guard), identical to compute() in
+// static/js/cartographie.js, integers only: tests require strict parity.
+const POINTS={forte:12,moderee:8,limitee:4},OTHER_POINTS=1,INTENSITY={1:2,2:3};
+export const SECTION_TOP=5;
+export const SECTION_ORDER=['recognized','top','frequent','other','dismissed'];
+const binary=(a,b)=>a<b?-1:a>b?1:0;
+const isEmpiricalLink=l=>!l.definitional&&relationType(l)==='empirical_association';
+const measuredLink=l=>isEmpiricalLink(l)&&POINTS[l.strength]>0;
+// Strength guard: a subject whose best measured link is limited never precedes a
+// subject with a moderate or strong link. Specificity is capped at 1 (1000) for serious
+// disorders and for links reflecting familial transmission (clinical review, lot C5a).
+const evidenceClass=r=>r.max_points>POINTS.limitee?0:1,UNIT=1000;
+const compareRank=(a,b)=>Number(b.has_empirical)-Number(a.has_empirical)||evidenceClass(a)-evidenceClass(b)||b.relevance-a.relevance||b.evidence_families-a.evidence_families||b.max_points-a.max_points||binary(a.outcome.id,b.outcome.id);
+const sortLinks=(links,weights)=>links.slice().sort((a,b)=>Number(isEmpiricalLink(b))-Number(isEmpiricalLink(a))||weights[b.strength]-weights[a.strength]||binary(a.factor,b.factor));
+const answerLevels=(answers,factors)=>{const level={};for(const [id,value] of Object.entries(answers||{}))if(factors.has(id)&&(value===1||value===2))level[id]=value;return level;};
+
+// Contract (frozen for the Ambre lots, see docs/v5-C5a-avancement.md):
+// returns {results, sections:{recognized,top,frequent,other,dismissed}, aceCount, selectedCount}.
+// results = the displayed order (sections concatenated); contextual and retired subjects excluded.
+export function computeCartography(answers,data=CARTOGRAPHIE,feedback={}){
+ const {factors,outcomes}=index(data),level=answerLevels(answers,factors);feedback=feedback||{};
  const weights=data.weights||{forte:3,moderee:2,limitee:1,theorique:1},byOutcome={};
- for(const link of data.links||[])if(Object.hasOwn(level,link.factor))(byOutcome[link.outcome]=byOutcome[link.outcome]||[]).push(link);
- const results=Object.keys(byOutcome).filter(id=>outcomes.has(id)&&!outcomes.get(id).retired).map(id=>{
-  const isEmpirical=l=>!l.definitional&&relationType(l)==='empirical_association';
-  // Empirical links first, then by strength; the other references follow, never counted.
-  const links=byOutcome[id].slice().sort((a,b)=>Number(isEmpirical(b))-Number(isEmpirical(a))||weights[b.strength]-weights[a.strength]);
-  const empirical=links.filter(isEmpirical),associated=[];
+ const ranking=data.ranking||{},specificity=ranking.specificity||{},frequentSet=new Set(ranking.frequent||[]),top=ranking.section_top||SECTION_TOP;
+ const familial=new Set(ranking.familial_factors||[]),serious=new Set(ranking.serious_outcomes||[]),traumaOutcomes=new Set(ranking.trauma_outcomes||[]),traumaFactors=new Set(ranking.trauma_factors||[]);
+ for(const link of data.links||[]){
+  const o=outcomes.get(link.outcome);
+  if(!Object.hasOwn(level,link.factor)||!o||o.retired||o.contextual_only)continue;
+  (byOutcome[link.outcome]=byOutcome[link.outcome]||[]).push(link);
+ }
+ let rows=Object.keys(byOutcome).map(id=>{
+  const links=sortLinks(byOutcome[id],weights);
+  const empirical=links.filter(isEmpiricalLink),associated=[];
   for(const l of empirical)if(ASSOCIATED[l.strength]&&!associated.includes(l.factor))associated.push(l.factor);
   const groups=new Set(empirical.filter(l=>STRONG[l.strength]).map(l=>factors.get(l.factor).overlap_group||l.factor));
-  const tier=outcomes.get(id).contextual_only?'theorique':groups.size>=2?'convergence':groups.size?'piste':'theorique';
+  const tier=groups.size>=2?'convergence':groups.size?'piste':'theorique';
   const score=empirical.reduce((best,l)=>Math.max(best,weights[l.strength]||0),0);
-  return {outcome:outcomes.get(id),links,factors:links.map(l=>l.factor),associated_factors:associated,associated_count:associated.length,other_links:links.length-empirical.length,tier,score,evidence_groups:groups.size,relation_types:[...new Set(links.map(relationType))]};
+  const families={},measuredFamilies=new Set();let maxPoints=0,trauma=false,familialOnly=null,spec=specificity[id]||UNIT;
+  if(serious.has(id))spec=Math.min(spec,UNIT);
+  for(const l of links){
+   const m=measuredLink(l),pts=(m?POINTS[l.strength]:OTHER_POINTS)*INTENSITY[level[l.factor]]*(familial.has(l.factor)?Math.min(spec,UNIT):spec),fam=factors.get(l.factor).overlap_group||l.factor;
+   if(!(families[fam]>=pts))families[fam]=pts;
+   if(m){measuredFamilies.add(fam);maxPoints=Math.max(maxPoints,POINTS[l.strength]);}
+   if(m)familialOnly=familialOnly!==false&&familial.has(l.factor);
+   if(m&&POINTS[l.strength]>=POINTS.moderee&&traumaOutcomes.has(id)&&traumaFactors.has(l.factor)&&level[l.factor]===2)trauma=true;
+  }
+  const points=Object.values(families).reduce((sum,v)=>sum+v,0);
+  return {outcome:outcomes.get(id),links,factors:links.map(l=>l.factor),associated_factors:associated,associated_count:associated.length,other_links:links.length-empirical.length,tier,score,evidence_groups:groups.size,relation_types:[...new Set(links.map(relationType))],
+   relevance:points,has_empirical:maxPoints>0,evidence_families:measuredFamilies.size,max_points:maxPoints,frequent:frequentSet.has(id),familial:familialOnly===true,trauma_first:trauma,serious:serious.has(id)};
  });
- // Public display order, shared with Ambre: contextual references last, then experiences
- // linked by an empirical association, distinct evidence families and strongest evidence.
- results.sort((a,b)=>Number(Boolean(a.outcome.contextual_only))-Number(Boolean(b.outcome.contextual_only))||b.associated_count-a.associated_count||b.evidence_groups-a.evidence_groups||b.score-a.score||a.outcome.id.localeCompare(b.outcome.id,'en'));
+ rows.sort(compareRank);
+ // The five first: trauma subjects first chosen, then in rank order; a serious
+ // disorder needs a strong link. Kept in rank order inside the section.
+ const open=rows.filter(r=>!feedback[r.outcome.id]),picked=open.filter(r=>r.trauma_first).slice(0,top);
+ for(const r of open)if(picked.length<top&&!picked.includes(r)&&!(r.serious&&r.max_points<POINTS.forte))picked.push(r);
+ const sections={recognized:[],top:[],frequent:[],other:[],dismissed:[]};
+ for(const r of rows){
+  const fb=feedback[r.outcome.id];
+  r.section=fb==='oui'?'recognized':fb==='non'?'dismissed':picked.includes(r)?'top':r.frequent&&r.max_points>=POINTS.moderee?'frequent':'other';
+  sections[r.section].push(r);
+ }
+ const results=SECTION_ORDER.flatMap(s=>sections[s]);
  const aceCount=new Set((data.factors||[]).filter(f=>f.ace&&Object.hasOwn(level,f.id)).map(f=>{const group=(data.exclusive||[]).find(g=>g.includes(f.id));return group?group.join('|'):f.id;})).size;
- return {results,aceCount,selectedCount:Object.keys(level).length};
+ return {results,sections,aceCount,selectedCount:Object.keys(level).length};
+}
+// Recognized contextual subjects (older feedback) are no longer displayed, but the
+// person's own recognition keeps its evidence for Ambre.
+function recognizedContextualRows(answers,feedback,data){
+ const {factors,outcomes}=index(data),level=answerLevels(answers,factors),weights=data.weights||{forte:3,moderee:2,limitee:1,theorique:1};
+ return Object.keys(feedback||{}).filter(id=>feedback[id]==='oui'&&outcomes.get(id)?.contextual_only&&!outcomes.get(id).retired).sort().map(id=>({outcome:outcomes.get(id),links:sortLinks((data.links||[]).filter(l=>l.outcome===id&&Object.hasOwn(level,l.factor)),weights)})).filter(r=>r.links.length);
 }
 
 // Historical identifiers retain their original meaning for saved feedback and notes.
@@ -140,9 +188,10 @@ function diverseResults(items,limit,feedback={}){
 }
 // The first subjects of the page's single list, in the same order, for Ambre.
 export const DISPLAY_ORDER_MAX=10;
+export const SECTION_OTHER_MAX=20;
 
 export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxConvergence=15,maxPistes=10,maxDisplay=DISPLAY_ORDER_MAX,notes=null,resources=null,ambreNotes=null}={}){
- const {factors,outcomes,protections}=index(data),state=computeCartography(answers,data),label=id=>factors.get(id)?.label||id;
+ const {factors,outcomes,protections}=index(data),state=computeCartography(answers,data,feedback),label=id=>factors.get(id)?.label||id;
  const metadata=o=>({...(o.category?{category:o.category}:{}),...(o.note?{note:o.note}:{}),...(o.age_scope?{age_scope:o.age_scope}:{}),...(o.contextual_only?{contextual_only:true}:{}),...(o.retired?{retired:true,description:o.description}:{})});
  const item=r=>{
   const empirical=r.links.filter(l=>!l.definitional&&relationType(l)==='empirical_association'),pool=empirical.length?empirical:r.links;
@@ -150,6 +199,10 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   const o=r.outcome;
   return {id:o.id,label:o.label,kind:o.kind,...metadata(o),...(o.code?{code:o.code}:{}),tier:r.tier,causes:r.factors.map(label),max_strength:max,relation_types:r.relation_types,evidence_groups:r.evidence_groups,...(o.url?{url:o.url}:{}),...(feedback[o.id]?{feedback:feedback[o.id]}:{})};
  };
+ // Sections in display order, without any score. "other" is capped (lowest relevance).
+ const sectionItem=r=>({...item(r),section:r.section,...(r.frequent?{frequent:true}:{}),...(r.familial?{familial_transmission:true}:{})});
+ const shortItem=r=>({id:r.outcome.id,label:r.outcome.label,section:r.section,max_strength:sectionItem(r).max_strength,...(r.frequent?{frequent:true}:{})});
+ const sections={recognized:state.sections.recognized.map(sectionItem),top:state.sections.top.map(sectionItem),frequent:state.sections.frequent.map(sectionItem),other:state.sections.other.slice(0,SECTION_OTHER_MAX).map(shortItem),dismissed:state.sections.dismissed.map(shortItem)};
  const convergence=state.results.filter(r=>r.tier==='convergence'),pistes=state.results.filter(r=>r.tier==='piste'),tierOf=new Map(state.results.map(r=>[r.outcome.id,r.tier]));
  const reported=value=>Object.keys(feedback||{}).filter(id=>feedback[id]===value&&outcomes.has(id)).sort((a,b)=>(TIER_ORDER[tierOf.get(a)]??3)-(TIER_ORDER[tierOf.get(b)]??3)||outcomes.get(a).label.localeCompare(outcomes.get(b).label,'fr')).map(id=>({id,label:outcomes.get(id).label,tier:tierOf.get(id)||'hors_resultats',...metadata(outcomes.get(id))}));
  const recognized=reported('oui'),dismissed=reported('non');
@@ -162,16 +215,19 @@ export function summarizeCartography(answers,feedback={},{data=CARTOGRAPHIE,maxC
   causes:Object.keys(answers||{}).filter(id=>factors.has(id)&&(answers[id]===1||answers[id]===2)).map(id=>({id,label:label(id),intensity:answers[id]})),
   convergence:selectedConvergence.map(item),
   pistes:selectedPistes.map(item),
-  contextual:state.results.filter(r=>r.outcome.contextual_only).map(item),
+  // Contextual subjects are no longer displayed nor sent; the empty list stays one
+  // version for compatibility with cached clients and older prompt code.
+  contextual:[],
+  sections,other_count:state.sections.other.length,
   exploratory:selectedExploratory.map(item),
   theorique_count:state.results.filter(r=>r.tier==='theorique').length,
   recognized,dismissed,
   suicide_recognized:recognized.some(r=>r.note==='suicide'),
   truncated:convergence.length>selectedConvergence.length||pistes.length>selectedPistes.length||exploratory.length>selectedExploratory.length,
   // Same order as the public list: what the person sees first is what Ambre reads first.
-  display_order:state.results.slice(0,Math.max(0,maxDisplay)).map(r=>({id:r.outcome.id,label:r.outcome.label,associated_count:r.associated_count,...(r.outcome.contextual_only?{contextual_only:true}:{}),...(feedback[r.outcome.id]?{feedback:feedback[r.outcome.id]}:{})})),
+  display_order:state.results.slice(0,Math.max(0,maxDisplay)).map(r=>({id:r.outcome.id,label:r.outcome.label,associated_count:r.associated_count,section:r.section,...(r.frequent?{frequent:true}:{}),...(feedback[r.outcome.id]?{feedback:feedback[r.outcome.id]}:{})})),
   display_count:state.results.length,
-  selection_policy:{order:'public_display_order',ranking:'contextual_last_then_empirically_associated_experiences_then_evidence_families_then_strength',recognized_selected_first:true,per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
+  selection_policy:{order:'public_display_order',ranking:'relevance_specificity_v5_strength_guard',sections:SECTION_ORDER,per_section_top:SECTION_TOP,contextual_hidden:true,recognized_selected_first:true,per_category_convergence:Math.ceil(maxConvergence/3),per_category_pistes:Math.ceil(maxPistes/3),individual_risk:false},
   // The member's own words, attached to the cause or consequence they annotate.
   notes:[...Object.entries(notes?.factors||{}).filter(([id,text])=>factors.has(id)&&typeof text==='string').map(([id,text])=>({target:'factor',id,label:factors.get(id).label,text})),
    ...Object.entries(notes?.outcomes||{}).filter(([id,text])=>outcomes.has(id)&&typeof text==='string').map(([id,text])=>({target:'outcome',id,label:outcomes.get(id).label,text,...(outcomes.get(id).retired?{retired:true,contextual_only:true}:{})}))],
@@ -191,6 +247,74 @@ export function cartographyHighlights(summary,limit=3){
  for(const x of summary.convergence)add(x);
  if(!picked.length)for(const x of summary.pistes)add(x);
  return picked;
+}
+
+// ---- Contract for Ambre (A5 lots call these, see docs/v5-C5a-avancement.md) ----
+const cut=(value,max)=>{const text=String(value||'');return text.length<=max?{text,excerpt:false}:{text:text.slice(0,max)+'\n[… suite omise …]',excerpt:true};};
+const withoutUrl=({url,...x})=>x;
+// The member's notes, checked resources and Ambre's own notes, within a fixed budget.
+// Ambre's most recent notes are kept first; the list stays in chronological order.
+function cartographyWords(map){
+ let budget=4500,notes_truncated=false;const person_notes=[],own=[];
+ for(const n of map.notes||[]){const text=cut(n.text,400).text;if(text.length>budget){notes_truncated=true;continue;}budget-=text.length;if(text!==n.text)notes_truncated=true;person_notes.push({target:n.target,id:n.id,label:n.label,text});}
+ budget=3000;
+ for(const n of (map.ambre_notes||[]).slice().reverse()){if(n.text.length>budget){notes_truncated=true;break;}budget-=n.text.length;own.unshift({target:n.target,...(n.target==='general'?{}:{id:n.target_id,label:n.label}),text:n.text});}
+ return {person_notes,resources:(map.resources||[]).map(r=>r.label),ambre_notes:own,...(notes_truncated?{notes_truncated:true}:{})};
+}
+// Compact childhood map for the model: labels, sections and evidence, no public URL,
+// no score. With a budget (maximum JSON length), the least useful parts leave first;
+// recognized subjects, the five first subjects and the frequent ones are never removed.
+export function cartographyPromptBlock(summary,budget=Infinity){
+ if(!summary)return null;
+ const sections=summary.sections||{},compact=x=>({id:x.id,label:x.label,max_strength:x.max_strength,...(x.frequent?{frequent:true}:{}),...(x.familial_transmission?{familial_transmission:true}:{}),...(x.feedback?{feedback:x.feedback}:{})});
+ const block={version:summary.version,locked_at:summary.locked_at,cause_count:summary.cause_count,ace_count:summary.ace_count,answered_count:summary.answered_count,explicit_negative:summary.explicit_negative||[],
+  display_order:summary.display_order||[],display_count:summary.display_count||0,
+  sections:{top:(sections.top||[]).map(x=>x.id),frequent:(sections.frequent||[]).map(compact),other_count:summary.other_count??(sections.other||[]).length},
+  contextual:[],exploratory:(summary.exploratory||[]).map(withoutUrl),evidence_sources:(summary.evidence_sources||[]).map(({url,...reference})=>reference),causes:summary.causes,
+  convergence:(summary.convergence||[]).map(withoutUrl),pistes:(summary.pistes||[]).map(withoutUrl),theorique_count:summary.theorique_count,recognized:summary.recognized||[],dismissed:summary.dismissed||[],suicide_recognized:Boolean(summary.suicide_recognized),truncated:Boolean(summary.truncated),
+  evidence:(summary.evidence||[]).map(e=>({...e,links:e.links.slice()})),...(summary.evidence_truncated?{evidence_truncated:true}:{}),...cartographyWords(summary)};
+ const size=()=>JSON.stringify(block).length;
+ while(Number.isFinite(budget)&&size()>budget){
+  if(block.ambre_notes.length){block.ambre_notes.shift();block.notes_truncated=true;continue;}
+  if(block.pistes.length){block.pistes.pop();block.truncated=true;continue;}
+  if(block.exploratory.length){block.exploratory.pop();block.truncated=true;continue;}
+  const optional=block.convergence.length>3?block.convergence.findLastIndex(x=>x.feedback!=='oui'):-1;
+  if(optional>=0){block.convergence.splice(optional,1);block.truncated=true;continue;}
+  if(block.evidence.length>1){block.evidence.pop();block.evidence_truncated=true;continue;}
+  if(block.evidence_sources.length>1){block.evidence_sources.pop();block.evidence_sources_truncated=true;continue;}
+  if(block.person_notes.length>4){block.person_notes.pop();block.notes_truncated=true;continue;}
+  break;
+ }
+ return block;
+}
+// Entries of Ambre's knowledge index built from the map, in the page's order:
+// causes, explicit "no" answers, subjects (recognized, top, frequent, other, dismissed,
+// then the remaining selected ones), resources, notes. Each entry is
+// {key,kind,label,content,updated_at,metadata}; the engine assigns ids and clips text.
+export function cartographyIndexEntries(summary){
+ if(!summary)return [];
+ const map=summary,at=map.locked_at??null,entries=[],push=(key,kind,label,content,metadata={})=>entries.push({key,kind,label,content,updated_at:at,metadata});
+ for(const c of (map.causes||[]).slice(0,80))push('cause:'+c.id,'cause',c.label,c);
+ for(const c of (map.explicit_negative||[]).slice(0,80))push('cartography:negative:'+c.id,'boundary','Réponse non · '+c.label,{...c,answer:0},{answer:0,explicit_negative:true});
+ const outcomes=new Map(),sections=map.sections||{};
+ for(const name of SECTION_ORDER)for(const item of (sections[name]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});
+ for(const list of ['convergence','pistes','exploratory','recognized','dismissed'])for(const item of (map[list]||[]))outcomes.set(item.id,{...outcomes.get(item.id),...item});
+ const dismissed=new Set((map.dismissed||[]).map(x=>x.id)),recognized=new Set((map.recognized||[]).map(x=>x.id));
+ for(const item of [...outcomes.values()].slice(0,180)){
+  const feedback=dismissed.has(item.id)?'non':recognized.has(item.id)?'oui':null;
+  const evidence=(map.evidence||[]).find(x=>x.id===item.id),sourceIds=[...new Set((evidence?.links||[]).flatMap(link=>link.source_ids||[]))];
+  const metadata={feedback,inference:'hypothesis_only',category:item.category||null,age_scope:item.age_scope||null,contextual_only:Boolean(item.contextual_only||item.note==='jeune_enfant'),note:item.note||null,relation_types:item.relation_types||evidence?.relation_types||[],source_ids:sourceIds,section:item.section||(feedback==='oui'?'recognized':feedback==='non'?'dismissed':null),...(item.frequent?{frequent:true}:{})};
+  const references=(map.evidence_sources||[]).filter(ref=>sourceIds.includes(ref.id)),lead=evidence?.links?.[0],reference=references.find(ref=>(lead?.source_ids||[]).includes(ref.id));
+  // Keep the primary finding whole outside the text excerpt, including its cautionary conclusion.
+  if(lead?.summary)metadata.evidence_summary=lead.summary;
+  if(reference)metadata.evidence_source={id:reference.id,url:reference.url};
+  const {url:publicReading,...withoutReading}=item;
+  const content={label:item.label,feedback,age_scope:metadata.age_scope,note:metadata.note,relation_type:lead?.relation_type||null,evidence_summary:lead?.summary||null,evidence_source:reference?{id:reference.id,url:reference.url,citation:String(reference.citation||'').slice(0,180)}:null,...withoutReading,...metadata,...(evidence?{evidence}:{}),sources:references};
+  push('cartography:outcome:'+item.id,'outcome',(feedback==='non'?'Écarté · ':feedback==='oui'?'Reconnu · ':metadata.age_scope==='young_child_only'?'Jeune enfant · ':metadata.contextual_only?'Repère contextuel · ':item.frequent&&item.section==='frequent'?'Fréquent · ':'Piste · ')+item.label,content,metadata);
+ }
+ for(const resource of (map.resources||[]).slice(0,80))push('cartography:resource:'+resource.id,'resource',resource.label,{...resource,reported:true});
+ for(const [i,n] of [...(map.notes||[]),...(map.ambre_notes||[])].slice(0,140).entries())push('note:'+i,'note',n.label||n.target||'Note',n.text,{target:n.target,target_id:n.target_id||n.id||null});
+ return entries;
 }
 
 const missingTable=e=>/no such table:\s*cartographies/i.test(String(e?.message||''));
@@ -217,9 +341,9 @@ export function cartographyView(row){
 // What research says about each recognized or converging consequence, for the checked
 // causes only: cause, level of evidence and the sourced summary. Recognized first.
 export function cartographyEvidence(answers,feedback={},{data=CARTOGRAPHIE,budget=6000}={}){
- const {factors}=index(data),state=computeCartography(answers,data),evidence=[],sourceIndex=new Map((data.sources||[]).map(s=>[s.id,s])),usedSources=new Map();let truncated=false;
+ const {factors}=index(data),state=computeCartography(answers,data,feedback),evidence=[],sourceIndex=new Map((data.sources||[]).map(s=>[s.id,s])),usedSources=new Map();let truncated=false;
  const selected=new Set(diverseResults(state.results.filter(r=>r.tier==='convergence'),15,feedback).map(r=>r.outcome.id));
- const wanted=state.results.filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||(!r.outcome.contextual_only&&selected.has(r.outcome.id)))).sort((a,b)=>Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui'));
+ const wanted=[...state.results,...recognizedContextualRows(answers,feedback,data)].filter(r=>feedback?.[r.outcome.id]!=='non'&&(feedback?.[r.outcome.id]==='oui'||(!r.outcome.contextual_only&&selected.has(r.outcome.id)))).sort((a,b)=>Number(feedback[b.outcome.id]==='oui')-Number(feedback[a.outcome.id]==='oui'));
  const collected=new Map();
  const evidenceItem=(r,links)=>({id:r.outcome.id,label:r.outcome.label,...(r.outcome.note?{note:r.outcome.note}:{}),...(r.outcome.age_scope?{age_scope:r.outcome.age_scope}:{}),...(r.outcome.contextual_only?{contextual_only:true}:{}),links});
  // One sourced link per subject before adding a second: a long first card must
