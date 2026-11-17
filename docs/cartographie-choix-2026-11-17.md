@@ -1,6 +1,6 @@
 # Cartographie — choix explicites et séparation du contrôle parental
 
-État : PR 92 fusionnée, Worker publié et vérifié ; publication statique Netlify et recette réelle à terminer (voir la note de reprise). Travail isolé sur `codex/cartographie-choix`, base `origin/main` f9aa647. Décisions du propriétaire : ajouter l’incertitude, réserver Non/Oui aux événements uniques, distinguer règles strictes et contrôle psychologique. Ne pas rétablir les ressources, ne pas ajouter la question sur les violences amoureuses adolescentes, ne pas confirmer le lien négligence affective–bipolaires, ne pas activer de plafond de dépense.
+État : PR 92 et correctif PR 93 fusionnés, Worker et site publiés et vérifiés. La dernière section indique la recette réelle finale ; les paragraphes intermédiaires sont historiques. Travail isolé sur `codex/cartographie-choix`, base `origin/main` f9aa647. Décisions du propriétaire : ajouter l’incertitude, réserver Non/Oui aux événements uniques, distinguer règles strictes et contrôle psychologique. Ne pas rétablir les ressources, ne pas ajouter la question sur les violences amoureuses adolescentes, ne pas confirmer le lien négligence affective–bipolaires, ne pas activer de plafond de dépense.
 
 ## Contrat de données et historique
 
@@ -58,3 +58,11 @@ La question posée au propriétaire portait sur **l’affichage** de cette assoc
 Relecture indépendante du 17 novembre : une seule paire retirée, 517 autres liens identiques, 272 sources et 113 sujets conservés ; absence de cette paire dans les résultats, preuves, résumé et index transmis à Ambre. Les réponses et notes restent disponibles. 60 tests puis 7 tests finaux réussis ; vérification du module et génération en mémoire sans erreur. La spécificité du seul sujet `icd_6a60` passe automatiquement de 2100 à 2262 avec l’algorithme existant ; aucun autre paramètre de classement modifié.
 
 Nouvelle empreinte du cœur : `d9ab1373af12b3bdc9d3634d64115bc258d430b6f4b0aa7cd9effa4c80292308`. L’attestation ne couvre que ce retrait, sans prétendre à une nouvelle revue clinique globale. Les comptes à 518 liens ci-dessus décrivent l’état avant ce refus appliqué.
+
+## Publication finale après retrait
+
+PR 93 : source finale `4ec5733788e90781503f33cdce750295b01ef5bd`, fusion `e77c7d5df29522ea0011c47f396f74881adbc9ef`, arbre `108b567080b95704578c5f593d75e686ae44a74c`. CI `44081960833` entièrement réussie. Validation finale : 794 tests journal, 41 site, 81 ciblés ; parcours Cartographie 16 + 6 + 7 réussis. Les 6 parcours P2 validés précédemment restent inchangés, soit 35 parcours navigateur pour l’ensemble du lot. Tous les contrôles de `verify.yml` passent, y compris le compteur de couverture régénéré à 517.
+
+Worker complet `5b2c044141344319885d92c7d99fbb92`, publié à 12:17 UTC : 44 empreintes relues après upload sans écart, 7 liaisons et cron conservés. Netlify `6afc468786ed9578fc51b512`, ready, publié à 12:20:58 UTC (13:20 Paris), même commit de fusion. Aucun changement de schéma après 0024.
+
+Recette production terminée le 17 novembre à 12:21:54 UTC : retrait de la paire confirmé dans le dataset public, les résultats et le résumé API avec la réponse conservée ; six questions binaires ; « Je ne sais pas » sauvegardé, rechargé et exporté ; questions distinctes et indépendantes ; six anciens Souvent, réponse historique et notes préservés. Parcours à 1440/390 px, six captures, aucune erreur JavaScript/console ni débordement, aucun appel IA. Compte synthétique supprimé (DELETE 200 puis session vide), credentials effacés. Contrôle D1 des quatre comptes utilisés pour P2 et Cartographie : 43 tables, zéro reliquat, aucune violation de clé étrangère. Les rapports et captures restent dans le répertoire de travail de recette ; aucun identifiant de connexion n’est versionné.
