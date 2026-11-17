@@ -137,3 +137,85 @@ Remarques : `tier` (convergence / piste / théorique) reste calculé comme aujou
 
 Texte de `interpretation.ranking` proposé : « Liste unique, même ordre pour la page et pour Ambre. Chaque vécu coché relié à un sujet compte selon le niveau de preuve du lien (solide, modéré, limité ; modèles cliniques et définitions comptent peu), un peu plus si vous avez répondu « Souvent », une seule fois par famille de vécus proches ; ce total est pondéré par la spécificité du sujet, moindre quand la recherche le relie à presque tous les vécus difficiles. Les sujets dans lesquels vous vous reconnaissez viennent d'abord, ceux que vous avez écartés à la fin. Ce n'est ni une probabilité ni un risque personnel. »
 
+## 3. « Ce qui en ressort » — interface cible
+
+Prototype rendu sur la vraie page (données réelles, ranking-v5, CSS ajouté à la volée ; rien dans le dépôt) : `scratchpad/carto-v5/cible-violences-390.png`, `cible-violences-1440.png`, `cible-violences-1440-autres-ouverts.png` ; état actuel : `actuel-*-390.png`, `actuel-*-1440.png`, `vue-390.png`, `vue-1440.png`. Profil « violences » avec un « Je me reconnais » (attachement anxieux) et un « Pas moi » (sommeil) : 6 cartes complètes + 44 lignes repliées + 1 écarté au lieu de 67 cartes ; à 390 px, page d'environ 1 700 px replis fermés et volet de 3 634 px repli « Autres » ouvert (volet actuel : 12 278 px) ; aucun défilement horizontal à 390 px.
+
+### 3.1 Structure (de haut en bas, même structure à 390 et 1 440 px)
+1. Notes générales d'Ambre (existant, inchangé, seulement si présentes).
+2. **Phrase de classement** (`p.carto-rank-note`, petite, couleur secondaire, une seule phrase, affichée dès qu'il y a un résultat) : « Classés selon la solidité des études qui relient chaque sujet à vos réponses, en faisant passer ce qui leur est propre avant ce qui accompagne presque tous les vécus difficiles ; ce n'est pas une mesure de votre risque. » Pas d'introduction, pas de vue d'ensemble.
+3. **« Vous vous y reconnaissez (n) »** (`h3`), seulement si n > 0 : cartes complètes, section `reconnu`, dans l'ordre de pertinence.
+4. **« Le plus en lien avec vos réponses »** (`h3`) : les 5 premières cartes de la section `principal`, complètes.
+5. **Ligne « fréquents »** (sous ces 5 cartes, seulement si l'un des sujets `frequent` relié à la personne par une association empirique est hors des sections 3-4) : « Aussi associés à la plupart des vécus difficiles : Dépression ou symptômes dépressifs, Anxiété ou troubles anxieux. » Chaque nom est un bouton qui déplie le repli 6 et ouvre la carte. Cela garde visibles les deux sujets les plus fréquents sans qu'ils occupent la tête de liste.
+6. **`<details>` « Autres sujets reliés à vos réponses (n) »**, fermé par défaut : section `autre`, une ligne par sujet (titre à gauche, niveau de preuve à droite ; « associé à de nombreux vécus » pour `frequent` ; « modèle clinique, non mesuré » pour les sujets sans association empirique, qui sont en fin de liste par construction). La ligne est un bouton `aria-expanded` qui la transforme sur place en carte complète (même composant).
+7. **`<details>` « Écartés : « Pas moi » (n) »**, fermé, seulement si n > 0 : mêmes lignes, carte dépliable avec « Pas moi » actif pour annuler.
+8. Lien existant « Ce que la carte ne couvre pas » (inchangé).
+
+État de dépliage des deux `<details>` et des cartes conservé dans `state` (comme `themesOpen`) pour que le re-rendu après un clic ne les referme pas ; focus restauré par `data-focus` (existant). Le compteur `role=status` reste le seul annoncé : « N réponses · M sujets » (M sans contextuels).
+
+### 3.2 Carte complète (sections 3, 4 et ligne dépliée)
+- `h4` titre du sujet (premier élément ; l'étiquette de catégorie « Tendance » ne vient plus au-dessus).
+- **« Relié à : »** les vécus cochés qui y mènent, en gras, associations mesurées d'abord par force, puis vécus reliés seulement par un modèle ; « (souvent) » après une réponse « Souvent » ; au-delà de 3, « et N autres ». C'est l'explication la plus parlante du rang.
+- Ligne de méta en pastilles : niveau de preuve le plus élevé parmi les associations mesurées (« Preuves solides / modérées / limitées », ou « Modèle clinique, non mesuré ») ; pastille en pointillé « Associé à de nombreux vécus » si `frequent` ; puis catégorie et code CIM en texte discret (« Trouble étudié · 6A20 »).
+- Actions sur une ligne : « Je me reconnais », « Pas moi », et à droite « Voir le détail » / « Replier » (`aria-expanded`). Un clic sur « Je me reconnais » déplace la carte dans la section 3, « Pas moi » dans le repli 7 ; le focus suit la carte (clé `data-focus` inchangée).
+- Détail déplié (existant, recentré) : description ; associations mesurées (vécu, force, résumé, sources) ; « Autres repères (modèles cliniques, définitions) — comptent peu dans l'ordre » (remplace « non comptés dans l'ordre de la liste », devenu faux) ; mise en garde « trouble » existante ; champ « Décrire comment cela se manifeste aujourd'hui » et notes d'Ambre (existants).
+- Supprimés de la carte : légende « Repère de contexte… », note « jeune enfant », compteur « N vécus associés » et « M autres repères » dans l'en-tête (remplacés par « Relié à » et la pastille de preuve), classe `carto-tier-*` (le tier n'est plus visible). `is-dismissed` devient inutile (section dédiée).
+- Attribut de test : `data-section` (reconnu / principal / autre / ecarte) et `data-outcome` sur chaque carte ou ligne ; `data-associated` peut rester pour compatibilité.
+
+### 3.3 Ce qui n'est pas réintroduit
+Aucune introduction, vue d'ensemble, filtre par type, barre de progression, encadré 3114 ni bouton de suppression de la carte enregistrée. Une seule phrase explicative ; les deux replis sont des regroupements de la même liste, pas des filtres. Le test navigateur existant « the results page has no crisis banner or saved-map deletion button » reste valable tel quel.
+
+### 3.4 Cas limites
+- Aucune case « Oui/Souvent » : message vide existant.
+- Cases sans aucun lien (exil, migration, secrets, emprise) : message existant « Aucun rapprochement suffisamment documenté… ».
+- Seulement des ressentis (aucune association mesurée) : la section 4 montre les 5 premiers sujets de modèle (pastille « Modèle clinique, non mesuré ») ; la phrase de classement reste juste.
+- Moins de 6 sujets : pas de repli « Autres ».
+- Tout coché : 5 cartes + ≈ 80 lignes repliées au lieu de 85 cartes.
+
+## 4. Fichiers à modifier et tests à adapter
+
+### 4.1 Fichiers
+| Fichier | Modification |
+| --- | --- |
+| `scripts/build_cartographie.py` | calculer `specificity` et `frequent` par sujet (pseudo-code § 2.4) ; contrôle d'erreur si un sujet visible n'a pas `specificity` ; réécrire `interpretation.ranking` (§ 2.4) |
+| `scripts/build_cartographie_module.mjs` | recopier `specificity` et `frequent` dans `outcomes` du module compact (l. 22) |
+| `data/cartographie.json`, `journal/src/cartographie.generated.mjs` | régénérés (nouvelle empreinte ; budgets 600 000 / 500 000 octets : + ≈ 3 Ko) |
+| `static/js/cartographie.js` | `compute(data, answers, feedback)` : exclusion des contextuels, score L, sections ; retirer le code mort `mount` / `card` / `render` (ancienne interface à cases à cocher et filtres, plus chargée par la page, contient encore l'encadré 3114 et les filtres) |
+| `journal/src/cartographie.mjs` | `computeCartography(answers, data, feedback)` identique ; `summarizeCartography` : `display_order` avec `section` et `frequent` (sans score), `display_count`, suppression de `contextual`, `selection_policy.ranking` = `relevance_specificity_v5`, `per_section_top: 5` ; `cartographyEvidence` et `diverseResults` suivent le nouvel ordre |
+| `journal/src/chat-backend.mjs` | `cartographyPrompt` sans `contextual` ; boucles de troncature l. 418 et 686 sans la branche `contextual` |
+| `journal/src/ambre-engine.mjs` | l. 165 : liste `contextual` facultative |
+| `journal/src/psychology-framework.mjs` | `CHILDHOOD_CARTOGRAPHY_GUIDANCE` : description de `display_order` (sections, pertinence et spécificité, jamais une probabilité) |
+| `journal/src/settings-interface.mjs` | libellés `section`, `frequent` si ces champs apparaissent dans les Paramètres |
+| `static/js/cartographie-ui.js` | `renderResults` (sections, phrase, ligne « fréquents », replis), `card` (structure § 3.2), `cardMeta` remplacé, `openFactor` (sujets contextuels masqués, « non compté » → « poids faible »), `factorRow` (compteur de liens sans contextuels), `compute()` passe `state.feedback`, `setFeedback` garde le focus sur la carte déplacée |
+| `static/css/style.css` | classes `carto-rank-note`, `carto-section-title`, `carto-from-line`, `carto-badge`, `carto-fold`, `carto-row` ; retirer `carto-tier-*` et `is-dismissed` s'ils ne servent plus |
+| `content/cartographie.md` | description « conséquences » → « sujets associés » (déjà en reste du lot C) |
+| `docs/v4-C-avancement.md` ou nouveau suivi v5 | mesures avant/après |
+
+### 4.2 Tests
+| Test | Adaptation |
+| --- | --- |
+| `tests/cartographie.test.cjs` « reported intensity does not multiply uncalibrated evidence or risk » | reformuler : « Souvent » peut changer l'**ordre** mais jamais `tier`, `score` (force max), `associated_count` ni la force affichée |
+| idem « adverse experiences… », « overlapping experiences count as one family » | ajouter : deux cases d'une même famille ne doublent pas `relevance` |
+| idem « published dataset is consistent » | `specificity` entier > 0 et `frequent` booléen pour tout sujet visible ; recalcul indépendant de df |
+| `tests/cartographie.test.cjs` l. 161-164 (contextuels) | garder les assertions de données ; ajouter : `compute` ne renvoie aucun `contextual_only` |
+| `journal/tests/cartographie.test.mjs` « the Worker ranking matches the public page compute… » et « public and backend agree for every factor pair » | ajouter le paramètre `feedback` et comparer `section`, `relevance` (égalité stricte) |
+| idem l. 138 (`summary.contextual` contient 6B44) | remplacer : `summary.contextual` absent ; un retour « oui » ancien sur 6B44 reste dans `recognized` avec `contextual_only` et `age_scope` |
+| idem l. 172 (`automatic` inclut `summary.contextual`) | retirer `contextual` de la liste |
+| `journal/tests/v4-C-cartographie.test.mjs` « simulation: top 5 displayed equals top 5… » | conserver la parité page/Worker/`display_order` ; remplacer « contextual cards last » et « sorted by associated_count » par : aucun contextuel, sujets empiriques avant modèles seuls, `relevance` non croissante dans chaque section |
+| idem « theoretical, definitional and classification links no longer push a subject up » | nouvelle attente : `['measured','model']`, `ctx` absent ; un modèle seul ne passe jamais devant un sujet à association mesurée, mais départage deux sujets de même score empirique |
+| idem « interpretation.ranking describes the order actually displayed » | nouvelles expressions : `spécificité`, `Souvent`, `reconnaissez`, `ni une probabilité ni un risque` ; plus de `contextuels viennent en dernier` ni `ne comptent pas` |
+| idem « Ambre's prompt carries the same display order » | ajouter `section` ; vérifier qu'aucun score chiffré n'est transmis |
+| `journal/tests/ambre-engine.test.mjs` l. 479 | garder (index tolérant) ; ajouter un cas sans `contextual` |
+| `tests/v4-C-cartographie-browser.cjs` « five first cards = five first subjects for Ambre » | lire l'ordre sur `[data-outcome]` de toutes sections (replis ouverts) |
+| idem « contextual headers carry no evidence label » | remplacer par : aucun texte « Repère de contexte », aucune carte d'un sujet `contextual_only`, y compris dans la fenêtre « Liens étudiés » |
+| `tests/cartographie-browser.cjs` l. 107 (ordre lu sur `data-associated`, contextuels en dernier) | lire `data-section` et l'ordre de `ranking-v5` |
+| nouveaux tests navigateur (390 et 1 440 px) | une seule phrase de classement ; 5 cartes complètes au plus dans « Le plus en lien » ; repli « Autres » fermé, ouverture conservée après un clic de retour ; « Je me reconnais » déplace la carte en tête et garde le focus ; « Pas moi » la range dans « Écartés », réversible ; ligne « fréquents » ouvre la bonne carte ; pas de défilement horizontal à 390 px ; ni filtre, ni barre de progression, ni 3114, ni bouton de suppression |
+| nouveau test unitaire de simulation (fixe, graine) | sur 2 000 profils mixtes : dépression ou anxiété en 1re position < 40 %, top 3 < 70 % ; tête reposant sur un seul lien « limitée » < 12 % (bornes larges autour des mesures 26 % / 55 % / 8 %) |
+
+Vérifications projet après intégration : `node --test tests/*.test.cjs`, `npm --prefix journal test`, les deux suites navigateur, les `--check` de `verify.yml`, `audit_cartographie.py`, puis relecture indépendante (le changement d'ordre modifie ce qu'Ambre lit en premier) et vérification du déploiement distant.
+
+## 5. Décisions à demander au propriétaire
+1. Accepter que dépression et anxiété ne soient plus en tête pour la plupart des profils (ligne « fréquents » comme contrepartie) ; sinon variante I (spécificité amortie), qui ne résout presque rien.
+2. Masquer aussi les sujets contextuels dans la fenêtre « Liens étudiés » (recommandé).
+3. Notes anciennes sur un sujet devenu invisible : laisser comme les sujets retirés (recommandé) ou les afficher.
+4. Taille de la section principale : 5 (recommandé ; prototype lisible à 390 px) ou 3.
