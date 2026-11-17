@@ -121,7 +121,7 @@ Ce tableau suit les scénarios candidats déjà présents dans la cartographie. 
 
 ## Cartographie de l’enfance : lacunes restantes
 
-La carte relie 113 sujets par 518 liens sourcés. Les points suivants restent ouverts ; ils ne sont ni des liens publiés ni des absences de recherche. Les décisions détaillées figurent dans [le registre des référentiels](../editorial/cartographie/couverture-referentiels.json).
+La carte relie 113 sujets par 517 liens sourcés. Les points suivants restent ouverts ; ils ne sont ni des liens publiés ni des absences de recherche. Les décisions détaillées figurent dans [le registre des référentiels](../editorial/cartographie/couverture-referentiels.json).
 
 | Nature | Sujet | Note |
 | --- | --- | --- |
