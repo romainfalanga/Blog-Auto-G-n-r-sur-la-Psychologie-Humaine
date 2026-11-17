@@ -26,8 +26,15 @@ Les contrôles à trois réponses gardent leurs séparations : Non/Oui sur la pr
 - Lecture seule, isolation de deux comptes, aucune mutation ni génération, échappement de texte `</script>` et Unicode, nonce CSP, en-têtes privés et fallback vérifiés.
 - Parcours navigateur : identité et conservation des anciens champs, conflits, chargement au premier affichage, navigation rapide, erreurs, trois réponses, fréquences historiques et absence de nomenclature dans tous les détails.
 - Une preuve de transfert HTML interrompu avant le script avait révélé un affichage prématuré du chargement : le script dans le head et le retrait du scaffold l'ont corrigé. Contrôle du premier requestAnimationFrame et de la fin DOMContentLoaded, en plus des parcours fonctionnels.
-- Relecture applicative indépendante par l'agent qui n'a pas écrit le Worker, l'Edge ou l'interface ; vérifications finales à consigner dans la livraison.
+- Relecture applicative indépendante par l'agent qui n'a pas écrit le Worker, l'Edge ou l'interface ; verdict final favorable, aucun défaut résiduel identifié.
 
 ## Publication
 
-À compléter après publication et recette réelle. Aucune migration, aucun secret changé, aucune génération IA demandée.
+- PR [96](https://github.com/romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/pull/96), source `78c613a2476ba9d510e2f0dc726aa34d3b6b5815`, fusion `de5a9f6e43478aa02911a8ad9a543872d672d676`, arbre `7206e0936934071b23bc8a57bbadab3ab0f9361a`.
+- CI `44128453293` réussie ; 800 tests journal, 46 site, 74 parcours navigateur (19 pages/navigation/persistance, 6 formulaires, 26 cartographie dont bootstrap, 9 choix/détails, 6 v4, 8 v5).
+- Worker `bc918342d604411f91c4f4b6972f008d`, publié le 17 novembre à 17:41:10 Paris. Les 44 modules distants correspondaient à la base avant remplacement ; les 44 modules finaux ont été relus SHA-256, zéro différence. Sept liaisons et cron conservés.
+- Netlify `6afc843dee48caf60798b031`, ready, même fusion, publié le 17 novembre à 17:44:17 Paris. Fonction Edge présente, bootstrap anonyme du preview et privé de production vérifiés.
+- Recette réelle : 16 premiers affichages à 320/390/768/1440 px, tous prêts sans chargement visible ni GET API redondant ; 20 captures. Identité et présentation sauvegardées/rechargées, anciens paragraphes et fréquences 2 conservés, trois choix et absence de niveaux/nomenclature vérifiés dans les cartes/détails. Aucun débordement ni erreur JavaScript/console, aucun appel de génération.
+- Compte synthétique supprimé (API200, session vide), fichier d'identifiants effacé. Contrôle D1 : zéro reliquat dans 43 tables, aucune violation de clé étrangère, 24 migrations inchangées.
+
+Aucune migration, aucun secret changé, aucune génération IA demandée. Preuves locales sous `work/portrait-identite/production/`, `work/initial-ready/` et les logs navigateur `work/*-head.log`.
