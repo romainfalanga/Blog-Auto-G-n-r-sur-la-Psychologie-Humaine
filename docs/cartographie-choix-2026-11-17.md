@@ -1,6 +1,6 @@
 # Cartographie — choix explicites et séparation du contrôle parental
 
-État : implémentation relue indépendamment, intégration et vérification finale avant publication. Travail isolé sur `codex/cartographie-choix`, base `origin/main` f9aa647. Décisions du propriétaire : ajouter l’incertitude, réserver Non/Oui aux événements uniques, distinguer règles strictes et contrôle psychologique. Ne pas rétablir les ressources, ne pas ajouter la question sur les violences amoureuses adolescentes, ne pas confirmer le lien négligence affective–bipolaires, ne pas activer de plafond de dépense.
+État : PR 92 fusionnée, Worker publié et vérifié ; publication statique Netlify et recette réelle à terminer (voir la note de reprise). Travail isolé sur `codex/cartographie-choix`, base `origin/main` f9aa647. Décisions du propriétaire : ajouter l’incertitude, réserver Non/Oui aux événements uniques, distinguer règles strictes et contrôle psychologique. Ne pas rétablir les ressources, ne pas ajouter la question sur les violences amoureuses adolescentes, ne pas confirmer le lien négligence affective–bipolaires, ne pas activer de plafond de dépense.
 
 ## Contrat de données et historique
 
@@ -44,3 +44,9 @@ L’attestation et l’audit sont actualisés uniquement pour ce delta de questi
 ## Stabilisation du contrôle de reprise
 
 Le test à horloge virtuelle du cron dépendait encore de l’attente réelle du threadpool SHA-256 : sous charge, il comptait parfois une cinquième passe, contre trois isolément. Le hachage est désormais simulé dans ce seul test par le même SHA-256 exact, retourné en Promise. Seuils, latences, empreintes et code de production inchangés. Correction relue indépendamment ; trois tests isolés passent (42 s, 46 s, 4 s simulées).
+
+## Publication et vérification intégrées
+
+PR 92 : source `da9cce8a6d5e5f69ebb192612649c57e4ea94bb2`, fusion `29331d9153072896eead2b0c98cc298cdae1f39e`, arbre `a1e2f108a38cd06e08f36c5f88f69f171b92d7a1`. CI `44079629158` réussie. Suite intégrée : 792 journal, 41 site, 35 parcours navigateur, 43 tests Python et toutes les commandes `verify.yml`. Les vérifications d’audit annoncées comme bloquées dans l’historique ci-dessus passent après l’attestation du delta relu.
+
+Worker complet publié avant fusion : `fad51c8803c94152a88d508dfd8bfe8b`, 17 novembre 2026 à 12:07 UTC ; 44 empreintes identiques, liaisons et cron conservés. Aucune migration supplémentaire. Le premier build Netlify de main a échoué (code 2), malgré la prévisualisation prête ; diagnostic en cours. Ne pas déclarer le nouveau questionnaire en production statique avant vérification du déploiement suivant.
