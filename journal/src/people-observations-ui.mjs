@@ -1,4 +1,5 @@
-export const PEOPLE_OBSERVATIONS_UI = String.raw`
+// Axis labels shared by the conversation proposal form, bundled in the application shell.
+export const PEOPLE_AXES_UI = String.raw`
 var PEOPLE_AXES = {
  communication: 'Communication',
  emotions: 'Émotions exprimées',
@@ -7,7 +8,10 @@ var PEOPLE_AXES = {
  appuis: 'Ce qui aide',
  tensions: 'Moments de tension'
 };
-
+`;
+// The "Repères sur cette relation" block is no longer shown in Mes proches and is not bundled
+// in the shell. It is kept, with its tests, because the observations API and data remain.
+export const PEOPLE_OBSERVATIONS_UI = PEOPLE_AXES_UI + String.raw`
 function personObservationDetails(person,options){
  options=options||{};
  function changed(){window.dispatchEvent(new CustomEvent('dte:person-observations-changed',{detail:{personId:person.id}}))}

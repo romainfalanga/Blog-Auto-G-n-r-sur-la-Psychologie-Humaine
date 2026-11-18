@@ -23,6 +23,7 @@ class Element {
   set id(value) { this._id=value; this.doc.ids.set(value,this); }
   get id() { return this._id; }
   append(...items) { for (const item of items) { if(typeof item==='object'&&item.parentElement){const old=item.parentElement.children;const index=old.indexOf(item);if(index>=0)old.splice(index,1);}this.children.push(item); if(typeof item==='object')item.parentElement=this; } }
+  prepend(item) { this.children.unshift(item);item.parentElement=this; }
   replaceChildren(...items) { this.children=[];this.append(...items); }
   set textContent(value) { this._text=String(value);this.children=[]; }
   get textContent() { return this._text + this.children.map(x=>typeof x==='string'?x:x.textContent).join(''); }
@@ -52,7 +53,7 @@ class Element {
 function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
-  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),embeddedNavigate:()=>false,confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
+  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
   for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
@@ -135,8 +136,8 @@ test('a late source-save response cannot replace another editor opened in the sa
 });
 
 test('personal pages keep the declared portrait without a synthesis subpage',()=>{
-  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('pageForPath'),env.ctx);
-  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-accompagnement/'),'chat');
+  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('pageForPath'),env.ctx);
+  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/mes-proches/'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-accompagnement/'),'chat');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
   assert.doesNotMatch(HTML,/À propos de moi/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab|portrait-synthesis|portrait-body/);
@@ -229,14 +230,14 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,5);assert.equal(links.at(-1).label,'Mon compte');assert.equal(links.some(link=>['Ambre','Mon portrait'].includes(link.label)),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,6);assert.deepEqual(links[0],{href:'/mon-accompagnement/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Mon enfance','Mes proches','Ma ligne de vie','Mes bilans','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
 function navigationFixture(preparePageData){
  const location={pathname:'/mon-portrait/',search:'',hash:''},rendered=[];
  const env=environment({location,preparedResponses:{},preparePageData,history:{pushState(_state,_unused,path){location.pathname=path}},window:{scrollTo(){}},capturePageDrafts(){},syncPageLocation(){env.ctx.state.tab=env.ctx.pageForPath(location.pathname)},renderApp(){rendered.push(env.ctx.state.tab)}});
- env.ctx.state.me={user:{id:'owner'}};env.ctx.state.tab='portrait';vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('pageForPath')+'\n'+functionCode('go'),env.ctx);
+ env.ctx.state.me={user:{id:'owner'}};env.ctx.state.tab='portrait';vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('pagePath')+'\n'+functionCode('pageForPath')+'\n'+functionCode('go'),env.ctx);
  return {...env,location,rendered};
 }
 
@@ -572,7 +573,8 @@ test('“Mes bilans” lists dated reviews, reads one in full, deletes with conf
  answer=false;await remove.fire('click');assert.match(confirmed,/Analyse initiale/);assert.match(confirmed,/relancée/);assert.equal(calls.some(c=>c[1]==='DELETE'),false);
  answer=true;await remove.fire('click');assert.deepEqual(calls.at(-1),['/api/reviews/r1','DELETE']);assert.equal(view.querySelectorAll('.review-item').length,2);
  responses['/api/reviews']={reviews:[],next_cursor:null};await env.ctx.renderReviews();
- assert.equal(view.querySelectorAll('.review-item').length,0);assert.match(view.textContent,/Aucun bilan pour le moment/);assert.match(view.textContent,/Faire le point/);assert.equal(view.querySelector('.workspace-empty').querySelector('a').href,'/mon-accompagnement/');
+ assert.equal(view.querySelectorAll('.review-item').length,0);assert.match(view.textContent,/Aucun bilan pour le moment/);assert.match(view.textContent,/Faire le point/);
+ const empty=view.querySelector('.workspace-empty');assert.equal(empty.querySelector('a'),null,'the empty history no longer opens the conversation');assert.equal(empty.querySelector('button'),null);assert.doesNotMatch(empty.textContent,/Ouvrir la conversation/);
 });
 
 test('the application shell routes “Mes bilans” like the other personal pages',()=>{
@@ -845,7 +847,7 @@ test('V10 an outbox provider cooldown keeps the precise error and automatically 
 
 test('a liked article renders from the real application state and preserves its note draft',async()=>{
  const env=environment({location:{origin:'https://example.test',pathname:'/mon-portrait/'},query:new URLSearchParams()});
- vm.runInContext(functionCode('pageForPath')+'\n'+script.match(/var PAGES=.*\n/)[0]+'\n'+script.match(/var state=.*\n/)[0],env.ctx);
+ vm.runInContext(functionCode('personIdForPath')+'\n'+functionCode('pageForPath')+'\n'+script.match(/var PAGES=.*\n/)[0]+'\n'+script.match(/var state=.*\n/)[0],env.ctx);
  for(const name of ['safeArticleLink','drawLikedArticles'])vm.runInContext(functionCode(name),env.ctx);
  env.ctx.state.examples=[{id:'a',title:'Une lecture',url:'/posts/une-lecture/'}];
  env.ctx.state.likes=[{article_id:'a',reason:'Mon retour'}];
@@ -981,12 +983,76 @@ test('note conflict shows the remote text and adopts its revision only after exp
  await env.editor.querySelectorAll('button').find(b=>b.textContent==='Conserver ma saisie pour un nouvel enregistrement').fire('click');conflict=false;await env.form.fire('submit');assert.equal(writes[1].revision,3);assert.equal(writes[1].text,'Mon brouillon');
 });
 
-test('embedded navigation only relays explicit local destinations with a strict target origin',()=>{
- const messages=[],env=environment({embeddedChat:true,location:{origin:'https://site.test'},window:{parent:{postMessage:(value,origin)=>messages.push({value,origin})}}});vm.runInContext(functionCode('embeddedPost')+'\n'+functionCode('embeddedNavigate'),env.ctx);
- assert.equal(env.ctx.embeddedNavigate('https://evil.test/mon-compte/'),false);assert.equal(env.ctx.embeddedNavigate('/api/export'),false);assert.equal(env.ctx.embeddedNavigate('/mon-compte/?payment=success'),true);assert.equal(messages[0].origin,'https://site.test');assert.equal(messages[0].value.channel,'dte-ambre');assert.equal(messages[0].value.path,'/mon-compte/?payment=success');
+test('the Ambre bubble is gone: no launcher, iframe bridge or embedded mode remains in the shell',()=>{
+ assert.doesNotMatch(HTML,/ambre-launcher|ambre-panel|ambre-embedded|ambre-widget|dte-ambre|postMessage|embedded|BroadcastChannel|dte:session/);
+ assert.doesNotMatch(HTML,/<iframe/);assert.match(HTML,/<li><a href="\/mon-accompagnement\/">Ambre<\/a><\/li>/);
+ for(const file of ['../../static/js/ambre-widget.js','../../static/css/ambre-widget.css'])assert.throws(()=>readFileSync(new URL(file,import.meta.url)),{code:'ENOENT'});
+ assert.doesNotMatch(readFileSync(new URL('../../layouts/_default/baseof.html',import.meta.url),'utf8'),/ambre-widget/);
+ assert.doesNotMatch(readFileSync(new URL('../../scripts/build_navigation.mjs',import.meta.url),'utf8'),/AMBRE_WIDGET/);
 });
-
-
+test('a close person has an address of their own, prepared and opened like the other pages',async()=>{
+ const seen=[],env=navigationFixture((tab,search,personId)=>{seen.push([tab,personId]);return Promise.resolve({ready:true})});
+ assert.equal(env.ctx.personIdForPath('/mes-proches/p-1_A/'),'p-1_A');assert.equal(env.ctx.personIdForPath('/mes-proches/p-1_A'),'p-1_A');
+ for(const path of ['/mes-proches/','/mes-proches','/mes-proches/a/b/','/mes-proches/a%2Fb/','/ma-ligne-de-vie/p1/'])assert.equal(env.ctx.personIdForPath(path),null,path);
+ assert.equal(env.ctx.pageForPath('/mes-proches/p1/'),'person');assert.equal(env.ctx.pagePath('person','p1'),'/mes-proches/p1/');assert.equal(env.ctx.pagePath('people'),'/mes-proches/');
+ await env.ctx.go('person','','p1');assert.equal(env.location.pathname,'/mes-proches/p1/');assert.deepEqual(seen,[['person','p1']]);assert.deepEqual(env.rendered,['person']);
+ await env.ctx.go('person','');assert.equal(env.location.pathname,'/mes-proches/','a person page without identifier falls back to the list');
+ const paths=[],prepare=environment({api:async path=>{paths.push(path);return {}}});vm.runInContext(functionCode('preparePageData'),prepare.ctx);
+ await prepare.ctx.preparePageData('person','','p1');assert.deepEqual(paths,['/api/people/p1','/api/people/p1/timeline']);
+});
+function personFixture(api,extra={}){
+ const env=environment({api,location:{pathname:'/mes-proches/p1/'},history:{replaceState(){}},queueMicrotask(fn){fn()},...extra});
+ for(const name of ['personRoleLabel','personIdForPath','pagePath','noteTarget','noteTimestamp','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
+ Object.assign(env.ctx.state,{tab:'person',personId:'p1',peopleFieldsReady:false});
+ const head=env.doc.createElement('div'),title=env.doc.createElement('h1'),description=env.doc.createElement('p');title.id='private-page-title';title.textContent='Mes proches';description.id='page-description';description.hidden=true;head.append(title,description);
+ const view=env.host('view');let html='';Object.defineProperty(view,'innerHTML',{set(value){html=value;const status=env.doc.createElement('p'),box=env.doc.createElement('div');status.id='source-page-status';box.id='person-content';view.replaceChildren(status,box)},get(){return html}});
+ return {...env,head,title,description,view,get box(){return env.doc.getElementById('person-content')}};
+}
+const personRow={id:'p1',display_name:'Léa',role:'friend',relationship_text:'On se parle chaque semaine.',revision:3};
+const personTimelineData={person:personRow,available:true,next_cursor:null,items:[{kind:'relationship_start',date:{precision:'year',start:'2012',end:'',age_text:''}},{kind:'life_event',event:{id:'e1',title:'Un voyage ensemble',description:'Trois jours en Bretagne.',date_precision:'year',date_start:'2019',notes:[],notes_available:true}},{kind:'user_note',note:{id:'n1',text:'Une note à moi',revision:1,created_at:'2026-11-01T10:00:00Z',updated_at:'2026-11-01T10:00:00Z'}},{kind:'ambre_observation',note:{id:'o1',text:'Léa me rappelle toujours.',created_at:'2026-11-02T10:00:00Z'}}]};
+test('the person page shows the name, role, information, edit action and the complete timeline at once',async()=>{
+ const calls=[],env=personFixture(async path=>{calls.push(path);return path.endsWith('/timeline')?personTimelineData:{person:personRow,fields_ready:true}});
+ await env.ctx.renderPerson();
+ assert.deepEqual(calls,['/api/people/p1','/api/people/p1/timeline'],'no further request is needed for the first display');
+ assert.equal(env.title.textContent,'Léa');assert.equal(env.description.textContent,'Ami ou amie');assert.equal(env.description.hidden,false);
+ const back=env.head.children[0];assert.equal(back.tagName,'A');assert.equal(back.href,'/mes-proches/');assert.equal(back.textContent,'Mes proches');
+ const text=env.box.textContent;for(const expected of ['Informations','On se parle chaque semaine.','Votre histoire avec Léa','Rencontre','2012','Un voyage ensemble','Trois jours en Bretagne.','Une note à moi','Léa me rappelle toujours.','Repère proposé par Ambre, validé par vous','Ajouter une note'])assert.ok(text.includes(expected),expected);
+ assert.doesNotMatch(text,/Repères sur cette relation|Chargement/);assert.equal(env.box.querySelector('details.person-timeline'),null,'the timeline is no longer a disclosure');
+ const buttons=env.box.querySelector('.person-info').querySelectorAll('button').map(button=>button.textContent);assert.deepEqual(buttons.slice(0,2),['Modifier','Supprimer']);
+ assert.equal(env.ctx.state.peopleFieldsReady,true);
+ await env.box.querySelector('.person-info').querySelector('button').fire('click');
+ const form=env.doc.getElementById('people-form');assert.ok(form,'Modifier opens the editor on the person page');assert.equal(form.elements.display_name.value,'Léa');assert.equal(env.ctx.state.sourceDrafts.get('people').revision,3);
+});
+test('an unknown person, or one of another account, gets a clear message and a way back to the list',async()=>{
+ for(const [error,pattern,retry] of [[Object.assign(new Error('Élément introuvable.'),{status:404,code:'not_found'}),/Ce proche est introuvable/,false],[Object.assign(new Error('Service momentanément indisponible.'),{status:503}),/Service momentanément indisponible/,true]]){
+  const env=personFixture(async()=>{throw error});await env.ctx.renderPerson();
+  assert.match(env.box.textContent,pattern);assert.equal(env.title.textContent,'Mes proches','no name is invented');
+  const links=env.box.querySelectorAll('a');assert.equal(links.length,1);assert.equal(links[0].href,'/mes-proches/');assert.equal(links[0].textContent,'Revenir à Mes proches');
+  assert.equal(env.box.querySelectorAll('button').some(button=>button.textContent==='Réessayer'),retry);assert.equal(env.box.querySelector('form'),null);assert.equal(env.ctx.state.person,null);
+ }
+});
+test('a directory card is short: name, role, one line and the action that opens the person page',()=>{
+ const env=personFixture(async()=>({}));
+ const card=env.ctx.drawSourceItem('people',{...personRow,what_helps:'Sa patience',period_start:'2012'},env.host('people-content'));
+ assert.equal(card.id,'person-p1');assert.equal(card.querySelector('h3').textContent,'Léa');assert.equal(card.querySelector('.source-tag').textContent,'Ami ou amie');assert.equal(card.querySelector('.person-line').textContent,'On se parle chaque semaine.');
+ const links=card.querySelectorAll('a');assert.equal(links.length,1);assert.equal(links[0].href,'/mes-proches/p1/');assert.equal(links[0].textContent,'Notre histoire');assert.equal(links[0].getAttribute('aria-label'),'Notre histoire avec Léa');
+ assert.equal(card.querySelectorAll('button').length,0);assert.equal(card.querySelectorAll('details').length,0);assert.doesNotMatch(card.textContent,/Sa patience|Repères|Votre histoire avec/);
+ assert.doesNotMatch(HTML,/Repères sur cette relation|personObservationDetails|person-observations/);assert.match(HTML,/var PEOPLE_AXES = \{/,'the conversation proposal form keeps its axis labels');
+});
+test('a note saved on the person page keeps the page and its open edit draft at the new revision',()=>{
+ const env=personFixture(async()=>({}));vm.runInContext(functionCode('applyNoteRevision'),env.ctx);
+ env.ctx.state.person={...personRow};env.ctx.state.sourceDrafts.set('people',{id:'p1',revision:3,values:{display_name:'Léa modifiée'}});
+ env.ctx.applyNoteRevision('/api/people/p1/notes',{parent_revision:4});assert.equal(env.ctx.state.person.revision,4);assert.equal(env.ctx.state.sourceDrafts.get('people').revision,4);assert.equal(env.ctx.state.sourceDrafts.get('people').values.display_name,'Léa modifiée');
+ env.ctx.applyNoteRevision('/api/people/other/notes',{parent_revision:9});assert.equal(env.ctx.state.person.revision,4);
+});
+test('saving from the person page refreshes that page; an unrelated draft never opens there',async()=>{
+ const saved={...personRow,display_name:'Léa B.',revision:4},calls=[];
+ const env=personFixture(async(path,method)=>{calls.push([path,method||'GET']);return method==='PATCH'?{person:saved}:personTimelineData});
+ env.view.innerHTML='';env.ctx.state.person={...personRow};env.ctx.state.personTimeline=personTimelineData;env.ctx.state.sourceDrafts.set('people',{id:null,creation_id:'c1',values:{role:'friend',display_name:'Brouillon'}});
+ env.ctx.drawPersonPage();assert.equal(env.doc.getElementById('people-form'),null,'the pending new-person draft belongs to the list');assert.equal(env.ctx.state.sourceDrafts.get('people').values.display_name,'Brouillon');
+ await env.box.querySelector('.person-info').querySelector('button').fire('click');const form=env.doc.getElementById('people-form');field(form,'display_name','Léa B.');await form.fire('submit');
+ assert.deepEqual(calls.find(call=>call[1]==='PATCH'),['/api/people/p1','PATCH']);assert.equal(env.title.textContent,'Léa B.');assert.equal(env.ctx.state.person.revision,4);assert.equal(env.ctx.state.sourceDrafts.has('people'),false);assert.equal(env.box.querySelectorAll('form').filter(node=>node.id==='people-form').length,0,'the editor closes after a saved change');assert.ok(calls.some(call=>call[0]==='/api/people/p1/timeline'),'the timeline is reloaded because the meeting date may have changed');
+});
 test('account renders API monthly credits and the Paris renewal date without another request',()=>{
  const env=environment({api(){throw new Error('No extra quota fetch')}}),host=env.host('quota');vm.runInContext(functionCode('appendAccountQuota'),env.ctx);
  env.ctx.appendAccountQuota(host,{access:{mode:'paid'},subscription:{active:true,status:'active',paid_until:Date.parse('2026-12-17T12:00:00Z')/1000},quotas:{messages:{limit:100,used:7,reserved:1,remaining:92,renews_at:'2026-11-30T23:00:00.000Z'},reviews:{limit:1,used:1,remaining:0}}});

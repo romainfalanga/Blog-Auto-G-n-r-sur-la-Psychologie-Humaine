@@ -7,7 +7,7 @@ test('legacy page redirects drop retired identifiers and retain public article o
   const { default: redirect } = await import('../netlify/edge-functions/legacy-private-pages.js');
   const base = 'https://decodetonesprit.fr';
   const config = readFileSync(join(__dirname, '../netlify.toml'), 'utf8');
-  assert.ok(!config.split('[[redirects]]').slice(1).some(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block)), 'The home page must remain available beside the Ambre launcher');
+  assert.ok(!config.split('[[redirects]]').slice(1).some(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block)), 'The home page must remain public: Ambre is reached from the menu');
   const [, pattern] = config.match(/pattern = "([^"]+)"\s+function = "legacy-private-pages"/);
   const route = new RegExp('^(?:' + pattern + ')$');
   assert.equal(route.test('/personnages/camille/'), false);

@@ -69,7 +69,7 @@
   [headers.values]
     Cache-Control = "private, no-store"
 
-# L’accueil public reste accessible ; Ambre s’ouvre depuis la bulle de conversation.
+# L’accueil public reste accessible ; Ambre s’ouvre depuis le premier lien du menu (/mon-accompagnement/).
 
 [[redirects]]
   from = "/mes-bilans"
