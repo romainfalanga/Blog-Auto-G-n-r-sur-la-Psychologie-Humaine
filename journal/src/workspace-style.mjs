@@ -142,20 +142,6 @@ input,textarea,select { border-color: var(--line); }
 .source-actions button.text { padding: 0; text-decoration: none; font-size: .83rem; font-weight: 650; }
 .source-actions button.text:hover { text-decoration: underline; }
 .source-item .source-actions button.danger:not(:hover):not(:focus-visible) { color: var(--muted); }
-.person-observations { border-top: 1px solid var(--line); margin-top: 12px; }
-.person-observations summary { list-style: none; min-height: 44px; padding: 10px 0; color: var(--accent); font-size: .9rem; font-weight: 650; }
-.person-observations summary::-webkit-details-marker { display: none; }
-.person-observations summary::before { content: '+' / ''; display: inline-block; width: 1rem; }
-.person-observations[open] summary::before { content: '−' / ''; }
-.person-observation-content :is(h4, h5) { margin: 10px 0 5px; font-size: .9rem; }
-.person-observation-content h5 { color: var(--muted); }
-.person-observation-map, .person-observation-notes { list-style: none; margin: 0; padding: 0; }
-.person-observation-map { display: flex; flex-wrap: wrap; gap: 6px; }
-.person-observation-map li { padding: 3px 8px; background: var(--accent-wash); border-radius: 5px; font-size: .77rem; }
-.person-observation-map strong { margin-left: .45rem; }
-.person-observation-notes li + li { border-top: 1px solid var(--line); }
-.person-observation-notes blockquote { margin: 0; padding-left: .65rem; border-left: 2px solid var(--line); font-size: .875rem; overflow-wrap: anywhere; }
-.person-observation-notes button { font-size: .76rem; }
 .event-timeline {
   position: relative;
   display: grid;
@@ -417,22 +403,9 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
  .settings-tabs { gap: 0 12px; }
  .settings-context,.settings-source-area,.settings-turn-detail { padding: 14px; }
 }
-
-/* The same conversation is mounted inside the controlled same-origin panel. */
-.ambre-embedded .site-header { display:none; }
-.ambre-embedded .shell { max-width:none; padding:0; }
-.ambre-embedded .conversation-page { margin:0; padding:0; }
-.ambre-embedded .conversation { height:100dvh; min-height:0; max-height:none; border:0; border-radius:0; margin:0; }
-.ambre-embedded .conversation-toolbar { flex-wrap:wrap; padding:14px; gap:10px; }
-.ambre-embedded .conversation-toolbar h1 { font-size:1.35rem; }
-.ambre-embedded .conversation-role { display:block; font-size:.8rem; }
-.ambre-embedded .conversation-title-divider { display:none; }
-.ambre-embedded .chat-composer { padding-bottom:max(12px,env(safe-area-inset-bottom)); }
-.ambre-embedded dialog { max-height:calc(100dvh - 24px); overflow:auto; }
-
 .people-directory { align-items:start; }
 .person-timeline,.event-notes,.source-note-editor { margin-block:18px; }
-.person-timeline>summary,.source-note-editor>summary { min-height:44px; padding-block:10px; color:var(--accent); }
+.source-note-editor>summary { min-height:44px; padding-block:10px; color:var(--accent); }
 .person-timeline-body { padding-block:10px; }
 .timeline-entry,.timeline-note { border-left:2px solid var(--line); padding:8px 0 14px 18px; margin-block:16px; }
 .timeline-note .source-note { white-space:pre-wrap; overflow-wrap:anywhere; }
@@ -442,5 +415,21 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
 .event-notes { border-top:1px solid var(--line); padding-top:8px; }
 .ambre-observation { border-color:var(--accent); }
 .account-panel #self-profile { margin:0; }
-@media(max-width:600px){.timeline-entry,.timeline-note{padding-left:12px}.source-note-editor button{width:100%}.person-timeline>summary{overflow-wrap:anywhere}}
+@media(max-width:600px){.timeline-entry,.timeline-note{padding-left:12px}.source-note-editor button{width:100%}}
+/* Directory cards stay short; each close person has a page of their own. */
+.person-card .person-line { overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:var(--muted); }
+.person-card .source-actions { margin:14px 0 0; }
+.person-open { min-height:44px; }
+.app-head .page-back { display:inline-flex; align-items:center; min-height:44px; margin:0 0 6px; font-weight:650; text-decoration:none; }
+.app-head .page-back::before { content:'←' / ''; margin-right:.4em; }
+.app-head .page-back:hover { text-decoration:underline; }
+.app-head h1 { overflow-wrap:anywhere; }
+/* One column: the two-column directory grid does not apply to a person page. */
+.source-panel #person-content { display:block; }
+.person-page h2 { margin:0 0 12px; font-size:clamp(1.18rem,2.6vw,1.45rem); overflow-wrap:anywhere; }
+.person-info .source-note { max-width:70ch; margin:0 0 10px; white-space:pre-wrap; overflow-wrap:anywhere; }
+.person-info .source-actions { margin-top:16px; gap:16px; align-items:center; }
+.person-info .source-editor-host:not(:empty) { margin-top:18px; }
+.person-page .person-timeline { margin-block:28px 0; padding-top:24px; border-top:1px solid var(--line); }
+.person-page .button { margin-top:16px; }
 `;

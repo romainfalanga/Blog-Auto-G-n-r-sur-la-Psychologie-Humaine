@@ -69,7 +69,7 @@ test('personal HTML embeds escaped data in its existing nonce-bearing script',as
   const s=fixture(t);
   for(const key of ['account','people','events']){
     const response=await s.request(paths[key]),html=await response.text();assert.equal(response.status,200);
-    assert.doesNotMatch(html,/\/\*INITIAL_PAGE_DATA\*\/null/);assert.equal((html.match(/<script\b/g)||[]).length,2);
+    assert.doesNotMatch(html,/\/\*INITIAL_PAGE_DATA\*\/null/);assert.equal((html.match(/<script\b/g)||[]).length,1);assert.doesNotMatch(html,/ambre-launcher|ambre-panel|ambre-widget|<iframe/);
     assert.match(html,new RegExp('"page":"'+paths[key]+'"'));
     const nonce=html.match(/<script nonce="([^"]+)"/)[1];assert.ok(response.headers.get('Content-Security-Policy').includes("'nonce-"+nonce+"'"));
     if(key==='account'){
@@ -78,15 +78,42 @@ test('personal HTML embeds escaped data in its existing nonce-bearing script',as
     }
   }
 });
-test('only the embedded Ambre HTML permits same-origin framing; old portrait redirects to account',async t=>{
+test('no HTML may be framed any more, even with the retired embedded parameter; old portrait redirects to account',async t=>{
   const s=fixture(t);
-  for(const [path,embedded] of [['/mon-accompagnement/?embedded=1',true],['/mon-accompagnement?embedded=1',true],['/mon-accompagnement/',false],['/mon-compte/?embedded=1',false],['/api/me?embedded=1',false]]){
+  for(const path of ['/mon-accompagnement/?embedded=1','/mon-accompagnement?embedded=1','/mon-accompagnement/','/mon-compte/?embedded=1','/mes-proches/person-a/?embedded=1','/api/me?embedded=1']){
     const response=await s.request(path);
     assert.equal(response.status,200);
-    assert.equal(response.headers.get('X-Frame-Options'),embedded?'SAMEORIGIN':'DENY');
-    assert.ok(response.headers.get('Content-Security-Policy').includes(embedded?"frame-ancestors 'self'":"frame-ancestors 'none'"));
-    if(embedded)assert.doesNotMatch(await response.text(),/id = 'ambre-launcher'/);
+    assert.equal(response.headers.get('X-Frame-Options'),'DENY');
+    assert.ok(response.headers.get('Content-Security-Policy').includes("frame-ancestors 'none'"));
+    assert.doesNotMatch(await response.text(),/ambre-launcher|ambre-embedded|dte-ambre|postMessage/);
   }
   const response=await s.request('/mon-portrait/?article=example&like=1');
   assert.equal(response.status,302);assert.equal(response.headers.get('Location'),'/mon-compte/?article=example&like=1');
+});
+const initialData=html=>JSON.parse(html.match(/var initialPageData=(\{.*?\});\n/)[1]);
+test('a person page is prepared for its owner only; another account or an unknown identifier reads as not found',async t=>{
+  const s=fixture(t),before=s.raw.prepare('SELECT total_changes() n').get().n;
+  for(const path of ['/mes-proches/person-a/','/mes-proches/person-a']){
+    const response=await s.request(path,'a'),html=await response.text(),data=initialData(html);
+    assert.equal(response.status,200);assert.equal(response.headers.get('Cache-Control'),'private, no-store');assert.equal((html.match(/<script\b/g)||[]).length,1);
+    assert.equal(data.page,'/mes-proches/person-a/');assert.deepEqual(Object.keys(data.responses),['/api/me','/api/people/person-a','/api/people/person-a/timeline']);
+    assert.equal(data.responses['/api/people/person-a'].body.person.display_name,'Person a');assert.equal(typeof data.responses['/api/people/person-a'].body.fields_ready,'boolean');
+    assert.equal(data.responses['/api/people/person-a/timeline'].body.items[0].kind,'relationship_start');
+    for(const route of ['/api/people/person-a','/api/people/person-a/timeline']){const direct=await s.request(route,'a');assert.deepEqual(data.responses[route],{status:direct.status,body:await direct.json()})}
+  }
+  for(const [path,user] of [['/mes-proches/person-a/','b'],['/mes-proches/missing/','a'],['/mes-proches/person-b/','a']]){
+    const response=await s.request(path,user),html=await response.text(),data=initialData(html),id=path.split('/')[2];
+    assert.equal(response.status,200,'the shell renders the message');assert.equal(data.responses['/api/me'].body.user.id,user);
+    for(const route of ['/api/people/'+id,'/api/people/'+id+'/timeline']){assert.equal(data.responses[route].status,404);assert.equal(data.responses[route].body.code,'not_found')}
+    assert.doesNotMatch(html,/Person [ab]"/,'no name of another account reaches the page');
+  }
+  const anonymous=initialData(await (await s.request('/mes-proches/person-a/',null)).text());
+  assert.deepEqual(Object.keys(anonymous.responses),['/api/me']);assert.equal(anonymous.responses['/api/me'].body.user,null);
+  assert.equal(s.raw.prepare('SELECT total_changes() n').get().n,before,'opening a person page never writes');
+  let response=await s.request('/mes-proches/?person=person-a','a');assert.equal(response.status,302);assert.equal(response.headers.get('Location'),'/mes-proches/person-a/');
+  assert.equal((await s.request('/mes-proches/?person=..%2Fapi','a')).status,200,'an invalid legacy identifier stays on the list');
+  for(const path of ['/mes-proches/person-a/extra/','/mes-proches/person-a/timeline','/mes-proches/a%2Fb/'])assert.equal((await s.request(path,'a')).status,404,path);
+  assert.notEqual((await s.request('/mes-proches/person-a/','a','POST')).status,200,'the page only answers GET and HEAD');
+  s.env.DB.prepare=()=>assert.fail('HEAD must not access D1');
+  response=await s.request('/mes-proches/person-a/','a','HEAD');assert.equal(response.status,200);assert.equal(await response.text(),'');
 });

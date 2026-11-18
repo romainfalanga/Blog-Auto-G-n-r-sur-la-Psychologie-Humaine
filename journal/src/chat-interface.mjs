@@ -334,7 +334,7 @@ function drawReviewPage(list,result,current){
  var reviews=result.reviews||[];
  if(!reviews.length&&!list.children.length){
   var empty=el('div','workspace-empty');empty.append(el('h2','','Aucun bilan pour le moment'),el('p','','Les bilans sont rédigés par Ambre. Le premier, l’analyse initiale, est écrit au lancement de la discussion à partir de vos réponses dans Mon enfance, de votre portrait, de vos proches et de votre ligne de vie. Ensuite, un nouveau point s’ajoute chaque fois que vous le demandez avec « Faire le point » dans la conversation.'));
-  var link=el('a','text-link','Ouvrir la conversation avec Ambre');link.href='/mon-accompagnement/';empty.append(link);list.append(empty);return;
+  list.append(empty);return;
  }
  reviews.forEach(function(review){list.append(drawReviewItem(review,current))});
  if(result.next_cursor){var more=actionButton('Afficher les bilans plus anciens',async function(){more.disabled=true;try{var next=await api('/api/reviews?cursor='+encodeURIComponent(result.next_cursor));if(!current())return;more.remove();drawReviewPage(list,next,current)}catch(err){if(current()){status('reviews-status',err.message,true);more.disabled=false}}},'secondary');list.append(more)}

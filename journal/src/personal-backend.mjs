@@ -81,7 +81,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const eventRow=async(env,row)=>row?(await eventRows(env,[row],row.user_id))[0]:null;
  async function crud(request,env,user,path,url){const match=path.match(/^\/api\/(people|life-events)(?:\/([\w-]+))?$/);if(!match)return null;const isPerson=match[1]==='people',table=isPerson?'personal_people':'life_events',kind=isPerson?'person':'event',id=match[2],method=request.method;
  const transform=row=>isPerson?personRow(row):eventRow(env,row);
- if(method==='GET'&&id){const snapshot=await version(env,user.id),row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');const item=await transform(row);if(await version(env,user.id)!==snapshot)fail(409,'Cet élément a changé. Rechargez-le.','revision_conflict');return json({[kind]:item,source_version:snapshot});}
+ if(method==='GET'&&id){const snapshot=await version(env,user.id),row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');const item=await transform(row);if(await version(env,user.id)!==snapshot)fail(409,'Cet élément a changé. Rechargez-le.','revision_conflict');return json({[kind]:item,source_version:snapshot,fields_ready:await contextFieldsReady(env)});}
  if(method==='GET'&&!id){
   const snapshot=await version(env,user.id);
   const personFilter=isPerson?'':string(url.searchParams.get('person_id')||'',120);

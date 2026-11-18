@@ -3,7 +3,6 @@ import {createChangeBackend} from './change-backend.mjs';
 import { isEntitled, accessUntil, platformAccess } from './entitlements.mjs';
 import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
-import { AMBRE_WIDGET_SCRIPT, AMBRE_WIDGET_CSS } from './navigation.generated.mjs';
 import { readCompanionReadiness } from './companion-readiness.mjs';
 import { readMonthlyQuotas } from './monthly-quotas.mjs';
 import { EXAMPLES } from './examples.mjs';
@@ -210,7 +209,8 @@ function initialJSON(value) {
   return JSON.stringify(value).replace(/[<>&\u2028\u2029]/g,c=>'\\u'+c.charCodeAt(0).toString(16).padStart(4,'0'));
 }
 async function initialPageData(request,env,ctx,key) {
-  const page=Object.hasOwn(INITIAL_PAGES,key)?INITIAL_PAGES[key]:null;
+  // A string is a whitelisted page key; the person page passes its own descriptor.
+  const page=key&&typeof key==='object'?key:Object.hasOwn(INITIAL_PAGES,key)?INITIAL_PAGES[key]:null;
   if(!page) error(400,'Page inconnue.','invalid_page');
   const read=async path=>{
     try {
@@ -244,6 +244,20 @@ async function routes(request,env,ctx) {
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
   const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   const pagePath=path.replace(/\/$/,'');
+  // One close person has a page of their own. Its first render is prepared here; the two
+  // reads are the ordinary authenticated routes, so another account's identifier is a 404.
+  const personPage=path.match(/^\/mes-proches\/([\w-]+)\/?$/);
+  if(['GET','HEAD'].includes(method)&&personPage) {
+    let page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
+    if(method==='GET'){
+      const base='/api/people/'+personPage[1];
+      const initial=await initialPageData(request,env,ctx,{path:'/mes-proches/'+personPage[1]+'/',routes:[base,base+'/timeline']});
+      page=page.replace('/*INITIAL_PAGE_DATA*/null',()=>initialJSON(initial));
+    }
+    return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
+  }
+  // Earlier links opened a person inside the list with ?person=<id>.
+  if(['GET','HEAD'].includes(method)&&pagePath==='/mes-proches'&&/^[\w-]+$/.test(url.searchParams.get('person')||'')) return new Response(null,{status:302,headers:{Location:'/mes-proches/'+url.searchParams.get('person')+'/'}});
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     let page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
     const initialKey=Object.keys(INITIAL_PAGES).find(key=>key!=='cartographie'&&INITIAL_PAGES[key].path===pagePath+'/');
@@ -251,7 +265,6 @@ async function routes(request,env,ctx) {
       const initial=await initialPageData(request,env,ctx,initialKey);
       page=page.replace('/*INITIAL_PAGE_DATA*/null',()=>initialJSON(initial));
     }
-    if(url.searchParams.get('embedded')!=='1'||pagePath!=='/mon-accompagnement') page=page.replace('</head>','<style>'+AMBRE_WIDGET_CSS+'</style></head>').replace('</body>','<script>'+AMBRE_WIDGET_SCRIPT+'</script></body>');
     return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
   if(['GET','HEAD'].includes(method)&&/^\/journal(?:\/|$)/.test(path)) {
@@ -498,8 +511,7 @@ export default {
     let response;
     try {response=await routes(request,env,ctx);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
     const headers=new Headers(response.headers);
-    const requestURL=new URL(request.url),embedded=['/mon-accompagnement','/mon-accompagnement/'].includes(requestURL.pathname)&&requestURL.searchParams.get('embedded')==='1'&&response.status===200&&(headers.get('Content-Type')||'').startsWith('text/html');
-    headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options',embedded?'SAMEORIGIN':'DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
+    headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
     // F16: no 'unsafe-inline' for scripts. The application shell's single inline
     // script carries a per-response nonce; every other response allows no inline script.
     let body=response.body,scripts="'self'";
@@ -507,7 +519,7 @@ export default {
       const nonce=btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(16))));
       body=(await response.text()).replace(/<script>/g,`<script nonce="${nonce}">`);scripts+=` 'nonce-${nonce}'`;
     }
-    headers.set('Content-Security-Policy',`default-src 'self'; script-src ${scripts}; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors ${embedded?"'self'":"'none'"}; base-uri 'none'; form-action 'self'`);
+    headers.set('Content-Security-Policy',`default-src 'self'; script-src ${scripts}; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'`);
     return new Response(body,{status:response.status,headers});
   }
 };

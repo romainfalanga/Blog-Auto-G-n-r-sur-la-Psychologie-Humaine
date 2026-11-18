@@ -1,6 +1,6 @@
 # Espace personnel et Ambre
 
-Pages de l’interface : `/cartographie/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mes-bilans/`, `/mon-compte/` ; Ambre reste joignable par sa bulle et `/mon-accompagnement/`, `/mon-portrait/` redirige vers `/mon-compte/`. Les données sont privées et authentifiées. Les anciens liens conservent les paramètres liés aux articles publics, à la navigation personnelle ou au paiement lorsque la destination les utilise.
+Pages de l’interface : `/cartographie/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mes-bilans/`, `/mon-compte/` ; Ambre ouvre le menu et mène à `/mon-accompagnement/` (la bulle a été retirée le 18 novembre 2026), chaque proche a sa page `/mes-proches/<identifiant>/`, `/mon-portrait/` redirige vers `/mon-compte/`. Les données sont privées et authentifiées. Les anciens liens conservent les paramètres liés aux articles publics, à la navigation personnelle ou au paiement lorsque la destination les utilise.
 
 ## Base et migration
 
@@ -38,7 +38,7 @@ Le Worker analyse le portrait. Pour les contextes longs, le workflow `.github/wo
 
 Les anciennes adresses du personnage et de ses histoires redirigent vers Ambre. La migration `0014_retire_personal_stories.sql` ferme les demandes de récit ouvertes et préserve les données historiques dans l’export du compte.
 
-## Compte, chronologies et conversation embarquée
+## Compte, chronologies et conversation
 
 Mon compte affiche uniquement prénom, nom, date de naissance et genre pour l’identité, puis les droits, l’abonnement et les actions du compte. Les anciens paragraphes restent dans l’export et les données ; les mises à jour n’effacent pas les champs masqués.
 
@@ -46,7 +46,11 @@ Mon compte affiche uniquement prénom, nom, date de naissance et genre pour l’
 
 `0026_monthly_usage.sql` ajoute un registre de crédits sans texte personnel. Réservation et transition des crédits sont atomiques avec les tours/bilans. Supprimer une conversation ou un bilan ne rembourse pas un crédit consommé ; supprimer le compte efface ce registre. Les budgets techniques par semaine/jour et les plafonds anti-abus restent distincts du forfait mensuel. La checklist serveur est relue avant génération et publication, même pour les conversations déjà commencées.
 
-Le lanceur partagé est généré depuis `static/js/ambre-widget.js` et `static/css/ambre-widget.css`. Il monte une seule iframe de même origine dans un dialogue ; la fermer conserve le brouillon dans le document courant. Seul le HTML `/mon-accompagnement/?embedded=1` accepte `frame-ancestors 'self'` et `X-Frame-Options: SAMEORIGIN`. Le bridge vérifie origine, fenêtre émettrice, version et destinations autorisées. Le retour dans un onglet et les changements de session revalident les données avant affichage. Les anciennes routes et le bootstrap prêt de Mon compte, Mes proches, Ma ligne de vie et Mon enfance restent couverts par les recettes.
+**État au 18 novembre 2026 (remplace la description de la bulle).** La bulle Ambre, son iframe et le mode `?embedded=1` sont supprimés : plus de `static/js/ambre-widget.js`, de `static/css/ambre-widget.css`, de pont `postMessage` ni d’exception d’encadrement. Toutes les réponses portent `X-Frame-Options: DENY` et `frame-ancestors 'none'`. « Ambre » est le premier lien de `data/navigation.json` et mène à `/mon-accompagnement/` ; le menu du Worker est généré depuis ce même fichier (`node scripts/build_navigation.mjs`). L’accueil reste public.
+
+**Pages des proches.** La liste `/mes-proches/` affiche une carte courte par proche (prénom, rôle, une ligne, lien « Notre histoire »). `/mes-proches/<identifiant>/` est servie par le Worker avec ses données préparées (`/api/people/<id>` et `/api/people/<id>/timeline`, lectures authentifiées existantes) : prénom en titre, rôle, informations, Modifier, Supprimer, puis la chronologie complète et l’ajout de note. Un identifiant inconnu ou appartenant à un autre compte reçoit les mêmes réponses 404 et le message « Ce proche est introuvable » avec retour à la liste. `/mes-proches/?person=<id>` redirige vers la page du proche. La règle Netlify `/mes-proches/*` couvre déjà ces adresses. Le bloc « Repères sur cette relation » n’est plus affiché ni embarqué ; l’API des observations, les données et `people-observations-ui.mjs` (non chargé) sont conservés, et les repères validés restent visibles et retirables dans la chronologie. `GET /api/people/<id>` et `GET /api/life-events/<id>` renvoient en plus `fields_ready`.
+
+**Mes bilans.** L’état vide ne propose plus de lien vers la conversation.
 
 ## Vérification
 
