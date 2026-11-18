@@ -1,87 +1,139 @@
-/* Answer controls keep their full labels, including on narrow screens. */
-.carto .carto-choices {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr)) minmax(max-content, 1.8fr);
-  width: min(100%, 30rem);
-  overflow: visible;
-  gap: 0;
-  padding: 0;
-}
-.carto .carto-choice {
-  min-height: 48px;
-  padding: .65rem .5rem;
-  border: 0;
-  border-radius: 0;
-  white-space: nowrap;
-  line-height: 1.4;
-}
-.carto .carto-choice + .carto-choice { border-left: 1px solid var(--color-border); }
-.carto .carto-choice:first-child { border-radius: 15px 0 0 15px; }
-.carto .carto-choice:last-child { border-radius: 0 15px 15px 0; }
-.carto .carto-choice.is-on {
-  font-weight: 700;
-  box-shadow: inset 0 0 0 2px currentColor;
-}
-.carto .carto-choice:focus-visible {
-  outline: 3px solid var(--color-text);
-  outline-offset: 2px;
-  position: relative;
-  z-index: 1;
-}
-@media (max-width: 600px) {
-  .carto .carto-choices {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    max-width: 23rem;
-  }
-  .carto .carto-choice { border-radius: 0; }
-  .carto .carto-choice:nth-child(odd) { border-left: 0; }
-  .carto .carto-choice:nth-child(n+3) { border-top: 1px solid var(--color-border); }
-  .carto .carto-choice:first-child { border-radius: 15px 0 0 0; }
-  .carto .carto-choice:nth-child(2) { border-radius: 0 15px 0 0; }
-  .carto .carto-choices [data-level="unknown"] {
-    border-radius: 0 0 15px 15px;
-    grid-column: 1 / -1;
-  }
-}
-
-/* The HTML already carries this state before either deferred script executes. */
-.carto-loading {
-  min-height: 16rem;
-  margin: 0;
-  padding: 2rem 1rem;
-  display: grid;
-  place-items: center;
-  color: var(--color-text-muted, #566b7a);
-}
-.carto-loading[hidden] { display: none; }
-.carto[data-loading="true"] .carto-layout,
-.carto[data-loading="true"] .carto-save,
-.carto[data-loading="true"] .carto-live { display: none; }
+/* Mon enfance (/cartographie/). Jetons, boutons, champs et fenêtres : site-system.css. */
+.carto-intro h1 { margin: 0 0 var(--s5); }
+.carto-live { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.carto-loading { min-height: 16rem; margin: 0; color: var(--muted); }
+.carto[data-loading="true"] :is(.carto-layout, .carto-save, .carto-live) { display: none; }
 .carto[data-loading="true"] .carto-tabs button { cursor: wait; }
+.carto-tabs { display: none; }
+.carto-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; gap: var(--s7); }
+.carto-pane { min-width: 0; }
+.carto-pane-results { position: sticky; top: calc(var(--header-height) + var(--s4)); max-height: calc(100dvh - var(--header-height) - var(--s6)); padding-right: var(--s1); overflow-y: auto; }
 
-/* Results explain the subject before asking for recognition. */
-.carto-card > .carto-desc { margin: .6rem .9rem .9rem; font-size: .9rem; line-height: 1.55; }
-.carto .carto-feedback { margin-top: 1.5rem; gap: .5rem; flex-wrap: wrap; }
-.carto .carto-feedback button { min-height: 44px; }
-.carto-row-description { margin: .5rem .1rem 1rem; font-size: .86rem; color: var(--color-text-light); line-height: 1.5; }
-.carto-note-preview { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; font-size: .9rem; line-height: 1.5; }
-.carto .carto-note-add { min-height: 44px; }
-.carto-note-conflicts { margin: .75rem 0; overflow-wrap: anywhere; }
-.carto-note-conflicts summary { min-height: 44px; cursor: pointer; }
+.carto-save { margin: 0 0 var(--s4); padding: var(--s3) var(--s4); border-left: 2px solid var(--accent); background: var(--accent-wash); font-size: var(--t-sm); }
+.carto-save:empty { display: none; }
+.carto-save p { margin: 0; }
+.carto-save-actions { display: flex; flex-wrap: wrap; gap: var(--s2); margin-top: var(--s2); }
+.carto-save-actions:empty { display: none; }
+.carto-save-status { margin-top: var(--s1); font-weight: 600; }
+.carto-save-status.is-error, .carto-save-msg { color: var(--danger); font-weight: 400; }
+.carto-save-warning { font-weight: 600; }
+.carto-conflict-detail { margin-top: var(--s2); }
+.carto-note-conflicts { margin: var(--s3) 0; overflow-wrap: anywhere; }
+.carto-note-conflicts summary { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
 .carto-note-conflicts p { white-space: pre-wrap; }
 
-/* A separate native dialog keeps detail and note lifecycles independent. */
-.carto .carto-note-dialog { color: var(--color-text); background: var(--color-card-bg); max-height: min(85dvh, calc(var(--note-viewport-height, 100dvh) - 2rem)); overflow: hidden; }
-.carto-note-dialog form { display: flex; flex-direction: column; max-height: inherit; }
-.carto-note-dialog .carto-dialog-head { position: static; flex: 0 0 auto; }
-.carto-note-dialog .carto-dialog-body { overflow-y: auto; min-height: 0; overscroll-behavior: contain; }
-.carto-note-dialog .carto-note-label { display: block; margin-bottom: .6rem; font-size: .95rem; }
-.carto-note-dialog .carto-note { min-height: 7rem; max-height: 45dvh; font-size: 16px; box-sizing: border-box; }
-.carto-note-dialog [data-note-count] { margin: .4rem 0 0; font-size: .8rem; color: var(--color-text-light); }
-.carto-note-actions { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: .75rem; padding: .8rem 1.1rem max(.8rem, env(safe-area-inset-bottom)); border-top: 1px solid var(--color-border); flex: 0 0 auto; }
-.carto-note-actions button { min-height: 44px; }
+/* Themes: rows separated by rules, one chevron. */
+.carto-themes { border-bottom: 1px solid var(--line); }
+.carto-theme-panel { border-top: 1px solid var(--line); }
+.carto-theme-panel[open] { padding-left: var(--s4); border-left: 2px solid var(--accent); }
+.carto-theme { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; column-gap: var(--s3); min-height: 64px; padding: var(--s3) 0; list-style: none; }
+.carto-theme::-webkit-details-marker { display: none; }
+.carto-theme-text strong { display: block; font: 600 var(--t-md)/1.35 var(--font-ui); }
+.carto-theme-desc { display: block; color: var(--muted); font-size: var(--t-sm); line-height: 1.45; }
+.carto-theme-progress { grid-column: 1; margin-top: 2px; color: var(--muted); font-size: var(--t-xs); }
+.carto-theme-arrow { grid-row: 1 / span 2; grid-column: 2; width: 24px; color: var(--muted); font: 400 22px/1 var(--font-ui); text-align: center; transition: transform .12s; }
+.carto-theme-panel[open] > .carto-theme .carto-theme-arrow { transform: rotate(90deg); }
+.carto-factors { margin: 0; padding: 0; list-style: none; }
+.carto-factor-row { display: flex; flex-direction: column; gap: var(--s2); padding: var(--s4) 0; border-top: 1px solid var(--line); }
+.carto-factor-label { font: 600 var(--t-md)/1.35 var(--font-ui); }
+.carto-factor-hint { max-width: 62ch; margin: 0; color: var(--muted); font-size: var(--t-sm); line-height: 1.5; }
+.carto-choices { display: grid; grid-template-columns: 1fr 1fr 1.4fr; gap: var(--s2); width: min(100%, 26rem); margin-top: var(--s1); }
+.carto-choice { min-width: 0; padding: 0 var(--s1); border-color: var(--line-strong); background: var(--surface); color: var(--ink); font-size: var(--t-sm); font-weight: 400; white-space: nowrap; }
+.carto-choice:hover { background: var(--accent-wash); }
+/* Selection is carried by weight and an inner ring, not by colour alone. */
+.carto-choice.is-on { border-color: var(--accent); background: var(--accent); color: #fff; font-weight: 600; box-shadow: inset 0 0 0 2px var(--accent), inset 0 0 0 3px var(--surface); }
+.carto-factor-links { display: flex; flex-wrap: wrap; gap: 0 var(--s5); }
+.carto-factor-links:empty { display: none; }
+.carto-factor-links button, .carto-note-wrap button, .carto-legacy-answer button { font-size: var(--t-sm); }
+.carto-legacy-answer { max-width: 62ch; font-size: var(--t-sm); }
+.carto-legacy-answer p { margin: 0 0 var(--s1); }
+.carto-no-link { margin: 0; color: var(--muted); font-size: var(--t-xs); }
+.carto-note-wrap { display: flex; flex-direction: column; align-items: flex-start; }
+.carto-note-preview { margin: 0; padding-left: var(--s3); border-left: 2px solid var(--line); font-size: var(--t-sm); white-space: pre-wrap; overflow-wrap: anywhere; }
+.carto-ambre-notes { display: flex; flex-direction: column; gap: var(--s2); margin: 0; padding: 0; list-style: none; }
+.carto-ambre-notes li { display: flex; flex-direction: column; padding-left: var(--s3); border-left: 2px solid var(--accent); font-size: var(--t-sm); }
+.carto-ambre-tag { color: var(--muted); font-size: var(--t-xs); }
+.carto-ambre-remove { align-self: flex-start; font-size: var(--t-sm); }
+.carto-ambre-general { margin-bottom: var(--s5); }
+.carto-delete { margin-top: var(--s5); }
+.carto-delete:empty { display: none; }
+
+/* Results: one list, rules between subjects. */
+.carto-empty { margin: 0; color: var(--muted); }
+.carto-note-urgent { margin: 0 0 var(--s4); padding: var(--s3) var(--s4); border-left: 2px solid var(--danger); background: var(--surface); font-size: var(--t-sm); }
+.carto-rank-note { margin: 0 0 var(--s3); color: var(--muted); font-size: var(--t-xs); }
+.carto-tier-title { margin: 0 0 var(--s2); }
+.carto-grid { border-bottom: 1px solid var(--line); }
+.carto-card { padding: var(--s4) 0; border-top: 1px solid var(--line); }
+.carto-card-title { margin: 0 0 var(--s1); }
+.carto-card > .carto-desc { margin: 0 0 var(--s2); font-size: var(--t-sm); line-height: 1.55; }
+.carto-from-line, .carto-familial { margin: 0 0 var(--s1); color: var(--muted); font-size: var(--t-xs); line-height: 1.45; }
+.carto-from-line b { font-weight: 600; }
+/* Room to read the subject before being asked for recognition. */
+.carto-feedback { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2); margin-top: var(--s6); }
+.carto-fb { font-size: var(--t-sm); }
+.carto-fb.is-on { border-color: var(--accent); background: var(--accent); color: #fff; }
+.carto-detail { margin-left: auto; font-size: var(--t-sm); }
+.carto-card-body { display: flex; flex-direction: column; gap: var(--s2); margin-top: var(--s3); font-size: var(--t-sm); }
+.carto-card-notes { margin-top: var(--s2); }
+.carto-links { display: flex; flex-direction: column; gap: var(--s3); margin: 0; padding: 0; list-style: none; }
+.carto-from { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--s1) var(--s2); }
+.carto-relation { color: var(--muted); font-size: var(--t-xs); }
+.carto-link-text { margin: 2px 0 0; line-height: 1.5; }
+.carto-other-title { margin: var(--s2) 0 0; color: var(--muted); font-size: var(--t-xs); font-weight: 600; }
+.carto-fold { margin-top: var(--s5); }
+.carto-fold > summary { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
+.carto-rows { margin: 0; padding: 0; list-style: none; }
+.carto-row { justify-content: space-between; width: 100%; padding: 0; border: 0; border-top: 1px solid var(--line); border-radius: 0; background: none; color: var(--ink); font-size: var(--t-sm); font-weight: 400; text-align: left; }
+.carto-row:hover { background: none; text-decoration: underline; }
+.carto-row[aria-expanded="true"] { font-weight: 600; }
+.carto-row-item .carto-card { border-top: 0; padding-top: 0; }
+.carto-row-description { margin: 0 0 var(--s3); color: var(--muted); font-size: var(--t-sm); }
+.carto-scope { margin: var(--s4) 0 0; }
+.carto-scope-link { color: var(--muted); font-size: var(--t-sm); font-weight: 400; text-decoration: underline; }
+
+/* Windows of Mon enfance: the shared window, with a fixed title and action row. */
+.carto-dialog { padding: 0; }
+.carto-dialog[open] { display: flex; flex-direction: column; }
+.carto-dialog > form { display: flex; flex-direction: column; min-height: 0; }
+.carto-dialog-head { flex: none; align-items: center; padding: var(--s3) var(--s5); border-bottom: 1px solid var(--line); }
+.carto-dialog-head h2 { margin: 0; padding: 9px 0; }
+.carto-dialog-head h2:focus { outline: none; }
+.carto-dialog-body { min-height: 0; padding: var(--s4) var(--s5) var(--s5); overflow-y: auto; overscroll-behavior: contain; font-size: var(--t-sm); line-height: 1.55; }
+.carto-dialog-intro { color: var(--muted); }
+.carto-dialog-h { margin: var(--s4) 0 0; font-size: var(--t-sm); }
+.carto-dialog-list { margin: 0; padding: 0; list-style: none; }
+.carto-dialog-list li { border-top: 1px solid var(--line); }
+.carto-dialog-h + .carto-dialog-list li:first-child { border-top: 0; }
+.carto-dialog-item > summary { position: relative; display: flex; align-items: center; min-height: 44px; padding: var(--s2) var(--s6) var(--s2) 0; font-weight: 600; list-style: none; }
+.carto-dialog-item > summary::-webkit-details-marker { display: none; }
+.carto-dialog-item > summary::after { content: '›' / ''; position: absolute; right: var(--s1); top: 50%; color: var(--muted); font: 400 22px/1 var(--font-ui); transform: translateY(-50%); transition: transform .12s; }
+.carto-dialog-item[open] > summary::after { transform: translateY(-50%) rotate(90deg); }
+.carto-scope-list li { padding: var(--s3) 0; }
+.carto-scope-list strong { display: block; }
+.carto-scope-list p { margin: 0; }
+.carto-note-dialog { max-height: min(88dvh, calc(var(--note-viewport-height, 100dvh) - var(--s4))); }
+.carto-note-dialog .carto-note-label { margin-bottom: 6px; }
+.carto-note-dialog .carto-note { min-height: 7rem; max-height: 45dvh; }
+.carto-note-dialog [data-note-count] { margin: 6px 0 0; color: var(--muted); font-size: var(--t-xs); }
+.carto-dialog .carto-note-actions { flex: none; margin: 0; padding: var(--s3) var(--s5) max(var(--s3), env(safe-area-inset-bottom)); border-top: 1px solid var(--line); }
+.carto-confirm .carto-dialog-head { border-bottom: 0; padding-bottom: 0; }
+.carto-confirm .carto-dialog-body { padding-top: var(--s1); font-size: var(--t-md); }
+.carto-confirm .carto-note-actions { border-top: 0; }
+
 @media (max-width: 900px) {
-  .carto .carto-feedback { margin-top: 1.8rem; }
-  .carto .carto-note-dialog { inset: var(--note-viewport-top, 0px) 0 auto; margin: 0 auto; width: 100%; max-height: calc(var(--note-viewport-height, 100dvh) - .5rem); border-radius: 0 0 var(--radius-lg) var(--radius-lg); }
-  .carto-note-dialog .carto-dialog-head { padding-top: max(.9rem, env(safe-area-inset-top)); }
+  .carto-tabs { position: sticky; top: var(--header-height); z-index: 5; display: flex; margin: 0 0 var(--s4); border-bottom: 1px solid var(--line); background: var(--bg); }
+  .carto-tabs button { flex: 1; min-height: 48px; padding: 0 var(--s1); border: 0; border-bottom: 2px solid transparent; border-radius: 0; background: none; color: var(--muted); font-size: var(--t-sm); }
+  .carto-tabs button:hover { background: none; color: var(--ink); }
+  .carto-tabs button[aria-selected="true"] { border-bottom-color: var(--accent); color: var(--ink); }
+  .carto-layout { display: block; }
+  .carto[data-view="form"] .carto-pane-results, .carto[data-view="results"] .carto-pane-form { display: none; }
+  .carto-pane-results { position: static; max-height: none; padding-right: 0; overflow: visible; }
 }
+@media (max-width: 599px) {
+  .carto-theme-panel[open] { padding-left: var(--s3); }
+  .carto-dialog-head, .carto-dialog-body, .carto-dialog .carto-note-actions { padding-inline: var(--gutter); }
+  /* The note sheet stays above the on-screen keyboard: it is anchored to the visible viewport. */
+  .carto-note-dialog { top: auto; bottom: max(0px, calc(100dvh - var(--note-viewport-top, 0px) - var(--note-viewport-height, 100dvh))); }
+}
+

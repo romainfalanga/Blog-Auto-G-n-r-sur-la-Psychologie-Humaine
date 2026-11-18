@@ -54,6 +54,8 @@ function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
+  // The site confirmation window is answered by the same hook as the former confirm().
+  if(!ctx.confirmDialog)ctx.confirmDialog=(title,text)=>Promise.resolve(ctx.confirm([title,text].filter(Boolean).join(' ')));
   for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
@@ -149,7 +151,7 @@ test('Mon compte exposes only identity controls and keeps historical paragraphs 
  const env=await selfFixture(async()=>({profile:{self_description:'Ancien texte',first_name:'Nina',emotions:'Calme',occupation:'Ancienne activité'},revision:4}));
  assert.deepEqual(env.host.querySelectorAll('input,select,textarea').map(x=>x.name),['first_name','last_name','birth_date','gender','gender_description']);
  assert.equal(env.input.name,'first_name');assert.equal(env.input.maxLength,100);assert.equal(env.input.value,'Nina');
- assert.equal(env.host.querySelectorAll('textarea').length,0);assert.equal(env.form.querySelector('button[type=submit]').textContent,'Enregistrer mes informations');
+ assert.equal(env.host.querySelectorAll('textarea').length,0);assert.equal(env.form.querySelector('button[type=submit]').textContent,'Enregistrer');
  assert.doesNotMatch(env.host.textContent,/Articles aimés|Ancien texte|Calme|Ancienne activité/);
 });
 
@@ -365,21 +367,21 @@ test('a pending turn keeps one user bubble while the cleared composer accepts th
 
 
 
-test('the lists of close people and of moments show their heading without any counter',()=>{
+test('the lists of close people and of moments repeat neither the page title nor any counter',()=>{
  const env=environment();vm.runInContext(functionCode('emptyState')+'\n'+functionCode('drawSourceSection'),env.ctx);env.ctx.drawSourceItem=()=>env.doc.createElement('article');env.ctx.drawSourceEditor=()=>{};
  const people=['Anaïs','Bernard','Chloé','Driss','Élise'].map((display_name,index)=>({id:'p'+index,display_name,role:'friend'}));
  const events=[{id:'e1',title:'Un déclic',date_precision:'year',date_start:'2020'},{id:'e2',title:'Sans date',date_precision:'unknown'}];
- for(const [kind,rows,heading,cursor] of [['people',people,'Votre répertoire',null],['people',[],'Votre répertoire',null],['events',[],'Vos moments',null],['events',events.slice(0,1),'Vos moments',null],['events',events,'Vos moments','next-page']]){
+ for(const [kind,rows,cursor] of [['people',people,null],['people',[],null],['events',[],null],['events',events.slice(0,1),null],['events',events,'next-page']]){
   const box=env.host(kind+'-content');env.ctx.state[kind]=rows;env.ctx.state.eventsCursor=cursor;env.ctx.drawSourceSection(kind);
-  const toolbar=box.querySelector('.source-toolbar');assert.equal(toolbar.textContent,heading);assert.equal(toolbar.children.length,1);assert.equal(toolbar.children[0].tagName,'H2');
+  const toolbar=box.querySelector('.source-toolbar');assert.equal(toolbar.textContent,'');assert.equal(toolbar.children.length,0);assert.equal(box.querySelector('h2')?.textContent??null,rows.length?null:kind==='people'?'Aucun proche pour l’instant':'Aucun moment pour l’instant');
   assert.equal(box.querySelector('.source-count'),null);assert.doesNotMatch(box.textContent,/\d+ (?:proches?|moments?)|affichés/);
   assert.equal(box.querySelectorAll('article').length,rows.length);assert.equal(box.querySelectorAll('.pagination-button').length,cursor?1:0);
  }
  assert.doesNotMatch(HTML,/source-count/);assert.doesNotMatch(functionCode('drawSourceSection'),/affichés|' proches'|' moments'/);assert.match(HTML,/\.source-tag \{/);
 });
 
-test('application contains no footer and keeps liked articles out of the portrait menu',()=>{
- assert.doesNotMatch(HTML,/<footer\b/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
+test('the application footer is reduced to the site name and liked articles stay out of the portrait menu',()=>{
+ assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
  assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
@@ -493,8 +495,8 @@ test('the welcome panel lists the four sources, confirms with an explicit agreem
  env.ctx.drawChat(env.view,()=>true);
  const dialog=env.doc.getElementById('journey-panel');
  assert.equal(dialog.hidden,false);assert.equal(dialog.dataset.step,'intro');assert.equal(dialog.attributes['aria-labelledby'],'journey-title');
- assert.equal(dialog.querySelector('h2').textContent,'Avant de commencer avec Ambre');assert.equal(env.doc.activeElement,dialog.querySelector('h2'));
- assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné : vos réponses dans Mon enfance, vos informations de compte, vos proches et votre ligne de vie/);
+ assert.equal(dialog.querySelector('h2').textContent,'Avant de commencer');assert.equal(env.doc.activeElement,dialog.querySelector('h2'));
+ assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné, puis la conversation se poursuit/);
  let items=dialog.querySelectorAll('.journey-source');assert.equal(items.length,4);
  assert.deepEqual(items.map(i=>i.querySelector('a').href),['/cartographie/','/mon-compte/','/mes-proches/','/ma-ligne-de-vie/']);
  assert.ok(items.every(i=>i.querySelector('.journey-source-state').textContent==='À compléter'));
@@ -503,7 +505,7 @@ test('the welcome panel lists the four sources, confirms with an explicit agreem
  assert.equal(dialog.tagName,'SECTION');assert.equal(dialog.parentElement.id,'conversation-scroll');assert.match(dialog.textContent,/assistante psychologue IA/);assert.match(dialog.textContent,/à vos côtés un professionnel de santé/);assert.match(dialog.textContent,/ne pose pas de diagnostic/);
  env.ctx.state.chatData=journeyState(notStarted());env.ctx.drawChat(env.view,()=>true);
  items=dialog.querySelectorAll('.journey-source');assert.deepEqual(items.map(i=>i.querySelector('.journey-source-state').textContent),['Renseigné','À compléter','Renseigné','À compléter']);
- assert.match(items[0].textContent,/7 éléments cochés/);assert.match(items[2].textContent,/1 proche/);
+ assert.match(items[0].textContent,/7 réponses/);assert.match(items[2].textContent,/1 proche/);
  start=env.doc.getElementById('journey-start');assert.equal(start.disabled,false);await start.fire('click');
  assert.equal(dialog.dataset.step,'confirm');assert.equal(dialog.querySelector('h2').textContent,'Voulez-vous lancer la discussion ?');
  assert.match(dialog.textContent,/Cela va initier la conversation à partir des informations que vous avez renseignées\./);
@@ -956,7 +958,7 @@ test('meeting dates use the same partial controls and preserve legacy period tex
 test('an already-started conversation is blocked when the strict readiness checklist becomes incomplete',()=>{
  const readiness={complete:false,identity:{complete:true,missing_fields:[]},people:{complete:false,count:2,required:3},events:{complete:true,count:3,required:3},childhood:{complete:true,answered:60,required:60}};
  const env=chatFixture();env.ctx.state.chatData=journeyState({started:true,can_start:false,readiness,review:{}},{consent:true,access:{allowed:true}});env.ctx.drawChat(env.view,()=>true);
- assert.equal(env.send.disabled,true);assert.equal(env.form.hidden,true);assert.equal(env.doc.getElementById('journey-panel').hidden,false);assert.match(env.doc.getElementById('journey-panel').textContent,/trois proches et trois moments/);
+ assert.equal(env.send.disabled,true);assert.equal(env.form.hidden,true);assert.equal(env.doc.getElementById('journey-panel').hidden,false);assert.match(env.doc.getElementById('journey-panel').textContent,/2 proches sur 3/);
  assert.equal(env.doc.getElementById('journey-panel').querySelectorAll('.journey-source')[2].querySelector('a').href,'/mes-proches/');
  readiness.complete=true;readiness.people.complete=true;env.ctx.drawChat(env.view,()=>true);assert.equal(env.form.hidden,false);assert.equal(env.send.disabled,false);
 });
@@ -1035,7 +1037,7 @@ test('a directory card is short: name, role, one line and the action that opens 
  const env=personFixture(async()=>({}));
  const card=env.ctx.drawSourceItem('people',{...personRow,what_helps:'Sa patience',period_start:'2012'},env.host('people-content'));
  assert.equal(card.id,'person-p1');assert.equal(card.querySelector('h3').textContent,'Léa');assert.equal(card.querySelector('.source-tag').textContent,'Ami ou amie');assert.equal(card.querySelector('.person-line').textContent,'On se parle chaque semaine.');
- const links=card.querySelectorAll('a');assert.equal(links.length,1);assert.equal(links[0].href,'/mes-proches/p1/');assert.equal(links[0].textContent,'Notre histoire');assert.equal(links[0].getAttribute('aria-label'),'Notre histoire avec Léa');
+ const links=card.querySelectorAll('a');assert.equal(links.length,1);assert.equal(links[0].href,'/mes-proches/p1/');assert.equal(links[0].textContent,'Léa');assert.equal(links[0].className,'person-open','the whole card is the link');
  assert.equal(card.querySelectorAll('button').length,0);assert.equal(card.querySelectorAll('details').length,0);assert.doesNotMatch(card.textContent,/Sa patience|Repères|Votre histoire avec/);
  assert.doesNotMatch(HTML,/Repères sur cette relation|personObservationDetails|person-observations/);assert.match(HTML,/var PEOPLE_AXES = \{/,'the conversation proposal form keeps its axis labels');
 });
@@ -1056,5 +1058,5 @@ test('saving from the person page refreshes that page; an unrelated draft never 
 test('account renders API monthly credits and the Paris renewal date without another request',()=>{
  const env=environment({api(){throw new Error('No extra quota fetch')}}),host=env.host('quota');vm.runInContext(functionCode('appendAccountQuota'),env.ctx);
  env.ctx.appendAccountQuota(host,{access:{mode:'paid'},subscription:{active:true,status:'active',paid_until:Date.parse('2026-12-17T12:00:00Z')/1000},quotas:{messages:{limit:100,used:7,reserved:1,remaining:92,renews_at:'2026-11-30T23:00:00.000Z'},reviews:{limit:1,used:1,remaining:0}}});
- assert.match(host.textContent,/100 messages et 1 bilan par mois civil/);assert.match(host.textContent,/bilan initial est inclus/);assert.match(host.textContent,/Il vous reste 92 messages et 0 bilan/);assert.match(host.textContent,/Renouvellement le 1 décembre 2026/);assert.match(host.textContent,/facturation en cours se termine le 17 décembre 2026/);assert.doesNotMatch(host.textContent,/100 messages.*disponibles/);
+ assert.match(host.textContent,/100 messages et 1 bilan par mois, bilan initial inclus/);assert.match(host.textContent,/Il vous reste 92 messages et 0 bilan ce mois-ci, jusqu’au 1er décembre\./);assert.match(host.textContent,/facturation en cours se termine le 17 décembre 2026/);assert.doesNotMatch(host.textContent,/100 messages.*disponibles/);
 });

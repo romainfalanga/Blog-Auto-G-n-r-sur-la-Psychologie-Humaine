@@ -164,7 +164,7 @@
           if (state.dirty) writeDraft(); else clearDraft();
         })
         .catch(function (e) {
-          state.saveError = e.status === 409 ? 'Votre cartographie a changé ailleurs. Vos réponses ici sont conservées. Choisissez la version à garder avant de reprendre l’enregistrement.' : e.message + ' Vos modifications restent sur cet appareil.';
+          state.saveError = e.status === 409 ? 'Vos réponses enregistrées ont changé ailleurs. Vos réponses ici sont conservées. Choisissez la version à garder avant de reprendre l’enregistrement.' : e.message + ' Vos modifications restent sur cet appareil.';
           if (e.status === 409) { state.conflict = { remote: null }; return fetchConflict(); }
         })
         .then(function () {
@@ -174,10 +174,29 @@
         });
       return savePromise;
     }
+    // One site window replaces the browser's confirm(): it resolves true only on the confirm button.
+    function confirmDialog(title, text, confirmLabel, danger) {
+      return new Promise(function (resolve) {
+        var answer = false, opener = document.activeElement;
+        var cancel = el('button', { type: 'button', className: 'carto-btn', onclick: function () { box.close(); } }, ['Annuler']);
+        var confirm = el('button', { type: 'button', className: 'carto-btn carto-btn-primary' + (danger ? ' danger' : ''), 'data-confirm': 'true', onclick: function () { answer = true; box.close(); } }, [confirmLabel]);
+        var box = el('dialog', { className: 'carto-dialog carto-confirm', 'aria-labelledby': 'carto-confirm-title' }, [
+          el('div', { className: 'carto-dialog-head' }, [el('h2', { id: 'carto-confirm-title', text: title })]),
+          el('div', { className: 'carto-dialog-body' }, [el('p', { text: text })]),
+          el('div', { className: 'carto-note-actions' }, [cancel, confirm])
+        ]);
+        box.addEventListener('close', function () { box.remove(); if (opener && opener.isConnected && opener.focus) opener.focus(); resolve(answer); });
+        root.appendChild(box); box.showModal(); cancel.focus();
+      });
+    }
     function resolveConflict(keepLocal) {
       var remote = state.conflict && state.conflict.remote;
       if (!remote) { fetchConflict(); return; }
-      if (!window.confirm(keepLocal ? 'Remplacer la version enregistrée par les réponses et précisions affichées ici ? Les ressources déjà enregistrées seront conservées.' : 'Charger la version enregistrée et remplacer vos modifications affichées ici ?')) return;
+      confirmDialog(keepLocal ? 'Garder les réponses affichées ici ?' : 'Charger la version enregistrée ?', keepLocal ? 'La version enregistrée sera remplacée par les réponses et précisions affichées ici. Les ressources déjà enregistrées seront conservées.' : 'Vos modifications affichées ici seront remplacées par la version enregistrée.', keepLocal ? 'Garder mes réponses' : 'Charger').then(function (yes) { if (yes) applyConflictChoice(keepLocal); });
+    }
+    function applyConflictChoice(keepLocal) {
+      var remote = state.conflict && state.conflict.remote;
+      if (!remote) return;
       if (keepLocal) {
         // Resources no longer have controls here: always retain the current stored values.
         if (remote.cartographie) state.resources = remote.cartographie.resources || {};
@@ -192,7 +211,11 @@
       state.dirty = false; state.deleted = true; state.conflict = null; state.saveError = ''; clearDraft();
     }
     function removeSaved() {
-      if (state.deleting || !window.confirm('Effacer votre cartographie et vos précisions' + (state.account ? ' de votre profil et de cet appareil ? Ambre ne pourra plus les utiliser.' : ' de cet appareil ?'))) return;
+      if (state.deleting) return;
+      confirmDialog('Effacer vos réponses et vos précisions ?', state.account ? 'Elles seront retirées de votre profil et de cet appareil. Ambre ne pourra plus les utiliser.' : 'Elles seront retirées de cet appareil.', 'Effacer', true).then(function (yes) { if (yes) applyRemoval(); });
+    }
+    function applyRemoval() {
+      if (state.deleting) return;
       clearTimeout(saveTimer); state.deleting = true; state.saveError = ''; renderSave();
       formBody.inert = true; results.inert = true;
       // DELETE follows any in-flight PUT. The latter cannot schedule a new save while deleting.
@@ -221,13 +244,13 @@
       }
       // Connected members get no standing notice: the box only reports a problem, a pending choice or a deletion.
       saveBox.dataset.state = state.deleting ? 'deleting' : state.saving ? 'saving' : state.saveError ? 'error' : state.loading ? 'loading' : state.conflict ? 'conflict' : state.deleted ? 'deleted' : state.dirty ? 'dirty' : state.saved ? 'saved' : 'idle';
-      var status = state.deleting ? 'Suppression…' : state.saveError || (state.deleted ? 'Cartographie supprimée. Elle ne sera enregistrée de nouveau que si vous ajoutez une réponse ou une précision.' : '');
+      var status = state.deleting ? 'Suppression…' : state.saveError || (state.deleted ? 'Réponses supprimées. Elles ne seront enregistrées de nouveau que si vous ajoutez une réponse ou une précision.' : '');
       if (status) saveBox.appendChild(el('p', { className: 'carto-save-status' + (state.saveError ? ' is-error' : ''), role: 'status', text: status }));
       var actions = el('div', { className: 'carto-save-actions' });
       if (state.conflict) {
         var remote = state.conflict.remote && state.conflict.remote.cartographie;
         if (state.conflict.remote) {
-          saveBox.appendChild(el('p', { className: 'carto-conflict-detail', text: remote ? 'Version enregistrée : ' + Object.keys(remote.answers || {}).length + ' situations sélectionnées ; version affichée ici : ' + Object.keys(state.answers).length + '.' : 'La cartographie a été supprimée du profil depuis votre dernière lecture.' }));
+          saveBox.appendChild(el('p', { className: 'carto-conflict-detail', text: remote ? 'Version enregistrée : ' + Object.keys(remote.answers || {}).length + ' situations sélectionnées ; version affichée ici : ' + Object.keys(state.answers).length + '.' : 'Vos réponses ont été supprimées du profil depuis votre dernière lecture.' }));
           var differences = [];
           ['factors', 'outcomes'].forEach(function (kind) {
             var local = state.notes[kind], stored = remote && remote.notes && remote.notes[kind] || {};
@@ -271,7 +294,7 @@
       var button = el('button', {
         type: 'button', className: 'carto-note-add', 'data-focus': 'note:' + key,
         'aria-haspopup': 'dialog', onclick: function () { openNote(kind, id, label, placeholder, fieldLabel); }
-      }, [text ? (kind === 'factors' ? 'Modifier ma précision' : 'Modifier ma description') : '+ ' + label]);
+      }, [text ? (kind === 'factors' ? 'Modifier ma précision' : 'Modifier ma description') : kind === 'factors' ? 'Préciser' : label]);
       if (!text) return button;
       return el('div', { className: 'carto-note-wrap' }, [
         el('p', { className: 'carto-note-preview', text: text }), button
@@ -373,7 +396,7 @@
         details.appendChild(el('summary', { className: 'carto-theme', 'data-focus': 'theme:' + theme.id }, [
           el('span', { className: 'carto-theme-text' }, [el('strong', { text: theme.label }), el('span', { className: 'carto-theme-desc', text: theme.description })]),
           el('span', { className: 'carto-theme-progress', 'data-theme-count': theme.id, text: answered(theme) + ' / ' + themeItems(theme).length + ' renseignés' }),
-          el('span', { className: 'carto-theme-arrow', 'aria-hidden': 'true', text: '+' })
+          el('span', { className: 'carto-theme-arrow', 'aria-hidden': 'true', text: '›' })
         ]));
         details.appendChild(el('ul', { className: 'carto-factors' }, themeItems(theme).map(factorRow)));
         details.addEventListener('toggle', function () { if (details.isConnected) state.themesOpen[theme.id] = details.open; });
@@ -400,14 +423,16 @@
         choices.push(choice(value, 'unknown', 'Je ne sais pas', function (l) { setAnswer(f, l); }));
         controls = el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, choices);
       }
+      var note = noteField('factors', f.id, 'Ajouter une précision', 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Votre précision');
       return el('li', { 'data-factor': f.id, className: 'carto-factor-row' + (value === 1 || value === 2 ? ' is-checked' : '') }, [
         el('strong', { className: 'carto-factor-label', text: f.label }),
         el('p', { className: 'carto-factor-hint', text: hint }),
-        el('div', { className: 'carto-factor-actions' }, [controls,
+        el('div', { className: 'carto-factor-actions' }, [controls]),
+        el('div', { className: 'carto-factor-links' }, [note.tagName === 'BUTTON' ? note : null,
           nLinks ? el('button', { type: 'button', className: 'carto-see', 'aria-label': 'Voir les ' + nLinks + ' associations étudiées : ' + f.label, onclick: function () { openFactor(f); } }, ['Liens étudiés (' + nLinks + ')']) : null
         ]),
         nLinks ? null : el('p', { className: 'carto-no-link', text: f.association_status === 'unreviewed' ? 'Votre réponse peut préciser le contexte pour Ambre. Aucun rapprochement scientifique n’est proposé pour cette nouvelle question.' : 'Aucune association suffisamment documentée n’est retenue pour l’instant.' }),
-        noteField('factors', f.id, 'Ajouter une précision', 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Ma précision'),
+        note.tagName === 'BUTTON' ? null : note,
         ambreNotes('factor', f.id)
       ]);
     }
@@ -426,9 +451,9 @@
         body.appendChild(el('h3', { className: 'carto-dialog-h', text: section[0] + ' (' + items.length + ')' }));
         body.appendChild(el('ul', { className: 'carto-dialog-list' }, items.map(function (l) {
           var o = outcomes[l.outcome];
-          return el('li', {}, [
-            el('strong', { text: outcomeLabel(o) }),
-            el('p', { text: explanation(l.summary) }),
+          return el('li', {}, [el('details', { className: 'carto-dialog-item' }, [
+            el('summary', { text: outcomeLabel(o) }),
+            el('p', { text: explanation(l.summary) })]),
           ]);
         })));
       });
@@ -609,11 +634,11 @@
         state.mayImportAnonymous = false;
         if (state.dirty && j.cartographie) {
           state.conflict = { remote: j };
-          state.saveError = 'Une cartographie est déjà enregistrée. Vos réponses ici sont conservées : choisissez la version à garder.';
+          state.saveError = 'Des réponses sont déjà enregistrées. Vos réponses ici sont conservées : choisissez la version à garder.';
         } else if (j.cartographie) { applyServer(j, false); clearDraft(); }
         else if (hasContent()) { state.dirty = true; state.editRevision++; }
         state.accountReady = true;
-      }).catch(function () { state.loadError = true; state.saveError = 'Impossible de charger votre cartographie. Vos modifications restent sur cet appareil ; réessayez avant de les enregistrer.'; })
+      }).catch(function () { state.loadError = true; state.saveError = 'Impossible de charger vos réponses. Vos modifications restent sur cet appareil ; réessayez avant de les enregistrer.'; })
         .then(function () { state.loading = false; state.initialized = true; renderAll(); if (state.dirty && !state.loadError && !state.conflict) save(); });
     }
     function openAnonymous(unavailable) {

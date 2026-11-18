@@ -15,7 +15,7 @@ test('Ambre opens the shared menu and leads to the conversation page', async () 
   const links = [...generated.NAVIGATION_HTML.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match => ({ label: match[2], href: match[1] }));
   assert.deepEqual(links, navigation);
   assert.match(read('layouts/partials/header.html'), /range \.Site\.Data\.navigation/);
-  assert.deepEqual(Object.keys(generated).sort(), ['HEADER_BRAND_HTML', 'NAVIGATION_HTML', 'SITE_HEADER_CSS', 'SITE_NAVIGATION_SCRIPT']);
+  assert.deepEqual(Object.keys(generated).sort(), ['HEADER_BRAND_HTML', 'NAVIGATION_HTML', 'SITE_FOOTER_HTML', 'SITE_NAVIGATION_SCRIPT', 'SITE_SYSTEM_CSS']);
 });
 
 test('the Ambre bubble is removed from the public site: no asset, no loader, no framing exception', () => {
