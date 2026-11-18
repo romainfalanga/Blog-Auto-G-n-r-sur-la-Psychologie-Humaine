@@ -19,7 +19,7 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
 (async()=>{
  const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined});let passed=0;
  async function pageFor(options={}){
-  const context=await browser.newContext({viewport:{width:options.width||1440,height:1000}}),page=await context.newPage();
+  const context=await browser.newContext({viewport:{width:options.width||1440,height:1000},...(options.touch?{hasTouch:true,isMobile:true}:{})}),page=await context.newPage();
   const server={account:options.anonymous?null:{id:'synthetic-member'},map:options.map||null,puts:[],requests:[],meRequests:0,errors:[],beforePut:null,beforeMe:options.beforeMe||null,meFailure:Boolean(options.meFailure),beforeGet:options.beforeGet||null,getFailure:Boolean(options.getFailure),deleteFailure:false,putFailure:false,inflight:0,maxInflight:0};
   page.on('pageerror',error=>server.errors.push(error.message));page.on('dialog',dialog=>{server.errors.push('native dialog: '+dialog.message());dialog.dismiss()});
   // Confirmations are a site window now: accept each one as soon as it opens, and never expect a browser dialog.
@@ -61,6 +61,11 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
  async function select(page,id,value){const factor=data.factors.find(f=>f.id===id);await opened(page,factor.group);const button=page.locator('[data-factor="'+id+'"] [data-level="'+value+'"]');await button.click();return button}
  async function saved(page){try{await page.waitForFunction(()=>document.querySelector('[data-save]').dataset.state==='saved',{},{timeout:7000})}catch(error){console.error('Save UI:',await page.locator('[data-save]').innerText());throw error}}
  try{
+  await check('on a touch screen the note window focuses its heading and never a field',async()=>{
+   const map=fixture({abus_physique:2});const {page,context,server}=await pageFor({width:390,map,touch:true});await opened(page);
+   await page.locator('[data-factor="abus_physique"] .carto-note-add').tap();await page.locator('[data-note-dialog]').waitFor();
+   assert.equal(await page.evaluate(()=>document.activeElement.id),'carto-note-title');assert.deepEqual(server.errors,[]);await context.close();
+  });
   for (const width of [320,390,768,1440]) await check('note dialog saves explicitly, cancels and restores focus at '+width+'px', async()=>{
    const map=fixture({abus_physique:2,adoption:0,controle_psychologique:'unknown'});map.notes.factors.abus_physique='Précision déjà enregistrée.';
    const {page,context,server}=await pageFor({width,map});await opened(page);
@@ -69,8 +74,9 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    await button.click();const modal=page.locator('[data-note-dialog]'),area=modal.locator('textarea');
    assert.equal(await modal.getAttribute('aria-labelledby'),'carto-note-title');
    assert.equal(await page.locator('[data-note-title]').innerText(),data.factors.find(f=>f.id==='abus_physique').label);
-   assert.equal(await page.evaluate(()=>document.activeElement.id),'carto-note-title');assert.equal(await area.inputValue(),'Précision déjà enregistrée.');
-   await page.keyboard.press('Tab');assert.equal(await area.evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.locator('[data-note-cancel]').evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.locator('[data-note-save]').evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.evaluate(()=>document.activeElement.closest('[data-note-dialog]')!==null),true);
+   // With a mouse and keyboard the field takes the focus; a touch screen gets the heading (see the touch check below).
+   assert.equal(await page.evaluate(()=>document.activeElement.id),'carto-note-editor');assert.equal(await area.inputValue(),'Précision déjà enregistrée.');
+   await page.keyboard.press('Tab');assert.equal(await page.locator('[data-note-cancel]').evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.locator('[data-note-save]').evaluate(n=>n===document.activeElement),true);await page.keyboard.press('Tab');assert.equal(await page.evaluate(()=>document.activeElement.closest('[data-note-dialog]')!==null),true);
    await area.fill('Brouillon à annuler');await page.waitForTimeout(800);assert.equal(server.puts.length,0);
    assert.equal(await page.evaluate(()=>localStorage.getItem('cartographie-brouillon-v1:synthetic-member')),null);
    await page.keyboard.press('Escape');await modal.waitFor({state:'hidden'});assert.equal(await button.evaluate(n=>n===document.activeElement),true);
@@ -108,7 +114,7 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    const {page,context,server}=await pageFor({width:390,map:fixture({abus_physique:2,abus_emotionnel:1})});await page.locator('[data-tab="results"]').click();
    const card=page.locator('article.carto-card').first(),id=await card.getAttribute('data-outcome');
    assert.equal(await card.locator('.carto-card-body').count(),0);assert.ok((await card.locator(':scope > .carto-desc').innerText()).length>20);
-   const spacing=await card.evaluate(n=>n.querySelector('.carto-feedback').getBoundingClientRect().top-n.querySelector('.carto-from-line').getBoundingClientRect().bottom);assert.ok(spacing>=28,spacing);
+   const spacing=await card.evaluate(n=>n.querySelector('.carto-feedback .carto-fb').getBoundingClientRect().top-n.querySelector('.carto-from-line').getBoundingClientRect().bottom);assert.ok(spacing>=28,spacing);
    await card.locator('.carto-detail').click();assert.equal(await card.locator('.carto-desc').count(),1);assert.ok((await card.locator('.carto-link-text').first().innerText()).length>30);
    assert.doesNotMatch(await page.locator('[data-results]').innerText(),/Ces rapprochements ne décrivent|Seul un professionnel peut évaluer/);
    await card.locator('.carto-note-add').click();await page.locator('[data-note-dialog] textarea').fill('Ma manifestation au quotidien');await page.locator('[data-note-save]').click();await saved(page);assert.equal(server.map.notes.outcomes[id],'Ma manifestation au quotidien');
