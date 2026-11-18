@@ -31,9 +31,20 @@ Tous les `confirm()` et l'`alert()` du Worker et de Mon enfance passent par une 
 - « Enregistrer » / « Annuler » partout (au lieu de « Enregistrer mes informations », « Enregistrer ce proche », « Fermer le formulaire »…).
 - Formulaire de proche : « Lien », « Qu’est-ce qui vous aide dans cette relation ? », « Qu’est-ce qui vous pèse ? », « Vous sentez-vous en sécurité avec cette personne ? ». Moment : « Titre », « Type », « Date », « Avec ».
 - Plus de « (facultatif) », « — facultatif » ; « Non renseigné » devient « — ».
-- Compte : « Accès gratuit. » ; « Il vous reste 100 messages et 1 bilan ce mois-ci, jusqu’au 1er décembre. » ; « 100 messages et 1 bilan par mois, bilan initial inclus. » ; « Se déconnecter partout » ; « Exporter » ; « Supprimer mon compte ».
+- Compte : « Accès gratuit. » ; « Il vous reste 100 messages et 1 bilan ce mois-ci, jusqu’au 1ᵉʳ décembre. » ; « 100 messages et 1 bilan par mois, bilan initial inclus. » ; « Se déconnecter partout » ; « Exporter » ; « Supprimer mon compte ».
 - Ambre : « Avant de commencer », bouton « Commencer ». La phrase « assistante psychologue IA… ne pose pas de diagnostic et ne remplace pas un suivi professionnel » est inchangée, placée sous le bouton. Les textes de consentement (OpenRouter) sont inchangés.
 - Mon enfance : « cartographie » remplacé par « vos réponses » dans les messages ; Mon suivi : « Mon enfance », « Mon compte », « Mon plan » ; Paramètres : « Mon compte ».
+
+## Corrections après relecture indépendante
+
+- Partage : la rubrique `portrait` s'appelle « Mon compte et la synthèse rédigée par Ambre » (Mon suivi et Paramètres), car elle partage le profil déclaré et la synthèse.
+- « Effacer la conversation ? » : bouton rouge, « Annuler » à gauche. Annuler « Effacer cette mémoire » n'affiche plus « Enregistré. ».
+- Contour des champs `--line-strong` : `#748693` (3,44:1 sur le fond `#F2F5F7`, 3,77:1 sur blanc).
+- Cibles de 44 px : liens de la fenêtre de connexion, « Retrouver ce bilan… », lien du pied de page, tout résumé de dépliant.
+- Onglets de Paramètres : passage à la ligne sur petit écran, plus d'onglet coupé. Conversation : plus de hauteur minimale, un seul défilement clavier ouvert.
+- Après suppression d'un moment, le focus revient sur « Ajouter un moment ». Fenêtre de connexion : premier focus sur l'adresse e-mail ; « Je suis psychologue » ne signale son état que par son libellé.
+- « Moments sans date précise » rétabli ; titre d'article en graisse 400 ; « 1ᵉʳ » ; dépliant « Comment mes choix sont-ils utilisés ? » sans lectures aimées, « J'aime » ni portrait (la phrase sur OpenRouter est inchangée).
+- `/work/` (captures des suites navigateur) ajouté à `.gitignore`.
 
 ## Non fait, et pourquoi
 

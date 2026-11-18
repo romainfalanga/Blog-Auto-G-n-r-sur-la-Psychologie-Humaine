@@ -34,7 +34,7 @@ function deferred(){let resolve;const promise=new Promise(r=>resolve=r);return {
   await api('/api/life-events','POST',{creation_id:'ready-event',title:'Un moment déjà enregistré',kind:'positive',description:'Un souvenir personnel.',date_precision:'year',date_start:'2020',people_ids:[]});
   const account=await api('/api/me');for(let index=0;index<3;index++)db.prepare("INSERT INTO monthly_usage(user_id,kind,operation_id,period_id,state) VALUES(?,'message',?,?,'consumed')").run(account.user.id,'ui-used-'+index,account.quotas.messages.period.id);
   db.prepare("INSERT INTO monthly_usage(user_id,kind,operation_id,period_id,state) VALUES(?,'review','ui-initial-review',?,'consumed')").run(account.user.id,account.quotas.reviews.period.id);
-  const renewal=new Date(account.quotas.messages.renews_at).toLocaleDateString('fr-FR',{day:'numeric',month:'long',timeZone:'Europe/Paris'}).replace(/^1 /,'1er ');
+  const renewal=new Date(account.quotas.messages.renews_at).toLocaleDateString('fr-FR',{day:'numeric',month:'long',timeZone:'Europe/Paris'}).replace(/^1 /,'1ᵉʳ ');
   for(const width of [320,390,768,1440]){
    await page.setViewportSize({width,height:900});
    for(const [route,title,ready,content]of [['mon-compte','Mon compte','#self-profile-form','Camille'],['mes-proches','Mes proches','#people-editor','Camille proche'],['ma-ligne-de-vie','Ma ligne de vie','#events-editor','Un moment déjà enregistré']]){

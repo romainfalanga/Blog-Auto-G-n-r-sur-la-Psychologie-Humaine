@@ -74,7 +74,7 @@
 .article-character { margin: calc(-1 * var(--s3)) 0 var(--s1); }
 .article-character a { display: inline-flex; align-items: center; min-height: 44px; font: 600 var(--t-md)/1.2 var(--font-ui); text-decoration: none; }
 .article-character a:hover { text-decoration: underline; }
-.single-article .article-heading h1 { max-width: 24ch; margin: 0; font-size: clamp(30px, 4.6vw, 40px); font-weight: 700; }
+.single-article .article-heading h1 { max-width: 24ch; margin: 0; font-size: clamp(30px, 4.6vw, 40px); }
 .article-diagnosis { margin: var(--s3) 0 0; color: var(--muted); font-size: var(--t-sm); font-weight: 600; }
 .article-content { margin-bottom: var(--s6); font-size: clamp(17px, 1.6vw, var(--t-lg)); line-height: 1.7; }
 .article-content :where(p, ul, ol) { max-width: 68ch; margin: 0 0 1.15em; }

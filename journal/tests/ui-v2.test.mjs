@@ -1058,5 +1058,5 @@ test('saving from the person page refreshes that page; an unrelated draft never 
 test('account renders API monthly credits and the Paris renewal date without another request',()=>{
  const env=environment({api(){throw new Error('No extra quota fetch')}}),host=env.host('quota');vm.runInContext(functionCode('appendAccountQuota'),env.ctx);
  env.ctx.appendAccountQuota(host,{access:{mode:'paid'},subscription:{active:true,status:'active',paid_until:Date.parse('2026-12-17T12:00:00Z')/1000},quotas:{messages:{limit:100,used:7,reserved:1,remaining:92,renews_at:'2026-11-30T23:00:00.000Z'},reviews:{limit:1,used:1,remaining:0}}});
- assert.match(host.textContent,/100 messages et 1 bilan par mois, bilan initial inclus/);assert.match(host.textContent,/Il vous reste 92 messages et 0 bilan ce mois-ci, jusqu’au 1er décembre\./);assert.match(host.textContent,/facturation en cours se termine le 17 décembre 2026/);assert.doesNotMatch(host.textContent,/100 messages.*disponibles/);
+ assert.match(host.textContent,/100 messages et 1 bilan par mois, bilan initial inclus/);assert.match(host.textContent,/Il vous reste 92 messages et 0 bilan ce mois-ci, jusqu’au 1ᵉʳ décembre\./);assert.match(host.textContent,/facturation en cours se termine le 17 décembre 2026/);assert.doesNotMatch(host.textContent,/100 messages.*disponibles/);
 });

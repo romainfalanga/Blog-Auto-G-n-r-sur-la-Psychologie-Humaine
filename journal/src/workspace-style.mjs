@@ -33,6 +33,7 @@ blockquote { margin: var(--s3) 0; padding-left: var(--s4); border-left: 2px soli
 
 /* One way to fold and unfold: a chevron on the right. */
 details > summary { list-style: none; }
+:where(details) > :where(summary) { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
 details > summary::-webkit-details-marker { display: none; }
 :where(.disclosure, .privacy-details, .settings-disclosure, .change-section, .care-section details, .proposal-before, .profile-group, .change-chat-options) > summary {
   position: relative;
@@ -65,7 +66,7 @@ details > summary::-webkit-details-marker { display: none; }
 .journal-welcome p { color: var(--muted); }
 #auth-form > button[type=submit] { width: 100%; margin-top: var(--s2); }
 .auth-switch { margin: var(--s4) 0 0; font-size: var(--t-sm); }
-.auth-switch .text { min-height: 0; font-size: inherit; }
+.auth-switch .text { font-size: inherit; }
 #auth-role-toggle { font-size: var(--t-sm); }
 
 /* People and life events: content on the page, separated by rules. */
@@ -184,7 +185,7 @@ details > summary::-webkit-details-marker { display: none; }
 /* Conversation: the page is the conversation, the composer is the only fixed element. */
 .shell:has(> .conversation-page) { padding-block: 0; }
 body:has(.conversation-page) .site-footer { display: none; }
-.conversation-page { display: flex; flex-direction: column; height: calc(100dvh - var(--header-height) - 1px); min-height: 280px; }
+.conversation-page { display: flex; flex-direction: column; height: calc(100dvh - var(--header-height) - 1px); min-height: 0; }
 .conversation-page #app-messages:empty { display: none; }
 .conversation-page #view { flex: 1; display: flex; flex-direction: column; min-height: 0; max-width: none; }
 .conversation { position: relative; flex: 1; display: flex; flex-direction: column; min-height: 0; max-width: var(--page); }
@@ -197,7 +198,7 @@ body:has(.conversation-page) .site-footer { display: none; }
 .conversation-toolbar .chat-point { flex: none; margin-left: auto; }
 .conversation-toolbar .chat-point + .message-quota { margin-left: 0; }
 .chat-point-note { margin: 0; padding: var(--s2) 0; border-bottom: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); }
-.conversation-scroll { flex: 1; min-height: 80px; padding: var(--s4) 0; overflow-y: auto; overscroll-behavior-y: contain; scroll-padding: var(--s4); }
+.conversation-scroll { flex: 1; min-height: 0; padding: var(--s4) 0; overflow-y: auto; overscroll-behavior-y: contain; scroll-padding: var(--s4); }
 .chat-thread[hidden], .chat-composer[hidden], .journey-panel[hidden] { display: none; }
 .chat-message { max-width: 92%; margin: var(--s4) 0; scroll-margin-top: var(--s4); }
 .chat-message h3 { margin: 0 0 var(--s1); color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); }
@@ -205,8 +206,8 @@ body:has(.conversation-page) .site-footer { display: none; }
 .chat-content { margin: 0; line-height: 1.65; white-space: pre-wrap; overflow-wrap: anywhere; }
 .chat-noted { margin: var(--s3) 0 0; padding-top: var(--s2); border-top: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); }
 .chat-noted-label { font-weight: 600; }
-.chat-noted .text-link, .chat-review-link { min-height: 0; padding: 0; font-size: var(--t-sm); }
-.chat-review-link { display: block; margin-top: var(--s3); }
+.chat-noted .text-link, .chat-review-link { padding: 0; font-size: var(--t-sm); }
+.chat-review-link { display: flex; width: fit-content; margin-top: var(--s1); }
 .chat-thinking { display: flex; align-items: center; gap: var(--s2); min-height: 44px; color: var(--muted); font-size: var(--t-sm); }
 .chat-thinking h3 { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .thinking-dots { display: inline-flex; gap: 3px; }
@@ -282,7 +283,7 @@ body:has(.conversation-page) .site-footer { display: none; }
 /* Settings (Paramètres). */
 #view > .settings-workspace { max-width: var(--page-wide); }
 .settings-toolbar { display: flex; align-items: center; justify-content: space-between; gap: var(--s4); margin-bottom: var(--s5); border-bottom: 1px solid var(--line); }
-.settings-tabs { display: flex; gap: var(--s5); min-width: 0; overflow-x: auto; white-space: nowrap; scrollbar-width: none; }
+.settings-tabs { display: flex; flex-wrap: wrap; gap: 0 var(--s5); min-width: 0; }
 button.settings-tab { flex: none; min-height: 48px; padding: 0; border: 0; border-bottom: 2px solid transparent; border-radius: 0; background: none; color: var(--muted); font-size: var(--t-sm); }
 button.settings-tab:hover { background: none; color: var(--ink); }
 button.settings-tab[aria-selected=true] { border-bottom-color: var(--accent); color: var(--ink); }

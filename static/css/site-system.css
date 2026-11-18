@@ -8,7 +8,7 @@
   --bg: #F2F5F7;
   --surface: #FFFFFF;
   --line: #D6E0E6;
-  --line-strong: #7F919E;
+  --line-strong: #748693;
   --accent: #205E54;
   --accent-wash: #E8F2EF;
   --danger: #962B40;
@@ -126,8 +126,8 @@ img { max-width: 100%; height: auto; }
 }
 
 /* Footer: the site name, nothing else. */
-.site-footer { padding-block: var(--s5); }
-.site-footer .site-logo { color: var(--muted); font: 400 var(--t-sm)/1.45 var(--font-ui); text-decoration: none; }
+.site-footer { padding-block: var(--s3); }
+.site-footer .site-logo { display: inline-flex; align-items: center; min-height: 44px; color: var(--muted); font: 400 var(--t-sm)/1.45 var(--font-ui); text-decoration: none; }
 .site-footer .site-logo:hover { text-decoration: underline; }
 
 /* Buttons: primary by default, then secondary, text, and red for deletion only. */
