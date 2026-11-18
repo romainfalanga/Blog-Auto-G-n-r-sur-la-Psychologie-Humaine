@@ -7,3 +7,6 @@ editorial/automation/.pipeline.lock
 
 # Captures de test locales
 /*.png
+
+# Captures des suites navigateur (tests/*-browser.cjs)
+/work/

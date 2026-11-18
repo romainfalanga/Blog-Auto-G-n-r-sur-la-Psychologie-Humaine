@@ -13,7 +13,7 @@ const renderTemplate=input=>input.replace(/{{[^}]*}}/g,match=>match.includes('js
 // Match the real page: data and both inline scripts execute in the head, before the app exists.
 const head=renderTemplate(template.slice(0,template.indexOf('{{ define "main" }}')));
 const markup=renderTemplate(template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')));
-const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><main>'+markup+'</main></body></html>';
+const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/site-system.css"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><main id="main-content">'+markup+'</main></body></html>';
 
 (async()=>{
  const {summarizeCartography}=await import(pathToFileURL(path.join(root,'journal/src/cartographie.mjs')).href);
@@ -55,7 +55,7 @@ const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta nam
    assert.equal(await page.getByText('Repère de contexte').count(),0);
    const contextual=new Set(data.outcomes.filter(o=>o.contextual_only).map(o=>o.label));
    await page.locator('[data-factor="abus_sexuel"] .carto-see').click();
-   const listed=await page.locator('[data-dialog-body] .carto-dialog-list strong').allInnerTexts();
+   const listed=await page.locator('[data-dialog-body] .carto-dialog-list summary').allInnerTexts();
    assert.ok(listed.length>0);assert.ok(!listed.some(t=>contextual.has(t)),'the dialog hides contextual subjects');
    assert.doesNotMatch(await page.locator('[data-dialog-body]').innerText(),/non compté/);
    await page.locator('[data-dialog-close]').click();

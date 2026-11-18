@@ -13,7 +13,7 @@ const renderTemplate=input=>input.replace(/{{[^}]*}}/g,match=>match.includes('js
 // Match the real page: data and both inline scripts execute in the head, before the app exists.
 const head=renderTemplate(template.slice(0,template.indexOf('{{ define "main" }}')));
 const markup=renderTemplate(template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')));
-const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><main>'+markup+'</main></body></html>';
+const html='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/site-system.css"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><main id="main-content">'+markup+'</main></body></html>';
 const artifacts=path.join(root,'work','mon-enfance');fs.mkdirSync(artifacts,{recursive:true});
 const VIOLENCES={abus_physique:2,abus_emotionnel:2,temoin_violences:1,ressenti_peur:1,pas_protege:1};
 

@@ -13,7 +13,7 @@ const renderTemplate=input=>input.replace(/{{[^}]*}}/g,match=>match.includes('js
 // Match the real page: data and both inline scripts execute in the head, before the app exists.
 const head=renderTemplate(template.slice(0,template.indexOf('{{ define "main" }}')));
 const markup=renderTemplate(template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')));
-const document='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><header style="height:130px">Décode ton esprit</header><main>'+markup+'</main></body></html>';
+const document='<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/css/site-system.css"><link rel="stylesheet" href="/css/style.css">'+head+'</head><body><header style="height:130px">Décode ton esprit</header><main id="main-content">'+markup+'</main></body></html>';
 const fixture=(answers={},version=1)=>({answers,version,feedback:{},notes:{factors:{},outcomes:{}},resources:{prot_amities:1},ambre_notes:[],updated_at:1794830400,consent:true,locked:true});
 const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});return {promise,resolve}};
 
@@ -22,7 +22,9 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
  async function pageFor(options={}){
   const context=await browser.newContext({viewport:{width:options.width||1440,height:1000}}),page=await context.newPage();
   const server={account:options.anonymous?null:{id:'synthetic-member'},map:options.map||null,puts:[],requests:[],errors:[],beforePut:null,beforeGet:options.beforeGet||null,getFailure:Boolean(options.getFailure),deleteFailure:false,putFailure:false,inflight:0,maxInflight:0};
-  page.on('pageerror',error=>server.errors.push(error.message));page.on('dialog',dialog=>dialog.accept());
+  page.on('pageerror',error=>server.errors.push(error.message));page.on('dialog',dialog=>{server.errors.push('native dialog: '+dialog.message());dialog.dismiss()});
+  // Confirmations are a site window now: accept each one as soon as it opens, and never expect a browser dialog.
+  await page.addInitScript(()=>new MutationObserver(()=>{const confirm=document.querySelector('dialog.carto-confirm[open] [data-confirm]');if(confirm)confirm.click()}).observe(document,{childList:true,subtree:true,attributes:true,attributeFilter:['open']}));
   if(options.draft)await page.addInitScript(draft=>{if(!sessionStorage.getItem('draft-seeded')){localStorage.setItem('cartographie-brouillon-v1',JSON.stringify(draft));sessionStorage.setItem('draft-seeded','1')}},options.draft);
   await page.route('https://carto.test/**',async route=>{
    const request=route.request(),url=new URL(request.url()),method=request.method();
@@ -60,9 +62,10 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    const {page,context,server}=await pageFor({width,anonymous:true});
    assert.equal(await page.locator('[data-factor="controle"]').count(),0);
    await opened(page,'violences');
-   const dividers=await page.locator('[data-factor="abus_physique"] .carto-choice').evaluateAll(nodes=>nodes.map(n=>({left:getComputedStyle(n).borderLeftWidth,top:getComputedStyle(n).borderTopWidth,rect:{x:n.getBoundingClientRect().x,y:n.getBoundingClientRect().y,width:n.getBoundingClientRect().width},clipped:n.scrollWidth>n.clientWidth})));
-   assert.equal(dividers.length,3);assert.deepEqual(dividers.map(x=>x.left),width<601?['0px','1px','0px']:['0px','1px','1px']);assert.deepEqual(dividers.map(x=>x.top),width<601?['0px','0px','1px']:['0px','0px','0px']);assert.ok(dividers.every(x=>!x.clipped));
-   if(width<601){assert.equal(dividers[0].rect.x,dividers[2].rect.x);assert.ok(Math.abs(dividers[2].rect.width-dividers[0].rect.width-dividers[1].rect.width)<2);assert.ok(dividers[2].rect.y>dividers[0].rect.y)}
+   // One row of three separate, equally tall buttons at every width; no label is clipped or wrapped.
+   const choices=await page.locator('[data-factor="abus_physique"] .carto-choice').evaluateAll(nodes=>nodes.map(n=>{const r=n.getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,right:r.right,clipped:n.scrollWidth>n.clientWidth,wrap:getComputedStyle(n).whiteSpace}}));
+   assert.equal(choices.length,3);assert.ok(choices.every(x=>!x.clipped&&x.wrap==='nowrap'&&x.height>=44&&x.width>=44),JSON.stringify(choices));
+   assert.ok(choices.every(x=>x.y===choices[0].y),'the three answers share one row');assert.ok(choices[0].right<choices[1].x&&choices[1].right<choices[2].x,'the answers are separate controls');assert.ok(choices[2].width>choices[0].width,'« Je ne sais pas » keeps room for its label');
    for(const factor of data.factors.filter(f=>!f.historical)){assert.deepEqual(await page.locator('[data-factor="'+factor.id+'"] .carto-choice').allTextContents(),['Non','Oui','Je ne sais pas']);}
    await opened(page,'famille');const binary=page.locator('[data-factor="adoption"] .carto-choice');assert.equal(await binary.count(),3);assert.equal(await binary.filter({hasText:'Souvent'}).count(),0);
    await opened(page,'violences');await page.locator('[data-factor="abus_physique"] .carto-choices').screenshot({path:path.join(artifacts,'separateurs-'+width+'.png')});
@@ -106,7 +109,8 @@ const pause=()=>{let resolve;const promise=new Promise(done=>{resolve=done});ret
    await page.locator('[data-focus="feedback:dep_generale:non"]').click();
    assert.equal(await page.locator('.carto-row small').count(),0);assert.doesNotMatch(await page.locator('[data-results]').innerText(),/Preuves (solides|modérées|limitées)|CIM[-‑ ]?11|DSM[-‑ ]?(IV|5)/);
    if(await page.locator('[data-tab="form"]').isVisible())await page.locator('[data-tab="form"]').click();await opened(page,'violences');await page.locator('[data-factor="abus_physique"] .carto-see').click();
-   const dialogText=await page.locator('[data-dialog-body]').innerText();assert.match(dialogText,/Associations étudiées/);assert.match(dialogText,/Chez les enfants exposés/);assert.doesNotMatch(dialogText,/Preuves (solides|modérées|limitées)|CIM[-‑ ]?11|DSM[-‑ ]?(IV|5)|Correspondance de définition/);
+   // Each association is folded under its title; its explanation stays in the window and opens on demand.
+   const dialogText=await page.locator('[data-dialog-body]').evaluate(n=>n.textContent);assert.ok(await page.locator('[data-dialog-body] details.carto-dialog-item').count()>0);await page.locator('[data-dialog-body] details.carto-dialog-item > summary').first().click();assert.ok((await page.locator('[data-dialog-body] details.carto-dialog-item[open] p').first().innerText()).length>30);assert.match(dialogText,/Associations étudiées/);assert.match(dialogText,/Chez les enfants exposés/);assert.doesNotMatch(dialogText,/Preuves (solides|modérées|limitées)|CIM[-‑ ]?11|DSM[-‑ ]?(IV|5)|Correspondance de définition/);
    await page.locator('[data-dialog-close]').click();await page.locator('[data-scope-open]').click();assert.doesNotMatch(await page.locator('[data-dialog-body]').innerText(),/CIM[-‑ ]?11|DSM[-‑ ]?(IV|5)|HiTOP|AMPD/);
    for(const factor of data.factors){const links=data.links.filter(l=>l.factor===factor.id);if(links.length&&links.every(l=>l.relation_type==='classification_context'||l.relation_type==='definitional'||l.definitional))assert.equal(await page.locator('[data-factor="'+factor.id+'"] .carto-see').count(),0);}
    const internal=await page.locator('#cartographie-data').textContent();assert.deepEqual(JSON.parse(internal),data);assert.ok(data.links.some(l=>l.strength==='forte'));assert.ok(data.outcomes.some(o=>o.classification_codes));assert.ok(data.links.some(l=>l.relation_type==='classification_context'));

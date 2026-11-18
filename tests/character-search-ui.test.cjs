@@ -54,5 +54,5 @@ test('Escape prevents the native search-field clearing and retains the active qu
 
 test('an unmatched query reports no results and clearing it restores discovery',()=>{
   const f=fixture();f.input.value='zzzzzzz';f.input.fire('input');assert.equal(f.nodes.get('character-search-empty').hidden,false);assert.ok(f.grid.children.every(card=>card.hidden));
-  f.nodes.get('character-search-clear').fire('click');assert.equal(f.nodes.get('character-search-empty').hidden,true);assert.equal(f.nodes.get('character-count').textContent,'2 personnages à explorer');
+  f.nodes.get('character-search-clear').fire('click');assert.equal(f.nodes.get('character-search-empty').hidden,true);assert.equal(f.nodes.get('character-count').textContent,'2 personnages');
 });
