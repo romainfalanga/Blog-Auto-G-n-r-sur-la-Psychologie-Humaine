@@ -38,7 +38,7 @@ Le Worker analyse le portrait. Pour les contextes longs, le workflow `.github/wo
 
 Les anciennes adresses du personnage et de ses histoires redirigent vers Ambre. La migration `0014_retire_personal_stories.sql` ferme les demandes de récit ouvertes et préserve les données historiques dans l’export du compte.
 
-## Compte, chronologies et conversation embarquée
+## Compte, chronologies et conversation
 
 Mon compte affiche uniquement prénom, nom, date de naissance et genre pour l’identité, puis les droits, l’abonnement et les actions du compte. Les anciens paragraphes restent dans l’export et les données ; les mises à jour n’effacent pas les champs masqués.
 
