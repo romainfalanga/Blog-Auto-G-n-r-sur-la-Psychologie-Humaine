@@ -300,6 +300,9 @@
         el('p', { className: 'carto-note-preview', text: text }), button
       ]);
     }
+    function finePointer() {
+      try { return typeof window.matchMedia === 'function' && window.matchMedia('(hover: hover) and (pointer: fine)').matches; } catch (error) { return false; }
+    }
     function sizeNoteDialog() {
       var viewport = window.visualViewport;
       noteDialog.style.setProperty('--note-viewport-height', (viewport ? viewport.height : window.innerHeight) + 'px');
@@ -315,8 +318,10 @@
       previousOverflow = document.body.style.overflow;
       document.body.style.overflow = 'hidden';
       noteDialog.showModal();
-      // Focus the heading first: opening a note must not summon the mobile keyboard.
-      noteDialog.querySelector('[data-note-title]').focus({ preventScroll: true });
+      // A touch screen gets the heading, so opening a note never summons the keyboard;
+      // a mouse and keyboard user can type straight away.
+      if (finePointer()) noteArea.focus({ preventScroll: true });
+      else noteDialog.querySelector('[data-note-title]').focus({ preventScroll: true });
     }
     function closeNote() { noteDialog.close(); }
     function updateNoteCount() {

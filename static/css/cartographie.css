@@ -7,7 +7,7 @@
 .carto-tabs { display: none; }
 .carto-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; gap: var(--s7); }
 .carto-pane { min-width: 0; }
-.carto-pane-results { position: sticky; top: calc(var(--header-height) + var(--s4)); max-height: calc(100dvh - var(--header-height) - var(--s6)); padding-right: var(--s1); overflow-y: auto; }
+.carto-pane-results { position: sticky; top: calc(var(--header-height) + var(--s4)); max-height: calc(100dvh - var(--header-height) - var(--s6)); padding-right: var(--s2); overflow-y: auto; scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; }
 
 .carto-save { margin: 0 0 var(--s4); padding: var(--s3) var(--s4); border-left: 2px solid var(--accent); background: var(--accent-wash); font-size: var(--t-sm); }
 .carto-save:empty { display: none; }
@@ -58,36 +58,47 @@
 .carto-delete { margin-top: var(--s5); }
 .carto-delete:empty { display: none; }
 
-/* Results: one list, rules between subjects. */
+/* Results: one card per subject, so each result reads as a distinct block. */
 .carto-empty { margin: 0; color: var(--muted); }
 .carto-note-urgent { margin: 0 0 var(--s4); padding: var(--s3) var(--s4); border-left: 2px solid var(--danger); background: var(--surface); font-size: var(--t-sm); }
-.carto-rank-note { margin: 0 0 var(--s3); color: var(--muted); font-size: var(--t-xs); }
+.carto-rank-note { margin: 0 0 var(--s4); color: var(--muted); font-size: var(--t-xs); }
 .carto-tier-title { margin: 0 0 var(--s2); }
-.carto-grid { border-bottom: 1px solid var(--line); }
-.carto-card { padding: var(--s4) 0; border-top: 1px solid var(--line); }
-.carto-card-title { margin: 0 0 var(--s1); }
-.carto-card > .carto-desc { margin: 0 0 var(--s2); font-size: var(--t-sm); line-height: 1.55; }
+.carto-grid { display: grid; gap: var(--s3); }
+.carto-card { min-width: 0; padding: var(--s4) var(--s5) var(--s4); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); overflow-wrap: anywhere; }
+.carto-card:has(.carto-fb.is-on[data-focus$=":oui"]) { border-color: var(--accent); }
+.carto-card-title { margin: 0 0 var(--s1); font-size: var(--t-lg); }
+.carto-card > .carto-desc { margin: 0 0 var(--s3); font-size: var(--t-sm); line-height: 1.55; }
 .carto-from-line, .carto-familial { margin: 0 0 var(--s1); color: var(--muted); font-size: var(--t-xs); line-height: 1.45; }
-.carto-from-line b { font-weight: 600; }
-/* Room to read the subject before being asked for recognition. */
-.carto-feedback { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2); margin-top: var(--s6); }
-.carto-fb { font-size: var(--t-sm); }
+.carto-from-line b { color: var(--ink); font-weight: 600; }
+/* The answer row closes the card: the two answers on the left, the detail on the right. */
+.carto-feedback { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2); margin-top: var(--s4); padding-top: var(--s4); border-top: 1px solid var(--line); }
+.carto-fb { gap: 6px; padding: 0 14px; font-size: var(--t-sm); white-space: nowrap; }
 .carto-fb.is-on { border-color: var(--accent); background: var(--accent); color: #fff; }
+.carto-fb.is-on::before { content: '✓' / ''; font-weight: 700; }
 .carto-detail { margin-left: auto; font-size: var(--t-sm); }
-.carto-card-body { display: flex; flex-direction: column; gap: var(--s2); margin-top: var(--s3); font-size: var(--t-sm); }
-.carto-card-notes { margin-top: var(--s2); }
+.carto-card-body { display: flex; flex-direction: column; gap: var(--s2); margin-top: var(--s3); padding-top: var(--s3); border-top: 1px solid var(--line); font-size: var(--t-sm); }
+.carto-card-notes { margin-top: var(--s1); }
+.carto-card-notes .carto-note-add { justify-content: flex-start; font-size: var(--t-sm); text-align: left; }
 .carto-links { display: flex; flex-direction: column; gap: var(--s3); margin: 0; padding: 0; list-style: none; }
+.carto-links > li { padding-left: var(--s3); border-left: 2px solid var(--line); }
 .carto-from { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--s1) var(--s2); }
 .carto-relation { color: var(--muted); font-size: var(--t-xs); }
 .carto-link-text { margin: 2px 0 0; line-height: 1.5; }
-.carto-other-title { margin: var(--s2) 0 0; color: var(--muted); font-size: var(--t-xs); font-weight: 600; }
-.carto-fold { margin-top: var(--s5); }
-.carto-fold > summary { display: flex; align-items: center; min-height: 44px; font-weight: 600; }
-.carto-rows { margin: 0; padding: 0; list-style: none; }
-.carto-row { justify-content: space-between; width: 100%; padding: 0; border: 0; border-top: 1px solid var(--line); border-radius: 0; background: none; color: var(--ink); font-size: var(--t-sm); font-weight: 400; text-align: left; }
+.carto-other-title { margin: var(--s3) 0 0; color: var(--muted); font-size: var(--t-xs); font-weight: 600; }
+/* « Écartés » : one folded block in the same card shape, its subjects as rows inside. */
+.carto-fold { margin-top: var(--s5); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }
+.carto-fold > summary { position: relative; display: flex; align-items: center; min-height: 52px; padding: var(--s2) var(--s7) var(--s2) var(--s5); font-weight: 600; list-style: none; }
+.carto-fold > summary::-webkit-details-marker { display: none; }
+.carto-fold > summary::after { content: '›' / ''; position: absolute; right: var(--s5); top: 50%; color: var(--muted); font: 400 22px/1 var(--font-ui); transform: translateY(-50%); transition: transform .12s; }
+.carto-fold[open] > summary::after { transform: translateY(-50%) rotate(90deg); }
+.carto-rows { margin: 0; padding: 0 var(--s5); list-style: none; }
+.carto-row-item { border-top: 1px solid var(--line); }
+.carto-row { justify-content: space-between; width: 100%; padding: 0; border: 0; border-radius: 0; background: none; color: var(--ink); font-size: var(--t-sm); font-weight: 600; text-align: left; }
+.carto-row::after { content: '›' / ''; color: var(--muted); font: 400 20px/1 var(--font-ui); transition: transform .12s; }
+.carto-row[aria-expanded="true"]::after { transform: rotate(90deg); }
 .carto-row:hover { background: none; text-decoration: underline; }
-.carto-row[aria-expanded="true"] { font-weight: 600; }
-.carto-row-item .carto-card { border-top: 0; padding-top: 0; }
+.carto-row-item .carto-card { padding: 0 0 var(--s4); border: 0; border-radius: 0; background: none; }
+.carto-row-item .carto-card-title { display: none; }
 .carto-row-description { margin: 0 0 var(--s3); color: var(--muted); font-size: var(--t-sm); }
 .carto-scope { margin: var(--s4) 0 0; }
 .carto-scope-link { color: var(--muted); font-size: var(--t-sm); font-weight: 400; text-decoration: underline; }
@@ -132,6 +143,12 @@
 }
 @media (max-width: 599px) {
   .carto-theme-panel[open] { padding-left: var(--s3); }
+  .carto-card { padding-inline: var(--s4); }
+  .carto-fold > summary { padding-left: var(--s4); }
+  .carto-fold > summary::after { right: var(--s4); }
+  .carto-rows { padding-inline: var(--s4); }
+  .carto-fb { flex: 1 1 0; padding-inline: var(--s2); }
+  .carto-detail { flex: 1 0 100%; margin-left: 0; justify-content: flex-start; }
   .carto-dialog-head, .carto-dialog-body, .carto-dialog .carto-note-actions { padding-inline: var(--gutter); }
   /* The note sheet stays above the on-screen keyboard: it is anchored to the visible viewport. */
   .carto-note-dialog { top: auto; bottom: max(0px, calc(100dvh - var(--note-viewport-top, 0px) - var(--note-viewport-height, 100dvh))); }

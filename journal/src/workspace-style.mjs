@@ -124,7 +124,8 @@ details > summary::-webkit-details-marker { display: none; }
   background: var(--surface);
   transition: border-color .12s;
 }
-.person-card:hover, .person-card:focus-within { border-color: var(--accent); }
+.person-card:has(:focus-visible) { border-color: var(--accent); }
+@media (hover: hover) { .person-card:hover { border-color: var(--accent); } }
 .person-card:target { border-color: var(--accent); }
 .person-head { overflow-wrap: anywhere; }
 .person-card h3 { display: inline; margin: 0; }
@@ -136,13 +137,17 @@ details > summary::-webkit-details-marker { display: none; }
 .person-card::after { content: '›' / ''; position: absolute; right: var(--s4); top: 50%; color: var(--muted); font: 400 22px/1 var(--font-ui); transform: translateY(-50%); }
 .person-card .person-line { margin: var(--s1) 0 0; overflow: hidden; color: var(--muted); font-size: var(--t-sm); white-space: nowrap; text-overflow: ellipsis; }
 
-.event-timeline { position: relative; display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s5); padding-left: var(--s5); }
+.event-timeline { position: relative; display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s4); padding-left: var(--s5); }
 .event-timeline::before { content: ''; position: absolute; inset: 14px auto 0 3px; width: 1px; background: var(--line-strong); }
-.timeline-year { position: relative; margin: 0 0 calc(-1 * var(--s3)); font: 400 var(--t-lg)/1.3 var(--font-title); }
+.timeline-year { position: relative; margin: var(--s2) 0 calc(-1 * var(--s2)); font: 400 var(--t-lg)/1.3 var(--font-title); }
 .event-timeline .timeline-year::before { content: ''; position: absolute; top: .5em; left: calc(-1 * var(--s5)); width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
-.undated-events { display: grid; gap: var(--s5); margin-top: var(--s6); padding-top: var(--s5); border-top: 1px solid var(--line); }
-.event-card { min-width: 0; }
-.event-card:target, .event-card:focus-visible { outline: 2px solid var(--accent); outline-offset: 6px; border-radius: 2px; }
+.undated-events { display: grid; gap: var(--s4); margin-top: var(--s6); padding-top: var(--s5); border-top: 1px solid var(--line); }
+/* Each moment is a card on the line, its notes nested under a thin rule. */
+.event-card { min-width: 0; padding: var(--s4); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }
+.event-card:target, .event-card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.event-card > .source-body > .source-note { margin-top: var(--s2); }
+.event-card .event-foot { margin-top: var(--s3); padding-top: var(--s2); border-top: 1px solid var(--line); }
+.event-card .event-foot .timeline-note { margin: var(--s2) 0; padding: var(--s1) 0 0 var(--s3); border-top: 0; border-left: 2px solid var(--line); }
 .event-card h4 { margin: 0; overflow-wrap: anywhere; }
 .event-card .source-meta a, .event-people a { color: inherit; text-decoration: underline; }
 .event-foot { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 0 var(--s4); margin-top: var(--s2); }
@@ -160,12 +165,52 @@ details > summary::-webkit-details-marker { display: none; }
 .source-note-editor textarea { min-height: 48px; field-sizing: content; max-height: 40dvh; }
 .source-note-editor form > button { justify-self: start; margin-top: var(--s1); }
 .ambre-observation { padding-left: var(--s4); border-left: 2px solid var(--accent); }
+/* Person page: the information in one card, then the story as a vertical line. */
+.person-info { padding: var(--s5); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }
 .person-info h2, .person-timeline h2 { margin: 0 0 var(--s3); overflow-wrap: anywhere; }
+.person-info h2 { font-size: var(--t-lg); }
 .person-info .source-note:first-of-type { margin-top: 0; }
+.person-info > .source-actions { margin-top: var(--s4); padding-top: var(--s3); border-top: 1px solid var(--line); gap: var(--s2) var(--s5); }
 .person-info .source-editor-host:not(:empty) { margin-top: var(--s5); }
-.person-timeline { margin-top: var(--s6); padding-top: var(--s5); border-top: 1px solid var(--line); }
-.person-timeline-body > :first-child { border-top: 0; padding-top: 0; }
-.person-timeline-body > .text-link { padding: 0; }
+.person-info .source-editor[open] { padding-bottom: 0; border-bottom: 0; }
+.person-timeline { margin-top: var(--s6); }
+.person-timeline h2 { margin-bottom: var(--s5); }
+.person-frise { position: relative; margin: 0; padding: 0 0 0 var(--s6); list-style: none; }
+.person-frise::before { content: ''; position: absolute; top: 8px; bottom: var(--s5); left: 6px; width: 2px; border-radius: 1px; background: var(--line); }
+.frise-step { position: relative; min-width: 0; padding-bottom: var(--s6); overflow-wrap: anywhere; }
+.frise-step:last-child { padding-bottom: var(--s2); }
+.frise-step::before { content: ''; position: absolute; top: 4px; left: calc(-1 * var(--s6)); width: 14px; height: 14px; border: 2px solid var(--accent); border-radius: 50%; background: var(--accent); box-sizing: border-box; }
+.frise-note::before, .frise-observation::before { background: var(--bg); }
+.frise-when, .frise-note .timeline-note > .source-meta:first-child { margin: 0 0 2px; color: var(--muted); font: 600 var(--t-xs)/1.5 var(--font-ui); letter-spacing: .01em; }
+.frise-observation > .frise-when { color: var(--accent); }
+.frise-title { margin: 0; font: 600 var(--t-lg)/1.35 var(--font-ui); }
+.frise-title a { color: var(--ink); text-decoration-color: var(--line-strong); }
+.frise-title a:hover { color: var(--accent); }
+.frise-step > .source-note { margin: var(--s1) 0 0; }
+.frise-step .timeline-note { padding: 0; border-top: 0; }
+.frise-step .timeline-note > .source-note { margin-top: 0; }
+.frise-event .event-notes { margin-top: var(--s3); }
+.frise-event .event-notes > .timeline-note { margin: 0 0 var(--s2); padding: var(--s2) 0 0 var(--s3); border-left: 2px solid var(--line); }
+.frise-event .event-notes > .timeline-note > .source-meta:first-child { margin-bottom: 2px; }
+.frise-event .event-notes > .source-note-editor > summary { font-weight: 600; }
+.frise-observation > .text { font-size: var(--t-sm); }
+.person-timeline-body > .frise-more { margin: 0 0 var(--s4) var(--s6); }
+.person-note-add { margin-top: var(--s2); padding-top: var(--s5); border-top: 1px solid var(--line); }
+.person-note-add > summary {
+  display: inline-flex;
+  min-height: 44px;
+  padding: 0 18px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--r-control);
+  background: var(--surface);
+  color: var(--ink);
+  font: 600 var(--t-md)/1.2 var(--font-ui);
+}
+.person-note-add > summary::before { content: '+' / ''; margin-right: var(--s2); color: var(--accent); font-weight: 400; font-size: 20px; }
+.person-note-add > summary:hover { text-decoration: none; }
+@media (hover: hover) { .person-note-add > summary:hover { background: var(--accent-wash); } }
+.person-note-add[open] > summary { border-color: transparent; background: none; padding-left: 0; }
+.person-note-add form { max-width: 560px; }
 .pagination-button { margin-top: var(--s5); }
 
 /* Account: one column, one rule between sections. */
@@ -183,13 +228,17 @@ details > summary::-webkit-details-marker { display: none; }
 .self-identity-fields { margin-bottom: 0; }
 
 /* Conversation: the page is the conversation, the composer is the only fixed element. */
-.shell:has(> .conversation-page) { padding-block: 0; }
-body:has(.conversation-page) .site-footer { display: none; }
-.conversation-page { display: flex; flex-direction: column; height: calc(100dvh - var(--header-height) - 1px); min-height: 0; }
+/* Before the start (« Avant de commencer »), the page scrolls like every other page: no fixed
+   height, no inner scroller, the footer in place. Only a started conversation fills the screen. */
+.shell:has(> .conversation-page .chat-thread:not([hidden])) { padding-block: 0; }
+body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: none; }
+.conversation-page { display: flex; flex-direction: column; }
+.conversation-page:has(.chat-thread:not([hidden])) { height: calc(100dvh - var(--header-height) - 1px); min-height: 0; }
 .conversation-page #app-messages:empty { display: none; }
 .conversation-page #view { flex: 1; display: flex; flex-direction: column; min-height: 0; max-width: none; }
 .conversation { position: relative; flex: 1; display: flex; flex-direction: column; min-height: 0; max-width: var(--page); }
-.conversation-toolbar { flex: none; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s1) var(--s4); padding: var(--s4) 0 var(--s3); border-bottom: 1px solid var(--line); }
+.conversation-toolbar { flex: none; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s1) var(--s4); padding: 0 0 var(--s3); border-bottom: 1px solid var(--line); }
+.conversation-page:has(.chat-thread:not([hidden])) .conversation-toolbar { padding-top: var(--s4); }
 .conversation-toolbar h1 { margin: 0; font-size: clamp(var(--t-xl), 4vw, var(--t-2xl)); }
 .conversation-title-divider { display: none; }
 .conversation-role { display: block; margin-top: 2px; color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); letter-spacing: 0; }
@@ -198,7 +247,22 @@ body:has(.conversation-page) .site-footer { display: none; }
 .conversation-toolbar .chat-point { flex: none; margin-left: auto; }
 .conversation-toolbar .chat-point + .message-quota { margin-left: 0; }
 .chat-point-note { margin: 0; padding: var(--s2) 0; border-bottom: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); }
-.conversation-scroll { flex: 1; min-height: 0; padding: var(--s4) 0; overflow-y: auto; overscroll-behavior-y: contain; scroll-padding: var(--s4); }
+.conversation-scroll { padding: var(--s4) 0 0; }
+/* One scrolling area once the conversation runs, with a thin, quiet bar kept off the text. */
+.conversation-page:has(.chat-thread:not([hidden])) .conversation-scroll {
+  flex: 1;
+  min-height: 0;
+  margin-right: calc(-1 * var(--s3));
+  padding: var(--s4) var(--s3) var(--s4) 0;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scroll-padding: var(--s4);
+  scrollbar-width: thin;
+  scrollbar-color: var(--line-strong) transparent;
+}
+.conversation-scroll::-webkit-scrollbar { width: 6px; }
+.conversation-scroll::-webkit-scrollbar-thumb { border-radius: 3px; background: var(--line-strong); }
+.conversation-scroll::-webkit-scrollbar-track { background: transparent; }
 .chat-thread[hidden], .chat-composer[hidden], .journey-panel[hidden] { display: none; }
 .chat-message { max-width: 92%; margin: var(--s4) 0; scroll-margin-top: var(--s4); }
 .chat-message h3 { margin: 0 0 var(--s1); color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); }
@@ -270,6 +334,7 @@ body:has(.conversation-page) .site-footer { display: none; }
 .care-section h2 { margin: 0 0 var(--s3); }
 .care-form, .care-scopes { display: grid; gap: var(--s3); }
 .care-form > button, .care-section > button { justify-self: start; }
+.care-form + .helper { margin: var(--s3) 0 0; }
 .care-scopes { grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); margin: var(--s4) 0; }
 .care-card, .care-read-item { padding: var(--s4) 0; border-top: 1px solid var(--line); overflow-wrap: anywhere; }
 .care-card > button, .care-section > button { margin: var(--s2) var(--s3) var(--s2) 0; }
@@ -291,6 +356,10 @@ button.settings-tab[aria-selected=true] { border-bottom-color: var(--accent); co
 .settings-pane > *, .settings-section > * { max-width: var(--page); }
 .settings-section { margin: 0 0 var(--s6); }
 .settings-section > h2 { margin: 0 0 var(--s3); }
+/* A sentence never sticks to the fold or the button above it. */
+.settings-workspace :where(.change-section, .settings-disclosure) + :where(p),
+.settings-workspace :where(button) + :where(p),
+.settings-workspace :where(button) + .status + :where(p) { margin-top: var(--s3); }
 .settings-intro, .settings-extra > p, .settings-footnote { color: var(--muted); font-size: var(--t-sm); }
 .settings-context, .settings-source-area { margin: var(--s5) 0; padding: var(--s5) 0 0; border-top: 1px solid var(--line); }
 .settings-context > h3, .settings-source-area h3 { margin: 0 0 var(--s2); }
@@ -350,6 +419,8 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
 }
 @media (max-width: 599px) {
   .form-grid, .people-directory, .people-options { grid-template-columns: minmax(0, 1fr); }
+  .person-info { padding: var(--s4); }
+  .person-info .source-editor form > .actions { margin-inline: calc(-1 * var(--s4)); padding-inline: var(--s4); border-radius: 0 0 var(--r-card) var(--r-card); background: var(--surface); }
   .source-editor:not([open]) > summary { display: flex; width: 100%; }
   form > .actions > :where(button, .button):not(.text) { flex: 1 1 auto; }
   .settings-toolbar { flex-wrap: wrap; gap: 0 var(--s4); }
