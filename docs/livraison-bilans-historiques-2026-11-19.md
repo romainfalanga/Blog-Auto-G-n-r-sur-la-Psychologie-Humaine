@@ -1,5 +1,8 @@
 # Livraison — symptômes passés, archives des bilans et suivi
 
+> **Actualisation à 17 h 31 (Paris)** : après recharge OpenRouter par le propriétaire, les appels réels fonctionnent de nouveau. Le blocage 402 est levé. La recette complète reste non validée : deux bilans ont rencontré une mise à jour concurrente du portrait (`context_changed`), puis un essai sur état stable a été refusé par la relecture après réécriture (`review_not_approved`). Voir [la recette après recharge](recette-openrouter-recharge-2026-11-19.md). Le paragraphe de livraison ci-dessous décrit le constat initial avant recharge.
+
+
 Publié le 19 novembre 2026 à 17 h 07 (Paris), PR [107](https://github.com/romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/pull/107). Le code et les migrations sont en production. **La génération réelle d’un bilan reste bloquée : OpenRouter a renvoyé HTTP 402 pendant la recette.** Vérifier les crédits et les limites de facturation de la clé fournisseur ; aucun paiement ni changement de clé n’a été effectué. Le statut `/api/health` (`ai: true`) indique une configuration présente, pas un appel fournisseur réussi.
 
 ## Fonctionnalités livrées
