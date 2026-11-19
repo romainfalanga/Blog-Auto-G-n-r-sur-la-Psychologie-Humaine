@@ -38,8 +38,19 @@ Remplace `docs/plan-mes-symptomes-2026-11-19.md` (v1/v1.1, refusée par le propr
 - Paramètres : la ligne « Mes symptômes » montre ce qu'Ambre reçoit.
 - Prérequis d'Ambre inchangés (Mes symptômes reste facultatif).
 
-## 5. Vitesse des pages
-(À compléter avec l'audit de performance.)
+## 5. Vitesse des pages (audit du 19/11)
+Mesures : Ambre connectée LCP 3,3–4,5 s (`/api/me` puis `/api/chat` en cascade) ; pages privées 1,3–1,5 s ; Paramètres 2,8 s ; /personnages/ 2,4 s avant interactivité sur mobile (index de 1,26 Mo dans le HTML) ; Mon enfance 356 Ko de données dans le HTML et Edge qui attend ~1 s ; démarrage à froid du Worker (examples.mjs 5,6 Mo) ; plantage de l'onglet Ambre dû à `SpeechRecognition.available()` (voice-input.mjs:114).
+Corrections, lot P (Worker et pages publiques hors Mon enfance) :
+1. Placement intelligent du Worker près de D1 (`placement: smart` dans les métadonnées de déploiement et `journal/wrangler.jsonc`) ; lectures regroupées (`Promise.all` / `DB.batch`) dans `/api/me`, `chat.state`, `initialPageData`.
+2. Ambre pré-rendue (`INITIAL_PAGES.chat`).
+3. `voice-input.mjs` : `available()` seulement au premier usage du micro, avec détection de fonctionnalité.
+4. Script et CSS de l'application servis en fichiers à empreinte `public, max-age=31536000, immutable` (aucune donnée personnelle) ; page privée `no-store` avec seulement l'amorçage et les données initiales.
+5. /personnages/ : index de recherche en fichier à empreinte, chargé à la première frappe.
+6. Paramètres : `/api/chat/insight` chargé à l'ouverture de sa section.
+7. `examples.mjs` chargé paresseusement.
+8. `/js/*` en cache immuable ; logo réduit (WebP ~3 Ko).
+Lot S2 (Mon enfance et Mes symptômes) : données en JSON statique à empreinte, Edge qui n'attend plus `initial-state` plus de ~300 ms (ou chargement des données privées par le navigateur).
+Mesures avant/après avec le même script (`scratchpad/perf/`).
 
 ## 6. Lots et vérifications
 - Lot S1 (contenu) : 7 rédacteurs, dédoublonnage, relecture indépendante, build `--check`.
