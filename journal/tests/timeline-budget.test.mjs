@@ -13,10 +13,15 @@ for(const strategy of ['ideal','none'])for(const label of ['proche','moment'])te
  for(const [purpose,tokens] of Object.entries(reference[strategy][label]))assert.ok(sizes[purpose]<=tokens*1.1,purpose+' '+sizes[purpose]+' > '+tokens+'*1.1');
  t.diagnostic(JSON.stringify(sizes));
 });
-for(const kind of ['initial','point'])test(`dated notes keep ${kind} review inside its frozen context budget`,async t=>{
- const run=await replayReview(kind,{digests:true,extend:fillNotes});assert.equal(run.r.status,202);assert.ok(run.tokens<=(kind==='initial'?12423:12525)*1.1);assert.ok(JSON.stringify(run.data).length<=34000);for(const type of ['person','event']){const source=run.data.sources.find(source=>source.type===type&&source.text.includes('NOTEPERSO'));assert.ok(source,type+' includes dated user notes');assert.match(source.text,/Notes écrites par vous/);assert.equal(source.user_notes_total,20);assert.ok(source.user_notes_omitted>0)}t.diagnostic(JSON.stringify({tokens:run.tokens,chars:JSON.stringify(run.data).length}));
+for(const kind of ['initial','point'])test(`legacy before 0031 dated notes keep ${kind} review inside its frozen context budget`,async t=>{
+ const run=await replayReview(kind,{legacy:true,digests:true,extend:fillNotes});assert.equal(run.r.status,202);assert.ok(run.tokens<=(kind==='initial'?12423:12525)*1.1);assert.ok(JSON.stringify(run.data).length<=34000);for(const type of ['person','event']){const source=run.data.sources.find(source=>source.type===type&&source.text.includes('NOTEPERSO'));assert.ok(source,type+' includes dated user notes');assert.match(source.text,/Notes écrites par vous/);assert.equal(source.user_notes_total,20);assert.ok(source.user_notes_omitted>0)}t.diagnostic(JSON.stringify({tokens:run.tokens,chars:JSON.stringify(run.data).length}));
 });
-for(const kind of ['initial','point'])test(`the ${kind} review reads notes when the old relation and event narratives are empty`,async()=>{
- const run=await replayReview(kind,{extend:s=>{fillNotes(s);s.raw.prepare("UPDATE personal_people SET relationship_text='' WHERE user_id='a'").run();s.raw.prepare("UPDATE life_events SET description='',meaning_now='' WHERE user_id='a'").run()}});assert.equal(run.r.status,202);
+for(const kind of ['initial','point'])test(`legacy before 0031 the ${kind} review reads notes when the old relation and event narratives are empty`,async()=>{
+ const run=await replayReview(kind,{legacy:true,extend:s=>{fillNotes(s);s.raw.prepare("UPDATE personal_people SET relationship_text='' WHERE user_id='a'").run();s.raw.prepare("UPDATE life_events SET description='',meaning_now='' WHERE user_id='a'").run()}});assert.equal(run.r.status,202);
  for(const type of ['person','event'])assert.ok(run.data.sources.some(source=>source.type===type&&source.text.includes('NOTEPERSO')&&source.text.includes('Notes écrites par vous')),type+' note-only source reaches review');
+});
+
+for(const kind of ['initial','point'])test(`full ${kind} snapshot refuses the oversized historical notes fixture without a partial review`,async()=>{
+ const run=await replayReview(kind,{extend:fillNotes});assert.equal(run.failure.error_code,'snapshot_too_large');assert.equal(run.failure.status,'failed');assert.equal(run.calls.length,0);assert.equal(run.data,null);assert.equal(run.snapshot,null);
+ const row=run.s.raw.prepare('SELECT content FROM ambre_reviews WHERE id=?').get(run.r.review_id);assert.equal(row.content,'');
 });

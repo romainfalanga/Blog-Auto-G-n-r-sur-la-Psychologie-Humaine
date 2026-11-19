@@ -20,8 +20,8 @@ for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)tes
  for(const [purpose,tokens] of Object.entries(ref))assert.ok(sizes[purpose]<=tokens*(purpose==='ambre_writing'?1.4:1.1),`${purpose} ${sizes[purpose]} > ${tokens}*1.1`);
  assert.ok(sum(sizes)<=sum(ref)*1.4);
 });
-for(const kind of ['initial','point'])test(`review budget ${kind}: within +20 % of the frozen reference`,async t=>{
- const run=await replayReview(kind);assert.equal(run.r.status,202);
+for(const kind of ['initial','point'])test(`legacy before 0031 review budget ${kind}: within +20 % of the frozen reference`,async t=>{
+ const run=await replayReview(kind,{legacy:true});assert.equal(run.r.status,202);
  t.diagnostic(JSON.stringify({tokens:run.tokens,ref:REFERENCE.review[kind],ratio:+(run.tokens/REFERENCE.review[kind]).toFixed(3)}));
  assert.ok(run.tokens<=REFERENCE.review[kind]*1.2);
 });
@@ -44,9 +44,9 @@ for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)tes
 // of 34 000 characters is unchanged), and the separate check adds one small call. Measured:
 // initial 13 047 + check 2 629 tokens (+26 % in all), point 13 622 + 2 628 (+30 %); output cap
 // 3 200 → 4 800 (text and digest) + 1 500 (check). A rewrite at most doubles both calls.
-for(const kind of ['initial','point'])test(`A5-P1 review cost ${kind}: writing within +20 %, check under 3 500 tokens, both published together`,async t=>{
+for(const kind of ['initial','point'])test(`legacy before 0031 A5-P1 review cost ${kind}: writing within +20 %, check under 3 500 tokens, both published together`,async t=>{
  const content='BILAN '+'Vous écrivez que la critique réveille une vigilance ancienne ; cela peut se relier à votre histoire. '.repeat(55);
- const run=await replayReview(kind,{digests:true,write:()=>({content,digest:{formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],alliance:{text:'',quote:''},open_questions:['Qu’aimeriez-vous travailler ?'],next_focus:'La suite',safety:''}})});
+ const run=await replayReview(kind,{legacy:true,digests:true,write:()=>({content,digest:{formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],alliance:{text:'',quote:''},open_questions:['Qu’aimeriez-vous travailler ?'],next_focus:'La suite',safety:''}})});
  const ref=REFERENCE.review[kind],total=run.tokens+run.checkTokens;
  t.diagnostic(JSON.stringify({write:run.tokens,check:run.checkTokens,total,ref,ratio:+(total/ref).toFixed(3),output_cap:run.outputCap}));
  assert.equal(run.r.status,202);assert.ok(run.check,'a separate check call');
@@ -68,4 +68,17 @@ for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)tes
  assert.equal(run.calls.length,3,'no extra provider call for forms');
  for(const [purpose,tokens] of Object.entries(ref))assert.ok(sizes[purpose]<=tokens*(purpose==='ambre_writing'?1.4:1.1),`${purpose} ${sizes[purpose]} > ${tokens}*1.1`);
  assert.ok(sum(sizes)<=sum(ref)*1.4);
+});
+
+// R4's complete snapshot deliberately adds analysis calls. The old reference still
+// bounds final synthesis/check; chunk analysis is reported separately, never hidden
+// in a raised historical threshold or confused with the conversation allowance.
+for(const kind of ['initial','point'])test(`full snapshot ${kind}: bounded final synthesis and explicitly measured analysis calls`,async t=>{
+ const run=await replayReview(kind);assert.equal(run.r.status,202);assert.ok(run.chunkCalls.length>0);assert.equal(run.data.coverage.complete,true);
+ assert.equal(run.data.coverage.analyzed_blocks,run.chunkCalls.length);assert.equal(run.data.coverage.total_blocks,run.chunkCalls.length);
+ assert.ok(run.tokens<=REFERENCE.review[kind]*1.2);assert.ok(run.checkTokens<=3500);
+ const estimate=body=>{const system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text;return Math.ceil((system.length+body.messages[1].content.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3)};
+ const analysisTokens=run.chunkCalls.reduce((sum,c)=>sum+estimate(c),0);assert.ok(analysisTokens>0);
+ assert.equal(run.calls.length,run.chunkCalls.length+2,'one synthesis and one check after all analysis blocks');
+ t.diagnostic(JSON.stringify({analysis_calls:run.chunkCalls.length,analysis_tokens_estimated:analysisTokens,final_synthesis_tokens:run.tokens,check_tokens:run.checkTokens,total_tokens_estimated:analysisTokens+run.tokens+run.checkTokens,archive_bytes:Buffer.byteLength(JSON.stringify(run.snapshot.payload))}));
 });

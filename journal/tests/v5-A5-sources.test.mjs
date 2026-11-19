@@ -73,16 +73,16 @@ test('index: the map follows the page sections and carries no contextual subject
 
 });
 
-test('E: the initial analysis reads every rubric, the whole synthesis and the accounts of people and moments',async()=>{
- const {user,data}=await replayReview('initial');
+test('legacy before 0031 E: the initial analysis reads every rubric, the whole synthesis and the accounts of people and moments',async()=>{
+ const {user,data}=await replayReview('initial',{legacy:true});
  for(const marker of ['PRES_FIN','PERC_FIN','SCHEM_FIN','EMO_FIN','CTX_FIN','AXE_','ETAT_ACTUEL','EVOLUTION_','DESC_FIN_ev5','SENS_ev5'])assert.ok(user.includes(marker),marker);
  assert.equal(data.sources.filter(x=>x.type==='person').length,6);assert.equal(data.sources.filter(x=>x.type==='event').length,12);
  assert.ok(JSON.stringify(data).length<=34000);assert.ok(JSON.stringify(data.childhood_cartography).length<=10000,'map halved (20 261 characters before)');
  assert.equal(data.events.find(e=>e.id==='ev5').age_at_event,32);assert.deepEqual(data.events.find(e=>e.id==='ev1').people,['Marc','Sophie']);
 });
 
-test('E: a point keeps at least 6 people and 8 moments with text, the present rubrics and six exchanges, map reduced first',async()=>{
- const {data,user}=await replayReview('point');
+test('legacy before 0031 E: a point keeps at least 6 people and 8 moments with text, the present rubrics and six exchanges, map reduced first',async()=>{
+ const {data,user}=await replayReview('point',{legacy:true});
  assert.ok(data.sources.filter(x=>x.type==='person').length>=6);assert.ok(data.sources.filter(x=>x.type==='event').length>=8);
  assert.ok(user.includes('CTX_DEBUT')&&user.includes('EMO_DEBUT'),'current context and emotions stay');
  assert.equal(data.conversation_since.length,6);assert.ok(data.previous_review.text.includes('BILAN_P2_FIN'));
@@ -117,4 +117,20 @@ test('plan v5.1: the cautious reply after a double outage is not counted in the 
 
 test('headTail keeps both ends within the limit',()=>{
  const text='DEBUT '+'x'.repeat(2000)+' FIN';const cut=headTail(text,300);assert.ok(cut.length<=300);assert.ok(cut.startsWith('DEBUT')&&cut.endsWith('FIN'));assert.equal(headTail('court',300),'court');
+});
+
+for(const kind of ['initial','point'])test(`full snapshot ${kind} sends every personal section to analysis without the legacy excerpts`,async()=>{
+ const run=await replayReview(kind),snapshot=run.snapshot;assert.equal(run.r.status,202);assert.ok(snapshot);assert.equal(snapshot.payload.complete,true);
+ const sections=snapshot.payload.sections,text=run.chunkCalls.map(c=>c.messages[1].content).join('\n');
+ for(const marker of ['PRES_FIN','PERC_FIN','SCHEM_FIN','EMO_FIN','CTX_FIN','AXE_','ETAT_ACTUEL','EVOLUTION_','DESC_FIN_ev5','SENS_ev5'])assert.ok(text.includes(marker),marker);
+ assert.equal(sections.people.length,6);assert.equal(sections.events.length,12);
+ if(kind==='point'){assert.ok(sections.conversation.length>=8);assert.ok(JSON.stringify(sections.previous_reviews).includes('BILAN_P2_FIN'));}
+ assert.equal(run.data.coverage.complete,true);assert.equal(run.data.coverage.total_blocks,run.chunkCalls.length);assert.equal(run.data.coverage.analyzed_blocks,run.chunkCalls.length);
+ const paths=new Set(run.data.blocks.flatMap(b=>b.source_refs.map(r=>r.path)));
+ for(const [section,items] of Object.entries(sections))for(let i=0;i<items.length;i++){
+  const path=section+'/'+i;assert.ok(paths.has(path),path+' analyzed');
+  const fragments=run.chunkCalls.flatMap(c=>JSON.parse(c.messages[1].content).items).filter(x=>x.path===path).sort((a,b)=>a.offset-b.offset);
+  let through=0;for(const fragment of fragments){assert.equal(fragment.offset,through,path+' has no gap or duplicate');through+=fragment.text.length;assert.ok(through<=fragment.total_chars);}
+  assert.equal(through,fragments[0].total_chars,path+' includes every character');
+ }
 });
