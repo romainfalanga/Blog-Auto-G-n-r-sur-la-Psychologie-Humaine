@@ -39,7 +39,7 @@ test('hypothesis contract allows named hypotheses but not diagnoses or automatic
  assert.match(MAP_HYPOTHESIS_RULES,/hypothèse : X/);assert.match(MAP_HYPOTHESIS_RULES,/il manque C/);assert.match(MAP_HYPOTHESIS_RULES,/pas systématiquement/);
 });
 function seed(s,{safety=false}={}){
- const row=fullRow();s.raw.prepare("INSERT INTO symptom_maps(user_id,answers,feedback,notes,consent,locked_at,version,updated_at,safety_at) VALUES('a',?,?,?,1,?,1,?,?)").run(JSON.stringify(row.answers),'{}',JSON.stringify(row.notes),s.now(),s.now(),safety?s.now():null);
+ const row=fullRow();s.raw.prepare("INSERT OR REPLACE INTO symptom_maps(user_id,answers,feedback,notes,consent,locked_at,version,updated_at,safety_at) VALUES('a',?,?,?,1,?,1,?,?)").run(JSON.stringify(row.answers),'{}',JSON.stringify(row.notes),s.now(),s.now(),safety?s.now():null);
 }
 test('conversation receives both fixed maps and symptom details independently',async()=>{
  const run=await replayTurn('Je voudrais comprendre ce que mes symptômes peuvent suggérer.',{extend:s=>seed(s)});

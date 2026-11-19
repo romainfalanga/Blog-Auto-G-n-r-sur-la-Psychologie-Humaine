@@ -1,3 +1,4 @@
+// Mandatory symptom maps use the existing v2 allocation: writing +40%, reviews +20%, turn 42000.
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {replayTurn,replayReview,MESSAGES} from './v5-A-helper.mjs';
@@ -8,13 +9,13 @@ function fillNotes(s){
  }
 }
 const reference={ideal:{proche:{ambre_analysis:2406,ambre_writing:5953,ambre_review:2460},moment:{ambre_analysis:2438,ambre_writing:5937,ambre_review:2444}},none:{proche:{ambre_analysis:2406,ambre_writing:5939,ambre_review:2451},moment:{ambre_analysis:2438,ambre_writing:6066,ambre_review:2494}}};
-for(const strategy of ['ideal','none'])for(const label of ['proche','moment'])test(`dated notes keep ${strategy}/${label} inside the frozen +10% stage budgets`,async t=>{
+for(const strategy of ['ideal','none'])for(const label of ['proche','moment'])test(`dated notes keep ${strategy}/${label} inside the frozen v2 symptom stage budgets`,async t=>{
  const run=await replayTurn(MESSAGES.find(([key])=>key===label)[1],{strategy,digests:true,extend:fillNotes});assert.equal(run.stage,'done');assert.equal(run.calls.length,3);const sizes=Object.fromEntries(run.calls.map(c=>[c.purpose,c.tokens]));
- for(const [purpose,tokens] of Object.entries(reference[strategy][label]))assert.ok(sizes[purpose]<=tokens*1.1,purpose+' '+sizes[purpose]+' > '+tokens+'*1.1');
+ for(const [purpose,tokens] of Object.entries(reference[strategy][label]))assert.ok(sizes[purpose]<=tokens*(purpose==='ambre_writing'?1.4:1.1),purpose+' '+sizes[purpose]+' > '+tokens+'*'+(purpose==='ambre_writing'?1.4:1.1));
  t.diagnostic(JSON.stringify(sizes));
 });
 for(const kind of ['initial','point'])test(`legacy before 0031 dated notes keep ${kind} review inside its frozen context budget`,async t=>{
- const run=await replayReview(kind,{legacy:true,digests:true,extend:fillNotes});assert.equal(run.r.status,202);assert.ok(run.tokens<=(kind==='initial'?12423:12525)*1.1);assert.ok(JSON.stringify(run.data).length<=34000);for(const type of ['person','event']){const source=run.data.sources.find(source=>source.type===type&&source.text.includes('NOTEPERSO'));assert.ok(source,type+' includes dated user notes');assert.match(source.text,/Notes écrites par vous/);assert.equal(source.user_notes_total,20);assert.ok(source.user_notes_omitted>0)}t.diagnostic(JSON.stringify({tokens:run.tokens,chars:JSON.stringify(run.data).length}));
+ const run=await replayReview(kind,{legacy:true,digests:true,extend:fillNotes});assert.equal(run.r.status,202);assert.ok(run.tokens<=(kind==='initial'?12423:12525)*1.2);assert.ok(JSON.stringify(run.data).length<=40000);for(const type of ['person','event']){const source=run.data.sources.find(source=>source.type===type&&source.text.includes('NOTEPERSO'));assert.ok(source,type+' includes dated user notes');assert.match(source.text,/Notes écrites par vous/);assert.equal(source.user_notes_total,20);assert.ok(source.user_notes_omitted>0)}t.diagnostic(JSON.stringify({tokens:run.tokens,chars:JSON.stringify(run.data).length}));
 });
 for(const kind of ['initial','point'])test(`legacy before 0031 the ${kind} review reads notes when the old relation and event narratives are empty`,async()=>{
  const run=await replayReview(kind,{legacy:true,extend:s=>{fillNotes(s);s.raw.prepare("UPDATE personal_people SET relationship_text='' WHERE user_id='a'").run();s.raw.prepare("UPDATE life_events SET description='',meaning_now='' WHERE user_id='a'").run()}});assert.equal(run.r.status,202);

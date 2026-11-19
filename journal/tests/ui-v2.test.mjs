@@ -492,7 +492,7 @@ test('assistant messages render no reading suggestion; notes written on the map 
 const journeyState=(journey,extra={})=>({consent:false,access:{allowed:false,reason:'consent_required'},quota:{used:0,remaining:100,limit:100},messages:[],proposals:[],journey,...extra});
 const notStarted=(overrides={})=>({started:false,can_start:true,sources:{cartography:{done:true,count:7},portrait:{done:false},people:{done:true,count:1},life_events:{done:false,count:0}},review:{running_id:null,last_at:null,next_point_at:null},...overrides});
 
-test('the welcome panel lists the four sources, confirms with an explicit agreement, then waits for the initial analysis',async()=>{
+test('the welcome panel lists the five sources, confirms with an explicit agreement, then waits for the initial analysis',async()=>{
  const calls=[];let next;
  const env=chatFixture({api:async(path,method,data)=>{calls.push([path,method||'GET',data]);return next;}});
  env.ctx.state.chatData=journeyState(notStarted({can_start:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}}}));
@@ -501,15 +501,15 @@ test('the welcome panel lists the four sources, confirms with an explicit agreem
  assert.equal(dialog.hidden,false);assert.equal(dialog.dataset.step,'intro');assert.equal(dialog.attributes['aria-labelledby'],'journey-title');
  assert.equal(dialog.querySelector('h2').textContent,'Avant de commencer');assert.equal(env.doc.activeElement,dialog.querySelector('h2'));
  assert.match(dialog.textContent,/analyse approfondie de ce que vous avez renseigné, puis la conversation se poursuit/);
- let items=dialog.querySelectorAll('.journey-source');assert.equal(items.length,4);
- assert.deepEqual(items.map(i=>i.querySelector('a').href),['/cartographie/','/mon-compte/','/mes-proches/','/ma-ligne-de-vie/']);
+ let items=dialog.querySelectorAll('.journey-source');assert.equal(items.length,5);
+ assert.deepEqual(items.map(i=>i.querySelector('a').href),['/mes-symptomes/','/cartographie/','/mon-compte/','/mes-proches/','/ma-ligne-de-vie/']);
  assert.ok(items.every(i=>i.querySelector('.journey-source-state').textContent==='À compléter'));
  let start=env.doc.getElementById('journey-start');assert.equal(start.disabled,true);assert.match(env.doc.getElementById('journey-hint').textContent,/Complétez vos informations/);
  assert.equal(env.send.disabled,true);assert.equal(env.view.querySelector('.chat-gate'),null,'the agreement is asked in the panel, not in a second gate');
  assert.equal(dialog.tagName,'SECTION');assert.equal(dialog.parentElement.id,'conversation-scroll');assert.match(dialog.textContent,/assistante psychologue IA/);assert.match(dialog.textContent,/à vos côtés un professionnel de santé/);assert.match(dialog.textContent,/ne pose pas de diagnostic/);
  env.ctx.state.chatData=journeyState(notStarted());env.ctx.drawChat(env.view,()=>true);
- items=dialog.querySelectorAll('.journey-source');assert.deepEqual(items.map(i=>i.querySelector('.journey-source-state').textContent),['Renseigné','À compléter','Renseigné','À compléter']);
- assert.match(items[0].textContent,/7 réponses/);assert.match(items[2].textContent,/1 proche/);
+ items=dialog.querySelectorAll('.journey-source');assert.deepEqual(items.map(i=>i.querySelector('.journey-source-state').textContent),['À compléter','Renseigné','À compléter','Renseigné','À compléter']);
+ assert.match(items[1].textContent,/7 réponses/);assert.match(items[3].textContent,/1 proche/);
  start=env.doc.getElementById('journey-start');assert.equal(start.disabled,false);await start.fire('click');
  assert.equal(dialog.dataset.step,'confirm');assert.equal(dialog.querySelector('h2').textContent,'Voulez-vous lancer la discussion ?');
  assert.match(dialog.textContent,/Cela va initier la conversation à partir des informations que vous avez renseignées\./);
@@ -960,10 +960,10 @@ test('meeting dates use the same partial controls and preserve legacy period tex
 });
 
 test('an already-started conversation is blocked when the strict readiness checklist becomes incomplete',()=>{
- const readiness={complete:false,identity:{complete:true,missing_fields:[]},people:{complete:false,count:2,required:3},events:{complete:true,count:3,required:3},childhood:{complete:true,answered:60,required:60}};
+ const readiness={complete:false,identity:{complete:true,missing_fields:[]},people:{complete:false,count:2,required:3},events:{complete:true,count:3,required:3},childhood:{complete:true,answered:60,required:60},symptoms:{complete:true,answered:516,required:516}};
  const env=chatFixture();env.ctx.state.chatData=journeyState({started:true,can_start:false,readiness,review:{}},{consent:true,access:{allowed:true}});env.ctx.drawChat(env.view,()=>true);
  assert.equal(env.send.disabled,true);assert.equal(env.form.hidden,true);assert.equal(env.doc.getElementById('journey-panel').hidden,false);assert.match(env.doc.getElementById('journey-panel').textContent,/2 proches sur 3/);
- assert.equal(env.doc.getElementById('journey-panel').querySelectorAll('.journey-source')[2].querySelector('a').href,'/mes-proches/');
+ assert.equal(env.doc.getElementById('journey-panel').querySelectorAll('.journey-source')[3].querySelector('a').href,'/mes-proches/');
  readiness.complete=true;readiness.people.complete=true;env.ctx.drawChat(env.view,()=>true);assert.equal(env.form.hidden,false);assert.equal(env.send.disabled,false);
 });
 
@@ -1117,4 +1117,8 @@ test('archive rejects stale section responses and retries failed reads',async()=
 });
 test('shared archive sections use the authorized professional endpoint without owner requests',async()=>{
  const calls=[];const env=archiveFixture({api:async path=>{calls.push(path);return {items:[{person_label:'Nina',event_title:'Rencontre'}],next_cursor:null}}});const host=env.ctx.archiveSnapshotSections('review',{sections:[{id:'event_people',count:1}]},()=>true,'/api/care/dossiers/link/reviews/review/snapshot'),d=host.querySelector('details');d.open=true;await d.fire('toggle');await new Promise(r=>setImmediate(r));assert.equal(calls[0],'/api/care/dossiers/link/reviews/review/snapshot?section=event_people&limit=50');assert.match(host.textContent,/Nina/);assert.match(host.textContent,/Rencontre/);assert.doesNotMatch(host.textContent,/Autre information/);assert.match(env.ctx.archiveMetadata({scope_limited:true,captured_at:'2026-11-19T12:00:00Z'}).textContent,/rubriques autorisées/);
+});
+
+ test('Ambre checklist shows 515 of 516 symptoms and links to complete them',()=>{
+ const readiness={complete:false,identity:{complete:true},people:{complete:true,count:3,required:3},events:{complete:true,count:3,required:3},childhood:{complete:true,answered:60,required:60},symptoms:{complete:false,answered:515,required:516}};const env=chatFixture();env.ctx.state.chatData=journeyState({started:false,can_start:false,readiness,review:{}},{consent:true,access:{allowed:false}});env.ctx.drawChat(env.view,()=>true);const panel=env.doc.getElementById('journey-panel');assert.match(panel.textContent,/515 réponses sur 516/);assert.equal(panel.querySelectorAll('.journey-source')[0].querySelector('a').href,'/mes-symptomes/');assert.equal(env.doc.getElementById('journey-start').disabled,true);assert.equal(env.send.disabled,true);
 });

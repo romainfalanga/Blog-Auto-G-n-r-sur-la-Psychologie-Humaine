@@ -1,4 +1,5 @@
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
+import {SYMPTOMES_CARTE} from '../src/symptomes-carte.generated.mjs';
 // Explicit fixture data, never a production readiness bypass. Missing narratives
 // stay empty: eligibility requires identity, counts and answers, not prose.
 export function seedCompanionPrerequisites(raw,user='a',{answer=0}={}) {
@@ -11,5 +12,6 @@ export function seedCompanionPrerequisites(raw,user='a',{answer=0}={}) {
  }
  const map=raw.prepare('SELECT answers FROM cartographies WHERE user_id=?').get(user),answers={...Object.fromEntries(CARTOGRAPHIE.factors.filter(f=>!f.historical).map(f=>[f.id,answer])),...JSON.parse(map?.answers||'{}')};
  raw.prepare('INSERT INTO cartographies(user_id,answers,consent,locked_at,updated_at) VALUES(?,?,1,1,1) ON CONFLICT(user_id) DO UPDATE SET answers=excluded.answers,consent=1,locked_at=COALESCE(cartographies.locked_at,1)').run(user,JSON.stringify(answers));
+ if(raw.prepare("SELECT 1 FROM sqlite_master WHERE name='symptom_maps'").get()){const existing=raw.prepare('SELECT answers FROM symptom_maps WHERE user_id=?').get(user),symptoms={...Object.fromEntries(SYMPTOMES_CARTE.factors.filter(f=>!f.historical).map(f=>[f.id,0])),...JSON.parse(existing?.answers||'{}')};raw.prepare('INSERT INTO symptom_maps(user_id,answers,consent,locked_at,updated_at) VALUES(?,?,1,1,1) ON CONFLICT(user_id) DO UPDATE SET answers=excluded.answers,consent=1,locked_at=COALESCE(symptom_maps.locked_at,1)').run(user,JSON.stringify(symptoms));}
  return identity;
 }
