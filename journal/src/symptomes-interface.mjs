@@ -36,8 +36,11 @@ function syResetSession(){
 function syLeave(userId){syResetSession();if(userId)syPurgeStorage(userId)}
 function syUserId(){return state.me&&state.me.user&&state.me.user.id||''}
 // Device storage of this page: keys « symptomes-<kind>:<user>[:<passation>] ». keep(key) keeps a key.
+// Both stores: localStorage (choices, « ne pas répondre ») and sessionStorage (confirmed screens).
 function syPurgeStorage(userId,keep){
- try{var drop=[];for(var i=0;i<localStorage.length;i++){var key=localStorage.key(i);if(typeof key!=='string'||key.indexOf('symptomes-')!==0)continue;var owner=key.split(':')[1];if(userId&&owner!==userId)continue;if(keep&&keep(key))continue;drop.push(key)}drop.forEach(function(key){localStorage.removeItem(key)})}catch(e){}
+ [function(){return localStorage},function(){return sessionStorage}].forEach(function(get){
+  try{var store=get(),drop=[];for(var i=0;i<store.length;i++){var key=store.key(i);if(typeof key!=='string'||key.indexOf('symptomes-')!==0)continue;var owner=key.split(':')[1];if(userId&&owner!==userId)continue;if(keep&&keep(key))continue;drop.push(key)}drop.forEach(function(key){store.removeItem(key)})}catch(e){}
+ });
 }
 // One live region for the whole page, never re-created by a render.
 function syAnnounce(text){var node=document.getElementById('sy-live');if(!node){node=el('p','visually-hidden');node.id='sy-live';node.setAttribute('aria-live','polite');node.setAttribute('role','status');document.body.append(node)}node.textContent='';node.textContent=text||''}
@@ -142,6 +145,7 @@ function syAdoptDrafts(page){
  // Orphan « ne pas répondre » keys (passations recorded or deleted elsewhere) are dropped.
  var live=Object.keys(SY.work).map(function(id){return syPrefKey(SY.work[id])}),user=syUserId();
  syPurgeStorage(user,function(key){return key.indexOf('symptomes-pref:')!==0||live.indexOf(key)>=0});
+ syRestoreAcks();
 }
 // « Je préfère ne pas répondre » to an official item is sent as no answer; the page keeps it on this
 // device for the passation in progress (best effort: storage may be unavailable).
@@ -164,6 +168,21 @@ function syCheckSafety(id){
  var screen=E.safetyScreen(blocking,D,{age:SY.page&&SY.page.age?SY.page.age.age:null});
  SY.sessionScreen=syMergeScreens(SY.sessionScreen,screen);sySafetyDialog(screen);return true;
 }
+// A blocking screen confirmed (« Continuer », « Arrêter »…) stays confirmed for its passation after a
+// reload, in this tab only: « symptomes-ack:<user>:<passation> » lists its trigger ids. Rewritten from
+// memory, so a re-armed trigger, a recorded passation or a new one (« Refaire ») leaves no key.
+function syAckKey(work){return 'symptomes-ack:'+syUserId()+':'+work.key}
+function syStoreAcks(){
+ try{var user=syUserId(),prefix='symptomes-ack:'+user+':',live={};if(!syData())return;
+  Object.keys(SY.work).forEach(function(id){var w=SY.work[id],ids=syTriggerDefs().filter(function(t){return SY.acknowledged[syAckScope(t,w)+':'+t.id]}).map(function(t){return t.id});if(ids.length)live[syAckKey(w)]=JSON.stringify(ids)});
+  var drop=[];for(var i=0;i<sessionStorage.length;i++){var key=sessionStorage.key(i);if(typeof key==='string'&&key.indexOf(prefix)===0&&!live[key])drop.push(key)}
+  drop.forEach(function(key){sessionStorage.removeItem(key)});Object.keys(live).forEach(function(key){sessionStorage.setItem(key,live[key])});
+ }catch(e){}
+}
+function syRestoreAcks(){
+ Object.keys(SY.work).forEach(function(id){var w=SY.work[id];try{var ids=JSON.parse(sessionStorage.getItem(syAckKey(w))||'[]');if(Array.isArray(ids))syTriggerDefs().forEach(function(t){if(ids.indexOf(t.id)>=0)SY.acknowledged[syAckScope(t,w)+':'+t.id]=true})}catch(e){}});
+ syStoreAcks();
+}
 function syMergeScreens(a,b){if(!a)return b;if(!b)return a;var seen={},resources=[];a.resources.concat(b.resources).forEach(function(r){if(!seen[r.id]){seen[r.id]=true;resources.push(r)}});var order=syData()?syData().safety.display.blocking_screen.order:[];resources.sort(function(x,y){return order.indexOf(x.id)-order.indexOf(y.id)});return {always:a.always||b.always,resources:resources,kinds:a.kinds.concat(b.kinds.filter(function(k){return a.kinds.indexOf(k)<0})),quick_exit:a.quick_exit||b.quick_exit}}
 function syResources(list){var ul=el('ul','sy-resources');(list||[]).forEach(function(r){var li=el('li'),a=el('a','sy-resource');a.href='tel:'+String(r.number).replace(/\s+/g,'');a.append(el('strong','',r.number),el('span','',r.label));li.append(a);ul.append(li)});return ul}
 function syQuickExit(){try{if(SY.view)SY.view.replaceChildren()}catch(e){}location.replace('https://www.google.fr/')}
@@ -178,9 +197,9 @@ function sySafetyDialog(screen){
  dialog.append(el('p','sy-safety-always',screen.always));dialog.append(syResources(screen.resources));
  var actions=el('div','sy-safety-actions');
  // « Écrire à Ambre » only when Ambre follows the deterministic safety protocol for this account (lot C).
- var ambre=Boolean(SY.page&&SY.page.safety&&SY.page.safety.ambre_available);
+ var ambre=syAmbreAvailable();
  (screen.buttons||[]).filter(function(label){return ambre||!/Ambre/.test(label)}).forEach(function(label){var kind=/Ambre/.test(label)?'ambre':/^Arr/.test(label)?'stop':'continue';
-  actions.append(actionButton(label,function(){dialog.handled=true;dialog.close();dialog.remove();
+  actions.append(actionButton(label,function(){dialog.handled=true;dialog.close();dialog.remove();syStoreAcks();
    if(kind==='ambre'){if(typeof go==='function')go('chat');else location.assign('/mon-accompagnement/');return}
    if(kind==='stop'){SY.stopped=true;syRender();var top=document.getElementById('sy-safety-box');if(top&&top.scrollIntoView)top.scrollIntoView({block:'start'});return}
    syRender();
@@ -188,7 +207,7 @@ function sySafetyDialog(screen){
  dialog.append(actions);dialog.addEventListener('cancel',function(event){event.preventDefault()});
  // Some browsers close a modal on a second Escape despite « cancel »: the box of resources then
  // appears at once on the page.
- dialog.addEventListener('close',function(){if(dialog.handled)return;dialog.handled=true;dialog.remove();syRender()});
+ dialog.addEventListener('close',function(){if(dialog.handled)return;dialog.handled=true;dialog.remove();syStoreAcks();syRender()});
  document.body.append(dialog);dialog.showModal();if(title.focus)title.focus({preventScroll:true});return dialog;
 }
 function sySoftTexts(id){
@@ -206,6 +225,7 @@ function syAnswer(id,question,value){
   // An answer that no longer meets a trigger re-arms its screen for a later « oui ».
   syTriggerDefs().forEach(function(t){if(t.when&&t.when.q===question.id&&!syEngine().evaluate(t.when,{answers:w.answers}))delete SY.acknowledged[syAckScope(t,w)+':'+t.id]});
  });
+ syStoreAcks();
  if(question.official||question.id==='phq9_3'||question.id==='phq9_4')SY.sessionAnswers[question.id]=value==='pref'?null:value;
  var shown=false;targets.forEach(function(target){if(syCheckSafety(target))shown=true});
  targets.forEach(function(target){syScheduleSave(target,shown)});
@@ -247,7 +267,7 @@ async function syComplete(id,declined){
  // The universal question of a recorded first-step passation is settled: once no first-step
  // passation of its scope is in progress, a new « oui » opens the blocking screen again.
  if(w&&w.safetyScope&&!syTemps1().some(function(t){return t!==id&&SY.work[t]&&SY.work[t].safetyScope===w.safetyScope}))Object.keys(SY.acknowledged).forEach(function(k){if(k.indexOf(w.safetyScope+':')===0)delete SY.acknowledged[k]});
- if(w)syDropPrefs(w);delete SY.work[id];syAnnounce(declined?'Choix enregistré.':'Thème enregistré.');SY.overlap[id]=Boolean(result.overlap);SY.saved[id]=true;SY.open[id]=true;
+ if(w)syDropPrefs(w);delete SY.work[id];syStoreAcks();syAnnounce(declined?'Choix enregistré.':'Thème enregistré.');SY.overlap[id]=Boolean(result.overlap);SY.saved[id]=true;SY.open[id]=true;
  syApply(result.page,false);syRender();
 }
 async function syReload(){try{var page=await api('/api/symptomes');syApply(page,false)}catch(err){}syRender()}
@@ -383,7 +403,7 @@ function syResultCard(row){
  card.append(el('p','sy-result-state',model.phrase));
  model.paragraphs.forEach(function(text){card.append(el('p','',text))});
  if(model.gene)card.append(el('p','',model.gene));
- if(model.what_next)card.append(el('p','sy-next',syData().fixed_texts.what_next));
+ if(model.what_next)card.append(el('p','sy-next',syWhatNext(syData().fixed_texts.what_next)));
  if(SY.overlap[row.id])card.append(el('p','sy-result-note',syData().fixed_texts.overlap_note));
  if(model.notes.length){var notes=el('div','sy-result-notes');model.notes.forEach(function(text){notes.append(el('p','',text))});card.append(notes)}
  if(model.refs.length)card.append(el('p','sy-result-ref','Référence : '+model.refs.join(' ; ')+'.'));
@@ -393,6 +413,11 @@ function syResultCard(row){
  card.append(actions,feedback);
  return card;
 }
+// « en parler avec Ambre » only when Ambre follows the safety protocol for this account (as the
+// button of the blocking screen); the published sentence stays as it is, the clause is removed here.
+function syAmbreAvailable(){return Boolean(SY.page&&SY.page.safety&&SY.page.safety.ambre_available)}
+function syWhatNext(text){text=String(text||'');if(syAmbreAvailable())return text;
+ return text.replace(/,\s*(?:ou\s+)?en parler avec Ambre(?=\s*[,.;])/g,'')}
 function syResultsSection(){
  var rows=(SY.page.modules||[]).filter(function(row){return row.last}),section=el('section','sy-section');section.id='sy-resultats';
  section.append(el('h2','','Mes résultats'));
