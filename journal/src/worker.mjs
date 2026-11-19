@@ -214,6 +214,8 @@ async function internal(request,env,path) {
   return failJob(env,match[1],data);
 }
 const INITIAL_PAGES={
+  reviews:{path:'/mes-bilans/',routes:['/api/reviews']},
+  diagnoses:{path:'/mes-diagnostics/',routes:['/api/reviews']},
   // Ambre: the conversation state arrives with the page instead of after /api/me.
   chat:{path:'/mon-accompagnement/',routes:['/api/chat']},
   account:{path:'/mon-compte/',routes:['/api/self-profile']},
@@ -266,7 +268,7 @@ async function routes(request,env,ctx) {
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-compte/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   // « Mes symptômes »: the shared engine and the published questionnaires, no personal data.
   const pagePath=path.replace(/\/$/,'');
   // One close person has a page of their own. Its first render is prepared here; the two

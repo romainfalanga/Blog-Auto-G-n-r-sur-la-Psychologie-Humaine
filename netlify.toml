@@ -120,6 +120,28 @@
     Cache-Control = "private, no-store"
 
 [[redirects]]
+  from = "/mes-diagnostics"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-diagnostics/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mes-diagnostics/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-diagnostics/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/mes-diagnostics"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mes-diagnostics/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[redirects]]
   from = "/mes-proches"
   to = "https://decode-journal.romainfalanga83.workers.dev/mes-proches/"
   status = 200

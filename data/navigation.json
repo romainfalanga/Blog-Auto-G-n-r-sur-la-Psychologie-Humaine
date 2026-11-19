@@ -24,6 +24,10 @@
     "href": "/mes-bilans/"
   },
   {
+    "label": "Mes diagnostics",
+    "href": "/mes-diagnostics/"
+  },
+  {
     "label": "Mon compte",
     "href": "/mon-compte/"
   }

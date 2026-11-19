@@ -5,6 +5,7 @@ import { readFileSync } from 'node:fs';
 import {HTML as SHELL,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
 // Lot P: the private shell plus its two content-addressed files, as the browser assembles them.
 const HTML=SHELL.replace('</head>',()=>'<style>'+APP_STYLE+'</style></head>')+'<script>'+APP_SCRIPT+'</script>';
+import { REVIEW_ARCHIVE_SCRIPT } from '../src/review-archive-interface.mjs';
 import { SETTINGS_INTERFACE_SCRIPT } from '../src/settings-interface.mjs';
 
 const script = HTML.match(/<script>([\s\S]*?)<\/script>/)[1];
@@ -235,7 +236,7 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,7);assert.deepEqual(links[0],{href:'/mon-accompagnement/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Mon enfance','Mes symptômes','Mes proches','Ma ligne de vie','Mes bilans','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,8);assert.deepEqual(links[0],{href:'/mon-accompagnement/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Mon enfance','Mes symptômes','Mes proches','Ma ligne de vie','Mes bilans','Mes diagnostics','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
@@ -435,7 +436,7 @@ test('V6 portrait polling refreshes content without route rendering and stops af
 });
 
 test('V6 free preview account displays access and quotas without checkout or subscription offers',()=>{
- const env=environment();const host=env.host('view'),accountRow=env.host('account-row');host.querySelector=()=>accountRow;for(const id of ['account-email','account-price','subscription-copy','account-progress','billing-action','export-button','delete-button'])env.host(id);env.ctx.state.me={user:{email:'test@example.test'},access:{mode:'free_preview',allowed:true},subscription:{active:false,trial_eligible:true},configuration:{billing:true,ai:true}};env.doc.getElementById('account-email').parentElement=accountRow;vm.runInContext(functionCode('appendAccountQuota'),env.ctx);env.ctx.setupPortraitViews=()=>{};env.ctx.renderSelfProfile=()=>{};env.ctx.logout=()=>{};vm.runInContext(functionCode('renderAccount'),env.ctx);env.ctx.renderAccount();assert.equal(env.doc.getElementById('account-price').hidden,true);assert.match(env.doc.getElementById('subscription-copy').textContent,/Accès gratuit/);assert.doesNotMatch(env.doc.getElementById('billing-action').textContent,/abonner|essai|factur|29/);assert.doesNotMatch(env.doc.getElementById('account-progress').textContent,/29|7 jours d’essai/);
+ const env=environment();const host=env.host('view'),accountRow=env.host('account-row');host.querySelector=()=>accountRow;for(const id of ['account-appointment','account-email','account-price','subscription-copy','account-progress','billing-action','export-button','delete-button'])env.host(id);env.ctx.state.me={user:{email:'test@example.test'},access:{mode:'free_preview',allowed:true},subscription:{active:false,trial_eligible:true},configuration:{billing:true,ai:true}};env.doc.getElementById('account-email').parentElement=accountRow;vm.runInContext(functionCode('appendAccountQuota'),env.ctx);env.ctx.setupPortraitViews=()=>{};env.ctx.renderSelfProfile=()=>{};env.ctx.logout=()=>{};vm.runInContext(functionCode('renderAccount'),env.ctx);env.ctx.renderAccount();assert.equal(env.doc.getElementById('account-price').hidden,true);assert.match(env.doc.getElementById('subscription-copy').textContent,/Accès gratuit/);assert.doesNotMatch(env.doc.getElementById('billing-action').textContent,/abonner|essai|factur|29/);assert.doesNotMatch(env.doc.getElementById('account-progress').textContent,/29|7 jours d’essai/);
 });
 
 test('V6 re-saving identical map feedback replays its saved key and edits renew it',async()=>{
@@ -572,7 +573,7 @@ test('“Mes bilans” lists dated reviews, reads one in full, deletes with conf
  const items=view.querySelectorAll('.review-item');assert.equal(items.length,3);
  assert.match(items[0].querySelector('h2').textContent,/^Point du \d{1,2} novembre 2026$/);assert.equal(items[1].querySelector('h2').textContent,'Analyse initiale');
  assert.match(items[1].textContent,/Ce qui semble ressortir…/);assert.match(items[2].textContent,/n’a pas abouti/);assert.equal(items[2].querySelectorAll('button').length,1,'a failed review can only be removed');
- const [read,remove]=items[1].querySelectorAll('button');await read.fire('click');
+ const buttons=items[1].querySelectorAll('button'),read=buttons[0],remove=buttons.at(-1);await read.fire('click');
  assert.deepEqual(calls.at(-1),['/api/reviews/r1','GET']);assert.deepEqual(items[1].querySelector('.review-body').children.map(p=>p.textContent),['Premier paragraphe.','Second paragraphe.']);assert.equal(read.textContent,'Replier');
  await read.fire('click');assert.equal(items[1].querySelector('.review-body').hidden,true);assert.equal(calls.filter(c=>c[0]==='/api/reviews/r1').length,1,'the full text is fetched once');
  answer=false;await remove.fire('click');assert.match(confirmed,/Analyse initiale/);assert.match(confirmed,/relancée/);assert.equal(calls.some(c=>c[1]==='DELETE'),false);
@@ -1098,4 +1099,22 @@ test('account renders API monthly credits and the Paris renewal date without ano
  const env=environment({api(){throw new Error('No extra quota fetch')}}),host=env.host('quota');vm.runInContext(functionCode('appendAccountQuota'),env.ctx);
  env.ctx.appendAccountQuota(host,{access:{mode:'paid'},subscription:{active:true,status:'active',paid_until:Date.parse('2026-12-17T12:00:00Z')/1000},quotas:{messages:{limit:100,used:7,reserved:1,remaining:92,renews_at:'2026-11-30T23:00:00.000Z'},reviews:{limit:1,used:1,remaining:0}}});
  assert.match(host.textContent,/100 messages et 1 bilan par mois, bilan initial inclus/);assert.match(host.textContent,/Il vous reste 92 messages et 0 bilan ce mois-ci, jusqu’au 1ᵉʳ décembre\./);assert.match(host.textContent,/facturation en cours se termine le 17 décembre 2026/);assert.doesNotMatch(host.textContent,/100 messages.*disponibles/);
+});
+
+function archiveFixture(extra={}) {const env=environment(extra);vm.runInContext(REVIEW_ARCHIVE_SCRIPT,env.ctx);return env;}
+test('archived assessment separates associations, uncertainty, missing declarations and contextual gates',()=>{
+ const env=archiveFixture();const result=env.ctx.drawArchivedAssessment({rules_version:'test',outcomes:[{label:'Sujet A',hypothesis_state:'criterion_signals',context_gates:{type:'perinatal',current_window:false,historical:true},evidence:{current_window:[{label:'Signe',answer:1,note_excerpt:'Extrait personnel',note_excerpted:true}],unknown:[{label:'Question incertaine',answer:'unknown'},{label:'Question sans réponse',answer:'unanswered'}]},dimensions:{}},{label:'Sujet B',hypothesis_state:'association_only',evidence:{},dimensions:{}}]},{captured_at:'2026-11-19T12:00:00Z',schema_version:1});
+ assert.match(result.textContent,/Signes caractéristiques/);assert.match(result.textContent,/Associations non spécifiques/);assert.match(result.textContent,/Grossesse ou période après la naissance/);assert.match(result.textContent,/uniquement pour le passé/);assert.match(result.textContent,/note complète/);assert.match(result.textContent,/Aucun pourcentage de probabilité/);
+ const sections=result.querySelectorAll('.diagnosis-evidence');assert.match(sections.find(s=>s.textContent.includes('Je ne sais pas')).textContent,/Question incertaine/);assert.doesNotMatch(sections.find(s=>s.textContent.includes('Je ne sais pas')).textContent,/Question sans réponse/);const missing=sections.find(s=>s.textContent.includes('non renseignés'));assert.match(missing.textContent,/Question sans réponse/);assert.doesNotMatch(missing.textContent,/réponse déclarée/);
+});
+test('archive reads immutable sections lazily, paginates, and keeps personal text inert',async()=>{
+ const calls=[];const env=archiveFixture({api:async path=>{calls.push(path);return calls.length===1?{items:[{id:'hidden-id',title:'<img src=x>',description:'Premier souvenir'}],next_cursor:50}:{items:[{title:'Second souvenir'}],next_cursor:null}}});
+ const host=env.ctx.archiveSnapshotSections('r1',{sections:[{id:'events',count:51}]},()=>true);assert.equal(calls.length,0);const details=host.querySelector('details');details.open=true;await details.fire('toggle');await new Promise(r=>setImmediate(r));assert.match(host.textContent,/Premier souvenir/);assert.match(host.textContent,/<img src=x>/);assert.equal(host.querySelector('img'),null);assert.doesNotMatch(host.textContent,/hidden-id/);await host.querySelector('button').fire('click');assert.match(calls[1],/cursor=50/);assert.match(host.textContent,/Second souvenir/);await details.fire('toggle');assert.equal(calls.length,2);
+});
+test('archive rejects stale section responses and retries failed reads',async()=>{
+ let resolve,active=true;const env=archiveFixture({api:()=>new Promise(r=>{resolve=r})});const host=env.ctx.archiveSnapshotSections('r',{sections:['notes']},()=>active);const details=host.querySelector('details');details.open=true;await details.fire('toggle');active=false;resolve({items:[{text:'Private stale note'}]});await new Promise(r=>setImmediate(r));assert.doesNotMatch(host.textContent,/Private stale note/);
+ let n=0;env.ctx.api=async()=>{if(!n++)throw Error('Hors ligne');return {items:[{text:'Note retrouvée'}]}};const retry=env.ctx.archiveSnapshotSections('r',{sections:['notes']},()=>true),d=retry.querySelector('details');d.open=true;await d.fire('toggle');await new Promise(r=>setImmediate(r));assert.match(retry.textContent,/Hors ligne/);await retry.querySelector('button').fire('click');await new Promise(r=>setImmediate(r));assert.match(retry.textContent,/Note retrouvée/);
+});
+test('shared archive sections use the authorized professional endpoint without owner requests',async()=>{
+ const calls=[];const env=archiveFixture({api:async path=>{calls.push(path);return {items:[{person_label:'Nina',event_title:'Rencontre'}],next_cursor:null}}});const host=env.ctx.archiveSnapshotSections('review',{sections:[{id:'event_people',count:1}]},()=>true,'/api/care/dossiers/link/reviews/review/snapshot'),d=host.querySelector('details');d.open=true;await d.fire('toggle');await new Promise(r=>setImmediate(r));assert.equal(calls[0],'/api/care/dossiers/link/reviews/review/snapshot?section=event_people&limit=50');assert.match(host.textContent,/Nina/);assert.match(host.textContent,/Rencontre/);assert.doesNotMatch(host.textContent,/Autre information/);assert.match(env.ctx.archiveMetadata({scope_limited:true,captured_at:'2026-11-19T12:00:00Z'}).textContent,/rubriques autorisées/);
 });

@@ -28,6 +28,7 @@ const noteCount=notes=>Object.keys(notes?.factors||{}).length+Object.keys(notes?
 // Strict validation: known identifiers only, unknown=uncertain, 0=no and intensity 1|2, feedback oui|non,
 // bounded notes in the member's words and known protective resources.
 export function validateCartography(input,fail,data=CARTOGRAPHIE,{note_max=NOTE_MAX_LENGTH,note_count=NOTE_MAX_COUNT}={}){
+ const historicalAnswers=data.ranking?.version==='essential_share_desc';
  const {factors,outcomes,protections}=index(data),invalid=message=>fail(400,message,'invalid_cartography');
  // The interface always sends the complete state: an absent block is an empty one.
  const rawNotes=input?.notes===undefined?{}:input.notes,rawResources=input?.resources===undefined?{}:input.resources;
@@ -61,7 +62,8 @@ export function validateCartography(input,fail,data=CARTOGRAPHIE,{note_max=NOTE_
  const cleanAnswers={},cleanFeedback={};
  for(const id of answerKeys.sort()){
   if(!factors.has(id))invalid('Élément de l’enfance inconnu.');
-  if(answers[id]!==0&&answers[id]!==1&&answers[id]!==2&&answers[id]!=='unknown')invalid('Choisissez Non, Oui, Souvent ou Je ne sais pas.');
+  if(answers[id]!==0&&answers[id]!==1&&answers[id]!==2&&answers[id]!=='unknown'&&!(historicalAnswers&&answers[id]==='past'))invalid(historicalAnswers?'Choisissez Non, Oui, Je ne sais pas ou Dans le passé.':'Choisissez Non, Oui, Souvent ou Je ne sais pas.');
+  if(answers[id]==='past'&&!notes.factors[id])invalid('Une précision est obligatoire pour une réponse « Dans le passé ».');
   cleanAnswers[id]=answers[id];
  }
  for(const group of data.exclusive||[])if(group.filter(id=>cleanAnswers[id]===1||cleanAnswers[id]===2).length>1)invalid('Ces réponses décrivent des situations alternatives : choisissez celle qui correspond à votre vécu.');
@@ -429,7 +431,7 @@ export function createCartographyBackend({error,json,body,now,table='cartographi
   const expected=data.expected_version!==undefined?data.expected_version:data.version===null?0:data.version;
   if(!Number.isInteger(expected)||expected<0)fail(400,'Version de cartographie invalide (0 pour une première sauvegarde).','invalid_version');
   const {answers,feedback,notes,resources}=validateCartography(data,fail,dataset,{note_max,note_count:symptoms?dataset.factors.length+dataset.outcomes.length:NOTE_MAX_COUNT});
-  if(symptoms&&Object.values(answers).includes(2))fail(400,'Choisissez Non, Oui ou Je ne sais pas.','invalid_cartography');
+  if(symptoms&&Object.values(answers).includes(2))fail(400,'Choisissez Non, Oui, Je ne sais pas ou Dans le passé.','invalid_cartography');
   if(!symptoms&&data.locked&&!Object.keys(answers).length&&!noteCount(notes)&&!Object.keys(resources).length)fail(400,'Cochez au moins un élément, écrivez une note ou indiquez une ressource avant d’enregistrer la cartographie.','invalid_cartography');
   const before=await current(env,user.id);
   if((before?.version||0)!==expected)fail(409,'Votre cartographie a changé. Rechargez-la avant de réessayer.','revision_conflict');

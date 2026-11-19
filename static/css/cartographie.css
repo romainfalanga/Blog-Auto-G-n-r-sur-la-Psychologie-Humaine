@@ -177,3 +177,8 @@
 /* The symptoms dataset exposes progress; the childhood counter stays unchanged. */
 .carto .carto-count-visible{position:static;width:auto;height:auto;clip:auto;clip-path:none;overflow:visible;white-space:normal;margin:1rem 0;color:var(--muted,#64748b)}
 .carto-safety{font-size:.9rem;margin:.75rem 0}.carto-safety[hidden]{display:none}.carto-period{margin:.5rem 0 1rem}
+
+/* Four symptom responses form a readable grid at every viewport; childhood keeps three. */
+.carto-choices.carto-choices-history { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.carto-choices-history .carto-choice { white-space: nowrap; min-height: 44px; }
+.carto[data-dataset="symptomes"] .carto-theme-arrow { margin-inline-end: 4px; }

@@ -47,8 +47,8 @@ test('conversation receives both fixed maps and symptom details independently',a
  assert.ok(input.symptom_map?.length<=3500);assert.ok(input.childhood_cartography?.length<=3000);assert.match(input.symptom_map,/Mes symptômes/);
  assert.ok(run.get('ambre_writing').tokens<=5953*1.4,'two full maps stay within the approved writing +40% envelope');
 });
-test('reviews receive their own symptom allocation',async()=>{
- const run=await replayReview('initial',{extend:s=>seed(s)});assert.equal(run.r.status,202);assert.ok(JSON.stringify(run.data.symptom_map).length<=6000);assert.ok(JSON.stringify(run.data).length<=40000);assert.ok(run.tokens<=12423*1.2,'review with symptoms stays within approved +20%');
+test('legacy before 0031 reviews receive their own symptom allocation',async()=>{
+ const run=await replayReview('initial',{legacy:true,extend:s=>seed(s)});assert.equal(run.r.status,202);assert.ok(JSON.stringify(run.data.symptom_map).length<=6000);assert.ok(JSON.stringify(run.data).length<=40000);assert.ok(run.tokens<=12423*1.2,'review with symptoms stays within approved +20%');
 });
 test('published safety question commits its timestamp; subsequent context does not repeat it',async()=>{
  const run=await replayTurn('Je voudrais comprendre mes réponses.',{extend:s=>seed(s,{safety:true})});assert.equal(run.stage,'done');
@@ -87,4 +87,19 @@ test('review notes stay within their own allowance and are eligible exact user q
  const block=symptomReviewBlock(symptomMapView(row));assert.ok(JSON.stringify(block).length<=6000);
  assert.match(reviewCorpus({symptom_map:block}),/Je me sens tendu avant chaque réunion importante/);
  assert.doesNotMatch(reviewCorpus({symptom_map:block}),/Hypothèses, jamais diagnostics/);
+});
+test('past answers and notes reach Ambre as history, never current positive signs or questionnaire safety',()=>{
+ const f=data.factors.find(f=>f.safety),row={answers:{[f.id]:'past'},notes:{factors:{[f.id]:'Cela se produisait il y a plusieurs années.'}},safety_at:now-10,version:1,updated_at:now};
+ const view=symptomMapView(row),a=view.themes.flatMap(t=>t.answers).find(a=>a.id===f.id);
+ assert.equal(a.answer,'Dans le passé');assert.equal(a.historical,true);assert.equal(a.period,'avant ces 12 derniers mois');assert.equal(view.subjects.length,0);assert.equal(mapSafetyState(row,now),null);
+ const block=symptomMapBlock(view);assert.match(block,/Dans le passé \(avant ces 12 derniers mois\)/);const entries=symptomMapIndexEntries(view);assert.match(entries.map(e=>JSON.stringify(e)).join('\n'),/Cela se produisait il y a plusieurs années/);
+ assert.match(MAP_HYPOTHESIS_RULES,/ne les compte pas comme Oui récent/);
+});
+
+test('full snapshot review analyzes every symptom answer and historical note without the bounded overview allocation',async()=>{
+ const historical=data.factors.find(f=>f.safety);let expected;
+ const run=await replayReview('initial',{extend:s=>{seed(s);expected=fullRow();expected.answers[historical.id]='past';expected.notes.factors[historical.id]='Histoire ancienne, avant les douze derniers mois.';s.raw.prepare("UPDATE symptom_maps SET answers=?,notes=? WHERE user_id='a'").run(JSON.stringify(expected.answers),JSON.stringify(expected.notes));}});
+ assert.equal(run.snapshot.payload.complete,true);assert.deepEqual(run.snapshot.payload.sections.symptoms[0].answers,expected.answers);assert.deepEqual(run.snapshot.payload.sections.symptoms[0].notes,expected.notes);
+ const analyzed=run.chunkCalls.map(c=>c.messages[1].content).join('\n');assert.match(analyzed,/Histoire ancienne/);assert.match(analyzed,/past/);assert.equal(run.data.coverage.analyzed_blocks,run.data.coverage.total_blocks);
+ assert.ok(run.data.blocks.some(b=>b.source_refs.some(r=>r.path==='symptoms/0')));
 });

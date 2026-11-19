@@ -1,3 +1,5 @@
+import {readReviewSnapshot} from './review-snapshot.mjs';
+import {sharedSnapshotPage} from './shared-review-snapshot.mjs';
 import {requireCompanionGenerationAccess,companionReadinessSql} from './companion-readiness.mjs';
 import {accessSql} from './entitlements.mjs';
 import {loadCareContext} from './care-context.mjs';
@@ -5,8 +7,8 @@ import {contextHash} from './private-context.mjs';
 import {summarizeCartography,readSymptomMap,symptomMapView} from './cartographie.mjs';
 import {SYMPTOMES_CARTE} from './symptomes-carte.generated.mjs';
 import {readChangeState,serializeSharedPlan} from './change-plan.mjs';
-export const CARE_SCOPES=['conversation','cartography','symptoms','portrait','people','life_events','reviews','plan'];
-const SHARING_NOTICE='La mémoire de conversation sans provenance vérifiable est exclue du dossier et des points partagés. Les synthèses et hypothèses d’Ambre restent à vérifier ; elles ne sont pas des faits confirmés. Le plan est partagé uniquement si la personne a choisi cette rubrique, sans ses consignes professionnelles privées, propositions ni points personnels.';
+export const CARE_SCOPES=['conversation','cartography','symptoms','portrait','people','life_events','reviews','memory','diagnoses','plan'];
+const SHARING_NOTICE='La mémoire d’Ambre n’est visible que si la rubrique correspondante est explicitement partagée ; elle reste une synthèse IA, pas un fait confirmé, et n’entre pas dans les citations des points avant séance. Les synthèses et hypothèses d’Ambre restent à vérifier ; elles ne sont pas des faits confirmés. Le plan est partagé uniquement si la personne a choisi cette rubrique, sans ses consignes professionnelles privées, propositions ni points personnels.';
 const parse=(v,f={})=>{try{return JSON.parse(v)}catch{return f}},clip=(v,n)=>String(v??'').slice(0,n);
 const object=properties=>({type:'object',properties,required:Object.keys(properties),additionalProperties:false});
 const THEMES=['Faits rapportés','Évolution','Ce qui a été essayé','Points de vigilance','Questions ouvertes','À discuter en séance'];
@@ -84,8 +86,10 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
   if(scope==='cartography'){const row=await first(env,'SELECT answers,feedback,notes,resources,ambre_notes,updated_at FROM cartographies WHERE user_id=? AND consent=1 AND locked_at IS NOT NULL',owner);data=row?Object.fromEntries(Object.entries(row).map(([k,v])=>[k,k==='updated_at'?v:parse(v)])):null;if(data)data.summary=summarizeCartography(data.answers,data.feedback,{notes:data.notes,resources:data.resources,ambreNotes:data.ambre_notes})}
   if(scope==='symptoms'){const row=await readSymptomMap(env,owner);data=row?.consent&&row.locked_at!=null?symptomMapView(row,SYMPTOMES_CARTE):null;}
   if(scope==='portrait'){const row=await first(env,'SELECT self_data,version FROM profiles WHERE user_id=?',owner),portrait=await first(env,'SELECT portrait,updated_at FROM user_portraits WHERE user_id=? AND analyzed_version=?',owner,row?.version||0);data={declared:parse(row?.self_data),synthesis:parse(portrait?.portrait,null)}}
-  if(scope==='people'){data=await all(env,'SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end,updated_at FROM personal_people WHERE user_id=? ORDER BY id LIMIT 51 OFFSET ?',owner,offset);if(data.length>50){data.pop();next=offset+50}}
-  if(scope==='life_events'){data=await all(env,'SELECT id,title,kind,description,meaning_now,date_start,date_end,age_text,updated_at FROM life_events WHERE user_id=? ORDER BY updated_at DESC,id DESC LIMIT 51 OFFSET ?',owner,offset);if(data.length>50){data.pop();next=offset+50}}
+  if(scope==='people'){data=await all(env,'SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end,bond_quality,bond_note,presence_now,helps,hurts,evolution,feels_safe,meeting_date_precision,meeting_date_start,meeting_date_end,meeting_age_text,updated_at FROM personal_people WHERE user_id=? ORDER BY id LIMIT 51 OFFSET ?',owner,offset);if(data.length>50){data.pop();next=offset+50}}
+  if(scope==='life_events'){data=await all(env,'SELECT id,title,kind,description,meaning_now,date_precision,date_start,date_end,age_text,felt_then,felt_now,impact,support_level,support_text,exposure,significance,updated_at FROM life_events WHERE user_id=? ORDER BY updated_at DESC,id DESC LIMIT 51 OFFSET ?',owner,offset);if(data.length>50){data.pop();next=offset+50}}
+  if(scope==='memory'){const row=await first(env,'SELECT summary,updated_at FROM chat_memory WHERE user_id=?',owner);data=row?{provenance:'Mémoire rédigée par Ambre, interprétations à vérifier',summary:parse(row.summary),updated_at:row.updated_at}:null;}
+  if(scope==='diagnoses'){data=await all(env,"SELECT id,review_id,professional_name,conclusion,created_at FROM professional_assessments WHERE user_id=? ORDER BY created_at DESC,id DESC LIMIT 21 OFFSET ?",owner,offset);if(data.length>20){data.pop();next=offset+20}}
   if(scope==='reviews'){data=await all(env,"SELECT id,kind,content,completed_at FROM ambre_reviews WHERE user_id=? AND status='ready' ORDER BY completed_at DESC,id DESC LIMIT 21 OFFSET ?",owner,offset);if(data.length>20){data.pop();next=offset+20}}
   if(scope==='plan'){
    // Only the shared allowlist enters a professional response, including nested
@@ -98,6 +102,20 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
   // Recheck after reads; a revocation racing the query must not return the body.
   await recheck(env,user,link,planRevision);
   return {scope,data,next_offset:next,sharing_notice:SHARING_NOTICE};
+ }
+ async function professionalConclusion(env,user,linkId,data){
+  psychologist(user);const link=await authorized(env,user,linkId,'diagnoses','conclusion_requested');
+  if(!parse(link.scopes,[]).includes('reviews'))fail(404,'Les bilans ne sont pas partagés.','not_found');
+  const conclusion=bounded(data.conclusion,8000),key=bounded(data.idempotency_key,100),review=bounded(data.review_id,120);
+  if(!/^[a-zA-Z0-9_-]{8,100}$/.test(key))fail(400,'Identifiant de demande invalide.','invalid_input');
+  if(data.confirmed!==true)fail(400,'Confirmez que cette conclusion est la vôtre.','confirmation_required');
+  const prior=await first(env,'SELECT id,review_id,conclusion FROM professional_assessments WHERE user_id=? AND professional_id=? AND idempotency_key=?',link.user_id,user.id,key);
+  if(prior){if(prior.review_id!==review||prior.conclusion!==conclusion)fail(409,'Cette demande a déjà été enregistrée avec un autre contenu.','idempotency_conflict');await recheck(env,user,link);return {id:prior.id};}
+  const id=random(),done=await run(env,`INSERT INTO professional_assessments(id,user_id,review_id,link_id,professional_id,professional_name,conclusion,idempotency_key,created_at)
+   SELECT ?,l.user_id,r.id,l.id,?,COALESCE(p.name,'Professionnel'),?,?,? FROM care_links l JOIN ambre_reviews r ON r.user_id=l.user_id LEFT JOIN professional_profiles p ON p.user_id=l.psychologist_id
+   WHERE l.id=? AND l.psychologist_id=? AND l.status='active' AND l.revision=? AND r.id=? AND r.status='ready' AND EXISTS(SELECT 1 FROM json_each(l.scopes) WHERE value='diagnoses') AND EXISTS(SELECT 1 FROM json_each(l.scopes) WHERE value='reviews')`,id,user.id,conclusion,key,now(),link.id,user.id,link.revision,review);
+  if(!done.meta.changes)fail(404,'Le bilan ou le partage n’est plus disponible.','not_found');
+  await log(env,link.user_id,user.id,link.id,'conclusion_added','diagnoses');return {id};
  }
  async function sourceState(env,link,session){
   const revisions=await all(env,'SELECT scope,revision FROM care_source_revisions WHERE user_id=? ORDER BY scope',link.user_id),shared=parse(link.scopes,[]).sort(),previous=await first(env,'SELECT max(session_at) AS at FROM care_sessions WHERE user_id=? AND session_at<?',link.user_id,session.session_at);
@@ -188,6 +206,27 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
  }
  async function routes(request,env,user,path,url,ctx){
   if(!path.startsWith('/api/care'))return null;await limit(env,'care-api:'+user.id,400,3600);const method=request.method;
+  if(path==='/api/care/appointment'&&method==='GET'){member(user);return json({appointment:await first(env,'SELECT id,session_at,revision FROM care_sessions WHERE user_id=? AND session_at>? ORDER BY session_at,id LIMIT 1',user.id,now())});}
+  if(path==='/api/care/diagnoses'&&method==='GET'){member(user);const offset=offsetOf(url),review=url.searchParams.get('review_id');const rows=await all(env,`SELECT id,review_id,professional_name,conclusion,created_at FROM professional_assessments WHERE user_id=?${review?' AND review_id=?':''} ORDER BY created_at DESC,id DESC LIMIT 21 OFFSET ?`,user.id,...(review?[review]:[]),offset);return json(page(rows,20,offset,'diagnoses'));}
+  const archive=path.match(/^\/api\/care\/dossiers\/([\w-]+)\/reviews\/([\w-]+)\/snapshot$/);
+  if(archive&&method==='GET'){
+   const link=await authorized(env,user,archive[1],'reviews'),review=await first(env,"SELECT id FROM ambre_reviews WHERE id=? AND user_id=? AND status='ready'",archive[2],link.user_id);
+   if(!review)fail(404,'Bilan indisponible.','not_found');
+   const row=await readReviewSnapshot(env,link.user_id,review.id);let result={available:false,reason:'legacy_review',review_id:review.id};
+   if(row){try{result=sharedSnapshotPage(row,parse(link.scopes,[]),{section:url.searchParams.get('section'),cursor:Number(url.searchParams.get('cursor')||0),limit:Number(url.searchParams.get('limit')||50)});}catch(e){fail(e.status||400,e.message,e.code||'invalid_input');}}
+   const present=await first(env,`SELECT 1 AS ok FROM care_links l JOIN ambre_reviews r ON r.user_id=l.user_id JOIN chat_settings cs ON cs.user_id=r.user_id WHERE l.id=? AND l.revision=? AND (l.user_id=? OR l.psychologist_id=? AND l.status='active') AND r.id=? AND r.status='ready'${row?" AND cs.consent=1 AND EXISTS(SELECT 1 FROM review_snapshots rs WHERE rs.review_id=r.id AND rs.user_id=r.user_id AND rs.captured_at=?)":''}`,link.id,link.revision,user.id,user.role==='psychologist'?user.id:'',review.id,...(row?[row.captured_at]:[]));
+   if(!present)fail(404,'Cette archive ou ce partage n’est plus disponible.','not_found');return json(result);
+  }
+  const notes=path.match(/^\/api\/care\/dossiers\/([\w-]+)\/(notes|observations)$/);
+  if(notes&&method==='GET'){
+   const kind=notes[2]==='observations'?'people':url.searchParams.get('kind');if(!['people','life_events'].includes(kind))fail(400,'Rubrique inconnue.','invalid_scope');
+   const link=await authorized(env,user,notes[1],kind),offset=offsetOf(url);let rows;
+   if(notes[2]==='observations')rows=await all(env,'SELECT o.id,p.display_name, o.axis,o.quote,o.origin,o.created_at FROM people_observations o JOIN personal_people p ON p.id=o.person_id AND p.user_id=o.user_id WHERE o.user_id=? ORDER BY o.created_at DESC,o.id DESC LIMIT 51 OFFSET ?',link.user_id,offset);
+   else{const person=kind==='people';rows=await all(env,`SELECT n.id,${person?'p.display_name':'p.title'} AS element,n.text,n.created_at,n.updated_at FROM personal_notes n JOIN ${person?'personal_people':'life_events'} p ON p.id=n.${person?'person_id':'event_id'} AND p.user_id=n.user_id WHERE n.user_id=? ORDER BY n.created_at DESC,n.id DESC LIMIT 51 OFFSET ?`,link.user_id,offset);}
+   const result=page(rows,50,offset,'data');await recheck(env,user,link);return json(result);
+  }
+  const diagnosis=path.match(/^\/api\/care\/dossiers\/([\w-]+)\/diagnoses$/);
+  if(diagnosis&&method==='POST')return json(await professionalConclusion(env,user,diagnosis[1],await body(request,12000)),201);
   if(path==='/api/care'&&method==='GET')return json(await settings(env,user));
   if(path==='/api/care/settings'&&method==='PUT'){member(user);const data=await body(request,2000),has=data.has_psychologist,freq=data.frequency_days;if(has!==null&&typeof has!=='boolean'||freq!==null&&(!Number.isInteger(freq)||freq<1||freq>365))fail(400,'Cadre de suivi invalide.','invalid_input');await run(env,'INSERT INTO care_settings(user_id,has_psychologist,frequency_days,updated_at) VALUES(?,?,?,?) ON CONFLICT(user_id) DO UPDATE SET has_psychologist=excluded.has_psychologist,frequency_days=excluded.frequency_days,updated_at=excluded.updated_at',user.id,has===null?null:Number(has),freq,now());return json(await settings(env,user))}
   if(path==='/api/care/links'&&method==='POST')return json(await createLink(env,user,await body(request,3000)),201);
@@ -251,12 +290,13 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
    servedChecks.push(...candidates.filter(candidate=>contentById.has(candidate.id)));
    for(const brief of rows){const valid=contentById.has(brief.id);if(brief.status==='ready'&&!valid)omitted++;safe.push({id:brief.id,session_id:brief.session_id,status:brief.status==='ready'&&!valid?'failed':brief.status,content:contentById.get(brief.id)||'',coverage:brief.coverage,created_at:brief.created_at})}
   }
+  const professionalAssessments=await all(env,'SELECT id,review_id,professional_name,conclusion,created_at FROM professional_assessments WHERE user_id=? ORDER BY created_at,id',userId);
   const careSettings=await first(env,'SELECT * FROM care_settings WHERE user_id=?',userId),professionalProfile=await first(env,'SELECT * FROM professional_profiles WHERE user_id=?',userId);
   // This is the final asynchronous read: no metadata fetch may open a new race
   // between the source validation and returning already assembled point text.
   if(servedChecks.length&&(await exportBriefRead(env,userId,servedChecks,true))[0].count!==servedChecks.length)fail(409,'Votre suivi a changé pendant l’export. Relancez l’export pour obtenir les données actuelles.','export_sources_changed');
   const recentFirst=(a,b)=>b.created_at-a.created_at||b.id.localeCompare(a.id);links.sort(recentFirst);safe.sort(recentFirst);access.sort(recentFirst);sessions.sort((a,b)=>a.session_at-b.session_at||a.id.localeCompare(b.id));
-  return {care_settings:careSettings,professional_profile:professionalProfile,care_links:links,care_sessions:sessions,care_access_log:access,care_briefs:safe,care_export_coverage:{complete:true,started_at:started,page_size:200,consistency:'Lecture paginée, sans instantané transactionnel, des historiques bornés au début de cet export. Les contenus des points sont revérifiés avant la remise.',included:{care_links:links.length,care_sessions:sessions.length,care_access_log:access.length,care_briefs:safe.length},stale_point_contents_excluded:omitted}};
+  return {professional_assessments:professionalAssessments,care_settings:careSettings,professional_profile:professionalProfile,care_links:links,care_sessions:sessions,care_access_log:access,care_briefs:safe,care_export_coverage:{complete:true,started_at:started,page_size:200,consistency:'Lecture paginée, sans instantané transactionnel, des historiques bornés au début de cet export. Les contenus des points sont revérifiés avant la remise.',included:{care_links:links.length,care_sessions:sessions.length,care_access_log:access.length,care_briefs:safe.length},stale_point_contents_excluded:omitted}};
  }
  return {routes,resume,exportData,processBrief,queueBrief};
 }

@@ -82,8 +82,8 @@ test('Ambre sort: cited first, then marking moments (and every exposure), then t
  assert.doesNotMatch(index.find(x=>x.label.startsWith('Moment a')).header,/Dans mon histoire/,'nothing said for a moment « à préciser »');
  // A moment cited in the message comes before a marking one.
  const order=analysisIndex(index,'Je repense au voyage en Islande').entries.filter(x=>x.kind==='event').map(x=>x.label.split(' · ')[0]);assert.equal(order[0],'Voyage en Islande');assert.equal(order[1],'Moment c');
- // Review / prompt context: same tiers, readable words.
- const review=await replayReview('initial',{extend:async r=>{r.raw.prepare("UPDATE life_events SET significance='anecdotal'").run();r.raw.prepare("UPDATE life_events SET significance='major' WHERE id='ev2'").run();r.raw.prepare("UPDATE life_events SET exposure='witnessed' WHERE id='ev11'").run();}});
+ // Legacy before 0031 bounded review context: same tiers, readable words.
+ const review=await replayReview('initial',{legacy:true,extend:async r=>{r.raw.prepare("UPDATE life_events SET significance='anecdotal'").run();r.raw.prepare("UPDATE life_events SET significance='major' WHERE id='ev2'").run();r.raw.prepare("UPDATE life_events SET exposure='witnessed' WHERE id='ev11'").run();}});
  const listed=review.data.events.map(e=>e.id);assert.deepEqual(listed.slice(0,2).sort(),['ev11','ev2'],'marking and exposed moments first, then the current order');
  assert.equal(review.data.events.find(e=>e.id==='ev2').significance,'marquant');assert.equal(review.data.events.find(e=>e.id==='ev1').significance,'anecdotique');
  assert.ok(review.data.events.every(e=>e.current_importance!==undefined),'current_importance still sent');
@@ -94,10 +94,10 @@ test('Ambre never proposes the value',()=>{
  assert.doesNotMatch(source.match(/const fields=\{[^\n]*/)[0],/significance/,'absent from the fields Ambre may propose');
 });
 
-test('Budget: every moment noted keeps the turn and the review within +10 %',async t=>{
+test('Budget: current turns and legacy before 0031 reviews stay within +10 %',async t=>{
  const all=s=>{s.raw.prepare("UPDATE life_events SET significance=CASE WHEN current_importance>=4 THEN 'major' ELSE 'anecdotal' END").run()};
  for(const strategy of ['ideal','none']){const run=await replayTurn('Je repense au divorce de mes parents et à mon père.',{strategy,extend:all});assert.equal(run.stage,'done');const writing=run.get('ambre_writing').tokens;t.diagnostic(JSON.stringify({strategy,writing,analysis:run.get('ambre_analysis').tokens}));assert.ok(writing<=5953*1.1&&writing<=6321*1.1);assert.ok(run.get('ambre_analysis').tokens<=2478*1.1)}
- for(const [kind,ref] of [['initial',12423],['point',12525]]){const run=await replayReview(kind,{extend:all});t.diagnostic(JSON.stringify({kind,tokens:run.tokens,ratio:+(run.tokens/ref).toFixed(3)}));assert.ok(run.tokens<=ref*1.1)}
+ for(const [kind,ref] of [['initial',12423],['point',12525]]){const run=await replayReview(kind,{legacy:true,extend:all});t.diagnostic(JSON.stringify({kind,tokens:run.tokens,ratio:+(run.tokens/ref).toFixed(3)}));assert.ok(run.tokens<=ref*1.1)}
 });
 
 // Interface: the proposal of a new moment asks for the choice and sends it apart from Ambre's payload.
@@ -137,4 +137,13 @@ test('Relecture: « marquant » stays out of the lexical ranking (« Quant à…
  assert.ok(index.filter(x=>x.kind==='event').every(x=>!/marquant|anecdotique/.test(x.label)),'labels without the word');
  assert.match(index.find(x=>x.label==='Souvenir a').header,/Dans mon histoire : marquant/);
  for(const message of ['Quant à mon travail, je ne sais plus où j’en suis.','Rien de marquant cette semaine, ni d’anecdotique.'])assert.deepEqual(selectDetails(index,[],message).filter(x=>x.kind==='event'),[],message);
+});
+
+
+test('Complete review archives retain every moment significance and exposure in analyzed blocks',async()=>{
+ const run=await replayReview('initial',{extend:async s=>{s.raw.prepare("UPDATE life_events SET significance='anecdotal'").run();s.raw.prepare("UPDATE life_events SET significance='major' WHERE id='ev2'").run();s.raw.prepare("UPDATE life_events SET exposure='witnessed' WHERE id='ev11'").run();}});
+ const events=run.snapshot.payload.sections.events;
+ assert.equal(events.length,12);assert.equal(events.find(e=>e.id==='ev2').significance,'major');assert.equal(events.find(e=>e.id==='ev1').significance,'anecdotal');assert.equal(events.find(e=>e.id==='ev11').exposure,'witnessed');assert.ok(events.every(e=>e.current_importance!==undefined));
+ const refs=new Set(run.data.blocks.flatMap(block=>block.source_refs.map(ref=>ref.path)));for(const [index] of events.entries())assert.ok(refs.has('events/'+index));
+ assert.equal(run.data.coverage.complete,true);assert.equal(run.data.coverage.analyzed_blocks,run.chunkCalls.length);
 });

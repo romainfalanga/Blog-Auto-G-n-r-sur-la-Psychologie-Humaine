@@ -14,3 +14,8 @@ test('symptom ranking is identical in the browser and Worker for complete and sp
  const {computeCartography}=await import('../journal/src/cartographie.mjs'),data=require('../data/symptomes_carte.json');let seed=19;const random=()=>((seed=(1664525*seed+1013904223)>>>0)/2**32);
  for(let n=0;n<60;n++){const answers={},feedback={};for(const f of data.factors)if(n===0||random()<.7)answers[f.id]=n===0?1:[0,1,'unknown'][Math.floor(random()*3)];for(const o of data.outcomes)if(random()<.15)feedback[o.id]=random()<.5?'oui':'non';assert.deepEqual(browser.compute(data,answers,feedback),computeCartography(answers,data,feedback));}
 });
+test('past never contributes to symptom ranking, family count, requirements or current uncertainty',async()=>{
+ const {computeCartography,validateCartography}=await import('../journal/src/cartographie.mjs'),data=require('../data/symptomes_carte.json');const answers=Object.fromEntries(data.factors.map(f=>[f.id,'past']));
+ assert.equal(browser.compute(data,answers).selectedCount,0);assert.deepEqual(browser.compute(data,answers).results,[]);assert.deepEqual(browser.compute(data,answers),computeCartography(answers,data));
+ assert.throws(()=>validateCartography({answers:{abus_physique:'past'},notes:{factors:{abus_physique:'Historique'}}},(status,message)=>{throw Error(message)}),/Choisissez/,'childhood does not acquire the new response');
+});

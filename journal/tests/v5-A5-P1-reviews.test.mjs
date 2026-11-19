@@ -13,7 +13,8 @@ import {buildReviewSystemPrompt} from '../src/psychology-framework.mjs';
 import {analysis,draft,review as critic,response} from './v4-R-helper.mjs';
 
 const migrations=readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort();
-function setup({before=null}={}){
+// Existing digest/check/thread assertions retain the pre-0031 bounded-context contract.
+function setup({before='0031'}={}){
  const raw=new DatabaseSync(':memory:');raw.exec('PRAGMA foreign_keys=ON');
  for(const name of migrations.filter(n=>!before||n<before||n.startsWith('0026_')))raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
  const prepare=sql=>{let args=[];return {bind(...a){args=a;return this},async first(){return raw.prepare(sql).get(...args)||null},async all(){return {results:raw.prepare(sql).all(...args)}},async run(){return {meta:{changes:raw.prepare(sql).run(...args).changes}}}}};
@@ -38,6 +39,7 @@ const pointDigest=()=>({formulation:{holds:[{text:'Le silence protège du confli
 function provider(t,{write=()=>({content:text(),digest:initialDigest()}),check=()=>PASS}={}){
  const calls=[],original=globalThis.fetch;
  globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name;calls.push({purpose,body});
+  if(purpose==='ambre_snapshot_chunk'){const chunk=JSON.parse(body.messages[1].content),quote='pour éviter les conflits avec ma sœur',item=chunk.items?.find(x=>x.text.includes(quote));return response({summary:'Déclarations personnelles à explorer.',quotes:item?[{path:item.path,quote}]:[]})}
   if(purpose==='ambre_review'&&body.response_format.json_schema.schema.properties.digest){const out=await write(body,calls);return out instanceof Response?out:response(out)}
   if(purpose==='ambre_review_check'){const out=await check(body,calls);return out instanceof Response?out:response(out)}
   return response({ambre_analysis:analysis(),ambre_risk_check:{risk:'none',category:'none',evidence_quote:''},ambre_writing:draft(),ambre_review:critic(),ambre_memory:{items:[]}}[purpose])};
@@ -97,7 +99,7 @@ test('checks: diagnosis, invented quote, missing safety resources and unverified
  assert.equal(reviewVerdict({...PASS,criteria:{...PASS.criteria,sources_honest:'no',hypotheses_open:'no'}},{failed:[]}).passed,false);
 });
 
-test('a review is written with its digest, checked separately, then published; the thread reaches the next turns and the point',async t=>{
+test('legacy before 0031: a review is written with its digest, checked separately, then published; the thread reaches the next turns and the point',async t=>{
  const s=setup();let phase='initial';
  s.raw.prepare("INSERT INTO care_settings(user_id,has_psychologist,frequency_days,updated_at) VALUES('a',1,14,0)").run();
  const calls=provider(t,{write:()=>phase==='initial'?{content:text(),digest:initialDigest()}:{content:text('Ce qui a évolué. '),digest:pointDigest()}});
@@ -143,7 +145,7 @@ test('a review is written with its digest, checked separately, then published; t
  assert.match(insight.current.stored_elsewhere.find(x=>x.key==='reviews').description,/fil des bilans/i);
 });
 
-test('a failed check asks one rewrite; a second failure publishes nothing; an unavailable check is retried at the check stage',async t=>{
+test('legacy before 0031: a failed check asks one rewrite; a second failure publishes nothing; an unavailable check is retried at the check stage',async t=>{
  // One rewrite: the invented quote is reported to the writer, the rewrite passes.
  let s=setup(),writes=0;let calls=provider(t,{write:()=>++writes===1?{content:text('Vous dites « je déteste ma mère depuis toujours ». '),digest:initialDigest()}:{content:text(),digest:initialDigest()}});
  let r=await start(s);let row=s.row(r.review_id);
@@ -170,7 +172,7 @@ test('a failed check asks one rewrite; a second failure publishes nothing; an un
  r=await start(s);assert.equal(s.row(r.review_id).status,'running');assert.equal(s.row(r.review_id).error_code,'invalid_check');
 });
 
-test('a safety signal since the last review makes the resources blocking in the check',async t=>{
+test('legacy before 0031: a safety signal since the last review makes the resources blocking in the check',async t=>{
  const s=setup();provider(t);await start(s);
  await s.message('Je pense au suicide depuis quelques jours.','risk_turn_0001');
  s.tick(32*86400);let writes=0;const calls=provider(t,{write:()=>++writes===1?{content:text(),digest:initialDigest()}:{content:text('Le 3114 répond 24 h/24, 7 j/7 ; parlez-en aussi à une personne de confiance. '),digest:initialDigest()}});
@@ -180,7 +182,7 @@ test('a safety signal since the last review makes the resources blocking in the 
  assert.equal(writes,2);assert.equal(s.row(r.review_id).status,'ready');assert.match(s.row(r.review_id).content,/3114/);
 });
 
-test('feedback: three answers without score, an optional text, the owner only; it changes the thread and the source hash',async t=>{
+test('legacy before 0031: feedback: three answers without score, an optional text, the owner only; it changes the thread and the source hash',async t=>{
  const s=setup();const calls=provider(t);const r=await start(s),id=r.review_id;
  const put=(data,user='a')=>s.call('/api/reviews/'+id+'/feedback','PUT',data,user);
  assert.equal((await put({verdict:'great'})).code,'invalid_input');assert.equal((await put({verdict:'resembles',text:'x'.repeat(601)})).code,'invalid_input');
@@ -197,7 +199,7 @@ test('feedback: three answers without score, an optional text, the owner only; i
  assert.deepEqual({...s.raw.prepare('SELECT digest,feedback,draft,content FROM ambre_reviews WHERE id=?').get(id)},{digest:'{}',feedback:null,draft:'',content:''});
 });
 
-test('Ambre may suggest a point before a declared session, never start one',async t=>{
+test('legacy before 0031: Ambre may suggest a point before a declared session, never start one',async t=>{
  const s=setup();const calls=provider(t);await start(s);
  assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'too early for a point');
  s.tick(32*86400);assert.equal((await s.call('/api/chat')).journey.review.suggestion,undefined,'no session, few exchanges');
@@ -211,7 +213,7 @@ test('Ambre may suggest a point before a declared session, never start one',asyn
  assert.equal(reviewSuggestion({started:true,running:false,nextPointAt:123,care:{next_session_at:10},now:0,turnsSince:30}),null);
 });
 
-test('before the 0023 migration the Worker keeps working: checked reviews without digest, the legacy excerpt as thread, no feedback',async t=>{
+test('legacy before 0031: before the 0023 migration the Worker keeps working: checked reviews without digest, the legacy excerpt as thread, no feedback',async t=>{
  const s=setup({before:'0023'});const calls=provider(t);
  let r=await start(s);assert.equal(r.status,202);const id=r.review_id;
  assert.deepEqual(calls.map(c=>c.purpose),['ambre_review','ambre_review_check']);
@@ -254,7 +256,7 @@ test('Mes bilans: “Ce qu’Ambre retient de ce bilan” and the answer “Ce b
 });
 
 // Independent review fixes (A5-P1): cooldown, exhausted attempts, closed lists, daily creations.
-test('fix 1: during a model cooldown the cron ends a review running for more than ten minutes',async t=>{
+test('legacy before 0031: fix 1: during a model cooldown the cron ends a review running for more than ten minutes',async t=>{
  const s=setup();provider(t,{write:()=>{throw Object.assign(new Error('timeout'),{name:'TimeoutError'})}});
  const r=await start(s);assert.equal(s.row(r.review_id).status,'running');
  s.raw.prepare("INSERT INTO provider_state(scope,retry_at,reason,updated_at) VALUES('key',?,'provider_http_429',?)").run(s.now()+3600,s.now());
@@ -263,14 +265,14 @@ test('fix 1: during a model cooldown the cron ends a review running for more tha
  const row=s.row(r.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,'provider_cooldown');assert.equal(row.draft,'');
  assert.equal((await s.call('/api/chat')).journey.review.running_id,null,'the conversation is no longer blocked');
 });
-test('fix 2: a review failed by exhausted attempts loses its unchecked draft',async t=>{
+test('legacy before 0031: fix 2: a review failed by exhausted attempts loses its unchecked draft',async t=>{
  const s=setup();provider(t,{check:()=>new Response('{}',{status:500})});
  const r=await start(s);assert.equal(s.row(r.review_id).stage,'check');assert.notEqual(s.row(r.review_id).draft,'');
  s.raw.prepare('UPDATE ambre_reviews SET attempts=3,lease_until=0 WHERE id=?').run(r.review_id);
  assert.equal((await s.chat.resumeReviews(s.env)).failed,1);
  const row=s.row(r.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,'provider_http_500');assert.equal(row.draft,'');
 });
-test('fix 3: closed lists accept their own keys only',async t=>{
+test('legacy before 0031: fix 3: closed lists accept their own keys only',async t=>{
  const corpus='Je me tais souvent pour éviter les conflits avec ma sœur.';
  for(const bad of ['constructor','__proto__','toString','hasOwnProperty']){
   const d=validateDigest({goals:[{key:'g1',words:'parler',status:bad,quote:'Je me tais souvent pour éviter'}],tried:[{what:'Se taire',result:bad,quote:'Je me tais souvent pour éviter'}]},corpus);
@@ -281,10 +283,19 @@ test('fix 3: closed lists accept their own keys only',async t=>{
  for(const bad of ['constructor','__proto__','toString'])assert.equal((await s.call('/api/reviews/'+r.review_id+'/feedback','PUT',{verdict:bad})).code,'invalid_input',bad);
  assert.equal(s.row(r.review_id).feedback,null);
 });
-test('fix 4: eight review creations per day, whatever was deleted since',async t=>{
+test('legacy before 0031: fix 4: eight review creations per day, whatever was deleted since',async t=>{
  const s=setup();provider(t,{check:()=>({...PASS,criteria:{...PASS.criteria,no_diagnosis:'no'}})});
  for(let i=0;i<8;i++){const r=await s.call('/api/chat/start','POST',{idempotency_key:'start_key_00'+i,accepted:true});assert.equal(r.status,202,i+' '+r.message);assert.equal(s.row(r.review_id).status,'failed');assert.equal((await s.call('/api/reviews/'+r.review_id,'DELETE')).deleted,true)}
  assert.equal(s.raw.prepare('SELECT count(*) n FROM ambre_reviews').get().n,0,'every attempt was deleted');
  const blocked=await s.call('/api/chat/start','POST',{idempotency_key:'start_key_009',accepted:true});assert.equal(blocked.status,429);assert.equal(blocked.code,'request_limit');
  s.tick(86401);assert.equal((await s.call('/api/chat/start','POST',{idempotency_key:'start_key_010',accepted:true})).status,202,'a new day reopens the counter');
+});
+
+test('snapshot reviews retain separate checking and faithful digest anchors after every block is analyzed',async t=>{
+ const s=setup({before:null}),calls=provider(t),r=await start(s);assert.equal(r.status,202);const row=s.row(r.review_id);assert.equal(row.status,'ready',JSON.stringify(row));
+ const blocks=calls.filter(c=>c.purpose==='ambre_snapshot_chunk');assert.ok(blocks.length>0);assert.deepEqual(calls.slice(-2).map(c=>c.purpose),['ambre_review','ambre_review_check']);
+ const input=reviewInput(calls.at(-2));assert.equal(input.coverage.complete,true);assert.equal(input.coverage.analyzed_blocks,blocks.length);assert.equal(input.coverage.total_blocks,blocks.length);
+ const check=JSON.parse(calls.at(-1).body.messages[1].content);assert.equal(check.review,text());assert.equal(check.digest.formulation.new.length,0);assert.equal(check.digest.goals.length,1);
+ assert.equal(s.raw.prepare("SELECT provider_calls FROM provider_budgets WHERE user_id='a'").get().provider_calls,calls.length);
+ assert.equal(JSON.parse(row.sources).check.passed,true);
 });
