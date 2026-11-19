@@ -570,4 +570,32 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
   .conversation-toolbar { padding-block: var(--s2); }
   .chat-composer textarea { max-height: 100px; }
 }
+/* Migration 0034: the date an element was added, and its history in a dialog. */
+.added-on { margin: 2px 0 0; }
+.person-info > .added-on { margin: calc(-1 * var(--s2)) 0 var(--s3); }
+.note-dates .note-edited { white-space: nowrap; }
+.history-link { font-size: var(--t-sm); }
+.timeline-note > .history-link { vertical-align: top; margin-right: var(--s4); }
+.history-dialog { width: min(640px, calc(100% - 2 * var(--gutter))); }
+.history-dialog .dialog-top h2 { margin-bottom: var(--s1); }
+.history-subject { margin: 0 0 var(--s4); color: var(--muted); font-size: var(--t-sm); line-height: 1.4; overflow-wrap: anywhere; }
+.history-list { margin: 0; padding: 0; list-style: none; }
+.history-entry { padding: var(--s4) 0; border-top: 1px solid var(--line); }
+.history-entry:first-child { padding-top: 0; border-top: 0; }
+.history-when { margin: 0 0 var(--s2); font: 600 var(--t-sm)/1.4 var(--font-ui); }
+.history-time { color: var(--muted); font-weight: 400; }
+.history-changes { margin: 0; }
+.history-changes dt { margin: var(--s3) 0 var(--s1); color: var(--muted); font: 600 var(--t-xs)/1.4 var(--font-ui); letter-spacing: .01em; }
+.history-changes dt:first-child { margin-top: 0; }
+.history-changes dd { margin: 0; }
+.history-value, .history-before, .history-after { margin: 0; font-size: var(--t-sm); line-height: 1.5; white-space: pre-wrap; overflow-wrap: anywhere; }
+.history-diff { display: grid; gap: var(--s2); }
+.history-before, .history-after { padding-left: var(--s3); border-left: 2px solid var(--line); }
+.history-before { color: var(--muted); }
+.history-after { border-left-color: var(--accent); }
+.history-tag { display: block; color: var(--muted); font: 600 var(--t-xs)/1.4 var(--font-ui); letter-spacing: .01em; }
+.history-gap { margin: var(--s4) 0 0; }
+@media (max-width: 599px) {
+  .history-dialog { width: 100%; }
+}
 `;

@@ -61,7 +61,7 @@ function environment(extra={}) {
   if(!ctx.confirmDialog)ctx.confirmDialog=(title,text)=>Promise.resolve(ctx.confirm([title,text].filter(Boolean).join(' ')));
   for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerClosed','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var MOMENT_FOR_PERSON=.*\n/)[0],ctx);
-  vm.runInContext(['AMBRE_CONSENT_TEXT','AMBRE_INTRO','AMBRE_DAILY_LAUNCHES','AMBRE_FAILURES'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join(''),ctx);
+  vm.runInContext(['AMBRE_INTRO','AMBRE_DAILY_LAUNCHES','AMBRE_FAILURES'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join(''),ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -518,7 +518,7 @@ test('Ambre’s first message introduces her, lists the five pages with counters
  assert.equal(env.doc.getElementById('chat-locked-note').textContent,'Vous pourrez écrire à Ambre après votre premier bilan.');assert.equal(env.doc.getElementById('chat-locked-note').hidden,false);
  env.input.value='Bonjour';assert.equal(env.send.disabled,true);assert.ok(env.doc.activeElement!==env.input,'no keyboard is opened');
  env.ctx.state.chatData=ambreState(fullReadiness());env.ctx.drawChat(env.view,()=>true);
- start=env.doc.getElementById('ambre-start');reason=env.doc.getElementById('ambre-start-reason');assert.equal(start.disabled,false,'the launch button alone is enough');assert.equal(reason.hidden,true);assert.equal(start.getAttribute('aria-describedby'),undefined);assert.match(env.doc.getElementById('ambre-consent-info').textContent,/En lançant le bilan/);
+ start=env.doc.getElementById('ambre-start');reason=env.doc.getElementById('ambre-start-reason');assert.equal(start.disabled,false,'the launch button alone is enough');assert.equal(reason.hidden,true);assert.equal(start.getAttribute('aria-describedby'),undefined);assert.equal(env.doc.getElementById('ambre-consent-info'),null);
  assert.ok(env.doc.getElementById('ambre-intro').querySelectorAll('.ambre-need').every(i=>i.querySelector('.ambre-need-mark').textContent==='✓'));
  assert.equal(calls.length,0);
  next=ambreState(fullReadiness(),{started:true,can_start:false,review:runningReview()},{consent:true,access:{allowed:true,reason:null},review_id:'r1'});
@@ -1037,7 +1037,7 @@ test('an already-started conversation is blocked when the strict readiness check
 });
 
 function noteFixture(note,api){
- let saved=0;const env=environment({api});for(const name of ['noteTarget','noteTimestamp','applyNoteRevision','sourceNoteEditor','sourceNoteCard'])vm.runInContext(functionCode(name),env.ctx);
+ let saved=0;const env=environment({api});for(const name of ['noteTarget','parseStamp','shortDay','addedOn','historyButton','applyNoteRevision','sourceNoteEditor','sourceNoteCard'])vm.runInContext(functionCode(name),env.ctx);
  const target='/api/life-events/event-1/notes',editor=env.ctx.sourceNoteEditor(target,note,async()=>saved++);env.host('notes').append(editor);return {...env,target,editor,form:editor.querySelector('form'),input:editor.querySelector('textarea'),get saved(){return saved}};
 }
 
@@ -1077,7 +1077,7 @@ test('a close person has an address of their own, prepared and opened like the o
 });
 function personFixture(api,extra={}){
  const env=environment({api,location:{pathname:'/mes-proches/p1/'},history:{replaceState(){}},queueMicrotask(fn){fn()},...extra});
- for(const name of ['personRoleLabel','personIdForPath','pagePath','noteTarget','noteTimestamp','noteDay','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
+ for(const name of ['personRoleLabel','personIdForPath','pagePath','noteTarget','parseStamp','shortDay','addedOn','historyButton','noteDay','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
  Object.assign(env.ctx.state,{tab:'person',personId:'p1',peopleFieldsReady:false});
  const head=env.doc.createElement('div'),title=env.doc.createElement('h1'),description=env.doc.createElement('p');title.id='private-page-title';title.textContent='Mes proches';description.id='page-description';description.hidden=true;head.append(title,description);
  const view=env.host('view');let html='';Object.defineProperty(view,'innerHTML',{set(value){html=value;const status=env.doc.createElement('p'),box=env.doc.createElement('div');status.id='source-page-status';box.id='person-content';view.replaceChildren(status,box)},get(){return html}});
@@ -1093,7 +1093,7 @@ test('the person page shows the name, role, information, edit action and the com
  const back=env.head.children[0];assert.equal(back.tagName,'A');assert.equal(back.href,'/mes-proches/');assert.equal(back.textContent,'Mes proches');
  const text=env.box.textContent;for(const expected of ['Informations','On se parle chaque semaine.','Votre histoire avec Léa','Rencontre','2012','Un voyage ensemble','Trois jours en Bretagne.','Une note à moi','Léa me rappelle toujours.','Repère validé','Ajouter une note à ce moment','Votre note'])assert.ok(text.includes(expected),expected);
  assert.doesNotMatch(text,/Repères sur cette relation|Chargement/);assert.equal(env.box.querySelector('details.person-timeline'),null,'the timeline is no longer a disclosure');
- const buttons=env.box.querySelector('.person-info').querySelectorAll('button').map(button=>button.textContent);assert.deepEqual(buttons.slice(0,2),['Modifier','Supprimer']);
+ const buttons=env.box.querySelector('.person-info').querySelectorAll('button').map(button=>button.textContent);assert.deepEqual(buttons.slice(0,3),['Modifier','Historique','Supprimer']);
  assert.equal(env.ctx.state.peopleFieldsReady,true);
  await env.box.querySelector('.person-info').querySelector('button').fire('click');
  const form=env.doc.getElementById('people-form');assert.ok(form,'Modifier opens the editor on the person page');assert.equal(form.elements.display_name.value,'Léa');assert.equal(env.ctx.state.sourceDrafts.get('people').revision,3);

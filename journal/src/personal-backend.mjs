@@ -1,4 +1,5 @@
 import {createTimelineBackend} from './timeline-backend.mjs';
+import {createHistoryBackend} from './personal-history.mjs';
 import {MEETING_FIELDS,meetingData,timelineReady,eventRows} from './timeline-data.mjs';
 import {readCompanionReadiness,companionReadinessSql} from './companion-readiness.mjs';
 import { accessSql } from './entitlements.mjs';
@@ -29,6 +30,8 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const readingLookup=(...args)=>{indexes();lookup??=createReadingLookup(indexed);return lookup(...args);};
  const peopleObservations=createPeopleObservationApi({error,json,body});
  const timeline=createTimelineBackend({error,json,body,now,random});
+ // Migration 0034: read-only history of people, moments and notes, for their owner only.
+ const history=createHistoryBackend({error,json});
  const first=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).first();
  const all=async(env,sql,...args)=>(await env.DB.prepare(sql).bind(...args).all()).results;
  const run=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).run();
@@ -197,6 +200,8 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return crud(request,env,user,path,url);
  }
  async function routes(request,env,user,path,url,ctx){
+  const historyResponse=await history.routes(request,env,user,path,url);
+  if(historyResponse)return historyResponse;
   const timelineResponse=await timeline.routes(request,env,user,path,url);
   if(timelineResponse){if(['POST','PATCH','DELETE'].includes(request.method))await sourcesChanged(env,user.id,ctx);return timelineResponse;}
   const observationsResponse=await peopleObservations.routes(request,env,user,path);
@@ -345,7 +350,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return result;
  }
  async function exportData(env,userId){
-  const [self_profile,recommendation_exposures,people,events,characters,story_requests,stories,feedback,observations,notes]=await Promise.all([
+  const [self_profile,recommendation_exposures,people,events,characters,story_requests,stories,feedback,observations,notes,changes]=await Promise.all([
    first(env,'SELECT self_data,self_revision FROM profiles WHERE user_id=?',userId),
    all(env,'SELECT article_id,shown_at FROM recommendation_exposures WHERE user_id=? ORDER BY shown_at DESC LIMIT 100',userId),
    all(env,'SELECT * FROM personal_people WHERE user_id=? ORDER BY id',userId),
@@ -354,13 +359,13 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    all(env,'SELECT * FROM story_requests WHERE user_id=? ORDER BY created_at,id',userId),
    all(env,'SELECT * FROM stories WHERE user_id=? ORDER BY character_id,episode_number',userId),
    all(env,'SELECT * FROM feedback WHERE user_id=?',userId),
-   peopleObservations.exportData(env,userId),timeline.exportData(env,userId)
+   peopleObservations.exportData(env,userId),timeline.exportData(env,userId),history.exportData(env,userId)
   ]);
   return {self_profile,recommendation_exposures,people:people.map(personRow),
    events:(await eventRows(env,events,userId)).map((row,index)=>({...row,fiction_use:events[index].fiction_use})),
    // Retired private material remains available only as an account data export.
    characters:characters.map(({user_id,...row})=>({...row,identity:parse(row.identity),facet:parse(row.facet),narrative_state:parse(row.narrative_state)})),
-   story_requests,stories,feedback,...observations,...notes};
+   story_requests,stories,feedback,...observations,...notes,...changes};
  }
  function readingSuggestionsFromContext(c,{query='',limit=6}={}){
   // This helper accepts only the authenticated, request-local server snapshot.
