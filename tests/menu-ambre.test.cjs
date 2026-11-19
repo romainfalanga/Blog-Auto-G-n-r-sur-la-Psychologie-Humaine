@@ -44,7 +44,7 @@ test('opening the site lands on Ambre: "/" redirects (302) to /mon-accompagnemen
   assert.match(read('layouts/partials/header-brand.html'), /^<a href="\/mon-accompagnement\/" class="site-logo"/);
   const footer = read('layouts/partials/footer.html');
   assert.match(footer, /href="\/mon-accompagnement\/" class="site-logo"/);
-  assert.match(footer, /href="\/personnages\/"[^>]*>Personnages</);
+  assert.doesNotMatch(footer, /Personnages/);
   // No internal link of the site or of the personal space points at "/" any more.
   for (const file of ['layouts/partials/header-brand.html', 'layouts/partials/footer.html', 'layouts/partials/breadcrumb.html', 'journal/src/ui.mjs', 'journal/src/navigation.generated.mjs']) {
     assert.doesNotMatch(read(file), /href=\\?"\/\\?"|\.href='\/'/, file);

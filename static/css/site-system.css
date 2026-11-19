@@ -135,7 +135,7 @@ html.is-navigating, html.is-navigating * { cursor: progress; }
 @keyframes navigating { 0% { left: 0; width: 0; } 50% { left: 0; width: 100%; } 100% { left: 100%; width: 0; } }
 @media (prefers-reduced-motion: reduce) { html.is-navigating .site-header::after { width: 100%; opacity: .5; } }
 
-/* Footer: the site name (to Ambre) and the public catalogue, below a hairline that closes the page. */
+/* Footer: the site name (to Ambre) only, below a hairline that closes the page. */
 .site-footer { flex: none; padding-block: var(--s4); border-top: 1px solid var(--line); }
 .footer-minimal { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0 var(--s5); }
 .site-footer :where(.site-logo, .footer-link) { display: inline-flex; align-items: center; min-height: 44px; color: var(--muted); font: 400 var(--t-sm)/1.45 var(--font-ui); text-decoration: none; }

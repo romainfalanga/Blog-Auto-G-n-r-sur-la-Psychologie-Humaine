@@ -382,7 +382,7 @@ test('the lists of close people and of moments repeat neither the page title nor
 });
 
 test('the application footer holds the site name (to Ambre) and the catalogue link, and liked articles stay out of the portrait menu',()=>{
- assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/mon-accompagnement\/" class="site-logo">Décode ton esprit<\/a>\s*<a href="\/personnages\/" class="footer-link">Personnages<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
+ assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/mon-accompagnement\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
  assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
