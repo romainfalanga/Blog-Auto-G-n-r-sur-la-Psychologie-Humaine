@@ -421,6 +421,7 @@ export function createCartographyBackend({error,json,body,now,table='cartographi
  const current=(env,userId)=>symptoms?readSymptomMap(env,userId):selectCartography(env,userId);
  async function save(request,env,user){
   const data=await body(request,body_limit);
+  if(data.expected_user_id!==undefined&&data.expected_user_id!==user.id)fail(409,'Votre session a changé. Rechargez la page avant de réessayer.','session_changed');
   if(!symptoms&&data.consent!==true)fail(400,'Votre accord explicite est requis pour enregistrer cette donnée de santé.','consent_required');
   if(symptoms)data.locked=true;
   if(typeof data.locked!=='boolean')fail(400,'Indiquez si la cartographie doit être verrouillée.','invalid_cartography');
@@ -461,6 +462,7 @@ export function createCartographyBackend({error,json,body,now,table='cartographi
  }
  async function routes(request,env,user,path){
   const note=path.match(/^\/api\/cartographie\/ambre-notes\/([\w-]{1,120})$/);
+  if(path===route||note&&!symptoms){const expectedUser=request.headers.get('X-Expected-User-Id');if(expectedUser!==null&&expectedUser!==user.id)fail(409,'Votre session a changé. Rechargez la page avant de réessayer.','session_changed');}
   if(note&&!symptoms){if(request.method!=='DELETE')fail(405,'Méthode non autorisée.','method_not_allowed');return removeAmbreNote(env,user,note[1]);}
   if(path!==route)return null;
   if(request.method==='GET')return json(view(await current(env,user.id)));
@@ -474,7 +476,7 @@ export function createCartographyBackend({error,json,body,now,table='cartographi
 
 export async function readSymptomMap(env,userId){
  try{return await env.DB.prepare(`SELECT answers,feedback,notes,consent,locked_at,version,updated_at,safety_at,safety_asked_at,COALESCE((SELECT revision FROM care_source_revisions WHERE user_id=symptom_maps.user_id AND scope='symptoms'),0) AS source_revision FROM symptom_maps WHERE user_id=?`).bind(userId).first();}
- catch(e){if(missingTable(e))return null;throw e;}
+ catch(e){if(/no such table:\s*symptom_maps/i.test(String(e?.message||'')))return null;throw e;}
 }
 export function symptomMapView(row,data){
  if(!row)return {cartographie:null,summary:null};

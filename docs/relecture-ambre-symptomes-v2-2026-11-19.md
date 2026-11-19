@@ -13,7 +13,7 @@ Relecteur : agent backend_v2, distinct de l'auteur ambre_v2. Périmètre : sympt
 
 Les consignes de rédaction et de relecture autorisent une hypothèse nommée avec ses appuis et ce qui manque, interdisent un diagnostic affirmé, un score ou une probabilité chiffrée. L'orientation systématique a été retirée ; danger, forte gêne et demande de la personne restent des motifs d'orientation. Les contrôles de danger actuels restent prioritaires.
 
-Les deux cartes disposent de blocs fixes distincts (3 500 caractères symptômes, 3 000 enfance) et d'un index pour les détails. Les bilans ont une part symptômes dédiée, réduite de 6 000 à 3 000 si nécessaire ; le contexte reste borné à 40 000 caractères. Les plafonds de budget sont vérifiés avec les nouvelles décisions documentées, sans activation de dépense quotidienne.
+Lorsqu’une carte symptômes existe, les deux cartes disposent de blocs fixes distincts (3 500 caractères symptômes, 3 000 enfance) et d'un index pour les détails. Les bilans ont une part symptômes dédiée, réduite de 6 000 à 3 000 si nécessaire ; le contexte reste borné à 40 000 caractères. Les plafonds de budget sont vérifiés avec les nouvelles décisions documentées, sans activation de dépense quotidienne.
 
 Le premier signal de sécurité est fixé par le serveur. Le délai de quatorze jours part d'une question publiée (`safety_asked_at`), pas d'une lecture ou d'un appel fournisseur. La mise à jour est dans le batch de publication, conditionnée à une réponse effectivement enregistrée. Les gardes existantes de consentement, bail, prérequis et réservation mensuelle sont conservées. Les erreurs ou annulations sans réponse publiée ne passent pas cette condition. Une réponse de secours effectivement publiée avec la question peut légitimement démarrer le délai.
 
@@ -24,3 +24,11 @@ Exécution indépendante : `symptomes-ambre.test.mjs`, `symptom-map-v2.test.mjs`
 La relecture performance/backend distincte ajoute trois courses réelles juste avant le batch : modification, effacement/recréation à date identique, création après état absent. Les trois empêchent la publication obsolète ; voir `symptom-map-publication-review.test.mjs` et le rapport backend.
 
 Avis favorable sur ce périmètre après les corrections ci-dessus. La validation globale d'intégration, des profils maximaux et du déploiement reste celle de l'agent intégrateur ; aucun test local ne prouve à lui seul l'état du fournisseur en production.
+
+## Complément de compatibilité et session
+
+Sans carte symptômes, le parcours conserve ses enveloppes et son index historiques ; les nouveaux blocs fixes ne rognent pas les détails des profils existants. La validation globale des budgets reste consignée par l’intégrateur.
+
+La garde de session des cartes compare désormais `X-Expected-User-Id` à la session authentifiée avant GET/PUT/DELETE. Une vieille page A avec le cookie B reçoit `409 session_changed`, même si les versions de cartes coïncident ; le contenu B reste intact. Le champ facultatif `expected_user_id` est également contrôlé pour compatibilité. Test réel Worker sur les deux cartes réussi. Le client doit envoyer cet identifiant attendu ; les clients historiques sans ce champ restent compatibles.
+
+La lecture avant migration 0029 ne masque que l’absence de `symptom_maps`, et non une panne générique. Le parcours bilan pré-0023 est rétabli et testé. Suite groupée finale session/backend/bilans historiques : **20/20 réussis**, `work/reprise-nov19/backend-session-final.log`.
