@@ -473,7 +473,7 @@ export function createCartographyBackend({error,json,body,now,table='cartographi
 }
 
 export async function readSymptomMap(env,userId){
- try{return await env.DB.prepare('SELECT answers,feedback,notes,consent,locked_at,version,updated_at,safety_at,safety_asked_at FROM symptom_maps WHERE user_id=?').bind(userId).first();}
+ try{return await env.DB.prepare(`SELECT answers,feedback,notes,consent,locked_at,version,updated_at,safety_at,safety_asked_at,COALESCE((SELECT revision FROM care_source_revisions WHERE user_id=symptom_maps.user_id AND scope='symptoms'),0) AS source_revision FROM symptom_maps WHERE user_id=?`).bind(userId).first();}
  catch(e){if(missingTable(e))return null;throw e;}
 }
 export function symptomMapView(row,data){
