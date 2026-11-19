@@ -2,7 +2,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {setup,provider,filledProfile,seedTurns} from './v4-R-helper.mjs';
-import {traceSummary} from '../src/ambre-insight.mjs';
+import {traceSummary,COMPACT_TRACE_SQL} from '../src/ambre-insight.mjs';
 
 const realTrace=async t=>{const s=setup();filledProfile(s);await s.ready();provider(t);const r=await s.call('/api/chat/messages','POST',{content:'Je rumine quand ma sœur me critique et je voudrais comprendre pourquoi.',idempotency_key:'real_turn_0001'});assert.equal(r.status,200);return s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace};
 const sizes=s=>s.raw.prepare("SELECT (SELECT sum(length(trace)) FROM chat_turn_traces) traces,(SELECT sum(length(content)+length(response)) FROM chat_turns) turns").get();
@@ -51,4 +51,35 @@ test('F2: the cron reads live jobs through the partial index and purges finished
  for(const sql of used().sql.keys())if(/chat_engine_jobs/.test(sql)&&/^\s*(SELECT|DELETE|UPDATE)/i.test(sql))assert.doesNotMatch(s.plan(sql).join(' | '),/SCAN chat_engine_jobs\b(?! USING)/,sql);
  assert.equal(s.raw.prepare("SELECT count(*) n FROM chat_engine_jobs WHERE updated_at<?").get(s.now()-7*86400).n,0);
  assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_engine_jobs').get().n,5);
+});
+
+// SQLite may return a scalar-subquery aggregate as plain TEXT rather than preserving
+// its JSON subtype. substr reproduces that boundary deterministically on every version.
+function withoutAggregateSubtype(sql){
+ const openings=[...sql.matchAll(/\(SELECT json_group_array\(/g)].map(m=>m.index);
+ for(const start of openings.reverse()){
+  let depth=0,quoted=false,end=start;
+  for(;end<sql.length;end++){
+   const c=sql[end];
+   if(c==="'"){if(quoted&&sql[end+1]==="'"){end++;continue;}quoted=!quoted;continue;}
+   if(quoted)continue;
+   if(c==='(')depth++;else if(c===')'&&--depth===0)break;
+  }
+  assert.equal(depth,0,'aggregate subquery must be balanced');
+  sql=sql.slice(0,start)+'substr('+sql.slice(start,end+1)+',1)'+sql.slice(end+1);
+ }
+ assert.ok(openings.length>=2,'exercise both aggregate embedding boundaries');
+ return sql;
+}
+test('F1: scalar aggregate subtype loss never turns retained stages or criteria into JSON strings',async t=>{
+ const original=await realTrace(t),s=setup();await s.ready();
+ seedTurns(s,'a',1,{trace:original,traceAt:s.now()});
+ const portable=withoutAggregateSubtype(COMPACT_TRACE_SQL);
+ s.raw.prepare('UPDATE chat_turn_traces SET trace='+portable).run();
+ const kept=JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace),source=JSON.parse(original);
+ assert.ok(Array.isArray(kept.details.stages));assert.ok(Array.isArray(kept.review.change.criteria));
+ assert.deepEqual(traceSummary(kept).review,source.review);
+ assert.deepEqual(kept.details.stages.map(x=>[x.stage,x.model,x.status,x.usage]),source.details.stages.map(x=>[x.stage,x.model,x.status,x.usage]));
+ assert.deepEqual(kept.details.values,[]);
+ const retained=sizes(s);assert.ok(retained.traces<=2*retained.turns,`${retained.traces} > 2 x ${retained.turns}`);
 });
