@@ -41,7 +41,29 @@
   // largely reflect familial transmission (independent clinical review, lot C5a).
   var UNIT = 1000;
 
+function computeSymptomMap(answers,data,feedback={}){
+ const factors=new Map(data.factors.map(f=>[f.id,f])),outcomes=new Map(data.outcomes.map(o=>[o.id,o]));
+ const yes=id=>answers?.[id]===1, family=id=>factors.get(id)?.overlap_group||id,byOutcome=new Map();
+ for(const link of data.links||[])if(factors.has(link.factor)&&outcomes.has(link.outcome)){
+  if(!byOutcome.has(link.outcome))byOutcome.set(link.outcome,[]);byOutcome.get(link.outcome).push(link);
+ }
+ const rows=[];
+ for(const [id,all] of byOutcome){
+  const outcome=outcomes.get(id);if(outcome.retired)continue;
+  const required=data.requires?.[id]||[];if(!required.every(yes))continue;
+  const essential=new Set(all.filter(l=>l.strength==='critere').map(l=>family(l.factor))),present=new Set(all.filter(l=>l.strength==='critere'&&yes(l.factor)).map(l=>family(l.factor))),moderate=new Set(all.filter(l=>l.strength==='moderee'&&yes(l.factor)).map(l=>family(l.factor)));
+  const C=essential.size,c=present.size,m=moderate.size;if(c<(C<=2?1:2))continue;
+  const links=all.filter(l=>yes(l.factor)),associated=[...new Set(links.filter(l=>l.strength==='critere'||l.strength==='moderee').map(l=>l.factor))],score=Math.floor(1000*c/(C+1));
+  rows.push({outcome,links,factors:links.map(l=>l.factor),associated_factors:associated,associated_count:associated.length,other_links:0,tier:c>=2?'convergence':'piste',score,evidence_groups:c,relation_types:[...new Set(links.map(relation))],relevance:score,has_empirical:false,evidence_families:c,max_points:0,frequent:false,familial:false,trauma_first:false,serious:false,essential_count:c,essential_total:C,moderate_count:m,essential_score:score,uncertain_links:all.filter(l=>answers?.[l.factor]==='unknown'||yes(l.factor)&&l.strength==='limitee')});
+ }
+ rows.sort((a,b)=>b.essential_score-a.essential_score||b.essential_count-a.essential_count||b.moderate_count-a.moderate_count||binary(a.outcome.id,b.outcome.id));
+ const sections={recognized:[],top:[],frequent:[],other:[],dismissed:[]},picked=rows.filter(r=>feedback?.[r.outcome.id]!=='non').slice(0,data.ranking?.section_top||SECTION_TOP);
+ for(const row of rows){row.section=feedback?.[row.outcome.id]==='non'?'dismissed':picked.includes(row)?'top':'other';sections[row.section].push(row);}
+ return {results:SECTION_ORDER.flatMap(k=>sections[k]),sections,aceCount:0,selectedCount:data.factors.filter(f=>yes(f.id)).length};
+}
+
   function compute(data, selected, feedback) {
+    if (data.ranking && data.ranking.version === "essential_share_desc") return computeSymptomMap(selected, data, feedback);
     var level = intensities(selected);
     feedback = feedback || {};
     var factorIndex = {};

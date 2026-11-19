@@ -703,15 +703,6 @@
    "overlap_group": "liberte_relation",
    "links": [
     {
-     "outcome": "ten_qualite_relationnelle",
-     "strength": "critere",
-     "basis": "définition de la tendance dans la cartographie, appuyée par dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
-     "summary": "Des liens vécus comme moins libres font partie de la définition de cette tendance.",
-     "sources": [
-      "labella2018_relations"
-     ]
-    },
-    {
      "outcome": "pat_appeasement",
      "strength": "moderee",
      "basis": "réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",

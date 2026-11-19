@@ -1,0 +1,59 @@
+{
+  "requires": {
+    "sym_6c42": [
+      "sup_conso_cannabinoides_synthese"
+    ],
+    "sym_6c43": [
+      "sup_conso_opioides"
+    ],
+    "sym_6c44": [
+      "sup_conso_calmants"
+    ],
+    "sym_6c45": [
+      "sup_conso_cocaine"
+    ],
+    "sym_6c46": [
+      "sup_conso_stimulants"
+    ],
+    "sym_6c47": [
+      "sup_conso_cathinones"
+    ],
+    "sym_6c49": [
+      "sup_conso_hallucinogenes"
+    ],
+    "sym_6c4b": [
+      "sup_conso_produits_inhales"
+    ],
+    "sym_6c4c": [
+      "sup_conso_mdma"
+    ],
+    "sym_6c4d": [
+      "sup_conso_ketamine"
+    ],
+    "icd_6c40_2": [
+      "usage_alcool"
+    ],
+    "ten_usage_cannabis": [
+      "usage_cannabis"
+    ],
+    "ten_tabagisme_persistant": [
+      "usage_tabac"
+    ],
+    "ten_symptomes_depressifs_perinataux": [
+      "contexte_perinatal"
+    ],
+    "ten_violences_amoureuses_jeunes": [
+      "contexte_relation_adolescence"
+    ],
+    "ten_violences_couple": [
+      "contexte_relation_adulte"
+    ],
+    "ten_automutilations_non_suicidaires": [
+      "cmp_se_blesser_sans_vouloir_mourir"
+    ],
+    "ten_procrastination": [
+      "cmp_repousser_malgre_le_cout"
+    ]
+  },
+  "note": "Toutes les questions listées doivent être Oui ; ni un produit, ni un contexte de vie, ni une absence d’intention suicidaire ne sont déduits de signes non spécifiques."
+}

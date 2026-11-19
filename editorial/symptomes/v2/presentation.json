@@ -1,0 +1,628 @@
+{
+  "symptoms": {
+    "mal_a_s_endormir": {
+      "theme": "sommeil"
+    },
+    "reveils_nocturnes": {
+      "theme": "sommeil"
+    },
+    "trop_dormir": {
+      "theme": "sommeil"
+    },
+    "cauchemars_repetes": {
+      "theme": "sommeil"
+    },
+    "fatigue_manque_energie": {
+      "theme": "sante_sensations"
+    },
+    "tension_musculaire": {
+      "theme": "sante_sensations"
+    },
+    "maux_physiques_frequents": {
+      "theme": "sante_sensations"
+    },
+    "detachement_irrealite": {
+      "theme": "memoire_detachement"
+    },
+    "anx_signes_physiques_stress": {
+      "theme": "sante_sensations"
+    },
+    "anx_sommeil_loin_proche": {
+      "theme": "sommeil"
+    },
+    "anx_maux_separation": {
+      "theme": "sante_sensations"
+    },
+    "anx_verifier_corps": {
+      "theme": "sante_sensations"
+    },
+    "anx_alarme_sensation_banale": {
+      "theme": "sante_sensations"
+    },
+    "anx_emotions_eteintes": {
+      "theme": "expression_emotions"
+    },
+    "anx_conduites_risque": {
+      "theme": "impulsions_gestes"
+    },
+    "cmp_jeu_du_mal_a_limiter": {
+      "theme": "jeux_ecrans"
+    },
+    "cmp_jeu_passe_avant": {
+      "theme": "jeux_ecrans"
+    },
+    "cmp_jeu_rattraper_pertes": {
+      "theme": "jeux_ecrans"
+    },
+    "cmp_ecrans_du_mal_a_limiter": {
+      "theme": "jeux_ecrans"
+    },
+    "cmp_ecrans_passent_avant": {
+      "theme": "jeux_ecrans"
+    },
+    "cmp_ecrans_tendu_sans": {
+      "theme": "jeux_ecrans"
+    },
+    "cmp_sommeil_gene_la_journee": {
+      "theme": "sommeil"
+    },
+    "cmp_douleur_plus_de_3_mois": {
+      "theme": "sante_sensations"
+    },
+    "cmp_douleurs_plusieurs_endroits": {
+      "theme": "sante_sensations"
+    },
+    "cmp_douleur_limite_activites": {
+      "theme": "sante_sensations"
+    },
+    "cmp_sensations_corps_genantes": {
+      "theme": "sante_sensations"
+    },
+    "cmp_penser_sans_cesse_au_corps": {
+      "theme": "sante_sensations"
+    },
+    "cmp_consulter_souvent": {
+      "theme": "sante_sensations"
+    },
+    "cmp_examens_ne_rassurent_pas": {
+      "theme": "sante_sensations"
+    },
+    "cmp_journees_autour_des_symptomes": {
+      "theme": "sante_sensations"
+    },
+    "cmp_achats_coup_de_tete": {
+      "theme": "travail_etudes_argent"
+    },
+    "cmp_s_emballer_dans_l_euphorie": {
+      "theme": "impulsions_gestes"
+    },
+    "cmp_chercher_sensations_fortes": {
+      "theme": "impulsions_gestes"
+    },
+    "cmp_lacher_en_cours_de_route": {
+      "theme": "travail_etudes_argent"
+    },
+    "cmp_repousser_taches_importantes": {
+      "theme": "travail_etudes_argent"
+    },
+    "cmp_repousser_malgre_le_cout": {
+      "theme": "travail_etudes_argent"
+    },
+    "cmp_derniere_minute": {
+      "theme": "travail_etudes_argent"
+    },
+    "cmp_faire_autre_chose_a_la_place": {
+      "theme": "travail_etudes_argent"
+    },
+    "cmp_frustration_difficile": {
+      "theme": "impulsions_gestes"
+    },
+    "cmp_envie_tout_de_suite": {
+      "theme": "impulsions_gestes"
+    },
+    "cmp_eviter_efforts_contraintes": {
+      "theme": "impulsions_gestes"
+    },
+    "cmp_s_opposer_aux_regles": {
+      "theme": "conflits_limites"
+    },
+    "cmp_chercher_a_contrarier": {
+      "theme": "conflits_limites"
+    },
+    "cmp_mentir_pour_obtenir": {
+      "theme": "conflits_limites"
+    },
+    "cmp_se_servir_des_autres": {
+      "theme": "conflits_limites"
+    },
+    "emo_mal_a_mettre_des_mots": {
+      "theme": "expression_emotions"
+    },
+    "emo_parler_des_faits_plutot_que_ressentis": {
+      "theme": "expression_emotions"
+    },
+    "emo_confondre_emotion_et_sensation": {
+      "theme": "sante_sensations"
+    },
+    "emo_bloque_quand_contrarie": {
+      "theme": "travail_etudes_argent"
+    },
+    "emo_cacher_sa_colere": {
+      "theme": "expression_emotions"
+    },
+    "emo_retenir_ses_larmes": {
+      "theme": "expression_emotions"
+    },
+    "emo_retenir_ses_elans_de_joie": {
+      "theme": "expression_emotions"
+    },
+    "emo_privilegier_la_raison": {
+      "theme": "expression_emotions"
+    },
+    "emo_peur_de_perdre_le_controle_emotion": {
+      "theme": "expression_emotions"
+    },
+    "emo_peur_d_etre_mal_vu_si_emotion": {
+      "theme": "expression_emotions"
+    },
+    "hum_moins_besoin_de_dormir": {
+      "theme": "sommeil"
+    },
+    "hum_risques_en_periode_haute": {
+      "theme": "impulsions_gestes"
+    },
+    "hum_corps_avant_les_regles": {
+      "theme": "sante_sensations"
+    },
+    "hum_fatigue_avant_les_regles": {
+      "theme": "sante_sensations"
+    },
+    "hum_engourdi_depuis_un_deces": {
+      "theme": "expression_emotions"
+    },
+    "per_absorption": {
+      "theme": "memoire_detachement"
+    },
+    "per_emotions_eteintes": {
+      "theme": "expression_emotions"
+    },
+    "per_corps_peu_ressenti": {
+      "theme": "memoire_detachement"
+    },
+    "per_agir_en_automate": {
+      "theme": "memoire_detachement"
+    },
+    "per_savoir_que_c_est_une_impression": {
+      "theme": "memoire_detachement"
+    },
+    "per_temps_perdu": {
+      "theme": "memoire_detachement"
+    },
+    "per_actes_oublies": {
+      "theme": "memoire_detachement"
+    },
+    "per_oubli_evenement_important": {
+      "theme": "memoire_detachement"
+    },
+    "per_fugue": {
+      "theme": "memoire_detachement"
+    },
+    "per_parties_distinctes": {
+      "theme": "memoire_detachement"
+    },
+    "per_partie_prend_le_controle": {
+      "theme": "memoire_detachement"
+    },
+    "per_pensees_d_une_autre_partie": {
+      "theme": "memoire_detachement"
+    },
+    "per_gestes_d_une_autre_partie": {
+      "theme": "memoire_detachement"
+    },
+    "per_faiblesse_membre": {
+      "theme": "mouvements_sens"
+    },
+    "per_crises_perte_controle": {
+      "theme": "mouvements_sens"
+    },
+    "per_perte_sensation": {
+      "theme": "mouvements_sens"
+    },
+    "per_vue_perturbee": {
+      "theme": "mouvements_sens"
+    },
+    "per_audition_perturbee": {
+      "theme": "mouvements_sens"
+    },
+    "per_vertiges_persistants": {
+      "theme": "mouvements_sens"
+    },
+    "per_marche_difficile": {
+      "theme": "mouvements_sens"
+    },
+    "per_mouvements_involontaires": {
+      "theme": "mouvements_sens"
+    },
+    "per_parole_perturbee": {
+      "theme": "mouvements_sens"
+    },
+    "per_conviction_persecution": {
+      "theme": "perceptions_convictions"
+    },
+    "per_signes_adresses": {
+      "theme": "perceptions_convictions"
+    },
+    "per_conviction_mission": {
+      "theme": "perceptions_convictions"
+    },
+    "per_conviction_jalousie": {
+      "theme": "perceptions_convictions"
+    },
+    "per_conviction_etre_aime": {
+      "theme": "perceptions_convictions"
+    },
+    "per_conviction_corps": {
+      "theme": "perceptions_convictions"
+    },
+    "per_pensees_influencees": {
+      "theme": "perceptions_convictions"
+    },
+    "per_pensee_desorganisee": {
+      "theme": "travail_etudes_argent"
+    },
+    "per_emotions_peu_exprimees": {
+      "theme": "expression_emotions"
+    },
+    "per_pensee_magique": {
+      "theme": "perceptions_convictions"
+    },
+    "rel_disputes_qui_tournent_mal": {
+      "theme": "conflits_limites"
+    },
+    "rel_eviter_les_desaccords": {
+      "theme": "conflits_limites"
+    },
+    "rel_desaccord_vecu_comme_menace": {
+      "theme": "conflits_limites"
+    },
+    "rel_se_fermer_pendant_une_dispute": {
+      "theme": "conflits_limites"
+    },
+    "rel_controler_un_proche_en_difficulte": {
+      "theme": "conflits_limites"
+    },
+    "rel_s_opposer_par_principe": {
+      "theme": "conflits_limites"
+    },
+    "rel_se_sentir_lese": {
+      "theme": "conflits_limites"
+    },
+    "rel_mal_vu_comme_voulu": {
+      "theme": "conflits_limites"
+    },
+    "rel_violences_physiques_subies": {
+      "theme": "securite_relations"
+    },
+    "rel_violences_psychologiques_subies": {
+      "theme": "securite_relations"
+    },
+    "rel_controle_subi": {
+      "theme": "securite_relations"
+    },
+    "rel_violences_sexuelles_subies": {
+      "theme": "securite_relations"
+    },
+    "rel_harcele_par_un_partenaire": {
+      "theme": "securite_relations"
+    },
+    "rel_violences_exercees": {
+      "theme": "securite_relations"
+    },
+    "rel_controle_exerce": {
+      "theme": "securite_relations"
+    },
+    "soi_traitement_de_faveur": {
+      "theme": "conflits_limites"
+    },
+    "soi_insister_pour_obtenir": {
+      "theme": "conflits_limites"
+    },
+    "soi_vouloir_dominer": {
+      "theme": "conflits_limites"
+    },
+    "soi_utiliser_les_autres": {
+      "theme": "conflits_limites"
+    },
+    "soi_devaloriser_ceux_qui_decoivent": {
+      "theme": "conflits_limites"
+    },
+    "soi_eviter_taches_nouvelles": {
+      "theme": "travail_etudes_argent"
+    },
+    "soi_preoccupe_par_un_defaut": {
+      "theme": "apparence"
+    },
+    "soi_verifier_son_apparence": {
+      "theme": "apparence"
+    },
+    "soi_cacher_un_defaut": {
+      "theme": "apparence"
+    },
+    "soi_comparer_son_apparence": {
+      "theme": "apparence"
+    },
+    "soi_chercher_emploi_longtemps": {
+      "theme": "travail_etudes_argent"
+    },
+    "soi_emplois_qui_s_arretent": {
+      "theme": "travail_etudes_argent"
+    },
+    "soi_manquer_d_argent": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_mal_a_s_organiser": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_sensibilite_sensorielle": {
+      "theme": "mouvements_sens"
+    },
+    "sup_gestes_repetitifs_apaisants": {
+      "theme": "mouvements_sens"
+    },
+    "sup_lecture_laborieuse": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_ecriture_laborieuse": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_calcul_difficile": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_tics_moteurs": {
+      "theme": "mouvements_sens"
+    },
+    "sup_tics_vocaux": {
+      "theme": "mouvements_sens"
+    },
+    "sup_tics_depuis_la_jeunesse": {
+      "theme": "mouvements_sens"
+    },
+    "sup_envie_avant_tic": {
+      "theme": "mouvements_sens"
+    },
+    "sup_conviction_etre_vise": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_pensees_imposees": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_croyances_inhabituelles": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_paraitre_distant": {
+      "theme": "expression_emotions"
+    },
+    "sup_conviction_infidelite": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_conviction_corps_atteint": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_conviction_destin_exceptionnel": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_conviction_etre_aime_en_secret": {
+      "theme": "perceptions_convictions"
+    },
+    "sup_moins_besoin_de_sommeil": {
+      "theme": "sommeil"
+    },
+    "sup_defaut_physique_preoccupant": {
+      "theme": "apparence"
+    },
+    "sup_croire_qu_on_remarque_son_defaut": {
+      "theme": "apparence"
+    },
+    "sup_verifier_son_apparence": {
+      "theme": "apparence"
+    },
+    "sup_cacher_ou_corriger_un_defaut": {
+      "theme": "apparence"
+    },
+    "sup_eviter_a_cause_de_son_apparence": {
+      "theme": "apparence"
+    },
+    "sup_croire_qu_on_remarque_son_odeur": {
+      "theme": "apparence"
+    },
+    "sup_verifier_son_odeur": {
+      "theme": "apparence"
+    },
+    "sup_masquer_son_odeur": {
+      "theme": "apparence"
+    },
+    "sup_eviter_a_cause_de_son_odeur": {
+      "theme": "apparence"
+    },
+    "sup_accumuler_des_objets": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_temps_perdu": {
+      "theme": "memoire_detachement"
+    },
+    "sup_faits_racontes_oublies": {
+      "theme": "memoire_detachement"
+    },
+    "sup_se_retrouver_ailleurs": {
+      "theme": "memoire_detachement"
+    },
+    "sup_mal_a_limiter_jeux_video": {
+      "theme": "jeux_ecrans"
+    },
+    "sup_jeux_video_passent_avant": {
+      "theme": "jeux_ecrans"
+    },
+    "sup_envie_d_allumer_des_feux": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_fascination_pour_le_feu": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_tension_puis_soulagement_feu": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_envie_de_prendre_des_objets": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_tension_puis_soulagement_vol": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_objets_pris_inutiles": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_mal_a_tenir_ses_buts": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_conflits_a_repetition": {
+      "theme": "conflits_limites"
+    },
+    "sup_mentir_pour_obtenir": {
+      "theme": "conflits_limites"
+    },
+    "sup_mal_a_tenir_ses_engagements": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_risques_sans_penser_consequences": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_mal_a_attendre_une_recompense": {
+      "theme": "impulsions_gestes"
+    },
+    "sup_controler_ses_emotions_strictement": {
+      "theme": "expression_emotions"
+    },
+    "sup_planifier_plus_difficile_qu_avant": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_journees_gachees_par_les_nuits": {
+      "theme": "sante_sensations"
+    },
+    "sup_insatisfait_de_son_sommeil": {
+      "theme": "sommeil"
+    },
+    "sup_besoin_irresistible_de_dormir": {
+      "theme": "sommeil"
+    },
+    "sup_s_endormir_sans_le_vouloir": {
+      "theme": "sommeil"
+    },
+    "sup_paralysie_ou_images_au_bord_du_sommeil": {
+      "theme": "sommeil"
+    },
+    "sup_muscles_qui_lachent_emotion": {
+      "theme": "sommeil"
+    },
+    "sup_reveil_tres_difficile": {
+      "theme": "sommeil"
+    },
+    "sup_somnolence_journee": {
+      "theme": "sommeil"
+    },
+    "sup_dormir_moins_que_son_besoin": {
+      "theme": "sommeil"
+    },
+    "sup_rattraper_son_sommeil": {
+      "theme": "sommeil"
+    },
+    "se_retirer_des_autres": {
+      "theme": "liens_sociaux"
+    },
+    "se_sentir_seul": {
+      "theme": "liens_sociaux"
+    },
+    "anx_peur_malaise_sans_aide": {
+      "theme": "peurs_sante"
+    },
+    "anx_peur_maladie_grave": {
+      "theme": "peurs_sante"
+    },
+    "anx_recherches_sante": {
+      "theme": "peurs_sante"
+    },
+    "anx_reassurance_sante": {
+      "theme": "peurs_sante"
+    },
+    "anx_eviter_medecin": {
+      "theme": "peurs_sante"
+    },
+    "per_peu_d_interet_pour_les_liens": {
+      "theme": "liens_sociaux"
+    },
+    "per_remarques_sur_singularite": {
+      "theme": "liens_sociaux"
+    },
+    "rel_avis_qui_ne_compte_pas": {
+      "theme": "place_relations"
+    },
+    "rel_se_sentir_different": {
+      "theme": "liens_sociaux"
+    },
+    "rel_sans_place_dans_les_groupes": {
+      "theme": "liens_sociaux"
+    },
+    "rel_moins_de_contacts_que_souhaite": {
+      "theme": "liens_sociaux"
+    },
+    "soi_valeur_selon_reussite": {
+      "theme": "travail_etudes_argent"
+    },
+    "sup_conversation_difficile": {
+      "theme": "liens_sociaux"
+    },
+    "sup_regard_expressions_difficiles": {
+      "theme": "liens_sociaux"
+    },
+    "sup_surprendre_par_sa_facon_d_etre": {
+      "theme": "liens_sociaux"
+    },
+    "rel_se_sentir_peu_libre": {
+      "theme": "attachement_proximite"
+    },
+    "rel_peu_de_complicite": {
+      "theme": "attachement_proximite"
+    },
+    "rel_relations_peu_satisfaisantes": {
+      "theme": "attachement_proximite"
+    },
+    "sup_conso_cannabinoides_synthese": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_opioides": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_calmants": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_cocaine": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_stimulants": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_cathinones": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_hallucinogenes": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_produits_inhales": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_mdma": {
+      "theme": "produits_utilises"
+    },
+    "sup_conso_ketamine": {
+      "theme": "produits_utilises"
+    }
+  }
+}

@@ -43,6 +43,7 @@ export function reviewCorpus(data){
  for(const source of data?.sources||[])if(['profile','person','event','memory'].includes(source.type)&&typeof source.text==='string')parts.push(source.text);
  for(const turn of data?.conversation_since||[])if(typeof turn.vous==='string')parts.push(turn.vous);
  for(const note of data?.childhood_cartography?.person_notes||[])if(typeof note?.text==='string')parts.push(note.text);
+ for(const note of data?.symptom_map?.person_notes||[])if(typeof note?.text==='string')parts.push(note.text);
  for(const item of data?.people_observations||[])if(typeof item?.quote==='string')parts.push(item.quote);
  if(typeof data?.previous_feedback?.text==='string')parts.push(data.previous_feedback.text);
  return parts.join('\n\n');
@@ -59,7 +60,7 @@ export function reviewSafetySignal(data){
  for(const text of texts){const signal=riskSignal(text);if(signal?.signal==='violence')violence=true;else if(signal)self=true}
  if(data?.memory?.safety_seen)self=true;
  // Lot C: a « Mes symptômes » alert under 14 days (suicide, self-harm or violence) is a recent antecedent.
- for(const kind of data?.symptoms_safety?.kinds||[]){if(kind==='violences')violence=true;else self=true}
+ for(const kind of data?.map_safety?.kinds||[]){if(kind==='violences')violence=true;else self=true}
  const map=data?.childhood_cartography;if(map&&(map.suicide_recognized||(map.recognized||[]).some(x=>/suicid/i.test(String(x?.id||'')+' '+String(x?.label||'')))))self=true;
  return self?'self_harm':violence?'violence':null;
 }

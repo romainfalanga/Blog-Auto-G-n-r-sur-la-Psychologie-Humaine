@@ -1,0 +1,58 @@
+{
+  "exceptions": {
+    "icd_6b43": {
+      "expected_count": 2,
+      "reason": "La relecture indépendante distingue les deux dimensions essentielles, préoccupation liée au stresseur et difficulté d'adaptation. Une rumination générique ne démontre pas le lien au stresseur et reste associée, sans inventer de troisième critère.",
+      "source": "oms_cddr",
+      "pages": "352"
+    },
+    "sym_6d50": {
+      "expected_count": 2,
+      "reason": "Feindre ou provoquer des symptômes avec tromperie sont essentiels. Chercher des soins seul ne démontre pas une tromperie et reste non spécifique ; aucun troisième critère inventé.",
+      "source": "oms_cddr",
+      "pages": "593–594"
+    },
+    "dep_generale": {
+      "expected_count": 14,
+      "reason": "Les variantes de signes explicitement décrites par la source gardent leur poids ; le plafond éditorial ne doit pas abaisser leur niveau. Le classement compte les familles et non le nombre de liens.",
+      "source": "oms_cddr",
+      "pages": "212–213"
+    },
+    "icd_6a72": {
+      "expected_count": 13,
+      "reason": "Les variantes de signes explicitement décrites par la source gardent leur poids ; le plafond éditorial ne doit pas abaisser leur niveau. Le classement compte les familles et non le nombre de liens.",
+      "source": "oms_cddr",
+      "pages": "255"
+    },
+    "icd_6b41": {
+      "expected_count": 17,
+      "reason": "Les variantes de signes explicitement décrites par la source gardent leur poids ; le plafond éditorial ne doit pas abaisser leur niveau. Le classement compte les familles et non le nombre de liens.",
+      "source": "oms_cddr",
+      "pages": "344–345"
+    },
+    "ten_douleurs_persistantes": {
+      "expected_count": 2,
+      "reason": "La chronicité se définit par une douleur persistante ou récurrente. Plusieurs sites ne sont pas une caractéristique essentielle ; aucun troisième critère artificiel.",
+      "source": "treede2019_douleur",
+      "pages": "19–27, définition dans le résumé"
+    },
+    "ten_tabagisme_persistant": {
+      "expected_count": 2,
+      "reason": "Le tabagisme quotidien persistant est défini par la consommation quotidienne répétée dans le temps, et non par une tentative d’arrêt échouée. Aucun troisième critère artificiel.",
+      "source": "taha2014_tabac",
+      "pages": "définitions et mesures"
+    },
+    "ten_qualite_relationnelle": {
+      "expected_count": 2,
+      "reason": "La satisfaction et les conflits sont documentés. Le manque de liberté n’est pas une dimension mesurée dans cette source. Aucun troisième critère artificiel.",
+      "source": "labella2018_relations",
+      "pages": "définitions et mesures"
+    },
+    "ten_risques_sexuels": {
+      "expected_count": 2,
+      "reason": "Rapports non protégés et partenaires multiples sont documentés. Bach 2018 ne documente pas le rapport sexuel sous substances comme critère autonome de ce sujet. Aucun troisième critère artificiel.",
+      "source": "arriola2005",
+      "pages": "définitions et mesures"
+    }
+  }
+}

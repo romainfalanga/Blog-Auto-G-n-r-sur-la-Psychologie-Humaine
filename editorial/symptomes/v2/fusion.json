@@ -1,0 +1,244 @@
+{
+  "merge": [
+    {
+      "keep": "rel_relations_intenses_changeantes",
+      "drop": [
+        "anx_relations_intenses_breves"
+      ],
+      "why": "Même manifestation observable : Vivre des relations très intenses et changeantes. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "cmp_mentir_pour_obtenir",
+      "drop": [
+        "sup_mentir_pour_obtenir"
+      ],
+      "why": "Même manifestation observable : Mentir ou tromper pour obtenir quelque chose. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "hum_moins_besoin_de_dormir",
+      "drop": [
+        "sup_moins_besoin_de_sommeil"
+      ],
+      "why": "Même manifestation observable : Avoir beaucoup moins besoin de dormir. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_perceptions_inhabituelles",
+      "drop": [
+        "sup_perceptions_etranges"
+      ],
+      "why": "Même manifestation observable : Avoir des impressions sensorielles étranges. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_conviction_mission",
+      "drop": [
+        "sup_conviction_destin_exceptionnel"
+      ],
+      "why": "Même manifestation observable : Être certain d'avoir une mission ou des pouvoirs à part. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_conviction_jalousie",
+      "drop": [
+        "sup_conviction_infidelite"
+      ],
+      "why": "Même manifestation observable : Être certain que son partenaire est infidèle sans preuve. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "rel_mal_a_comprendre_l_autre",
+      "drop": [
+        "sup_mal_a_comprendre_le_point_de_vue"
+      ],
+      "why": "Même manifestation observable : Avoir du mal à comprendre le point de vue des autres. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "rel_coupable_de_penser_a_soi",
+      "drop": [
+        "soi_coupable_de_penser_a_soi"
+      ],
+      "why": "Même manifestation observable : Se sentir égoïste dès qu'on pense à soi. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "rel_responsable_du_bien_etre_des_autres",
+      "drop": [
+        "soi_responsable_du_bien_etre_des_autres"
+      ],
+      "why": "Même manifestation observable : Se sentir responsable du bien-être des autres. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "soi_preoccupe_par_un_defaut",
+      "drop": [
+        "sup_defaut_physique_preoccupant"
+      ],
+      "why": "Même manifestation observable : Être préoccupé par un défaut physique. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "soi_verifier_son_apparence",
+      "drop": [
+        "sup_verifier_son_apparence"
+      ],
+      "why": "Même manifestation observable : Vérifier souvent son apparence. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "soi_croire_que_les_autres_remarquent",
+      "drop": [
+        "sup_croire_qu_on_remarque_son_defaut"
+      ],
+      "why": "Même manifestation observable : Penser que les autres remarquent son défaut. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "soi_eviter_d_etre_vu",
+      "drop": [
+        "sup_eviter_a_cause_de_son_apparence"
+      ],
+      "why": "Même manifestation observable : Éviter d'être vu à cause de son apparence. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "cmp_besoin_de_plus",
+      "drop": [
+        "sup_besoin_doses_plus_fortes"
+      ],
+      "why": "Même manifestation observable : Avoir besoin de plus pour le même effet. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "cmp_manque_a_l_arret",
+      "drop": [
+        "sup_mal_a_l_arret_du_produit"
+      ],
+      "why": "Même manifestation observable : Être mal quand on arrête ou réduit. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "cmp_continuer_malgre_les_degats",
+      "drop": [
+        "sup_continuer_malgre_problemes"
+      ],
+      "why": "Même manifestation observable : Continuer malgré les problèmes causés. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "cmp_ejaculation_plus_tot",
+      "drop": [
+        "sup_ejaculation_tres_rapide"
+      ],
+      "why": "Même manifestation observable : Éjaculer plus tôt qu'on ne le souhaite. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "cmp_sommeil_gene_la_journee",
+      "drop": [
+        "sup_journees_gachees_par_les_nuits"
+      ],
+      "why": "Même manifestation observable : Être gêné dans la journée par ses nuits. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "soi_utiliser_les_autres",
+      "drop": [
+        "cmp_se_servir_des_autres"
+      ],
+      "why": "Même manifestation observable : Se servir des autres pour arriver à ses fins. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "emo_emotions_penibles_frequentes",
+      "drop": [
+        "sup_emotions_penibles_frequentes"
+      ],
+      "why": "Même manifestation observable : Ressentir souvent des émotions pénibles. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "hum_parler_sans_arret",
+      "drop": [
+        "sup_parler_beaucoup_plus"
+      ],
+      "why": "Même manifestation observable : Parler beaucoup plus que d'habitude. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "hum_idees_qui_s_enchainent",
+      "drop": [
+        "sup_pensees_qui_s_emballent"
+      ],
+      "why": "Même manifestation observable : Avoir des idées qui s'enchaînent très vite. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "hum_energie_debordante",
+      "drop": [
+        "sup_energie_debordante"
+      ],
+      "why": "Même manifestation observable : Avoir une période d'énergie débordante. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "hum_risques_en_periode_haute",
+      "drop": [
+        "sup_risques_pendant_periodes_d_elan"
+      ],
+      "why": "Même manifestation observable : Prendre des risques inhabituels en période d'euphorie. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_actes_oublies",
+      "drop": [
+        "sup_faits_racontes_oublies"
+      ],
+      "why": "Même manifestation observable : Apprendre qu'on a fait des choses dont on ne se souvient pas. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_fugue",
+      "drop": [
+        "sup_se_retrouver_ailleurs"
+      ],
+      "why": "Même manifestation observable : Se retrouver loin sans savoir comment on y est arrivé. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_conviction_etre_aime",
+      "drop": [
+        "sup_conviction_etre_aime_en_secret"
+      ],
+      "why": "Même manifestation observable : Être certain qu'une personne vous aime en secret. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_pensees_influencees",
+      "drop": [
+        "sup_pensees_imposees"
+      ],
+      "why": "Même manifestation observable : Sentir ses pensées ou ses gestes contrôlés de l'extérieur. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_pensee_desorganisee",
+      "drop": [
+        "sup_pensee_embrouillee"
+      ],
+      "why": "Même manifestation observable : Avoir des pensées qui s'embrouillent en parlant. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "rel_liens_proches_difficiles_a_garder",
+      "drop": [
+        "sup_liens_proches_qui_se_defont"
+      ],
+      "why": "Même manifestation observable : Avoir du mal à garder des liens proches. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "rel_besoins_des_autres_d_abord",
+      "drop": [
+        "soi_besoins_des_autres_d_abord"
+      ],
+      "why": "Même manifestation observable : Faire passer les autres avant soi. Les variantes de contexte, durée ou modalité distinctes ne sont pas fusionnées."
+    },
+    {
+      "keep": "per_emotions_peu_exprimees",
+      "drop": [
+        "sup_paraitre_distant"
+      ],
+      "why": "Descriptions concordantes : même manifestation, sans différence clinique de contexte ni de durée."
+    },
+    {
+      "keep": "per_remarques_sur_singularite",
+      "drop": [
+        "sup_surprendre_par_sa_facon_d_etre"
+      ],
+      "why": "Descriptions concordantes : même manifestation, sans différence clinique de contexte ni de durée."
+    },
+    {
+      "keep": "per_pensee_magique",
+      "drop": [
+        "sup_croyances_inhabituelles"
+      ],
+      "why": "Descriptions concordantes : même manifestation, sans différence clinique de contexte ni de durée."
+    }
+  ],
+  "link_conflict_policy": "strongest_with_all_sources",
+  "note": "Une famille overlap_group ne constitue pas à elle seule un doublon. Les signes distincts restent séparés."
+}

@@ -9,7 +9,7 @@ const {pathToFileURL}=require('node:url');
 const root=path.resolve(__dirname,'..');
 const data=JSON.parse(fs.readFileSync(path.join(root,'data/cartographie.json'),'utf8'));
 const template=fs.readFileSync(path.join(root,'layouts/_default/cartographie.html'),'utf8');
-const renderTemplate=input=>input.replace(/{{[^}]*}}/g,match=>match.includes('jsonify')?JSON.stringify(data):match.includes('safeJS')&&match.includes('readFile')?fs.readFileSync(path.join(root,match.match(/readFile "([^"]+)"/)[1]),'utf8'):match.includes('readFile')?'test':'');
+const renderTemplate=input=>input.replace(/{{ if \$symptoms }}[\s\S]*?{{ else }}([\s\S]*?){{ end }}/g,'$1').replace(/{{ if \$symptoms }}[\s\S]*?{{ end }}/g,'').replace(/{{ \$title }}/g,'Mon enfance').replace(/{{[^}]*}}/g,match=>match.includes('jsonify')?JSON.stringify(data):match.includes('safeJS')&&match.includes('readFile')?fs.readFileSync(path.join(root,match.match(/readFile "([^"]+)"/)[1]),'utf8'):match.includes('readFile')?'test':'');
 // Match the real page: data and both inline scripts execute in the head, before the app exists.
 const head=renderTemplate(template.slice(0,template.indexOf('{{ define "main" }}')));
 const markup=renderTemplate(template.slice(template.indexOf('<div class="container-wide carto" data-cartographie-app'),template.lastIndexOf('{{ end }}')));

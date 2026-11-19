@@ -11,7 +11,7 @@ test('edge routes only exact Mon enfance GETs and does not opt into caching',asy
   const {default:handler}=await import('../netlify/edge-functions/personal-page-data.js');
   const config=readFileSync(join(__dirname,'../netlify.toml'),'utf8');
   const blocks=config.split('[[edge_functions]]').slice(1).map(s=>s.split('\n[[')[0]).filter(s=>s.includes('function = "personal-page-data"'));
-  assert.equal(blocks.length,2);assert.deepEqual(blocks.map(s=>s.match(/path = "([^"]+)"/)[1]),['/cartographie','/cartographie/']);assert.ok(blocks.every(s=>!s.includes('cache =')));
+  assert.equal(blocks.length,4);assert.deepEqual(blocks.map(s=>s.match(/path = "([^"]+)"/)[1]),['/cartographie','/cartographie/','/mes-symptomes','/mes-symptomes/']);assert.ok(blocks.every(s=>!s.includes('cache =')));
   t.mock.method(globalThis,'fetch',()=>assert.fail('No network outside the exact route'));
   const context={next(){assert.fail('No transform outside the exact route')}};
   for(const path of ['/','/cartographie/other','/css/cartographie.css'])assert.equal(await handler(new Request(base+path),context),undefined);
@@ -35,4 +35,12 @@ test('edge failures and non-HTML responses preserve the ordinary response withou
   }
   t.mock.method(globalThis,'fetch',async()=>Response.json(makeData('a')));
   const response=await handler(new Request(base+'/cartographie/'),{next:async()=>new Response('plain',{headers:{'Content-Type':'text/plain'}})});assert.equal(await response.text(),'plain');privateHeaders(response);
+});
+
+test('symptoms bootstrap uses its own endpoint and falls back within a bounded wait',async t=>{
+ const {default:handler}=await import('../netlify/edge-functions/personal-page-data.js');
+ t.mock.method(globalThis,'fetch',async(url)=>{assert.match(url,/page=symptomes$/);return Response.json({page:'/mes-symptomes/',responses:{'/api/me':{status:200,body:{user:null}},'/api/symptomes':{status:200,body:{cartographie:null}}}})});
+ let response=await handler(new Request(base+'/mes-symptomes/'),{next:async()=>html()});privateHeaders(response);assert.match(await response.text(),/cartographie-initial/);
+ t.mock.method(globalThis,'fetch',()=>new Promise(()=>{}));const start=Date.now();
+ response=await handler(new Request(base+'/mes-symptomes'),{next:async()=>html()});assert.ok(Date.now()-start<1500);privateHeaders(response);assert.doesNotMatch(await response.text(),/cartographie-initial/);
 });

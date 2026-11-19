@@ -173,3 +173,7 @@
   .carto-note-dialog { top: auto; bottom: max(0px, calc(100dvh - var(--note-viewport-top, 0px) - var(--note-viewport-height, 100dvh))); }
 }
 
+
+/* The symptoms dataset exposes progress; the childhood counter stays unchanged. */
+.carto .carto-count-visible{position:static;width:auto;height:auto;clip:auto;clip-path:none;overflow:visible;white-space:normal;margin:1rem 0;color:var(--muted,#64748b)}
+.carto-safety{font-size:.9rem;margin:.75rem 0}.carto-safety[hidden]{display:none}.carto-period{margin:.5rem 0 1rem}

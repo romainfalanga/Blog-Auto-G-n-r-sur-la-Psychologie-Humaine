@@ -1,0 +1,72 @@
+{
+  "domain": "usage",
+  "symptoms": [
+    {
+      "id": "usage_alcool",
+      "canonical": false,
+      "theme": "produits_utilises",
+      "label": "Avoir bu de l’alcool",
+      "description": "Au moins une fois au cours de ces 12 derniers mois. Cet usage seul ne signifie pas une difficulté.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "usage_alcool",
+      "links": []
+    },
+    {
+      "id": "usage_cannabis",
+      "canonical": false,
+      "theme": "produits_utilises",
+      "label": "Avoir consommé du cannabis",
+      "description": "Au moins une fois au cours de ces 12 derniers mois. Cet usage seul ne signifie pas une difficulté.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "usage_cannabis",
+      "links": []
+    },
+    {
+      "id": "usage_tabac",
+      "canonical": false,
+      "theme": "produits_utilises",
+      "label": "Avoir consommé du tabac ou de la nicotine",
+      "description": "Au moins une fois au cours de ces 12 derniers mois. Cet usage seul ne signifie pas une difficulté.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "usage_tabac",
+      "links": []
+    },
+    {
+      "id": "contexte_perinatal",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir vécu une grossesse ou un accouchement",
+      "description": "Ce contexte concerne votre propre grossesse ou accouchement au cours de ces 12 derniers mois.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_perinatal",
+      "links": []
+    },
+    {
+      "id": "contexte_relation_adolescence",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir vécu une relation amoureuse à l’adolescence",
+      "description": "Au cours de ces 12 derniers mois. Ce contexte ne signifie pas qu’il y a eu des violences.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_relation_adolescence",
+      "links": []
+    },
+    {
+      "id": "contexte_relation_adulte",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir vécu une relation amoureuse à l’âge adulte",
+      "description": "Au cours de ces 12 derniers mois. Ce contexte ne signifie pas qu’il y a eu des violences.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_relation_adulte",
+      "links": []
+    }
+  ],
+  "sources": []
+}

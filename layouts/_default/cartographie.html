@@ -1,30 +1,43 @@
 {{ define "head-end" }}
+{{ $symptoms := eq .Params.dataset "symptomes" }}
 <link rel="stylesheet" href="/css/cartographie.css?v={{ readFile "static/css/cartographie.css" | md5 }}">
+{{ if $symptoms }}
+{{ $detailJSON := resources.FromString "data/symptomes-details.json" (.Site.Data.symptomes_details | jsonify) | fingerprint "sha256" }}
+{{ $bank := merge .Site.Data.symptomes_interface (dict "details_url" $detailJSON.RelPermalink) }}
+{{ $json := resources.FromString "data/symptomes-carte.json" ($bank | jsonify) | fingerprint "sha256" }}
+<link rel="preload" href="{{ $json.RelPermalink }}" as="fetch" crossorigin="anonymous">
+<script id="cartographie-data" type="application/json" data-src="{{ $json.RelPermalink }}">{}</script>
+{{ else }}
 <script id="cartographie-data" type="application/json">{{ .Site.Data.cartographie | jsonify | safeJS }}</script>
+{{ end }}
 <script>{{ readFile "static/js/cartographie.js" | safeJS }}</script>
 <script>{{ readFile "static/js/cartographie-ui.js" | safeJS }}</script>
 {{ end }}
 {{ define "main" }}
+{{ $symptoms := eq .Params.dataset "symptomes" }}
+{{ $title := cond $symptoms "Mes symptômes" "Mon enfance" }}
 {{ $data := .Site.Data.cartographie }}
-{{ if not $data }}<div class="container-wide carto"><h1>Mon enfance</h1><p>Cette page est en cours de préparation.</p></div>{{ else }}
-<div class="container-wide carto" data-cartographie-app data-view="form" data-loading="true" aria-busy="true">
+{{ if $symptoms }}{{ $data = .Site.Data.symptomes_carte }}{{ end }}
+{{ if not $data }}<div class="container-wide carto"><h1>{{ $title }}</h1><p>Cette page est en cours de préparation.</p></div>{{ else }}
+<div class="container-wide carto" data-cartographie-app data-dataset="{{ if $symptoms }}symptomes{{ else }}enfance{{ end }}" data-view="form" data-loading="true" aria-busy="true">
   <header class="carto-intro">
-    <h1>Mon enfance</h1>
+    <h1>{{ $title }}</h1>
+    {{ if $symptoms }}<p class="carto-period">Pour ces 12 derniers mois.</p>{{ end }}
   </header>
 
-  <div class="carto-tabs" role="tablist" aria-label="Sections de Mon enfance">
-    <button type="button" role="tab" data-tab="form" aria-selected="true" disabled>Mon enfance</button>
+  <div class="carto-tabs" role="tablist" aria-label="Sections de {{ $title }}">
+    <button type="button" role="tab" data-tab="form" aria-selected="true" disabled>{{ $title }}</button>
     <button type="button" role="tab" data-tab="results" aria-selected="false" disabled>Ce qui en ressort</button>
   </div>
 
-  <p class="carto-loading" data-loading-status role="status" hidden>Chargement de Mon enfance…</p>
+  <p class="carto-loading" data-loading-status role="status" hidden>Chargement de {{ $title }}…</p>
 
   <div class="carto-save" data-save></div>
 
   <p class="carto-live" data-count role="status" aria-live="polite" aria-atomic="true"></p>
 
   <div class="carto-layout">
-    <section class="carto-pane carto-pane-form" data-pane-form aria-label="Mon enfance">
+    <section class="carto-pane carto-pane-form" data-pane-form aria-label="{{ $title }}">
       <div class="carto-form-body" data-form-body></div>
     </section>
     <section class="carto-pane carto-pane-results" data-pane-results aria-label="Ce qui en ressort">

@@ -107,7 +107,7 @@ test('the journey (legacy generate() path, inactive in production): prerequisite
  assert.ok(JSON.stringify(initialContext).length<=34000);
  let row=review(s,initialId);
  assert.equal(row.status,'ready');assert.equal(row.kind,'initial');assert.equal(row.attempts,1);assert.equal(row.lease_token,null);assert.equal(row.completed_at,s.now());
- assert.deepEqual(JSON.parse(row.sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:0,previous_review_id:null,check:{passed:true,rewritten:false,failed:[]}});
+ assert.deepEqual(JSON.parse(row.sources),{symptom_map_revision:null,cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:0,previous_review_id:null,check:{passed:true,rewritten:false,failed:[]}});
  const budget=s.raw.prepare("SELECT * FROM provider_budgets WHERE user_id='a'").get();
  assert.equal(budget.provider_calls,2,'the review and its separate check');assert.equal(budget.input_tokens,900);assert.equal(budget.output_tokens,1100);assert.ok(budget.reserved_tokens>3500);
 
@@ -143,7 +143,7 @@ test('the journey (legacy generate() path, inactive in production): prerequisite
  assert.equal(pointContext.previous_review.kind,'initial');assert.ok(pointContext.previous_review.text.startsWith('Ce qui semble ressortir.'));
  assert.deepEqual(pointContext.conversation_since,[{vous:'J’aimerais comprendre pourquoi je me tais en réunion.',ambre:'Je vous écoute.'}]);
  assert.deepEqual(pointContext.conversation_coverage,{included_turns:1,total_turns:1,truncated:false});
- assert.deepEqual(JSON.parse(review(s,pointId).sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:1,previous_review_id:initialId,thread_reviews:1,check:{passed:true,rewritten:false,failed:[]}});
+ assert.deepEqual(JSON.parse(review(s,pointId).sources),{symptom_map_revision:null,cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:1,previous_review_id:initialId,thread_reviews:1,check:{passed:true,rewritten:false,failed:[]}});
  assert.equal((await s.call('/api/chat/review','POST',{idempotency_key:'point_key_002'})).code,'review_quota_exhausted');
  const beforeReplay=requests.length;const replay=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_001'});assert.equal(replay.status,200);assert.equal(replay.review_id,pointId);assert.equal(requests.length,beforeReplay,'replaying the point reuses the consumed monthly credit');
 
