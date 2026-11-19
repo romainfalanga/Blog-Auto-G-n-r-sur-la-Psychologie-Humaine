@@ -99,91 +99,91 @@
     {
       "id": "sommeil",
       "label": "Sommeil et réveil",
-      "description": "Sommeil et réveil au cours de ces 12 derniers mois.",
+      "description": "Sommeil et réveil.",
       "order": 15
     },
     {
       "id": "sante_sensations",
       "label": "Santé, douleurs et sensations",
-      "description": "Santé, douleurs et sensations au cours de ces 12 derniers mois.",
+      "description": "Santé, douleurs et sensations.",
       "order": 16
     },
     {
       "id": "memoire_detachement",
       "label": "Mémoire et détachement",
-      "description": "Mémoire et détachement au cours de ces 12 derniers mois.",
+      "description": "Mémoire et détachement.",
       "order": 17
     },
     {
       "id": "travail_etudes_argent",
       "label": "Travail, études et argent",
-      "description": "Travail, études et argent au cours de ces 12 derniers mois.",
+      "description": "Travail, études et argent.",
       "order": 18
     },
     {
       "id": "conflits_limites",
       "label": "Conflits et limites dans les relations",
-      "description": "Conflits et limites dans les relations au cours de ces 12 derniers mois.",
+      "description": "Conflits et limites dans les relations.",
       "order": 19
     },
     {
       "id": "jeux_ecrans",
       "label": "Jeux et écrans",
-      "description": "Jeux et écrans au cours de ces 12 derniers mois.",
+      "description": "Jeux et écrans.",
       "order": 20
     },
     {
       "id": "apparence",
       "label": "Apparence et regard sur le corps",
-      "description": "Apparence et regard sur le corps au cours de ces 12 derniers mois.",
+      "description": "Apparence et regard sur le corps.",
       "order": 21
     },
     {
       "id": "securite_relations",
       "label": "Sécurité dans les relations",
-      "description": "Sécurité dans les relations au cours de ces 12 derniers mois.",
+      "description": "Sécurité dans les relations.",
       "order": 22
     },
     {
       "id": "impulsions_gestes",
       "label": "Impulsions et gestes difficiles à retenir",
-      "description": "Impulsions et gestes difficiles à retenir au cours de ces 12 derniers mois.",
+      "description": "Impulsions et gestes difficiles à retenir.",
       "order": 23
     },
     {
       "id": "expression_emotions",
       "label": "Expression des émotions",
-      "description": "Expression des émotions au cours de ces 12 derniers mois.",
+      "description": "Expression des émotions.",
       "order": 24
     },
     {
       "id": "perceptions_convictions",
       "label": "Perceptions et convictions inhabituelles",
-      "description": "Perceptions et convictions inhabituelles au cours de ces 12 derniers mois.",
+      "description": "Perceptions et convictions inhabituelles.",
       "order": 25
     },
     {
       "id": "liens_sociaux",
       "label": "Liens sociaux et appartenance",
-      "description": "Liens sociaux et appartenance ces 12 derniers mois.",
+      "description": "Liens sociaux et appartenance.",
       "order": 26
     },
     {
       "id": "peurs_sante",
       "label": "Peurs autour de la santé",
-      "description": "Peurs autour de la santé ces 12 derniers mois.",
+      "description": "Peurs autour de la santé.",
       "order": 27
     },
     {
       "id": "mouvements_sens",
       "label": "Mouvements, sens et sensations inhabituelles",
-      "description": "Mouvements, sens et sensations inhabituelles ces 12 derniers mois.",
+      "description": "Mouvements, sens et sensations inhabituelles.",
       "order": 28
     },
     {
       "id": "produits_utilises",
       "label": "Produits utilisés",
-      "description": "Usages au cours de ces 12 derniers mois, sans jugement sur leur fréquence.",
+      "description": "Usages, sans jugement sur leur fréquence.",
       "order": 99
     }
   ]

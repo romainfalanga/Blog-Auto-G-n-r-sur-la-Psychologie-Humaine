@@ -22,7 +22,6 @@
 <div class="container-wide carto" data-cartographie-app data-dataset="{{ if $symptoms }}symptomes{{ else }}enfance{{ end }}" data-view="form" data-loading="true" aria-busy="true">
   <header class="carto-intro">
     <h1>{{ $title }}</h1>
-    {{ if $symptoms }}<p class="carto-period">Pour ces 12 derniers mois.</p>{{ end }}
   </header>
 
   <div class="carto-tabs" role="tablist" aria-label="Sections de {{ $title }}">

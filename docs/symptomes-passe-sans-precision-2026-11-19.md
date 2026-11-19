@@ -17,3 +17,8 @@ Demande de Romain : dans Mes symptômes, « Dans le passé » s'enregistre comme
 
 ## Toujours ouverts (non traités ici)
 `context_changed` quand l'analyse du portrait se termine pendant la préparation d'un bilan ; `review_not_approved` sur un profil stabilisé ; aucun bilan réel complet validé (voir `docs/recette-openrouter-recharge-2026-11-19.md`).
+
+## Retrait de la mention « ces 12 derniers mois » (19/11, soir)
+Demande de Romain : ne plus afficher la période. « Oui » = la personne l'a ; « Dans le passé » = plus maintenant.
+- Retirés : la ligne « Pour ces 12 derniers mois. » sous le titre (`layouts/_default/cartographie.html`) et le suffixe « — Ces 12 derniers mois. » des thèmes (`static/js/cartographie-ui.js`) ; descriptions des 15 thèmes concernés reformulées sans la période (`editorial/symptomes/v2/themes.json`, données régénérées).
+- Inchangés : le sens interne de `"past"` (avant les 12 derniers mois) et ce qu'Ambre en reçoit ; libellés de questions ; empreinte du jeu de données mise à jour dans `clinical-assessment.mjs`.

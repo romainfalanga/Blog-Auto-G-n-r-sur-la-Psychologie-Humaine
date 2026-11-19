@@ -420,7 +420,7 @@
       themes.forEach(function (theme) {
         var details = el('details', { className: 'carto-theme-panel', 'data-theme': theme.id, open: Boolean(state.themesOpen[theme.id]) });
         details.appendChild(el('summary', { className: 'carto-theme', 'data-focus': 'theme:' + theme.id }, [
-          el('span', { className: 'carto-theme-text' }, [el('strong', { text: theme.label }), el('span', { className: 'carto-theme-desc', text: theme.description + (symptoms ? ' — Ces 12 derniers mois.' : '') })]),
+          el('span', { className: 'carto-theme-text' }, [el('strong', { text: theme.label }), el('span', { className: 'carto-theme-desc', text: theme.description })]),
           el('span', { className: 'carto-theme-progress', 'data-theme-count': theme.id, text: answered(theme) + ' / ' + themeItems(theme).length + ' renseignés' }),
           el('span', { className: 'carto-theme-arrow', 'aria-hidden': 'true', text: '›' })
         ]));
