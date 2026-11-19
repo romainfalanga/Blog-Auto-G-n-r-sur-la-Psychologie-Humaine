@@ -107,7 +107,7 @@ test('the journey (legacy generate() path, inactive in production): prerequisite
  assert.ok(JSON.stringify(initialContext).length<=34000);
  let row=review(s,initialId);
  assert.equal(row.status,'ready');assert.equal(row.kind,'initial');assert.equal(row.attempts,1);assert.equal(row.lease_token,null);assert.equal(row.completed_at,s.now());
- assert.deepEqual(JSON.parse(row.sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:0,previous_review_id:null,check:{passed:true,rewritten:false,failed:[]}});
+ assert.deepEqual(JSON.parse(row.sources),{symptom_map_revision:null,cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:0,previous_review_id:null,check:{passed:true,rewritten:false,failed:[]}});
  const budget=s.raw.prepare("SELECT * FROM provider_budgets WHERE user_id='a'").get();
  assert.equal(budget.provider_calls,2,'the review and its separate check');assert.equal(budget.input_tokens,900);assert.equal(budget.output_tokens,1100);assert.ok(budget.reserved_tokens>3500);
 

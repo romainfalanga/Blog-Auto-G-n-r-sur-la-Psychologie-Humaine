@@ -9,8 +9,7 @@ import { readMonthlyQuotas } from './monthly-quotas.mjs';
 import { createRecommender } from './recommendations.mjs';
 import { createPersonalBackend, hasPersonalizationSources } from './personal-backend.mjs';
 import { createCartographyBackend } from './cartographie.mjs';
-import { createSymptomsBackend } from './symptomes-backend.mjs';
-import { symptomsClientScript, SYMPTOMES_ENGINE_PATH } from './symptomes-interface.mjs';
+import { SYMPTOMES_CARTE } from './symptomes-carte.generated.mjs';
 
 const encoder = new TextEncoder();
 const COOKIE = '__Host-dte_session';
@@ -186,7 +185,7 @@ const care=createCareBackend({error,json,body,now,random,limit,chat});
 const change=createChangeBackend({error,json,body,now,random,limit});
 // The childhood map is not a portrait source: saving it does not bump profiles.version.
 const cartography=createCartographyBackend({error,json,body,now});
-const symptoms=createSymptomsBackend({error,json,body,now,random,limit});
+const symptoms=createCartographyBackend({error,json,body,now,table:'symptom_maps',data:SYMPTOMES_CARTE,route:'/api/symptomes',body_limit:120000});
 const readingContext=(env,userId)=>personal.context(env,userId);
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
 function withoutPsychologyMap(value){
@@ -267,9 +266,8 @@ async function routes(request,env,ctx) {
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-compte/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-symptomes':'Mes symptômes','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   // « Mes symptômes »: the shared engine and the published questionnaires, no personal data.
-  if(['GET','HEAD'].includes(method)&&path===SYMPTOMES_ENGINE_PATH) return new Response(method==='HEAD'?null:symptomsClientScript(),{headers:{'Content-Type':'application/javascript; charset=utf-8'}});
   const pagePath=path.replace(/\/$/,'');
   // One close person has a page of their own. Its first render is prepared here; the two
   // reads are the ordinary authenticated routes, so another account's identifier is a 404.
@@ -512,7 +510,7 @@ async function routes(request,env,ctx) {
       if(!customer.deleted) await stripe(env,'customers/'+encodeURIComponent(sub.customer_id),'DELETE');
     } else if(sub?.subscription_id&&!['canceled','incomplete_expired'].includes(sub.status)) await stripe(env,'subscriptions/'+encodeURIComponent(sub.subscription_id),'DELETE');
     // ON DELETE CASCADE also removes the saved childhood map (cartographies) and every « Mes symptômes »
-    // row (symptom_consents, symptom_checks, symptom_drafts, symptom_safety_alerts, migration 0028).
+    // v2 row (symptom_maps, migration 0029).
     await run(env,'DELETE FROM users WHERE id=?',user.id);
     return json({ok:true},200,{'Set-Cookie':`${COOKIE}=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0`});
   }

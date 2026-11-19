@@ -7,8 +7,7 @@ import {REVIEW_OUTPUT_SCHEMA,REVIEW_CHECK_SCHEMA,REVIEW_CHECK_CRITERIA,FEEDBACK_
 import {CHANGE_DRAFT_FIELDS,changePublication} from './change-engine.mjs';
 import {limitQuestions,responseSentences} from './chat-text.mjs';
 import {crisisSignal,riskSignal,safetyReply,ensureSafetyResources} from './chat-safety.mjs';
-import {symptomsForAmbre} from './symptomes-backend.mjs';
-import {SYMPTOMS_RULES} from './symptomes-ambre.mjs';
+import {readSymptomContext,symptomReviewBlock,symptomMapStorageAvailable,MAP_HYPOTHESIS_RULES} from './symptom-map-context.mjs';
 import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
 import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily,dailyCapReached,countMetric} from './provider-access.mjs';
@@ -643,7 +642,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  // ---- Journey and written reviews -------------------------------------------------
  // A review is generated asynchronously under a lease. The request makes one bounded
  // attempt; the minute cron resumes expired leases in small batches, up to a cap.
- const REVIEW_ATTEMPTS=3,REVIEW_CONTEXT_LIMIT=34000;
+ const REVIEW_ATTEMPTS=3,REVIEW_CONTEXT_LIMIT=40000;
  // E (audit v5): the map's share of a review and the share reserved to the accounts of people and moments.
  const REVIEW_CARTOGRAPHY_CHARS=9000,REVIEW_CARTOGRAPHY_MIN=4500,REVIEW_STORY_SHARE=0.3;
  const generationPaused=env=>['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase());
@@ -749,12 +748,12 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   // E (audit v5): the map arrives already bounded (cartographie.mjs keeps recognized, top and frequent subjects).
   // Lot C « Mes symptômes »: the bounded summary (≤ 1 200 characters) and its rules are taken from the
   // share of the childhood map; a blocking alert under 14 days is a recent safety antecedent.
-  const symptoms=await symptomsForAmbre(env,userId,now()),symptomsShare=symptoms?.block?symptoms.block.length+SYMPTOMS_RULES.length+80:0;
-  const base=promptContext(context,'',{review:true}),map=cartographyPromptBlock(context.cartography,REVIEW_CARTOGRAPHY_CHARS-symptomsShare),available=journeySources(await capabilities(env,userId),null);
+  const symptoms=await readSymptomContext(env,userId,now());
+  const base=promptContext(context,'',{review:true}),map=cartographyPromptBlock(context.cartography,REVIEW_CARTOGRAPHY_CHARS),available=journeySources(await capabilities(env,userId),null);
   available.cartography={done:Boolean(map),count:map?map.cause_count:0};
   const observations=await peopleObservationReady(env)?await all(env,"SELECT person_id,axis,quote FROM people_observations WHERE user_id=? AND origin='accepted' ORDER BY created_at DESC,id DESC LIMIT 24",userId):[];
-  const data={kind:review.kind,available,current_identity:base.current_identity,sources:base.sources,portrait:base.portrait,psychological_hypotheses:base.psychological_hypotheses,people:base.people,events:base.events,...(map?{childhood_cartography:map}:{}),...(symptoms?.block?{symptoms:symptoms.block}:{}),...(symptoms?.safety?{symptoms_safety:{kinds:symptoms.safety.kinds}}:{}),...(observations.length?{people_observations:observations}:{}),coverage:base.coverage};
-  const meta={cartography:{present:Boolean(map),version:map?map.version:null,causes:map?map.cause_count:0},portrait:available.portrait.done,people:available.people.count,life_events:available.life_events.count,messages:0,previous_review_id:null};
+  const data={kind:review.kind,available,current_identity:base.current_identity,sources:base.sources,portrait:base.portrait,psychological_hypotheses:base.psychological_hypotheses,people:base.people,events:base.events,...(map?{childhood_cartography:map}:{}),...(symptoms?.block?{symptom_map:symptomReviewBlock(symptoms.view,6000)}:{}),...(symptoms?.safety?{map_safety:{kinds:symptoms.safety.kinds}}:{}),...(observations.length?{people_observations:observations}:{}),coverage:base.coverage};
+  const meta={symptom_map_revision:symptoms?.revision||null,cartography:{present:Boolean(map),version:map?map.version:null,causes:map?map.cause_count:0},portrait:available.portrait.done,people:available.people.count,life_events:available.life_events.count,messages:0,previous_review_id:null};
   if(review.kind==='point'){
    const previous=await first(env,"SELECT id,kind,content,completed_at FROM ambre_reviews WHERE user_id=? AND status='ready' AND id!=? ORDER BY completed_at DESC,id DESC LIMIT 1",userId,review.id);
    if(previous){meta.previous_review_id=previous.id;const text=excerpt(previous.content,5000,800);data.previous_review={kind:previous.kind,completed_at:previous.completed_at,text:text.text,...(text.excerpt?{excerpt:true}:{})};Object.defineProperty(data.previous_review,'full',{value:previous.content,enumerable:false,configurable:true});}
@@ -787,12 +786,14 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   // E (audit v5): the map shrinks first, then each source excerpt, then the oldest exchanges;
   // the accounts of people and moments keep a reserved share of the ceiling until the very end.
   const size=()=>JSON.stringify(data).length,storyChars=()=>data.sources.filter(x=>['person','event'].includes(x.type)).reduce((n,x)=>n+JSON.stringify(x).length,0);
-  let mapBudget=REVIEW_CARTOGRAPHY_CHARS-symptomsShare;const shrunk={};
+  let mapBudget=REVIEW_CARTOGRAPHY_CHARS;const shrunk={};
   // Lot C: the rules sent with the summary are paid for inside the same ceiling.
-  const contextLimit=REVIEW_CONTEXT_LIMIT-(data.symptoms?SYMPTOMS_RULES.length+1:0);
+  // Keep the complete writer input (context + instructions + schema) within the measured +20% envelope.
+  const contextLimit=symptoms?.block?Math.min(REVIEW_CONTEXT_LIMIT,44700-JSON.stringify(REVIEW_OUTPUT_SCHEMA).length-buildReviewSystemPrompt(review.kind).length-MAP_HYPOTHESIS_RULES.length-500):34000;
   while(size()>contextLimit){
+   if(data.symptom_map&&JSON.stringify(data.symptom_map).length>3000){data.symptom_map=symptomReviewBlock(symptoms.view,Math.max(3000,JSON.stringify(data.symptom_map).length-1000));continue;}
    if(data.conversation_since?.length>6){data.conversation_since.shift();includedTurnIds.shift();data.conversation_coverage.included_turns--;data.conversation_coverage.truncated=true;meta.messages--;continue;}
-   if(map&&mapBudget>REVIEW_CARTOGRAPHY_MIN-symptomsShare){mapBudget=Math.max(REVIEW_CARTOGRAPHY_MIN-symptomsShare,mapBudget-1500);data.childhood_cartography=cartographyPromptBlock(context.cartography,mapBudget);continue;}
+   if(map&&mapBudget>REVIEW_CARTOGRAPHY_MIN){mapBudget=Math.max(REVIEW_CARTOGRAPHY_MIN,mapBudget-1500);data.childhood_cartography=cartographyPromptBlock(context.cartography,mapBudget);continue;}
    if(data.people_observations?.length>6){data.people_observations.pop();continue;}
    if(data.previous_review&&data.previous_review.text.length>2100){const text=excerpt(data.previous_review.full,2000,600);data.previous_review.text=text.text;data.previous_review.excerpt=true;continue;}
    if(data.review_thread&&!shrunk.thread&&JSON.stringify(data.review_thread).length>1800){shrunk.thread=true;data.review_thread=reviewThread(data.thread_rows,{maxChars:1600});continue;}
@@ -831,7 +832,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  const stripFence=raw=>String(raw).replace(/^```(?:json)?\s*|\s*```$/g,'');
  // One provider call of a review, under the review's lease: shared guard, daily cap, weekly
  // reservation, refusal refund. Returns the raw answer and its usage.
- async function reviewCall(env,{userId,review,held,messages,name,schema,maxTokens,model,effort,deadline}){
+ async function reviewCall(env,{userId,review,held,messages,name,schema,maxTokens,model,effort,deadline,mapRevision}){
   await requireCompanionGenerationAccess(env,userId,{at:now()});
   if(!await first(env,"SELECT 1 FROM monthly_usage WHERE user_id=? AND kind='review' AND operation_id=? AND state='reserved'",userId,review.id))throw Object.assign(Error('Reservation missing'),{code:'quota_reservation_missing'});
   const reservation=Math.ceil(JSON.stringify(messages).length/3)+maxTokens+300,week=parisWeek(new Date(now()*1000)).week_start,limit=Number(env.WEEKLY_TOKEN_BUDGET)||3000000;
@@ -845,6 +846,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   try{
    await requireCompanionGenerationAccess(env,userId,{at:now()});
    if(!await first(env,`SELECT 1 FROM ambre_reviews WHERE ${providerGuard}`,review.id,review.lease_token))throw Object.assign(Error('Generation guard changed'),{code:'lease_lost'});
+   if(JSON.stringify((await readSymptomContext(env,userId,now()))?.revision||null)!==JSON.stringify(mapRevision))throw Object.assign(Error('Symptom map changed'),{code:'context_changed'});
   }catch(error){await run(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reservation,userId,week);await releaseDaily(env,{tokens:reservation,now:now()});throw error}
   const res=await fetch(PROVIDER_URL,{method:'POST',headers:{Authorization:`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages,response_format:{type:'json_schema',json_schema:{name,strict:true,schema}},max_tokens:maxTokens,reasoning:{effort},provider:{require_parameters:true,data_collection:'deny',zdr:true,allow_fallbacks:true}}),signal:AbortSignal.timeout(remaining)});
   const detail=await res.json().catch(e=>{if(['TimeoutError','AbortError'].includes(e.name))throw e;return {};});
@@ -889,12 +891,15 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(stage!=='write'&&!(typeof draft?.content==='string'&&draft.content))stage='write';
    const context=await personal.context(env,userId),{data,meta,changeState,refs}=await reviewContext(env,userId,review,context);
    if(!Object.values(data.available).some(source=>source.done))throw Object.assign(new Error('empty'),{code:'nothing_to_analyze'});
-   const cas=changeState.available?changeGuard(userId,changeState):{sql:'1=1',args:[]},sourceGuard=`EXISTS(SELECT 1 FROM ambre_reviews WHERE ${held} AND ${companionReadinessSql('ambre_reviews.user_id')} AND ${reservedUsageSql('ambre_reviews.user_id','review','ambre_reviews.id')} AND EXISTS(SELECT 1 FROM subscriptions s JOIN chat_settings cs ON cs.user_id=s.user_id WHERE s.user_id=ambre_reviews.user_id AND cs.consent=1 AND ${accessSql(env,'s',String(now()))})) AND ${cas.sql}`,sourceArgs=[review.id,review.lease_token,...cas.args];
+   const cas=changeState.available?changeGuard(userId,changeState):{sql:'1=1',args:[]};
+   if(stage!=='write'&&JSON.stringify(draft.map_revision??null)!==JSON.stringify(meta.symptom_map_revision))throw Object.assign(Error('Symptom map changed'),{code:'context_changed'});
+   if(meta.symptom_map_revision){cas.sql+=' AND EXISTS(SELECT 1 FROM symptom_maps sm WHERE sm.user_id=? AND sm.version=? AND sm.updated_at IS ? AND sm.safety_at IS ? AND COALESCE((SELECT revision FROM care_source_revisions WHERE user_id=sm.user_id AND scope=\'symptoms\'),0)=?)';cas.args.push(userId,...meta.symptom_map_revision);}else if(await symptomMapStorageAvailable(env)){cas.sql+=' AND NOT EXISTS(SELECT 1 FROM symptom_maps sm WHERE sm.user_id=?)';cas.args.push(userId);}
+   const sourceGuard=`EXISTS(SELECT 1 FROM ambre_reviews WHERE ${held} AND ${companionReadinessSql('ambre_reviews.user_id')} AND ${reservedUsageSql('ambre_reviews.user_id','review','ambre_reviews.id')} AND EXISTS(SELECT 1 FROM subscriptions s JOIN chat_settings cs ON cs.user_id=s.user_id WHERE s.user_id=ambre_reviews.user_id AND cs.consent=1 AND ${accessSql(env,'s',String(now()))})) AND ${cas.sql}`,sourceArgs=[review.id,review.lease_token,...cas.args];
    // Register inherited plan dependencies before sending any conversation copy.
    const registered=await env.DB.batch([stmt(env,`UPDATE ambre_reviews SET sources=? WHERE ${held} AND ${cas.sql}`,JSON.stringify(meta),...sourceArgs),...changeArtifactStatements(env,userId,'review',review.id,refs,changeState.context_generation,sourceGuard,sourceArgs)]);
    if(!registered[0].meta.changes)throw Object.assign(new Error('Sources changed'),{code:'context_changed'});
-   const supplied=suppliedText(data),corpus=reviewCorpus(data),signal=reviewSafetySignal(data),knownGoals=threadGoals(data.review_thread),system=buildReviewSystemPrompt(review.kind)+(context.people?.some(unsafePerson)?'\n'+SIGNAL_GUIDANCE.unsafe_relation:'')+(data.symptoms?'\n'+SYMPTOMS_RULES:''),payload='Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data);
-   const call=(options)=>reviewCall(env,{userId,review,held,deadline,...options});
+   const supplied=suppliedText(data),corpus=reviewCorpus(data),signal=reviewSafetySignal(data),knownGoals=threadGoals(data.review_thread),system=buildReviewSystemPrompt(review.kind)+(context.people?.some(unsafePerson)?'\n'+SIGNAL_GUIDANCE.unsafe_relation:'')+(data.symptom_map?'\n'+MAP_HYPOTHESIS_RULES:''),payload='Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data);
+   const call=(options)=>reviewCall(env,{userId,review,held,deadline,mapRevision:meta.symptom_map_revision,...options});
    // The draft is saved under the same guard as the publication: a plan or context change between
    // two calls ends the review before the next call is bought.
    const keep=async next=>{if(!columns)return;const saved=await run(env,`UPDATE ambre_reviews SET stage=?,draft=? WHERE ${held} AND ${cas.sql}`,next,JSON.stringify(draft),review.id,review.lease_token,...cas.args);if(!saved.meta.changes)throw Object.assign(new Error('lease lost'),{code:await first(env,`SELECT 1 AS held FROM ambre_reviews WHERE ${held}`,review.id,review.lease_token)?'context_changed':'lease_lost'});};
@@ -905,7 +910,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
      const result=await call({messages:[{role:'system',content:system},{role:'user',content:payload+correction}],name:'ambre_review',schema:REVIEW_OUTPUT_SCHEMA,maxTokens:REVIEW_WRITE_TOKENS,model:reviewModel(env),effort:'low'});
      usage=addUsage(usage,result.usage);
      const out=reviewOutput(result.raw);
-     draft={content:out.content,digest:validateDigest(out.digest,corpus,{knownGoals}),rewritten:stage==='rewrite',usage};stage='check';progressed=true;await keep('check');continue;
+     draft={map_revision:meta.symptom_map_revision,content:out.content,digest:validateDigest(out.digest,corpus,{knownGoals}),rewritten:stage==='rewrite',usage};stage='check';progressed=true;await keep('check');continue;
     }
     const deterministic=reviewChecks(draft.content,{supplied,signal});
     if(context.people?.some(unsafePerson)&&signalReview(draft.content,{unsafe_relation:{relation:'other'}}).includes(2))deterministic.failed.push('unsafe_confrontation');
@@ -1068,6 +1073,8 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   const observationRevision=parse(job.context).observation_revision;
   let guard=`EXISTS(SELECT 1 FROM chat_engine_jobs e WHERE e.turn_id=? AND e.lease_token=? AND e.lease_until>?) AND COALESCE((SELECT revision FROM chat_memory WHERE user_id=?),0)=? AND EXISTS(SELECT 1 FROM chat_turns t JOIN chat_settings cs ON cs.user_id=t.user_id JOIN profiles p ON p.user_id=t.user_id JOIN subscriptions s ON s.user_id=t.user_id WHERE t.id=? AND t.user_id=? AND t.status='running' AND t.purged=0 AND cs.consent=1 AND cs.revision=t.consent_revision AND t.source_version=p.version AND ${accessSql(env,'s')} AND ${companionReadinessSql('t.user_id')} AND ${reservedUsageSql('t.user_id','message','t.id')}${observationRevision==null?'':` AND ${peopleObservationModeSql('cs')} AND cs.people_observations_revision=?`})`;
   let args=[turn.id,job.lease_token,now(),userId,parse(job.context).memory_revision||0,turn.id,userId,now(),...(observationRevision==null?[]:[observationRevision])];
+  const mapRevision=parse(job.context).symptom_map_revision;
+  if(mapRevision){guard+=' AND EXISTS(SELECT 1 FROM symptom_maps sm WHERE sm.user_id=? AND sm.version=? AND sm.updated_at IS ? AND sm.safety_at IS ? AND COALESCE((SELECT revision FROM care_source_revisions WHERE user_id=sm.user_id AND scope=\'symptoms\'),0)=?)';args.push(userId,...mapRevision);}else if(await symptomMapStorageAvailable(env)){guard+=' AND NOT EXISTS(SELECT 1 FROM symptom_maps sm WHERE sm.user_id=?)';args.push(userId);}
   const change=await changePublication(env,userId,{context:parse(job.context).change,draft,analysis,message:turn.content,turnId:turn.id,now:now(),random,guard,guardArgs:args});guard=change.guard;args=change.guardArgs;
   const statements=[...change.statements],proposals=[];
   for(const wire of draft.proposals||[]){try{proposals.push(await makeProposal(env,userId,turn.id,wire,turn.content,context,draft.proposals.length))}catch{}}
@@ -1094,6 +1101,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    const memory=await first(env,'SELECT * FROM chat_memory WHERE user_id=?',userId),next=mergeClosed(parse(memory?.summary),analysis.closed_topics);
    statements.push(stmt(env,`INSERT INTO chat_memory(user_id,summary,updated_at) SELECT ?,?,? WHERE EXISTS(SELECT 1 FROM chat_turns t JOIN chat_settings cs ON cs.user_id=t.user_id WHERE t.id=? AND t.user_id=? AND t.status='completed' AND t.purged=0 AND cs.consent=1 AND cs.revision=?) AND COALESCE((SELECT revision FROM chat_memory WHERE user_id=?),0)=? ON CONFLICT(user_id) DO UPDATE SET summary=excluded.summary,revision=chat_memory.revision+1,updated_at=excluded.updated_at`,userId,JSON.stringify(next),now(),turn.id,userId,turn.consent_revision,userId,parse(job.context).memory_revision||0));
   }
+  if(parse(job.context).map_safety?.ask_now&&analysis.risk==='none')statements.push(stmt(env,"UPDATE symptom_maps SET safety_asked_at=? WHERE user_id=? AND EXISTS(SELECT 1 FROM chat_turns WHERE id=? AND user_id=? AND status='completed' AND response IN (?,?))",now(),userId,turn.id,userId,envelope,noted));
   const result=await env.DB.batch(statements);if(!result[replyIndex].meta.changes)throw Object.assign(Error('Context changed'),{code:'context_changed'});
  }
  const engineSchema={...CHAT_RESPONSE_SCHEMA,properties:{...CHAT_RESPONSE_SCHEMA.properties,...CHANGE_DRAFT_FIELDS,questions:{type:'array',maxItems:1,items:stringSchema},cartography_notes:{type:'array',maxItems:3,items:objectSchema({target:{type:'string',enum:['factor','outcome','general']},target_id:nullableString,quote:stringSchema})},people_observations:{type:'array',maxItems:2,items:objectSchema({person_id:stringSchema,axis:{type:'string',enum:PEOPLE_OBSERVATION_AXES},quote:stringSchema})}},required:[...CHAT_RESPONSE_SCHEMA.required,'cartography_notes','people_observations',...Object.keys(CHANGE_DRAFT_FIELDS)]};

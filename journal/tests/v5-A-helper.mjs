@@ -74,12 +74,13 @@ export function pick(strategy,index){
 }
 const stageTokens=c=>Math.ceil((c.system.length+c.input.length+c.schema.length)/3);
 // Runs one turn on the filled profile; returns every provider call (purpose, system, input, schema, tokens).
-export async function replayTurn(message,{strategy='ideal',choose=null,digests=false,extend=null}={}){
+export async function replayTurn(message,{strategy='ideal',choose=null,digests=false,extend=null,rewrite=false}={}){
  const s=setup();await s.ready();seedProfile(s);seedReviews(s,'a',{digests});seedMemoryAndHistory(s);
  if(extend)await extend(s);
- const calls=[],original=globalThis.fetch;
+ const calls=[],original=globalThis.fetch;let reviewCount=0;
  globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name,input=body.messages[1].content,system=Array.isArray(body.messages[0].content)?body.messages[0].content[0].text:body.messages[0].content,call={purpose,input,system,schema:JSON.stringify(body.response_format?.json_schema.schema||{})};call.tokens=stageTokens(call);calls.push(call);
   if(purpose==='ambre_analysis'){const data=JSON.parse(input);return response(analysis({selected_ids:choose?choose(data.index):pick(strategy,data.index)}))}
+  if(purpose==='ambre_review'&&rewrite&&reviewCount++===0){const result=review();result.criteria[3]='no';return response(result);}
   return response({ambre_risk_check:{risk:'none',category:'none',evidence_quote:''},ambre_writing:draft(),ambre_review:review(),ambre_memory:{items:[]}}[purpose])};
  try{await s.send(message,'k-'+Math.random().toString(36).slice(2,10));for(let n=0;n<8&&!['done','failed'].includes(s.job()?.stage);n++)await s.chat.engine.work(s.env,s.job().turn_id)}finally{globalThis.fetch=original}
  return {s,calls,stage:s.job()?.stage,get:p=>calls.find(c=>c.purpose===p)};
