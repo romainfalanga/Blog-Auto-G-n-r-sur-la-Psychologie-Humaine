@@ -33,8 +33,10 @@ function updateChatControls(){
  var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!!state.chatVoice?.isActive()||!chatConsent(data)||!data.access||!data.access.allowed||chatJourneyBlocked(data)||!!ambreComposerLock(data)||!!(data.quota&&Number(data.quota.remaining||0)<=0);
  var point=document.getElementById('chat-point'),pointNote=document.getElementById('chat-point-note'),journey=chatJourney(data);if(point){var reason=chatPointNote(data);point.hidden=!(journey&&journey.started)||chatInitialPending(data);point.disabled=!!reason||chatHasPending()||!chatConsent(data);if(pointNote){var hint=reason||(point.disabled?'':chatPointSuggestion(data));pointNote.textContent=hint;pointNote.hidden=!hint||point.hidden}}
  var mounted=document.getElementById('view'),shell=mounted&&mounted.chatShell;if(shell)shell.thread.querySelectorAll('button').forEach(function(button){if(button.dataset.chatRetry)button.disabled=!!(state.chatSending||!data.access||!data.access.allowed||data.quota&&Number(data.quota.remaining||0)<=0)});
- // Before the first review the composer stays visible but unusable, with its reason attached.
- var input=form.elements.content,lock=ambreComposerLock(data),lockNote=document.getElementById('chat-locked-note'),notice=document.getElementById('chat-memory-notice'),described=[];
+ // Until the conversation is open (visitor, before or during the first review) the input bar is not
+ // shown at all: only the sentence saying when Ambre can be written to. Later locks keep it disabled.
+ var input=form.elements.content,lock=ambreComposerLock(data),closed=ambreComposerClosed(data),row=document.getElementById('chat-composer-row'),lockNote=document.getElementById('chat-locked-note'),notice=document.getElementById('chat-memory-notice'),described=[];
+ if(row)row.hidden=closed;form.dataset.closed=closed?'true':'';
  if(lockNote){lockNote.textContent=lock;lockNote.hidden=!lock}
  if(notice)notice.hidden=!!lock||!(chatConsent(data)&&data.people_observations_enabled);
  if(input){input.disabled=!!lock;input.readOnly=!!lock;if(lock){input.setAttribute('aria-disabled','true');described.push('chat-locked-note')}else input.removeAttribute('aria-disabled');if(notice&&!notice.hidden)described.push(notice.id);if(described.length)input.setAttribute('aria-describedby',described.join(' '));else input.removeAttribute('aria-describedby')}
@@ -102,7 +104,7 @@ function createChatShell(view,current){
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var panel=el('section','journey-panel');panel.id='journey-panel';panel.hidden=true;panel.setAttribute('aria-labelledby','journey-title');scroll.append(panel);var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
  var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);
  var gate=el('div');gate.id='chat-gates';surface.append(gate);
- var form=el('form','chat-composer');form.id='chat-form';var row=el('div','composer-row'),label=el('label','visually-hidden','Votre message');label.htmlFor='chat-content';var input=el('textarea');input.id='chat-content';input.name='content';input.maxLength=6000;input.required=true;input.placeholder='Votre message…';input.value=state.chatDraft||'';
+ var form=el('form','chat-composer');form.id='chat-form';var row=el('div','composer-row');row.id='chat-composer-row';var label=el('label','visually-hidden','Votre message');label.htmlFor='chat-content';var input=el('textarea');input.id='chat-content';input.name='content';input.maxLength=6000;input.required=true;input.placeholder='Votre message…';input.value=state.chatDraft||'';
  input.addEventListener('input',function(){state.chatDraft=input.value});var mic=el('button','chat-microphone');mic.type='button';mic.setAttribute('aria-label','Dicter un message');mic.setAttribute('aria-describedby','chat-voice-status');mic.title='Dicter un message';
  mic.innerHTML='<svg class="microphone-glyph" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="12" rx="3"/><path d="M5 11v1a7 7 0 0 0 14 0v-1M12 19v3m-3 0h6"/></svg><svg class="stop-glyph" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="5" width="14" height="14" rx="2"/></svg>';
  var send=el('button','','Envoyer');send.type='submit';input.addEventListener('keydown',function(event){if(event.key==='Enter'&&!event.shiftKey&&!event.isComposing&&!send.disabled){event.preventDefault();form.requestSubmit()}});
@@ -121,8 +123,7 @@ function drawChatGate(shell,data,current){
  var journey=chatJourney(data),signature=JSON.stringify([data.access,journey&&journey.started]);if(shell.gateSignature===signature)return;shell.gateSignature=signature;shell.gate.replaceChildren();
  // Before the first review, the first message of Ambre explains every blocking reason itself.
  if(chatGuest(data)||journey&&!journey.started)return;
- // A state without journey (older server envelope) has no first message: the agreement box stays.
- if(!journey&&!chatConsent(data)){var consentGate=el('div','chat-gate');consentGate.id='chat-consent-gate';var consentLabel=el('label','check'),consentBox=el('input');consentBox.type='checkbox';consentBox.id='chat-consent';consentLabel.append(consentBox,document.createTextNode(AMBRE_CONSENT_TEXT));var consentStatus=el('p','status');consentStatus.setAttribute('role','status');var consentButton=actionButton('Donner mon accord',async function(){if(!consentBox.checked)return;consentButton.disabled=true;try{var result=await api('/api/chat/consent','PUT',{accepted:true});if(!chatIsCurrent(current))return;state.chatData=Object.assign({},state.chatData||{},result);var view=document.getElementById('view');if(view)drawChat(view,current)}catch(err){if(chatIsCurrent(current)){consentStatus.textContent=err.message;consentStatus.className='status error';consentButton.disabled=!consentBox.checked}}});consentButton.id='chat-consent-accept';consentButton.disabled=true;consentBox.addEventListener('change',function(){consentButton.disabled=!consentBox.checked});consentGate.append(consentLabel,consentButton,consentStatus);shell.gate.append(consentGate);return}
+ // No separate agreement box any more: the agreement is given by « Lancer mon bilan » itself.
  var reason=data.access&&data.access.reason,reasons={quota_exhausted:'Vos 100 messages sont utilisés. Reprise au prochain renouvellement.',provider_missing:'Ambre est momentanément indisponible.',generation_paused:'Les réponses sont momentanément en pause.',provider_cooldown:'Le fournisseur est temporairement indisponible. La disponibilité sera vérifiée automatiquement.',subscription_required:'Un abonnement ou un essai actif est nécessaire.'};
  if(reason&&reason!=='consent_required'&&reason!=='journey_not_started'&&reason!=='prerequisites_required'){var blocked=el('div','chat-gate');blocked.id='chat-access-gate';blocked.append(el('p','',reasons[reason]||'L’envoi est momentanément indisponible.'));if(reason==='subscription_required'){var link=el('a','text-link','Voir mon abonnement');link.href='/mon-compte/';blocked.append(link)}shell.gate.append(blocked)}
 }
@@ -274,9 +275,10 @@ function pollChat(request,current,sentDraft,delay){
 }
 function chatInitialPending(data){var journey=chatJourney(data);return !!(journey&&journey.review&&journey.review.running_id&&journey.review.last_at==null)}
 // Plan 19/11, lot 3: Ambre's first message is written by the code (no model, no storage). It replaces
-// the former welcome text, the « Avant de commencer » card and the consent gate: one message, one
-// agreement, one launch button. Missing fields keep the former behaviour (no journey: no message).
-var AMBRE_CONSENT_TEXT='J’accepte que mes messages et les informations que j’ai renseignées soient traités par OpenRouter pour l’analyse et la conversation. Ambre peut retenir des repères concrets sur les proches que j’ai déjà ajoutés et écrire de courtes notes dans Mon enfance.';
+// the former welcome text, the « Avant de commencer » card and the consent gate: one message and one
+// launch button, which carries the agreement (no separate box). Missing fields keep the former behaviour (no journey: no message).
+var AMBRE_CONSENT_TEXT='En lançant le bilan, vous acceptez que vos informations et vos messages soient analysés par OpenRouter, le service d’IA qui me fait fonctionner.';
+var AMBRE_INTRO=['Je suis une assistante psychologue IA, et je suis là pour vous aider à mieux vous comprendre, à votre rythme.','Pour commencer, je lis tout ce que vous avez renseigné et je vous prépare un premier bilan : ce que je comprends de votre histoire, avec des hypothèses sur ce qui me paraît probable.','Ensuite, nous en parlons ensemble : vous me dites ce qui vous parle, ce qui vous ressemble moins, et ce que vous aimeriez approfondir.'];
 var AMBRE_DAILY_LAUNCHES=8;
 var AMBRE_FAILURES={'sources_changed':'Une information que je lisais a été supprimée pendant la préparation : par respect de cette suppression, j’ai effacé ce que j’avais préparé. Vous pouvez relancer un bilan, qui partira de vos informations actuelles.','context_changed':'Vos informations ont été modifiées au même moment à plusieurs reprises et je n’ai pas pu en prendre une copie cohérente. Vous pouvez relancer le bilan.','safety_changed':'Une information sur votre sécurité a été enregistrée au moment où je publiais le bilan : je dois en tenir compte avant de le publier. Vous pouvez relancer le bilan.','review_not_approved':'La relecture n’a pas validé mon texte, même après une correction, et je ne publie pas un bilan qui ne serait pas fiable. Vous pouvez relancer le bilan.','invalid_response':'Une réponse a bien été reçue du service de rédaction, mais elle n’était pas conforme aux vérifications du bilan. Vous pouvez relancer le bilan.','invalid_check':'La relecture n’a pas pu être menée jusqu’au bout. Vous pouvez relancer le bilan.','provider_timeout':'Le service de rédaction a mis trop de temps à répondre. Vous pouvez relancer le bilan.','provider_cooldown':'Le service de rédaction est momentanément saturé. Vous pourrez relancer le bilan dans quelques minutes.','provider_error':'Le service de rédaction a rencontré une erreur. Vous pouvez relancer le bilan un peu plus tard.','provider_refused':'Le service de rédaction a refusé la demande. Vous pouvez relancer le bilan un peu plus tard ; si cela se répète, contactez le support.','provider_missing':'La rédaction des bilans est momentanément indisponible. Une relance n’est pas possible pour l’instant.','generation_paused':'La rédaction des bilans est momentanément en pause. Une relance n’est pas possible pour l’instant.','attempts_exhausted':'La préparation a été interrompue trois fois de suite. Vous pouvez relancer le bilan.','lease_lost':'La préparation a été interrompue. Vous pouvez relancer le bilan.','request_expired':'La préparation a dépassé le délai prévu. Vous pouvez relancer le bilan.','review_deferred':'La préparation a été mise en pause entre deux étapes et n’a pas repris à temps. Vous pouvez relancer le bilan.','snapshot_too_large':'Vos informations dépassent la taille qu’un bilan complet peut lire. C’est une limite fixe : relancer ne changerait rien, et je ne produis pas de bilan partiel.','snapshot_analysis_limit':'La synthèse de toutes vos informations dépasse la taille qu’un bilan peut contenir. C’est une limite fixe : relancer ne changerait rien, et je ne produis pas de bilan partiel.','generation_budget':'Le budget de rédaction de la semaine est atteint. Une relance sera possible après son renouvellement.','daily_cap':'Le service a atteint sa limite d’utilisation pour aujourd’hui. Vous pourrez relancer le bilan demain.','request_limit':'Trop de bilans ont été demandés aujourd’hui. Vous pourrez relancer le bilan plus tard.','consent_withdrawn':'Votre accord a été retiré pendant la préparation, et ce que j’avais préparé a été effacé. Pour un nouveau bilan, il faudra de nouveau donner votre accord.','consent_required':'Votre accord est nécessaire pour que je lise vos informations.','access_required':'Votre accès a pris fin pendant la préparation. Une relance sera possible avec un abonnement ou un essai actif.','subscription_required':'Un abonnement ou un essai actif est nécessaire. Une relance sera possible avec un accès actif.','prerequisites_required':'Une des pages nécessaires n’est plus complète ou enregistrée. Complétez-la : vous pourrez ensuite relancer le bilan.','quota_reservation_missing':'Votre bilan du mois n’était plus réservé pour cette préparation. Une relance n’est possible que s’il vous reste un bilan ce mois-ci.','review_quota_exhausted':'Votre bilan du mois est déjà utilisé. Un nouveau bilan sera possible au renouvellement.','nothing_to_analyze':'Je n’ai trouvé aucune information à lire. Complétez vos pages avant de relancer.'};
 function ambreFailureReason(code){code=String(code||'');if(AMBRE_FAILURES[code])return AMBRE_FAILURES[code];if(code==='provider_http_429')return AMBRE_FAILURES.provider_cooldown;if(/^provider_http_/.test(code))return AMBRE_FAILURES.provider_error;return 'Une erreur inattendue a interrompu la préparation.'}
@@ -318,7 +320,7 @@ function ambreNeedItem(need,guest){
  link.setAttribute('aria-label',need.label+(stateText?' : '+stateText.toLowerCase():'')+(!guest&&need.done!=null?', '+need.done+' sur '+need.total:''));
  return item;
 }
-function ambreLaunchReason(data,needs,checked){
+function ambreLaunchReason(data,needs){
  var journey=chatJourney(data)||{},access=data.access||{},quotas=data.quotas||journey.quotas||{},reviews=quotas.reviews;
  var missing=needs.filter(function(need){return need.known&&!need.complete&&!need.save}).map(function(need){return need.label}),save=needs.filter(function(need){return need.save}).map(function(need){return need.label});
  if(missing.length||save.length)return [missing.length?'Complétez d’abord '+missing.join(', ')+'.':'',save.length?'Enregistrez '+save.join(', ')+'.':''].filter(Boolean).join(' ');
@@ -326,7 +328,6 @@ function ambreLaunchReason(data,needs,checked){
  var reasons={subscription_required:'Un abonnement ou un essai actif est nécessaire.',provider_missing:'Les bilans sont momentanément indisponibles.',generation_paused:'Les bilans sont momentanément en pause.',provider_cooldown:'Le service de rédaction est momentanément saturé. Réessayez dans quelques minutes.',daily_cap:'Le service a atteint sa limite pour aujourd’hui. Réessayez demain.'};
  if(reasons[access.reason])return reasons[access.reason];
  if(journey.can_start===false)return 'Le bilan ne peut pas être lancé pour le moment.';
- if(!checked)return 'Cochez la case d’accord pour lancer votre bilan.';
  return '';
 }
 async function ambreRequestReview(kind,current,button,feedback){
@@ -340,21 +341,20 @@ async function ambreRequestReview(kind,current,button,feedback){
  }catch(err){
   if(!chatIsCurrent(current))return;if(Number(err.status)>=400&&Number(err.status)<500)state.journeyKey=null;
   button.dataset.busy='';button.disabled=false;feedback.textContent=err.message||'Le bilan n’a pas pu être lancé.';feedback.className='status error ambre-launch-status';
-  var gateBox=document.getElementById('ambre-consent');if(gateBox&&kind!=='point')button.disabled=!gateBox.checked;
  }
 }
 function ambreLaunchArea(data,current,needs){
+ // No agreement box: the launch button sends the agreement itself (accepted:true), as does « Reprendre ».
  var journey=chatJourney(data)||{},area=el('div','ambre-launch');
- var box=el('label','check ambre-consent'),checkbox=el('input');checkbox.type='checkbox';checkbox.id='ambre-consent';checkbox.checked=!!state.ambreConsentChecked;box.append(checkbox,document.createTextNode(AMBRE_CONSENT_TEXT));
  var resume=journey.started&&!chatConsent(data),button=actionButton(resume?'Reprendre la conversation':'Lancer mon bilan',async function(){
   if(button.disabled)return;
   if(!resume)return ambreRequestReview('initial',current,button,feedback);
-  button.disabled=true;try{await api('/api/chat/consent','PUT',{accepted:true});if(current())renderChat()}catch(err){if(current()){feedback.textContent=err.message;feedback.className='status error ambre-launch-status';button.disabled=!checkbox.checked}}
+  button.disabled=true;try{await api('/api/chat/consent','PUT',{accepted:true});if(current())renderChat()}catch(err){if(current()){feedback.textContent=err.message;feedback.className='status error ambre-launch-status';button.disabled=false}}
  });button.id='ambre-start';
  var reason=el('p','helper ambre-start-reason');reason.id='ambre-start-reason';var feedback=el('p','status ambre-launch-status');feedback.id='ambre-launch-status';feedback.setAttribute('role','status');
- function refresh(){var why=resume?(checkbox.checked?'':'Cochez la case d’accord pour reprendre la conversation.'):ambreLaunchReason(data,needs,checkbox.checked);button.disabled=!!why||button.dataset.busy==='true';reason.textContent=why;reason.hidden=!why;if(why)button.setAttribute('aria-describedby',reason.id);else button.removeAttribute('aria-describedby')}
- checkbox.addEventListener('change',function(){state.ambreConsentChecked=checkbox.checked;refresh()});refresh();
- area.append(box,button,reason,feedback);return area;
+ var why=resume?'':ambreLaunchReason(data,needs);button.disabled=!!why;reason.textContent=why;reason.hidden=!why;if(why)button.setAttribute('aria-describedby',reason.id);
+ var info=el('p','ambre-consent-info',AMBRE_CONSENT_TEXT);info.id='ambre-consent-info';
+ area.append(button,reason,feedback,info);return area;
 }
 function ambreIntroStatus(data){
  var journey=chatJourney(data)||{},readiness=ambreReadiness(data),failure=ambreFailure(data);
@@ -367,9 +367,9 @@ function ambreIntroStatus(data){
 function ambreIntroMessage(data,current){
  var guest=chatGuest(data),needs=ambreNeeds(guest?null:ambreReadiness(data));
  var item=el('article','chat-message chat-assistant ambre-intro');item.id='ambre-intro';item.setAttribute('aria-labelledby','ambre-intro-title');
- var from=el('p','ambre-from','Ambre · premier message'),title=el('h2','ambre-intro-title','Je commence par un bilan');title.id='ambre-intro-title';
+ var from=el('p','ambre-from','Ambre · premier message'),title=el('h2','ambre-intro-title','Bonjour, je suis Ambre.');title.id='ambre-intro-title';
  var lead=el('div','ambre-intro-lead');
- lead.append(el('p','','Je commence par un bilan complet de ce que vous avez renseigné, pour vous aider à mieux vous comprendre.'),el('p','','Ensuite, nous en discutons ensemble : vous me dites ce qui vous parle et ce que vous voulez creuser.'));
+ lead.append(el('p','',AMBRE_INTRO[0]),el('p','',AMBRE_INTRO[1]),el('p','',AMBRE_INTRO[2]));
  var needsTitle=el('h3','ambre-needs-title','Ce dont j’ai besoin');needsTitle.id='ambre-needs-title';
  var list=el('ul','ambre-needs');list.setAttribute('aria-labelledby',needsTitle.id);needs.forEach(function(need){list.append(ambreNeedItem(need,guest))});
  item.append(from,title,lead,needsTitle,list);
@@ -380,7 +380,6 @@ function ambreIntroMessage(data,current){
   var statusLine=ambreIntroStatus(data);
   if(statusLine===null)item.append(ambreLaunchArea(data,current,needs));else if(statusLine)item.append(el('p','ambre-intro-status',statusLine));
  }
- item.append(el('p','ambre-intro-note','Je suis une assistante psychologue IA : je propose des hypothèses sur ce qui est probable, à partir de tout ce que vous avez renseigné.'));
  return item;
 }
 function ambreIntroSignature(data){var journey=chatJourney(data)||{};return JSON.stringify([chatGuest(data),ambreReadiness(data),chatConsent(data),journey.started,journey.can_start,journey.quotas||data.quotas,data.access&&data.access.reason,chatReviewRunning(data),chatInitialPending(data),!!ambreFailure(data)])}
@@ -454,14 +453,16 @@ function drawAmbreReviewStatus(shell,data,current){
  }
  if(announce)shell.announcement.textContent=announce;
 }
-// The composer stays visible; while it cannot be used it is disabled and says why (disabled, aria-disabled + description).
+// Before the conversation is open the input bar is hidden (ambreComposerClosed) and only this sentence
+// remains; afterwards, while it cannot be used, it stays visible, disabled, and says why.
+function ambreComposerClosed(data){var journey=chatJourney(data);return chatGuest(data)||!!(journey&&(!journey.started||chatInitialPending(data)))}
 function ambreComposerLock(data){
  if(chatGuest(data))return 'Connectez-vous pour écrire à Ambre.';
  var journey=chatJourney(data);if(!journey)return '';
  if(chatReviewRunning(data))return journey.started&&!chatInitialPending(data)?'Vous pourrez écrire à Ambre quand votre bilan sera prêt.':'Vous pourrez écrire à Ambre après votre premier bilan.';
  if(!journey.started)return 'Vous pourrez écrire à Ambre après votre premier bilan.';
  var readiness=ambreReadiness(data);if(readiness&&readiness.complete===false)return 'Complétez les pages indiquées dans le premier message d’Ambre pour reprendre la conversation.';
- if(!chatConsent(data))return 'Cochez l’accord dans le premier message d’Ambre pour reprendre la conversation.';
+ if(!chatConsent(data))return 'Touchez « Reprendre la conversation » dans le premier message d’Ambre.';
  return '';
 }
 function journeyPanel(){
