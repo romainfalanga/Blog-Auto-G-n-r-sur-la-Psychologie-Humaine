@@ -1,0 +1,1377 @@
+{
+  "domain": "humeur",
+  "symptoms": [
+    {
+      "id": "hum_periode_exaltation",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Vivre une période d'humeur très haute",
+      "description": "Plusieurs jours d'euphorie, d'exaltation ou d'enthousiasme débordant, nettement inhabituels pour soi.",
+      "examples": [
+        "Se sentir invincible sans raison particulière",
+        "Trouver tout merveilleux pendant une semaine"
+      ],
+      "safety": null,
+      "overlap_group": "humeur_haute",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque et hypomaniaque, caractéristique essentielle (état d'humeur extrême)",
+          "summary": "Une humeur exaltée, très différente de l'humeur habituelle, est au cœur des épisodes maniaques ou hypomaniaques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_energie_debordante",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir une période d'énergie débordante",
+      "description": "Pendant plusieurs jours, être bien plus actif que d'habitude et enchaîner les activités sans ressentir de fatigue.",
+      "examples": [
+        "Ranger toute la maison en pleine nuit",
+        "Lancer plusieurs projets à la fois"
+      ],
+      "safety": null,
+      "overlap_group": "energie_haute",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque et hypomaniaque, caractéristique essentielle (activité ou énergie accrue)",
+          "summary": "Une hausse marquée de l'activité ou de l'énergie accompagne l'humeur haute dans ces épisodes.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_moins_besoin_de_dormir",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir beaucoup moins besoin de dormir",
+      "description": "Dormir quelques heures seulement pendant plusieurs jours et se sentir quand même en pleine forme.",
+      "examples": [
+        "Dormir 3 heures et se lever plein d'entrain"
+      ],
+      "safety": null,
+      "overlap_group": "besoin_sommeil_reduit",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque, symptôme de la liste essentielle (besoin de sommeil réduit, distinct de l'insomnie)",
+          "summary": "Se sentir reposé avec très peu de sommeil, sans chercher à dormir plus, est un signe typique de ces épisodes.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_parler_sans_arret",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Parler beaucoup plus que d'habitude",
+      "description": "Avoir envie de parler sans arrêt, plus vite qu'avant, au point que les autres ont du mal à placer un mot.",
+      "examples": [
+        "Se faire dire « laisse-nous parler »"
+      ],
+      "safety": null,
+      "overlap_group": "debit_parole",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque, symptôme de la liste essentielle (loquacité accrue)",
+          "summary": "Un besoin pressant de parler, inhabituel pour la personne, fait partie des signes de ces épisodes.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_idees_qui_s_enchainent",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir des idées qui s'enchaînent très vite",
+      "description": "Sentir ses pensées filer d'une idée à l'autre, si vite qu'il devient difficile de suivre un seul sujet.",
+      "examples": [
+        "Commencer dix phrases sans en finir une"
+      ],
+      "safety": null,
+      "overlap_group": "pensees_rapides",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque, symptôme de la liste essentielle (pensées accélérées, fuite des idées)",
+          "summary": "Des pensées qui s'accélèrent pendant une période d'humeur haute sont un signe décrit pour ces épisodes.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_se_sentir_capable_de_tout",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Se sentir soudain capable de tout",
+      "description": "Pendant une période inhabituelle, se croire bien plus doué ou important que d'habitude.",
+      "examples": [
+        "Se lancer dans un projet très au-delà de ses moyens",
+        "Être sûr de devenir célèbre"
+      ],
+      "safety": null,
+      "overlap_group": "grandeur",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque, symptôme de la liste essentielle (estime de soi accrue, grandeur)",
+          "summary": "Une confiance en soi qui grimpe d'un coup, au-delà de ses capacités réelles, s'observe dans ces épisodes.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_risques_en_periode_haute",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Prendre des risques inhabituels en période d'euphorie",
+      "description": "Pendant une période d'humeur haute, faire des dépenses, des choix ou des sorties sans penser aux conséquences.",
+      "examples": [
+        "Dépenser ses économies en quelques jours",
+        "Démissionner sur un coup de tête"
+      ],
+      "safety": null,
+      "overlap_group": "impulsivite",
+      "links": [
+        {
+          "outcome": "icd_6a60",
+          "strength": "critere",
+          "basis": "CDDR, épisode maniaque, symptôme de la liste essentielle (comportements impulsifs et imprudents)",
+          "summary": "Des décisions risquées prises dans l'élan d'une période d'humeur haute font partie des signes de ces épisodes.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_moral_bas_depuis_longtemps",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir le moral bas presque en continu",
+      "description": "Se sentir abattu ou triste la plupart du temps, plus de jours que non, depuis au moins deux ans.",
+      "examples": [
+        "Ne plus se souvenir de la dernière fois où l'on allait bien"
+      ],
+      "safety": null,
+      "overlap_group": "humeur_triste",
+      "links": [
+        {
+          "outcome": "icd_6a72",
+          "strength": "critere",
+          "basis": "CDDR 6A72, caractéristique essentielle (humeur dépressive persistante, deux ans ou plus)",
+          "summary": "Une humeur basse presque continue pendant des années est l'élément central de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "dep_generale",
+          "strength": "moderee",
+          "basis": "CDDR 6A80.2, qualificatif d'épisode dépressif persistant",
+          "summary": "Une humeur basse qui dure très longtemps peut aussi accompagner un épisode dépressif prolongé.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_humeur_avant_les_regles",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir l'humeur qui change avant les règles",
+      "description": "Dans les jours avant les règles, être plus triste, irritable, anxieux ou à fleur de peau, puis aller mieux après.",
+      "examples": [
+        "Pleurer facilement la semaine qui précède les règles"
+      ],
+      "safety": null,
+      "overlap_group": "humeur_cyclique",
+      "links": [
+        {
+          "outcome": "ten_symptomes_premenstruels",
+          "strength": "critere",
+          "basis": "Définition du syndrome prémenstruel (Dilbaz et Aksan, 2021) ; CDDR GA34.41, symptôme affectif requis",
+          "summary": "Des changements d'humeur qui reviennent avant les règles et s'apaisent ensuite sont au cœur de ce sujet.",
+          "sources": [
+            "dilbaz2021",
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_corps_avant_les_regles",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir des gênes physiques avant les règles",
+      "description": "Avant les règles, avoir les seins sensibles, le ventre gonflé ou des douleurs, qui passent après le début des règles.",
+      "examples": [
+        "Se sentir ballonnée chaque mois avant les règles"
+      ],
+      "safety": null,
+      "overlap_group": "corps_cyclique",
+      "links": [
+        {
+          "outcome": "ten_symptomes_premenstruels",
+          "strength": "critere",
+          "basis": "Définition du syndrome prémenstruel (Dilbaz et Aksan, 2021) ; CDDR GA34.41, symptômes physiques",
+          "summary": "Des gênes physiques qui reviennent à chaque cycle avant les règles font partie de la définition de ce sujet.",
+          "sources": [
+            "dilbaz2021",
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_fatigue_avant_les_regles",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Se sentir sans énergie avant les règles",
+      "description": "Dans les jours avant les règles, être très fatiguée, dormir davantage ou avoir du mal à se concentrer.",
+      "examples": [
+        "Avoir besoin d'une sieste chaque jour la semaine d'avant"
+      ],
+      "safety": null,
+      "overlap_group": "energie_cyclique",
+      "links": [
+        {
+          "outcome": "ten_symptomes_premenstruels",
+          "strength": "critere",
+          "basis": "CDDR GA34.41, symptômes physiques ou cognitifs (fatigue, sommeil accru, concentration) ; Dilbaz et Aksan, 2021",
+          "summary": "Une baisse d'énergie qui suit le rythme du cycle fait partie des symptômes prémenstruels décrits.",
+          "sources": [
+            "oms_cddr",
+            "dilbaz2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_peur_d_etre_un_mauvais_parent",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Craindre de ne pas être un bon parent",
+      "description": "Pendant une grossesse ou depuis une naissance, se sentir incapable ou indigne de s'occuper de son bébé.",
+      "examples": [
+        "Penser que les autres s'occuperaient mieux du bébé"
+      ],
+      "safety": null,
+      "overlap_group": "valeur_culpabilite",
+      "links": [
+        {
+          "outcome": "ten_symptomes_depressifs_perinataux",
+          "strength": "critere",
+          "basis": "CDDR 6E20, présentations dépressives courantes ; Van Niel et Payne, 2020",
+          "summary": "Le sentiment d'être un mauvais parent est l'une des formes que prennent la dévalorisation et la culpabilité autour d'une naissance.",
+          "sources": [
+            "oms_cddr",
+            "vanniel2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_lien_difficile_avec_bebe",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir du mal à se sentir proche de son bébé",
+      "description": "Depuis une naissance, ressentir peu d'attachement ou de joie avec son bébé, et souvent s'en inquiéter.",
+      "examples": [
+        "S'occuper du bébé comme d'une tâche, sans élan"
+      ],
+      "safety": null,
+      "overlap_group": "lien_bebe",
+      "links": [
+        {
+          "outcome": "ten_symptomes_depressifs_perinataux",
+          "strength": "moderee",
+          "basis": "CDDR 6E20, présentations dépressives courantes ; Van Niel et Payne, 2020",
+          "summary": "Une difficulté à créer le lien avec le bébé est décrite dans la souffrance dépressive après une naissance.",
+          "sources": [
+            "oms_cddr",
+            "vanniel2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_manque_intense_d_un_defunt",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Ressentir un manque intense d'une personne décédée",
+      "description": "Un désir douloureux et constant de retrouver un proche mort, au moins six mois après le décès.",
+      "examples": [
+        "Attendre encore son appel le soir"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_manque",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (nostalgie persistante du défunt)",
+          "summary": "Un manque envahissant de la personne disparue, qui dure, est l'un des deux signes centraux de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_pensees_tournees_vers_defunt",
+      "canonical": false,
+      "theme": "souvenirs_alerte",
+      "label": "Avoir l'esprit occupé par une personne décédée",
+      "description": "Penser sans cesse à un proche mort ou aux circonstances de sa mort, au moins six mois après le décès.",
+      "examples": [
+        "Repasser la journée du décès dans sa tête",
+        "Garder sa chambre intacte"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_preoccupation",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (préoccupation persistante pour le défunt)",
+          "summary": "Des pensées qui reviennent sans cesse vers le défunt sont l'autre signe central de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_mal_a_accepter_un_deces",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir du mal à accepter un décès",
+      "description": "Avoir encore du mal à croire ou à admettre qu'un proche est mort, longtemps après sa disparition.",
+      "examples": [
+        "Se dire « ce n'est pas possible » des mois plus tard"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_acceptation",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (douleur émotionnelle intense : difficulté à accepter la mort, déni)",
+          "summary": "La difficulté à accepter la réalité de la perte fait partie de la douleur décrite dans ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_partie_de_soi_perdue",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Sentir qu'une partie de soi est partie avec un défunt",
+      "description": "Depuis la mort d'un proche, avoir l'impression d'être incomplet ou de ne plus savoir qui l'on est.",
+      "examples": [
+        "Se sentir « à moitié vivant » depuis le décès"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_identite",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (sentiment d'avoir perdu une partie de soi)",
+          "summary": "Ce sentiment de perte de soi est décrit parmi les formes de douleur propres à ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_reproches_autour_d_un_deces",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Ressentir colère ou culpabilité au sujet d'un décès",
+      "description": "Se reprocher la mort d'un proche, ou en vouloir à quelqu'un, au point que cela reste très présent.",
+      "examples": [
+        "Se répéter « j'aurais dû l'emmener chez le médecin »"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_reproches",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (douleur émotionnelle : culpabilité, colère, reproches)",
+          "summary": "Culpabilité, colère ou reproches liés à la perte font partie de la douleur décrite dans ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_engourdi_depuis_un_deces",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Se sentir engourdi depuis un décès",
+      "description": "Depuis la mort d'un proche, ne plus ressentir grand-chose, comme si les émotions étaient éteintes.",
+      "examples": [
+        "Ne pas réussir à être ému par une bonne nouvelle"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_engourdissement",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (engourdissement émotionnel)",
+          "summary": "Une forme d'anesthésie des émotions après la perte fait partie des manifestations de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_vie_en_suspens_apres_un_deces",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir du mal à reprendre sa vie après un décès",
+      "description": "Longtemps après la mort d'un proche, peiner à retrouver ses activités, ses projets ou ses relations.",
+      "examples": [
+        "Ne plus voir ses amis depuis l'enterrement"
+      ],
+      "safety": null,
+      "overlap_group": "deuil_engagement",
+      "links": [
+        {
+          "outcome": "icd_6b42",
+          "strength": "critere",
+          "basis": "CDDR 6B42, caractéristique essentielle (difficulté à s'engager dans les activités sociales ou autres)",
+          "summary": "La difficulté à se réengager dans la vie quotidienne après la perte fait partie de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "szuhany2021"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_reflechir_a_un_moyen",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir réfléchi à la façon de mettre fin à ses jours",
+      "description": "Penser à un moyen, un lieu ou un moment pour se suicider, que l'idée soit vague ou précise.",
+      "examples": [],
+      "safety": "suicide",
+      "overlap_group": "moyen_suicide",
+      "links": [
+        {
+          "outcome": "ten_idees_suicidaires",
+          "strength": "critere",
+          "basis": "CDDR MB26.A (idées allant jusqu'à des plans élaborés) ; C-SSRS, niveaux « méthode » et « plan » (Posner et al., 2011)",
+          "summary": "Penser à la manière de mourir est une forme d'idée suicidaire décrite par ces sources.",
+          "sources": [
+            "oms_cddr",
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_conduites_suicidaires",
+          "strength": "critere",
+          "basis": "CDDR MB26.A ; C-SSRS (Posner et al., 2011)",
+          "summary": "Envisager un moyen fait partie des idées et projets de suicide que couvre ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "posner2011"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_intention_de_passer_a_l_acte",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir eu l'intention de mettre fin à ses jours",
+      "description": "Avoir pensé qu'on allait réellement le faire, et pas seulement l'avoir imaginé.",
+      "examples": [],
+      "safety": "suicide",
+      "overlap_group": "intention_suicide",
+      "links": [
+        {
+          "outcome": "ten_idees_suicidaires",
+          "strength": "critere",
+          "basis": "C-SSRS, niveau « intention suicidaire » (Posner et al., 2011)",
+          "summary": "L'intention d'agir est un niveau d'idée suicidaire distinct décrit par cette échelle.",
+          "sources": [
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_conduites_suicidaires",
+          "strength": "critere",
+          "basis": "C-SSRS (Posner et al., 2011)",
+          "summary": "L'intention de passer à l'acte fait partie des idées et projets de suicide que couvre ce sujet.",
+          "sources": [
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_tentatives_suicide",
+          "strength": "moderee",
+          "basis": "CDDR MB23.R : une tentative suppose l'intention consciente de mourir",
+          "summary": "L'intention de mourir est ce qui distingue une tentative d'un geste sans cette intention, sans en être une à elle seule.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_preparatifs_suicide",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir fait des préparatifs pour mettre fin à ses jours",
+      "description": "Avoir accompli des gestes concrets en vue d'un suicide, sans aller jusqu'à une tentative.",
+      "examples": [
+        "Mettre de côté des médicaments",
+        "Écrire une lettre d'adieu"
+      ],
+      "safety": "suicide",
+      "overlap_group": "preparatifs_suicide",
+      "links": [
+        {
+          "outcome": "ten_conduites_suicidaires",
+          "strength": "critere",
+          "basis": "CDDR MB23.S (comportement suicidaire préparatoire) ; C-SSRS, actes préparatoires (Posner et al., 2011)",
+          "summary": "Les préparatifs concrets font partie des conduites suicidaires décrites par ces sources.",
+          "sources": [
+            "oms_cddr",
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_tentatives_suicide",
+          "strength": "moderee",
+          "basis": "CDDR MB23.S : actes préparatoires distingués d'une tentative",
+          "summary": "Les préparatifs sont proches d'une tentative mais en sont distingués par la classification.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_idees_suicidaires",
+          "strength": "moderee",
+          "basis": "CDDR MB23.S : actes accomplis pour réaliser un souhait de mourir",
+          "summary": "Des préparatifs supposent des pensées de suicide, mais ils relèvent d'abord des conduites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_tentative_de_suicide",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir fait une tentative de suicide",
+      "description": "Avoir accompli un geste pour se donner la mort, avec l'intention de mourir, quelle qu'en ait été l'issue.",
+      "examples": [],
+      "safety": "suicide",
+      "overlap_group": "tentative_suicide",
+      "links": [
+        {
+          "outcome": "ten_tentatives_suicide",
+          "strength": "critere",
+          "basis": "CDDR MB23.R (tentative de suicide) ; C-SSRS, tentative réelle (Posner et al., 2011)",
+          "summary": "Un geste accompli avec l'intention de mourir correspond à la définition même de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_conduites_suicidaires",
+          "strength": "critere",
+          "basis": "CDDR MB23.R ; C-SSRS (Posner et al., 2011)",
+          "summary": "Une tentative fait partie des conduites que couvre ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "dep_generale",
+          "strength": "moderee",
+          "basis": "CDDR, épisode dépressif : une tentative compte dans le même symptôme que les idées de mort",
+          "summary": "Une tentative récente peut s'inscrire dans un épisode dépressif, sans en être un signe propre.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_geste_suicidaire_interrompu",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir été arrêté au moment d'un geste suicidaire",
+      "description": "Avoir été empêché par quelqu'un ou par un événement alors qu'on commençait un geste pour mettre fin à ses jours.",
+      "examples": [],
+      "safety": "suicide",
+      "overlap_group": "tentative_interrompue",
+      "links": [
+        {
+          "outcome": "ten_tentatives_suicide",
+          "strength": "critere",
+          "basis": "C-SSRS, tentative interrompue (Posner et al., 2011)",
+          "summary": "La tentative interrompue est une catégorie de tentative distinguée par cette échelle.",
+          "sources": [
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_conduites_suicidaires",
+          "strength": "critere",
+          "basis": "C-SSRS, tentative interrompue (Posner et al., 2011)",
+          "summary": "Un geste suicidaire interrompu fait partie des conduites que couvre ce sujet.",
+          "sources": [
+            "posner2011"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hum_geste_suicidaire_abandonne",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "S'être arrêté soi-même au moment d'un geste suicidaire",
+      "description": "Avoir commencé à agir pour mettre fin à ses jours, puis avoir renoncé de soi-même avant d'aller au bout.",
+      "examples": [],
+      "safety": "suicide",
+      "overlap_group": "tentative_abandonnee",
+      "links": [
+        {
+          "outcome": "ten_tentatives_suicide",
+          "strength": "critere",
+          "basis": "C-SSRS, tentative avortée ou interrompue par soi-même (Posner et al., 2011)",
+          "summary": "La tentative arrêtée par la personne elle-même est une catégorie de tentative distinguée par cette échelle.",
+          "sources": [
+            "posner2011"
+          ]
+        },
+        {
+          "outcome": "ten_conduites_suicidaires",
+          "strength": "critere",
+          "basis": "C-SSRS, tentative avortée (Posner et al., 2011)",
+          "summary": "Un geste suicidaire abandonné fait partie des conduites que couvre ce sujet.",
+          "sources": [
+            "posner2011"
+          ]
+        }
+      ]
+    }
+  ],
+  "links_to_canonical": [
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe affective)",
+      "summary": "Une humeur triste presque tous les jours est l'un des deux signes centraux d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe affective)",
+      "summary": "La perte d'intérêt ou de plaisir est l'autre signe central d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe cognitive et comportementale)",
+      "summary": "Une concentration qui baisse fait partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_sentir_sans_valeur",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe cognitive et comportementale)",
+      "summary": "Une faible estime de soi fait partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "culpabilite_excessive",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe cognitive et comportementale)",
+      "summary": "Une culpabilité excessive fait partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "desespoir_avenir",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe cognitive et comportementale)",
+      "summary": "Le manque d'espoir pour l'avenir est un signe retenu pour l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe cognitive et comportementale)",
+      "summary": "Des pensées de mort ou de suicide qui reviennent font partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe neurovégétative : sommeil perturbé)",
+      "summary": "Un endormissement difficile est une des formes de sommeil perturbé de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "trop_dormir",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe neurovégétative : sommeil excessif)",
+      "summary": "Dormir beaucoup plus est l'autre forme de changement du sommeil décrite.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe neurovégétative)",
+      "summary": "Un appétit nettement changé fait partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "ralentissement_agitation",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe neurovégétative)",
+      "summary": "Un ralentissement ou une agitation visibles font partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "fatigue_manque_energie",
+      "outcome": "dep_generale",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (grappe neurovégétative)",
+      "summary": "Une fatigue marquée au moindre effort fait partie des signes d'un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "reveils_nocturnes",
+      "outcome": "dep_generale",
+      "strength": "moderee",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (sommeil perturbé) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "summary": "Les réveils fréquents ou trop matinaux sont une forme de sommeil perturbé de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_a_decider",
+      "outcome": "dep_generale",
+      "strength": "moderee",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (indécision) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "summary": "Une indécision marquée accompagne souvent la baisse de concentration de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "irritabilite",
+      "outcome": "dep_generale",
+      "strength": "moderee",
+      "basis": "CDDR, épisode dépressif, caractéristiques additionnelles (humeur vécue comme irritabilité)",
+      "summary": "Chez certaines personnes, l'humeur dépressive se vit surtout comme de l'irritabilité.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "peu_de_desir_sexuel",
+      "outcome": "dep_generale",
+      "strength": "moderee",
+      "basis": "CDDR, épisode dépressif, note de la grappe affective (baisse du désir sexuel)",
+      "summary": "La perte de plaisir peut inclure une baisse du désir sexuel.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_retirer_des_autres",
+      "outcome": "dep_generale",
+      "strength": "moderee",
+      "basis": "CDDR, limite avec le deuil prolongé (retrait social courant dans l'épisode dépressif)",
+      "summary": "Se replier sur soi est un signe fréquent dans un épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "inquietude_difficile_a_arreter",
+      "outcome": "dep_generale",
+      "strength": "limitee",
+      "basis": "CDDR 6A80.0, qualificatif « symptômes anxieux marqués »",
+      "summary": "Des inquiétudes accompagnent souvent un épisode dépressif, mais ce signe est très répandu.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (humeur dépressive persistante)",
+      "summary": "Une humeur triste la plupart du temps est le fond de ce sujet, à condition qu'elle dure des années.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Une baisse de l'intérêt ou du plaisir fait partie des signes qui accompagnent l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Une concentration réduite fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_sentir_sans_valeur",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Une faible estime de soi fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "culpabilite_excessive",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Une culpabilité excessive fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "desespoir_avenir",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Le manque d'espoir pour l'avenir fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "fatigue_manque_energie",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Une énergie basse fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive)",
+      "summary": "Un appétit diminué ou augmenté fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (sommeil perturbé)",
+      "summary": "Un sommeil perturbé fait partie des signes associés à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "reveils_nocturnes",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (sommeil perturbé)",
+      "summary": "Des réveils nocturnes sont une forme de sommeil perturbé associée à l'humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "trop_dormir",
+      "outcome": "icd_6a72",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (sommeil accru)",
+      "summary": "Dormir davantage est l'autre forme de changement du sommeil décrite.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_a_decider",
+      "outcome": "icd_6a72",
+      "strength": "moderee",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (indécision) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "summary": "L'indécision peut accompagner une humeur basse durable.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "icd_6a72",
+      "strength": "moderee",
+      "basis": "CDDR 6A72, caractéristiques additionnelles (risque suicidaire nettement plus élevé)",
+      "summary": "Les pensées de mort sont plus fréquentes chez les personnes concernées, sans faire partie des signes requis.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "agir_sur_un_coup_de_tete",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "basis": "CDDR, épisode maniaque, liste essentielle (comportement impulsif) ; question générale, hors période d'humeur haute",
+      "summary": "Agir sans réfléchir peut se voir dans une période d'humeur haute, mais la question ne vise pas cette période.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "basis": "CDDR, épisode maniaque, liste essentielle (distractibilité) ; question générale",
+      "summary": "Être facilement distrait fait partie des signes possibles d'une période d'humeur haute, sans y être propre.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "irritabilite",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "basis": "CDDR, épisode maniaque, caractéristique essentielle (l'humeur extrême peut être irritable) ; question générale",
+      "summary": "L'humeur d'une période haute peut être surtout irritable plutôt qu'euphorique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "humeur_qui_change_vite",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "basis": "CDDR, épisode maniaque, caractéristique essentielle (labilité de l'humeur fréquente)",
+      "summary": "Des passages rapides d'une humeur à l'autre sont courants pendant ces épisodes.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "basis": "CDDR 6A60, évolution typique avec épisodes dépressifs récurrents",
+      "summary": "Des périodes dépressives alternent souvent avec les périodes d'humeur haute.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "icd_6a60",
+      "strength": "moderee",
+      "basis": "CDDR 6A60, évolution typique avec épisodes dépressifs récurrents",
+      "summary": "La perte d'intérêt des périodes dépressives fait souvent partie de l'évolution.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "icd_6b42",
+      "strength": "moderee",
+      "basis": "CDDR 6B42, caractéristique essentielle (incapacité à ressentir une humeur positive) ; question générale, non centrée sur la perte",
+      "summary": "Ne plus éprouver de plaisir est décrit dans le deuil prolongé, mais la question ne précise pas le lien avec le décès.",
+      "sources": [
+        "oms_cddr",
+        "szuhany2021"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "icd_6b42",
+      "strength": "moderee",
+      "basis": "CDDR 6B42, caractéristique essentielle (tristesse) ; question générale, non centrée sur la perte",
+      "summary": "La tristesse fait partie de la douleur du deuil prolongé, mais elle n'y est pas propre.",
+      "sources": [
+        "oms_cddr",
+        "szuhany2021"
+      ]
+    },
+    {
+      "symptom": "se_mefier_des_autres",
+      "outcome": "icd_6b42",
+      "strength": "moderee",
+      "basis": "CDDR 6B42, caractéristiques additionnelles (difficulté à faire confiance)",
+      "summary": "Une difficulté à faire confiance aux autres est décrite chez les personnes en deuil prolongé.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_retirer_des_autres",
+      "outcome": "icd_6b42",
+      "strength": "moderee",
+      "basis": "CDDR 6B42, caractéristiques additionnelles (retrait social)",
+      "summary": "Le repli sur soi est décrit chez les personnes en deuil prolongé.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "icd_6b42",
+      "strength": "moderee",
+      "basis": "CDDR 6B42, caractéristiques additionnelles (idées suicidaires accrues)",
+      "summary": "Des pensées de mort peuvent augmenter au cours d'un deuil prolongé.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "icd_6b42",
+      "strength": "limitee",
+      "basis": "CDDR 6B42, caractéristiques additionnelles (hausse de l'usage d'alcool, de tabac ou d'autres produits)",
+      "summary": "Consommer davantage peut accompagner un deuil prolongé, mais ce signe est très répandu.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "ten_idees_suicidaires",
+      "strength": "critere",
+      "basis": "CDDR MB26.A (idées suicidaires) ; C-SSRS, souhait d'être mort et pensées actives (Posner et al., 2011)",
+      "summary": "Penser à la mort ou au suicide correspond à la définition même de ce sujet.",
+      "sources": [
+        "oms_cddr",
+        "posner2011"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "ten_conduites_suicidaires",
+      "strength": "critere",
+      "basis": "CDDR MB26.A ; C-SSRS (Posner et al., 2011)",
+      "summary": "Les idées de mort font partie de ce que couvre ce sujet.",
+      "sources": [
+        "oms_cddr",
+        "posner2011"
+      ]
+    },
+    {
+      "symptom": "se_faire_du_mal",
+      "outcome": "ten_conduites_suicidaires",
+      "strength": "critere",
+      "basis": "Définition du sujet (« automutilations ») ; CDDR MB23.E (automutilation non suicidaire)",
+      "summary": "Se blesser volontairement fait partie des conduites réunies sous ce sujet, même sans intention de mourir.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "critere",
+      "basis": "Définition du sujet (souffrance dépressive) ; CDDR 6E20, présentations dépressives ; Van Niel et Payne, 2020",
+      "summary": "Une humeur triste pendant la grossesse ou après la naissance est au cœur de ce sujet.",
+      "sources": [
+        "oms_cddr",
+        "vanniel2020"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "critere",
+      "basis": "Définition du sujet (souffrance dépressive) ; CDDR 6E20 ; Van Niel et Payne, 2020",
+      "summary": "Une perte d'intérêt pour la vie ou pour l'enfant est décrite dans la souffrance dépressive périnatale.",
+      "sources": [
+        "oms_cddr",
+        "vanniel2020"
+      ]
+    },
+    {
+      "symptom": "culpabilite_excessive",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "critere",
+      "basis": "CDDR 6E20, présentations dépressives (culpabilité, honte, sentiment d'insuffisance)",
+      "summary": "La culpabilité est souvent marquée dans la souffrance dépressive autour d'une naissance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_sentir_sans_valeur",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "basis": "CDDR 6E20, présentations dépressives (sentiment d'inutilité)",
+      "summary": "Se sentir sans valeur fait partie des présentations dépressives décrites autour d'une naissance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "irritabilite",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "basis": "CDDR 6E20, présentations dépressives (irritabilité et colère intenses)",
+      "summary": "Une irritabilité marquée est décrite dans la souffrance dépressive périnatale.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "inquietude_difficile_a_arreter",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "basis": "CDDR 6E20, symptômes anxieux ; Van Niel et Payne, 2020 (anxiété fréquemment associée)",
+      "summary": "L'anxiété accompagne très souvent la souffrance dépressive autour d'une naissance.",
+      "sources": [
+        "oms_cddr",
+        "vanniel2020"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "basis": "CDDR 6E20, présentations dépressives (pensées de se faire du mal) ; Van Niel et Payne, 2020",
+      "summary": "Des pensées de se faire du mal peuvent apparaître dans la souffrance dépressive périnatale.",
+      "sources": [
+        "oms_cddr",
+        "vanniel2020"
+      ]
+    },
+    {
+      "symptom": "se_retirer_des_autres",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "basis": "CDDR 6E20, présentations dépressives (retrait de la famille et des amis)",
+      "summary": "Se tenir à l'écart des proches est décrit dans la souffrance dépressive périnatale.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "moderee",
+      "basis": "CDDR 6E20, présentations dépressives (difficulté à penser clairement, à se concentrer)",
+      "summary": "Une pensée moins claire fait partie des présentations décrites autour d'une naissance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "fatigue_manque_energie",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "limitee",
+      "basis": "CDDR 6E20 ; signe très fréquent après toute naissance",
+      "summary": "La fatigue est décrite, mais elle est très courante après une naissance, même sans souffrance dépressive.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "limitee",
+      "basis": "CDDR 6E20 ; sommeil souvent perturbé après toute naissance",
+      "summary": "Le sommeil est souvent bousculé après une naissance, ce qui rend ce signe peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "strength": "limitee",
+      "basis": "CDDR 6E20 ; appétit souvent modifié pendant la grossesse",
+      "summary": "L'appétit change souvent pendant la grossesse, ce qui rend ce signe peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "irritabilite",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "moderee",
+      "basis": "CDDR GA34.41 (irritabilité) ; Dilbaz et Aksan, 2021 ; question générale, non liée au cycle",
+      "summary": "L'irritabilité est fréquente avant les règles, mais la question ne précise pas le lien avec le cycle.",
+      "sources": [
+        "oms_cddr",
+        "dilbaz2021"
+      ]
+    },
+    {
+      "symptom": "humeur_qui_change_vite",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "moderee",
+      "basis": "CDDR GA34.41 (labilité de l'humeur) ; Dilbaz et Aksan, 2021 ; question générale",
+      "summary": "Des sautes d'humeur sont décrites avant les règles, sans que la question vise le cycle.",
+      "sources": [
+        "oms_cddr",
+        "dilbaz2021"
+      ]
+    },
+    {
+      "symptom": "nervosite",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "limitee",
+      "basis": "CDDR GA34.41 (anxiété) ; question générale, signe très répandu",
+      "summary": "L'anxiété peut augmenter avant les règles, mais ce signe est très répandu en dehors du cycle.",
+      "sources": [
+        "oms_cddr",
+        "dilbaz2021"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "ten_symptomes_premenstruels",
+      "strength": "limitee",
+      "basis": "CDDR GA34.41 (hyperphagie) ; Dilbaz et Aksan, 2021 (fringales) ; question générale",
+      "summary": "Des fringales peuvent survenir avant les règles, mais la question ne vise pas le cycle.",
+      "sources": [
+        "oms_cddr",
+        "dilbaz2021"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "oms_cddr",
+      "type": "classification",
+      "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+      "url": "https://www.who.int/publications/i/item/9789240077263",
+      "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+    },
+    {
+      "id": "posner2011",
+      "type": "etude",
+      "citation": "Posner K, Brown GK, Stanley B, et al., 2011, The Columbia–Suicide Severity Rating Scale: initial validity and internal consistency findings from three multisite studies with adolescents and adults, American Journal of Psychiatry 168(12):1266-1277, doi:10.1176/appi.ajp.2011.10111704",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3893686/",
+      "licence": "Manuscrit auteur en libre accès (PMC) ; catégories citées et paraphrasées, aucun item recopié"
+    },
+    {
+      "id": "szuhany2021",
+      "type": "revue",
+      "citation": "Szuhany KL, Malgaroli M, Miron CD, Simon NM, 2021, Prolonged grief disorder: course, diagnosis, assessment, and treatment, Focus (American Psychiatric Publishing) 19(2):161-172, doi:10.1176/appi.focus.20200052",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475918/",
+      "licence": "© 2021 American Psychiatric Association, lecture libre sur PMC ; cité et paraphrasé seulement"
+    },
+    {
+      "id": "dilbaz2021",
+      "type": "revue",
+      "citation": "Dilbaz B, Aksan A, 2021, Premenstrual syndrome, a common but underrated entity: review of the clinical literature, Journal of the Turkish-German Gynecological Association 22(2):139-148, doi:10.4274/jtgga.galenos.2021.2020.0133",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8187976/",
+      "licence": "© 2021 Turkish-German Gynecological Education and Research Foundation, lecture libre sur PMC ; cité et paraphrasé seulement"
+    },
+    {
+      "id": "vanniel2020",
+      "type": "revue",
+      "citation": "Van Niel MS, Payne JL, 2020, Perinatal depression: a review, Cleveland Clinic Journal of Medicine 87(5):273-277, doi:10.3949/ccjm.87a.19054",
+      "url": "https://www.ccjm.org/content/87/5/273",
+      "licence": "© 2020 The Cleveland Clinic Foundation, tous droits réservés ; cité et paraphrasé seulement"
+    }
+  ]
+}

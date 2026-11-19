@@ -8,7 +8,7 @@
    "label": "Avoir du mal à dire ce qu'on ressent",
    "description": "Chercher ses mots ou rester sans réponse quand quelqu'un demande comment on se sent vraiment.",
    "examples": [
-    "Répondre « ça va » faute de savoir quoi dire d'autre",
+    "Répondre « ça va » sans savoir quoi dire d'autre",
     "Ne pas réussir à expliquer à son conjoint ce qui a blessé"
    ],
    "safety": null,
@@ -17,10 +17,9 @@
     {
      "outcome": "ten_alexithymie",
      "strength": "critere",
-     "basis": "Définition de l'alexithymie : difficulté à décrire ses sentiments aux autres (Bagby et coll., 1994 ; Preece et coll., 2017 ; Luminet et coll., 2021)",
+     "basis": "Définition de l'alexithymie : difficulté à décrire ses sentiments aux autres (Preece et coll., 2017 ; Luminet et coll., 2021)",
      "summary": "Avoir peu de mots pour transmettre ce que l'on ressent est l'une des facettes qui définissent ce sujet.",
      "sources": [
-      "bagby1994_tas20",
       "preece2017_alexithymie",
       "luminet2021_alexithymie"
      ]
@@ -619,10 +618,9 @@
    "symptom": "mal_a_savoir_ce_qu_on_ressent",
    "outcome": "ten_alexithymie",
    "strength": "critere",
-   "basis": "Définition de l'alexithymie : difficulté à identifier ses sentiments (Bagby et coll., 1994 ; Preece et coll., 2017 ; Luminet et coll., 2021)",
+   "basis": "Définition de l'alexithymie : difficulté à identifier ses sentiments (Preece et coll., 2017 ; Luminet et coll., 2021)",
    "summary": "Ne pas parvenir à reconnaître l'émotion que l'on ressent est la facette centrale de ce sujet.",
    "sources": [
-    "bagby1994_tas20",
     "preece2017_alexithymie",
     "luminet2021_alexithymie"
    ]
@@ -801,16 +799,6 @@
    ]
   },
   {
-   "symptom": "mal_a_s_endormir",
-   "outcome": "ten_rumination",
-   "strength": "limitee",
-   "basis": "Signe fréquent et non spécifique ; la description canonique mentionne des pensées qui tournent au coucher",
-   "summary": "Les pensées en boucle peuvent retarder l'endormissement, comme bien d'autres préoccupations.",
-   "sources": [
-    "watkins2008_pensee_repetitive"
-   ]
-  },
-  {
    "symptom": "garder_ses_emotions_pour_soi",
    "outcome": "pat_emotional_suppression",
    "strength": "critere",
@@ -923,13 +911,6 @@
   }
  ],
  "sources": [
-  {
-   "id": "bagby1994_tas20",
-   "type": "etude",
-   "citation": "Bagby RM, Parker JD, Taylor GJ, 1994, The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure, Journal of Psychosomatic Research 38(1):23-32, doi:10.1016/0022-3999(94)90005-1",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/8126686/",
-   "licence": "Résumé PubMed lu (E-utilities, 2026-11-19) ; © Elsevier, aucun item repris"
-  },
   {
    "id": "preece2017_alexithymie",
    "type": "etude",
