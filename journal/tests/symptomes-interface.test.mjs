@@ -159,7 +159,9 @@ test('safety: « oui » to item 9 opens the blocking screen at once, before the 
  const dialog=env.doc.modals.at(-1);assert.ok(dialog&&dialog.open,'screen shown');assert.equal(writes(),before,'no wait for the API');
  assert.match(dialog.textContent,/Merci de l’avoir dit/);assert.match(dialog.textContent,/3114/);assert.match(dialog.textContent,/0 800 235 236/,'Fil Santé Jeunes for 18–25');
  assert.doesNotMatch(dialog.textContent,/risque|score/i);
- assert.deepEqual(plain(dialog.querySelectorAll('button').map(x=>x.textContent)),S.safety.display.blocking_screen.buttons);
+ // No AI key here: Ambre does not follow the safety protocol for this account, its button is hidden.
+ assert.equal(env.ctx.SY.page.safety.ambre_available,false);
+ assert.deepEqual(plain(dialog.querySelectorAll('button').map(x=>x.textContent)),S.safety.display.blocking_screen.buttons.filter(b=>!/Ambre/.test(b)));
  assert.equal(await dialog.fire('cancel'),true,'Escape does not close it');
  await env.runTimers();assert.ok(writes()>before,'autosave writes the dated alert');
  assert.equal(b.raw.prepare("SELECT count(*) n FROM symptom_safety_alerts WHERE trigger_id='phq9_item9'").get().n,1);
@@ -168,8 +170,10 @@ test('safety: « oui » to item 9 opens the blocking screen at once, before the 
  await button(env.view,'Reprendre le questionnaire').fire('click');assert.ok(env.view.querySelector('[data-module="humeur"]'));assert.ok(env.view.querySelector('#sy-safety-box'));
  // Same answer again: no second screen; violences: quick exit.
  const count=env.doc.modals.length;await choice(env.view,'phq9_8','0').fire('click');assert.equal(env.doc.modals.length,count);
+ env.ctx.SY.page.safety.ambre_available=true;
  env.ctx.syChosen().relations=true;env.ctx.syRender();await choice(env.view,'rel_violences','oui').fire('click');
- const violence=env.doc.modals.at(-1);assert.match(violence.textContent,/3919/);await button(violence,'Quitter vite cette page').fire('click');assert.equal(env.ctx.location.replaced,'https://www.google.fr/');
+ const violence=env.doc.modals.at(-1);
+ assert.deepEqual(plain(violence.querySelector('.sy-safety-actions').querySelectorAll('button').map(x=>x.textContent)),S.safety.display.blocking_screen.buttons,'Ambre shown when available');assert.match(violence.textContent,/3919/);await button(violence,'Quitter vite cette page').fire('click');assert.equal(env.ctx.location.replaced,'https://www.google.fr/');
 });
 
 test('the universal question is asked once on screen for the first step; « pref » shows the soft block only',async()=>{

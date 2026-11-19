@@ -150,7 +150,9 @@ function sySafetyDialog(screen){
  (screen.messages||[]).forEach(function(text){dialog.append(el('p','sy-safety-message',String(text).replace(/^Merci de l’avoir dit\.\s*/,'')))});
  dialog.append(el('p','sy-safety-always',screen.always));dialog.append(syResources(screen.resources));
  var actions=el('div','sy-safety-actions');
- (screen.buttons||[]).forEach(function(label){var kind=/Ambre/.test(label)?'ambre':/^Arr/.test(label)?'stop':'continue';
+ // « Écrire à Ambre » only when Ambre follows the deterministic safety protocol for this account (lot C).
+ var ambre=Boolean(SY.page&&SY.page.safety&&SY.page.safety.ambre_available);
+ (screen.buttons||[]).filter(function(label){return ambre||!/Ambre/.test(label)}).forEach(function(label){var kind=/Ambre/.test(label)?'ambre':/^Arr/.test(label)?'stop':'continue';
   actions.append(actionButton(label,function(){dialog.close();dialog.remove();
    if(kind==='ambre'){if(typeof go==='function')go('chat');else location.assign('/mon-accompagnement/');return}
    if(kind==='stop'){SY.stopped=true;syRender();var top=document.getElementById('sy-safety-box');if(top&&top.scrollIntoView)top.scrollIntoView({block:'start'});return}
@@ -392,7 +394,7 @@ function syDataSection(){
 function syConsentSection(){
  var F=syData().fixed_texts,section=el('section','sy-section sy-consent');section.append(el('h2','','Avant de commencer'));
  var list=el('ul','sy-consent-list');
- [F.privacy_sensitive,'Ces questionnaires repèrent des difficultés ; ils ne posent pas de diagnostic.','Ambre ne reçoit jamais vos réponses. Quand elle pourra en tenir compte, elle recevra seulement un résumé des thèmes au-dessus du repère ; Paramètres vous montrera ce résumé.','Vous pouvez retirer votre accord à tout moment.'].forEach(function(text){list.append(el('li','',text))});
+ [F.privacy_sensitive,'Ces questionnaires repèrent des difficultés ; ils ne posent pas de diagnostic.','Avec votre accord, Ambre reçoit seulement un résumé des thèmes au-dessus du repère, avec leur date ; jamais vos réponses ni aucun score. Paramètres vous montre ce résumé.','Vous pouvez retirer votre accord à tout moment.'].forEach(function(text){list.append(el('li','',text))});
  section.append(list);
  var feedback=el('p','status');feedback.setAttribute('role','status');
  var accept=actionButton('J’accepte et je commence',async function(){accept.disabled=true;try{await api('/api/symptomes/consent','PUT',{consent:true});await syReload()}catch(err){feedback.textContent=err.message;feedback.className='status error';accept.disabled=false;if(['minor','birth_date_required'].indexOf(err.code)>=0)syReload()}});
