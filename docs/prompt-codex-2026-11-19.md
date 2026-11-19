@@ -1,4 +1,4 @@
-Tu reprends le chantier du site « Décode ton esprit » (https://decodetonesprit.fr), dépôt `romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine`, branche `claude/affectionate-wright-eq5kgo` (en avance sur `main`, non déployée).
+Tu reprends le chantier du site « Décode ton esprit » (https://decodetonesprit.fr), dépôt `romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine`, branche `claude/affectionate-wright-eq5kgo` (la partie terminée est publiée par la PR 104).
 
 Lis d'abord, dans cet ordre : `AGENTS.md`, `docs/reprise-2026-11-19-codex.md` (état exact et procédure de déploiement), `docs/plan-mes-symptomes-v2-2026-11-19.md` (§ 0 = demande du propriétaire, section « Version 2.1 » et § 5 = plan qui fait foi), `editorial/symptomes/v2/DECISIONS.md` et `CONSIGNES.md`. Fais `git status` et lance les tests (`npm --prefix journal test`, `node --test tests/*.test.cjs` avec `HUGO_BIN`) avant de modifier quoi que ce soit.
 
