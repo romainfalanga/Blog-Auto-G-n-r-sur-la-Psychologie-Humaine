@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';
 import {setup,provider} from './v4-R-helper.mjs';
 import {readSnapshotSource,snapshotChunks,readReviewSnapshot,exportReviewSnapshots} from '../src/review-snapshot.mjs';
-const PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+const PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes',no_internal:'yes'},reasons:[]};
 const output={content:'Nous pouvons explorer ce que vous avez déclaré, en gardant les nuances et les informations manquantes. '.repeat(18)};
 async function ready(t){const s=setup();t.after(()=>s.raw.close());await s.ready();return s;}
 const mock=(t,inspect)=>provider(t,(purpose,body,calls)=>{inspect?.(purpose,body,calls);if(purpose==='ambre_snapshot_chunk'){const chunk=JSON.parse(body.messages[1].content);return {summary:'Bloc '+chunk.index+' analysé avec ses déclarations et nuances.',quotes:[]};}if(purpose==='ambre_review')return output;if(purpose==='ambre_review_check')return PASS;});

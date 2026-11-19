@@ -348,6 +348,11 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .chat-message h3 { margin: 0 0 var(--s1); color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); }
 .chat-user { width: fit-content; margin-left: auto; padding: var(--s3) var(--s4); border-radius: var(--r-card); background: var(--accent-wash); }
 .chat-content { margin: 0; line-height: 1.65; white-space: pre-wrap; overflow-wrap: anywhere; }
+.chat-structured { white-space: normal; }
+.chat-structured .chat-paragraph { margin: 0 0 var(--s3); white-space: pre-line; }
+.chat-questions { margin: var(--s3) 0 0; padding: var(--s3) var(--s4); list-style: none; border-left: 3px solid var(--line); background: var(--surface); border-radius: var(--r-card); }
+.chat-questions li { margin: 0; line-height: 1.6; }
+.chat-questions li + li { margin-top: var(--s2); }
 .chat-noted { margin: var(--s3) 0 0; padding-top: var(--s2); border-top: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); }
 .chat-noted-label { font-weight: 600; }
 .chat-noted .text-link, .chat-review-link { padding: 0; font-size: var(--t-sm); }

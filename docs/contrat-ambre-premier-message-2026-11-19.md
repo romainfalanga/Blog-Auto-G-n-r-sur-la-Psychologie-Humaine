@@ -46,13 +46,23 @@ Il y a une entrée par page du premier message, dans l'ordre suivant :
   - `basis: 'observed'` : médiane et percentile 90 au rang le plus proche de `completed_at − created_at`, calculés sur les 50 derniers bilans `ready` avec instantané, tous comptes confondus. Il en faut au moins 3. Le résultat est mis en cache 5 minutes par base.
   - Sinon, des valeurs initiales sont calculées (`REVIEW_ESTIMATE` dans `chat-backend.mjs`) :
     - appel immédiat i = 25 s, cron toutes les c = 60 s, bail L = 180 s ;
-    - durée d'un appel : bloc b = 15 s, rédaction w = 75 s, relecture k = 20 s ;
+    - durée d'un appel : bloc b = 12 s, rédaction w = 30 s, relecture k = 10 s (recalibrées le 19/11, voir plus bas) ;
     - `travail = blocs × b + w + k` et `reste = max(0, travail − i)` ;
     - `p50 = i + ⌈reste / L⌉ × c/2 + reste` ;
     - `p90 = i + ⌈reste90 / L⌉ × c + reste90`, avec `reste90 = reste + w + k` (une réécriture) ;
     - les deux valeurs sont arrondies aux 5 s supérieures.
 
-    Avant la capture, le calcul prend 8 blocs (`basis: 'initial_default'`). Une fois le nombre de blocs connu, `basis` vaut `'initial'`. Par exemple, 8 blocs donnent 275 à 430 s. **Les durées par appel sont des valeurs de départ. Elles restent à remplacer par la mesure de la recette payante (lot 4).**
+    Avant la capture, le calcul prend 8 blocs (`basis: 'initial_default'`). Une fois le nombre de blocs connu, `basis` vaut `'initial'`.
+
+    **Calibrage sur la recette réelle du 19/11** (compte synthétique, 6 blocs) : bilan `ready` 122 s après sa création ; lecture des 6 blocs en parallèle ≈ 70 s (≈ 12 s par bloc) ; rédaction, relecture et réécriture ≈ 50 s. L'ancienne estimation (215–400 s pour 6 blocs) était trop haute. Valeurs obtenues :
+
+    | blocs | p50 | p90 | affichage |
+    |---|---|---|---|
+    | 6 | 145 s | 215 s | entre 2 et 4 minutes |
+    | 8 (défaut avant capture) | 170 s | 240 s | entre 3 et 4 minutes |
+    | 12 | 215 s | 345 s | entre 4 et 6 minutes |
+
+    La mesure (122 s) est sous le p50, ce qui laisse la marge du cron (attente moyenne c/2) ; le p90 compte une réécriture et une période complète du cron. Une seule mesure ne fait pas une distribution : dès 3 bilans `ready`, la base `observed` remplace ces valeurs.
 - `last_failure` contient le dernier bilan s'il est `failed`. Il repasse à `null` dans trois cas :
   - un nouveau bilan démarre, car le plus récent est alors `running` ;
   - un bilan aboutit ;
@@ -114,9 +124,44 @@ L'accord n'est plus enregistré avant la création du bilan. Il est écrit dans 
 - **Après épuisement** : `attempts_exhausted`.
 - **Liés au fournisseur** : `provider_cooldown`, `daily_cap`.
 
+## Corrections après la recette réelle du 19/11
+
+1. **Liens du message de synthèse.** Cause : l'interface n'affichait « Lire le bilan complet » et « Voir Mes diagnostics » que si `content` différait de `chat_message`. Or, dans les nouvelles enveloppes, les deux sont égaux : seul le lien ancien « Retrouver ce bilan dans Mes bilans » apparaissait. L'interface lit désormais `message.links` (libellé non vide, chemin interne commençant par `/`). À défaut, elle affiche les deux liens par défaut si `chat_message` est présent, et le lien ancien sinon.
+2. **Paragraphes.** `chat_message` est demandé en 2 à 4 paragraphes courts (moins de 350 caractères chacun), suivis des 2 ou 3 questions, une par ligne. Un exemple de forme est fourni au rédacteur. `structureChatMessage` remet en forme, sans changer un mot, un message écrit d'un seul bloc : les questions finales passent sur leurs propres lignes et les paragraphes trop longs sont coupés en fin de phrase. Le repli déterministe suit la même forme. L'interface affiche les paragraphes (`.chat-paragraph`) et les questions dans un bloc distinct (`ul.chat-questions`), y compris pour les anciens messages d'un seul bloc.
+3. **Fonctionnement interne.** La consigne du rédacteur (« Fonctionnement interne ») et celle de la charge utile des blocs interdisent de parler à la personne des blocs, de l'instantané, des résumés, de la vérification ou de la rareté des citations, du modèle ou de la relecture. Deux contrôles s'y ajoutent :
+   - un contrôle déterministe, `internal_process`, sur le document et sur le message ;
+   - un critère de relecture, `no_internal`.
+
+   Une première détection impose l'unique réécriture. Si la mention persiste après la réécriture, la publication retire les phrases concernées (`sources.check.internal_removed`) au lieu de faire échouer tout le bilan. Ce retrait obéit à quatre règles :
+   - une phrase qui contient une citation entre guillemets ou un numéro de ressource (3114, 3919, 15, 17, 112, 114, 119) n'est jamais retirée ;
+   - le découpage ne coupe jamais une citation ;
+   - après le nettoyage, les ressources et les contrôles déterministes sont revérifiés : le texte nettoyé ne doit ajouter aucun nouvel échec ;
+   - « bloc » n'est visé que dans « N blocs » et « blocs de données ».
+
+   Si une phrase ne peut pas être retirée, le document approuvé la garde (`internal_left`) et le message passe au repli déterministe. Le découpage ne déplace pas une citation « … ? » parmi les questions finales.
+4. **Première réponse de conversation.** Le « critère 13 » de la trace est numéroté à partir de 1 dans `REVIEW_CRITERIA` : c'est « Posture adaptée au besoin », et non « Mots simples et longueur proportionnée » (n° 14). C'est aussi le code du contrôle déterministe bloquant `missingReferral`, qui exige la ressource d'un signal actif. Hypothèse retenue : la ligne 3919 du repli prouve qu'un signal `ipv` était actif, alors que le message n'en contient aucun indice (le détecteur lexical renvoie `none`). Ce signal venait donc du modèle d'analyse, nourri par le contexte riche d'après bilan. Faute de 3919, les deux brouillons échouaient au contrôle 13. Ce contrôle ne pouvait pas être corrigé par une réécriture pertinente. Cette hypothèse a été rejouée localement avec un fournisseur simulé, sans appel payant. Corrections :
+   - après relecture indépendante, le signal `ipv` proposé par le modèle est **toujours gardé** : consigne IPV au rédacteur, contrôle anti-confrontation (critère 2) ;
+   - seule l'exigence bloquante du 3919 (`missingReferral`, critère 13) et sa ligne dans le repli dépendent d'un ancrage. Il y a ancrage dans l'un de ces cas :
+     - le détecteur lexical renvoie un signal ;
+     - le message ou l'un des deux messages précédents de la personne contient un indice (pousser, bousculer, attraper, serrer, enfermer, obliger, forcer, « n'ose plus rentrer », « peur de sa réaction », permission, codes, salaire, « me suit partout », surveiller, contrôler mon téléphone, « des coups », « coup de poing », « au cou », etc.). « Du coup », « tout à coup », « coup de fil » et « contrôle continu » n'en sont pas ;
+     - le signal est grave, ce qui inclut les violences sexuelles et la séquestration ;
+     - une violence est déjà enregistrée : partenaire marqué comme non sûr, ou violence dans la mémoire de sécurité ;
+   - sans ancrage : `signals.ipv_unanchored`, `analysis.unanchored_signals` dans la trace et métrique `ipv_unanchored_referral`.
+
+   Le repli répond au message : il reprend les mots exacts de la personne s'ils tiennent en 220 caractères, puis pose une seule question ouverte. Quand un signal de violence est actif ou que la posture demande le calme, il garde une variante calme, sans question. Le texte générique reste réservé aux messages longs.
+
+   Les bornes de longueur sont communes au rédacteur et au relecteur :
+   - 60 à 180 mots, jamais plus de 220 ;
+   - 40 à 100 mots pour un message d'une ou deux phrases ou en posture `stabilize`, les ressources de sécurité n'étant pas comptées ;
+   - une seule piste.
+
+   Le rédacteur reçoit un exemple de réponse.
+
+   Aucun critère n'est désactivé. Cette hypothèse n'a pas été vérifiée sur la trace réelle complète (`analysis.signals`) : la vérifier à la prochaine recette.
+
 ## Points ouverts
 
-- Les durées d'appel de l'estimation initiale ne sont pas mesurées : la recette payante du lot 4 doit les fixer.
+- Les durées d'appel de l'estimation initiale reposent sur une seule recette réelle (6 blocs, 122 s). La base `observed` les remplacera dès 3 bilans prêts.
 - La requête d'estimation observée parcourt les bilans `ready` (au plus une fois toutes les 5 minutes par isolat) et n'utilise pas d'index.
 - Une ancienne étape `check` en cours au déploiement, sans `chat_message`, publie le repli déterministe sans relecture du modèle de ce message.
 - La relecture indépendante a été faite par le coordinateur. Ses corrections ont été intégrées le 19/11 (relecture du document complet hors de la fenêtre, Mes précisions, étape `publish`, vraie cause d'échec, portrait exécutable, messages d'échec, ressources en tête, rafraîchissement au retour sur l'onglet, case d'accord sans `journey`).

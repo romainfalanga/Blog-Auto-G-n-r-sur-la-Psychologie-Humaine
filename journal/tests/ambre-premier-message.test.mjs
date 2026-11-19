@@ -13,7 +13,7 @@ import {HYPOTHESIS_RULE,buildReviewSystemPrompt} from '../src/psychology-framewo
 import {MAP_HYPOTHESIS_RULES} from '../src/symptom-map-context.mjs';
 import {initialReviewEstimate,observedReviewEstimate} from '../src/chat-backend.mjs';
 
-const PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+const PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes',no_internal:'yes'},reasons:[]};
 const FAIL_DIAGNOSIS={...PASS,criteria:{...PASS.criteria,no_diagnosis:'no'}};
 const SELF='Je me tais souvent pour éviter les conflits avec ma sœur.';
 const PAST=SYMPTOMES_CARTE.factors.find(f=>f.id==='tristesse_persistante');
@@ -22,6 +22,8 @@ const DIGEST={formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],allianc
 // taken for an invented quote, and a hypothesis taken for a diagnosis.
 const CONTENT='Ce qui semble ressortir. Vous écrivez : « '+SELF+' ». À la question « '+PAST.label+' », vous avez répondu « Dans le passé » : cela concerne une période antérieure aux douze derniers mois, pas un signe actuel. Hypothèse : un évitement des conflits, appuyée par ce que vous écrivez et par vos réponses ; il manque des exemples récents. '+'Nous pourrons vérifier ensemble ce qui vous ressemble et ce qui ne vous ressemble pas, sans conclusion hâtive. '.repeat(12)+'Qu’avez-vous envie de comprendre en priorité ?';
 const CHAT='Votre bilan est prêt. Ce qui ressort : hypothèse : un évitement des conflits, appuyée par ce que vous écrivez ; il manque des exemples récents. À la question « '+PAST.label+' », vous avez répondu « Dans le passé ». Qu’aimeriez-vous creuser en premier ? Qu’en pensez-vous ?';
+// Corrections 19/11: the published message keeps every word, its questions at the end, one per line.
+const CHAT_SHOWN=CHAT.replace(' Qu’aimeriez-vous creuser en premier ? Qu’en pensez-vous ?','\n\nQu’aimeriez-vous creuser en premier ?\nQu’en pensez-vous ?');
 
 async function fresh(t,{env}={}){
  const s=setup({env});t.after(()=>s.raw.close());
@@ -67,12 +69,12 @@ test('rehearsal: complete synthetic initial review with a portrait changing duri
  const write=calls.filter(c=>c.purpose==='ambre_review');assert.equal(write.length,1);assert.equal(write[0].body.max_tokens,5600);assert.ok(write[0].body.response_format.json_schema.schema.properties.chat_message);
  assert.ok(write[0].body.messages[0].content.includes(HYPOTHESIS_RULE));
  const checkCall=calls.find(c=>c.purpose==='ambre_review_check'),check=JSON.parse(checkCall.body.messages[1].content);
- assert.deepEqual(check.deterministic_failures,[]);assert.deepEqual(check.unfound_quotes,[]);assert.ok(check.interface_labels_quoted.includes('Dans le passé'));assert.equal(check.chat_message,CHAT);
+ assert.deepEqual(check.deterministic_failures,[]);assert.deepEqual(check.unfound_quotes,[]);assert.ok(check.interface_labels_quoted.includes('Dans le passé'));assert.equal(check.chat_message,CHAT_SHOWN);
  assert.ok(checkCall.body.messages[0].content.includes(HYPOTHESIS_RULE),'the check uses the writer’s hypothesis rule');
  // Mes bilans keeps the document; the conversation shows the message and its links.
  assert.equal(row.content,CONTENT);
  const state=await s.call('/api/chat'),message=state.messages.at(-1);
- assert.equal(message.review_id,r.review_id);assert.equal(message.chat_message,CHAT);assert.equal(message.content,CHAT);assert.deepEqual(message.links,[{label:'Lire le bilan complet',href:'/mes-bilans/'},{label:'Voir Mes diagnostics',href:'/mes-diagnostics/'}]);
+ assert.equal(message.review_id,r.review_id);assert.equal(message.chat_message,CHAT_SHOWN);assert.equal(message.content,CHAT_SHOWN);assert.deepEqual(message.links,[{label:'Lire le bilan complet',href:'/mes-bilans/'},{label:'Voir Mes diagnostics',href:'/mes-diagnostics/'}]);
  assert.equal(state.consent,true);assert.equal(consent(s),1);assert.equal(state.journey.started,true);assert.equal(state.journey.review.running_id,null);assert.equal(state.journey.review.last_failure,null);
  assert.equal((await s.call('/api/reviews/'+r.review_id)).review.content,CONTENT);
  assert.equal(JSON.parse(row.sources).blocks_total,chunks.length);
@@ -207,7 +209,8 @@ test('lot 3 contract: readiness.pages requires the answers and the recording; re
 });
 
 test('estimate: initial values from the execution model, observed p50/p90 from three ready reviews',async t=>{
- assert.deepEqual(initialReviewEstimate(8),{p50_seconds:275,p90_seconds:430,basis:'initial'});
+ // Calibrated on the paid acceptance run of 19/11 (6 blocks ready in 122 s): 6 blocks → 2 to 4 minutes.
+ assert.deepEqual(initialReviewEstimate(6),{p50_seconds:145,p90_seconds:215,basis:'initial'});assert.deepEqual(initialReviewEstimate(8),{p50_seconds:170,p90_seconds:240,basis:'initial'});assert.ok(initialReviewEstimate(6).p50_seconds>=122,'the measured run lies under p50');
  assert.equal(initialReviewEstimate(null).basis,'initial_default');assert.ok(initialReviewEstimate(20).p50_seconds>initialReviewEstimate(2).p50_seconds);
  assert.equal(observedReviewEstimate([100,200]),null);assert.deepEqual(observedReviewEstimate([300,100,200]),{p50_seconds:200,p90_seconds:300,basis:'observed',sample:3});
  const s=await fresh(t);
@@ -260,4 +263,58 @@ test('review minors: the fallback message asks only its own 2–3 questions; ret
  s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,idempotency_key,created_at,completed_at,error_code) VALUES('f1','a','initial','failed','f1',?,?,'review_not_approved')").run(s.now(),s.now());
  const failure=(await s.call('/api/chat')).journey.review.last_failure,expected=Math.floor(Date.now()/1000)-20*3600+86400;
  assert.equal(failure.retryable,true);assert.ok(Math.abs(failure.retry_at-expected)<=5,JSON.stringify({retry_at:failure.retry_at,expected}));
+});
+
+// Corrections 19/11 after the paid acceptance run: the document began with a technical sentence
+// and the conversation message was one block of about 780 characters.
+const INTERNAL='Ce bilan s’appuie sur des résumés de blocs d’un instantané, pas sur vos mots directs : les citations y sont rares.';
+const ONE_BLOCK='Votre bilan est prêt. Hypothèse : une forte exigence envers vous-même, appuyée par vos réponses sur le travail et par votre présentation ; il manque des exemples récents. Une autre piste concerne la difficulté à demander de l’aide, appuyée par ce que vous racontez de vos proches ; il manque votre avis. Vos appuis sont nets : vos amis proches, la marche et la musique. Votre histoire peut éclairer ces pistes, à vérifier ensemble, sans conclusion hâtive. '+INTERNAL+' Qu’aimeriez-vous creuser en premier ? Qu’est-ce qui vous semble juste, ou à corriger ? Qu’en pensez-vous ?';
+test('the conversation message is restructured into short paragraphs and questions one per line, without changing a word',async()=>{
+ const {structureChatMessage}=await import('../src/review-digest.mjs');const out=structureChatMessage(ONE_BLOCK);
+ assert.ok(out.paragraphs.length>=2&&out.paragraphs.length<=4,JSON.stringify(out.paragraphs));assert.ok(out.paragraphs.every(p=>p.length<=360&&!p.includes('?')));
+ assert.deepEqual(out.questions,['Qu’aimeriez-vous creuser en premier ?','Qu’est-ce qui vous semble juste, ou à corriger ?','Qu’en pensez-vous ?']);
+ assert.equal(out.text.replace(/\s+/g,' '),ONE_BLOCK.replace(/\s+/g,' '),'same words, same order');assert.match(out.text,/\n\nQu’aimeriez-vous creuser en premier \?\nQu’est-ce qui vous semble juste, ou à corriger \?\nQu’en pensez-vous \?$/);
+ assert.equal(structureChatMessage(out.text).text,out.text,'idempotent');
+ const fallback=fallbackChatMessage({...DIGEST,formulation:{holds:[{text:'Hypothèse : une forte exigence envers vous-même.',quote:''}],revised:[],new:[{text:'Hypothèse : une difficulté à demander de l’aide.',quote:''}]}},CONTENT);
+ assert.ok(fallback.split('\n\n').length>=3,'the fallback also has paragraphs');assert.match(fallback,/\?\n.*\?$/);
+});
+test('the internal process is never mentioned: deterministic check, review criterion, one rewrite, then removal',async()=>{
+ const {mentionsInternalProcess,withoutInternalProcess}=await import('../src/review-digest.mjs');
+ assert.equal(mentionsInternalProcess(INTERNAL),true);for(const text of ['Le modèle de langage a relu vos citations vérifiables.','Selon l’instantané, vous…','Je me sens bloquée quand on me critique.','Vous avez surtout répondu aux questions ; quelques mots de votre part aideraient.'])assert.equal(mentionsInternalProcess(text),/modèle|instantané/.test(text),text);
+ assert.equal(withoutInternalProcess(INTERNAL+' Vos appuis sont nets.\n\nDeuxième paragraphe.').text,'Vos appuis sont nets.\n\nDeuxième paragraphe.');
+ assert.ok(reviewChecks(INTERNAL+' '+CONTENT,{corpus:SELF,labels:INTERFACE_LABELS}).failed.includes('internal_process'));
+ assert.ok(REVIEW_CHECK_CRITERIA.no_internal);for(const kind of ['initial','point'])assert.match(buildReviewSystemPrompt(kind),/Fonctionnement interne\. Ni content ni chat_message ne décrivent comment le bilan est préparé/);
+ assert.match(buildReviewSystemPrompt('initial'),/deux à quatre paragraphes courts séparés par une ligne vide/);
+ assert.equal(reviewVerdict(PASS,{failed:['internal_process']}).passed,false,'a first mention asks for the rewrite');
+ assert.equal(reviewVerdict(PASS,{failed:['internal_process']},{rewritten:true}).passed,true,'after the rewrite, the sentence is removed instead of losing the review');
+ assert.equal(reviewVerdict({...PASS,criteria:{...PASS.criteria,no_internal:'no'}},{failed:[]}).passed,false);
+});
+test('a review that keeps mentioning its internal process after the rewrite is published without those sentences',async t=>{
+ const s=await fresh(t);let writes=0;
+ mock(t,{write:()=>(writes++,{content:INTERNAL+'\n\n'+CONTENT,chat_message:ONE_BLOCK,digest:DIGEST})});
+ const r=await start(s),row=review(s,r.review_id);assert.equal(row.status,'ready',row.error_code);assert.equal(writes,2,'one rewrite');
+ assert.doesNotMatch(row.content,/blocs|instantané|citations y sont rares/);assert.ok(row.content.startsWith('Ce qui semble ressortir.'));assert.ok(JSON.parse(row.sources).check.internal_removed>=2);
+ const message=(await s.call('/api/chat')).messages.at(-1);assert.doesNotMatch(message.chat_message,/blocs|instantané/);
+ assert.match(message.chat_message,/\n\nQu’aimeriez-vous creuser en premier \?\nQu’est-ce qui vous semble juste, ou à corriger \?\nQu’en pensez-vous \?$/);assert.ok(message.chat_message.split('\n\n').length>=3);
+ assert.deepEqual(message.links.map(l=>l.href),['/mes-bilans/','/mes-diagnostics/']);
+});
+
+// Independent review of the corrections: removal never touches a quote or a resource number, never
+// cuts a quote, and a quoted « … ? » is not taken for one of Ambre's questions.
+test('removal of the internal process keeps quotes and resources intact, and only aims at blocks of data',async()=>{
+ const {withoutInternalProcess,mentionsInternalProcess,structureChatMessage,splitSentences}=await import('../src/review-digest.mjs');
+ assert.deepEqual(splitSentences('Vous écrivez « Je n’en peux plus. Vraiment ? » et cela pèse. Ensuite.'),['Vous écrivez « Je n’en peux plus. Vraiment ? » et cela pèse. ','Ensuite.']);
+ let out=withoutInternalProcess('Vous écrivez « Je n’en peux plus. » '+INTERNAL+' Vos appuis comptent.');
+ assert.equal(out.text,'Vous écrivez « Je n’en peux plus. » Vos appuis comptent.');assert.equal(out.removed,1);
+ out=withoutInternalProcess('Selon l’instantané, vous écrivez « je me tais ». Selon l’instantané, appelez le 3114 si besoin.');assert.equal(out.removed,0);assert.equal(out.kept,2);
+ for(const [text,expected] of [['Je refuse en bloc.',false],['Il y a des blocs de pierre dans le jardin.',false],['Le bilan lit six blocs.',true],['Les blocs de données sont lus.',true],[INTERNAL,true]])assert.equal(mentionsInternalProcess(text),expected,text);
+ const quoted=structureChatMessage('Hypothèse : une forte exigence, appuyée par vos mots : vous écrivez « Pourquoi moi ? »');assert.deepEqual(quoted.questions,[]);assert.equal(quoted.paragraphs.length,1);
+ const mixed=structureChatMessage('Vous écrivez « Pourquoi moi ? » Qu’en pensez-vous ?');assert.deepEqual(mixed.questions,['Qu’en pensez-vous ?']);assert.deepEqual(mixed.paragraphs,['Vous écrivez « Pourquoi moi ? »']);
+});
+test('an internal sentence holding a quote stays in the approved document (counted) and the message falls back',async t=>{
+ const s=await fresh(t);const quotedInternal='Selon l’instantané, vous écrivez « '+SELF+' ».';
+ mock(t,{write:()=>({content:quotedInternal+'\n\n'+CONTENT,chat_message:quotedInternal+'\n\n'+CHAT,digest:DIGEST})});
+ const r=await start(s),row=review(s,r.review_id);assert.equal(row.status,'ready',row.error_code);const check=JSON.parse(row.sources).check;
+ assert.ok(row.content.includes(quotedInternal),'a sentence with a quote is never cut out');assert.ok(check.internal_left>=1);
+ const message=(await s.call('/api/chat')).messages.at(-1);assert.doesNotMatch(message.chat_message,/instantané/);assert.match(message.chat_message,/^Votre bilan est prêt/);
 });

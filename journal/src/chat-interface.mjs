@@ -141,20 +141,54 @@ function revealChatResponse(entry,text,current){
  function advance(){if(!chatIsCurrent(current)){finish();return}position++;var last=words[Math.min(words.length-1,Math.ceil(words.length*position/steps)-1)];entry.content.textContent=text.slice(0,last.index+last[0].length);if(position>=steps)finish();else timer=setTimeout(advance,Math.min(80,1400/steps))}
  if(!state.chatReveals)state.chatReveals=new Map();state.chatReveals.set(entry.item,finish);advance();
 }
+// Corrections 19/11: a review message is shown as short paragraphs, then its questions in a
+// separate block (one per line), even when it was written as one long block (older messages).
+// Same rules as the server (review-digest.mjs): a quote is never cut, and a question ends with « ? »
+// outside any quote.
+function chatSentences(text){var t=String(text),out=[],depth=0,start=0;for(var i=0;i<t.length;i++){var c=t[i];if(c==='«'||c==='“'){depth++;continue}if((c==='»'||c==='”')&&depth>0){depth--;if(!depth){var k=i-1;while(k>start&&/\s/.test(t[k]))k--;var m=i+1;while(m<t.length&&/[\s)]/.test(t[m]))m++;if(/[.!?…]/.test(t[k])&&m<t.length&&/[A-ZÀ-ÖØ-Þ]/.test(t[m])&&m>i+1){out.push(t.slice(start,m));start=m;i=m-1}}continue}if(depth===0&&/[.!?…]/.test(c)){var j=i+1;while(j<t.length&&/[.!?…)]/.test(t[j]))j++;while(j<t.length&&/\s/.test(t[j]))j++;out.push(t.slice(start,j));start=j;i=j-1}}if(start<t.length)out.push(t.slice(start));return out}
+function chatIsQuestion(text){return /\?\)?$/.test(String(text).trim())}
+function chatReviewParts(text){
+ var blocks=String(text||'').replace(/\r\n?/g,'\n').split(/\n{2,}/).map(function(x){return x.trim()}).filter(Boolean),questions=[],paragraphs=[];
+ while(blocks.length){
+  var lines=blocks[blocks.length-1].split('\n').map(function(x){return x.trim()}).filter(Boolean);
+  while(lines.length&&chatIsQuestion(lines[lines.length-1])){var sentences=chatSentences(lines[lines.length-1]),tail=[];while(sentences.length&&chatIsQuestion(sentences[sentences.length-1]))tail.unshift(sentences.pop().trim());if(!tail.length)break;questions=tail.concat(questions);var rest=sentences.join('').trim();lines.pop();if(rest){lines.push(rest);break}}
+  if(lines.length){blocks[blocks.length-1]=lines.join('\n');break}
+  blocks.pop();
+ }
+ blocks.forEach(function(block){
+  if(block.length<=360||block.indexOf('\n')>=0){paragraphs.push(block);return}
+  var current='';chatSentences(block).map(function(x){return x.trim()}).filter(Boolean).forEach(function(part){if(current&&current.length+part.length+1>360){paragraphs.push(current);current=part}else current=current?current+' '+part:part});if(current)paragraphs.push(current);
+ });
+ return {paragraphs:paragraphs,questions:questions};
+}
+function drawChatStructured(node,text){
+ var parts=chatReviewParts(text);node.replaceChildren();
+ parts.paragraphs.forEach(function(paragraph){node.append(el('p','chat-paragraph',paragraph))});
+ if(parts.questions.length){var list=el('ul','chat-questions');list.setAttribute('aria-label','Questions d’Ambre');parts.questions.forEach(function(question){list.append(el('li','',question))});node.append(list)}
+}
+// The links come from the server (message.links); a message with chat_message but without links
+// keeps the two default links; an older envelope keeps the single « Mes bilans » link.
+function chatReviewLinks(message){
+ if(Array.isArray(message.links)){var safe=message.links.filter(function(link){return link&&typeof link.label==='string'&&link.label.trim()&&typeof link.href==='string'&&/^\/[\w\-\/]*$/.test(link.href)});if(safe.length)return safe}
+ return typeof message.chat_message==='string'&&message.chat_message.trim()?[{label:'Lire le bilan complet',href:'/mes-bilans/'},{label:'Voir Mes diagnostics',href:'/mes-diagnostics/'}]:null;
+}
 function chatMessageEntry(shell,message,current,animate){
  var id=String(message.id),entry=shell.messages.get(id),client=message.client_key;
  if(!entry&&client){entry=shell.messages.get('client:'+client);if(entry)shell.messages.delete('client:'+client)}
- if(!entry){var item=el('article','chat-message '+(message.role==='user'?'chat-user':'chat-assistant')),heading=el('h3','',message.role==='user'?'Vous':message.review_id?(message.review_kind==='point'?'Ambre · Point d’étape':'Ambre · Analyse initiale'):'Ambre'),content=el('p','chat-content'),meta=el('div','chat-turn-state');item.append(heading,content,meta);entry={item:item,content:content,meta:meta};}
+ if(!entry){var item=el('article','chat-message '+(message.role==='user'?'chat-user':'chat-assistant')),heading=el('h3','',message.role==='user'?'Vous':message.review_id?(message.review_kind==='point'?'Ambre · Point d’étape':'Ambre · Analyse initiale'):'Ambre'),content=message.role==='assistant'&&message.review_id?el('div','chat-content chat-structured'):el('p','chat-content'),meta=el('div','chat-turn-state');item.append(heading,content,meta);entry={item:item,content:content,meta:meta};}
  shell.messages.set(id,entry);entry.item.dataset.chatTurnId=id.replace(/-(user|assistant)$/,'');if(client)entry.item.dataset.clientKey=client;
  // Lot 2/3: a review publishes its short conversation message (chat_message); older envelopes keep content.
  var shown=message.role==='assistant'&&message.review_id&&typeof message.chat_message==='string'&&message.chat_message.trim()?message.chat_message:message.content;
- if(entry.text!==shown){entry.text=shown;entry.content.textContent=shown;
+ var structured=message.role==='assistant'&&!!message.review_id;
+ if(entry.text!==shown){entry.text=shown;if(structured)drawChatStructured(entry.content,shown);else entry.content.textContent=shown;
   if(message.role==='assistant'){
    if(!state.chatSeenResponses)state.chatSeenResponses=new Set();var unseen=!state.chatSeenResponses.has(id);state.chatSeenResponses.add(id);
-   if(animate&&unseen){revealChatResponse(entry,shown,current);shell.latestResponse=entry.item;shell.responseToAnchor=entry.item;shell.announcement.textContent='Nouvelle réponse d’Ambre.'}
+   if(animate&&unseen){if(!structured)revealChatResponse(entry,shown,current);shell.latestResponse=entry.item;shell.responseToAnchor=entry.item;shell.announcement.textContent='Nouvelle réponse d’Ambre.'}
    if(Array.isArray(message.cartography_notes))drawChatNotes(entry.item,message.cartography_notes);
-   if(message.review_id){var summary=shown!==message.content,linkKind=summary?'summary':'legacy';if(entry.reviewLinkKind!==linkKind){if(entry.reviewLink)entry.reviewLink.remove();entry.reviewLinkKind=linkKind;
-    if(summary){var links=el('p','chat-review-links'),full=el('a','text-link chat-review-link','Lire le bilan complet'),diagnoses=el('a','text-link chat-review-link','Voir Mes diagnostics');full.href='/mes-bilans/';diagnoses.href='/mes-diagnostics/';links.append(full,diagnoses);entry.reviewLink=links}
+   // Corrections 19/11: the links no longer depend on content differing from chat_message (in the
+   // new envelopes both are equal, so the two links were replaced by the older single one).
+   if(message.review_id){var reviewLinks=chatReviewLinks(message),linkKind=reviewLinks?JSON.stringify(reviewLinks):'legacy';if(entry.reviewLinkKind!==linkKind){if(entry.reviewLink)entry.reviewLink.remove();entry.reviewLinkKind=linkKind;
+    if(reviewLinks){var links=el('p','chat-review-links');reviewLinks.forEach(function(link){var anchor=el('a','text-link chat-review-link',link.label);anchor.href=link.href;links.append(anchor)});entry.reviewLink=links}
     else{var bilans=el('a','text-link chat-review-link','Retrouver ce bilan dans Mes bilans');bilans.href='/mes-bilans/';entry.reviewLink=bilans}
     entry.item.append(entry.reviewLink)}}
   }

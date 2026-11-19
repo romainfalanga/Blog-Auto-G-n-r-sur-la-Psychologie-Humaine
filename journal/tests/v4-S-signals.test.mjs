@@ -129,3 +129,9 @@ test('#12: adverse events are counted without any content',async t=>{
  assert.ok(rows.some(r=>r.name==='adverse_cautious_reply'&&r.value>=1),JSON.stringify(rows));
  for(const row of rows)assert.match(row.name,/^adverse_[a-z_]+$/);
 });
+
+test('relecture 19/11 : formulations de victimes sans mot de partenaire restent ancrées ; expressions banales non',async()=>{
+ const {violenceAnchored}=await import('../src/clinical-signals.mjs');
+ for(const s of ["il m'a poussée","il m'a bousculée","il m'a attrapée par le bras","il m'a serrée contre le mur","elle m'enferme","il m'oblige à coucher avec lui","je n'ose plus rentrer","j'ai peur de sa réaction","il prend tout mon salaire","il a mes codes et lit tout","il me suit partout"])assert.equal(violenceAnchored(s),true,s);
+ for(const s of ["du coup je suis allé au travail","tout à coup j'ai eu peur","j'ai reçu un coup de fil","j'ai un contrôle continu demain"])assert.equal(violenceAnchored(s),false,s);
+});

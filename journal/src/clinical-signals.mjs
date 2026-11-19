@@ -117,7 +117,7 @@ const CONFIRM_BELIEF=/\b(?:oui|en effet|effectivement|c est (?:vrai|certain|sur|
 // R13: when the reply falls back, the verified referral of an active signal stays.
 export function referralFallback(signals={}){
  const lines=[];
- if(signals.ipv&&signals.ipv!=='none')lines.push('Si vous vivez des violences dans votre couple, le 3919 écoute gratuitement, 24 h/24 et 7 j/7 (ce n’est pas un numéro d’urgence) ; en danger immédiat, appelez le 17 ou le 112, ou envoyez un SMS au 114.');
+ if(signals.ipv&&signals.ipv!=='none'&&!signals.ipv_unanchored)lines.push('Si vous vivez des violences dans votre couple, le 3919 écoute gratuitement, 24 h/24 et 7 j/7 (ce n’est pas un numéro d’urgence) ; en danger immédiat, appelez le 17 ou le 112, ou envoyez un SMS au 114.');
  if(signals.minor)lines.push('Vous pouvez en parler à un adulte de confiance ; en cas de danger, le 119 répond gratuitement, 24 h/24.');
  if(signals.eating)lines.push('Un médecin peut vous accompagner sur ce sujet ; en cas de malaise, appelez le 15.');
  if(signals.reality&&signals.reality!=='none')lines.push('Un médecin peut vous aider à y voir plus clair ; en cas de danger, appelez le 15.');
@@ -129,7 +129,7 @@ export function blockingReview(content,signals={},history=[]){return [...signalR
 // R13: the applicable referral must appear unless it was already given in
 // the last three replies (no repetition beyond the rule).
 export function missingReferral(content,signals={},history=[]){
- const keys=[...(signals.ipv&&signals.ipv!=='none'?['ipv']:[]),...(signals.minor?['minor']:[]),...(signals.eating?['eating']:[]),...(signals.reality&&signals.reality!=='none'?['reality']:[]),...(signals.perpetrator?['perpetrator']:[])];
+ const keys=[...(signals.ipv&&signals.ipv!=='none'&&!signals.ipv_unanchored?['ipv']:[]),...(signals.minor?['minor']:[]),...(signals.eating?['eating']:[]),...(signals.reality&&signals.reality!=='none'?['reality']:[]),...(signals.perpetrator?['perpetrator']:[])];
  const recent=history.slice(-3).map(turn=>turn.assistant||'').join('\n');
  return keys.filter(key=>!REFERRAL_RULES[key].required.test(content)&&(signals.ipv==='severe'&&key==='ipv'||!REFERRAL_RULES[key].required.test(recent)));
 }
@@ -144,6 +144,22 @@ export function clinicalSignals(message,{identity,history=[],plan,memory={}}={})
 export const anySignal=signals=>Boolean(signals&&(signals.ipv!=='none'||signals.reality!=='none'||signals.eating||signals.minor||signals.intrusive||signals.substance||signals.meta_ai||signals.perpetrator||signals.unsafe_relation||signals.declined_streak>=2||signals.repair_followup));
 // Merge model-proposed signals into deterministic ones: the model may add, never remove.
 const IPV_RANK=['none','control','physical','severe'];
+// Corrections 19/11 (after the independent review): a partner-violence signal proposed by the
+// analysis model is ALWAYS kept (IPV guidance, no-confrontation check). Only the blocking demand
+// of the 3919 referral (criterion 13) and its line in the fallback depend on an anchor: the
+// lexical detector, a cue in the message or the two previous messages of the person, a severe
+// signal, or violence already recorded (unsafe partner, violence in the safety memory).
+const VIOLENCE_CUE=new RegExp(String.raw`\b${PARTNER}\b|\b(?:violen\w*|frapp\w*|des coups|(?:un|les|ses|mes) coups|coups? de (?:poing|pied|ceinture|tete|couteau)|roue de coups|gifl\w*|battu\w*|cogn\w*|bless\w*|pouss\w*|bouscul\w*|attrap\w*|serr\w* (?:le|mon|ma|les|mes|trop fort|fort|contre)|enferm\w*|sequestr\w*|oblig\w*|forc\w*|menac\w*|insult\w*|humili\w*|rabaiss\w*|hurl\w*|cri(?:e|ent|er|s)|jalou\w*|surveill\w*|controle (?:mon|ma|mes|tout|toutes|tous)|controler (?:mon|ma|mes|tout)|me controle|fouill\w*|confisqu\w*|interdi\w*|empech\w*|isol\w*|emprise|harcel\w*|peur de (?:lui|elle|rentrer|sa reaction|ses reactions|sa colere)|n ose plus (?:rentrer|sortir|parler|rien dire)|permission|(?:mes|les) codes|mon salaire|mon argent|me suit partout|(?:au|le|mon) cou|gorge|etrangl\w*|arme|couteau|tuer|viol(?:e|ee|ent|er)?|couple)\b`);
+// Severe cues added to the model's severe signal: sexual violence and confinement.
+const SEVERE_CUE=/\b(?:viol(?:e|ee|er)?|violee?s? sexuel\w*|violences? sexuelles?|agress\w* sexuel\w*|attouchement\w*|forcee? a (?:avoir|faire) (?:des |un )?(?:rapports?|relations?|sexe)|rapports? (?:force|forces|sans (?:mon )?consentement)|sequestr\w*|enferm\w* (?:a clef|a cle|dans|chez)|m empeche de sortir de (?:la maison|chez))\b/;
+const recentTexts=(message,history)=>[message,...(Array.isArray(history)?history.slice(-2).map(turn=>turn?.user):[])].filter(text=>typeof text==='string');
+export function violenceAnchored(message,history=[]){return recentTexts(message,history).some(text=>VIOLENCE_CUE.test(fold(text))||SEVERE_CUE.test(fold(text)))}
+export function severeViolenceCue(message,history=[]){return recentTexts(message,history).some(text=>SEVERE_CUE.test(fold(text)))}
+// True when the 3919 referral must be demanded (blocking) and kept in the fallback.
+export function ipvReferralDue(signals={},{message='',history=[],recorded=false}={}){
+ if(!signals.ipv||signals.ipv==='none')return false;
+ return signals.ipv==='severe'||ipvSignal(message)!=='none'||violenceAnchored(message,history)||recorded;
+}
 export function mergeSignals(base,model={}){
  const out={...base};
  if(IPV_RANK.indexOf(model.ipv)>IPV_RANK.indexOf(out.ipv))out.ipv=model.ipv;
