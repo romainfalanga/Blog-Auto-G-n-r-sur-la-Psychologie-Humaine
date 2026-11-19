@@ -1,0 +1,34 @@
+# Reprise du 19 novembre 2026 (passage à Codex)
+
+État vérifié au commit qui ajoute ce fichier, branche `claude/affectionate-wright-eq5kgo` (en avance sur `main`, rien déployé depuis la PR 103).
+Tests sur la branche : `npm --prefix journal test` 941/941 ; `node --test tests/*.test.cjs` 57/57 avec Hugo 0.140.
+
+## En production (déjà en ligne)
+PR 102 et 103 fusionnées ; Worker `decode-journal` déployé ; migrations 0027 (`life_events.significance`) et 0028 (tables v1 `symptom_*`) appliquées et inscrites dans `d1_migrations`. Détails : `docs/livraison-symptomes-2026-11-19.md`.
+La page `/mes-symptomes/` en ligne est la **v1, refusée par le propriétaire** (questionnaires PHQ/GAD/ITQ, bouton d'accord, résumé borné pour Ambre). Elle doit être remplacée.
+
+## Demande du propriétaire (fait foi)
+Voir `docs/plan-mes-symptomes-v2-2026-11-19.md` § 0 et la section « Version 2.1 » (fait foi), § 5 pour la vitesse. En bref :
+- aucun bouton d'accord ; tous les symptômes de tous les troubles, chacun Non / Oui / Je ne sais pas ;
+- exactement l'interface de Mon enfance : onglets « Mes symptômes » / « Ce qui en ressort » ; Mon enfance et Mes symptômes restent séparés, chacun avec son « Ce qui en ressort » ;
+- réponses stockées en base ; Ambre reçoit le détail des deux pages et formule des hypothèses sur ce qui est probable, sans renvoyer systématiquement vers un professionnel (sécurité suicide conservée) ;
+- pages plus rapides.
+
+## Où en est chaque lot
+1. **S0 (fait)** : `editorial/symptomes/v2/themes.json` (14 thèmes, période « ces 12 derniers mois »), `canoniques.json` (46 symptômes transdiagnostiques), `attribution.json`, `CONSIGNES.md`, `DECISIONS.md` (périmètre : fait foi).
+2. **S1 rédaction (fait, non relu)** : `liens-{perceptions,humeur,anxiete,relations,soi,emotions,comportements,supplementaires}.json` + `sujets-supplementaires.json` (58 troubles CIM-11 absents de la cartographie, identifiants `sym_<code>`). 544 symptômes avant dédoublonnage ; tous les sujets référencés existent. Préfixes `per_/hum_/anx_/rel_/soi_/emo_/cmp_/sup_` (choix assumé, contraire à CONSIGNES §2). Points signalés par les rédacteurs : thèmes surchargés (humeur, inquiétudes/peurs, place/relations, image de soi, attention/impulsivité, perceptions, consommations), TSPT complexe et dépression au plafond de 12 `critere`, automutilation et 6B61/6B84/6B85 sur un seul signe décliné, questions de dépendance communes à tous les produits, paraphrases CDDR parfois de mémoire (à vérifier), ligne d'aide 3919 pour les violences subies et 15 pour un déficit neurologique soudain, thème « travail et argent » manquant.
+3. **Fusion + générateur (NON FAIT, interrompu sans fichier)** : `fusion.json`, rééquilibrage des thèmes (≤ ~30 questions, ajouter « travail, études et argent »), `requires.json` (un sujet « produit » n'est classé que si la question d'usage de ce produit est « Oui »), `scripts/build_symptomes_carte.py` → `data/symptomes_carte.json` (même schéma que `data/cartographie.json`, classement `essential_share_desc`) + `journal/src/symptomes-carte.generated.mjs` (< 500 Ko) + `--check`, rapport `docs/symptomes-v2-fusion-2026-11-19.md`.
+4. **Relecture clinique indépendante de la banque (à faire)** après la fusion.
+5. **S2 page et moteur (à faire)** : layout/JS/CSS de Mon enfance rendus génériques (objet `ui` par jeu de données), données en JSON statique à empreinte (pas dans le HTML), classement par jeu de données avec test de parité navigateur/Worker et test de non-régression de Mon enfance, Edge `personal-page-data.js` pour `/mes-symptomes`, migration `0029_symptom_maps.sql` (copie de `cartographies` + `safety_at`, périmètre `symptoms` dans les triggers et `CARE_SCOPES`), backend paramétré, export/suppression, retrait complet de la v1 (`journal/src/symptomes-{engine,backend,interface,ambre}.mjs`, routes, redirections `/mes-symptomes*` de `netlify.toml`, Paramètres), puis `0030_drop_symptom_v1.sql` **après** déploiement vérifié du Worker sans v1 (production : 1 ligne `symptom_consents`, 0 résultat).
+6. **S3 Ambre (à faire)** : blocs fixes `symptom_map` ≤ 3 500 car. et Mon enfance ≤ 3 000 ; index par thème/sujet ; bilans : part propre 6 000 car., contexte 40 000 ; réécriture conjointe du prompt de rédaction, du critère de relecture n° 3 et des consignes Mon enfance (« hypothèse : X, appuyée par A et B ; il manque C », jamais « vous avez ») ; sécurité via `safety_at` (question directe ≤ 1 fois / 14 j, drapeau des bilans, ligne 3114 sous la question) ; nouvelles références de `journal/tests/v5-A5-budget.test.mjs` (rédaction ≤ +40 %, bilan ≤ +20 %) liées à la décision du propriétaire.
+7. **Lot P vitesse (PARTIEL, sur la branche, non déployé)** : déjà présents et testés : `placement: smart` dans `journal/wrangler.jsonc`, regroupement de lectures D1 (`worker.mjs`, `chat-backend.mjs`, `personal-backend.mjs`), Ambre pré-rendue, `voice-input.mjs` (micro testé seulement à l'usage : corrige le plantage d'onglet), index de recherche des Personnages chargé à la demande (`static/js/character-search.js`, `layouts/partials/character-directory.html`), logo 128 px WebP/PNG, en-têtes `netlify.toml`, Paramètres qui chargent `/api/chat/insight` plus tard ; tests `journal/tests/lot-p-performance.test.mjs`, `tests/lot-p-static-cache.test.cjs`. **À vérifier/terminer** : script et CSS de l'application en fichiers à empreinte immuables (`/app/<hash>.js|.css`) si non terminé, `examples.mjs` chargé paresseusement, relecture de code indépendante, mesures avant/après avec `scratchpad/perf` (recréer un script si absent). Au déploiement, ajouter `"placement":{"mode":"smart"}` aux métadonnées d'envoi du Worker.
+
+## Déploiement (procédure suivie jusqu'ici)
+- D1 `48105411-3581-4d6f-af3f-5bc86636e9dd` ; migrations appliquées une à une (D1 refuse les SELECT composés longs), puis `INSERT OR IGNORE INTO d1_migrations(name) VALUES('00xx_….sql')`. Ne jamais rejouer une migration.
+- Worker `decode-journal` : envoi multipart de tous les `journal/src/*.mjs` avec métadonnées `main_module: worker.mjs`, `compatibility_date: 2026-10-01`, 7 liaisons (DB, FREE_ACCESS_ENABLED=true, GITHUB_REPOSITORY, OPENROUTER_API_KEY secret conservé, OPENROUTER_MODEL=openai/gpt-5-mini, OPENROUTER_PORTRAIT_MODEL=anthropic/claude-sonnet-5.5, PUBLIC_ORIGIN=https://decodetonesprit.fr), `keep_bindings: ["secret_text"]`, cron `* * * * *` ; vérifier `/api/health`.
+- Site : PR vers `main` (Netlify), vérifications CI, fusion, puis recette réelle avec un compte synthétique supprimé et vérification qu'il ne reste aucune ligne en base.
+
+## Décisions encore ouvertes pour le propriétaire
+- Catégories laissées de côté dans la banque : paraphilies, transe, démences/delirium, troubles surtout de l'enfance.
+- Avertissement dans Mon compte pour une date de naissance de mineur ? Lien vers `/personnages/` (supprimé du pied de page) ?
+- Relecture par un psychologue humain avant diffusion large.
