@@ -143,7 +143,7 @@ test('the journey (legacy generate() path, inactive in production): prerequisite
  assert.equal(pointContext.previous_review.kind,'initial');assert.ok(pointContext.previous_review.text.startsWith('Ce qui semble ressortir.'));
  assert.deepEqual(pointContext.conversation_since,[{vous:'J’aimerais comprendre pourquoi je me tais en réunion.',ambre:'Je vous écoute.'}]);
  assert.deepEqual(pointContext.conversation_coverage,{included_turns:1,total_turns:1,truncated:false});
- assert.deepEqual(JSON.parse(review(s,pointId).sources),{cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:1,previous_review_id:initialId,thread_reviews:1,check:{passed:true,rewritten:false,failed:[]}});
+ assert.deepEqual(JSON.parse(review(s,pointId).sources),{symptom_map_revision:null,cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:1,previous_review_id:initialId,thread_reviews:1,check:{passed:true,rewritten:false,failed:[]}});
  assert.equal((await s.call('/api/chat/review','POST',{idempotency_key:'point_key_002'})).code,'review_quota_exhausted');
  const beforeReplay=requests.length;const replay=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_001'});assert.equal(replay.status,200);assert.equal(replay.review_id,pointId);assert.equal(requests.length,beforeReplay,'replaying the point reuses the consumed monthly credit');
 
