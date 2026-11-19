@@ -449,7 +449,8 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    for(const h of history){
     const reply=replyData(h.response);
     // A review is not a dialogue turn: the latest one travels as last_review, bounded.
-    if(reply.review_id){if(!lastReview)lastReview={kind:reply.review_kind,...excerpt(reply.content,3200,600)};continue;}
+    // Plan v1.1 (lot 2): a newer envelope holds the conversation message; the full document is read from the review.
+    if(reply.review_id){if(!lastReview){const full=reply.chat_message!==undefined?(await first(env,"SELECT content FROM ambre_reviews WHERE id=? AND user_id=? AND status='ready'",reply.review_id,userId))?.content:null;lastReview={kind:reply.review_kind,...excerpt(full||reply.content,3200,600)};}continue;}
     const user=excerpt(h.content,2400,1200),assistant=excerpt(reply.content,1400,700),length=user.text.length+assistant.text.length;
     if(length>budget)continue;
     selected.unshift({role:'user',content:user.text},{role:'assistant',content:assistant.text});budget-=length;includedTurns++;if(user.excerpt||assistant.excerpt)excerptedTurns++;
@@ -710,7 +711,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  }
  // Plan v1.1 (lot 3 contract): progress of the running review, its estimate and the last failure.
  // stage: capture (snapshot not taken yet, including the wait for a portrait refresh), reading
- // (blocks being analysed), writing, checking, rewriting. blocks_total is stored at the capture.
+ // (blocks being analysed), write, check, rewrite. blocks_total is stored at the capture.
  const REVIEW_NOT_RETRYABLE=['prerequisites_required','consent_withdrawn','access_required','snapshot_too_large','snapshot_analysis_limit','nothing_to_analyze'];
  async function observedEstimate(env){
   const cached=OBSERVED_ESTIMATES.get(env.DB);if(cached&&cached.until>now())return cached.value;
@@ -719,20 +720,26 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  }
  async function reviewProgress(env,userId,{runningId,canGenerate,readiness,quotas,estimate}){
   const columns=await reviewColumnsReady(env),t=now();
-  const [running,latest,created]=await Promise.all([
+  const [running,latest,created,settings]=await Promise.all([
    runningId?first(env,`SELECT created_at,error_code,${columns?'stage':"'write' AS stage"},CASE WHEN json_valid(sources) THEN json_extract(sources,'$.blocks_total') END AS blocks_total,${columns?"CASE WHEN draft!='' AND json_valid(draft) THEN json_array_length(draft,'$.snapshot_chunks') END":'NULL'} AS blocks_done FROM ambre_reviews WHERE id=? AND user_id=?`,runningId,userId):null,
    first(env,'SELECT id,kind,status,error_code,lease_until,completed_at FROM ambre_reviews WHERE user_id=? ORDER BY created_at DESC,id DESC LIMIT 1',userId),
-   first(env,'SELECT count,expires_at FROM rate_limits WHERE key=?',REVIEW_CREATED_KEY+userId)]);
+   first(env,'SELECT count,expires_at FROM rate_limits WHERE key=?',REVIEW_CREATED_KEY+userId),first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId)]);
+  const settingsConsent=Boolean(settings?.consent);
   const total=running&&running.blocks_total!=null?Number(running.blocks_total):null,done=running?Math.min(total??0,Number(running.blocks_done||0)):0;
-  const stage=!running?null:total===null?'capture':done<total?'reading':running.stage==='check'?'checking':running.stage==='rewrite'?'rewriting':'writing';
+  // Values shared with the page (lot 3): capture and reading before the synthesis, then the
+  // stored stage names write, check and rewrite.
+  const stage=!running?null:total===null?'capture':done<total?'reading':['check','rewrite'].includes(running.stage)?running.stage:'write';
   const daily={created:created&&created.expires_at>t?Number(created.count):0,limit:REVIEW_CREATED_PER_DAY,resets_at:created&&created.expires_at>t?created.expires_at:null};
   let last_failure=null;
-  if(latest?.status==='failed'){
+  // A failure is shown until a new review starts (latest is then running or ready) or its cause
+  // is lifted (agreement, access or prerequisites restored): last_failure is then null.
+  const lifted=code=>code==='consent_withdrawn'&&settingsConsent||code==='access_required'&&canGenerate||code==='prerequisites_required'&&readiness.complete;
+  if(latest?.status==='failed'&&!lifted(latest.error_code)){
    const code=latest.error_code||'provider_error',cooldown=await providerCooldown(env),capped=engineEnabled?await dailyCapReached(env,t):false,published=await first(env,"SELECT count(*) AS n FROM chat_turns WHERE user_id=? AND idempotency_key LIKE 'review-%' AND created_at>datetime('now','-1 day')",userId);
    let retryable=!REVIEW_NOT_RETRYABLE.includes(code)&&canGenerate&&readiness.complete&&!runningId,retry_at=null;
    if(retryable&&!quotas.reviews.remaining){retryable=false;retry_at=Date.parse(quotas.reviews.renews_at)/1000||null;}
    if(retryable)retry_at=Math.max(cooldown||0,capped?t+3600:0,daily.created>=REVIEW_CREATED_PER_DAY?daily.resets_at:0,Number(published?.n||0)>=4?t+86400:0)||null;
-   last_failure={id:latest.id,kind:latest.kind,error_code:code,retryable,retry_at};
+   last_failure={id:latest.id,kind:latest.kind==='point'?'point':'initial',error_code:code,retryable,retry_at,daily_limit:REVIEW_CREATED_PER_DAY,daily_remaining:Math.max(0,REVIEW_CREATED_PER_DAY-daily.created)};
   }
   const out={stage,blocks_done:done,blocks_total:total,started_at:running?Number(running.created_at):null,last_failure,daily};
   out.estimate=estimate?await observedEstimate(env)||initialReviewEstimate(total):null;
