@@ -7,7 +7,7 @@ import {database,setup,provider,refused} from './v4-R-helper.mjs';
 
 const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title><main>App shell</main><script>window.started=1</script>';").replace("import { APP_ASSETS, INITIAL_PAGE_DATA_MARKER } from './ui.mjs';","const APP_ASSETS={},INITIAL_PAGE_DATA_MARKER='/*INITIAL_PAGE_DATA*/null';").replace("const importExamples=()=>import('./examples.mjs');",'const importExamples=async()=>({EXAMPLES:[]});')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
-const rewritten=['change-backend','care-backend','chat-backend','entitlements','personal-backend','cartographie','symptomes-backend','symptomes-interface','navigation.generated','companion-readiness','monthly-quotas'].reduce((text,name)=>text.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
+const rewritten=['change-backend','care-backend','chat-backend','entitlements','personal-backend','cartographie','symptomes-carte.generated','navigation.generated','companion-readiness','monthly-quotas'].reduce((text,name)=>text.replace(`'./${name}.mjs'`,JSON.stringify(new URL(`../src/${name}.mjs`,import.meta.url).href)),source);
 const worker=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));
 const origin='https://journal.example';
 function environment(extra={}){
