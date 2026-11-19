@@ -42,7 +42,7 @@ const reviewReply=(content=reviewText())=>new Response(JSON.stringify({choices:[
 const chatReply=(content='Je vous écoute. Dans quelle situation cela arrive-t-il ?')=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content,questions:[],proposals:[],cartography_notes:[]})},finish_reason:'stop'}],usage:{prompt_tokens:100,completion_tokens:100,cost:0.001}}));
 // Lot A5-P1: every review is checked by a separate call before publication. These tests count the
 // writing calls; the check passes here and is tested on its own in v5-A5-P1-reviews.test.mjs.
-const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes',no_internal:'yes'},reasons:[]};
 const isCheck=options=>{try{return JSON.parse(options.body).response_format?.json_schema?.name==='ambre_review_check'}catch{return false}};
 const checkReply=()=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify(CHECK_PASS)},finish_reason:'stop'}],usage:{prompt_tokens:0,completion_tokens:0,cost:0}}));
 const checked=fn=>async(url,options)=>{

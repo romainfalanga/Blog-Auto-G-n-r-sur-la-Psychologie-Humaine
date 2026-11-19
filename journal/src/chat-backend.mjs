@@ -5,7 +5,7 @@ import {readMonthlyQuotas,parisMonth,monthlyAvailableSql,reservedUsageSql} from 
 import {createAmbreEngine,mergeClosed,deterministicAnalysis,replySignal,PROFILE_RUBRICS,memoryPrompt} from './ambre-engine.mjs';
 import {readChangeState,isStopFollowups,suspendChangeFollowups,clearChatChangeState,changeGuard,changeArtifactStatements,serializeSharedPlan,planDependencies} from './change-plan.mjs';
 import {loadCareContext} from './care-context.mjs';
-import {REVIEW_OUTPUT_SCHEMA,REVIEW_CHECK_SCHEMA,REVIEW_CHECK_CRITERIA,FEEDBACK_VERDICTS,FEEDBACK_TEXT_MAX,THREAD_REVIEW_CHARS,THREAD_REVIEWS,validateDigest,threadProse,digestProse,parseDigest,parseFeedback,reviewThread,threadGoals,reviewCorpus,suppliedText,reviewSafetySignal,reviewChecks,chatMessageChecks,fallbackChatMessage,CHAT_MESSAGE_MAX,CHAT_MESSAGE_MIN,reviewVerdict,reviewSuggestion,reviewColumnsReady} from './review-digest.mjs';
+import {REVIEW_OUTPUT_SCHEMA,REVIEW_CHECK_SCHEMA,REVIEW_CHECK_CRITERIA,FEEDBACK_VERDICTS,FEEDBACK_TEXT_MAX,THREAD_REVIEW_CHARS,THREAD_REVIEWS,validateDigest,threadProse,digestProse,parseDigest,parseFeedback,reviewThread,threadGoals,reviewCorpus,suppliedText,reviewSafetySignal,reviewChecks,chatMessageChecks,fallbackChatMessage,CHAT_MESSAGE_MAX,CHAT_MESSAGE_MIN,reviewVerdict,reviewSuggestion,reviewColumnsReady,structureChatMessage,withoutInternalProcess} from './review-digest.mjs';
 import {CHANGE_DRAFT_FIELDS,changePublication} from './change-engine.mjs';
 import {limitQuestions,responseSentences} from './chat-text.mjs';
 import {crisisSignal,riskSignal,safetyReply,ensureSafetyResources,CRISIS_RESOURCES,VIOLENCE_RESOURCES} from './chat-safety.mjs';
@@ -178,8 +178,10 @@ function excerpt(value,max,tail=0,start=0){
 // p50 = inline + ceil(rest/lease) × cron/2 (mean wait for the next cron run) + rest;
 // p90 adds one rewrite (write + check) and a full cron period per run.
 // Before the capture the number of blocks is unknown: default_blocks is used (basis initial_default).
-// Per-call durations are starting values, to be replaced by the paid acceptance run (lot 4).
-export const REVIEW_ESTIMATE=Object.freeze({inline:25,cron:60,lease:180,chunk:15,write:75,check:20,default_blocks:8,observed_min:3,observed_window:50});
+// Per-call durations are calibrated on the paid acceptance run of 19/11 (6 blocks, ready in 122 s:
+// reading of the 6 blocks about 70 s, i.e. about 12 s per block, then writing, check and rewrite
+// about 50 s). 6 blocks give 145–215 s (shown as 2 to 4 minutes); 8 blocks 170–240 s.
+export const REVIEW_ESTIMATE=Object.freeze({inline:25,cron:60,lease:180,chunk:12,write:30,check:10,default_blocks:8,observed_min:3,observed_window:50});
 const round5=n=>Math.ceil(n/5)*5;
 export function initialReviewEstimate(blocks=null){
  const e=REVIEW_ESTIMATE,b=Number.isInteger(blocks)&&blocks>=0?blocks:e.default_blocks,work=b*e.chunk+e.write+e.check,rest=Math.max(0,work-e.inline);
@@ -971,7 +973,7 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
   const content=typeof output?.content==='string'?output.content.replace(/\r\n?/g,'\n').replace(/[\u0000-\u0009\u000B-\u001F\u007F]/g,'').replace(/^#{1,6}\s+/gm,'').replace(/\*\*([^*\n]+)\*\*/g,'$1').replace(/\n{3,}/g,'\n\n').trim():'';
   if(content.length<1200||content.length>14000)throw Object.assign(new Error('invalid'),{code:'invalid_response',rejection:{stage:'ambre_review',reason:content.length<1200?'content_too_short':'content_too_long',content_chars:content.length}});
   const chat=typeof output?.chat_message==='string'?output.chat_message.replace(/\r\n?/g,'\n').replace(/[\u0000-\u0009\u000B-\u001F\u007F]/g,'').replace(/^#{1,6}\s+/gm,'').replace(/\*\*([^*\n]+)\*\*/g,'$1').replace(/\n{3,}/g,'\n\n').trim():'';
-  return {content,digest:output.digest,chat_message:chat};
+  return {content,digest:output.digest,chat_message:structureChatMessage(chat).text};
  }
  const addUsage=(total,usage)=>({input:(Number(total?.input)||0)+(usage?.input||0),output:(Number(total?.output)||0)+(usage?.output||0),cost:(Number(total?.cost)||0)+(usage?.cost||0)});
  // A review is written, then checked in a separate call, rewritten once at most if the check
@@ -1068,12 +1070,12 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
     }
     const synopsis={snapshot_id:review.id,captured_at:snapshotRow.captured_at,safety_signal:signal,...(snapshotRow.payload.omitted?{omitted:snapshotRow.payload.omitted}:{}),...(data.map_safety?{map_safety:data.map_safety}:{}),coverage:{complete:true,analyzed_blocks:completed.length,total_blocks:chunks.length,method:'Chaque élément complet est analysé dans un bloc ; synthèse fondée sur leurs résumés avec provenance.'},blocks:completed};
     if(JSON.stringify(synopsis).length>40000)throw Object.assign(Error('La synthèse complète dépasse la limite autorisée ; aucun bilan partiel publié.'),{code:'snapshot_analysis_limit'});
-    payload='Instantané privé intégral analysé par blocs ; rédige la synthèse de tous les blocs, sans présenter les résumés comme un diagnostic : '+JSON.stringify(synopsis);
+    payload='Instantané privé intégral analysé par blocs ; rédige la synthèse de tous les blocs, sans présenter les résumés comme un diagnostic. Blocs, instantané, résumés et vérification des citations sont des étapes internes : ne les mentionne jamais à la personne, ni dans content ni dans chat_message ; parle de ce qu’elle a renseigné (ses pages, ses réponses, ses récits) : '+JSON.stringify(synopsis);
     meta.snapshot_coverage=synopsis.coverage;
    }
    while(stage!=='publish'){
     if(stage==='write'||stage==='rewrite'){
-     const correction=stage==='rewrite'?'\n\nRelecture du bilan précédent (à corriger) : '+JSON.stringify({failed:draft.check?.failed||[],reasons:draft.check?.reasons||[],unfound_quotes:draft.check?.invented||[],safety_signal:signal})+'\nRéécris une seule fois le bilan complet (content, chat_message et digest) en corrigeant ces points. Entre guillemets, ne cite que des mots de la personne ; un libellé de l’interface se cite seulement comme libellé.':'';
+     const correction=stage==='rewrite'?'\n\nRelecture du bilan précédent (à corriger) : '+JSON.stringify({failed:draft.check?.failed||[],reasons:draft.check?.reasons||[],unfound_quotes:draft.check?.invented||[],safety_signal:signal})+'\nRéécris une seule fois le bilan complet (content, chat_message et digest) en corrigeant ces points. Entre guillemets, ne cite que des mots de la personne ; un libellé de l’interface se cite seulement comme libellé. internal_process ou no_internal : retire toute mention du fonctionnement interne (blocs, instantané, résumés, citations vérifiables ou rares, modèle).':'';
      const result=await call({messages:[{role:'system',content:system},{role:'user',content:payload+correction}],name:'ambre_review',schema:REVIEW_OUTPUT_SCHEMA,maxTokens:REVIEW_WRITE_TOKENS,model:reviewModel(env),effort:'low'});
      usage=addUsage(usage,result.usage);
      const out=reviewOutput(result.raw),digest=validateDigest(out.digest,corpus,{knownGoals});
@@ -1089,7 +1091,7 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
     const result=await call({messages:[{role:'system',content:REVIEW_CHECK_SYSTEM},{role:'user',content:JSON.stringify({kind:review.kind,safety_signal:signal,deterministic_failures:deterministic.failed,unfound_quotes:deterministic.invented,interface_labels_quoted:deterministic.labels,review:draft.content,...(typeof draft.chat_message==='string'?{chat_message:draft.chat_message}:{}),digest:draft.digest})}],name:'ambre_review_check',schema:REVIEW_CHECK_SCHEMA,maxTokens:REVIEW_CHECK_TOKENS,model:reviewCheckModel(env),effort:'minimal'});
     usage=addUsage(usage,result.usage);draft.usage=usage;
     let output;try{output=JSON.parse(stripFence(result.raw));}catch{throw Object.assign(new Error('invalid check'),{code:'invalid_check'});}
-    const verdict={...reviewVerdict(output,deterministic),invented:deterministic.invented,rewritten:Boolean(draft.rewritten)};
+    const verdict={...reviewVerdict(output,deterministic,{rewritten:Boolean(draft.rewritten)}),invented:deterministic.invented,rewritten:Boolean(draft.rewritten)};
     draft.check=verdict;progressed=true;
     if(verdict.passed){draft.approved=true;await keep('check');stage='publish';break;}
     if(draft.rewritten)throw Object.assign(new Error('not approved'),{code:'review_not_approved',verdict});
@@ -1109,7 +1111,12 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
      if(!hasResources(content,needed))content=(needed==='violence'?VIOLENCE_RESOURCES:CRISIS_RESOURCES)+'\n\n'+content;
     }
    }
-   meta.check={passed:true,rewritten:Boolean(check.rewritten),failed:check.failed,...(draft.digest?.dropped?{digest_dropped:draft.digest.dropped}:{}),...(draft.chat_fallback?{chat_fallback:true}:{}),...(safetyAdded?{safety_added:safetyAdded}:{})};
+   // Corrections 19/11: a sentence still describing the internal process after the rewrite is
+   // removed from the document and the message (never shown to the person).
+   const cleanContent=withoutInternalProcess(content),cleanChat=withoutInternalProcess(chatMessage);let internalRemoved=0;
+   if(cleanContent.removed&&cleanContent.text.length>=600){content=cleanContent.text;internalRemoved+=cleanContent.removed}
+   if(cleanChat.removed){internalRemoved+=cleanChat.removed;const text=structureChatMessage(cleanChat.text).text;chatMessage=text.length>=CHAT_MESSAGE_MIN&&text.includes('?')?text:fallbackChatMessage(draft.digest,content,{signal:safetyAdded||signal})}
+   meta.check={passed:true,rewritten:Boolean(check.rewritten),failed:check.failed,...(internalRemoved?{internal_removed:internalRemoved}:{}),...(draft.digest?.dropped?{digest_dropped:draft.digest.dropped}:{}),...(draft.chat_fallback?{chat_fallback:true}:{}),...(safetyAdded?{safety_added:safetyAdded}:{})};
    const turnKey='review-'+review.id,envelope=JSON.stringify({companion_reply:1,content:chatMessage,chat_message:chatMessage,review_id:review.id,review_kind:review.kind}),t=now(),week=parisWeek(new Date(t*1000)).week_start;
    // The review and its message in the conversation are published together, only
    // while the lease is held and the agreement stands.

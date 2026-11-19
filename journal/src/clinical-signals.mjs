@@ -144,6 +144,16 @@ export function clinicalSignals(message,{identity,history=[],plan,memory={}}={})
 export const anySignal=signals=>Boolean(signals&&(signals.ipv!=='none'||signals.reality!=='none'||signals.eating||signals.minor||signals.intrusive||signals.substance||signals.meta_ai||signals.perpetrator||signals.unsafe_relation||signals.declined_streak>=2||signals.repair_followup));
 // Merge model-proposed signals into deterministic ones: the model may add, never remove.
 const IPV_RANK=['none','control','physical','severe'];
+// Corrections 19/11: a partner-violence signal proposed by the analysis model (control or
+// physical) is kept only when the person's message or one of her two previous messages speaks of
+// a partner or of violence; otherwise a rich context (proches, bilan) alone added the 3919 to an
+// unrelated message. A severe signal from the model is always kept (safety first).
+const VIOLENCE_CUE=new RegExp(String.raw`\b${PARTNER}\b|\b(?:violen\w*|frapp\w*|coups?|gifl\w*|battu\w*|cogn\w*|bless\w*|menac\w*|insult\w*|humili\w*|rabaiss\w*|hurl\w*|cri(?:e|ent|er|s)|jalou\w*|surveill\w*|control\w*|fouill\w*|confisqu\w*|interdi\w*|empech\w*|isol\w*|emprise|harcel\w*|peur de (?:lui|elle|rentrer)|cou|gorge|etrangl\w*|arme|couteau|tuer|viol\w*|couple)\b`);
+export function violenceAnchored(message,history=[]){return [message,...(Array.isArray(history)?history.slice(-2).map(turn=>turn?.user):[])].some(text=>typeof text==='string'&&VIOLENCE_CUE.test(fold(text)))}
+export function anchorModelSignals(model={},message,history=[]){
+ if(!model||!['control','physical'].includes(model.ipv)||violenceAnchored(message,history))return {signals:model||{},dropped:[]};
+ return {signals:{...model,ipv:'none'},dropped:['ipv_'+model.ipv]};
+}
 export function mergeSignals(base,model={}){
  const out={...base};
  if(IPV_RANK.indexOf(model.ipv)>IPV_RANK.indexOf(out.ipv))out.ipv=model.ipv;

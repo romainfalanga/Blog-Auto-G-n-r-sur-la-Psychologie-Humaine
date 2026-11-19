@@ -39,7 +39,7 @@ test('failed blocking criterion rewrites exactly once and rereviews the full ans
 
 test('unsafe rewrite is replaced without publishing proposals or cutting sentences',async t=>{
  const s=setup();await ready(s);let writes=0;provider(t,p=>{if(p==='ambre_writing'){writes++;return {...draft(),content:'Vous êtes bipolaire. Pourquoi ? Depuis quand ?'}}});
- const result=await message(s);assert.equal(writes,2);assert.match(result.messages.at(-1).content,/reprendre avec prudence/);assert.doesNotMatch(result.messages.at(-1).content,/bipolaire|Pourquoi/);assert.equal(JSON.parse(job(s).review).fallback,true);
+ const result=await message(s);assert.equal(writes,2);assert.match(result.messages.at(-1).content,/Vous écrivez : « Je rumine quand je me sens critiqué\. » .*situation récente/);assert.doesNotMatch(result.messages.at(-1).content,/bipolaire|Pourquoi/);assert.equal(JSON.parse(job(s).review).fallback,true);
 });
 
 test('queue is durable before waitUntil and simultaneous replays never duplicate generation',async t=>{
@@ -167,7 +167,7 @@ test('reviewer transient timeout and HTTP errors resume only the review on later
 test('three unavailable reviewer attempts publish a safe fallback and never retry indefinitely',async t=>{
  const s=setup();await ready(s);const calls=provider(t,p=>{if(p==='ambre_review')return new Response('PRIVATE_SECRET',{status:502})});await message(s,'review_three');assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,1);
  await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'review');assert.equal(job(s).attempts,2);assert.equal(s.raw.prepare('SELECT status FROM chat_turns').get().status,'running');
- await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const verdict=JSON.parse(job(s).review);assert.equal(verdict.checked,false);assert.equal(verdict.fallback,true);assert.equal(verdict.attempts,3);assert.equal(verdict.error_code,'provider_http_502');assert.match((await s.call('/api/chat')).messages.at(-1).content,/reprendre avec prudence/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,3);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);
+ await s.chat.resumeEngine(s.env);assert.equal(job(s).stage,'done');const verdict=JSON.parse(job(s).review);assert.equal(verdict.checked,false);assert.equal(verdict.fallback,true);assert.equal(verdict.attempts,3);assert.equal(verdict.error_code,'provider_http_502');assert.match((await s.call('/api/chat')).messages.at(-1).content,/Vous écrivez : « Je rumine quand je me sens critiqué\. » .*situation récente/);assert.equal(calls.filter(c=>c.purpose==='ambre_review').length,3);assert.equal(calls.filter(c=>c.purpose==='ambre_writing').length,1);
  await s.chat.resumeEngine(s.env);assert.equal(calls.length,5);assert.doesNotMatch(JSON.stringify((await s.call('/api/chat/insight')).turns),/PRIVATE_SECRET/);
 });
 
@@ -486,4 +486,35 @@ test('hidden contextual subjects never reach the index, even with an older answe
  assert.equal(knowledgeIndex({sources:[],people:[],events:[],cartography:{contextual:[{id:'adult_context',label:'Repère somatique',contextual_only:true,age_scope:'adult'}]}}).length,0);
  const index=knowledgeIndex({sources:[],people:[],events:[],cartography:{contextual:[],recognized:[{id:'adult_context',label:'Repère somatique',contextual_only:true,age_scope:'adult'}],dismissed:[{id:'child_context',label:'Attachement du jeune enfant',contextual_only:true,age_scope:'young_child_only'}]}});
  assert.equal(index.some(x=>/adult_context|child_context/.test(x.key)),false);
+});
+
+// Corrections 19/11 (recette réelle): first message after the review. The analysis model added a
+// partner-violence signal from the rich context alone; the deterministic referral check (criterion
+// 13, blocking) then failed both drafts and the generic fallback carried an unrelated 3919 line.
+const AFTER_REVIEW='Je pense que l’exigence envers moi-même est ce qui me parle le plus. J’aimerais comprendre d’où elle vient.';
+const ANSWER='Vous voulez comprendre d’où vient cette exigence envers vous-même. Votre bilan la reliait, comme hypothèse, à ce que vous racontez de vos premières années de travail ; c’est à vérifier avec vous. Quand l’avez-vous sentie le plus fort récemment ?';
+test('a model violence signal without any cue in the message or the recent messages is dropped: the first answer is published',async t=>{
+ const s=setup();await ready(s);let writes=0;
+ provider(t,p=>p==='ambre_analysis'?{...analysis(),signals:['ipv_control']}:p==='ambre_writing'?(writes++,{...draft(),content:ANSWER}):undefined);
+ const result=await message(s,'after_review_01',AFTER_REVIEW);assert.equal(result.status,200,result.message);
+ assert.equal(result.messages.at(-1).content,ANSWER);assert.equal(writes,1,'no rewrite');assert.doesNotMatch(result.messages.at(-1).content,/3919/);
+ const verdict=JSON.parse(job(s).review),stored=JSON.parse(job(s).analysis);assert.equal(verdict.passed,true);assert.equal(verdict.fallback,undefined);
+ assert.equal(stored.signals?.ipv,undefined);assert.deepEqual(stored.unanchored_signals,['ipv_control']);
+});
+test('a model violence signal anchored in the message is kept, and the fallback answers the message simply, 3919 only with that signal',async t=>{
+ const s=setup();await ready(s);
+ provider(t,p=>p==='ambre_analysis'?{...analysis(),signals:['ipv_control']}:p==='ambre_writing'?{...draft(),content:'Vous êtes bipolaire.'}:undefined);
+ const kept=await message(s,'anchored_ipv_01','Mon compagnon regarde toujours mon téléphone et je me sens surveillée.');
+ assert.match(kept.messages.at(-1).content,/^Vous écrivez : « Mon compagnon regarde toujours mon téléphone et je me sens surveillée\. »/);assert.match(kept.messages.at(-1).content,/3919/);
+ // The violence spoken of in the previous message still anchors the signal (recent context).
+ assert.match((await message(s,'recent_ipv_01',AFTER_REVIEW)).messages.at(-1).content,/3919/);
+ const other=setup();await ready(other);const plain=await message(other,'unanchored_ipv_01',AFTER_REVIEW),reply=plain.messages.at(-1).content;
+ assert.match(reply,/^Vous écrivez : « Je pense que l’exigence envers moi-même est ce qui me parle le plus\. J’aimerais comprendre d’où elle vient\. »/);assert.match(reply,/situation récente/);
+ assert.doesNotMatch(reply,/3919|reprendre avec prudence/);assert.equal((reply.match(/\?/g)||[]).length,1);
+});
+test('the writer and reviewer share explicit length bounds, and the fallback stays generic for a long message',async()=>{
+ const {fallbackReply,REVIEW_GUIDANCE}=await import('../src/ambre-engine.mjs');const source=readFileSync(new URL('../src/ambre-engine.mjs',import.meta.url),'utf8');
+ assert.match(source,/Longueur \(critère 14\) : 60 à 180 mots, jamais plus de 220/);assert.match(REVIEW_GUIDANCE,/14 : non seulement au-delà de 220 mots/);
+ assert.match(fallbackReply('x'.repeat(300)+' fin.',{}),/reprendre avec prudence/);
+ assert.doesNotMatch(fallbackReply('Je suis épuisée ce soir.',{posture:'stabilize',constraints:[],states:['distress']}),/\?/,'no question when the posture calls for calm');
 });

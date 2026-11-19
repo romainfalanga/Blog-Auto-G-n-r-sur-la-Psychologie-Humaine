@@ -49,6 +49,9 @@ for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)tes
 // its reservation follows. No input ceiling is raised. Measured on this tree: writing input
 // initial 14 089 (+13.4 %), point 14 589 (+16.5 %); check 3 438 tokens (the check now also reads
 // chat_message, here the deterministic fallback); totals +41.1 % and +43.9 %, under the unchanged +45 %.
+// Corrections 19/11 (rule on the internal process, paragraph form of chat_message with an example,
+// criterion no_internal): writing initial 14 344 (+15.5 %), point 14 542 (+16.1 %); check 3 498 tokens;
+// totals +43.6 % and +44.0 %. No ceiling of this test was raised.
 for(const kind of ['initial','point'])test(`legacy before 0031 A5-P1 review cost ${kind}: writing within +20 %, check under 3 500 tokens, both published together`,async t=>{
  const content='BILAN '+'Vous écrivez que la critique réveille une vigilance ancienne ; cela peut se relier à votre histoire. '.repeat(55);
  const run=await replayReview(kind,{legacy:true,digests:true,write:()=>({content,digest:{formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],alliance:{text:'',quote:''},open_questions:['Qu’aimeriez-vous travailler ?'],next_focus:'La suite',safety:''}})});

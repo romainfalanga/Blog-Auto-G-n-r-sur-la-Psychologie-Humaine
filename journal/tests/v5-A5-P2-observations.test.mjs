@@ -111,7 +111,7 @@ test('P2 a declared unsafe relationship blocks confrontation in a review despite
  const s=setup();addPerson(s);seedCompanionPrerequisites(s.raw);s.raw.prepare("UPDATE personal_people SET feels_safe='not_always' WHERE id='mila'").run();
  const calls=provider(t,p=>{
   if(p==='ambre_review')return {content:'Confrontez Mila ce soir. '+('Ce bilan décrit des informations limitées sur votre relation. Vous pouvez les préciser selon ce qui vous convient. '.repeat(12)),digest:{}};
-  if(p==='ambre_review_check')return {criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+  if(p==='ambre_review_check')return {criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes',no_internal:'yes'},reasons:[]};
  });
  const result=await s.call('/api/chat/start','POST',{idempotency_key:'review_unsafe_relation',accepted:true});assert.equal(result.status,202,JSON.stringify(result));
  const row=s.raw.prepare('SELECT status,error_code FROM ambre_reviews WHERE id=?').get(result.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,'review_not_approved');

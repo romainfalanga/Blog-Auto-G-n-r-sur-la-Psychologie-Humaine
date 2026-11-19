@@ -13,7 +13,7 @@ import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
 import {readReviewSnapshot,snapshotChunks,validateSnapshotChunk,normalizeQuoteText,SNAPSHOT_CHUNK_SCHEMA} from '../src/review-snapshot.mjs';
 
 const SELF='Je me tais souvent pour éviter les conflits avec ma sœur. Quand on me demande « ça va ? », je réponds "oui" par réflexe.\nJ’ai du mal à dire ce que je ressens, même à mon compagnon.';
-const PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
+const PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes',no_internal:'yes'},reasons:[]};
 const DIGEST={formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],alliance:{text:'',quote:''},open_questions:[],next_focus:'',safety:''};
 const CONTENT='Ce qui semble ressortir de vos réponses et de ce que vous écrivez. Hypothèse : une difficulté à identifier et nommer vos émotions, à explorer avec vous ; il manque des exemples récents. '+'Nous pourrons vérifier ensemble ce qui vous ressemble et ce qui ne vous ressemble pas, sans conclusion hâtive. '.repeat(12)+'Qu’avez-vous envie de comprendre en priorité ?';
 const CHAT='Votre bilan est prêt. Ce qui ressort : hypothèse : une difficulté à nommer vos émotions, à vérifier avec vous ; il manque des exemples récents. Qu’aimeriez-vous creuser en premier ? Qu’en pensez-vous ?';
