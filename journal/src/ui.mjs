@@ -665,8 +665,8 @@ function sourceNoteEditor(target,note,onSaved,addLabel){
  });return details
 }
 function sourceNoteCard(target,note,onSaved,label){
- var deletionId=newClientId(),row=el('article','timeline-note'),dates=el('p','source-meta note-dates',label||'Note ajoutée le '+shortDay(note.created_at));row.dataset.noteId=note.id;
- if(note.updated_at&&note.updated_at!==note.created_at&&shortDay(note.updated_at))dates.append(el('span','note-edited',' · modifiée le '+shortDay(note.updated_at)));
+ var deletionId=newClientId(),row=el('article','timeline-note'),dates=el('p','source-meta note-dates');dates.append(el('span','note-added',label||'Note ajoutée le '+shortDay(note.created_at)));row.dataset.noteId=note.id;
+ if((note.revision>1||note.updated_at!==note.created_at)&&shortDay(note.updated_at))dates.append(el('span','note-edited',' · modifiée le '+shortDay(note.updated_at)));
  row.append(dates,el('p','source-note',note.text));
  row.append(sourceNoteEditor(target,note,onSaved),historyButton('note',note.id,'Note du '+shortDay(note.created_at)));var feedback=el('p','status');feedback.setAttribute('role','status');
  row.append(actionButton('Supprimer la note',async function(event){var button=event.currentTarget;if(!await confirmDialog('Supprimer cette note ?','','Supprimer',true))return;button.disabled=true;

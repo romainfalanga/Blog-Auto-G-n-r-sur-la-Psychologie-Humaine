@@ -30,7 +30,11 @@ export function createHistoryBackend({error,json}){
   return out;
  }
  const same=(a,b)=>JSON.stringify(a??null)===JSON.stringify(b??null);
- const diff=(type,before,after)=>HISTORY_FIELDS[type].filter(key=>!same(before[key],after[key])).map(key=>({field:key,before:before[key]??null,after:after[key]??null}));
+ // A date is read as a whole: one changed part brings its precision and bounds along.
+ const GROUPS=[['date_precision','date_start','date_end','age_text'],['meeting_date_precision','meeting_date_start','meeting_date_end','meeting_age_text']];
+ const diff=(type,before,after)=>{const changed=new Set(HISTORY_FIELDS[type].filter(key=>!same(before[key],after[key])));
+  for(const group of GROUPS)if(group.some(key=>changed.has(key)))group.forEach(key=>changed.add(key));
+  return HISTORY_FIELDS[type].filter(key=>changed.has(key)).map(key=>({field:key,before:before[key]??null,after:after[key]??null}));};
  async function read(env,userId,type,id){
   const row=await first(env,`SELECT * FROM ${TABLES[type]} WHERE id=? AND user_id=?`,id,userId);
   // The same answer covers an unknown identifier and an element of another account.

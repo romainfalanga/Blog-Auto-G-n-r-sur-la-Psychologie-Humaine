@@ -573,7 +573,7 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
 /* Migration 0034: the date an element was added, and its history in a dialog. */
 .added-on { margin: 2px 0 0; }
 .person-info > .added-on { margin: calc(-1 * var(--s2)) 0 var(--s3); }
-.note-dates .note-edited { white-space: nowrap; }
+.note-dates > span { white-space: nowrap; }
 .history-link { font-size: var(--t-sm); }
 .timeline-note > .history-link { vertical-align: top; margin-right: var(--s4); }
 .history-dialog { width: min(640px, calc(100% - 2 * var(--gutter))); }
