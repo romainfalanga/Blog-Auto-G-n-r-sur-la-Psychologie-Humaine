@@ -1,6 +1,7 @@
 import {contextHash} from './private-context.mjs';
 import {timelineReady,noteRow,stripPrivate,eventRows,iso,NOTE_TEXT_MAX} from './timeline-data.mjs';
 import {peopleObservationReady} from './people-observations.mjs';
+import {significanceReady} from './context-fields.mjs';
 const MAX_NOTES=2000,MAX_PARENT_NOTES=200;
 export function createTimelineBackend({error,json,body,now,random}){
  const first=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).first();
@@ -92,7 +93,7 @@ export function createTimelineBackend({error,json,body,now,random}){
   const full=await eventRows(env,rows,userId),items=selected.map(({sort,id:entityId,...entry})=>entry.kind==='life_event'?{...entry,event:full.find(e=>e.id===entityId)}:entry);
   if(observationsAvailable&&JSON.stringify(await all(env,observationsSql,userId,id))!==JSON.stringify(observations))fail(409,'La chronologie a changé. Rechargez-la.','pagination_changed');
   if(await version(env,userId)!==sourceVersion)fail(409,'La chronologie a changé. Rechargez-la.','pagination_changed');
-  return json({person:stripPrivate(person),items,total:entries.length,next_cursor:start+size<entries.length?btoa(JSON.stringify({v:1,person:id,order,stamp,key:selected.at(-1).key})):null,source_version:sourceVersion,available});
+  return json({person:stripPrivate(person),items,total:entries.length,next_cursor:start+size<entries.length?btoa(JSON.stringify({v:1,person:id,order,stamp,key:selected.at(-1).key})):null,source_version:sourceVersion,available,significance_ready:await significanceReady(env)});
  }
  async function routes(request,env,user,path,url){
   let match=path.match(/^\/api\/people\/([\w-]+)\/timeline$/);

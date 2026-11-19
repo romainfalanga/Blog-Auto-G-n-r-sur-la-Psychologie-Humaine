@@ -216,6 +216,59 @@ html.is-navigating .person-card:has(.person-open[data-pending])::after { content
 .frise-event .event-notes > .source-note-editor > summary { font-weight: 600; }
 .frise-observation > .text { font-size: var(--t-sm); }
 .person-timeline-body > .frise-more { margin: 0 0 var(--s4) var(--s6); }
+/* Migration 0027: « Anecdotique / Marquant ». One segmented control for the form and the filter;
+   a marking moment has a full dot and a stronger title, an anecdotal one a hollow dot, a moment
+   « à préciser » a dashed dot and two buttons to choose. Targets stay at 44 px. */
+.segmented { display: inline-flex; flex-wrap: wrap; max-width: 100%; border: 1px solid var(--line-strong); border-radius: var(--r-control); background: var(--surface); overflow: hidden; }
+.segmented > .segment, .segmented > .segment-button { position: relative; display: inline-flex; align-items: center; justify-content: center; flex: 1 1 0; min-width: 0; min-height: 44px; margin: 0; padding: 0 var(--s4); border: 0; border-radius: 0; background: var(--surface); color: var(--ink); font: 600 var(--t-sm)/1.2 var(--font-ui); cursor: pointer; }
+.segmented > * + * { border-left: 1px solid var(--line-strong) !important; }
+.segment > input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.segment:has(input:checked), .segmented > .segment-button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.segment:has(input:focus-visible) { outline: 2px solid var(--accent); outline-offset: -4px; box-shadow: inset 0 0 0 4px #fff; }
+@media (hover: hover) { .segment:not(:has(input:checked)):hover, .segmented > .segment-button[aria-pressed="false"]:hover { background: var(--accent-wash); } }
+.segmented > .segment-button[aria-pressed="false"]:not(:disabled):active { background: var(--accent-wash); }
+.significance-field .segmented { display: flex; width: min(100%, 360px); }
+.significance-field:has(input:user-invalid) .segmented { border-color: var(--danger); }
+.moment-filter { flex: none; }
+.moment-filter > .segment-button { min-width: 104px; }
+.source-toolbar:has(.moment-filter) { justify-content: space-between; gap: var(--s3); margin-bottom: var(--s4); }
+.source-toolbar .moment-filter { margin-left: auto; }
+.person-timeline-body > .moment-filter { margin: 0 0 var(--s5); }
+.significance-view { margin-top: var(--s2); }
+.significance-tag { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font: 600 var(--t-xs)/1.4 var(--font-ui); letter-spacing: .01em; }
+.significance-tag::before { content: '' / ''; flex: none; width: 9px; height: 9px; border: 1.5px solid var(--line-strong); border-radius: 50%; box-sizing: border-box; }
+.significance-view.is-major .significance-tag { color: var(--accent); }
+.significance-view.is-major .significance-tag::before { border-color: var(--accent); background: var(--accent); }
+.significance-view.is-unset .significance-tag::before { border-style: dashed; }
+.significance-choice { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2) var(--s3); padding: var(--s2) var(--s3); border: 1px dashed var(--line-strong); border-radius: var(--r-control); background: var(--bg); }
+.significance-choice > .significance-tag { flex: 1 1 100%; color: var(--ink); }
+.significance-choice > .segment-button { flex: 1 1 0; min-width: 120px; min-height: 44px; padding: 0 var(--s3); font-size: var(--t-sm); }
+.significance-view > .status:empty { display: none; }
+.event-timeline > .event-card { position: relative; }
+.event-timeline > .event-card::before { content: '' / ''; position: absolute; top: 22px; left: -25px; width: 9px; height: 9px; border: 1.5px solid var(--line-strong); border-radius: 50%; background: var(--bg); box-sizing: border-box; }
+.event-timeline > .event-card.is-major::before { top: 20px; left: -26px; width: 11px; height: 11px; border: 2px solid var(--accent); background: var(--accent); }
+.event-timeline > .event-card.is-unset::before { border-style: dashed; }
+.event-timeline > .event-card:not(.is-major, .is-anecdotal, .is-unset)::before { display: none; }
+.event-card.is-major { border-color: color-mix(in srgb, var(--accent) 35%, var(--line)); }
+.event-card.is-major h4 { font-weight: 700; }
+.event-card.is-anecdotal { background: color-mix(in srgb, var(--surface) 55%, var(--bg)); }
+.event-card.is-anecdotal h4 { font-weight: 500; }
+.frise-event.is-major .frise-title { font-weight: 700; }
+.frise-event.is-anecdotal::before, .frise-event.is-unset::before { top: 6px; left: calc(-1 * var(--s6) + 2px); width: 10px; height: 10px; border: 1.5px solid var(--line-strong); background: var(--bg); }
+.frise-event.is-unset::before { border-style: dashed; }
+.frise-event.is-anecdotal .frise-title { font-weight: 500; font-size: var(--t-md); }
+.frise-event.is-anecdotal .frise-title a { color: color-mix(in srgb, var(--ink) 82%, var(--muted)); }
+.frise-event .significance-view { margin: var(--s1) 0 0; }
+.pending-moments { margin-top: var(--s6); padding-top: var(--s5); border-top: 1px solid var(--line); }
+.pending-moments > .helper { margin: 0 0 var(--s4); }
+.undated-events.pending-moments > .helper { margin: calc(-1 * var(--s2)) 0 0; }
+.frise-pending-title { margin: 0 0 var(--s1); font: 400 var(--t-lg)/1.3 var(--font-title); }
+.moment-filter-empty, .moment-filter-hidden { margin: var(--s4) 0 0; font-size: var(--t-sm); }
+@media (max-width: 599px) {
+  .source-toolbar .moment-filter { width: 100%; margin-left: 0; }
+  .moment-filter > .segment-button { flex: 1 1 0; }
+  .person-timeline-body > .moment-filter { display: flex; width: 100%; }
+}
 /* Under the line: « Ajouter une note » and « Ajouter un moment » side by side; an open note form takes the full width below. */
 .person-timeline-adds { display: flex; flex-wrap: wrap; align-items: flex-start; gap: var(--s3); margin-top: var(--s2); padding-top: var(--s5); border-top: 1px solid var(--line); }
 .person-timeline-adds > .person-note-add[open] { flex: 1 1 100%; order: 2; }

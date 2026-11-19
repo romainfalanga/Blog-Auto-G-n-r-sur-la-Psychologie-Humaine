@@ -3,7 +3,7 @@ import { isEntitled, platformAccess } from './entitlements.mjs';
 import {validatePsychologicalMap} from './psychology-map.mjs';
 import {declaredLifeContext,assertPortraitLanguage,PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 import {loadCompanionCartography} from './cartographie.mjs';
-import {PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,contextFieldsReady} from './context-fields.mjs';
+import {PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,contextFieldsReady,significanceReady} from './context-fields.mjs';
 // Canonical private sources used to understand the member and suggest public readings.
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value))),b=>b.toString(16).padStart(2,'0')).join('');
@@ -13,7 +13,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  // one SQLite cell. Retry if any source changed during the snapshot reads.
  let row,likes,people,events,exposures;
  // Lot A5-P2: the optional fields of migration 0024, once it is applied.
- const timelines=await timelineReady(env),extended=await contextFieldsReady(env),personExtra=(extended?','+PERSON_P2_FIELDS.join(','):'')+(timelines?','+MEETING_FIELDS.join(','):''),eventExtra=extended?','+EVENT_P2_FIELDS.map(k=>'e.'+k).join(','):'';
+ const timelines=await timelineReady(env),extended=await contextFieldsReady(env),personExtra=(extended?','+PERSON_P2_FIELDS.join(','):'')+(timelines?','+MEETING_FIELDS.join(','):''),eventExtra=(extended?','+EVENT_P2_FIELDS.map(k=>'e.'+k).join(','):'')+(await significanceReady(env)?',e.significance':'');
  for(let attempt=0;attempt<4;attempt++){
   row=await env.DB.prepare(`SELECT p.version AS source_version,p.self_data,p.self_revision,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until,s.trial_end FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
   if(!row)return null;
@@ -60,7 +60,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  const personFields=p=>({role:p.role,custom_role:p.custom_role,relationship_text:p.relationship_text,...(p.user_notes_text?{user_notes_text:p.user_notes_text}:{}),...(personFacts(p).length?{bond:personFacts(p).join(' ; ')}:{}),...Object.fromEntries(PERSON_PARTS.filter(([k])=>String(p[k]||'').trim()).map(([k])=>[k,p[k]]))});
  const eventFields=e=>({title:e.title,description:e.description,meaning_now:e.meaning_now,...(e.user_notes_text?{user_notes_text:e.user_notes_text}:{}),...Object.fromEntries(EVENT_PARTS.filter(([k])=>String(e[k]||'').trim()).map(([k])=>[k,e[k]])),...(eventFacts(e).length?{lived:eventFacts(e).join(' ; ')}:{})});
  for(const p of context.people)if(p.relationship_text.trim()||p.user_notes_text||personFacts(p).length||PERSON_PARTS.some(([k])=>String(p[k]||'').trim()))add('person:'+p.id,'person',p.revision,personFields(p),{created_at:p.created_at,updated_at:p.updated_at,temporal:{start:p.period_start,end:p.period_end,...(p.meeting_date_precision&&p.meeting_date_precision!=='unknown'?{meeting:{precision:p.meeting_date_precision,start:p.meeting_date_start,end:p.meeting_date_end,age:p.meeting_age_text}}:{})}});
- for(const e of context.events)if(e.description.trim()||e.meaning_now.trim()||e.user_notes_text||eventFacts(e).length||EVENT_PARTS.some(([k])=>String(e[k]||'').trim()))add('event:'+e.id,'event',e.revision,eventFields(e),{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},current_importance:e.current_importance,related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
+ for(const e of context.events)if(e.description.trim()||e.meaning_now.trim()||e.user_notes_text||eventFacts(e).length||EVENT_PARTS.some(([k])=>String(e[k]||'').trim()))add('event:'+e.id,'event',e.revision,eventFields(e),{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},current_importance:e.current_importance,...(e.significance?{significance:e.significance}:{}),...(e.exposure?{exposure:e.exposure}:{}),related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
  // Retain the historic source hashes to reuse valid portrait extractions.
  const eventHashVersions=new Map(events.map(e=>['event:'+e.id,e.fiction_use]));
  for(const source of sources)source.hash=await hash(JSON.stringify([source.type,source.revision,source.text,source.temporal,eventHashVersions.get(source.id)||'abstract',source.related_people||[]]));

@@ -19,12 +19,12 @@ test('F22: before the baseline every migration looks pending and a replay fails 
 
 // Lot A5-P1: 0023 (review digest) follows 0022; the one-time baseline records neither (both are
 // applied by `wrangler d1 migrations apply`).
-test('F22: after the baseline 0022 through 0026 are pending; applying them is additive and the baseline is idempotent',()=>{
+test('F22: after the baseline 0022 through 0027 are pending; applying them is additive and the baseline is idempotent',()=>{
  const db=migrated('0022');
  db.exec("INSERT INTO users(id,email,password_hash,password_salt) VALUES('u','u@example.test','h','s');INSERT INTO chat_memory_jobs(user_id,updated_at) VALUES('u',1234);INSERT INTO rate_limits(key,count,expires_at) VALUES('k',1,5)");
  db.exec(baseline);
- assert.deepEqual(pending(db),['0022_robustness.sql','0023_review_digest.sql','0024_person_moment_fields.sql','0025_personal_timeline_notes.sql','0026_monthly_usage.sql']);
- for(const name of ['0022_robustness.sql','0023_review_digest.sql','0024_person_moment_fields.sql','0025_personal_timeline_notes.sql','0026_monthly_usage.sql']){db.exec(read(name));db.prepare('INSERT INTO d1_migrations(name) VALUES(?)').run(name)}
+ assert.deepEqual(pending(db),['0022_robustness.sql','0023_review_digest.sql','0024_person_moment_fields.sql','0025_personal_timeline_notes.sql','0026_monthly_usage.sql','0027_life_event_significance.sql']);
+ for(const name of ['0022_robustness.sql','0023_review_digest.sql','0024_person_moment_fields.sql','0025_personal_timeline_notes.sql','0026_monthly_usage.sql','0027_life_event_significance.sql']){db.exec(read(name));db.prepare('INSERT INTO d1_migrations(name) VALUES(?)').run(name)}
  assert.deepEqual(pending(db),[]);
  db.exec(baseline);
  assert.equal(db.prepare('SELECT count(*) n FROM d1_migrations').get().n,migrationNames().length);
@@ -35,7 +35,7 @@ test('F22: after the baseline 0022 through 0026 are pending; applying them is ad
 
 test('F22: a missing migration is never hidden by the baseline',()=>{
  const db=migrated('0021');db.exec(baseline);
- assert.deepEqual(pending(db),['0021_change_plan.sql','0022_robustness.sql','0023_review_digest.sql','0024_person_moment_fields.sql','0025_personal_timeline_notes.sql','0026_monthly_usage.sql']);
+ assert.deepEqual(pending(db),['0021_change_plan.sql','0022_robustness.sql','0023_review_digest.sql','0024_person_moment_fields.sql','0025_personal_timeline_notes.sql','0026_monthly_usage.sql','0027_life_event_significance.sql']);
  const partial=migrated('0018');partial.exec(baseline);
  assert.deepEqual(pending(partial).slice(0,2),['0018_ambre_reviews.sql','0019_ambre_engine.sql']);
 });
