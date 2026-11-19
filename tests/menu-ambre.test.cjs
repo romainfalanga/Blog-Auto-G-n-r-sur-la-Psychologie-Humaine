@@ -63,7 +63,7 @@ test('Netlify proxies the list of close people and every person page to the Work
   assert.match(redirect('/mon-accompagnement'), /workers\.dev\/mon-accompagnement\/"/);
 });
 
-test('Mes symptômes follows Mon enfance in the menu and is a private Worker page: proxied, never cached', () => {
+test('Mes symptômes follows Mon enfance in the menu and uses the shared Hugo map and private bootstrap', () => {
   const navigation = JSON.parse(read('data/navigation.json'));
   const index = navigation.findIndex(item => item.label === 'Mon enfance');
   assert.deepEqual(navigation[index + 1], { label: 'Mes symptômes', href: '/mes-symptomes/' });
@@ -71,11 +71,12 @@ test('Mes symptômes follows Mon enfance in the menu and is a private Worker pag
   const blocks = config.split(/\n(?=\[\[)/);
   const redirect = from => blocks.find(block => block.startsWith('[[redirects]]') && block.includes('from = "' + from + '"'));
   const headers = path => blocks.find(block => block.startsWith('[[headers]]') && block.includes('for = "' + path + '"'));
-  assert.match(redirect('/mes-symptomes'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-symptomes\/"\s+status = 200\s+force = true/);
-  // "/mes-symptomes/*" also carries the engine script /mes-symptomes/moteur.js.
-  assert.match(redirect('/mes-symptomes/*'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-symptomes\/:splat"\s+status = 200\s+force = true/);
+  assert.equal(redirect('/mes-symptomes'), undefined);
+  assert.equal(redirect('/mes-symptomes/*'), undefined);
+  assert.match(read('content/mes-symptomes.md'), /layout: "cartographie"/);
+  assert.match(read('content/mes-symptomes.md'), /dataset: "symptomes"/);
   for (const path of ['/mes-symptomes', '/mes-symptomes/*']) assert.match(headers(path), /Cache-Control = "private, no-store"/, path);
   const worker = read('journal/src/worker.mjs');
-  assert.match(worker, /'\/mes-symptomes':'Mes symptômes'/);
+  assert.doesNotMatch(worker, /'\/mes-symptomes':'Mes symptômes'/);
   assert.match(worker, /symptomes:\{path:'\/mes-symptomes\/',routes:\['\/api\/symptomes'\]\}/);
 });

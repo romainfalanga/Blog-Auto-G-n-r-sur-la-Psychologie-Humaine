@@ -45,13 +45,27 @@
     return node;
   }
 
-  function app(root) {
-    var data = JSON.parse(document.getElementById('cartographie-data').textContent);
+  function app(root, data) {
+    var symptoms = root.getAttribute('data-dataset') === 'symptomes';
+    var ui = data.ui || {};
+    var detailsPromise;
+    function ensureDetails() {
+      if (!data.details_url) return Promise.resolve();
+      if (!detailsPromise) detailsPromise = fetch(data.details_url, { credentials: 'omit', cache: 'force-cache' }).then(function (r) { if (!r.ok) throw new Error('Details unavailable'); return r.json(); }).then(function (details) {
+        data.links.forEach(function (l) { l.summary = details[l.factor + '|' + l.outcome] || ''; }); data.details_url = null;
+      }).catch(function (error) { detailsPromise = null; throw error; });
+      return detailsPromise;
+    }
+    function detailsError() { state.saveError = 'Les explications sont indisponibles pour le moment. Réessayez en ouvrant le détail.'; renderSave(); }
+
+    var DRAFT_KEY = ui.draft_key || (symptoms ? 'symptomes-brouillon-v2' : 'cartographie-brouillon-v1');
+    var apiPath = ui.api || (symptoms ? '/api/symptomes' : '/api/cartographie');
+    var pagePath = symptoms ? '/mes-symptomes/' : '/cartographie/';
     var factors = {}, outcomes = {};
     data.factors.forEach(function (f) { factors[f.id] = f; });
     (data.retired_outcomes || []).concat(data.outcomes).forEach(function (o) { outcomes[o.id] = o; });
     // Contextual and retired subjects are not displayed, here or in « Liens étudiés ».
-    function visible(id) { var o = outcomes[id]; return Boolean(o && !o.retired && !o.contextual_only); }
+    function visible(id) { var o = outcomes[id]; return Boolean(o && !o.retired && (symptoms || !o.contextual_only)); }
     var linksByFactor = {};
     data.links.forEach(function (l) { if (visible(l.outcome)) (linksByFactor[l.factor] = linksByFactor[l.factor] || []).push(l); });
 
@@ -122,7 +136,7 @@
     try {
       var initialNode = document.getElementById('cartographie-initial');
       var initial = initialNode && JSON.parse(initialNode.textContent);
-      if (initial && initial.page === '/cartographie/' && initial.responses && typeof initial.responses === 'object') initialResponses = initial.responses;
+      if (initial && initial.page === pagePath && initial.responses && typeof initial.responses === 'object') initialResponses = initial.responses;
     } catch (e) { /* Missing or invalid bootstrap uses the ordinary API path. */ }
     function request(path, options) {
       options = options || {};
@@ -136,7 +150,7 @@
       return fetch(path, Object.assign({}, options, { cache: 'no-store' }));
     }
     function api(method, path, body) {
-      return request('/api/cartographie' + (path || ''), { method: method, credentials: 'same-origin', headers: body ? { 'Content-Type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined })
+      return request(apiPath + (path || ''), { method: method, credentials: 'same-origin', headers: body ? { 'Content-Type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined })
         .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { if (!r.ok) { var e = new Error((j.error && j.error.message) || j.message || (typeof j.error === 'string' ? j.error : '') || 'Enregistrement impossible pour le moment.'); e.status = r.status; throw e; } return j; }); });
     }
     function applyServer(j, keepLocal) {
@@ -381,6 +395,7 @@
       formBody.querySelectorAll('[data-factor]').forEach(function (row) {
         var id = row.getAttribute('data-factor'), value = state.answers[id];
         row.classList.toggle('is-checked', value === 1 || value === 2);
+        var safety = row.querySelector('[data-safety]'); if (safety) safety.hidden = value !== 1;
         row.querySelectorAll('[data-level]').forEach(function (button) {
           var level = button.getAttribute('data-level');
           var selected = value === (level === 'unknown' ? 'unknown' : Number(level)) || value === 2 && level === '1';
@@ -394,17 +409,24 @@
       updateCounts();
     }
     function renderForm() {
+      if (symptoms && state.initialized && !state.resumed) { state.resumed = true; var first = themes.find(function (t) { return answered(t) < themeItems(t).length; }); if (first) state.themesOpen[first.id] = true; }
       formBody.innerHTML = '';
       var list = el('div', { className: 'carto-themes' });
       themes.forEach(function (theme) {
         var details = el('details', { className: 'carto-theme-panel', 'data-theme': theme.id, open: Boolean(state.themesOpen[theme.id]) });
         details.appendChild(el('summary', { className: 'carto-theme', 'data-focus': 'theme:' + theme.id }, [
-          el('span', { className: 'carto-theme-text' }, [el('strong', { text: theme.label }), el('span', { className: 'carto-theme-desc', text: theme.description })]),
+          el('span', { className: 'carto-theme-text' }, [el('strong', { text: theme.label }), el('span', { className: 'carto-theme-desc', text: theme.description + (symptoms ? ' — Ces 12 derniers mois.' : '') })]),
           el('span', { className: 'carto-theme-progress', 'data-theme-count': theme.id, text: answered(theme) + ' / ' + themeItems(theme).length + ' renseignés' }),
           el('span', { className: 'carto-theme-arrow', 'aria-hidden': 'true', text: '›' })
         ]));
-        details.appendChild(el('ul', { className: 'carto-factors' }, themeItems(theme).map(factorRow)));
-        details.addEventListener('toggle', function () { if (details.isConnected) state.themesOpen[theme.id] = details.open; });
+        var rows = el('ul', { className: 'carto-factors' });
+        function populate() {
+          if (rows.childNodes.length) return;
+          themeItems(theme).forEach(function (f) { var row = factorRow(f); row.querySelectorAll('[data-level]').forEach(function (button) { button.setAttribute('data-focus', 'answer:' + f.id + ':' + button.getAttribute('data-level')); }); rows.appendChild(row); });
+        }
+        if (!symptoms || details.open) populate();
+        details.appendChild(rows);
+        details.addEventListener('toggle', function () { if (details.isConnected) { state.themesOpen[theme.id] = details.open; if (details.open) populate(); } });
         list.appendChild(details);
       });
       formBody.appendChild(list);
@@ -413,7 +435,7 @@
     }
 
     function factorRow(f) {
-      var nLinks = (linksByFactor[f.id] || []).filter(function (l) { return isEmpirical(l) || relationOf(l) === 'clinical_model'; }).length, value = state.answers[f.id];
+      var nLinks = (linksByFactor[f.id] || []).filter(function (l) { return symptoms || isEmpirical(l) || relationOf(l) === 'clinical_model'; }).length, value = state.answers[f.id];
       var hint = f.description + (f.examples && f.examples.length ? ' Par exemple : ' + f.examples.join(' ; ') + '.' : '');
       var controls;
       if (f.historical) {
@@ -428,11 +450,12 @@
         choices.push(choice(value, 'unknown', 'Je ne sais pas', function (l) { setAnswer(f, l); }));
         controls = el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, choices);
       }
-      var note = noteField('factors', f.id, 'Ajouter une précision', 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Votre précision');
+      var note = noteField('factors', f.id, 'Ajouter une précision', symptoms ? 'Quand cela arrive, depuis combien de temps, ce que vous remarquez…' : 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Votre précision');
       return el('li', { 'data-factor': f.id, className: 'carto-factor-row' + (value === 1 || value === 2 ? ' is-checked' : '') }, [
         el('strong', { className: 'carto-factor-label', text: f.label }),
         el('p', { className: 'carto-factor-hint', text: hint }),
         el('div', { className: 'carto-factor-actions' }, [controls]),
+        symptoms && f.safety ? el('p', { className: 'carto-safety', 'data-safety': f.id, hidden: value !== 1 }, ['Si vous êtes en difficulté, le ', el('a', { href: 'tel:3114', text: '3114' }), ' est gratuit, 24 h/24.']) : null,
         el('div', { className: 'carto-factor-links' }, [note.tagName === 'BUTTON' ? note : null,
           nLinks ? el('button', { type: 'button', className: 'carto-see', 'aria-label': 'Voir les ' + nLinks + ' associations étudiées : ' + f.label, onclick: function () { openFactor(f); } }, ['Liens étudiés (' + nLinks + ')']) : null
         ]),
@@ -443,12 +466,13 @@
     }
     /* ---- Conséquences d'une cause ---- */
     function openFactor(f) {
+      if (data.details_url) { ensureDetails().then(function () { openFactor(f); }).catch(detailsError); return; }
       var body = dialog.querySelector('[data-dialog-body]');
       body.innerHTML = '';
       dialog.querySelector('[data-dialog-title]').textContent = f.label;
-      body.appendChild(el('p', { className: 'carto-dialog-intro', text: 'Associations étudiées et repères cliniques concernant ce vécu. Une association observée dans un groupe ne démontre ni une cause ni un trouble chez vous.' }));
+      body.appendChild(el('p', { className: 'carto-dialog-intro', text: symptoms ? 'Sujets auxquels ce signe peut se rattacher.' : 'Associations étudiées et repères cliniques concernant ce vécu. Une association observée dans un groupe ne démontre ni une cause ni un trouble chez vous.' }));
       var links = linksByFactor[f.id] || [];
-      var sections = [['Associations étudiées', links.filter(isEmpirical)]]
+      var sections = [[symptoms ? 'Sujets associés' : 'Associations étudiées', symptoms ? links : links.filter(isEmpirical)]]
         .concat(OTHER_RELATIONS.map(function (r) { return [r[1], links.filter(function (l) { return !isEmpirical(l) && relationOf(l) === r[0]; })]; }));
       sections.forEach(function (section) {
         var items = section[1];
@@ -507,7 +531,7 @@
         el('div', { className: 'carto-feedback', role: 'group', 'aria-label': 'Vous reconnaissez-vous ?' }, [
           el('button', { type: 'button', className: 'carto-fb' + (fb === 'oui' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':oui', 'aria-pressed': fb === 'oui' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'oui'); } }, ['Je me reconnais']),
           el('button', { type: 'button', className: 'carto-fb' + (fb === 'non' ? ' is-on' : ''), 'data-focus': 'feedback:' + o.id + ':non', 'aria-pressed': fb === 'non' ? 'true' : 'false', onclick: function () { setFeedback(o.id, 'non'); } }, ['Pas moi']),
-          el('button', { type: 'button', className: 'carto-detail', 'data-focus': 'outcome:' + o.id, 'aria-expanded': open ? 'true' : 'false', onclick: function () { state.open[o.id] = !open; renderResults(); } }, [open ? 'Replier' : 'Voir le détail'])
+          el('button', { type: 'button', className: 'carto-detail', 'data-focus': 'outcome:' + o.id, 'aria-expanded': open ? 'true' : 'false', onclick: function () { if (!open && data.details_url) { ensureDetails().then(function () { state.open[o.id] = true; renderResults(); }).catch(detailsError); } else { state.open[o.id] = !open; renderResults(); } } }, [open ? 'Replier' : 'Voir le détail'])
         ])
       ];
       if (open) {
@@ -519,7 +543,8 @@
             familialFactors[l.factor] && isEmpirical(l) ? el('p', { className: 'carto-familial', text: FAMILIAL_TEXT }) : null,
           ]);
         }; };
-        var measured = r.links.filter(isEmpirical), others = r.links.filter(function (l) { return relationOf(l) === 'clinical_model'; });
+        var measured = symptoms ? r.links.filter(function (l) { return l.strength !== "limitee"; }) : r.links.filter(isEmpirical), others = symptoms ? [] : r.links.filter(function (l) { return relationOf(l) === 'clinical_model'; });
+        if (symptoms && r.uncertain_links && r.uncertain_links.length) { body.push(el('p', { className: 'carto-other-title', text: 'À préciser' })); body.push(el('ul', { className: 'carto-links' }, r.uncertain_links.map(linkItem(null)))); }
         if (measured.length) body.push(el('ul', { className: 'carto-links' }, measured.map(linkItem(null))));
         if (others.length) {
           body.push(el('p', { className: 'carto-other-title', text: 'Autres repères' }));
@@ -568,15 +593,15 @@
       var general = ambreNotes('general', null);
       if (general) results.appendChild(el('section', { className: 'carto-ambre-general' }, [el('h3', { className: 'carto-tier-title', text: 'Notes d’Ambre' }), general]));
       if (!s.selectedCount) {
-        results.appendChild(el('p', { className: 'carto-empty', text: 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Les réponses « Non » et « Je ne sais pas » restent enregistrées et ne créent pas d’association.' }));
+        results.appendChild(el('p', { className: 'carto-empty', text: symptoms ? 'Les rapprochements apparaîtront ici selon les signes que vous indiquez. Les réponses « Non » et « Je ne sais pas » restent enregistrées.' : 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Les réponses « Non » et « Je ne sais pas » restent enregistrées et ne créent pas d’association.' }));
         return;
       }
       if (!s.results.length) {
-        results.appendChild(el('p', { className: 'carto-empty', text: 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
+        results.appendChild(el('p', { className: 'carto-empty', text: symptoms ? 'Vos réponses restent enregistrées. Il manque des signes caractéristiques pour proposer un rapprochement.' : 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
         return;
       }
       // One list in the engine's order; only « Pas moi » subjects are folded.
-      results.appendChild(el('p', { className: 'carto-rank-note', text: 'Classés du plus grand au plus petit nombre de vécus associés ; ce n’est pas une mesure de votre risque.' }));
+      results.appendChild(el('p', { className: 'carto-rank-note', text: symptoms ? 'Classés selon la part des signes caractéristiques présents, prudente quand un sujet a peu de signes.' : 'Classés du plus grand au plus petit nombre de vécus associés ; ce n’est pas une mesure de votre risque.' }));
       results.appendChild(el('div', { className: 'carto-grid' }, s.results.filter(function (r) { return r.section !== 'dismissed'; }).map(card)));
       if (s.sections.dismissed.length) results.appendChild(fold('dismissed', 'Écartés : « Pas moi »', s.sections.dismissed));
       restoreFocus(focused);
@@ -587,7 +612,7 @@
       var n = Object.keys(state.answers).length;
       // Only this counter is announced to screen readers, never the rebuilt list.
       var label = n ? plural(n, 'réponse', 'réponses') + ' · ' + plural(s.results.length, 'sujet affiché', 'sujets affichés') : 'Aucune réponse';
-      countEls.forEach(function (c) { c.textContent = label; });
+      countEls.forEach(function (c) { c.textContent = symptoms ? n + ' / ' + data.factors.length + ' renseignés' : label; if (symptoms) c.classList.add('carto-count-visible'); });
     }
     function captureFocus() {
       var active = document.activeElement;
@@ -674,6 +699,16 @@
 
   document.addEventListener('DOMContentLoaded', function () {
     var root = document.querySelector('[data-cartographie-app]');
-    if (root && window.Cartographie) app(root);
+    if (!root || !window.Cartographie) return;
+    var node = document.getElementById('cartographie-data');
+    function start(data) { if (!data || !Array.isArray(data.factors) || !Array.isArray(data.links)) throw new Error('Invalid map'); app(root, data); }
+    if (!node.getAttribute('data-src')) { start(JSON.parse(node.textContent)); return; }
+    function load() {
+      fetch(node.getAttribute('data-src'), { credentials: 'omit', cache: 'force-cache' }).then(function (r) { if (!r.ok) throw new Error('Map unavailable'); return r.json(); }).then(start).catch(function () {
+        var status = root.querySelector('[data-loading-status]'); status.hidden = false; status.textContent = 'Impossible de charger les questions. ';
+        status.appendChild(el('button', { type: 'button', onclick: load, text: 'Réessayer' }));
+      });
+    }
+    load();
   });
 })();

@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "node scripts/build_navigation.mjs --check && node scripts/build_cartographie_module.mjs --check && python3 scripts/build_article_intros.py --check && python3 scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed && python3 scripts/build_coverage_status.py --check && hugo --minify"
+  command = "node scripts/build_navigation.mjs --check && node scripts/build_cartographie_module.mjs --check && python3 scripts/build_article_intros.py --check && python3 scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed && python3 scripts/build_coverage_status.py --check && python3 scripts/build_symptomes_carte.py --check && hugo --minify"
 
 [build.environment]
   HUGO_VERSION = "0.140.0"
@@ -78,18 +78,14 @@
 
 # Ambre s’ouvre depuis « / » (redirection ci-dessus) et depuis le premier lien du menu.
 
-# « Mes symptômes » : page privée et moteur du questionnaire servis par le Worker, jamais mis en cache.
-[[redirects]]
-  from = "/mes-symptomes"
-  to = "https://decode-journal.romainfalanga83.workers.dev/mes-symptomes/"
-  status = 200
-  force = true
+# The symptoms map uses Hugo and the same private bootstrap as Mon enfance.
+[[edge_functions]]
+  path = "/mes-symptomes"
+  function = "personal-page-data"
 
-[[redirects]]
-  from = "/mes-symptomes/*"
-  to = "https://decode-journal.romainfalanga83.workers.dev/mes-symptomes/:splat"
-  status = 200
-  force = true
+[[edge_functions]]
+  path = "/mes-symptomes/"
+  function = "personal-page-data"
 
 [[headers]]
   for = "/mes-symptomes"
@@ -410,3 +406,9 @@
   to = "https://decode-journal.romainfalanga83.workers.dev/espace-psychologue/:splat"
   status = 200
   force = true
+
+# Fingerprinted public question banks contain no user data.
+[[headers]]
+  for = "/data/symptomes-*.json"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
