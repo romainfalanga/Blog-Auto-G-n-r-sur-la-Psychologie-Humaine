@@ -122,11 +122,12 @@ test('incomplete accounts retain static crisis resources without any generation 
  assert.equal(calls,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM monthly_usage').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
 });
 
-test('all 516 symptoms are required with JS/SQL parity and past precision',async t=>{
+test('all 516 symptoms are required with JS/SQL parity; past counts without a note',async t=>{
  const {SYMPTOMES_CARTE}=await import('../src/symptomes-carte.generated.mjs');const ids=SYMPTOMES_CARTE.factors.filter(f=>!f.historical).map(f=>f.id),s=fixture(t);seedCompanionPrerequisites(s.raw);assert.equal(ids.length,516);
  const check=async(expected)=>{const r=await readCompanionReadiness(s.env,'a');assert.equal(r.complete,expected);assert.equal(r.symptoms.required,516);assert.equal(s.raw.prepare('SELECT '+companionReadinessSql('?')+' ok').get('a').ok,Number(expected));return r;};
  for(const value of [0,1,'unknown','past']){const answers=Object.fromEntries(ids.map(id=>[id,value])),notes={factors:Object.fromEntries(ids.map(id=>[id,'Avant les douze derniers mois.']))};s.raw.prepare("UPDATE symptom_maps SET answers=?,notes=? WHERE user_id='a'").run(JSON.stringify(answers),JSON.stringify(notes));await check(true);}
- s.raw.prepare("UPDATE symptom_maps SET notes='{}' WHERE user_id='a'").run();await check(false);
+ s.raw.prepare("UPDATE symptom_maps SET notes='{}' WHERE user_id='a'").run();await check(true);
+ {const mixed=Object.fromEntries(ids.map((id,i)=>[id,[0,1,'unknown','past'][i%4]]));s.raw.prepare("UPDATE symptom_maps SET answers=?,notes='{}' WHERE user_id='a'").run(JSON.stringify(mixed));await check(true);delete mixed[ids[3]];s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(mixed));assert.equal((await check(false)).symptoms.answered,515);}
  const answers=Object.fromEntries(ids.map(id=>[id,0]));delete answers[ids[0]];answers.unrelated=1;s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));assert.equal((await check(false)).symptoms.answered,515);
  answers[ids[0]]=2;s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));await check(false);
  answers[ids[0]]=0;s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));await check(true);

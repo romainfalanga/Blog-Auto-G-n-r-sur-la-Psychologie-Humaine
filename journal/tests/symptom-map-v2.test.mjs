@@ -26,12 +26,13 @@ test('symptom map is isolated by owner, rejects unknown identifiers and supports
  assert.equal(await backend.routes(request('GET'),env,{id:'u'},'/api/symptomes/history'),null,'v1 subroutes are not retained');
  await backend.routes(request('DELETE'),env,{id:'u'},'/api/symptomes');assert.equal(await readSymptomMap(env,'u'),null);
 });
-test('past symptoms require a non-empty note, remain out of rank and safety, and export unchanged',async()=>{
+test('past symptoms save without a note, keep an optional note, remain out of rank and safety, and export unchanged',async()=>{
  const {env,backend}=setup(),save=input=>backend.routes(new Request('https://site/api/symptomes',{method:'PUT',body:JSON.stringify(input)}),env,{id:'u'},'/api/symptomes');
- for(const notes of [{},{factors:{a:'   '}},{factors:{a:''}}])await assert.rejects(save({answers:{a:'past'},notes,version:0}),e=>e.status===400);
- const first=await save({answers:{a:'past'},notes:{factors:{a:'Avant 2020, puis cela a cessé.'}},version:0});
- assert.equal(first.cartographie.answers.a,'past');assert.equal(first.cartographie.safety_at,null);assert.equal(first.summary.results.length,0);
- await assert.rejects(save({answers:{a:'past'},notes:{},version:1}),e=>e.status===400);
+ const bare=await save({answers:{a:'past'},notes:{},version:0});
+ assert.equal(bare.cartographie.answers.a,'past');assert.equal(bare.cartographie.safety_at,null);assert.equal(bare.summary.results.length,0);
+ const first=await save({answers:{a:'past'},notes:{factors:{a:'Avant 2020, puis cela a cessé.'}},version:1});
+ assert.equal(first.cartographie.answers.a,'past');assert.equal(first.cartographie.notes.factors.a,'Avant 2020, puis cela a cessé.');
  const exported=(await backend.exportData(env,'u')).symptom_map;assert.equal(exported.answers.a,'past');assert.equal(exported.notes.factors.a,'Avant 2020, puis cela a cessé.');
- const after=await readSymptomMap(env,'u');assert.equal(after.version,1);
+ const removed=await save({answers:{a:'past'},notes:{},version:2});assert.equal(removed.cartographie.answers.a,'past');assert.equal(removed.cartographie.notes.factors?.a,undefined);
+ const after=await readSymptomMap(env,'u');assert.equal(after.version,3);assert.equal((await backend.exportData(env,'u')).symptom_map.answers.a,'past');
 });

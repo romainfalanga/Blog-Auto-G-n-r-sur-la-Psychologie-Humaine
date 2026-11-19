@@ -327,14 +327,11 @@
       noteDialog.style.setProperty('--note-viewport-height', (viewport ? viewport.height : window.innerHeight) + 'px');
       noteDialog.style.setProperty('--note-viewport-top', (viewport ? viewport.offsetTop : 0) + 'px');
     }
-    function openNote(kind, id, label, placeholder, fieldLabel, pendingAnswer) {
+    function openNote(kind, id, label, placeholder, fieldLabel) {
       noteDraft = { kind: kind, id: id, key: 'note:' + kind + ':' + id, fallback: kind === 'factors' ? 'theme:' + factors[id].group : 'outcome:' + id, initial: state.notes[kind][id] || '' };
-      noteDraft.pendingAnswer = pendingAnswer;
-      noteArea.required = symptoms && kind === 'factors' && (pendingAnswer === 'past' || state.answers[id] === 'past');
       noteArea.setCustomValidity('');
-      if (pendingAnswer === 'past') noteDraft.key = 'answer:' + id + ':past';
       noteDialog.querySelector('[data-note-title]').textContent = (kind === 'factors' ? factors[id] : outcomes[id]).label;
-      noteDialog.querySelector('label').textContent = noteArea.required ? 'Dans le passé : avant ces 12 derniers mois. Précision obligatoire.' : fieldLabel || label;
+      noteDialog.querySelector('label').textContent = fieldLabel || label;
       noteArea.value = noteDraft.initial;
       noteArea.placeholder = placeholder;
       updateNoteCount(); sizeNoteDialog();
@@ -369,12 +366,10 @@
     noteDialog.querySelector('form').addEventListener('submit', function (event) {
       event.preventDefault();
       if (!noteDraft) return;
-      if (noteArea.required && !noteArea.value.trim()) { noteArea.setCustomValidity('Précisez ce qui s’est passé avant ces 12 derniers mois.'); noteArea.reportValidity(); return; }
-      if (noteArea.value === noteDraft.initial && noteDraft.pendingAnswer === undefined) { closeNote(); return; }
+      if (noteArea.value === noteDraft.initial) { closeNote(); return; }
       var value = noteArea.value.slice(0, NOTE_MAX), store = state.notes[noteDraft.kind];
       if (!value.trim()) value = '';
-      if (value !== noteDraft.initial || noteDraft.pendingAnswer !== undefined) {
-        if (noteDraft.pendingAnswer !== undefined) state.answers[noteDraft.id] = noteDraft.pendingAnswer;
+      if (value !== noteDraft.initial) {
         if (value) store[noteDraft.id] = value; else delete store[noteDraft.id];
         changed(); renderAll();
       }
@@ -393,7 +388,6 @@
       return el('button', { type: 'button', className: 'carto-choice' + (on ? ' is-on' : ''), 'data-level': String(level), 'aria-pressed': on ? 'true' : 'false', onclick: function () { onPick(level); } }, [label]);
     }
     function setAnswer(f, level) {
-      if (symptoms && level === 'past') { openNote('factors', f.id, 'Préciser ce qui s’est passé', 'Quand cela se produisait, ce que vous viviez, ce qui a changé…', 'Dans le passé : avant ces 12 derniers mois. Précision obligatoire.', 'past'); return; }
       if (state.answers[f.id] === level) return;
       state.answers[f.id] = level;
       if (level === 1 || level === 2) (data.exclusive || []).forEach(function (pair) {
