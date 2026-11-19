@@ -381,7 +381,7 @@
    {
     "id": "15",
     "number": "15",
-    "label": "SAMU : urgence médicale, danger immédiat",
+    "label": "SAMU : urgence médicale, danger immédiat, gratuit, 24 h/24",
     "show": [
      "suicide",
      "automutilation",
@@ -392,7 +392,7 @@
    {
     "id": "112",
     "number": "112",
-    "label": "Numéro d’urgence européen, depuis tout téléphone",
+    "label": "Numéro d’urgence européen, gratuit, depuis tout téléphone",
     "show": [
      "suicide",
      "automutilation",
@@ -413,7 +413,7 @@
    {
     "id": "114",
     "number": "114",
-    "label": "Urgences par SMS, tchat ou visio, pour les personnes sourdes, malentendantes ou qui ne peuvent pas parler",
+    "label": "Urgences par SMS, tchat ou visio, gratuit, 24 h/24, pour les personnes sourdes, malentendantes ou qui ne peuvent pas parler",
     "show": [
      "suicide",
      "automutilation",
@@ -431,7 +431,7 @@
    {
     "id": "3919",
     "number": "3919",
-    "label": "Violences Femmes Info : violences conjugales, sexuelles ou sexistes, écoute anonyme et gratuite, 24 h/24 et 7 j/7",
+    "label": "Violences Femmes Info : écoute des femmes victimes de violences (conjugales, sexuelles, sexistes) et de leur entourage, anonyme et gratuite, 24 h/24 et 7 j/7",
     "show": [
      "violences"
     ]
@@ -439,7 +439,7 @@
    {
     "id": "116006",
     "number": "116 006",
-    "label": "France Victimes, aide gratuite pour toute personne victime",
+    "label": "France Victimes : aide gratuite et confidentielle pour toute personne victime, 7 j/7 de 9 h à 20 h",
     "show": [
      "violences"
     ]
@@ -447,7 +447,7 @@
    {
     "id": "119",
     "number": "119",
-    "label": "Allô Enfance en danger, si un enfant est concerné",
+    "label": "Allô Enfance en danger, si un enfant est concerné, gratuit, 24 h/24 et 7 j/7",
     "show": [
      "violences",
      "mineur"
@@ -456,7 +456,7 @@
    {
     "id": "fil_sante_jeunes",
     "number": "0 800 235 236",
-    "label": "Fil Santé Jeunes, écoute gratuite et anonyme pour les 12-25 ans",
+    "label": "Fil Santé Jeunes, écoute gratuite et anonyme pour les 12-25 ans, tous les jours de 9 h à 23 h",
     "show": [
      "mineur",
      "jeune_adulte"
@@ -495,7 +495,7 @@
     "ambre_button_condition": "retirer le bouton si Ambre ne suit pas le protocole de sécurité déterministe existant (chat-safety.mjs) ; à vérifier au lot C",
     "messages": {
      "automutilation": "Merci de l’avoir dit. Se blesser est souvent une façon de supporter une souffrance très forte. Vous pouvez en parler à un médecin, ou au 3114 à toute heure. Blessure grave : 15.",
-     "violences": "Merci de l’avoir dit. Personne n’a le droit de vous faire peur, de vous frapper, de vous humilier ou de vous forcer. Vous pouvez en parler au 3919, à toute heure, ou à France Victimes (116 006). En danger : 17 ou 112."
+     "violences": "Merci de l’avoir dit. Personne n’a le droit de vous faire peur, de vous frapper, de vous humilier ou de vous forcer. Vous pouvez en parler au 3919 (femmes victimes, à toute heure) ou à France Victimes (116 006, tous les jours de 9 h à 20 h). En danger : 17 ou 112."
     }
    },
    "soft_block": {
@@ -537,6 +537,17 @@
    "treatment": "antécédent récent : vigilance et une question directe ; jamais transmis à la vérification de risque",
    "ask_at_most_every_days": 14,
    "before_any_exploration": true
+  },
+  "resources_verified": {
+   "date": "2026-11-19",
+   "by": "seconde relecture",
+   "sources": [
+    "service-public.gouv.fr/particuliers/vosdroits/F33954 (vérifié le 25 août 2026)",
+    "3114.fr",
+    "justice.fr/je-suis-victime/116006",
+    "filsantejeunes.com",
+    "santepubliquefrance.fr/services/aide-a-distance-en-sante-loffre-de-service (mis à jour le 23 septembre 2025)"
+   ]
   }
  },
  "instruments": {
@@ -813,10 +824,12 @@
     "missing": "aucun score si un item manque"
    },
    "entry_threshold": 2,
-   "entry_threshold_note": "Version 1.1 : entrée à ≥ 2 (sensibilité accrue avant le GAD-7 ; Kroenke et al. 2007, à confirmer dans l’article intégral) ; le manuel officiel recommande ≥ 3 pour un usage seul. GAD-7 complet proposé sur demande.",
+   "entry_threshold_note": "Version 1.1 : entrée à ≥ 2, choix du site pour la sensibilité, par analogie avec la séquence PHQ-2 ≥ 2 puis PHQ-9 ≥ 10 (Levis et al. 2020). Pour le GAD-2, la méta-analyse de Plummer et al. 2016 et le manuel officiel retiennent ≥ 3 ; ≥ 2 n’est étayé que par des études isolées (sensibilité plus haute, spécificité plus basse). Le GAD-7 complet reste proposé sur demande ; ce seuil n’est jamais présenté comme « repère publié ».",
    "manual_threshold": 3,
    "deepen_on_request": true,
    "thresholds_source": [
+    "levis2020",
+    "plummer2016",
     "kroenke2007",
     "phq_manual"
    ],
@@ -934,7 +947,7 @@
     "item": "phq15_d",
     "label": "Je ne suis pas concerné(e)",
     "scored_as": 0,
-    "note": "le formulaire anglais marque cet item « WOMEN ONLY » ; le PDF français ne le marque pas. Option du site, comptée 0 : point à confirmer (manuel muet)."
+    "note": "Le PHQ-15 anglais et l’adaptation DSM-5-TR de l’APA marquent cet item « WOMEN ONLY » ; le PDF français ne le marque pas ; ni le manuel ni ces formulaires ne précisent la cotation. Pratique courante dans les études : item omis pour les hommes (somme sur 14 items, maximum 28). Option du site « non concerné(e) » comptée 0 et score affiché « sur 28 », ce qui équivaut à cette pratique ; le texte intégral de Kroenke et al. 2002 n’a pas pu être consulté (accès payant). La règle de proratisation de l’APA vise les réponses manquantes, pas cet item."
    },
    "scoring": {
     "type": "somme",
@@ -1404,7 +1417,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellés croisés"
+    }
    },
    "order": 1
   },
@@ -1519,7 +1540,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 2
   },
@@ -1831,7 +1860,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 3
   },
@@ -2065,7 +2102,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellés croisés"
+    }
    },
    "order": 4
   },
@@ -2187,7 +2232,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": false
+    "corrections_appliquees": false,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 5
   },
@@ -2313,7 +2366,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 6
   },
@@ -2426,7 +2487,7 @@
     },
     {
      "id": "toc_gestes",
-     "text": "Vous sentez-vous poussé(e) à répéter des gestes ou des actes dans votre tête (laver, vérifier, ranger, compter, répéter des phrases) selon des règles précises ?",
+     "text": "Vous sentez-vous poussé(e) à répéter des gestes (laver, vérifier, ranger) ou des actes dans votre tête (compter, répéter des phrases) selon des règles précises ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2435,7 +2496,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B20"
-     }
+     },
+     "revised": "seconde relecture"
     },
     {
      "id": "toc_temps",
@@ -2622,7 +2684,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "toc_gestes"
+    }
    },
    "order": 7
   },
@@ -2768,7 +2838,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "relu",
+     "corrections": "aucune"
+    }
    },
    "order": 8
   },
@@ -2780,7 +2858,7 @@
     "7A00",
     "7B01.2"
    ],
-   "icd11_note": "chapitre 07 (sommeil-éveil), hors CDDR : codes à vérifier sur icd.who.int avant publication",
+   "icd11_note": "chapitre 07 (sommeil-éveil), hors CDDR : 7A00 « Chronic insomnia » et 7B01.2 « Nightmare disorder » (7B01.1 = paralysie du sommeil isolée récurrente) vérifiés le 2026-11-19 sur un miroir de la CIM-11 MMS v2026-01 ; navigateur icd.who.int non lisible sans jeton",
    "entry": {
     "questions": [
      "sommeil_insomnie",
@@ -2935,7 +3013,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "codes vérifiés"
+    }
    },
    "order": 9
   },
@@ -3073,7 +3159,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 10
   },
@@ -3359,7 +3453,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellés croisés"
+    }
    },
    "order": 11
   },
@@ -3531,7 +3633,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "relu",
+     "corrections": "aucune"
+    }
    },
    "order": 12
   },
@@ -3611,13 +3721,14 @@
      "id": "alexithymie_gene",
      "text": "Ces difficultés vous gênent-elles dans votre vie (travail, études, relations, vie quotidienne) ?",
      "scale": "non_un_peu_nettement",
-     "period": "mois",
+     "period": "en_general",
      "role": "gene",
      "validated": false,
      "label": "repere_non_valide",
      "basis": {
       "source": "site"
-     }
+     },
+     "revised": "seconde relecture"
     }
    ],
    "rules": [
@@ -3676,7 +3787,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "période de la gêne (délai 90 j)"
+    }
    },
    "order": 13
   },
@@ -3832,13 +3951,14 @@
      "id": "soi_gene",
      "text": "Ces difficultés vous gênent-elles dans votre vie (travail, études, relations, vie quotidienne) ?",
      "scale": "non_un_peu_nettement",
-     "period": "mois",
+     "period": "en_general",
      "role": "gene",
      "validated": false,
      "label": "repere_non_valide",
      "basis": {
       "source": "site"
-     }
+     },
+     "revised": "seconde relecture"
     }
    ],
    "rules": [
@@ -4001,7 +4121,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "période de la gêne (délai 90 j)"
+    }
    },
    "order": 14
   },
@@ -4241,7 +4369,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 15,
    "crossing_suspended_if": {
@@ -4396,13 +4532,14 @@
      "id": "jeu_ecrans_gene",
      "text": "Ces difficultés vous gênent-elles dans votre vie (travail, études, relations, vie quotidienne) ?",
      "scale": "non_un_peu_nettement",
-     "period": "mois",
+     "period": "12_mois",
      "role": "gene",
      "validated": false,
      "label": "repere_non_valide",
      "basis": {
       "source": "site"
-     }
+     },
+     "revised": "seconde relecture"
     }
    ],
    "rules": [
@@ -4478,7 +4615,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "période de la gêne (délai 90 j)"
+    }
    },
    "order": 16
   },
@@ -4700,7 +4845,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 17,
    "entry_note": "une entrée positive (consommation déclarée) n’affiche jamais de résultat ni de phrase fixe",
@@ -4926,7 +5079,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "relu",
+     "corrections": "aucune"
+    }
    },
    "order": 18,
    "entry_note": "une entrée positive (consommation déclarée) n’affiche jamais de résultat ni de phrase fixe",
@@ -4938,7 +5099,7 @@
    "temps": "au_choix",
    "sensible": true,
    "icd11": [
-    "6C42-6C4E",
+    "6C42-6C4G",
     "6C4A"
    ],
    "entry": {
@@ -5005,7 +5166,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C42-6C4E"
+      "code": "6C42-6C4G"
      },
      "revised": "relecture"
     },
@@ -5019,7 +5180,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C42-6C4E"
+      "code": "6C42-6C4G"
      },
      "revised": "relecture"
     },
@@ -5033,7 +5194,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C42-6C4E"
+      "code": "6C42-6C4G"
      },
      "revised": "relecture"
     },
@@ -5047,7 +5208,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C42-6C4E"
+      "code": "6C42-6C4G"
      },
      "revised": "relecture"
     },
@@ -5061,7 +5222,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C42-6C4E"
+      "code": "6C42-6C4G"
      },
      "revised": "relecture"
     },
@@ -5201,11 +5362,20 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "codes 6C42–6C4G"
+    }
    },
    "order": 19,
    "entry_note": "une entrée positive (consommation déclarée) n’affiche jamais de résultat ni de phrase fixe",
-   "intro_privacy": "privacy_sensitive"
+   "intro_privacy": "privacy_sensitive",
+   "icd11_note": "6C42 à 6C4G : troubles liés aux autres substances psychoactives (dont médicaments 6C44, 6C4E ; plusieurs produits 6C4F ; produit inconnu 6C4G) ; 6C48 (caféine) n’est pas visé ; tabac : 6C4A (nicotine). Titres vérifiés sur la page terminologie de l’OMS le 2026-11-19"
   },
   {
    "id": "dissociation",
@@ -5425,7 +5595,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "libellé croisé"
+    }
    },
    "order": 20,
    "intro_privacy": "privacy_sensitive"
@@ -5541,7 +5719,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "relu",
+     "corrections": "aucune"
+    }
    },
    "order": 21,
    "intro_privacy": "privacy_sensitive"
@@ -5684,7 +5870,15 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "relu",
+     "corrections": "aucune"
+    }
    },
    "order": 22,
    "intro_privacy": "privacy_sensitive"
@@ -5696,9 +5890,10 @@
    "sensible": true,
    "icd11": [
     "6C72",
-    "HA00-HA20"
+    "HA00-HA0Z",
+    "HA20"
    ],
-   "icd11_note": "chapitre 17 (santé sexuelle) : codes à vérifier sur icd.who.int",
+   "icd11_note": "chapitre 17 (santé sexuelle) : bloc HA00–HA0Z « Sexual dysfunctions » et HA20 « Sexual pain-penetration disorder » vérifiés le 2026-11-19 (miroir CIM-11 MMS v2026-01)",
    "entry": {
     "questions": [
      "sexe_difficulte",
@@ -5754,7 +5949,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "icd11_mms",
-      "code": "HA00-HA20"
+      "code": "HA00-HA0Z, HA20"
      }
     },
     {
@@ -5867,12 +6062,13 @@
        "oui"
       ]
      },
-     "result_positive": "Un dépistage gratuit est possible dans un CeGIDD ou chez votre médecin. Le préservatif protège du VIH et de la plupart des infections ; la PrEP protège du VIH seulement. Après un risque de moins de 48 heures, un traitement d’urgence existe aux urgences.",
+     "result_positive": "Un dépistage gratuit est possible dans un CeGIDD ou chez votre médecin. Le préservatif protège du VIH et de la plupart des infections ; la PrEP protège du VIH seulement. Après un risque récent, allez vite aux urgences : un traitement peut éviter le VIH s’il est pris au plus tard dans les 48 heures, le plus tôt possible.",
      "result_negative": "",
      "subjects": [],
      "kind": "orientation",
      "positive_note": "aucune",
-     "subjects_note": "ten_risques_sexuels retiré à la relecture"
+     "subjects_note": "ten_risques_sexuels retiré à la relecture",
+     "revised": "seconde relecture"
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères.",
@@ -5882,10 +6078,18 @@
     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
     "date": "2026-11-19",
     "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
-    "corrections_appliquees": true
+    "corrections_appliquees": true,
+    "seconde_relecture": {
+     "date": "2026-11-19",
+     "avec_sources_web": true,
+     "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md#seconde-relecture-avec-sources-web",
+     "relecteur": "second relecteur distinct (sous-agent avec recherche web), n’a pas écrit le contenu",
+     "statut": "retenu",
+     "corrections": "codes HA00–HA0Z/HA20, PEP, intro 3919/116 006"
+    }
    },
    "order": 23,
-   "intro": "Si un acte sexuel vous a été imposé, vous pouvez en parler au 3919 ou à France Victimes (116 006).",
+   "intro": "Si un acte sexuel vous a été imposé, vous pouvez en parler au 3919 (femmes victimes, à toute heure) ou à France Victimes (116 006, tous les jours de 9 h à 20 h).",
    "intro_privacy": "privacy_sensitive"
   }
  ],
@@ -5960,9 +6164,26 @@
   "display_labels": {
    "att_anxieux": "Peur de perdre ses proches",
    "att_evitant": "Malaise quand une relation devient très proche",
-   "pat_social_isolation": "Sentiment de solitude"
+   "pat_social_isolation": "Sentiment de solitude",
+   "anx_generale": "Anxiété",
+   "dep_generale": "Humeur basse ou perte d’intérêt",
+   "icd_6a72": "Humeur basse qui dure depuis des années",
+   "icd_6b01": "Crises de peur soudaines répétées",
+   "icd_6b02": "Peur de lieux d’où il semble difficile de partir",
+   "icd_6b04": "Peur intense du regard des autres",
+   "icd_6b05": "Peur intense d’être séparé(e) de ses proches",
+   "icd_6b23": "Peur persistante d’être gravement malade",
+   "icd_6b40": "Suites durables d’un événement très éprouvant",
+   "icd_6b60": "Symptômes du corps sans cause neurologique trouvée",
+   "icd_6b80": "Restriction alimentaire avec poids bas",
+   "icd_6b81": "Difficultés avec l’alimentation",
+   "icd_6b81_boulimie": "Crises alimentaires suivies de compensations",
+   "icd_6b82": "Crises alimentaires répétées qui font souffrir",
+   "icd_6c20": "Symptômes physiques durables qui prennent beaucoup de place",
+   "icd_6c40_2": "Consommation d’alcool difficile à réguler",
+   "pat_overresponsibility": "Faire passer les besoins des autres avant les siens"
   },
-  "display_labels_rule": "libellés descriptifs imposés par la relecture ; ne jamais afficher « attachement anxieux » ou « attachement évitant » sur cette page"
+  "display_labels_rule": "libellés descriptifs imposés par les relectures : aucun nom de trouble ni d’attachement (« attachement anxieux / évitant ») n’est affiché sur cette page ; tout sujet de type « trouble » croisé doit avoir un libellé ici (seconde relecture)"
  },
  "sources": {
   "kroenke2001": {
@@ -5991,9 +6212,10 @@
   },
   "levis2020": {
    "type": "etude",
-   "citation": "Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 alone and in combination with the PHQ-9 screening algorithm for detecting major depression. JAMA 2020.",
-   "read": "non_ouvert_ici",
-   "note": "retenu par la v1.1 ; à relire avant le lot A"
+   "citation": "Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 alone and in combination with the PHQ-9 for screening to detect major depression: systematic review and meta-analysis. JAMA 2020;323(22):2290-2300.",
+   "read": "resume",
+   "note": "PHQ-2 ≥ 2 puis PHQ-9 ≥ 10 : sensibilité 0,82 (PHQ-9 seul 0,86), spécificité 0,87 (0,85) ; résumé lu à la seconde relecture",
+   "doi": "10.1001/jama.2020.6504"
   },
   "spitzer2006": {
    "type": "etude",
@@ -6022,8 +6244,9 @@
   },
   "cloitre2018": {
    "type": "etude",
-   "citation": "Cloitre M, Shevlin M, Brewin CR, et al. The International Trauma Questionnaire: development of a self-report measure of ICD-11 PTSD and complex PTSD. Acta Psychiatr Scand 2018;138(6):536-546.",
-   "read": "reference_fiche_cn2r"
+   "citation": "Cloitre M, Shevlin M, Brewin CR, Bisson JI, Roberts NP, Maercker A, Karatzias T, Hyland P. The International Trauma Questionnaire: development of a self-report measure of ICD-11 PTSD and complex PTSD. Acta Psychiatr Scand 2018;138(6):536-546.",
+   "read": "reference_fiche_cn2r",
+   "doi": "10.1111/acps.12956"
   },
   "peraud2022": {
    "type": "etude",
@@ -6061,6 +6284,13 @@
   "site": {
    "type": "site",
    "citation": "Repère rédigé par le site, sans base de classification ; marqué non validé."
+  },
+  "plummer2016": {
+   "type": "etude",
+   "citation": "Plummer F, Manea L, Trepel D, McMillan D. Screening for anxiety disorders with the GAD-7 and GAD-2: a systematic review and diagnostic metaanalysis. Gen Hosp Psychiatry 2016;39:24-31.",
+   "pmid": "26719105",
+   "read": "resume",
+   "note": "GAD-2 ≥ 3 : sensibilité 0,76, spécificité 0,81 pour le trouble anxieux généralisé ; aucun résultat poolé à ≥ 2 dans le résumé"
   }
  },
  "licences": {

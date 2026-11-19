@@ -347,3 +347,75 @@ Motif : les paliers PHQ-9 (5/10/15/20), GAD-7 (5/10/15) et PHQ-15 (5/10/15) sont
 - **Réponses sensibles.** Les modules cannabis, autres substances, sexualité et violences recueillent des données de santé ou des faits illicites. Une phrase visible sur la confidentialité et la conservation est nécessaire avant ces modules ; une personne victime doit pouvoir effacer ses réponses.
 - **Ambre.** Sa nature (humain ou agent automatique) et son protocole face à une idée suicidaire ne figurent pas dans le contenu relu. C'est le principal risque non évalué.
 - **Vérifications avant publication.** Numéros et horaires : 116 006, 0 980 980 930, 0 800 23 13 13, 09 74 75 13 13, 09 69 325 900, Fil Santé Jeunes. Codes CIM-11 : 7B01.2 et 6C4G. Durée exacte de la dérogation « usage continu » dans 6C40.2.
+
+---
+
+## Seconde relecture (avec sources web)
+
+### Procédure
+
+- **Relecteur distinct** : sous-agent séparé, avec recherche et lecture web, qui n’a écrit ni le contenu ni la première relecture. Ce n’est toujours pas la relecture d’un clinicien humain.
+- **Périmètre** : numéros d’aide, codes CIM-11, items et règles des instruments, 23 modules, écran de sécurité, délais et croisement. Corrections faites uniquement dans `editorial/symptomes/symptomes.json`, puis `python3 scripts/build_symptomes.py` et `--check` (succès : 23/23 modules publiés, générés à jour). Chaque module porte `revue.seconde_relecture` (statut `relu` ou `retenu`, corrections).
+- **Version du contenu** inchangée (`2026-11-19.1`) : aucun seuil, aucun item ni aucune règle de calcul n’a changé, et aucune passation n’est encore enregistrée (lot 0).
+
+### 1. Numéros d’aide (vérifiés le 19 novembre 2026)
+
+| Numéro | Constat | Sources | Action |
+| --- | --- | --- | --- |
+| 15, 112, 17, 114 | exacts ; gratuits, 24 h/24 ; 114 par SMS, tchat, visio, fax | service-public.gouv.fr F33954 (« Vérifié le 25 août 2026 ») | gratuité ajoutée aux libellés 15, 112, 114 |
+| 3114 | « Numéro national de prévention du suicide », gratuit, 24 h/24, 7 j/7, professionnels du soin formés, aussi pour l’entourage | 3114.fr ; F33954 | aucun changement |
+| 3919 | Violences Femmes Info, gratuit, anonyme, 24 h/24, 7 j/7 ; destiné **aux femmes** victimes et à leur entourage ; pas un numéro d’urgence | F33954 ; info.gouv.fr | libellé et message « violences » précisés (« femmes victimes ») ; 116 006 et 17/112 restent proposés à tous |
+| 116 006 | France Victimes, gratuit et confidentiel, **7 j/7 de 9 h à 20 h** (pas 24 h/24) | justice.fr/je-suis-victime/116006 ; france-victimes.fr | horaires ajoutés au libellé, au message « violences » et à l’intro du module sexualité |
+| 119 | Allô Enfance en danger, gratuit, confidentiel, 24 h/24 | F33954 | gratuité et horaires ajoutés |
+| Fil Santé Jeunes 0 800 235 236 | 12-25 ans, anonyme et gratuit, **tous les jours de 9 h à 23 h** | filsantejeunes.com ; Santé publique France (page « Aide à distance », mise à jour 23/09/2025) | horaires ajoutés. Le site signalait le jour de la vérification une interruption temporaire de 13 h à 17 h (non reprise) |
+| Alcool Info Service 0 980 980 930 | exact ; 8 h-2 h, 7 j/7 ; service gratuit, appel non surtaxé | Santé publique France | aucun changement |
+| Drogues Info Service 0 800 23 13 13 | exact ; 8 h-2 h, 7 j/7 ; appel gratuit | Santé publique France | aucun changement |
+| Joueurs Info Service 09 74 75 13 13 | exact ; 8 h-2 h, 7 j/7 ; appel non surtaxé | Santé publique France | aucun changement |
+| Tabac Info Service 39 89 | exact ; lun.-sam. 8 h-20 h ; service gratuit, appel au prix d’une communication | Santé publique France | aucun changement |
+| Anorexie Boulimie Info Écoute | **sources contradictoires** : la page de la FFAB donne 0810 037 037 (0,06 €/min) quatre jours par semaine de 16 h à 18 h ; d’autres sources donnent 09 69 325 900 | ffab.fr ; dépliants 2023-2025 | numéro toujours non écrit (nom seul) ; à trancher avec la FFAB |
+| Mon soutien psy, CMP | dispositif en vigueur (accès direct sans ordonnance depuis juin 2024, 12 séances/an) ; CMP sans frais | ameli / presse spécialisée | aucun changement |
+
+Aussi disponible, non ajouté : Écoute Cannabis 0 980 980 940 (8 h-2 h, 7 j/7) ; Drogues Info Service couvre déjà le cannabis.
+
+### 2. Codes CIM-11
+
+Le navigateur icd.who.int ne se lit pas sans exécution JavaScript ni jeton d’API ; les codes ont été contrôlés sur la page terminologie de l’OMS (substances) et sur un miroir de la CIM-11 MMS v2026-01 (findacode), recoupé par d’autres miroirs. À reconfirmer dans le navigateur officiel par un humain.
+
+- **7A00** Chronic insomnia (≥ 3 mois, plusieurs fois par semaine) : exact. **7B01.2** Nightmare disorder : exact (7B01.0 trouble du comportement en sommeil paradoxal, 7B01.1 paralysie du sommeil isolée récurrente). Note du module mise à jour.
+- **Chapitre 17** : HA00–HA0Z « Sexual dysfunctions », HA20 « Sexual pain-penetration disorder ». « HA00–HA20 » remplacé par `HA00-HA0Z`, `HA20`.
+- **Substances** : 6C42 cannabinoïdes de synthèse … 6C4E autres substances précisées ; 6C4F plusieurs substances ; 6C4G substance inconnue ; 6C48 caféine ; 6C4A nicotine. « 6C42–6C4E » remplacé par `6C42-6C4G` (plusieurs produits et produit inconnu inclus), avec une note qui exclut la caféine et renvoie le tabac à 6C4A.
+- Contrôlés et conformes : 6A70–6A72, 6A60/6A61, 6A20/6A23/6A24, 6B00–6B05, 6B20/6B21/6B23, 6B40–6B43, 6B60/6B61/6B66, 6B80–6B82, 6C20, 6C40.1/6C40.2, 6C41.1/6C41.2, 6C50/6C51, 6C72, 6C73, 6D10, 6E20.
+
+### 3. Instruments
+
+- **PHQ-9, GAD-7, PHQ-2, GAD-2, PHQ-15** : les PDF officiels « French for France » ont été retéléchargés depuis phqscreeners.com le 19/11/2026 ; leurs empreintes SHA-256 sont identiques aux archives (`b9529947…`, `3622a0e2…`, `1fd79dd6…`). Les items du JSON correspondent mot pour mot (vérifié aussi par `--check`). Échelles, paliers 5/10/15(/20) et recodage 3 → 2 des items sommeil et fatigue du PHQ-15 conformes au manuel archivé.
+- **PHQ-15, item 1d** : le formulaire anglais et l’adaptation DSM-5-TR de l’APA marquent l’item « WOMEN ONLY » ; aucun document officiel ne précise la cotation ; le texte intégral de Kroenke et al. 2002 est payant et n’a pas pu être lu (le résumé ne dit rien). La pratique des études (item omis pour les hommes, maximum 28) équivaut à l’option du site (0, score « sur 28 »). La proratisation de l’APA vise les réponses manquantes, pas cet item. Note de l’instrument réécrite ; **point incertain conservé**.
+- **Seuil d’entrée GAD-2 ≥ 2** : non étayé par une méta-analyse. Plummer et al. 2016 et le manuel retiennent ≥ 3 ; ≥ 2 n’apparaît que dans des études isolées (plus sensible, nettement moins spécifique). Pour le PHQ-2, Levis et al. 2020 (JAMA 323:2290) montre que PHQ-2 ≥ 2 puis PHQ-9 ≥ 10 garde la sensibilité (0,82 contre 0,86) avec une spécificité légèrement meilleure. Le seuil GAD-2 ≥ 2 reste un **choix du site par analogie**, acceptable parce que l’entrée ne produit aucun résultat et que le GAD-7 suit. Note, sources (`plummer2016` ajoutée) et citation de Levis corrigées.
+- **ITQ** : l’algorithme du JSON est identique à la fiche officielle Cn2r archivée (P1/P2, P3/P4, P5/P6 et P7–P9 ≥ 2 ; POS C1/C2, C3/C4, C5/C6 et C7–C9 ≥ 2 ; TSPT-C exclut TSPT) et aux règles de Trauma Measures Global (pas de seuil de score). Le PDF Cn2r retéléchargé a la même empreinte (`8788cb03…`). Exiger les 18 items est plus strict que l’algorithme, ce qui est prudent. Références Cloitre et al. 2018 (DOI 10.1111/acps.12956) et Peraud et al. 2022 (Eur J Psychotraumatol 13(2):2152109) confirmées.
+
+### 4. Modules
+
+- **Croisement, correction principale** : 16 sujets affichaient un nom de trouble dans les listes du croisement (« Trouble panique », « Anorexie mentale », « Boulimie nerveuse », « Dépendance à l’alcool », « Trouble de stress post-traumatique », « Dysthymie », « Hypocondrie », etc.), ce qui revenait à présenter un nom de trouble à côté des réponses de la personne. Chacun a désormais un libellé descriptif dans `crossing.display_labels` (par exemple « Crises de peur soudaines répétées », « Restriction alimentaire avec poids bas »), ainsi que « Rôle de sauveur » → « Faire passer les besoins des autres avant les siens ». Contrôle : aucun sujet de type « trouble » croisé sans libellé.
+- **Délais** : la question de gêne de `jeu_ecrans` (12 mois), `alexithymie` et `soi` (« en général ») portait la période « Ces derniers mois », qui ramenait le délai du module à 30 jours ; périodes alignées, délai 90 jours conforme à la v1.1. `bipolaire` : jamais reposé (vie entière). Reste admis par le contrat : dans `humeur`, la question sur deux ans suit le délai du PHQ-9 (14 j).
+- **Textes** : `toc_gestes` (« répéter des gestes ou des actes dans votre tête (laver…) » mélangeait gestes et actes mentaux) → gestes (laver, vérifier, ranger) et actes dans la tête (compter, répéter des phrases). `repere_risques` : le traitement post-exposition au VIH se prend le plus tôt possible et au plus tard dans les 48 heures.
+- **Relus sans autre correction** : fidélité CIM-11 / CDDR des durées et conditions (6A72 deux ans, 6B42 six mois, 6C50/6C51 douze mois, 6D10 deux ans, 6C72 six mois, 7A00 trois mois), phrases fixes v1.1, marquage des modules sensibles (`alcool`, `cannabis`, `autres_substances`, `dissociation`, `perceptions`, `personnalite`, `sexualite`), absence de « vous avez » ou de nom de trouble comme conclusion, repères alcool de Santé publique France (10 verres par semaine, 2 par jour, des jours sans alcool).
+
+### 5. Écran de sécurité
+
+Règles claires et non culpabilisantes : déclenchement dès l’item 9 du PHQ-9 ≥ 1 ou un « Oui » aux questions de sécurité, « Merci de l’avoir dit. », 3114 cité dans le texte, aucun score de risque, bouton « Quitter vite cette page » pour les violences, ressources toujours visibles. Corrections : horaires du 116 006 et du Fil Santé Jeunes, public du 3919. Restent hors de ce contenu : le protocole d’Ambre (lot C) et le test de l’écran en interface.
+
+### Points restant incertains
+
+1. Relecture faite par un modèle, avec sources ; une relecture par un clinicien humain reste souhaitable avant la mise en ligne publique.
+2. Codes CIM-11 vérifiés sur des miroirs v2026-01 et sur la page de l’OMS, pas dans le navigateur icd.who.int.
+3. Cotation de l’item 1d du PHQ-15 : aucune règle officielle trouvée ; Kroenke 2002 non lu en entier.
+4. GAD-2 ≥ 2 : choix du site, sans appui méta-analytique.
+5. Numéro d’Anorexie Boulimie Info Écoute contradictoire ; coquille ITQ P1 toujours en attente de réponse du Cn2r.
+6. Les horaires des lignes d’écoute changent : à revérifier à chaque mise en ligne, avec la date de vérification (`safety.resources_verified`).
+
+### Verdict
+
+- **Contenu clinique des 23 modules** : publiable comme repérage non diagnostique, avec les corrections ci-dessus ; 18 modules `retenu`, 5 `relu` à la seconde relecture.
+- **Ressources et écran de sécurité** : publiables (numéros exacts, horaires corrigés).
+- **Instruments** : publiables (items officiels identiques aux PDF actuels, algorithme ITQ exact) ; les deux choix du site (PHQ-15 1d, GAD-2 ≥ 2) sont documentés comme tels.
+- **Publication réelle** : subordonnée aux lots A à C (moteur, interface, Ambre), à la relecture de code et aux tests ; ce rapport ne vaut pas mise en ligne.
