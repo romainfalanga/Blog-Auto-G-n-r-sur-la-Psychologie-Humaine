@@ -1,0 +1,628 @@
+{
+  "domain": "transdiagnostique",
+  "symptoms": [
+    {
+      "id": "tristesse_persistante",
+      "canonical": true,
+      "theme": "humeur",
+      "label": "Se sentir triste ou vide la plupart du temps",
+      "description": "Une tristesse, un vide ou un abattement présents presque tous les jours, pendant au moins quelques semaines.",
+      "examples": [
+        "Avoir envie de pleurer sans raison claire",
+        "Se sentir éteint, comme vidé"
+      ],
+      "safety": null,
+      "overlap_group": "humeur_triste",
+      "links": []
+    },
+    {
+      "id": "perte_interet_plaisir",
+      "canonical": true,
+      "theme": "humeur",
+      "label": "Perdre l'intérêt ou le plaisir",
+      "description": "Ne plus avoir envie ni plaisir pour des activités ou des personnes qui comptaient avant.",
+      "examples": [
+        "Ne plus profiter d'un loisir qu'on aimait",
+        "Tout faire par obligation, sans goût"
+      ],
+      "safety": null,
+      "overlap_group": "anhedonie",
+      "links": []
+    },
+    {
+      "id": "desespoir_avenir",
+      "canonical": true,
+      "theme": "humeur",
+      "label": "Voir l'avenir sans espoir",
+      "description": "Penser que les choses ne s'amélioreront pas et qu'il n'y a rien de bon à attendre.",
+      "examples": [
+        "Se dire « à quoi bon »"
+      ],
+      "safety": null,
+      "overlap_group": "desespoir",
+      "links": []
+    },
+    {
+      "id": "ralentissement_agitation",
+      "canonical": true,
+      "theme": "humeur",
+      "label": "Se sentir ralenti ou agité",
+      "description": "Bouger, parler ou penser plus lentement que d'habitude, ou au contraire ne pas tenir en place.",
+      "examples": [
+        "Mettre beaucoup plus de temps pour se préparer",
+        "Faire les cent pas sans pouvoir s'arrêter"
+      ],
+      "safety": null,
+      "overlap_group": "psychomoteur",
+      "links": []
+    },
+    {
+      "id": "idees_de_mort",
+      "canonical": true,
+      "theme": "humeur",
+      "label": "Penser à la mort ou au suicide",
+      "description": "Penser qu'on serait mieux mort, souhaiter ne plus se réveiller ou envisager de mettre fin à ses jours.",
+      "examples": [
+        "Se dire que les autres seraient mieux sans soi",
+        "Penser à une façon de mourir"
+      ],
+      "safety": "suicide",
+      "overlap_group": "idees_mort",
+      "links": []
+    },
+    {
+      "id": "mal_a_s_endormir",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir du mal à s'endormir",
+      "description": "Rester longtemps éveillé au coucher, souvent avec des pensées qui tournent, plusieurs nuits par semaine.",
+      "examples": [
+        "Mettre plus d'une demi-heure à s'endormir"
+      ],
+      "safety": null,
+      "overlap_group": "sommeil",
+      "links": []
+    },
+    {
+      "id": "reveils_nocturnes",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Se réveiller la nuit ou trop tôt",
+      "description": "Se réveiller souvent la nuit, ou bien avant l'heure prévue, sans réussir à se rendormir.",
+      "examples": [
+        "Être réveillé à 4 h et ne plus dormir"
+      ],
+      "safety": null,
+      "overlap_group": "sommeil",
+      "links": []
+    },
+    {
+      "id": "trop_dormir",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Dormir beaucoup plus que d'habitude",
+      "description": "Dormir nettement plus longtemps qu'avant ou avoir besoin de siestes, sans se sentir reposé.",
+      "examples": [
+        "Rester au lit une grande partie de la journée"
+      ],
+      "safety": null,
+      "overlap_group": "sommeil",
+      "links": []
+    },
+    {
+      "id": "cauchemars_repetes",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Faire souvent des cauchemars",
+      "description": "Des rêves effrayants ou pénibles qui reviennent et réveillent ou laissent une impression lourde.",
+      "examples": [
+        "Revoir en rêve une scène difficile"
+      ],
+      "safety": null,
+      "overlap_group": "reviviscence",
+      "links": []
+    },
+    {
+      "id": "fatigue_manque_energie",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Se sentir fatigué ou sans énergie",
+      "description": "Une fatigue qui ne passe pas avec le repos et rend les tâches ordinaires coûteuses.",
+      "examples": [
+        "Être épuisé après une petite tâche"
+      ],
+      "safety": null,
+      "overlap_group": "energie",
+      "links": []
+    },
+    {
+      "id": "tension_musculaire",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir les muscles tendus",
+      "description": "Des épaules, une mâchoire ou un dos crispés, une impression de corps tendu difficile à relâcher.",
+      "examples": [
+        "Serrer les dents",
+        "Avoir la nuque raide en fin de journée"
+      ],
+      "safety": null,
+      "overlap_group": "tension_corps",
+      "links": []
+    },
+    {
+      "id": "maux_physiques_frequents",
+      "canonical": true,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir souvent mal quelque part",
+      "description": "Des maux de tête, de ventre, de dos ou des douleurs diffuses qui reviennent souvent.",
+      "examples": [
+        "Avoir mal au ventre avant une situation stressante"
+      ],
+      "safety": null,
+      "overlap_group": "douleurs",
+      "links": []
+    },
+    {
+      "id": "inquietude_difficile_a_arreter",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "S'inquiéter beaucoup sans pouvoir s'arrêter",
+      "description": "Se faire du souci pour beaucoup de choses, plus que la situation ne le demande, avec du mal à penser à autre chose.",
+      "examples": [
+        "Imaginer le pire dès qu'un proche est en retard"
+      ],
+      "safety": null,
+      "overlap_group": "inquietude",
+      "links": []
+    },
+    {
+      "id": "nervosite",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "Se sentir nerveux ou à bout",
+      "description": "Être tendu, sur les nerfs, avoir du mal à se détendre ou à rester tranquille.",
+      "examples": [
+        "Ne pas arriver à se poser, même assis"
+      ],
+      "safety": null,
+      "overlap_group": "nervosite",
+      "links": []
+    },
+    {
+      "id": "crises_angoisse",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "Avoir des crises d'angoisse",
+      "description": "Une peur intense qui monte d'un coup, avec cœur qui bat fort, souffle court, tremblements ou peur de mourir.",
+      "examples": [
+        "Devoir s'asseoir parce qu'on croit faire un malaise"
+      ],
+      "safety": null,
+      "overlap_group": "panique",
+      "links": []
+    },
+    {
+      "id": "coeur_souffle_stress",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "Sentir le cœur s'emballer ou manquer d'air",
+      "description": "Des palpitations, une oppression ou une gêne pour respirer quand on est inquiet ou stressé.",
+      "examples": [
+        "Sentir son cœur battre dans la gorge"
+      ],
+      "safety": null,
+      "overlap_group": "panique",
+      "links": []
+    },
+    {
+      "id": "eviter_par_peur",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "Éviter des situations par peur",
+      "description": "Renoncer à des lieux, activités ou rencontres parce qu'ils font peur, même si cela complique la vie.",
+      "examples": [
+        "Ne plus prendre les transports",
+        "Refuser une invitation par crainte"
+      ],
+      "safety": null,
+      "overlap_group": "evitement",
+      "links": []
+    },
+    {
+      "id": "peur_du_jugement",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "Avoir peur du regard des autres",
+      "description": "Craindre d'être jugé, de paraître ridicule ou de mal faire devant les autres.",
+      "examples": [
+        "Redouter de prendre la parole en réunion"
+      ],
+      "safety": null,
+      "overlap_group": "peur_jugement",
+      "links": []
+    },
+    {
+      "id": "peur_pour_les_proches",
+      "canonical": true,
+      "theme": "inquietudes_peurs",
+      "label": "Avoir peur d'être séparé de ses proches",
+      "description": "Redouter qu'il arrive malheur à ses proches ou d'être loin d'eux, au point d'en être très inquiet.",
+      "examples": [
+        "Appeler souvent un proche pour vérifier qu'il va bien"
+      ],
+      "safety": null,
+      "overlap_group": "separation",
+      "links": []
+    },
+    {
+      "id": "pensees_en_boucle",
+      "canonical": true,
+      "theme": "souvenirs_alerte",
+      "label": "Ressasser les mêmes pensées",
+      "description": "Revenir sans cesse sur ce qui ne va pas, sur ses erreurs ou ses soucis, sans trouver de solution.",
+      "examples": [
+        "Rejouer une conversation toute la soirée"
+      ],
+      "safety": null,
+      "overlap_group": "rumination",
+      "links": []
+    },
+    {
+      "id": "souvenirs_envahissants",
+      "canonical": true,
+      "theme": "souvenirs_alerte",
+      "label": "Être envahi par des souvenirs pénibles",
+      "description": "Des images ou souvenirs d'un événement difficile qui reviennent sans le vouloir, parfois comme si on y était.",
+      "examples": [
+        "Revivre une scène en entendant un bruit"
+      ],
+      "safety": null,
+      "overlap_group": "reviviscence",
+      "links": []
+    },
+    {
+      "id": "rester_sur_ses_gardes",
+      "canonical": true,
+      "theme": "souvenirs_alerte",
+      "label": "Rester sur ses gardes",
+      "description": "Surveiller ce qui se passe autour de soi, sursauter facilement, se sentir rarement en sécurité.",
+      "examples": [
+        "S'asseoir face à la porte",
+        "Sursauter quand quelqu'un arrive derrière soi"
+      ],
+      "safety": null,
+      "overlap_group": "hypervigilance",
+      "links": []
+    },
+    {
+      "id": "detachement_irrealite",
+      "canonical": true,
+      "theme": "perceptions_realite",
+      "label": "Se sentir détaché de soi ou du monde",
+      "description": "Avoir l'impression de se regarder de l'extérieur, que son corps ou ce qui entoure n'est pas réel.",
+      "examples": [
+        "Voir les choses comme derrière une vitre"
+      ],
+      "safety": null,
+      "overlap_group": "detachement",
+      "links": []
+    },
+    {
+      "id": "changement_appetit",
+      "canonical": true,
+      "theme": "alimentation_apparence",
+      "label": "Avoir beaucoup plus ou moins d'appétit",
+      "description": "Un appétit nettement diminué ou augmenté par rapport à d'habitude, parfois avec une variation du poids.",
+      "examples": [
+        "Sauter des repas sans faim",
+        "Grignoter sans arrêt"
+      ],
+      "safety": null,
+      "overlap_group": "appetit",
+      "links": []
+    },
+    {
+      "id": "consommer_pour_apaiser",
+      "canonical": true,
+      "theme": "consommations_ecrans",
+      "label": "Consommer pour se calmer ou oublier",
+      "description": "Boire, fumer, prendre un produit, manger ou rester sur un écran surtout pour apaiser un malaise.",
+      "examples": [
+        "Prendre un verre pour décompresser chaque soir"
+      ],
+      "safety": null,
+      "overlap_group": "apaisement_consommation",
+      "links": []
+    },
+    {
+      "id": "difficile_de_s_arreter",
+      "canonical": true,
+      "theme": "consommations_ecrans",
+      "label": "Avoir du mal à s'arrêter une fois lancé",
+      "description": "Faire plus longtemps ou plus souvent que prévu une activité ou une consommation, malgré l'envie de limiter.",
+      "examples": [
+        "Prévoir un verre et en boire cinq",
+        "Prévoir dix minutes de jeu et y passer la nuit"
+      ],
+      "safety": null,
+      "overlap_group": "perte_controle",
+      "links": []
+    },
+    {
+      "id": "difficultes_concentration",
+      "canonical": true,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à se concentrer",
+      "description": "Perdre le fil en lisant, en écoutant ou en travaillant, être facilement distrait.",
+      "examples": [
+        "Relire plusieurs fois la même page"
+      ],
+      "safety": null,
+      "overlap_group": "concentration",
+      "links": []
+    },
+    {
+      "id": "difficultes_a_decider",
+      "canonical": true,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à prendre des décisions",
+      "description": "Hésiter longtemps, même pour des choix simples, ou repousser une décision par peur de se tromper.",
+      "examples": [
+        "Ne pas arriver à choisir un plat"
+      ],
+      "safety": null,
+      "overlap_group": "concentration",
+      "links": []
+    },
+    {
+      "id": "agir_sur_un_coup_de_tete",
+      "canonical": true,
+      "theme": "attention_impulsivite",
+      "label": "Agir sur un coup de tête",
+      "description": "Faire ou dire des choses sans prendre le temps de réfléchir, et le regretter ensuite.",
+      "examples": [
+        "Faire un achat important sur une impulsion",
+        "Envoyer un message sous le coup de la colère"
+      ],
+      "safety": null,
+      "overlap_group": "impulsivite",
+      "links": []
+    },
+    {
+      "id": "irritabilite",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "S'énerver vite",
+      "description": "Être irritable, avoir peu de patience, réagir fortement à de petites contrariétés.",
+      "examples": [
+        "S'emporter pour un objet mal rangé"
+      ],
+      "safety": null,
+      "overlap_group": "irritabilite_colere",
+      "links": []
+    },
+    {
+      "id": "colere_qui_deborde",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "Avoir des colères qui débordent",
+      "description": "Des colères plus fortes qu'on ne le voudrait, avec des cris, des mots ou des gestes regrettés ensuite.",
+      "examples": [
+        "Claquer une porte ou casser un objet"
+      ],
+      "safety": null,
+      "overlap_group": "irritabilite_colere",
+      "links": []
+    },
+    {
+      "id": "emotions_difficiles_a_apaiser",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "Avoir des émotions difficiles à apaiser",
+      "description": "Ressentir des émotions très fortes, qui montent vite et mettent longtemps à redescendre.",
+      "examples": [
+        "Rester bouleversé toute la journée après une remarque"
+      ],
+      "safety": null,
+      "overlap_group": "regulation_emotionnelle",
+      "links": []
+    },
+    {
+      "id": "humeur_qui_change_vite",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "Avoir une humeur qui change vite",
+      "description": "Passer en peu de temps de la joie à la tristesse, à la colère ou à l'angoisse, souvent selon ce qui arrive.",
+      "examples": [
+        "Être joyeux le matin et effondré une heure après"
+      ],
+      "safety": null,
+      "overlap_group": "instabilite_emotionnelle",
+      "links": []
+    },
+    {
+      "id": "mal_a_savoir_ce_qu_on_ressent",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "Avoir du mal à savoir ce qu'on ressent",
+      "description": "Sentir un malaise sans parvenir à dire s'il s'agit de tristesse, de peur, de colère ou de fatigue.",
+      "examples": [
+        "Ne pas savoir quoi répondre à « comment tu te sens ? »"
+      ],
+      "safety": null,
+      "overlap_group": "identification_emotions",
+      "links": []
+    },
+    {
+      "id": "garder_ses_emotions_pour_soi",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "Garder ses émotions pour soi",
+      "description": "Cacher ce qu'on ressent, même à ses proches, ou faire bonne figure quand ça ne va pas.",
+      "examples": [
+        "Sourire alors qu'on est blessé"
+      ],
+      "safety": null,
+      "overlap_group": "retenue_emotionnelle",
+      "links": []
+    },
+    {
+      "id": "se_faire_du_mal",
+      "canonical": true,
+      "theme": "emotions_colere",
+      "label": "Se faire du mal volontairement",
+      "description": "Se blesser exprès (se couper, se brûler, se frapper…), par exemple pour soulager une tension ou se punir.",
+      "examples": [
+        "Se griffer jusqu'au sang quand la tension monte"
+      ],
+      "safety": "automutilation",
+      "overlap_group": "automutilation",
+      "links": []
+    },
+    {
+      "id": "se_sentir_sans_valeur",
+      "canonical": true,
+      "theme": "image_soi",
+      "label": "Se sentir sans valeur",
+      "description": "Avoir une mauvaise opinion de soi, se sentir moins bien ou moins digne que les autres.",
+      "examples": [
+        "Penser qu'on ne mérite pas qu'on s'intéresse à soi"
+      ],
+      "safety": null,
+      "overlap_group": "valeur_culpabilite",
+      "links": []
+    },
+    {
+      "id": "honte_de_soi",
+      "canonical": true,
+      "theme": "image_soi",
+      "label": "Avoir honte de soi",
+      "description": "Se sentir mauvais, défectueux ou exposé, et vouloir se cacher du regard des autres.",
+      "examples": [
+        "Craindre qu'on découvre qui l'on est vraiment"
+      ],
+      "safety": null,
+      "overlap_group": "honte",
+      "links": []
+    },
+    {
+      "id": "culpabilite_excessive",
+      "canonical": true,
+      "theme": "exigences_culpabilite",
+      "label": "Se sentir coupable plus que de raison",
+      "description": "Se reprocher des choses dont on n'est pas responsable, ou se sentir fautif longtemps pour une petite erreur.",
+      "examples": [
+        "S'excuser sans cesse"
+      ],
+      "safety": null,
+      "overlap_group": "valeur_culpabilite",
+      "links": []
+    },
+    {
+      "id": "se_critiquer_durement",
+      "canonical": true,
+      "theme": "exigences_culpabilite",
+      "label": "Se critiquer durement",
+      "description": "Se parler avec sévérité après une erreur ou une difficulté, se traiter de nul ou d'incapable.",
+      "examples": [
+        "Se répéter « je suis nul » après un oubli"
+      ],
+      "safety": null,
+      "overlap_group": "autocritique",
+      "links": []
+    },
+    {
+      "id": "peur_d_etre_abandonne",
+      "canonical": true,
+      "theme": "attachement_proximite",
+      "label": "Craindre d'être abandonné",
+      "description": "Avoir peur que les proches partent, se lassent ou cessent d'aimer, et guetter les signes de ce départ.",
+      "examples": [
+        "S'inquiéter dès qu'un message reste sans réponse"
+      ],
+      "safety": null,
+      "overlap_group": "abandon",
+      "links": []
+    },
+    {
+      "id": "se_retirer_des_autres",
+      "canonical": true,
+      "theme": "place_relations",
+      "label": "Voir moins les autres",
+      "description": "Se tenir à l'écart, éviter les sorties ou les appels, se replier sur soi.",
+      "examples": [
+        "Laisser sonner le téléphone",
+        "Annuler des rendez-vous"
+      ],
+      "safety": null,
+      "overlap_group": "retrait_social",
+      "links": []
+    },
+    {
+      "id": "se_sentir_seul",
+      "canonical": true,
+      "theme": "place_relations",
+      "label": "Se sentir seul, même entouré",
+      "description": "Avoir l'impression de manquer de liens proches ou de soutien, ou de ne pas être compris.",
+      "examples": [
+        "Se sentir seul au milieu d'un groupe d'amis"
+      ],
+      "safety": null,
+      "overlap_group": "solitude",
+      "links": []
+    },
+    {
+      "id": "se_mefier_des_autres",
+      "canonical": true,
+      "theme": "place_relations",
+      "label": "Se méfier des intentions des autres",
+      "description": "S'attendre à être trompé, utilisé ou blessé, et avoir du mal à faire confiance.",
+      "examples": [
+        "Chercher l'intention cachée derrière un compliment"
+      ],
+      "safety": null,
+      "overlap_group": "mefiance",
+      "links": []
+    },
+    {
+      "id": "mal_a_dire_non",
+      "canonical": true,
+      "theme": "place_relations",
+      "label": "Avoir du mal à dire non",
+      "description": "Accepter ce qu'on ne veut pas pour éviter un conflit, une déception ou un rejet.",
+      "examples": [
+        "Accepter une tâche de plus alors qu'on est débordé"
+      ],
+      "safety": null,
+      "overlap_group": "effacement",
+      "links": []
+    },
+    {
+      "id": "peu_de_desir_sexuel",
+      "canonical": true,
+      "theme": "sexualite_securite",
+      "label": "Avoir peu ou pas de désir sexuel",
+      "description": "Un désir sexuel faible ou absent, qui pèse sur soi ou sur la relation.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "desir_sexuel",
+      "links": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "oms_cddr",
+      "type": "classification",
+      "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+      "url": "https://www.who.int/publications/i/item/9789240077263",
+      "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+    },
+    {
+      "id": "icd11_mms",
+      "type": "classification",
+      "citation": "OMS, Classification internationale des maladies, 11e révision (CIM-11), statistiques de mortalité et de morbidité (MMS), version 2026-01, chapitre 06",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr",
+      "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
+    }
+  ]
+}

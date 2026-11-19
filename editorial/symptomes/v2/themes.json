@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "status": "lot S0 — proposition, avant rédaction par domaine",
+  "plan": "docs/plan-mes-symptomes-v2-2026-11-19.md (version 2.1)",
+  "period": {
+    "id": "12_mois",
+    "label": "Ces 12 derniers mois",
+    "note": "Période unique affichée en tête de la page et rappelée dans chaque thème ; une précision libre reste possible dans les notes."
+  },
+  "target_questions_per_theme": {
+    "min": 15,
+    "max": 25
+  },
+  "themes": [
+    {
+      "id": "humeur",
+      "label": "Humeur et plaisir",
+      "description": "Tristesse, perte d'intérêt, découragement, mais aussi périodes d'élan ou d'exaltation inhabituelles.",
+      "order": 1
+    },
+    {
+      "id": "corps_energie_sommeil",
+      "label": "Corps, énergie et sommeil",
+      "description": "Sommeil, fatigue, douleurs et sensations physiques qui pèsent sur le quotidien.",
+      "order": 2
+    },
+    {
+      "id": "inquietudes_peurs",
+      "label": "Inquiétudes, peurs et panique",
+      "description": "Soucis difficiles à arrêter, crises d'angoisse, peurs de situations, du regard des autres ou de la maladie.",
+      "order": 3
+    },
+    {
+      "id": "souvenirs_alerte",
+      "label": "Souvenirs, alerte et pensées en boucle",
+      "description": "Souvenirs pénibles qui reviennent, sentiment d'être sur ses gardes, pensées qui tournent sans fin.",
+      "order": 4
+    },
+    {
+      "id": "perceptions_realite",
+      "label": "Perceptions, réalité et détachement",
+      "description": "Impressions d'irréalité, trous de mémoire, perceptions ou idées inhabituelles, symptômes du corps inexpliqués.",
+      "order": 5
+    },
+    {
+      "id": "alimentation_apparence",
+      "label": "Alimentation, poids et apparence",
+      "description": "Appétit, crises alimentaires, restrictions, préoccupations pour le poids, la silhouette ou un détail physique.",
+      "order": 6
+    },
+    {
+      "id": "consommations_ecrans",
+      "label": "Alcool, substances, jeux et écrans",
+      "description": "Alcool, tabac, cannabis ou autres produits, jeux d'argent, écrans : ce qui devient difficile à limiter.",
+      "order": 7
+    },
+    {
+      "id": "attention_impulsivite",
+      "label": "Attention, organisation et impulsivité",
+      "description": "Concentration, tâches repoussées, décisions prises sur un coup de tête, frustration difficile à supporter.",
+      "order": 8
+    },
+    {
+      "id": "emotions_colere",
+      "label": "Émotions et colère",
+      "description": "Émotions difficiles à reconnaître, à exprimer ou à apaiser, colère retenue ou qui déborde.",
+      "order": 9
+    },
+    {
+      "id": "image_soi",
+      "label": "Image de soi et confiance",
+      "description": "La façon de se voir : valeur personnelle, honte, sentiment d'être capable ou légitime.",
+      "order": 10
+    },
+    {
+      "id": "exigences_culpabilite",
+      "label": "Exigences, culpabilité et besoins",
+      "description": "Exigences envers soi, autocritique, culpabilité, et difficulté à reconnaître ou faire passer ses besoins.",
+      "order": 11
+    },
+    {
+      "id": "attachement_proximite",
+      "label": "Attachement et proximité",
+      "description": "Peur de perdre l'autre, besoin d'être rassuré, distance gardée, difficulté à se laisser approcher.",
+      "order": 12
+    },
+    {
+      "id": "place_relations",
+      "label": "Place dans les relations",
+      "description": "Désaccords, envie de plaire, effacement, méfiance, solitude et façon de prendre soin des autres.",
+      "order": 13
+    },
+    {
+      "id": "sexualite_securite",
+      "label": "Sexualité et sécurité dans le couple",
+      "description": "Désir, plaisir, prises de risque, comportements sexuels difficiles à contrôler, violences dans le couple.",
+      "order": 14
+    }
+  ]
+}
