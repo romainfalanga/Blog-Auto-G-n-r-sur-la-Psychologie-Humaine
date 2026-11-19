@@ -64,16 +64,16 @@ export function snapshotPage(row,{section=null,cursor=0,limit=50}={}){
 }
 export async function exportReviewSnapshots(env,userId){
  if(!await snapshotStorageAvailable(env))return [];
- const rows=(await env.DB.prepare('SELECT review_id,length(payload)+length(assessment) AS size FROM review_snapshots WHERE user_id=? ORDER BY review_id').bind(userId).all()).results||[];
+ const rows=(await env.DB.prepare('SELECT s.review_id,r.status AS review_status,length(s.payload)+length(s.assessment) AS size FROM review_snapshots s JOIN ambre_reviews r ON r.id=s.review_id AND r.user_id=s.user_id WHERE s.user_id=? ORDER BY s.review_id').bind(userId).all()).results||[];
  if(rows.reduce((n,x)=>n+x.size,0)>16*1024*1024)throw failure('snapshot_too_large','L’export complet des instantanés dépasse 16 Mio. Consultez les archives par bilan ; aucun instantané n’a été omis silencieusement.');
  const out=[];let bytes=0;
  for(const row of rows){
   const item=await readReviewSnapshot(env,userId,row.review_id);if(!item)throw failure('context_changed','Les archives ont changé pendant l’export. Réessayez.');
-  const value={review_id:item.review_id,captured_at:item.captured_at,schema_version:item.schema_version,payload:item.payload,assessment:item.assessment};bytes+=new TextEncoder().encode(JSON.stringify(value)).length;
+  const value={review_id:item.review_id,captured_at:item.captured_at,schema_version:item.schema_version,payload:item.payload,review_status:row.review_status,assessment:row.review_status==='ready'?item.assessment:null};bytes+=new TextEncoder().encode(JSON.stringify(value)).length;
   if(bytes>16*1024*1024)throw failure('snapshot_too_large','L’export complet des instantanés dépasse 16 Mio. Consultez les archives par bilan ; aucun instantané n’a été omis silencieusement.');out.push(value);
  }
- const current=(await env.DB.prepare('SELECT s.review_id FROM review_snapshots s JOIN chat_settings cs ON cs.user_id=s.user_id WHERE s.user_id=? AND cs.consent=1 ORDER BY s.review_id').bind(userId).all()).results||[];
- if(JSON.stringify(current.map(x=>x.review_id))!==JSON.stringify(rows.map(x=>x.review_id)))throw failure('context_changed','Les archives ou votre accord ont changé pendant l’export. Réessayez.');
+ const current=(await env.DB.prepare('SELECT s.review_id,r.status AS review_status FROM review_snapshots s JOIN ambre_reviews r ON r.id=s.review_id AND r.user_id=s.user_id JOIN chat_settings cs ON cs.user_id=s.user_id WHERE s.user_id=? AND cs.consent=1 ORDER BY s.review_id').bind(userId).all()).results||[];
+ if(JSON.stringify(current.map(x=>[x.review_id,x.review_status]))!==JSON.stringify(rows.map(x=>[x.review_id,x.review_status])))throw failure('context_changed','Les archives ou votre accord ont changé pendant l’export. Réessayez.');
  return out;
 }
 

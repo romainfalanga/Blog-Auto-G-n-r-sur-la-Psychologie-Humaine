@@ -850,6 +850,9 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(!await first(env,`SELECT 1 FROM ambre_reviews WHERE ${providerGuard}`,review.id,review.lease_token))throw Object.assign(Error('Generation guard changed'),{code:'lease_lost'});
    if(snapshotSource){const fresh=await readSnapshotSource(env,userId,review.id,snapshotSource.query);if(fresh.stamp!==snapshotSource.stamp)throw Object.assign(Error('Snapshot sources changed'),{code:'context_changed'});}
    if(!snapshotSource&&JSON.stringify((await readSymptomContext(env,userId,now()))?.revision||null)!==JSON.stringify(mapRevision))throw Object.assign(Error('Symptom map changed'),{code:'context_changed'});
+   // Source reads await storage: consent, access or the lease may have changed meanwhile.
+   await requireCompanionGenerationAccess(env,userId,{at:now()});
+   if(!await first(env,`SELECT 1 FROM ambre_reviews WHERE ${providerGuard}`,review.id,review.lease_token))throw Object.assign(Error('Generation guard changed'),{code:'lease_lost'});
   }catch(error){await run(env,'UPDATE provider_budgets SET provider_calls=max(0,provider_calls-1),reserved_tokens=max(0,reserved_tokens-?) WHERE user_id=? AND week_start=?',reservation,userId,week);await releaseDaily(env,{tokens:reservation,now:now()});throw error}
   const res=await fetch(PROVIDER_URL,{method:'POST',headers:{Authorization:`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages,response_format:{type:'json_schema',json_schema:{name,strict:true,schema}},max_tokens:maxTokens,reasoning:{effort},provider:{require_parameters:true,data_collection:'deny',zdr:true,allow_fallbacks:true}}),signal:AbortSignal.timeout(remaining)});
   const detail=await res.json().catch(e=>{if(['TimeoutError','AbortError'].includes(e.name))throw e;return {};});
@@ -1029,9 +1032,10 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   if(snapshotMatch){
    if(method!=='GET')fail(405,'Méthode non autorisée.','method_not_allowed');
    const own=await first(env,'SELECT id,status,sources FROM ambre_reviews WHERE id=? AND user_id=?',snapshotMatch[1],user.id);if(!own)fail(404,'Bilan introuvable.','not_found');
+   if(own.status!=='ready')return json({available:false,reason:own.status==='failed'?'review_failed':'review_in_progress',review_status:own.status,review_id:own.id});
    const row=await readReviewSnapshot(env,user.id,own.id);if(!row)return json({available:false,reason:parse(own.sources).snapshot_id?'snapshot_removed':'legacy_review',review_id:own.id});
    let page;try{page=snapshotPage(row,{section:url.searchParams.get('section'),cursor:Number(url.searchParams.get('cursor')||0),limit:Number(url.searchParams.get('limit')||50)});}catch(e){fail(e.status||400,e.message,e.code||'invalid_input');}
-   const still=await first(env,'SELECT r.status FROM review_snapshots s JOIN ambre_reviews r ON r.id=s.review_id AND r.user_id=s.user_id JOIN chat_settings cs ON cs.user_id=s.user_id WHERE s.review_id=? AND s.user_id=? AND s.captured_at=? AND cs.consent=1',own.id,user.id,row.captured_at);
+   const still=await first(env,"SELECT r.status FROM review_snapshots s JOIN ambre_reviews r ON r.id=s.review_id AND r.user_id=s.user_id JOIN chat_settings cs ON cs.user_id=s.user_id WHERE s.review_id=? AND s.user_id=? AND s.captured_at=? AND cs.consent=1 AND r.status='ready'",own.id,user.id,row.captured_at);
    if(!still)fail(409,'Les archives ou votre accord ont changé. Rechargez la page.','context_changed');return json({...page,review_status:still.status});
   }
   // Lot A5-P1: the person's answer to a review, without any score. It reaches the next point.
