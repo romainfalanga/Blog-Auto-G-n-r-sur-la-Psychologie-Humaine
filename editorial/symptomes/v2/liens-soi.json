@@ -1358,11 +1358,11 @@
     },
     {
      "outcome": "ten_mode_parent_exigeant",
-     "strength": "critere",
-     "basis": "Lobbestael et al., 2010 (mode mesuré : pas de détente avant d'avoir tout fini)",
-     "summary": "Ne pas s'autoriser le repos tant que tout n'est pas fait est typique de ce mode.",
+     "strength": "moderee",
+     "basis": "Edwards, 2022 : la pression intérieure et les règles rigides définissent le mode exigeant. La culpabilité au repos est une manifestation indirecte, non un critère autonome vérifié dans la source.",
+     "summary": "La pression intérieure peut rendre le repos difficile ; ce ressenti seul ne définit pas ce mode.",
      "sources": [
-      "lobbestael2010_smi"
+      "edwards2022_modes"
      ]
     },
     {
@@ -1521,17 +1521,7 @@
    ],
    "safety": null,
    "overlap_group": "dette",
-   "links": [
-    {
-     "outcome": "pat_guilt",
-     "strength": "critere",
-     "basis": "Définition du sujet (se sentir redevable au-delà de sa responsabilité) ; Tangney et al., 2007",
-     "summary": "Ce sentiment de dette persistant correspond à la définition du sujet.",
-     "sources": [
-      "tangney2007_honte_culpabilite"
-     ]
-    }
-   ]
+   "links": []
   },
   {
    "id": "soi_mal_a_savoir_ses_besoins",

@@ -51,7 +51,7 @@
         {
           "outcome": "ten_dissociation",
           "strength": "critere",
-          "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
+          "basis": "Medford et al., 2005 : détachement émotionnel ou corporel dans la dépersonnalisation ; Wülfing et al., 2025 décrit la structure dimensionnelle, sans valider cette formulation précise.",
           "summary": "L'engourdissement des émotions est une forme courante de détachement.",
           "sources": [
             "wulfing2025",
@@ -86,7 +86,7 @@
         {
           "outcome": "ten_dissociation",
           "strength": "critere",
-          "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
+          "basis": "Medford et al., 2005 : détachement émotionnel ou corporel dans la dépersonnalisation ; Wülfing et al., 2025 décrit la structure dimensionnelle, sans valider cette formulation précise.",
           "summary": "Se sentir coupé de son corps fait partie des expériences dissociatives.",
           "sources": [
             "wulfing2025",
@@ -268,7 +268,7 @@
         {
           "outcome": "ten_dissociation",
           "strength": "moderee",
-          "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
+          "basis": "Wülfing et al., 2025, tableau 1 : oubli autobiographique décrit dans le DES historique (item 09), exclu de leur solution finale ; rapprochement non spécifique.",
           "summary": "Un oubli de ce type peut être dissociatif, mais il a aussi d'autres causes.",
           "sources": [
             "wulfing2025"
@@ -318,8 +318,8 @@
         {
           "outcome": "ten_dissociation",
           "strength": "moderee",
-          "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
-          "summary": "C'est une forme intense de trou de mémoire dissociatif.",
+          "basis": "Wülfing et al., 2025, tableau 1 : voyage amnésique décrit dans le DES historique (item 03), exclu de leur solution finale ; rapprochement non spécifique.",
+          "summary": "Ce type de trou de mémoire peut accompagner une dissociation, mais a aussi d’autres causes.",
           "sources": [
             "wulfing2025"
           ]

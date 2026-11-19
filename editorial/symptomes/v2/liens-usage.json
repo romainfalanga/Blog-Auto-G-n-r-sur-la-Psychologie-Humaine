@@ -33,6 +33,39 @@
       "safety": null,
       "overlap_group": "usage_tabac",
       "links": []
+    },
+    {
+      "id": "contexte_perinatal",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir vécu une grossesse ou un accouchement",
+      "description": "Ce contexte concerne votre propre grossesse ou accouchement au cours de ces 12 derniers mois.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_perinatal",
+      "links": []
+    },
+    {
+      "id": "contexte_relation_adolescence",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir vécu une relation amoureuse à l’adolescence",
+      "description": "Au cours de ces 12 derniers mois. Ce contexte ne signifie pas qu’il y a eu des violences.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_relation_adolescence",
+      "links": []
+    },
+    {
+      "id": "contexte_relation_adulte",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir vécu une relation amoureuse à l’âge adulte",
+      "description": "Au cours de ces 12 derniers mois. Ce contexte ne signifie pas qu’il y a eu des violences.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_relation_adulte",
+      "links": []
     }
   ],
   "sources": []

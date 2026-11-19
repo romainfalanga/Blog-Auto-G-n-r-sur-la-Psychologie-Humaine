@@ -1342,7 +1342,7 @@
         "Être irritable et mal dormir sans cannabis"
       ],
       "safety": null,
-      "overlap_group": "dependance_physique",
+      "overlap_group": "adaptation_physiologique_produit",
       "group": "consommations_ecrans",
       "ace": false
     },
@@ -1354,7 +1354,7 @@
         "Ne plus rien sentir après deux verres"
       ],
       "safety": null,
-      "overlap_group": "dependance_physique",
+      "overlap_group": "adaptation_physiologique_produit",
       "group": "consommations_ecrans",
       "ace": false
     },
@@ -2024,8 +2024,8 @@
     },
     {
       "id": "cmp_enfreindre_la_loi",
-      "label": "Faire des choses interdites par la loi",
-      "description": "Voler, frauder, dégrader ou commettre d'autres actes illégaux, de façon répétée.",
+      "label": "Porter atteinte aux droits d’autrui en transgressant la loi",
+      "description": "Voler, frauder ou dégrader volontairement les biens d’autrui de façon répétée.",
       "examples": [],
       "safety": null,
       "overlap_group": "transgression",
@@ -2207,7 +2207,7 @@
         "Répondre « non, tout va bien » d'une voix posée après une remarque blessante"
       ],
       "safety": null,
-      "overlap_group": "retenue_emotionnelle",
+      "overlap_group": "colere_retenue",
       "group": "expression_emotions",
       "ace": false
     },
@@ -5338,7 +5338,7 @@
         "Manquer un rendez-vous pour consommer"
       ],
       "safety": null,
-      "overlap_group": "priorite_conso",
+      "overlap_group": "priorite_consommation",
       "group": "consommations_ecrans",
       "ace": false
     },
@@ -6032,6 +6032,36 @@
       "safety": null,
       "overlap_group": "usage_tabac",
       "group": "produits_utilises",
+      "ace": false
+    },
+    {
+      "id": "contexte_perinatal",
+      "label": "Avoir vécu une grossesse ou un accouchement",
+      "description": "Ce contexte concerne votre propre grossesse ou accouchement au cours de ces 12 derniers mois.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_perinatal",
+      "group": "humeur",
+      "ace": false
+    },
+    {
+      "id": "contexte_relation_adolescence",
+      "label": "Avoir vécu une relation amoureuse à l’adolescence",
+      "description": "Au cours de ces 12 derniers mois. Ce contexte ne signifie pas qu’il y a eu des violences.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_relation_adolescence",
+      "group": "sexualite_securite",
+      "ace": false
+    },
+    {
+      "id": "contexte_relation_adulte",
+      "label": "Avoir vécu une relation amoureuse à l’âge adulte",
+      "description": "Au cours de ces 12 derniers mois. Ce contexte ne signifie pas qu’il y a eu des violences.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "contexte_relation_adulte",
+      "group": "sexualite_securite",
       "ace": false
     }
   ],
@@ -7730,8 +7760,8 @@
     {
       "factor": "anx_emotions_rappel",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (élément partagé) ; CDDR p.345, manifestation explicitement décrite",
       "summary": "Revivre au présent les émotions d'un événement fait aussi partie de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -7990,8 +8020,8 @@
     {
       "factor": "anx_precautions_securite",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (élément partagé) ; CDDR p.345, manifestation explicitement décrite",
       "summary": "Ces précautions illustrent l'impression de menace présente aussi dans ce sujet.",
       "sources": [
         "oms_cddr"
@@ -8080,8 +8110,8 @@
     {
       "factor": "anx_se_reprocher_evenement",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (culpabilité liée à l'événement), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (culpabilité liée à l'événement) ; CDDR p.345, manifestation explicitement décrite",
       "summary": "La culpabilité liée à l'événement accompagne souvent la mauvaise image de soi dans ce sujet.",
       "sources": [
         "oms_cddr"
@@ -8181,7 +8211,7 @@
       "factor": "cauchemars_repetes",
       "outcome": "icd_6b41",
       "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+      "basis": "CDDR p.345 : signe associé, question générale sans vérification du contexte traumatique ou du stress",
       "summary": "Des cauchemars liés à l'événement font partie de la reviviscence de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -9035,8 +9065,8 @@
     {
       "factor": "cmp_douleurs_plusieurs_endroits",
       "outcome": "ten_douleurs_persistantes",
-      "strength": "critere",
-      "basis": "définition du repère (douleurs diffuses) ; Treede et al., 2019",
+      "strength": "moderee",
+      "basis": "Treede et al., 2019 : plusieurs localisations sont possibles, mais ne définissent pas la chronicité.",
       "summary": "Les douleurs diffuses font partie de ce que décrit ce repère.",
       "sources": [
         "treede2019_douleur"
@@ -9948,16 +9978,6 @@
     },
     {
       "factor": "cmp_sexe_sous_effet",
-      "outcome": "ten_risques_sexuels",
-      "strength": "critere",
-      "basis": "définition du repère (situations où l'on se met en danger) ; Bach et First, 2018 (imprudence)",
-      "summary": "Les rapports sous l'effet de produits exposent à des risques que décrit ce repère.",
-      "sources": [
-        "bach2018_personnalite"
-      ]
-    },
-    {
-      "factor": "cmp_sexe_sous_effet",
       "outcome": "ten_usage_substances",
       "strength": "moderee",
       "basis": "CDDR 6C40.0, usage dangereux",
@@ -10019,16 +10039,6 @@
       "sources": [
         "oms_cddr",
         "icd11_mms"
-      ]
-    },
-    {
-      "factor": "cmp_tabac_arret_echoue",
-      "outcome": "ten_tabagisme_persistant",
-      "strength": "critere",
-      "basis": "définition du repère (persistance du tabagisme) ; Taha et al., 2014",
-      "summary": "Ne pas réussir à arrêter est ce qui rend le tabagisme persistant.",
-      "sources": [
-        "taha2014_tabac"
       ]
     },
     {
@@ -10603,7 +10613,7 @@
       "factor": "culpabilite_excessive",
       "outcome": "icd_6b41",
       "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (culpabilité), poids abaissé par la limite de 12 et famille déjà couverte",
+      "basis": "CDDR p.345 : signe associé, question générale sans vérification du contexte traumatique ou du stress",
       "summary": "La culpabilité accompagne souvent la mauvaise image de soi dans ce sujet.",
       "sources": [
         "oms_cddr"
@@ -10753,7 +10763,7 @@
       "factor": "detachement_irrealite",
       "outcome": "icd_6b41",
       "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (dissociation sous stress), poids abaissé par la limite de 12",
+      "basis": "CDDR p.345 : signe associé, question générale sans vérification du contexte traumatique ou du stress",
       "summary": "Se sentir détaché quand le stress monte est une des difficultés de régulation de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -11031,8 +11041,8 @@
     {
       "factor": "difficultes_a_decider",
       "outcome": "dep_generale",
-      "strength": "moderee",
-      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (indécision) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (indécision) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "Une indécision marquée accompagne souvent la baisse de concentration de l'épisode dépressif.",
       "sources": [
         "oms_cddr"
@@ -11041,8 +11051,8 @@
     {
       "factor": "difficultes_a_decider",
       "outcome": "icd_6a72",
-      "strength": "moderee",
-      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (indécision) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (indécision) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "L'indécision peut accompagner une humeur basse durable.",
       "sources": [
         "oms_cddr"
@@ -13390,7 +13400,7 @@
       "factor": "per_corps_peu_ressenti",
       "outcome": "ten_dissociation",
       "strength": "critere",
-      "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
+      "basis": "Medford et al., 2005 : détachement émotionnel ou corporel dans la dépersonnalisation ; Wülfing et al., 2025 décrit la structure dimensionnelle, sans valider cette formulation précise.",
       "summary": "Se sentir coupé de son corps fait partie des expériences dissociatives.",
       "sources": [
         "wulfing2025",
@@ -13424,7 +13434,7 @@
       "factor": "per_emotions_eteintes",
       "outcome": "ten_dissociation",
       "strength": "critere",
-      "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
+      "basis": "Medford et al., 2005 : détachement émotionnel ou corporel dans la dépersonnalisation ; Wülfing et al., 2025 décrit la structure dimensionnelle, sans valider cette formulation précise.",
       "summary": "L'engourdissement des émotions est une forme courante de détachement.",
       "sources": [
         "wulfing2025",
@@ -13578,8 +13588,8 @@
       "factor": "per_fugue",
       "outcome": "ten_dissociation",
       "strength": "moderee",
-      "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
-      "summary": "C'est une forme intense de trou de mémoire dissociatif.",
+      "basis": "Wülfing et al., 2025, tableau 1 : voyage amnésique décrit dans le DES historique (item 03), exclu de leur solution finale ; rapprochement non spécifique.",
+      "summary": "Ce type de trou de mémoire peut accompagner une dissociation, mais a aussi d’autres causes.",
       "sources": [
         "wulfing2025"
       ]
@@ -13652,7 +13662,7 @@
       "factor": "per_oubli_evenement_important",
       "outcome": "ten_dissociation",
       "strength": "moderee",
-      "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
+      "basis": "Wülfing et al., 2025, tableau 1 : oubli autobiographique décrit dans le DES historique (item 09), exclu de leur solution finale ; rapprochement non spécifique.",
       "summary": "Un oubli de ce type peut être dissociatif, mais il a aussi d'autres causes.",
       "sources": [
         "wulfing2025"
@@ -14134,8 +14144,8 @@
     {
       "factor": "perte_interet_plaisir",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (incapacité à éprouver du plaisir), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (incapacité à éprouver du plaisir) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "La difficulté à ressentir du plaisir fait partie de l'engourdissement émotionnel de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -15356,16 +15366,6 @@
       ]
     },
     {
-      "factor": "rel_se_sentir_peu_libre",
-      "outcome": "ten_qualite_relationnelle",
-      "strength": "critere",
-      "basis": "définition de la tendance dans la cartographie, appuyée par dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
-      "summary": "Des liens vécus comme moins libres font partie de la définition de cette tendance.",
-      "sources": [
-        "labella2018_relations"
-      ]
-    },
-    {
       "factor": "rel_sentiment_de_vide",
       "outcome": "icd_6d11_5",
       "strength": "critere",
@@ -15602,8 +15602,8 @@
     {
       "factor": "reveils_nocturnes",
       "outcome": "dep_generale",
-      "strength": "moderee",
-      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (sommeil perturbé) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (sommeil perturbé) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "Les réveils fréquents ou trop matinaux sont une forme de sommeil perturbé de l'épisode dépressif.",
       "sources": [
         "oms_cddr"
@@ -15904,8 +15904,8 @@
     {
       "factor": "se_retirer_des_autres",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (éviter les relations), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (éviter les relations) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "Éviter les relations est une des formes des difficultés relationnelles de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -16436,11 +16436,11 @@
     {
       "factor": "soi_culpabilite_repos",
       "outcome": "ten_mode_parent_exigeant",
-      "strength": "critere",
-      "basis": "Lobbestael et al., 2010 (mode mesuré : pas de détente avant d'avoir tout fini)",
-      "summary": "Ne pas s'autoriser le repos tant que tout n'est pas fait est typique de ce mode.",
+      "strength": "moderee",
+      "basis": "Edwards, 2022 : la pression intérieure et les règles rigides définissent le mode exigeant. La culpabilité au repos est une manifestation indirecte, non un critère autonome vérifié dans la source.",
+      "summary": "La pression intérieure peut rendre le repos difficile ; ce ressenti seul ne définit pas ce mode.",
       "sources": [
-        "lobbestael2010_smi"
+        "edwards2022_modes"
       ]
     },
     {
@@ -16967,16 +16967,6 @@
       ]
     },
     {
-      "factor": "soi_se_sentir_redevable",
-      "outcome": "pat_guilt",
-      "strength": "critere",
-      "basis": "Définition du sujet (se sentir redevable au-delà de sa responsabilité) ; Tangney et al., 2007",
-      "summary": "Ce sentiment de dette persistant correspond à la définition du sujet.",
-      "sources": [
-        "tangney2007_honte_culpabilite"
-      ]
-    },
-    {
       "factor": "soi_se_sentir_superieur",
       "outcome": "sch_droits_excessifs",
       "strength": "critere",
@@ -17356,7 +17346,7 @@
       "outcome": "sym_6d50",
       "strength": "limitee",
       "basis": "CDDR 6D50 : les consultations seules ne vérifient pas une tromperie ; signe non spécifique",
-      "summary": "Se présenter comme malade et rechercher des soins sur cette base est requis.",
+      "summary": "Demander des soins est peu spécifique et ne permet pas de conclure à une tromperie.",
       "sources": [
         "oms_cddr"
       ]
@@ -17406,7 +17396,7 @@
       "outcome": "sym_6c44",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17416,7 +17406,7 @@
       "outcome": "sym_6c42",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17426,7 +17416,7 @@
       "outcome": "sym_6c47",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17436,7 +17426,7 @@
       "outcome": "sym_6c45",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17446,7 +17436,7 @@
       "outcome": "sym_6c49",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17456,7 +17446,7 @@
       "outcome": "sym_6c4d",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17466,7 +17456,7 @@
       "outcome": "sym_6c4c",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17476,7 +17466,7 @@
       "outcome": "sym_6c43",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17586,7 +17576,7 @@
       "outcome": "sym_6c4b",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -17596,7 +17586,7 @@
       "outcome": "sym_6c46",
       "strength": "limitee",
       "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-      "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+      "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
       "sources": [
         "oms_cddr"
       ]
@@ -19576,6 +19566,21 @@
     ],
     "ten_tabagisme_persistant": [
       "usage_tabac"
+    ],
+    "ten_symptomes_depressifs_perinataux": [
+      "contexte_perinatal"
+    ],
+    "ten_violences_amoureuses_jeunes": [
+      "contexte_relation_adolescence"
+    ],
+    "ten_violences_couple": [
+      "contexte_relation_adulte"
+    ],
+    "ten_automutilations_non_suicidaires": [
+      "cmp_se_blesser_sans_vouloir_mourir"
+    ],
+    "ten_procrastination": [
+      "cmp_repousser_malgre_le_cout"
     ]
   },
   "ranking": {
@@ -19589,10 +19594,10 @@
     "explanation": "Part des signes caractéristiques présents, prudente quand un sujet a peu de signes"
   },
   "coverage": {
-    "raw_symptoms": 547,
-    "factors": 513,
+    "raw_symptoms": 550,
+    "factors": 516,
     "outcomes": 157,
-    "links": 1124,
+    "links": 1120,
     "merged": 34,
     "questions_by_theme": {
       "alimentation_apparence": 25,
@@ -19604,7 +19609,7 @@
       "emotions_colere": 25,
       "exigences_culpabilite": 26,
       "expression_emotions": 13,
-      "humeur": 25,
+      "humeur": 26,
       "image_soi": 29,
       "impulsions_gestes": 16,
       "inquietudes_peurs": 30,
@@ -19619,7 +19624,7 @@
       "produits_utilises": 13,
       "sante_sensations": 18,
       "securite_relations": 7,
-      "sexualite_securite": 26,
+      "sexualite_securite": 28,
       "sommeil": 16,
       "souvenirs_alerte": 27,
       "travail_etudes_argent": 20

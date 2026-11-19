@@ -711,8 +711,8 @@
         },
         {
           "outcome": "icd_6b41",
-          "strength": "moderee",
-          "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+          "strength": "critere",
+          "basis": "CDDR 6B41, caractéristique essentielle (élément partagé) ; CDDR p.345, manifestation explicitement décrite",
           "summary": "Ces précautions illustrent l'impression de menace présente aussi dans ce sujet.",
           "sources": [
             "oms_cddr"
@@ -752,8 +752,8 @@
         },
         {
           "outcome": "icd_6b41",
-          "strength": "moderee",
-          "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+          "strength": "critere",
+          "basis": "CDDR 6B41, caractéristique essentielle (élément partagé) ; CDDR p.345, manifestation explicitement décrite",
           "summary": "Revivre au présent les émotions d'un événement fait aussi partie de ce sujet.",
           "sources": [
             "oms_cddr"
@@ -895,8 +895,8 @@
       "links": [
         {
           "outcome": "icd_6b41",
-          "strength": "moderee",
-          "basis": "CDDR 6B41, caractéristique essentielle (culpabilité liée à l'événement), poids abaissé par la limite de 12",
+          "strength": "critere",
+          "basis": "CDDR 6B41, caractéristique essentielle (culpabilité liée à l'événement) ; CDDR p.345, manifestation explicitement décrite",
           "summary": "La culpabilité liée à l'événement accompagne souvent la mauvaise image de soi dans ce sujet.",
           "sources": [
             "oms_cddr"
@@ -1588,7 +1588,7 @@
       "symptom": "cauchemars_repetes",
       "outcome": "icd_6b41",
       "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+      "basis": "CDDR p.345 : signe associé, question générale sans vérification du contexte traumatique ou du stress",
       "summary": "Des cauchemars liés à l'événement font partie de la reviviscence de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -1598,7 +1598,7 @@
       "symptom": "detachement_irrealite",
       "outcome": "icd_6b41",
       "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (dissociation sous stress), poids abaissé par la limite de 12",
+      "basis": "CDDR p.345 : signe associé, question générale sans vérification du contexte traumatique ou du stress",
       "summary": "Se sentir détaché quand le stress monte est une des difficultés de régulation de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -1608,7 +1608,7 @@
       "symptom": "culpabilite_excessive",
       "outcome": "icd_6b41",
       "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (culpabilité), poids abaissé par la limite de 12 et famille déjà couverte",
+      "basis": "CDDR p.345 : signe associé, question générale sans vérification du contexte traumatique ou du stress",
       "summary": "La culpabilité accompagne souvent la mauvaise image de soi dans ce sujet.",
       "sources": [
         "oms_cddr"
@@ -1617,8 +1617,8 @@
     {
       "symptom": "se_retirer_des_autres",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (éviter les relations), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (éviter les relations) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "Éviter les relations est une des formes des difficultés relationnelles de ce sujet.",
       "sources": [
         "oms_cddr"
@@ -1627,8 +1627,8 @@
     {
       "symptom": "perte_interet_plaisir",
       "outcome": "icd_6b41",
-      "strength": "moderee",
-      "basis": "CDDR 6B41, caractéristique essentielle (incapacité à éprouver du plaisir), poids abaissé par la limite de 12",
+      "strength": "critere",
+      "basis": "CDDR 6B41, caractéristique essentielle (incapacité à éprouver du plaisir) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "La difficulté à ressentir du plaisir fait partie de l'engourdissement émotionnel de ce sujet.",
       "sources": [
         "oms_cddr"

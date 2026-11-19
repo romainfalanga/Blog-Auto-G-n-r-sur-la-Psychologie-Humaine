@@ -254,7 +254,7 @@
     "Être irritable et mal dormir sans cannabis"
    ],
    "safety": null,
-   "overlap_group": "dependance_physique",
+   "overlap_group": "adaptation_physiologique_produit",
    "links": [
     {
      "outcome": "icd_6c40_2",
@@ -308,7 +308,7 @@
     "Ne plus rien sentir après deux verres"
    ],
    "safety": null,
-   "overlap_group": "dependance_physique",
+   "overlap_group": "adaptation_physiologique_produit",
    "links": [
     {
      "outcome": "icd_6c40_2",
@@ -593,15 +593,6 @@
    "safety": null,
    "overlap_group": "tabac_arret",
    "links": [
-    {
-     "outcome": "ten_tabagisme_persistant",
-     "strength": "critere",
-     "basis": "définition du repère (persistance du tabagisme) ; Taha et al., 2014",
-     "summary": "Ne pas réussir à arrêter est ce qui rend le tabagisme persistant.",
-     "sources": [
-      "taha2014_tabac"
-     ]
-    },
     {
      "outcome": "ten_usage_substances",
      "strength": "moderee",
@@ -918,15 +909,6 @@
    "safety": null,
    "overlap_group": "sexe_substances",
    "links": [
-    {
-     "outcome": "ten_risques_sexuels",
-     "strength": "critere",
-     "basis": "définition du repère (situations où l'on se met en danger) ; Bach et First, 2018 (imprudence)",
-     "summary": "Les rapports sous l'effet de produits exposent à des risques que décrit ce repère.",
-     "sources": [
-      "bach2018_personnalite"
-     ]
-    },
     {
      "outcome": "ten_usage_substances",
      "strength": "moderee",
@@ -1554,8 +1536,8 @@
    "links": [
     {
      "outcome": "ten_douleurs_persistantes",
-     "strength": "critere",
-     "basis": "définition du repère (douleurs diffuses) ; Treede et al., 2019",
+     "strength": "moderee",
+     "basis": "Treede et al., 2019 : plusieurs localisations sont possibles, mais ne définissent pas la chronicité.",
      "summary": "Les douleurs diffuses font partie de ce que décrit ce repère.",
      "sources": [
       "treede2019_douleur"
@@ -2167,8 +2149,8 @@
    "id": "cmp_enfreindre_la_loi",
    "canonical": false,
    "theme": "place_relations",
-   "label": "Faire des choses interdites par la loi",
-   "description": "Voler, frauder, dégrader ou commettre d'autres actes illégaux, de façon répétée.",
+   "label": "Porter atteinte aux droits d’autrui en transgressant la loi",
+   "description": "Voler, frauder ou dégrader volontairement les biens d’autrui de façon répétée.",
    "examples": [],
    "safety": null,
    "overlap_group": "transgression",

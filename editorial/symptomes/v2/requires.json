@@ -38,7 +38,22 @@
     ],
     "ten_tabagisme_persistant": [
       "usage_tabac"
+    ],
+    "ten_symptomes_depressifs_perinataux": [
+      "contexte_perinatal"
+    ],
+    "ten_violences_amoureuses_jeunes": [
+      "contexte_relation_adolescence"
+    ],
+    "ten_violences_couple": [
+      "contexte_relation_adulte"
+    ],
+    "ten_automutilations_non_suicidaires": [
+      "cmp_se_blesser_sans_vouloir_mourir"
+    ],
+    "ten_procrastination": [
+      "cmp_repousser_malgre_le_cout"
     ]
   },
-  "note": "Toutes les questions listées doivent être Oui ; un symptôme commun de dépendance ne suffit jamais à identifier le produit."
+  "note": "Toutes les questions listées doivent être Oui ; ni un produit, ni un contexte de vie, ni une absence d’intention suicidaire ne sont déduits de signes non spécifiques."
 }

@@ -827,8 +827,8 @@
     {
       "symptom": "reveils_nocturnes",
       "outcome": "dep_generale",
-      "strength": "moderee",
-      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (sommeil perturbé) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (sommeil perturbé) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "Les réveils fréquents ou trop matinaux sont une forme de sommeil perturbé de l'épisode dépressif.",
       "sources": [
         "oms_cddr"
@@ -837,8 +837,8 @@
     {
       "symptom": "difficultes_a_decider",
       "outcome": "dep_generale",
-      "strength": "moderee",
-      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (indécision) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "strength": "critere",
+      "basis": "CDDR, épisode dépressif (6A70–6A71), caractéristique essentielle (indécision) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "Une indécision marquée accompagne souvent la baisse de concentration de l'épisode dépressif.",
       "sources": [
         "oms_cddr"
@@ -997,8 +997,8 @@
     {
       "symptom": "difficultes_a_decider",
       "outcome": "icd_6a72",
-      "strength": "moderee",
-      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (indécision) ; descendu en modérée, plafond de 12 liens critere atteint",
+      "strength": "critere",
+      "basis": "CDDR 6A72, caractéristique essentielle (symptôme associé à l'humeur dépressive) (indécision) ; poids conforme à la description source, sans plafond éditorial",
       "summary": "L'indécision peut accompagner une humeur basse durable.",
       "sources": [
         "oms_cddr"

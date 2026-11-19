@@ -1972,7 +1972,7 @@
         "Manquer un rendez-vous pour consommer"
       ],
       "safety": null,
-      "overlap_group": "priorite_conso",
+      "overlap_group": "priorite_consommation",
       "links": [
         {
           "outcome": "sym_6c42",
@@ -2074,7 +2074,7 @@
       "description": "Garder ou augmenter une consommation alors qu'elle cause disputes, ennuis au travail ou soucis de santé.",
       "examples": [],
       "safety": null,
-      "overlap_group": "malgre_consequences_conso",
+      "overlap_group": "priorite_consommation",
       "links": [
         {
           "outcome": "sym_6c42",
@@ -2176,7 +2176,7 @@
       "description": "Devoir prendre davantage d'un produit qu'au début pour ressentir le même effet.",
       "examples": [],
       "safety": null,
-      "overlap_group": "tolerance",
+      "overlap_group": "adaptation_physiologique_produit",
       "links": [
         {
           "outcome": "sym_6c42",
@@ -2278,7 +2278,7 @@
       "description": "Tremblements, sueurs, angoisse, insomnie ou douleurs à l'arrêt, et reprise du produit pour les calmer.",
       "examples": [],
       "safety": null,
-      "overlap_group": "sevrage",
+      "overlap_group": "adaptation_physiologique_produit",
       "links": [
         {
           "outcome": "sym_6c42",
@@ -2368,7 +2368,7 @@
           "outcome": "sym_6c42",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2389,7 +2389,7 @@
           "outcome": "sym_6c43",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2410,7 +2410,7 @@
           "outcome": "sym_6c44",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2431,7 +2431,7 @@
           "outcome": "sym_6c45",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2452,7 +2452,7 @@
           "outcome": "sym_6c46",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2473,7 +2473,7 @@
           "outcome": "sym_6c47",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2494,7 +2494,7 @@
           "outcome": "sym_6c49",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2515,7 +2515,7 @@
           "outcome": "sym_6c4b",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2536,7 +2536,7 @@
           "outcome": "sym_6c4c",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -2557,7 +2557,7 @@
           "outcome": "sym_6c4d",
           "strength": "limitee",
           "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
-          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "summary": "L'usage indique le produit concerné ; il ne constitue pas à lui seul un signe de dépendance.",
           "sources": [
             "oms_cddr"
           ]
@@ -3294,7 +3294,7 @@
           "outcome": "sym_6d50",
           "strength": "limitee",
           "basis": "CDDR 6D50 : les consultations seules ne vérifient pas une tromperie ; signe non spécifique",
-          "summary": "Se présenter comme malade et rechercher des soins sur cette base est requis.",
+          "summary": "Demander des soins est peu spécifique et ne permet pas de conclure à une tromperie.",
           "sources": [
             "oms_cddr"
           ]

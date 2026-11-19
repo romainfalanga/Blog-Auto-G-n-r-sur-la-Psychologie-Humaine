@@ -187,7 +187,7 @@
     "Répondre « non, tout va bien » d'une voix posée après une remarque blessante"
    ],
    "safety": null,
-   "overlap_group": "retenue_emotionnelle",
+   "overlap_group": "colere_retenue",
    "links": [
     {
      "outcome": "ten_colere",
