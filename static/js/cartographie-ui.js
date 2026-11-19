@@ -327,10 +327,14 @@
       noteDialog.style.setProperty('--note-viewport-height', (viewport ? viewport.height : window.innerHeight) + 'px');
       noteDialog.style.setProperty('--note-viewport-top', (viewport ? viewport.offsetTop : 0) + 'px');
     }
-    function openNote(kind, id, label, placeholder, fieldLabel) {
+    function openNote(kind, id, label, placeholder, fieldLabel, pendingAnswer) {
       noteDraft = { kind: kind, id: id, key: 'note:' + kind + ':' + id, fallback: kind === 'factors' ? 'theme:' + factors[id].group : 'outcome:' + id, initial: state.notes[kind][id] || '' };
+      noteDraft.pendingAnswer = pendingAnswer;
+      noteArea.required = symptoms && kind === 'factors' && (pendingAnswer === 'past' || state.answers[id] === 'past');
+      noteArea.setCustomValidity('');
+      if (pendingAnswer === 'past') noteDraft.key = 'answer:' + id + ':past';
       noteDialog.querySelector('[data-note-title]').textContent = (kind === 'factors' ? factors[id] : outcomes[id]).label;
-      noteDialog.querySelector('label').textContent = fieldLabel || label;
+      noteDialog.querySelector('label').textContent = noteArea.required ? 'Dans le passé : avant ces 12 derniers mois. Précision obligatoire.' : fieldLabel || label;
       noteArea.value = noteDraft.initial;
       noteArea.placeholder = placeholder;
       updateNoteCount(); sizeNoteDialog();
@@ -346,7 +350,7 @@
     function updateNoteCount() {
       noteDialog.querySelector('[data-note-count]').textContent = noteArea.value.length + ' / ' + NOTE_MAX + ' caractères';
     }
-    noteArea.addEventListener('input', updateNoteCount);
+    noteArea.addEventListener('input', function () { noteArea.setCustomValidity(''); updateNoteCount(); });
     noteDialog.querySelector('[data-note-cancel]').addEventListener('click', closeNote);
     noteDialog.addEventListener('cancel', function (event) { event.preventDefault(); closeNote(); });
     noteDialog.addEventListener('keydown', function (event) {
@@ -365,10 +369,12 @@
     noteDialog.querySelector('form').addEventListener('submit', function (event) {
       event.preventDefault();
       if (!noteDraft) return;
-      if (noteArea.value === noteDraft.initial) { closeNote(); return; }
+      if (noteArea.required && !noteArea.value.trim()) { noteArea.setCustomValidity('Précisez ce qui s’est passé avant ces 12 derniers mois.'); noteArea.reportValidity(); return; }
+      if (noteArea.value === noteDraft.initial && noteDraft.pendingAnswer === undefined) { closeNote(); return; }
       var value = noteArea.value.slice(0, NOTE_MAX), store = state.notes[noteDraft.kind];
       if (!value.trim()) value = '';
-      if (value !== noteDraft.initial) {
+      if (value !== noteDraft.initial || noteDraft.pendingAnswer !== undefined) {
+        if (noteDraft.pendingAnswer !== undefined) state.answers[noteDraft.id] = noteDraft.pendingAnswer;
         if (value) store[noteDraft.id] = value; else delete store[noteDraft.id];
         changed(); renderAll();
       }
@@ -387,6 +393,7 @@
       return el('button', { type: 'button', className: 'carto-choice' + (on ? ' is-on' : ''), 'data-level': String(level), 'aria-pressed': on ? 'true' : 'false', onclick: function () { onPick(level); } }, [label]);
     }
     function setAnswer(f, level) {
+      if (symptoms && level === 'past') { openNote('factors', f.id, 'Préciser ce qui s’est passé', 'Quand cela se produisait, ce que vous viviez, ce qui a changé…', 'Dans le passé : avant ces 12 derniers mois. Précision obligatoire.', 'past'); return; }
       if (state.answers[f.id] === level) return;
       state.answers[f.id] = level;
       if (level === 1 || level === 2) (data.exclusive || []).forEach(function (pair) {
@@ -403,7 +410,7 @@
         var safety = row.querySelector('[data-safety]'); if (safety) safety.hidden = value !== 1;
         row.querySelectorAll('[data-level]').forEach(function (button) {
           var level = button.getAttribute('data-level');
-          var selected = value === (level === 'unknown' ? 'unknown' : Number(level)) || value === 2 && level === '1';
+          var selected = value === (level === 'unknown' || level === 'past' ? level : Number(level)) || value === 2 && level === '1';
           button.classList.toggle('is-on', selected); button.setAttribute('aria-pressed', selected ? 'true' : 'false');
         });
       });
@@ -414,7 +421,6 @@
       updateCounts();
     }
     function renderForm() {
-      if (symptoms && state.initialized && !state.resumed) { state.resumed = true; var first = themes.find(function (t) { return answered(t) < themeItems(t).length; }); if (first) state.themesOpen[first.id] = true; }
       formBody.innerHTML = '';
       var list = el('div', { className: 'carto-themes' });
       themes.forEach(function (theme) {
@@ -453,7 +459,8 @@
       } else {
         var choices = [choice(value, 0, 'Non', function (l) { setAnswer(f, l); }), choice(value, 1, 'Oui', function (l) { setAnswer(f, l); })];
         choices.push(choice(value, 'unknown', 'Je ne sais pas', function (l) { setAnswer(f, l); }));
-        controls = el('div', { className: 'carto-choices', role: 'group', 'aria-label': f.label }, choices);
+        if (symptoms) choices.push(choice(value, 'past', 'Dans le passé', function (l) { setAnswer(f, l); }));
+        controls = el('div', { className: 'carto-choices' + (symptoms ? ' carto-choices-history' : ''), role: 'group', 'aria-label': f.label }, choices);
       }
       var note = noteField('factors', f.id, 'Ajouter une précision', symptoms ? 'Quand cela arrive, depuis combien de temps, ce que vous remarquez…' : 'Ce dont vous vous souvenez, votre âge, les personnes concernées, ce que vous ressentiez…', 'Votre précision');
       return el('li', { 'data-factor': f.id, className: 'carto-factor-row' + (value === 1 || value === 2 ? ' is-checked' : '') }, [

@@ -88,3 +88,10 @@ test('review notes stay within their own allowance and are eligible exact user q
  assert.match(reviewCorpus({symptom_map:block}),/Je me sens tendu avant chaque réunion importante/);
  assert.doesNotMatch(reviewCorpus({symptom_map:block}),/Hypothèses, jamais diagnostics/);
 });
+test('past answers and notes reach Ambre as history, never current positive signs or questionnaire safety',()=>{
+ const f=data.factors.find(f=>f.safety),row={answers:{[f.id]:'past'},notes:{factors:{[f.id]:'Cela se produisait il y a plusieurs années.'}},safety_at:now-10,version:1,updated_at:now};
+ const view=symptomMapView(row),a=view.themes.flatMap(t=>t.answers).find(a=>a.id===f.id);
+ assert.equal(a.answer,'Dans le passé');assert.equal(a.historical,true);assert.equal(a.period,'avant ces 12 derniers mois');assert.equal(view.subjects.length,0);assert.equal(mapSafetyState(row,now),null);
+ const block=symptomMapBlock(view);assert.match(block,/Dans le passé \(avant ces 12 derniers mois\)/);const entries=symptomMapIndexEntries(view);assert.match(entries.map(e=>JSON.stringify(e)).join('\n'),/Cela se produisait il y a plusieurs années/);
+ assert.match(MAP_HYPOTHESIS_RULES,/ne les compte pas comme Oui récent/);
+});
