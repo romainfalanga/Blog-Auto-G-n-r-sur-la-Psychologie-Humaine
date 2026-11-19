@@ -828,8 +828,7 @@ function drawSourceItem(kind,item,box){
   // The directory stays short: the details and the timeline live on the person page.
   var open=el('a','person-open',item.display_name);open.href=pagePath('person',item.id);title.append(open);var head=el('div','person-head');head.append(title,el('span','source-tag',personRoleLabel(item)));content.append(head);
   if(item.relationship_text)content.append(el('p','source-note person-line',item.relationship_text));
-  var initial=el('span','person-initial',(Array.from(String(item.display_name||'').trim())[0]||'·').toLocaleUpperCase('fr'));initial.setAttribute('aria-hidden','true');
-  article.append(initial,content);return article
+  article.append(content);return article
  }
  var eventKind=EVENT_KINDS.find(function(entry){return entry[0]===item.kind});
  var when=eventDateInYear(item);if(when)meta.append(el('span','event-date',when),document.createTextNode(' · '));

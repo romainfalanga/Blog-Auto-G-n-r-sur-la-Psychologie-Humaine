@@ -4,20 +4,20 @@
     "href": "/mon-accompagnement/"
   },
   {
-    "label": "Mon enfance",
-    "href": "/cartographie/"
-  },
-  {
-    "label": "Mes symptômes",
-    "href": "/mes-symptomes/"
+    "label": "Ma ligne de vie",
+    "href": "/ma-ligne-de-vie/"
   },
   {
     "label": "Mes proches",
     "href": "/mes-proches/"
   },
   {
-    "label": "Ma ligne de vie",
-    "href": "/ma-ligne-de-vie/"
+    "label": "Mon enfance",
+    "href": "/cartographie/"
+  },
+  {
+    "label": "Mes symptômes",
+    "href": "/mes-symptomes/"
   },
   {
     "label": "Mes bilans",

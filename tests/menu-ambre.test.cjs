@@ -9,7 +9,7 @@ const read = path => readFileSync(join(root, path), 'utf8');
 test('Ambre opens the shared menu and leads to the conversation page', async () => {
   const navigation = JSON.parse(read('data/navigation.json'));
   assert.deepEqual(navigation[0], { label: 'Ambre', href: '/mon-accompagnement/' });
-  assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Mon enfance', 'Mes symptômes', 'Mes proches', 'Ma ligne de vie', 'Mes bilans', 'Mes diagnostics', 'Mon compte']);
+  assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Ma ligne de vie', 'Mes proches', 'Mon enfance', 'Mes symptômes', 'Mes bilans', 'Mes diagnostics', 'Mon compte']);
   // The Worker menu is generated from the same file as the Hugo header.
   const generated = await import('../journal/src/navigation.generated.mjs');
   const links = [...generated.NAVIGATION_HTML.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match => ({ label: match[2], href: match[1] }));
