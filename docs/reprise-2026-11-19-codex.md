@@ -1,5 +1,8 @@
 # Reprise du 19 novembre 2026 (passage à Codex)
 
+> **Dernier complément publié : PR 108**, les 516 réponses de Mes symptômes sont désormais obligatoires pour Ambre, avec annonce publique et compteur. Voir [la livraison du prérequis](ambre-prerequis-symptomes-2026-11-19.md).
+
+
 > **Dernière livraison : PR 107**, symptômes passés, archives des bilans, Mes diagnostics et suivi psychologue ; migrations jusqu’à 0032. Lire [le compte rendu](livraison-bilans-historiques-2026-11-19.md). Code publié et recette fonctionnelle validée ; OpenRouter rétabli après recharge, mais recette réelle non validée (voir [le dernier test](recette-openrouter-recharge-2026-11-19.md)).
 
 
