@@ -464,7 +464,7 @@
         el('div', { className: 'carto-factor-links' }, [note.tagName === 'BUTTON' ? note : null,
           nLinks ? el('button', { type: 'button', className: 'carto-see', 'aria-label': 'Voir les ' + nLinks + ' associations étudiées : ' + f.label, onclick: function () { openFactor(f); } }, ['Liens étudiés (' + nLinks + ')']) : null
         ]),
-        nLinks ? null : el('p', { className: 'carto-no-link', text: f.association_status === 'unreviewed' ? 'Votre réponse peut préciser le contexte pour Ambre. Aucun rapprochement scientifique n’est proposé pour cette nouvelle question.' : 'Aucune association suffisamment documentée n’est retenue pour l’instant.' }),
+        nLinks ? null : el('p', { className: 'carto-no-link', text: symptoms && Object.values(data.requires || {}).some(function (ids) { return ids.includes(f.id); }) ? 'Ce repère aide à interpréter vos autres réponses.' : f.association_status === 'unreviewed' ? 'Votre réponse peut préciser le contexte pour Ambre. Aucun rapprochement scientifique n’est proposé pour cette nouvelle question.' : 'Aucune association suffisamment documentée n’est retenue pour l’instant.' }),
         note.tagName === 'BUTTON' ? null : note,
         ambreNotes('factor', f.id)
       ]);
