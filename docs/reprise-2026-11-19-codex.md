@@ -32,3 +32,6 @@ Voir `docs/plan-mes-symptomes-v2-2026-11-19.md` § 0 et la section « Version 2.
 - Catégories laissées de côté dans la banque : paraphilies, transe, démences/delirium, troubles surtout de l'enfance.
 - Avertissement dans Mon compte pour une date de naissance de mineur ? Lien vers `/personnages/` (supprimé du pied de page) ?
 - Relecture par un psychologue humain avant diffusion large.
+
+## À corriger en premier (CI)
+La PR 104 a été fusionnée avec un échec CI sur `journal/tests/v4-R-retention.test.mjs` (F1) : en CI, traces compactées 8 535 000 octets pour un plafond de 2 × 4 002 000. En local, la branche ET `origin/main` donnent la même valeur, 7,94 Mo (marge de 0,06 Mo) : la marge est trop juste et dépend de l'environnement (la PR 103 était verte une heure plus tôt). Trouver ce qui varie dans la trace compactée (`COMPACT_TRACE_SQL`, `journal/src/ambre-engine.mjs`) et réduire réellement sa taille ; ne pas relâcher ni désactiver le test.
