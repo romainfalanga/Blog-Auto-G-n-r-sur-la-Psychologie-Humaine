@@ -1,3 +1,4 @@
+// Mandatory symptom maps use the existing v2 allocation: writing +40%, reviews +20%, turn 42000.
 // Lot A5-P0 (plan v5.1, audit v5 defects A, B, C, D, E, G): what reaches Ambre on the real
 // engine, on the filled profile of the audit, with a simulated provider.
 import test from 'node:test';
@@ -77,7 +78,7 @@ test('legacy before 0031 E: the initial analysis reads every rubric, the whole s
  const {user,data}=await replayReview('initial',{legacy:true});
  for(const marker of ['PRES_FIN','PERC_FIN','SCHEM_FIN','EMO_FIN','CTX_FIN','AXE_','ETAT_ACTUEL','EVOLUTION_','DESC_FIN_ev5','SENS_ev5'])assert.ok(user.includes(marker),marker);
  assert.equal(data.sources.filter(x=>x.type==='person').length,6);assert.equal(data.sources.filter(x=>x.type==='event').length,12);
- assert.ok(JSON.stringify(data).length<=34000);assert.ok(JSON.stringify(data.childhood_cartography).length<=10000,'map halved (20 261 characters before)');
+ assert.ok(JSON.stringify(data).length<=40000);assert.ok(JSON.stringify(data.childhood_cartography).length<=10000,'map halved (20 261 characters before)');
  assert.equal(data.events.find(e=>e.id==='ev5').age_at_event,32);assert.deepEqual(data.events.find(e=>e.id==='ev1').people,['Marc','Sophie']);
 });
 
@@ -89,7 +90,7 @@ test('legacy before 0031 E: a point keeps at least 6 people and 8 moments with t
  const kept=data.sources.filter(x=>x.type==='event').map(x=>x.id),importance=Object.fromEntries(data.events.map(e=>[e.id,e.current_importance]));
  const keptSet=new Set(kept.map(id=>id.slice(6))),omitted=data.events.filter(e=>!keptSet.has(e.id)).map(e=>e.current_importance||0),minKept=Math.min(...kept.map(id=>importance[id.slice(6)]||0));
  assert.ok(omitted.every(v=>v<=minKept),'omitted moments are never more important today than the moments kept');
- assert.ok(JSON.stringify(data).length<=34000);assert.equal(data.coverage.included,data.sources.length);
+ assert.ok(JSON.stringify(data).length<=40000);assert.equal(data.coverage.included,data.sources.length);
 });
 
 test('welcome message follows the count-based public order',async()=>{

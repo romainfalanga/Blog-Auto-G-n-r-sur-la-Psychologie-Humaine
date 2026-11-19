@@ -1,3 +1,4 @@
+import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import {readReviewSnapshot} from '../src/review-snapshot.mjs';
 // Lot A5-P0 harness: the filled profile of the v5 audit (docs/audit-sources-bilans-ambre-v5-2026-11-19.md),
 // with start and end markers in every field, replayed on the real engine with a simulated provider.
@@ -91,7 +92,7 @@ export async function replayTurn(message,{strategy='ideal',choose=null,digests=f
 export const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
 const bodyTokens=body=>{const system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text;return Math.ceil((system.length+body.messages[1].content.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3)};
 export async function replayReview(kind,{digests=false,write=null,extend=null,legacy=false}={}){
- const s=setup(legacy?{until:'0031'}:{});if(kind==='point')await s.ready();seedProfile(s);
+ const s=setup(legacy?{until:'0031'}:{});if(kind==='point')await s.ready();seedCompanionPrerequisites(s.raw);seedProfile(s);
  if(kind==='point'){seedReviews(s,'a',{digests});seedMemoryAndHistory(s)}
  if(extend)await extend(s);
  const calls=[],original=globalThis.fetch;

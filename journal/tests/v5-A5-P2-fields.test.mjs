@@ -45,7 +45,10 @@ test('A5-P2: choices and limits reject invalid values; empty and omitted values 
 });
 
 test('A5-P2: old schema remains usable and filled new fields are never silently lost',async()=>{
- const s=setup({until:'0024'});assert.equal(await contextFieldsReady(s.env),false);
+ const s=setup({until:'0024'});
+ // Required symptom storage is independent of the optional person/moment fields under test.
+ s.raw.exec(readFileSync(new URL('../migrations/0029_symptom_maps.sql',import.meta.url),'utf8'));
+ assert.equal(await contextFieldsReady(s.env),false);
  assert.equal((await s.call('/api/people')).fields_ready,false);
  const p=await s.call('/api/people','POST',{creation_id:'old-person-0001',display_name:'Alex',helps:''});assert.equal(p.status,201,JSON.stringify(p));
  assert.equal((await s.call('/api/people/'+p.person.id,'PATCH',{revision:1,helps:'Un appui'})).code,'feature_unavailable');

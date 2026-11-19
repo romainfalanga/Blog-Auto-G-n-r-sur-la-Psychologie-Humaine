@@ -16,7 +16,8 @@ const migrations=readdirSync(new URL('../migrations/',import.meta.url)).filter(n
 // Existing digest/check/thread assertions retain the pre-0031 bounded-context contract.
 function setup({before='0031'}={}){
  const raw=new DatabaseSync(':memory:');raw.exec('PRAGMA foreign_keys=ON');
- for(const name of migrations.filter(n=>!before||n<before||n.startsWith('0026_')))raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
+ // Keep required symptoms storage while independently withholding the optional digest migration.
+ for(const name of migrations.filter(n=>!before||n<before||n.startsWith('0026_')||n.startsWith('0029_')))raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));
  const prepare=sql=>{let args=[];return {bind(...a){args=a;return this},async first(){return raw.prepare(sql).get(...args)||null},async all(){return {results:raw.prepare(sql).all(...args)}},async run(){return {meta:{changes:raw.prepare(sql).run(...args).changes}}}}};
  let queue=Promise.resolve();
  const DB={raw,prepare,batch(statements){const next=queue.then(async()=>{raw.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());raw.exec('COMMIT');return r}catch(e){raw.exec('ROLLBACK');throw e}});queue=next.catch(()=>{});return next}};

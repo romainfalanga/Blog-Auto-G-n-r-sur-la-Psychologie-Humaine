@@ -1,3 +1,4 @@
+// Mandatory symptom maps use the existing v2 allocation: writing +40%, reviews +20%, turn 42000.
 import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
@@ -244,8 +245,8 @@ test('current source inventory paginates owner data and exposes bounded excerpts
  for(let i=0;i<105;i++)s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,kind) VALUES(?,'a',?,'hash',?,?,'other')").run('ev'+i,'ev'+i,'Événement '+i,'Récit personnel '+i);
  s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,description,kind) VALUES('other-event','b','other-event','hash','OTHER_USER_SECRET','Autre personne','other')").run();
  s.raw.prepare("INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES('a','article-test','Un récit aimé.','Des différences.')").run();
- const first=await s.call('/api/chat/insight');assert.equal(first.current.sources.items.length,100);assert.equal(first.current.sources.next_offset,100);assert.equal(first.knowledge.next_offset,100);const second=await s.call('/api/chat/insight?offset=100');assert.equal(second.current.sources.items.length,73);assert.equal(second.current.sources.next_offset,null);const profile=second.current.sources.items.find(x=>x.kind==='profile');assert.equal(profile.content.length,6000);assert.equal(profile.truncated,true);assert.ok(profile.original_chars>6000);assert.equal(profile.api_path,'/api/self-profile');assert.equal(second.current.self_profile.self_description,long);
- assert.doesNotMatch(JSON.stringify([first,second]),/OTHER_USER_SECRET/);assert.equal(first.current.stored_elsewhere.find(x=>x.key==='likes').usage,'not_sent_to_chat');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='accepted_memory').api_path,'/api/memory');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='older_history').edit_path,'/mon-accompagnement/');assert.equal(first.current.usage_policy.details_max_chars,5600);assert.equal(first.current.usage_policy.last_review_max_chars,900);
+ const first=await s.call('/api/chat/insight');assert.equal(first.current.sources.items.length,100);assert.equal(first.current.sources.next_offset,100);assert.equal(first.knowledge.next_offset,100);const pages=[first];while(pages.at(-1).current.sources.next_offset!==null){const offset=pages.at(-1).current.sources.next_offset;const page=await s.call('/api/chat/insight?offset='+offset);assert.ok(page.current.sources.items.length<=100);assert.ok(page.current.sources.next_offset===null||page.current.sources.next_offset>offset);pages.push(page);}const items=pages.flatMap(page=>page.current.sources.items);assert.equal(new Set(items.map(item=>item.id)).size,items.length,'pagination never repeats a source');const second=pages.at(-1);const profile=items.find(x=>x.kind==='profile');assert.equal(profile.content.length,6000);assert.equal(profile.truncated,true);assert.ok(profile.original_chars>6000);assert.equal(profile.api_path,'/api/self-profile');assert.equal(second.current.self_profile.self_description,long);
+ assert.doesNotMatch(JSON.stringify(pages),/OTHER_USER_SECRET/);assert.equal(first.current.stored_elsewhere.find(x=>x.key==='likes').usage,'not_sent_to_chat');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='accepted_memory').api_path,'/api/memory');assert.equal(first.current.stored_elsewhere.find(x=>x.key==='older_history').edit_path,'/mon-accompagnement/');assert.equal(first.current.usage_policy.details_max_chars,5600);assert.equal(first.current.usage_policy.last_review_max_chars,900);
 });
 
 test('legacy traces remain explicitly unavailable and turn summaries are paginated without private snapshots',async()=>{
@@ -395,11 +396,11 @@ test('audit17 filled SQLite profiles complete ordinary turns and one rewrite wit
   const sent=await message(s,'filled_'+maximal+'_'+rewrite,current);for(let n=0;n<8&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
   const sizes=calls.map(({purpose,body})=>({purpose,input:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3),reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}));
   t.diagnostic(JSON.stringify({maximal,rewrite,sizes,total_input:sizes.reduce((n,x)=>n+x.input,0),reserved:job(s).reserved_tokens}));
-  assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(x=>x.purpose==='ambre_writing').length,rewrite?2:1);assert.ok(job(s).reserved_tokens<=30000);
+  assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(x=>x.purpose==='ambre_writing').length,rewrite?2:1);assert.ok(job(s).reserved_tokens<=42000);
  }
 });
 
-test('audit17 recovery reserves every failed attempt, keeps analysis once, and completes the maximal rewrite',async t=>{
+test('audit17 maximal retries with mandatory symptoms retain accounting and stop with a safe budget fallback',async t=>{
  const s=setup();await ready(s);const current=filledProfile(s,true);let writingPhase=0,writeAttempts=0,reviewPhase=0,reviewAttempts=0;
  const calls=provider(t,(purpose,body)=>{
   if(purpose==='ambre_analysis')return {...analysis(),selected_ids:JSON.parse(body.messages[1].content).index.split('\n').slice(0,8).map(x=>x.split(' ')[0])};
@@ -407,10 +408,10 @@ test('audit17 recovery reserves every failed attempt, keeps analysis once, and c
   if(purpose==='ambre_review'){if(++reviewAttempts%3!==0)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});reviewPhase++;const r=review();if(reviewPhase===1)r.criteria[3]='no';return r}
  });
  const sent=await message(s,'maximal_recovery',current);for(let n=0;n<12&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
- assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(writingPhase,2);assert.equal(reviewPhase,2);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(calls.length,13);
+ assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,false);assert.equal(JSON.parse(job(s).review).fallback,true);assert.equal(JSON.parse(job(s).review).error_code,'turn_budget');assert.equal(writingPhase,2);assert.ok(reviewPhase>=1);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.ok(calls.length<13);const completedCalls=calls.length;await s.chat.engine.work(s.env,sent.request_id);assert.equal(calls.length,completedCalls,'a terminal fallback cannot spend another attempt');
  const total=calls.reduce((n,{body})=>n+Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens,0);
  assert.equal(job(s).reserved_tokens,total);assert.equal(s.raw.prepare('SELECT reserved_tokens FROM provider_budgets').get().reserved_tokens,total);assert.ok(total<94500);assert.ok(total>30000);
- t.diagnostic(JSON.stringify({scenario:'maximal_rewrite_all_retries',calls:calls.length,reserved:total,stages:calls.map(({purpose,body})=>({purpose,reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}))}));
+ t.diagnostic(JSON.stringify({scenario:'maximal_rewrite_budget_fallback',calls:calls.length,reserved:total,stages:calls.map(({purpose,body})=>({purpose,reserved:Math.ceil((body.messages[0].content[0].text.length+body.messages[1].content.length+JSON.stringify(body.response_format.json_schema.schema).length)/3)+body.max_tokens}))}));
 });
 
 test('audit17 relevant excerpts, complete index labels and more than 1100 sources stay bounded',()=>{
@@ -460,7 +461,7 @@ test('audit17 revoked observation revision blocks a late engine answer',async t=
  const s=setup();await ready(s);provider(t,p=>{if(p==='ambre_review')s.raw.prepare("UPDATE chat_settings SET people_observations_revision=people_observations_revision+1 WHERE user_id='a'").run()});await message(s,'observation_revision','Bonjour');assert.equal(job(s).stage,'failed');assert.equal(s.raw.prepare('SELECT error_code FROM chat_turns').get().error_code,'context_changed');
 });
 
-test('audit17 maximal safety verification and all recovery phases fit without replaying analysis',async t=>{
+test('audit17 maximal safety retries preserve resources and stop at the existing budget ceiling',async t=>{
  const s=setup();await ready(s);const quote='Ce soir, tout sera terminé.',current=filledProfile(s,true).slice(0,5972)+quote;let risks=0,writes=0,reviews=0;
  const calls=provider(t,p=>{
   if(p==='ambre_analysis')return {...analysis(),risk:'possible',posture:'safety'};
@@ -469,8 +470,8 @@ test('audit17 maximal safety verification and all recovery phases fit without re
   if(p==='ambre_review'){if(++reviews%3)return Response.json({choices:[{message:{content:'{}'},finish_reason:'length'}]});const r=review();if(reviews===3)r.criteria[3]='no';return r}
  });
  const sent=await message(s,'maximal_safety_recovery',current);for(let n=0;n<16&&!['done','failed'].includes(job(s).stage);n++)await s.chat.engine.work(s.env,sent.request_id);
- assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,true);assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.equal(calls.length,16);assert.ok(job(s).reserved_tokens<=94500);assert.match(s.raw.prepare('SELECT response FROM chat_turns WHERE id=?').get(sent.request_id).response,/3114/);
- t.diagnostic(JSON.stringify({scenario:'maximal_safety_rewrite_all_retries',calls:calls.length,reserved:job(s).reserved_tokens}));
+ assert.equal(job(s).stage,'done',JSON.stringify({job:job(s),trace:JSON.parse(s.raw.prepare('SELECT trace FROM chat_turn_traces').get().trace).error}));assert.equal(JSON.parse(job(s).review).passed,false);assert.equal(JSON.parse(job(s).review).fallback,true);assert.equal(JSON.parse(job(s).review).error_code,'turn_budget');assert.equal(calls.filter(c=>c.purpose==='ambre_analysis').length,1);assert.ok(calls.length<16);const completedCalls=calls.length;await s.chat.engine.work(s.env,sent.request_id);assert.equal(calls.length,completedCalls,'a terminal safety fallback cannot spend another attempt');assert.ok(job(s).reserved_tokens<=94500);assert.match(s.raw.prepare('SELECT response FROM chat_turns WHERE id=?').get(sent.request_id).response,/3114/);
+ t.diagnostic(JSON.stringify({scenario:'maximal_safety_budget_fallback',calls:calls.length,reserved:job(s).reserved_tokens}));
 });
 
 

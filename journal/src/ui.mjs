@@ -1,3 +1,4 @@
+import {REQUIRED_SYMPTOMS} from './companion-readiness.mjs';
 import {CARE_INTERFACE_SCRIPT} from './care-interface.mjs';
 import {SETTINGS_INTERFACE_SCRIPT} from './settings-interface.mjs';
 import { CHANGE_INTERFACE_SCRIPT, CHANGE_INTERFACE_STYLE } from './change-interface.mjs';
@@ -129,6 +130,7 @@ function landing(){
  main.className='';
  main.innerHTML='<section class="journal-welcome"><h1 id="public-page-title"></h1><p>Connectez-vous pour ouvrir votre espace.</p><div id="pending-note" class="notice" hidden>Connectez-vous pour conserver cet article.</div><div class="actions"><button type="button" data-auth="login">Me connecter</button><button type="button" class="secondary" data-auth="register">Créer mon compte</button></div></section>';
  document.getElementById('public-page-title').textContent=PAGES[state.tab].title;
+ if(state.tab==='chat'){var prerequisites=el('p','helper','Avant de lancer Ambre, complétez votre identité dans Mon compte, ajoutez au moins trois proches et trois événements, répondez à toutes les questions de Mon enfance et aux ${REQUIRED_SYMPTOMS} questions de Mes symptômes. Vous pouvez répondre « Je ne sais pas » et reprendre le questionnaire plus tard.');document.getElementById('public-page-title').after(prerequisites)}
  document.getElementById('pending-note').hidden=!(state.pendingArticle&&state.pendingLike)
 }
 async function applyPendingLike(){if(!state.pendingArticle||!state.pendingLike||!state.me.user)return;try{await api('/api/likes/'+encodeURIComponent(state.pendingArticle),'PUT',{liked:true});state.pendingError=null;state.pendingLike=false;var url=new URL(location.href);url.searchParams.delete('like');history.replaceState({},'',url.pathname+url.search+url.hash);state.me=await api('/api/me')}catch(err){state.pendingError=err.message}}

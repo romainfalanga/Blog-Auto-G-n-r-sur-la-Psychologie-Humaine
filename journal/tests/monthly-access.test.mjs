@@ -121,3 +121,19 @@ test('incomplete accounts retain static crisis resources without any generation 
  const ordinary=await s.send('Bonjour.','incomplete-ordinary');assert.equal(ordinary.status,403);assert.equal(ordinary.safety,undefined);
  assert.equal(calls,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM monthly_usage').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
 });
+
+test('all 516 symptoms are required with JS/SQL parity and past precision',async t=>{
+ const {SYMPTOMES_CARTE}=await import('../src/symptomes-carte.generated.mjs');const ids=SYMPTOMES_CARTE.factors.filter(f=>!f.historical).map(f=>f.id),s=fixture(t);seedCompanionPrerequisites(s.raw);assert.equal(ids.length,516);
+ const check=async(expected)=>{const r=await readCompanionReadiness(s.env,'a');assert.equal(r.complete,expected);assert.equal(r.symptoms.required,516);assert.equal(s.raw.prepare('SELECT '+companionReadinessSql('?')+' ok').get('a').ok,Number(expected));return r;};
+ for(const value of [0,1,'unknown','past']){const answers=Object.fromEntries(ids.map(id=>[id,value])),notes={factors:Object.fromEntries(ids.map(id=>[id,'Avant les douze derniers mois.']))};s.raw.prepare("UPDATE symptom_maps SET answers=?,notes=? WHERE user_id='a'").run(JSON.stringify(answers),JSON.stringify(notes));await check(true);}
+ s.raw.prepare("UPDATE symptom_maps SET notes='{}' WHERE user_id='a'").run();await check(false);
+ const answers=Object.fromEntries(ids.map(id=>[id,0]));delete answers[ids[0]];answers.unrelated=1;s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));assert.equal((await check(false)).symptoms.answered,515);
+ answers[ids[0]]=2;s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));await check(false);
+ answers[ids[0]]=0;s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));await check(true);
+ s.raw.prepare("DELETE FROM symptom_maps WHERE user_id='a'").run();assert.equal((await check(false)).symptoms.answered,0);
+});
+
+test('existing Ambre journeys cannot send or request a review with only 515 symptoms',async t=>{
+ const {SYMPTOMES_CARTE}=await import('../src/symptomes-carte.generated.mjs');const s=fixture(t);await s.ready();const answers=Object.fromEntries(SYMPTOMES_CARTE.factors.slice(1).map(f=>[f.id,0]));s.raw.prepare("UPDATE symptom_maps SET answers=? WHERE user_id='a'").run(JSON.stringify(answers));let calls=0;provider(t,()=>{calls++;throw Error('Must not call provider')});
+ for(const [path,data] of [['/api/chat/messages',{content:'Bonjour Ambre',idempotency_key:'symptoms-missing-send'}],['/api/chat/review',{idempotency_key:'symptoms-missing-review'}]]){const r=await s.call(path,'POST',data);assert.equal(r.status,403,JSON.stringify(r));assert.equal(r.code,'prerequisites_required');}assert.equal(calls,0);
+});
