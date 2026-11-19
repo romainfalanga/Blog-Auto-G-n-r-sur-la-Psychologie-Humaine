@@ -154,8 +154,8 @@
       return fetch(path, Object.assign({}, options, { cache: 'no-store' }));
     }
     function api(method, path, body) {
-      return request(apiPath + (path || ''), { method: method, credentials: 'same-origin', headers: body ? { 'Content-Type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined })
-        .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { if (!r.ok) { var e = new Error((j.error && j.error.message) || j.message || (typeof j.error === 'string' ? j.error : '') || 'Enregistrement impossible pour le moment.'); e.status = r.status; throw e; } return j; }); });
+      return request(apiPath + (path || ''), { method: method, credentials: 'same-origin', headers: Object.assign({}, body ? { 'Content-Type': 'application/json' } : {}, state.account ? { 'X-Expected-User-Id': state.account.id } : {}), body: body ? JSON.stringify(body) : undefined })
+        .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { if (!r.ok) { var e = new Error((j.error && j.error.message) || j.message || (typeof j.error === 'string' ? j.error : '') || 'Enregistrement impossible pour le moment.'); e.status = r.status; e.code = j.code || (j.error && j.error.code); if (e.code === 'session_changed') { state.sessionChanged = true; state.accountReady = false; state.loadError = true; } throw e; } return j; }); });
     }
     function applyServer(j, keepLocal) {
       var c = j && j.cartographie;
@@ -182,8 +182,8 @@
           if (state.dirty) writeDraft(); else clearDraft();
         })
         .catch(function (e) {
-          state.saveError = e.status === 409 ? 'Vos réponses enregistrées ont changé ailleurs. Vos réponses ici sont conservées. Choisissez la version à garder avant de reprendre l’enregistrement.' : e.message + ' Vos modifications restent sur cet appareil.';
-          if (e.status === 409) { state.conflict = { remote: null }; return fetchConflict(); }
+          state.saveError = e.code !== 'session_changed' && e.status === 409 ? 'Vos réponses enregistrées ont changé ailleurs. Vos réponses ici sont conservées. Choisissez la version à garder avant de reprendre l’enregistrement.' : e.message + ' Vos modifications restent sur cet appareil.';
+          if (e.status === 409 && e.code !== 'session_changed') { state.conflict = { remote: null }; return fetchConflict(); }
         })
         .then(function () {
           state.saving = false; renderSave();
@@ -265,7 +265,8 @@
       var status = state.deleting ? 'Suppression…' : state.saveError || (state.deleted ? 'Réponses supprimées. Elles ne seront enregistrées de nouveau que si vous ajoutez une réponse ou une précision.' : '');
       if (status) saveBox.appendChild(el('p', { className: 'carto-save-status' + (state.saveError ? ' is-error' : ''), role: 'status', text: status }));
       var actions = el('div', { className: 'carto-save-actions' });
-      if (state.conflict) {
+      if (state.sessionChanged) { actions.appendChild(el('button', { type: 'button', className: 'carto-btn', onclick: function () { window.location.reload(); } }, ['Recharger la page']));
+      } else if (state.conflict) {
         var remote = state.conflict.remote && state.conflict.remote.cartographie;
         if (state.conflict.remote) {
           saveBox.appendChild(el('p', { className: 'carto-conflict-detail', text: remote ? 'Version enregistrée : ' + Object.keys(remote.answers || {}).length + ' situations sélectionnées ; version affichée ici : ' + Object.keys(state.answers).length + '.' : 'Vos réponses ont été supprimées du profil depuis votre dernière lecture.' }));
