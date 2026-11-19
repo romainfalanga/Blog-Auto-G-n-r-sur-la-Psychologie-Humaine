@@ -8,6 +8,10 @@
     "href": "/cartographie/"
   },
   {
+    "label": "Mes symptômes",
+    "href": "/mes-symptomes/"
+  },
+  {
     "label": "Mes proches",
     "href": "/mes-proches/"
   },

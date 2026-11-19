@@ -1,0 +1,231 @@
+{
+ "schema_version": 1,
+ "retrieved_at": "2026-11-19",
+ "note": "Archives des pages de licence et des formulaires officiels lus pour « Mes symptômes ». Données tierces, jamais exécutées. Vérifiées par scripts/build_symptomes.py.",
+ "files": [
+  {
+   "path": "cddr2024-licence-extrait.txt",
+   "sha256": "782e2e2dc7075c31f0944d9eb4108b0f9634f31d520332b2da8050936aff0d47",
+   "bytes": 3451,
+   "kind": "extrait_texte",
+   "url": "https://www.who.int/publications-detail-redirect/9789240077263",
+   "role": "Extrait des pages de titre de la CDDR (PDF anglais, licence CC BY-NC-ND 3.0 IGO). PDF entier non archivé (8 Mo) ; empreinte du PDF lu : b66e7a5d6ed764a1d39ed6ed37d581d25b5b9b79a6ee74b4935ff6677e8e709b"
+  },
+  {
+   "path": "cn2r-approfondir-mes-competences.html",
+   "sha256": "225484a323ad9fa6485d976ea72d6f8d8e3309040070a3b7b4a322c9ca8f46d3",
+   "bytes": 158909,
+   "kind": "original",
+   "url": "https://cn2r.fr/je-suis-professionnel/approfondir-mes-competences/",
+   "role": "Page Cn2r qui diffuse l’ITQ et ses précautions pour l’auto-dépistage"
+  },
+  {
+   "path": "cn2r-approfondir-mes-competences.txt",
+   "sha256": "613c600376c5189aa4c27409e9e8746e66df0c8d4532ac0dad95b52a476e5c16",
+   "bytes": 10557,
+   "kind": "extrait_texte",
+   "derived_from": "cn2r-approfondir-mes-competences.html",
+   "tool": "extraction HTML → texte (balises retirées)"
+  },
+  {
+   "path": "gad7-fr-france.pdf",
+   "sha256": "3622a0e265cb182c0cc8cffaa836b22b8f264dd9f39f9759c68459e4fa08f02c",
+   "bytes": 121061,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD7_French%20for%20France.pdf",
+   "role": "GAD-7, traduction officielle « French for France » (items GAD-7, GAD-2)"
+  },
+  {
+   "path": "gad7-fr-france.txt",
+   "sha256": "26bb3ee1f3019e216b3e4883cbb1e0699f5cb27845e5f7ff2c24446fd59923d4",
+   "bytes": 1968,
+   "kind": "extrait_texte",
+   "derived_from": "gad7-fr-france.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "icd11-license.html",
+   "sha256": "79b1ce8ed1710634109497b4abf0008bc8d2c977e32ad298230f492db96546da",
+   "bytes": 6960,
+   "kind": "original",
+   "url": "https://icd.who.int/docs/icd-api/license/",
+   "role": "Licence CIM-11 (CC BY-ND 3.0 IGO)"
+  },
+  {
+   "path": "icd11-license.txt",
+   "sha256": "58acda3a446713cc2b817823a9418f203aa8d52428da26667417ba712bdd70bf",
+   "bytes": 970,
+   "kind": "extrait_texte",
+   "derived_from": "icd11-license.html",
+   "tool": "extraction HTML → texte (balises retirées)"
+  },
+  {
+   "path": "itq-vf-cn2r.pdf",
+   "sha256": "8788cb0340618f9dc15bab994482593330a045e3d7a54a792614495df4e793bf",
+   "bytes": 546971,
+   "kind": "original",
+   "url": "https://cn2r.fr/wp-content/uploads/2025/04/ITQ_VF_Cn2r.pdf",
+   "role": "ITQ version française (Cloitre et al. 2018 ; Peraud et al. 2022), mise en page Cn2r, avec fiche de cotation"
+  },
+  {
+   "path": "itq-vf-cn2r.txt",
+   "sha256": "f51a9dd4906e0d0839857ab5c97c4c17b0e81e8e36bf9f82f8715fc68da30771",
+   "bytes": 13017,
+   "kind": "extrait_texte",
+   "derived_from": "itq-vf-cn2r.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "pfizer-terms.html",
+   "sha256": "506013c7ccd1ec94b75cbdc7664ab4f37dda01838933ad8e1acdad4993a615c8",
+   "bytes": 67808,
+   "kind": "original",
+   "url": "https://www.pfizer.com/general/terms",
+   "role": "Conditions d’utilisation du site Pfizer liées depuis phqscreeners (aucune restriction propre aux questionnaires relevée)"
+  },
+  {
+   "path": "pfizer-terms.txt",
+   "sha256": "b8dc6a1bbe188eaa0764d49a7ba97c763534451046a2095fb52973b6bb75633e",
+   "bytes": 11947,
+   "kind": "extrait_texte",
+   "derived_from": "pfizer-terms.html",
+   "tool": "extraction HTML → texte (balises retirées)"
+  },
+  {
+   "path": "phq-complet-fr-france.pdf",
+   "sha256": "1fd79dd603a7248a4e38bceaf9f427dba1a324a92fcdeb5d2f61ac13e1acb2e4",
+   "bytes": 126804,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ_French%20for%20France.pdf",
+   "role": "PHQ complet « French for France » : items 1a–1m du PHQ-15"
+  },
+  {
+   "path": "phq-complet-fr-france.txt",
+   "sha256": "f09332207ea1c345373b0ba6a02b9bbad71660e92b4d6245f020ad8b41a4e603",
+   "bytes": 15978,
+   "kind": "extrait_texte",
+   "derived_from": "phq-complet-fr-france.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "phq-gad7-instruction-manual.pdf",
+   "sha256": "6ed2f00f97e438c1168cd702d38d31fc923031445c720653005f138aa424228a",
+   "bytes": 134493,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+   "role": "Manuel officiel : cotation, paliers, domaine public"
+  },
+  {
+   "path": "phq-gad7-instruction-manual.txt",
+   "sha256": "6e34c3a1ef25c994b9268ce6ba82bfde0561a306edc650209f9eae11b4598b2d",
+   "bytes": 26141,
+   "kind": "extrait_texte",
+   "derived_from": "phq-gad7-instruction-manual.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "phq-gad7-other-translations.pdf",
+   "sha256": "06a7900123f909bcec32a7a31ee2fd3df1aa619fd256f21df3594b5f67f1498d",
+   "bytes": 38353,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/ZZ_OTHER%20TRANSLATIONS_1.pdf",
+   "role": "Notice officielle : dérivation PHQ-15 depuis les traductions (1a–1m + sommeil, fatigue)"
+  },
+  {
+   "path": "phq-gad7-other-translations.txt",
+   "sha256": "f4298c2d1f3890503a9477c4b5ef0e6262dd466e539fcfc4d0867be5725ad532",
+   "bytes": 3885,
+   "kind": "extrait_texte",
+   "derived_from": "phq-gad7-other-translations.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "phq15-en.pdf",
+   "sha256": "a1e58ebaa6b3fd26fd48b4343832b6de50a38157c85e1e3149cc6d1c01dca396",
+   "bytes": 18029,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/English_0%20(1).pdf",
+   "role": "PHQ-15 anglais (référence d’ordre et de cotation, non affiché)"
+  },
+  {
+   "path": "phq15-en.txt",
+   "sha256": "6a7e01d07cf4b65abd6e5385fe6a4ff14f331a918b13688b2da84c1a66b0ac7e",
+   "bytes": 2635,
+   "kind": "extrait_texte",
+   "derived_from": "phq15-en.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "phq9-fr-france.pdf",
+   "sha256": "b9529947a01d82b7c640176958e6e0f409a98e239380deafdfb4f27162c50298",
+   "bytes": 42110,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_French%20for%20France.pdf",
+   "role": "PHQ-9, traduction officielle « French for France » (items PHQ-9, PHQ-2)"
+  },
+  {
+   "path": "phq9-fr-france.txt",
+   "sha256": "f9b253f130f8995da28f9a72ee44388fb2475c6c01960d7a215664f4d93c5ef2",
+   "bytes": 3024,
+   "kind": "extrait_texte",
+   "derived_from": "phq9-fr-france.pdf",
+   "tool": "pdftotext -layout"
+  },
+  {
+   "path": "phqscreeners-select-screener.html",
+   "sha256": "95f7bf8218d26b12876595e37068086471ea7ee5862efae4d16d7f7c64e7e16e",
+   "bytes": 25794,
+   "kind": "original",
+   "url": "https://www.phqscreeners.com/select-screener",
+   "role": "Page de licence phqscreeners (« no permission is required… »)"
+  },
+  {
+   "path": "phqscreeners-select-screener.txt",
+   "sha256": "ac8c948f4b7bdd6103a1e1bd73df0f53b721d9772c72813702fe9920868af2de",
+   "bytes": 1840,
+   "kind": "extrait_texte",
+   "derived_from": "phqscreeners-select-screener.html",
+   "tool": "extraction HTML → texte (balises retirées)"
+  },
+  {
+   "path": "phqscreeners-ul_to_dropdownvfinal.js.txt",
+   "sha256": "b393ac814d6ee4f05f1cbfe2159e30623435c8d3b71ccbe8283fd4d117acd7ff",
+   "bytes": 40366,
+   "kind": "extrait_texte",
+   "url": "https://www.phqscreeners.com/js/ul_to_dropdownvfinal.js",
+   "role": "Liste officielle des PDF par langue (preuve de provenance des URL), archivée en texte, jamais exécutée"
+  },
+  {
+   "path": "traumameasuresglobal-home.html",
+   "sha256": "735a229ad23b8777f0484d5db96212d0e847f4565d7e6e28ffa9883f023f7f4e",
+   "bytes": 27152,
+   "kind": "original",
+   "url": "https://www.traumameasuresglobal.com/",
+   "role": "International Trauma Consortium : « The ITQ is freely available in the public domain… »"
+  },
+  {
+   "path": "traumameasuresglobal-home.txt",
+   "sha256": "c81282f48d6cef73e5eca089d7c34ef6d4620c91dd3947c226abbda474c2b0c4",
+   "bytes": 8201,
+   "kind": "extrait_texte",
+   "derived_from": "traumameasuresglobal-home.html",
+   "tool": "extraction HTML → texte (balises retirées)"
+  },
+  {
+   "path": "traumameasuresglobal-ptsd.html",
+   "sha256": "183bbf9f5acaa4192ba17419292b5f7bb920f51db207ec08cd359c3b36a09c89",
+   "bytes": 46332,
+   "kind": "original",
+   "url": "https://www.traumameasuresglobal.com/ptsd",
+   "role": "ITQ : version 12 items de symptômes, algorithme seul (pas de seuil de score)"
+  },
+  {
+   "path": "traumameasuresglobal-ptsd.txt",
+   "sha256": "3a9a93920bf0a3c823f04ce8dfa4acfce7211bd848002a703d5ec2bb604e7d59",
+   "bytes": 8812,
+   "kind": "extrait_texte",
+   "derived_from": "traumameasuresglobal-ptsd.html",
+   "tool": "extraction HTML → texte (balises retirées)"
+  }
+ ]
+}

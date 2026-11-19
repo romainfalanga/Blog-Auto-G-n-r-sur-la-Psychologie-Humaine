@@ -9,7 +9,7 @@ const read = path => readFileSync(join(root, path), 'utf8');
 test('Ambre opens the shared menu and leads to the conversation page', async () => {
   const navigation = JSON.parse(read('data/navigation.json'));
   assert.deepEqual(navigation[0], { label: 'Ambre', href: '/mon-accompagnement/' });
-  assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Mon enfance', 'Mes proches', 'Ma ligne de vie', 'Mes bilans', 'Mon compte']);
+  assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Mon enfance', 'Mes symptômes', 'Mes proches', 'Ma ligne de vie', 'Mes bilans', 'Mon compte']);
   // The Worker menu is generated from the same file as the Hugo header.
   const generated = await import('../journal/src/navigation.generated.mjs');
   const links = [...generated.NAVIGATION_HTML.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match => ({ label: match[2], href: match[1] }));
@@ -27,8 +27,28 @@ test('the Ambre bubble is removed from the public site: no asset, no loader, no 
   const config = read('netlify.toml');
   assert.doesNotMatch(config, /bulle/);
   assert.match(config, /X-Frame-Options = "DENY"/);
-  // The home page stays public: Ambre is reached from the menu, never by a redirect of "/".
-  assert.ok(!config.split('[[redirects]]').slice(1).some(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block)));
+});
+
+test('opening the site lands on Ambre: "/" redirects (302) to /mon-accompagnement/, the catalogue stays at /personnages/', () => {
+  const config = read('netlify.toml');
+  const blocks = config.split(/\n(?=\[\[)/).filter(block => block.startsWith('[[redirects]]'));
+  const home = blocks.filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
+  assert.equal(home.length, 1);
+  // Temporary, and forced: Hugo still builds an index.html at "/", which Netlify would otherwise serve.
+  assert.match(home[0], /to = "\/mon-accompagnement\/"\s+status = 302\s+force = true/);
+  // The proxied Ambre page itself is never redirected back to "/", and nothing redirects the catalogue.
+  for (const from of ['/mon-accompagnement', '/mon-accompagnement/*']) assert.doesNotMatch(blocks.find(block => block.includes('from = "' + from + '"')), /to = "\/"/);
+  assert.ok(!blocks.some(block => /from\s*=\s*"\/personnages\/?"\s*$/m.test(block)));
+  assert.match(read('layouts/personnages/list.html'), /character-directory/);
+  // The logo and the footer lead straight to Ambre (no redirect hop); the footer keeps a link to the catalogue.
+  assert.match(read('layouts/partials/header-brand.html'), /^<a href="\/mon-accompagnement\/" class="site-logo"/);
+  const footer = read('layouts/partials/footer.html');
+  assert.match(footer, /href="\/mon-accompagnement\/" class="site-logo"/);
+  assert.doesNotMatch(footer, /Personnages/);
+  // No internal link of the site or of the personal space points at "/" any more.
+  for (const file of ['layouts/partials/header-brand.html', 'layouts/partials/footer.html', 'layouts/partials/breadcrumb.html', 'journal/src/ui.mjs', 'journal/src/navigation.generated.mjs']) {
+    assert.doesNotMatch(read(file), /href=\\?"\/\\?"|\.href='\/'/, file);
+  }
 });
 
 test('Netlify proxies the list of close people and every person page to the Worker, without caching', () => {
@@ -41,4 +61,21 @@ test('Netlify proxies the list of close people and every person page to the Work
   assert.match(redirect('/mes-proches/*'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-proches\/:splat"\s+status = 200\s+force = true/);
   for (const path of ['/mes-proches', '/mes-proches/*', '/mon-accompagnement', '/mon-accompagnement/*']) assert.match(headers(path), /Cache-Control = "private, no-store"/, path);
   assert.match(redirect('/mon-accompagnement'), /workers\.dev\/mon-accompagnement\/"/);
+});
+
+test('Mes symptômes follows Mon enfance in the menu and is a private Worker page: proxied, never cached', () => {
+  const navigation = JSON.parse(read('data/navigation.json'));
+  const index = navigation.findIndex(item => item.label === 'Mon enfance');
+  assert.deepEqual(navigation[index + 1], { label: 'Mes symptômes', href: '/mes-symptomes/' });
+  const config = read('netlify.toml');
+  const blocks = config.split(/\n(?=\[\[)/);
+  const redirect = from => blocks.find(block => block.startsWith('[[redirects]]') && block.includes('from = "' + from + '"'));
+  const headers = path => blocks.find(block => block.startsWith('[[headers]]') && block.includes('for = "' + path + '"'));
+  assert.match(redirect('/mes-symptomes'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-symptomes\/"\s+status = 200\s+force = true/);
+  // "/mes-symptomes/*" also carries the engine script /mes-symptomes/moteur.js.
+  assert.match(redirect('/mes-symptomes/*'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-symptomes\/:splat"\s+status = 200\s+force = true/);
+  for (const path of ['/mes-symptomes', '/mes-symptomes/*']) assert.match(headers(path), /Cache-Control = "private, no-store"/, path);
+  const worker = read('journal/src/worker.mjs');
+  assert.match(worker, /'\/mes-symptomes':'Mes symptômes'/);
+  assert.match(worker, /symptomes:\{path:'\/mes-symptomes\/',routes:\['\/api\/symptomes'\]\}/);
 });

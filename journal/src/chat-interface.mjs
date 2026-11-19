@@ -235,11 +235,11 @@ function showJourneyPanel(panel,step,nodes){
  var changed=panel.dataset.step!==step;panel.dataset.step=step;panel.replaceChildren.apply(panel,nodes);panel.hidden=false;
  if(changed){var target=panel.querySelector('h2');if(target){target.tabIndex=-1;target.focus()}var scroll=document.getElementById('conversation-scroll');if(scroll)scroll.scrollTop=0}
 }
-function journeySourceItem(label,href,source,detail){
- var item=el('li','journey-source'+(source&&source.done?' is-done':'')),name=el('span','journey-source-name',label),badge=el('span','journey-source-state',source&&source.done?'Renseigné':'À compléter'),link=el('a',source&&source.done?'text-link journey-link':'button secondary journey-link',source&&source.done?'Modifier':'Compléter');
- link.href=href;link.setAttribute('aria-label',(source&&source.done?'Modifier : ':'Compléter : ')+label);
+function journeySourceItem(label,href,source,detail,step){
+ var done=!!(source&&source.done),item=el('li','journey-source'+(done?' is-done':'')),mark=el('span','journey-step-mark',done?'✓':String(step||'')),name=el('span','journey-source-name',label),badge=el('span','journey-source-state',done?'Renseigné':'À compléter'),link=el('a',done?'text-link journey-link':'button secondary journey-link',done?'Modifier':'Compléter');
+ mark.setAttribute('aria-hidden','true');link.href=href;link.setAttribute('aria-label',(done?'Modifier : ':'Compléter : ')+label);
  var text=el('span','journey-source-text');text.append(name);if(detail)text.append(el('span','journey-source-detail',detail));
- item.append(text,badge,link);return item;
+ item.append(mark,text,badge,link);return item;
 }
 function journeyCount(count,one,many){count=Number(count)||0;return count?count+' '+(count>1?many:one):''}
 function drawJourneyPanel(current){
@@ -279,15 +279,19 @@ function drawJourneyPanel(current){
   showJourneyPanel(dialog,'confirm',[title,el('p','','Cela va initier la conversation à partir des informations que vous avez renseignées.'),consent,actions,feedback]);return;
  }
  state.journeyStep=null;title.textContent='Avant de commencer';
- var sources=journey.sources||{},list=el('ul','journey-sources');if(readiness)sources={cartography:{done:readiness.childhood.complete,count:readiness.childhood.answered},portrait:{done:readiness.identity.complete},people:{done:readiness.people.complete,count:readiness.people.count},life_events:{done:readiness.events.complete,count:readiness.events.count}};
- list.append(journeySourceItem('Mon enfance','/cartographie/',sources.cartography,readiness?readiness.childhood.answered+' réponse'+(readiness.childhood.answered>1?'s':'')+' sur '+readiness.childhood.required:journeyCount(sources.cartography&&sources.cartography.count,'réponse','réponses')),journeySourceItem('Mon compte','/mon-compte/',sources.portrait,'Prénom, nom, date de naissance et genre'),journeySourceItem('Mes proches','/mes-proches/',sources.people,readiness?readiness.people.count+' proche'+(readiness.people.count>1?'s':'')+' sur '+readiness.people.required:journeyCount(sources.people&&sources.people.count,'proche','proches')),journeySourceItem('Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,readiness?readiness.events.count+' moment'+(readiness.events.count>1?'s':'')+' sur '+readiness.events.required:journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')));
+ var sources=journey.sources||{},list;if(readiness)sources={cartography:{done:readiness.childhood.complete,count:readiness.childhood.answered},portrait:{done:readiness.identity.complete},people:{done:readiness.people.complete,count:readiness.people.count},life_events:{done:readiness.events.complete,count:readiness.events.count}};
+ list=el('ol','journey-sources');var steps=[['Mon enfance','/cartographie/',sources.cartography,readiness?readiness.childhood.answered+' réponse'+(readiness.childhood.answered>1?'s':'')+' sur '+readiness.childhood.required:journeyCount(sources.cartography&&sources.cartography.count,'réponse','réponses')],['Mon compte','/mon-compte/',sources.portrait,'Prénom, nom, date de naissance et genre'],['Mes proches','/mes-proches/',sources.people,readiness?readiness.people.count+' proche'+(readiness.people.count>1?'s':'')+' sur '+readiness.people.required:journeyCount(sources.people&&sources.people.count,'proche','proches')],['Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,readiness?readiness.events.count+' moment'+(readiness.events.count>1?'s':'')+' sur '+readiness.events.required:journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')]];
+ steps.forEach(function(step,index){list.append(journeySourceItem(step[0],step[1],step[2],step[3],index+1))});
+ var missing=steps.filter(function(step){return !(step[2]&&step[2].done)}).map(function(step){return step[0]});
+ var stepsBox=el('div','journey-steps'),progress=el('p','journey-progress');progress.append(el('span','journey-progress-label','Vos informations'),el('span','journey-progress-count',(steps.length-missing.length)+' sur '+steps.length+' complétées'));
+ var meter=el('span','journey-meter');meter.setAttribute('aria-hidden','true');steps.forEach(function(step){meter.append(el('i',step[2]&&step[2].done?'is-done':''))});progress.append(meter);stepsBox.append(progress,list);
  var start=actionButton(journey.started?'Actualiser mes informations':'Commencer',function(){if(journey.started){renderChat();return}state.journeyError=null;state.journeyStep='confirm';drawJourneyPanel(current)});start.id='journey-start';start.disabled=!journey.started&&!journey.can_start;
- var hint=el('p','helper',readiness?'Complétez ces quatre lignes pour commencer. Dans Mon enfance, « Je ne sais pas » est une réponse possible.':'Complétez vos informations avant de lancer la discussion.');hint.hidden=!start.disabled;hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
- var nodes=[title,el('p','','Ambre commence par une analyse approfondie de ce que vous avez renseigné, puis la conversation se poursuit autour de ce que vous voulez comprendre et changer.'),list,hint];
+ var hint=el('p','helper journey-hint',readiness&&missing.length?'Il reste à compléter : '+missing.join(', ')+'.'+(missing.indexOf('Mon enfance')>=0?' Dans Mon enfance, « Je ne sais pas » est une réponse possible.':''):'Complétez vos informations avant de lancer la discussion.');hint.hidden=!start.disabled||!!(readiness&&!missing.length);hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
+ var nodes=[title,el('p','journey-lead','Ambre commence par une analyse approfondie de ce que vous avez renseigné, puis la conversation se poursuit autour de ce que vous voulez comprendre et changer.'),stepsBox];
  var reviewQuota=data.quotas&&data.quotas.reviews||journey.quotas&&journey.quotas.reviews;
  if(!journey.started&&reviewQuota&&reviewQuota.remaining<=0)nodes.push(el('p','status','Votre bilan mensuel est utilisé. Prochain bilan disponible le '+dateLabel(reviewQuota.renews_at)+'.'));
  if(state.journeyError){var error=el('p','status error',state.journeyError);error.setAttribute('role','alert');nodes.push(error)}
- nodes.push(start,el('p','journey-note','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'));showJourneyPanel(dialog,'intro',nodes);
+ var launch=el('div','journey-launch');launch.append(start,hint);nodes.push(launch,el('p','journey-note','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'));showJourneyPanel(dialog,'intro',nodes);
 }
 function openPointDialog(current){
  var data=state.chatData||{};if(!chatIsCurrent(current)||chatPointNote(data)||!chatJourney(data)||!chatJourney(data).started)return;

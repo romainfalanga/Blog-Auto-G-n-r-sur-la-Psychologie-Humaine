@@ -7,10 +7,14 @@ test('legacy page redirects drop retired identifiers and retain public article o
   const { default: redirect } = await import('../netlify/edge-functions/legacy-private-pages.js');
   const base = 'https://decodetonesprit.fr';
   const config = readFileSync(join(__dirname, '../netlify.toml'), 'utf8');
-  assert.ok(!config.split('[[redirects]]').slice(1).some(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block)), 'The home page must remain public: Ambre is reached from the menu');
+  // "/" now opens Ambre (302); that rule is its only redirect and it never carries legacy identifiers.
+  const home = config.split('[[redirects]]').slice(1).filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
+  assert.equal(home.length, 1);
+  assert.match(home[0], /to = "\/mon-accompagnement\/"\s+status = 302/);
   const [, pattern] = config.match(/pattern = "([^"]+)"\s+function = "legacy-private-pages"/);
   const route = new RegExp('^(?:' + pattern + ')$');
   assert.equal(route.test('/personnages/camille/'), false);
+  assert.equal(route.test('/'), false);
   for (const [path, location] of [
     ['/mon-personnage/?story=old', '/mon-accompagnement/'],
     ['/mes-personnages?character=old', '/mon-accompagnement/'],

@@ -8,7 +8,7 @@ import {createPeopleObservationApi} from './people-observations.mjs';
 import {PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 import {REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily} from './provider-access.mjs';
 import {loadContext,hasPersonalizationSources,validatePortraitV2,contextHash} from './private-context.mjs';
-import {PERSON_CHOICES,PERSON_TEXTS,EVENT_CHOICES,EVENT_TEXTS,PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,SELF_P2_MAX,contextFieldsReady} from './context-fields.mjs';
+import {PERSON_CHOICES,PERSON_TEXTS,EVENT_CHOICES,EVENT_TEXTS,PERSON_P2_FIELDS,EVENT_P2_FIELDS,SELF_P2_FIELDS,SELF_P2_MAX,contextFieldsReady,SIGNIFICANCE,significanceReady} from './context-fields.mjs';
 export {hasPersonalizationSources,validatePortraitV2};
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const LEGACY_LANGUAGE_DIAGNOSTIC=JSON.stringify({analysis_version:3,rejected:true,failed_paths:['contract.language']});
@@ -49,7 +49,10 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  if(e.date_start&&!validDate(e.date_start)||e.date_end&&!validDate(e.date_end))fail(400,'Date partielle invalide.','invalid_date');
  const lengths={year:4,month:7,day:10};if(lengths[e.date_precision]&&e.date_start.length!==lengths[e.date_precision]||e.date_precision==='range'&&(!e.date_start||!e.date_end||e.date_start>e.date_end)||e.date_precision==='age'&&!e.age_text)fail(400,'La date ne correspond pas à sa précision.','invalid_date');
  if(!Array.isArray(data.people_ids??[])||(data.people_ids??[]).length>10||(data.people_ids??[]).some(id=>typeof id!=='string'||id.length>120))fail(400,'Associations invalides.','invalid_people');
- optionalFields(e,data,EVENT_CHOICES,EVENT_TEXTS);e.people_ids=[...new Set(data.people_ids??[])].sort();return e;}
+ optionalFields(e,data,EVENT_CHOICES,EVENT_TEXTS);
+ // Migration 0027: kept only when chosen, so a moment « à préciser » keeps its payload hash.
+ if(data.significance!=null&&data.significance!==''){if(typeof data.significance!=='string'||!Object.hasOwn(SIGNIFICANCE,data.significance))fail(400,'Choisissez « Anecdotique » ou « Marquant ».','invalid_input');e.significance=data.significance;}
+ e.people_ids=[...new Set(data.people_ids??[])].sort();return e;}
  // Lot A5-P2: optional fields are kept only when supplied, so that a record (and its payload hash)
  // written without them is unchanged, and a proposal that does not carry them never resets them.
  function optionalFields(out,data,choiceLists,texts){
@@ -81,7 +84,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const eventRow=async(env,row)=>row?(await eventRows(env,[row],row.user_id))[0]:null;
  async function crud(request,env,user,path,url){const match=path.match(/^\/api\/(people|life-events)(?:\/([\w-]+))?$/);if(!match)return null;const isPerson=match[1]==='people',table=isPerson?'personal_people':'life_events',kind=isPerson?'person':'event',id=match[2],method=request.method;
  const transform=row=>isPerson?personRow(row):eventRow(env,row);
- if(method==='GET'&&id){const snapshot=await version(env,user.id),row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');const item=await transform(row);if(await version(env,user.id)!==snapshot)fail(409,'Cet élément a changé. Rechargez-le.','revision_conflict');return json({[kind]:item,source_version:snapshot,fields_ready:await contextFieldsReady(env)});}
+ if(method==='GET'&&id){const snapshot=await version(env,user.id),row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');const item=await transform(row);if(await version(env,user.id)!==snapshot)fail(409,'Cet élément a changé. Rechargez-le.','revision_conflict');return json({[kind]:item,source_version:snapshot,fields_ready:await contextFieldsReady(env),...(isPerson?{}:{significance_ready:await significanceReady(env)})});}
  if(method==='GET'&&!id){
   const snapshot=await version(env,user.id);
   const personFilter=isPerson?'':string(url.searchParams.get('person_id')||'',120);
@@ -92,26 +95,37 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   if(isPerson)rows=await all(env,'SELECT * FROM personal_people WHERE user_id=? AND id>? ORDER BY id LIMIT ?',user.id,cursor,limit+1);
   else{
    const dateOrder="CASE WHEN date_precision IN ('unknown','age') THEN '' ELSE date_start END";
-   const filter=personFilter?' AND EXISTS(SELECT 1 FROM life_event_people l WHERE l.event_id=life_events.id AND l.user_id=life_events.user_id AND l.person_id=?)':'',filterArgs=personFilter?[personFilter]:[];
+   // « Marquants » filter (migration 0027): marking moments and moments « à préciser », anecdotal ones left out,
+   // so that the pagination follows the filter. Ignored (all moments) before the migration.
+   const significance=url.searchParams.get('significance');if(significance!=null&&significance!=='major')fail(400,'Filtre invalide.','invalid_input');
+   const onlyMajor=significance==='major'&&await significanceReady(env);
+   const filter=(personFilter?' AND EXISTS(SELECT 1 FROM life_event_people l WHERE l.event_id=life_events.id AND l.user_id=life_events.user_id AND l.person_id=?)':'')+(onlyMajor?" AND (significance IS NULL OR significance='major')":''),filterArgs=personFilter?[personFilter]:[];
    const anchor=cursor?await first(env,`SELECT id,${dateOrder} AS sort_date FROM life_events WHERE id=? AND user_id=?${filter}`,cursor,user.id,...filterArgs):null;
    if(cursor&&!anchor)fail(409,'Ce repère de pagination a changé. Rechargez votre ligne de vie.','pagination_changed');
    rows=anchor?await all(env,`SELECT * FROM life_events WHERE user_id=?${filter} AND (${dateOrder}<? OR (${dateOrder}=? AND id>?)) ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,...filterArgs,anchor.sort_date,anchor.sort_date,anchor.id,limit+1):await all(env,`SELECT * FROM life_events WHERE user_id=?${filter} ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,...filterArgs,limit+1);
   }
   const more=rows.length>limit,items=isPerson?await Promise.all(rows.slice(0,limit).map(transform)):await eventRows(env,rows.slice(0,limit),user.id);
   if(await version(env,user.id)!==snapshot)fail(409,'La liste a changé. Rechargez-la.','pagination_changed');
-  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id),fields_ready:await contextFieldsReady(env),notes_available:await timelineReady(env)});
+  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id),fields_ready:await contextFieldsReady(env),notes_available:await timelineReady(env),...(isPerson?{}:{significance_ready:await significanceReady(env)})});
  }
  if(!['POST','PATCH','DELETE'].includes(method)||method==='POST'&&id||method!=='POST'&&!id)fail(405,'Méthode non autorisée.','method_not_allowed');
  const data=await body(request,45000);let prior=null,expected=null;
  // Lot A5-P2: before migration 0024 the new optional fields cannot be stored. Empty values are
  // dropped silently (an older form state); a filled one is refused rather than lost.
  if(!await contextFieldsReady(env))for(const key of isPerson?PERSON_P2_FIELDS:EVENT_P2_FIELDS)if(Object.hasOwn(data,key)){if(data[key]!=null&&data[key]!=='')fail(503,'Ces nouvelles rubriques ne sont pas encore disponibles. Le reste peut être enregistré.','feature_unavailable');delete data[key];}
+ // Migration 0027: before it the choice is ignored without error. A modification without the field
+ // (or with an empty one) keeps the stored value. A creation from the form must carry the choice.
+ let clearSignificance=false;
+ if(!isPerson){const fromForm=data.entry==='form';delete data.entry;
+  if(!await significanceReady(env))delete data.significance;
+  // An explicit null in a modification brings the moment back to « à préciser ».
+  else{clearSignificance=method==='PATCH'&&Object.hasOwn(data,'significance')&&data.significance===null;if(data.significance==null||data.significance==='')delete data.significance;if(method==='POST'&&fromForm&&!Object.hasOwn(data,'significance'))fail(400,'Choisissez « Anecdotique » ou « Marquant » pour ce moment.','significance_required');}}
  if(isPerson&&!await timelineReady(env))for(const key of MEETING_FIELDS)if(Object.hasOwn(data,key)){if(data[key]&&!(key==='meeting_date_precision'&&data[key]==='unknown'))fail(503,'Le repère de rencontre n’est pas encore disponible.','feature_unavailable');delete data[key];}
  if(id){prior=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!prior)fail(404,'Élément introuvable.','not_found');expected=revision(data);if(expected!==prior.revision)fail(409,'Cet élément a été modifié dans un autre onglet.','revision_conflict');}
  if(method==='DELETE'){
  const statements=[stmt(env,`DELETE FROM ${table} WHERE id=? AND user_id=? AND revision=?`,id,user.id,expected),bump(env,user.id)];
  const results=await env.DB.batch(statements);if(!results[0].meta.changes)fail(409,'Cet élément a changé.','revision_conflict');return json({ok:true,[kind]:null,source_version:await version(env,user.id)});}
- const previous=prior?await transform(prior):{};const normalized=(isPerson?personData:eventData)({...previous,...data});const payloadHash=await contextHash(JSON.stringify(normalized));
+ const previous=prior?await transform(prior):{};const normalized=(isPerson?personData:eventData)({...previous,...data});if(clearSignificance&&previous.significance!=null)normalized.significance=null;const payloadHash=await contextHash(JSON.stringify(normalized));
  if(!isPerson&&normalized.people_ids.length){const found=await all(env,'SELECT id FROM personal_people WHERE user_id=? AND id IN(SELECT value FROM json_each(?))',user.id,JSON.stringify(normalized.people_ids));if(found.length!==normalized.people_ids.length)fail(400,'Un proche associé est introuvable.','invalid_people');}
  let entityId=id;
  if(method==='POST'){

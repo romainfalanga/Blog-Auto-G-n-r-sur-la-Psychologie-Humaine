@@ -9,11 +9,13 @@ import {loadCareContext} from './care-context.mjs';
 import {cartographyIndexEntries} from './cartographie.mjs';
 import {reviewThread,threadProse,reviewSuggestion,reviewColumnsReady,THREAD_TURN_CHARS,THREAD_REVIEWS} from './review-digest.mjs';
 import {crisisSignal,safetyReply,riskSignal,riskHint,riskSentence,cautiousReply} from './chat-safety.mjs';
+import {symptomsForAmbre} from './symptomes-backend.mjs';
+import {SYMPTOMS_RULES,SYMPTOMS_SAFETY_RULE,ensureSymptomsSafetyQuestion} from './symptomes-ambre.mjs';
 import {approximateQuote,locateQuote,similarQuotes,sentenceAround,foldWithMap} from './quote-guard.mjs';
 import {clinicalSignals,mergeSignals,compactSignals,signalGuidance,referralFallback,blockingReview,signalReview,missingReferral,asksAdvice,realitySignal,VERIFIED_NUMBERS} from './clinical-signals.mjs';
 import {responseSentences,conversationExcerpt} from './chat-text.mjs';
 import {peopleObservationContext,peopleObservationRevision} from './people-observations.mjs';
-import {PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,personLabelSuffix,eventLabelSuffix,unsafeRelation} from './context-fields.mjs';
+import {PERSON_PARTS,EVENT_PARTS,personFacts,eventFacts,personLabelSuffix,eventLabelSuffix,unsafeRelation,significanceWord,byMomentTier} from './context-fields.mjs';
 import {readChangeState,changeGuard,changeArtifactStatements,clearChangeMemoryState,dueChangeTrial} from './change-plan.mjs';
 import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,refusalError,reserveDaily,releaseDaily,dailyCapError,countMetric,countMetrics,DAILY_CAP_CODE as DAILY_CAP} from './provider-access.mjs';
 // A turn waits for a provider cooldown at most this long after it was queued.
@@ -191,12 +193,16 @@ export function knowledgeIndex(context){
   const suffix=personLabelSuffix(p),extra=Object.fromEntries(PERSON_PARTS.filter(([k])=>String(p[k]||'').trim()).map(([k])=>[k,p[k]]));
   add('person:'+p.id,'person',p.display_name+' — '+role+(suffix?' · '+suffix:''),{...meta,display_name:p.display_name,relationship_text:p.relationship_text,...(p.user_notes_text||p.user_notes_total?{user_notes_text:p.user_notes_text,user_notes_total:p.user_notes_total||0,user_notes_omitted:p.user_notes_omitted||0}:{}),...(personFacts(p).length?{facts:personFacts(p)}:{}),...extra},p.updated_at,meta,{header:[p.display_name,'Lien : '+role+(p.custom_role&&ROLE_LABELS[p.role]?' ('+ROLE_LABELS[p.role]+')':''),period?'Période : '+period:'',p.meeting_date_precision==='age'&&p.meeting_age_text?'Rencontre, âge déclaré : '+p.meeting_age_text:p.meeting_date_start?'Rencontre ('+p.meeting_date_precision+') : '+[p.meeting_date_start,p.meeting_date_end].filter(Boolean).join(' – '):'',...personFacts(p)].filter(Boolean).join(' · '),parts:[{name:'Comment je vis cette relation',text:p.relationship_text},...(p.user_notes_text?[{name:'Notes écrites par vous',text:p.user_notes_text}]:[]),...PERSON_PARTS.map(([k,name])=>({name,text:String(p[k]||'')}))]});
  }
- for(const e of (context.events||[]).slice(0,500)){
+ // Migration 0027: marking moments (and every moment with an exposure) come before the others,
+ // in the current order; the lexical ranking of the message (moments cited) still comes first.
+ for(const e of byMomentTier((context.events||[]).slice(0,500))){
   const people=(e.people_ids||[]).map(id=>names.get(id)).filter(Boolean),age=Number.isInteger(e.age_at_event)?(e.age_at_event_approx?'vers ':'')+e.age_at_event+' ans':e.age_text||null;
-  const meta={kind:e.kind,date_precision:e.date_precision,date_start:e.date_start,date_end:e.date_end,age_text:e.age_text,people_ids:e.people_ids,...(people.length?{people}:{}),...(Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event}:{}),...(e.current_importance!=null?{current_importance:e.current_importance}:{})};
+  const meta={kind:e.kind,date_precision:e.date_precision,date_start:e.date_start,date_end:e.date_end,age_text:e.age_text,people_ids:e.people_ids,...(people.length?{people}:{}),...(Number.isInteger(e.age_at_event)?{age_at_event:e.age_at_event}:{}),...(e.current_importance!=null?{current_importance:e.current_importance}:{}),...(significanceWord(e)?{significance:e.significance}:{})};
   const when=[e.date_start,e.date_end].filter(Boolean).join(' – ');
+  // The word « marquant / anecdotique » stays out of the label read by rankIndex (« quant » would match it):
+  // it is in the header and the metadata only.
   const suffix=eventLabelSuffix(e),extra=Object.fromEntries(EVENT_PARTS.filter(([k])=>String(e[k]||'').trim()).map(([k])=>[k,e[k]]));
-  add('event:'+e.id,'event',e.title+(suffix?' · '+suffix:''),{...meta,description:e.description,meaning_now:e.meaning_now,...(e.user_notes_text||e.user_notes_total?{user_notes_text:e.user_notes_text,user_notes_total:e.user_notes_total||0,user_notes_omitted:e.user_notes_omitted||0}:{}),...(eventFacts(e).length?{facts:eventFacts(e)}:{}),...extra},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):'',...eventFacts(e)].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now},...(e.user_notes_text?[{name:'Notes écrites par vous',text:e.user_notes_text}]:[]),...EVENT_PARTS.map(([k,name])=>({name,text:String(e[k]||'')}))]});
+  add('event:'+e.id,'event',e.title+(suffix?' · '+suffix:''),{...meta,description:e.description,meaning_now:e.meaning_now,...(e.user_notes_text||e.user_notes_total?{user_notes_text:e.user_notes_text,user_notes_total:e.user_notes_total||0,user_notes_omitted:e.user_notes_omitted||0}:{}),...(eventFacts(e).length?{facts:eventFacts(e)}:{}),...extra},e.updated_at,meta,{header:[e.title,'Type : '+(EVENT_KINDS[e.kind]||e.kind||'autre'),when?'Repère : '+when:'',age?'Âge alors : '+age:'',significanceWord(e)?'Dans mon histoire : '+significanceWord(e):'',e.current_importance!=null?'Place aujourd’hui : '+e.current_importance+'/5':'',people.length?'Proches liés : '+people.join(', '):'',...eventFacts(e)].filter(Boolean).join(' · '),parts:[{name:'Récit',text:e.description},{name:'Ce que cela signifie aujourd’hui',text:e.meaning_now},...(e.user_notes_text?[{name:'Notes écrites par vous',text:e.user_notes_text}]:[]),...EVENT_PARTS.map(([k,name])=>({name,text:String(e[k]||'')}))]});
  }
  for(const source of (context.sources||[]).filter(source=>source.type!=='like').slice(0,560)){
   // C (audit v5): one entry per rubric of the self description, so that the later rubrics are reachable.
@@ -499,6 +505,10 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
      const result=await generateText(env,{userId:job.user_id,system,user:JSON.stringify(prepared),schema:format,maxTokens,timeoutMs:Math.min(18000,remaining),purpose,jobId:job.turn_id,jobLease:job.lease_token,traceStage:purpose==='risk_check'?'risk_check':job.stage,budgetKey:purpose==='review'&&parse(job.review).rewritten?'rewrite_review':purpose==='risk_check'?'risk_check':job.stage,sourceVersion:turn.source_version});return {...result,supplied_input:prepared};
     };
     if(job.stage==='analysis'){
+     // Lot C « Mes symptômes »: a blocking alert under 14 days is a recent antecedent (safety_seen),
+     // as the existing protocol treats it; the risk check never receives any questionnaire result.
+     const symptoms=await symptomsForAmbre(env,job.user_id,now());
+     if(symptoms?.safety)memory.safety_seen=true;
      const fallback=deterministicAnalysis(turn.content,memory),persisted=parse(job.analysis),candidates=changeCandidates(turn.content,snap.change.context,fallback,care);let analysis=fallback,analysisUsage;
      if(persisted.risk_check?.status==='pending'){
       // A deferred or interrupted verification resumes without buying the initial analysis again.
@@ -560,6 +570,10 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
      if(signals.minor||signals.intrusive||signals.eating&&analysis.strategy_ids?.length)analysis.strategy_ids=[];
      // Lot A5-P1: the review thread replaces the last-review excerpt (bounded, outside the details budget).
      const thread=reviewThread(snap.reviewRows||snap.reviews,{maxChars:THREAD_TURN_CHARS}),suggestion=pointSuggestion(snap,history,now()),relation=await peopleObservationContext(env,job.user_id,snap.context.people||[],turn.content,history.at(-1)?.user,snap.observationRevision),data={current_time:parisTime(now()),timezone:'Europe/Paris',care,memory,memory_revision:snap.memoryRow?.revision||0,...(thread?{review_thread:thread}:{}),...(suggestion?{review_suggestion:suggestion}:{}),history,identity:snap.context.subject,self_context:snap.context.self_context,details:[],index_total:snap.index.length,observation_revision:snap.observationRevision,reported_relationship_observations:relation?.remembered||null,observation_candidates:relation?.quotes.length?{person_id:relation.person.id,quotes:relation.quotes}:null};
+     // Lot C: the summary (≤ 1 200 characters) and its rules are paid for by the details share, where
+     // the childhood map reaches the writer; the safety question, when due, comes before any exploration.
+     if(symptoms?.block){data.symptoms=symptoms.block;if(symptoms.safety)data.symptoms_safety={kinds:symptoms.safety.kinds,ask_now:symptoms.safety.ask_now}}
+     if(data.symptoms_safety?.ask_now&&analysis.risk==='none')analysis.constraints=analysis.constraints.filter(x=>x!=='no_questions');
      data.change=writingChange(snap.change.context,analysis);data.change.previous_turn_id=history.at(-1)?.id||null;data.change.care={has_psychologist:Boolean(care.has_psychologist)};data.change_candidates=candidates;
      data.change_active=!changeBlocked(analysis,data.change.plan)&&Boolean(data.change.strategies.length||data.change.due_trial||analysis.change_signal?.kind&&analysis.change_signal.kind!=='none');
      data.change.active=data.change_active;
@@ -569,7 +583,8 @@ export function createAmbreEngine({now,random,personal,schema,contract,publish,p
      // A5-P1: the thread has its own fixed share (1 200 characters): the details never compete with it,
      // whatever its length. A5-P2 reserves 200 more characters for the new field/consent contract;
      // proposed and remembered observations also share this envelope instead of expanding it.
-     data.details=selectDetails(snap.index,analysis.selected_ids,turn.content,WRITING_SOURCES_CHARS-extra-lotS-(thread?THREAD_TURN_CHARS:0)-JSON.stringify(data.observation_candidates||{}).length-JSON.stringify(data.reported_relationship_observations||{}).length,{exclude:thread?['review:'+thread.last.id]:[]});
+     const symptomsCost=data.symptoms?JSON.stringify(data.symptoms).length+SYMPTOMS_RULES.length+(data.symptoms_safety?JSON.stringify(data.symptoms_safety).length+(data.symptoms_safety.ask_now?SYMPTOMS_SAFETY_RULE.length:0):0)+60:0;
+     data.details=selectDetails(snap.index,analysis.selected_ids,turn.content,WRITING_SOURCES_CHARS-extra-lotS-symptomsCost-(thread?THREAD_TURN_CHARS:0)-JSON.stringify(data.observation_candidates||{}).length-JSON.stringify(data.reported_relationship_observations||{}).length,{exclude:thread?['review:'+thread.last.id]:[]});
      data.cartography_targets=data.details.filter(x=>['cause','outcome'].includes(x.kind)).map(x=>({target:x.kind==='cause'?'factor':'outcome',target_id:x.key.split(':').at(-1),label:x.label}));
      const ledger=await first(env,'SELECT reserved_tokens FROM chat_engine_jobs WHERE turn_id=?',job.turn_id),traced=parse((await first(env,'SELECT trace FROM chat_turn_traces WHERE turn_id=?',job.turn_id))?.trace),baseReserved=ledger.reserved_tokens-recoveryReservations(traced);
      // Reserve both writer passes and both reviews before buying the first draft.
@@ -588,8 +603,8 @@ Utilise les dates Europe/Paris et le suivi déclaré : prépare ce qui compte po
       // F18/F19: the danger could not be verified; a fixed cautious reply with resources needs no provider.
       await advance(env,job,{stage:'review',draft:JSON.stringify(cautiousDraft(analysis.safety_signal)),review:JSON.stringify({...parse(job.review),cautious:true,rewritten:job.stage==='rewrite'})});continue;
      }
-     const guidance=signalGuidance(analysis.signals);
-     const result=await call('writing',analysis.risk==='none'?system.replace('\n'+contract,'\n'+WRITING_DEPTH_RULES+guidance+'\n'+contract)+changeSystem:SAFETY_WRITING_SYSTEM+guidance,{message:turn.content,analysis,...promptData,...(job.stage==='rewrite'?{previous:parse(job.draft),review:{failed:parse(job.review).failed,change_failed:[...(parse(job.review).change?.failed_ids||[]),...(parse(job.review).change?.unchecked_ids||[])]},instruction:'Réécris une fois en corrigeant les critères en échec.'}:{})},analysis.risk==='none'?(data.change_active?schema:noChangeSchema):safetySchema,1800);
+     const guidance=signalGuidance(analysis.signals),symptomsSystem=promptData.symptoms?'\n'+SYMPTOMS_RULES+(promptData.symptoms_safety?.ask_now&&analysis.risk==='none'?'\n'+SYMPTOMS_SAFETY_RULE:''):'';
+     const result=await call('writing',analysis.risk==='none'?system.replace('\n'+contract,'\n'+WRITING_DEPTH_RULES+guidance+'\n'+contract)+changeSystem+symptomsSystem:SAFETY_WRITING_SYSTEM+guidance+symptomsSystem,{message:turn.content,analysis,...promptData,...(job.stage==='rewrite'?{previous:parse(job.draft),review:{failed:parse(job.review).failed,change_failed:[...(parse(job.review).change?.failed_ids||[]),...(parse(job.review).change?.unchecked_ids||[])]},instruction:'Réécris une fois en corrigeant les critères en échec.'}:{})},analysis.risk==='none'?(data.change_active?schema:noChangeSchema):safetySchema,1800);
      let draft=parse(result.text,null);if(!draft||typeof draft.content!=='string'||!draft.content.trim())throw Object.assign(Error('Draft invalid'),{code:'invalid_response'});
      const suppliedAnalysis=result.supplied_input.analysis;
      draft=await prepareDraft(env,job.user_id,turn,snap.context,draft,suppliedAnalysis,{cartography_targets:result.supplied_input.cartography_targets||[]});
@@ -622,7 +637,9 @@ Utilise les dates Europe/Paris et le suivi déclaré : prépare ce qui compte po
      }
      if(!review.passed&&!review.rewritten&&review.checked){await advance(env,job,{stage:'rewrite',review:JSON.stringify(review)});continue}
      if(!review.passed){const risk=analysis.risk!=='none',unhandled=!risk&&review.failed.includes(1);await advance(env,job,{draft:JSON.stringify({content:risk?safetyReply(replySignal(analysis,turn.content)):unhandled?cautiousReply('self_harm'):[FALLBACK,referralFallback(analysis.signals)].filter(Boolean).join('\n\n'),questions:[],proposals:[],cartography_notes:[],change_proposals:[],followup:null})});review.fallback=true;await countMetric(env,now(),unhandled?'adverse_unhandled_signal':'adverse_fallback_published').catch(()=>{})}
-     await advance(env,job,{stage:'publish',review:JSON.stringify(review)});
+     // Lot C: the safety question due after a recent « Mes symptômes » alert is guaranteed before publication.
+     const due=parse(job.context).symptoms_safety,current=parse(job.draft),guarded=ensureSymptomsSafetyQuestion(current.content,due,{risk:analysis.risk});
+     await advance(env,job,{stage:'publish',review:JSON.stringify({...review,...(guarded!==current.content?{symptoms_safety_question:true}:{})}),...(guarded!==current.content?{draft:JSON.stringify({...current,content:guarded})}:{})});
     }else if(job.stage==='publish'){
      if(!committed)await publish(env,job.user_id,turn,snap.context,parse(job.draft),parse(job.analysis),job);
      const data=parse(job.context),trace={analysis:parse(job.analysis),context:{blocks:[{key:'selected',title:'Sources pertinentes',chars:JSON.stringify(data.details).length,items:data.details.length,...(data.review_thread?{review_chars:JSON.stringify(data.review_thread).length}:{})},{key:'memory',title:'Mémoire de conversation',chars:JSON.stringify(data.memory).length,items:Object.keys(data.memory).length},{key:'history',title:'Derniers échanges contigus',chars:JSON.stringify(data.history).length,items:data.history.length}],input_tokens:job.input_tokens,output_tokens:job.output_tokens,cached_tokens:job.cached_tokens,index_total:data.index_total},review:parse(job.review),duration_ms:job.duration_ms,models:models(env)};

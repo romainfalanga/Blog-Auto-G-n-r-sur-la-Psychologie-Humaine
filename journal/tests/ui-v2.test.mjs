@@ -56,7 +56,8 @@ function environment(extra={}) {
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
   // The site confirmation window is answered by the same hook as the former confirm().
   if(!ctx.confirmDialog)ctx.confirmDialog=(title,text)=>Promise.resolve(ctx.confirm([title,text].filter(Boolean).join(' ')));
-  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','journeySourceItem','journeyCount','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
+  vm.runInContext(script.match(/var MOMENT_FOR_PERSON=.*\n/)[0],ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -232,7 +233,7 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,6);assert.deepEqual(links[0],{href:'/mon-accompagnement/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Mon enfance','Mes proches','Ma ligne de vie','Mes bilans','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,7);assert.deepEqual(links[0],{href:'/mon-accompagnement/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Mon enfance','Mes symptômes','Mes proches','Ma ligne de vie','Mes bilans','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
@@ -380,8 +381,8 @@ test('the lists of close people and of moments repeat neither the page title nor
  assert.doesNotMatch(HTML,/source-count/);assert.doesNotMatch(functionCode('drawSourceSection'),/affichés|' proches'|' moments'/);assert.match(HTML,/\.source-tag \{/);
 });
 
-test('the application footer is reduced to the site name and liked articles stay out of the portrait menu',()=>{
- assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
+test('the application footer holds the site name (to Ambre) and the catalogue link, and liked articles stay out of the portrait menu',()=>{
+ assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/mon-accompagnement\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
  assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
@@ -679,7 +680,7 @@ test('portrait transport failures leave useful options and a retry, while a fail
 
 test('manual presentation, close-person and life-event forms omit the repeated Ambre notes',async()=>{
  const env=environment({api:async()=>({profile:{first_name:'Ma présentation'},revision:1}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();const self=env.doc.getElementById('self-profile');assert.equal(self.querySelector('.ambre-hint'),null);assert.equal(env.doc.getElementById('self-profile-form').elements.first_name.value,'Ma présentation');
- const rendered=[];env.ctx.drawSourceSection=kind=>rendered.push(kind);env.ctx.api=async()=>({people:[],events:[]});vm.runInContext(functionCode('renderPersonalSources'),env.ctx);const host=env.host('view');for(const page of ['people','events']){env.ctx.state.tab=page;await env.ctx.renderPersonalSources();assert.doesNotMatch(host.innerHTML,/ambre-hint|Ambre peut aussi vous aider à ajouter|role="note"/);assert.match(host.innerHTML,new RegExp('id="'+page+'-content"'))}assert.deepEqual(rendered,['people','events']);
+ const rendered=[];env.ctx.drawSourceSection=kind=>rendered.push(kind);env.ctx.api=async()=>({people:[],events:[]});vm.runInContext(functionCode('renderPersonalSources')+'\n'+functionCode('eventsListQuery'),env.ctx);const host=env.host('view');for(const page of ['people','events']){env.ctx.state.tab=page;await env.ctx.renderPersonalSources();assert.doesNotMatch(host.innerHTML,/ambre-hint|Ambre peut aussi vous aider à ajouter|role="note"/);assert.match(host.innerHTML,new RegExp('id="'+page+'-content"'))}assert.deepEqual(rendered,['people','events']);
 });
 
 test('V8 memory append is an explicit editable proposal that retains the text and revision on failure',async()=>{
@@ -1054,6 +1055,42 @@ test('saving from the person page refreshes that page; an unrelated draft never 
  env.ctx.drawPersonPage();assert.equal(env.doc.getElementById('people-form'),null,'the pending new-person draft belongs to the list');assert.equal(env.ctx.state.sourceDrafts.get('people').values.display_name,'Brouillon');
  await env.box.querySelector('.person-info').querySelector('button').fire('click');const form=env.doc.getElementById('people-form');field(form,'display_name','Léa B.');await form.fire('submit');
  assert.deepEqual(calls.find(call=>call[1]==='PATCH'),['/api/people/p1','PATCH']);assert.equal(env.title.textContent,'Léa B.');assert.equal(env.ctx.state.person.revision,4);assert.equal(env.ctx.state.sourceDrafts.has('people'),false);assert.equal(env.box.querySelectorAll('form').filter(node=>node.id==='people-form').length,0,'the editor closes after a saved change');assert.ok(calls.some(call=>call[0]==='/api/people/p1/timeline'),'the timeline is reloaded because the meeting date may have changed');
+});
+test('the person page offers « Ajouter un moment » beside « Ajouter une note », toward Ma ligne de vie with this person chosen',async()=>{
+ const env=personFixture(async path=>path.endsWith('/timeline')?personTimelineData:{person:personRow,fields_ready:true});
+ await env.ctx.renderPerson();
+ const adds=env.box.querySelector('.person-timeline-adds');assert.ok(adds,'one row closes the line');
+ assert.equal(adds.querySelector('.person-note-add').querySelector('summary').textContent,'Ajouter une note');
+ const moment=adds.querySelectorAll('a').find(link=>/person-moment-add/.test(link.className));assert.equal(moment.textContent,'Ajouter un moment');assert.equal(moment.href,'/ma-ligne-de-vie/?ajouter-avec=p1');assert.match(moment.className,/\bbutton secondary\b/);
+});
+function momentFixture(search,api){
+ const calls=[],gone=[];const env=environment({api:api||(async(path,method,data)=>{calls.push([path,method||'GET',data]);return {event:{id:'e9',title:data&&data.title,people_ids:data&&data.people_ids,revision:1},source_version:12}}),query:new URLSearchParams(search),refreshPortraitData(){},go:(...args)=>{gone.push(args)}});
+ vm.runInContext(functionCode('pagePath'),env.ctx);
+ env.ctx.state.people=[personRow,{id:'p2',display_name:'Sam',role:'friend'}];env.ctx.state.tab='events';env.host('events-editor');
+ return {...env,calls,gone};
+}
+test('« Ajouter un moment » from a person opens the new moment with that person chosen, saves it and returns to the person page',async()=>{
+ const env=momentFixture('ajouter-avec=p1');
+ assert.equal(env.ctx.prepareMomentForPerson().id,'p1');env.ctx.drawSourceEditor('events',true);
+ const form=env.doc.getElementById('events-form');assert.ok(form,'the form is open');
+ const boxes=form.querySelectorAll('input').filter(input=>input.name==='people_ids');assert.deepEqual(boxes.filter(box=>box.checked).map(box=>box.value),['p1'],'only this person is chosen');
+ field(form,'title','Un dîner');field(form,'description','Chez elle, tous les deux.');await form.fire('submit');
+ const post=env.calls.find(call=>call[1]==='POST');assert.equal(post[0],'/api/life-events','the existing moments API');assert.deepEqual([...post[2].people_ids],['p1']);assert.equal(post[2].title,'Un dîner');assert.ok(post[2].creation_id);
+ assert.equal(JSON.stringify(env.gone),JSON.stringify([['person','','p1']]),'back to the person page, whose timeline is fetched again');assert.equal(env.ctx.state.sourceDrafts.has('events'),false);
+});
+test('« Ajouter un moment »: Annuler returns to the person and keeps the typed text; an edited moment and an unknown person are left alone',async()=>{
+ const env=momentFixture('ajouter-avec=p1');env.ctx.prepareMomentForPerson();env.ctx.drawSourceEditor('events');
+ const form=env.doc.getElementById('events-form');field(form,'title','Pas fini');
+ await form.querySelectorAll('button').find(button=>button.textContent==='Annuler').fire('click');
+ assert.equal(JSON.stringify(env.gone),JSON.stringify([['person','','p1']]));const kept=env.ctx.state.sourceDrafts.get('events');assert.equal(kept.values.title,'Pas fini');assert.deepEqual([...kept.values.people_ids],['p1']);assert.equal(kept.returnTo,undefined);
+ // Coming back from another person adds that person to the same unsaved moment.
+ env.ctx.query=new URLSearchParams('ajouter-avec=p2');vm.runInContext('query=globalThis.query',env.ctx);env.ctx.prepareMomentForPerson();assert.deepEqual([...env.ctx.state.sourceDrafts.get('events').values.people_ids],['p1','p2']);
+ const edit=momentFixture('ajouter-avec=p1');edit.ctx.state.sourceDrafts.set('events',{id:'e1',revision:2,values:{title:'En cours',people_ids:[]}});
+ assert.equal(edit.ctx.prepareMomentForPerson(),null);assert.equal(JSON.stringify(edit.ctx.state.sourceDrafts.get('events').values),JSON.stringify({title:'En cours',people_ids:[]}));
+ const unknown=momentFixture('ajouter-avec=nobody');assert.equal(unknown.ctx.prepareMomentForPerson(),null);assert.equal(unknown.ctx.state.sourceDrafts.has('events'),false);
+ // Without the parameter, saving a moment stays on Ma ligne de vie.
+ const plain=momentFixture('');plain.ctx.state.sourceDrafts.set('events',{id:null,creation_id:'c',values:{kind:'positive',date_precision:'unknown',people_ids:[]},returnTo:'p1'});plain.ctx.drawSourceEditor('events');
+ const plainForm=plain.doc.getElementById('events-form');field(plainForm,'title','Seul');field(plainForm,'description','Texte');await plainForm.fire('submit');assert.equal(plain.gone.length,0);
 });
 test('account renders API monthly credits and the Paris renewal date without another request',()=>{
  const env=environment({api(){throw new Error('No extra quota fetch')}}),host=env.host('quota');vm.runInContext(functionCode('appendAccountQuota'),env.ctx);

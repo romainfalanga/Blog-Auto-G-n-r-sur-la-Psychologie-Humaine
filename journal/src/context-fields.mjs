@@ -70,3 +70,18 @@ export function unsafeRelation(people,message,previousMessage='',previousSignal=
  const partner=named.some(p=>p.role==='partner'),safe=named.some(p=>p.feels_safe==='no')?'no':'not_always';
  return {relation:partner?'partner':['father','mother','parent','child','sibling'].includes(named[0].role)?'family':'other',safe};
 }
+// Plan « Mes symptômes » v1.1 (migration 0027): « marquant dans mon histoire », chosen by the person
+// only. Distinct from current_importance (« pèse aujourd'hui »). NULL (or absent) = « à préciser ».
+export const SIGNIFICANCE=Object.freeze({anecdotal:'anecdotique',major:'marquant'});
+export const significanceWord=e=>Object.hasOwn(SIGNIFICANCE,e?.significance??'')?SIGNIFICANCE[e.significance]:'';
+// Order of moments for Ambre and the reviews: explicitly cited first (done by the caller), then
+// marking moments, then the current order. A moment with an exposure is never relegated because it
+// is noted anecdotal: it ranks with the marking moments.
+export const momentTier=e=>e?.significance==='major'||e?.exposure?0:1;
+export function byMomentTier(events){return (events||[]).map((e,i)=>[e,i]).sort((a,b)=>momentTier(a[0])-momentTier(b[0])||a[1]-b[1]).map(([e])=>e)}
+const SIGNIFICANCE_PROBED=new WeakMap();
+export async function significanceReady(env){
+ const db=env?.DB;if(!db)return false;const cached=SIGNIFICANCE_PROBED.get(db);if(cached===true)return true;if(typeof cached==='number'&&cached>Date.now())return false;
+ try{await db.prepare('SELECT significance FROM life_events LIMIT 0').bind().all();SIGNIFICANCE_PROBED.set(db,true);return true}
+ catch(error){if(/no such (?:column|table)/i.test(String(error?.message||''))){SIGNIFICANCE_PROBED.set(db,Date.now()+5000);return false}throw error}
+}

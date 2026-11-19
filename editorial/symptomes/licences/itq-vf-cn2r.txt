@@ -1,0 +1,185 @@
+                             International Trauma Questionnaire (ITQ)
+                                               Cloitre et al. ©2018
+                        Traduction française et validation par Peraud et al.(2022)
+
+
+Nom :                           Prénom :                              Date de passation :
+
+Merci d’indiquer quelle est l’expérience qui vous perturbe le plus et répondez aux questions par rapport à cette
+expérience.
+
+Description de l’expérience :
+
+
+
+
+Quand l’expérience s’est-elle passée ? (Entourez une réponse)
+    il y a moins de 6 mois        1 à 5 ans         10 à 20 ans
+
+    6 à 12 mois                   5 à 10 ans        Il y a plus de 20 ans
+
+Vous trouverez ci-dessous une liste de problèmes et de plaintes qu’ont parfois les personnes suite à des
+expériences de vie stressantes ou traumatiques.
+
+
+   Merci de lire chaque item attentivement, puis entourez un chiffre à droite pour
+                                                                                               Pas du tout
+                                                                                                             Un petit peu
+                                                                                                                            Modérément
+                                                                                                                                         Beaucoup
+                                                                                                                                                    Extrêmement
+   indiquer à quel point vous avez été perturbé par ce problème le mois dernier.
+
+
+
+
+P1. Avoir des rêves perturbants où se rejour une partie de l’expérience ou qui sont 0                              1            2            3           4
+clairement en relation avec l’expérience ?
+
+P2. Avoir des images ou des souvenirs forts (qui viennent à l’esprit) comme si l’expérience 0                      1            2           3            4
+se rejoue ici et maintenant ?
+
+P3. Éviter les ressentis qui rappellent l’expérience (par exemple, pensées, sentiments ou 0                        1            2           3            4
+sensations physiques) ?
+
+P4. Éviter les éléments extérieurs qui rappellent l’expérience (par exemple, personnes, 0                          1            2           3            4
+lieux, conversations, objets, activités, ou situations)?
+
+P5. Être en état de super-alerte, vigilance ou sur ses gardes ?                                     0              1            2           3            4
+P6. Réaction exagérée de surprise ou sursaut ?                                                      0              1            2           3            4
+
+
+   Symptômes ci-dessous le mois dernier :
+
+P7. Est-ce que cela a affecté vos relations et votre vie sociale ?                                  0              1            2           3            4
+P8. Est-ce que cela a affecté votre travail ou votre capacité à travailler ?                        0              1            2           3            4
+P9. Est-ce que cela a affecté d’autres parties importantes de votre vie telles que la 0                            1            2           3            4
+capacité à s’occuper de vos enfants, vos études, ou toutes autres activités importantes ?
+
+                          Mise en page par le Centre national de ressources et de résilience                                                                 1/4
+Vous trouverez ci-dessous une liste de problèmes ou de symptômes que peuvent avoir parfois les personnes
+qui ont connu un événement stressant ou traumatique. Les questions se rapportent à la manière dont vous
+vous sentez typiquement, que vous pensez de vous-même typiquement ou les manières dont vous êtes
+typiquement en relation avec les autres. Répondez à quel point l’énoncé est vrai vous concernant.
+
+
+
+
+                                                                                               Pas du tout
+                                                                                                             Un petit peu
+                                                                                                                            Modérément
+                                                                                                                                         Beaucoup
+                                                                                                                                                    Extrêmement
+   A quel point est-ce vrai pour vous ?
+
+
+
+
+C1. Quand je suis contrarié.e, il me faut beaucoup de temps pour me calmer                          0              1             2           3           4
+
+C2. Je me sens insensible ou émotionnellement éteint.e                                              0              1            2           3            4
+C3. Je me sens nul.le                                                                               0              1            2           3            4
+C4. Je me sens sans valeur                                                                          0              1            2           3            4
+
+C5. Je me sens distant.e ou coupé.e des autres                                                      0              1            2           3            4
+
+C6. Je trouve qu’il est difficile de rester émotionnellement proche des autres                      0              1            2           3            4
+
+
+   Au cours du dernier mois, les problèmes ci-dessus relatifs à vos émotions, aux
+   croyances sur vous-même et dans vos relations ont-ils :
+
+C7. A créé de l’inquiétude ou de la détresse concernant vos relations ou votre vie sociale ? 0                     1            2           3            4
+C8. A affecté votre travail ou capacité à travailler ?                                              0              1            2           3            4
+C9. A affecté d’autres parties importantes de votre vie telles que la capacité à s’occuper 0                       1            2           3            4
+de vos enfants, vos études, ou toutes autres activités importantes ?
+
+
+
+
+                          Mise en page par le Centre national de ressources et de résilience                                                                2/4
+                               FICHE DESCRIPTIVE
+
+Nom                    International Trauma Questionnaire (ITQ)
+Auteurs                Cloitre et al. (2018)
+Traduction             Peraud, et al. (2022)
+Type de d’évaluation   Questionnaire d’auto-évaluation
+Âge                    Adultes
+Objectif               1. Pointage pour un diagnostic de TSPT et TSPT complexe selon la CIM – 11
+                       2. Evaluation dimensionnelle du TSPT et TSPT complexe selon la CIM- 11
+Descriptif             TSPT : Un diagnostic probable de TSPT (selon la CIM-11) requiert la présence d’au
+                       moins un symptôme dans chacune des trois dimensions suivantes : (1) intrusions, (2)
+                       évitement et (3) perception de menace constante, ainsi que la présence d’au moins
+                       un indicateur d’altération fonctionnelle associé à ces symptômes.
+                       => La présence d’un symptôme ou d’une altération fonctionnelle est indiquée par
+                       un score ≥ 2 à un item.
+
+
+                       TSPT Complexe : Un diagnostic probable de TSPT complexe (selon la CIM-11)
+                       nécessite que les conditions pour la présence d’un TSPT soit remplies, ainsi qu’au
+                       moins un symptôme dans chacune des trois dimensions de Perturbations dans
+                       l’Organisation de Soi (POS) : (1) difficultés de régulation émotionnelle, (2) concept
+                       de soi négatif et (3) perturbations relationnelles, ainsi que la présence d’au moins
+                       un indicateur d’altération fonctionnelle associé aux symptômes des POS.
+                       => La présence d’un symptôme ou d’une altération fonctionnelle est indiquée par
+                       un score ≥ 2 à un item.
+
+
+                       Une personne peut recevoir soit un diagnostic de TSPT, soit un diagnostic de TSPT-C.
+                       Si une personne remplit les critères du TSPT-C, elle ne reçoit pas un diagnostic de
+                       TSPT en plus.
+                       Si une personne ne remplit pas les critères du TSPT, alors elle ne peut pas remplir
+                       les critères du TSPT-C.
+Nombre d’items         18 items
+Cotation               Echelle de Likert en 5 points de 0 (pas du tout) à 4 (Extrêmement)
+
+
+
+
+                                                                                                           3/4
+Seuil ou indication   1. Système de pointage pour le diagnostic du TSPT simple et TSPTComplexe
+                       TSPT                      Critères                 Perturbations dans       Critères
+                                                                          l’organisation de soi
+                       Revivre l’expérience      P1 ou P2 ≥ 2             Régulation Emo-          C1 ou C2 ≥ 2
+                       (Re_dx)                                            tionnelle (AD_dx)
+                       Evitement (Av_dx)         P3 ou P4 ≥ 2             Perception de soi        C3 ou C4 ≥ 2
+                                                                          négative (NSC_dx)
+                       Sentiments de Me-         P5 ou P6 ≥ 2             Déficit dans les         C5 ou C6 ≥ 2
+                       nace (Th_dx)                                       relations (DR_dx)
+                       Altération fonction-      P7, P8, ou P9 ≥ 2        Altération fonction-     C7, C8 ou C9 ≥ 2
+                       nelle (AF TSPT)                                    nelle (AF TSPT)
+                       Critère TSPT =            (Re_dx) + (Av_dx) +      Critère de perturbations dans l’organisa-
+                                                 (Th_dx) + (AF TSPT)      tion de soi = (AD_dx) + (NSC_dx) + (DR_dx)
+                                                                          + (AFDSO)
+                                                                          Critère de TSPT complexe = TSPT + Per-
+                                                                          turbations dans l’organisation de soi
+
+                      2. Evaluation dimensionnelle pour le TSPT simple et le TSPT Complexe
+                       TSPT                                             Perturbations dans
+                                                                        l’organisation de soi
+                       Revivre l’expérience    P1 + P2                  Régulation Emo-           C1 + C2
+                       (Re)                                             tionnelle (AD)
+                       Evitement (Av)          P3 + P4                  Perception de soi         C3 + C4
+                                                                        négative (NSC)
+                       Sentiments de Me-       P5 + P6                  Déficit dans les          C5 + C6
+                       nace (Th)                                        relations (DR)
+                       Pointage TSPT =          (Re) + (Av) + (Th)      Pointage de perturbations dans l’organisa-
+                                                                        tion de soi = (AD) + (NSC) + (DR)
+                                                                        Pointage de TSPT complexe = TSPT +
+                                                                        Perturbations dans l’organisation de soi
+
+Temps de passation    10 min
+Références            Cloitre, M., Shevlin, M., Brewin, C. R., Bisson, J. I., Roberts, N. P., Maercker, A., ... & Hyland,
+                             P. (2018). The International Trauma Questionnaire: Development of a
+                             self‐report measure of ICD‐11 PTSD and complex PTSD. Acta Psychiatrica
+                             Scandinavica, 138(6), 536-546.
+                      Peraud, W., Hebrard, L., Lavandier, A., Brockbanck-Chasey, S., Brennstuhl, M. J.,
+                             & Quintard, B. (2022). French cross-cultural adaptation and validation of the
+                             International Trauma Questionnaire (ITQ) in a French community sample.
+                             European journal of psychotraumatology, 13(2), 2152109.
+
+
+
+
+                                                                                                                        4/4
+
