@@ -599,11 +599,11 @@
       var general = ambreNotes('general', null);
       if (general) results.appendChild(el('section', { className: 'carto-ambre-general' }, [el('h3', { className: 'carto-tier-title', text: 'Notes d’Ambre' }), general]));
       if (!s.selectedCount) {
-        results.appendChild(el('p', { className: 'carto-empty', text: symptoms ? 'Les rapprochements apparaîtront ici selon les signes que vous indiquez. Les réponses « Non » et « Je ne sais pas » restent enregistrées.' : 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Les réponses « Non » et « Je ne sais pas » restent enregistrées et ne créent pas d’association.' }));
+        results.appendChild(el('p', { className: 'carto-empty', text: symptoms ? 'Les rapprochements apparaîtront ici dès que vous répondrez « Oui » à certains signes.' : 'Les associations étudiées apparaîtront ici si certaines situations correspondent à votre enfance. Les réponses « Non » et « Je ne sais pas » restent enregistrées et ne créent pas d’association.' }));
         return;
       }
       if (!s.results.length) {
-        results.appendChild(el('p', { className: 'carto-empty', text: symptoms ? 'Vos réponses restent enregistrées. Il manque des signes caractéristiques pour proposer un rapprochement.' : 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
+        results.appendChild(el('p', { className: 'carto-empty', text: symptoms ? 'Il manque encore des signes caractéristiques pour proposer un rapprochement.' : 'Vos réponses restent enregistrées. Aucun rapprochement suffisamment documenté n’est actuellement proposé pour ces vécus.' }));
         return;
       }
       // One list in the engine's order; only « Pas moi » subjects are folded.
