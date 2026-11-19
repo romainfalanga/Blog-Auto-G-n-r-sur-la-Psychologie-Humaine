@@ -37,8 +37,9 @@ Il y a une entrée par page du premier message, dans l'ordre suivant :
   - `write` : rédaction du document et du message de conversation.
   - `check` : relecture.
   - `rewrite` : réécriture unique.
+  - `publish` : bilan approuvé, publication en cours ou reprise après un `safety_changed`. Le verdict validé est enregistré : la reprise publie directement, sans nouvelle relecture.
 
-  L'interface traite toute valeur autre que `write`, `check` et `rewrite` comme une phase de lecture, ce qui convient à `capture` et à `reading`.
+  L'interface traite toute valeur autre que `write`, `check`, `rewrite`, `publish` et `done` comme une phase de lecture, ce qui convient à `capture` et à `reading`.
 - `blocks_total` est stocké à la capture (`ambre_reviews.sources.blocks_total`). Il vaut `null` avant la capture et `0` pour un bilan ancien sans instantané. `blocks_done` est le nombre de blocs analysés et sauvegardés.
 - `started_at` correspond à `created_at` du bilan en cours, en secondes Unix.
 - `estimate` est présent quand un bilan tourne ou peut être lancé. Sinon, il vaut `null`.
@@ -60,7 +61,7 @@ Il y a une entrée par page du premier message, dans l'ordre suivant :
   Il survit au rechargement de la page.
   - `kind` (`initial` ou `point`) indique la route à appeler : `POST /api/chat/start` ou `POST /api/chat/review`.
   - `retryable` vaut `false` pour les causes `prerequisites_required`, `consent_withdrawn`, `access_required`, `snapshot_too_large`, `snapshot_analysis_limit` et `nothing_to_analyze`. Il vaut aussi `false` sans accès ou fournisseur disponible, et quand le crédit mensuel est épuisé. Dans ce dernier cas, `retry_at` donne la date de renouvellement.
-  - Quand une relance est possible, `retry_at` vaut `null` (immédiatement) ou la plus tardive de ces échéances : pause du fournisseur, plafond quotidien du service (+1 h), limite de 8 créations par 24 h (`daily.resets_at`), limite de 4 bilans publiés par 24 h (+24 h).
+  - Quand une relance est possible, `retry_at` vaut `null` (immédiatement) ou la plus tardive de ces échéances : pause du fournisseur, plafond quotidien du service (+1 h), limite de 8 créations par 24 h (`daily.resets_at`), limite de 4 bilans publiés par 24 h (plus ancien de ces bilans + 24 h).
 - `daily` est la limite de 8 créations de bilan par 24 h glissantes. Elle n'est pas réduite par la suppression d'un bilan.
 
 ### Message d'Ambre après un bilan (`messages[]`)
@@ -80,16 +81,16 @@ L'accord n'est plus enregistré avant la création du bilan. Il est écrit dans 
    - proches, moments, notes, observations, messages non purgés, bilans prêts, séances, personnages, histoires, conclusions professionnelles, lectures, inspirations et retours ;
    - Mon enfance et Mes symptômes toujours consentis, ainsi que le suivi.
 
-   Si un élément a disparu, le bilan se termine par `sources_changed` (code final). L'instantané est alors effacé par le trigger 0031, et le crédit mensuel est rendu.
+   Si un élément a disparu, le bilan se termine par `sources_changed` (code final). Quand une garde échoue, le serveur cherche la vraie cause dans cet ordre : suppression, accord (`consent_withdrawn`), accès (`access_required`), prérequis (`prerequisites_required`), signal de sécurité. `context_changed` n'est renvoyé qu'en dernier recours. L'instantané est alors effacé par le trigger 0031, et le crédit mensuel est rendu.
 3. **Sécurité tardive.** À la publication, le serveur recalcule le signal de sécurité à partir de l'état vivant : alerte de Mes symptômes, reconnaissance « idées suicidaires » dans Mon enfance, mémoire. Un signal absent à la capture impose deux choses :
    - les ressources de confiance en tête du message : 3114 et 15/112, ou 17/112 en cas de violence ;
-   - les mêmes ressources à la fin du document, si elles en sont absentes.
+   - les mêmes ressources en tête du document, si elles en sont absentes.
 
-   Cette correction est inscrite dans `sources.check.safety_added`. La publication est aussi gardée par l'empreinte de ce signal : si elle change entre la lecture et l'écriture, le code non final `safety_changed` déclenche une nouvelle tentative.
+   Cette correction est inscrite dans `sources.check.safety_added`. La publication est aussi gardée par l'empreinte de ce signal : si elle change entre la lecture et l'écriture, le code `safety_changed` reprend directement à la publication au passage suivant du cron. Cette reprise ne consomme pas de tentative, dans la limite des 10 minutes d'un bilan en cours.
 4. **Capture tolérante.** En cas d'écriture concurrente pendant la capture, la lecture est refaite jusqu'à 2 fois. Au-delà, le bilan se termine par `context_changed`.
-5. **Portrait en cours.** Si une tâche de portrait `pending` ou `running` existe pour la version courante, la capture attend, sans compter de tentative (`error_code = portrait_pending`, nouvel essai par le cron). Au-delà de 180 s après la demande, la capture est prise sans portrait : `payload.omitted = [{section:'portrait',reason:'refresh_pending'}]`, signalé au rédacteur et dans `sources.omitted`. Le cron du portrait n'est pas suspendu.
+5. **Portrait en cours.** Si une tâche de portrait réellement exécutable existe pour la version courante (`pending` ou `running`, moins de 3 essais et de 20 appels, ni `batch_required` ni `generation_budget`, comme dans `personal-backend.mjs`), la capture attend, sans compter de tentative (`error_code = portrait_pending`, nouvel essai par le cron). Au-delà de 180 s après la demande, la capture est prise sans portrait : `payload.omitted = [{section:'portrait',reason:'refresh_pending'}]`, signalé au rédacteur et dans `sources.omitted`. L'état du portrait est recalculé à chaque essai de capture. Le cron du portrait n'est pas suspendu.
 6. **Citations en trois classes** (`classifyQuotes`) :
-   - les mots de la personne sont vérifiés dans son seul corpus (`snapshotPersonCorpus`), jamais dans un texte produit par l'IA (portrait, mémoire, bilans précédents, réponses, résumés de blocs) ;
+   - les mots de la personne sont vérifiés dans son seul corpus (`snapshotPersonCorpus`, y compris Mes précisions `memories.text`), jamais dans un texte produit par l'IA (portrait, mémoire, bilans précédents, réponses, résumés de blocs) ;
    - les libellés de l'interface (`INTERFACE_LABELS` : questions, réponses, thèmes, sujets, période) sont admis comme libellés, mais refusés s'ils sont précédés de « vous écrivez / dites / vos mots » ;
    - toute autre citation est une invention.
 
@@ -102,13 +103,14 @@ L'accord n'est plus enregistré avant la création du bilan. Il est écrit dans 
 - `REVIEW_OUTPUT_SCHEMA` vaut `{content, chat_message, digest}`. Il y a **un seul appel de rédaction**. `chat_message` fait au plus 2 500 caractères et présente ce qui ressort, puis 2 à 3 questions.
 - `REVIEW_WRITE_TOKENS` passe de 4 800 à 5 600. La réservation suit, puisqu'elle est calculée à partir de ce plafond.
 - `chat_message` passe par les mêmes contrôles déterministes que le document (diagnostic, citations, ressources, numéros, enregistrement annoncé), avec en plus le nombre de questions (`chat_questions`, non bloquant). Il est aussi soumis à la relecture du modèle.
-- Si seule la longueur pose problème (moins de 200 ou plus de 2 500 caractères), un message de repli déterministe est construit à partir du digest vérifié, ou des premiers paragraphes du document. En cas de signal, ce repli commence par les ressources. Il est ensuite contrôlé comme le message du modèle (`sources.check.chat_fallback`).
+- Si seule la longueur pose problème (moins de 200 ou plus de 2 500 caractères), un message de repli déterministe est construit à partir du digest vérifié, ou des premiers paragraphes du document. Il ne reprend aucune phrase interrogative du document : ses 2 ou 3 questions viennent des questions ouvertes du digest, une seule question chacune, ou des questions fixes. En cas de signal, ce repli commence par les ressources. Il est ensuite contrôlé comme le message du modèle (`sources.check.chat_fallback`).
 - Le contenu du bilan n'est pas réduit : l'instantané reste complet, l'évaluation clinique déterministe, l'analyse de tous les blocs et la relecture sont conservées.
 
 ## Codes d'échec (`error_code`) pour la table de messages de l'interface
 
 - **Finaux** : `sources_changed`, `context_changed`, `review_not_approved`, `consent_withdrawn`, `prerequisites_required`, `access_required`, `snapshot_too_large`, `snapshot_analysis_limit`, `nothing_to_analyze`, `generation_budget`, `quota_reservation_missing`.
-- **Nouvelle tentative par le cron jusqu'à 3** : `provider_timeout`, `provider_http_*`, `invalid_response`, `invalid_check`, `safety_changed`, `provider_error`.
+- **Nouvelle tentative par le cron jusqu'à 3** : `provider_timeout`, `provider_http_*`, `invalid_response`, `invalid_check`, `provider_error`. `safety_changed` est repris sans tentative comptée pendant 10 minutes.
+- Chaque code a son propre message dans `AMBRE_FAILURES`. `snapshot_too_large` et `snapshot_analysis_limit` sont présentés comme des limites fixes, sans relance.
 - **Après épuisement** : `attempts_exhausted`.
 - **Liés au fournisseur** : `provider_cooldown`, `daily_cap`.
 
@@ -116,6 +118,5 @@ L'accord n'est plus enregistré avant la création du bilan. Il est écrit dans 
 
 - Les durées d'appel de l'estimation initiale ne sont pas mesurées : la recette payante du lot 4 doit les fixer.
 - La requête d'estimation observée parcourt les bilans `ready` (au plus une fois toutes les 5 minutes par isolat) et n'utilise pas d'index.
-- `safety_changed`, s'il se répète, consomme une tentative et une relecture.
 - Une ancienne étape `check` en cours au déploiement, sans `chat_message`, publie le repli déterministe sans relecture du modèle de ce message.
-- La relecture de code indépendante reste à faire : l'agent serveur ne disposait pas d'outil de sous-agent.
+- La relecture indépendante a été faite par le coordinateur. Ses corrections ont été intégrées le 19/11 (relecture du document complet hors de la fenêtre, Mes précisions, étape `publish`, vraie cause d'échec, portrait exécutable, messages d'échec, ressources en tête, rafraîchissement au retour sur l'onglet, case d'accord sans `journey`).

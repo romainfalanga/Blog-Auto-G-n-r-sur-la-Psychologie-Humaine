@@ -222,9 +222,11 @@ export function chatMessageChecks(message,options){
 // the first sentences of the document). It is then checked like the model's message.
 export function fallbackChatMessage(digest,content,{signal=null}={}){
  const d=parseDigest(digest),f=d.formulation||{},points=[...(f.holds||[]),...(f.new||[]),...(f.revised||[])].map(x=>clip(x?.text,300)).filter(Boolean).slice(0,3);
- let body=points.map(sentence).join(' ');
- if(!body){const parts=String(content||'').split(/\n{2,}/).map(x=>x.trim()).filter(Boolean),out=[];for(const part of parts){if(out.join('\n\n').length+part.length>1200)break;out.push(part)}body=out.join('\n\n')||String(content||'').slice(0,1200)}
- const questions=(d.open_questions||[]).map(q=>clip(q,220)).filter(q=>q.endsWith('?')).slice(0,3);
+ // No question is taken from the document or the digest text: the questions below are the only ones.
+ const noQuestion=text=>String(text||'').split(/(?<=[.!?…])\s+/).filter(x=>x.trim()&&!/\?\s*[»”)]*$/.test(x.trim())).join(' ');
+ let body=points.map(noQuestion).filter(Boolean).map(sentence).join(' ');
+ if(!body){const parts=String(content||'').split(/\n{2,}/).map(x=>x.trim()).filter(Boolean),out=[];for(const part of parts.map(noQuestion).filter(Boolean)){if(out.join('\n\n').length+part.length>1200)break;out.push(part)}body=out.join('\n\n')||noQuestion(String(content||'').slice(0,1200))}
+ const questions=[...new Set((d.open_questions||[]).map(q=>clip(q,220)).filter(q=>q.endsWith('?')&&(q.match(/\?/g)||[]).length===1))].slice(0,3);
  for(const q of ['Qu’aimeriez-vous creuser en premier ?','Qu’en pensez-vous : ce bilan vous ressemble-t-il ?'])if(questions.length<2&&!questions.includes(q))questions.push(q);
  // A safety signal puts the trusted resources first, as in the document.
  const safety=signal==='violence'?VIOLENCE_RESOURCES+'\n\n':signal?CRISIS_RESOURCES+'\n\n':'';

@@ -594,7 +594,7 @@ test('the review state is read every 15 seconds and never while the page is hidd
  env.ctx.state.chatData=ambreState(fullReadiness(),{started:true,review:runningReview()},{consent:true,access:{allowed:true}});env.ctx.drawChat(env.view,()=>true);
  let timer=timers.at(-1);assert.equal(timer.delay,15000);
  env.doc.hidden=true;await timer.fn();assert.equal(calls,0,'no read while hidden');const pending=timers.length;
- env.doc.hidden=false;for(const fn of listeners.visibilitychange||[])fn();assert.equal(timers.length,pending+1,'reading resumes when the page is shown again');
+ env.doc.hidden=false;for(const fn of listeners.visibilitychange||[])fn();assert.equal(timers.length,pending+1,'reading resumes when the page is shown again');assert.equal(timers.at(-1).delay,0,'on return to the tab the state is read at once');
  await timers.at(-1).fn();assert.equal(calls,1);assert.equal(env.doc.getElementById('chat-review-indicator').querySelector('.ambre-bar').getAttribute('aria-valuetext'),'Lecture de vos informations : 6 sur 12');
 });
 
@@ -1188,4 +1188,21 @@ test('shared archive sections use the authorized professional endpoint without o
 
  test('Ambre checklist shows 515 of 516 symptoms and links to complete them',()=>{
  const readiness={complete:false,identity:{complete:true,missing_fields:[]},people:{complete:true,count:3,required:3},events:{complete:true,count:3,required:3},childhood:{complete:true,answered:60,required:60},symptoms:{complete:false,answered:515,required:516}};const env=chatFixture();env.ctx.state.chatData=journeyState({started:false,can_start:false,readiness,review:{}},{consent:true,access:{allowed:false}});env.ctx.drawChat(env.view,()=>true);const symptoms=env.doc.getElementById('ambre-intro').querySelectorAll('.ambre-need')[4];assert.equal(symptoms.querySelector('.ambre-need-count').textContent,'515/516');assert.match(symptoms.querySelector('a').getAttribute('aria-label'),/515 sur 516/);assert.equal(symptoms.querySelector('a').href,'/mes-symptomes/');assert.equal(env.doc.getElementById('ambre-start').disabled,true);assert.match(env.doc.getElementById('ambre-start-reason').textContent,/Complétez d’abord Mes symptômes/);assert.equal(env.send.disabled,true);
+});
+
+// Relecture du 19/11 : un message exact par code ; les limites de taille sont définitives, sans relance.
+test('every review failure code has its own plain message; definitive limits say there is no relaunch',()=>{
+ const env=chatFixture(),F=env.ctx.AMBRE_FAILURES;
+ for(const code of ['sources_changed','context_changed','safety_changed','review_not_approved','consent_withdrawn','access_required','prerequisites_required','snapshot_too_large','snapshot_analysis_limit','generation_budget','daily_cap','provider_cooldown','provider_timeout','attempts_exhausted','nothing_to_analyze','quota_reservation_missing'])assert.ok(F[code],code);
+ assert.equal(new Set(Object.values(F)).size,Object.keys(F).length,'no message shared by two codes');
+ for(const code of ['snapshot_too_large','snapshot_analysis_limit'])assert.match(F[code],/limite fixe : relancer ne changerait rien/);
+ assert.doesNotMatch(F.snapshot_analysis_limit,/aujourd’hui/);assert.doesNotMatch(F.generation_budget,/aujourd’hui/);assert.match(F.generation_budget,/semaine/);
+});
+test('the launch feedback is announced, and a state without journey keeps the agreement box',async()=>{
+ const calls=[];const env=chatFixture({api:async(...args)=>{calls.push(args);return {consent:true,access:{allowed:true},messages:[]}}});
+ env.ctx.state.chatData=ambreState(fullReadiness(),{},{consent:false,access:{allowed:false,reason:'consent_required'}});env.ctx.drawChat(env.view,()=>true);
+ assert.equal(env.doc.getElementById('ambre-launch-status').getAttribute('role'),'status');
+ env.ctx.state.chatData={consent:false,access:{allowed:false,reason:'consent_required'},messages:[]};env.ctx.drawChatGate(env.view.chatShell,env.ctx.state.chatData,()=>true);
+ const box=env.doc.getElementById('chat-consent'),accept=env.doc.getElementById('chat-consent-accept');assert.ok(box&&accept);assert.equal(accept.disabled,true);
+ box.checked=true;box.fire('change');assert.equal(accept.disabled,false);await accept.fire('click');assert.equal(calls[0][0],'/api/chat/consent');assert.equal(calls[0][1],'PUT');assert.equal(calls[0][2].accepted,true);
 });

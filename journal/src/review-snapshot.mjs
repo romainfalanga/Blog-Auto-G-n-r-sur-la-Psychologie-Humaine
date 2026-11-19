@@ -68,6 +68,8 @@ export function snapshotPersonCorpus(captured){
  walk(captured?.profile);walk(captured?.people);walk(captured?.events);walk(captured?.people_notes);walk(captured?.event_notes);
  for(const row of captured?.conversation||[])walk(row?.content);
  for(const row of captured?.observations||[])walk(row?.quote);
+ // Mes précisions (memories.text) is typed by the person; proposals awaiting her answer are not.
+ for(const row of captured?.personal_memory||[])walk(row?.text);
  for(const row of captured?.previous_reviews||[])walk(row?.feedback?.text);
  for(const key of ['childhood','symptoms'])for(const row of captured?.[key]||[]){walk(row?.notes);walk(row?.resources);}
  for(const row of captured?.care_sessions||[])walk(row);

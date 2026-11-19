@@ -7,7 +7,7 @@ import {setup,provider} from './v4-R-helper.mjs';
 import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import {SYMPTOMES_CARTE} from '../src/symptomes-carte.generated.mjs';
 import {CARTOGRAPHIE} from '../src/cartographie.generated.mjs';
-import {readReviewSnapshot,snapshotChunks,INTERFACE_LABELS} from '../src/review-snapshot.mjs';
+import {readReviewSnapshot,snapshotChunks,snapshotPersonCorpus,INTERFACE_LABELS} from '../src/review-snapshot.mjs';
 import {reviewChecks,classifyQuotes,chatMessageChecks,fallbackChatMessage,reviewVerdict,REVIEW_CHECK_CRITERIA,CHAT_MESSAGE_MAX} from '../src/review-digest.mjs';
 import {HYPOTHESIS_RULE,buildReviewSystemPrompt} from '../src/psychology-framework.mjs';
 import {MAP_HYPOTHESIS_RULES} from '../src/symptom-map-context.mjs';
@@ -108,7 +108,7 @@ test('point 3: a safety signal declared after the capture imposes 3114 and 15/11
  const r=await start(s),row=review(s,r.review_id);assert.equal(row.status,'ready',row.error_code);
  const message=(await s.call('/api/chat')).messages.at(-1);
  assert.match(message.chat_message,/^Depuis la préparation de ce bilan/);assert.match(message.chat_message,/\b3114\b/);assert.match(message.chat_message,/\b(?:15|112)\b/);
- assert.match(row.content,/\b3114\b/);assert.equal(JSON.parse(row.sources).check.safety_added,'self_harm');
+ assert.match(row.content,/^En France, vous pouvez appeler le 3114/,'resources in first position of the document');assert.equal(JSON.parse(row.sources).check.safety_added,'self_harm');
  assert.equal(JSON.parse(row.sources).check.passed,true);
 });
 
@@ -213,4 +213,51 @@ test('estimate: initial values from the execution model, observed p50/p90 from t
  const s=await fresh(t);
  for(const [i,d] of [[1,240],[2,300],[3,420]])s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at,sources) VALUES(?,'b','initial','ready','x',?,?,?,?)").run('obs'+i,'obs-'+i,1000*i,1000*i+d,JSON.stringify({snapshot_id:'obs'+i}));
  const estimate=(await s.call('/api/chat')).journey.review.estimate;assert.deepEqual(estimate,{p50_seconds:300,p90_seconds:420,basis:'observed',sample:3});
+});
+
+// ---- Corrections after the independent review (19/11) ----
+test('review fix 2: Mes précisions (memories.text) are the person’s words for quotes',()=>{
+ const words='Je note ici que les dimanches soirs sont les plus durs.';
+ const corpus=snapshotPersonCorpus({personal_memory:[{text:words,proposals:'Proposition non validée de l’IA.'}]});
+ assert.ok(corpus.includes(words));assert.ok(!corpus.includes('Proposition non validée'));
+ assert.deepEqual(reviewChecks('Vous écrivez « '+words+' ».',{corpus,labels:INTERFACE_LABELS}).failed,[]);
+});
+
+test('review fix 3: an approved review that meets a safety change at publication resumes at the publication, without a new check nor a counted attempt',async t=>{
+ const s=await fresh(t),calls=mock(t),prepare=s.env.DB.prepare.bind(s.env.DB);let raced=false;
+ s.env.DB.prepare=sql=>{const st=prepare(sql);if(sql.startsWith('SELECT (COALESCE((SELECT safety_at')&&!raced){const first=st.first.bind(st);st.first=async()=>{const row=await first();raced=true;const answers=JSON.parse(s.raw.prepare("SELECT answers FROM symptom_maps WHERE user_id='a'").get().answers);answers.idees_de_mort=1;s.raw.prepare("UPDATE symptom_maps SET answers=?,safety_at=? WHERE user_id='a'").run(JSON.stringify(answers),s.now());return row;};}return st;};
+ const r=await start(s);let row=review(s,r.review_id);
+ assert.equal(raced,true);assert.equal(row.status,'running');assert.equal(row.error_code,'safety_changed');assert.equal(row.attempts,0,'no attempt consumed');assert.equal(row.stage,'check');assert.equal(JSON.parse(row.draft).approved,true);
+ assert.equal((await s.call('/api/chat')).journey.review.stage,'publish');
+ const checks=calls.filter(c=>c.purpose==='ambre_review_check').length;
+ s.tick(61);await s.chat.resumeReviews(s.env);row=review(s,r.review_id);
+ assert.equal(row.status,'ready',row.error_code);assert.equal(calls.filter(c=>c.purpose==='ambre_review_check').length,checks,'no second check');
+ assert.equal(JSON.parse(row.sources).check.safety_added,'self_harm');assert.match((await s.call('/api/chat')).messages.at(-1).chat_message,/\b3114\b/);
+});
+
+test('review fix 5: a guard failing at publication reports the real cause (access, prerequisites), not context_changed',async t=>{
+ for(const [cause,mutate] of [['access_required',s=>s.raw.prepare("UPDATE subscriptions SET status='canceled',paid_until=0 WHERE user_id='a'").run()],['prerequisites_required',s=>s.raw.prepare("UPDATE symptom_maps SET answers=json_remove(answers,'$.'||?) WHERE user_id='a'").run(PAST.id)]]){
+  const s=await fresh(t);mock(t,{check:()=>{mutate(s);return PASS}});
+  const r=await start(s),row=review(s,r.review_id);assert.equal(row.status,'failed');assert.equal(row.error_code,cause);assert.equal(await readReviewSnapshot(s.env,'a',r.review_id),null);
+ }
+});
+
+test('review fix 6: only a portrait job the worker can run is awaited (batch, call cap and budget are not)',async t=>{
+ for(const [columns,waits] of [["'pending',0,NULL",true],["'pending',0,'batch_required'",false],["'pending',20,NULL",false],["'running',0,'generation_budget'",false]]){
+  const s=await fresh(t),calls=mock(t);
+  s.raw.prepare(`INSERT INTO journal_jobs(id,user_id,kind,source_version,memory_version,status,provider_calls,error_code) SELECT 'job1','a','portrait',version,1,${columns} FROM profiles WHERE user_id='a'`).run();
+  const r=await start(s),row=review(s,r.review_id);
+  assert.equal(row.status,waits?'running':'ready',columns);assert.equal(calls.length>0,!waits);
+ }
+});
+
+test('review minors: the fallback message asks only its own 2–3 questions; retry_at follows the oldest published review',async t=>{
+ const content='Premier constat. Est-ce que cela vous parle ? Deuxième constat, plus nuancé. Que voulez-vous en faire ?\n\nTroisième paragraphe sans question.';
+ const message=fallbackChatMessage(DIGEST,content);assert.equal((message.match(/\?/g)||[]).length,2);assert.doesNotMatch(message,/cela vous parle|voulez-vous en faire/);
+ const withQuestions=fallbackChatMessage({...DIGEST,open_questions:['Par quoi voulez-vous commencer ?','Est-ce juste ? Ou pas ?']},content);assert.match(withQuestions,/Par quoi voulez-vous commencer \?/);assert.doesNotMatch(withQuestions,/Ou pas/);
+ const s=await fresh(t);mock(t);
+ for(const [i,hours] of [[1,20],[2,10],[3,5],[4,1]])s.raw.prepare(`INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response,created_at) VALUES(?,'a',?,'review','completed','consumed','2026-11-16',1,1,'','{}',datetime('now','-${hours} hours'))`).run('pub'+i,'review-pub'+i);
+ s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,idempotency_key,created_at,completed_at,error_code) VALUES('f1','a','initial','failed','f1',?,?,'review_not_approved')").run(s.now(),s.now());
+ const failure=(await s.call('/api/chat')).journey.review.last_failure,expected=Math.floor(Date.now()/1000)-20*3600+86400;
+ assert.equal(failure.retryable,true);assert.ok(Math.abs(failure.retry_at-expected)<=5,JSON.stringify({retry_at:failure.retry_at,expected}));
 });

@@ -711,7 +711,8 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  }
  // Plan v1.1 (lot 3 contract): progress of the running review, its estimate and the last failure.
  // stage: capture (snapshot not taken yet, including the wait for a portrait refresh), reading
- // (blocks being analysed), write, check, rewrite. blocks_total is stored at the capture.
+ // (blocks being analysed), write, check, rewrite, publish (approved, publication pending or retried).
+ // blocks_total is stored at the capture.
  const REVIEW_NOT_RETRYABLE=['prerequisites_required','consent_withdrawn','access_required','snapshot_too_large','snapshot_analysis_limit','nothing_to_analyze'];
  async function observedEstimate(env){
   const cached=OBSERVED_ESTIMATES.get(env.DB);if(cached&&cached.until>now())return cached.value;
@@ -721,24 +722,24 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  async function reviewProgress(env,userId,{runningId,canGenerate,readiness,quotas,estimate}){
   const columns=await reviewColumnsReady(env),t=now();
   const [running,latest,created,settings]=await Promise.all([
-   runningId?first(env,`SELECT created_at,error_code,${columns?'stage':"'write' AS stage"},CASE WHEN json_valid(sources) THEN json_extract(sources,'$.blocks_total') END AS blocks_total,${columns?"CASE WHEN draft!='' AND json_valid(draft) THEN json_array_length(draft,'$.snapshot_chunks') END":'NULL'} AS blocks_done FROM ambre_reviews WHERE id=? AND user_id=?`,runningId,userId):null,
+   runningId?first(env,`SELECT created_at,error_code,${columns?'stage':"'write' AS stage"},CASE WHEN json_valid(sources) THEN json_extract(sources,'$.blocks_total') END AS blocks_total,${columns?"CASE WHEN draft!='' AND json_valid(draft) THEN json_array_length(draft,'$.snapshot_chunks') END":'NULL'} AS blocks_done,${columns?"CASE WHEN draft!='' AND json_valid(draft) THEN json_extract(draft,'$.approved') END":'NULL'} AS approved FROM ambre_reviews WHERE id=? AND user_id=?`,runningId,userId):null,
    first(env,'SELECT id,kind,status,error_code,lease_until,completed_at FROM ambre_reviews WHERE user_id=? ORDER BY created_at DESC,id DESC LIMIT 1',userId),
    first(env,'SELECT count,expires_at FROM rate_limits WHERE key=?',REVIEW_CREATED_KEY+userId),first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId)]);
   const settingsConsent=Boolean(settings?.consent);
   const total=running&&running.blocks_total!=null?Number(running.blocks_total):null,done=running?Math.min(total??0,Number(running.blocks_done||0)):0;
   // Values shared with the page (lot 3): capture and reading before the synthesis, then the
   // stored stage names write, check and rewrite.
-  const stage=!running?null:total===null?'capture':done<total?'reading':['check','rewrite'].includes(running.stage)?running.stage:'write';
+  const stage=!running?null:total===null?'capture':done<total?'reading':running.stage==='check'&&Number(running.approved)===1?'publish':['check','rewrite'].includes(running.stage)?running.stage:'write';
   const daily={created:created&&created.expires_at>t?Number(created.count):0,limit:REVIEW_CREATED_PER_DAY,resets_at:created&&created.expires_at>t?created.expires_at:null};
   let last_failure=null;
   // A failure is shown until a new review starts (latest is then running or ready) or its cause
   // is lifted (agreement, access or prerequisites restored): last_failure is then null.
   const lifted=code=>code==='consent_withdrawn'&&settingsConsent||code==='access_required'&&canGenerate||code==='prerequisites_required'&&readiness.complete;
   if(latest?.status==='failed'&&!lifted(latest.error_code)){
-   const code=latest.error_code||'provider_error',cooldown=await providerCooldown(env),capped=engineEnabled?await dailyCapReached(env,t):false,published=await first(env,"SELECT count(*) AS n FROM chat_turns WHERE user_id=? AND idempotency_key LIKE 'review-%' AND created_at>datetime('now','-1 day')",userId);
+   const code=latest.error_code||'provider_error',cooldown=await providerCooldown(env),capped=engineEnabled?await dailyCapReached(env,t):false,published=await first(env,"SELECT count(*) AS n,min(CAST(strftime('%s',created_at) AS INTEGER)) AS oldest FROM chat_turns WHERE user_id=? AND idempotency_key LIKE 'review-%' AND created_at>datetime('now','-1 day')",userId);
    let retryable=!REVIEW_NOT_RETRYABLE.includes(code)&&canGenerate&&readiness.complete&&!runningId,retry_at=null;
    if(retryable&&!quotas.reviews.remaining){retryable=false;retry_at=Date.parse(quotas.reviews.renews_at)/1000||null;}
-   if(retryable)retry_at=Math.max(cooldown||0,capped?t+3600:0,daily.created>=REVIEW_CREATED_PER_DAY?daily.resets_at:0,Number(published?.n||0)>=4?t+86400:0)||null;
+   if(retryable)retry_at=Math.max(cooldown||0,capped?t+3600:0,daily.created>=REVIEW_CREATED_PER_DAY?daily.resets_at:0,Number(published?.n||0)>=4?Number(published.oldest||t)+86400:0)||null;
    last_failure={id:latest.id,kind:latest.kind==='point'?'point':'initial',error_code:code,retryable,retry_at,daily_limit:REVIEW_CREATED_PER_DAY,daily_remaining:Math.max(0,REVIEW_CREATED_PER_DAY-daily.created)};
   }
   const out={stage,blocks_done:done,blocks_total:total,started_at:running?Number(running.created_at):null,last_failure,daily};
@@ -903,7 +904,9 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
  const REVIEW_WRITE_TOKENS=5600,REVIEW_CHECK_TOKENS=1500;
  // Point 5: a portrait refresh in progress is awaited at most this long before the capture.
  const PORTRAIT_WAIT_SECONDS=180,PORTRAIT_RETRY_SECONDS=20,CAPTURE_RETRIES=2;
- const PORTRAIT_PENDING_SQL="SELECT 1 AS pending FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id WHERE j.user_id=? AND j.kind='portrait' AND j.status IN ('pending','running') AND j.attempts<3 AND j.source_version=p.version LIMIT 1";
+ // Only a portrait job the portrait worker can still run (personal-backend.mjs: current version,
+ // fewer than three attempts and twenty provider calls, not parked for a batch or a budget).
+ const PORTRAIT_PENDING_SQL="SELECT 1 AS pending FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id WHERE j.user_id=? AND j.kind='portrait' AND j.status IN ('pending','running') AND j.attempts<3 AND j.provider_calls<20 AND COALESCE(j.error_code,'') NOT IN ('batch_required','generation_budget') AND j.source_version=p.version LIMIT 1";
  // Point 3: a safety signal can appear after the capture (Mes symptômes, Mon enfance). Its
  // live stamp guards the publication; a new signal imposes the resources in the message.
  const SUICIDE_OUTCOMES=CARTOGRAPHIE.outcomes.filter(o=>o.note==='suicide'&&/^[a-z0-9_]+$/.test(o.id)).map(o=>o.id);
@@ -985,6 +988,9 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
    const saved=columns?await first(env,`SELECT stage,draft FROM ambre_reviews WHERE ${held}`,review.id,review.lease_token):null;
    let stage=['check','rewrite'].includes(saved?.stage)?saved.stage:'write',draft=parse(saved?.draft,null);
    if(stage!=='write'&&!(typeof draft?.content==='string'&&draft.content))stage='write';
+   // An approved draft (verdict saved, stored stage 'check' with approved=true: the 0023 CHECK
+   // constraint has no 'publish' value) resumes directly at the publication, without a new check.
+   if(stage==='check'&&draft?.approved===true&&draft.check?.passed===true)stage='publish';
    let snapshotRow=null;
    snapshotEnabled=await snapshotStorageAvailable(env);
    if(snapshotEnabled){
@@ -993,13 +999,14 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
      // Plan v1.1 (point 5): a portrait refresh in progress is awaited (without counting an
      // attempt) at most PORTRAIT_WAIT_SECONDS after the request; past that, the capture is
      // taken without the portrait and the review says so. The portrait cron is never paused.
-     const portraitPending=Boolean(await first(env,PORTRAIT_PENDING_SQL,userId));
-     if(portraitPending&&now()-(Number(review.created_at)||now())<PORTRAIT_WAIT_SECONDS){
-      await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code='portrait_pending',lease_token=NULL,lease_until=? WHERE ${held}`,now()+PORTRAIT_RETRY_SECONDS,review.id,review.lease_token);
-      return;
-     }
      // Point 4: the capture is one consistent read; a concurrent write is re-read up to twice.
+     // The portrait state is recomputed at each try (a refresh may just have finished or started).
      for(let attempt=0;;attempt++){
+      const portraitPending=Boolean(await first(env,PORTRAIT_PENDING_SQL,userId));
+      if(portraitPending&&now()-(Number(review.created_at)||now())<PORTRAIT_WAIT_SECONDS){
+       await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code='portrait_pending',lease_token=NULL,lease_until=? WHERE ${held}`,now()+PORTRAIT_RETRY_SECONDS,review.id,review.lease_token);
+       return;
+      }
       try{
        const source=await readSnapshotSource(env,userId,review.id);
        const payload={schema_version:1,review_id:review.id,captured_at:new Date(now()*1000).toISOString(),complete:true,sections:portraitPending?{...source.sections,portrait:[]}:source.sections,question_labels:snapshotLabels(),...(portraitPending?{omitted:[{section:'portrait',reason:'refresh_pending',note:'Le portrait était en cours de recalcul au moment de la capture ; il n’est pas inclus dans ce bilan.'}]}:{})};
@@ -1028,6 +1035,8 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
    // Why a guarded write did not apply while the lease is held: a deleted snapshot item first.
    const casFailure=async(extra=null)=>{
     if(presence&&!await first(env,`SELECT 1 AS ok WHERE ${presence.sql}`,...presence.args))return 'sources_changed';
+    // The real cause before a generic one: agreement, access, prerequisites (all final codes).
+    try{await requireCompanionGenerationAccess(env,userId,{at:now()});}catch(error){if(['consent_withdrawn','access_required','prerequisites_required'].includes(error.code))return error.code;throw error;}
     if(extra&&!await first(env,`SELECT 1 AS ok WHERE ${extra.sql}`,...extra.args))return 'safety_changed';
     return 'context_changed';
    };
@@ -1077,7 +1086,7 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
     let output;try{output=JSON.parse(stripFence(result.raw));}catch{throw Object.assign(new Error('invalid check'),{code:'invalid_check'});}
     const verdict={...reviewVerdict(output,deterministic),invented:deterministic.invented,rewritten:Boolean(draft.rewritten)};
     draft.check=verdict;progressed=true;
-    if(verdict.passed){stage='publish';break;}
+    if(verdict.passed){draft.approved=true;await keep('check');stage='publish';break;}
     if(draft.rewritten)throw Object.assign(new Error('not approved'),{code:'review_not_approved',verdict});
     stage='rewrite';await keep('rewrite');
    }
@@ -1091,7 +1100,8 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
     if(needed){
      safetyAdded=needed;
      if(!hasResources(chatMessage,needed))chatMessage='Depuis la préparation de ce bilan, une information sur votre sécurité a été enregistrée. '+(needed==='violence'?VIOLENCE_RESOURCES:CRISIS_RESOURCES)+'\n\n'+chatMessage;
-     if(!hasResources(content,needed))content=ensureSafetyResources(content,needed);
+     // In first position, as the writer is asked to do for a signal present at the capture.
+     if(!hasResources(content,needed))content=(needed==='violence'?VIOLENCE_RESOURCES:CRISIS_RESOURCES)+'\n\n'+content;
     }
    }
    meta.check={passed:true,rewritten:Boolean(check.rewritten),failed:check.failed,...(draft.digest?.dropped?{digest_dropped:draft.digest.dropped}:{}),...(draft.chat_fallback?{chat_fallback:true}:{}),...(safetyAdded?{safety_added:safetyAdded}:{})};
@@ -1103,7 +1113,7 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
     stmt(env,`UPDATE ambre_reviews SET status='ready',content=?,sources=?,error_code=NULL,lease_token=NULL,lease_until=0,completed_at=?${columns?",digest=?,stage='done',draft=''":''} WHERE ${held} AND ${cas.sql} AND EXISTS(SELECT 1 FROM chat_turns WHERE user_id=? AND idempotency_key=?)`,content,JSON.stringify(meta),t,...(columns?[JSON.stringify(draft.digest||{})]:[]),review.id,review.lease_token,...cas.args,userId,turnKey)
    ]);
    // safety_changed is not final: the next run recomputes the live signal before publishing.
-   if(!results[1].meta.changes)throw Object.assign(new Error('Sources changed'),{code:!(await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent?'consent_withdrawn':await casFailure(publishGuard)});
+   if(!results[1].meta.changes)throw Object.assign(new Error('Sources changed'),{code:await casFailure(publishGuard)});
   }catch(e){
    try{
     // An unchecked draft never outlives a failed review.
@@ -1129,7 +1139,14 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
      await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code='review_deferred',lease_token=NULL,lease_until=? WHERE ${held}`,t,review.id,review.lease_token).catch(()=>{});
      return;
     }
-    const code=timeout?'provider_timeout':/^(?:provider_http_\d{3}|invalid_response|invalid_check|context_changed|safety_changed)$/.test(e.code||'')||REVIEW_FINAL.includes(e.code)?e.code:'provider_error';
+    // A safety signal changed between the live read and the publication: the approved draft is kept
+   // and the publication is retried by the next cron run without counting an attempt (bounded by
+   // the ten-minute window of a running review).
+   if(e.code==='safety_changed'&&t-(Number(review.created_at)||t)<600){
+    await run(env,`UPDATE ambre_reviews SET attempts=max(0,attempts-1),error_code='safety_changed',lease_token=NULL,lease_until=? WHERE ${held}`,t,review.id,review.lease_token).catch(()=>{});
+    return;
+   }
+   const code=timeout?'provider_timeout':/^(?:provider_http_\d{3}|invalid_response|invalid_check|context_changed|safety_changed)$/.test(e.code||'')||REVIEW_FINAL.includes(e.code)?e.code:'provider_error';
     // Keep the review running for the cron unless the cause is final or the cap is reached.
     await run(env,`UPDATE ambre_reviews SET status=CASE WHEN ? OR attempts>=? THEN 'failed' ELSE 'running' END,completed_at=CASE WHEN ? OR attempts>=? THEN ? ELSE NULL END,error_code=?,lease_token=NULL,lease_until=?${columns?",draft=CASE WHEN ? OR attempts>=? THEN '' ELSE draft END":''} WHERE ${held}`,Number(REVIEW_FINAL.includes(code)),REVIEW_ATTEMPTS,Number(REVIEW_FINAL.includes(code)),REVIEW_ATTEMPTS,t,code,timeout?t:t+Number(e.retryAfter||30),...(columns?[Number(REVIEW_FINAL.includes(code)),REVIEW_ATTEMPTS]:[]),review.id,review.lease_token).catch(()=>{});
    }finally{

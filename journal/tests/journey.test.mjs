@@ -132,6 +132,14 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  assert.equal(chatContext.last_review.kind,'initial');assert.ok(chatContext.last_review.text.length<=3900);assert.ok(chatContext.last_review.text.startsWith('Ce qui semble ressortir.'));
  assert.ok(chatRequest.messages.slice(2).every(m=>m.content!==''),'a review is not replayed as an empty dialogue turn');
  assert.equal(chatRequest.messages.length,3);
+ {// Plan v1.1 (relecture) : hors de la fenêtre des derniers échanges, last_review relit aussi le document complet, pas chat_message.
+  const week=s.raw.prepare("SELECT week_start FROM chat_turns WHERE user_id='a' LIMIT 1").get().week_start;
+  for(let i=0;i<14;i++)s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response) VALUES(?,'a',?,'h','completed','consumed',?,1,1,?,?)").run('old-'+i,'old_turn_'+i,week,'Échange ancien '+i,JSON.stringify({companion_reply:1,content:'Réponse '+i}));
+  const r2=await s.call('/api/chat/messages','POST',{content:'Je reviens sur ce bilan.',idempotency_key:'window_message_1'});assert.equal(r2.status,200,JSON.stringify(r2));
+  const windowContext=contextOf(requests.at(-1));assert.ok(windowContext.last_review.text.startsWith('Ce qui semble ressortir.'),'outside the window: the full review, not the conversation message');
+  const extra="SELECT id FROM chat_turns WHERE id LIKE 'old-%' OR idempotency_key='window_message_1'";
+  s.raw.prepare(`DELETE FROM monthly_usage WHERE operation_id IN (${extra})`).run();s.raw.prepare(`DELETE FROM chat_turn_traces WHERE turn_id IN (${extra})`).run();s.raw.prepare(`DELETE FROM chat_turns WHERE id IN (${extra})`).run();
+ }
 
  r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_001'});
  assert.equal(r.status,429);assert.equal(r.code,'review_quota_exhausted');assert.equal(r.retry_at,renewal(s));assert.equal(typeof r.error,'string');
