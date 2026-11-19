@@ -1,5 +1,8 @@
 # Reprise du 19 novembre 2026 (passage à Codex)
 
+> **Dernière livraison : PR 107**, symptômes passés, archives des bilans, Mes diagnostics et suivi psychologue ; migrations jusqu’à 0032. Lire [le compte rendu](livraison-bilans-historiques-2026-11-19.md). Code publié et recette fonctionnelle validée ; génération réelle des bilans bloquée par OpenRouter HTTP 402.
+
+
 > **Chantier terminé et publié le 19 novembre 2026.** Les PR 105 et 106 remplacent la v1 par Mes symptômes v2 ; les migrations 0029 et 0030 sont appliquées et inscrites. Lire désormais [la livraison v2](livraison-symptomes-v2-2026-11-19.md) pour l’état exact, les preuves et les décisions restantes. Le texte ci-dessous conserve l’état historique au démarrage : ses mentions « à faire », « non fait » et « v1 en ligne » ne décrivent plus la production. Ne pas rejouer les migrations.
 
 ## État historique avant reprise

@@ -1,6 +1,6 @@
 # Bilans historiques, symptômes passés et suivi — 19 novembre 2026
 
-Base publiée : e106deb, PR 105/106. Branche : codex/bilans-historique-nov19.
+Base : e106deb, PR 105/106. Lot publié par la PR 107. Voir [la livraison et le blocage fournisseur](livraison-bilans-historiques-2026-11-19.md). Branche : codex/bilans-historique-nov19.
 
 | Exigence | Critère observable | Responsable | État |
 |---|---|---|---|
@@ -13,7 +13,7 @@ Base publiée : e106deb, PR 105/106. Branche : codex/bilans-historique-nov19.
 | R7 | Recherche OMS/CDDR, HAS, NICE ; couverture explicite des sujets et absence de probabilité diagnostique inventée | Clinique | Réalisé, tests locaux réussis |
 | R8 | Prochain rendez-vous saisissable/modifiable/supprimable depuis Mon compte, contexte Ambre actualisé | Principal + UI | Réalisé, tests locaux réussis |
 | R9 | Dossier psychologue enrichi, accès révocable limité aux rubriques autorisées, provenance de la mémoire et des conclusions conservée | Principal | Réalisé, tests locaux réussis |
-| R10 | Export, effacement, sécurité entre comptes, relecture indépendante, tests, migrations et déploiement vérifiés | Principal | Tests locaux et relectures réussis ; publication et recette en ligne en cours |
+| R10 | Export, effacement, sécurité entre comptes, relecture indépendante, tests, migrations et déploiement vérifiés | Principal | Publié, migrations et recette fonctionnelle vérifiées ; génération IA réelle bloquée par OpenRouter HTTP 402 |
 
 ## Décisions d’architecture
 
