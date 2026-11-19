@@ -67,5 +67,8 @@
     </article>
     {{ end }}
   </div>
-  <script id="character-search-index" type="application/json">{{ $searchIndex | jsonify | safeJS }}</script>
+  {{/* Lot P : l’index (plus d’un mégaoctet) n’est plus dans la page. Fichier nommé par son contenu, mis en cache sans limite et lu à la première frappe ou au premier focus du champ. */}}
+  {{ $indexJSON := $searchIndex | jsonify }}
+  {{ $indexFile := resources.FromString (printf "js/character-search-index.%s.json" (md5 $indexJSON)) $indexJSON }}
+  <script id="character-search-config" type="application/json">{{ dict "index" $indexFile.RelPermalink | jsonify | safeJS }}</script>
 </section>
