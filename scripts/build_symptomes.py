@@ -211,7 +211,7 @@ def check_expr(expr, qids: set, where: str) -> None:
         if expr["score"] not in INSTRUMENTS - {"itq"}:
             fail(f"{where} : score inconnu")
     elif keys == {"itq_result"}:
-        if expr["itq_result"] not in {"tspt", "tspt_c", "aucun"}:
+        if expr["itq_result"] not in {"tspt", "tspt_c", "aucun", "non_passe"}:
             fail(f"{where} : résultat ITQ inconnu")
     elif keys == {"itq_cluster"}:
         pass
@@ -382,8 +382,19 @@ def validate(data: dict, carto: dict) -> dict:
             check_expr(r["when"], all_qids, where)
             if r["kind"] not in {"grappe", "contexte"} and not r["result_positive"]:
                 fail(f"{where} : texte positif manquant")
-            for key in ("result_positive", "result_negative"):
+            for key in ("result_positive", "result_negative", "positive_note_text"):
                 check_text(r.get(key, ""), where)
+            note = r.get("positive_note")
+            if note not in {"positive_note", "site_note", "aucune", "texte"}:
+                fail(f"{where} : positive_note inconnue")
+            if note in {"positive_note", "site_note"} and note not in data["fixed_texts"]:
+                fail(f"{where} : texte fixe {note} absent")
+            if note == "texte" and not r.get("positive_note_text"):
+                fail(f"{where} : positive_note_text manquant")
+            if r["kind"] == "repere_site" and note == "positive_note":
+                fail(f"{where} : un repère du site ne prend pas la phrase des seuils")
+            if r["kind"] in {"orientation", "contexte", "entree"} and r["subjects"]:
+                fail(f"{where} : une orientation ne croise aucun sujet")
             for sid in r["subjects"]:
                 o = outcomes.get(sid)
                 if not o:
@@ -399,6 +410,8 @@ def validate(data: dict, carto: dict) -> dict:
                 subject_modules.setdefault(sid, [])
                 if mid not in subject_modules[sid]:
                     subject_modules[sid].append(mid)
+        if m.get("crossing_suspended_if"):
+            check_expr(m["crossing_suspended_if"]["when"], all_qids, f"{mid} suspension du croisement")
         if not any(r.get("result_negative") for r in m["rules"]) and not m.get("module_negative"):
             fail(f"{mid} : texte de résultat négatif manquant")
     # Safety
@@ -430,9 +443,9 @@ def build(data: dict, extra: dict) -> dict:
             "id": m["id"], "order": m["order"], "label": m["label"], "temps": m["temps"], "sensible": m["sensible"],
             "icd11": m["icd11"], "retest_days": m["_retest_days"], "entry": m["entry"], **({"deepen": m["deepen"]} if m.get("deepen") else {}),
             "questions": [{k: q[k] for k in keep_q if k in q} for q in m["questions"]],
-            "rules": [{k: r[k] for k in ("id", "kind", "when", "result_positive", "result_negative", "subjects", "instrument", "exclusive_group", "display") if k in r} for r in m["rules"]],
+            "rules": [{k: r[k] for k in ("id", "kind", "when", "result_positive", "result_negative", "subjects", "instrument", "exclusive_group", "display", "display_negative", "positive_note", "positive_note_text", "high_note_from") if k in r} for r in m["rules"]],
             **({"module_negative": m["module_negative"]} if m.get("module_negative") else {}),
-            **({"medical_note": m["medical_note"]} if m.get("medical_note") else {}),
+            **{k: m[k] for k in ("medical_note", "intro", "intro_privacy", "crossing_suspended_if", "entry_note") if m.get(k)},
         })
     used = {m["entry"].get("instrument") for m in published} | {m.get("deepen", {}).get("instrument") for m in published}
     used |= {b.get("instrument") for m in published for b in m.get("deepen", {}).get("branches", [])}

@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "version": "2026-11-19.1",
- "status": "lot 0 : contenu relu, non intégré à l’interface",
+ "status": "lot 0 : contenu relu par un relecteur distinct, corrections appliquées ; non intégré à l’interface",
  "plan": "docs/plan-mes-symptomes-2026-11-19.md (version 1.1)",
  "contract": "docs/symptomes-contrat-2026-11-19.md",
  "review": "docs/relecture-clinique-symptomes-2026-11-19.md",
@@ -264,9 +264,25 @@
   "crossing_title": "Présent dans vos deux questionnaires",
   "crossing_note": "Beaucoup de personnes ayant ces vécus n’ont pas ces difficultés, et inversement ; ce rapprochement ne montre pas une cause.",
   "crossing_symptoms_only": "Signalé aujourd’hui seulement",
-  "crossing_childhood_only": "Lié à vos vécus, sans difficulté signalée aujourd’hui",
+  "crossing_childhood_only": "Souvent associé, dans la recherche, à des vécus comme les vôtres ; non signalé chez vous aujourd’hui",
   "crossing_childhood_only_note": "Ces associations sont statistiques ; ne pas les retrouver chez vous est fréquent.",
-  "what_next": "Et maintenant ? Vous pouvez en parler à votre médecin traitant ou à un psychologue, en parler avec Ambre, ou refaire ce module plus tard."
+  "what_next": "Et maintenant ? Vous pouvez en parler à votre médecin traitant, à un psychologue (dispositif Mon soutien psy) ou à un centre médico-psychologique (CMP, gratuit), en parler avec Ambre, ou refaire ce module plus tard.",
+  "site_note": "Ce repère décrit une façon de fonctionner, pas un trouble. Si elle vous pèse, en parler à un professionnel peut aider.",
+  "high_note": "À ce niveau de score, un rendez-vous avec un médecin ou un psychologue dans les prochains jours est conseillé.",
+  "gene_absente_trouble": "Vous n’indiquez pas de gêne dans votre vie : sans gêne ni souffrance, ces éléments ne sont en général pas considérés comme un trouble.",
+  "gene_absente_trouble_except": [
+   "alimentation",
+   "bipolaire",
+   "perceptions",
+   "alcool",
+   "cannabis",
+   "autres_substances",
+   "jeu_ecrans"
+  ],
+  "several_positive": "Plusieurs repères positifs décrivent souvent une seule et même difficulté.",
+  "crossing_childhood_only_collapsed": true,
+  "privacy_sensitive": "Vos réponses sont des données de santé : elles restent privées, vous pouvez les exporter ou les effacer à tout moment.",
+  "methode_absences": "Cette page ne repère pas le TDAH, l’autisme ni les phobies spécifiques ; certaines difficultés (impulsivité, relations, émotions) peuvent aussi en relever."
  },
  "safety": {
   "universal_question": {
@@ -302,7 +318,8 @@
     },
     "kind": "suicide",
     "screen": "bloquant",
-    "moment": "dès la réponse, avant la fin du PHQ-9"
+    "moment": "dès la réponse, avant la fin du PHQ-9",
+    "note": "même écran quel que soit le score total"
    },
    {
     "id": "automutilation",
@@ -335,6 +352,28 @@
      ]
     },
     "kind": "suicide",
+    "screen": "doux"
+   },
+   {
+    "id": "automutilation_pref",
+    "when": {
+     "q": "reg_automutilation",
+     "in": [
+      "pref"
+     ]
+    },
+    "kind": "automutilation",
+    "screen": "doux"
+   },
+   {
+    "id": "violences_pref",
+    "when": {
+     "q": "rel_violences",
+     "in": [
+      "pref"
+     ]
+    },
+    "kind": "violences",
     "screen": "doux"
    }
   ],
@@ -392,7 +431,15 @@
    {
     "id": "3919",
     "number": "3919",
-    "label": "Violences Femmes Info : violences conjugales, sexuelles ou sexistes, écoute anonyme et gratuite",
+    "label": "Violences Femmes Info : violences conjugales, sexuelles ou sexistes, écoute anonyme et gratuite, 24 h/24 et 7 j/7",
+    "show": [
+     "violences"
+    ]
+   },
+   {
+    "id": "116006",
+    "number": "116 006",
+    "label": "France Victimes, aide gratuite pour toute personne victime",
     "show": [
      "violences"
     ]
@@ -409,7 +456,7 @@
    {
     "id": "fil_sante_jeunes",
     "number": "0 800 235 236",
-    "label": "Fil Santé Jeunes, écoute gratuite et anonyme pour les jeunes",
+    "label": "Fil Santé Jeunes, écoute gratuite et anonyme pour les 12-25 ans",
     "show": [
      "mineur",
      "jeune_adulte"
@@ -420,13 +467,13 @@
    "blocking_screen": {
     "opening": "Merci de l’avoir dit.",
     "buttons": [
-     "Continuer le questionnaire",
-     "Parler à Ambre",
-     "Arrêter"
+     "Écrire à Ambre (assistant automatique, pas un service d’urgence)",
+     "Arrêter",
+     "Continuer le questionnaire"
     ],
     "delay_seconds": 0,
     "dismiss_by_outside_click": false,
-    "always": "Ce site ne peut pas intervenir en urgence. Si vous êtes en danger maintenant, appelez le 15 ou le 112.",
+    "always": "Ce site ne peut pas intervenir en urgence. Le 3114 répond à toute heure, gratuitement : des professionnels vous écoutent. Si vous êtes en danger maintenant, appelez le 15 ou le 112.",
     "order": [
      "15",
      "112",
@@ -434,9 +481,22 @@
      "114",
      "17",
      "3919",
+     "116006",
      "119",
      "fil_sante_jeunes"
-    ]
+    ],
+    "resources_stay_visible": true,
+    "quick_exit": {
+     "kinds": [
+      "violences"
+     ],
+     "label": "Quitter vite cette page"
+    },
+    "ambre_button_condition": "retirer le bouton si Ambre ne suit pas le protocole de sécurité déterministe existant (chat-safety.mjs) ; à vérifier au lot C",
+    "messages": {
+     "automutilation": "Merci de l’avoir dit. Se blesser est souvent une façon de supporter une souffrance très forte. Vous pouvez en parler à un médecin, ou au 3114 à toute heure. Blessure grave : 15.",
+     "violences": "Merci de l’avoir dit. Personne n’a le droit de vous faire peur, de vous frapper, de vous humilier ou de vous forcer. Vous pouvez en parler au 3919, à toute heure, ou à France Victimes (116 006). En danger : 17 ou 112."
+    }
    },
    "soft_block": {
     "when": "securite_pref",
@@ -451,7 +511,11 @@
     "risque élevé"
    ],
    "results_banner_days": 14,
-   "notifications_externes": false
+   "notifications_externes": false,
+   "soft_block_by_kind": {
+    "automutilation": "Si des idées de suicide ou de vous faire du mal vous traversent, vous pouvez appeler le 3114, à toute heure. En cas de danger immédiat : 15 ou 112.",
+    "violences": "Si vous vivez des violences, le 3919 répond à toute heure ; en danger, appelez le 17 ou le 112."
+   }
   },
   "adult_gate": {
    "min_age": 18,
@@ -635,7 +699,8 @@
     "phq_manual"
    ],
    "retest_days": 14,
-   "licence": "phq_gad"
+   "licence": "phq_gad",
+   "wording": "seuil d’entrée du site, jamais présenté comme « repère publié » (seuil publié : 3)"
   },
   "gad7": {
    "name": "GAD-7",
@@ -756,7 +821,8 @@
     "phq_manual"
    ],
    "retest_days": 14,
-   "licence": "phq_gad"
+   "licence": "phq_gad",
+   "wording": "seuil d’entrée du site, jamais présenté comme « repère publié » (seuil publié : 3)"
   },
   "phq15": {
    "name": "PHQ-15",
@@ -874,7 +940,8 @@
     "type": "somme",
     "min": 0,
     "max": 30,
-    "missing": "aucun score si un item manque (hors 1d non concerné)"
+    "missing": "aucun score si un item manque (hors 1d non concerné)",
+    "max_placeholder": "{max} = 30, ou 28 si l’item 1d est « non concerné »"
    },
    "bands": [
     {
@@ -1150,6 +1217,10 @@
      {
       "id": "aucun",
       "when": "NON tspt"
+     },
+     {
+      "id": "non_passe",
+      "when": "exposition_evenement ≠ oui : ITQ non proposé, aucun résultat affiché"
      }
     ],
     "exclusive": true,
@@ -1177,7 +1248,8 @@
    "transcription_notes": [
     "texte, ponctuation et écriture inclusive (« contrarié.e ») recopiés tels quels",
     "la fiche Cn2r parle de « diagnostic probable » : jamais repris par le site"
-   ]
+   ],
+   "site_intro": "Les questions suivantes parlent des suites de cet événement. Vous pouvez vous arrêter à tout moment."
   }
  },
  "modules": [
@@ -1188,8 +1260,7 @@
    "icd11": [
     "6A70",
     "6A71",
-    "6A72",
-    "6E20"
+    "6A72"
    ],
    "entry": {
     "instrument": "phq2",
@@ -1224,24 +1295,25 @@
     },
     {
      "id": "humeur_perinatal",
-     "text": "Êtes-vous enceinte, ou avez-vous accouché au cours des 12 derniers mois ?",
+     "text": "Êtes-vous enceinte, ou un enfant est-il né dans votre foyer au cours des 12 derniers mois ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "contexte",
      "validated": false,
      "label": "repere_non_valide",
      "basis": {
-      "source": "cddr2024",
-      "code": "6E20"
+      "source": "site",
+      "note": "contexte ; la CIM-11 (6E20) ne couvre que les ~6 semaines après l’accouchement"
      },
      "rewritten": "v1.1",
-     "note": "question de contexte : ne change aucun score ; ajoute l’orientation périnatale (médecin, sage-femme, PMI)"
+     "note": "question de contexte : ne change aucun score ; ajoute l’orientation périnatale (médecin, sage-femme, PMI)",
+     "revised": "relecture"
     },
     {
      "id": "humeur_gene",
      "text": "Ces difficultés vous gênent-elles dans votre vie (travail, études, relations, vie quotidienne) ?",
      "scale": "non_un_peu_nettement",
-     "period": "mois",
+     "period": "2_semaines",
      "role": "gene",
      "validated": false,
      "label": "repere_non_valide",
@@ -1257,13 +1329,15 @@
       "score": "phq9",
       "gte": 10
      },
-     "result_positive": "Vos réponses au PHQ-9 sont au-dessus du repère publié de 10 (score {score} sur 27, palier « {level} », Kroenke et al. 2001). Ce palier décrit l’intensité des symptômes ces deux dernières semaines.",
+     "result_positive": "Vos réponses au PHQ-9 atteignent ou dépassent le repère publié de 10 (score {score} sur 27, palier « {level} », Kroenke et al. 2001). Ce palier décrit l’intensité des symptômes ces deux dernières semaines.",
      "result_negative": "Vos réponses au PHQ-9 sont en dessous du repère publié de 10 (score {score} sur 27{level_clause}).",
      "subjects": [
       "dep_generale"
      ],
      "kind": "instrument",
-     "instrument": "phq9"
+     "instrument": "phq9",
+     "high_note_from": 15,
+     "positive_note": "positive_note"
     },
     {
      "id": "phq2_entree",
@@ -1276,7 +1350,8 @@
      "subjects": [],
      "kind": "entree",
      "instrument": "phq2",
-     "display": "si_phq9_absent"
+     "display": "si_phq9_absent",
+     "positive_note": "aucune"
     },
     {
      "id": "repere_humeur_duree",
@@ -1291,7 +1366,8 @@
      "subjects": [
       "icd_6a72"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "contexte_perinatal",
@@ -1301,17 +1377,34 @@
        "oui"
       ]
      },
-     "result_positive": "Pendant la grossesse et l’année qui suit une naissance, une sage-femme, un médecin ou la PMI peuvent vous accompagner.",
+     "result_positive": "Pendant la grossesse et l’année qui suit une naissance, une sage-femme, un médecin ou la PMI peuvent vous accompagner. Si des pensées vous effraient, pour vous ou pour votre bébé, parlez-en vite à un médecin ; à toute heure, le 3114 répond.",
      "result_negative": "",
      "subjects": [],
-     "kind": "contexte"
+     "kind": "contexte",
+     "positive_note": "aucune"
+    },
+    {
+     "id": "orientation_humeur_haute",
+     "kind": "orientation",
+     "when": {
+      "score": "phq9",
+      "gte": 10
+     },
+     "result_positive": "Si vous avez aussi connu des périodes d’énergie ou d’humeur inhabituellement hautes, dites-le au professionnel : cela compte pour le choix de l’aide.",
+     "positive_note": "aucune",
+     "subjects": [],
+     "result_negative": ""
     }
    ],
    "notes": "Résultats sans nom de trouble ; paliers 5–9 affichés.",
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 1
   },
@@ -1371,13 +1464,15 @@
       "score": "gad7",
       "gte": 10
      },
-     "result_positive": "Vos réponses au GAD-7 sont au-dessus du repère publié de 10 (score {score} sur 21, palier « {level} », Spitzer et al. 2006 ; manuel officiel). Ce palier décrit l’intensité de l’anxiété ces deux dernières semaines.",
+     "result_positive": "Vos réponses au GAD-7 atteignent ou dépassent le repère publié de 10 (score {score} sur 21, palier « {level} », Spitzer et al. 2006 ; manuel officiel). Ce palier décrit l’intensité de l’anxiété ces deux dernières semaines. Le café, certains médicaments ou un problème de thyroïde peuvent donner des signes proches ; un médecin peut le vérifier.",
      "result_negative": "Vos réponses au GAD-7 sont en dessous du repère publié de 10 (score {score} sur 21{level_clause}).",
      "subjects": [
       "anx_generale"
      ],
      "kind": "instrument",
-     "instrument": "gad7"
+     "instrument": "gad7",
+     "high_note_from": 15,
+     "positive_note": "positive_note"
     },
     {
      "id": "gad2_entree",
@@ -1390,7 +1485,8 @@
      "subjects": [],
      "kind": "entree",
      "instrument": "gad2",
-     "display": "si_gad7_absent"
+     "display": "si_gad7_absent",
+     "positive_note": "aucune"
     },
     {
      "id": "repere_anxiete_duree",
@@ -1412,13 +1508,18 @@
      "result_negative": "",
      "subjects": [],
      "kind": "repere",
-     "display": "si_positif"
+     "display": "si_positif",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 2
   },
@@ -1529,9 +1630,9 @@
     },
     {
      "id": "deuil_douleur",
-     "text": "Depuis, son absence vous occupe-t-elle presque chaque jour, avec un manque ou une douleur très intense ?",
+     "text": "Aujourd’hui encore, pensez-vous à cette personne ou vous manque-t-elle presque chaque jour, avec une douleur très intense ?",
      "scale": "non_oui_nsp",
-     "period": "depuis_deces",
+     "period": "mois",
      "role": "repere",
      "validated": false,
      "label": "repere_non_valide",
@@ -1539,7 +1640,8 @@
       "source": "cddr2024",
       "code": "6B42"
      },
-     "rewritten": "v1.1"
+     "rewritten": "v1.1",
+     "revised": "relecture"
     },
     {
      "id": "adaptation_evenement",
@@ -1589,44 +1691,46 @@
      "when": {
       "itq_result": "tspt"
      },
-     "result_positive": "Vos réponses à l’ITQ remplissent la règle publiée pour le stress post-traumatique (TSPT) de la CIM-11 (Cloitre et al. 2018 ; version française Peraud et al. 2022). C’est un repère de questionnaire ; un professionnel formé au psychotraumatisme peut faire le point avec vous.",
-     "result_negative": "Vos réponses à l’ITQ ne remplissent pas la règle publiée ce mois-ci.",
-     "subjects": [
-      "icd_6b40"
-     ],
-     "kind": "instrument",
-     "instrument": "itq",
-     "exclusive_group": "itq"
-    },
-    {
-     "id": "itq_tspt_c",
-     "when": {
-      "itq_result": "tspt_c"
-     },
-     "result_positive": "Vos réponses à l’ITQ remplissent la règle publiée pour le stress post-traumatique complexe (TSPT-C) de la CIM-11 (Cloitre et al. 2018 ; version française Peraud et al. 2022). C’est un repère de questionnaire ; un professionnel formé au psychotraumatisme peut faire le point avec vous.",
-     "result_negative": "",
+     "result_positive": "Vos réponses à l’ITQ remplissent la règle publiée pour le stress post-traumatique (TSPT) de la CIM-11 (Cloitre et al. 2018 ; version française Peraud et al. 2022). C’est un repère de questionnaire, pas un diagnostic ; un professionnel formé au psychotraumatisme peut faire le point avec vous.",
+     "result_negative": "Vos réponses à l’ITQ ne remplissent pas la règle publiée pour le dernier mois.",
      "subjects": [
       "icd_6b40"
      ],
      "kind": "instrument",
      "instrument": "itq",
      "exclusive_group": "itq",
-     "subjects_note": "la CIM-11 inclut toutes les exigences du TSPT dans le TSPT-C ; le sujet « TSPT complexe » (icd_6b41) est contextuel dans la cartographie et ne peut pas être croisé"
+     "display_negative": "si_itq_aucun",
+     "positive_note": "positive_note"
+    },
+    {
+     "id": "itq_tspt_c",
+     "when": {
+      "itq_result": "tspt_c"
+     },
+     "result_positive": "Vos réponses à l’ITQ remplissent la règle publiée pour le stress post-traumatique complexe (TSPT-C) de la CIM-11 (Cloitre et al. 2018 ; version française Peraud et al. 2022). C’est un repère de questionnaire, pas un diagnostic ; un professionnel formé au psychotraumatisme peut faire le point avec vous.",
+     "result_negative": "",
+     "subjects": [],
+     "kind": "instrument",
+     "instrument": "itq",
+     "exclusive_group": "itq",
+     "subjects_note": "6B40 et 6B41 s’excluent dans la CIM-11 et le libellé affiché du sujet icd_6b40 est « Trouble de stress post-traumatique » : aucun croisement (relecture)",
+     "positive_note": "positive_note"
     },
     {
      "id": "itq_menace",
      "when": {
       "itq_cluster": "menace"
      },
-     "result_positive": "",
+     "result_positive": "Vous indiquez être souvent sur vos gardes ou sursauter facilement depuis cet événement.",
      "result_negative": "",
      "subjects": [
       "ten_hypervigilance"
      ],
      "kind": "grappe",
      "instrument": "itq",
-     "display": "croisement_seulement",
-     "note": "grappe « sentiment de menace » (P5 ou P6 ≥ 2) : sert uniquement au croisement, jamais affichée comme résultat séparé"
+     "display": "si_positif",
+     "note": "grappe « sentiment de menace » (P5 ou P6 ≥ 2) : sert uniquement au croisement, jamais affichée comme résultat séparé",
+     "positive_note": "aucune"
     },
     {
      "id": "repere_deuil",
@@ -1643,13 +1747,21 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "q": "trauma_gene",
+        "in": [
+         "un_peu",
+         "nettement"
+        ]
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour un deuil qui reste très douloureux longtemps après la perte. Le chagrin est normal ; un professionnel peut vous aider s’il vous empêche de vivre.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour un deuil qui reste très douloureux longtemps après la perte. Le chagrin est normal ; un professionnel peut vous aider s’il vous empêche de vivre. La durée d’un deuil varie selon les personnes, les familles et les cultures.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de deuil.",
      "subjects": [],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_adaptation",
@@ -1666,13 +1778,44 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "not": {
+         "any": [
+          {
+           "itq_result": "tspt"
+          },
+          {
+           "itq_result": "tspt_c"
+          }
+         ]
+        }
+       },
+       {
+        "not": {
+         "all": [
+          {
+           "q": "deuil_deces",
+           "in": [
+            "oui"
+           ]
+          },
+          {
+           "q": "deuil_douleur",
+           "in": [
+            "oui"
+           ]
+          }
+         ]
+        }
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une difficulté à s’adapter après un événement de vie.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une difficulté à s’adapter après un événement de vie. Ce repère ne s’applique pas si une autre difficulté (humeur, deuil, stress post-traumatique) décrit mieux ce que vous vivez.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère d’adaptation.",
      "subjects": [],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "subjects_excluded": {
@@ -1682,9 +1825,13 @@
    },
    "notes": "Aucun récit demandé ; aucun champ libre dans ce module.",
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 3
   },
@@ -1776,7 +1923,7 @@
     },
     {
      "id": "panique_inquietude",
-     "text": "Depuis, avez-vous craint pendant des semaines qu’elles reviennent, ou changé vos habitudes pour les éviter ?",
+     "text": "Depuis ces crises, craignez-vous souvent qu’elles reviennent, ou avez-vous changé vos habitudes pour les éviter ?",
      "scale": "non_oui_nsp",
      "period": "dernier_mois",
      "role": "repere",
@@ -1786,7 +1933,8 @@
       "source": "cddr2024",
       "code": "6B01"
      },
-     "rewritten": "v1.1"
+     "rewritten": "v1.1",
+     "revised": "relecture"
     },
     {
      "id": "agoraphobie_peur",
@@ -1804,7 +1952,7 @@
     },
     {
      "id": "agoraphobie_raison",
-     "text": "Cette peur vient-elle surtout de l’idée qu’il serait difficile d’en partir ou d’être aidé(e) en cas de malaise ?",
+     "text": "Cette peur vient-elle surtout de l’idée qu’il serait difficile d’en partir ou d’être aidé(e) en cas de malaise ou de crise de peur ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -1814,7 +1962,8 @@
       "source": "cddr2024",
       "code": "6B02"
      },
-     "rewritten": "v1.1"
+     "rewritten": "v1.1",
+     "revised": "relecture"
     },
     {
      "id": "agoraphobie_evitement",
@@ -1868,12 +2017,13 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des crises de panique répétées. Des sensations physiques fortes méritent aussi un avis médical, pour vérifier qu’aucune cause physique n’est en jeu.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des crises de panique répétées. Ces sensations méritent aussi un avis médical : cœur, thyroïde, café, cannabis ou médicaments peuvent donner des crises semblables. Une douleur dans la poitrine ou un malaise inhabituel : appelez le 15.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de crises de panique ce mois-ci.",
      "subjects": [
       "icd_6b01"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_agoraphobie",
@@ -1904,13 +2054,18 @@
      "subjects": [
       "icd_6b02"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 4
   },
@@ -2021,13 +2176,18 @@
      "subjects": [
       "icd_6b04"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "relu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": false
    },
    "order": 5
   },
@@ -2137,18 +2297,23 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une peur intense et durable d’être séparé(e) de ses proches.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une peur intense et durable d’être séparé(e) de ses proches. Si cette peur répond à une situation réelle (proche malade, danger), ce repère ne s’applique pas.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de peur de la séparation.",
      "subjects": [
       "icd_6b05"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 6
   },
@@ -2247,7 +2412,7 @@
    "questions": [
     {
      "id": "toc_pensees",
-     "text": "Ces derniers mois, des pensées, des images ou des envies vous sont-elles revenues encore et encore, contre votre gré, en vous angoissant ?",
+     "text": "Ces derniers mois, des pensées, des images ou des impulsions non voulues vous sont-elles revenues encore et encore, en vous angoissant ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2256,7 +2421,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B20"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "toc_gestes",
@@ -2286,7 +2452,7 @@
     },
     {
      "id": "apparence_defaut",
-     "text": "Ces derniers mois, avez-vous pensé chaque jour, longtemps, à un défaut de votre apparence que les autres remarquent peu ou pas ?",
+     "text": "Ces derniers mois, avez-vous pensé chaque jour, longtemps, à un défaut de votre apparence (autre que le poids) que les autres remarquent peu ou pas ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2295,7 +2461,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B21"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "apparence_comportements",
@@ -2388,11 +2555,12 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des pensées qui s’imposent et des rituels qui prennent du temps ou pèsent.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des pensées qui s’imposent et des rituels qui prennent du temps ou pèsent. Avoir des pensées qui s’imposent ne veut pas dire qu’on les souhaite, ni qu’on va les réaliser.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de pensées et de rituels.",
      "subjects": [],
      "kind": "repere",
-     "subjects_note": "icd_6b20 est contextuel dans la cartographie : aucun croisement"
+     "subjects_note": "icd_6b20 est contextuel dans la cartographie : aucun croisement",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_apparence",
@@ -2417,7 +2585,8 @@
      "subjects": [
       "ten_preoccupation_apparence"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_sante",
@@ -2437,18 +2606,23 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une peur persistante d’être gravement malade. Un médecin de confiance peut faire le point avec vous, sans multiplier les examens.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une peur persistante d’être gravement malade. Un médecin de confiance peut vérifier ce qui doit l’être, puis vous aider à apaiser cette peur. Avec une maladie connue ou un risque réel, cette peur peut être compréhensible.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de peur pour la santé.",
      "subjects": [
       "icd_6b23"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 7
   },
@@ -2481,7 +2655,7 @@
    "questions": [
     {
      "id": "bipolaire_periode",
-     "text": "Avez-vous déjà eu une période d’au moins plusieurs jours où vous vous sentiez inhabituellement euphorique, exalté(e) ou irritable, avec beaucoup plus d’énergie que d’habitude ?",
+     "text": "Avez-vous déjà eu une période de plusieurs jours ou plus où vous vous sentiez inhabituellement euphorique, exalté(e) ou irritable, avec beaucoup plus d’énergie que d’habitude ?",
      "scale": "non_oui_nsp",
      "period": "vie",
      "role": "repere",
@@ -2490,11 +2664,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6A60"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "bipolaire_signes",
-     "text": "Pendant cette période, aviez-vous besoin de beaucoup moins dormir, parliez-vous beaucoup plus, ou aviez-vous des pensées très rapides ?",
+     "text": "Pendant cette période, aviez-vous au moins deux de ces changements : dormir très peu sans fatigue, parler beaucoup plus, pensées très rapides, dépenses ou risques inhabituels ?",
      "scale": "non_oui_nsp",
      "period": "vie",
      "role": "repere",
@@ -2503,11 +2678,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6A60"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "bipolaire_remarque",
-     "text": "Vos proches ont-ils remarqué que vous n’étiez pas comme d’habitude pendant cette période ?",
+     "text": "Cette période était-elle nettement différente de votre façon d’être habituelle, au point que des proches l’ont remarqué ou auraient pu le remarquer ?",
      "scale": "non_oui_nsp",
      "period": "vie",
      "role": "repere",
@@ -2516,7 +2692,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6A60"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "bipolaire_substance",
@@ -2575,19 +2752,23 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des périodes d’énergie et d’humeur inhabituellement hautes. Parlez-en à un médecin : cette information compte pour choisir un accompagnement.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des périodes d’énergie et d’humeur inhabituellement hautes. Parlez-en à un médecin : cette information compte pour choisir un accompagnement. Si une telle période est en cours et que vous dormez très peu, consultez sans attendre.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de périodes d’énergie haute.",
-     "subjects": [
-      "icd_6a60"
-     ],
-     "kind": "repere"
+     "subjects": [],
+     "kind": "repere",
+     "subjects_note": "icd_6a60 retiré à la relecture : croisement trop suggestif (faux positifs)",
+     "positive_note": "positive_note"
     }
    ],
    "notes": "Questions « vie entière » posées une fois ; jamais de repère bipolaire déduit du PHQ-9.",
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 8
   },
@@ -2597,7 +2778,7 @@
    "temps": "au_choix",
    "icd11": [
     "7A00",
-    "7B01.1"
+    "7B01.2"
    ],
    "icd11_note": "chapitre 07 (sommeil-éveil), hors CDDR : codes à vérifier sur icd.who.int avant publication",
    "entry": {
@@ -2640,7 +2821,7 @@
    "questions": [
     {
      "id": "sommeil_insomnie",
-     "text": "Depuis au moins trois mois, plusieurs nuits par semaine, avez-vous du mal à vous endormir, à rester endormi(e), ou vous réveillez-vous trop tôt ?",
+     "text": "Depuis au moins trois mois, plusieurs nuits par semaine, dormez-vous mal (endormissement, réveils, réveil trop tôt) alors que vous avez le temps et un lieu pour dormir ?",
      "scale": "non_oui_nsp",
      "period": "3_mois",
      "role": "repere",
@@ -2649,11 +2830,12 @@
      "basis": {
       "source": "icd11_mms",
       "code": "7A00"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "sommeil_journee",
-     "text": "Ce sommeil difficile vous pèse-t-il dans la journée (fatigue, humeur, concentration), alors que vous avez le temps de dormir ?",
+     "text": "Ce sommeil difficile vous pèse-t-il dans la journée (fatigue, humeur, concentration) ?",
      "scale": "non_oui_nsp",
      "period": "3_mois",
      "role": "repere",
@@ -2662,7 +2844,8 @@
      "basis": {
       "source": "icd11_mms",
       "code": "7A00"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "sommeil_cauchemars",
@@ -2674,7 +2857,7 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "icd11_mms",
-      "code": "7B01.1"
+      "code": "7B01.2"
      }
     },
     {
@@ -2714,28 +2897,45 @@
      "subjects": [
       "ten_sommeil"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_cauchemars",
      "when": {
-      "q": "sommeil_cauchemars",
-      "in": [
-       "oui"
+      "all": [
+       {
+        "q": "sommeil_cauchemars",
+        "in": [
+         "oui"
+        ]
+       },
+       {
+        "q": "sommeil_gene",
+        "in": [
+         "un_peu",
+         "nettement"
+        ]
+       }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des cauchemars répétés et pénibles.",
+     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des cauchemars répétés et pénibles. Des cauchemars fréquents peuvent être liés à un événement éprouvant, à l’alcool ou à certains médicaments ; un médecin peut en parler avec vous.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de cauchemars.",
      "subjects": [
       "ten_sommeil"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 9
   },
@@ -2781,7 +2981,7 @@
     },
     {
      "id": "somatique_attention",
-     "text": "Ces symptômes occupent-ils une grande place dans vos pensées, ou vous font-ils consulter très souvent ?",
+     "text": "Ces symptômes occupent-ils une grande place dans vos pensées, ou vous font-ils consulter très souvent, même après des examens rassurants ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2790,11 +2990,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C20"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "somatique_duree",
-     "text": "Sont-ils là la plupart des jours depuis plusieurs mois, malgré des examens et des avis médicaux ?",
+     "text": "Ces symptômes sont-ils présents la plupart des jours depuis plusieurs mois ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2803,7 +3004,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C20"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "somatique_gene",
@@ -2825,13 +3027,13 @@
       "score": "phq15",
       "gte": 10
      },
-     "result_positive": "Vos réponses au PHQ-15 sont au-dessus du repère publié de 10 (score {score} sur 30, palier « {level} », Kroenke et al. 2002). Ce palier décrit l’intensité des symptômes physiques, pas leur cause : un médecin peut les examiner.",
-     "result_negative": "Vos réponses au PHQ-15 sont en dessous du repère publié de 10 (score {score} sur 30{level_clause}).",
-     "subjects": [
-      "ten_douleurs_persistantes"
-     ],
+     "result_positive": "Vos réponses au PHQ-15 atteignent ou dépassent le repère publié de 10 (score {score} sur {max}, palier « {level} », Kroenke et al. 2002). Ce palier décrit l’intensité des symptômes physiques, pas leur cause : un médecin peut les examiner.",
+     "result_negative": "Vos réponses au PHQ-15 sont en dessous du repère publié de 10 (score {score} sur {max}{level_clause}).",
+     "subjects": [],
      "kind": "instrument",
-     "instrument": "phq15"
+     "instrument": "phq15",
+     "subjects_note": "ten_douleurs_persistantes retiré à la relecture : le PHQ-15 mesure une charge de symptômes variés, pas une douleur persistante",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_detresse_corporelle",
@@ -2851,12 +3053,13 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des symptômes physiques durables qui prennent beaucoup de place. Ces symptômes sont réels ; un médecin de confiance peut faire le point avec vous.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des symptômes physiques durables qui prennent beaucoup de place. Ces symptômes sont réels ; un médecin de confiance peut faire le point avec vous. Un symptôme nouveau, qui s’aggrave ou qui vous inquiète doit d’abord être examiné par un médecin.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère.",
      "subjects": [
       "icd_6c20"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "subjects_excluded": {
@@ -2864,9 +3067,13 @@
     "ten_migraine": "retiré v1.1 (et contextuel)"
    },
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 10
   },
@@ -2952,7 +3159,7 @@
    "questions": [
     {
      "id": "alim_perte_controle",
-     "text": "Ces derniers mois, avez-vous eu, au moins une fois par semaine, des moments où vous perdiez le contrôle de ce que vous mangiez ?",
+     "text": "Ces derniers mois, avez-vous eu, au moins une fois par semaine, des moments où vous mangiez plus ou autrement que d’habitude, sans pouvoir vous arrêter ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2961,11 +3168,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B81"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "alim_compensation",
-     "text": "Après ces moments, vous êtes-vous fait vomir, avez-vous jeûné, pris des laxatifs ou fait beaucoup de sport pour ne pas prendre de poids ?",
+     "text": "Après ces moments, vous arrive-t-il régulièrement de vous faire vomir, de jeûner, de prendre des laxatifs ou de faire beaucoup de sport pour ne pas grossir ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -2974,7 +3182,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B81"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "alim_detresse",
@@ -3067,7 +3276,10 @@
       "icd_6b80",
       "icd_6b81"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "texte",
+     "positive_note_text": "Même si vous vous sentez bien, un avis médical dans les prochains jours est important.",
+     "subjects_note": "icd_6b81 conservé : son libellé est le sujet général « Troubles des conduites alimentaires » (6B80–6B82 agrégés), comme le relecteur l’autorise"
     },
     {
      "id": "repere_crises_compensation",
@@ -3093,13 +3305,14 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des crises alimentaires suivies de moyens pour ne pas prendre de poids. Un avis médical est utile, notamment si vous vous faites vomir.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des crises alimentaires suivies de moyens pour ne pas prendre de poids. Un avis médical est utile, notamment si vous vous faites vomir. La ligne Anorexie Boulimie Info Écoute peut aussi vous répondre.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de crises suivies de compensations.",
      "subjects": [
       "icd_6b81_boulimie",
       "icd_6b81"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_crises",
@@ -3131,16 +3344,22 @@
       "icd_6b82",
       "icd_6b81"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "subjects_note": "icd_6b81 conservé : son libellé est le sujet général « Troubles des conduites alimentaires » (6B80–6B82 agrégés), comme le relecteur l’autorise",
+     "positive_note": "positive_note"
     }
    ],
    "subjects_excluded": {
     "ten_surpoids": "mesure corporelle, jamais demandée"
    },
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 11
   },
@@ -3223,7 +3442,7 @@
     },
     {
      "id": "reg_automutilation",
-     "text": "En ce moment, vous arrive-t-il de vous faire du mal volontairement, par exemple en vous coupant, en vous brûlant ou en vous frappant ?",
+     "text": "En ce moment, vous arrive-t-il de vous blesser volontairement (coups, coupures…) ?",
      "scale": "non_oui_pref",
      "period": "actuel",
      "role": "securite",
@@ -3232,7 +3451,8 @@
      "basis": {
       "source": "site"
      },
-     "scored": false
+     "scored": false,
+     "revised": "relecture"
     },
     {
      "id": "regulation_gene",
@@ -3261,7 +3481,8 @@
      "subjects": [
       "ten_dysregulation_emotionnelle"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_colere",
@@ -3271,12 +3492,13 @@
        "oui"
       ]
      },
-     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des accès de colère répétés et disproportionnés. Si vous craignez de blesser quelqu’un, parlez-en à un médecin ; en cas de danger immédiat, appelez le 17 ou le 112.",
+     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des accès de colère répétés et disproportionnés. Si vous craignez de blesser quelqu’un, parlez-en à un médecin ; en cas de danger immédiat, appelez le 17 ou le 112. L’alcool ou d’autres produits peuvent favoriser ces accès.",
      "result_negative": "",
      "subjects": [
       "ten_colere"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_impulsivite",
@@ -3291,7 +3513,8 @@
      "subjects": [
       "ten_impulsivite"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères ces derniers mois.",
@@ -3302,9 +3525,13 @@
     "sch_droits_excessifs": "retiré v1.1 (tous les sch_*)"
    },
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 12
   },
@@ -3417,7 +3644,8 @@
      "subjects": [
       "ten_alexithymie"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_retenue",
@@ -3427,12 +3655,13 @@
        "oui"
       ]
      },
-     "result_positive": "Vous indiquez garder souvent vos émotions pour vous.",
+     "result_positive": "Vous indiquez garder souvent vos émotions pour vous. C’est fréquent et dépend aussi de l’éducation et de la culture.",
      "result_negative": "",
      "subjects": [
       "pat_emotional_suppression"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères.",
@@ -3441,9 +3670,13 @@
     "sch_surcontrole": "retiré v1.1 (tous les sch_*)"
    },
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 13
   },
@@ -3622,7 +3855,8 @@
      "subjects": [
       "ten_estime_soi"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_honte",
@@ -3637,7 +3871,8 @@
      "subjects": [
       "ten_honte"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_culpabilite",
@@ -3652,7 +3887,8 @@
      "subjects": [
       "pat_guilt"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_autocritique",
@@ -3667,7 +3903,8 @@
      "subjects": [
       "pat_self_criticism"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_exigences",
@@ -3682,7 +3919,8 @@
      "subjects": [
       "pat_perfectionism"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_imposture",
@@ -3692,12 +3930,13 @@
        "oui"
       ]
      },
-     "result_positive": "Vous indiquez un sentiment d’imposture.",
+     "result_positive": "Vous indiquez attribuer souvent vos réussites à la chance et craindre qu’on découvre vos limites.",
      "result_negative": "",
      "subjects": [
       "pat_impostor"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_valeur",
@@ -3707,12 +3946,46 @@
        "oui"
       ]
      },
-     "result_positive": "Vous indiquez une valeur de vous-même liée à la réussite.",
+     "result_positive": "Vous indiquez avoir l’impression de valoir quelque chose surtout quand vous réussissez.",
      "result_negative": "",
      "subjects": [
       "pat_conditional_worth"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
+    },
+    {
+     "id": "orientation_humeur",
+     "kind": "orientation",
+     "when": {
+      "atleast": {
+       "n": 2,
+       "of": [
+        {
+         "q": "soi_estime",
+         "in": [
+          "oui"
+         ]
+        },
+        {
+         "q": "soi_honte",
+         "in": [
+          "oui"
+         ]
+        },
+        {
+         "q": "soi_culpabilite",
+         "in": [
+          "oui"
+         ]
+        }
+       ]
+      }
+     },
+     "result_positive": "Ces ressentis accompagnent parfois une humeur basse : le module « Humeur basse et perte d’intérêt » peut compléter ce repère.",
+     "positive_note": "aucune",
+     "subjects": [],
+     "result_negative": ""
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères.",
@@ -3722,9 +3995,13 @@
     "sch_*": "retirés v1.1"
    },
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 14
   },
@@ -3879,7 +4156,8 @@
      "subjects": [
       "att_anxieux"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_distance",
@@ -3895,7 +4173,8 @@
       "att_evitant",
       "ten_peur_intimite"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_oubli_soi",
@@ -3905,13 +4184,13 @@
        "oui"
       ]
      },
-     "result_positive": "Vous indiquez faire souvent passer les besoins des autres avant les vôtres.",
+     "result_positive": "Vous indiquez faire souvent passer les besoins des autres avant les vôtres. Cela peut aussi tenir à une situation, par exemple aider un proche malade.",
      "result_negative": "",
      "subjects": [
-      "ten_codependance",
       "pat_overresponsibility"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_insatisfaction",
@@ -3926,7 +4205,8 @@
      "subjects": [
       "ten_qualite_relationnelle"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     },
     {
      "id": "repere_isolement",
@@ -3941,7 +4221,8 @@
      "subjects": [
       "pat_social_isolation"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "site_note"
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères.",
@@ -3950,14 +4231,28 @@
     "pat_appeasement": "aucun lien empirique",
     "pat_conflict": "aucun lien empirique",
     "ten_violences_couple": "sécurité, jamais croisé",
-    "sch_*": "retirés v1.1"
+    "sch_*": "retirés v1.1",
+    "ten_codependance": "retiré à la relecture : construit non validé, risque de blâmer la personne"
    },
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 15
+   "order": 15,
+   "crossing_suspended_if": {
+    "when": {
+     "q": "rel_violences",
+     "in": [
+      "oui"
+     ]
+    },
+    "text": "Dans une relation où l’on a peur, ces réactions sont des façons de se protéger."
+   }
   },
   {
    "id": "jeu_ecrans",
@@ -4059,7 +4354,7 @@
     },
     {
      "id": "ecrans_controle",
-     "text": "Au cours des 12 derniers mois, avez-vous eu du mal à contrôler le temps passé aux jeux vidéo, sur internet ou sur les écrans ?",
+     "text": "Au cours des 12 derniers mois, avez-vous eu du mal à contrôler le temps passé aux jeux vidéo, aux réseaux sociaux ou sur d’autres écrans, hors travail et études ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4068,7 +4363,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C51"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "ecrans_priorite",
@@ -4134,12 +4430,13 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une pratique des jeux d’argent devenue difficile à contrôler. Joueurs Info Service et un médecin peuvent vous aider.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une pratique des jeux d’argent devenue difficile à contrôler. Joueurs Info Service (09 74 75 13 13) et un médecin peuvent vous aider, y compris pour les dettes. Des périodes d’humeur très haute peuvent aussi faire jouer davantage ; dites-le au professionnel.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère pour les jeux d’argent.",
      "subjects": [
       "ten_jeu_argent_problematique"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_ecrans",
@@ -4165,18 +4462,23 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour les jeux vidéo ; pour les autres écrans, c’est un repère du site.",
+     "result_positive": "Vous indiquez un temps d’écran difficile à contrôler, qui passe avant le reste et continue malgré ses conséquences. La CIM-11 ne décrit ce tableau que pour les jeux vidéo.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère pour les écrans.",
      "subjects": [
       "ten_ecrans"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "sensible": false,
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
    "order": 16
   },
@@ -4224,7 +4526,7 @@
     },
     {
      "id": "alc_controle",
-     "text": "Vous est-il arrivé de boire plus, ou plus longtemps, que prévu, ou d’avoir du mal à arrêter ?",
+     "text": "Vous est-il souvent arrivé de boire plus, ou plus longtemps, que prévu, ou d’avoir du mal à arrêter ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4233,11 +4535,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C40.2"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "alc_priorite",
-     "text": "L’alcool est-il passé avant votre santé, votre travail ou vos proches, ou avez-vous continué malgré les problèmes ?",
+     "text": "L’alcool est-il souvent passé avant votre santé, votre travail ou vos proches, ou avez-vous continué malgré les problèmes ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4246,7 +4549,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C40.2"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "alc_corps",
@@ -4263,7 +4567,7 @@
     },
     {
      "id": "alc_dommages",
-     "text": "L’alcool a-t-il abîmé votre santé, ou conduit à des situations dangereuses ou blessantes pour d’autres ?",
+     "text": "L’alcool a-t-il abîmé votre santé physique ou mentale, ou conduit à des situations dangereuses ou blessantes pour d’autres ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4272,7 +4576,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C40.1"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "alcool_gene",
@@ -4325,13 +4630,14 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une consommation devenue difficile à réguler. Arrêter brusquement une forte consommation d’alcool peut être dangereux : demandez d’abord un avis médical. Alcool Info Service peut aussi vous aider.",
-     "result_negative": "Vos réponses ne correspondent pas à ce repère de consommation difficile à réguler.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une consommation devenue difficile à réguler. Arrêter brusquement une forte consommation d’alcool peut être dangereux : demandez d’abord un avis médical. Alcool Info Service (0 980 980 930) peut aussi vous aider.",
+     "result_negative": "Vos réponses ne correspondent pas à ce repère de consommation difficile à réguler. Ce repère ne dit rien des quantités. Repères français : pas plus de 10 verres par semaine, pas plus de 2 par jour, des jours sans alcool ; aucun pendant la grossesse.",
      "subjects": [
       "icd_6c40_2",
       "ten_usage_substances"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_alcool_dommages",
@@ -4348,6 +4654,33 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "not": {
+         "atleast": {
+          "n": 2,
+          "of": [
+           {
+            "q": "alc_controle",
+            "in": [
+             "oui"
+            ]
+           },
+           {
+            "q": "alc_priorite",
+            "in": [
+             "oui"
+            ]
+           },
+           {
+            "q": "alc_corps",
+            "in": [
+             "oui"
+            ]
+           }
+          ]
+         }
+        }
        }
       ]
      },
@@ -4356,15 +4689,22 @@
      "subjects": [
       "ten_usage_substances"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "notes": "AUDIT non intégré (autorisation non obtenue) ; repères CIM-11 de la dépendance (au moins 2 des 3 éléments) et de l’usage nocif.",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 17
+   "order": 17,
+   "entry_note": "une entrée positive (consommation déclarée) n’affiche jamais de résultat ni de phrase fixe",
+   "intro_privacy": "privacy_sensitive"
   },
   {
    "id": "cannabis",
@@ -4410,7 +4750,7 @@
     },
     {
      "id": "can_controle",
-     "text": "Vous est-il arrivé de consommer plus, ou plus longtemps, que prévu, ou d’avoir du mal à arrêter ?",
+     "text": "Vous est-il souvent arrivé de consommer plus, ou plus longtemps, que prévu, ou d’avoir du mal à arrêter ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4419,11 +4759,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C41.2"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "can_priorite",
-     "text": "Le cannabis est-il passé avant votre santé, votre travail ou vos proches, ou avez-vous continué malgré les problèmes ?",
+     "text": "Le cannabis est-il souvent passé avant votre santé, votre travail ou vos proches, ou avez-vous continué malgré les problèmes ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4432,11 +4773,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C41.2"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "can_corps",
-     "text": "Avez-vous eu besoin de consommer davantage pour le même effet, ou ressenti un manque (tremblements, sueurs, anxiété) en arrêtant ?",
+     "text": "Avez-vous eu besoin de consommer davantage pour le même effet, ou ressenti un manque (irritabilité, anxiété, sommeil difficile, moins d’appétit) en arrêtant ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4445,11 +4787,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C41.2"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "can_dommages",
-     "text": "Le cannabis a-t-il abîmé votre santé, ou conduit à des situations dangereuses ou blessantes pour d’autres ?",
+     "text": "Le cannabis a-t-il abîmé votre santé physique ou mentale, ou conduit à des situations dangereuses ou blessantes pour d’autres ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4458,7 +4801,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6C41.1"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "cannabis_gene",
@@ -4511,13 +4855,14 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une consommation devenue difficile à réguler. Drogues Info Service et les consultations jeunes consommateurs peuvent vous aider.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une consommation devenue difficile à réguler. Drogues Info Service (0 800 23 13 13), un médecin ou un centre d’addictologie (CSAPA) peuvent vous aider.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de consommation difficile à réguler.",
      "subjects": [
       "ten_usage_cannabis",
       "ten_usage_substances"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_cannabis_dommages",
@@ -4534,6 +4879,33 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "not": {
+         "atleast": {
+          "n": 2,
+          "of": [
+           {
+            "q": "can_controle",
+            "in": [
+             "oui"
+            ]
+           },
+           {
+            "q": "can_priorite",
+            "in": [
+             "oui"
+            ]
+           },
+           {
+            "q": "can_corps",
+            "in": [
+             "oui"
+            ]
+           }
+          ]
+         }
+        }
        }
       ]
      },
@@ -4543,15 +4915,22 @@
       "ten_usage_cannabis",
       "ten_usage_substances"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "notes": "CAST non intégré (autorisation non obtenue).",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 18
+   "order": 18,
+   "entry_note": "une entrée positive (consommation déclarée) n’affiche jamais de résultat ni de phrase fixe",
+   "intro_privacy": "privacy_sensitive"
   },
   {
    "id": "autres_substances",
@@ -4559,8 +4938,8 @@
    "temps": "au_choix",
    "sensible": true,
    "icd11": [
-    "6C4G.1",
-    "6C4G.2"
+    "6C42-6C4E",
+    "6C4A"
    ],
    "entry": {
     "questions": [
@@ -4618,7 +4997,7 @@
     },
     {
      "id": "drog_usage",
-     "text": "Au cours des 12 derniers mois, avez-vous pris d’autres drogues, ou des médicaments sans ordonnance ou plus que prescrit, pour leurs effets ?",
+     "text": "Au cours des 12 derniers mois, avez-vous pris d’autres drogues, ou des médicaments (calmants, somnifères, antidouleurs forts) sans prescription ou plus que prescrit ?",
      "scale": "non_oui_pref",
      "period": "12_mois",
      "role": "prerequis",
@@ -4626,12 +5005,13 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C4G.2"
-     }
+      "code": "6C42-6C4E"
+     },
+     "revised": "relecture"
     },
     {
      "id": "drog_controle",
-     "text": "Vous est-il arrivé de consommer plus, ou plus longtemps, que prévu, ou d’avoir du mal à arrêter ?",
+     "text": "Vous est-il souvent arrivé de consommer plus, ou plus longtemps, que prévu, ou d’avoir du mal à arrêter ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4639,12 +5019,13 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C4G.2"
-     }
+      "code": "6C42-6C4E"
+     },
+     "revised": "relecture"
     },
     {
      "id": "drog_priorite",
-     "text": "Ce produit est-il passé avant votre santé, votre travail ou vos proches, ou avez-vous continué malgré les problèmes ?",
+     "text": "Ce ou ces produits sont-ils souvent passés avant votre santé, votre travail ou vos proches, ou avez-vous continué malgré les problèmes ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4652,12 +5033,13 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C4G.2"
-     }
+      "code": "6C42-6C4E"
+     },
+     "revised": "relecture"
     },
     {
      "id": "drog_corps",
-     "text": "Avez-vous eu besoin de en prendre davantage pour le même effet, ou ressenti un manque (tremblements, sueurs, anxiété) en arrêtant ?",
+     "text": "Avez-vous eu besoin d’en prendre davantage pour le même effet, ou ressenti un manque (tremblements, sueurs, anxiété) en arrêtant ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4665,12 +5047,13 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C4G.2"
-     }
+      "code": "6C42-6C4E"
+     },
+     "revised": "relecture"
     },
     {
      "id": "drog_dommages",
-     "text": "Ce produit a-t-il abîmé votre santé, ou conduit à des situations dangereuses ou blessantes pour d’autres ?",
+     "text": "Ce ou ces produits ont-ils abîmé votre santé physique ou mentale, ou conduit à des situations dangereuses ou blessantes pour d’autres ?",
      "scale": "non_oui_nsp",
      "period": "12_mois",
      "role": "repere",
@@ -4678,8 +5061,9 @@
      "label": "repere_non_valide",
      "basis": {
       "source": "cddr2024",
-      "code": "6C4G.1"
-     }
+      "code": "6C42-6C4E"
+     },
+     "revised": "relecture"
     },
     {
      "id": "autres_substances_gene",
@@ -4708,7 +5092,8 @@
      "subjects": [
       "ten_tabagisme_persistant"
      ],
-     "kind": "repere_site"
+     "kind": "repere_site",
+     "positive_note": "aucune"
     },
     {
      "id": "repere_autres_substances_dependance",
@@ -4747,12 +5132,13 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une consommation devenue difficile à réguler. Arrêter certains produits ou médicaments brusquement peut être dangereux : demandez un avis médical. Drogues Info Service peut aussi vous aider.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour une consommation devenue difficile à réguler. Arrêter certains produits ou médicaments brusquement peut être dangereux : demandez un avis médical. Drogues Info Service (0 800 23 13 13) peut aussi vous aider.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de consommation difficile à réguler.",
      "subjects": [
       "ten_usage_substances"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_autres_substances_dommages",
@@ -4769,6 +5155,33 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "not": {
+         "atleast": {
+          "n": 2,
+          "of": [
+           {
+            "q": "drog_controle",
+            "in": [
+             "oui"
+            ]
+           },
+           {
+            "q": "drog_priorite",
+            "in": [
+             "oui"
+            ]
+           },
+           {
+            "q": "drog_corps",
+            "in": [
+             "oui"
+            ]
+           }
+          ]
+         }
+        }
        }
       ]
      },
@@ -4777,15 +5190,22 @@
      "subjects": [
       "ten_usage_substances"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "notes": "DAST-10 non intégré (autorisation non obtenue).",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 19
+   "order": 19,
+   "entry_note": "une entrée positive (consommation déclarée) n’affiche jamais de résultat ni de phrase fixe",
+   "intro_privacy": "privacy_sensitive"
   },
   {
    "id": "dissociation",
@@ -4857,7 +5277,7 @@
     },
     {
      "id": "dissoc_realite",
-     "text": "Pendant ces moments, saviez-vous que c’était une impression ?",
+     "text": "Pendant ces moments, saviez-vous que c’était une impression, et que vous et le monde étiez bien réels ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -4866,11 +5286,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B66"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "dissoc_memoire",
-     "text": "Ces derniers mois, avez-vous oublié des moments importants de votre vie, bien plus que des oublis ordinaires ?",
+     "text": "Ces derniers mois, avez-vous remarqué des trous de mémoire sur des événements importants de votre vie, bien au-delà des oublis ordinaires, en dehors de toute prise d’alcool ou de drogue ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -4879,11 +5300,12 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B61"
-     }
+     },
+     "revised": "relecture"
     },
     {
      "id": "dissoc_corps",
-     "text": "Ces derniers mois, avez-vous eu, pendant des heures, une perte de force, de sensation, de vue ou des crises, sans cause trouvée par un médecin ?",
+     "text": "Ces derniers mois, avez-vous eu pendant des heures une perte de force, de sensation, de vue, ou des crises avec perte de contrôle du corps, sans cause médicale trouvée ?",
      "scale": "non_oui_nsp",
      "period": "mois",
      "role": "repere",
@@ -4892,7 +5314,9 @@
      "basis": {
       "source": "cddr2024",
       "code": "6B60"
-     }
+     },
+     "revised": "relecture",
+     "hint": "Une perte soudaine de force, de sensation, de vue ou de parole est une urgence : appelez le 15."
     },
     {
      "id": "dissociation_gene",
@@ -4926,12 +5350,13 @@
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des moments de détachement de soi ou du monde. Ces expériences sont fréquentes après un stress intense ; un professionnel peut en parler avec vous.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des moments de détachement de soi ou du monde. Ces expériences sont fréquentes après un stress intense, une crise d’angoisse, un manque de sommeil, du cannabis ou d’autres produits ; un professionnel peut en parler avec vous.",
      "result_negative": "Vos réponses ne correspondent pas à ce repère de détachement.",
      "subjects": [
       "ten_dissociation"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "orientation_realite",
@@ -4954,7 +5379,8 @@
      "result_positive": "Vous indiquez des moments où il était difficile de savoir ce qui était réel. Parlez-en à un médecin ; ces expériences ont de nombreuses causes.",
      "result_negative": "",
      "subjects": [],
-     "kind": "orientation"
+     "kind": "orientation",
+     "positive_note": "aucune"
     },
     {
      "id": "repere_memoire",
@@ -4964,12 +5390,12 @@
        "oui"
       ]
      },
-     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des trous de mémoire inhabituels. Un médecin peut d’abord vérifier qu’aucune cause physique n’est en jeu.",
+     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des trous de mémoire inhabituels. Un médecin peut d’abord vérifier qu’aucune cause physique n’est en jeu. Ne pas se souvenir de sa petite enfance est normal et ne veut pas dire qu’un événement a été oublié.",
      "result_negative": "",
-     "subjects": [
-      "ten_dissociation"
-     ],
-     "kind": "repere"
+     "subjects": [],
+     "kind": "repere",
+     "subjects_note": "ten_dissociation retiré à la relecture : risque de suggérer un souvenir refoulé par le croisement avec l’enfance",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_corps",
@@ -4979,12 +5405,13 @@
        "oui"
       ]
      },
-     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des symptômes du corps sans cause neurologique trouvée. Ces symptômes sont réels ; un suivi médical reste nécessaire.",
+     "result_positive": "Vos réponses ressemblent à un élément que la CIM-11 décrit pour des symptômes du corps sans cause neurologique trouvée. Ces symptômes sont réels ; un suivi médical reste nécessaire. Une perte soudaine de force, de sensation, de vue ou de parole est une urgence : appelez le 15.",
      "result_negative": "",
      "subjects": [
       "icd_6b60"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères ces derniers mois.",
@@ -4992,11 +5419,16 @@
     "icd_6b64": "jamais suggéré par un auto-questionnaire (et contextuel)"
    },
    "medical_note": "Une perte de force, de sensation ou de vue soudaine relève du 15.",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 20
+   "order": 20,
+   "intro_privacy": "privacy_sensitive"
   },
   {
    "id": "perceptions",
@@ -5055,7 +5487,8 @@
      "basis": {
       "source": "cddr2024",
       "code": "6A20"
-     }
+     },
+     "hint": "Si une personne vous surveille ou vous menace réellement, voyez plutôt le module « Liens proches, attachement, conflits »."
     },
     {
      "id": "perceptions_gene",
@@ -5089,23 +5522,29 @@
        }
       ]
      },
-     "result_positive": "Vous indiquez des perceptions ou des convictions inhabituelles. Elles ont de nombreuses causes (manque de sommeil, stress intense, substances, médicaments, maladie) ; un médecin peut en parler avec vous sans jugement.",
+     "result_positive": "Vous indiquez des perceptions ou des convictions inhabituelles. Elles ont de nombreuses causes (manque de sommeil, stress intense, deuil, substances, médicaments, maladie) ; un médecin peut en parler avec vous sans jugement. Si elles sont récentes, vous font peur ou vous poussent à agir, consultez rapidement ; en urgence, le 15.",
      "result_negative": "Vos réponses ne signalent pas ces expériences ces derniers mois.",
      "subjects": [],
      "kind": "orientation",
-     "no_score": true
+     "no_score": true,
+     "positive_note": "aucune"
     }
    ],
    "subjects_excluded": {
-    "icd_6a20": "proposé au relecteur : croisement jugé trop suggestif sans évaluation",
+    "icd_6a20": "retiré, confirmé par la relecture : croisement trop suggestif",
     "ten_traits_schizotypiques": "idem"
    },
    "notes": "Deux repères sans score ; résultat d’orientation seulement.",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 21
+   "order": 21,
+   "intro_privacy": "privacy_sensitive"
   },
   {
    "id": "personnalite",
@@ -5221,22 +5660,34 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "q": "personnalite_gene",
+        "in": [
+         "nettement"
+        ]
        }
       ]
      },
-     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des difficultés durables dans la façon de se vivre et d’être en relation. Seul un entretien approfondi permet de les comprendre ; elles évoluent souvent avec un accompagnement.",
-     "result_negative": "Vos réponses ne correspondent pas à ce repère.",
+     "result_positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des difficultés durables dans la façon de se vivre et d’être en relation. D’autres raisons peuvent expliquer ces difficultés : humeur, anxiété, événements de vie, entourage ou contexte difficile. Seul un entretien approfondi permet de les comprendre ; elles évoluent souvent avec un accompagnement.",
+     "result_negative": "Vos réponses ne correspondent pas à ce repère de difficultés durables.",
      "subjects": [],
      "kind": "repere",
-     "subjects_note": "icd_6d11_5, ten_difficultes_personnalite et les dimensions narcissiques sont contextuels : aucun croisement"
+     "subjects_note": "icd_6d11_5, ten_difficultes_personnalite et les dimensions narcissiques sont contextuels : aucun croisement",
+     "positive_note": "positive_note"
     }
    ],
    "notes": "MSI-BPD non intégré ; jamais de « motif borderline » déduit.",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 22
+   "order": 22,
+   "intro_privacy": "privacy_sensitive"
   },
   {
    "id": "sexualite",
@@ -5367,12 +5818,13 @@
        "oui"
       ]
      },
-     "result_positive": "Vous indiquez des difficultés sexuelles qui vous font souffrir. Un médecin, une sage-femme ou un sexologue peuvent en parler avec vous ; des causes physiques sont fréquentes.",
+     "result_positive": "Vous indiquez des difficultés sexuelles qui vous font souffrir. Un médecin, une sage-femme ou un sexologue peuvent en parler avec vous ; des causes physiques ou des médicaments (dont certains antidépresseurs) sont fréquents. N’arrêtez pas un traitement sans avis médical.",
      "result_negative": "",
      "subjects": [
       "ten_difficultes_sexuelles"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_sexualite_controle",
@@ -5389,6 +5841,13 @@
         "in": [
          "oui"
         ]
+       },
+       {
+        "q": "sexualite_gene",
+        "in": [
+         "un_peu",
+         "nettement"
+        ]
        }
       ]
      },
@@ -5397,7 +5856,8 @@
      "subjects": [
       "ten_sexualite_compulsive"
      ],
-     "kind": "repere"
+     "kind": "repere",
+     "positive_note": "positive_note"
     },
     {
      "id": "repere_risques",
@@ -5407,20 +5867,26 @@
        "oui"
       ]
      },
-     "result_positive": "Un dépistage gratuit est possible dans un CeGIDD ou chez votre médecin ; un préservatif ou la PrEP protègent des infections.",
+     "result_positive": "Un dépistage gratuit est possible dans un CeGIDD ou chez votre médecin. Le préservatif protège du VIH et de la plupart des infections ; la PrEP protège du VIH seulement. Après un risque de moins de 48 heures, un traitement d’urgence existe aux urgences.",
      "result_negative": "",
-     "subjects": [
-      "ten_risques_sexuels"
-     ],
-     "kind": "repere_site"
+     "subjects": [],
+     "kind": "orientation",
+     "positive_note": "aucune",
+     "subjects_note": "ten_risques_sexuels retiré à la relecture"
     }
    ],
    "module_negative": "Vos réponses ne correspondent à aucun de ces repères.",
-   "publie": false,
+   "publie": true,
    "revue": {
-    "statut": "en_attente"
+    "statut": "retenu",
+    "rapport": "docs/relecture-clinique-symptomes-2026-11-19.md",
+    "date": "2026-11-19",
+    "relecteur": "relecteur clinique distinct (instance Claude séparée, sans outils)",
+    "corrections_appliquees": true
    },
-   "order": 23
+   "order": 23,
+   "intro": "Si un acte sexuel vous a été imposé, vous pouvez en parler au 3919 ou à France Victimes (116 006).",
+   "intro_privacy": "privacy_sensitive"
   }
  ],
  "crosswalk": {
