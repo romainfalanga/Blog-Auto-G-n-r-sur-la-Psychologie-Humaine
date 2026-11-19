@@ -22,7 +22,14 @@
   status = 301
   force = true
 
-# L’ancienne liste est désormais la section principale de l’accueil.
+# L’accueil ouvre Ambre ; le catalogue public des personnages reste à /personnages/.
+# 302 (temporaire) et force : la page d’accueil Hugo existe et serait sinon servie.
+[[redirects]]
+  from = "/"
+  to = "/mon-accompagnement/"
+  status = 302
+  force = true
+
 
 [[redirects]]
   from = "/personnages/page/*"
@@ -69,7 +76,7 @@
   [headers.values]
     Cache-Control = "private, no-store"
 
-# L’accueil public reste accessible ; Ambre s’ouvre depuis le premier lien du menu (/mon-accompagnement/).
+# Ambre s’ouvre depuis « / » (redirection ci-dessus) et depuis le premier lien du menu.
 
 [[redirects]]
   from = "/mes-bilans"
