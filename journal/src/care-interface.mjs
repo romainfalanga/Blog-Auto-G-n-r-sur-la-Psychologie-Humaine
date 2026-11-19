@@ -1,6 +1,6 @@
 // Browser UI: all private values are inserted as text, never interpreted as markup.
 export const CARE_INTERFACE_SCRIPT=String.raw`
-var CARE_LABELS={conversation:'Conversation',cartography:'Mon enfance',portrait:'Mon compte et la synthèse rédigée par Ambre',people:'Proches',life_events:'Ligne de vie',reviews:'Bilans',plan:'Mon plan'};
+var CARE_LABELS={conversation:'Conversation',cartography:'Mon enfance',symptoms:'Mes symptômes',portrait:'Mon compte et la synthèse rédigée par Ambre',people:'Proches',life_events:'Ligne de vie',reviews:'Bilans',plan:'Mon plan'};
 function careField(label,type,value){var box=el('label','field',label),input=el('input');input.type=type;input.value=value==null?'':value;box.append(input);return {box:box,input:input}}
 function careDate(value){if(!value)return '—';var milliseconds=Number.isFinite(Number(value))?Number(value)*1000:Date.parse(value);return Number.isFinite(milliseconds)?new Date(milliseconds).toLocaleString('fr-FR',{dateStyle:'medium',timeStyle:'short'}):'—'}
 function careDatetime(value){var date=new Date((value||Math.floor(Date.now()/1000))*1000);date=new Date(date.getTime()-date.getTimezoneOffset()*60000);return date.toISOString().slice(0,16)}

@@ -2,9 +2,10 @@ import {requireCompanionGenerationAccess,companionReadinessSql} from './companio
 import {accessSql} from './entitlements.mjs';
 import {loadCareContext} from './care-context.mjs';
 import {contextHash} from './private-context.mjs';
-import {summarizeCartography} from './cartographie.mjs';
+import {summarizeCartography,readSymptomMap,symptomMapView} from './cartographie.mjs';
+import {SYMPTOMES_CARTE} from './symptomes-carte.generated.mjs';
 import {readChangeState,serializeSharedPlan} from './change-plan.mjs';
-export const CARE_SCOPES=['conversation','cartography','portrait','people','life_events','reviews','plan'];
+export const CARE_SCOPES=['conversation','cartography','symptoms','portrait','people','life_events','reviews','plan'];
 const SHARING_NOTICE='La mémoire de conversation sans provenance vérifiable est exclue du dossier et des points partagés. Les synthèses et hypothèses d’Ambre restent à vérifier ; elles ne sont pas des faits confirmés. Le plan est partagé uniquement si la personne a choisi cette rubrique, sans ses consignes professionnelles privées, propositions ni points personnels.';
 const parse=(v,f={})=>{try{return JSON.parse(v)}catch{return f}},clip=(v,n)=>String(v??'').slice(0,n);
 const object=properties=>({type:'object',properties,required:Object.keys(properties),additionalProperties:false});
@@ -81,6 +82,7 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
   if(!CARE_SCOPES.includes(scope))fail(404,'Rubrique inconnue.','not_found');const link=await authorized(env,user,id,scope),owner=link.user_id,offset=offsetOf(url);let data,next=null,planRevision=null;
   if(scope==='conversation'){data=await all(env,"SELECT id,content,response,created_at FROM chat_turns WHERE user_id=? AND purged=0 AND status='completed' ORDER BY rowid DESC LIMIT 51 OFFSET ?",owner,offset);if(data.length>50){data.pop();next=offset+50}data=data.map(t=>({...t,response:parse(t.response,{content:t.response}).content}))}
   if(scope==='cartography'){const row=await first(env,'SELECT answers,feedback,notes,resources,ambre_notes,updated_at FROM cartographies WHERE user_id=? AND consent=1 AND locked_at IS NOT NULL',owner);data=row?Object.fromEntries(Object.entries(row).map(([k,v])=>[k,k==='updated_at'?v:parse(v)])):null;if(data)data.summary=summarizeCartography(data.answers,data.feedback,{notes:data.notes,resources:data.resources,ambreNotes:data.ambre_notes})}
+  if(scope==='symptoms'){const row=await readSymptomMap(env,owner);data=row?.consent&&row.locked_at!=null?symptomMapView(row,SYMPTOMES_CARTE):null;}
   if(scope==='portrait'){const row=await first(env,'SELECT self_data,version FROM profiles WHERE user_id=?',owner),portrait=await first(env,'SELECT portrait,updated_at FROM user_portraits WHERE user_id=? AND analyzed_version=?',owner,row?.version||0);data={declared:parse(row?.self_data),synthesis:parse(portrait?.portrait,null)}}
   if(scope==='people'){data=await all(env,'SELECT id,display_name,role,custom_role,relationship_text,period_start,period_end,updated_at FROM personal_people WHERE user_id=? ORDER BY id LIMIT 51 OFFSET ?',owner,offset);if(data.length>50){data.pop();next=offset+50}}
   if(scope==='life_events'){data=await all(env,'SELECT id,title,kind,description,meaning_now,date_start,date_end,age_text,updated_at FROM life_events WHERE user_id=? ORDER BY updated_at DESC,id DESC LIMIT 51 OFFSET ?',owner,offset);if(data.length>50){data.pop();next=offset+50}}
@@ -130,6 +132,7 @@ export function createCareBackend({error,json,body,now,random,limit,chat}){
   if(shared.includes('portrait')){queries.push("SELECT 'portrait' AS id,self_data AS text,? AS at FROM profiles WHERE user_id=?");args.push(now(),link.user_id)}
   add('portrait',"SELECT 'portrait_synthesis' AS id,portrait AS text,CAST(strftime('%s',updated_at) AS INTEGER) AS at FROM user_portraits WHERE user_id=? AND CAST(strftime('%s',updated_at) AS INTEGER)>? AND analyzed_version=(SELECT version FROM profiles WHERE profiles.user_id=user_portraits.user_id)");
   add('cartography',"SELECT 'cartography' AS id,json_object('answers',json(answers),'feedback',json(feedback),'notes',json(notes),'resources',json(resources),'ambre_notes',json(ambre_notes)) AS text,updated_at AS at FROM cartographies WHERE user_id=? AND consent=1 AND locked_at IS NOT NULL AND updated_at>?");
+  add('symptoms',"SELECT 'symptoms' AS id,json_object('answers',json(answers),'feedback',json(feedback),'notes',json(notes)) AS text,updated_at AS at FROM symptom_maps WHERE user_id=? AND consent=1 AND locked_at IS NOT NULL AND updated_at>?");
   let plan=null,planRows=[];
   if(shared.includes('plan')){
    plan=await readChangeState(env,link.user_id);if(!plan.available)throw Object.assign(Error('sources_changed'),{code:'sources_changed'});

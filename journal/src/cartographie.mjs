@@ -27,7 +27,7 @@ const noteCount=notes=>Object.keys(notes?.factors||{}).length+Object.keys(notes?
 
 // Strict validation: known identifiers only, unknown=uncertain, 0=no and intensity 1|2, feedback oui|non,
 // bounded notes in the member's words and known protective resources.
-export function validateCartography(input,fail,data=CARTOGRAPHIE){
+export function validateCartography(input,fail,data=CARTOGRAPHIE,{note_max=NOTE_MAX_LENGTH,note_count=NOTE_MAX_COUNT}={}){
  const {factors,outcomes,protections}=index(data),invalid=message=>fail(400,message,'invalid_cartography');
  // The interface always sends the complete state: an absent block is an empty one.
  const rawNotes=input?.notes===undefined?{}:input.notes,rawResources=input?.resources===undefined?{}:input.resources;
@@ -41,11 +41,11 @@ export function validateCartography(input,fail,data=CARTOGRAPHIE){
    if(!known.has(id))invalid(kind==='factors'?'Note sur un élément de l’enfance inconnu.':'Note sur une conséquence inconnue.');
    if(typeof block[id]!=='string')invalid('Texte de note invalide.');
    const text=cleanText(block[id]);
-   if(text.length>NOTE_MAX_LENGTH)invalid('Une note ne peut pas dépasser '+NOTE_MAX_LENGTH+' caractères.');
+   if(text.length>note_max)invalid('Une note ne peut pas dépasser '+note_max+' caractères.');
    if(text)notes[kind][id]=text;
   }
  }
- if(noteCount(notes)>NOTE_MAX_COUNT)invalid('Trop de notes : '+NOTE_MAX_COUNT+' au maximum.');
+ if(noteCount(notes)>note_count)invalid('Trop de notes : '+note_count+' au maximum.');
  const resources={};
  for(const id of Object.keys(rawResources).sort()){
   if(!protections.has(id))invalid('Ressource inconnue.');
@@ -91,7 +91,29 @@ const answerLevels=(answers,factors)=>{const level={};for(const [id,value] of Ob
 // Contract (frozen for the Ambre lots, see docs/v5-C5a-avancement.md):
 // returns {results, sections:{recognized,top,frequent,other,dismissed}, aceCount, selectedCount}.
 // results = the displayed order (sections concatenated); contextual and retired subjects excluded.
+// Symptom rankings count distinct clinical families, never question repetitions.
+export function computeSymptomMap(answers,data,feedback={}){
+ const factors=new Map(data.factors.map(f=>[f.id,f])),outcomes=new Map(data.outcomes.map(o=>[o.id,o]));
+ const yes=id=>answers?.[id]===1, family=id=>factors.get(id)?.overlap_group||id,byOutcome=new Map();
+ for(const link of data.links||[])if(factors.has(link.factor)&&outcomes.has(link.outcome)){
+  if(!byOutcome.has(link.outcome))byOutcome.set(link.outcome,[]);byOutcome.get(link.outcome).push(link);
+ }
+ const rows=[];
+ for(const [id,all] of byOutcome){
+  const outcome=outcomes.get(id);if(outcome.retired)continue;
+  const required=data.requires?.[id]||[];if(!required.every(yes))continue;
+  const essential=new Set(all.filter(l=>l.strength==='critere').map(l=>family(l.factor))),present=new Set(all.filter(l=>l.strength==='critere'&&yes(l.factor)).map(l=>family(l.factor))),moderate=new Set(all.filter(l=>l.strength==='moderee'&&yes(l.factor)).map(l=>family(l.factor)));
+  const C=essential.size,c=present.size,m=moderate.size;if(c<(C<=2?1:2))continue;
+  const links=all.filter(l=>yes(l.factor)),associated=[...new Set(links.filter(l=>l.strength==='critere'||l.strength==='moderee').map(l=>l.factor))],score=Math.floor(1000*c/(C+1));
+  rows.push({outcome,links,factors:links.map(l=>l.factor),associated_factors:associated,associated_count:associated.length,other_links:0,tier:c>=2?'convergence':'piste',score,evidence_groups:c,relation_types:[...new Set(links.map(relationType))],relevance:score,has_empirical:false,evidence_families:c,max_points:0,frequent:false,familial:false,trauma_first:false,serious:false,essential_count:c,essential_total:C,moderate_count:m,essential_score:score,uncertain_links:all.filter(l=>answers?.[l.factor]==='unknown'||yes(l.factor)&&l.strength==='limitee')});
+ }
+ rows.sort((a,b)=>b.essential_score-a.essential_score||b.essential_count-a.essential_count||b.moderate_count-a.moderate_count||binary(a.outcome.id,b.outcome.id));
+ const sections={recognized:[],top:[],frequent:[],other:[],dismissed:[]},picked=rows.filter(r=>feedback?.[r.outcome.id]!=='non').slice(0,data.ranking?.section_top||SECTION_TOP);
+ for(const row of rows){row.section=feedback?.[row.outcome.id]==='non'?'dismissed':picked.includes(row)?'top':'other';sections[row.section].push(row);}
+ return {results:SECTION_ORDER.flatMap(k=>sections[k]),sections,aceCount:0,selectedCount:data.factors.filter(f=>yes(f.id)).length};
+}
 export function computeCartography(answers,data=CARTOGRAPHIE,feedback={}){
+ if(data.ranking?.version==='essential_share_desc')return computeSymptomMap(answers,data,feedback);
  const {factors,outcomes}=index(data),level=answerLevels(answers,factors);feedback=feedback||{};
  const weights=data.weights||{forte:3,moderee:2,limitee:1,theorique:1},byOutcome={};
  const ranking=data.ranking||{},specificity=ranking.specificity||{},frequentSet=new Set(ranking.frequent||[]),top=ranking.section_top||SECTION_TOP;
@@ -390,19 +412,24 @@ export async function addAmbreNotes(env,userId,items,tools,attempts=3){
 }
 export async function loadCompanionCartography(env,userId){return companionCartography(await readCartography(env,userId));}
 
-export function createCartographyBackend({error,json,body,now}){
+export function createCartographyBackend({error,json,body,now,table='cartographies',data:dataset=CARTOGRAPHIE,route='/api/cartographie',body_limit=CARTOGRAPHY_BODY_LIMIT,note_max=NOTE_MAX_LENGTH}){
+ if(!['cartographies','symptom_maps'].includes(table))throw Error('Unsupported map table');
+ const symptoms=table==='symptom_maps';
+ const view=row=>symptoms?symptomMapView(row,dataset):cartographyView(row);
  const fail=(status,message,code)=>error(status,message,code);
  const stmt=(env,sql,...args)=>env.DB.prepare(sql).bind(...args);
- const current=(env,userId)=>selectCartography(env,userId);
+ const current=(env,userId)=>symptoms?readSymptomMap(env,userId):selectCartography(env,userId);
  async function save(request,env,user){
-  const data=await body(request,CARTOGRAPHY_BODY_LIMIT);
-  if(data.consent!==true)fail(400,'Votre accord explicite est requis pour enregistrer cette donnée de santé.','consent_required');
+  const data=await body(request,body_limit);
+  if(!symptoms&&data.consent!==true)fail(400,'Votre accord explicite est requis pour enregistrer cette donnée de santé.','consent_required');
+  if(symptoms)data.locked=true;
   if(typeof data.locked!=='boolean')fail(400,'Indiquez si la cartographie doit être verrouillée.','invalid_cartography');
   // expected_version (or its alias version, null for a first save) is the version last read.
   const expected=data.expected_version!==undefined?data.expected_version:data.version===null?0:data.version;
   if(!Number.isInteger(expected)||expected<0)fail(400,'Version de cartographie invalide (0 pour une première sauvegarde).','invalid_version');
-  const {answers,feedback,notes,resources}=validateCartography(data,fail);
-  if(data.locked&&!Object.keys(answers).length&&!noteCount(notes)&&!Object.keys(resources).length)fail(400,'Cochez au moins un élément, écrivez une note ou indiquez une ressource avant d’enregistrer la cartographie.','invalid_cartography');
+  const {answers,feedback,notes,resources}=validateCartography(data,fail,dataset,{note_max,note_count:symptoms?dataset.factors.length+dataset.outcomes.length:NOTE_MAX_COUNT});
+  if(symptoms&&Object.values(answers).includes(2))fail(400,'Choisissez Non, Oui ou Je ne sais pas.','invalid_cartography');
+  if(!symptoms&&data.locked&&!Object.keys(answers).length&&!noteCount(notes)&&!Object.keys(resources).length)fail(400,'Cochez au moins un élément, écrivez une note ou indiquez une ressource avant d’enregistrer la cartographie.','invalid_cartography');
   const before=await current(env,user.id);
   if((before?.version||0)!==expected)fail(409,'Votre cartographie a changé. Rechargez-la avant de réessayer.','revision_conflict');
   const a=JSON.stringify(answers),f=JSON.stringify(feedback),n=JSON.stringify(notes),r=JSON.stringify(resources),t=now();
@@ -410,13 +437,17 @@ export function createCartographyBackend({error,json,body,now}){
   if(!unchanged){
    // Relocking unchanged answers keeps the original lock date.
    const lockedAt=data.locked?(before?.locked_at!=null&&before.answers===a?before.locked_at:t):null;
-   const result=before
+   const safety=before?.safety_at??(dataset.factors.some(f=>f.safety&&answers[f.id]===1)?t:null);
+   const result=symptoms
+    ?before?await stmt(env,'UPDATE symptom_maps SET answers=?,feedback=?,notes=?,consent=1,locked_at=?,version=version+1,updated_at=?,safety_at=? WHERE user_id=? AND version=?',a,f,n,lockedAt,t,safety,user.id,expected).run()
+     :await stmt(env,'INSERT INTO symptom_maps(user_id,answers,feedback,notes,consent,locked_at,version,updated_at,safety_at) VALUES(?,?,?,?,1,?,1,?,?) ON CONFLICT(user_id) DO NOTHING',user.id,a,f,n,lockedAt,t,safety).run()
+    :before
     // ambre_notes is never written here: only Ambre adds to it and only the member removes from it.
     ?await stmt(env,'UPDATE cartographies SET answers=?,feedback=?,notes=?,resources=?,consent=1,locked_at=?,version=version+1,updated_at=? WHERE user_id=? AND version=?',a,f,n,r,lockedAt,t,user.id,expected).run()
     :await stmt(env,'INSERT INTO cartographies(user_id,answers,feedback,notes,resources,consent,locked_at,version,updated_at) VALUES(?,?,?,?,?,1,?,1,?) ON CONFLICT(user_id) DO NOTHING',user.id,a,f,n,r,lockedAt,t).run();
    if(!result.meta.changes)fail(409,'Votre cartographie a changé. Rechargez-la avant de réessayer.','revision_conflict');
   }
-  return json({ok:true,...cartographyView(await current(env,user.id))});
+  return json({ok:true,...view(await current(env,user.id))});
  }
  async function removeAmbreNote(env,user,noteId){
   for(let attempt=0;attempt<3;attempt++){
@@ -424,19 +455,29 @@ export function createCartographyBackend({error,json,body,now}){
    if(!row||kept.length===stored.length)fail(404,'Note introuvable.','not_found');
    // Neither version nor updated_at changes: the member's autosave keeps its version.
    const result=await stmt(env,'UPDATE cartographies SET ambre_notes=? WHERE user_id=? AND ambre_notes=?',JSON.stringify(kept),user.id,row.ambre_notes).run();
-   if(result.meta.changes)return json({ok:true,...cartographyView(await current(env,user.id))});
+   if(result.meta.changes)return json({ok:true,...view(await current(env,user.id))});
   }
   fail(409,'Votre cartographie a changé. Rechargez-la avant de réessayer.','revision_conflict');
  }
  async function routes(request,env,user,path){
   const note=path.match(/^\/api\/cartographie\/ambre-notes\/([\w-]{1,120})$/);
-  if(note){if(request.method!=='DELETE')fail(405,'Méthode non autorisée.','method_not_allowed');return removeAmbreNote(env,user,note[1]);}
-  if(path!=='/api/cartographie')return null;
-  if(request.method==='GET')return json(cartographyView(await current(env,user.id)));
+  if(note&&!symptoms){if(request.method!=='DELETE')fail(405,'Méthode non autorisée.','method_not_allowed');return removeAmbreNote(env,user,note[1]);}
+  if(path!==route)return null;
+  if(request.method==='GET')return json(view(await current(env,user.id)));
   if(request.method==='PUT')return save(request,env,user);
-  if(request.method==='DELETE'){await stmt(env,'DELETE FROM cartographies WHERE user_id=?',user.id).run();return json({ok:true,cartographie:null,summary:null});}
+  if(request.method==='DELETE'){await stmt(env,`DELETE FROM ${table} WHERE user_id=?`,user.id).run();return json({ok:true,cartographie:null,summary:null});}
   fail(405,'Méthode non autorisée.','method_not_allowed');
  }
- async function exportData(env,userId){return {cartographie:cartographyView(await readCartography(env,userId)).cartographie};}
+ async function exportData(env,userId){return symptoms?{symptom_map:view(await current(env,userId)).cartographie}:{cartographie:cartographyView(await readCartography(env,userId)).cartographie};}
  return {routes,exportData};
+}
+
+export async function readSymptomMap(env,userId){
+ try{return await env.DB.prepare('SELECT answers,feedback,notes,consent,locked_at,version,updated_at,safety_at,safety_asked_at FROM symptom_maps WHERE user_id=?').bind(userId).first();}
+ catch(e){if(missingTable(e))return null;throw e;}
+}
+export function symptomMapView(row,data){
+ if(!row)return {cartographie:null,summary:null};
+ const answers=parse(row.answers),feedback=parse(row.feedback),notes=rowNotes(row);
+ return {cartographie:{answers,feedback,notes,resources:{},ambre_notes:[],consent:Boolean(row.consent),locked:row.locked_at!=null,locked_at:row.locked_at??null,version:row.version,updated_at:row.updated_at,safety_at:row.safety_at??null},summary:computeCartography(answers,data,feedback)};
 }
