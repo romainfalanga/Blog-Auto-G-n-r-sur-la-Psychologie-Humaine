@@ -64,12 +64,14 @@ Chaque module a `entry` (questions ou instrument, `positive_if`), un `deepen` fa
 Expressions (`when`, `positive_if`, `if`) :
 - `{"q": id, "in": [codes]}` ou `{"q": id, "gte": n}` (items numériques) ;
 - `{"score": "phq2|phq9|gad2|gad7|phq15", "gte": n}` ;
-- `{"itq_result": "tspt|tspt_c|aucun"}`, `{"itq_cluster": "<grappe>"}` ;
+- `{"itq_result": "tspt|tspt_c|aucun|non_passe"}` (`non_passe` = ITQ non proposé car `exposition_evenement` ≠ oui : valeur connue, pas inconnue), `{"itq_cluster": "<grappe>"}` ;
 - `{"all": [...]}`, `{"any": [...]}`, `{"not": e}`, `{"atleast": {"n": 2, "of": [...]}}`.
 
 Logique à trois valeurs : une condition est **vraie**, **fausse** ou **inconnue** (réponse absente, `nsp`, `pref`, score non calculable). `all` = fausse si une est fausse, vraie si toutes sont vraies, sinon inconnue ; `any` = vraie si une est vraie, fausse si toutes sont fausses, sinon inconnue ; `atleast` = vraie si ≥ n vraies, fausse si le nombre de vraies plus d'inconnues < n, sinon inconnue ; `not` inverse vrai/faux et garde l'inconnu.
 
-Parcours : si `entry.positive_if` est faux, le module s'arrête (règles du module négatives, sauf instrument demandé volontairement via `deepen_on_request`) ; s'il est vrai, `deepen` puis la question de gêne sont posés. Les règles `kind: entree` ne s'affichent que si l'instrument complet manque (`display: si_phq9_absent`, `si_gad7_absent`) ; `kind: grappe` (`display: croisement_seulement`) ne sert qu'au croisement ; `display: si_positif` = rien n'est affiché si négatif ; `kind: contexte` et `kind: orientation` n'ont jamais de sujet.
+Parcours : si `entry.positive_if` est faux, le module s'arrête (règles du module négatives, sauf instrument demandé volontairement via `deepen_on_request`) ; s'il est vrai, `deepen` puis la question de gêne sont posés. Les règles `kind: entree` ne s'affichent que si l'instrument complet manque (`display: si_phq9_absent`, `si_gad7_absent`) ; `kind: grappe` (`display: croisement_seulement`) ne sert qu'au croisement ; `display: si_positif` = rien n'est affiché si négatif ; `kind: contexte` et `kind: orientation` n'ont jamais de sujet. `display_negative: si_itq_aucun` = le texte négatif ITQ ne s'affiche que si ni `tspt` ni `tspt_c`.
+
+Phrase placée sous un texte positif (`rules[].positive_note`) : `positive_note` (phrase fixe v1.1, règles `instrument` et `repere`), `site_note` (règles `repere_site` : « façon de fonctionner, pas un trouble »), `texte` (`positive_note_text` propre à la règle, ex. restriction alimentaire), `aucune` (orientations, contexte, tabac, risques sexuels). Si `high_note_from` est présent (PHQ-9, GAD-7 : 15) et que le score l'atteint, `fixed_texts.high_note` remplace la phrase fixe. Trois règles positives ou plus dans la page : ajouter `fixed_texts.several_positive`.
 
 ## 6. États de résultat
 
@@ -85,7 +87,7 @@ Par règle : `positif`, `negatif`, `indetermine`. Par module :
 | `non_explore` | module non commencé ou abandonné | — |
 | `refuse` | `declined: true` ou entrée répondue `pref` | — |
 
-La gêne (`<module>_gene`) est affichée à part (`gene_nettement`, `gene_absente`) ; elle ne conditionne pas une règle, sauf mention explicite (`toc_gene` dans `repere_toc`). Jamais de nom de trouble comme conclusion, jamais « vous avez », jamais « diagnostic probable ». Toute carte au-dessus du repère montre `what_next` sans défilement.
+La gêne (`<module>_gene`) est affichée à part (`gene_nettement` ; sinon `gene_absente_trouble`, ou `gene_absente` pour les modules de `gene_absente_trouble_except`). Elle conditionne les règles qui la citent explicitement (TOC, deuil, cauchemars, personnalité, sexualité compulsive). Les modules `sensible` affichent `fixed_texts.privacy_sensitive` avant la première question ; `sexualite.intro` est affiché en tête du module. Jamais de nom de trouble comme conclusion, jamais « vous avez », jamais « diagnostic probable ». Toute carte au-dessus du repère montre `what_next` sans défilement.
 
 Délais : `modules[].retest_days` (calculé par le générateur = plus courte période de réponse du module ; PHQ/GAD 14 j, PHQ-15 28 j, ITQ 30 j, repères du mois 30 j, repères 12 mois / 2 ans / « en général » 90 j, vie entière jamais reposée). Refaire avant le délai est permis et affiche `overlap_note`.
 
@@ -93,8 +95,9 @@ Délais : `modules[].retest_days` (calculé par le générateur = plus courte p�
 
 - Page réservée aux adultes (`safety.adult_gate`) : âge ≥ 18 calculé depuis la date de naissance de Mon compte ; sinon texte et ressources `mineur`, **rien n'est enregistré**.
 - `securite_actuelle` posée en tête de chaque passation du temps 1 (Non / Oui / Je préfère ne pas répondre), jamais notée.
-- Déclencheurs (`safety.triggers`) : `securite_actuelle = oui`, `phq9_9 ≥ 1` (dès la réponse, avant la fin du PHQ-9), `reg_automutilation = oui`, `rel_violences = oui` → **écran bloquant** immédiat : « Merci de l'avoir dit. », phrase `always`, ressources dont `show` contient le type du déclencheur (`suicide`, `automutilation`, `violences`), plus `fil_sante_jeunes` si 18–25 ans, dans l'ordre `display.blocking_screen.order` ; boutons « Continuer le questionnaire », « Parler à Ambre », « Arrêter », sans délai, non fermable d'un clic extérieur. `securite_actuelle = pref` → bloc doux non bloquant.
+- Déclencheurs (`safety.triggers`) : `securite_actuelle = oui`, `phq9_9 ≥ 1` (dès la réponse, avant la fin du PHQ-9, quel que soit le score total), `reg_automutilation = oui`, `rel_violences = oui` → **écran bloquant** immédiat : « Merci de l'avoir dit. », phrase `always`, ressources dont `show` contient le type du déclencheur (`suicide`, `automutilation`, `violences`), plus `fil_sante_jeunes` si 18–25 ans, dans l'ordre `display.blocking_screen.order` ; boutons « Continuer le questionnaire », « Parler à Ambre », « Arrêter », sans délai, non fermable d'un clic extérieur. `securite_actuelle = pref` → bloc doux non bloquant.
 - Aucun score de risque, aucune phrase « risque faible / élevé », aucune notification externe.
+- Messages propres : `blocking_screen.messages.automutilation` et `.violences` ; bouton « Quitter vite cette page » sur l'écran violences ; ressources visibles après « Arrêter » et pendant la suite du questionnaire ; ordre des boutons : Ambre (assistant automatique), Arrêter, Continuer ; bouton Ambre retiré si Ambre ne suit pas le protocole déterministe (`chat-safety.mjs`). Réponse `pref` aux questions d'automutilation ou de violences : bloc doux `soft_block_by_kind`.
 - Persistance : chaque déclenchement écrit une ligne d'alerte datée (table de sécurité de `0028`), même si la passation est abandonnée ; bandeau de sécurité en tête des résultats et de l'historique pendant 14 jours.
 - Ambre : `safety.reported_at` traité comme antécédent récent ; une question directe de sécurité au plus une fois par 14 jours, avant toute exploration ; la vérification de risque ne reçoit aucun résultat de questionnaire.
 
@@ -114,6 +117,8 @@ Listes :
 1. « Présent dans vos deux questionnaires » : `signale` ET présent côté enfance, suivi de `crossing_note`.
 2. « Signalé aujourd'hui seulement » : `signale` ET absent côté enfance (y compris retour `non` : le sujet reste visible, sans mention de croisement).
 3. « Lié à vos vécus, sans difficulté signalée aujourd'hui » : présent côté enfance ET `non_signale`, avec `crossing_childhood_only_note`. Les sujets `non_explore` ou `refuse` n'y figurent pas.
+
+Libellés : `crossing.display_labels` remplace le libellé de la cartographie pour les sujets listés (jamais « attachement anxieux / évitant »). Suspension : si `modules[].crossing_suspended_if.when` est vrai (violences actuelles dans `relations`), aucun sujet de ce module n'est croisé et son `text` est affiché. La liste 3 est repliée par défaut (`crossing_childhood_only_collapsed`).
 
 Tri : ordre du premier module qui signale (ou peut signaler) le sujet, puis libellé (ordre alphabétique `localeCompare('fr')` côté client, comparaison binaire identique côté serveur — test de parité comme pour la cartographie). Aucun nombre de vécus, aucun niveau de preuve affiché ; aucun lien vécu → sujet créé ; `links` et l'audit de la cartographie ne sont jamais modifiés.
 

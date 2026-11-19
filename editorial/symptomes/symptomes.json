@@ -5956,7 +5956,13 @@
   ],
   "show_counts": false,
   "creates_links": false,
-  "pas_moi": "un sujet marqué « non » dans Mon enfance n’apparaît jamais dans la liste 1 ni dans la liste 3"
+  "pas_moi": "un sujet marqué « non » dans Mon enfance n’apparaît jamais dans la liste 1 ni dans la liste 3",
+  "display_labels": {
+   "att_anxieux": "Peur de perdre ses proches",
+   "att_evitant": "Malaise quand une relation devient très proche",
+   "pat_social_isolation": "Sentiment de solitude"
+  },
+  "display_labels_rule": "libellés descriptifs imposés par la relecture ; ne jamais afficher « attachement anxieux » ou « attachement évitant » sur cette page"
  },
  "sources": {
   "kroenke2001": {

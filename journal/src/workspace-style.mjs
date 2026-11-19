@@ -264,6 +264,11 @@ html.is-navigating .person-card:has(.person-open[data-pending])::after { content
 .undated-events.pending-moments > .helper { margin: calc(-1 * var(--s2)) 0 0; }
 .frise-pending-title { margin: 0 0 var(--s1); font: 400 var(--t-lg)/1.3 var(--font-title); }
 .moment-filter-empty, .moment-filter-hidden { margin: var(--s4) 0 0; font-size: var(--t-sm); }
+@media (forced-colors: active) {
+  .segment:has(input:checked), .segmented > .segment-button[aria-pressed="true"] { background: Highlight; color: HighlightText; forced-color-adjust: none; }
+  .segment:has(input:focus-visible) { outline-color: CanvasText; }
+  .event-timeline > .event-card.is-major::before, .significance-view.is-major .significance-tag::before { background: CanvasText; border-color: CanvasText; forced-color-adjust: none; }
+}
 @media (max-width: 599px) {
   .source-toolbar .moment-filter { width: 100%; margin-left: 0; }
   .moment-filter > .segment-button { flex: 1 1 0; }

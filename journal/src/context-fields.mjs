@@ -83,5 +83,5 @@ const SIGNIFICANCE_PROBED=new WeakMap();
 export async function significanceReady(env){
  const db=env?.DB;if(!db)return false;const cached=SIGNIFICANCE_PROBED.get(db);if(cached===true)return true;if(typeof cached==='number'&&cached>Date.now())return false;
  try{await db.prepare('SELECT significance FROM life_events LIMIT 0').bind().all();SIGNIFICANCE_PROBED.set(db,true);return true}
- catch(error){if(/no such (?:column|table)/i.test(String(error?.message||''))){SIGNIFICANCE_PROBED.set(db,Date.now()+60000);return false}throw error}
+ catch(error){if(/no such (?:column|table)/i.test(String(error?.message||''))){SIGNIFICANCE_PROBED.set(db,Date.now()+5000);return false}throw error}
 }
