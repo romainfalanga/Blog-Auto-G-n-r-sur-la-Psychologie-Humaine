@@ -278,3 +278,27 @@ test('crossing order is locale independent (folded, then binary)',()=>{
  assert.deepEqual(labels.slice().sort(E.compareLabels),['abri','Ébène','etat','Été','Zèbre']);
  assert.deepEqual(labels.slice().sort(E.compareLabels),labels.slice().sort((a,b)=>a.localeCompare(b,'fr',{sensitivity:'base'})||(a<b?-1:a>b?1:0)));
 });
+
+test('negative entry with a started deepening: rules stay unknown, never forced negative (§ 5)',()=>{
+ const started=result('humeur',{phq9_1:0,phq9_2:1,phq9_3:2});
+ assert.equal(rule(started,'phq9_repere').result,'indetermine');assert.equal(rule(started,'phq9_repere').forced,undefined);assert.equal(started.state,'indetermine');
+ assert.equal(rule(started,'repere_humeur_duree').result,'negatif','a question not started is still forced');assert.equal(rule(started,'repere_humeur_duree').forced,true);
+ const full=result('humeur',{...phq9(6),phq9_1:0,phq9_2:1,phq9_3:2,phq9_4:3});assert.equal(full.scores.phq9,6);assert.equal(full.state,'en_dessous');
+ const gad=result('anxiete',{gad7_1:0,gad7_2:1,gad7_5:3});assert.equal(rule(gad,'gad7_repere').result,'indetermine');assert.equal(rule(gad,'repere_anxiete_duree').result,'indetermine');assert.equal(gad.state,'indetermine');
+ const partial=result('somatique',{somatique_entree:'non',phq15_a:2,phq15_b:2});
+ assert.equal(rule(partial,'phq15_repere').result,'indetermine');assert.equal(partial.state,'indetermine');
+ assert.equal(rule(partial,'repere_detresse_corporelle').result,'negatif');
+ const asked=result('somatique',{somatique_entree:'non',somatique_attention:'oui'});assert.equal(rule(asked,'repere_detresse_corporelle').result,'indetermine','a deepening question answered on request');
+});
+
+test('crossing: an indeterminate module and an ITQ not offered leave their subjects unexplored (§ 8)',()=>{
+ const childhood={present:['ten_hypervigilance','icd_6b40','att_anxieux'],dismissed:[]};
+ const state=(latest,id)=>E.crossWithChildhood(latest,childhood,S).subjects.find(s=>s.id===id).state;
+ const unsure=result('relations',{rel_peur_perte:'non',rel_distance:'non',rel_oubli_soi:'nsp',rel_insatisfaction:'non',rel_isolement:'non'});
+ assert.equal(unsure.state,'indetermine');assert.equal(state({relations:unsure},'att_anxieux'),'non_explore');
+ const notOffered=result('trauma_stress',{exposition_evenement:'non',deuil_deces:'non',adaptation_evenement:'non'});
+ assert.equal(notOffered.state,'repere_absent');assert.equal(state({trauma_stress:notOffered},'ten_hypervigilance'),'non_explore');assert.equal(state({trauma_stress:notOffered},'icd_6b40'),'non_explore');
+ const offered=result('trauma_stress',itq());assert.equal(offered.scores.itq.result,'aucun');
+ assert.equal(state({trauma_stress:offered},'ten_hypervigilance'),'non_signale');assert.equal(state({trauma_stress:offered},'icd_6b40'),'non_signale');
+ assert.deepEqual(E.crossWithChildhood({trauma_stress:notOffered},childhood,S).lists.enfance,[],'list 3 only after the ITQ');
+});

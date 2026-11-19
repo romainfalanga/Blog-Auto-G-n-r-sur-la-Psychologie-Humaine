@@ -24,8 +24,11 @@ export async function symptomsReady(env){
 
 const checkView=row=>row&&({id:row.id,module:row.module,passation_key:row.passation_key,content_version:row.content_version,current_version:row.content_version===SYMPTOMES.version,instrument_versions:parse(row.instrument_versions),answers:parse(row.answers),scores:parse(row.scores),result:parse(row.result),state:row.state,declined:Boolean(row.declined),started_at:row.started_at??null,completed_at:row.completed_at});
 const draftView=row=>row&&({module:row.module,passation_key:row.passation_key,content_version:row.content_version,current_version:row.content_version===SYMPTOMES.version,answers:parse(row.answers),started_at:row.started_at??null,updated_at:row.updated_at});
-const alertView=row=>({id:row.id,module:row.module,trigger_id:row.trigger_id,kind:row.kind,screen:row.screen,check_id:row.check_id??null,created_at:row.created_at});
-const today=seconds=>new Date(seconds*1000).toISOString().slice(0,10);
+const alertView=row=>({id:row.id,passation_key:row.passation_key,module:row.module,trigger_id:row.trigger_id,kind:row.kind,screen:row.screen,check_id:row.check_id??null,created_at:row.created_at});
+// Age is counted on the date in France (Europe/Paris), not in UTC: a birthday starts at midnight there.
+const PARIS=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'});
+export const parisDate=seconds=>PARIS.format(new Date(seconds*1000));
+const today=parisDate;
 
 // Mon enfance side of the crossing: subjects of sections top/other with an empirical link, not
 // marked « Pas moi »; « Pas moi » subjects are listed apart. null when no map is saved.
@@ -124,8 +127,8 @@ export function createSymptomsBackend({error,json,body,now,random,limit}){
   const [inserted]=await env.DB.batch([
    stmt(env,'INSERT INTO symptom_checks(id,user_id,passation_key,module,content_version,instrument_versions,answers,scores,result,state,declined,started_at,completed_at) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(user_id,passation_key) DO NOTHING',id,user.id,key,clean.module,clean.content_version,versions,answers,JSON.stringify(result.scores),JSON.stringify(result),result.state,Number(clean.declined),started,t),
    ...alertStatements(env,user.id,key,clean.module,triggers),
-   stmt(env,'UPDATE symptom_safety_alerts SET check_id=? WHERE user_id=? AND passation_key=? AND EXISTS(SELECT 1 FROM symptom_checks WHERE id=? AND user_id=?)',id,user.id,key,id,user.id),
-   stmt(env,'DELETE FROM symptom_drafts WHERE user_id=? AND module=? AND EXISTS(SELECT 1 FROM symptom_checks WHERE id=? AND user_id=?)',user.id,clean.module,id,user.id)
+   stmt(env,'UPDATE symptom_safety_alerts SET check_id=? WHERE user_id=? AND passation_key=? AND module=? AND EXISTS(SELECT 1 FROM symptom_checks WHERE id=? AND user_id=?)',id,user.id,key,clean.module,id,user.id),
+   stmt(env,'DELETE FROM symptom_drafts WHERE user_id=? AND module=? AND passation_key=? AND EXISTS(SELECT 1 FROM symptom_checks WHERE id=? AND user_id=?)',user.id,clean.module,key,id,user.id)
   ]);
   if(!inserted.meta.changes){
    // Same passation sent again (network retry): the first record answers; anything else conflicts.
@@ -145,11 +148,14 @@ export function createSymptomsBackend({error,json,body,now,random,limit}){
   if(data.module!==undefined&&data.module!==moduleId)fail(400,'Le module ne correspond pas à l’adresse.','invalid_symptoms');
   const clean=validatePassation({...data,module:moduleId,declined:false},SYMPTOMES,fail,{partial:true});
   const triggers=safetyTriggers(clean.answers,SYMPTOMES),t=now();
+  // A late autosave of a passation already finished never recreates its draft; only its alerts are kept.
+  const finished=await first(env,'SELECT id,module FROM symptom_checks WHERE user_id=? AND passation_key=?',user.id,key);
   await env.DB.batch([
-   stmt(env,'INSERT INTO symptom_drafts(user_id,module,passation_key,content_version,answers,started_at,updated_at) VALUES(?,?,?,?,?,?,?) ON CONFLICT(user_id,module) DO UPDATE SET passation_key=excluded.passation_key,content_version=excluded.content_version,answers=excluded.answers,started_at=COALESCE(excluded.started_at,symptom_drafts.started_at),updated_at=excluded.updated_at',user.id,moduleId,key,clean.content_version,JSON.stringify(clean.answers),started,t),
-   ...alertStatements(env,user.id,key,moduleId,triggers)
+   stmt(env,'INSERT INTO symptom_drafts(user_id,module,passation_key,content_version,answers,started_at,updated_at) SELECT ?,?,?,?,?,?,? WHERE NOT EXISTS(SELECT 1 FROM symptom_checks WHERE user_id=? AND passation_key=?) ON CONFLICT(user_id,module) DO UPDATE SET passation_key=excluded.passation_key,content_version=excluded.content_version,answers=excluded.answers,started_at=COALESCE(excluded.started_at,symptom_drafts.started_at),updated_at=excluded.updated_at',user.id,moduleId,key,clean.content_version,JSON.stringify(clean.answers),started,t,user.id,key),
+   ...alertStatements(env,user.id,key,moduleId,triggers,finished?.module===moduleId?finished.id:null)
   ]);
-  return json({ok:true,draft:draftView(await first(env,'SELECT * FROM symptom_drafts WHERE user_id=? AND module=?',user.id,moduleId)),safety:{triggers,screen:safetyScreen(triggers,SYMPTOMES,{age:gate.age})}});
+  const draft=await first(env,'SELECT * FROM symptom_drafts WHERE user_id=? AND module=? AND passation_key=?',user.id,moduleId,key);
+  return json({ok:true,finished:Boolean(finished),draft:draftView(draft)??null,safety:{triggers,screen:safetyScreen(triggers,SYMPTOMES,{age:gate.age})}});
  }
 
  async function routes(request,env,user,path,url){

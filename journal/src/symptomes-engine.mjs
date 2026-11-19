@@ -119,6 +119,8 @@ export function evaluate(expr,ctx){
  if(hasOwn(expr,'itq_cluster')){const itq=scores.itq;if(!itq)return null;if(itq.result==='non_passe')return false;const c=itq.clusters?.[expr.itq_cluster];return c===undefined?null:c}
  throw Error('Expression inconnue : '+JSON.stringify(expr));
 }
+// Instruments read by an expression (score, ITQ result or cluster).
+const instrumentsIn=(expr,out=new Set())=>{if(!expr||typeof expr!=='object')return out;if(typeof expr.score==='string')out.add(expr.score);if(hasOwn(expr,'itq_result')||hasOwn(expr,'itq_cluster'))out.add('itq');for(const v of Object.values(expr))if(Array.isArray(v))v.forEach(e=>instrumentsIn(e,out));else if(v&&typeof v==='object')instrumentsIn(v,out);return out};
 const questionsOf=(expr,out=new Set())=>{if(!expr||typeof expr!=='object')return out;if(typeof expr.q==='string')out.add(expr.q);for(const v of Object.values(expr))if(Array.isArray(v))v.forEach(e=>questionsOf(e,out));else if(v&&typeof v==='object')questionsOf(v,out);return out};
 
 // ---- Validation -----------------------------------------------------------------------------
@@ -218,10 +220,14 @@ export function computeModuleResult(moduleId,answers,data,{declined=false}={}){
  // « Je préfère ne pas répondre » to the entry (and no entry answer that opens the module): refused.
  const entryQuestions=[...questionsOf(m.entry?.positive_if)];
  const entryRefused=entry===null&&entryQuestions.some(q=>answers[q]==='pref');
+ const entryInstrument=data.instruments[m.entry?.instrument],entryAnswers=new Set([...entryQuestions,...(m.entry?.questions||[]),...(entryInstrument?itemIds(entryInstrument):[])]);
  const rules=m.rules.map(r=>{
   let value=evaluate(r.when,ctx),forced=false;
+  // Contract § 5 (deepen_on_request): a rule whose deepening was started (one answer to a question
+  // or an instrument item beyond the entry) stays unknown, never forced negative.
+  const started=entry===false&&value===null&&([...questionsOf(r.when)].some(q=>!entryAnswers.has(q)&&answers[q]!=null)||[...instrumentsIn(r.when)].some(id=>{const inst=data.instruments[id],parent=data.instruments[inst?.derived_from]||inst;return itemIds(parent).some(q=>!entryAnswers.has(q)&&answers[q]!=null)}));
   // Negative entry: the module stops; what was not asked counts as negative, never as unknown.
-  if(entry===false&&value===null){value=false;forced=true}
+  if(entry===false&&value===null&&!started){value=false;forced=true}
   const result=value===true?'positif':value===false?'negatif':'indetermine';
   const out={id:r.id,kind:r.kind,result,subjects:(r.subjects||[]).slice(),...(r.instrument?{instrument:r.instrument}:{}),...(forced?{forced:true}:{})};
   if(r.instrument){const score=r.instrument==='itq'?null:scores[r.instrument];if(isInt(score))out.score=score;if(bands[r.instrument])out.level=bands[r.instrument];if(r.instrument==='itq'&&scores.itq?.result)out.itq_result=scores.itq.result}
@@ -246,8 +252,10 @@ export function computeModuleResult(moduleId,answers,data,{declined=false}={}){
  if(entryRefused)state='refuse';
  else if(relevant.some(r=>r.kind==='instrument'&&r.result==='positif'))state='au_dessus';
  else if(relevant.some(r=>REPERE_KINDS.has(r.kind)&&r.result==='positif'))state='repere_present';
- else if(rules.some(r=>(r.kind==='instrument'||r.kind==='entree')&&r.result==='negatif'&&r.display))state='en_dessous';
+ else if(rules.some(r=>r.kind==='instrument'&&r.result==='negatif'&&r.display))state='en_dessous';
+ // A deepening started after a negative entry and left incomplete: unknown, not « below the entry ».
  else if(relevant.some(r=>r.result==='indetermine')||entry===null||rules.some(r=>r.kind==='entree'&&r.result==='positif'))state='indetermine';
+ else if(rules.some(r=>r.kind==='entree'&&r.result==='negatif'&&r.display))state='en_dessous';
  else state='repere_absent';
  // A module with its own overall negative sentence shows it instead of each negative text.
  const moduleNegative=state==='repere_absent'&&Boolean(m.module_negative);
@@ -298,7 +306,9 @@ export function crossWithChildhood(latest,childhood,data,{labels={}}={}){
    if(r.state==='refuse'||r.declined)return 'refuse';
    const rules=(r.rules||[]).filter(x=>(x.subjects||[]).includes(id));
    if(rules.some(x=>x.result==='positif'))return 'signale';
-   if(r.state==='non_explore'||!rules.length||rules.some(x=>x.result==='indetermine'))return 'incomplet';
+   // Contract § 8: a module « indetermine » leaves its subjects unexplored; so does a rule read on an
+   // ITQ that was not offered (exposition ≠ oui), e.g. ten_hypervigilance or icd_6b40.
+   if(r.state==='non_explore'||r.state==='indetermine'||!rules.length||rules.some(x=>x.result==='indetermine'||x.instrument==='itq'&&x.itq_result==='non_passe'))return 'incomplet';
    return 'negatif';
   });
   const state=per.includes('signale')?'signale':per.every(p=>p==='refuse')?'refuse':per.every(p=>p==='negatif')?'non_signale':'non_explore';

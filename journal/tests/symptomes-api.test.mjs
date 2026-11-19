@@ -279,3 +279,32 @@ test('Worker before 0028: the page state says « bientôt disponible » and the 
  assert.equal((await request(env,'/api/account',{method:'DELETE',cookie:a.cookie,data:{password:'long secure password 123'}})).status,200);
  env.DB.raw.close();
 });
+
+test('drafts and alerts: a late autosave never recreates a finished draft; links stay within the module; 409 keeps alerts',async()=>{
+ const h=harness();await h.adult();
+ const k=key();
+ const done=await h.call('/api/symptomes/checks','POST',humeur(phq9(3),{passation_key:k}));assert.equal(done.status,201);
+ let r=await h.call('/api/symptomes/drafts/humeur','PUT',{passation_key:k,content_version:S.version,instrument_versions:{phq9:V.phq9},answers:{phq9_9:1}});
+ assert.equal(r.status,200);assert.equal(r.finished,true);assert.equal(r.draft,null);assert.equal(h.count('symptom_drafts'),0,'no draft recreated');
+ assert.deepEqual({...h.raw.prepare('SELECT trigger_id,check_id FROM symptom_safety_alerts').get()},{trigger_id:'phq9_item9',check_id:done.check.id},'the alert is kept and linked');
+ assert.equal((await h.call('/api/symptomes')).modules.find(m=>m.id==='humeur').draft,null);
+ // Same key in another module: its alert is not attached to this module's passation, and only the
+ // draft of the finished passation is removed.
+ const shared=key(),other=key();
+ await h.call('/api/symptomes/drafts/anxiete','PUT',{passation_key:shared,content_version:S.version,answers:{securite_actuelle:'oui'}});
+ await h.call('/api/symptomes/drafts/humeur','PUT',{passation_key:other,content_version:S.version,instrument_versions:{phq9:V.phq9},answers:{phq9_1:1}});
+ const check=await h.call('/api/symptomes/checks','POST',humeur(phq9(2),{passation_key:shared}));assert.equal(check.status,201);
+ assert.equal(h.raw.prepare("SELECT check_id FROM symptom_safety_alerts WHERE module='anxiete'").get().check_id,null);
+ assert.deepEqual(h.raw.prepare('SELECT module,passation_key FROM symptom_drafts ORDER BY module').all().map(x=>({...x})),[{module:'anxiete',passation_key:shared},{module:'humeur',passation_key:other}]);
+ // A conflicting resend (409) still records its dated alerts: a safety answer is never lost.
+ const conflict=await h.call('/api/symptomes/checks','POST',humeur(phq9(2,{securite_actuelle:'oui'}),{passation_key:k}));assert.equal(conflict.status,409);
+ assert.equal(h.raw.prepare("SELECT count(*) n FROM symptom_safety_alerts WHERE passation_key=? AND trigger_id='securite_oui'").get(k).n,1);
+ assert.ok((await h.backend.exportData(h.env,'a')).symptomes.safety_alerts.every(a=>typeof a.passation_key==='string'),'alerts exported with their passation key');
+});
+
+test('age: counted on the date in Europe/Paris, not in UTC',async()=>{
+ const h=harness();h.birth('a','2008-11-19');
+ h.tick(Date.UTC(2026,10,18,23,30)/1000-h.now());// 00:30 in Paris on 19 November, 23:30 UTC on the 18th
+ assert.equal((await h.call('/api/symptomes')).age.status,'adulte');
+ h.tick(-3600);assert.equal((await h.call('/api/symptomes')).age.status,'mineur','23:30 in Paris on the 18th');
+});
