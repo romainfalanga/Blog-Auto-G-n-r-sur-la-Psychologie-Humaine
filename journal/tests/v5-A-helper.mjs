@@ -1,3 +1,4 @@
+import {readReviewSnapshot} from '../src/review-snapshot.mjs';
 // Lot A5-P0 harness: the filled profile of the v5 audit (docs/audit-sources-bilans-ambre-v5-2026-11-19.md),
 // with start and end markers in every field, replayed on the real engine with a simulated provider.
 import {setup,analysis,draft,review,response,CARTOGRAPHIE} from './v4-S-helper.mjs';
@@ -89,14 +90,16 @@ export async function replayTurn(message,{strategy='ideal',choose=null,digests=f
 // Lot A5-P1: the separate check is answered (pass) and measured too (check, checkTokens).
 export const CHECK_PASS={criteria:{no_diagnosis:'yes',quotes_faithful:'yes',safety_resources:'na',hypotheses_open:'yes',no_saved_claim:'yes',sources_honest:'yes'},reasons:[]};
 const bodyTokens=body=>{const system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text;return Math.ceil((system.length+body.messages[1].content.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3)};
-export async function replayReview(kind,{digests=false,write=null,extend=null}={}){
- const s=setup();if(kind==='point')await s.ready();seedProfile(s);
+export async function replayReview(kind,{digests=false,write=null,extend=null,legacy=false}={}){
+ const s=setup(legacy?{until:'0031'}:{});if(kind==='point')await s.ready();seedProfile(s);
  if(kind==='point'){seedReviews(s,'a',{digests});seedMemoryAndHistory(s)}
  if(extend)await extend(s);
  const calls=[],original=globalThis.fetch;
- globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body);calls.push(body);if(body.response_format?.json_schema?.name==='ambre_review_check')return response(CHECK_PASS);return response(write?write(body):{content:'BILAN_GENERE '+'Ce qui a évolué depuis le dernier bilan. '.repeat(60)})};
+ globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body);calls.push(body);if(body.response_format?.json_schema?.name==='ambre_snapshot_chunk')return response({summary:'Faits déclarés dans le bloc, à explorer avec la personne.',quotes:[]});if(body.response_format?.json_schema?.name==='ambre_review_check')return response(CHECK_PASS);return response(write?write(body):{content:'BILAN_GENERE '+'Ce qui a évolué depuis le dernier bilan. '.repeat(60)})};
  let r;try{r=kind==='point'?await s.call('/api/chat/review','POST',{idempotency_key:'point-0001'}):await s.call('/api/chat/start','POST',{idempotency_key:'start-0001',accepted:true})}finally{globalThis.fetch=original}
- const body=calls[0],system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text,user=body.messages[1].content;
+ const body=calls.find(c=>c.response_format?.json_schema?.name==='ambre_review'),chunkCalls=calls.filter(c=>c.response_format?.json_schema?.name==='ambre_snapshot_chunk'),snapshot=r.review_id?await readReviewSnapshot(s.env,'a',r.review_id):null;
+ if(!body)return {s,r,calls,chunkCalls,snapshot,data:null,tokens:0,checkTokens:0,outputCap:0,failure:s.raw.prepare("SELECT error_code,status FROM ambre_reviews WHERE id=?").get(r.review_id||'')};
+ const system=typeof body.messages[0].content==='string'?body.messages[0].content:body.messages[0].content[0].text,user=body.messages[1].content;
  const check=calls.find(c=>c.response_format?.json_schema?.name==='ambre_review_check');
- return {s,r,calls,system,user,data:JSON.parse(user.slice(user.indexOf('{'))),tokens:Math.ceil((system.length+user.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3),check,checkTokens:check?bodyTokens(check):0,outputCap:body.max_tokens+(check?check.max_tokens:0)};
+ return {s,r,calls,chunkCalls,snapshot,system,user,data:JSON.parse(user.slice(user.indexOf('{'))),tokens:Math.ceil((system.length+user.length+JSON.stringify(body.response_format?.json_schema?.schema||{}).length)/3),check,checkTokens:check?bodyTokens(check):0,outputCap:body.max_tokens+(check?check.max_tokens:0)};
 }

@@ -38,7 +38,7 @@ export const response=data=>Response.json({choices:[{message:{content:typeof dat
 // handler(purpose,body,calls) may return an object, a Response or undefined.
 export function provider(t,handler){
  const calls=[],original=globalThis.fetch;
- globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name;calls.push({purpose,model:body.model,body,chars:init.body.length});const custom=await handler?.(purpose,body,calls);if(custom instanceof Response)return custom;return response(custom??({ambre_analysis:analysis(),ambre_risk_check:{risk:'none',category:'none',evidence_quote:''},ambre_writing:draft(),ambre_review:review(),ambre_memory:{items:[]}}[purpose]))};
+ globalThis.fetch=async(url,init)=>{const body=JSON.parse(init.body),purpose=body.response_format?.json_schema.name;calls.push({purpose,model:body.model,body,chars:init.body.length});const custom=await handler?.(purpose,body,calls);if(custom instanceof Response)return custom;return response(custom??({ambre_snapshot_chunk:{summary:'Faits déclarés dans le bloc, à explorer avec la personne.',quotes:[]},ambre_analysis:analysis(),ambre_risk_check:{risk:'none',category:'none',evidence_quote:''},ambre_writing:draft(),ambre_review:review(),ambre_memory:{items:[]}}[purpose]))};
  t?.after(()=>{globalThis.fetch=original});
  return calls;
 }
