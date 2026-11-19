@@ -462,7 +462,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    if(!lastReview){
     // Older than the 12-turn window: fetch the latest review alone, never a list.
     const row=await first(env,"SELECT response FROM chat_turns WHERE user_id=? AND status='completed' AND purged=0 AND idempotency_key LIKE 'review-%' ORDER BY rowid DESC LIMIT 1",userId),reply=row?replyData(row.response):null;
-    if(reply?.review_id)lastReview={kind:reply.review_kind,...excerpt(reply.content,3200,600)};
+    if(reply?.review_id){const full=reply.chat_message!==undefined?(await first(env,"SELECT content FROM ambre_reviews WHERE id=? AND user_id=? AND status='ready'",reply.review_id,userId))?.content:null;lastReview={kind:reply.review_kind,...excerpt(full||reply.content,3200,600)};}
    }
    if(lastReview)promptData.last_review={kind:lastReview.kind,text:lastReview.text,...(lastReview.excerpt?{excerpt:true}:{})};
    const previousMessage=selected.findLast(m=>m.role==='user')?.content;
