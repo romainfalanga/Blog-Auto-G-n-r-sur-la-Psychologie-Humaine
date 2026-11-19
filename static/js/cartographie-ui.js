@@ -56,7 +56,11 @@
       }).catch(function (error) { detailsPromise = null; throw error; });
       return detailsPromise;
     }
-    function detailsError() { state.saveError = 'Les explications sont indisponibles pour le moment. Réessayez en ouvrant le détail.'; renderSave(); }
+    function detailsError() {
+      dialog.querySelector('[data-dialog-title]').textContent = 'Explications indisponibles';
+      var body = dialog.querySelector('[data-dialog-body]'); body.textContent = 'Impossible de charger les explications. Fermez cette fenêtre puis réessayez en ouvrant le détail. Vos réponses sont conservées.';
+      if (!dialog.open) { if (typeof dialog.showModal === 'function') dialog.showModal(); else dialog.setAttribute('open', ''); }
+    }
 
     var DRAFT_KEY = ui.draft_key || (symptoms ? 'symptomes-brouillon-v2' : 'cartographie-brouillon-v1');
     var apiPath = ui.api || (symptoms ? '/api/symptomes' : '/api/cartographie');
@@ -704,7 +708,7 @@
     function start(data) { if (!data || !Array.isArray(data.factors) || !Array.isArray(data.links)) throw new Error('Invalid map'); app(root, data); }
     if (!node.getAttribute('data-src')) { start(JSON.parse(node.textContent)); return; }
     function load() {
-      fetch(node.getAttribute('data-src'), { credentials: 'omit', cache: 'force-cache' }).then(function (r) { if (!r.ok) throw new Error('Map unavailable'); return r.json(); }).then(start).catch(function () {
+      fetch(node.getAttribute('data-src'), { credentials: 'same-origin', cache: 'force-cache' }).then(function (r) { if (!r.ok) throw new Error('Map unavailable'); return r.json(); }).then(start).catch(function () {
         var status = root.querySelector('[data-loading-status]'); status.hidden = false; status.textContent = 'Impossible de charger les questions. ';
         status.appendChild(el('button', { type: 'button', onclick: load, text: 'Réessayer' }));
       });
