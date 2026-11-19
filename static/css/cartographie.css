@@ -99,6 +99,7 @@
 .carto-fold > summary::-webkit-details-marker { display: none; }
 .carto-fold > summary::after { content: '›' / ''; position: absolute; right: var(--s5); top: 50%; color: var(--muted); font: 400 22px/1 var(--font-ui); transform: translateY(-50%); transition: transform .12s; }
 .carto-fold[open] > summary::after { transform: translateY(-50%) rotate(90deg); }
+.carto-fold > summary:active, .carto-row:active, .carto-dialog-item > summary:active { background: var(--accent-wash); }
 .carto-rows { margin: 0; padding: 0 var(--s5); list-style: none; }
 .carto-row-item { border-top: 1px solid var(--line); }
 .carto-row { justify-content: space-between; width: 100%; padding: 0; border: 0; border-radius: 0; background: none; color: var(--ink); font-size: var(--t-sm); font-weight: 600; text-align: left; }

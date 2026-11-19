@@ -24,6 +24,8 @@
 .perso-card { position: relative; min-width: 0; padding: var(--s4); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); transition: border-color .12s; }
 .perso-card:has(:focus-visible) { border-color: var(--accent); }
 @media (hover: hover) { .perso-card:hover { border-color: var(--accent); } }
+/* Pressed (touch or click): an immediate light wash, before the next page loads. */
+.perso-card:has(.perso-name a:active) { border-color: var(--line-strong); background: var(--accent-wash); }
 .perso-name { margin: 0 0 var(--s1); font: 700 var(--t-lg)/1.3 var(--font-title); overflow-wrap: anywhere; }
 .perso-name a { color: var(--ink); text-decoration: none; }
 .perso-name a::after { content: ''; position: absolute; inset: 0; border-radius: var(--r-card); }
@@ -113,6 +115,9 @@
 .article-card { position: relative; display: flex; flex-direction: column; min-width: 0; padding: var(--s4); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); transition: border-color .12s; }
 .article-card:has(:focus-visible) { border-color: var(--accent); }
 @media (hover: hover) { .article-card:hover { border-color: var(--accent); } }
+.article-card:has(.card-title a:active) { border-color: var(--line-strong); background: var(--accent-wash); }
+.related-articles .article-card:has(.card-title a:active) { background: none; }
+.related-articles .card-title a:active { color: var(--accent); }
 .article-card .card-title { margin: 0 0 var(--s2); font: 600 var(--t-md)/1.35 var(--font-ui); }
 .article-card .card-title a { color: var(--ink); text-decoration: none; }
 .article-card .card-title a::after { content: ''; position: absolute; inset: 0; border-radius: var(--r-card); }

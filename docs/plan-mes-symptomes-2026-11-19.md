@@ -31,3 +31,52 @@ Relecture clinique indépendante des repères non validés et des textes ; relec
 
 ## Hors périmètre / à décider plus tard
 Lettres d'autorisation pour AUDIT, SCOFF, etc. ; avis juridique (statut de dispositif médical, analyse d'impact sur les données de santé) ; EPDS (périnatal) et PG-13-R (deuil prolongé).
+
+
+---
+
+# Version 1.1 après relecture critique indépendante (fait foi)
+
+Les points ci-dessous remplacent ce qui les contredit plus haut.
+
+## Moments
+- Migration unique `0027_life_event_significance.sql` ; `0028_symptom_checks.sql` (réponses, consentement, alertes de sécurité).
+- `significance` = « marquant dans mon histoire » (anecdotique / marquant) ; `current_importance` (1–5, « pèse aujourd'hui ») est conservé, sans conversion automatique.
+- Obligatoire à la création dans l'interface ; une modification sans le champ garde la valeur enregistrée ; les propositions d'Ambre (`life_event_create` / `update`) ne déduisent jamais la valeur : la personne la choisit en validant.
+- Tri d'Ambre : moments cités explicitement, puis marquants, puis ordre actuel ; un moment avec `exposure` n'est jamais relégué parce qu'il est noté anecdotique.
+- Même affichage sur la frise des proches ; le filtre « Marquants » montre à part les moments « à préciser ».
+
+## Instruments
+- PHQ-2 → PHQ-9 et GAD-2 → GAD-7 avec entrée à **≥ 2** (Levis 2020 ; Kroenke 2007), repère PHQ-9 / GAD-7 ≥ 10 ; approfondissement possible sur demande même si l'entrée est négative ; paliers affichés (5–9 compris).
+- PHQ-15 : période et délai de 28 jours. ITQ : question d'événement et de date propre à l'ITQ, « typiquement » pour les items d'organisation de soi, TSPT et TSPT-C exclusifs ; jamais « diagnostic probable ».
+- **PCL-5 exclu** (retiré du JSON et du stockage).
+- Archives des pages de licence (phqscreeners, Trauma Measures Global, PDF Cn2r) avec empreinte ; traductions françaises officielles, aucun item retouché ; demande de confirmation au Cn2r notée (non bloquante).
+- Le serveur recalcule les scores à partir des réponses et de la version de l'instrument ; générateur `scripts/build_symptomes.py --check`.
+
+## Sûreté
+- Page réservée aux adultes : la date de naissance de Mon compte (déjà obligatoire pour Ambre) doit donner ≥ 18 ans ; sinon orientation (119, Fil Santé Jeunes) et rien n'est enregistré.
+- Écran de sécurité (question universelle, item 9 du PHQ-9) : ressources immédiates, boutons « Continuer », « Parler à Ambre », « Arrêter », sans délai ni score de risque.
+- Sous chaque repère positif : « Un repère au-dessus du seuil signale qu'un échange avec un professionnel est utile ; beaucoup de personnes dans ce cas n'ont pas de trouble après un entretien. » Sous chaque résultat négatif : « Cela n'exclut pas une difficulté ; si quelque chose vous inquiète, parlez-en à un professionnel. »
+- Temps 1 : humeur, anxiété, sécurité, puis liste de modules à cocher ; les modules sensibles (psychose, dissociation, personnalité, sexualité, substances) ne sont proposés que si la personne les choisit.
+- Délais : questions « vie entière » et d'exposition posées une fois ; repères sur 12 mois ou 2 ans : 90 jours.
+- Repères non validés réécrits selon la relecture (humeur_duree, humeur_perinatal, deuil_6mois en deux questions, adaptation_evenement, panique_inquietude, agoraphobie scindée avec résultat propre, questions de gêne « Non / Un peu / Nettement ») ; les 20 domaines restants sont rédigés puis relus par un relecteur clinique distinct avant intégration ; un domaine non relu n'est pas publié.
+
+## Croisement avec Mon enfance
+- Correspondances par règle explicite (instrument ou repère → sujets), pas par domaine entier ; retirés : prémenstruel, rumination, inférences négatives (PHQ-9), névrosisme (GAD-7), fibromyalgie, migraine (PHQ-15), tous les `sch_*`.
+- Seuls les sujets avec lien empirique (`associated_count` > 0).
+- Quatre états : signalé, non signalé, non exploré, refusé ; tri par ordre des modules puis alphabétique ; aucun nombre de vécus affiché.
+- Liste 1 intitulée « Présent dans vos deux questionnaires », avec : « Beaucoup de personnes ayant ces vécus n'ont pas ces difficultés, et inversement ; ce rapprochement ne montre pas une cause. »
+
+## Ambre
+- Bloc symptômes ≤ 1 200 caractères pris sur la part de la cartographie ; test prouvant le plafond +10 % (mesures actuelles : rédaction +9,1 %, bilan +8,9 %).
+- Interdits : nommer un trouble, présenter l'enfance comme cause, s'appuyer sur un résultat de plus de 90 jours sans le dater.
+- Question de sécurité d'Ambre au plus une fois par 14 jours, avant toute exploration.
+
+## Lots
+- **0** (contenu, sans code) : licences archivées, 20 domaines restants rédigés, réécritures, puis relecture clinique distincte.
+- **A** : migrations 0027/0028, API, moteur pur partagé, sécurité, export, suppression, tests.
+- **B** : interface (page, frise, ajout depuis un proche) après gel du contrat d'API.
+- **C** : Ambre et Paramètres.
+
+## Risques notés (décision du propriétaire : non bloquants)
+Statut de dispositif médical et analyse d'impact sur les données de santé : signalés, non bloquants selon la consigne du propriétaire.

@@ -86,7 +86,8 @@ details > summary::-webkit-details-marker { display: none; }
   color: #fff;
   font: 600 var(--t-md)/1.2 var(--font-ui);
 }
-.source-editor > summary:hover { background: color-mix(in srgb, var(--accent) 86%, #000); }
+@media (hover: hover) { .source-editor > summary:hover { background: color-mix(in srgb, var(--accent) 86%, #000); } }
+.source-editor:not([open]) > summary:active { background: color-mix(in srgb, var(--accent) 80%, #000); transform: scale(.98); }
 .source-editor[open] > summary { min-height: 0; padding: 0; background: none; color: var(--ink); font: 600 20px/1.3 var(--font-ui); pointer-events: none; }
 .source-editor form { margin-top: var(--s4); }
 .source-editor[open] { padding-bottom: var(--s4); border-bottom: 1px solid var(--line); }
