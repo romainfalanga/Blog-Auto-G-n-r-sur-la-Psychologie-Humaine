@@ -514,7 +514,7 @@ test('Ambre’s first message lists the five pages with counters, asks one agree
  let start=env.doc.getElementById('ambre-start'),reason=env.doc.getElementById('ambre-start-reason');assert.equal(start.textContent,'Lancer mon bilan');assert.equal(start.disabled,true);
  assert.equal(reason.textContent,'Complétez d’abord Mon compte, Mes proches, Mes symptômes. Enregistrez Mon enfance.');assert.equal(start.getAttribute('aria-describedby'),reason.id);
  assert.ok(env.view.querySelector('.chat-gate')===null,'one agreement only, in the first message');assert.match(env.doc.getElementById('ambre-consent').parentElement.textContent,/traités par OpenRouter/);
- assert.equal(env.input.getAttribute('aria-disabled'),'true');assert.equal(env.input.readOnly,true);assert.equal(env.input.disabled,false);assert.match(env.input.getAttribute('aria-describedby'),/chat-locked-note/);
+ assert.equal(env.input.getAttribute('aria-disabled'),'true');assert.equal(env.input.readOnly,true);assert.equal(env.input.disabled,true);assert.match(env.input.getAttribute('aria-describedby'),/chat-locked-note/);
  assert.equal(env.doc.getElementById('chat-locked-note').textContent,'Vous pourrez écrire à Ambre après votre premier bilan.');assert.equal(env.doc.getElementById('chat-locked-note').hidden,false);
  env.input.value='Bonjour';assert.equal(env.send.disabled,true);assert.ok(env.doc.activeElement!==env.input,'no keyboard is opened');
  env.ctx.state.chatData=ambreState(fullReadiness());env.ctx.drawChat(env.view,()=>true);
@@ -539,7 +539,7 @@ test('Ambre’s first message lists the five pages with counters, asks one agree
  assert.equal(current.isConnected,false);assert.equal(env.view.chatShell.announcement.textContent,'Votre bilan est prêt.');
  const reply=thread.children.at(-1);assert.equal(reply.querySelector('.chat-content').textContent,'Ce qui ressort : vous vous taisez pour protéger le lien.\n\nQu’aimeriez-vous creuser ?');assert.doesNotMatch(reply.textContent,/très long/);
  assert.deepEqual(reply.querySelectorAll('a').map(a=>[a.textContent,a.href]),[['Lire le bilan complet','/mes-bilans/'],['Voir Mes diagnostics','/mes-diagnostics/']]);
- assert.equal(env.input.getAttribute('aria-disabled'),undefined);assert.equal(env.input.readOnly,false);assert.equal(env.doc.getElementById('chat-locked-note').hidden,true);assert.equal(env.send.disabled,false);
+ assert.equal(env.input.getAttribute('aria-disabled'),undefined);assert.equal(env.input.readOnly,false);assert.equal(env.input.disabled,false);assert.equal(env.doc.getElementById('chat-locked-note').hidden,true);assert.equal(env.send.disabled,false);
  assert.match(env.doc.getElementById('ambre-intro').textContent,/Votre premier bilan est fait/);assert.equal(thread.children[0].id,'ambre-intro');
 });
 

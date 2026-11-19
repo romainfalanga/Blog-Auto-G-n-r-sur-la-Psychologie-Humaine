@@ -126,10 +126,48 @@ export function snapshotChunks(payload,maxChars=20000){
  for(const fragment of fragments){if(current.length&&JSON.stringify([...current,fragment]).length>maxChars){chunks.push(current);current=[];}current.push(fragment);}if(current.length)chunks.push(current);
  return chunks.map((items,index)=>({index,items}));
 }
+// A fragment is a slice of the JSON text of an item: the person's words appear in it with JSON
+// escapes (\" for a quote, \n for a line break), and the model sees them escaped a second time in
+// the message. A quote is therefore compared on decoded, normalised text on both sides
+// (escapes, typographic apostrophes and quotation marks, spaces); its words must still all be there,
+// in the same order: a quote that is not in the fragments of the block is always rejected.
+const decodeJsonEscapes=text=>String(text).replace(/\\(?:u([0-9a-fA-F]{4})|(["\\/bfnrt]))/g,(m,hex,c)=>hex?String.fromCharCode(parseInt(hex,16)):({b:'\b',f:'\f',n:'\n',r:'\r',t:'\t'}[c]??c));
+export function normalizeQuoteText(text){
+ return decodeJsonEscapes(text).normalize('NFC').replace(/[\u2018\u2019\u201A\u201B\u2032\u02BC\u0060\u00B4]/g,"'").replace(/[\u201C\u201D\u201E\u201F\u2033\u00AB\u00BB]/g,'"').replace(/[\u2010-\u2015\u2212]/g,'-').replace(/\u2026/g,'...').replace(/\s+/g,' ').replace(/ ?" ?/g,'"').trim();
+}
+export const SNAPSHOT_SUMMARY_MAX=800,SNAPSHOT_QUOTE_MAX=160,SNAPSHOT_QUOTES_MAX=3;
+// A summary over the limit (the schema maxLength is not enforced by every provider in strict mode)
+// is cut at the last full sentence, or else at a word, instead of losing the whole block.
+export function clipText(text,max,{ellipsis=true}={}){
+ const value=String(text).trim();if(value.length<=max)return value;
+ const room=ellipsis?max-1:max,head=value.slice(0,room+1),sentence=Math.max(...['. ','! ','? ','… ','.\n','!\n','?\n'].map(m=>head.lastIndexOf(m)));
+ if(sentence>=room*0.6)return value.slice(0,sentence+1).trim();
+ const space=head.lastIndexOf(' ');return value.slice(0,space>room*0.5?space:room).trim()+(ellipsis?'…':'');
+}
+const rejected=(reason,message,extra={})=>Object.assign(failure('invalid_response',message),{rejection:{reason,...extra}});
 export function validateSnapshotChunk(value,chunk){
- if(!value||typeof value.summary!=='string'||!value.summary.trim()||value.summary.length>800||!Array.isArray(value.quotes)||value.quotes.length>3)throw failure('invalid_response','Analyse de bloc invalide.');
- const quotes=value.quotes.map(q=>{const item=chunk.items.find(x=>x.path===q.path&&x.text.includes(q.quote));if(!item||typeof q.quote!=='string'||!q.quote.trim()||q.quote.length>160)throw failure('invalid_response','Citation de bloc non vérifiable.');return {path:q.path,quote:q.quote};});
- return {index:chunk.index,source_refs:chunk.items.map(({path,offset,total_chars,text})=>({path,offset,length:text.length,total_chars})),summary:value.summary,quotes};
+ if(!value||typeof value!=='object')throw rejected('not_object','Analyse de bloc invalide.');
+ if(typeof value.summary!=='string'||!value.summary.trim())throw rejected('summary_missing','Analyse de bloc invalide.');
+ if(!Array.isArray(value.quotes))throw rejected('quotes_missing','Analyse de bloc invalide.',{summary_chars:value.summary.length});
+ // The decoded text of each path in this block, contiguous fragments joined (a quote may straddle a cut).
+ const texts=new Map();
+ for(const item of [...chunk.items].sort((a,b)=>a.path.localeCompare(b.path)||a.offset-b.offset)){const prev=texts.get(item.path);texts.set(item.path,prev?{raw:prev.raw+(prev.end===item.offset?'':'\u0000')+item.text,end:item.offset+item.text.length}:{raw:item.text,end:item.offset+item.text.length});}
+ const normalized=new Map([...texts].map(([path,{raw}])=>[path,normalizeQuoteText(raw)]));
+ const quotes=[],counts={received:value.quotes.length,empty:0,clipped:0,repathed:0,dropped:0};
+ for(const [position,q] of value.quotes.entries()){
+  if(!q||typeof q!=='object'||typeof q.quote!=='string')throw rejected('quote_invalid','Citation de bloc non vérifiable.',{quote_index:position});
+  const quote=decodeJsonEscapes(q.quote).trim(),needle=normalizeQuoteText(quote);
+  if(!needle){counts.empty++;continue;}
+  const own=typeof q.path==='string'&&normalized.get(q.path)?.includes(needle)?q.path:null,path=own||[...normalized].find(([,text])=>text.includes(needle))?.[0];
+  if(!path)throw rejected(typeof q.path==='string'&&normalized.has(q.path)?'quote_not_found':'quote_not_found_unknown_path','Citation de bloc non vérifiable.',{quote_index:position,quote_chars:q.quote.length,path_known:normalized.has(q.path)});
+  if(!own)counts.repathed++;
+  if(quotes.length>=SNAPSHOT_QUOTES_MAX){counts.dropped++;continue;}
+  // A prefix of an exact quote is still exact: a quote over the limit is cut at a word.
+  let kept=quote;if(kept.length>SNAPSHOT_QUOTE_MAX){kept=clipText(kept,SNAPSHOT_QUOTE_MAX,{ellipsis:false});counts.clipped++;if(!normalized.get(path).includes(normalizeQuoteText(kept)))throw rejected('quote_clip_failed','Citation de bloc non vérifiable.',{quote_index:position});}
+  quotes.push({path,quote:kept});
+ }
+ const summary=clipText(value.summary,SNAPSHOT_SUMMARY_MAX),adjusted={...(summary.length!==value.summary.trim().length?{summary_chars:value.summary.length}:{}),...Object.fromEntries(Object.entries(counts).filter(([k,v])=>k!=='received'&&v))};
+ return {index:chunk.index,source_refs:chunk.items.map(({path,offset,total_chars,text})=>({path,offset,length:text.length,total_chars})),summary,quotes,...(Object.keys(adjusted).length?{adjusted}:{})};
 }
 export const SNAPSHOT_CHUNK_SCHEMA={type:'object',properties:{summary:{type:'string',maxLength:800},quotes:{type:'array',maxItems:3,items:{type:'object',properties:{path:{type:'string'},quote:{type:'string',maxLength:160}},required:['path','quote'],additionalProperties:false}}},required:['summary','quotes'],additionalProperties:false};
 
