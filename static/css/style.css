@@ -42,7 +42,6 @@
 
 /* ── Character profile ── */
 .catalogue-back { display: inline-flex; align-items: center; min-height: 44px; margin: calc(-1 * var(--s3)) 0 var(--s1); font: 600 var(--t-md)/1.2 var(--font-ui); text-decoration: none; }
-.catalogue-back::before { content: '←' / ''; margin-right: .4em; }
 .catalogue-back:hover { text-decoration: underline; }
 .perso-profile { margin: 0 0 var(--s6); }
 .perso-profile-name { margin: 0 0 var(--s3); }

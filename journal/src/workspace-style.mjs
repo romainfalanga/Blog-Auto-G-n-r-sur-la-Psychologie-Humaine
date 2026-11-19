@@ -6,7 +6,6 @@ main { position: relative; min-width: 0; }
 .app-head { margin: 0 0 var(--s5); }
 .app-head h1 { margin: 0; }
 .app-head .page-back { margin: calc(-1 * var(--s3)) 0 var(--s1); padding: 0; }
-.app-head .page-back::before { content: '←' / ''; margin-right: .4em; }
 .page-description { margin: var(--s1) 0 0; color: var(--muted); font-size: var(--t-sm); }
 .panel, .narrow, .personal-section { min-width: 0; }
 .muted, .helper, .field-hint, small { color: var(--muted); }
@@ -116,11 +115,11 @@ details > summary::-webkit-details-marker { display: none; }
 .event-foot .text, .timeline-note .text, .source-note-editor > summary, .person-timeline-body > .text-link { font-size: var(--t-sm); }
 
 .people-directory { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s3); }
-/* A person: an initial, the name and the role, one or two lines of the relation, a chevron. */
+/* A person: the name and the role, one or two lines of the relation, a chevron. */
 .person-card {
   position: relative;
   display: grid;
-  grid-template-columns: 40px minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   align-items: start;
   gap: var(--s3);
   min-width: 0;
@@ -130,14 +129,12 @@ details > summary::-webkit-details-marker { display: none; }
   background: var(--surface);
   transition: border-color .12s, background-color .12s, transform .08s;
 }
-.person-initial { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: var(--accent-wash); color: var(--accent); font: 400 var(--t-lg)/1 var(--font-title); }
 .person-card:has(:focus-visible) { border-color: var(--accent); }
 @media (hover: hover) { .person-card:hover { border-color: var(--accent); } }
 .person-card:target { border-color: var(--accent); }
 /* Touch: an immediate answer under the finger, then a quiet wait if the page takes time. */
 .person-card:has(.person-open:active), .person-card:has(.person-open[data-pending]) { border-color: var(--line-strong); background: var(--accent-wash); }
 .person-card:has(.person-open:active) { transform: scale(.99); }
-.person-card:has(.person-open:active) .person-initial, .person-card:has(.person-open[data-pending]) .person-initial { background: var(--surface); }
 .person-head { overflow-wrap: anywhere; }
 .person-card h3 { display: inline; margin: 0; }
 .person-head .source-tag::before { content: ' · ' / ''; }
@@ -279,7 +276,6 @@ html.is-navigating .person-card:has(.person-open[data-pending])::after { content
 .person-timeline-adds > .person-note-add[open] { flex: 1 1 100%; order: 2; }
 .person-moment-add::before { content: '+' / ''; margin-right: 0; color: var(--accent); font-weight: 400; font-size: 20px; line-height: 1; }
 .moment-back { min-height: 44px; font-size: var(--t-sm); }
-.moment-back::before { content: '←' / ''; margin-right: .4em; }
 .person-note-add > summary {
   display: inline-flex;
   min-height: 44px;

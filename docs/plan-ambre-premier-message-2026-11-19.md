@@ -1,0 +1,32 @@
+# Plan : Ambre commence par un premier message et un bilan lancé depuis la conversation (19/11)
+
+## Demande du propriétaire
+1. La page Ambre est toujours la conversation, même avant lancement : un premier message d'Ambre (stylisé) explique son fonctionnement et qu'elle a besoin de toutes les informations pour un premier bilan.
+2. Ce message liste les pages à compléter (lien + compteur « fait / total » par page) ; la saisie reste fermée tant que le bilan n'est pas lancé ; un bouton en fin de message lance le bilan.
+3. Au clic : message d'Ambre « je prépare votre bilan », avec une durée estimée, une progression, et quand revenir.
+4. Bilan prêt : il est dans Mes bilans, Mes diagnostics est à jour, et Ambre publie un message qui résume ce qui ressort et pose des questions (ce que la personne veut creuser, ce qu'elle en pense). La conversation s'ouvre.
+5. Le bilan garde tout ce qui existe : instantané complet (enfance, symptômes, proches, ligne de vie, notes, observations, bilans précédents, conversation, mémoire, portrait, suivi, conclusions professionnelles), évaluation clinique déterministe (méthode OMS/CDDR, HAS, NICE), analyse de tous les blocs, relecture. Rien n'est retiré.
+
+## Lot 1 — Fiabiliser le bilan (préalable, sans quoi le bouton mène à un échec)
+- `context_changed` : après la capture, toutes les étapes travaillent uniquement sur l'instantané figé (déjà daté et complet) ; les contrôles d'empreinte des sources vivantes après capture sont retirés (le bilan reflète l'état au moment de la capture, comme un document daté). Les contrôles d'accord, d'accès, de prérequis et de quota restent faits à la création et avant publication. Le cron du portrait ne change plus le résultat. Une réponse modifiée pendant le bilan sera prise en compte au bilan suivant.
+- `review_not_approved` : le contrôle déterministe des citations ne considère plus comme citations les libellés de l'interface présents dans l'instantané (questions, réponses « Non/Oui/Je ne sais pas/Dans le passé », titres de thèmes et de sujets) ; le contrat de relecture est mis en cohérence avec la règle d'Ambre (« hypothèse : X, appuyée par A et B ; il manque C » autorisé, jamais « vous avez ») pour supprimer les verdicts contradictoires. Aucun critère n'est désactivé.
+- Tests : rejeu d'un bilan complet avec un portrait qui change pendant le traitement (doit aboutir) ; bilan contenant « Dans le passé » (pas de citation inventée).
+
+## Lot 2 — Sortie du bilan : document complet + message de conversation
+- Le schéma de sortie du bilan gagne un champ `chat_message` (≤ 2 500 caractères) : ce qui ressort en quelques points, puis 2 à 3 questions (ce que la personne veut creuser, ce qu'elle en pense). Le document complet va dans Mes bilans ; le message publié dans la conversation est `chat_message` avec les liens « Lire le bilan complet » et « Voir Mes diagnostics ». Un seul appel de rédaction (pas de génération supplémentaire), relu avec les mêmes critères.
+- Pour un point mensuel ultérieur, même principe.
+
+## Lot 3 — Page Ambre : premier message, bouton, attente, échec
+- Le fil et le formulaire sont toujours affichés ; la carte « Avant de commencer » disparaît. Un premier message d'Ambre rendu par le code (pas d'IA, pas de stockage), stylisé : présentation courte, puis une liste « Ce dont j'ai besoin » (Mon compte n/4, Mes proches n/3, Ma ligne de vie n/3, Mon enfance n/N, Mes symptômes n/516) avec liens et coche quand c'est complet, puis l'accord fournisseur (case) et le bouton « Lancer mon bilan » (actif seulement quand tout est complet et l'accord coché ; sinon la raison est écrite sous le bouton).
+- Saisie visible mais désactivée, avec la mention « Vous pourrez écrire à Ambre après votre premier bilan ».
+- Après le clic : message d'Ambre « Je prépare votre bilan », avec progression (lecture de vos informations n/N, rédaction, relecture), durée estimée affichée en fourchette, et « Vous pouvez fermer cette page : votre bilan apparaîtra ici et dans Mes bilans ». `GET /api/chat` expose `journey.review` : `stage`, `blocks_done`, `blocks_total`, `started_at`, `estimate_seconds`.
+- Estimation : `estimate = 60 s + 35 s × blocs + 60 s` (marge de réécriture), arrondie en minutes, recalibrée sur la médiane réelle des bilans `ready` quand il y en a (≥ 3), et recalculée pendant le traitement à partir du rythme observé. Valeur de départ validée par une mesure réelle sur un compte de test complet (lot 4).
+- Échec : message d'Ambre clair (« Le bilan n'a pas pu aboutir : … Rien n'a été perdu ») avec un bouton « Relancer » quand c'est possible (le crédit mensuel est restitué en cas d'échec, limites quotidiennes inchangées).
+- Après le bilan : le message `chat_message` d'Ambre apparaît, la saisie s'ouvre (accord de conversation déjà donné au lancement).
+- Visiteur non connecté : même premier message, avec « Se connecter / Créer un compte » à la place du bouton.
+
+## Lot 4 — Vérifications et mise en ligne
+- Tests unitaires et navigateur (390 tactile, 1280, 1440) : premier message, compteurs, bouton, attente, échec, message post-bilan.
+- Relecture de code indépendante.
+- Recette réelle payante limitée : un compte de test complet (516 symptômes, enfance, 3 proches, 3 moments) → bilan réel jusqu'au bout ; mesurer la durée réelle et le nombre de blocs ; vérifier Mes bilans, Mes diagnostics, le message de conversation ; supprimer le compte.
+- Hors périmètre (à proposer) : e-mail « votre bilan est prêt ».
