@@ -10,7 +10,9 @@ import {createSymptomsBackend} from '../src/symptomes-backend.mjs';
 import {SYMPTOMES_INTERFACE_SCRIPT,SYMPTOMES_INTERFACE_STYLE,symptomsClientScript,SYMPTOMES_ENGINE_PATH} from '../src/symptomes-interface.mjs';
 import {SYMPTOMES_ENGINE_SOURCE} from '../src/symptomes-engine-source.generated.mjs';
 import {SETTINGS_INTERFACE_SCRIPT} from '../src/settings-interface.mjs';
-import {HTML} from '../src/ui.mjs';
+import {HTML as SHELL,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
+// Lot P: the private shell plus its two content-addressed files, as the browser assembles them.
+const HTML=SHELL.replace('</head>',()=>'<style>'+APP_STYLE+'</style></head>')+'<script>'+APP_SCRIPT+'</script>';
 
 // ---- Minimal DOM -------------------------------------------------------------------------------
 class Node {

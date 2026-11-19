@@ -7,7 +7,9 @@ import {setup,database} from './v4-R-helper.mjs';
 import {replayTurn,replayReview} from './v5-A-helper.mjs';
 import {knowledgeIndex,analysisIndex,selectDetails} from '../src/ambre-engine.mjs';
 import {byMomentTier,momentTier,significanceReady} from '../src/context-fields.mjs';
-import {HTML} from '../src/ui.mjs';
+import {HTML as SHELL,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
+// Lot P: the private shell plus its two content-addressed files, as the browser assembles them.
+const HTML=SHELL.replace('</head>',()=>'<style>'+APP_STYLE+'</style></head>')+'<script>'+APP_SCRIPT+'</script>';
 
 const SQL=readFileSync(new URL('../migrations/0027_life_event_significance.sql',import.meta.url),'utf8');
 const moment=(id,extra={})=>({creation_id:'moment-'+id+'-0001',title:'Moment '+id,description:'Récit '+id,kind:'other',date_precision:'year',date_start:'2010',...extra});

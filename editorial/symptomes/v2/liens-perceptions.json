@@ -6,7 +6,7 @@
    "canonical": false,
    "theme": "perceptions_realite",
    "label": "Être absorbé au point de ne plus percevoir ce qui entoure",
-   "description": "Être si pris par une pensée ou une activité qu'on n'entend plus rien, ou rester le regard dans le vide sans voir le temps.",
+   "description": "Être si pris par une pensée ou une activité qu'on perd le contact avec l'entourage, ou fixer le vide un long moment.",
    "examples": [
     "Ne pas entendre qu'on vous parle",
     "Rester figé devant un écran sans rien suivre"
@@ -404,7 +404,7 @@
    "id": "per_pensees_d_une_autre_partie",
    "canonical": false,
    "theme": "perceptions_realite",
-   "label": "Avoir des pensées ou émotions qui semblent venir d'une autre partie de soi",
+   "label": "Avoir des pensées qui semblent venir d'une autre partie de soi",
    "description": "Des pensées, émotions ou envies qui surgissent comme si elles appartenaient à une autre partie de soi.",
    "examples": [
     "Une colère qui ne semble pas la sienne",
@@ -788,7 +788,7 @@
    "canonical": false,
    "theme": "perceptions_realite",
    "label": "Avoir des impressions sensorielles étranges",
-   "description": "Sentir une présence, prendre une ombre pour quelqu'un, entendre des sons déformés, en sachant ensuite que ce n'était rien.",
+   "description": "Sentir une présence, prendre une ombre pour quelqu'un, percevoir des sons déformés, puis constater que rien n'était là.",
    "examples": [
     "Croire entendre son prénom dans un bruit"
    ],
@@ -881,7 +881,7 @@
    "canonical": false,
    "theme": "perceptions_realite",
    "label": "Penser que des choses banales vous sont adressées",
-   "description": "Avoir l'impression qu'une émission, des inconnus ou des détails du quotidien parlent de vous ou vous envoient un message.",
+   "description": "Avoir l'impression qu'une émission, des inconnus ou des détails du quotidien parlent de vous ou vous font signe.",
    "examples": [
     "Croire qu'une chanson à la radio vous vise"
    ],
@@ -931,7 +931,7 @@
    "canonical": false,
    "theme": "perceptions_realite",
    "label": "Être certain d'avoir une mission ou des pouvoirs à part",
-   "description": "Être sûr d'avoir un rôle exceptionnel, un don ou un lien spécial avec une célébrité ou une force, sans que d'autres le constatent.",
+   "description": "Être sûr d'avoir un rôle exceptionnel, un don ou un lien spécial avec une force, que d'autres ne constatent pas.",
    "examples": [],
    "safety": null,
    "overlap_group": "conviction_grandeur",
@@ -1032,7 +1032,7 @@
    "canonical": false,
    "theme": "perceptions_realite",
    "label": "Être certain d'avoir quelque chose d'étranger dans le corps",
-   "description": "Être sûr d'abriter un parasite, un objet ou une transformation du corps que les examens et les proches ne retrouvent pas.",
+   "description": "Être sûr d'abriter un parasite, un objet ou une transformation que les examens et les proches ne retrouvent pas.",
    "examples": [],
    "safety": null,
    "overlap_group": "conviction_corporelle",
@@ -1062,7 +1062,7 @@
    "canonical": false,
    "theme": "perceptions_realite",
    "label": "Sentir ses pensées ou ses gestes contrôlés de l'extérieur",
-   "description": "Avoir l'impression que des pensées sont mises, retirées ou lues dans sa tête, ou qu'une force extérieure guide ses gestes.",
+   "description": "Sentir que des pensées sont mises, retirées ou lues dans sa tête, ou qu'une force extérieure guide ses gestes.",
    "examples": [],
    "safety": null,
    "overlap_group": "influence_controle",

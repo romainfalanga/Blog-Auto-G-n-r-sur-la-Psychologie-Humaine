@@ -234,7 +234,9 @@ test('review prompts ask for the anchored digest, the thread and the feedback, w
 
 // Mes bilans: the digest as prose and the three answers (no score), sent once chosen.
 import vm from 'node:vm';
-import {HTML} from '../src/ui.mjs';
+import {HTML as SHELL,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
+// Lot P: the private shell plus its two content-addressed files, as the browser assembles them.
+const HTML=SHELL.replace('</head>',()=>'<style>'+APP_STYLE+'</style></head>')+'<script>'+APP_SCRIPT+'</script>';
 test('Mes bilans: “Ce qu’Ambre retient de ce bilan” and the answer “Ce bilan me ressemble / Pas vraiment / À corriger”',async()=>{
  const script=HTML.match(/<script>([\s\S]*?)<\/script>/)[1],code=name=>{const start=script.indexOf('function '+name+'(');const rest=script.slice(start+1),end=rest.search(/\n(?:async )?function |\nvar /);return script.slice(start,start+1+end)};
  class Node{constructor(tag){this.tagName=tag.toUpperCase();this.children=[];this.attributes={};this.listeners={};this.value='';this._text=''}append(...items){this.children.push(...items)}set textContent(v){this._text=String(v);this.children=[]}get textContent(){return this._text+this.children.map(c=>c.textContent).join(' ')}setAttribute(k,v){this.attributes[k]=v}getAttribute(k){return this.attributes[k]}addEventListener(k,fn){(this.listeners[k]??=[]).push(fn)}async click(){for(const fn of this.listeners.click||[])await fn({})}all(tag){return this.children.flatMap(c=>[...(c.tagName===tag?[c]:[]),...c.all(tag)])}}
