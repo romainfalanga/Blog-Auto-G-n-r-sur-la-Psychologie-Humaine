@@ -3,9 +3,9 @@ import {createChangeBackend} from './change-backend.mjs';
 import { isEntitled, accessUntil, platformAccess } from './entitlements.mjs';
 import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
+import { APP_ASSETS, INITIAL_PAGE_DATA_MARKER } from './ui.mjs';
 import { readCompanionReadiness } from './companion-readiness.mjs';
 import { readMonthlyQuotas } from './monthly-quotas.mjs';
-import { EXAMPLES } from './examples.mjs';
 import { createRecommender } from './recommendations.mjs';
 import { createPersonalBackend, hasPersonalizationSources } from './personal-backend.mjs';
 import { createCartographyBackend } from './cartographie.mjs';
@@ -18,6 +18,7 @@ const REPOSITORY = 'romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine';
 const ISSUER = 'https://token.actions.githubusercontent.com';
 const FIELDS = ['display_name','pronouns','age_range','occupation','daily_life','relationships','values','strengths','challenges','goals','boundaries'];
 const now = () => Math.floor(Date.now()/1000);
+const IMMUTABLE = 'public, max-age=31536000, immutable';
 const random = () => crypto.randomUUID();
 const hex = b => [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('');
 const digest = async s => hex(await crypto.subtle.digest('SHA-256',encoder.encode(s)));
@@ -148,8 +149,19 @@ async function githubIdentity(request,env) {
   return claims;
 }
 const frenchDay=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
-const catalog=new Map(EXAMPLES.map(example=>[example.id,example]));
-const recommender=createRecommender(EXAMPLES);
+// Lot P: the public catalogue (several MB) and the indexes built from it are not part of
+// the Worker's start. The module is imported on the first request that reads personal data,
+// the public list or a job; static files, the shell and anonymous pages never wait for it.
+const importExamples=()=>import('./examples.mjs');
+let EXAMPLES=[],catalog=new Map(),examplesReady=false,examplesLoading=null,recommendationEngine=null;
+async function loadExamples() {
+  if(examplesReady) return EXAMPLES;
+  examplesLoading??=importExamples().then(module=>{EXAMPLES=module.EXAMPLES;catalog=new Map(EXAMPLES.map(example=>[example.id,example]));examplesReady=true;return EXAMPLES;});
+  try {return await examplesLoading;} catch(e) {examplesLoading=null;throw e;}
+}
+// Built on first use from the loaded catalogue, then reused by the isolate.
+const engineFor=()=>recommendationEngine??=createRecommender(EXAMPLES);
+const recommender={recommend:(context,options)=>engineFor().recommend(context,options),provisionalPortrait:context=>engineFor().provisionalPortrait(context)};
 const FREE_PORTRAIT_STARTS=3;
 const FREE_PORTRAIT_INTERVAL=600;
 function decorateLikes(rows) {
@@ -168,8 +180,8 @@ async function likesResponse(env,userId) {
   const likes=decorateLikes(parse(snapshot.likes_json,[])),r=likeCounts(likes);
   return {likes,count:r.likes_count,explained_count:r.explained_count,source_version:snapshot.version};
 }
-const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:EXAMPLES});
-const chat=createChatBackend({error,json,text,body,now,random,personal,catalogue:catalog,engineEnabled:true});
+const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:()=>EXAMPLES});
+const chat=createChatBackend({error,json,text,body,now,random,personal,engineEnabled:true});
 const care=createCareBackend({error,json,body,now,random,limit,chat});
 const change=createChangeBackend({error,json,body,now,random,limit});
 // The childhood map is not a portrait source: saving it does not bump profiles.version.
@@ -182,13 +194,13 @@ function withoutPsychologyMap(value){
   const {psychology_map,psychological_map,...visible}=value;
   return visible;
 }
-export const claimJobs=(env,...filters)=>personal.claimJobs(env,...filters);
-export const completeJob=(env,id,data)=>personal.completeJob(env,id,data);
-export const proxyJobLLM=(env,id,data)=>personal.proxyJobLLM(env,id,data);
-export const failJob=(env,id,data)=>personal.failJob(env,id,data);
-export const refreshUserPortrait=(env,userId,options)=>personal.refreshUserPortrait(env,userId,options);
-export const resumeReviews=(env,options)=>chat.resumeReviews(env,options);
-export async function runGenerationBatch(env) {return env?.OPENROUTER_API_KEY?personal.refreshPendingPortraits(env):{status:'workflow-managed',claimed:0,completed:0,failed:0};}
+export const claimJobs=async(env,...filters)=>{await loadExamples();return personal.claimJobs(env,...filters);};
+export const completeJob=async(env,id,data)=>{await loadExamples();return personal.completeJob(env,id,data);};
+export const proxyJobLLM=async(env,id,data)=>{await loadExamples();return personal.proxyJobLLM(env,id,data);};
+export const failJob=async(env,id,data)=>{await loadExamples();return personal.failJob(env,id,data);};
+export const refreshUserPortrait=async(env,userId,options)=>{await loadExamples();return personal.refreshUserPortrait(env,userId,options);};
+export const resumeReviews=async(env,options)=>{await loadExamples();return chat.resumeReviews(env,options);};
+export async function runGenerationBatch(env) {if(!env?.OPENROUTER_API_KEY)return {status:'workflow-managed',claimed:0,completed:0,failed:0};await loadExamples();return personal.refreshPendingPortraits(env);}
 async function internal(request,env,path) {
   await githubIdentity(request,env);
   if(request.method!=='POST') error(405,'Méthode non autorisée.');
@@ -200,9 +212,11 @@ async function internal(request,env,path) {
   const data=await body(request,1000000);
   if(match[2]==='llm') return proxyJobLLM(env,match[1],data);
   if(match[2]==='complete') return completeJob(env,match[1],data);
-  return personal.failJob(env,match[1],data);
+  return failJob(env,match[1],data);
 }
 const INITIAL_PAGES={
+  // Ambre: the conversation state arrives with the page instead of after /api/me.
+  chat:{path:'/mon-accompagnement/',routes:['/api/chat']},
   account:{path:'/mon-compte/',routes:['/api/self-profile']},
   people:{path:'/mes-proches/',routes:['/api/people']},
   events:{path:'/ma-ligne-de-vie/',routes:['/api/people','/api/life-events']},
@@ -227,13 +241,14 @@ async function initialPageData(request,env,ctx,key) {
       return {status:e instanceof HTTPError?e.status:500,body:{error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})}};
     }
   };
-  const me=await read('/api/me'),responses={'/api/me':me};
-  if(me.status===200&&me.body?.user){
-    const initialURL=new URL(request.url),person=initialURL.searchParams.get('person');
-    const routesForPage=page.routes.map(path=>key==='events'&&path==='/api/life-events'&&person?path+'?person_id='+encodeURIComponent(person):path);
-    const entries=await Promise.all(routesForPage.map(async path=>[path,await read(path)]));
-    for(const [path,response] of entries)responses[path]=response;
-  }
+  // Without a session cookie no page route can succeed: only /api/me is read.
+  // With one, /api/me and the page routes start together; each authenticates on its
+  // own, and their answers are kept only when /api/me confirms the same session.
+  const initialURL=new URL(request.url),person=initialURL.searchParams.get('person');
+  const routesForPage=request.headers.get('cookie')?page.routes.map(path=>key==='events'&&path==='/api/life-events'&&person?path+'?person_id='+encodeURIComponent(person):path):[];
+  const [me,...entries]=await Promise.all([read('/api/me'),...routesForPage.map(async path=>[path,await read(path)])]);
+  const responses={'/api/me':me};
+  if(me.status===200&&me.body?.user)for(const [path,response] of entries)responses[path]=response;
   return {page:page.path,responses};
 }
 async function routes(request,env,ctx) {
@@ -241,6 +256,12 @@ async function routes(request,env,ctx) {
   if(path==='/api/initial-state') {
     if(method!=='GET')error(405,'Méthode non autorisée.');
     return json(await initialPageData(request,env,ctx,url.searchParams.get('page')));
+  }
+  if(['GET','HEAD'].includes(method)&&path.startsWith('/app/')) {
+    // Public, account-independent application files; a stale name is a plain 404.
+    const asset=Object.values(APP_ASSETS).find(item=>item.path===path);
+    if(!asset) error(404,'Fichier introuvable.','not_found');
+    return new Response(method==='HEAD'?null:asset.body,{headers:{'Content-Type':asset.type,'Cache-Control':IMMUTABLE}});
   }
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-compte/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
@@ -258,9 +279,9 @@ async function routes(request,env,ctx) {
     if(method==='GET'){
       const base='/api/people/'+personPage[1];
       const initial=await initialPageData(request,env,ctx,{path:'/mes-proches/'+personPage[1]+'/',routes:[base,base+'/timeline']});
-      page=page.replace('/*INITIAL_PAGE_DATA*/null',()=>initialJSON(initial));
+      page=page.replace(INITIAL_PAGE_DATA_MARKER,()=>initialJSON(initial));
     }
-    return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
+    return new Response(method==='HEAD'?null:page.replace(INITIAL_PAGE_DATA_MARKER,'null'),{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
   // Earlier links opened a person inside the list with ?person=<id>.
   if(['GET','HEAD'].includes(method)&&pagePath==='/mes-proches'&&/^[\w-]+$/.test(url.searchParams.get('person')||'')) return new Response(null,{status:302,headers:{Location:'/mes-proches/'+url.searchParams.get('person')+'/'}});
@@ -269,9 +290,9 @@ async function routes(request,env,ctx) {
     const initialKey=Object.keys(INITIAL_PAGES).find(key=>key!=='cartographie'&&INITIAL_PAGES[key].path===pagePath+'/');
     if(method==='GET'&&initialKey){
       const initial=await initialPageData(request,env,ctx,initialKey);
-      page=page.replace('/*INITIAL_PAGE_DATA*/null',()=>initialJSON(initial));
+      page=page.replace(INITIAL_PAGE_DATA_MARKER,()=>initialJSON(initial));
     }
-    return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
+    return new Response(method==='HEAD'?null:page.replace(INITIAL_PAGE_DATA_MARKER,'null'),{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
   if(['GET','HEAD'].includes(method)&&/^\/journal(?:\/|$)/.test(path)) {
     const query=url.searchParams,tab=query.get('tab'),params=new URLSearchParams();
@@ -287,17 +308,17 @@ async function routes(request,env,ctx) {
     return new Response(null,{status:302,headers:{Location:destination}});
   }
   if(/^\/api\/(?:characters|stories|story-requests)(?:\/|$)/.test(path)) error(410,'Cette fonctionnalité a été retirée.','feature_retired');
-  if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
+  if(method==='GET'&&path==='/api/examples') return json({examples:(await loadExamples()).map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
   if(method==='GET'&&path==='/api/health') return json({ok:true,billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)});
   if(method==='GET'&&path==='/robots.txt') return new Response('User-agent: *\nDisallow: /\n');
   if(path==='/api/billing/webhook'&&method==='POST') return webhook(request,env);
-  if(path.startsWith('/api/internal/')) return internal(request,env,path);
+  if(path.startsWith('/api/internal/')) {await loadExamples();return internal(request,env,path);}
   if(!['GET','HEAD','OPTIONS'].includes(method)) originCheck(request,env);
   if(path==='/api/me'&&method==='GET') {
     const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
-    const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),m=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    const readiness=likeCounts(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
-    const [companion_readiness,quotas]=await Promise.all([readCompanionReadiness(env,user.id),readMonthlyQuotas(env,user.id)]);
+    // Independent reads start together (lot P); the answer is unchanged.
+    const [p,s,m,likes,companion_readiness,quotas]=await Promise.all([first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id),loadExamples().then(()=>likesFor(env,user.id)),readCompanionReadiness(env,user.id),readMonthlyQuotas(env,user.id)]);
+    const readiness=likeCounts(likes),inspirations_count=readiness.likes_count;
     return json({user,access:platformAccess(env,s),inspirations_count,readiness,companion_readiness,quotas,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
   }
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
@@ -322,6 +343,8 @@ async function routes(request,env,ctx) {
     return session(env,user);
   }
   const user=await userFor(request,env);
+  // Every authenticated route may read likes, the reading context or recommendations.
+  await loadExamples();
   if(path==='/api/portrait/feedback') error(404,'Route inconnue.');
   const careResponse=await care.routes(request,env,user,path,url,ctx);if(careResponse)return careResponse;
   const changeResponse=await change.routes(request,env,user,path,url);if(changeResponse)return changeResponse;
@@ -519,13 +542,16 @@ export default {
     let response;
     try {response=await routes(request,env,ctx);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
     const headers=new Headers(response.headers);
-    headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
+    // Only a served application file (content-addressed name) may be cached, publicly and for good.
+    const immutable=response.status===200&&response.headers.get('Cache-Control')===IMMUTABLE&&new URL(request.url).pathname.startsWith('/app/');
+    headers.set('Cache-Control',immutable?IMMUTABLE:'private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(self), geolocation=(), on-device-speech-recognition=(self)');
     // F16: no 'unsafe-inline' for scripts. The application shell's single inline
     // script carries a per-response nonce; every other response allows no inline script.
     let body=response.body,scripts="'self'";
     if(request.method==='GET'&&(headers.get('Content-Type')||'').startsWith('text/html')&&body){
-      const nonce=btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(16))));
-      body=(await response.text()).replace(/<script>/g,`<script nonce="${nonce}">`);scripts+=` 'nonce-${nonce}'`;
+      // A nonce is issued only when the page still carries an inline script.
+      body=await response.text();
+      if(body.includes('<script>')){const nonce=btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(16))));body=body.replace(/<script>/g,`<script nonce="${nonce}">`);scripts+=` 'nonce-${nonce}'`;}
     }
     headers.set('Content-Security-Policy',`default-src 'self'; script-src ${scripts}; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'`);
     return new Response(body,{status:response.status,headers});

@@ -92,7 +92,8 @@ async function go(tab,search,personId){
 window.addEventListener('popstate',function(){go(pageForPath(location.pathname),location.search+location.hash,personIdForPath(location.pathname))});
 document.addEventListener('click',function(event){var link=event.target.closest('a[href]');if(!link||event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey||link.target==='_blank'||link.hasAttribute('download'))return;var url=new URL(link.href,location.href);if(url.origin!==location.origin)return;var personId=personIdForPath(url.pathname),page=personId?'person':Object.keys(PAGES).find(function(key){return PAGES[key].path===url.pathname.replace(/\/+$/,'')+'/'});if(!page)return;event.preventDefault();navigationPending(false);link.setAttribute('data-pending','');go(page,url.search+url.hash,personId)});
 
-var initialPageData=/*INITIAL_PAGE_DATA*/null;
+var initialPageData=readInitialPageData();
+function readInitialPageData(){var node=document.getElementById('initial-page-data');if(!node)return null;try{return JSON.parse(node.textContent)}catch(error){return null}}
 var preparedResponses=initialPageData&&initialPageData.page===location.pathname.replace(/\/+$/,'')+'/'?initialPageData.responses||{}:{};
 async function preparePageData(tab,search,personId){
  var paths={account:['/api/self-profile'],people:['/api/people'],events:['/api/people','/api/life-events'],symptoms:['/api/symptomes']}[tab]||[];
@@ -944,9 +945,28 @@ refresh().catch(function(err){main.replaceChildren(el('div','notice warn','Votre
 </script></body></html>
 `;
 
-// Parse the application before the body can paint; hydrated pages need no intermediate scaffold.
-export const HTML = (() => {
-  let script='';
-  const document=DOCUMENT_HTML.replace(/<script>([\s\S]*?)<\/script>/,(_match,source)=>{script=source;return ''});
-  return document.replace('</head>',()=>'<script>document.addEventListener("DOMContentLoaded",function(){\n'+script+'\n});</script></head>');
+// Lot P: the application script and style are public, identical for every account and
+// served as content-addressed files (/app/<hash>.js|.css, cached immutably). The private
+// page keeps only its shell and, in a non-executable JSON block, the prepared responses.
+function contentHash(text){
+  // Two independent 32-bit FNV-1a lanes: a stable 64-bit name, enough to bust caches.
+  let a=0x811c9dc5,b=0x01000193^0x9e3779b9;
+  for(let i=0;i<text.length;i++){const c=text.charCodeAt(i);a=Math.imul(a^c,0x01000193);b=Math.imul(b^c,0x01000193)^(b>>>13);}
+  return (a>>>0).toString(16).padStart(8,'0')+(b>>>0).toString(16).padStart(8,'0')+text.length.toString(16);
+}
+const PARTS=(()=>{
+  let script='',style='';
+  const shell=DOCUMENT_HTML.replace(/<script>([\s\S]*?)<\/script>/,(_match,source)=>{script=source;return ''}).replace(/<style>([\s\S]*?)<\/style>/,(_match,source)=>{style=source;return ''});
+  return {shell,script:'document.addEventListener("DOMContentLoaded",function(){\n'+script+'\n});\n',style};
 })();
+export const APP_SCRIPT=PARTS.script;
+export const APP_STYLE=PARTS.style;
+export const APP_ASSETS=Object.freeze({
+  script:Object.freeze({path:'/app/'+contentHash(APP_SCRIPT)+'.js',type:'application/javascript; charset=utf-8',body:APP_SCRIPT}),
+  style:Object.freeze({path:'/app/'+contentHash(APP_STYLE)+'.css',type:'text/css; charset=utf-8',body:APP_STYLE}),
+});
+export const INITIAL_PAGE_DATA_MARKER='/*INITIAL_PAGE_DATA*/null';
+// The deferred script parses with the page and runs before DOMContentLoaded, as the inline script did.
+export const HTML=PARTS.shell
+  .replace('</head>',()=>'<link rel="stylesheet" href="'+APP_ASSETS.style.path+'"><script defer src="'+APP_ASSETS.script.path+'"></script></head>')
+  .replace('</body>',()=>'<script type="application/json" id="initial-page-data">'+INITIAL_PAGE_DATA_MARKER+'</script></body>');

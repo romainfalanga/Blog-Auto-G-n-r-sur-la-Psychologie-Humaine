@@ -199,7 +199,7 @@ test('the complete serialized evidence, including wrappers and sources, respects
 
 // Worker harness: same in-memory D1 and import rewriting as backend.test.mjs.
 const examples=Array.from({length:3},(_,i)=>({id:`posts/c/example-${i}`,title:`Exemple ${i}`,url:`/posts/c/example-${i}/`,character:'P',keywords:[],description:'R'}));
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';')
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { APP_ASSETS, INITIAL_PAGE_DATA_MARKER } from './ui.mjs';","const APP_ASSETS={},INITIAL_PAGE_DATA_MARKER='/*INITIAL_PAGE_DATA*/null';").replace("const importExamples=()=>import('./examples.mjs');",'const importExamples=async()=>({EXAMPLES:'+JSON.stringify(examples)+'});')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
 const rewritten=source.replace(/from '(\.\/[^']+)'/g,(_,specifier)=>'from '+JSON.stringify(new URL('../src/'+specifier.slice(2),import.meta.url).href));
 const {default:worker}=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));

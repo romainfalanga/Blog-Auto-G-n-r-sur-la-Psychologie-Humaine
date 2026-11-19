@@ -1,0 +1,1039 @@
+{
+ "domain": "emotions",
+ "symptoms": [
+  {
+   "id": "emo_mal_a_mettre_des_mots",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Avoir du mal à dire ce qu'on ressent",
+   "description": "Chercher ses mots ou rester sans réponse quand quelqu'un demande comment on se sent vraiment.",
+   "examples": [
+    "Répondre « ça va » faute de savoir quoi dire d'autre",
+    "Ne pas réussir à expliquer à son conjoint ce qui a blessé"
+   ],
+   "safety": null,
+   "overlap_group": "description_emotions",
+   "links": [
+    {
+     "outcome": "ten_alexithymie",
+     "strength": "critere",
+     "basis": "Définition de l'alexithymie : difficulté à décrire ses sentiments aux autres (Bagby et coll., 1994 ; Preece et coll., 2017 ; Luminet et coll., 2021)",
+     "summary": "Avoir peu de mots pour transmettre ce que l'on ressent est l'une des facettes qui définissent ce sujet.",
+     "sources": [
+      "bagby1994_tas20",
+      "preece2017_alexithymie",
+      "luminet2021_alexithymie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_parler_des_faits_plutot_que_ressentis",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Parler des faits plutôt que des ressentis",
+   "description": "Préférer raconter ce qui s'est passé ou chercher une solution, sans s'arrêter sur ce que cela fait ressentir.",
+   "examples": [
+    "Résumer une dispute en décrivant seulement qui a dit quoi"
+   ],
+   "safety": null,
+   "overlap_group": "pensee_tournee_vers_l_exterieur",
+   "links": [
+    {
+     "outcome": "ten_alexithymie",
+     "strength": "critere",
+     "basis": "Définition de l'alexithymie : pensée tournée vers l'extérieur, peu d'attention portée à ses émotions (Preece et coll., 2017 ; Luminet et coll., 2021)",
+     "summary": "Porter son attention sur les faits concrets plutôt que sur ses émotions est l'une des facettes qui définissent ce sujet.",
+     "sources": [
+      "preece2017_alexithymie",
+      "luminet2021_alexithymie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_confondre_emotion_et_sensation",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Confondre une émotion avec une sensation du corps",
+   "description": "Sentir le ventre serré ou le cœur qui bat sans savoir si c'est de la fatigue, de la faim ou une émotion.",
+   "examples": [
+    "Croire avoir faim alors qu'on est surtout tendu"
+   ],
+   "safety": null,
+   "overlap_group": "emotion_et_corps",
+   "links": [
+    {
+     "outcome": "ten_alexithymie",
+     "strength": "moderee",
+     "basis": "Étude transversale (Brewer et coll., 2016) : l'alexithymie s'accompagne d'une perception plus floue des signaux du corps et d'états émotionnels et corporels vécus comme semblables",
+     "summary": "Quand les émotions sont difficiles à identifier, les signaux du corps qui les accompagnent sont plus souvent pris pour autre chose.",
+     "sources": [
+      "brewer2016_interoception"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_s_en_vouloir_de_ressentir",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "S'en vouloir de ressentir certaines émotions",
+   "description": "Se reprocher d'être triste, en colère ou inquiet, ou trouver qu'on ne devrait pas ressentir cela.",
+   "examples": [
+    "Se dire « je suis ridicule d'être touché par ça »"
+   ],
+   "safety": null,
+   "overlap_group": "non_acceptation_emotions",
+   "links": [
+    {
+     "outcome": "ten_dysregulation_emotionnelle",
+     "strength": "critere",
+     "basis": "Modèle de Gratz et Roemer (2004) décrit par Hallion et coll. (2018) : non-acceptation de ses propres réactions émotionnelles",
+     "summary": "Refuser ou juger ses propres émotions fait partie des difficultés qui définissent ce sujet.",
+     "sources": [
+      "hallion2018_ders"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_bloque_quand_contrarie",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Ne plus avancer dans ses tâches quand on est contrarié",
+   "description": "Après une contrariété, avoir du mal à se concentrer sur ce qu'on faisait ou à mener à bien ce qui était prévu.",
+   "examples": [
+    "Relire dix fois le même courriel après un reproche",
+    "Laisser tomber une tâche pour la journée après une dispute"
+   ],
+   "safety": null,
+   "overlap_group": "buts_sous_emotion",
+   "links": [
+    {
+     "outcome": "ten_dysregulation_emotionnelle",
+     "strength": "critere",
+     "basis": "Modèle de Gratz et Roemer (2004) décrit par Hallion et coll. (2018) : difficulté à poursuivre ses objectifs quand on est bouleversé",
+     "summary": "Être empêché d'agir ou de penser à ses objectifs quand une émotion est forte fait partie des difficultés qui définissent ce sujet.",
+     "sources": [
+      "hallion2018_ders"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_perdre_le_controle_quand_bouleverse",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Perdre le contrôle de ses gestes quand on est bouleversé",
+   "description": "Sous le coup d'une émotion forte, faire ou dire des choses qu'on ne parvient pas à retenir sur le moment.",
+   "examples": [
+    "Raccrocher brusquement au nez de quelqu'un",
+    "Envoyer un message qu'on regrette aussitôt"
+   ],
+   "safety": null,
+   "overlap_group": "impulsion_sous_emotion",
+   "links": [
+    {
+     "outcome": "ten_dysregulation_emotionnelle",
+     "strength": "critere",
+     "basis": "Modèle de Gratz et Roemer (2004) décrit par Hallion et coll. (2018) : difficulté à contrôler son comportement en cas de détresse",
+     "summary": "Avoir du mal à garder la maîtrise de ses actes quand on est bouleversé fait partie des difficultés qui définissent ce sujet.",
+     "sources": [
+      "hallion2018_ders"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_ravaler_sa_colere",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Ravaler sa colère",
+   "description": "Ne rien dire quand on est en colère, même quand quelque chose blesse ou paraît injuste, et garder cela en soi.",
+   "examples": [
+    "Se taire en réunion alors qu'on bout intérieurement"
+   ],
+   "safety": null,
+   "overlap_group": "colere_retenue",
+   "links": [
+    {
+     "outcome": "ten_colere",
+     "strength": "critere",
+     "basis": "Colère tournée vers l'intérieur (« anger-in »), l'un des deux modes d'expression étudiés par Lynch et coll. (2026) et mesurés par Jasinski et coll. (2016)",
+     "summary": "Retenir sa colère sans l'exprimer est l'une des deux formes que décrit ce sujet.",
+     "sources": [
+      "lynch2026",
+      "jasinski2016_colere"
+     ]
+    },
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "critere",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : retenue de la colère",
+     "summary": "Retenir sa colère pour éviter la désapprobation ou un conflit est l'un des domaines de retenue qui définissent ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_cacher_sa_colere",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Cacher sa colère derrière un air calme",
+   "description": "Sourire ou faire comme si de rien n'était alors qu'on est en colère, pour que personne ne le remarque.",
+   "examples": [
+    "Répondre « non, tout va bien » d'une voix posée après une remarque blessante"
+   ],
+   "safety": null,
+   "overlap_group": "retenue_emotionnelle",
+   "links": [
+    {
+     "outcome": "ten_colere",
+     "strength": "critere",
+     "basis": "Colère tournée vers l'intérieur : les items de cette dimension portent sur le fait de contenir et de cacher sa colère aux autres (Jasinski et coll., 2016 ; Lynch et coll., 2026)",
+     "summary": "Masquer sa colère aux yeux des autres est une manière de la retenir, l'un des deux pôles de ce sujet.",
+     "sources": [
+      "jasinski2016_colere",
+      "lynch2026"
+     ]
+    },
+    {
+     "outcome": "pat_emotional_suppression",
+     "strength": "moderee",
+     "basis": "Suppression expressive : inhiber l'expression d'une émotion en cours (Gross et John, 2003)",
+     "summary": "Ne rien laisser voir d'une colère ressentie est un cas particulier de retenue de l'expression émotionnelle.",
+     "sources": [
+      "gross_john2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_colere_detournee",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Laisser sa colère ressortir de façon détournée",
+   "description": "Ne pas dire qu'on est fâché, mais le montrer autrement : bouderie, silence, piques ou retards.",
+   "examples": [
+    "Ne plus adresser la parole à quelqu'un pendant une soirée",
+    "Glisser une remarque piquante au lieu de dire ce qui a blessé"
+   ],
+   "safety": null,
+   "overlap_group": "colere_detournee",
+   "links": [
+    {
+     "outcome": "ten_colere",
+     "strength": "moderee",
+     "basis": "Modèle des schémas (Young, liste des schémas, assujettissement) : une colère accumulée peut ressortir par des comportements passifs-agressifs ou un retrait d'affection",
+     "summary": "Une colère qui n'est pas dite peut s'exprimer par des voies indirectes, ce qui relie ce signe à une colère retenue.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_se_demander_pourquoi_on_va_mal",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Se demander sans cesse pourquoi on va mal",
+   "description": "Chercher encore et encore les causes de son malaise ou de ses difficultés, sans arriver à une réponse qui apaise.",
+   "examples": [
+    "Se répéter « pourquoi je réagis toujours comme ça ? »"
+   ],
+   "safety": null,
+   "overlap_group": "rumination_causes",
+   "links": [
+    {
+     "outcome": "ten_rumination",
+     "strength": "critere",
+     "basis": "Théorie des styles de réponse (Nolen-Hoeksema et coll., 2008 ; Watkins, 2008) : attention répétée et passive aux causes et au sens de sa détresse",
+     "summary": "Revenir en boucle sur les raisons de son mal-être fait partie de la définition de ce sujet.",
+     "sources": [
+      "nolenhoeksema2008_rumination",
+      "watkins2008_pensee_repetitive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_penser_sans_cesse_a_son_malaise",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Penser sans cesse à combien on se sent mal",
+   "description": "Avoir l'esprit occupé par sa tristesse, sa fatigue ou son manque d'élan, au point d'avoir du mal à penser à autre chose.",
+   "examples": [
+    "Se répéter toute la journée qu'on n'a envie de rien"
+   ],
+   "safety": null,
+   "overlap_group": "rumination_ressenti",
+   "links": [
+    {
+     "outcome": "ten_rumination",
+     "strength": "critere",
+     "basis": "Définition de Nolen-Hoeksema rapportée par Watkins (2008) : attention répétée et passive portée à ses symptômes de détresse",
+     "summary": "Fixer son attention sur ce que l'on ressent de pénible, encore et encore, fait partie de la définition de ce sujet.",
+     "sources": [
+      "watkins2008_pensee_repetitive",
+      "nolenhoeksema2008_rumination"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_reflechir_au_lieu_d_agir",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Réfléchir longtemps sans passer à l'action",
+   "description": "Retourner un problème dans sa tête pendant des heures, sans que cela débouche sur une décision ou un premier pas.",
+   "examples": [
+    "Repenser à un conflit tout le week-end sans contacter la personne"
+   ],
+   "safety": null,
+   "overlap_group": "rumination_inaction",
+   "links": [
+    {
+     "outcome": "ten_rumination",
+     "strength": "critere",
+     "basis": "Revue de Nolen-Hoeksema et coll. (2008) : la rumination est passive, gêne la résolution de problèmes et l'action ; Watkins (2008) l'oppose à la réflexion orientée vers une solution",
+     "summary": "Une pensée qui tourne sans mener à des pistes d'action caractérise ce sujet.",
+     "sources": [
+      "nolenhoeksema2008_rumination",
+      "watkins2008_pensee_repetitive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_se_comparer_en_ressassant",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Ressasser en se comparant aux autres",
+   "description": "Repenser à sa situation en se demandant pourquoi on n'y arrive pas aussi bien que les autres.",
+   "examples": [
+    "Se demander après une soirée pourquoi les autres semblent tellement plus à l'aise"
+   ],
+   "safety": null,
+   "overlap_group": "rumination_comparaison",
+   "links": [
+    {
+     "outcome": "ten_rumination",
+     "strength": "moderee",
+     "basis": "Revue de Watkins (2008) : la forme la plus liée aux difficultés (« brooding ») est une rumination autocritique et comparative",
+     "summary": "Cette forme de rumination, faite de jugements sur soi, est décrite comme la plus pénible, sans être la seule.",
+     "sources": [
+      "watkins2008_pensee_repetitive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_taire_ses_emotions_pour_le_lien",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Taire ce qu'on ressent pour ménager un proche",
+   "description": "Ne pas parler de sa peine ou de son agacement pour éviter de peser, d'inquiéter ou de froisser quelqu'un qu'on aime.",
+   "examples": [
+    "Ne pas dire à sa compagne qu'on est triste pour ne pas l'alourdir"
+   ],
+   "safety": null,
+   "overlap_group": "taire_pour_le_lien",
+   "links": [
+    {
+     "outcome": "pat_emotional_suppression",
+     "strength": "critere",
+     "basis": "Définition du sujet : contenir ses émotions pour se protéger ou préserver un lien ; la suppression expressive s'observe surtout dans les échanges avec autrui (Gross et John, 2003 ; Butler et coll., 2003)",
+     "summary": "Contenir ses émotions face à un proche pour préserver la relation correspond directement à ce sujet.",
+     "sources": [
+      "gross_john2003",
+      "butler2003_suppression"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_retenir_ses_larmes",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Retenir ses larmes",
+   "description": "Se retenir de pleurer, même seul ou quand on en ressent le besoin, ou attendre d'être à l'abri des regards.",
+   "examples": [
+    "Serrer les dents pendant un film touchant",
+    "Pleurer seulement dans la voiture"
+   ],
+   "safety": null,
+   "overlap_group": "larmes_retenues",
+   "links": [
+    {
+     "outcome": "pat_emotional_suppression",
+     "strength": "critere",
+     "basis": "Suppression expressive : inhiber les comportements qui expriment une émotion en cours (Gross et John, 2003)",
+     "summary": "Empêcher ses larmes de couler est une forme directe de retenue de l'expression émotionnelle.",
+     "sources": [
+      "gross_john2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_emu_sans_que_cela_se_voie",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Être bouleversé sans que rien ne se voie",
+   "description": "Ressentir une émotion forte à l'intérieur tout en gardant un visage et une voix neutres.",
+   "examples": [
+    "Annoncer calmement une mauvaise nouvelle alors qu'on est secoué"
+   ],
+   "safety": null,
+   "overlap_group": "decalage_interieur_exterieur",
+   "links": [
+    {
+     "outcome": "pat_emotional_suppression",
+     "strength": "critere",
+     "basis": "Gross et John (2003) : la suppression diminue l'expression de l'émotion mais pas l'émotion ressentie, en particulier négative",
+     "summary": "Ressentir fort tout en montrant peu est la marque de la retenue de l'expression émotionnelle.",
+     "sources": [
+      "gross_john2003"
+     ]
+    },
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "moderee",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : retenue des sentiments spontanés",
+     "summary": "Ce décalage entre ce que l'on ressent et ce que l'on montre accompagne souvent la retenue décrite par ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_retenir_ses_elans_de_joie",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Retenir ses élans de joie ou d'affection",
+   "description": "Se retenir de montrer son enthousiasme, sa tendresse ou son envie de s'amuser, même quand on les ressent.",
+   "examples": [
+    "Rester réservé quand on reçoit une bonne nouvelle",
+    "Avoir du mal à danser ou à plaisanter en groupe"
+   ],
+   "safety": null,
+   "overlap_group": "joie_retenue",
+   "links": [
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "critere",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : retenue des élans positifs (joie, affection, excitation, jeu)",
+     "summary": "Freiner l'expression de ses émotions agréables est l'un des domaines de retenue qui définissent ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_emotional_suppression",
+     "strength": "moderee",
+     "basis": "Gross et John (2003) : les personnes qui suppriment davantage expriment aussi moins d'émotions positives",
+     "summary": "La retenue de l'expression touche aussi les émotions agréables, pas seulement les pénibles.",
+     "sources": [
+      "gross_john2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_cacher_sa_vulnerabilite",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Avoir du mal à montrer sa fragilité",
+   "description": "Éviter de laisser voir qu'on doute, qu'on a peur ou qu'on a besoin d'aide, même avec ses proches.",
+   "examples": [
+    "Dire « je gère » alors qu'on est dépassé"
+   ],
+   "safety": null,
+   "overlap_group": "vulnerabilite_cachee",
+   "links": [
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "critere",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : difficulté à exprimer sa vulnérabilité et à parler de ses sentiments et besoins",
+     "summary": "Ne pas montrer ses fragilités ni ses besoins est l'un des domaines de retenue qui définissent ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_privilegier_la_raison",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Tout aborder par la raison",
+   "description": "Accorder plus de poids à la logique qu'aux émotions, chez soi comme chez les autres, et les mettre de côté.",
+   "examples": [
+    "Répondre par des arguments à quelqu'un qui partage sa peine"
+   ],
+   "safety": null,
+   "overlap_group": "raison_avant_emotion",
+   "links": [
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "critere",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : insistance sur la rationalité au détriment des émotions",
+     "summary": "Mettre la raison en avant et les émotions de côté est l'un des domaines qui définissent ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_peur_de_perdre_le_controle_emotion",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Craindre de perdre pied en laissant sortir ses émotions",
+   "description": "Penser que si l'on commence à exprimer ce qu'on ressent, on ne pourra plus s'arrêter ou se contrôler.",
+   "examples": [
+    "Éviter de pleurer de peur de ne plus pouvoir s'arrêter"
+   ],
+   "safety": null,
+   "overlap_group": "peur_perte_controle_emotion",
+   "links": [
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "critere",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : retenue destinée notamment à ne pas perdre le contrôle de ses impulsions",
+     "summary": "La crainte de perdre le contrôle est l'une des raisons de la retenue décrite par ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_peur_d_etre_mal_vu_si_emotion",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Craindre d'être mal vu si l'on montre ses émotions",
+   "description": "Penser qu'exprimer ce qu'on ressent attirerait des reproches, des moqueries ou de la honte.",
+   "examples": [
+    "Se dire qu'on passerait pour faible si l'on montrait sa tristesse"
+   ],
+   "safety": null,
+   "overlap_group": "desapprobation_emotions",
+   "links": [
+    {
+     "outcome": "sch_surcontrole",
+     "strength": "critere",
+     "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : retenue destinée à éviter la désapprobation ou la honte",
+     "summary": "La crainte d'être désapprouvé ou d'avoir honte est l'une des raisons de la retenue décrite par ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_emotional_suppression",
+     "strength": "moderee",
+     "basis": "Définition du sujet (se protéger) ; Butler et coll. (2003) étudient la suppression dans les échanges sociaux",
+     "summary": "Cette crainte peut pousser à contenir ses émotions pour se protéger du regard des autres.",
+     "sources": [
+      "butler2003_suppression"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_emotions_penibles_frequentes",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Ressentir souvent des émotions pénibles",
+   "description": "Être fréquemment traversé par de l'inquiétude, de la tristesse, de la gêne ou de l'agacement, sans grande raison.",
+   "examples": [
+    "Commencer bien la journée et se sentir mal à l'aise dès le premier contretemps"
+   ],
+   "safety": null,
+   "overlap_group": "affects_negatifs_frequents",
+   "links": [
+    {
+     "outcome": "ten_nevrosisme",
+     "strength": "critere",
+     "basis": "Widiger et Oltmanns (2017) : disposition à ressentir des émotions négatives (colère, anxiété, gêne, irritabilité, déprime)",
+     "summary": "La fréquence des émotions pénibles est au cœur de la définition de ce trait.",
+     "sources": [
+      "widiger2017_nevrosisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_vite_deborde_par_les_tracas",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Se sentir vite dépassé par les petits tracas",
+   "description": "Vivre une contrariété ordinaire (retard, oubli, imprévu) comme une montagne difficile à surmonter.",
+   "examples": [
+    "Se sentir abattu pour la journée après une panne de voiture"
+   ],
+   "safety": null,
+   "overlap_group": "debordement_stress",
+   "links": [
+    {
+     "outcome": "ten_nevrosisme",
+     "strength": "critere",
+     "basis": "Widiger et Oltmanns (2017) : réaction difficile au stress, petites frustrations vécues comme accablantes",
+     "summary": "Être vite submergé par les difficultés courantes fait partie de la description de ce trait.",
+     "sources": [
+      "widiger2017_nevrosisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emo_voir_une_menace_dans_l_ordinaire",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Voir facilement une menace dans des situations ordinaires",
+   "description": "Interpréter un silence, un message bref ou un changement de programme comme le signe que quelque chose va mal.",
+   "examples": [
+    "Penser qu'on va être réprimandé quand un responsable demande à vous voir"
+   ],
+   "safety": null,
+   "overlap_group": "menace_percue",
+   "links": [
+    {
+     "outcome": "ten_nevrosisme",
+     "strength": "critere",
+     "basis": "Widiger et Oltmanns (2017) : tendance à interpréter des situations ordinaires comme menaçantes",
+     "summary": "Percevoir du danger là où la situation est banale fait partie de la description de ce trait.",
+     "sources": [
+      "widiger2017_nevrosisme"
+     ]
+    }
+   ]
+  }
+ ],
+ "links_to_canonical": [
+  {
+   "symptom": "mal_a_savoir_ce_qu_on_ressent",
+   "outcome": "ten_alexithymie",
+   "strength": "critere",
+   "basis": "Définition de l'alexithymie : difficulté à identifier ses sentiments (Bagby et coll., 1994 ; Preece et coll., 2017 ; Luminet et coll., 2021)",
+   "summary": "Ne pas parvenir à reconnaître l'émotion que l'on ressent est la facette centrale de ce sujet.",
+   "sources": [
+    "bagby1994_tas20",
+    "preece2017_alexithymie",
+    "luminet2021_alexithymie"
+   ]
+  },
+  {
+   "symptom": "emotions_difficiles_a_apaiser",
+   "outcome": "ten_alexithymie",
+   "strength": "moderee",
+   "basis": "Luminet et coll. (2021) : l'alexithymie s'accompagne d'une régulation émotionnelle peu efficace et peu souple",
+   "summary": "Quand une émotion est mal identifiée, elle est souvent plus difficile à apaiser.",
+   "sources": [
+    "luminet2021_alexithymie"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "ten_alexithymie",
+   "strength": "limitee",
+   "basis": "Signe proche mais distinct : la retenue volontaire ne suppose pas une difficulté à identifier ses émotions (Gross et John, 2003)",
+   "summary": "Garder ses émotions pour soi se voit aussi chez des personnes qui savent très bien ce qu'elles ressentent.",
+   "sources": [
+    "gross_john2003"
+   ]
+  },
+  {
+   "symptom": "emotions_difficiles_a_apaiser",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "critere",
+   "basis": "Modèle de Gratz et Roemer (2004) décrit par Hallion et coll. (2018) : sentiment de manquer de moyens efficaces pour se sentir mieux",
+   "summary": "Avoir du mal à faire redescendre une émotion forte est au cœur de ce sujet.",
+   "sources": [
+    "hallion2018_ders"
+   ]
+  },
+  {
+   "symptom": "mal_a_savoir_ce_qu_on_ressent",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "critere",
+   "basis": "Modèle de Gratz et Roemer (2004) décrit par Hallion et coll. (2018) : manque de clarté sur ses propres émotions",
+   "summary": "Avoir du mal à comprendre ce que l'on ressent fait partie des difficultés qui définissent ce sujet.",
+   "sources": [
+    "hallion2018_ders"
+   ]
+  },
+  {
+   "symptom": "humeur_qui_change_vite",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "moderee",
+   "basis": "Modèle biosocial (Crowell et coll., 2009) : sensibilité émotionnelle accrue associée à une dysrégulation plus marquée",
+   "summary": "Des émotions qui changent vite et fort accompagnent souvent les difficultés de régulation.",
+   "sources": [
+    "crowell2009"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "moderee",
+   "basis": "Méta-analyse d'Aldao et coll. (2010) : la suppression fait partie des stratégies associées à des difficultés psychologiques ; la définition du sujet inclut les émotions évitées et retenues",
+   "summary": "Retenir beaucoup ses émotions est l'un des deux visages de ce sujet, avec les émotions qui débordent.",
+   "sources": [
+    "aldao2010_strategies"
+   ]
+  },
+  {
+   "symptom": "pensees_en_boucle",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "moderee",
+   "basis": "Méta-analyse d'Aldao et coll. (2010) : la rumination est la stratégie la plus fortement associée aux difficultés psychologiques",
+   "summary": "Ressasser est une manière fréquente, mais peu efficace, de tenter de gérer une émotion pénible.",
+   "sources": [
+    "aldao2010_strategies"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "limitee",
+   "basis": "Méta-analyse d'Aldao et coll. (2010) : liens entre stratégies de régulation et consommations, plus faibles que pour l'anxiété ou la dépression",
+   "summary": "Consommer pour se calmer peut traduire une difficulté à apaiser autrement ses émotions, sans lui être propre.",
+   "sources": [
+    "aldao2010_strategies"
+   ]
+  },
+  {
+   "symptom": "irritabilite",
+   "outcome": "ten_dysregulation_emotionnelle",
+   "strength": "limitee",
+   "basis": "Signe fréquent et peu spécifique (Hallion et coll., 2018, sur des adultes présentant divers troubles émotionnels)",
+   "summary": "S'énerver vite peut accompagner des émotions difficiles à réguler, mais se voit dans de nombreuses situations.",
+   "sources": [
+    "hallion2018_ders"
+   ]
+  },
+  {
+   "symptom": "colere_qui_deborde",
+   "outcome": "ten_colere",
+   "strength": "critere",
+   "basis": "Colère tournée vers l'extérieur (« anger-out »), l'un des deux modes d'expression étudiés par Lynch et coll. (2026) et mesurés par Jasinski et coll. (2016)",
+   "summary": "Une colère qui s'exprime plus fort qu'on ne le voudrait est l'une des deux formes que décrit ce sujet.",
+   "sources": [
+    "lynch2026",
+    "jasinski2016_colere"
+   ]
+  },
+  {
+   "symptom": "irritabilite",
+   "outcome": "ten_colere",
+   "strength": "moderee",
+   "basis": "Lynch et coll. (2026) ; Widiger et Oltmanns (2017) rangent l'irritabilité parmi les émotions négatives fréquentes",
+   "summary": "S'énerver vite rend la colère plus fréquente, sans dire si elle est retenue ou exprimée.",
+   "sources": [
+    "lynch2026",
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "ten_colere",
+   "strength": "limitee",
+   "basis": "Signe général de retenue, pas propre à la colère (Gross et John, 2003)",
+   "summary": "Garder ses émotions pour soi peut concerner la colère, mais aussi bien d'autres émotions.",
+   "sources": [
+    "gross_john2003"
+   ]
+  },
+  {
+   "symptom": "pensees_en_boucle",
+   "outcome": "ten_rumination",
+   "strength": "critere",
+   "basis": "Théorie des styles de réponse (Nolen-Hoeksema et coll., 2008) : pensée répétitive centrée sur sa détresse, ses causes et ses conséquences",
+   "summary": "Revenir sans cesse sur ce qui ne va pas sans trouver d'issue est la définition même de ce sujet.",
+   "sources": [
+    "nolenhoeksema2008_rumination",
+    "watkins2008_pensee_repetitive"
+   ]
+  },
+  {
+   "symptom": "se_critiquer_durement",
+   "outcome": "ten_rumination",
+   "strength": "moderee",
+   "basis": "Revue de Watkins (2008) : la forme de rumination la plus liée aux difficultés est faite de jugements sévères sur soi",
+   "summary": "La rumination prend souvent la forme de reproches que l'on se fait à soi-même.",
+   "sources": [
+    "watkins2008_pensee_repetitive"
+   ]
+  },
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "ten_rumination",
+   "strength": "moderee",
+   "basis": "Nolen-Hoeksema et coll. (2008) discutent les liens étroits entre rumination et inquiétude",
+   "summary": "L'inquiétude tournée vers l'avenir est une pensée répétitive proche de la rumination, qui porte plutôt sur le passé et le présent.",
+   "sources": [
+    "nolenhoeksema2008_rumination"
+   ]
+  },
+  {
+   "symptom": "difficultes_concentration",
+   "outcome": "ten_rumination",
+   "strength": "moderee",
+   "basis": "Revue de Watkins (2008) : la rumination gêne la concentration et les fonctions exécutives",
+   "summary": "Quand l'esprit tourne en boucle, il reste moins de place pour se concentrer.",
+   "sources": [
+    "watkins2008_pensee_repetitive"
+   ]
+  },
+  {
+   "symptom": "tristesse_persistante",
+   "outcome": "ten_rumination",
+   "strength": "limitee",
+   "basis": "Nolen-Hoeksema et coll. (2008) : la rumination aggrave l'humeur dépressive ; signe non spécifique",
+   "summary": "Ressasser entretient souvent la tristesse, mais la tristesse a bien d'autres causes.",
+   "sources": [
+    "nolenhoeksema2008_rumination"
+   ]
+  },
+  {
+   "symptom": "mal_a_s_endormir",
+   "outcome": "ten_rumination",
+   "strength": "limitee",
+   "basis": "Signe fréquent et non spécifique ; la description canonique mentionne des pensées qui tournent au coucher",
+   "summary": "Les pensées en boucle peuvent retarder l'endormissement, comme bien d'autres préoccupations.",
+   "sources": [
+    "watkins2008_pensee_repetitive"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "pat_emotional_suppression",
+   "strength": "critere",
+   "basis": "Suppression expressive : inhiber l'expression d'une émotion en cours (Gross et John, 2003) ; définition du sujet",
+   "summary": "Cacher ce que l'on ressent, même à ses proches, est la définition même de ce sujet.",
+   "sources": [
+    "gross_john2003"
+   ]
+  },
+  {
+   "symptom": "se_sentir_seul",
+   "outcome": "pat_emotional_suppression",
+   "strength": "moderee",
+   "basis": "Méta-analyse de Chervonsky et Hunt (2017) : plus de suppression va avec moins de soutien social et des relations moins satisfaisantes ; Butler et coll. (2003) : moins de proximité dans l'échange",
+   "summary": "Contenir ses émotions peut rendre plus difficile d'être compris et soutenu.",
+   "sources": [
+    "chervonsky2017_suppression",
+    "butler2003_suppression"
+   ]
+  },
+  {
+   "symptom": "mal_a_dire_non",
+   "outcome": "pat_emotional_suppression",
+   "strength": "limitee",
+   "basis": "Signe relationnel non spécifique : ménager l'autre peut passer par la retenue des émotions comme par d'autres conduites (Chervonsky et Hunt, 2017)",
+   "summary": "Accepter pour éviter un conflit peut s'accompagner d'émotions tues, sans en être la preuve.",
+   "sources": [
+    "chervonsky2017_suppression"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "sch_surcontrole",
+   "strength": "moderee",
+   "basis": "Schéma d'inhibition émotionnelle (Young, liste des schémas) : retenue des sentiments et de leur communication",
+   "summary": "Garder ses émotions pour soi accompagne souvent ce schéma, qui porte plus largement sur la spontanéité.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "nervosite",
+   "outcome": "ten_nevrosisme",
+   "strength": "critere",
+   "basis": "Widiger et Oltmanns (2017) : l'anxiété fait partie des émotions négatives qui définissent ce trait",
+   "summary": "Se sentir souvent nerveux est l'une des émotions qui caractérisent ce trait.",
+   "sources": [
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "irritabilite",
+   "outcome": "ten_nevrosisme",
+   "strength": "critere",
+   "basis": "Widiger et Oltmanns (2017) : la colère et l'irritabilité font partie des émotions négatives qui définissent ce trait",
+   "summary": "S'énerver vite est l'une des émotions qui caractérisent ce trait.",
+   "sources": [
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "humeur_qui_change_vite",
+   "outcome": "ten_nevrosisme",
+   "strength": "critere",
+   "basis": "Widiger et Oltmanns (2017) : l'instabilité émotionnelle fait partie de la description de ce trait",
+   "summary": "Des émotions qui varient vite et fort font partie de la description de ce trait.",
+   "sources": [
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "peur_du_jugement",
+   "outcome": "ten_nevrosisme",
+   "strength": "critere",
+   "basis": "Widiger et Oltmanns (2017) : la gêne face au regard des autres (« self-consciousness ») fait partie des émotions négatives de ce trait",
+   "summary": "Être vite mal à l'aise sous le regard des autres est l'une des émotions qui caractérisent ce trait.",
+   "sources": [
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "tristesse_persistante",
+   "outcome": "ten_nevrosisme",
+   "strength": "moderee",
+   "basis": "Widiger et Oltmanns (2017) : la déprime fait partie des émotions négatives de ce trait ; la description canonique, plus durable, est moins spécifique",
+   "summary": "La tristesse fréquente fait partie du trait, mais une tristesse installée relève aussi d'autres sujets.",
+   "sources": [
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "ten_nevrosisme",
+   "strength": "moderee",
+   "basis": "Widiger et Oltmanns (2017) : anxiété et tendance à voir des menaces dans le quotidien",
+   "summary": "S'inquiéter beaucoup accompagne souvent ce trait, sans lui être propre.",
+   "sources": [
+    "widiger2017_nevrosisme"
+   ]
+  },
+  {
+   "symptom": "pensees_en_boucle",
+   "outcome": "ten_nevrosisme",
+   "strength": "limitee",
+   "basis": "Signe fréquent et non spécifique (Aldao et coll., 2010)",
+   "summary": "Ressasser se voit chez beaucoup de personnes, avec ou sans ce trait.",
+   "sources": [
+    "aldao2010_strategies"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "bagby1994_tas20",
+   "type": "etude",
+   "citation": "Bagby RM, Parker JD, Taylor GJ, 1994, The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure, Journal of Psychosomatic Research 38(1):23-32, doi:10.1016/0022-3999(94)90005-1",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8126686/",
+   "licence": "Résumé PubMed lu (E-utilities, 2026-11-19) ; © Elsevier, aucun item repris"
+  },
+  {
+   "id": "preece2017_alexithymie",
+   "type": "etude",
+   "citation": "Preece D, Becerra R, Allan A, Robinson K, Dandy J, 2017, Establishing the theoretical components of alexithymia via factor analysis: introduction and validation of the attention-appraisal model of alexithymia, Personality and Individual Differences 119:341-352, doi:10.1016/j.paid.2017.08.003",
+   "url": "https://ro.ecu.edu.au/ecuworkspost2013/3247",
+   "licence": "Manuscrit accepté en dépôt institutionnel (Edith Cowan University), résumé lu ; droits Elsevier, paraphrase seulement"
+  },
+  {
+   "id": "luminet2021_alexithymie",
+   "type": "revue",
+   "citation": "Luminet O, Nielson KA, Ridout N, 2021, Having no words for feelings: alexithymia as a fundamental personality dimension at the interface of cognition and emotion, Cognition and Emotion 35(3):435-448, doi:10.1080/02699931.2021.1916442",
+   "url": "https://epublications.marquette.edu/psych_fac/497",
+   "licence": "Version acceptée en dépôt institutionnel (Marquette), résumé lu ; © Taylor & Francis, paraphrase seulement"
+  },
+  {
+   "id": "brewer2016_interoception",
+   "type": "etude",
+   "citation": "Brewer R, Cook R, Bird G, 2016, Alexithymia: a general deficit of interoception, Royal Society Open Science 3(10):150664, doi:10.1098/rsos.150664",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5098957/",
+   "licence": "CC BY 4.0 (Royal Society Open Science) ; résumé lu"
+  },
+  {
+   "id": "hallion2018_ders",
+   "type": "etude",
+   "citation": "Hallion LS, Steinman SA, Tolin DF, Diefenbach GJ, 2018, Psychometric properties of the Difficulties in Emotion Regulation Scale (DERS) and its short forms in adults with emotional disorders, Frontiers in Psychology 9:539, doi:10.3389/fpsyg.2018.00539 (présente le modèle de Gratz et Roemer, 2004)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5917244/",
+   "licence": "CC BY (Frontiers) ; résumé et introduction lus ; aucun item de la DERS repris"
+  },
+  {
+   "id": "crowell2009",
+   "type": "revue",
+   "citation": "Crowell SE, Beauchaine TP, Linehan MM, 2009, A biosocial developmental model of borderline personality: elaborating and extending Linehan's theory, Psychological Bulletin 135(3):495-510",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19379027/",
+   "licence": "Résumé PubMed lu ; © APA, paraphrase seulement"
+  },
+  {
+   "id": "aldao2010_strategies",
+   "type": "revue",
+   "citation": "Aldao A, Nolen-Hoeksema S, Schweizer S, 2010, Emotion-regulation strategies across psychopathology: a meta-analytic review, Clinical Psychology Review 30(2):217-237, doi:10.1016/j.cpr.2009.11.004",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20015584/",
+   "licence": "Résumé PubMed lu ; © Elsevier, paraphrase seulement"
+  },
+  {
+   "id": "lynch2026",
+   "type": "revue",
+   "citation": "Lynch M, Curtis A, Howard S, Ahern E, Terracciano A, O'Súilleabháin PS, 2026, Childhood maltreatment and anger expression in adulthood: a systematic review and meta-analysis, Psychological Trauma",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41910545/",
+   "licence": "Résumé PubMed lu ; © APA, paraphrase seulement"
+  },
+  {
+   "id": "jasinski2016_colere",
+   "type": "etude",
+   "citation": "Jasinski MJ, Lumley MA, Latsch DV, Schuster E, Kinner E, Burns JW, 2016, Assessing anger expression: construct validity of three emotion expression-related measures, Journal of Personality Assessment 98(6):640-648, doi:10.1080/00223891.2016.1178650",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5053333/",
+   "licence": "Manuscrit auteur PMC, sections de présentation des mesures lues ; droits de l'éditeur, aucun item repris"
+  },
+  {
+   "id": "nolenhoeksema2008_rumination",
+   "type": "revue",
+   "citation": "Nolen-Hoeksema S, Wisco BE, Lyubomirsky S, 2008, Rethinking rumination, Perspectives on Psychological Science 3(5):400-424, doi:10.1111/j.1745-6924.2008.00088.x",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26158958/",
+   "licence": "Résumé PubMed lu ; © Association for Psychological Science, paraphrase seulement"
+  },
+  {
+   "id": "watkins2008_pensee_repetitive",
+   "type": "revue",
+   "citation": "Watkins ER, 2008, Constructive and unconstructive repetitive thought, Psychological Bulletin 134(2):163-206, doi:10.1037/0033-2909.134.2.163",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2672052/",
+   "licence": "Manuscrit auteur PMC, première partie (définitions, sous-types, conséquences) lue ; © APA, paraphrase seulement"
+  },
+  {
+   "id": "gross_john2003",
+   "type": "etude",
+   "citation": "Gross JJ, John OP, 2003, Individual differences in two emotion regulation processes: implications for affect, relationships, and well-being, Journal of Personality and Social Psychology 85(2):348-362, doi:10.1037/0022-3514.85.2.348",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12916575/",
+   "licence": "Résumé PubMed lu ; © APA, aucun item de l'ERQ repris"
+  },
+  {
+   "id": "butler2003_suppression",
+   "type": "etude",
+   "citation": "Butler EA, Egloff B, Wilhelm FH, Smith NC, Erickson EA, Gross JJ, 2003, The social consequences of expressive suppression, Emotion 3(1):48-67, doi:10.1037/1528-3542.3.1.48",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12899316/",
+   "licence": "Résumé PubMed lu ; © APA, paraphrase seulement"
+  },
+  {
+   "id": "chervonsky2017_suppression",
+   "type": "revue",
+   "citation": "Chervonsky E, Hunt C, 2017, Suppression and expression of emotion in social and interpersonal outcomes: a meta-analysis, Emotion 17(4):669-683, doi:10.1037/emo0000270",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28080085/",
+   "licence": "Résumé PubMed lu ; © APA, paraphrase seulement"
+  },
+  {
+   "id": "young_schemas",
+   "type": "manuel",
+   "citation": "Young JE, Schema Therapy Institute, Early Maladaptive Schemas (liste et définitions des 18 schémas)",
+   "url": "https://www.schematherapy.com/id73.htm",
+   "licence": "© 2012 Jeffrey Young, reproduction interdite sans accord : paraphrase courte seulement ; définitions de l'inhibition émotionnelle et de l'assujettissement lues le 2026-11-19"
+  },
+  {
+   "id": "widiger2017_nevrosisme",
+   "type": "revue",
+   "citation": "Widiger TA, Oltmanns JR, 2017, Neuroticism is a fundamental domain of personality with enormous public health implications, World Psychiatry 16(2):144-145, doi:10.1002/wps.20411",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5428182/",
+   "licence": "Texte intégral en accès libre sur PMC, lu ; © World Psychiatric Association, paraphrase seulement"
+  }
+ ]
+}
