@@ -20,7 +20,7 @@ test('pending codes disclose no account existence, are random, hashed and bound 
 
 test('roles, consent, scope validation and settings are enforced',async t=>{
  const s=setup(t);assert.equal((await s.call('/api/care','GET',undefined,'pro')).code,'member_required');assert.equal((await s.call('/api/care/patients')).code,'psychologist_required');
- assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:['people']})).code,'consent_required');assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:['memory'],accepted:true})).code,'invalid_scopes');
+ assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:['people']})).code,'consent_required');assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:['provider_traces'],accepted:true})).code,'invalid_scopes');
  assert.equal((await s.call('/api/care/settings','PUT',{has_psychologist:true,frequency_days:14})).care.frequency_days,14);assert.equal((await s.call('/api/care/settings','PUT',{has_psychologist:null,frequency_days:null})).care.has_psychologist,null);assert.equal((await s.call('/api/care/settings','PUT',{has_psychologist:true,frequency_days:366})).httpStatus,400);
 });
 
@@ -66,7 +66,7 @@ test('all authorized source types have readable labels and derived provenance; p
  s.raw.prepare("INSERT INTO ambre_reviews(id,user_id,kind,status,content,idempotency_key,created_at,completed_at) VALUES('review','a','point','ready','Synthèse antérieure','review',?,?)").run(s.now()-60,s.now()-60);
  s.raw.prepare("INSERT INTO cartographies(user_id,answers,feedback,notes,resources,ambre_notes,consent,locked_at,updated_at) VALUES('a','{\"critique\":1}','{}','{\"factors\":{\"critique\":\"Mots personnels\"}}','{}','[]',1,?,?)").run(s.now(),s.now());
  s.raw.prepare("INSERT INTO user_portraits(user_id,portrait,analyzed_version,updated_at) VALUES('a','{\"summary\":\"Synthèse du portrait\"}',1,?)").run(new Date(s.now()*1000).toISOString());
- const queued=await prepare(s,link);const sources=JSON.parse(s.calls[0].user).sources;assert.equal(CARE_SCOPES.length,8);assert.equal(sources.length,14);assert.equal(new Set(sources.map(source=>source.id)).size,14);assert.match(sources.find(source=>source.id==='plan:goals:goal').provenance,/explicitement choisi/);assert.match(sources.find(source=>source.id==='cartography').text,/Critiques et exigences constantes/);assert.match(sources.find(source=>source.id==='portrait').provenance,/date de modification inconnue/);assert.match(sources.find(source=>source.id==='review:review').provenance,/Synthèse IA/);
+ const queued=await prepare(s,link);const sources=JSON.parse(s.calls[0].user).sources;assert.equal(CARE_SCOPES.length,10);assert.equal(sources.length,14);assert.equal(new Set(sources.map(source=>source.id)).size,14);assert.match(sources.find(source=>source.id==='plan:goals:goal').provenance,/explicitement choisi/);assert.match(sources.find(source=>source.id==='cartography').text,/Critiques et exigences constantes/);assert.match(sources.find(source=>source.id==='portrait').provenance,/date de modification inconnue/);assert.match(sources.find(source=>source.id==='review:review').provenance,/Synthèse IA/);
  assert.equal((await s.call(`/api/care/briefs/${queued.id}`)).brief.coverage.processed,14);const map=await s.call(`/api/care/dossiers/${link.id}/cartography`,'GET',undefined,'pro');assert.equal(map.data.summary.causes[0].label,'Critiques et exigences constantes');
 });
 

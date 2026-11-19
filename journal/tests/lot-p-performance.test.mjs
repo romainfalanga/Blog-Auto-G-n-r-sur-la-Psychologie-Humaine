@@ -46,13 +46,13 @@ test('the application script and style are content-addressed public files, ident
   for(const method of ['POST','PUT','DELETE'])assert.notEqual((await s.request(APP_ASSETS.script.path,'a',method)).headers.get('Cache-Control'),'public, max-age=31536000, immutable');
 });
 
-test('a shell without prepared data carries an empty JSON block and no inline script or nonce',async t=>{
+test('personal shells keep safe JSON bootstrap, with review lists now prepared and no inline script or nonce',async t=>{
   const s=fixture(t);
-  for(const [path,user] of [['/parametres/','a'],['/mes-bilans/','a'],['/mon-compte/',null]]){
+  for(const [path,user] of [['/parametres/','a'],['/mes-bilans/','a'],['/mes-diagnostics/','a'],['/mon-compte/',null]]){
     const response=await s.request(path,user),html=await response.text();
     assert.equal(response.headers.get('Cache-Control'),'private, no-store');assert.doesNotMatch(html,/INITIAL_PAGE_DATA/);
     assert.doesNotMatch(html,/<script(?: nonce="[^"]*")?>/);assert.doesNotMatch(response.headers.get('Content-Security-Policy'),/nonce-/);
-    const data=initialData(html);if(path==='/mon-compte/')assert.deepEqual(Object.keys(data.responses),['/api/me']);else assert.equal(data,null);
+    const data=initialData(html);if(path==='/mon-compte/')assert.deepEqual(Object.keys(data.responses),['/api/me']);else if(['/mes-bilans/','/mes-diagnostics/'].includes(path)){assert.equal(data.page,path);assert.deepEqual(Object.keys(data.responses),['/api/me','/api/reviews']);assert.equal(data.responses['/api/me'].body.user.id,user);}else assert.equal(data,null);
   }
 });
 

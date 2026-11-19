@@ -23,13 +23,13 @@ async function prepare(s,link,id='session'){s.readyGeneration(link.user_id);s.se
 
 test('plan remains an opt-in scope alongside symptoms and never appears on preexisting links',async t=>{
  const s=setup(t),legacy=await s.share(['conversation','cartography','portrait','people','life_events','reviews']);seedPlan(s);
- assert.equal(CARE_SCOPES.length,8);assert.equal(CARE_SCOPES.at(-1),'plan');
+ assert.equal(CARE_SCOPES.length,10);assert.equal(CARE_SCOPES.at(-1),'plan');
  const state=await s.call('/api/care'),overview=await s.call(`/api/care/dossiers/${legacy.id}`,'GET',undefined,'pro');
  assert.equal(state.links[0].scopes.includes('plan'),false);assert.equal(overview.scopes.includes('plan'),false);
- assert.match(overview.sharing_notice,/mémoire.*sans provenance.*exclue/i);assert.doesNotMatch(JSON.stringify(overview),/PRIVATE_|Marcher avec une amie|instructions|preparations/);
+ assert.match(overview.sharing_notice,/mémoire.*explicitement partagée/i);assert.doesNotMatch(JSON.stringify(overview),/PRIVATE_|Marcher avec une amie|instructions|preparations/);
  assert.equal((await s.call(`/api/care/dossiers/${legacy.id}/plan`,'GET',undefined,'pro')).httpStatus,404);
  assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:CARE_SCOPES,accepted:true})).httpStatus,201);
- assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:[...CARE_SCOPES,'memory'],accepted:true})).code,'invalid_scopes');
+ assert.equal((await s.call('/api/care/links','POST',{email:'pro@example.test',scopes:[...CARE_SCOPES,'provider_traces'],accepted:true})).code,'invalid_scopes');
 });
 
 test('shared plan strips private and malformed nested fields, unadopted objects and foreign tenants',async t=>{
@@ -139,6 +139,6 @@ test('missing plan migration fails closed without pretending to have an empty sh
 test('member UI renders the personal plan with no linked professional and never selects sharing by default',async()=>{
  class Node{constructor(tag,cls,text){this.tag=tag;this.className=cls;this.textContent=text||'';this.children=[];this.isConnected=true}append(...items){this.children.push(...items)}replaceChildren(...items){this.children=items}setAttribute(){}addEventListener(){}querySelectorAll(){return []}}
  const apiCalls=[],plans=[],context=vm.createContext({console,Promise,Date,Number,Object,Array,String,document:{createTextNode:text=>new Node('text','',text)},el:(...args)=>new Node(...args),actionButton:(label,fn)=>Object.assign(new Node('button','',label),{action:fn}),api:async path=>{apiCalls.push(path);if(path==='/api/care')return {care:{has_psychologist:null,frequency_days:null,last_session_at:null,next_session_at:null},links:[],sessions:[],briefs:[]};if(path==='/api/care/access-log?offset=0')return {entries:[],next_offset:null};throw Error('Unexpected API '+path)},renderChangePlan:async(host,current)=>{plans.push({host,current:current()})},setTimeout(){}});
- vm.runInContext(CARE_INTERFACE_SCRIPT,context);const host=new Node('main');await context.renderCareMember(host,()=>true);assert.equal(plans.length,1);assert.equal(plans[0].current,true);assert.ok(host.children.includes(plans[0].host));const scopesHost=new Node('div'),read=context.careScopes(scopesHost,[],()=>true);assert.deepEqual(Array.from(read()),[]);assert.equal(scopesHost.children[0].children.filter(node=>node.tag==='label').length,8);assert.equal(apiCalls.includes('/api/plan/sharing-preview'),false);
+ vm.runInContext(CARE_INTERFACE_SCRIPT,context);const host=new Node('main');await context.renderCareMember(host,()=>true);assert.equal(plans.length,1);assert.equal(plans[0].current,true);assert.ok(host.children.includes(plans[0].host));const scopesHost=new Node('div'),read=context.careScopes(scopesHost,[],()=>true);assert.deepEqual(Array.from(read()),[]);assert.equal(scopesHost.children[0].children.filter(node=>node.tag==='label').length,10);assert.equal(apiCalls.includes('/api/plan/sharing-preview'),false);
  const text=CARE_INTERFACE_SCRIPT;assert.match(text,/\/api\/plan\/sharing-preview/);assert.match(text,/déjà téléchargé, copié ou capturé/);
 });

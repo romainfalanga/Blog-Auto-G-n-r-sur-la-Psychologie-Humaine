@@ -378,6 +378,7 @@ function drawReviewItem(review,current){
    catch(err){if(current())status('reviews-status',err.message,true)}
    finally{read.disabled=false}
   },'secondary');read.setAttribute('aria-expanded','false');actions.append(read);
+  actions.append(actionButton('Informations de cette date',function(){openReviewArchive(review,current)},'secondary'));var hypotheses=el('a','text-link','Voir les hypothèses de ce bilan');hypotheses.href='/mes-diagnostics/?bilan='+encodeURIComponent(review.id);actions.append(hypotheses);
  }
  var remove=actionButton('Supprimer',async function(){
   if(!await confirmDialog('Supprimer « '+reviewTitle(review)+' » ?','Ce bilan sera supprimé définitivement et disparaîtra aussi de la conversation.'+(review.kind==='initial'?' La discussion devra être relancée par une nouvelle analyse.':''),'Supprimer',true))return;
