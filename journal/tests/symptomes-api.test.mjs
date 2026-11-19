@@ -240,7 +240,7 @@ test('deletion of results (all or one) keeps the consent; export carries every t
 });
 
 // Real Worker routes: authentication, same origin, no-store, export and account deletion.
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES=[];')
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>T</title>';").replace("import { APP_ASSETS, INITIAL_PAGE_DATA_MARKER } from './ui.mjs';","const APP_ASSETS={},INITIAL_PAGE_DATA_MARKER='/*INITIAL_PAGE_DATA*/null';").replace("const importExamples=()=>import('./examples.mjs');",'const importExamples=async()=>({EXAMPLES:[]});')
  .replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=()=>({recommend:()=>[],provisionalPortrait:()=>null});');
 const rewritten=source.replace(/from '(\.\/[^']+)'/g,(_,specifier)=>'from '+JSON.stringify(new URL('../src/'+specifier.slice(2),import.meta.url).href));
 const {default:worker}=await import('data:text/javascript;base64,'+Buffer.from(rewritten).toString('base64'));

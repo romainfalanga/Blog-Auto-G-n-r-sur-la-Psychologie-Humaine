@@ -2,7 +2,9 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
 import { readFileSync } from 'node:fs';
-import { HTML } from '../src/ui.mjs';
+import {HTML as SHELL,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
+// Lot P: the private shell plus its two content-addressed files, as the browser assembles them.
+const HTML=SHELL.replace('</head>',()=>'<style>'+APP_STYLE+'</style></head>')+'<script>'+APP_SCRIPT+'</script>';
 import { SETTINGS_INTERFACE_SCRIPT } from '../src/settings-interface.mjs';
 
 const script = HTML.match(/<script>([\s\S]*?)<\/script>/)[1];

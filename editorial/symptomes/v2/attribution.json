@@ -1,0 +1,321 @@
+{
+  "schema_version": 1,
+  "source": "data/cartographie.json (outcomes, domains) — 113 sujets ; libellés et URL jamais recopiés, matérialisés par le build",
+  "rules": "Chaque domaine reçoit tous ses sujets hors exclusions. Un rédacteur produit editorial/symptomes/v2/liens-<domaine>.json et lie au moins 3 symptômes critere à chacun de ses sujets.",
+  "counts": {
+    "outcomes": 113,
+    "assigned": 87,
+    "excluded": 26
+  },
+  "domains": [
+    {
+      "domain": "perceptions",
+      "file": "editorial/symptomes/v2/liens-perceptions.json",
+      "outcomes": [
+        "ten_dissociation",
+        "ten_traits_schizotypiques",
+        "icd_6b60",
+        "icd_6a20"
+      ]
+    },
+    {
+      "domain": "humeur",
+      "file": "editorial/symptomes/v2/liens-humeur.json",
+      "outcomes": [
+        "icd_6a72",
+        "dep_generale",
+        "icd_6a60"
+      ]
+    },
+    {
+      "domain": "anxiete",
+      "file": "editorial/symptomes/v2/liens-anxiete.json",
+      "outcomes": [
+        "icd_6b02",
+        "anx_generale",
+        "ten_hypervigilance",
+        "icd_6b23",
+        "sch_vulnerabilite",
+        "icd_6b05",
+        "icd_6b04",
+        "icd_6b40",
+        "icd_6b01"
+      ]
+    },
+    {
+      "domain": "relations",
+      "file": "editorial/symptomes/v2/liens-relations.json",
+      "outcomes": [
+        "pat_appeasement",
+        "att_anxieux",
+        "att_evitant",
+        "ten_codependance",
+        "pat_conflict",
+        "ten_peur_intimite",
+        "pat_abandonment_fear",
+        "ten_qualite_relationnelle",
+        "ten_revictimisation",
+        "pat_overresponsibility",
+        "sch_abandon",
+        "sch_abnegation",
+        "sch_assujettissement",
+        "sch_isolement",
+        "sch_fusion",
+        "sch_mefiance",
+        "sch_recherche_approbation",
+        "pat_social_isolation",
+        "ten_surcompensation_schema",
+        "ten_violences_couple",
+        "ten_violences_amoureuses_jeunes"
+      ]
+    },
+    {
+      "domain": "soi",
+      "file": "editorial/symptomes/v2/liens-soi.json",
+      "outcomes": [
+        "pat_self_criticism",
+        "pat_guilt",
+        "pat_needs_expression",
+        "ten_difficultes_professionnelles",
+        "ten_souffrance_enfance",
+        "ten_estime_soi",
+        "ten_honte",
+        "ten_inferences_negatives",
+        "ten_mode_parent_exigeant",
+        "pat_perfectionism",
+        "ten_preoccupation_apparence",
+        "sch_exigences_elevees",
+        "sch_imperfection",
+        "sch_echec",
+        "sch_carence_affective",
+        "sch_droits_excessifs",
+        "sch_dependance",
+        "sch_negativite",
+        "sch_punition",
+        "pat_impostor",
+        "pat_conditional_worth"
+      ]
+    },
+    {
+      "domain": "emotions",
+      "file": "editorial/symptomes/v2/liens-emotions.json",
+      "outcomes": [
+        "ten_colere",
+        "ten_alexithymie",
+        "ten_dysregulation_emotionnelle",
+        "ten_rumination",
+        "pat_emotional_suppression",
+        "sch_surcontrole",
+        "ten_nevrosisme"
+      ]
+    },
+    {
+      "domain": "comportements",
+      "file": "editorial/symptomes/v2/liens-comportements.json",
+      "outcomes": [
+        "icd_6b80",
+        "icd_6b81_boulimie",
+        "ten_externalisation",
+        "ten_sexualite_compulsive",
+        "ten_jeu_argent_problematique",
+        "ten_difficultes_sexuelles",
+        "ten_sommeil",
+        "ten_difficultes_scolaires",
+        "ten_douleurs_persistantes",
+        "icd_6c40_2",
+        "icd_6b82",
+        "ten_impulsivite",
+        "ten_risques_sexuels",
+        "ten_sante_physique",
+        "ten_procrastination",
+        "sch_controle_insuffisant",
+        "ten_tabagisme_persistant",
+        "icd_6c20",
+        "icd_6b81",
+        "ten_ecrans",
+        "ten_usage_cannabis",
+        "ten_usage_substances"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "outcome": "att_desorganisation_enfant",
+      "domain": "relations",
+      "category": "attachment_pattern",
+      "reason": "contextual_only dans data/cartographie.json ; age_scope=young_child_only"
+    },
+    {
+      "outcome": "ten_automutilations_non_suicidaires",
+      "domain": "comportements",
+      "category": "tendency",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_diabete_type2",
+      "domain": "comportements",
+      "category": "health_outcome",
+      "reason": "santé physique (catégorie health_outcome) ; contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_difficultes_personnalite",
+      "domain": "relations",
+      "category": "categorical_personality_diagnosis",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_fibromyalgie",
+      "domain": "comportements",
+      "category": "health_outcome",
+      "reason": "contextual_only dans data/cartographie.json (santé physique, catégorie health_outcome)"
+    },
+    {
+      "outcome": "ten_narcissisme_grandiose",
+      "domain": "soi",
+      "category": "personality_trait",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_idees_suicidaires",
+      "domain": "humeur",
+      "category": "tendency",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_conduites_suicidaires",
+      "domain": "humeur",
+      "category": "tendency",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_migraine",
+      "domain": "comportements",
+      "category": "health_outcome",
+      "reason": "santé physique (catégorie health_outcome) ; contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_recompense_immediate_jeunes",
+      "domain": "comportements",
+      "category": "tendency",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "pat_parentification",
+      "domain": "soi",
+      "category": "tendency",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_maladies_cardiovasculaires",
+      "domain": "comportements",
+      "category": "health_outcome",
+      "reason": "santé physique (catégorie health_outcome) ; contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_surpoids",
+      "domain": "comportements",
+      "category": "tendency",
+      "reason": "santé physique (surpoids ou obésité, nommé par le plan)"
+    },
+    {
+      "outcome": "ten_symptomes_depressifs_perinataux",
+      "domain": "humeur",
+      "category": "symptom_group",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_symptomes_premenstruels",
+      "domain": "humeur",
+      "category": "symptom_group",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_tentatives_suicide",
+      "domain": "humeur",
+      "category": "tendency",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "ten_traits_personnalite_antisociale",
+      "domain": "comportements",
+      "category": "personality_trait",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b43",
+      "domain": "anxiete",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b45",
+      "domain": "relations",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json ; age_scope=young_child_only"
+    },
+    {
+      "outcome": "icd_6d11_5",
+      "domain": "relations",
+      "category": "pattern_qualifier",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b41",
+      "domain": "anxiete",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b64",
+      "domain": "perceptions",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b42",
+      "domain": "humeur",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b20",
+      "domain": "anxiete",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json"
+    },
+    {
+      "outcome": "icd_6b44",
+      "domain": "relations",
+      "category": "diagnosis",
+      "reason": "contextual_only dans data/cartographie.json ; age_scope=young_child_only"
+    },
+    {
+      "outcome": "ten_narcissisme_vulnerable",
+      "domain": "soi",
+      "category": "personality_trait",
+      "reason": "contextual_only dans data/cartographie.json"
+    }
+  ],
+  "to_decide": [
+    {
+      "outcome": "ten_sante_physique",
+      "note": "Maladies du cœur, des poumons ou du métabolisme : santé physique non nommée par le plan. Inclus par défaut ; ne lier que la part ressentie (se sentir en moins bonne santé) ou proposer l'exclusion."
+    },
+    {
+      "outcome": "ten_souffrance_enfance",
+      "note": "Sujet défini sur l'enfance, incompatible avec la période « ces 12 derniers mois ». À exclure ou à traiter avec des manifestations actuelles sans lien critere fictif ; décision à consigner."
+    },
+    {
+      "outcome": "ten_difficultes_scolaires",
+      "note": "Sujet scolaire : pour un adulte, transposer aux études ou formations en cours ; sinon proposer l'exclusion."
+    },
+    {
+      "outcome": "ten_revictimisation",
+      "note": "Défini par des violences subies, pas par un symptôme ; formuler des faits vécus non culpabilisants (la responsabilité revient à l'agresseur) ou proposer l'exclusion."
+    },
+    {
+      "outcome": "contextual_only",
+      "note": "L'exclusion suit le champ contextual_only, calculé pour Mon enfance ; elle écarte notamment TOC (6B20), TSPT complexe (6B41), deuil prolongé (6B42), trouble de l'adaptation (6B43), trouble dissociatif de l'identité (6B64), motif borderline (6D11.5) et les sujets suicide/automutilation. Les symptômes de sécurité restent présents via les canoniques."
+    }
+  ]
+}

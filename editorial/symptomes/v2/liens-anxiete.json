@@ -1,0 +1,1778 @@
+{
+ "domain": "anxiete",
+ "symptoms": [
+  {
+   "id": "anx_apprehension_diffuse",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Se sentir inquiet sans savoir pourquoi",
+   "description": "Une appréhension présente la plupart des jours, sans lien avec une situation précise.",
+   "examples": [
+    "Avoir le ventre noué sans raison claire",
+    "Se sentir menacé sans savoir par quoi"
+   ],
+   "safety": null,
+   "overlap_group": "inquietude",
+   "links": [
+    {
+     "outcome": "anx_generale",
+     "strength": "critere",
+     "basis": "CDDR 6B00, caractéristique essentielle (anxiété « flottante », alternative aux soucis)",
+     "summary": "Une inquiétude diffuse et durable, sans objet précis, est l'une des deux formes centrales de l'anxiété généralisée.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_signes_physiques_stress",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Avoir des signes physiques de nervosité",
+   "description": "Nausées, mal au ventre, sueurs, tremblements ou bouche sèche quand on est inquiet.",
+   "examples": [
+    "Avoir l'estomac à l'envers avant une journée chargée",
+    "Trembler un peu sans raison"
+   ],
+   "safety": null,
+   "overlap_group": "activation_physique",
+   "links": [
+    {
+     "outcome": "anx_generale",
+     "strength": "critere",
+     "basis": "CDDR 6B00, caractéristique essentielle (signes d'activation du corps)",
+     "summary": "L'inquiétude durable s'accompagne souvent de signes du corps comme les nausées, la transpiration ou les tremblements.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b04",
+     "strength": "moderee",
+     "basis": "CDDR 6B04, caractéristique associée (additional features)",
+     "summary": "Dans la peur du regard des autres, la gêne porte souvent d'abord sur des signes physiques visibles.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_crise_sans_raison",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Avoir des crises d'angoisse sans déclencheur",
+   "description": "Des crises de peur intense qui surviennent d'un coup, sans situation ou raison apparente.",
+   "examples": [
+    "Une crise devant la télévision, au calme",
+    "Être réveillé par une montée de panique"
+   ],
+   "safety": null,
+   "overlap_group": "panique_inattendue",
+   "links": [
+    {
+     "outcome": "icd_6b01",
+     "strength": "critere",
+     "basis": "CDDR 6B01, caractéristique essentielle (une partie des crises est inattendue)",
+     "summary": "Des crises qui surgissent sans déclencheur repérable sont typiques de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_nouvelle_crise",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Redouter une nouvelle crise d'angoisse",
+   "description": "Penser souvent à la prochaine crise ou à ce qu'elle pourrait signifier pour sa santé, pendant des semaines.",
+   "examples": [
+    "Craindre qu'une crise soit en fait un problème cardiaque",
+    "Surveiller les premiers signes d'une crise"
+   ],
+   "safety": null,
+   "overlap_group": "peur_des_crises",
+   "links": [
+    {
+     "outcome": "icd_6b01",
+     "strength": "critere",
+     "basis": "CDDR 6B01, caractéristique essentielle (inquiétude persistante après les crises)",
+     "summary": "Après des crises, la crainte qu'elles reviennent ou soient graves fait partie du tableau.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b02",
+     "strength": "moderee",
+     "basis": "CDDR 6B02, caractéristique associée (additional features)",
+     "summary": "La peur de ressentir à nouveau des symptômes de panique est fréquente dans la peur des lieux sans issue.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_folie_perte_controle",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Avoir peur de perdre la raison",
+   "description": "Craindre de devenir fou ou de perdre le contrôle de soi, en dehors de toute crise ou pendant une crise.",
+   "examples": [
+    "Avoir peur de « craquer » complètement"
+   ],
+   "safety": null,
+   "overlap_group": "peur_folie",
+   "links": [
+    {
+     "outcome": "sch_vulnerabilite",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma de vulnérabilité : catastrophes émotionnelles)",
+     "summary": "La peur de perdre la raison fait partie des catastrophes redoutées dans ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "icd_6b01",
+     "strength": "moderee",
+     "basis": "CDDR 6B01 (symptôme possible d'une crise, parmi d'autres)",
+     "summary": "Pendant une crise d'angoisse, la peur de devenir fou ou de perdre le contrôle est fréquente.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_lieux_sans_issue",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Avoir peur des lieux difficiles à quitter",
+   "description": "Se sentir très anxieux dans les transports, la foule, une file d'attente ou seul loin de chez soi.",
+   "examples": [
+    "Redouter le métro ou un grand magasin",
+    "Se placer près de la sortie"
+   ],
+   "safety": null,
+   "overlap_group": "agoraphobie",
+   "links": [
+    {
+     "outcome": "icd_6b02",
+     "strength": "critere",
+     "basis": "CDDR 6B02, caractéristique essentielle",
+     "summary": "Une peur marquée de plusieurs situations d'où partir ou être aidé semble difficile est centrale dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_malaise_sans_aide",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Craindre un malaise loin de toute aide",
+   "description": "Redouter de paniquer, de tomber ou d'avoir un symptôme gênant sans pouvoir partir ni être aidé.",
+   "examples": [
+    "Avoir peur de s'évanouir dans un train",
+    "Craindre de ne pas trouver de toilettes à temps"
+   ],
+   "safety": null,
+   "overlap_group": "peur_malaise",
+   "links": [
+    {
+     "outcome": "icd_6b02",
+     "strength": "critere",
+     "basis": "CDDR 6B02, caractéristique essentielle (peur de conséquences précises)",
+     "summary": "Ce qui est redouté dans ces lieux est souvent un malaise, une panique ou un symptôme embarrassant.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_sortir_accompagne",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Ne sortir qu'accompagné ou avec des précautions",
+   "description": "Avoir besoin d'une personne de confiance, d'un médicament ou d'un horaire précis pour aller dehors.",
+   "examples": [
+    "Ne faire ses courses qu'avec un proche",
+    "Garder toujours un médicament sur soi"
+   ],
+   "safety": null,
+   "overlap_group": "comportements_securite",
+   "links": [
+    {
+     "outcome": "icd_6b02",
+     "strength": "critere",
+     "basis": "CDDR 6B02, caractéristique essentielle (situations abordées seulement sous conditions)",
+     "summary": "Aller dans les lieux redoutés seulement accompagné ou avec des précautions est typique de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b01",
+     "strength": "moderee",
+     "basis": "CDDR 6B01, caractéristique essentielle (comportements pour éviter le retour des crises), poids abaissé",
+     "summary": "Certaines précautions servent à éviter le retour des crises ; elles se voient aussi dans d'autres peurs.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_situations_sociales",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Être très anxieux face aux autres",
+   "description": "Parler, manger, travailler ou intervenir devant d'autres provoque une forte peur, de façon régulière.",
+   "examples": [
+    "Redouter de prendre la parole en réunion",
+    "Ne pas oser manger devant des collègues"
+   ],
+   "safety": null,
+   "overlap_group": "anxiete_sociale",
+   "links": [
+    {
+     "outcome": "icd_6b04",
+     "strength": "critere",
+     "basis": "CDDR 6B04, caractéristique essentielle",
+     "summary": "Une peur marquée et régulière dans les échanges ou devant les autres est centrale dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_montrer_anxiete",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Craindre que les autres voient son malaise",
+   "description": "Avoir peur qu'on remarque qu'on rougit, qu'on tremble, qu'on transpire ou qu'on bafouille.",
+   "examples": [
+    "Cacher ses mains pour qu'on ne les voie pas trembler"
+   ],
+   "safety": null,
+   "overlap_group": "peur_signes_visibles",
+   "links": [
+    {
+     "outcome": "icd_6b04",
+     "strength": "critere",
+     "basis": "CDDR 6B04, caractéristique essentielle (crainte de montrer des signes d'anxiété)",
+     "summary": "La crainte que son anxiété soit vue et mal jugée fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_detresse_separation",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Être très mal quand un proche s'éloigne",
+   "description": "Une détresse forte et répétée lors d'une séparation d'avec un partenaire, un enfant ou un parent.",
+   "examples": [
+    "Pleurer ou s'isoler quand le partenaire part en voyage"
+   ],
+   "safety": null,
+   "overlap_group": "detresse_separation",
+   "links": [
+    {
+     "outcome": "icd_6b05",
+     "strength": "critere",
+     "basis": "CDDR 6B05, caractéristique essentielle (détresse répétée à la séparation)",
+     "summary": "Une détresse marquée et répétée à chaque séparation d'un proche est typique de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_retenu_par_separation",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Avoir du mal à partir loin d'un proche",
+   "description": "Retarder ou refuser un départ au travail, un trajet ou un voyage pour ne pas quitter un proche.",
+   "examples": [
+    "Renoncer à un déplacement professionnel",
+    "Rester à la maison pour ne pas laisser son enfant"
+   ],
+   "safety": null,
+   "overlap_group": "separation_retenue",
+   "links": [
+    {
+     "outcome": "icd_6b05",
+     "strength": "critere",
+     "basis": "CDDR 6B05, caractéristique essentielle (réticence à aller au travail ou ailleurs)",
+     "summary": "La difficulté à s'éloigner d'un proche, jusqu'à renoncer à des sorties ou au travail, fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_sommeil_loin_proche",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Avoir du mal à dormir loin d'un proche",
+   "description": "Avoir du mal à s'endormir, ou éviter de dormir, quand un proche n'est pas là.",
+   "examples": [
+    "Rester éveillé quand le partenaire est absent"
+   ],
+   "safety": null,
+   "overlap_group": "separation_sommeil",
+   "links": [
+    {
+     "outcome": "icd_6b05",
+     "strength": "critere",
+     "basis": "CDDR 6B05, caractéristique essentielle (réticence à dormir sans la personne)",
+     "summary": "Le refus ou la difficulté à dormir sans la personne à qui l'on tient fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_maux_separation",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Avoir mal au ventre ou à la tête avant une séparation",
+   "description": "Nausées, maux de ventre ou de tête qui apparaissent quand il faut quitter un proche.",
+   "examples": [
+    "Avoir la nausée avant de partir au travail"
+   ],
+   "safety": null,
+   "overlap_group": "maux_separation",
+   "links": [
+    {
+     "outcome": "icd_6b05",
+     "strength": "critere",
+     "basis": "CDDR 6B05, caractéristique essentielle (symptômes physiques liés à la séparation)",
+     "summary": "Des maux physiques au moment de quitter un proche sont une des formes de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_maladie_grave",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Avoir peur d'avoir une maladie grave",
+   "description": "Penser souvent être atteint d'une maladie grave, et le rester même après des examens rassurants.",
+   "examples": [
+    "Être persuadé d'avoir un cancer malgré des analyses normales"
+   ],
+   "safety": null,
+   "overlap_group": "peur_maladie",
+   "links": [
+    {
+     "outcome": "icd_6b23",
+     "strength": "critere",
+     "basis": "CDDR 6B23, caractéristique essentielle",
+     "summary": "Une crainte persistante d'avoir une maladie grave est le cœur de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "sch_vulnerabilite",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma de vulnérabilité : catastrophes médicales)",
+     "summary": "La peur d'une maladie grave fait partie des catastrophes redoutées dans ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_verifier_corps",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Examiner souvent son corps",
+   "description": "Toucher, regarder ou mesurer son corps à répétition pour y chercher un signe de maladie.",
+   "examples": [
+    "Palper chaque jour un grain de beauté",
+    "Prendre son pouls plusieurs fois par jour"
+   ],
+   "safety": null,
+   "overlap_group": "verification_sante",
+   "links": [
+    {
+     "outcome": "icd_6b23",
+     "strength": "critere",
+     "basis": "CDDR 6B23, caractéristique essentielle (vérifications répétées du corps)",
+     "summary": "Vérifier son corps de façon répétée pour se rassurer est une manifestation typique de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_recherches_sante",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Chercher longuement des informations sur une maladie",
+   "description": "Passer beaucoup de temps à lire sur une maladie qu'on craint d'avoir.",
+   "examples": [
+    "Lire des forums médicaux tard le soir"
+   ],
+   "safety": null,
+   "overlap_group": "recherche_sante",
+   "links": [
+    {
+     "outcome": "icd_6b23",
+     "strength": "critere",
+     "basis": "CDDR 6B23, caractéristique essentielle (recherche d'informations excessive)",
+     "summary": "Passer beaucoup de temps à se renseigner sur la maladie redoutée fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_reassurance_sante",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Demander souvent à être rassuré sur sa santé",
+   "description": "Multiplier les consultations, examens ou questions à l'entourage pour vérifier qu'on n'a rien de grave.",
+   "examples": [
+    "Voir plusieurs médecins pour le même symptôme"
+   ],
+   "safety": null,
+   "overlap_group": "reassurance_sante",
+   "links": [
+    {
+     "outcome": "icd_6b23",
+     "strength": "critere",
+     "basis": "CDDR 6B23, caractéristique essentielle (recherche répétée de réassurance)",
+     "summary": "Chercher à être rassuré encore et encore sur sa santé est une manifestation de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_eviter_medecin",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Éviter les médecins par peur",
+   "description": "Repousser une consultation ou un examen par peur de ce qu'on pourrait apprendre.",
+   "examples": [
+    "Ne pas ouvrir des résultats d'analyse"
+   ],
+   "safety": null,
+   "overlap_group": "evitement_sante",
+   "links": [
+    {
+     "outcome": "icd_6b23",
+     "strength": "critere",
+     "basis": "CDDR 6B23, caractéristique essentielle (évitement lié à la santé)",
+     "summary": "Éviter les rendez-vous médicaux par crainte d'une maladie est l'autre forme possible de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_alarme_sensation_banale",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "S'alarmer d'une sensation banale du corps",
+   "description": "Voir un signe de maladie grave dans une sensation ordinaire, comme un mal de tête ou un battement de cœur.",
+   "examples": [
+    "Penser à une tumeur au moindre mal de tête"
+   ],
+   "safety": null,
+   "overlap_group": "interpretation_corps",
+   "links": [
+    {
+     "outcome": "icd_6b23",
+     "strength": "moderee",
+     "basis": "CDDR 6B23, caractéristique associée (additional features)",
+     "summary": "Interpréter des sensations ordinaires comme le signe d'une maladie grave est fréquent dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b01",
+     "strength": "limitee",
+     "basis": "CDDR 6B01 (interprétation des symptômes physiques des crises)",
+     "summary": "Cette lecture alarmante des sensations se voit aussi après des crises d'angoisse, sans être spécifique.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_attente_catastrophe",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "S'attendre à une catastrophe imminente",
+   "description": "Avoir le sentiment qu'un malheur peut arriver d'un moment à l'autre.",
+   "examples": [
+    "Imaginer le pire dès qu'un proche est en retard"
+   ],
+   "safety": null,
+   "overlap_group": "catastrophe_imminente",
+   "links": [
+    {
+     "outcome": "sch_vulnerabilite",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma de vulnérabilité)",
+     "summary": "Le sentiment qu'une catastrophe peut survenir à tout moment est au centre de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_impuissance_danger",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Se sentir sans défense face aux dangers",
+   "description": "Penser qu'on serait impuissant à empêcher un malheur ou à s'en protéger s'il arrivait.",
+   "examples": [
+    "Se sentir démuni à l'idée d'un accident"
+   ],
+   "safety": null,
+   "overlap_group": "impuissance_danger",
+   "links": [
+    {
+     "outcome": "sch_vulnerabilite",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma de vulnérabilité : incapacité à empêcher la catastrophe)",
+     "summary": "Se croire incapable d'empêcher un malheur fait partie de la définition de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_peur_danger_exterieur",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Craindre un accident ou une agression",
+   "description": "Redouter fortement un accident, une agression, un incendie ou une catastrophe naturelle.",
+   "examples": [
+    "Éviter l'ascenseur de peur qu'il tombe",
+    "Craindre l'avion au point de ne pas le prendre"
+   ],
+   "safety": null,
+   "overlap_group": "peur_danger_exterieur",
+   "links": [
+    {
+     "outcome": "sch_vulnerabilite",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma de vulnérabilité : catastrophes extérieures)",
+     "summary": "La peur d'accidents ou d'agressions fait partie des catastrophes redoutées dans ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_reperer_colere",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Repérer tout de suite l'agacement des autres",
+   "description": "Remarquer très vite un ton, un regard ou un geste d'agacement ou de colère chez quelqu'un.",
+   "examples": [
+    "Sentir la tension d'un proche dès qu'il entre"
+   ],
+   "safety": null,
+   "overlap_group": "detection_colere",
+   "links": [
+    {
+     "outcome": "ten_hypervigilance",
+     "strength": "critere",
+     "basis": "Définition du sujet (cartographie) ; McLaughlin et coll., 2020",
+     "summary": "Repérer très vite les signes de colère fait partie de la définition de cette tendance.",
+     "sources": [
+      "mclaughlin2020"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_guetter_rejet",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Guetter les signes de rejet",
+   "description": "Surveiller les réactions des autres pour y déceler un rejet ou une mise à l'écart.",
+   "examples": [
+    "Relire un message pour savoir si on est en froid"
+   ],
+   "safety": null,
+   "overlap_group": "detection_rejet",
+   "links": [
+    {
+     "outcome": "ten_hypervigilance",
+     "strength": "critere",
+     "basis": "Définition du sujet (cartographie : signes de danger, de colère ou de rejet)",
+     "summary": "La surveillance des signes de rejet fait partie de la définition de cette tendance.",
+     "sources": [
+      "mclaughlin2020"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_reagir_fort_menace",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Réagir très fort à un petit signe de menace",
+   "description": "Avoir une réaction intense, peur ou colère, face à un bruit, un mot ou un geste perçu comme menaçant.",
+   "examples": [
+    "Se figer quand quelqu'un hausse la voix"
+   ],
+   "safety": null,
+   "overlap_group": "reactivite_menace",
+   "links": [
+    {
+     "outcome": "ten_hypervigilance",
+     "strength": "critere",
+     "basis": "Définition du sujet (cartographie : réagir fortement) ; McLaughlin et coll., 2020",
+     "summary": "Une réaction émotionnelle forte aux signes de menace fait partie de cette tendance.",
+     "sources": [
+      "mclaughlin2020"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_lire_hostilite",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Voir de l'hostilité dans un visage neutre",
+   "description": "Avoir l'impression qu'une personne est fâchée alors que son visage ou son ton est neutre.",
+   "examples": [
+    "Croire qu'un collègue est en colère contre soi"
+   ],
+   "safety": null,
+   "overlap_group": "interpretation_menace",
+   "links": [
+    {
+     "outcome": "ten_hypervigilance",
+     "strength": "moderee",
+     "basis": "McLaughlin et coll., 2020 (revue)",
+     "summary": "Après des expériences de menace, des visages neutres sont plus souvent lus comme fâchés.",
+     "sources": [
+      "mclaughlin2020"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_precautions_securite",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Prendre des précautions pour se sentir en sécurité",
+   "description": "Adopter des habitudes de protection, comme s'asseoir face à la porte ou vérifier souvent derrière soi.",
+   "examples": [
+    "Choisir une place d'où l'on voit l'entrée",
+    "Vérifier plusieurs fois les verrous"
+   ],
+   "safety": null,
+   "overlap_group": "hypervigilance",
+   "links": [
+    {
+     "outcome": "icd_6b40",
+     "strength": "critere",
+     "basis": "CDDR 6B40, caractéristique essentielle (impression de menace actuelle, comportements de sécurité)",
+     "summary": "Ces précautions illustrent l'impression de menace toujours présente qui caractérise ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b41",
+     "strength": "moderee",
+     "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+     "summary": "Ces précautions illustrent l'impression de menace présente aussi dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "ten_hypervigilance",
+     "strength": "moderee",
+     "basis": "Richards et coll., 2014 (revue)",
+     "summary": "La surveillance constante du danger s'accompagne souvent de gestes de protection.",
+     "sources": [
+      "richards2014"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_emotions_rappel",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Revivre la peur d'un événement face à un rappel",
+   "description": "Ressentir de nouveau, dans le corps, la peur ou l'horreur d'un événement pénible quand quelque chose le rappelle.",
+   "examples": [
+    "Avoir le cœur qui s'emballe à une odeur liée à l'événement"
+   ],
+   "safety": null,
+   "overlap_group": "reviviscence",
+   "links": [
+    {
+     "outcome": "icd_6b40",
+     "strength": "critere",
+     "basis": "CDDR 6B40, caractéristique essentielle (revivre au présent, y compris par les émotions)",
+     "summary": "Revivre au présent les émotions d'un événement, au contact d'un rappel, fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b41",
+     "strength": "moderee",
+     "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+     "summary": "Revivre au présent les émotions d'un événement fait aussi partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_chasser_souvenirs",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Chasser les pensées d'un événement pénible",
+   "description": "Faire des efforts pour repousser les pensées ou les souvenirs d'un événement difficile.",
+   "examples": [
+    "S'occuper en permanence pour éviter d'y penser"
+   ],
+   "safety": null,
+   "overlap_group": "evitement_interne",
+   "links": [
+    {
+     "outcome": "icd_6b40",
+     "strength": "critere",
+     "basis": "CDDR 6B40, caractéristique essentielle (évitement intérieur)",
+     "summary": "Repousser volontairement les pensées et souvenirs de l'événement fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b41",
+     "strength": "critere",
+     "basis": "CDDR 6B41, caractéristique essentielle (évitement intérieur)",
+     "summary": "Repousser volontairement les souvenirs de l'événement fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_eviter_rappels",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Éviter ce qui rappelle un événement pénible",
+   "description": "Éviter des lieux, des personnes, des conversations ou des activités liés à un événement difficile.",
+   "examples": [
+    "Changer de trajet pour ne pas passer devant un lieu",
+    "Quitter la pièce quand le sujet est abordé"
+   ],
+   "safety": null,
+   "overlap_group": "evitement_rappels",
+   "links": [
+    {
+     "outcome": "icd_6b40",
+     "strength": "critere",
+     "basis": "CDDR 6B40, caractéristique essentielle (évitement extérieur)",
+     "summary": "Éviter les situations et personnes qui rappellent l'événement fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b41",
+     "strength": "critere",
+     "basis": "CDDR 6B41, caractéristique essentielle (évitement extérieur)",
+     "summary": "Éviter les rappels de l'événement fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b43",
+     "strength": "moderee",
+     "basis": "CDDR 6B43, caractéristique associée (additional features)",
+     "summary": "Éviter ce qui rappelle un coup dur peut accompagner une réaction difficile à ce changement.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_emotions_eteintes",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Se sentir comme anesthésié",
+   "description": "Ressentir peu ou pas d'émotions, en particulier ne plus éprouver de joie, comme si tout était éteint.",
+   "examples": [
+    "Rester sans réaction à une bonne nouvelle"
+   ],
+   "safety": null,
+   "overlap_group": "engourdissement",
+   "links": [
+    {
+     "outcome": "icd_6b41",
+     "strength": "critere",
+     "basis": "CDDR 6B41, caractéristique essentielle (difficultés de régulation : engourdissement émotionnel)",
+     "summary": "L'engourdissement des émotions, surtout positives, est une des difficultés de régulation de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_conduites_risque",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Se mettre en danger quand ça va mal",
+   "description": "Prendre des risques ou adopter des conduites dangereuses pour soi quand les émotions débordent.",
+   "examples": [
+    "Conduire très vite après une dispute"
+   ],
+   "safety": null,
+   "overlap_group": "conduites_risque",
+   "links": [
+    {
+     "outcome": "icd_6b41",
+     "strength": "critere",
+     "basis": "CDDR 6B41, caractéristique essentielle (conduites imprudentes ou autodestructrices)",
+     "summary": "Des conduites risquées sous le coup des émotions font partie des difficultés de régulation de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_se_reprocher_evenement",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir coupable d'un événement pénible subi",
+   "description": "Se reprocher ce qu'on a subi, de ne pas avoir pu fuir ou de ne pas avoir pu protéger quelqu'un.",
+   "examples": [
+    "Se dire qu'on aurait dû partir plus tôt"
+   ],
+   "safety": null,
+   "overlap_group": "culpabilite_evenement",
+   "links": [
+    {
+     "outcome": "icd_6b41",
+     "strength": "moderee",
+     "basis": "CDDR 6B41, caractéristique essentielle (culpabilité liée à l'événement), poids abaissé par la limite de 12",
+     "summary": "La culpabilité liée à l'événement accompagne souvent la mauvaise image de soi dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "icd_6b40",
+     "strength": "moderee",
+     "basis": "CDDR 6B40, caractéristique associée (additional features) (culpabilité, dont celle du survivant)",
+     "summary": "La culpabilité, y compris celle d'avoir survécu, est fréquente dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_mal_rester_proche",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Avoir du mal à se sentir proche des autres",
+   "description": "Se sentir loin même des personnes qui comptent, ou avoir du mal à garder des liens dans la durée.",
+   "examples": [
+    "Se sentir à part au milieu de ses amis"
+   ],
+   "safety": null,
+   "overlap_group": "proximite_difficile",
+   "links": [
+    {
+     "outcome": "icd_6b41",
+     "strength": "critere",
+     "basis": "CDDR 6B41, caractéristique essentielle (difficultés à se sentir proche et à garder des liens)",
+     "summary": "Des difficultés durables à se sentir proche des autres font partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_relations_intenses_breves",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Vivre des relations intenses qui ne durent pas",
+   "description": "Avoir parfois des liens très forts qui se défont vite ou deviennent difficiles à maintenir.",
+   "examples": [
+    "Enchaîner des amitiés fusionnelles qui s'arrêtent net"
+   ],
+   "safety": null,
+   "overlap_group": "relations_instables",
+   "links": [
+    {
+     "outcome": "icd_6b41",
+     "strength": "critere",
+     "basis": "CDDR 6B41, caractéristique essentielle (relations intenses difficiles à maintenir)",
+     "summary": "Des relations parfois intenses mais difficiles à faire durer sont une forme des difficultés relationnelles de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_pensees_coup_dur",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Penser sans cesse à un coup dur récent",
+   "description": "Revenir sans arrêt sur une rupture, une perte d'emploi, une maladie ou un conflit, et sur ses suites.",
+   "examples": [
+    "Se repasser la rupture du matin au soir"
+   ],
+   "safety": null,
+   "overlap_group": "preoccupation_stresseur",
+   "links": [
+    {
+     "outcome": "icd_6b43",
+     "strength": "critere",
+     "basis": "CDDR 6B43, caractéristique essentielle (préoccupation centrée sur le stress et ses suites)",
+     "summary": "Être occupé en permanence par un événement de vie difficile et ses conséquences est le cœur de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_mal_a_s_adapter",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Avoir du mal à faire face à un changement de vie",
+   "description": "Ne pas réussir à reprendre ses activités habituelles depuis un changement ou un événement difficile.",
+   "examples": [
+    "Ne plus arriver à travailler depuis un déménagement subi"
+   ],
+   "safety": null,
+   "overlap_group": "adaptation_difficile",
+   "links": [
+    {
+     "outcome": "icd_6b43",
+     "strength": "critere",
+     "basis": "CDDR 6B43, caractéristique essentielle (difficulté d'adaptation qui gêne le quotidien)",
+     "summary": "Une difficulté marquée à s'adapter à un changement de vie, qui pèse sur le quotidien, fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_pensees_intrusives",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Avoir des pensées qui s'imposent malgré soi",
+   "description": "Des pensées, images ou envies dérangeantes qui reviennent sans le vouloir et qu'on cherche à repousser.",
+   "examples": [
+    "Une image violente qui surgit sans raison",
+    "La pensée d'être sali après avoir touché une poignée"
+   ],
+   "safety": null,
+   "overlap_group": "obsessions",
+   "links": [
+    {
+     "outcome": "icd_6b20",
+     "strength": "critere",
+     "basis": "CDDR 6B20, caractéristique essentielle (obsessions)",
+     "summary": "Des pensées ou images intrusives et indésirables qui reviennent sont un des deux piliers de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_gestes_repetes",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Répéter des gestes pour se rassurer",
+   "description": "Se sentir obligé de laver, vérifier, ranger ou toucher selon des règles précises, encore et encore.",
+   "examples": [
+    "Vérifier cinq fois que le gaz est éteint",
+    "Se laver les mains très longuement"
+   ],
+   "safety": null,
+   "overlap_group": "compulsions",
+   "links": [
+    {
+     "outcome": "icd_6b20",
+     "strength": "critere",
+     "basis": "CDDR 6B20, caractéristique essentielle (compulsions visibles)",
+     "summary": "Des gestes répétés qu'on se sent poussé à faire sont un des deux piliers de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_rituels_mentaux",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Faire des rituels dans sa tête",
+   "description": "Compter, répéter des phrases ou repasser un souvenir dans sa tête pour éviter un malheur ou se rassurer.",
+   "examples": [
+    "Repasser la journée pour s'assurer de n'avoir blessé personne"
+   ],
+   "safety": null,
+   "overlap_group": "compulsions_mentales",
+   "links": [
+    {
+     "outcome": "icd_6b20",
+     "strength": "critere",
+     "basis": "CDDR 6B20, caractéristique essentielle (actes mentaux répétitifs)",
+     "summary": "Les rituels faits en pensée sont une forme de compulsion reconnue dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_temps_rituels",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Perdre beaucoup de temps en pensées ou rituels",
+   "description": "Ces pensées ou gestes répétés prennent plus d'une heure par jour ou compliquent nettement le quotidien.",
+   "examples": [
+    "Arriver en retard à cause des vérifications"
+   ],
+   "safety": null,
+   "overlap_group": "temps_rituels",
+   "links": [
+    {
+     "outcome": "icd_6b20",
+     "strength": "critere",
+     "basis": "CDDR 6B20, caractéristique essentielle (temps passé ou gêne importante)",
+     "summary": "Le temps pris ou la gêne causée par ces pensées et gestes fait partie de ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anx_besoin_que_ce_soit_juste",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Refaire jusqu'à ce que ce soit « juste »",
+   "description": "Recommencer un geste ou ranger jusqu'à ressentir que c'est enfin comme il faut.",
+   "examples": [
+    "Réaligner des objets jusqu'à ce que ça « colle »"
+   ],
+   "safety": null,
+   "overlap_group": "completude",
+   "links": [
+    {
+     "outcome": "icd_6b20",
+     "strength": "moderee",
+     "basis": "CDDR 6B20, caractéristique associée (additional features) (sentiment d'incomplétude)",
+     "summary": "Le malaise tant que les choses ne semblent pas « justes » est fréquent dans ce sujet.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  }
+ ],
+ "links_to_canonical": [
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (soucis excessifs dans plusieurs domaines)",
+   "summary": "Des soucis excessifs et difficiles à arrêter sont au cœur de l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "nervosite",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (nervosité, impression d'être à bout)",
+   "summary": "La sensation d'être tendu ou à bout accompagne typiquement l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "tension_musculaire",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (tension musculaire)",
+   "summary": "Les muscles tendus font partie des signes qui accompagnent l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "difficultes_concentration",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (difficultés de concentration)",
+   "summary": "L'inquiétude permanente gêne souvent la concentration.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "irritabilite",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (irritabilité)",
+   "summary": "L'irritabilité fait partie des signes qui accompagnent l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "mal_a_s_endormir",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (troubles du sommeil)",
+   "summary": "Les difficultés d'endormissement font partie des signes de l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "reveils_nocturnes",
+   "outcome": "anx_generale",
+   "strength": "critere",
+   "basis": "CDDR 6B00, caractéristique essentielle (troubles du sommeil)",
+   "summary": "Un sommeil interrompu ou peu réparateur accompagne souvent l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "eviter_par_peur",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "basis": "CDDR 6B00, caractéristique associée (additional features) (évitement)",
+   "summary": "L'évitement sert souvent à réduire l'inquiétude dans l'anxiété durable.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "crises_angoisse",
+   "outcome": "anx_generale",
+   "strength": "moderee",
+   "basis": "CDDR, introduction des troubles anxieux et liés à la peur",
+   "summary": "Les crises d'angoisse peuvent accompagner différentes formes d'anxiété.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "coeur_souffle_stress",
+   "outcome": "anx_generale",
+   "strength": "limitee",
+   "basis": "CDDR 6B00 (signes du corps), signe peu spécifique",
+   "summary": "Le cœur qui s'emballe sous le stress se voit dans beaucoup de situations d'anxiété.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "crises_angoisse",
+   "outcome": "icd_6b01",
+   "strength": "critere",
+   "basis": "CDDR 6B01, caractéristique essentielle (crises répétées)",
+   "summary": "Des crises d'angoisse répétées sont le cœur de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "coeur_souffle_stress",
+   "outcome": "icd_6b01",
+   "strength": "critere",
+   "basis": "CDDR 6B01, caractéristique essentielle (symptômes typiques d'une crise)",
+   "summary": "Les palpitations et la gêne pour respirer sont des signes typiques des crises de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "eviter_par_peur",
+   "outcome": "icd_6b01",
+   "strength": "moderee",
+   "basis": "CDDR 6B01, caractéristique essentielle (comportements pour éviter les crises), poids abaissé car peu spécifique",
+   "summary": "Éviter des situations pour ne pas refaire une crise est fréquent dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "detachement_irrealite",
+   "outcome": "icd_6b01",
+   "strength": "moderee",
+   "basis": "CDDR 6B01 (symptôme possible d'une crise)",
+   "summary": "Une impression d'irréalité peut survenir pendant une crise d'angoisse.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "eviter_par_peur",
+   "outcome": "icd_6b02",
+   "strength": "critere",
+   "basis": "CDDR 6B02, caractéristique essentielle (situations évitées ou endurées)",
+   "summary": "Éviter les situations redoutées, ou les vivre avec une forte peur, fait partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "crises_angoisse",
+   "outcome": "icd_6b02",
+   "strength": "moderee",
+   "basis": "CDDR 6B02, caractéristique associée (additional features)",
+   "summary": "Beaucoup de personnes concernées ont connu des crises d'angoisse.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "icd_6b02",
+   "strength": "limitee",
+   "basis": "CDDR 6B02, caractéristique associée (additional features) (retentissement sur les liens)",
+   "summary": "Rester chez soi par peur peut réduire les contacts, mais ce signe est peu spécifique.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "peur_du_jugement",
+   "outcome": "icd_6b04",
+   "strength": "critere",
+   "basis": "CDDR 6B04, caractéristique essentielle (crainte d'être mal jugé)",
+   "summary": "La crainte d'être jugé, humilié ou rejeté est au cœur de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "eviter_par_peur",
+   "outcome": "icd_6b04",
+   "strength": "critere",
+   "basis": "CDDR 6B04, caractéristique essentielle (situations sociales évitées ou endurées)",
+   "summary": "Éviter les situations sociales, ou les vivre avec une forte peur, fait partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6b04",
+   "strength": "moderee",
+   "basis": "CDDR 6B04, caractéristique associée (additional features)",
+   "summary": "Certaines personnes consomment pour apaiser leur peur avant ou pendant les situations sociales.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "icd_6b04",
+   "strength": "limitee",
+   "basis": "Signe peu spécifique, retentissement social",
+   "summary": "Voir moins les autres peut découler de la peur du regard, mais se voit dans beaucoup de situations.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "peur_pour_les_proches",
+   "outcome": "icd_6b05",
+   "strength": "critere",
+   "basis": "CDDR 6B05, caractéristique essentielle (peur de la séparation, pensées qu'un malheur séparera)",
+   "summary": "Une peur marquée d'être séparé de ses proches, ou qu'un malheur les éloigne, est le cœur de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "cauchemars_repetes",
+   "outcome": "icd_6b05",
+   "strength": "moderee",
+   "basis": "CDDR 6B05, caractéristique essentielle (cauchemars de séparation), poids abaissé car la question ne précise pas le thème",
+   "summary": "Des cauchemars répétés sur la séparation peuvent faire partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "icd_6b23",
+   "strength": "limitee",
+   "basis": "Signe peu spécifique",
+   "summary": "Une inquiétude difficile à arrêter accompagne souvent la peur de la maladie, sans lui être propre.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "crises_angoisse",
+   "outcome": "icd_6b23",
+   "strength": "moderee",
+   "basis": "CDDR 6B23, caractéristique associée (additional features)",
+   "summary": "L'anxiété autour de la santé peut aller jusqu'à des crises d'angoisse.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "sch_vulnerabilite",
+   "strength": "moderee",
+   "basis": "Young et coll., 2003 (domaine survigilance et inhibition) ; ISST",
+   "summary": "Une inquiétude tournée vers les malheurs possibles accompagne souvent ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "rester_sur_ses_gardes",
+   "outcome": "ten_hypervigilance",
+   "strength": "critere",
+   "basis": "Définition du sujet (cartographie) ; Richards et coll., 2014",
+   "summary": "Surveiller sans cesse les dangers possibles est le cœur de cette tendance.",
+   "sources": [
+    "richards2014"
+   ]
+  },
+  {
+   "symptom": "nervosite",
+   "outcome": "ten_hypervigilance",
+   "strength": "limitee",
+   "basis": "Signe peu spécifique",
+   "summary": "Être sur les nerfs accompagne souvent la surveillance du danger, sans lui être propre.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "difficultes_concentration",
+   "outcome": "ten_hypervigilance",
+   "strength": "limitee",
+   "basis": "Richards et coll., 2014 (distraction par la menace)",
+   "summary": "La surveillance du danger peut distraire de la tâche en cours.",
+   "sources": [
+    "richards2014"
+   ]
+  },
+  {
+   "symptom": "souvenirs_envahissants",
+   "outcome": "icd_6b40",
+   "strength": "critere",
+   "basis": "CDDR 6B40, caractéristique essentielle (revivre l'événement au présent)",
+   "summary": "Des souvenirs vifs qui reviennent comme si l'événement se reproduisait sont le cœur de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "cauchemars_repetes",
+   "outcome": "icd_6b40",
+   "strength": "critere",
+   "basis": "CDDR 6B40, caractéristique essentielle (cauchemars liés à l'événement)",
+   "summary": "Des cauchemars répétés liés à l'événement sont une forme de reviviscence de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "rester_sur_ses_gardes",
+   "outcome": "icd_6b40",
+   "strength": "critere",
+   "basis": "CDDR 6B40, caractéristique essentielle (hypervigilance, sursaut)",
+   "summary": "Rester en alerte et sursauter facilement traduisent l'impression de menace actuelle propre à ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "detachement_irrealite",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (symptômes dissociatifs)",
+   "summary": "Des impressions de détachement peuvent accompagner ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (alcool ou drogues pour gérer les souvenirs)",
+   "summary": "Consommer pour ne pas revivre l'événement ou calmer ses émotions est fréquent dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "honte_de_soi",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (honte, humiliation)",
+   "summary": "La honte fait partie des émotions fréquentes dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "irritabilite",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (colère)",
+   "summary": "La colère fait partie des émotions fréquentes dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (retrait social)",
+   "summary": "Se retirer des autres peut accompagner ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "crises_angoisse",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (panique)",
+   "summary": "Des crises d'angoisse peuvent accompagner ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "tristesse_persistante",
+   "outcome": "icd_6b40",
+   "strength": "limitee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (dysphorie), signe peu spécifique",
+   "summary": "Un abattement général peut accompagner ce sujet, comme beaucoup d'autres.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "idees_de_mort",
+   "outcome": "icd_6b40",
+   "strength": "moderee",
+   "basis": "CDDR 6B40, caractéristique associée (additional features) (idées et conduites suicidaires)",
+   "summary": "Des idées de mort peuvent accompagner ce sujet ; elles méritent d'en parler à quelqu'un.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "souvenirs_envahissants",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "basis": "CDDR 6B41, caractéristique essentielle (revivre l'événement au présent)",
+   "summary": "Revivre l'événement au présent fait partie des éléments de base de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "rester_sur_ses_gardes",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "basis": "CDDR 6B41, caractéristique essentielle (impression de menace actuelle)",
+   "summary": "Rester sur ses gardes fait partie des éléments de base de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "emotions_difficiles_a_apaiser",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "basis": "CDDR 6B41, caractéristique essentielle (réactivité émotionnelle forte aux petits stress)",
+   "summary": "Des émotions vives et difficiles à apaiser, même pour de petits stress, font partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "colere_qui_deborde",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "basis": "CDDR 6B41, caractéristique essentielle (accès de colère violents)",
+   "summary": "Des colères qui débordent sont une des difficultés de régulation décrites dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "basis": "CDDR 6B41, caractéristique essentielle (se voir diminué, vaincu ou sans valeur)",
+   "summary": "Une image de soi durablement diminuée fait partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "honte_de_soi",
+   "outcome": "icd_6b41",
+   "strength": "critere",
+   "basis": "CDDR 6B41, caractéristique essentielle (honte profonde)",
+   "summary": "Une honte profonde et durable liée à l'événement fait partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "cauchemars_repetes",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique essentielle (élément partagé), poids abaissé par la limite de 12",
+   "summary": "Des cauchemars liés à l'événement font partie de la reviviscence de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "detachement_irrealite",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique essentielle (dissociation sous stress), poids abaissé par la limite de 12",
+   "summary": "Se sentir détaché quand le stress monte est une des difficultés de régulation de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "culpabilite_excessive",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique essentielle (culpabilité), poids abaissé par la limite de 12 et famille déjà couverte",
+   "summary": "La culpabilité accompagne souvent la mauvaise image de soi dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique essentielle (éviter les relations), poids abaissé par la limite de 12",
+   "summary": "Éviter les relations est une des formes des difficultés relationnelles de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "perte_interet_plaisir",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique essentielle (incapacité à éprouver du plaisir), poids abaissé par la limite de 12",
+   "summary": "La difficulté à ressentir du plaisir fait partie de l'engourdissement émotionnel de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_faire_du_mal",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique essentielle (conduites autodestructrices), poids abaissé car l'exemple n'est pas nommé",
+   "summary": "Se faire du mal peut faire partie des conduites autodestructrices décrites dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "idees_de_mort",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique associée (additional features) (idées et conduites suicidaires)",
+   "summary": "Des idées de mort peuvent accompagner ce sujet ; elles méritent d'en parler à quelqu'un.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6b41",
+   "strength": "moderee",
+   "basis": "CDDR 6B41, caractéristique associée (additional features) (consommation de substances)",
+   "summary": "Consommer pour apaiser ses émotions peut accompagner ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "pensees_en_boucle",
+   "outcome": "icd_6b43",
+   "strength": "critere",
+   "basis": "CDDR 6B43, caractéristique essentielle (rumination sur les conséquences)",
+   "summary": "Ressasser sans cesse les conséquences d'un coup dur fait partie de la préoccupation propre à ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "icd_6b43",
+   "strength": "moderee",
+   "basis": "CDDR 6B43, caractéristique essentielle (soucis excessifs liés au stress), poids abaissé car la question est générale",
+   "summary": "Des soucis excessifs autour d'un coup dur peuvent faire partie de ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "tristesse_persistante",
+   "outcome": "icd_6b43",
+   "strength": "moderee",
+   "basis": "CDDR 6B43, caractéristique associée (additional features) (symptômes dépressifs)",
+   "summary": "Une tristesse peut accompagner une réaction difficile à un changement de vie.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "nervosite",
+   "outcome": "icd_6b43",
+   "strength": "moderee",
+   "basis": "CDDR 6B43, caractéristique associée (additional features) (symptômes anxieux)",
+   "summary": "Une nervosité peut accompagner une réaction difficile à un changement de vie.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6b43",
+   "strength": "moderee",
+   "basis": "CDDR 6B43, caractéristique associée (additional features) (hausse du tabac, de l'alcool ou d'autres produits)",
+   "summary": "Consommer davantage pour tenir le coup peut accompagner ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "mal_a_s_endormir",
+   "outcome": "icd_6b43",
+   "strength": "limitee",
+   "basis": "Signe peu spécifique",
+   "summary": "Le sommeil se dérègle souvent après un coup dur, sans que ce soit propre à ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "eviter_par_peur",
+   "outcome": "icd_6b20",
+   "strength": "moderee",
+   "basis": "CDDR 6B20, caractéristique associée (additional features) (évitement des déclencheurs)",
+   "summary": "Éviter les personnes, lieux ou objets qui déclenchent les pensées et rituels est fréquent dans ce sujet.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "crises_angoisse",
+   "outcome": "icd_6b20",
+   "strength": "limitee",
+   "basis": "CDDR 6B20, caractéristique associée (additional features), signe peu spécifique",
+   "summary": "Une forte anxiété, jusqu'à la panique, peut survenir face aux déclencheurs.",
+   "sources": [
+    "oms_cddr"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "oms_cddr",
+   "type": "classification",
+   "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+   "url": "https://www.who.int/publications/i/item/9789240077263",
+   "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+  },
+  {
+   "id": "young_schemas",
+   "type": "manuel",
+   "citation": "Young JE, Schema Therapy Institute, Early Maladaptive Schemas (liste et définitions des 18 schémas), schéma « Vulnerability to Harm or Illness »",
+   "url": "https://www.schematherapy.com/id73.htm",
+   "licence": "Droits réservés (Schema Therapy Institute) : définition paraphrasée, aucune recopie"
+  },
+  {
+   "id": "mclaughlin2020",
+   "type": "revue",
+   "citation": "McLaughlin KA, Colich NL, Rodman AM, Weissman DG, 2020, Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience, BMC Medicine 18:96",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7110745/",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "richards2014",
+   "type": "revue",
+   "citation": "Richards HJ, Benson V, Donnelly N, Hadwin JA, 2014, Exploring the function of selective attention and hypervigilance for threat in anxiety, Clinical Psychology Review 34(1):1-13, PMID 24286750",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24286750/",
+   "licence": "Résumé PubMed, © Elsevier : cité et paraphrasé, aucune recopie"
+  }
+ ]
+}

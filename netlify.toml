@@ -245,6 +245,15 @@
   status = 200
   force = true
 
+# Lot P : script et style de l’application, publics et nommés par leur contenu (/app/<empreinte>.js|.css).
+# Identiques pour tous les comptes ; la page privée qui les appelle reste « private, no-store ».
+# Le Worker fixe lui-même le cache immuable (200) ou « no-store » (nom inconnu) : pas de règle [[headers]] ici.
+[[redirects]]
+  from = "/app/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/app/:splat"
+  status = 200
+  force = true
+
 [[headers]]
   for = "/mes-personnages"
   [headers.values]
@@ -322,6 +331,14 @@
 # Cache longue durée pour les assets statiques
 [[headers]]
   for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Lot P : chaque script est appelé avec ?v=<empreinte du contenu> (head.html) et l’index de
+# recherche des personnages porte son empreinte dans son nom ; un test refuse toute référence
+# /js/ sans version dans les gabarits.
+[[headers]]
+  for = "/js/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 

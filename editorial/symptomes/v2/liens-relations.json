@@ -1,0 +1,2203 @@
+{
+ "domain": "relations",
+ "symptoms": [
+  {
+   "id": "rel_besoin_d_etre_rassure",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Avoir besoin d'être souvent rassuré",
+   "description": "Demander souvent à l'autre s'il tient à vous, ou attendre des preuves répétées de son affection.",
+   "examples": [
+    "Redemander « tu m'aimes encore ? » plusieurs fois par jour"
+   ],
+   "safety": null,
+   "overlap_group": "besoin_reassurance",
+   "links": [
+    {
+     "outcome": "att_anxieux",
+     "strength": "critere",
+     "basis": "attachement anxieux : stratégies d'hyperactivation (Evraire et al., 2022 ; Finzi-Dottan et Abadi, 2024)",
+     "summary": "Chercher à être rassuré sur l'affection de l'autre est une façon typique d'apaiser la crainte de le perdre.",
+     "sources": [
+      "evraire2022"
+     ]
+    },
+    {
+     "outcome": "pat_abandonment_fear",
+     "strength": "moderee",
+     "basis": "étude : la demande de réassurance accompagne la crainte d'abandon (Evraire et al., 2022)",
+     "summary": "Le besoin d'être rassuré va souvent avec l'inquiétude de perdre le lien.",
+     "sources": [
+      "evraire2022"
+     ]
+    },
+    {
+     "outcome": "sch_abandon",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "Quand on s'attend à ce que l'autre parte, on cherche souvent des preuves qu'il reste.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_inquiet_sans_nouvelles",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "S'inquiéter quand l'autre ne donne pas de nouvelles",
+   "description": "Se sentir très inquiet quand un proche tarde à répondre, s'absente ou paraît moins disponible.",
+   "examples": [
+    "Relire ses messages en attendant une réponse",
+    "Imaginer le pire après un appel manqué"
+   ],
+   "safety": null,
+   "overlap_group": "separation_distance",
+   "links": [
+    {
+     "outcome": "pat_abandonment_fear",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par la définition du schéma d'abandon (Young)",
+     "summary": "Une distance, même courte, réveille la peur que le lien se rompe.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "att_anxieux",
+     "strength": "critere",
+     "basis": "attachement anxieux : stratégies d'hyperactivation (Evraire et al., 2022 ; Finzi-Dottan et Abadi, 2024)",
+     "summary": "Surveiller la disponibilité de l'autre et s'alarmer de son absence fait partie de cette façon de s'attacher.",
+     "sources": [
+      "finzidottan2024",
+      "evraire2022"
+     ]
+    },
+    {
+     "outcome": "sch_abandon",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Ce schéma se traduit par l'attente que les proches cessent d'être là, et donc par l'alarme au moindre silence.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_s_accrocher_a_l_autre",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Chercher à garder l'autre tout près",
+   "description": "Multiplier appels, messages ou moments ensemble pour garder le lien, au point que l'autre se sente étouffé.",
+   "examples": [
+    "Avoir du mal à laisser l'autre sortir sans soi"
+   ],
+   "safety": null,
+   "overlap_group": "proximite_insistante",
+   "links": [
+    {
+     "outcome": "att_anxieux",
+     "strength": "critere",
+     "basis": "attachement anxieux : stratégies d'hyperactivation (Evraire et al., 2022 ; Finzi-Dottan et Abadi, 2024)",
+     "summary": "Rechercher la proximité de façon insistante est la stratégie décrite pour calmer l'inquiétude d'attachement.",
+     "sources": [
+      "evraire2022"
+     ]
+    },
+    {
+     "outcome": "sch_abandon",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "Young décrit le fait de s'accrocher à l'autre comme une réponse possible à la peur d'être quitté.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_tout_faire_pour_eviter_depart",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Tout faire pour empêcher un départ",
+   "description": "Supplier, promettre, menacer ou céder dans l'urgence quand on sent qu'un proche pourrait partir.",
+   "examples": [
+    "Rappeler sans cesse après une dispute pour qu'il ne parte pas"
+   ],
+   "safety": null,
+   "overlap_group": "efforts_eviter_abandon",
+   "links": [
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "critere",
+     "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+     "summary": "Des efforts intenses pour éviter d'être quitté, réellement ou en imagination, font partie de ce motif.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "sch_abandon",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "La peur d'être quitté peut pousser à des réactions vives aux moindres séparations.",
+     "sources": [
+      "young2003"
+     ]
+    },
+    {
+     "outcome": "att_anxieux",
+     "strength": "moderee",
+     "basis": "attachement anxieux : stratégies d'hyperactivation (Evraire et al., 2022 ; Finzi-Dottan et Abadi, 2024)",
+     "summary": "Ces efforts prolongent la recherche de proximité quand le lien paraît menacé.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_proches_peu_fiables",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Sentir que les proches peuvent disparaître",
+   "description": "Avoir l'impression que les personnes qui comptent sont imprévisibles ou finiront par s'en aller.",
+   "examples": [
+    "Penser que son partenaire partira pour quelqu'un de mieux"
+   ],
+   "safety": null,
+   "overlap_group": "instabilite_lien",
+   "links": [
+    {
+     "outcome": "sch_abandon",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Le schéma d'abandon se définit par l'impression que les soutiens proches sont instables ou ne resteront pas.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_abandonment_fear",
+     "strength": "moderee",
+     "basis": "définition de la tendance dans la cartographie, appuyée par Young",
+     "summary": "Voir ses proches comme peu fiables nourrit la peur de perdre le lien.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_mal_a_compter_sur_les_autres",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Avoir du mal à compter sur les autres",
+   "description": "Préférer se débrouiller seul et éviter de demander de l'aide, même quand on en aurait besoin.",
+   "examples": [
+    "Cacher un souci de santé pour ne déranger personne"
+   ],
+   "safety": null,
+   "overlap_group": "autonomie_defensive",
+   "links": [
+    {
+     "outcome": "att_evitant",
+     "strength": "critere",
+     "basis": "attachement évitant : stratégies de désactivation (Finzi-Dottan et Abadi, 2024 ; Evraire et al., 2022)",
+     "summary": "Compter surtout sur soi et éviter de dépendre des autres est au cœur de cette façon de s'attacher.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "ten_surcompensation_schema",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "Young cite le fait de ne rien demander à personne comme une façon de lutter contre un sentiment de dépendance.",
+     "sources": [
+      "young2003"
+     ]
+    },
+    {
+     "outcome": "ten_peur_intimite",
+     "strength": "limitee",
+     "basis": "signe fréquent, peu spécifique",
+     "summary": "S'appuyer sur l'autre suppose une proximité que l'on peut redouter.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_garder_ses_distances",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Prendre du recul quand l'autre se rapproche",
+   "description": "Se sentir à l'étroit quand une relation devient proche, et mettre de la distance sans bien savoir pourquoi.",
+   "examples": [
+    "Espacer les messages après un moment très complice"
+   ],
+   "safety": null,
+   "overlap_group": "distance_proximite",
+   "links": [
+    {
+     "outcome": "att_evitant",
+     "strength": "critere",
+     "basis": "attachement évitant : stratégies de désactivation (Finzi-Dottan et Abadi, 2024 ; Evraire et al., 2022)",
+     "summary": "Limiter la proximité et garder une distance émotionnelle est la stratégie décrite pour ce style.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "ten_peur_intimite",
+     "strength": "critere",
+     "basis": "définition de la peur de l'intimité citée par Finzi-Dottan et Abadi, 2024",
+     "summary": "La crainte de l'intimité pousse à freiner le rapprochement, même avec quelqu'un que l'on apprécie.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "moderee",
+     "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+     "summary": "Ce motif associe souvent un fort désir de proximité et la peur de cette proximité.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_mal_a_se_confier",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Avoir du mal à se confier",
+   "description": "Hésiter à parler de ce qui compte vraiment pour soi, même à une personne aimée.",
+   "examples": [
+    "Garder pour soi un projet ou une inquiétude importante"
+   ],
+   "safety": null,
+   "overlap_group": "devoilement",
+   "links": [
+    {
+     "outcome": "ten_peur_intimite",
+     "strength": "critere",
+     "basis": "définition de la peur de l'intimité citée par Finzi-Dottan et Abadi, 2024",
+     "summary": "La peur de l'intimité se définit par la difficulté à partager pensées et sentiments importants avec une personne chère.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "att_evitant",
+     "strength": "moderee",
+     "basis": "attachement évitant : stratégies de désactivation (Finzi-Dottan et Abadi, 2024 ; Evraire et al., 2022)",
+     "summary": "Se dévoiler rapproche, ce que ce style tend à éviter.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "sch_mefiance",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "Garder des secrets est une façon d'éviter de se rendre vulnérable quand on craint d'être trahi.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_peur_d_etre_blesse_si_proche",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Craindre d'être blessé en s'attachant",
+   "description": "Redouter le rejet, la déception ou la gêne qui pourraient venir si l'on se laisse approcher.",
+   "examples": [
+    "Se dire « mieux vaut ne pas trop s'attacher »"
+   ],
+   "safety": null,
+   "overlap_group": "peur_rejet_proximite",
+   "links": [
+    {
+     "outcome": "ten_peur_intimite",
+     "strength": "critere",
+     "basis": "définition de la peur de l'intimité citée par Finzi-Dottan et Abadi, 2024",
+     "summary": "La peur de l'intimité est décrite comme une protection contre le risque d'être rejeté, blessé ou gêné.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "att_evitant",
+     "strength": "moderee",
+     "basis": "attachement évitant : stratégies de désactivation (Finzi-Dottan et Abadi, 2024 ; Evraire et al., 2022)",
+     "summary": "Ce style s'accompagne d'une attente de peu d'accueil de la part des autres.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_vite_rejete",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Se sentir vite rejeté",
+   "description": "Percevoir un refus, un oubli ou un ton neutre comme un rejet, et en être très touché.",
+   "examples": [
+    "Se sentir exclu parce qu'un ami n'a pas réagi à un message"
+   ],
+   "safety": null,
+   "overlap_group": "sensibilite_rejet",
+   "links": [
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "moderee",
+     "basis": "CDDR 6D11.5, autres manifestations possibles",
+     "summary": "Une grande sensibilité au rejet et des signaux sociaux mal interprétés font partie des autres manifestations possibles.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "att_anxieux",
+     "strength": "moderee",
+     "basis": "étude : l'attachement anxieux est lié à l'attente de rejet (Finzi-Dottan et Abadi, 2024)",
+     "summary": "Quand on craint de perdre l'autre, on surestime souvent le risque d'être rejeté.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    },
+    {
+     "outcome": "sch_recherche_approbation",
+     "strength": "moderee",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Quand la valeur de soi dépend des autres, le moindre retrait peut être vécu comme un rejet.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_pas_heureux_sans_l_autre",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Ne pas imaginer aller bien sans un proche",
+   "description": "Penser que l'on, ou un proche, ne pourrait pas être heureux sans le soutien constant de l'autre.",
+   "examples": [
+    "Appeler un parent avant chaque décision"
+   ],
+   "safety": null,
+   "overlap_group": "dependance_fusion",
+   "links": [
+    {
+     "outcome": "sch_fusion",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Ce schéma comporte la conviction qu'on ne peut pas aller bien sans le soutien constant d'un proche.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_codependance",
+     "strength": "limitee",
+     "basis": "signe fréquent, peu spécifique (Molina et al., 2026)",
+     "summary": "Le besoin de garder un proche à tout prix est parfois décrit dans la codépendance.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_se_sentir_etouffe_par_un_proche",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Se sentir étouffé par un proche",
+   "description": "Avoir l'impression qu'un parent ou un partenaire prend tant de place qu'il reste peu d'espace pour soi.",
+   "examples": [
+    "Avoir du mal à faire un choix sans son avis"
+   ],
+   "safety": null,
+   "overlap_group": "fusion_etouffement",
+   "links": [
+    {
+     "outcome": "sch_fusion",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "La proximité excessive peut être vécue comme un étouffement ou une fusion avec l'autre.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_se_confondre_avec_un_proche",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Mal distinguer ses envies de celles d'un proche",
+   "description": "Ne plus savoir ce que l'on aime ou pense soi-même, ou avoir l'impression de vivre à travers l'autre.",
+   "examples": [
+    "Tout raconter à un proche, même ce qu'on préférerait garder"
+   ],
+   "safety": null,
+   "overlap_group": "identite_fusion",
+   "links": [
+    {
+     "outcome": "sch_fusion",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas) ; Young et al., 2003, tableau 1.1",
+     "summary": "Ce schéma se paie d'un manque d'identité propre, au profit de celle d'un proche.",
+     "sources": [
+      "young_schemas",
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_relations_intenses_changeantes",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Vivre des relations très intenses et changeantes",
+   "description": "Passer d'une grande admiration pour un proche à une forte déception, parfois en peu de temps.",
+   "examples": [
+    "Voir un ami comme parfait, puis comme décevant après un oubli"
+   ],
+   "safety": null,
+   "overlap_group": "relations_instables",
+   "links": [
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "critere",
+     "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+     "summary": "Des relations intenses et instables, entre idéalisation et dévalorisation, font partie de ce motif.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "ten_difficultes_personnalite",
+     "strength": "moderee",
+     "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+     "summary": "Des liens proches difficiles à stabiliser relèvent du fonctionnement interpersonnel.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "ten_qualite_relationnelle",
+     "strength": "limitee",
+     "basis": "signe fréquent, peu spécifique",
+     "summary": "Ces variations rendent souvent les relations moins sereines.",
+     "sources": [
+      "labella2018_relations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_image_de_soi_changeante",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Avoir une idée de soi qui change beaucoup",
+   "description": "Ne plus savoir qui l'on est, ce que l'on veut ou ce que l'on vaut, selon les moments ou les personnes.",
+   "examples": [
+    "Changer souvent de projets, de goûts ou de valeurs"
+   ],
+   "safety": null,
+   "overlap_group": "identite_instable",
+   "links": [
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "critere",
+     "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+     "summary": "Une image de soi nettement et durablement instable fait partie de ce motif.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "ten_difficultes_personnalite",
+     "strength": "critere",
+     "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+     "summary": "Les difficultés d'identité font partie du fonctionnement de soi décrit par la CIM-11.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_sentiment_de_vide",
+   "canonical": false,
+   "theme": "humeur",
+   "label": "Ressentir un vide intérieur",
+   "description": "Une impression de creux ou de vide à l'intérieur, qui revient souvent ou dure longtemps.",
+   "examples": [
+    "Avoir besoin de remplir chaque moment pour ne pas sentir ce vide"
+   ],
+   "safety": null,
+   "overlap_group": "vide_interieur",
+   "links": [
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "critere",
+     "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+     "summary": "Un sentiment chronique de vide fait partie de ce motif.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "sch_fusion",
+     "strength": "moderee",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Le manque d'identité propre peut se vivre comme un vide.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_liens_proches_difficiles_a_garder",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir du mal à garder des liens proches",
+   "description": "Des amitiés ou des relations amoureuses qui se défont vite ou restent difficiles à construire.",
+   "examples": [
+    "Des amitiés qui s'arrêtent souvent après quelques mois"
+   ],
+   "safety": null,
+   "overlap_group": "liens_durables",
+   "links": [
+    {
+     "outcome": "ten_difficultes_personnalite",
+     "strength": "critere",
+     "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+     "summary": "Construire et garder des liens proches et satisfaisants fait partie du fonctionnement interpersonnel évalué.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "ten_qualite_relationnelle",
+     "strength": "moderee",
+     "basis": "dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
+     "summary": "Ne pas réussir à maintenir une relation fait baisser l'engagement relationnel mesuré dans cette étude.",
+     "sources": [
+      "labella2018_relations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_mal_a_comprendre_l_autre",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir du mal à comprendre le point de vue des autres",
+   "description": "Ne pas parvenir à voir pourquoi un proche pense ou réagit autrement, ce qui crée des malentendus.",
+   "examples": [
+    "Être surpris qu'un collègue se soit senti blessé"
+   ],
+   "safety": null,
+   "overlap_group": "perspective_autrui",
+   "links": [
+    {
+     "outcome": "ten_difficultes_personnalite",
+     "strength": "critere",
+     "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+     "summary": "Comprendre la perspective d'autrui est l'un des aspects du fonctionnement interpersonnel retenus.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_disputes_qui_tournent_mal",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir des disputes qui tournent mal",
+   "description": "Des désaccords qui s'emballent, durent ou laissent des blessures, sans parvenir à les régler ensemble.",
+   "examples": [
+    "Une discussion sur les tâches qui finit en rupture de contact"
+   ],
+   "safety": null,
+   "overlap_group": "conflits_escalade",
+   "links": [
+    {
+     "outcome": "ten_difficultes_personnalite",
+     "strength": "critere",
+     "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+     "summary": "Gérer les conflits dans les relations fait partie du fonctionnement interpersonnel décrit.",
+     "sources": [
+      "oms_cddr"
+     ]
+    },
+    {
+     "outcome": "ten_qualite_relationnelle",
+     "strength": "moderee",
+     "basis": "dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
+     "summary": "Des conflits intenses et répétés marquent une qualité relationnelle plus faible.",
+     "sources": [
+      "labella2018_relations"
+     ]
+    },
+    {
+     "outcome": "pat_conflict",
+     "strength": "limitee",
+     "basis": "signe fréquent, peu spécifique",
+     "summary": "Quand les disputes tournent mal, les désaccords peuvent finir par être redoutés.",
+     "sources": [
+      "bretana2022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_relations_peu_satisfaisantes",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Être peu satisfait de ses relations proches",
+   "description": "Avoir le sentiment que son couple ou ses amitiés répondent peu à ce dont on a besoin.",
+   "examples": [
+    "Se sentir déçu de sa relation la plupart du temps"
+   ],
+   "safety": null,
+   "overlap_group": "satisfaction_relation",
+   "links": [
+    {
+     "outcome": "ten_qualite_relationnelle",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
+     "summary": "Des liens vécus comme peu satisfaisants sont au cœur de cette tendance.",
+     "sources": [
+      "labella2018_relations",
+      "bretana2022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_se_sentir_peu_libre",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Se sentir peu libre dans ses relations",
+   "description": "Avoir l'impression de devoir surveiller ce que l'on dit ou fait pour que la relation reste calme.",
+   "examples": [
+    "Préparer ses phrases avant d'aborder un sujet avec son partenaire"
+   ],
+   "safety": null,
+   "overlap_group": "liberte_relation",
+   "links": [
+    {
+     "outcome": "ten_qualite_relationnelle",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
+     "summary": "Des liens vécus comme moins libres font partie de la définition de cette tendance.",
+     "sources": [
+      "labella2018_relations"
+     ]
+    },
+    {
+     "outcome": "pat_appeasement",
+     "strength": "moderee",
+     "basis": "réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+     "summary": "Le fait de « marcher sur des œufs » est décrit dans la réponse d'apaisement.",
+     "sources": [
+      "schwartz_fawn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_peu_de_complicite",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Partager peu de complicité avec ses proches",
+   "description": "Peu de confidences, de moments chaleureux ou de plaisir partagé avec son partenaire ou ses amis.",
+   "examples": [
+    "Passer des soirées côte à côte sans vraiment échanger"
+   ],
+   "safety": null,
+   "overlap_group": "complicite",
+   "links": [
+    {
+     "outcome": "ten_qualite_relationnelle",
+     "strength": "critere",
+     "basis": "dimensions de la qualité relationnelle mesurées par Labella et al., 2018",
+     "summary": "La confiance, la proximité affective et le partage font partie de la qualité relationnelle mesurée.",
+     "sources": [
+      "labella2018_relations"
+     ]
+    },
+    {
+     "outcome": "ten_peur_intimite",
+     "strength": "limitee",
+     "basis": "signe fréquent, peu spécifique",
+     "summary": "Moins de complicité peut aller avec une réserve face à l'intimité.",
+     "sources": [
+      "finzidottan2024"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_eviter_les_desaccords",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Éviter les désaccords à tout prix",
+   "description": "Taire un avis différent ou changer de sujet pour qu'aucune tension n'apparaisse.",
+   "examples": [
+    "Dire « comme tu veux » alors qu'on préfère autre chose"
+   ],
+   "safety": null,
+   "overlap_group": "evitement_desaccord",
+   "links": [
+    {
+     "outcome": "pat_conflict",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par Young et al., 2003 (évitement des situations de conflit)",
+     "summary": "Éviter tout désaccord est la première forme décrite de cette difficulté.",
+     "sources": [
+      "young2003"
+     ]
+    },
+    {
+     "outcome": "sch_assujettissement",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "Young cite l'évitement des situations de conflit comme une réponse à ce schéma.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_desaccord_vecu_comme_menace",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Vivre un désaccord comme une menace",
+   "description": "Sentir la peur monter ou le lien en danger dès qu'un proche n'est pas d'accord avec soi.",
+   "examples": [
+    "Avoir le cœur qui bat fort quand un ami contredit"
+   ],
+   "safety": null,
+   "overlap_group": "desaccord_menace",
+   "links": [
+    {
+     "outcome": "pat_conflict",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par Schwartz (vigilance face aux tensions)",
+     "summary": "Ressentir un désaccord comme dangereux pour la relation fait partie de la définition de cette tendance.",
+     "sources": [
+      "schwartz_fawn"
+     ]
+    },
+    {
+     "outcome": "pat_appeasement",
+     "strength": "moderee",
+     "basis": "réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+     "summary": "Quand une tension paraît dangereuse, on cherche souvent à la calmer au plus vite.",
+     "sources": [
+      "schwartz_fawn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_se_fermer_pendant_une_dispute",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Se fermer pendant une dispute",
+   "description": "Se taire, quitter la pièce ou couper la conversation quand une discussion devient tendue.",
+   "examples": [
+    "Ne plus répondre aux messages après un échange vif"
+   ],
+   "safety": null,
+   "overlap_group": "retrait_conflit",
+   "links": [
+    {
+     "outcome": "pat_conflict",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par Bretaña et al., 2022 (stratégie de retrait)",
+     "summary": "Le retrait pendant un conflit est une façon courante de se protéger d'un désaccord vécu comme pénible.",
+     "sources": [
+      "bretana2022"
+     ]
+    },
+    {
+     "outcome": "att_evitant",
+     "strength": "moderee",
+     "basis": "étude dyadique : l'évitement d'attachement est lié au retrait en conflit (Bretaña et al., 2022)",
+     "summary": "Ce retrait est plus fréquent quand on garde volontiers ses distances.",
+     "sources": [
+      "bretana2022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_s_adapter_a_l_humeur_des_autres",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "S'ajuster sans cesse à l'humeur des autres",
+   "description": "Changer d'attitude, d'avis ou de ton selon l'humeur de l'autre, pour éviter qu'une tension apparaisse.",
+   "examples": [
+    "Rire ou se taire selon ce que l'autre semble attendre"
+   ],
+   "safety": null,
+   "overlap_group": "ajustement_humeur",
+   "links": [
+    {
+     "outcome": "pat_appeasement",
+     "strength": "critere",
+     "basis": "réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+     "summary": "Se transformer selon l'humeur de l'autre est une manifestation centrale de l'apaisement.",
+     "sources": [
+      "schwartz_fawn"
+     ]
+    },
+    {
+     "outcome": "ten_codependance",
+     "strength": "moderee",
+     "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+     "summary": "L'attention tournée vers l'autre plutôt que vers soi revient dans les définitions de la codépendance.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_guetter_l_humeur_des_autres",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Guetter l'humeur des autres",
+   "description": "Repérer le moindre signe d'agacement chez un proche et s'y préparer, comme si l'on marchait sur des œufs.",
+   "examples": [
+    "Deviner à sa façon de fermer la porte s'il est fâché"
+   ],
+   "safety": null,
+   "overlap_group": "vigilance_humeur_autrui",
+   "links": [
+    {
+     "outcome": "pat_appeasement",
+     "strength": "critere",
+     "basis": "réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+     "summary": "Surveiller de près les signaux émotionnels des autres accompagne la réponse d'apaisement.",
+     "sources": [
+      "schwartz_fawn"
+     ]
+    },
+    {
+     "outcome": "ten_codependance",
+     "strength": "moderee",
+     "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+     "summary": "Une vigilance relationnelle élevée est décrite dans les travaux sur la codépendance.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_chercher_a_plaire_pour_apaiser",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Chercher à plaire pour calmer une tension",
+   "description": "Complimenter, rendre service ou s'excuser vite quand quelqu'un semble mécontent, même sans être en tort.",
+   "examples": [
+    "S'excuser en premier après une remarque sèche"
+   ],
+   "safety": null,
+   "overlap_group": "apaisement_actif",
+   "links": [
+    {
+     "outcome": "pat_appeasement",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+     "summary": "Accepter, flatter ou se faire agréable pour faire baisser une tension définit cette tendance.",
+     "sources": [
+      "schwartz_fawn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_laisser_les_autres_decider",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Laisser les autres décider à sa place",
+   "description": "Suivre les choix des autres pour les sorties, l'argent ou le quotidien, même quand on préférerait autre chose.",
+   "examples": [
+    "Laisser toujours l'autre choisir le lieu des vacances"
+   ],
+   "safety": null,
+   "overlap_group": "decision_autrui",
+   "links": [
+    {
+     "outcome": "sch_assujettissement",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas) ; Young et al., 2003, tableau 1.1",
+     "summary": "Renoncer à ses préférences et laisser les autres choisir est la forme « besoins » de ce schéma.",
+     "sources": [
+      "young_schemas",
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_avis_qui_ne_compte_pas",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Penser que son avis ne compte pas",
+   "description": "Avoir l'impression que ses envies, opinions ou ressentis importent peu aux yeux des autres.",
+   "examples": [
+    "Ne pas donner son avis en réunion « parce que ça ne changera rien »"
+   ],
+   "safety": null,
+   "overlap_group": "avis_sans_poids",
+   "links": [
+    {
+     "outcome": "sch_assujettissement",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Ce schéma repose sur l'idée que ses désirs et opinions ne comptent pas pour les autres.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_rancoeur_accumulee",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Accumuler de la rancœur",
+   "description": "Garder des frustrations qui ressortent ensuite en piques, en bouderie ou en éclat soudain.",
+   "examples": [
+    "Exploser pour un détail après des semaines de silence"
+   ],
+   "safety": null,
+   "overlap_group": "rancoeur",
+   "links": [
+    {
+     "outcome": "sch_assujettissement",
+     "strength": "moderee",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "La colère retenue tend à s'accumuler et à ressortir de façon indirecte ou brusque.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "sch_abnegation",
+     "strength": "moderee",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Donner beaucoup en s'oubliant peut laisser du ressentiment envers ceux que l'on aide.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_besoins_des_autres_d_abord",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Faire passer les autres avant soi",
+   "description": "Donner son temps, son énergie ou son argent aux autres en laissant de côté ce dont on a besoin soi-même.",
+   "examples": [
+    "Annuler son repos pour dépanner quelqu'un, une fois de plus"
+   ],
+   "safety": null,
+   "overlap_group": "oubli_de_soi",
+   "links": [
+    {
+     "outcome": "sch_abnegation",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Se centrer sur les besoins des autres au détriment des siens définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_codependance",
+     "strength": "critere",
+     "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+     "summary": "S'occuper des autres en négligeant ses propres besoins revient dans presque toutes les définitions.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    },
+    {
+     "outcome": "pat_overresponsibility",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par Gazzillo et al., 2026",
+     "summary": "Le rôle de sauveur consiste à régler les difficultés d'autrui au prix de ses propres besoins.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_coupable_de_penser_a_soi",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir égoïste dès qu'on pense à soi",
+   "description": "Ressentir de la gêne ou de la culpabilité à se reposer, à refuser ou à se faire plaisir.",
+   "examples": [
+    "Culpabiliser d'avoir pris une soirée pour soi"
+   ],
+   "safety": null,
+   "overlap_group": "culpabilite_besoins",
+   "links": [
+    {
+     "outcome": "sch_abnegation",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Éviter la culpabilité de se sentir égoïste est l'un des moteurs décrits de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_overresponsibility",
+     "strength": "critere",
+     "basis": "Gazzillo et al., 2026 : culpabilité de responsabilité omnipotente",
+     "summary": "Mettre ses besoins en avant peut donner l'impression de faire souffrir les autres.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_tres_touche_par_la_peine_des_autres",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Être très affecté par la peine des autres",
+   "description": "Ressentir la détresse d'un proche presque comme la sienne, au point d'avoir du mal à s'en détacher.",
+   "examples": [
+    "Ne plus dormir parce qu'un ami traverse une rupture"
+   ],
+   "safety": null,
+   "overlap_group": "sensibilite_peine_autrui",
+   "links": [
+    {
+     "outcome": "sch_abnegation",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Une sensibilité aiguë à la souffrance des autres accompagne ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_prendre_en_charge_un_proche",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Prendre en charge les problèmes d'un proche",
+   "description": "Gérer à sa place ses rendez-vous, ses dettes ou ses écarts, et couvrir ses difficultés auprès des autres.",
+   "examples": [
+    "Payer les dettes d'un proche pour éviter un conflit",
+    "L'excuser auprès de son employeur"
+   ],
+   "safety": null,
+   "overlap_group": "prise_en_charge",
+   "links": [
+    {
+     "outcome": "ten_codependance",
+     "strength": "critere",
+     "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+     "summary": "Prendre soin de l'autre à l'excès et assumer ses responsabilités figure dans les définitions de la codépendance.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    },
+    {
+     "outcome": "pat_overresponsibility",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par Gazzillo et al., 2026",
+     "summary": "Se sentir tenu de résoudre les difficultés d'autrui est la définition même du rôle de sauveur.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_controler_un_proche_en_difficulte",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Surveiller un proche en difficulté",
+   "description": "Vérifier ce qu'il fait ou organiser sa vie pour qu'il aille bien, qu'il ne rechute pas ou ne se mette pas en danger.",
+   "examples": [
+    "Compter les bouteilles à la maison",
+    "Vérifier où il est plusieurs fois par jour"
+   ],
+   "safety": null,
+   "overlap_group": "controle_proche",
+   "links": [
+    {
+     "outcome": "ten_codependance",
+     "strength": "critere",
+     "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+     "summary": "Un contrôle de l'entourage, mêlé à la prise en charge, est décrit dans plusieurs définitions.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    },
+    {
+     "outcome": "pat_overresponsibility",
+     "strength": "moderee",
+     "basis": "Gazzillo et al., 2026",
+     "summary": "Se croire responsable du bien-être de l'autre pousse à vouloir tout surveiller.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_responsable_du_bien_etre_des_autres",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir responsable du bien-être des autres",
+   "description": "Penser que c'est à soi de régler les soucis de ses proches, et s'en vouloir si l'on n'y parvient pas.",
+   "examples": [
+    "Se sentir fautif quand un ami reste triste malgré son aide"
+   ],
+   "safety": null,
+   "overlap_group": "responsabilite_autrui",
+   "links": [
+    {
+     "outcome": "pat_overresponsibility",
+     "strength": "critere",
+     "basis": "Gazzillo et al., 2026 : croyance que les proches souffriront si l'on ne s'occupe pas d'eux",
+     "summary": "Cette tendance repose sur le sentiment d'être tenu de résoudre les difficultés des autres.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    },
+    {
+     "outcome": "ten_codependance",
+     "strength": "moderee",
+     "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+     "summary": "Le sentiment de responsabilité pour autrui revient dans les descriptions de la codépendance.",
+     "sources": [
+      "molina2026_codependance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_valeur_selon_l_avis_des_autres",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Se sentir bien ou mal selon l'avis des autres",
+   "description": "Sa confiance monte ou chute selon un compliment, une réaction en ligne ou une critique.",
+   "examples": [
+    "Une journée gâchée par un commentaire neutre"
+   ],
+   "safety": null,
+   "overlap_group": "valeur_dependante",
+   "links": [
+    {
+     "outcome": "sch_recherche_approbation",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Une estime de soi qui dépend surtout des réactions des autres définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_chercher_a_impressionner",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Chercher à impressionner",
+   "description": "Mettre en avant ses réussites, son apparence ou ce que l'on possède pour être apprécié ou admiré.",
+   "examples": [
+    "Publier surtout ce qui peut faire envie"
+   ],
+   "safety": null,
+   "overlap_group": "impressionner",
+   "links": [
+    {
+     "outcome": "sch_recherche_approbation",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas) ; Young et al., 2003, tableau 1.1",
+     "summary": "Miser sur le statut, l'apparence ou la réussite pour gagner l'approbation fait partie de ce schéma.",
+     "sources": [
+      "young_schemas",
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_choisir_pour_plaire",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Faire des choix pour plaire plutôt que par envie",
+   "description": "Choisir des études, un travail ou des activités surtout pour obtenir l'approbation des autres.",
+   "examples": [
+    "Garder un loisir qui ennuie parce qu'il plaît à sa famille"
+   ],
+   "safety": null,
+   "overlap_group": "choix_inauthentiques",
+   "links": [
+    {
+     "outcome": "sch_recherche_approbation",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Ce schéma conduit souvent à des décisions peu authentiques ou peu satisfaisantes.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_se_sentir_different",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Se sentir différent des autres",
+   "description": "Avoir l'impression de ne pas fonctionner comme les autres, de ne pas être sur la même longueur d'onde.",
+   "examples": [
+    "Se sentir étranger dans une conversation entre amis"
+   ],
+   "safety": null,
+   "overlap_group": "difference",
+   "links": [
+    {
+     "outcome": "sch_isolement",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Se sentir différent des autres est au cœur de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "icd_6d11_5",
+     "strength": "moderee",
+     "basis": "CDDR 6D11.5, autres manifestations possibles",
+     "summary": "Se vivre comme profondément différent et isolé des autres fait partie des autres manifestations possibles.",
+     "sources": [
+      "oms_cddr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_sans_place_dans_les_groupes",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Ne se sentir à sa place dans aucun groupe",
+   "description": "Au travail, en famille ou entre amis, avoir le sentiment d'être en marge, jamais vraiment membre.",
+   "examples": [
+    "Rester en bordure d'un groupe pendant une fête"
+   ],
+   "safety": null,
+   "overlap_group": "appartenance",
+   "links": [
+    {
+     "outcome": "sch_isolement",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Ce schéma comporte le sentiment de n'appartenir à aucun groupe ni communauté.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_vouloir_garder_la_main",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Vouloir garder la main dans ses relations",
+   "description": "Avoir du mal à laisser l'autre décider ou prendre l'initiative, et vouloir tout diriger.",
+   "examples": [
+    "Reprendre l'organisation d'un projet commun sans demander"
+   ],
+   "safety": null,
+   "overlap_group": "controle_relationnel",
+   "links": [
+    {
+     "outcome": "ten_surcompensation_schema",
+     "strength": "critere",
+     "basis": "Young et al., 2003, p. 34-35 et tableau 1.1 : définition de la surcompensation",
+     "summary": "Young décrit la personne qui ne supporte plus d'être dirigée et devient très contrôlante.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_afficher_une_assurance_sans_faille",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Afficher une assurance sans faille",
+   "description": "Montrer en toute circonstance qu'on est fort ou sûr de soi, même quand on doute beaucoup à l'intérieur.",
+   "examples": [
+    "Ne jamais laisser voir un échec"
+   ],
+   "safety": null,
+   "overlap_group": "facade_assurance",
+   "links": [
+    {
+     "outcome": "ten_surcompensation_schema",
+     "strength": "critere",
+     "basis": "Young et al., 2003, p. 34-35 et tableau 1.1 : définition de la surcompensation",
+     "summary": "En surface on paraît sûr de soi, alors que la difficulté reste présente en dessous.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_contre_attaquer",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Contre-attaquer quand on se sent visé",
+   "description": "Répondre par la critique ou l'attaque dès qu'on se sent remis en cause, blessé ou dominé.",
+   "examples": [
+    "Répondre à une remarque par une liste de reproches"
+   ],
+   "safety": null,
+   "overlap_group": "contre_attaque",
+   "links": [
+    {
+     "outcome": "ten_surcompensation_schema",
+     "strength": "critere",
+     "basis": "Young et al., 2003, p. 34-35 et tableau 1.1 : définition de la surcompensation",
+     "summary": "Face à ce qui réveille la difficulté, la surcompensation pousse à contre-attaquer.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_s_opposer_par_principe",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "S'opposer dès qu'on se sent dirigé",
+   "description": "Refuser une demande ou une règle surtout parce qu'elle vient de quelqu'un d'autre.",
+   "examples": [
+    "Faire l'inverse d'un conseil pour ne pas céder"
+   ],
+   "safety": null,
+   "overlap_group": "opposition",
+   "links": [
+    {
+     "outcome": "ten_surcompensation_schema",
+     "strength": "critere",
+     "basis": "Young et al., 2003, p. 34-35 et tableau 1.1 : définition de la surcompensation",
+     "summary": "Se rebeller contre l'autorité est l'exemple donné pour la surcompensation de l'assujettissement.",
+     "sources": [
+      "young2003"
+     ]
+    },
+    {
+     "outcome": "sch_assujettissement",
+     "strength": "moderee",
+     "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+     "summary": "L'opposition systématique peut être une façon de lutter contre le fait de se soumettre.",
+     "sources": [
+      "young2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_se_sentir_lese",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir l'impression d'être toujours perdant",
+   "description": "Sentir qu'on finit souvent par se faire avoir, exploiter ou passer après les autres.",
+   "examples": [
+    "Penser qu'on vous laisse toujours la moins bonne part"
+   ],
+   "safety": null,
+   "overlap_group": "lese",
+   "links": [
+    {
+     "outcome": "sch_mefiance",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Ce schéma comporte le sentiment d'être toujours perdant face aux autres.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_mal_vu_comme_voulu",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Penser que le mal subi est fait exprès",
+   "description": "Voir un oubli ou une maladresse d'un proche comme une volonté de nuire ou de profiter de soi.",
+   "examples": [
+    "Croire qu'un retard sert à vous humilier"
+   ],
+   "safety": null,
+   "overlap_group": "intention_hostile",
+   "links": [
+    {
+     "outcome": "sch_mefiance",
+     "strength": "critere",
+     "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+     "summary": "Dans ce schéma, le tort subi est vu comme voulu ou comme une négligence injustifiable.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_peu_de_personnes_sur_qui_compter",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir peu de personnes sur qui compter",
+   "description": "En cas de souci, ne voir presque personne à qui parler ou demander un coup de main.",
+   "examples": [
+    "Ne savoir qui appeler pour un déménagement ou une urgence"
+   ],
+   "safety": null,
+   "overlap_group": "peu_de_soutien",
+   "links": [
+    {
+     "outcome": "pat_social_isolation",
+     "strength": "critere",
+     "basis": "définition de la tendance dans la cartographie, appuyée par définitions OMS de la solitude et de l'isolement social",
+     "summary": "Avoir moins de soutien que souhaité fait partie de la définition de cette tendance.",
+     "sources": [
+      "who_lien_social"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_moins_de_contacts_que_souhaite",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir moins de contacts qu'on le voudrait",
+   "description": "Voir des proches ou leur parler bien moins souvent qu'on le souhaiterait.",
+   "examples": [
+    "Passer des semaines sans conversation personnelle"
+   ],
+   "safety": null,
+   "overlap_group": "peu_de_contacts",
+   "links": [
+    {
+     "outcome": "pat_social_isolation",
+     "strength": "critere",
+     "basis": "définitions OMS de la solitude et de l'isolement social",
+     "summary": "L'isolement correspond à trop peu de relations et d'échanges, et la solitude à l'écart avec ce qu'on souhaite.",
+     "sources": [
+      "who_lien_social"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_violences_physiques_subies",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Subir des violences physiques d'un partenaire",
+   "description": "Avoir été poussé, giflé, frappé ou blessé par un ou une partenaire, ou un ex.",
+   "examples": [
+    "Être bousculé contre un mur pendant une dispute"
+   ],
+   "safety": null,
+   "overlap_group": "violences_physiques_subies",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "définition des violences dans le couple (OMS ; CDC)",
+     "summary": "Les violences physiques d'un partenaire font partie de la définition des violences dans le couple ; la responsabilité revient à leur auteur.",
+     "sources": [
+      "who_violences",
+      "cdc_ipv"
+     ]
+    },
+    {
+     "outcome": "ten_violences_amoureuses_jeunes",
+     "strength": "critere",
+     "basis": "CDC : violences au sein des relations amoureuses à l'adolescence (même définition que dans le couple)",
+     "summary": "Chez les plus jeunes, ces violences physiques relèvent des violences dans les relations amoureuses ; la responsabilité revient à leur auteur.",
+     "sources": [
+      "cdc_ipv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_violences_psychologiques_subies",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Être rabaissé ou menacé par un partenaire",
+   "description": "Subir de la part d'un ou une partenaire des insultes, humiliations, menaces ou intimidations.",
+   "examples": [
+    "Être traité de bon à rien devant les autres"
+   ],
+   "safety": null,
+   "overlap_group": "violences_psychologiques_subies",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "définition des violences dans le couple (OMS ; CDC)",
+     "summary": "Les violences psychologiques sont l'une des formes définies des violences dans le couple ; elles ne sont pas la faute de la personne qui les subit.",
+     "sources": [
+      "who_violences",
+      "cdc_ipv"
+     ]
+    },
+    {
+     "outcome": "ten_violences_amoureuses_jeunes",
+     "strength": "critere",
+     "basis": "CDC : violences au sein des relations amoureuses à l'adolescence (même définition que dans le couple)",
+     "summary": "Les violences psychologiques entrent dans la définition des violences amoureuses chez les jeunes.",
+     "sources": [
+      "cdc_ipv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_controle_subi",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Être contrôlé par un partenaire",
+   "description": "Un ou une partenaire surveille son téléphone, ses sorties, son argent ou ses fréquentations.",
+   "examples": [
+    "Devoir justifier chaque dépense",
+    "Recevoir des appels pour savoir où l'on est"
+   ],
+   "safety": null,
+   "overlap_group": "controle_subi",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "définition des violences dans le couple (OMS ; CDC)",
+     "summary": "Les comportements de contrôle font partie des violences dans le couple décrites par l'OMS.",
+     "sources": [
+      "who_violences",
+      "cdc_ipv"
+     ]
+    },
+    {
+     "outcome": "ten_violences_amoureuses_jeunes",
+     "strength": "critere",
+     "basis": "CDC : violences au sein des relations amoureuses à l'adolescence (même définition que dans le couple)",
+     "summary": "Le contrôle exercé par un partenaire relève des violences psychologiques décrites chez les jeunes.",
+     "sources": [
+      "cdc_ipv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_violences_sexuelles_subies",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Subir des gestes sexuels non voulus d'un partenaire",
+   "description": "Être forcé ou poussé par un ou une partenaire à des gestes ou rapports sexuels non consentis.",
+   "examples": [
+    "Céder à un rapport par peur de sa réaction"
+   ],
+   "safety": null,
+   "overlap_group": "violences_sexuelles_subies",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "définition des violences dans le couple (OMS ; CDC)",
+     "summary": "La contrainte sexuelle par un partenaire fait partie de la définition des violences dans le couple ; la responsabilité revient à son auteur.",
+     "sources": [
+      "who_violences",
+      "cdc_ipv"
+     ]
+    },
+    {
+     "outcome": "ten_violences_amoureuses_jeunes",
+     "strength": "critere",
+     "basis": "CDC : violences au sein des relations amoureuses à l'adolescence (même définition que dans le couple)",
+     "summary": "Les violences sexuelles d'un partenaire font partie des violences amoureuses chez les jeunes.",
+     "sources": [
+      "cdc_ipv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_harcele_par_un_partenaire",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Être harcelé par un partenaire ou un ex",
+   "description": "Recevoir des messages, appels ou visites répétés et non voulus qui font peur.",
+   "examples": [
+    "Un ex qui attend devant son travail"
+   ],
+   "safety": null,
+   "overlap_group": "harcelement_subi",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "CDC : le harcèlement par un partenaire est une forme de violence dans le couple",
+     "summary": "Le harcèlement répété par un partenaire ou un ex est une forme reconnue de violence dans le couple.",
+     "sources": [
+      "cdc_ipv"
+     ]
+    },
+    {
+     "outcome": "ten_violences_amoureuses_jeunes",
+     "strength": "moderee",
+     "basis": "CDC : violences au sein des relations amoureuses à l'adolescence (même définition que dans le couple)",
+     "summary": "Le harcèlement par un partenaire peut aussi survenir dans les premières relations.",
+     "sources": [
+      "cdc_ipv"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_violences_exercees",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir brutalisé ou menacé un partenaire",
+   "description": "Avoir poussé, frappé, menacé ou humilié un ou une partenaire, même lors d'une seule dispute.",
+   "examples": [
+    "Avoir cassé un objet pour faire peur"
+   ],
+   "safety": null,
+   "overlap_group": "violences_exercees",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "définition des violences dans le couple (OMS ; CDC) ; Labella et al., 2018 (violences exercées et subies)",
+     "summary": "Exercer des violences sur un partenaire fait partie de ce que recouvre ce sujet ; en parler peut aider à trouver de l'aide pour que cela cesse.",
+     "sources": [
+      "who_violences",
+      "labella2018_relations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rel_controle_exerce",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Surveiller ou contrôler un partenaire",
+   "description": "Vérifier son téléphone, limiter ses sorties ou décider de son argent sans son accord.",
+   "examples": [
+    "Exiger de connaître ses codes"
+   ],
+   "safety": null,
+   "overlap_group": "controle_exerce",
+   "links": [
+    {
+     "outcome": "ten_violences_couple",
+     "strength": "critere",
+     "basis": "définition des violences dans le couple (OMS ; CDC)",
+     "summary": "Les comportements de contrôle envers un partenaire font partie des violences dans le couple.",
+     "sources": [
+      "who_violences",
+      "cdc_ipv"
+     ]
+    }
+   ]
+  }
+ ],
+ "links_to_canonical": [
+  {
+   "symptom": "peur_d_etre_abandonne",
+   "outcome": "att_anxieux",
+   "strength": "critere",
+   "basis": "attachement anxieux : stratégies d'hyperactivation (Evraire et al., 2022 ; Finzi-Dottan et Abadi, 2024)",
+   "summary": "Craindre d'être quitté est la préoccupation centrale de l'attachement anxieux.",
+   "sources": [
+    "finzidottan2024",
+    "evraire2022"
+   ]
+  },
+  {
+   "symptom": "peur_d_etre_abandonne",
+   "outcome": "pat_abandonment_fear",
+   "strength": "critere",
+   "basis": "définition de la tendance dans la cartographie, appuyée par Young",
+   "summary": "Cette peur est la manifestation directe de l'inquiétude de perdre le lien.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "peur_d_etre_abandonne",
+   "outcome": "sch_abandon",
+   "strength": "critere",
+   "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+   "summary": "S'attendre à ce que les proches partent définit le schéma d'abandon.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "peur_d_etre_abandonne",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "La peur d'être abandonné sous-tend les efforts pour éviter un départ décrits dans ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "peur_pour_les_proches",
+   "outcome": "pat_abandonment_fear",
+   "strength": "critere",
+   "basis": "définition de la tendance dans la cartographie, appuyée par",
+   "summary": "Redouter d'être loin de ses proches correspond à l'inquiétude liée à la séparation.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "humeur_qui_change_vite",
+   "outcome": "icd_6d11_5",
+   "strength": "critere",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "Une humeur très réactive, qui change en quelques heures, fait partie de ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "colere_qui_deborde",
+   "outcome": "icd_6d11_5",
+   "strength": "critere",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "Des colères intenses et difficiles à contrôler font partie de ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "agir_sur_un_coup_de_tete",
+   "outcome": "icd_6d11_5",
+   "strength": "critere",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "Agir de façon précipitée quand les émotions sont fortes fait partie de ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_faire_du_mal",
+   "outcome": "icd_6d11_5",
+   "strength": "critere",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "Des épisodes répétés où l'on se fait du mal font partie de ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "idees_de_mort",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "Les gestes suicidaires sont cités parmi les épisodes d'autoagression de ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "detachement_irrealite",
+   "outcome": "icd_6d11_5",
+   "strength": "critere",
+   "basis": "CDDR 6D11.5 (motif borderline), manifestation listée dans la description",
+   "summary": "De brefs moments de détachement lors d'émotions intenses font partie de ce motif.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "basis": "CDDR 6D11.5, autres manifestations possibles",
+   "summary": "Une vision de soi comme mauvais ou indigne fait partie des autres manifestations possibles.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_mefier_des_autres",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "basis": "CDDR 6D11.5, autres manifestations possibles",
+   "summary": "Des difficultés à accorder une confiance stable font partie des autres manifestations possibles.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_sentir_seul",
+   "outcome": "icd_6d11_5",
+   "strength": "moderee",
+   "basis": "CDDR 6D11.5, autres manifestations possibles",
+   "summary": "Une solitude envahissante fait partie des autres manifestations possibles.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "critere",
+   "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+   "summary": "La difficulté à garder une valeur de soi stable fait partie du fonctionnement de soi évalué.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "emotions_difficiles_a_apaiser",
+   "outcome": "ten_difficultes_personnalite",
+   "strength": "moderee",
+   "basis": "CDDR 6D10, caractéristique essentielle du trouble de la personnalité (fonctionnement de soi ou interpersonnel)",
+   "summary": "Les difficultés de personnalité se manifestent par des émotions mal régulées.",
+   "sources": [
+    "oms_cddr"
+   ]
+  },
+  {
+   "symptom": "emotions_difficiles_a_apaiser",
+   "outcome": "att_anxieux",
+   "strength": "moderee",
+   "basis": "Evraire et al., 2022 : amplification des émotions négatives",
+   "summary": "Dans l'attachement anxieux, la détresse tend à être amplifiée.",
+   "sources": [
+    "evraire2022"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "att_evitant",
+   "strength": "critere",
+   "basis": "attachement évitant : stratégies de désactivation (Finzi-Dottan et Abadi, 2024 ; Evraire et al., 2022)",
+   "summary": "Réduire l'expression des émotions et prendre ses distances avec elles caractérise ce style.",
+   "sources": [
+    "evraire2022",
+    "finzidottan2024"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "sch_assujettissement",
+   "strength": "critere",
+   "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+   "summary": "Réprimer l'expression de ses émotions, surtout la colère, est la forme « émotions » de ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "ten_codependance",
+   "strength": "critere",
+   "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+   "summary": "La retenue émotionnelle figure dans plusieurs définitions de la codépendance.",
+   "sources": [
+    "molina2026_codependance"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "pat_appeasement",
+   "strength": "moderee",
+   "basis": "réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+   "summary": "Cacher ses vrais sentiments par crainte d'une réaction accompagne l'apaisement.",
+   "sources": [
+    "schwartz_fawn"
+   ]
+  },
+  {
+   "symptom": "mal_a_dire_non",
+   "outcome": "pat_appeasement",
+   "strength": "critere",
+   "basis": "définition de la tendance dans la cartographie, appuyée par réponse d'apaisement (« fawn ») décrite par Schwartz d'après Walker, 2013",
+   "summary": "Accepter pour éviter une tension est la manifestation la plus directe de l'apaisement.",
+   "sources": [
+    "schwartz_fawn"
+   ]
+  },
+  {
+   "symptom": "mal_a_dire_non",
+   "outcome": "sch_assujettissement",
+   "strength": "critere",
+   "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas) ; Young et al., 2003",
+   "summary": "Céder pour éviter colère ou rejet est au cœur de ce schéma.",
+   "sources": [
+    "young_schemas",
+    "young2003"
+   ]
+  },
+  {
+   "symptom": "mal_a_dire_non",
+   "outcome": "pat_conflict",
+   "strength": "moderee",
+   "basis": "définition de la tendance dans la cartographie, appuyée par",
+   "summary": "Dire oui malgré soi évite le désaccord redouté.",
+   "sources": [
+    "young2003"
+   ]
+  },
+  {
+   "symptom": "mal_a_dire_non",
+   "outcome": "ten_codependance",
+   "strength": "moderee",
+   "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+   "summary": "Des limites floues reviennent dans les descriptions de la codépendance.",
+   "sources": [
+    "molina2026_codependance"
+   ]
+  },
+  {
+   "symptom": "culpabilite_excessive",
+   "outcome": "sch_abnegation",
+   "strength": "moderee",
+   "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+   "summary": "La culpabilité d'être égoïste pousse à s'oublier pour les autres.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "culpabilite_excessive",
+   "outcome": "pat_overresponsibility",
+   "strength": "moderee",
+   "basis": "Gazzillo et al., 2026",
+   "summary": "La culpabilité liée à une responsabilité trop large accompagne ce rôle.",
+   "sources": [
+    "gazzillo2026"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "ten_codependance",
+   "strength": "moderee",
+   "basis": "revue intégrative de Molina et al., 2026 : élément récurrent des définitions",
+   "summary": "Une faible estime de soi est souvent rapportée dans la codépendance.",
+   "sources": [
+    "molina2026_codependance"
+   ]
+  },
+  {
+   "symptom": "se_sentir_seul",
+   "outcome": "pat_social_isolation",
+   "strength": "critere",
+   "basis": "définition de la tendance dans la cartographie, appuyée par définitions OMS de la solitude et de l'isolement social",
+   "summary": "Se sentir seul, avec moins de liens que souhaité, définit cette tendance.",
+   "sources": [
+    "who_lien_social"
+   ]
+  },
+  {
+   "symptom": "se_sentir_seul",
+   "outcome": "sch_isolement",
+   "strength": "critere",
+   "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+   "summary": "Se sentir coupé du reste du monde fait partie de ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "pat_social_isolation",
+   "strength": "moderee",
+   "basis": "définitions OMS de la solitude et de l'isolement social",
+   "summary": "Se tenir à l'écart réduit le nombre de contacts et de soutiens.",
+   "sources": [
+    "who_lien_social"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "sch_isolement",
+   "strength": "moderee",
+   "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+   "summary": "Éviter les groupes est la réponse d'évitement décrite pour ce schéma.",
+   "sources": [
+    "young2003"
+   ]
+  },
+  {
+   "symptom": "se_mefier_des_autres",
+   "outcome": "sch_mefiance",
+   "strength": "critere",
+   "basis": "définition de Young (Schema Therapy Institute, liste des 18 schémas)",
+   "summary": "S'attendre à être trompé, utilisé ou blessé définit ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_mefier_des_autres",
+   "outcome": "att_evitant",
+   "strength": "limitee",
+   "basis": "signe fréquent, peu spécifique (Finzi-Dottan et Abadi, 2024)",
+   "summary": "Ce style s'accompagne parfois d'une méfiance envers les intentions des autres.",
+   "sources": [
+    "finzidottan2024"
+   ]
+  },
+  {
+   "symptom": "rester_sur_ses_gardes",
+   "outcome": "sch_mefiance",
+   "strength": "moderee",
+   "basis": "Young et al., 2003, tableau 1.1 (réponses d'adaptation), exemple clinique",
+   "summary": "S'attendre à être blessé incite à rester vigilant et à ne pas se rendre vulnérable.",
+   "sources": [
+    "young2003"
+   ]
+  },
+  {
+   "symptom": "peur_du_jugement",
+   "outcome": "sch_recherche_approbation",
+   "strength": "limitee",
+   "basis": "signe fréquent, peu spécifique",
+   "summary": "Quand l'avis des autres compte beaucoup, leur jugement est redouté.",
+   "sources": [
+    "young_schemas"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "oms_cddr",
+   "type": "classification",
+   "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+   "url": "https://www.who.int/publications/i/item/9789240077263",
+   "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+  },
+  {
+   "id": "young2003",
+   "type": "manuel",
+   "citation": "Young JE, Klosko JS, Weishaar ME, 2003, Schema Therapy: A Practitioner's Guide, Guilford Press, chapitre 1 (styles d'adaptation p. 34-35, tableau 1.1 p. 38-39), extrait de l'éditeur",
+   "url": "https://www.guilford.com/excerpts/young.pdf",
+   "licence": "© Guilford Press ; extrait mis en ligne par l'éditeur, paraphrase seulement"
+  },
+  {
+   "id": "young_schemas",
+   "type": "manuel",
+   "citation": "Young JE, Schema Therapy Institute, Early Maladaptive Schemas (liste et définitions des 18 schémas)",
+   "url": "https://www.schematherapy.com/id73.htm",
+   "licence": "© Schema Therapy Institute ; paraphrase seulement"
+  },
+  {
+   "id": "evraire2022",
+   "type": "etude",
+   "citation": "Evraire LE, Dozois DJA, Wilde JL, 2022, The contribution of attachment styles and reassurance seeking to trust in romantic couples, Europe's Journal of Psychology 18(1):19-39, doi:10.5964/ejop.3059",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8895702/",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "finzidottan2024",
+   "type": "etude",
+   "citation": "Finzi-Dottan R, Abadi H, 2024, From emotional abuse to a fear of intimacy: a preliminary study of the mediating role of attachment styles and rejection sensitivity, International Journal of Environmental Research and Public Health 21(12):1679",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11675676/",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "bretana2022",
+   "type": "etude",
+   "citation": "Bretaña I, Alonso-Arbiol I, Recio P, Molero F, 2022, Avoidant attachment, withdrawal-aggression conflict pattern, and relationship satisfaction: a mediational dyadic model, Frontiers in Psychology 12:794942",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8841843/",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "molina2026_codependance",
+   "type": "revue",
+   "citation": "Molina E, Taiwo A, Grey B, 2026, Co-Dependency Revisited: An Integrative Review of Conceptualisations and Mental Health Outcomes, Clinical Psychology & Psychotherapy 33(2):e70265",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13067074/",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "schwartz_fawn",
+   "type": "manuel",
+   "citation": "Schwartz A, s. d., The fawn response in complex PTSD (présentation clinique du modèle de P. Walker, Complex PTSD: From Surviving to Thriving, 2013)",
+   "url": "https://drarielleschwartz.com/the-fawn-response-in-complex-ptsd-dr-arielle-schwartz",
+   "licence": "© A. Schwartz ; paraphrase seulement"
+  },
+  {
+   "id": "gazzillo2026",
+   "type": "revue",
+   "citation": "Gazzillo F, Fiorenza E, Rodini M, Bush M, 2026, Omnipotent responsibility guilt: theoretical, clinical, and empirical features, Psychodynamic Psychiatry 54(1):76-96",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41849147/",
+   "licence": "résumé PubMed (droits de l'éditeur) ; paraphrase seulement"
+  },
+  {
+   "id": "labella2018_relations",
+   "type": "etude",
+   "citation": "Labella MH, Johnson WF, Martin J, Ruiz SK, Shankman JL, Englund MM, Collins WA, Roisman GI, Simpson JA, 2018, Multiple Dimensions of Childhood Abuse and Neglect Prospectively Predict Poorer Adult Romantic Functioning, Personality and Social Psychology Bulletin 44(2):238-251 (mesures p. 242-243)",
+   "url": "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2018/Labella%2520et%2520al%2520%2528PSPB%252C%25202018%2529.pdf",
+   "licence": "© SAGE ; version auteur, paraphrase seulement"
+  },
+  {
+   "id": "who_lien_social",
+   "type": "manuel",
+   "citation": "OMS, Questions et réponses : Social connection (définitions de l'isolement social et de la solitude, Commission de l'OMS sur le lien social, 2025)",
+   "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection",
+   "licence": "© OMS ; paraphrase seulement"
+  },
+  {
+   "id": "who_violences",
+   "type": "manuel",
+   "citation": "OMS, Fact sheet : Violence against women (définition des violences dans le couple)",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+   "licence": "© OMS ; paraphrase seulement"
+  },
+  {
+   "id": "cdc_ipv",
+   "type": "manuel",
+   "citation": "CDC, Intimate Partner Violence Prevention : About Intimate Partner Violence (types de violences et violences dans les relations amoureuses des adolescents), mise à jour 2026",
+   "url": "https://www.cdc.gov/intimate-partner-violence/about/index.html",
+   "licence": "domaine public (administration fédérale des États-Unis) ; paraphrase"
+  }
+ ]
+}

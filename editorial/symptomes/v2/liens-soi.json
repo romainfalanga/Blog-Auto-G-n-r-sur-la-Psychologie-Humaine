@@ -1,0 +1,2316 @@
+{
+ "domain": "soi",
+ "symptoms": [
+  {
+   "id": "soi_moins_capable_que_les_autres",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Se sentir moins capable que les autres",
+   "description": "Penser que les autres comprennent plus vite, réussissent mieux ou s'en sortent mieux que soi.",
+   "examples": [
+    "Se dire qu'un collègue aurait mieux fait",
+    "Se sentir en retard sur ses amis"
+   ],
+   "safety": null,
+   "overlap_group": "comparaison_capacite",
+   "links": [
+    {
+     "outcome": "sch_echec",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma d'échec)",
+     "summary": "Se croire moins doué que ses pairs est au cœur de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_estime_soi",
+     "strength": "critere",
+     "basis": "Définition du sujet ; Orth et Robins, 2022 (évaluation de sa propre valeur)",
+     "summary": "Se juger moins capable que les autres traduit une estime de soi abîmée.",
+     "sources": [
+      "orth2022_estime"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_attendre_l_echec",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "S'attendre à échouer",
+   "description": "Avant un examen, un entretien ou un projet, être presque sûr que ça ratera.",
+   "examples": [
+    "Ne pas postuler en pensant être refusé"
+   ],
+   "safety": null,
+   "overlap_group": "attente_echec",
+   "links": [
+    {
+     "outcome": "sch_echec",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma d'échec)",
+     "summary": "Ce schéma comprend la conviction qu'on finira par échouer.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "sch_negativite",
+     "strength": "moderee",
+     "basis": "Définition de Young (attendre que les choses tournent mal)",
+     "summary": "Le pessimisme porte souvent aussi sur ses propres projets.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_bilan_d_echec",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Avoir le sentiment d'avoir raté sa vie",
+   "description": "Penser avoir moins bien réussi ses études, son travail ou sa vie que les gens de son âge.",
+   "examples": [
+    "Se sentir en échec à une fête de famille"
+   ],
+   "safety": null,
+   "overlap_group": "bilan_echec",
+   "links": [
+    {
+     "outcome": "sch_echec",
+     "strength": "critere",
+     "basis": "Définition de Young (schéma d'échec : avoir échoué, statut moindre)",
+     "summary": "Ce schéma inclut l'impression d'avoir déjà échoué là où les autres réussissent.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_reussites_minimisees",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Attribuer ses réussites à la chance",
+   "description": "Penser qu'un succès vient de la chance, d'un malentendu ou de l'aide des autres plutôt que de soi.",
+   "examples": [
+    "Dire « j'ai eu de la chance » après une promotion"
+   ],
+   "safety": null,
+   "overlap_group": "attribution_reussite",
+   "links": [
+    {
+     "outcome": "pat_impostor",
+     "strength": "critere",
+     "basis": "Revue parapluie de Gisselbaek et al., 2026 (incapacité à s'attribuer ses réussites)",
+     "summary": "Ne pas parvenir à s'attribuer ses succès est un trait central du sentiment d'imposture.",
+     "sources": [
+      "gisselbaek2026_imposture"
+     ]
+    },
+    {
+     "outcome": "ten_estime_soi",
+     "strength": "moderee",
+     "basis": "Orth et Robins, 2022",
+     "summary": "Une estime de soi fragile rend difficile de reconnaître ses mérites.",
+     "sources": [
+      "orth2022_estime"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_peur_d_etre_demasque",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Craindre d'être démasqué",
+   "description": "Redouter que les autres découvrent qu'on n'est pas aussi compétent qu'ils le croient.",
+   "examples": [
+    "Craindre une question en réunion",
+    "Penser qu'on finira par être découvert"
+   ],
+   "safety": null,
+   "overlap_group": "peur_demasque",
+   "links": [
+    {
+     "outcome": "pat_impostor",
+     "strength": "critere",
+     "basis": "Gisselbaek et al., 2026 (peur d'être découvert comme un imposteur)",
+     "summary": "La peur d'être « démasqué » fait partie de la définition du sentiment d'imposture.",
+     "sources": [
+      "gisselbaek2026_imposture"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_douter_de_ses_competences",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Douter de ses compétences malgré ses réussites",
+   "description": "Se sentir peu légitime alors que diplômes, résultats ou retours montrent qu'on sait faire.",
+   "examples": [
+    "Se croire moins compétent que son poste"
+   ],
+   "safety": null,
+   "overlap_group": "doute_competence",
+   "links": [
+    {
+     "outcome": "pat_impostor",
+     "strength": "critere",
+     "basis": "Gisselbaek et al., 2026 (doute de soi persistant malgré des preuves de compétence)",
+     "summary": "Ce doute qui résiste aux preuves définit le sentiment d'imposture.",
+     "sources": [
+      "gisselbaek2026_imposture"
+     ]
+    },
+    {
+     "outcome": "sch_echec",
+     "strength": "moderee",
+     "basis": "Définition de Young (se croire moins capable)",
+     "summary": "Le doute sur ses capacités rejoint ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_compliments_difficiles",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Avoir du mal à croire les compliments",
+   "description": "Penser qu'un compliment est exagéré ou immérité, ou s'en sentir mal à l'aise.",
+   "examples": [
+    "Répondre « oh, ce n'est rien » à des félicitations"
+   ],
+   "safety": null,
+   "overlap_group": "compliments",
+   "links": [
+    {
+     "outcome": "pat_impostor",
+     "strength": "moderee",
+     "basis": "Gisselbaek et al., 2026 (minimiser ses succès)",
+     "summary": "Écarter les éloges accompagne souvent le sentiment d'imposture.",
+     "sources": [
+      "gisselbaek2026_imposture"
+     ]
+    },
+    {
+     "outcome": "ten_estime_soi",
+     "strength": "moderee",
+     "basis": "Orth et Robins, 2022",
+     "summary": "Les compliments contredisent une image de soi négative et sont alors peu crus.",
+     "sources": [
+      "orth2022_estime"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_mal_a_s_accepter",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Avoir du mal à s'accepter",
+   "description": "Avoir du mal à se respecter ou à se trouver correct tel qu'on est.",
+   "examples": [
+    "Vouloir changer presque tout chez soi"
+   ],
+   "safety": null,
+   "overlap_group": "acceptation_soi",
+   "links": [
+    {
+     "outcome": "ten_estime_soi",
+     "strength": "critere",
+     "basis": "Orth et Robins, 2022 (estime de soi : acceptation et respect de soi)",
+     "summary": "Peu s'accepter correspond à une évaluation négative de sa propre valeur.",
+     "sources": [
+      "orth2022_estime"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_indigne_d_etre_aime",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Se sentir difficile à aimer",
+   "description": "Penser que, si l'on était vraiment connu, on ne serait pas aimé ou on serait rejeté.",
+   "examples": [
+    "Se demander pourquoi son partenaire reste"
+   ],
+   "safety": null,
+   "overlap_group": "indigne_amour",
+   "links": [
+    {
+     "outcome": "sch_imperfection",
+     "strength": "critere",
+     "basis": "Définition de Young (imperfection et honte)",
+     "summary": "Se croire indigne d'amour et craindre le rejet définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_cacher_sa_vraie_personne",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Cacher ce qu'on est vraiment",
+   "description": "Montrer une façade, de peur que les autres s'éloignent s'ils voyaient qui on est.",
+   "examples": [
+    "Ne jamais parler de ses difficultés"
+   ],
+   "safety": null,
+   "overlap_group": "cacher_soi",
+   "links": [
+    {
+     "outcome": "sch_imperfection",
+     "strength": "critere",
+     "basis": "Définition de Young (peur d'être rejeté si le vrai soi était vu)",
+     "summary": "Se cacher protège de la honte attendue si ses défauts étaient vus.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_vulnerable",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (dimension « se cacher » de la vulnérabilité)",
+     "summary": "Dissimuler ses besoins et ses failles fait partie de la vulnérabilité narcissique mesurée.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_se_sentir_tout_petit",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Se sentir tout petit face aux autres",
+   "description": "Se sentir diminué, sans importance ou impuissant devant quelqu'un.",
+   "examples": [
+    "Perdre ses moyens face à un supérieur"
+   ],
+   "safety": null,
+   "overlap_group": "petitesse",
+   "links": [
+    {
+     "outcome": "ten_honte",
+     "strength": "critere",
+     "basis": "Tangney et al., 2007 (honte : se sentir petit, sans valeur, impuissant)",
+     "summary": "Ce sentiment d'être rapetissé est le vécu typique de la honte.",
+     "sources": [
+      "tangney2007_honte_culpabilite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_se_sentir_expose",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Se sentir exposé au regard des autres",
+   "description": "Avoir l'impression que tout le monde voit ses défauts ou ses erreurs.",
+   "examples": [
+    "Rougir en pensant que tout le monde a vu une maladresse"
+   ],
+   "safety": null,
+   "overlap_group": "exposition",
+   "links": [
+    {
+     "outcome": "ten_honte",
+     "strength": "critere",
+     "basis": "Définition du sujet ; Tangney et al., 2007 (impression d'être exposé)",
+     "summary": "Se sentir exposé et jugé accompagne la honte.",
+     "sources": [
+      "tangney2007_honte_culpabilite"
+     ]
+    },
+    {
+     "outcome": "sch_imperfection",
+     "strength": "moderee",
+     "basis": "Définition de Young (gêne et insécurité en présence des autres)",
+     "summary": "La honte de soi rend très conscient du regard d'autrui.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_sensible_a_la_critique",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Être très touché par la critique",
+   "description": "Une remarque ou un reproche, même léger, blesse longtemps ou fait douter de soi.",
+   "examples": [
+    "Repenser toute la soirée à une remarque"
+   ],
+   "safety": null,
+   "overlap_group": "sensibilite_critique",
+   "links": [
+    {
+     "outcome": "sch_imperfection",
+     "strength": "critere",
+     "basis": "Définition de Young (grande sensibilité à la critique et au rejet)",
+     "summary": "Cette sensibilité est décrite comme un signe du schéma d'imperfection.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_vulnerable",
+     "strength": "moderee",
+     "basis": "Pincus et al., 2009 ; Miller et al., 2011",
+     "summary": "La vulnérabilité narcissique s'accompagne d'une grande réactivité aux blessures d'amour-propre.",
+     "sources": [
+      "pincus2009_pni",
+      "miller2011_narcissisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_valeur_selon_reussite",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Se sentir valoir selon ses résultats",
+   "description": "Se sentir quelqu'un de bien quand on réussit, et sans valeur quand on échoue.",
+   "examples": [
+    "Se sentir nul après une mauvaise note"
+   ],
+   "safety": null,
+   "overlap_group": "valeur_conditionnelle",
+   "links": [
+    {
+     "outcome": "pat_conditional_worth",
+     "strength": "critere",
+     "basis": "Crocker et Wolfe, 2001 (valeur de soi misée sur des domaines de réussite)",
+     "summary": "Faire dépendre sa valeur de ses résultats définit ce sujet.",
+     "sources": [
+      "crocker2001_valeur"
+     ]
+    },
+    {
+     "outcome": "pat_perfectionism",
+     "strength": "critere",
+     "basis": "Shafran et al., 2002 (jugement de soi trop dépendant de l'atteinte de ses normes)",
+     "summary": "Cette dépendance de la valeur personnelle aux performances est le noyau du perfectionnisme coûteux.",
+     "sources": [
+      "shafran2002_perfectionnisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_valeur_selon_utilite",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir valoir seulement quand on est utile",
+   "description": "Se sentir légitime surtout quand on aide, rend service ou travaille.",
+   "examples": [
+    "Se sentir inutile un jour de congé"
+   ],
+   "safety": null,
+   "overlap_group": "valeur_utilite",
+   "links": [
+    {
+     "outcome": "pat_conditional_worth",
+     "strength": "critere",
+     "basis": "Définition du sujet ; Crocker et Wolfe, 2001",
+     "summary": "Lier sa valeur à son utilité est l'une des formes décrites de valeur conditionnelle.",
+     "sources": [
+      "crocker2001_valeur"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_valeur_selon_regard",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Avoir besoin d'être approuvé pour se sentir bien",
+   "description": "Se sentir bien quand on est admiré ou approuvé, et vide ou mal sans cette reconnaissance.",
+   "examples": [
+    "Guetter les réactions à une publication"
+   ],
+   "safety": null,
+   "overlap_group": "besoin_reconnaissance",
+   "links": [
+    {
+     "outcome": "pat_conditional_worth",
+     "strength": "critere",
+     "basis": "Crocker et Wolfe, 2001 (approbation d'autrui comme domaine de valeur)",
+     "summary": "Miser sa valeur sur l'approbation des autres est une contingence décrite.",
+     "sources": [
+      "crocker2001_valeur"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_vulnerable",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (estime de soi dépendante de la reconnaissance)",
+     "summary": "Une estime de soi qui dépend de l'admiration reçue est une dimension de la vulnérabilité narcissique.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_estime_qui_varie",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Avoir une confiance en soi qui varie vite",
+   "description": "Passer de la fierté au sentiment d'être nul selon une réussite, un échec ou une remarque.",
+   "examples": [
+    "Se sentir au sommet le matin, nul le soir"
+   ],
+   "safety": null,
+   "overlap_group": "estime_fluctuante",
+   "links": [
+    {
+     "outcome": "pat_conditional_worth",
+     "strength": "critere",
+     "basis": "Crocker et Wolfe, 2001 (l'estime monte et descend avec les succès et échecs)",
+     "summary": "Ces variations suivent les domaines dont on fait dépendre sa valeur.",
+     "sources": [
+      "crocker2001_valeur"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_vulnerable",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (estime de soi contingente)",
+     "summary": "L'estime de soi instable est un trait de la vulnérabilité narcissique.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_se_sentir_superieur",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Se sentir au-dessus des autres",
+   "description": "Penser qu'on est plus doué, plus important ou plus spécial que la plupart des gens.",
+   "examples": [
+    "Trouver les autres lents ou banals"
+   ],
+   "safety": null,
+   "overlap_group": "superiorite",
+   "links": [
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "critere",
+     "basis": "Pincus et Lukowitsky, 2010 ; Miller et al., 2011 (thème de la grandiosité)",
+     "summary": "Une image de soi supérieure est le thème central de la grandiosité.",
+     "sources": [
+      "pincus2010_narcissisme",
+      "miller2011_narcissisme"
+     ]
+    },
+    {
+     "outcome": "sch_droits_excessifs",
+     "strength": "critere",
+     "basis": "Définition de Young (se croire supérieur)",
+     "summary": "Le sentiment de supériorité fait partie de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_reves_de_gloire",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Imaginer souvent des succès éclatants",
+   "description": "Se voir en pensée admiré, célèbre, puissant ou récompensé pour ses exploits.",
+   "examples": [
+    "Imaginer son discours de remerciement"
+   ],
+   "safety": null,
+   "overlap_group": "fantasmes_grandeur",
+   "links": [
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (dimension « fantasmes grandioses »)",
+     "summary": "Ces rêveries de réussite sont une dimension mesurée de la grandiosité.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_traitement_de_faveur",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Attendre un traitement à part",
+   "description": "Penser que les règles communes ne devraient pas s'appliquer à soi, ou mériter plus que les autres.",
+   "examples": [
+    "Mal supporter de faire la queue"
+   ],
+   "safety": null,
+   "overlap_group": "droits_particuliers",
+   "links": [
+    {
+     "outcome": "sch_droits_excessifs",
+     "strength": "critere",
+     "basis": "Définition de Young (privilèges particuliers, hors réciprocité)",
+     "summary": "Se sentir au-dessus des règles de réciprocité définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "moderee",
+     "basis": "Pincus et Lukowitsky, 2010",
+     "summary": "Les attentes de traitement spécial accompagnent la grandiosité.",
+     "sources": [
+      "pincus2010_narcissisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_insister_pour_obtenir",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Insister pour obtenir ce qu'on veut",
+   "description": "Réclamer ce qu'on souhaite même si c'est peu réaliste ou coûteux pour les autres.",
+   "examples": [
+    "Insister jusqu'à ce que l'autre cède"
+   ],
+   "safety": null,
+   "overlap_group": "insister_obtenir",
+   "links": [
+    {
+     "outcome": "sch_droits_excessifs",
+     "strength": "critere",
+     "basis": "Définition de Young (exiger ce qu'on veut sans tenir compte du coût pour autrui)",
+     "summary": "Cette insistance est l'une des formes décrites du schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_vouloir_dominer",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Vouloir toujours avoir le dessus",
+   "description": "Vivre les échanges comme des compétitions, imposer son avis ou décider pour les autres.",
+   "examples": [
+    "Couper la parole pour avoir le dernier mot"
+   ],
+   "safety": null,
+   "overlap_group": "domination",
+   "links": [
+    {
+     "outcome": "sch_droits_excessifs",
+     "strength": "critere",
+     "basis": "Définition de Young (compétition, domination, contrôle des autres)",
+     "summary": "Chercher à dominer sans égard pour les besoins d'autrui fait partie du schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "moderee",
+     "basis": "Pincus et al., 2009 (problèmes relationnels de domination)",
+     "summary": "La grandiosité est associée à des relations plus dominatrices.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_utiliser_les_autres",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Se servir des autres pour arriver à ses fins",
+   "description": "Profiter d'une relation, flatter ou manœuvrer pour obtenir un avantage.",
+   "examples": [
+    "Se rapprocher de quelqu'un pour son réseau"
+   ],
+   "safety": null,
+   "overlap_group": "exploitation",
+   "links": [
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (dimension « exploitation »)",
+     "summary": "Utiliser les autres pour son avantage est une dimension mesurée de la grandiosité.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_aider_pour_etre_admire",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Aider les autres pour être admiré",
+   "description": "Rendre service ou se dévouer en partie pour que l'on reconnaisse sa générosité.",
+   "examples": [
+    "Rappeler à chacun tout ce qu'on a fait"
+   ],
+   "safety": null,
+   "overlap_group": "aide_admiration",
+   "links": [
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (dimension « dévouement qui valorise soi »)",
+     "summary": "Se sacrifier pour être admiré est une dimension mesurée de la grandiosité.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_colere_si_pas_reconnu",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Se fâcher quand on n'est pas reconnu",
+   "description": "Ressentir une colère vive quand on n'est pas servi, écouté ou remercié comme on l'espérait.",
+   "examples": [
+    "S'emporter quand un mérite n'est pas cité"
+   ],
+   "safety": null,
+   "overlap_group": "colere_attente_decue",
+   "links": [
+    {
+     "outcome": "ten_narcissisme_grandiose",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (dimension « colère liée aux droits »)",
+     "summary": "Cette colère quand les attentes ne sont pas comblées est rattachée à la grandiosité dans l'inventaire.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    },
+    {
+     "outcome": "ten_narcissisme_vulnerable",
+     "strength": "moderee",
+     "basis": "Pincus et Lukowitsky, 2010",
+     "summary": "La blessure de ne pas être reconnu peut aussi relever de la vulnérabilité.",
+     "sources": [
+      "pincus2010_narcissisme"
+     ]
+    },
+    {
+     "outcome": "sch_droits_excessifs",
+     "strength": "moderee",
+     "basis": "Définition de Young",
+     "summary": "Ne pas obtenir ce qu'on pense mériter peut déclencher de la colère.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_devaloriser_ceux_qui_decoivent",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Rabaisser ceux qui ont déçu",
+   "description": "Perdre toute estime pour quelqu'un qui n'a pas donné l'attention ou l'admiration espérée.",
+   "examples": [
+    "Juger un ami sans intérêt après un oubli"
+   ],
+   "safety": null,
+   "overlap_group": "devalorisation",
+   "links": [
+    {
+     "outcome": "ten_narcissisme_vulnerable",
+     "strength": "critere",
+     "basis": "Pincus et al., 2009 (dimension « dévalorisation »)",
+     "summary": "Dévaloriser ceux qui déçoivent est une dimension mesurée de la vulnérabilité narcissique.",
+     "sources": [
+      "pincus2009_pni"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_besoin_aide_quotidien",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Avoir besoin d'aide pour le quotidien",
+   "description": "Se sentir dépassé par les papiers, l'argent, les rendez-vous ou les repas sans un proche.",
+   "examples": [
+    "Attendre qu'un proche remplisse un formulaire"
+   ],
+   "safety": null,
+   "overlap_group": "dependance_quotidien",
+   "links": [
+    {
+     "outcome": "sch_dependance",
+     "strength": "critere",
+     "basis": "Définition de Young (dépendance et incompétence)",
+     "summary": "Se croire incapable de gérer seul le quotidien définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_eviter_taches_nouvelles",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Éviter les tâches nouvelles",
+   "description": "Laisser une tâche inconnue à d'autres par crainte de mal la faire seul.",
+   "examples": [
+    "Ne pas oser utiliser un nouvel outil"
+   ],
+   "safety": null,
+   "overlap_group": "nouveautes_evitees",
+   "links": [
+    {
+     "outcome": "sch_dependance",
+     "strength": "critere",
+     "basis": "Définition de Young (difficulté à aborder des tâches nouvelles)",
+     "summary": "Cette réticence face à la nouveauté est décrite dans ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_demander_avis_pour_tout",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Demander l'avis des autres avant d'agir",
+   "description": "Avoir besoin qu'on valide ses choix, même simples, avant d'oser agir.",
+   "examples": [
+    "Appeler quelqu'un avant chaque achat"
+   ],
+   "safety": null,
+   "overlap_group": "decision_dependante",
+   "links": [
+    {
+     "outcome": "sch_dependance",
+     "strength": "critere",
+     "basis": "Définition de Young (difficulté à juger et décider seul)",
+     "summary": "S'appuyer sur autrui pour chaque décision est un signe de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_attendre_peu_d_attention",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "S'attendre à recevoir peu d'attention",
+   "description": "Penser que les proches ne remarqueront pas qu'on va mal ou ne donneront pas l'affection espérée.",
+   "examples": [
+    "Ne rien dire en pensant que personne ne s'en soucie"
+   ],
+   "safety": null,
+   "overlap_group": "carence_attention",
+   "links": [
+    {
+     "outcome": "sch_carence_affective",
+     "strength": "critere",
+     "basis": "Définition de Young (carence de soins et d'affection)",
+     "summary": "S'attendre à manquer d'attention et de chaleur définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_pas_vraiment_ecoute",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Avoir l'impression de ne pas être écouté",
+   "description": "Sentir que les autres ne cherchent pas vraiment à comprendre ce qu'on vit.",
+   "examples": [
+    "Parler et sentir que l'autre pense à autre chose"
+   ],
+   "safety": null,
+   "overlap_group": "carence_empathie",
+   "links": [
+    {
+     "outcome": "sch_carence_affective",
+     "strength": "critere",
+     "basis": "Définition de Young (carence d'empathie)",
+     "summary": "Le manque attendu d'écoute et de compréhension est une forme de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_personne_sur_qui_compter",
+   "canonical": false,
+   "theme": "attachement_proximite",
+   "label": "Sentir qu'on n'a personne sur qui s'appuyer",
+   "description": "Penser que personne ne peut guider, protéger ou conseiller quand c'est difficile.",
+   "examples": [
+    "Tout affronter seul lors d'un coup dur"
+   ],
+   "safety": null,
+   "overlap_group": "carence_protection",
+   "links": [
+    {
+     "outcome": "sch_carence_affective",
+     "strength": "critere",
+     "basis": "Définition de Young (carence de protection)",
+     "summary": "Le manque attendu de soutien solide et de conseils est une forme de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_voir_ce_qui_va_mal",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Remarquer surtout ce qui va mal",
+   "description": "Voir d'abord les problèmes, les pertes ou les risques, et peu ce qui se passe bien.",
+   "examples": [
+    "Retenir le seul défaut d'une belle journée"
+   ],
+   "safety": null,
+   "overlap_group": "biais_negatif",
+   "links": [
+    {
+     "outcome": "sch_negativite",
+     "strength": "critere",
+     "basis": "Définition de Young (attention durable aux aspects négatifs)",
+     "summary": "Se centrer sur le négatif en minimisant le positif définit ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_bonheur_fragile",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Craindre que les bonnes choses ne durent pas",
+   "description": "Quand tout va bien, s'attendre à ce que ça se gâte bientôt.",
+   "examples": [
+    "Profiter peu des vacances en attendant le problème"
+   ],
+   "safety": null,
+   "overlap_group": "attente_retournement",
+   "links": [
+    {
+     "outcome": "sch_negativite",
+     "strength": "critere",
+     "basis": "Définition de Young (s'attendre à ce que ce qui va bien s'effondre)",
+     "summary": "Cette attente que le positif se retourne fait partie du schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_imaginer_le_pire",
+   "canonical": false,
+   "theme": "inquietudes_peurs",
+   "label": "Imaginer les pires suites à un problème",
+   "description": "Penser qu'une erreur ou un ennui va entraîner ruine, humiliation ou perte.",
+   "examples": [
+    "Voir une facture oubliée finir en saisie"
+   ],
+   "safety": null,
+   "overlap_group": "consequences_negatives",
+   "links": [
+    {
+     "outcome": "sch_negativite",
+     "strength": "critere",
+     "basis": "Définition de Young (peur d'erreurs menant à la ruine ou à l'humiliation)",
+     "summary": "Redouter des conséquences graves est décrit dans ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_inferences_negatives",
+     "strength": "critere",
+     "basis": "Gibb et al., 2001 (inférer des conséquences négatives après un événement)",
+     "summary": "Tirer des suites très négatives d'un revers est l'un des trois volets du style étudié.",
+     "sources": [
+      "gibb2001_styles_cognitifs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_cause_durable",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Penser qu'un revers aura des causes durables",
+   "description": "Après un échec, penser que ce qui l'a provoqué sera toujours là.",
+   "examples": [
+    "Se dire « ça sera toujours comme ça »"
+   ],
+   "safety": null,
+   "overlap_group": "attribution_stable",
+   "links": [
+    {
+     "outcome": "ten_inferences_negatives",
+     "strength": "critere",
+     "basis": "Gibb et al., 2001 (attributions stables)",
+     "summary": "Attribuer les difficultés à des causes durables définit ce style d'interprétation.",
+     "sources": [
+      "gibb2001_styles_cognitifs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_revers_qui_gache_tout",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Penser qu'un revers va tout gâcher",
+   "description": "Croire qu'un problème dans un domaine va abîmer le reste de sa vie.",
+   "examples": [
+    "Voir une rupture comme la fin de tout"
+   ],
+   "safety": null,
+   "overlap_group": "attribution_globale",
+   "links": [
+    {
+     "outcome": "ten_inferences_negatives",
+     "strength": "critere",
+     "basis": "Gibb et al., 2001 (attributions globales)",
+     "summary": "Généraliser un revers à toute sa vie définit ce style d'interprétation.",
+     "sources": [
+      "gibb2001_styles_cognitifs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_jugement_global",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Se juger tout entier sur une erreur",
+   "description": "Après un raté, conclure « je suis nul » plutôt que « j'ai raté cette fois ».",
+   "examples": [
+    "Se dire incapable après un oubli"
+   ],
+   "safety": null,
+   "overlap_group": "jugement_global",
+   "links": [
+    {
+     "outcome": "ten_inferences_negatives",
+     "strength": "critere",
+     "basis": "Gibb et al., 2001 (inférer des caractéristiques négatives de soi)",
+     "summary": "Tirer de l'événement une conclusion négative sur soi est un volet du style étudié.",
+     "sources": [
+      "gibb2001_styles_cognitifs"
+     ]
+    },
+    {
+     "outcome": "pat_self_criticism",
+     "strength": "critere",
+     "basis": "Définition du sujet (se juger globalement après une difficulté) ; Gilbert et al., 2004",
+     "summary": "Ce jugement global de soi est la définition même de l'autocritique ici.",
+     "sources": [
+      "gilbert2004_autocritique"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_revenir_sur_ses_erreurs",
+   "canonical": false,
+   "theme": "souvenirs_alerte",
+   "label": "Repenser sans cesse à ses erreurs",
+   "description": "Revenir longtemps sur une maladresse ou un oubli, en se le reprochant.",
+   "examples": [
+    "Rejouer une conversation le soir"
+   ],
+   "safety": null,
+   "overlap_group": "rumination",
+   "links": [
+    {
+     "outcome": "pat_self_criticism",
+     "strength": "critere",
+     "basis": "Gilbert et al., 2004 (s'attarder sur ses erreurs)",
+     "summary": "Ressasser ses erreurs fait partie de la forme d'autocritique décrite.",
+     "sources": [
+      "gilbert2004_autocritique"
+     ]
+    },
+    {
+     "outcome": "pat_perfectionism",
+     "strength": "moderee",
+     "basis": "Shafran et al., 2002",
+     "summary": "Le perfectionnisme entretient l'attention portée aux erreurs.",
+     "sources": [
+      "shafran2002_perfectionnisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_colere_contre_soi",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Ressentir de la colère ou du dégoût envers soi",
+   "description": "S'en vouloir fortement, se détester ou vouloir se rabaisser après un échec.",
+   "examples": [
+    "Se traiter d'idiot à voix haute"
+   ],
+   "safety": null,
+   "overlap_group": "hostilite_soi",
+   "links": [
+    {
+     "outcome": "pat_self_criticism",
+     "strength": "critere",
+     "basis": "Gilbert et al., 2004 (dégoût et haine de soi)",
+     "summary": "Cette hostilité envers soi est la forme la plus pesante d'autocritique décrite.",
+     "sources": [
+      "gilbert2004_autocritique"
+     ]
+    },
+    {
+     "outcome": "sch_punition",
+     "strength": "moderee",
+     "basis": "Définition de Young (colère et dureté envers soi)",
+     "summary": "Ce schéma inclut la colère contre soi quand on faillit.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_mal_a_se_reconforter",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Avoir du mal à se réconforter",
+   "description": "Ne pas savoir se parler avec douceur ou s'encourager quand ça va mal.",
+   "examples": [
+    "Consoler un ami mais pas soi-même"
+   ],
+   "safety": null,
+   "overlap_group": "auto_reconfort",
+   "links": [
+    {
+     "outcome": "pat_self_criticism",
+     "strength": "moderee",
+     "basis": "Gilbert et al., 2004 (capacité à se rassurer, distincte de l'autocritique)",
+     "summary": "Se rassurer protège de l'autocritique ; cette capacité manque souvent.",
+     "sources": [
+      "gilbert2004_autocritique"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_se_punir",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Vouloir se punir après une erreur",
+   "description": "Se priver d'un plaisir ou se traiter durement parce qu'on pense le mériter.",
+   "examples": [
+    "Sauter un repas après une faute"
+   ],
+   "safety": null,
+   "overlap_group": "punition_soi",
+   "links": [
+    {
+     "outcome": "sch_punition",
+     "strength": "critere",
+     "basis": "Définition de Young (les fautes méritent une punition sévère, y compris pour soi)",
+     "summary": "Vouloir se punir traduit directement la conviction de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_mal_a_se_pardonner",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Avoir du mal à se pardonner",
+   "description": "Garder longtemps rancune envers soi, sans tenir compte des circonstances.",
+   "examples": [
+    "S'en vouloir des années pour une erreur"
+   ],
+   "safety": null,
+   "overlap_group": "pardon_soi",
+   "links": [
+    {
+     "outcome": "sch_punition",
+     "strength": "critere",
+     "basis": "Définition de Young (difficulté à pardonner et à tenir compte des circonstances)",
+     "summary": "La difficulté à pardonner fait partie de la définition du schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_guilt",
+     "strength": "moderee",
+     "basis": "Tangney et al., 2007 (culpabilité mêlée de honte et de reproches à soi)",
+     "summary": "Une culpabilité qui ne s'apaise pas freine le pardon envers soi.",
+     "sources": [
+      "tangney2007_honte_culpabilite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_mal_a_excuser_les_autres",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Avoir du mal à excuser les erreurs des autres",
+   "description": "Rester en colère contre quelqu'un qui a failli, sans tenir compte de ses raisons.",
+   "examples": [
+    "Ne pas passer l'éponge sur un retard"
+   ],
+   "safety": null,
+   "overlap_group": "punition_autres",
+   "links": [
+    {
+     "outcome": "sch_punition",
+     "strength": "critere",
+     "basis": "Définition de Young (intolérance et punition envers les autres)",
+     "summary": "Ce schéma vise aussi les autres qui ne sont pas à la hauteur.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_objectifs_tres_eleves",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se fixer des objectifs très élevés",
+   "description": "Viser des résultats si hauts qu'ils sont rarement atteints, même au prix de sa santé.",
+   "examples": [
+    "Travailler tard pour un rendu parfait"
+   ],
+   "safety": null,
+   "overlap_group": "standards_eleves",
+   "links": [
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "critere",
+     "basis": "Définition de Young (normes internes très élevées)",
+     "summary": "Ces normes très hautes sont le cœur du schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_perfectionism",
+     "strength": "critere",
+     "basis": "Shafran et al., 2002 (poursuite de normes exigeantes malgré les coûts)",
+     "summary": "Maintenir des normes très exigeantes malgré leurs effets définit le perfectionnisme coûteux.",
+     "sources": [
+      "shafran2002_perfectionnisme"
+     ]
+    },
+    {
+     "outcome": "ten_mode_parent_exigeant",
+     "strength": "critere",
+     "basis": "Edwards, 2022 (pression pour atteindre des normes trop élevées)",
+     "summary": "Cette pression vers des normes très hautes caractérise le mode exigeant.",
+     "sources": [
+      "edwards2022_modes",
+      "lobbestael2010_smi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_jamais_satisfait",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Trouver un résultat insuffisant même réussi",
+   "description": "Une fois l'objectif atteint, le juger facile et viser plus haut.",
+   "examples": [
+    "Minimiser un examen réussi"
+   ],
+   "safety": null,
+   "overlap_group": "objectif_releve",
+   "links": [
+    {
+     "outcome": "pat_perfectionism",
+     "strength": "critere",
+     "basis": "Shafran et al., 2002 (normes réévaluées comme trop faciles une fois atteintes)",
+     "summary": "Relever la barre après chaque réussite entretient le perfectionnisme.",
+     "sources": [
+      "shafran2002_perfectionnisme"
+     ]
+    },
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "moderee",
+     "basis": "Définition de Young (sous-estimer sa performance)",
+     "summary": "Ce schéma pousse à juger sa performance insuffisante.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_regles_strictes",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Vivre avec beaucoup de « il faut »",
+   "description": "Suivre des règles strictes sur ce qu'il faut faire ou être, avec peu de place pour l'exception.",
+   "examples": [
+    "Se sentir mal si la maison n'est pas rangée"
+   ],
+   "safety": null,
+   "overlap_group": "regles_rigides",
+   "links": [
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "critere",
+     "basis": "Définition de Young (règles rigides, nombreux « il faut »)",
+     "summary": "Les règles rigides sont une forme décrite de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_mode_parent_exigeant",
+     "strength": "critere",
+     "basis": "Edwards, 2022 (exigences et règles intériorisées, « il faut »)",
+     "summary": "Ce mode s'exprime par des règles intériorisées.",
+     "sources": [
+      "edwards2022_modes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_ne_perdre_aucune_minute",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Chercher à ne perdre aucune minute",
+   "description": "Remplir ses journées pour en faire toujours plus, avoir du mal à ralentir.",
+   "examples": [
+    "Faire deux choses à la fois même au repos"
+   ],
+   "safety": null,
+   "overlap_group": "efficacite_temps",
+   "links": [
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "critere",
+     "basis": "Définition de Young (préoccupation pour le temps et l'efficacité)",
+     "summary": "L'obsession du rendement est une forme décrite de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_culpabilite_repos",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir coupable de se reposer",
+   "description": "Avoir du mal à profiter d'un moment libre sans penser à ce qu'on devrait faire.",
+   "examples": [
+    "Ne pas s'asseoir tant que tout n'est pas fini"
+   ],
+   "safety": null,
+   "overlap_group": "repos_difficile",
+   "links": [
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "critere",
+     "basis": "Définition de Young (difficulté à ralentir, plaisir et détente entravés)",
+     "summary": "Ce schéma gâche le repos et le plaisir.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_mode_parent_exigeant",
+     "strength": "critere",
+     "basis": "Lobbestael et al., 2010 (mode mesuré : pas de détente avant d'avoir tout fini)",
+     "summary": "Ne pas s'autoriser le repos tant que tout n'est pas fait est typique de ce mode.",
+     "sources": [
+      "lobbestael2010_smi"
+     ]
+    },
+    {
+     "outcome": "pat_guilt",
+     "strength": "moderee",
+     "basis": "Définition du sujet ; Gazzillo et al., 2026",
+     "summary": "La culpabilité peut porter sur le fait de penser à soi.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_pression_interieure",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Sentir une voix intérieure qui pousse à en faire plus",
+   "description": "Entendre en soi « tu dois », « ce n'est pas assez », même fatigué.",
+   "examples": [
+    "Se dire « encore un effort » à minuit"
+   ],
+   "safety": null,
+   "overlap_group": "pression_interieure",
+   "links": [
+    {
+     "outcome": "ten_mode_parent_exigeant",
+     "strength": "critere",
+     "basis": "Edwards, 2022 (exigences intériorisées qui pressent d'atteindre des normes)",
+     "summary": "Cette voix exigeante intérieure est la description même du mode.",
+     "sources": [
+      "edwards2022_modes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_details_jusqu_au_parfait",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Passer beaucoup de temps sur les détails",
+   "description": "Refaire ou vérifier un travail jusqu'à ce qu'il soit parfait, quitte à le rendre en retard.",
+   "examples": [
+    "Relire dix fois un courriel"
+   ],
+   "safety": null,
+   "overlap_group": "details_perfection",
+   "links": [
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "critere",
+     "basis": "Définition de Young (perfectionnisme : attention excessive aux détails)",
+     "summary": "L'attention excessive aux détails est une forme décrite du schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_perfectionism",
+     "strength": "moderee",
+     "basis": "Shafran et al., 2002",
+     "summary": "Vérifier et refaire est un comportement fréquent dans le perfectionnisme.",
+     "sources": [
+      "shafran2002_perfectionnisme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_juger_severement_les_autres",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Juger sévèrement le travail des autres",
+   "description": "Trouver souvent que les autres ne font pas assez bien et le leur faire remarquer.",
+   "examples": [
+    "Refaire derrière un collègue"
+   ],
+   "safety": null,
+   "overlap_group": "critique_autres",
+   "links": [
+    {
+     "outcome": "sch_exigences_elevees",
+     "strength": "critere",
+     "basis": "Définition de Young (critique dure de soi et des autres)",
+     "summary": "Ce schéma inclut une critique sévère envers les autres.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_responsable_du_bien_etre_des_autres",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir responsable du bien-être des autres",
+   "description": "Penser que si un proche va mal, c'est à soi d'arranger la situation.",
+   "examples": [
+    "Se sentir fautif quand un parent est triste"
+   ],
+   "safety": null,
+   "overlap_group": "responsabilite_autrui",
+   "links": [
+    {
+     "outcome": "pat_guilt",
+     "strength": "critere",
+     "basis": "Gazzillo et al., 2026 ; Tangney et al., 2007 (responsabilité excessive)",
+     "summary": "Se croire responsable de ce qu'on ne contrôle pas est une forme de culpabilité excessive.",
+     "sources": [
+      "gazzillo2026",
+      "tangney2007_honte_culpabilite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_coupable_de_penser_a_soi",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir coupable de penser à soi",
+   "description": "Se sentir égoïste dès qu'on fait passer ses envies ou ses besoins en premier.",
+   "examples": [
+    "S'excuser de prendre une soirée pour soi"
+   ],
+   "safety": null,
+   "overlap_group": "culpabilite_besoins",
+   "links": [
+    {
+     "outcome": "pat_guilt",
+     "strength": "critere",
+     "basis": "Gazzillo et al., 2026 (croyance que penser à soi fera souffrir les proches)",
+     "summary": "Cette culpabilité liée à ses propres besoins est décrite dans la revue.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    },
+    {
+     "outcome": "pat_needs_expression",
+     "strength": "moderee",
+     "basis": "Gazzillo et al., 2026",
+     "summary": "La culpabilité freine l'expression de ses besoins.",
+     "sources": [
+      "gazzillo2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_se_sentir_redevable",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Se sentir redevable longtemps",
+   "description": "Avoir l'impression de devoir rendre sans fin un service ou une aide reçue.",
+   "examples": [
+    "Ne pas oser refuser à quelqu'un qui a aidé"
+   ],
+   "safety": null,
+   "overlap_group": "dette",
+   "links": [
+    {
+     "outcome": "pat_guilt",
+     "strength": "critere",
+     "basis": "Définition du sujet (se sentir redevable au-delà de sa responsabilité) ; Tangney et al., 2007",
+     "summary": "Ce sentiment de dette persistant correspond à la définition du sujet.",
+     "sources": [
+      "tangney2007_honte_culpabilite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_mal_a_savoir_ses_besoins",
+   "canonical": false,
+   "theme": "exigences_culpabilite",
+   "label": "Avoir du mal à savoir ce dont on a besoin",
+   "description": "Ne pas réussir à dire ce qui ferait du bien : repos, aide, calme ou présence.",
+   "examples": [
+    "Répondre « je ne sais pas » à « qu'est-ce qui t'aiderait ? »"
+   ],
+   "safety": null,
+   "overlap_group": "perception_besoins",
+   "links": [
+    {
+     "outcome": "pat_needs_expression",
+     "strength": "critere",
+     "basis": "Définition du sujet (mal percevoir ses besoins) ; Young (assujettissement des besoins)",
+     "summary": "Mal percevoir ce dont on a besoin est la première moitié de la définition.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_ne_pas_demander_aide",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Ne pas oser demander de l'aide",
+   "description": "Se débrouiller seul même épuisé, pour ne pas déranger ou paraître faible.",
+   "examples": [
+    "Porter seul un déménagement"
+   ],
+   "safety": null,
+   "overlap_group": "demande_aide",
+   "links": [
+    {
+     "outcome": "pat_needs_expression",
+     "strength": "critere",
+     "basis": "Définition du sujet (ne pas oser demander)",
+     "summary": "Ne pas oser demander est la seconde moitié de la définition.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_taire_ses_preferences",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Taire ses envies et ses préférences",
+   "description": "Laisser les autres choisir le film, le lieu ou le projet sans dire ce qu'on préfère.",
+   "examples": [
+    "Dire « comme tu veux » par habitude"
+   ],
+   "safety": null,
+   "overlap_group": "preferences_tues",
+   "links": [
+    {
+     "outcome": "pat_needs_expression",
+     "strength": "critere",
+     "basis": "Définition de Young (assujettissement : taire ses préférences et ses désirs)",
+     "summary": "Taire ses préférences empêche d'exprimer ses besoins.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_besoins_des_autres_d_abord",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Faire passer les besoins des autres avant les siens",
+   "description": "S'occuper d'abord des autres, au point de laisser ses propres besoins de côté.",
+   "examples": [
+    "Annuler son rendez-vous médical pour aider"
+   ],
+   "safety": null,
+   "overlap_group": "sacrifice_soi",
+   "links": [
+    {
+     "outcome": "pat_needs_expression",
+     "strength": "moderee",
+     "basis": "Définition de Young (abnégation au détriment de ses besoins)",
+     "summary": "L'abnégation laisse ses propres besoins sans réponse.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "pat_guilt",
+     "strength": "moderee",
+     "basis": "Gazzillo et al., 2026 ; Young (éviter la culpabilité d'être égoïste)",
+     "summary": "Se sacrifier sert parfois à éviter de se sentir coupable.",
+     "sources": [
+      "gazzillo2026",
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_preoccupe_par_un_defaut",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Être préoccupé par un défaut physique",
+   "description": "Penser longtemps chaque jour à un détail du visage ou du corps que les autres remarquent peu.",
+   "examples": [
+    "Penser des heures à la forme de son nez"
+   ],
+   "safety": null,
+   "overlap_group": "preoccupation_defaut",
+   "links": [
+    {
+     "outcome": "ten_preoccupation_apparence",
+     "strength": "critere",
+     "basis": "Définition du sujet ; description CIM-11 MMS 6B21 (paraphrase)",
+     "summary": "Cette préoccupation pour un défaut peu visible définit le sujet.",
+     "sources": [
+      "icd11_mms",
+      "longobardi2022_dysmorphie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_verifier_son_apparence",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Vérifier souvent son apparence",
+   "description": "Se regarder souvent dans un miroir, une vitre ou sur des photos pour contrôler un détail.",
+   "examples": [
+    "Vérifier sa peau dans chaque reflet"
+   ],
+   "safety": null,
+   "overlap_group": "verification_apparence",
+   "links": [
+    {
+     "outcome": "ten_preoccupation_apparence",
+     "strength": "critere",
+     "basis": "Définition du sujet ; description CIM-11 MMS 6B21 (vérifications répétées)",
+     "summary": "Les vérifications répétées font partie de la définition du sujet.",
+     "sources": [
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_cacher_un_defaut",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Cacher un détail de son apparence",
+   "description": "Le masquer par du maquillage, une coiffure, un vêtement ou une posture.",
+   "examples": [
+    "Garder une casquette même à l'intérieur"
+   ],
+   "safety": null,
+   "overlap_group": "camouflage",
+   "links": [
+    {
+     "outcome": "ten_preoccupation_apparence",
+     "strength": "critere",
+     "basis": "Description CIM-11 MMS 6B21 (efforts pour cacher ou modifier le défaut)",
+     "summary": "Chercher à cacher le défaut accompagne cette préoccupation.",
+     "sources": [
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_croire_que_les_autres_remarquent",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Penser que les autres remarquent son défaut",
+   "description": "Croire qu'on regarde, juge ou commente ce détail physique.",
+   "examples": [
+    "Penser qu'on rit de son apparence dans le bus"
+   ],
+   "safety": null,
+   "overlap_group": "reference_apparence",
+   "links": [
+    {
+     "outcome": "ten_preoccupation_apparence",
+     "strength": "moderee",
+     "basis": "Description CIM-11 MMS 6B21 (gêne et impression d'être remarqué)",
+     "summary": "Cette impression d'être observé accompagne souvent la préoccupation.",
+     "sources": [
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_comparer_son_apparence",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Comparer souvent son apparence à celle des autres",
+   "description": "Examiner le visage ou le corps des autres pour se comparer, souvent à son désavantage.",
+   "examples": [
+    "Comparer sa silhouette sur les réseaux"
+   ],
+   "safety": null,
+   "overlap_group": "comparaison_apparence",
+   "links": [
+    {
+     "outcome": "ten_preoccupation_apparence",
+     "strength": "moderee",
+     "basis": "Description CIM-11 MMS 6B21 (comportements répétés liés au défaut)",
+     "summary": "Se comparer entretient la préoccupation pour l'apparence.",
+     "sources": [
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_eviter_d_etre_vu",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Éviter d'être vu à cause de son apparence",
+   "description": "Refuser photos, sorties ou lumière vive par gêne pour un détail physique.",
+   "examples": [
+    "Couper la caméra en visioconférence"
+   ],
+   "safety": null,
+   "overlap_group": "evitement_apparence",
+   "links": [
+    {
+     "outcome": "ten_preoccupation_apparence",
+     "strength": "moderee",
+     "basis": "Description CIM-11 MMS 6B21 (évitement de situations sociales)",
+     "summary": "L'évitement est une conséquence fréquente de cette préoccupation.",
+     "sources": [
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_chercher_emploi_longtemps",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Chercher du travail longtemps sans en trouver",
+   "description": "Avoir passé plusieurs mois à chercher un emploi sans en obtenir.",
+   "examples": [
+    "Enchaîner les candidatures sans réponse"
+   ],
+   "safety": null,
+   "overlap_group": "recherche_emploi",
+   "links": [
+    {
+     "outcome": "ten_difficultes_professionnelles",
+     "strength": "critere",
+     "basis": "Définition du sujet ; Currie et Widom, 2010 (emploi mesuré à l'âge adulte)",
+     "summary": "Peiner à trouver un emploi correspond à la définition du sujet.",
+     "sources": [
+      "currie2010",
+      "brimblecombe2018_emploi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_emplois_qui_s_arretent",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Voir plusieurs emplois s'arrêter vite",
+   "description": "Avoir eu plusieurs postes interrompus : fin d'essai, licenciement ou départ.",
+   "examples": [
+    "Quitter un poste après quelques semaines"
+   ],
+   "safety": null,
+   "overlap_group": "instabilite_emploi",
+   "links": [
+    {
+     "outcome": "ten_difficultes_professionnelles",
+     "strength": "critere",
+     "basis": "Définition du sujet (garder un emploi stable)",
+     "summary": "Des emplois qui s'arrêtent souvent traduisent la difficulté à garder un poste stable.",
+     "sources": [
+      "currie2010"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soi_manquer_d_argent",
+   "canonical": false,
+   "theme": "image_soi",
+   "label": "Manquer d'argent pour l'essentiel",
+   "description": "Avoir du mal à payer le loyer, la nourriture ou les factures avec ses revenus.",
+   "examples": [
+    "Repousser une facture faute d'argent"
+   ],
+   "safety": null,
+   "overlap_group": "revenus_insuffisants",
+   "links": [
+    {
+     "outcome": "ten_difficultes_professionnelles",
+     "strength": "critere",
+     "basis": "Définition du sujet ; Currie et Widom, 2010 ; Brimblecombe et al., 2018 (revenus, épargne)",
+     "summary": "Des revenus insuffisants font partie de la définition du sujet.",
+     "sources": [
+      "currie2010",
+      "brimblecombe2018_emploi"
+     ]
+    }
+   ]
+  }
+ ],
+ "links_to_canonical": [
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "ten_estime_soi",
+   "strength": "critere",
+   "basis": "Orth et Robins, 2022 (évaluation de sa valeur personnelle)",
+   "summary": "Une opinion négative de soi définit une estime de soi fragilisée.",
+   "sources": [
+    "orth2022_estime"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "sch_imperfection",
+   "strength": "critere",
+   "basis": "Définition de Young (se sentir inférieur, mauvais)",
+   "summary": "Se sentir moins digne que les autres est au cœur de ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "pat_self_criticism",
+   "strength": "critere",
+   "basis": "Gilbert et al., 2004 (sentiment d'insuffisance)",
+   "summary": "Le sentiment d'être insuffisant fait partie de la forme d'autocritique décrite.",
+   "sources": [
+    "gilbert2004_autocritique"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "sch_echec",
+   "strength": "moderee",
+   "basis": "Définition de Young",
+   "summary": "Le sentiment d'échec abîme la valeur qu'on s'accorde.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_sentir_sans_valeur",
+   "outcome": "ten_honte",
+   "strength": "moderee",
+   "basis": "Tangney et al., 2007 (honte : se sentir sans valeur)",
+   "summary": "La honte s'accompagne souvent d'un sentiment de ne rien valoir.",
+   "sources": [
+    "tangney2007_honte_culpabilite"
+   ]
+  },
+  {
+   "symptom": "honte_de_soi",
+   "outcome": "ten_honte",
+   "strength": "critere",
+   "basis": "Tangney et al., 2007 (honte : jugement négatif de soi tout entier, envie de se cacher)",
+   "summary": "Avoir honte de soi est la définition même du sujet.",
+   "sources": [
+    "tangney2007_honte_culpabilite"
+   ]
+  },
+  {
+   "symptom": "honte_de_soi",
+   "outcome": "sch_imperfection",
+   "strength": "critere",
+   "basis": "Définition de Young (imperfection et honte)",
+   "summary": "La honte de ses défauts définit ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "honte_de_soi",
+   "outcome": "ten_estime_soi",
+   "strength": "moderee",
+   "basis": "Orth et Robins, 2022",
+   "summary": "La honte de soi accompagne souvent une estime de soi basse.",
+   "sources": [
+    "orth2022_estime"
+   ]
+  },
+  {
+   "symptom": "honte_de_soi",
+   "outcome": "ten_narcissisme_vulnerable",
+   "strength": "moderee",
+   "basis": "Pincus et al., 2009 (lien positif avec la honte)",
+   "summary": "La vulnérabilité narcissique est associée à davantage de honte.",
+   "sources": [
+    "pincus2009_pni"
+   ]
+  },
+  {
+   "symptom": "culpabilite_excessive",
+   "outcome": "pat_guilt",
+   "strength": "critere",
+   "basis": "Définition du sujet ; Tangney et al., 2007 (culpabilité mêlée de honte ou de responsabilité excessive)",
+   "summary": "Se sentir fautif au-delà de sa responsabilité définit le sujet.",
+   "sources": [
+    "tangney2007_honte_culpabilite"
+   ]
+  },
+  {
+   "symptom": "se_critiquer_durement",
+   "outcome": "pat_self_criticism",
+   "strength": "critere",
+   "basis": "Gilbert et al., 2004 (se critiquer, se sentir inadéquat)",
+   "summary": "Se parler durement après une erreur est la forme principale d'autocritique.",
+   "sources": [
+    "gilbert2004_autocritique"
+   ]
+  },
+  {
+   "symptom": "se_critiquer_durement",
+   "outcome": "sch_exigences_elevees",
+   "strength": "critere",
+   "basis": "Définition de Young (hypercritique envers soi)",
+   "summary": "Ce schéma associe normes élevées et critique dure de soi.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_critiquer_durement",
+   "outcome": "pat_perfectionism",
+   "strength": "critere",
+   "basis": "Shafran et al., 2002 (autocritique quand la norme n'est pas atteinte)",
+   "summary": "L'autocritique après un échec entretient le perfectionnisme.",
+   "sources": [
+    "shafran2002_perfectionnisme"
+   ]
+  },
+  {
+   "symptom": "se_critiquer_durement",
+   "outcome": "sch_punition",
+   "strength": "moderee",
+   "basis": "Définition de Young (dureté envers soi)",
+   "summary": "La sévérité envers soi rejoint la conviction qu'une erreur doit être punie.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_critiquer_durement",
+   "outcome": "ten_mode_parent_exigeant",
+   "strength": "moderee",
+   "basis": "Edwards, 2022",
+   "summary": "Le mode exigeant peut s'accompagner de critiques envers soi.",
+   "sources": [
+    "edwards2022_modes"
+   ]
+  },
+  {
+   "symptom": "pensees_en_boucle",
+   "outcome": "pat_self_criticism",
+   "strength": "limitee",
+   "basis": "Gilbert et al., 2004",
+   "summary": "Ressasser est fréquent mais peu spécifique de l'autocritique.",
+   "sources": [
+    "gilbert2004_autocritique"
+   ]
+  },
+  {
+   "symptom": "pensees_en_boucle",
+   "outcome": "ten_inferences_negatives",
+   "strength": "limitee",
+   "basis": "Gibb et al., 2001",
+   "summary": "Les pensées qui tournent accompagnent souvent les interprétations négatives, sans leur être propres.",
+   "sources": [
+    "gibb2001_styles_cognitifs"
+   ]
+  },
+  {
+   "symptom": "desespoir_avenir",
+   "outcome": "ten_inferences_negatives",
+   "strength": "moderee",
+   "basis": "Gibb et al., 2001 (ce style conduit au désespoir)",
+   "summary": "Ce style d'interprétation est décrit comme menant au désespoir.",
+   "sources": [
+    "gibb2001_styles_cognitifs"
+   ]
+  },
+  {
+   "symptom": "desespoir_avenir",
+   "outcome": "sch_negativite",
+   "strength": "moderee",
+   "basis": "Définition de Young (pessimisme)",
+   "summary": "Voir l'avenir sombre prolonge le pessimisme de ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "inquietude_difficile_a_arreter",
+   "outcome": "sch_negativite",
+   "strength": "moderee",
+   "basis": "Définition de Young (inquiétude chronique)",
+   "summary": "Ce schéma s'accompagne souvent d'inquiétude chronique.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "difficultes_a_decider",
+   "outcome": "sch_dependance",
+   "strength": "critere",
+   "basis": "Définition de Young (difficulté à prendre des décisions seul)",
+   "summary": "La difficulté à décider fait partie de la définition du schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "difficultes_a_decider",
+   "outcome": "sch_negativite",
+   "strength": "moderee",
+   "basis": "Définition de Young (indécision)",
+   "summary": "La peur qu'un choix tourne mal entraîne souvent de l'indécision.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "peur_du_jugement",
+   "outcome": "ten_honte",
+   "strength": "moderee",
+   "basis": "Tangney et al., 2007 (sentiment d'être exposé à la désapprobation)",
+   "summary": "La crainte d'être jugé accompagne la honte.",
+   "sources": [
+    "tangney2007_honte_culpabilite"
+   ]
+  },
+  {
+   "symptom": "peur_du_jugement",
+   "outcome": "sch_imperfection",
+   "strength": "moderee",
+   "basis": "Définition de Young (gêne en présence des autres)",
+   "summary": "Ce schéma rend très sensible au regard d'autrui.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "peur_du_jugement",
+   "outcome": "pat_impostor",
+   "strength": "moderee",
+   "basis": "Gisselbaek et al., 2026 (peur de l'évaluation)",
+   "summary": "La peur d'être évalué est mesurée dans le sentiment d'imposture.",
+   "sources": [
+    "gisselbaek2026_imposture"
+   ]
+  },
+  {
+   "symptom": "mal_a_dire_non",
+   "outcome": "pat_needs_expression",
+   "strength": "moderee",
+   "basis": "Définition de Young (assujettissement)",
+   "summary": "Céder pour éviter le conflit empêche d'exprimer ses besoins.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "garder_ses_emotions_pour_soi",
+   "outcome": "pat_needs_expression",
+   "strength": "moderee",
+   "basis": "Définition de Young (assujettissement des émotions)",
+   "summary": "Taire ses émotions rend ses besoins invisibles aux autres.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_sentir_seul",
+   "outcome": "sch_carence_affective",
+   "strength": "critere",
+   "basis": "Définition de Young (manque attendu d'affection et de compréhension)",
+   "summary": "Se sentir seul et incompris correspond au cœur de ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "ten_narcissisme_vulnerable",
+   "strength": "moderee",
+   "basis": "Pincus et al., 2009 (problèmes relationnels d'évitement social)",
+   "summary": "La vulnérabilité narcissique est associée à un retrait social.",
+   "sources": [
+    "pincus2009_pni"
+   ]
+  },
+  {
+   "symptom": "se_retirer_des_autres",
+   "outcome": "ten_honte",
+   "strength": "moderee",
+   "basis": "Tangney et al., 2007 (la honte pousse à se retirer)",
+   "summary": "La honte pousse souvent à s'éloigner des autres.",
+   "sources": [
+    "tangney2007_honte_culpabilite"
+   ]
+  },
+  {
+   "symptom": "colere_qui_deborde",
+   "outcome": "ten_narcissisme_grandiose",
+   "strength": "limitee",
+   "basis": "Pincus et al., 2009 (lien avec l'agressivité)",
+   "summary": "Des colères fortes sont associées à la grandiosité mais restent peu spécifiques.",
+   "sources": [
+    "pincus2009_pni"
+   ]
+  },
+  {
+   "symptom": "tristesse_persistante",
+   "outcome": "ten_estime_soi",
+   "strength": "limitee",
+   "basis": "Sowislo et Orth, 2013 (une estime de soi basse prédit la dépression)",
+   "summary": "La tristesse accompagne souvent une estime de soi basse, sans lui être propre.",
+   "sources": [
+    "sowislo2013_estime"
+   ]
+  },
+  {
+   "symptom": "se_faire_du_mal",
+   "outcome": "pat_self_criticism",
+   "strength": "moderee",
+   "basis": "Gilbert et al., 2004 (vouloir se faire du mal après un échec)",
+   "summary": "Une forme d'autocritique vise à se blesser ; elle est décrite comme la plus nocive.",
+   "sources": [
+    "gilbert2004_autocritique"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "young_schemas",
+   "type": "manuel",
+   "citation": "Young JE, Schema Therapy Institute, Early Maladaptive Schemas (liste et définitions des 18 schémas)",
+   "url": "https://www.schematherapy.com/id73.htm",
+   "licence": "Page web protégée par le droit d'auteur : définitions résumées par paraphrase courte, citation de la source"
+  },
+  {
+   "id": "edwards2022_modes",
+   "type": "revue",
+   "citation": "Edwards DJA, 2022, Using schema modes for case conceptualization in schema therapy: an applied clinical approach, Frontiers in Psychology 12:763670",
+   "url": "https://doi.org/10.3389/fpsyg.2021.763670",
+   "licence": "CC BY 4.0 (Frontiers, accès libre) ; paraphrase et citation"
+  },
+  {
+   "id": "lobbestael2010_smi",
+   "type": "etude",
+   "citation": "Lobbestael J, van Vreeswijk M, Spinhoven P, Schouten E, Arntz A, 2010, Reliability and validity of the short Schema Mode Inventory (SMI), Behavioural and Cognitive Psychotherapy 38(4):437-458",
+   "url": "https://doi.org/10.1017/S1352465810000226",
+   "licence": "Droits réservés (Cambridge University Press) ; items non recopiés, contenu résumé"
+  },
+  {
+   "id": "pincus2009_pni",
+   "type": "etude",
+   "citation": "Pincus AL, Ansell EB, Pimentel CA, Cain NM, Wright AGC, Levy KN, 2009, Initial construction and validation of the Pathological Narcissism Inventory, Psychological Assessment 21(3):365-379",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19719348/",
+   "licence": "Résumé PubMed (Copyright APA) ; dimensions résumées, items non recopiés"
+  },
+  {
+   "id": "pincus2010_narcissisme",
+   "type": "revue",
+   "citation": "Pincus AL, Lukowitsky MR, 2010, Pathological narcissism and narcissistic personality disorder, Annual Review of Clinical Psychology 6:421-446",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20001728/",
+   "licence": "Résumé PubMed (droits réservés Annual Reviews) ; paraphrase et citation"
+  },
+  {
+   "id": "miller2011_narcissisme",
+   "type": "etude",
+   "citation": "Miller JD, Hoffman BJ, Gaughan ET, Gentile B, Maples J, Campbell WK, 2011, Grandiose and vulnerable narcissism: a nomological network analysis, Journal of Personality 79(5):1013-1042",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21204843/",
+   "licence": "Résumé PubMed (droits réservés Wiley) ; paraphrase et citation"
+  },
+  {
+   "id": "gilbert2004_autocritique",
+   "type": "etude",
+   "citation": "Gilbert P, Clarke M, Hempel S, Miles JNV, Irons C, 2004, Criticizing and reassuring oneself: an exploration of forms, styles and reasons in female students, British Journal of Clinical Psychology 43(1):31-50",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15005905/",
+   "licence": "Résumé PubMed (droits réservés BPS/Wiley) ; items de l'échelle non recopiés"
+  },
+  {
+   "id": "shafran2002_perfectionnisme",
+   "type": "revue",
+   "citation": "Shafran R, Cooper Z, Fairburn CG, 2002, Clinical perfectionism: a cognitive-behavioural analysis, Behaviour Research and Therapy 40(7):773-791",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12074372/",
+   "licence": "Résumé PubMed (droits réservés Elsevier) ; paraphrase et citation"
+  },
+  {
+   "id": "crocker2001_valeur",
+   "type": "revue",
+   "citation": "Crocker J, Wolfe CT, 2001, Contingencies of self-worth, Psychological Review 108(3):593-623",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11488379/",
+   "licence": "Résumé PubMed (Copyright APA) ; paraphrase et citation"
+  },
+  {
+   "id": "tangney2007_honte_culpabilite",
+   "type": "revue",
+   "citation": "Tangney JP, Stuewig J, Mashek DJ, 2007, Moral emotions and moral behavior, Annual Review of Psychology 58:345-372",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/",
+   "licence": "Manuscrit d'auteur NIH (PMC), droits réservés ; paraphrase et citation"
+  },
+  {
+   "id": "gazzillo2026",
+   "type": "revue",
+   "citation": "Gazzillo F, Fiorenza E, Rodini M, Bush M, 2026, Omnipotent responsibility guilt: theoretical, clinical, and empirical features, Psychodynamic Psychiatry 54(1):76-96",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41849147/",
+   "licence": "Résumé PubMed (droits réservés Guilford) ; paraphrase et citation"
+  },
+  {
+   "id": "orth2022_estime",
+   "type": "revue",
+   "citation": "Orth U, Robins RW, 2022, Is high self-esteem beneficial? Revisiting a classic question, American Psychologist 77(1):5-17",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9306298/",
+   "licence": "Manuscrit d'auteur NIH (PMC), Copyright APA ; définition paraphrasée"
+  },
+  {
+   "id": "sowislo2013_estime",
+   "type": "revue",
+   "citation": "Sowislo JF, Orth U, 2013, Does low self-esteem predict depression and anxiety? A meta-analysis of longitudinal studies, Psychological Bulletin 139(1):213-240",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22730921/",
+   "licence": "Résumé PubMed (Copyright APA) ; paraphrase et citation"
+  },
+  {
+   "id": "gibb2001_styles_cognitifs",
+   "type": "etude",
+   "citation": "Gibb BE, Alloy LB, Abramson LY, Rose DT, Whitehouse WG, Donovan P, Hogan ME, Cronholm J, Tierney S, 2001, History of childhood maltreatment, negative cognitive styles, and episodes of depression in adulthood, Cognitive Therapy and Research 25(4):425-446",
+   "url": "https://www.binghamton.edu/psychology/labs/mood/pdfs/2001_gibb_cogstyles_dep.pdf",
+   "licence": "Article Springer, droits réservés (copie d'auteur) ; définition du style cognitif paraphrasée"
+  },
+  {
+   "id": "gisselbaek2026_imposture",
+   "type": "revue",
+   "citation": "Gisselbaek M, Seyour M, Saxena S, Berger-Estilita J, LaDonna KA, Elia N, Savoldelli GL, 2026 [en ligne 2025], Rethinking the impostor phenomenon: an umbrella review of concept, context and interventions, Medical Education 60(6):607-624",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129615/",
+   "licence": "Accès libre (PMC) ; paraphrase et citation"
+  },
+  {
+   "id": "icd11_mms",
+   "type": "classification",
+   "citation": "OMS, Classification internationale des maladies, 11e révision (CIM-11), statistiques de mortalité et de morbidité (MMS), version 2026-01, chapitre 06",
+   "url": "https://icd.who.int/browse/2026-01/mms/fr",
+   "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
+  },
+  {
+   "id": "longobardi2022_dysmorphie",
+   "type": "revue",
+   "citation": "Longobardi C, Badenes-Ribera L, Fabris MA, 2022, Adverse childhood experiences and body dysmorphic symptoms: a meta-analysis, Body Image 40:267-284",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35085863/",
+   "licence": "Résumé PubMed (droits réservés Elsevier) ; paraphrase et citation"
+  },
+  {
+   "id": "currie2010",
+   "type": "etude",
+   "citation": "Currie J, Widom CS, 2010, Long-term consequences of child abuse and neglect on adult economic well-being, Child Maltreatment 15(2):111-120",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20425881/",
+   "licence": "Résumé PubMed ; texte intégral PMC3571659 (manuscrit d'auteur) ; paraphrase et citation"
+  },
+  {
+   "id": "brimblecombe2018_emploi",
+   "type": "etude",
+   "citation": "Brimblecombe N, Evans-Lacko S, Knapp M, King D, Takizawa R, Maughan B, Arseneault L, 2018, Long term economic impact associated with childhood bullying victimisation, Social Science & Medicine 208:134-141",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29803971/",
+   "licence": "Résumé PubMed (droits réservés Elsevier) ; paraphrase et citation"
+  }
+ ]
+}

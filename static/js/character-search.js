@@ -95,21 +95,39 @@
   var engine = { normalize: normalize, concepts: concepts, prepare: prepare, search: search };
   if (typeof module !== 'undefined' && module.exports) module.exports = engine;
   if (!root.document) return;
-  var input = document.getElementById('character-search'), index = document.getElementById('character-search-index');
-  if (!input || !index) return;
-  var entries = prepare(JSON.parse(index.textContent)), grid = document.getElementById('character-results');
+  var input = document.getElementById('character-search'), index = document.getElementById('character-search-index'), config = document.getElementById('character-search-config');
+  if (!input || (!index && !config)) return;
+  var grid = document.getElementById('character-results'), entries = null, loading = null;
   var cards = new Map(Array.from(grid.querySelectorAll('[data-character-id]')).map(function (card) { return [card.dataset.characterId, card]; }));
   var clear = document.getElementById('character-search-clear');
   function update() {
-    var query=input.value.trim(), results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
+    var query=input.value.trim();
+    clear.hidden=!query;
+    // Until the index has arrived, every card stays visible and the server count stays true.
+    if (!entries) { if (query) load(); return; }
+    var results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
     cards.forEach(function(card,id){card.hidden=!shown.has(id);});
     results.forEach(function(r){var card=cards.get(r.entry.id);if(card)grid.append(card);});
     document.getElementById('character-count').textContent=results.length+' personnage'+(results.length>1?'s':'')+(query?' pour cette recherche':'');
     document.getElementById('character-search-empty').hidden=!!results.length;
-    clear.hidden=!query;
   }
+  // Lot P: the index is a separate content-addressed file, read on the first focus or keystroke.
+  function load() {
+    if (entries || loading) return loading;
+    var source;
+    try { source = JSON.parse(config.textContent).index; } catch (e) { source = null; }
+    if (!source || typeof root.fetch !== 'function') return null;
+    loading = root.fetch(source, { credentials: 'same-origin' }).then(function (response) {
+      if (!response.ok) throw new Error('index ' + response.status);
+      return response.json();
+    }).then(function (data) { entries = prepare(data); update(); }, function () { loading = null; });
+    return loading;
+  }
+  if (index) entries = prepare(JSON.parse(index.textContent));
+  input.addEventListener('focus',load);
   input.addEventListener('input',update);
   input.addEventListener('keydown',function(e){if(e.key==='Escape'||e.key==='Enter')e.preventDefault();});
   clear.addEventListener('click',function(){input.value='';update();input.focus();});
-  update();
+  // A query restored by the browser (back navigation) is applied as soon as the index arrives.
+  if (entries || input.value.trim()) update();
 })(typeof window !== 'undefined' ? window : {});

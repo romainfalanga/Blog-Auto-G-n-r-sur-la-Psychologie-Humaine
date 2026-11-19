@@ -1,0 +1,2965 @@
+{
+ "domain": "comportements",
+ "symptoms": [
+  {
+   "id": "cmp_alcool_du_mal_a_limiter",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir du mal à limiter l'alcool",
+   "description": "Boire plus, plus souvent ou plus longtemps que prévu, ou ne pas réussir à réduire quand on le décide.",
+   "examples": [
+    "Prévoir un verre et en boire cinq",
+    "Promettre une semaine sans alcool et craquer"
+   ],
+   "safety": null,
+   "overlap_group": "perte_controle",
+   "links": [
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "critere",
+     "basis": "CDDR 6C40.2, caractéristique essentielle (contrôle altéré de l'usage)",
+     "summary": "Perdre la main sur la quantité ou le moment de boire est un signe central de la dépendance à l'alcool.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "critere",
+     "basis": "définition du repère (usage difficile à contrôler) ; CDDR 6C40",
+     "summary": "Un usage d'alcool difficile à contrôler fait partie de ce que recouvre ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_alcool_passe_avant",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Laisser l'alcool passer avant le reste",
+   "description": "Boire prend une place croissante, au détriment des activités, des obligations, des proches ou de la santé.",
+   "examples": [
+    "Renoncer à une sortie où l'on ne pourra pas boire"
+   ],
+   "safety": null,
+   "overlap_group": "priorite_activite",
+   "links": [
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "critere",
+     "basis": "CDDR 6C40.2, caractéristique essentielle (priorité croissante de l'usage)",
+     "summary": "Quand l'alcool passe avant le reste, c'est l'un des signes qui définissent la dépendance.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C40, caractéristique de la dépendance",
+     "summary": "Cette place croissante accompagne souvent un usage devenu problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_alcool_grandes_quantites",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Boire beaucoup en une même occasion",
+   "description": "Boire de grandes quantités en peu de temps, jusqu'à être ivre ou ne plus se souvenir de la soirée.",
+   "examples": [
+    "Enchaîner les verres en soirée",
+    "Avoir des trous de mémoire le lendemain"
+   ],
+   "safety": null,
+   "overlap_group": "consommation_risquee",
+   "links": [
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "critere",
+     "basis": "définition du repère (usage risqué) ; CDDR 6C40.0–6C40.1 (usage dangereux ou nocif)",
+     "summary": "Les fortes quantités en une fois sont une forme d'usage risqué décrite par la CIM-11.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "moderee",
+     "basis": "CDDR 6C40, caractéristique associée",
+     "summary": "Ces épisodes sont fréquents chez les personnes dépendantes, sans suffire à définir la dépendance.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_cannabis_du_mal_a_limiter",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir du mal à limiter le cannabis",
+   "description": "Fumer ou consommer du cannabis plus souvent ou en plus grande quantité que voulu, sans réussir à réduire.",
+   "examples": [
+    "Se dire « juste ce soir » presque tous les soirs"
+   ],
+   "safety": null,
+   "overlap_group": "perte_controle",
+   "links": [
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "critere",
+     "basis": "CDDR 6C41.2, caractéristique essentielle (contrôle altéré) ; définition du repère",
+     "summary": "Un usage de cannabis difficile à maîtriser est au cœur de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "critere",
+     "basis": "définition du repère (usage difficile à contrôler)",
+     "summary": "Le cannabis fait partie des produits dont l'usage difficile à contrôler définit ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_cannabis_passe_avant",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Laisser le cannabis passer avant le reste",
+   "description": "Le cannabis prend une place croissante, au détriment des études, du travail, des proches ou des loisirs.",
+   "examples": [
+    "Organiser ses journées autour du moment où l'on fume"
+   ],
+   "safety": null,
+   "overlap_group": "priorite_activite",
+   "links": [
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "critere",
+     "basis": "CDDR 6C41.2, caractéristique essentielle (priorité croissante de l'usage)",
+     "summary": "Quand le cannabis passe avant le reste, c'est un signe central d'usage problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C4, caractéristique de la dépendance",
+     "summary": "Cette place croissante accompagne souvent un usage devenu problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_produits_du_mal_a_limiter",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir du mal à limiter un autre produit",
+   "description": "Cocaïne, ecstasy, opioïdes, médicaments détournés… en prendre plus ou plus souvent que voulu.",
+   "examples": [
+    "Prendre plus de calmants que prescrit",
+    "Racheter de la cocaïne alors qu'on voulait arrêter"
+   ],
+   "safety": null,
+   "overlap_group": "perte_controle",
+   "links": [
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "critere",
+     "basis": "définition du repère ; CDDR 6C43–6C4H, contrôle altéré de l'usage",
+     "summary": "Un usage de drogues ou de médicaments difficile à contrôler fait partie de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_consommer_en_situation_dangereuse",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Consommer dans des situations dangereuses",
+   "description": "Boire ou prendre un produit avant de conduire, au travail, en mélangeant des produits ou seul avec un risque.",
+   "examples": [
+    "Prendre le volant après avoir bu",
+    "Mélanger alcool et médicaments"
+   ],
+   "safety": null,
+   "overlap_group": "consommation_risquee",
+   "links": [
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "critere",
+     "basis": "définition du repère (usage risqué) ; CDDR 6C40.0, usage dangereux",
+     "summary": "Consommer quand cela expose à un danger est l'usage risqué que décrit ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "moderee",
+     "basis": "CDDR 6C40, caractéristique associée",
+     "summary": "Ces situations sont souvent rapportées dans la dépendance à l'alcool.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "moderee",
+     "basis": "CDDR 6C41, usage dangereux",
+     "summary": "Conduire ou travailler sous cannabis est un risque associé à l'usage problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_manque_a_l_arret",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Être mal quand on arrête ou réduit",
+   "description": "Tremblements, sueurs, nervosité, mauvais sommeil ou envie pressante quand on arrête un produit, même quelques jours.",
+   "examples": [
+    "Trembler le matin avant le premier verre",
+    "Être irritable et mal dormir sans cannabis"
+   ],
+   "safety": null,
+   "overlap_group": "dependance_physique",
+   "links": [
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "critere",
+     "basis": "CDDR 6C40.2, caractéristique essentielle (manifestations physiologiques : sevrage)",
+     "summary": "Le malaise à l'arrêt traduit l'adaptation du corps, un signe central de dépendance.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "critere",
+     "basis": "CDDR 6C41.2, caractéristique essentielle (manifestations physiologiques : sevrage)",
+     "summary": "Le sevrage du cannabis existe et fait partie des signes de dépendance.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C4, caractéristique de la dépendance",
+     "summary": "Le malaise à l'arrêt accompagne souvent un usage devenu problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_tabagisme_persistant",
+     "strength": "moderee",
+     "basis": "CDDR 6C4A.2 (dépendance à la nicotine), sevrage",
+     "summary": "Le manque de nicotine est courant chez les fumeurs quotidiens, sans définir à lui seul ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_besoin_de_plus",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir besoin de plus pour le même effet",
+   "description": "Devoir boire ou consommer davantage qu'avant pour ressentir le même effet.",
+   "examples": [
+    "Ne plus rien sentir après deux verres"
+   ],
+   "safety": null,
+   "overlap_group": "dependance_physique",
+   "links": [
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "critere",
+     "basis": "CDDR 6C40.2, caractéristique essentielle (manifestations physiologiques : tolérance)",
+     "summary": "La tolérance montre que le corps s'est habitué, un signe de dépendance.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "critere",
+     "basis": "CDDR 6C41.2, caractéristique essentielle (manifestations physiologiques : tolérance)",
+     "summary": "La tolérance au cannabis fait partie des signes de dépendance.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C4, caractéristique de la dépendance",
+     "summary": "La tolérance accompagne souvent un usage devenu problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_continuer_malgre_les_degats",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Continuer malgré les problèmes causés",
+   "description": "Garder une consommation, le jeu ou une pratique qui cause des soucis de santé, d'argent ou avec les proches.",
+   "examples": [
+    "Rejouer après une grosse perte",
+    "Boire encore malgré l'avis du médecin"
+   ],
+   "safety": null,
+   "overlap_group": "malgre_consequences",
+   "links": [
+    {
+     "outcome": "ten_jeu_argent_problematique",
+     "strength": "critere",
+     "basis": "CDDR 6C50, caractéristique essentielle (poursuite malgré les conséquences négatives)",
+     "summary": "Continuer à jouer malgré les dégâts est l'un des signes qui définissent le trouble du jeu.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_ecrans",
+     "strength": "critere",
+     "basis": "CDDR 6C51, caractéristique essentielle (poursuite malgré les conséquences négatives)",
+     "summary": "Continuer malgré le retentissement est un signe central du jeu vidéo problématique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_sexualite_compulsive",
+     "strength": "critere",
+     "basis": "CDDR 6C72, caractéristique essentielle ; Kraus et al., 2018",
+     "summary": "Poursuivre des pratiques sexuelles malgré leurs conséquences fait partie de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "kraus2018_csbd"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "critere",
+     "basis": "CDDR 6C40.1 / 6C41.1, usage nocif (dommages à la santé ou à autrui)",
+     "summary": "Un usage qui cause des dommages correspond à l'usage nocif décrit par la CIM-11.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "critere",
+     "basis": "définition du repère (usage associé à des difficultés) ; CDDR 6C41.1",
+     "summary": "Un usage de cannabis qui crée des difficultés au quotidien est au cœur de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "moderee",
+     "basis": "CDDR 6C40.2, poursuite malgré les dommages (rattachée à la priorité de l'usage)",
+     "summary": "La poursuite malgré les dommages accompagne souvent la dépendance à l'alcool.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_envie_tres_forte",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Ressentir une envie très forte de consommer",
+   "description": "Une envie pressante et difficile à chasser de boire, fumer, prendre un produit ou jouer.",
+   "examples": [
+    "Ne penser qu'à la cigarette pendant une réunion"
+   ],
+   "safety": null,
+   "overlap_group": "envie_forte",
+   "links": [
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "moderee",
+     "basis": "CDDR 6C40.2, caractéristique fréquente (envie impérieuse)",
+     "summary": "L'envie impérieuse accompagne souvent la dépendance sans être exigée.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_cannabis",
+     "strength": "moderee",
+     "basis": "CDDR 6C41.2, caractéristique fréquente (envie impérieuse)",
+     "summary": "L'envie impérieuse accompagne souvent un usage problématique de cannabis.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C4, caractéristique fréquente de la dépendance",
+     "summary": "L'envie impérieuse est fréquente quand l'usage devient difficile à contrôler.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_tabagisme_persistant",
+     "strength": "moderee",
+     "basis": "CDDR 6C4A.2, envie impérieuse",
+     "summary": "L'envie de fumer est fréquente chez les fumeurs quotidiens.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_jeu_argent_problematique",
+     "strength": "moderee",
+     "basis": "CDDR 6C50, caractéristique associée",
+     "summary": "Une envie forte de jouer est souvent décrite dans les difficultés avec le jeu.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_cacher_ce_qu_on_consomme",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Cacher ce qu'on consomme ou ce qu'on joue",
+   "description": "Minimiser ou dissimuler à ses proches ce qu'on boit, ce qu'on prend, le temps ou l'argent passés à jouer.",
+   "examples": [
+    "Effacer l'historique des paris",
+    "Jeter les bouteilles en cachette"
+   ],
+   "safety": null,
+   "overlap_group": "dissimulation",
+   "links": [
+    {
+     "outcome": "ten_jeu_argent_problematique",
+     "strength": "moderee",
+     "basis": "CDDR 6C50, caractéristique associée (dissimulation de l'ampleur du jeu)",
+     "summary": "Cacher l'ampleur du jeu est souvent décrit dans le trouble du jeu.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6c40_2",
+     "strength": "limitee",
+     "basis": "CDDR 6C40, caractéristique associée",
+     "summary": "La dissimulation peut accompagner l'usage d'alcool mais n'est pas spécifique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "limitee",
+     "basis": "CDDR 6C4, caractéristique associée",
+     "summary": "La dissimulation peut accompagner différents usages sans leur être propre.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_tabac_chaque_jour",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Fumer tous les jours",
+   "description": "Fumer des cigarettes ou du tabac à rouler chaque jour, même en petite quantité.",
+   "examples": [
+    "Fumer quelques cigarettes à chaque pause"
+   ],
+   "safety": null,
+   "overlap_group": "tabac_quotidien",
+   "links": [
+    {
+     "outcome": "ten_tabagisme_persistant",
+     "strength": "critere",
+     "basis": "définition du repère (consommation quotidienne) ; Taha et al., 2014",
+     "summary": "La consommation quotidienne est l'élément de base de ce repère.",
+     "sources": [
+      "taha2014_tabac"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "définition du repère (usage de tabac risqué)",
+     "summary": "Le tabac quotidien fait partie des usages risqués couverts par ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_tabac_depuis_des_annees",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Fumer depuis plusieurs années",
+   "description": "Fumer de façon régulière depuis des années, avec peu ou pas de périodes sans tabac.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "tabac_duree",
+   "links": [
+    {
+     "outcome": "ten_tabagisme_persistant",
+     "strength": "critere",
+     "basis": "définition du repère (maintien au fil des années) ; Taha et al., 2014",
+     "summary": "Ce repère décrit un tabagisme qui se maintient dans le temps.",
+     "sources": [
+      "taha2014_tabac"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_tabac_arret_echoue",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir essayé d'arrêter de fumer sans y parvenir",
+   "description": "Avoir tenté d'arrêter ou de réduire le tabac et avoir repris, une ou plusieurs fois.",
+   "examples": [
+    "Reprendre après quelques jours sans cigarette"
+   ],
+   "safety": null,
+   "overlap_group": "tabac_arret",
+   "links": [
+    {
+     "outcome": "ten_tabagisme_persistant",
+     "strength": "critere",
+     "basis": "définition du repère (persistance du tabagisme) ; Taha et al., 2014",
+     "summary": "Ne pas réussir à arrêter est ce qui rend le tabagisme persistant.",
+     "sources": [
+      "taha2014_tabac"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C4A.2, contrôle altéré de l'usage",
+     "summary": "Les tentatives d'arrêt infructueuses témoignent d'un usage difficile à contrôler.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_jeu_du_mal_a_limiter",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir du mal à limiter les jeux d'argent",
+   "description": "Jouer plus d'argent, plus souvent ou plus longtemps que prévu : paris, casino, loto, poker en ligne…",
+   "examples": [
+    "Dépasser le budget fixé pour la soirée",
+    "Parier encore « pour se refaire »"
+   ],
+   "safety": null,
+   "overlap_group": "perte_controle",
+   "links": [
+    {
+     "outcome": "ten_jeu_argent_problematique",
+     "strength": "critere",
+     "basis": "CDDR 6C50, caractéristique essentielle (contrôle altéré du jeu)",
+     "summary": "Perdre la main sur le jeu est un signe central de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_jeu_passe_avant",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Laisser le jeu d'argent passer avant le reste",
+   "description": "Le jeu prend une place croissante, au détriment du travail, des proches, du sommeil ou des autres loisirs.",
+   "examples": [
+    "Annuler un repas en famille pour un match à parier"
+   ],
+   "safety": null,
+   "overlap_group": "priorite_activite",
+   "links": [
+    {
+     "outcome": "ten_jeu_argent_problematique",
+     "strength": "critere",
+     "basis": "CDDR 6C50, caractéristique essentielle (priorité croissante donnée au jeu)",
+     "summary": "Quand le jeu passe avant le reste, c'est l'un des signes qui le définissent.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_jeu_rattraper_pertes",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Rejouer pour rattraper ses pertes",
+   "description": "Après avoir perdu, rejouer rapidement dans l'espoir de récupérer l'argent perdu.",
+   "examples": [
+    "Remiser le lendemain d'une grosse perte"
+   ],
+   "safety": null,
+   "overlap_group": "rattraper_pertes",
+   "links": [
+    {
+     "outcome": "ten_jeu_argent_problematique",
+     "strength": "moderee",
+     "basis": "CDDR 6C50, caractéristique associée",
+     "summary": "Chercher à se refaire est très fréquent dans les difficultés avec le jeu.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_ecrans_du_mal_a_limiter",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Avoir du mal à limiter les écrans",
+   "description": "Passer plus de temps que voulu sur le téléphone, les réseaux, les vidéos ou les jeux vidéo, sans réussir à réduire.",
+   "examples": [
+    "Ouvrir une appli « deux minutes » et y rester une heure"
+   ],
+   "safety": null,
+   "overlap_group": "perte_controle",
+   "links": [
+    {
+     "outcome": "ten_ecrans",
+     "strength": "critere",
+     "basis": "CDDR 6C51, caractéristique essentielle (contrôle altéré) ; définition du repère",
+     "summary": "Ne pas réussir à limiter son temps d'écran est au cœur de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_ecrans_passent_avant",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Laisser les écrans passer avant le reste",
+   "description": "Les écrans prennent le pas sur le sommeil, les repas, le travail, les études ou les proches.",
+   "examples": [
+    "Se coucher très tard à cause d'un jeu",
+    "Rater des échéances à cause des réseaux"
+   ],
+   "safety": null,
+   "overlap_group": "priorite_activite",
+   "links": [
+    {
+     "outcome": "ten_ecrans",
+     "strength": "critere",
+     "basis": "CDDR 6C51, caractéristique essentielle (priorité croissante) ; définition du repère",
+     "summary": "Quand les écrans gênent le sommeil, le travail ou les relations, c'est le signe que décrit ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_ecrans_tendu_sans",
+   "canonical": false,
+   "theme": "consommations_ecrans",
+   "label": "Être tendu sans son téléphone ou ses jeux",
+   "description": "Se sentir nerveux, irritable ou vide quand on ne peut pas utiliser son téléphone, internet ou ses jeux.",
+   "examples": [
+    "Être agacé quand la connexion coupe"
+   ],
+   "safety": null,
+   "overlap_group": "manque_ecrans",
+   "links": [
+    {
+     "outcome": "ten_ecrans",
+     "strength": "limitee",
+     "basis": "hors caractéristiques essentielles de CDDR 6C51 ; signe non spécifique",
+     "summary": "Ce malaise peut accompagner un usage intense des écrans sans le caractériser.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sexe_du_mal_a_limiter",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir du mal à contrôler certaines pratiques sexuelles",
+   "description": "Des envies sexuelles intenses qui mènent à des pratiques répétées qu'on ne parvient pas à maîtriser.",
+   "examples": [
+    "Regarder de la pornographie bien plus longtemps que prévu",
+    "Multiplier les rencontres sans le vouloir"
+   ],
+   "safety": null,
+   "overlap_group": "perte_controle",
+   "links": [
+    {
+     "outcome": "ten_sexualite_compulsive",
+     "strength": "critere",
+     "basis": "CDDR 6C72, caractéristique essentielle ; Kraus et al., 2018",
+     "summary": "L'échec répété à maîtriser des envies sexuelles intenses est le cœur de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "kraus2018_csbd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sexe_essais_reduire",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Échouer à réduire des pratiques sexuelles",
+   "description": "Avoir essayé plusieurs fois de réduire nettement ces pratiques, sans y parvenir.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "efforts_infructueux",
+   "links": [
+    {
+     "outcome": "ten_sexualite_compulsive",
+     "strength": "critere",
+     "basis": "CDDR 6C72, caractéristique essentielle ; Kraus et al., 2018",
+     "summary": "Les efforts répétés et infructueux pour réduire font partie des signes de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "kraus2018_csbd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sexe_passe_avant",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Laisser la sexualité passer avant le reste",
+   "description": "Ces pratiques deviennent centrales au point de négliger sa santé, ses obligations ou ses autres intérêts.",
+   "examples": [
+    "Repousser le travail pour des sites de rencontres"
+   ],
+   "safety": null,
+   "overlap_group": "priorite_activite",
+   "links": [
+    {
+     "outcome": "ten_sexualite_compulsive",
+     "strength": "critere",
+     "basis": "CDDR 6C72, caractéristique essentielle ; Kraus et al., 2018",
+     "summary": "Une sexualité qui devient le centre de la vie au détriment du reste est un signe de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "kraus2018_csbd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sexe_peu_de_satisfaction",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Continuer des pratiques sexuelles sans plaisir",
+   "description": "Poursuivre ces pratiques alors qu'on en retire peu ou pas de satisfaction.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "peu_satisfaction",
+   "links": [
+    {
+     "outcome": "ten_sexualite_compulsive",
+     "strength": "critere",
+     "basis": "CDDR 6C72, caractéristique essentielle ; Kraus et al., 2018",
+     "summary": "Continuer sans en tirer de satisfaction distingue ce repère d'une libido simplement élevée.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "kraus2018_csbd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_rapports_non_proteges",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir des rapports sans protection",
+   "description": "Avoir des rapports sans préservatif avec des partenaires dont on ignore le statut ou qui ne sont pas réguliers.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "protection_sexuelle",
+   "links": [
+    {
+     "outcome": "ten_risques_sexuels",
+     "strength": "critere",
+     "basis": "définition du repère ; Arriola et al., 2005 (rapports non protégés)",
+     "summary": "Les rapports non protégés sont l'une des prises de risque que décrit ce repère.",
+     "sources": [
+      "arriola2005"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_nombreux_partenaires",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir de nombreux partenaires sexuels",
+   "description": "Avoir beaucoup de partenaires différents sur une courte période, en le vivant comme un risque pour soi.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "nombre_partenaires",
+   "links": [
+    {
+     "outcome": "ten_risques_sexuels",
+     "strength": "critere",
+     "basis": "définition du repère ; Arriola et al., 2005 (partenaires multiples)",
+     "summary": "Les partenaires multiples font partie des comportements étudiés sous ce repère.",
+     "sources": [
+      "arriola2005"
+     ]
+    },
+    {
+     "outcome": "ten_sexualite_compulsive",
+     "strength": "limitee",
+     "basis": "Kraus et al., 2018 : un nombre de partenaires ou une libido élevée ne suffisent pas",
+     "summary": "Le nombre de partenaires seul ne dit rien d'une perte de contrôle.",
+     "sources": [
+      "kraus2018_csbd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sexe_sous_effet",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir des rapports sous l'effet d'alcool ou de drogues",
+   "description": "Avoir des rapports en étant ivre ou sous produit, au point d'être moins attentif à sa protection.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "sexe_substances",
+   "links": [
+    {
+     "outcome": "ten_risques_sexuels",
+     "strength": "critere",
+     "basis": "définition du repère (situations où l'on se met en danger) ; Bach et First, 2018 (imprudence)",
+     "summary": "Les rapports sous l'effet de produits exposent à des risques que décrit ce repère.",
+     "sources": [
+      "bach2018_personnalite"
+     ]
+    },
+    {
+     "outcome": "ten_usage_substances",
+     "strength": "moderee",
+     "basis": "CDDR 6C40.0, usage dangereux",
+     "summary": "Ces situations font partie des usages qui exposent à un danger.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_excitation_difficile",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir du mal à être excité sexuellement",
+   "description": "Avoir du mal à ressentir l'excitation ou à la garder (érection, lubrification), alors qu'on a envie.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "excitation_sexuelle",
+   "links": [
+    {
+     "outcome": "ten_difficultes_sexuelles",
+     "strength": "critere",
+     "basis": "CIM-11 HA01 ; Reed et al., 2016 (dysfonctions de l'excitation)",
+     "summary": "Les difficultés d'excitation font partie des difficultés sexuelles décrites par la CIM-11.",
+     "sources": [
+      "icd11_mms",
+      "reed2016_sexualite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_orgasme_difficile",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir du mal à atteindre l'orgasme",
+   "description": "L'orgasme est absent, rare, très retardé ou nettement moins intense qu'on le souhaiterait.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "orgasme",
+   "links": [
+    {
+     "outcome": "ten_difficultes_sexuelles",
+     "strength": "critere",
+     "basis": "CIM-11 HA02 ; Reed et al., 2016 (dysfonctions de l'orgasme)",
+     "summary": "Les difficultés d'orgasme sont l'un des types de difficultés sexuelles reconnus.",
+     "sources": [
+      "icd11_mms",
+      "reed2016_sexualite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_ejaculation_plus_tot",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Éjaculer plus tôt qu'on ne le souhaite",
+   "description": "Une éjaculation qui survient très vite, souvent avant ou juste après la pénétration, et qui gêne.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "ejaculation",
+   "links": [
+    {
+     "outcome": "ten_difficultes_sexuelles",
+     "strength": "critere",
+     "basis": "CIM-11 HA03 ; Reed et al., 2016 (éjaculation précoce)",
+     "summary": "L'éjaculation précoce fait partie des difficultés sexuelles décrites par la CIM-11.",
+     "sources": [
+      "icd11_mms",
+      "reed2016_sexualite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_douleur_rapports",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Avoir mal pendant les rapports",
+   "description": "Des douleurs, brûlures ou contractions pendant la pénétration, ou la peur de cette douleur.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "douleur_sexuelle",
+   "links": [
+    {
+     "outcome": "ten_difficultes_sexuelles",
+     "strength": "critere",
+     "basis": "CIM-11 HA20 ; Reed et al., 2016 (douleur sexuelle liée à la pénétration) ; définition du repère",
+     "summary": "Les douleurs pendant les rapports font partie des difficultés que décrit ce repère.",
+     "sources": [
+      "icd11_mms",
+      "reed2016_sexualite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_malaise_sexualite",
+   "canonical": false,
+   "theme": "sexualite_securite",
+   "label": "Vivre sa sexualité avec malaise",
+   "description": "Ressentir de la gêne, de l'anxiété ou de la détresse autour de sa vie sexuelle.",
+   "examples": [
+    "Redouter les moments d'intimité"
+   ],
+   "safety": null,
+   "overlap_group": "malaise_sexuel",
+   "links": [
+    {
+     "outcome": "ten_difficultes_sexuelles",
+     "strength": "moderee",
+     "basis": "définition du repère ; Reed et al., 2016 (détresse associée exigée)",
+     "summary": "La détresse accompagne les difficultés sexuelles, sans désigner un type précis.",
+     "sources": [
+      "reed2016_sexualite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_crises_alimentaires",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Avoir des crises où l'on mange beaucoup",
+   "description": "Manger en peu de temps une quantité nettement plus grande que d'habitude, lors d'épisodes répétés.",
+   "examples": [
+    "Vider des placards en une soirée"
+   ],
+   "safety": null,
+   "overlap_group": "crise_alimentaire",
+   "links": [
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "critere",
+     "basis": "CDDR 6B81, caractéristique essentielle (épisodes répétés de crises)",
+     "summary": "Les crises alimentaires répétées sont un signe central de la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b82",
+     "strength": "critere",
+     "basis": "CDDR 6B82, caractéristique essentielle (épisodes répétés de crises)",
+     "summary": "Les crises alimentaires répétées définissent l'hyperphagie boulimique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B81–6B82, caractéristique essentielle",
+     "summary": "Les crises font partie des signes centraux des troubles des conduites alimentaires.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_perdre_controle_en_mangeant",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Sentir qu'on ne peut plus s'arrêter de manger",
+   "description": "Pendant certains repas ou grignotages, avoir l'impression de perdre tout contrôle sur ce qu'on mange.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "crise_alimentaire",
+   "links": [
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "critere",
+     "basis": "CDDR 6B81, caractéristique essentielle (perte de contrôle pendant la crise)",
+     "summary": "La perte de contrôle fait partie de la définition d'une crise alimentaire.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b82",
+     "strength": "critere",
+     "basis": "CDDR 6B82, caractéristique essentielle (perte de contrôle pendant la crise)",
+     "summary": "La perte de contrôle est au cœur de l'hyperphagie boulimique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B81–6B82, caractéristique essentielle",
+     "summary": "La perte de contrôle en mangeant est un signe central de ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_compenser_apres_manger",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Se faire vomir, jeûner ou prendre des laxatifs",
+   "description": "Après avoir mangé, chercher à éliminer ou compenser : vomir, sauter des repas, laxatifs, diurétiques.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "compensation",
+   "links": [
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "critere",
+     "basis": "CDDR 6B81, caractéristique essentielle (comportements compensatoires répétés)",
+     "summary": "Les gestes pour compenser après les crises définissent la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B80–6B81, caractéristique essentielle",
+     "summary": "Les comportements compensatoires font partie des signes centraux de ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b80",
+     "strength": "moderee",
+     "basis": "CDDR 6B80, forme avec crises et purges",
+     "summary": "Ces gestes existent aussi dans une forme d'anorexie mentale.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sport_pour_compenser",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Faire beaucoup de sport pour compenser",
+   "description": "Faire de l'exercice de façon intense ou forcée pour éliminer ce qu'on a mangé ou perdre du poids.",
+   "examples": [
+    "S'imposer une heure de course après un repas copieux"
+   ],
+   "safety": null,
+   "overlap_group": "compensation",
+   "links": [
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "critere",
+     "basis": "CDDR 6B81, caractéristique essentielle (exercice excessif comme compensation)",
+     "summary": "L'exercice pour compenser fait partie des gestes qui définissent la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B80–6B81, caractéristique essentielle",
+     "summary": "Ce comportement compensatoire est un signe central du groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b80",
+     "strength": "moderee",
+     "basis": "CDDR 6B80, comportements visant un poids bas",
+     "summary": "L'exercice intense accompagne souvent la restriction dans l'anorexie mentale.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_restreindre_nourriture",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Se restreindre fortement sur la nourriture",
+   "description": "Manger très peu, éviter des aliments ou sauter des repas pour perdre ou ne pas prendre de poids.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "restriction",
+   "links": [
+    {
+     "outcome": "icd_6b80",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle (restriction pour maintenir un poids bas)",
+     "summary": "La restriction alimentaire persistante est un signe central de l'anorexie mentale.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle",
+     "summary": "La restriction fait partie des signes centraux de ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_poids_tres_bas",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Avoir perdu beaucoup de poids ou avoir un poids très bas",
+   "description": "Un poids nettement en dessous de la normale pour sa taille, ou une perte de poids rapide et importante.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "poids_bas",
+   "links": [
+    {
+     "outcome": "icd_6b80",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle (poids nettement bas)",
+     "summary": "Un poids significativement bas est requis pour l'anorexie mentale.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle",
+     "summary": "Le poids bas fait partie des signes de ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_valeur_selon_poids",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Juger sa valeur d'après son poids ou sa silhouette",
+   "description": "Le poids ou la silhouette comptent énormément dans l'opinion qu'on a de soi.",
+   "examples": [
+    "Se sentir nul dès que la balance monte"
+   ],
+   "safety": null,
+   "overlap_group": "poids_silhouette",
+   "links": [
+    {
+     "outcome": "icd_6b80",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle (préoccupation pour le poids et la silhouette)",
+     "summary": "L'importance donnée au poids dans l'image de soi est un signe central de l'anorexie mentale.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "critere",
+     "basis": "CDDR 6B81, caractéristique essentielle (préoccupation pour le poids et la silhouette)",
+     "summary": "Cette préoccupation fait partie de la définition de la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B80–6B81, caractéristique essentielle",
+     "summary": "La place du poids dans l'image de soi est centrale dans ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b82",
+     "strength": "moderee",
+     "basis": "CDDR 6B82, caractéristique associée",
+     "summary": "Cette préoccupation est fréquente dans l'hyperphagie, sans être exigée.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_peur_de_grossir",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Avoir très peur de prendre du poids",
+   "description": "Une peur intense de grossir, même quand l'entourage ou le médecin trouvent le poids bas.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "poids_silhouette",
+   "links": [
+    {
+     "outcome": "icd_6b80",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle (peur de la prise de poids liée à la restriction)",
+     "summary": "La peur de grossir accompagne la restriction dans l'anorexie mentale.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "critere",
+     "basis": "CDDR 6B80, caractéristique essentielle",
+     "summary": "La peur de grossir est un signe central de ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "moderee",
+     "basis": "CDDR 6B81, caractéristique associée",
+     "summary": "La peur de grossir est fréquente dans la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_detresse_apres_crise",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Être très mal après une crise alimentaire",
+   "description": "Ressentir honte, dégoût, culpabilité ou détresse après avoir mangé de façon incontrôlée.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "detresse_crises",
+   "links": [
+    {
+     "outcome": "icd_6b82",
+     "strength": "critere",
+     "basis": "CDDR 6B82, caractéristique essentielle (détresse marquée ou retentissement)",
+     "summary": "La détresse liée aux crises fait partie de la définition de l'hyperphagie boulimique.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "moderee",
+     "basis": "CDDR 6B81, détresse ou retentissement associés",
+     "summary": "La détresse après les crises est fréquente dans la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81",
+     "strength": "moderee",
+     "basis": "CDDR 6B81–6B82",
+     "summary": "La détresse accompagne souvent les crises dans ce groupe.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_manger_en_cachette",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Manger en cachette",
+   "description": "Manger seul ou à l'abri des regards, par gêne de ce qu'on mange ou de la quantité.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "manger_cache",
+   "links": [
+    {
+     "outcome": "icd_6b82",
+     "strength": "moderee",
+     "basis": "CDDR 6B82, caractéristique associée",
+     "summary": "Manger en cachette accompagne souvent les crises alimentaires.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "moderee",
+     "basis": "CDDR 6B81, caractéristique associée",
+     "summary": "Le secret autour des crises est fréquent dans la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_verifier_son_corps",
+   "canonical": false,
+   "theme": "alimentation_apparence",
+   "label": "Vérifier sans cesse son poids ou sa silhouette",
+   "description": "Se peser plusieurs fois par jour, se regarder ou se mesurer souvent pour contrôler son corps.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "verification_corps",
+   "links": [
+    {
+     "outcome": "icd_6b80",
+     "strength": "moderee",
+     "basis": "CDDR 6B80, caractéristique associée (vérifications du corps)",
+     "summary": "Les vérifications répétées accompagnent souvent la préoccupation pour le poids.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "icd_6b81_boulimie",
+     "strength": "moderee",
+     "basis": "CDDR 6B81, caractéristique associée",
+     "summary": "Ces vérifications sont fréquentes dans la boulimie.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sommeil_gene_la_journee",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Être gêné dans la journée par ses nuits",
+   "description": "Fatigue, irritabilité, difficultés de concentration ou somnolence qu'on attribue à un mauvais sommeil.",
+   "examples": [
+    "Lutter contre le sommeil au travail"
+   ],
+   "safety": null,
+   "overlap_group": "retentissement_sommeil",
+   "links": [
+    {
+     "outcome": "ten_sommeil",
+     "strength": "critere",
+     "basis": "CIM-11 7A00 (retentissement diurne exigé) ; Riemann et al., 2023",
+     "summary": "Les difficultés de sommeil comptent surtout quand elles pèsent sur la journée.",
+     "sources": [
+      "icd11_mms",
+      "riemann2023_insomnie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_douleur_plus_de_3_mois",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Avoir une douleur qui dure depuis des mois",
+   "description": "Une douleur présente ou qui revient depuis plus de trois mois (dos, tête, ventre, articulations…).",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "douleur_chronique",
+   "links": [
+    {
+     "outcome": "ten_douleurs_persistantes",
+     "strength": "critere",
+     "basis": "définition du repère ; Treede et al., 2019 (douleur chronique : plus de 3 mois)",
+     "summary": "Une douleur qui persiste plus de trois mois correspond à la douleur chronique.",
+     "sources": [
+      "treede2019_douleur"
+     ]
+    },
+    {
+     "outcome": "icd_6c20",
+     "strength": "moderee",
+     "basis": "Gureje et Reed, 2016 (la douleur peut être la plainte principale)",
+     "summary": "Une douleur persistante peut être au premier plan d'une détresse corporelle.",
+     "sources": [
+      "gureje2016_detresse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_douleurs_plusieurs_endroits",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Avoir mal à plusieurs endroits du corps",
+   "description": "Des douleurs diffuses ou qui touchent plusieurs zones à la fois, sans cause unique trouvée.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "douleurs_diffuses",
+   "links": [
+    {
+     "outcome": "ten_douleurs_persistantes",
+     "strength": "critere",
+     "basis": "définition du repère (douleurs diffuses) ; Treede et al., 2019",
+     "summary": "Les douleurs diffuses font partie de ce que décrit ce repère.",
+     "sources": [
+      "treede2019_douleur"
+     ]
+    },
+    {
+     "outcome": "icd_6c20",
+     "strength": "moderee",
+     "basis": "Gureje et Reed, 2016 (plusieurs symptômes variables)",
+     "summary": "Plusieurs symptômes physiques variables sont fréquents dans la détresse corporelle.",
+     "sources": [
+      "gureje2016_detresse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_douleur_limite_activites",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Renoncer à des activités à cause de douleurs",
+   "description": "Réduire le travail, les sorties, le sport ou les tâches du quotidien parce qu'on a mal.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "retentissement_douleur",
+   "links": [
+    {
+     "outcome": "ten_douleurs_persistantes",
+     "strength": "moderee",
+     "basis": "Treede et al., 2019 (retentissement et détresse fréquents)",
+     "summary": "La douleur chronique gêne souvent la vie quotidienne, sans que ce soit exigé.",
+     "sources": [
+      "treede2019_douleur"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_sensations_corps_genantes",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Être gêné par des sensations physiques variées",
+   "description": "Vertiges, troubles digestifs, palpitations, fatigue ou douleurs qui inquiètent ou pèsent au quotidien.",
+   "examples": [
+    "Avoir souvent mal au ventre et la tête qui tourne"
+   ],
+   "safety": null,
+   "overlap_group": "symptomes_corporels",
+   "links": [
+    {
+     "outcome": "icd_6c20",
+     "strength": "critere",
+     "basis": "CDDR 6C20, caractéristique essentielle (symptômes corporels pénibles) ; Gureje et Reed, 2016",
+     "summary": "Des symptômes corporels pénibles sont le point de départ de la détresse corporelle.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "gureje2016_detresse"
+     ]
+    },
+    {
+     "outcome": "ten_douleurs_persistantes",
+     "strength": "limitee",
+     "basis": "symptômes physiques fréquents en population générale",
+     "summary": "Ces sensations sont fréquentes et peu spécifiques.",
+     "sources": [
+      "treede2019_douleur"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_penser_sans_cesse_au_corps",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Penser sans cesse à ses symptômes physiques",
+   "description": "Une attention constante portée aux sensations du corps, qui occupe beaucoup l'esprit.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "attention_symptomes",
+   "links": [
+    {
+     "outcome": "icd_6c20",
+     "strength": "critere",
+     "basis": "CDDR 6C20, caractéristique essentielle (attention excessive aux symptômes) ; Gureje et Reed, 2016",
+     "summary": "L'attention excessive portée aux symptômes est un signe central de la détresse corporelle.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "gureje2016_detresse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_consulter_souvent",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Consulter souvent pour des symptômes physiques",
+   "description": "Prendre de nombreux rendez-vous médicaux, examens ou avis pour les mêmes symptômes.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "attention_symptomes",
+   "links": [
+    {
+     "outcome": "icd_6c20",
+     "strength": "critere",
+     "basis": "CDDR 6C20, caractéristique essentielle (consultations répétées) ; Gureje et Reed, 2016",
+     "summary": "Les consultations répétées sont une manière dont se manifeste cette attention aux symptômes.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "gureje2016_detresse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_examens_ne_rassurent_pas",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Rester inquiet malgré des examens rassurants",
+   "description": "Les résultats normaux ou les explications du médecin apaisent peu, ou seulement quelques jours.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "reassurance_inefficace",
+   "links": [
+    {
+     "outcome": "icd_6c20",
+     "strength": "critere",
+     "basis": "CDDR 6C20, caractéristique essentielle (non apaisée par les examens) ; Gureje et Reed, 2016",
+     "summary": "Une inquiétude que les examens ne calment pas est un signe de la détresse corporelle.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "gureje2016_detresse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_journees_autour_des_symptomes",
+   "canonical": false,
+   "theme": "corps_energie_sommeil",
+   "label": "Organiser ses journées autour de ses symptômes",
+   "description": "Les symptômes physiques empêchent ou limitent le travail, la vie de famille ou les loisirs, la plupart des jours.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "retentissement_corps",
+   "links": [
+    {
+     "outcome": "icd_6c20",
+     "strength": "critere",
+     "basis": "CDDR 6C20, caractéristique essentielle (retentissement important) ; Gureje et Reed, 2016",
+     "summary": "Un retentissement important sur la vie est exigé pour la détresse corporelle.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "gureje2016_detresse"
+     ]
+    },
+    {
+     "outcome": "ten_douleurs_persistantes",
+     "strength": "moderee",
+     "basis": "Treede et al., 2019 (retentissement fréquent)",
+     "summary": "La douleur durable pèse souvent sur la vie quotidienne.",
+     "sources": [
+      "treede2019_douleur"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_agir_sous_le_coup_emotion",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Faire des choses regrettées quand on est bouleversé",
+   "description": "Sous le coup d'une émotion forte, agir vite d'une façon qu'on regrette ensuite.",
+   "examples": [
+    "Envoyer un message blessant sous la colère",
+    "Tout acheter après une mauvaise nouvelle"
+   ],
+   "safety": null,
+   "overlap_group": "urgence_emotionnelle",
+   "links": [
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "critere",
+     "basis": "définition du repère (sous le coup d'émotions fortes) ; Cyders et Smith, 2008 (urgence négative)",
+     "summary": "Agir de façon irréfléchie quand on est bouleversé est l'une des formes principales de l'impulsivité.",
+     "sources": [
+      "cyders2008_urgence"
+     ]
+    },
+    {
+     "outcome": "sch_controle_insuffisant",
+     "strength": "moderee",
+     "basis": "définition de Young (difficulté à retenir émotions et impulsions)",
+     "summary": "Ce schéma décrit la difficulté à retenir ses impulsions quand les émotions montent.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_achats_coup_de_tete",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Faire des achats sur un coup de tête",
+   "description": "Acheter sans y avoir réfléchi, puis se rendre compte que ce n'était pas prévu ni utile.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "impulsivite",
+   "links": [
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "critere",
+     "basis": "définition du repère (agir sans prendre le temps de réfléchir) ; Cyders et Smith, 2008",
+     "summary": "Les achats non réfléchis sont une manifestation courante du fait d'agir sans réfléchir.",
+     "sources": [
+      "cyders2008_urgence"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_s_emballer_dans_l_euphorie",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "S'emballer quand on est très content",
+   "description": "Dans un moment d'excitation ou de joie intense, faire des choses risquées ou démesurées.",
+   "examples": [
+    "Dépenser beaucoup en fête après une bonne nouvelle"
+   ],
+   "safety": null,
+   "overlap_group": "urgence_positive",
+   "links": [
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "moderee",
+     "basis": "Cyders et Smith, 2008 (urgence positive)",
+     "summary": "Agir sans réfléchir sous une émotion positive intense est une facette de l'impulsivité.",
+     "sources": [
+      "cyders2008_urgence"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_chercher_sensations_fortes",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Chercher des sensations fortes, même risquées",
+   "description": "Rechercher l'excitation et la nouveauté, quitte à se mettre en danger.",
+   "examples": [
+    "Conduire très vite pour le frisson"
+   ],
+   "safety": null,
+   "overlap_group": "recherche_sensations",
+   "links": [
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "moderee",
+     "basis": "Cyders et Smith, 2008 (recherche de sensations)",
+     "summary": "La recherche de sensations est une facette associée à l'impulsivité.",
+     "sources": [
+      "cyders2008_urgence"
+     ]
+    },
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "moderee",
+     "basis": "Bach et First, 2018 (désinhibition : imprudence)",
+     "summary": "L'imprudence est souvent associée aux traits antisociaux, sans les définir.",
+     "sources": [
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_lacher_en_cours_de_route",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Laisser tomber ce qu'on commence",
+   "description": "Abandonner une tâche dès qu'elle devient ennuyeuse, longue ou difficile.",
+   "examples": [
+    "Commencer plein de projets sans en finir aucun"
+   ],
+   "safety": null,
+   "overlap_group": "perseverance",
+   "links": [
+    {
+     "outcome": "sch_controle_insuffisant",
+     "strength": "critere",
+     "basis": "définition de Young (manque d'autodiscipline pour atteindre ses buts)",
+     "summary": "Le manque d'autodiscipline pour aller au bout de ses buts fait partie de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "moderee",
+     "basis": "Cyders et Smith, 2008 (manque de persévérance)",
+     "summary": "Le manque de persévérance est une facette associée à l'impulsivité.",
+     "sources": [
+      "cyders2008_urgence"
+     ]
+    },
+    {
+     "outcome": "ten_procrastination",
+     "strength": "limitee",
+     "basis": "Steel, 2007 (procrastination et faible autodiscipline)",
+     "summary": "Abandonner une tâche n'est pas la même chose que la repousser.",
+     "sources": [
+      "steel2007_procrastination"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_repousser_taches_importantes",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Repousser des tâches importantes",
+   "description": "Remettre à plus tard des tâches qu'on avait prévu de faire et qui comptent.",
+   "examples": [
+    "Repousser une déclaration ou un dossier de semaine en semaine"
+   ],
+   "safety": null,
+   "overlap_group": "report_taches",
+   "links": [
+    {
+     "outcome": "ten_procrastination",
+     "strength": "critere",
+     "basis": "définition du repère ; Steel, 2007 (retarder volontairement une action prévue)",
+     "summary": "Retarder une action qu'on avait l'intention de faire est le cœur de la procrastination.",
+     "sources": [
+      "steel2007_procrastination"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_repousser_malgre_le_cout",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Repousser en sachant que ce sera pire ensuite",
+   "description": "Retarder une tâche tout en sachant que ce retard aura un coût : stress, pénalité, travail bâclé.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "report_malgre_cout",
+   "links": [
+    {
+     "outcome": "ten_procrastination",
+     "strength": "critere",
+     "basis": "définition du repère ; Steel, 2007 (malgré la perspective d'en pâtir)",
+     "summary": "Repousser en prévoyant d'en pâtir distingue la procrastination d'un simple report.",
+     "sources": [
+      "steel2007_procrastination"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_derniere_minute",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Se mettre au travail à la dernière minute",
+   "description": "Ne commencer qu'au moment où l'échéance devient urgente, de façon répétée.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "report_taches",
+   "links": [
+    {
+     "outcome": "ten_procrastination",
+     "strength": "critere",
+     "basis": "définition du repère ; Steel, 2007",
+     "summary": "S'y mettre seulement au dernier moment est une forme courante de procrastination.",
+     "sources": [
+      "steel2007_procrastination"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_faire_autre_chose_a_la_place",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Faire autre chose de plus agréable à la place",
+   "description": "Au moment de s'y mettre, choisir une occupation plus plaisante ou plus facile.",
+   "examples": [
+    "Ranger toute la maison plutôt que réviser"
+   ],
+   "safety": null,
+   "overlap_group": "evitement_tache",
+   "links": [
+    {
+     "outcome": "ten_procrastination",
+     "strength": "moderee",
+     "basis": "Steel, 2007 (rôle du caractère déplaisant de la tâche)",
+     "summary": "Fuir une tâche déplaisante au profit d'une autre est un mécanisme fréquent de la procrastination.",
+     "sources": [
+      "steel2007_procrastination"
+     ]
+    },
+    {
+     "outcome": "sch_controle_insuffisant",
+     "strength": "moderee",
+     "basis": "définition de Young (évitement de l'inconfort)",
+     "summary": "Préférer le plus agréable à l'effort rejoint la forme légère de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_frustration_difficile",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Avoir du mal à supporter la frustration",
+   "description": "Réagir fortement ou renoncer quand les choses ne vont pas comme prévu ou demandent d'attendre.",
+   "examples": [
+    "S'énerver dans une file d'attente"
+   ],
+   "safety": null,
+   "overlap_group": "tolerance_frustration",
+   "links": [
+    {
+     "outcome": "sch_controle_insuffisant",
+     "strength": "critere",
+     "basis": "définition de Young (faible tolérance à la frustration)",
+     "summary": "La difficulté à tolérer la frustration est au cœur de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_envie_tout_de_suite",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Avoir du mal à attendre pour obtenir ce qu'on veut",
+   "description": "Vouloir obtenir tout de suite ce dont on a envie, même si attendre serait plus avantageux.",
+   "examples": [
+    "Acheter à crédit plutôt qu'économiser"
+   ],
+   "safety": null,
+   "overlap_group": "differer_envies",
+   "links": [
+    {
+     "outcome": "sch_controle_insuffisant",
+     "strength": "critere",
+     "basis": "définition de Young (difficulté à différer ses envies) ; définition du repère",
+     "summary": "Ne pas réussir à différer ses envies est un élément de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "moderee",
+     "basis": "Bach et First, 2018 (désinhibition : agir selon l'envie immédiate)",
+     "summary": "Céder à l'envie immédiate est proche de l'impulsivité.",
+     "sources": [
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_eviter_efforts_contraintes",
+   "canonical": false,
+   "theme": "attention_impulsivite",
+   "label": "Éviter les efforts et les contraintes désagréables",
+   "description": "Fuir les responsabilités, les conflits ou les tâches pénibles, même quand cela freine ses projets.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "evitement_inconfort",
+   "links": [
+    {
+     "outcome": "sch_controle_insuffisant",
+     "strength": "critere",
+     "basis": "définition de Young (forme atténuée : évitement de l'inconfort)",
+     "summary": "L'évitement de l'inconfort est la forme légère de ce schéma.",
+     "sources": [
+      "young_schemas"
+     ]
+    },
+    {
+     "outcome": "ten_procrastination",
+     "strength": "limitee",
+     "basis": "Steel, 2007",
+     "summary": "Éviter les contraintes favorise le report, sans être propre à la procrastination.",
+     "sources": [
+      "steel2007_procrastination"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_s_opposer_aux_regles",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "S'opposer souvent aux consignes",
+   "description": "Refuser ou contester presque par principe les demandes d'un supérieur, d'un proche ou les règles.",
+   "examples": [
+    "Faire l'inverse de ce que demande son chef"
+   ],
+   "safety": null,
+   "overlap_group": "opposition",
+   "links": [
+    {
+     "outcome": "ten_externalisation",
+     "strength": "critere",
+     "basis": "définition du repère (opposition) ; CDDR 6C90, caractéristique essentielle",
+     "summary": "Un refus persistant des demandes et des règles correspond à l'opposition décrite par ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_chercher_a_contrarier",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Chercher à contrarier ou provoquer",
+   "description": "Agacer volontairement les autres, chercher à les faire réagir ou se venger par de petites méchancetés.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "opposition",
+   "links": [
+    {
+     "outcome": "ten_externalisation",
+     "strength": "critere",
+     "basis": "CDDR 6C90, caractéristique essentielle (attitude provocante ou vindicative)",
+     "summary": "La provocation et la rancune font partie de l'opposition décrite par la CIM-11.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_en_venir_aux_coups",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "En venir aux coups ou menacer",
+   "description": "Frapper, bousculer ou menacer quelqu'un physiquement, lors d'une dispute ou pour obtenir quelque chose.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "agression",
+   "links": [
+    {
+     "outcome": "ten_externalisation",
+     "strength": "critere",
+     "basis": "définition du repère (agressivité) ; CDDR 6C91, caractéristique essentielle",
+     "summary": "L'agression physique est l'un des comportements que recouvre ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "critere",
+     "basis": "CDDR 6D11.2 (dissocialité : agression) ; Bach et First, 2018",
+     "summary": "L'agressivité physique fait partie des manifestations de la dissocialité.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_casser_des_objets",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Casser ou abîmer des objets",
+   "description": "Détruire ou endommager des objets, chez soi ou ailleurs, sous la colère ou volontairement.",
+   "examples": [
+    "Briser son téléphone contre le mur"
+   ],
+   "safety": null,
+   "overlap_group": "degradation",
+   "links": [
+    {
+     "outcome": "ten_externalisation",
+     "strength": "critere",
+     "basis": "CDDR 6C91, caractéristique essentielle (destruction de biens)",
+     "summary": "La destruction de biens fait partie des conduites décrites par ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_enfreindre_la_loi",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Faire des choses interdites par la loi",
+   "description": "Voler, frauder, dégrader ou commettre d'autres actes illégaux, de façon répétée.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "transgression",
+   "links": [
+    {
+     "outcome": "ten_externalisation",
+     "strength": "critere",
+     "basis": "définition du repère (conduites antisociales) ; CDDR 6C91, caractéristique essentielle",
+     "summary": "La transgression répétée des lois correspond aux conduites antisociales de ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "critere",
+     "basis": "CDDR 6D11.2 (mépris des droits d'autrui) ; Bach et First, 2018",
+     "summary": "Le mépris des droits d'autrui est le cœur de la dissocialité.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_mentir_pour_obtenir",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Mentir ou tromper pour obtenir quelque chose",
+   "description": "Mentir, tricher ou duper les autres pour en tirer un avantage ou éviter un ennui.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "tromperie",
+   "links": [
+    {
+     "outcome": "ten_externalisation",
+     "strength": "critere",
+     "basis": "CDDR 6C91, caractéristique essentielle (tromperie)",
+     "summary": "La tromperie répétée fait partie des conduites décrites par ce repère.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    },
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "critere",
+     "basis": "CDDR 6D11.2 (manque d'empathie : tromperie) ; Bach et First, 2018",
+     "summary": "La tromperie est une manifestation de la dissocialité.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_se_servir_des_autres",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Se servir des autres pour arriver à ses fins",
+   "description": "Manipuler ou exploiter des personnes pour obtenir ce qu'on veut, sans tenir compte de leur intérêt.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "manipulation",
+   "links": [
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "critere",
+     "basis": "CDDR 6D11.2 (manipulation, exploitation) ; Bach et First, 2018",
+     "summary": "Manipuler et exploiter autrui sont des manifestations de la dissocialité.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "bach2018_personnalite"
+     ]
+    },
+    {
+     "outcome": "ten_externalisation",
+     "strength": "moderee",
+     "basis": "CDDR 6C91, caractéristique associée",
+     "summary": "L'exploitation d'autrui accompagne souvent les conduites antisociales.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_peu_de_remords",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Avoir peu de remords après avoir blessé quelqu'un",
+   "description": "Ressentir peu de regret ou de gêne quand on a fait du tort ou de la peine à quelqu'un.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "manque_empathie",
+   "links": [
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "critere",
+     "basis": "CDDR 6D11.2 (manque d'empathie, dureté) ; Bach et First, 2018",
+     "summary": "L'indifférence au tort causé est un signe central de la dissocialité.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "bach2018_personnalite"
+     ]
+    },
+    {
+     "outcome": "ten_externalisation",
+     "strength": "moderee",
+     "basis": "CDDR 6C91, spécificateur d'émotions prosociales limitées",
+     "summary": "Le peu de remords accompagne certaines formes de conduites antisociales.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_ses_besoins_avant_tout",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Faire passer ses besoins avant tout le reste",
+   "description": "Penser avoir droit à plus que les autres et attendre d'eux attention ou admiration.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "egocentrisme",
+   "links": [
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "critere",
+     "basis": "CDDR 6D11.2 (égocentrisme) ; Bach et First, 2018",
+     "summary": "Le sentiment d'avoir des droits particuliers fait partie de la dissocialité.",
+     "sources": [
+      "oms_cddr",
+      "icd11_mms",
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_ne_pas_tenir_engagements",
+   "canonical": false,
+   "theme": "place_relations",
+   "label": "Laisser tomber ses engagements",
+   "description": "Manquer souvent à ses obligations : dettes, travail, promesses, rendez-vous.",
+   "examples": [],
+   "safety": null,
+   "overlap_group": "irresponsabilite",
+   "links": [
+    {
+     "outcome": "ten_traits_personnalite_antisociale",
+     "strength": "moderee",
+     "basis": "Bach et First, 2018 (désinhibition : irresponsabilité)",
+     "summary": "L'irresponsabilité est souvent associée aux traits antisociaux.",
+     "sources": [
+      "bach2018_personnalite"
+     ]
+    },
+    {
+     "outcome": "ten_impulsivite",
+     "strength": "limitee",
+     "basis": "Bach et First, 2018 (désinhibition)",
+     "summary": "Ce signe touche l'impulsivité sans lui être propre.",
+     "sources": [
+      "bach2018_personnalite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_se_blesser_sans_vouloir_mourir",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Se blesser exprès sans chercher à mourir",
+   "description": "Se faire mal volontairement (coupures, brûlures, coups) sans l'intention de mettre fin à ses jours.",
+   "examples": [],
+   "safety": "automutilation",
+   "overlap_group": "automutilation",
+   "links": [
+    {
+     "outcome": "ten_automutilations_non_suicidaires",
+     "strength": "critere",
+     "basis": "définition du repère ; Nock, 2009 (atteinte directe et délibérée au corps, sans intention de mourir)",
+     "summary": "C'est la définition même des automutilations sans intention suicidaire.",
+     "sources": [
+      "nock2009_automutilation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_se_blesser_plusieurs_fois",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "S'être fait du mal à plusieurs reprises",
+   "description": "Avoir recommencé à se blesser volontairement, à plusieurs moments de l'année.",
+   "examples": [],
+   "safety": "automutilation",
+   "overlap_group": "automutilation",
+   "links": [
+    {
+     "outcome": "ten_automutilations_non_suicidaires",
+     "strength": "critere",
+     "basis": "définition du repère ; Liu et al., 2018 (automutilation répétée)",
+     "summary": "La répétition des gestes fait partie de ce que mesurent les études sur ce repère.",
+     "sources": [
+      "liu2018_nssi",
+      "nock2009_automutilation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_se_blesser_pour_soulager",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Se faire du mal pour calmer une émotion",
+   "description": "Se blesser pour soulager une tension, une douleur intérieure ou pour se punir.",
+   "examples": [],
+   "safety": "automutilation",
+   "overlap_group": "fonction_automutilation",
+   "links": [
+    {
+     "outcome": "ten_automutilations_non_suicidaires",
+     "strength": "moderee",
+     "basis": "Nock, 2009 (fonctions de régulation émotionnelle et d'autopunition)",
+     "summary": "Soulager une émotion ou se punir sont les raisons les plus souvent décrites.",
+     "sources": [
+      "nock2009_automutilation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cmp_envie_de_se_blesser",
+   "canonical": false,
+   "theme": "emotions_colere",
+   "label": "Avoir envie de se faire du mal",
+   "description": "Des pensées ou envies pressantes de se blesser, même sans passer à l'acte.",
+   "examples": [],
+   "safety": "automutilation",
+   "overlap_group": "envie_automutilation",
+   "links": [
+    {
+     "outcome": "ten_automutilations_non_suicidaires",
+     "strength": "moderee",
+     "basis": "Nock, 2009 (pensées associées aux automutilations)",
+     "summary": "Les envies de se blesser accompagnent souvent les automutilations.",
+     "sources": [
+      "nock2009_automutilation"
+     ]
+    }
+   ]
+  }
+ ],
+ "links_to_canonical": [
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "icd_6c40_2",
+   "strength": "critere",
+   "basis": "CDDR 6C40.2, caractéristique essentielle (contrôle altéré)",
+   "summary": "Avoir du mal à s'arrêter une fois lancé traduit la perte de contrôle centrale de ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "ten_usage_cannabis",
+   "strength": "critere",
+   "basis": "CDDR 6C41.2, caractéristique essentielle (contrôle altéré)",
+   "summary": "Avoir du mal à s'arrêter une fois lancé traduit la perte de contrôle centrale de ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "ten_usage_substances",
+   "strength": "critere",
+   "basis": "définition du repère (usage difficile à contrôler)",
+   "summary": "Avoir du mal à s'arrêter une fois lancé traduit la perte de contrôle centrale de ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "ten_jeu_argent_problematique",
+   "strength": "critere",
+   "basis": "CDDR 6C50, caractéristique essentielle (contrôle altéré)",
+   "summary": "Avoir du mal à s'arrêter une fois lancé traduit la perte de contrôle centrale de ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "ten_ecrans",
+   "strength": "critere",
+   "basis": "CDDR 6C51, caractéristique essentielle (contrôle altéré) ; définition du repère",
+   "summary": "Avoir du mal à s'arrêter une fois lancé traduit la perte de contrôle centrale de ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "ten_sexualite_compulsive",
+   "strength": "critere",
+   "basis": "CDDR 6C72, caractéristique essentielle ; Kraus et al., 2018",
+   "summary": "La difficulté à s'arrêter traduit l'échec à maîtriser ces pratiques.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms",
+    "kraus2018_csbd"
+   ]
+  },
+  {
+   "symptom": "difficile_de_s_arreter",
+   "outcome": "icd_6b82",
+   "strength": "limitee",
+   "basis": "signe non spécifique",
+   "summary": "Ce signe général peut concerner la nourriture mais ne décrit pas précisément une crise.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6c40_2",
+   "strength": "moderee",
+   "basis": "CDDR, caractéristique associée (usage pour soulager un malaise)",
+   "summary": "Consommer ou manger pour apaiser un malaise accompagne souvent ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "ten_usage_cannabis",
+   "strength": "moderee",
+   "basis": "CDDR, caractéristique associée (usage pour soulager un malaise)",
+   "summary": "Consommer ou manger pour apaiser un malaise accompagne souvent ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "ten_usage_substances",
+   "strength": "moderee",
+   "basis": "CDDR, caractéristique associée (usage pour soulager un malaise)",
+   "summary": "Consommer ou manger pour apaiser un malaise accompagne souvent ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "ten_ecrans",
+   "strength": "moderee",
+   "basis": "CDDR, caractéristique associée (usage pour soulager un malaise)",
+   "summary": "Consommer ou manger pour apaiser un malaise accompagne souvent ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6b82",
+   "strength": "moderee",
+   "basis": "CDDR, caractéristique associée (usage pour soulager un malaise)",
+   "summary": "Consommer ou manger pour apaiser un malaise accompagne souvent ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "icd_6b81_boulimie",
+   "strength": "moderee",
+   "basis": "CDDR, caractéristique associée (usage pour soulager un malaise)",
+   "summary": "Consommer ou manger pour apaiser un malaise accompagne souvent ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "ten_tabagisme_persistant",
+   "strength": "moderee",
+   "basis": "CDDR 6C4A, caractéristique associée",
+   "summary": "Fumer pour se calmer est fréquent chez les fumeurs quotidiens.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "consommer_pour_apaiser",
+   "outcome": "ten_jeu_argent_problematique",
+   "strength": "moderee",
+   "basis": "CDDR 6C50, caractéristique associée",
+   "summary": "Jouer pour échapper à un malaise est souvent décrit dans le trouble du jeu.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "changement_appetit",
+   "outcome": "icd_6b80",
+   "strength": "limitee",
+   "basis": "signe fréquent et non spécifique",
+   "summary": "Un changement d'appétit est fréquent dans beaucoup de situations.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "changement_appetit",
+   "outcome": "icd_6b81_boulimie",
+   "strength": "limitee",
+   "basis": "signe fréquent et non spécifique",
+   "summary": "Un changement d'appétit est fréquent dans beaucoup de situations.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "changement_appetit",
+   "outcome": "icd_6b82",
+   "strength": "limitee",
+   "basis": "signe fréquent et non spécifique",
+   "summary": "Un changement d'appétit est fréquent dans beaucoup de situations.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "changement_appetit",
+   "outcome": "icd_6b81",
+   "strength": "limitee",
+   "basis": "signe fréquent et non spécifique",
+   "summary": "Un changement d'appétit est fréquent dans beaucoup de situations.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "mal_a_s_endormir",
+   "outcome": "ten_sommeil",
+   "strength": "critere",
+   "basis": "définition du repère ; CIM-11 7A00 (difficulté à s'endormir ou à rester endormi) ; Riemann et al., 2023",
+   "summary": "Ce signe fait partie de la définition des difficultés de sommeil.",
+   "sources": [
+    "icd11_mms",
+    "riemann2023_insomnie"
+   ]
+  },
+  {
+   "symptom": "reveils_nocturnes",
+   "outcome": "ten_sommeil",
+   "strength": "critere",
+   "basis": "définition du repère ; CIM-11 7A00 (difficulté à s'endormir ou à rester endormi) ; Riemann et al., 2023",
+   "summary": "Ce signe fait partie de la définition des difficultés de sommeil.",
+   "sources": [
+    "icd11_mms",
+    "riemann2023_insomnie"
+   ]
+  },
+  {
+   "symptom": "cauchemars_repetes",
+   "outcome": "ten_sommeil",
+   "strength": "critere",
+   "basis": "définition du repère (cauchemars qui reviennent)",
+   "summary": "Les cauchemars répétés font partie de ce que décrit ce repère.",
+   "sources": [
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "trop_dormir",
+   "outcome": "ten_sommeil",
+   "strength": "limitee",
+   "basis": "hors définition du repère (insomnie, cauchemars)",
+   "summary": "Dormir beaucoup peut accompagner un mauvais sommeil mais relève d'autres difficultés.",
+   "sources": [
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "fatigue_manque_energie",
+   "outcome": "ten_sommeil",
+   "strength": "moderee",
+   "basis": "CIM-11 7A00 (fatigue diurne fréquente) ; Riemann et al., 2023",
+   "summary": "La fatigue de journée accompagne souvent l'insomnie.",
+   "sources": [
+    "riemann2023_insomnie"
+   ]
+  },
+  {
+   "symptom": "fatigue_manque_energie",
+   "outcome": "icd_6c20",
+   "strength": "moderee",
+   "basis": "Gureje et Reed, 2016 (la fatigue peut être la plainte principale)",
+   "summary": "La fatigue peut être le symptôme principal d'une détresse corporelle.",
+   "sources": [
+    "gureje2016_detresse"
+   ]
+  },
+  {
+   "symptom": "maux_physiques_frequents",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "critere",
+   "basis": "définition du repère (maux physiques à répétition)",
+   "summary": "Avoir souvent mal quelque part est au cœur de ce repère.",
+   "sources": [
+    "treede2019_douleur"
+   ]
+  },
+  {
+   "symptom": "maux_physiques_frequents",
+   "outcome": "icd_6c20",
+   "strength": "critere",
+   "basis": "CDDR 6C20, caractéristique essentielle (symptômes corporels pénibles) ; Gureje et Reed, 2016",
+   "summary": "Des douleurs fréquentes peuvent constituer les symptômes corporels pénibles de ce trouble.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms",
+    "gureje2016_detresse"
+   ]
+  },
+  {
+   "symptom": "tension_musculaire",
+   "outcome": "ten_douleurs_persistantes",
+   "strength": "limitee",
+   "basis": "signe fréquent et non spécifique",
+   "summary": "Les tensions musculaires sont courantes et peu spécifiques.",
+   "sources": [
+    "treede2019_douleur"
+   ]
+  },
+  {
+   "symptom": "agir_sur_un_coup_de_tete",
+   "outcome": "ten_impulsivite",
+   "strength": "critere",
+   "basis": "définition du repère ; Cyders et Smith, 2008 (manque de préméditation)",
+   "summary": "Agir sans prendre le temps de réfléchir est la définition même de ce trait.",
+   "sources": [
+    "cyders2008_urgence"
+   ]
+  },
+  {
+   "symptom": "agir_sur_un_coup_de_tete",
+   "outcome": "sch_controle_insuffisant",
+   "strength": "critere",
+   "basis": "définition de Young (difficulté à retenir ses impulsions)",
+   "summary": "La difficulté à retenir ses impulsions fait partie de ce schéma.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "agir_sur_un_coup_de_tete",
+   "outcome": "ten_externalisation",
+   "strength": "limitee",
+   "basis": "signe non spécifique",
+   "summary": "Agir sur un coup de tête est fréquent bien au-delà des conduites d'opposition.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "difficultes_concentration",
+   "outcome": "ten_procrastination",
+   "strength": "limitee",
+   "basis": "Steel, 2007 (distractibilité associée)",
+   "summary": "La distraction favorise le report, sans être propre à la procrastination.",
+   "sources": [
+    "steel2007_procrastination"
+   ]
+  },
+  {
+   "symptom": "colere_qui_deborde",
+   "outcome": "ten_externalisation",
+   "strength": "critere",
+   "basis": "définition du repère (colères) ; CDDR 6C90 (irritabilité et colère)",
+   "summary": "Des colères qui débordent font partie de ce que recouvre ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "colere_qui_deborde",
+   "outcome": "sch_controle_insuffisant",
+   "strength": "moderee",
+   "basis": "définition de Young (difficulté à retenir l'expression des émotions)",
+   "summary": "Ce schéma décrit aussi la difficulté à contenir l'expression des émotions.",
+   "sources": [
+    "young_schemas"
+   ]
+  },
+  {
+   "symptom": "irritabilite",
+   "outcome": "ten_externalisation",
+   "strength": "moderee",
+   "basis": "CDDR 6C90 (forme avec irritabilité chronique et colère)",
+   "summary": "L'irritabilité accompagne souvent l'opposition.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  },
+  {
+   "symptom": "se_faire_du_mal",
+   "outcome": "ten_automutilations_non_suicidaires",
+   "strength": "critere",
+   "basis": "définition du repère ; Nock, 2009",
+   "summary": "Se faire du mal volontairement est le geste que désigne ce repère ; l'intention doit être évaluée.",
+   "sources": [
+    "nock2009_automutilation"
+   ]
+  },
+  {
+   "symptom": "emotions_difficiles_a_apaiser",
+   "outcome": "ten_automutilations_non_suicidaires",
+   "strength": "moderee",
+   "basis": "Nock, 2009 (régulation des émotions)",
+   "summary": "Les automutilations servent souvent à apaiser des émotions très fortes.",
+   "sources": [
+    "nock2009_automutilation"
+   ]
+  },
+  {
+   "symptom": "peu_de_desir_sexuel",
+   "outcome": "ten_difficultes_sexuelles",
+   "strength": "critere",
+   "basis": "CIM-11 HA00 ; Reed et al., 2016 ; définition du repère",
+   "summary": "Un désir faible ou absent est l'une des difficultés sexuelles décrites.",
+   "sources": [
+    "icd11_mms",
+    "reed2016_sexualite"
+   ]
+  },
+  {
+   "symptom": "se_mefier_des_autres",
+   "outcome": "ten_traits_personnalite_antisociale",
+   "strength": "limitee",
+   "basis": "signe non spécifique",
+   "summary": "La méfiance est fréquente dans bien des situations et ne caractérise pas ce repère.",
+   "sources": [
+    "oms_cddr",
+    "icd11_mms"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "oms_cddr",
+   "type": "classification",
+   "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+   "url": "https://www.who.int/publications/i/item/9789240077263",
+   "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+  },
+  {
+   "id": "icd11_mms",
+   "type": "classification",
+   "citation": "OMS, Classification internationale des maladies, 11e révision (CIM-11), statistiques de mortalité et de morbidité (MMS), version 2026-01, chapitre 06",
+   "url": "https://icd.who.int/browse/2026-01/mms/fr",
+   "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
+  },
+  {
+   "id": "kraus2018_csbd",
+   "type": "revue",
+   "citation": "Kraus SW, Krueger RB, Briken P, et al., 2018, Compulsive sexual behaviour disorder in the ICD-11, World Psychiatry 17(1):109-110",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5775124/",
+   "licence": "Texte intégral en libre accès (PMC), droits des auteurs et de la WPA ; paraphrase et citation seulement"
+  },
+  {
+   "id": "reed2016_sexualite",
+   "type": "revue",
+   "citation": "Reed GM, Drescher J, Krueger RB, et al., 2016, Disorders related to sexuality and gender identity in the ICD-11, World Psychiatry 15(3):205-221, doi:10.1002/wps.20354",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5032510/",
+   "licence": "Texte intégral en libre accès (PMC), droits des auteurs et de la WPA ; paraphrase et citation seulement"
+  },
+  {
+   "id": "gureje2016_detresse",
+   "type": "revue",
+   "citation": "Gureje O, Reed GM, 2016, Bodily distress disorder in ICD-11: problems and prospects, World Psychiatry 15(3):291-292, doi:10.1002/wps.20353",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5032513/",
+   "licence": "Texte intégral en libre accès (PMC), droits des auteurs et de la WPA ; paraphrase et citation seulement"
+  },
+  {
+   "id": "treede2019_douleur",
+   "type": "revue",
+   "citation": "Treede RD, Rief W, Barke A, et al., 2019, Chronic pain as a symptom or a disease: the IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11), Pain 160(1):19-27, doi:10.1097/j.pain.0000000000001384",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30586067/",
+   "licence": "Résumé lu (Europe PMC) ; droits de l'éditeur, paraphrase et citation seulement"
+  },
+  {
+   "id": "riemann2023_insomnie",
+   "type": "revue",
+   "citation": "Riemann D, Espie CA, Altena E, et al., 2023, The European Insomnia Guideline: an update on the diagnosis and treatment of insomnia 2023, Journal of Sleep Research 32(6):e14035",
+   "url": "https://doi.org/10.1111/jsr.14035",
+   "licence": "CC BY 4.0 (libre accès) ; définition CIM-11 7A00 reprise dans le tableau 3, paraphrasée ici"
+  },
+  {
+   "id": "steel2007_procrastination",
+   "type": "revue",
+   "citation": "Steel P, 2007, The nature of procrastination: a meta-analytic and theoretical review of quintessential self-regulatory failure, Psychological Bulletin 133(1):65-94",
+   "url": "https://doi.org/10.1037/0033-2909.133.1.65",
+   "licence": "© APA ; définition et résultats paraphrasés, citation seulement"
+  },
+  {
+   "id": "cyders2008_urgence",
+   "type": "revue",
+   "citation": "Cyders MA, Smith GT, 2008, Emotion-based dispositions to rash action: positive and negative urgency, Psychological Bulletin 134(6):807-828",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2705930/",
+   "licence": "Manuscrit auteur en libre accès (PMC) ; © APA, paraphrase et citation seulement"
+  },
+  {
+   "id": "bach2018_personnalite",
+   "type": "revue",
+   "citation": "Bach B, First MB, 2018, Application of the ICD-11 classification of personality disorders, BMC Psychiatry 18:351, doi:10.1186/s12888-018-1908-3",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6206910/",
+   "licence": "CC BY 4.0 (libre accès)"
+  },
+  {
+   "id": "nock2009_automutilation",
+   "type": "revue",
+   "citation": "Nock MK, 2009, Why do people hurt themselves? New insights into the nature and functions of self-injury, Current Directions in Psychological Science 18(2):78-83, doi:10.1111/j.1467-8721.2009.01613.x",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2744421/",
+   "licence": "Manuscrit auteur en libre accès (PMC) ; paraphrase et citation seulement"
+  },
+  {
+   "id": "liu2018_nssi",
+   "type": "revue",
+   "citation": "Liu RT, Scopelliti KM, Pittman SK, Zamora AS, 2018, Childhood maltreatment and non-suicidal self-injury: A systematic review and meta-analysis, Lancet Psychiatry 5(1):51-64",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5743605/",
+   "licence": "Manuscrit auteur en libre accès (PMC) ; source déjà lue pour data/cartographie.json, paraphrase et citation seulement"
+  },
+  {
+   "id": "young_schemas",
+   "type": "manuel",
+   "citation": "Young JE, Schema Therapy Institute, Early Maladaptive Schemas (liste et définitions des 18 schémas)",
+   "url": "https://www.schematherapy.com/id73.htm",
+   "licence": "© Schema Therapy Institute ; définition paraphrasée, citation seulement"
+  },
+  {
+   "id": "arriola2005",
+   "type": "revue",
+   "citation": "Arriola KR, Louden T, Doldren MA, Fortenberry RM, 2005, A meta-analysis of the relationship of child sexual abuse to HIV risk behavior among women, Child Abuse & Neglect 29(6):725-746",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15979712/",
+   "licence": "Résumé et notices secondaires seulement ; droits de l'éditeur, citation seulement"
+  },
+  {
+   "id": "taha2014_tabac",
+   "type": "etude",
+   "citation": "Taha F, Galea S, Hien D, Goodwin RD, 2014, Childhood maltreatment and the persistence of smoking: A longitudinal study among adults in the US, Child Abuse & Neglect 38:1995–2006",
+   "url": "https://www.midus.wisc.edu/findings/pdfs/1405.pdf",
+   "licence": "PDF auteur ; source déjà lue pour data/cartographie.json, citation seulement"
+  }
+ ]
+}

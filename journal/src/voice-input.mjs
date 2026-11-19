@@ -6,7 +6,7 @@ export function createVoiceInput(options, platform=globalThis){
  const delay=platform.setTimeout?.bind(platform)||setTimeout;
  const clearDelay=platform.clearTimeout?.bind(platform)||clearTimeout;
  const review='Vous pouvez relire le texte avant de l’envoyer.';
- let recognition=null,phase='idle',disposed=false,phaseTimer=null,localReady=false;
+ let recognition=null,phase='idle',disposed=false,phaseTimer=null,localReady=false,localAsked=false;
  let original='',lastValue=input.value||'',prefix='',suffix='';
  const current=()=>!disposed&&isCurrent()&&input.isConnected!==false;
  const inProgress=()=>phase!=='idle';
@@ -46,7 +46,7 @@ export function createVoiceInput(options, platform=globalThis){
  }
  function dispose(){
   if(disposed)return;
-  stop('');disposed=true;button.removeEventListener('click',toggle);input.removeEventListener('input',manualEdit);
+  stop('');disposed=true;button.removeEventListener('click',toggle);button.removeEventListener('pointerdown',askLocal);button.removeEventListener('keydown',askLocal);input.removeEventListener('input',manualEdit);
   platform.document?.removeEventListener('visibilitychange',visibility);platform.removeEventListener?.('pagehide',pagehide);
  }
  function manualEdit(){
@@ -54,8 +54,18 @@ export function createVoiceInput(options, platform=globalThis){
  }
  function visibility(){if(platform.document?.visibilityState==='hidden'&&inProgress())stop('Dictée arrêtée lorsque la page est masquée.');}
  function pagehide(){if(inProgress())stop('');}
+ // Lot P: on-device availability is asked only once the person reaches for the microphone
+ // (pointer, keyboard or first start), never while the page loads, and never twice. Some
+ // browsers crashed the tab when available() ran during page load.
+ function askLocal(){
+  if(localAsked||disposed)return;localAsked=true;
+  let probe=null;try{probe=Recognition&&typeof Recognition.available==='function'?Recognition.available:null;}catch{probe=null;}
+  if(!probe)return;
+  try{Promise.resolve(probe.call(Recognition,{langs:['fr-FR'],processLocally:true})).then(value=>{localReady=value==='available';},()=>{});}catch{}
+ }
  function start(){
   if(!Recognition||!current()||input.disabled||inProgress())return;
+  askLocal();
   let instance;
   try{instance=new Recognition();}catch{announce('La dictée est indisponible dans ce navigateur.');return;}
   recognition=instance;phase='starting';
@@ -110,9 +120,7 @@ export function createVoiceInput(options, platform=globalThis){
  }
  function toggle(){if(phase==='finishing')return;if(inProgress())finish();else start();}
  if(!Recognition){state();announce('La dictée est indisponible ici. Vous pouvez utiliser le micro de votre clavier.');return {stop,dispose,isActive:()=>false};}
- if(typeof Recognition.available==='function'){
-  try{Promise.resolve(Recognition.available({langs:['fr-FR'],processLocally:true})).then(value=>{localReady=value==='available';},()=>{});}catch{}
- }
+ button.addEventListener('pointerdown',askLocal);button.addEventListener('keydown',askLocal);
  button.addEventListener('click',toggle);input.addEventListener('input',manualEdit);
  platform.document?.addEventListener('visibilitychange',visibility);platform.addEventListener?.('pagehide',pagehide);state();
  return {stop,dispose,isActive:inProgress};

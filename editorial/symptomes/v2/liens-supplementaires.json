@@ -1,0 +1,4908 @@
+{
+  "domain": "supplementaires",
+  "symptoms": [
+    {
+      "id": "sup_attention_qui_decroche",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Décrocher vite d'une tâche peu stimulante",
+      "description": "Perdre l'attention sur ce qui est long, répétitif ou peu intéressant, et laisser des tâches inachevées.",
+      "examples": [
+        "Abandonner un formulaire à moitié rempli"
+      ],
+      "safety": null,
+      "overlap_group": "attention_soutenue",
+      "links": [
+        {
+          "outcome": "sym_6a05",
+          "strength": "critere",
+          "basis": "CDDR 6A05, caractéristique essentielle",
+          "summary": "Peiner à rester attentif sur une tâche peu stimulante fait partie des signes d'inattention décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_oublis_quotidiens",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Oublier ou perdre souvent des choses",
+      "description": "Égarer clés ou papiers, oublier des rendez-vous ou des tâches prévues dans la journée.",
+      "examples": [
+        "Chercher ses clés plusieurs fois par semaine"
+      ],
+      "safety": null,
+      "overlap_group": "oublis_quotidiens",
+      "links": [
+        {
+          "outcome": "sym_6a05",
+          "strength": "critere",
+          "basis": "CDDR 6A05, caractéristique essentielle",
+          "summary": "Les oublis et pertes d'objets au quotidien font partie des signes d'inattention décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_s_organiser",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à organiser ses tâches",
+      "description": "Peiner à planifier, à fixer des priorités et à gérer son temps.",
+      "examples": [
+        "Commencer plusieurs choses sans en finir aucune"
+      ],
+      "safety": null,
+      "overlap_group": "organisation",
+      "links": [
+        {
+          "outcome": "sym_6a05",
+          "strength": "critere",
+          "basis": "CDDR 6A05, caractéristique essentielle",
+          "summary": "La difficulté à planifier et organiser ses activités fait partie des signes d'inattention décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_besoin_de_bouger",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à rester en place",
+      "description": "Ressentir le besoin de bouger, de gigoter ou de se lever quand il faut rester assis longtemps.",
+      "examples": [
+        "Tapoter du pied pendant une réunion"
+      ],
+      "safety": null,
+      "overlap_group": "agitation_motrice",
+      "links": [
+        {
+          "outcome": "sym_6a05",
+          "strength": "critere",
+          "basis": "CDDR 6A05, caractéristique essentielle",
+          "summary": "Une agitation physique difficile à contenir fait partie des signes d'hyperactivité décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_couper_la_parole",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Couper la parole ou répondre très vite",
+      "description": "Finir les phrases des autres, répondre avant la fin d'une question, avoir du mal à attendre son tour.",
+      "examples": [
+        "Répondre avant que la question soit finie"
+      ],
+      "safety": null,
+      "overlap_group": "impulsivite_verbale",
+      "links": [
+        {
+          "outcome": "sym_6a05",
+          "strength": "critere",
+          "basis": "CDDR 6A05, caractéristique essentielle",
+          "summary": "Parler ou répondre sans attendre son tour fait partie des signes d'impulsivité décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_sous_entendus_difficiles",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir du mal à saisir les sous-entendus",
+      "description": "Comprendre les mots mais pas toujours l'ironie, les allusions ou ce que les autres attendent.",
+      "examples": [
+        "Prendre une plaisanterie au premier degré"
+      ],
+      "safety": null,
+      "overlap_group": "codes_sociaux",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "Une compréhension limitée des messages sociaux implicites fait partie des différences de communication décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conversation_difficile",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Trouver difficile d'entretenir une conversation",
+      "description": "Ne pas savoir comment lancer, faire durer ou terminer un échange, surtout informel.",
+      "examples": [
+        "Ne pas savoir quoi dire à la machine à café"
+      ],
+      "safety": null,
+      "overlap_group": "echange_reciproque",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "La difficulté à engager et faire vivre un échange réciproque est une caractéristique centrale décrite.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_regard_expressions_difficiles",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir du mal avec le regard et les expressions",
+      "description": "Trouver difficile de regarder dans les yeux ou de lire les visages, les gestes et le ton de la voix.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "non_verbal",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "Les difficultés avec le regard, les gestes et les expressions font partie des différences de communication décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_besoin_routines",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Être très perturbé par les changements de routine",
+      "description": "Avoir besoin que les choses se passent de la même façon, et être très mal face à l'imprévu.",
+      "examples": [
+        "Être bouleversé par un trajet modifié"
+      ],
+      "safety": null,
+      "overlap_group": "routines_immuables",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "Un besoin fort de routines et une grande gêne face au changement font partie des comportements restreints décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_interets_tres_intenses",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir des centres d'intérêt très intenses",
+      "description": "Consacrer beaucoup de temps et d'attention à un sujet précis, au point que le reste passe après.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "interets_restreints",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "Des intérêts très intenses et ciblés font partie des comportements restreints décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_sensibilite_sensorielle",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Être très sensible aux sons, lumières ou textures",
+      "description": "Être gêné ou débordé par des bruits, lumières, odeurs ou contacts que d'autres supportent sans peine.",
+      "examples": [
+        "Ne pas supporter une étiquette de vêtement"
+      ],
+      "safety": null,
+      "overlap_group": "sensoriel",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "Une sensibilité marquée aux sensations fait partie des caractéristiques restreintes et répétitives décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_gestes_repetitifs_apaisants",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Faire des gestes répétitifs pour se calmer",
+      "description": "Se balancer, agiter les mains ou répéter un mouvement, souvent pour s'apaiser ou se concentrer.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "mouvements_repetitifs",
+      "links": [
+        {
+          "outcome": "sym_6a02",
+          "strength": "critere",
+          "basis": "CDDR 6A02, caractéristique essentielle",
+          "summary": "Des mouvements répétitifs font partie des comportements restreints et répétitifs décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_lecture_laborieuse",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Lire lentement ou avec beaucoup d'effort",
+      "description": "Déchiffrer les mots avec peine, devoir relire, se fatiguer vite en lisant, malgré une scolarité suivie.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "lecture",
+      "links": [
+        {
+          "outcome": "sym_6a03",
+          "strength": "critere",
+          "basis": "CDDR 6A03, caractéristique essentielle",
+          "summary": "Des difficultés marquées et durables pour lire peuvent relever de ce trouble lorsque l'enseignement a été adapté.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_ecriture_laborieuse",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir beaucoup de mal à écrire",
+      "description": "Faire de nombreuses fautes ou peiner à organiser un texte écrit, malgré des efforts répétés.",
+      "examples": [
+        "Faire relire chaque courriel important"
+      ],
+      "safety": null,
+      "overlap_group": "ecriture",
+      "links": [
+        {
+          "outcome": "sym_6a03",
+          "strength": "critere",
+          "basis": "CDDR 6A03, caractéristique essentielle",
+          "summary": "Des difficultés marquées et durables pour écrire peuvent relever de ce trouble lorsque l'enseignement a été adapté.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_calcul_difficile",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir beaucoup de mal avec les chiffres",
+      "description": "Peiner avec les opérations simples, les ordres de grandeur ou le calcul mental du quotidien.",
+      "examples": [
+        "Avoir du mal à vérifier une monnaie rendue"
+      ],
+      "safety": null,
+      "overlap_group": "calcul",
+      "links": [
+        {
+          "outcome": "sym_6a03",
+          "strength": "critere",
+          "basis": "CDDR 6A03, caractéristique essentielle",
+          "summary": "Des difficultés marquées et durables en calcul peuvent relever de ce trouble lorsque l'enseignement a été adapté.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tics_moteurs",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir des mouvements brusques involontaires",
+      "description": "Des gestes soudains et répétés, comme cligner des yeux, hausser une épaule ou tourner la tête.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tics_moteurs",
+      "links": [
+        {
+          "outcome": "sym_8a05",
+          "strength": "critere",
+          "basis": "CDDR 8A05.0, caractéristique essentielle",
+          "summary": "Des mouvements soudains, rapides et répétés, faits sans le vouloir, définissent les tics moteurs.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tics_vocaux",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Émettre des sons ou des mots involontaires",
+      "description": "Des bruits soudains et répétés : raclements de gorge, reniflements, petits cris ou mots.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tics_vocaux",
+      "links": [
+        {
+          "outcome": "sym_8a05",
+          "strength": "critere",
+          "basis": "CDDR 8A05.0, caractéristique essentielle",
+          "summary": "Des sons soudains et répétés, faits sans le vouloir, définissent les tics vocaux.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tics_depuis_la_jeunesse",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir des gestes ou sons involontaires depuis la jeunesse",
+      "description": "Des gestes ou des sons involontaires apparus dans l'enfance ou l'adolescence et présents depuis plus d'un an.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tics_duree",
+      "links": [
+        {
+          "outcome": "sym_8a05",
+          "strength": "critere",
+          "basis": "CDDR 8A05.0, caractéristique essentielle",
+          "summary": "Les tics primaires débutent pendant le développement et durent souvent plus d'un an.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_envie_avant_tic",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Sentir une envie pressante avant un geste ou un son",
+      "description": "Une sensation de tension qui pousse à faire un geste ou un son, et qui se calme une fois fait.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "envie_premonitoire",
+      "links": [
+        {
+          "outcome": "sym_8a05",
+          "strength": "moderee",
+          "basis": "CDDR 8A05.0, caractéristique associée",
+          "summary": "Beaucoup de personnes ressentent une envie ou une tension juste avant un tic.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_entendre_voix",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Entendre ou voir des choses que d'autres ne perçoivent pas",
+      "description": "Entendre parler alors que personne n'est là, ou voir, sentir des choses que l'entourage ne perçoit pas.",
+      "examples": [
+        "Entendre une voix commenter ce que l'on fait"
+      ],
+      "safety": null,
+      "overlap_group": "hallucinations",
+      "links": [
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Percevoir ce que les autres ne perçoivent pas fait partie des symptômes psychotiques requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Des perceptions sans objet peuvent faire partie de l'épisode psychotique bref.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conviction_etre_vise",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être convaincu d'être surveillé ou visé",
+      "description": "Avoir la certitude qu'on cherche à vous nuire ou à vous espionner, sans que les proches partagent cette idée.",
+      "examples": [
+        "Penser que des voisins organisent un complot"
+      ],
+      "safety": null,
+      "overlap_group": "idees_persecution",
+      "links": [
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Une conviction ferme d'être visé fait partie des symptômes psychotiques requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Des convictions délirantes peuvent faire partie de l'épisode psychotique bref.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle",
+          "summary": "La conviction d'être persécuté est une des formes fréquentes de ce trouble.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_pensees_imposees",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Sentir ses pensées ou ses gestes contrôlés de l'extérieur",
+      "description": "Avoir l'impression que des pensées sont imposées, volées ou entendues, ou qu'une force dirige ses actes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "influence_passivite",
+      "links": [
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "L'impression que ses pensées ou actes sont contrôlés de l'extérieur fait partie des symptômes requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "L'impression d'être contrôlé de l'extérieur peut faire partie de l'épisode psychotique bref.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_pensee_embrouillee",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir des pensées qui s'embrouillent fortement",
+      "description": "Perdre le fil au point que les autres ne comprennent plus ce qu'on dit, ou sauter d'une idée à l'autre sans lien.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "desorganisation_pensee",
+      "links": [
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Une pensée fortement désorganisée fait partie des symptômes psychotiques requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Une pensée désorganisée peut faire partie de l'épisode psychotique bref.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_elan_et_emotions_eteints",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir très peu d'élan et d'émotions visibles",
+      "description": "Ressentir et montrer peu d'émotions, parler peu, avoir du mal à entreprendre quoi que ce soit, durablement.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "symptomes_negatifs",
+      "links": [
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Un manque durable d'élan et d'expression émotionnelle fait partie des symptômes dits négatifs.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_basculement_rapide_perceptions",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Basculer en quelques jours dans des idées ou perceptions très inhabituelles",
+      "description": "Des voix, des idées étranges ou une confusion apparues en moins de deux semaines, qui changent d'un jour à l'autre.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "debut_brutal_psychose",
+      "links": [
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Un début en moins de deux semaines et des symptômes très changeants caractérisent ce trouble.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_croyances_inhabituelles",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir des croyances inhabituelles qui guident ses choix",
+      "description": "Croire à la télépathie, aux signes ou à un sixième sens au point que cela oriente ses décisions.",
+      "examples": [
+        "Changer de trajet à cause d'un signe"
+      ],
+      "safety": null,
+      "overlap_group": "pensee_magique",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle",
+          "summary": "Des croyances inhabituelles qui influencent la conduite font partie du tableau durable décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_perceptions_etranges",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir des perceptions étranges",
+      "description": "Sentir une présence, voir des ombres bouger ou percevoir son corps transformé, sans être sûr que c'est réel.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "perceptions_inhabituelles",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle",
+          "summary": "Des perceptions inhabituelles, sans hallucinations franches et durables, font partie du tableau décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_surprendre_par_sa_facon_d_etre",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Surprendre souvent les autres par sa façon d'être",
+      "description": "Se voir souvent dire que sa façon de s'habiller, de parler ou d'agir étonne ou met mal à l'aise.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "excentricite",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle",
+          "summary": "Un comportement ou une apparence perçus comme singuliers font partie du tableau décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_paraitre_distant",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Paraître froid ou distant malgré soi",
+      "description": "Montrer peu d'émotions sur son visage ou dans sa voix, au point que les autres vous trouvent distant.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "affect_restreint",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle",
+          "summary": "Une expression émotionnelle restreinte, qui fait paraître distant, fait partie du tableau décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6d111",
+          "strength": "critere",
+          "basis": "CDDR 6D11.1, manifestation du domaine de traits",
+          "summary": "Une réserve et une expression émotionnelle limitée font partie du détachement émotionnel décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_parler_par_detours",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir une façon de parler vague ou détournée",
+      "description": "Faire de longs détours, employer des images ou des mots inhabituels, au point de perdre ceux qui écoutent.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "discours_inhabituel",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle",
+          "summary": "Une pensée et un discours vagues ou détournés, sans incohérence franche, font partie du tableau décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conviction_infidelite",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être certain que son partenaire est infidèle sans élément concret",
+      "description": "Une conviction de tromperie qui persiste malgré l'absence d'indices et occupe beaucoup l'esprit.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_jalousie",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle",
+          "summary": "La conviction infondée d'être trompé est une des formes décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conviction_corps_atteint",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être convaincu d'une atteinte du corps que les examens ne montrent pas",
+      "description": "Croire fermement que son corps est infesté, abîmé ou altéré, malgré des bilans rassurants.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_corporelle",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle",
+          "summary": "Une conviction ferme d'atteinte du corps, malgré des examens normaux, est une des formes décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conviction_destin_exceptionnel",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être convaincu d'avoir une mission ou un don exceptionnel",
+      "description": "Une certitude d'être appelé à un grand destin ou d'avoir fait une découverte majeure, que l'entourage ne partage pas.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_grandeur",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle",
+          "summary": "Une conviction de grandeur est une des formes décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conviction_etre_aime_en_secret",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être convaincu qu'une personne lointaine vous aime en secret",
+      "description": "Croire qu'une personne connue ou haut placée est amoureuse de soi et le fait savoir par des signes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_erotomanie",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle",
+          "summary": "La conviction d'être aimé en secret par une personne lointaine est une des formes décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_humeur_exaltee",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Vivre des jours d'euphorie ou d'irritabilité inhabituelle",
+      "description": "Se sentir pendant plusieurs jours exalté, plein d'entrain ou très irritable, nettement différent de d'ordinaire.",
+      "examples": [
+        "Des proches qui disent « tu n'es pas toi-même »"
+      ],
+      "safety": null,
+      "overlap_group": "elation",
+      "links": [
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Un épisode d'exaltation ou d'irritabilité marquée peut être l'épisode d'humeur qui accompagne la psychose.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "Une humeur exaltée ou irritable, nettement inhabituelle, est requise pour un épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a62",
+          "strength": "critere",
+          "basis": "CDDR 6A62, caractéristique essentielle",
+          "summary": "Les périodes hautes, plus légères qu'un épisode net, font partie du tableau.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_energie_debordante",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir une énergie ou une activité débordante",
+      "description": "Enchaîner projets et activités avec une énergie inhabituelle, plusieurs jours d'affilée.",
+      "examples": [
+        "Lancer trois projets dans la même semaine"
+      ],
+      "safety": null,
+      "overlap_group": "activite_accrue",
+      "links": [
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "Une hausse nette de l'énergie ou de l'activité est requise pour un épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a62",
+          "strength": "critere",
+          "basis": "CDDR 6A62, caractéristique essentielle",
+          "summary": "Une énergie accrue pendant les périodes hautes fait partie du tableau.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_moins_besoin_de_sommeil",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir besoin de beaucoup moins dormir",
+      "description": "Dormir peu pendant plusieurs jours tout en se sentant reposé et plein d'énergie.",
+      "examples": [
+        "Dormir 3 heures et se sentir en pleine forme"
+      ],
+      "safety": null,
+      "overlap_group": "besoin_sommeil_reduit",
+      "links": [
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "Un besoin de sommeil réduit, sans fatigue, fait partie des signes de l'épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_pensees_qui_s_emballent",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir des pensées qui s'accélèrent",
+      "description": "Des idées qui s'enchaînent très vite, au point d'avoir du mal à rester sur un sujet.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "acceleration_pensee",
+      "links": [
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "L'accélération des pensées fait partie des signes de l'épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_parler_beaucoup_plus",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Parler beaucoup plus ou plus vite que d'habitude",
+      "description": "Ressentir le besoin de parler sans arrêt, plus vite qu'à l'ordinaire, et être difficile à interrompre.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "logorrhee",
+      "links": [
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "Le besoin de parler davantage fait partie des signes de l'épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_assurance_inhabituelle",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Se sentir soudain beaucoup plus sûr de soi",
+      "description": "Se trouver pendant quelques jours bien plus capable, brillant ou important que d'habitude.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "estime_accrue",
+      "links": [
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "Une estime de soi gonflée fait partie des signes de l'épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_risques_pendant_periodes_d_elan",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Prendre des risques inhabituels pendant les périodes d'élan",
+      "description": "Dépenser, investir, conduire ou multiplier les rencontres sans mesurer les conséquences, à l'inverse de ses habitudes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conduites_risque_humeur",
+      "links": [
+        {
+          "outcome": "sym_6a61",
+          "strength": "critere",
+          "basis": "CDDR 6A61 et épisode hypomaniaque, caractéristique essentielle",
+          "summary": "Des conduites impulsives ou imprudentes font partie des signes de l'épisode hypomaniaque.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_alternance_hauts_et_bas",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Alterner sans cesse périodes d'entrain et de déprime",
+      "description": "Des hauts et des bas qui se succèdent depuis au moins deux ans, avec peu de périodes stables.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "alternance_humeur",
+      "links": [
+        {
+          "outcome": "sym_6a62",
+          "strength": "critere",
+          "basis": "CDDR 6A62, caractéristique essentielle",
+          "summary": "Une instabilité de l'humeur sur au moins deux ans, avec de nombreux hauts et bas, définit ce trouble.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_plusieurs_periodes_de_deprime",
+      "canonical": false,
+      "theme": "humeur",
+      "label": "Avoir connu plusieurs périodes de déprime séparées",
+      "description": "Au moins deux périodes de plusieurs semaines de tristesse ou de perte d'élan, entrecoupées de mois où cela allait.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "episodes_depressifs_repetes",
+      "links": [
+        {
+          "outcome": "sym_6a71",
+          "strength": "critere",
+          "basis": "CDDR 6A71, caractéristique essentielle",
+          "summary": "Au moins deux épisodes dépressifs séparés par plusieurs mois sans trouble net de l'humeur définissent ce trouble.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_impression_malheur_imminent",
+      "canonical": false,
+      "theme": "inquietudes_peurs",
+      "label": "Craindre qu'il arrive quelque chose de grave",
+      "description": "Avoir le sentiment diffus qu'un malheur va survenir, sans raison précise ni situation particulière.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "apprehension",
+      "links": [
+        {
+          "outcome": "sym_6a73",
+          "strength": "critere",
+          "basis": "CDDR 6A73, caractéristique essentielle",
+          "summary": "La crainte qu'un malheur survienne fait partie des signes anxieux requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6b00",
+          "strength": "critere",
+          "basis": "CDDR 6B00, caractéristique essentielle",
+          "summary": "Une appréhension diffuse, sans objet précis, est l'autre noyau possible du trouble.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peur_intense_objet_precis",
+      "canonical": false,
+      "theme": "inquietudes_peurs",
+      "label": "Avoir une peur intense d'un animal, d'un objet ou d'une situation précise",
+      "description": "Une peur forte et immédiate face à certains animaux, la hauteur, le sang, l'avion, un lieu clos…",
+      "examples": [
+        "Ne pas pouvoir rester dans une pièce avec une araignée"
+      ],
+      "safety": null,
+      "overlap_group": "peur_specifique",
+      "links": [
+        {
+          "outcome": "sym_6b03",
+          "strength": "critere",
+          "basis": "CDDR 6B03, caractéristique essentielle",
+          "summary": "Une peur marquée, déclenchée par un objet ou une situation précise, est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peur_plus_forte_que_le_danger",
+      "canonical": false,
+      "theme": "inquietudes_peurs",
+      "label": "Avoir une peur que l'on sait plus forte que le danger",
+      "description": "Savoir qu'un objet ou une situation est peu dangereux et en avoir pourtant très peur.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "disproportion_peur",
+      "links": [
+        {
+          "outcome": "sym_6b03",
+          "strength": "critere",
+          "basis": "CDDR 6B03, caractéristique essentielle",
+          "summary": "La peur doit être sans commune mesure avec le danger réel.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_endurer_avec_angoisse",
+      "canonical": false,
+      "theme": "inquietudes_peurs",
+      "label": "Affronter certaines situations au prix d'une forte angoisse",
+      "description": "Faire face à ce qui fait peur en serrant les dents, avec une angoisse intense jusqu'à la fin.",
+      "examples": [
+        "Prendre l'avion en tremblant tout le vol"
+      ],
+      "safety": null,
+      "overlap_group": "endurance_peur",
+      "links": [
+        {
+          "outcome": "sym_6b03",
+          "strength": "critere",
+          "basis": "CDDR 6B03, caractéristique essentielle",
+          "summary": "Quand ils ne sont pas évités, l'objet ou la situation sont subis avec une angoisse intense.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_defaut_physique_preoccupant",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Être préoccupé par un défaut physique que les autres voient peu",
+      "description": "Penser longuement chaque jour à un détail de son apparence jugé laid, que les autres remarquent à peine.",
+      "examples": [
+        "Penser sans cesse à la forme de son nez"
+      ],
+      "safety": null,
+      "overlap_group": "preoccupation_defaut",
+      "links": [
+        {
+          "outcome": "sym_6b21",
+          "strength": "critere",
+          "basis": "CDDR 6B21, caractéristique essentielle",
+          "summary": "Une préoccupation durable pour un défaut peu visible est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_croire_qu_on_remarque_son_defaut",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Penser que les autres remarquent son apparence",
+      "description": "Avoir le sentiment que les regards se portent sur un défaut et qu'on en parle derrière soi.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "reference_apparence",
+      "links": [
+        {
+          "outcome": "sym_6b21",
+          "strength": "critere",
+          "basis": "CDDR 6B21, caractéristique essentielle",
+          "summary": "La conviction que les autres remarquent ou commentent ce défaut est fréquente et décrite comme centrale.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_verifier_son_apparence",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Vérifier souvent son apparence",
+      "description": "Se regarder dans les miroirs ou les vitrines, ou se comparer aux autres, pour juger un défaut.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "verification_apparence",
+      "links": [
+        {
+          "outcome": "sym_6b21",
+          "strength": "critere",
+          "basis": "CDDR 6B21, caractéristique essentielle",
+          "summary": "Les vérifications et comparaisons répétées font partie des comportements décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_cacher_ou_corriger_un_defaut",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Passer beaucoup de temps à cacher ou corriger un défaut",
+      "description": "Maquillage, vêtements, postures, retouches ou interventions esthétiques répétées pour masquer un détail.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "camouflage_apparence",
+      "links": [
+        {
+          "outcome": "sym_6b21",
+          "strength": "critere",
+          "basis": "CDDR 6B21, caractéristique essentielle",
+          "summary": "Les efforts répétés pour cacher ou modifier le défaut font partie des comportements décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_eviter_a_cause_de_son_apparence",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Éviter des sorties à cause de son apparence",
+      "description": "Renoncer à des rencontres, à des photos ou au travail par gêne liée à un défaut physique.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "evitement",
+      "links": [
+        {
+          "outcome": "sym_6b21",
+          "strength": "critere",
+          "basis": "CDDR 6B21, caractéristique essentielle",
+          "summary": "L'évitement de situations qui renforcent la gêne fait partie des comportements décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peur_de_sentir_mauvais",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Être préoccupé par l'idée de sentir mauvais",
+      "description": "Penser souvent que son corps ou son haleine dégage une odeur gênante que les autres disent ne pas sentir.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "preoccupation_odeur",
+      "links": [
+        {
+          "outcome": "sym_6b22",
+          "strength": "critere",
+          "basis": "CDDR 6B22, caractéristique essentielle",
+          "summary": "Une préoccupation durable pour une odeur que les autres ne perçoivent pas ou peu est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_croire_qu_on_remarque_son_odeur",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Penser que les autres réagissent à son odeur",
+      "description": "Interpréter un geste, une fenêtre ouverte ou un nez frotté comme une réaction à son odeur.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "reference_odeur",
+      "links": [
+        {
+          "outcome": "sym_6b22",
+          "strength": "critere",
+          "basis": "CDDR 6B22, caractéristique essentielle",
+          "summary": "La conviction que les autres remarquent l'odeur est fréquente et décrite comme centrale.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_verifier_son_odeur",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Vérifier souvent son odeur",
+      "description": "Se sentir, sentir ses vêtements ou demander à des proches d'être rassuré sur son odeur, à répétition.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "verification_odeur",
+      "links": [
+        {
+          "outcome": "sym_6b22",
+          "strength": "critere",
+          "basis": "CDDR 6B22, caractéristique essentielle",
+          "summary": "Les vérifications et demandes de réassurance répétées font partie des comportements décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_masquer_son_odeur",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Multiplier les gestes pour masquer une odeur",
+      "description": "Se laver, se parfumer, se brosser les dents ou changer de vêtements bien plus souvent que nécessaire.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "camouflage_odeur",
+      "links": [
+        {
+          "outcome": "sym_6b22",
+          "strength": "critere",
+          "basis": "CDDR 6B22, caractéristique essentielle",
+          "summary": "Les efforts répétés pour masquer ou prévenir l'odeur font partie des comportements décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_eviter_a_cause_de_son_odeur",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Éviter des situations à cause de son odeur",
+      "description": "Se tenir à distance, éviter les transports ou les réunions de peur d'incommoder par son odeur.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "evitement",
+      "links": [
+        {
+          "outcome": "sym_6b22",
+          "strength": "critere",
+          "basis": "CDDR 6B22, caractéristique essentielle",
+          "summary": "L'évitement des situations sociales fait partie des comportements décrits.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_accumuler_des_objets",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Accumuler beaucoup d'objets",
+      "description": "Acquérir, récupérer ou garder des objets, papiers ou courriers bien au-delà de ce qu'on utilise.",
+      "examples": [
+        "Garder des piles de journaux non lus"
+      ],
+      "safety": null,
+      "overlap_group": "accumulation",
+      "links": [
+        {
+          "outcome": "sym_6b24",
+          "strength": "critere",
+          "basis": "CDDR 6B24, caractéristique essentielle",
+          "summary": "Le besoin répété d'acquérir ou de garder des objets est une des deux sources de l'accumulation.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_jeter",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir beaucoup de mal à jeter",
+      "description": "Se sentir très mal à l'idée de se séparer d'objets, par peur d'en avoir besoin ou de perdre quelque chose.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "difficulte_jeter",
+      "links": [
+        {
+          "outcome": "sym_6b24",
+          "strength": "critere",
+          "basis": "CDDR 6B24, caractéristique essentielle",
+          "summary": "La difficulté à se séparer des objets est l'autre source de l'accumulation.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_logement_encombre",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir un logement encombré au point d'en gêner l'usage",
+      "description": "Des pièces où l'on ne peut plus circuler, cuisiner ou dormir normalement à cause des objets.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "encombrement",
+      "links": [
+        {
+          "outcome": "sym_6b24",
+          "strength": "critere",
+          "basis": "CDDR 6B24, caractéristique essentielle",
+          "summary": "Un encombrement qui gêne l'usage ou la sécurité du logement est requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_s_arracher_les_cheveux",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "S'arracher les cheveux ou les poils de façon répétée",
+      "description": "Tirer sur ses cheveux, cils ou sourcils, parfois sans s'en rendre compte, souvent pour se calmer ou s'occuper.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "arrachage_cheveux",
+      "links": [
+        {
+          "outcome": "sym_6b250",
+          "strength": "critere",
+          "basis": "CDDR 6B25.0, caractéristique essentielle",
+          "summary": "Le fait de s'arracher les cheveux de façon répétée est le comportement central.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_zones_sans_cheveux",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir des zones sans cheveux ou poils à cause de l'arrachage",
+      "description": "Des trous dans la chevelure, les cils ou les sourcils dus au fait de les tirer.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "perte_cheveux_arrachage",
+      "links": [
+        {
+          "outcome": "sym_6b250",
+          "strength": "critere",
+          "basis": "CDDR 6B25.0, caractéristique essentielle",
+          "summary": "Une perte de cheveux ou de poils nette due à l'arrachage est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_triturer_sa_peau",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Gratter ou triturer sa peau de façon répétée",
+      "description": "Pincer, gratter ou percer boutons, croûtes ou petites peaux, souvent longtemps et presque sans y penser.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "triturage_peau",
+      "links": [
+        {
+          "outcome": "sym_6b251",
+          "strength": "critere",
+          "basis": "CDDR 6B25.1, caractéristique essentielle",
+          "summary": "Le fait de gratter ou triturer sa peau de façon répétée est le comportement central.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_plaies_dues_au_grattage",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir des plaies ou marques dues au grattage",
+      "description": "Des marques, plaies ou cicatrices visibles causées par le fait de toucher ou percer sa peau.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "lesions_grattage",
+      "links": [
+        {
+          "outcome": "sym_6b251",
+          "strength": "critere",
+          "basis": "CDDR 6B25.1, caractéristique essentielle",
+          "summary": "Des lésions nettes de la peau dues au grattage sont requises.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_pans_de_vie_oublies",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Ne plus se souvenir de moments importants de sa vie",
+      "description": "Des pans entiers de souvenirs personnels, souvent liés à un moment très dur, qui manquent sans explication.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "amnesie_passee",
+      "links": [
+        {
+          "outcome": "sym_6b61",
+          "strength": "critere",
+          "basis": "CDDR 6B61, caractéristique essentielle",
+          "summary": "L'impossibilité de se rappeler des souvenirs personnels importants, au-delà de l'oubli ordinaire, est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_temps_perdu",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir perdu le souvenir de plusieurs heures ou jours",
+      "description": "Ne garder aucun souvenir d'une période récente de plusieurs heures ou jours, sans alcool ni produit.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "temps_perdu",
+      "links": [
+        {
+          "outcome": "sym_6b61",
+          "strength": "critere",
+          "basis": "CDDR 6B61, caractéristique essentielle",
+          "summary": "Une perte de mémoire d'une période récente peut être la forme que prend cette amnésie.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_faits_racontes_oublies",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Apprendre qu'on a fait des choses dont on ne se souvient pas",
+      "description": "Entendre des proches raconter ce qu'on a dit ou fait récemment, sans en avoir aucun souvenir.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "temps_perdu",
+      "links": [
+        {
+          "outcome": "sym_6b61",
+          "strength": "critere",
+          "basis": "CDDR 6B61, caractéristique essentielle",
+          "summary": "Découvrir par d'autres des actes oubliés est une façon courante de repérer cette amnésie.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_se_retrouver_ailleurs",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Se retrouver quelque part sans savoir comment on y est arrivé",
+      "description": "Partir ou voyager puis reprendre conscience ailleurs, sans souvenir du trajet ni parfois de qui l'on est.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "fugue_dissociative",
+      "links": [
+        {
+          "outcome": "sym_6b61",
+          "strength": "moderee",
+          "basis": "CDDR 6B61, précision de fugue dissociative",
+          "summary": "Un départ ou un voyage sans souvenir (fugue) peut accompagner l'amnésie.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_autre_part_de_soi_intervient",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Sentir une autre part de soi intervenir",
+      "description": "Des pensées, émotions, voix intérieures ou gestes qui semblent venir d'une autre partie de soi.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "intrusions_dissociatives",
+      "links": [
+        {
+          "outcome": "sym_6b65",
+          "strength": "critere",
+          "basis": "CDDR 6B65, caractéristique essentielle",
+          "summary": "Des intrusions d'une part non dominante de soi (pensées, émotions, perceptions) sont requises.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_gestes_pas_les_siens",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Faire des gestes qu'on ne sent pas comme les siens",
+      "description": "Agir ou parler avec l'impression que ce n'est pas soi qui décide, comme spectateur de ses actes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "perte_agentivite",
+      "links": [
+        {
+          "outcome": "sym_6b65",
+          "strength": "critere",
+          "basis": "CDDR 6B65, caractéristique essentielle",
+          "summary": "Des actes vécus sans sentiment d'en être l'auteur font partie des intrusions décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_se_sentir_une_autre_personne",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Se sentir par moments une personne différente",
+      "description": "Avoir l'impression de passer d'une façon d'être à une autre, avec d'autres goûts, une autre voix ou un autre âge.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "etats_identitaires",
+      "links": [
+        {
+          "outcome": "sym_6b65",
+          "strength": "critere",
+          "basis": "CDDR 6B65, caractéristique essentielle",
+          "summary": "L'expérience de plusieurs états distincts de soi est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_corps_emotions_engourdis",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Sentir son corps ou ses émotions comme engourdis ou étrangers",
+      "description": "Ne plus sentir vraiment ses émotions ou son corps, comme anesthésié, ou les vivre comme ceux d'un autre.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "depersonnalisation",
+      "links": [
+        {
+          "outcome": "sym_6b66",
+          "strength": "critere",
+          "basis": "CDDR 6B66, caractéristique essentielle",
+          "summary": "Vivre son corps ou ses émotions comme étrangers ou engourdis est une forme de dépersonnalisation décrite.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_monde_comme_dans_un_reve",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Voir le monde comme dans un rêve ou un brouillard",
+      "description": "Les lieux, objets ou personnes paraissent lointains, flous, sans couleur ou artificiels.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "derealisation",
+      "links": [
+        {
+          "outcome": "sym_6b66",
+          "strength": "critere",
+          "basis": "CDDR 6B66, caractéristique essentielle",
+          "summary": "Percevoir le monde comme irréel ou lointain est la déréalisation décrite.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_choix_aliments_tres_restreint",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Manger un choix très restreint d'aliments",
+      "description": "Ne manger qu'une petite liste d'aliments à cause de leur texture, odeur, goût ou couleur.",
+      "examples": [
+        "Refuser tout aliment mélangé"
+      ],
+      "safety": null,
+      "overlap_group": "selectivite_alimentaire",
+      "links": [
+        {
+          "outcome": "sym_6b83",
+          "strength": "critere",
+          "basis": "CDDR 6B83, caractéristique essentielle",
+          "summary": "Une alimentation très peu variée, liée aux caractéristiques sensorielles des aliments, est une forme d'évitement décrite.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peur_d_avaler",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Éviter de manger par peur d'avaler de travers ou de vomir",
+      "description": "Limiter ou éviter certains aliments après une fausse route, un étouffement ou des nausées.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "peur_manger",
+      "links": [
+        {
+          "outcome": "sym_6b83",
+          "strength": "critere",
+          "basis": "CDDR 6B83, caractéristique essentielle",
+          "summary": "Restreindre son alimentation par peur d'avaler de travers ou de vomir est une forme d'évitement décrite.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_manger_peu_sans_souci_poids",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Manger peu sans chercher à maigrir",
+      "description": "Avoir peu d'intérêt pour la nourriture, oublier ou écourter les repas, sans souci de poids ni de silhouette.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "desinteret_nourriture",
+      "links": [
+        {
+          "outcome": "sym_6b83",
+          "strength": "critere",
+          "basis": "CDDR 6B83, caractéristique essentielle",
+          "summary": "Une restriction sans lien avec le poids ou la silhouette est requise pour ce trouble.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_eviter_repas_partages",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Éviter les repas partagés à cause de ce qu'on mange",
+      "description": "Refuser invitations ou repas d'équipe parce que les plats proposés posent problème.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "retentissement_repas",
+      "links": [
+        {
+          "outcome": "sym_6b83",
+          "strength": "critere",
+          "basis": "CDDR 6B83, caractéristique essentielle",
+          "summary": "Une gêne nette dans la vie sociale liée aux repas peut constituer le retentissement requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_manger_non_aliments",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Manger régulièrement des choses qui ne sont pas des aliments",
+      "description": "Terre, craie, papier, plâtre ou autres matières non comestibles, de façon régulière.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "pica_non_aliments",
+      "links": [
+        {
+          "outcome": "sym_6b84",
+          "strength": "critere",
+          "basis": "CDDR 6B84, caractéristique essentielle",
+          "summary": "La consommation régulière de matières non comestibles est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_manger_ingredients_crus",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Manger de grandes quantités d'ingrédients crus",
+      "description": "Avaler régulièrement beaucoup de sel, de farine, de fécule ou d'autres ingrédients non cuisinés.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "pica_ingredients",
+      "links": [
+        {
+          "outcome": "sym_6b84",
+          "strength": "critere",
+          "basis": "CDDR 6B84, caractéristique essentielle",
+          "summary": "La consommation régulière d'ingrédients crus en grande quantité fait partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_sante_touchee_par_ce_qu_on_avale",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Avoir eu des soucis de santé à cause de ce qu'on avale",
+      "description": "Douleurs, intoxication ou consultation médicale après avoir avalé des matières non comestibles.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "pica_consequences",
+      "links": [
+        {
+          "outcome": "sym_6b84",
+          "strength": "critere",
+          "basis": "CDDR 6B84, caractéristique essentielle",
+          "summary": "Le comportement doit être assez fréquent ou grave pour présenter un risque pour la santé.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_faire_remonter_aliments",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Faire remonter volontairement des aliments avalés",
+      "description": "Ramener dans la bouche de la nourriture déjà avalée, plusieurs fois par semaine.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "regurgitation",
+      "links": [
+        {
+          "outcome": "sym_6b85",
+          "strength": "critere",
+          "basis": "CDDR 6B85, caractéristique essentielle",
+          "summary": "La remontée volontaire et fréquente d'aliments avalés est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_remacher_ou_recracher",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Remâcher ou recracher des aliments remontés",
+      "description": "Mâcher à nouveau puis ravaler, ou recracher, la nourriture qu'on a fait remonter.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "rumination_alimentaire",
+      "links": [
+        {
+          "outcome": "sym_6b85",
+          "strength": "critere",
+          "basis": "CDDR 6B85, caractéristique essentielle",
+          "summary": "Les aliments remontés sont remâchés et ravalés, ou recrachés.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_remontee_sans_nausee",
+      "canonical": false,
+      "theme": "alimentation_apparence",
+      "label": "Faire remonter la nourriture sans nausée ni vomissement",
+      "description": "Des remontées d'aliments qui se font sans effort de vomissement, ni haut-le-cœur, ni maladie connue.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "regurgitation_sans_nausee",
+      "links": [
+        {
+          "outcome": "sym_6b85",
+          "strength": "critere",
+          "basis": "CDDR 6B85, caractéristique essentielle",
+          "summary": "Le comportement se distingue du vomissement et d'une cause médicale.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_desir_d_un_corps_handicape",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Ressentir un désir intense d'avoir un corps handicapé",
+      "description": "Souhaiter fortement perdre un membre, l'usage des jambes ou la vue, pour se sentir en accord avec soi.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "desir_handicap",
+      "links": [
+        {
+          "outcome": "sym_6c21",
+          "strength": "critere",
+          "basis": "CDDR 6C21, caractéristique essentielle",
+          "summary": "Un désir intense et persistant de devenir handicapé est requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_malaise_avec_corps_valide",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Vivre un malaise durable avec une partie de son corps valide",
+      "description": "Ressentir un membre ou une fonction du corps comme ne faisant pas partie de soi, depuis l'adolescence.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "malaise_configuration_corps",
+      "links": [
+        {
+          "outcome": "sym_6c21",
+          "strength": "critere",
+          "basis": "CDDR 6C21, caractéristique essentielle",
+          "summary": "Ce désir s'accompagne d'un malaise durable avec la configuration actuelle du corps.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tenter_de_se_rendre_handicape",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Avoir tenté de se rendre handicapé",
+      "description": "Avoir mis sa santé en danger pour provoquer la perte d'un membre ou d'une fonction.",
+      "examples": [],
+      "safety": "automutilation",
+      "overlap_group": "tentatives_handicap",
+      "links": [
+        {
+          "outcome": "sym_6c21",
+          "strength": "critere",
+          "basis": "CDDR 6C21, caractéristique essentielle",
+          "summary": "Des tentatives de se rendre handicapé, dangereuses pour la santé, sont une des conséquences décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_faire_comme_si_handicape",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Faire comme si l'on était handicapé",
+      "description": "Utiliser en privé fauteuil, béquilles ou bandages, ou immobiliser un membre, pour vivre le corps souhaité.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "simulation_handicap",
+      "links": [
+        {
+          "outcome": "sym_6c21",
+          "strength": "moderee",
+          "basis": "CDDR 6C21, caractéristique associée",
+          "summary": "Faire semblant d'être handicapé est un comportement fréquemment associé.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_passe_avant",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Faire passer une consommation avant le reste",
+      "description": "Consommer au détriment de sa santé, de ses obligations, de ses loisirs ou de ses proches.",
+      "examples": [
+        "Manquer un rendez-vous pour consommer"
+      ],
+      "safety": null,
+      "overlap_group": "priorite_conso",
+      "links": [
+        {
+          "outcome": "sym_6c42",
+          "strength": "critere",
+          "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c43",
+          "strength": "critere",
+          "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c44",
+          "strength": "critere",
+          "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c45",
+          "strength": "critere",
+          "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c46",
+          "strength": "critere",
+          "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c47",
+          "strength": "critere",
+          "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c49",
+          "strength": "critere",
+          "basis": "CDDR 6C49 (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4b",
+          "strength": "critere",
+          "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4c",
+          "strength": "critere",
+          "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4d",
+          "strength": "critere",
+          "basis": "CDDR 6C4D (dépendance), caractéristique essentielle",
+          "summary": "La place croissante du produit au détriment du reste est un des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_continuer_malgre_problemes",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Continuer à consommer malgré les problèmes",
+      "description": "Garder ou augmenter une consommation alors qu'elle cause disputes, ennuis au travail ou soucis de santé.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "malgre_consequences_conso",
+      "links": [
+        {
+          "outcome": "sym_6c42",
+          "strength": "critere",
+          "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c43",
+          "strength": "critere",
+          "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c44",
+          "strength": "critere",
+          "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c45",
+          "strength": "critere",
+          "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c46",
+          "strength": "critere",
+          "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c47",
+          "strength": "critere",
+          "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c49",
+          "strength": "critere",
+          "basis": "CDDR 6C49 (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4b",
+          "strength": "critere",
+          "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4c",
+          "strength": "critere",
+          "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4d",
+          "strength": "critere",
+          "basis": "CDDR 6C4D (dépendance), caractéristique essentielle",
+          "summary": "Poursuivre malgré les dommages fait partie des signes de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_besoin_doses_plus_fortes",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Avoir besoin de doses plus fortes pour le même effet",
+      "description": "Devoir prendre davantage d'un produit qu'au début pour ressentir le même effet.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tolerance",
+      "links": [
+        {
+          "outcome": "sym_6c42",
+          "strength": "critere",
+          "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c43",
+          "strength": "critere",
+          "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c44",
+          "strength": "critere",
+          "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c45",
+          "strength": "critere",
+          "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c46",
+          "strength": "critere",
+          "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c47",
+          "strength": "critere",
+          "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c49",
+          "strength": "critere",
+          "basis": "CDDR 6C49 (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4b",
+          "strength": "critere",
+          "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4c",
+          "strength": "critere",
+          "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4d",
+          "strength": "critere",
+          "basis": "CDDR 6C4D (dépendance), caractéristique essentielle",
+          "summary": "La tolérance (besoin de doses plus fortes) est un des signes physiologiques de la dépendance.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_l_arret_du_produit",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Se sentir mal en arrêtant ou en réduisant un produit",
+      "description": "Tremblements, sueurs, angoisse, insomnie ou douleurs à l'arrêt, et reprise du produit pour les calmer.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "sevrage",
+      "links": [
+        {
+          "outcome": "sym_6c42",
+          "strength": "critere",
+          "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c43",
+          "strength": "critere",
+          "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c44",
+          "strength": "critere",
+          "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c45",
+          "strength": "critere",
+          "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c46",
+          "strength": "critere",
+          "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c47",
+          "strength": "critere",
+          "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4b",
+          "strength": "critere",
+          "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6c4c",
+          "strength": "critere",
+          "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+          "summary": "Les symptômes de sevrage à l'arrêt sont un des signes physiologiques de la dépendance pour ce produit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_cannabinoides_synthese",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer des cannabinoïdes de synthèse",
+      "description": "Des produits de synthèse qui imitent le cannabis (« spice », « K2 »…), de façon répétée.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c42",
+      "links": [
+        {
+          "outcome": "sym_6c42",
+          "strength": "critere",
+          "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_opioides",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Prendre des opioïdes en dehors d'une prescription",
+      "description": "Héroïne, ou morphine, codéine, tramadol, oxycodone… pris sans ordonnance ou au-delà de la dose prescrite.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c43",
+      "links": [
+        {
+          "outcome": "sym_6c43",
+          "strength": "critere",
+          "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_calmants",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Prendre des calmants ou somnifères au-delà de la prescription",
+      "description": "Benzodiazépines, somnifères ou autres calmants pris plus longtemps, plus souvent ou plus fort que prévu.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c44",
+      "links": [
+        {
+          "outcome": "sym_6c44",
+          "strength": "critere",
+          "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_cocaine",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer de la cocaïne",
+      "description": "Cocaïne en poudre ou crack, de façon répétée, en soirée ou au quotidien.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c45",
+      "links": [
+        {
+          "outcome": "sym_6c45",
+          "strength": "critere",
+          "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_stimulants",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer des amphétamines ou d'autres stimulants",
+      "description": "Speed, méthamphétamine, ou stimulants médicaux pris sans prescription ou au-delà de la dose.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c46",
+      "links": [
+        {
+          "outcome": "sym_6c46",
+          "strength": "critere",
+          "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_cathinones",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer des cathinones de synthèse",
+      "description": "Des stimulants de synthèse comme la méphédrone ou la 3-MMC, de façon répétée.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c47",
+      "links": [
+        {
+          "outcome": "sym_6c47",
+          "strength": "critere",
+          "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_hallucinogenes",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer des hallucinogènes",
+      "description": "LSD, champignons hallucinogènes, mescaline ou produits voisins, de façon répétée.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c49",
+      "links": [
+        {
+          "outcome": "sym_6c49",
+          "strength": "critere",
+          "basis": "CDDR 6C49 (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_produits_inhales",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Inhaler des produits volatils pour leurs effets",
+      "description": "Respirer volontairement colle, solvants, essence ou gaz d'aérosol pour en ressentir les effets.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c4b",
+      "links": [
+        {
+          "outcome": "sym_6c4b",
+          "strength": "critere",
+          "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_mdma",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer de la MDMA ou de l'ecstasy",
+      "description": "MDMA en cristaux, comprimés d'ecstasy ou produits apparentés, de façon répétée.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c4c",
+      "links": [
+        {
+          "outcome": "sym_6c4c",
+          "strength": "critere",
+          "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conso_ketamine",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Consommer de la kétamine ou d'autres produits dissociatifs",
+      "description": "Kétamine, PCP ou produits voisins pris pour leurs effets, de façon répétée.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conso_6c4d",
+      "links": [
+        {
+          "outcome": "sym_6c4d",
+          "strength": "critere",
+          "basis": "CDDR 6C4D (dépendance), caractéristique essentielle",
+          "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_limiter_jeux_video",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Avoir du mal à limiter les jeux vidéo",
+      "description": "Jouer plus longtemps ou plus souvent que prévu, ou ne pas réussir à arrêter une partie.",
+      "examples": [
+        "Jouer jusqu'à 3 h du matin un soir de semaine"
+      ],
+      "safety": null,
+      "overlap_group": "controle_jeu_video",
+      "links": [
+        {
+          "outcome": "sym_6c51",
+          "strength": "critere",
+          "basis": "CDDR 6C51, caractéristique essentielle",
+          "summary": "Une perte de contrôle sur le jeu est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_jeux_video_passent_avant",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Faire passer les jeux vidéo avant le reste",
+      "description": "Négliger sommeil, repas, travail, amis ou autres loisirs pour jouer.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "priorite_jeu_video",
+      "links": [
+        {
+          "outcome": "sym_6c51",
+          "strength": "critere",
+          "basis": "CDDR 6C51, caractéristique essentielle",
+          "summary": "La priorité croissante donnée au jeu sur le reste de la vie est requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_jouer_malgre_problemes",
+      "canonical": false,
+      "theme": "consommations_ecrans",
+      "label": "Continuer à jouer malgré les problèmes",
+      "description": "Garder le même temps de jeu malgré disputes, retards au travail ou effets sur la santé.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "malgre_consequences_jeu_video",
+      "links": [
+        {
+          "outcome": "sym_6c51",
+          "strength": "critere",
+          "basis": "CDDR 6C51, caractéristique essentielle",
+          "summary": "Poursuivre ou augmenter le jeu malgré ses conséquences est requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_envie_d_allumer_des_feux",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à résister à l'envie d'allumer des feux",
+      "description": "Allumer ou tenter d'allumer des feux à plusieurs reprises, sans but comme l'argent ou la vengeance.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "impulsion_feu",
+      "links": [
+        {
+          "outcome": "sym_6c70",
+          "strength": "critere",
+          "basis": "CDDR 6C70, caractéristique essentielle",
+          "summary": "Un échec répété à contrôler l'envie d'allumer des feux, sans motif apparent, est requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_fascination_pour_le_feu",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Être fasciné par le feu",
+      "description": "Penser souvent au feu, aimer regarder les incendies ou s'intéresser beaucoup à tout ce qui s'y rapporte.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "fascination_feu",
+      "links": [
+        {
+          "outcome": "sym_6c70",
+          "strength": "critere",
+          "basis": "CDDR 6C70, caractéristique essentielle",
+          "summary": "Une fascination durable pour le feu fait partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tension_puis_soulagement_feu",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Ressentir tension puis soulagement autour d'un feu allumé",
+      "description": "Une tension qui monte avant d'allumer un feu, puis du plaisir ou un soulagement pendant et après.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tension_soulagement_feu",
+      "links": [
+        {
+          "outcome": "sym_6c70",
+          "strength": "critere",
+          "basis": "CDDR 6C70, caractéristique essentielle",
+          "summary": "La tension avant l'acte et le plaisir ou soulagement après font partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_envie_de_prendre_des_objets",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à résister à l'envie de prendre des objets",
+      "description": "Voler ou tenter de voler à plusieurs reprises des objets dont on n'a ni besoin ni envie particulière.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "impulsion_vol",
+      "links": [
+        {
+          "outcome": "sym_6c71",
+          "strength": "critere",
+          "basis": "CDDR 6C71, caractéristique essentielle",
+          "summary": "Un échec répété à contrôler l'envie de voler est requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tension_puis_soulagement_vol",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Ressentir tension puis soulagement autour d'un vol",
+      "description": "Une tension qui monte avant de prendre l'objet, puis un plaisir ou un apaisement juste après.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tension_soulagement_vol",
+      "links": [
+        {
+          "outcome": "sym_6c71",
+          "strength": "critere",
+          "basis": "CDDR 6C71, caractéristique essentielle",
+          "summary": "La tension avant l'acte et le plaisir ou soulagement après font partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_objets_pris_inutiles",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Prendre des objets qu'on n'utilise pas ensuite",
+      "description": "Garder sans s'en servir, donner ou jeter des objets pris, qui n'avaient ni utilité ni valeur pour soi.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "absence_motif_vol",
+      "links": [
+        {
+          "outcome": "sym_6c71",
+          "strength": "critere",
+          "basis": "CDDR 6C71, caractéristique essentielle",
+          "summary": "L'absence de motif apparent (usage, argent) fait partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_colere_sans_commune_mesure",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Avoir des colères sans commune mesure avec leur déclencheur",
+      "description": "Exploser pour une remarque, un bouchon ou un petit contretemps, et s'en étonner après coup.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "disproportion_colere",
+      "links": [
+        {
+          "outcome": "sym_6c73",
+          "strength": "critere",
+          "basis": "CDDR 6C73, caractéristique essentielle",
+          "summary": "L'intensité des accès doit être très disproportionnée par rapport à ce qui les déclenche.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_gestes_violents_en_colere",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Frapper, bousculer ou casser lors d'une colère",
+      "description": "En venir aux gestes pendant une colère : coups, objets lancés ou cassés.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "agression_physique_colere",
+      "links": [
+        {
+          "outcome": "sym_6c73",
+          "strength": "critere",
+          "basis": "CDDR 6C73, caractéristique essentielle",
+          "summary": "Les accès peuvent prendre une forme physique (coups, objets cassés) ; la personne qui agit en reste responsable.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_image_de_soi_floue",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Avoir une image de soi floue ou changeante",
+      "description": "Ne pas bien savoir qui l'on est, ce que l'on veut ou ce que l'on vaut, selon les jours ou les personnes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "identite_floue",
+      "links": [
+        {
+          "outcome": "sym_6d10",
+          "strength": "critere",
+          "basis": "CDDR 6D10, exigences générales, caractéristique essentielle",
+          "summary": "Une identité instable ou peu cohérente fait partie des difficultés du fonctionnement de soi décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_remarque_qui_blesse_longtemps",
+      "canonical": false,
+      "theme": "image_soi",
+      "label": "Mettre longtemps à se remettre d'une critique",
+      "description": "Une remarque ou un échec qui blesse durablement et occupe l'esprit des jours entiers.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "estime_fragile",
+      "links": [
+        {
+          "outcome": "sym_6d10",
+          "strength": "critere",
+          "basis": "CDDR 6D10, exigences générales, caractéristique essentielle",
+          "summary": "Une estime de soi fragile, lente à se rétablir après une blessure, fait partie des difficultés décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_tenir_ses_buts",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à se fixer des buts et à s'y tenir",
+      "description": "Changer souvent de cap, abandonner au premier obstacle ou ne pas savoir vers quoi aller.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "direction_de_soi",
+      "links": [
+        {
+          "outcome": "sym_6d10",
+          "strength": "critere",
+          "basis": "CDDR 6D10, exigences générales, caractéristique essentielle",
+          "summary": "La difficulté à se fixer et suivre des buts fait partie des difficultés du fonctionnement de soi décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_comprendre_le_point_de_vue",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir du mal à comprendre le point de vue des autres",
+      "description": "Être souvent surpris par les réactions des autres, ou ne pas voir ce qu'ils ressentent ou pensent.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "perspective_autrui",
+      "links": [
+        {
+          "outcome": "sym_6d10",
+          "strength": "critere",
+          "basis": "CDDR 6D10, exigences générales, caractéristique essentielle",
+          "summary": "La difficulté à comprendre le point de vue d'autrui fait partie des difficultés relationnelles décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_liens_proches_qui_se_defont",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir du mal à garder des relations proches durables",
+      "description": "Des amitiés ou des couples qui se défont souvent, ou peu de liens proches malgré l'envie d'en avoir.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "relations_durables",
+      "links": [
+        {
+          "outcome": "sym_6d10",
+          "strength": "critere",
+          "basis": "CDDR 6D10, exigences générales, caractéristique essentielle",
+          "summary": "La difficulté à nouer et garder des liens proches fait partie des difficultés relationnelles décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_conflits_a_repetition",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir des conflits à répétition",
+      "description": "Des disputes fréquentes avec proches, collègues ou responsables, qui se ressemblent d'une fois à l'autre.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conflits_repetes",
+      "links": [
+        {
+          "outcome": "sym_6d10",
+          "strength": "critere",
+          "basis": "CDDR 6D10, exigences générales, caractéristique essentielle",
+          "summary": "Des conflits répétés et mal résolus font partie des difficultés relationnelles décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_emotions_penibles_frequentes",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Ressentir souvent des émotions pénibles fortes",
+      "description": "Être souvent envahi par l'anxiété, la colère, la tristesse ou la honte, plus que la situation ne le demande.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "affects_negatifs",
+      "links": [
+        {
+          "outcome": "sym_6d110",
+          "strength": "critere",
+          "basis": "CDDR 6D11.0, manifestation du domaine de traits",
+          "summary": "Ressentir souvent et fortement des émotions pénibles est le cœur de ce trait.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peu_d_amis_sans_manque",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir peu ou pas d'amis sans en ressentir le besoin",
+      "description": "Préférer être seul, échanger le moins possible et ne pas souffrir de l'absence de liens.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "peu_de_liens",
+      "links": [
+        {
+          "outcome": "sym_6d111",
+          "strength": "critere",
+          "basis": "CDDR 6D11.1, manifestation du domaine de traits",
+          "summary": "Avoir peu ou pas d'amis, sans le rechercher, fait partie du détachement social décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_eviter_les_relations_intimes",
+      "canonical": false,
+      "theme": "attachement_proximite",
+      "label": "Se tenir à l'écart des relations intimes",
+      "description": "Éviter les relations amoureuses ou très proches et s'intéresser peu à la vie à deux.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "evitement_intimite",
+      "links": [
+        {
+          "outcome": "sym_6d111",
+          "strength": "critere",
+          "basis": "CDDR 6D11.1, manifestation du domaine de traits",
+          "summary": "L'évitement de l'intimité fait partie du détachement social décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_besoins_avant_ceux_des_autres",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Attendre que ses besoins passent avant ceux des autres",
+      "description": "Attendre des autres attention, admiration ou faveurs, et mal vivre de ne pas les obtenir.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "centrage_sur_soi",
+      "links": [
+        {
+          "outcome": "sym_6d112",
+          "strength": "critere",
+          "basis": "CDDR 6D11.2, manifestation du domaine de traits",
+          "summary": "Le sentiment que ses besoins priment fait partie du centrage sur soi décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peu_touche_par_ce_que_vivent_les_autres",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Être peu touché par ce que vivent les autres",
+      "description": "Rester indifférent quand quelqu'un souffre ou est en difficulté, même quand on en est la cause.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "empathie_limitee",
+      "links": [
+        {
+          "outcome": "sym_6d112",
+          "strength": "critere",
+          "basis": "CDDR 6D11.2, manifestation du domaine de traits",
+          "summary": "L'indifférence à ce que ressentent les autres fait partie du manque d'empathie décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mentir_pour_obtenir",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Mentir ou manipuler pour obtenir ce qu'on veut",
+      "description": "Tromper, exagérer ou jouer sur les sentiments des autres pour arriver à ses fins.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "tromperie",
+      "links": [
+        {
+          "outcome": "sym_6d112",
+          "strength": "critere",
+          "basis": "CDDR 6D11.2, manifestation du domaine de traits",
+          "summary": "Tromper ou manipuler fait partie du manque d'empathie décrit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_intimider_pour_obtenir",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Menacer ou intimider pour imposer sa volonté",
+      "description": "Faire peur, humilier ou menacer pour obtenir ce qu'on veut de quelqu'un.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "agression_instrumentale",
+      "links": [
+        {
+          "outcome": "sym_6d112",
+          "strength": "critere",
+          "basis": "CDDR 6D11.2, manifestation du domaine de traits",
+          "summary": "Intimider ou menacer pour obtenir quelque chose fait partie des manifestations décrites ; la responsabilité en revient à la personne qui agit.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_tenir_ses_engagements",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à tenir ses engagements",
+      "description": "Oublier ou laisser tomber promesses, délais et tâches attendues, au point qu'on compte moins sur soi.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "responsabilite",
+      "links": [
+        {
+          "outcome": "sym_6d113",
+          "strength": "critere",
+          "basis": "CDDR 6D11.3, manifestation du domaine de traits",
+          "summary": "Le manque de fiabilité dans les engagements fait partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_risques_sans_penser_consequences",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Prendre des risques sans penser aux conséquences",
+      "description": "Conduire vite, dépenser, faire des rencontres risquées pour le frisson du moment.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "imprudence",
+      "links": [
+        {
+          "outcome": "sym_6d113",
+          "strength": "critere",
+          "basis": "CDDR 6D11.3, manifestation du domaine de traits",
+          "summary": "L'imprudence fait partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_mal_a_attendre_une_recompense",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir du mal à attendre une récompense",
+      "description": "Choisir le plaisir immédiat plutôt qu'un bénéfice plus grand mais plus tardif.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "gratification_immediate",
+      "links": [
+        {
+          "outcome": "sym_6d113",
+          "strength": "critere",
+          "basis": "CDDR 6D11.3, manifestation du domaine de traits",
+          "summary": "La difficulté à différer une satisfaction fait partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_tout_faire_exactement",
+      "canonical": false,
+      "theme": "exigences_culpabilite",
+      "label": "Vouloir que tout soit fait exactement comme il faut",
+      "description": "Avoir des règles précises sur la bonne façon de faire, au point de refaire le travail des autres.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "perfectionnisme_rigide",
+      "links": [
+        {
+          "outcome": "sym_6d114",
+          "strength": "critere",
+          "basis": "CDDR 6D11.4, manifestation du domaine de traits",
+          "summary": "Un perfectionnisme fondé sur des règles personnelles strictes est le cœur de ce trait.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_plans_tres_stricts",
+      "canonical": false,
+      "theme": "exigences_culpabilite",
+      "label": "Tenir à des plans et horaires très stricts",
+      "description": "Tout prévoir à l'avance et être très mal à l'aise quand un programme change.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "rigidite_planification",
+      "links": [
+        {
+          "outcome": "sym_6d114",
+          "strength": "critere",
+          "basis": "CDDR 6D11.4, manifestation du domaine de traits",
+          "summary": "Des routines et une planification rigides font partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_controler_ses_emotions_strictement",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Contrôler strictement l'expression de ses émotions",
+      "description": "Garder ses émotions sous contrôle en toutes circonstances et mal supporter que d'autres montrent les leurs.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "retenue_emotionnelle",
+      "links": [
+        {
+          "outcome": "sym_6d114",
+          "strength": "critere",
+          "basis": "CDDR 6D11.4, manifestation du domaine de traits",
+          "summary": "Un contrôle serré de l'expression émotionnelle fait partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_eviter_tout_risque",
+      "canonical": false,
+      "theme": "exigences_culpabilite",
+      "label": "Éviter tout ce qui comporte un risque",
+      "description": "Peser longuement chaque décision et renoncer à ce qui n'est pas totalement sûr.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "evitement_risque",
+      "links": [
+        {
+          "outcome": "sym_6d114",
+          "strength": "critere",
+          "basis": "CDDR 6D11.4, manifestation du domaine de traits",
+          "summary": "L'évitement des risques et la grande prudence font partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_autres_doivent_suivre_ses_regles",
+      "canonical": false,
+      "theme": "exigences_culpabilite",
+      "label": "Vouloir que les autres suivent ses règles",
+      "description": "Insister pour que proches ou collègues fassent les choses à sa manière.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "controle_autrui",
+      "links": [
+        {
+          "outcome": "sym_6d114",
+          "strength": "critere",
+          "basis": "CDDR 6D11.4, manifestation du domaine de traits",
+          "summary": "Le contrôle du comportement des autres fait partie des manifestations décrites.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_provoquer_des_symptomes",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Provoquer ou aggraver soi-même des symptômes",
+      "description": "Provoquer exprès des symptômes ou aggraver une blessure, puis consulter sans dire qu'on en est à l'origine.",
+      "examples": [],
+      "safety": "automutilation",
+      "overlap_group": "provoquer_symptomes",
+      "links": [
+        {
+          "outcome": "sym_6d50",
+          "strength": "critere",
+          "basis": "CDDR 6D50, caractéristique essentielle",
+          "summary": "Provoquer ou aggraver volontairement des symptômes fait partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_decrire_des_symptomes_absents",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Décrire aux soignants des symptômes qu'on n'a pas",
+      "description": "Inventer, exagérer ou falsifier des symptômes ou des résultats, sans chercher d'argent ni d'avantage.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "simulation_symptomes",
+      "links": [
+        {
+          "outcome": "sym_6d50",
+          "strength": "critere",
+          "basis": "CDDR 6D50, caractéristique essentielle",
+          "summary": "Simuler ou falsifier des symptômes, sans avantage extérieur évident, fait partie de la définition.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_chercher_a_etre_soigne",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Chercher souvent à être examiné ou hospitalisé",
+      "description": "Multiplier consultations, examens ou hospitalisations, qui apportent un réconfort difficile à trouver ailleurs.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "recherche_soins",
+      "links": [
+        {
+          "outcome": "sym_6d50",
+          "strength": "critere",
+          "basis": "CDDR 6D50, caractéristique essentielle",
+          "summary": "Se présenter comme malade et rechercher des soins sur cette base est requis.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_memoire_moins_bonne_qu_avant",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Constater une baisse de sa mémoire",
+      "description": "Oublier plus qu'avant des conversations, rendez-vous ou lectures récentes, de façon nette et durable.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "declin_memoire",
+      "links": [
+        {
+          "outcome": "sym_6d71",
+          "strength": "critere",
+          "basis": "CDDR 6D71, caractéristique essentielle",
+          "summary": "Une baisse de la mémoire par rapport à son niveau antérieur peut constituer l'atteinte requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_chercher_ses_mots_plus_qu_avant",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Chercher ses mots plus qu'avant",
+      "description": "Avoir de plus en plus de mal à trouver un mot ou un nom, ou à suivre une conversation rapide.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "declin_langage",
+      "links": [
+        {
+          "outcome": "sym_6d71",
+          "strength": "critere",
+          "basis": "CDDR 6D71, caractéristique essentielle",
+          "summary": "Une baisse des capacités de langage par rapport à avant peut constituer l'atteinte requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_planifier_plus_difficile_qu_avant",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir plus de mal qu'avant à planifier",
+      "description": "Peiner plus qu'avant à organiser ses journées ou à gérer plusieurs choses à la fois.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "declin_executif",
+      "links": [
+        {
+          "outcome": "sym_6d71",
+          "strength": "critere",
+          "basis": "CDDR 6D71, caractéristique essentielle",
+          "summary": "Une baisse des fonctions d'organisation par rapport à avant peut constituer l'atteinte requise.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_journees_gachees_par_les_nuits",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Être gêné en journée par ses mauvaises nuits",
+      "description": "Fatigue, irritabilité, baisse de moral ou de concentration en journée à cause du manque de sommeil.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "retentissement_diurne_sommeil",
+      "links": [
+        {
+          "outcome": "sym_7a00",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A00, description de la catégorie",
+          "summary": "Une gêne en journée liée au sommeil est requise.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_insatisfait_de_son_sommeil",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Être insatisfait de son sommeil malgré le temps passé au lit",
+      "description": "Avoir le temps et de bonnes conditions pour dormir, mais trouver son sommeil mauvais ou insuffisant.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "insatisfaction_sommeil",
+      "links": [
+        {
+          "outcome": "sym_7a00",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A00, description de la catégorie",
+          "summary": "L'insatisfaction du sommeil malgré de bonnes conditions fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_besoin_irresistible_de_dormir",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir un besoin irrésistible de dormir dans la journée",
+      "description": "Une envie de dormir impossible à repousser, presque tous les jours, même après une nuit normale.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "somnolence_irresistible",
+      "links": [
+        {
+          "outcome": "sym_7a20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A20, description de la catégorie",
+          "summary": "Un besoin irrépressible de dormir chaque jour depuis plusieurs mois est requis.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        },
+        {
+          "outcome": "sym_7a21",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A21, description de la catégorie",
+          "summary": "Un besoin irrépressible de dormir chaque jour depuis plusieurs mois est requis.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_s_endormir_sans_le_vouloir",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "S'endormir sans le vouloir en pleine journée",
+      "description": "S'assoupir d'un coup pendant une réunion, un repas ou une conversation.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "endormissements_soudains",
+      "links": [
+        {
+          "outcome": "sym_7a20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A20, description de la catégorie",
+          "summary": "Les endormissements involontaires en journée font partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        },
+        {
+          "outcome": "sym_7a21",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A21, description de la catégorie",
+          "summary": "Les endormissements involontaires en journée font partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_paralysie_ou_images_au_bord_du_sommeil",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Être paralysé ou voir des images au bord du sommeil",
+      "description": "Ne pas pouvoir bouger à l'endormissement ou au réveil, ou voir, entendre des choses très réelles à ce moment.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "manifestations_sommeil_paradoxal",
+      "links": [
+        {
+          "outcome": "sym_7a20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A20, manifestations du sommeil paradoxal (exemples courants)",
+          "summary": "Des manifestations anormales du sommeil paradoxal, comme celles-ci, accompagnent la somnolence.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_muscles_qui_lachent_emotion",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Sentir ses muscles lâcher lors d'une émotion",
+      "description": "Genoux qui fléchissent, mâchoire ou tête qui tombe brièvement en riant ou en étant surpris.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "cataplexie",
+      "links": [
+        {
+          "outcome": "sym_7a20",
+          "strength": "moderee",
+          "basis": "CIM-11 MMS 7A20.0 (type 1)",
+          "summary": "Ces pertes brèves de tonus déclenchées par une émotion caractérisent le type 1.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_reveil_tres_difficile",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir énormément de mal à se réveiller",
+      "description": "Rester longtemps confus, lent ou embrumé au réveil, malgré plusieurs alarmes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "inertie_reveil",
+      "links": [
+        {
+          "outcome": "sym_7a21",
+          "strength": "moderee",
+          "basis": "CIM-11 MMS 7A21, caractéristique associée",
+          "summary": "Un réveil prolongé et très difficile est fréquemment décrit.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_somnolence_journee",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir souvent sommeil dans la journée",
+      "description": "Lutter contre le sommeil en réunion, en voiture ou devant un écran.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "somnolence_diurne",
+      "links": [
+        {
+          "outcome": "sym_7a20",
+          "strength": "limitee",
+          "basis": "Signe non spécifique",
+          "summary": "Une somnolence diurne modérée est fréquente et peu spécifique.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        },
+        {
+          "outcome": "sym_7a21",
+          "strength": "limitee",
+          "basis": "Signe non spécifique",
+          "summary": "Une somnolence diurne modérée est fréquente et peu spécifique.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        },
+        {
+          "outcome": "sym_7a26",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A26, description de la catégorie",
+          "summary": "La somnolence en journée, liée au manque de sommeil, fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_dormir_moins_que_son_besoin",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Dormir régulièrement moins que ce dont on a besoin",
+      "description": "Se coucher tard ou se lever tôt par contrainte ou habitude, la plupart des jours, depuis plusieurs mois.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "sommeil_ecourte",
+      "links": [
+        {
+          "outcome": "sym_7a26",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A26, description de la catégorie",
+          "summary": "Un sommeil régulièrement plus court que son besoin, la plupart des jours depuis des mois, est requis.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_rattraper_son_sommeil",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Dormir beaucoup plus le week-end ou en vacances",
+      "description": "Faire de longues nuits dès qu'on le peut, et se sentir alors bien moins somnolent.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "rattrapage_sommeil",
+      "links": [
+        {
+          "outcome": "sym_7a26",
+          "strength": "critere",
+          "basis": "CIM-11 MMS 7A26, description de la catégorie",
+          "summary": "Un sommeil nettement plus long les jours libres, qui soulage la somnolence, fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_detresse_vie_sexuelle",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Être affecté par des difficultés sexuelles",
+      "description": "Ressentir tristesse, gêne ou inquiétude à cause de difficultés de désir, d'excitation, de plaisir ou de rapport.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "detresse_sexuelle",
+      "links": [
+        {
+          "outcome": "sym_ha00",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA00, description de la catégorie",
+          "summary": "Une détresse liée aux difficultés est requise pour toutes les dysfonctions sexuelles de la CIM-11.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        },
+        {
+          "outcome": "sym_ha01",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA01, description de la catégorie",
+          "summary": "Une détresse liée aux difficultés est requise pour toutes les dysfonctions sexuelles de la CIM-11.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        },
+        {
+          "outcome": "sym_ha02",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA02, description de la catégorie",
+          "summary": "Une détresse liée aux difficultés est requise pour toutes les dysfonctions sexuelles de la CIM-11.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        },
+        {
+          "outcome": "sym_ha03",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA03, description de la catégorie",
+          "summary": "Une détresse liée aux difficultés est requise pour toutes les dysfonctions sexuelles de la CIM-11.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        },
+        {
+          "outcome": "sym_ha20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA20, description de la catégorie",
+          "summary": "Une détresse liée aux difficultés est requise pour toutes les dysfonctions sexuelles de la CIM-11.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peu_d_envie_meme_sollicite",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir peu d'envie même quand l'autre propose",
+      "description": "Rester sans envie face aux caresses ou aux propositions, même dans un moment agréable.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "desir_reactif",
+      "links": [
+        {
+          "outcome": "sym_ha00",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA00, description de la catégorie",
+          "summary": "Un désir réactif aux sollicitations réduit ou absent fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_envie_qui_retombe",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Perdre l'envie en cours de rapport",
+      "description": "Avoir envie au début, puis sentir son intérêt s'éteindre une fois le rapport commencé.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "desir_maintien",
+      "links": [
+        {
+          "outcome": "sym_ha00",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA00, description de la catégorie",
+          "summary": "L'incapacité à maintenir le désir une fois l'activité commencée fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peu_d_excitation_ressentie",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Se sentir peu excité malgré l'envie",
+      "description": "Avoir envie mais ressentir peu d'excitation ou de plaisir physique pendant les caresses.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "excitation_subjective",
+      "links": [
+        {
+          "outcome": "sym_ha01",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA01, description de la catégorie",
+          "summary": "Les difficultés de l'excitation ressentie font partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_reponse_physique_difficile",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir des difficultés de lubrification ou d'érection",
+      "description": "Une lubrification insuffisante, ou une érection difficile à obtenir ou à garder, malgré l'envie.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "excitation_physique",
+      "links": [
+        {
+          "outcome": "sym_ha01",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA01, description de la catégorie",
+          "summary": "Les difficultés de la réponse physique (lubrification, érection) font partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_orgasme_absent",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir rarement ou jamais d'orgasme",
+      "description": "Ne pas atteindre l'orgasme, ou très rarement, malgré une excitation et des caresses suffisantes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "orgasme_absent",
+      "links": [
+        {
+          "outcome": "sym_ha02",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA02, description de la catégorie",
+          "summary": "L'absence ou la grande rareté de l'orgasme définit l'anorgasmie.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_orgasme_tres_long_a_venir",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Mettre très longtemps à atteindre l'orgasme",
+      "description": "Un orgasme qui n'arrive qu'après une stimulation bien plus longue que souhaité.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "orgasme_retarde",
+      "links": [
+        {
+          "outcome": "sym_ha02",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA02.0, description",
+          "summary": "Un orgasme nettement retardé fait partie des difficultés d'orgasme décrites.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_orgasme_peu_intense",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Ressentir un orgasme très peu intense",
+      "description": "Un orgasme à peine perceptible ou nettement moins intense qu'avant.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "orgasme_attenue",
+      "links": [
+        {
+          "outcome": "sym_ha02",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA02.0, description",
+          "summary": "Un orgasme nettement atténué fait partie des difficultés d'orgasme décrites.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_ejaculation_tres_rapide",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Éjaculer bien plus tôt que souhaité",
+      "description": "Éjaculer très peu de temps après le début de la pénétration ou des caresses, presque à chaque fois.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "ejaculation_precoce",
+      "links": [
+        {
+          "outcome": "sym_ha03",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA03.0, description",
+          "summary": "Une éjaculation qui survient bien plus tôt que souhaité définit l'éjaculation précoce.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peu_de_controle_ejaculation",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir peu de contrôle sur le moment d'éjaculer",
+      "description": "Ne pas parvenir à retarder l'éjaculation, même en essayant.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "controle_ejaculation",
+      "links": [
+        {
+          "outcome": "sym_ha03",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA03.0, description",
+          "summary": "Un contrôle insuffisant du moment de l'éjaculation fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_ejaculation_tres_difficile",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir beaucoup de mal à éjaculer",
+      "description": "Ne pas parvenir à éjaculer, ou seulement après très longtemps, malgré l'excitation.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "ejaculation_retardee",
+      "links": [
+        {
+          "outcome": "sym_ha03",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA03.1, description",
+          "summary": "Une éjaculation absente ou très retardée définit l'éjaculation retardée.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_penetration_difficile",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir des difficultés lors de la pénétration",
+      "description": "Une pénétration difficile ou impossible, parfois à cause de muscles qui se contractent malgré soi.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "penetration_difficile",
+      "links": [
+        {
+          "outcome": "sym_ha20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA20, description de la catégorie",
+          "summary": "Des difficultés de pénétration, notamment par contraction involontaire, font partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_douleur_penetration",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Avoir mal lors de la pénétration",
+      "description": "Des douleurs vulvaires, vaginales ou pelviennes pendant ou juste après la pénétration.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "douleur_penetration",
+      "links": [
+        {
+          "outcome": "sym_ha20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA20, description de la catégorie",
+          "summary": "Des douleurs répétées lors de la pénétration font partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup_peur_de_la_douleur_au_rapport",
+      "canonical": false,
+      "theme": "sexualite_securite",
+      "label": "Redouter la douleur lors d'un rapport",
+      "description": "Ressentir peur ou anxiété avant ou pendant un rapport à l'idée d'avoir mal.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "peur_douleur_sexuelle",
+      "links": [
+        {
+          "outcome": "sym_ha20",
+          "strength": "critere",
+          "basis": "CIM-11 MMS HA20, description de la catégorie",
+          "summary": "La peur ou l'anxiété liée à la douleur attendue fait partie de la définition.",
+          "sources": [
+            "icd11_mms_autres_chapitres",
+            "reed2016"
+          ]
+        }
+      ]
+    }
+  ],
+  "links_to_canonical": [
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6a05",
+      "strength": "critere",
+      "basis": "CDDR 6A05, caractéristique essentielle",
+      "summary": "Être facilement distrait par ce qui entoure ou par ses pensées est un signe d'inattention décrit.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "agir_sur_un_coup_de_tete",
+      "outcome": "sym_6a05",
+      "strength": "critere",
+      "basis": "CDDR 6A05, caractéristique essentielle",
+      "summary": "Agir sans prendre le temps de réfléchir fait partie des signes d'impulsivité décrits.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "sym_6a21",
+      "strength": "critere",
+      "basis": "CDDR 6A21, caractéristique essentielle",
+      "summary": "Un épisode dépressif net, avec humeur triste, doit coexister avec les symptômes psychotiques.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_mefier_des_autres",
+      "outcome": "sym_6a22",
+      "strength": "critere",
+      "basis": "CDDR 6A22, caractéristique essentielle",
+      "summary": "La méfiance et les idées de persécution légères font partie du tableau décrit.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_retirer_des_autres",
+      "outcome": "sym_6a22",
+      "strength": "critere",
+      "basis": "CDDR 6A22, caractéristique essentielle",
+      "summary": "Un contact difficile et une tendance au retrait social font partie du tableau décrit.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "detachement_irrealite",
+      "outcome": "sym_6a22",
+      "strength": "moderee",
+      "basis": "CDDR 6A22, exemple parmi les caractéristiques essentielles (poids descendu)",
+      "summary": "Des impressions d'irréalité font partie des distorsions de perception citées dans le tableau.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "sym_6a61",
+      "strength": "critere",
+      "basis": "CDDR 6A61 et épisode dépressif, caractéristique essentielle",
+      "summary": "Au moins un épisode dépressif, avec humeur triste ou perte de plaisir, est requis.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "sym_6a61",
+      "strength": "critere",
+      "basis": "CDDR 6A61 et épisode dépressif, caractéristique essentielle",
+      "summary": "La perte d'intérêt ou de plaisir peut constituer le cœur de l'épisode dépressif requis.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6a61",
+      "strength": "critere",
+      "basis": "CDDR 6A61 et épisodes d'humeur, caractéristique essentielle",
+      "summary": "La distractibilité en période d'élan et les difficultés de concentration en période dépressive font partie des signes décrits.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "sym_6a62",
+      "strength": "critere",
+      "basis": "CDDR 6A62, caractéristique essentielle",
+      "summary": "Des périodes de déprime, sans épisode dépressif complet au début, font partie du tableau.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "humeur_qui_change_vite",
+      "outcome": "sym_6a62",
+      "strength": "moderee",
+      "basis": "CDDR 6A62, caractéristique associée",
+      "summary": "Les changements rapides d'humeur sont fréquents mais ne suffisent pas à eux seuls.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Une humeur triste presque tous les jours est un des signes centraux de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Une humeur triste presque tous les jours est un des signes centraux de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "La perte d'intérêt ou de plaisir est un des signes centraux de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "La perte d'intérêt ou de plaisir est un des signes centraux de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Les difficultés de concentration ou de décision font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Les difficultés de concentration ou de décision font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_sentir_sans_valeur",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Le sentiment d'être sans valeur fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_sentir_sans_valeur",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Le sentiment d'être sans valeur fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "culpabilite_excessive",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Une culpabilité excessive fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "culpabilite_excessive",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Une culpabilité excessive fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "desespoir_avenir",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Le désespoir face à l'avenir fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "desespoir_avenir",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Le désespoir face à l'avenir fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Les pensées de mort ou de suicide font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "idees_de_mort",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Les pensées de mort ou de suicide font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Les troubles du sommeil font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Les troubles du sommeil font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Un changement net de l'appétit ou du poids fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Un changement net de l'appétit ou du poids fait partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "ralentissement_agitation",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "Le ralentissement ou l'agitation font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "ralentissement_agitation",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "Le ralentissement ou l'agitation font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "fatigue_manque_energie",
+      "outcome": "sym_6a70",
+      "strength": "critere",
+      "basis": "CDDR 6A70 et épisode dépressif, caractéristique essentielle",
+      "summary": "La fatigue ou le manque d'énergie font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "fatigue_manque_energie",
+      "outcome": "sym_6a71",
+      "strength": "critere",
+      "basis": "CDDR 6A71 et épisode dépressif, caractéristique essentielle",
+      "summary": "La fatigue ou le manque d'énergie font partie des signes de l'épisode dépressif.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tristesse_persistante",
+      "outcome": "sym_6a73",
+      "strength": "critere",
+      "basis": "CDDR 6A73, caractéristique essentielle",
+      "summary": "Une humeur triste presque constante pendant deux semaines est requise.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "perte_interet_plaisir",
+      "outcome": "sym_6a73",
+      "strength": "critere",
+      "basis": "CDDR 6A73, caractéristique essentielle",
+      "summary": "La perte d'intérêt ou de plaisir peut tenir lieu d'humeur triste.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "nervosite",
+      "outcome": "sym_6a73",
+      "strength": "critere",
+      "basis": "CDDR 6A73, caractéristique essentielle",
+      "summary": "Se sentir nerveux ou à bout fait partie des signes anxieux requis.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "inquietude_difficile_a_arreter",
+      "outcome": "sym_6a73",
+      "strength": "critere",
+      "basis": "CDDR 6A73, caractéristique essentielle",
+      "summary": "Des inquiétudes difficiles à contrôler font partie des signes anxieux requis.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tension_musculaire",
+      "outcome": "sym_6a73",
+      "strength": "critere",
+      "basis": "CDDR 6A73, caractéristique essentielle",
+      "summary": "La tension musculaire fait partie des signes anxieux décrits.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "coeur_souffle_stress",
+      "outcome": "sym_6a73",
+      "strength": "critere",
+      "basis": "CDDR 6A73, caractéristique essentielle",
+      "summary": "Les signes physiques d'alerte (cœur, souffle) font partie des signes anxieux décrits.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "inquietude_difficile_a_arreter",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "Une inquiétude excessive touchant plusieurs domaines de la vie est un des deux noyaux du trouble.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "tension_musculaire",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "La tension musculaire fait partie des signes qui accompagnent l'anxiété.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "nervosite",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "Se sentir nerveux, agité ou à bout fait partie des signes qui accompagnent l'anxiété.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "Les difficultés de concentration font partie des signes qui accompagnent l'anxiété.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "irritabilite",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "L'irritabilité fait partie des signes qui accompagnent l'anxiété.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "Un sommeil difficile ou peu reposant fait partie des signes qui accompagnent l'anxiété.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "coeur_souffle_stress",
+      "outcome": "sym_6b00",
+      "strength": "critere",
+      "basis": "CDDR 6B00, caractéristique essentielle",
+      "summary": "Les signes physiques d'alerte (palpitations, sueurs, tremblements) font partie des signes décrits.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "maux_physiques_frequents",
+      "outcome": "sym_6b00",
+      "strength": "moderee",
+      "basis": "CDDR 6B00, exemple parmi les signes d'activation (poids descendu)",
+      "summary": "Des maux de ventre ou nausées liés à l'anxiété sont souvent rapportés.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "eviter_par_peur",
+      "outcome": "sym_6b03",
+      "strength": "critere",
+      "basis": "CDDR 6B03, caractéristique essentielle",
+      "summary": "L'objet ou la situation redoutés sont activement évités.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "crises_angoisse",
+      "outcome": "sym_6b03",
+      "strength": "moderee",
+      "basis": "CDDR 6B03, caractéristique associée",
+      "summary": "L'exposition peut déclencher une crise d'angoisse.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6b250",
+      "strength": "critere",
+      "basis": "CDDR 6B25.0, caractéristique essentielle",
+      "summary": "Des tentatives infructueuses pour réduire ou arrêter l'arrachage sont requises.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6b251",
+      "strength": "critere",
+      "basis": "CDDR 6B25.1, caractéristique essentielle",
+      "summary": "Des tentatives infructueuses pour réduire ou arrêter le grattage sont requises.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "detachement_irrealite",
+      "outcome": "sym_6b66",
+      "strength": "critere",
+      "basis": "CDDR 6B66, caractéristique essentielle",
+      "summary": "Se sentir détaché de soi ou de ce qui entoure est au cœur de ce trouble.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "changement_appetit",
+      "outcome": "sym_6b83",
+      "strength": "limitee",
+      "basis": "Signe non spécifique, CDDR 6B83 (diagnostic différentiel)",
+      "summary": "Une baisse d'appétit est fréquente dans de nombreux troubles et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c42",
+      "strength": "critere",
+      "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c42",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c43",
+      "strength": "critere",
+      "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c43",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c44",
+      "strength": "critere",
+      "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c44",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c45",
+      "strength": "critere",
+      "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c45",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c46",
+      "strength": "critere",
+      "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c46",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c47",
+      "strength": "critere",
+      "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c47",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c49",
+      "strength": "critere",
+      "basis": "CDDR 6C49 (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c49",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c4b",
+      "strength": "critere",
+      "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c4b",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c4c",
+      "strength": "critere",
+      "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c4c",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficile_de_s_arreter",
+      "outcome": "sym_6c4d",
+      "strength": "critere",
+      "basis": "CDDR 6C4D (dépendance), caractéristique essentielle",
+      "summary": "La perte de contrôle sur la consommation est un des signes de la dépendance.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c4d",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif de consommation)",
+      "summary": "Consommer pour apaiser un malaise est fréquent dans tous les usages et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "consommer_pour_apaiser",
+      "outcome": "sym_6c51",
+      "strength": "limitee",
+      "basis": "Signe non spécifique (motif)",
+      "summary": "Jouer pour s'évader d'un malaise est fréquent et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "colere_qui_deborde",
+      "outcome": "sym_6c73",
+      "strength": "critere",
+      "basis": "CDDR 6C73, caractéristique essentielle",
+      "summary": "Des accès répétés d'agressivité verbale ou physique, brefs et explosifs, sont requis.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "irritabilite",
+      "outcome": "sym_6c73",
+      "strength": "limitee",
+      "basis": "Signe non spécifique",
+      "summary": "S'énerver vite est fréquent dans beaucoup de situations et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_dire_non",
+      "outcome": "sym_6d10",
+      "strength": "moderee",
+      "basis": "CDDR 6D10.0, exemple de manifestation",
+      "summary": "Céder aux autres pour éviter le conflit est un exemple cité de difficulté relationnelle.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "emotions_difficiles_a_apaiser",
+      "outcome": "sym_6d110",
+      "strength": "critere",
+      "basis": "CDDR 6D11.0, manifestation du domaine de traits",
+      "summary": "Une régulation difficile des émotions fait partie des manifestations décrites.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "humeur_qui_change_vite",
+      "outcome": "sym_6d110",
+      "strength": "critere",
+      "basis": "CDDR 6D11.0, manifestation du domaine de traits",
+      "summary": "Une humeur changeante fait partie des manifestations décrites.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_sentir_sans_valeur",
+      "outcome": "sym_6d110",
+      "strength": "critere",
+      "basis": "CDDR 6D11.0, manifestation du domaine de traits",
+      "summary": "Une faible estime de soi fait partie des manifestations décrites.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_mefier_des_autres",
+      "outcome": "sym_6d110",
+      "strength": "critere",
+      "basis": "CDDR 6D11.0, manifestation du domaine de traits",
+      "summary": "La méfiance fait partie des manifestations décrites.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "se_retirer_des_autres",
+      "outcome": "sym_6d111",
+      "strength": "critere",
+      "basis": "CDDR 6D11.1, manifestation du domaine de traits",
+      "summary": "L'évitement des contacts sociaux fait partie du détachement social décrit.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "garder_ses_emotions_pour_soi",
+      "outcome": "sym_6d111",
+      "strength": "critere",
+      "basis": "CDDR 6D11.1, manifestation du domaine de traits",
+      "summary": "Parler peu de ce que l'on ressent fait partie du détachement émotionnel décrit.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "agir_sur_un_coup_de_tete",
+      "outcome": "sym_6d113",
+      "strength": "critere",
+      "basis": "CDDR 6D11.3, manifestation du domaine de traits",
+      "summary": "Agir sur le moment sans penser aux conséquences est le cœur de ce trait.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6d113",
+      "strength": "critere",
+      "basis": "CDDR 6D11.3, manifestation du domaine de traits",
+      "summary": "La distractibilité fait partie des manifestations décrites.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_a_decider",
+      "outcome": "sym_6d114",
+      "strength": "moderee",
+      "basis": "CDDR 6D11.4, manifestation secondaire (poids descendu)",
+      "summary": "Une délibération très longue avant de décider est citée parmi les manifestations.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "difficultes_concentration",
+      "outcome": "sym_6d71",
+      "strength": "moderee",
+      "basis": "CDDR 6D71, domaine cognitif cité (poids descendu, peu spécifique)",
+      "summary": "Une baisse de l'attention fait partie des domaines possibles, mais ce signe est fréquent ailleurs.",
+      "sources": [
+        "oms_cddr"
+      ]
+    },
+    {
+      "symptom": "mal_a_s_endormir",
+      "outcome": "sym_7a00",
+      "strength": "critere",
+      "basis": "CIM-11 MMS 7A00, description de la catégorie",
+      "summary": "La difficulté à s'endormir, plusieurs fois par semaine depuis au moins trois mois, fait partie de la définition.",
+      "sources": [
+        "icd11_mms_autres_chapitres"
+      ]
+    },
+    {
+      "symptom": "reveils_nocturnes",
+      "outcome": "sym_7a00",
+      "strength": "critere",
+      "basis": "CIM-11 MMS 7A00, description de la catégorie",
+      "summary": "La difficulté à rester endormi fait partie de la définition.",
+      "sources": [
+        "icd11_mms_autres_chapitres"
+      ]
+    },
+    {
+      "symptom": "fatigue_manque_energie",
+      "outcome": "sym_7a00",
+      "strength": "moderee",
+      "basis": "CIM-11 MMS 7A00, symptômes diurnes typiques",
+      "summary": "La fatigue est la gêne diurne la plus souvent décrite.",
+      "sources": [
+        "icd11_mms_autres_chapitres"
+      ]
+    },
+    {
+      "symptom": "trop_dormir",
+      "outcome": "sym_7a21",
+      "strength": "critere",
+      "basis": "CIM-11 MMS 7A21, description de la catégorie",
+      "summary": "Une durée totale de sommeil très longue est un des éléments objectifs de la définition.",
+      "sources": [
+        "icd11_mms_autres_chapitres"
+      ]
+    },
+    {
+      "symptom": "peu_de_desir_sexuel",
+      "outcome": "sym_ha00",
+      "strength": "critere",
+      "basis": "CIM-11 MMS HA00, description de la catégorie",
+      "summary": "Un désir absent ou nettement réduit est le cœur de cette dysfonction.",
+      "sources": [
+        "icd11_mms_autres_chapitres",
+        "reed2016"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "oms_cddr",
+      "type": "classification",
+      "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+      "url": "https://www.who.int/publications/i/item/9789240077263",
+      "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+    },
+    {
+      "id": "icd11_mms_autres_chapitres",
+      "type": "classification",
+      "citation": "OMS, CIM-11 MMS, version 2026-01, chapitre 07 (7A00, 7A20, 7A21, 7A26), chapitre 08 (8A05) et chapitre 17 (HA00–HA03, HA20) : intitulés et descriptions des catégories",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr",
+      "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique ; descriptions seulement paraphrasées, jamais traduites ni recopiées"
+    },
+    {
+      "id": "reed2016",
+      "type": "revue",
+      "citation": "Reed GM, Drescher J, Krueger RB et al., 2016, Disorders related to sexuality and gender identity in the ICD-11: revising the ICD-10 classification based on current scientific evidence, best clinical practices, and human rights considerations, World Psychiatry 15(3):205-221, doi:10.1002/wps.20354",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5032510/",
+      "licence": "© 2016 World Psychiatric Association ; article en libre accès sur PMC, cité et paraphrasé seulement"
+    }
+  ]
+}
