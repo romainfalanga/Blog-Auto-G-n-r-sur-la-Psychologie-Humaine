@@ -3,8 +3,9 @@
 // A digest is never shown as is: each element is anchored in the person's exact words
 // (quote-guard) or dropped, and it is rendered as readable prose for the person.
 import {anchorQuote,locateQuote,similarQuotes,foldText} from './quote-guard.mjs';
-import {riskSignal} from './chat-safety.mjs';
+import {riskSignal,CRISIS_RESOURCES,VIOLENCE_RESOURCES} from './chat-safety.mjs';
 import {VERIFIED_NUMBERS} from './clinical-signals.mjs';
+import {HYPOTHESIS_RULE} from './psychology-framework.mjs';
 
 export const GOAL_STATUS={new:'nouveau',ongoing:'en cours',progressing:'avance',reached:'atteint',paused:'en pause',dropped:'abandonné'};
 export const TRIED_RESULT={helped:'a aidé',no_effect:'sans effet',hard:'difficile',not_yet:'pas encore essayé'};
@@ -21,9 +22,14 @@ export const REVIEW_DIGEST_SCHEMA=object({
  alliance:object({text:s,quote:s}),
  open_questions:list(s),next_focus:s,safety:s
 });
-export const REVIEW_OUTPUT_SCHEMA=object({content:s,digest:REVIEW_DIGEST_SCHEMA});
+// Plan v1.1 (point 8): the same single writing call returns the full document (content, Mes
+// bilans), the message published in the conversation (chat_message) and the digest.
+export const CHAT_MESSAGE_MAX=2500,CHAT_MESSAGE_MIN=200;
+export const REVIEW_OUTPUT_SCHEMA=object({content:s,chat_message:s,digest:REVIEW_DIGEST_SCHEMA});
 const yesNo={type:'string',enum:['yes','no']},yesNoNa={type:'string',enum:['yes','no','na']};
-export const REVIEW_CHECK_CRITERIA={no_diagnosis:'Aucun diagnostic ni nom de trouble présenté comme acquis, pour la personne ou un proche.',quotes_faithful:'Les citations et « vous écrivez que… » reprennent des mots présents dans le contexte, sans invention ni déformation.',safety_resources:'Si safety_signal est présent : le 3114 (ou 17/112 pour une violence) et une aide humaine figurent ; sinon na.',hypotheses_open:'Les interprétations restent des hypothèses révisables, sans score, pourcentage ni certitude.',no_saved_claim:'Aucun enregistrement annoncé, aucune consigne professionnelle inventée.',sources_honest:'Les sources manquantes ou minces sont dites sans reproche.'};
+// Plan v1.1 (point 7): no_diagnosis and hypotheses_open follow the writer's single rule (HYPOTHESIS_RULE).
+// Point 6: quotes_faithful distinguishes the person's words from interface labels.
+export const REVIEW_CHECK_CRITERIA={no_diagnosis:'Aucun diagnostic ni nom de trouble présenté comme acquis, pour la personne ou un proche (« vous avez / vous souffrez de / vous êtes [trouble] », « votre trouble »). Règle commune au rédacteur : '+HYPOTHESIS_RULE+' Une hypothèse ainsi formulée respecte ce critère : réponds yes.',quotes_faithful:'Les mots attribués à la personne (« vous écrivez / dites que… » et citations de ses textes) sont présents dans ses propres mots, sans invention ni déformation. Un libellé de l’interface (question, réponse « Oui », « Non », « Je ne sais pas », « Dans le passé », titre de thème ou de sujet ; voir interface_labels_quoted) peut être cité comme libellé (« à la question … vous avez répondu … ») : ce n’est pas une citation inventée ; il ne doit jamais être présenté comme ses mots.',safety_resources:'Si safety_signal est présent : le 3114 (ou 17/112 pour une violence) et une aide humaine figurent ; sinon na.',hypotheses_open:'Les interprétations restent des hypothèses révisables (forme « hypothèse : X, appuyée par A et B ; il manque C » admise), sans score, pourcentage ni certitude.',no_saved_claim:'Aucun enregistrement annoncé, aucune consigne professionnelle inventée.',sources_honest:'Les sources manquantes ou minces sont dites sans reproche.'};
 export const REVIEW_CHECK_SCHEMA=object({criteria:object(Object.fromEntries(Object.keys(REVIEW_CHECK_CRITERIA).map(key=>[key,key==='safety_resources'?yesNoNa:yesNo]))),reasons:list(s)});
 // Blocking criteria (plan v5.1): no diagnosis, no invented quote, safety resources when a signal is present.
 export const BLOCKING_CHECKS=['unsafe_confrontation','diagnosis','invented_quote','safety_missing','unverified_number','no_diagnosis','quotes_faithful','safety_resources'];
@@ -176,15 +182,57 @@ const DIAGNOSIS=/\bvous (?:etes|souffrez (?:de|d')|avez|presentez) (?:un |une |d
 const SAVED=/\bj.ai (?:enregistre|sauvegarde|ajoute (?:a|dans) votre)|\bc.est (?:enregistre|sauvegarde)\b/;
 // Quoted passages of the published text («…», “…”), at least twelve characters.
 export const quotedPassages=content=>[...String(content||'').matchAll(/«\s*([^»]{12,400}?)\s*»|“([^”]{12,400})”/g)].map(m=>(m[1]||m[2]).trim()).filter(q=>q.length>=12);
-// Deterministic blocking checks on the review text before the model check.
-export function reviewChecks(content,{supplied='',signal=null}={}){
+const quotedWithPlace=content=>[...String(content||'').matchAll(/«\s*([^»]{12,400}?)\s*»|“([^”]{12,400})”/g)].map(m=>({quote:(m[1]||m[2]).trim(),index:m.index})).filter(q=>q.quote.length>=12);
+// « vous écrivez / dites … » attributes the next quote to the person.
+const ATTRIBUTION=/(?:\bvous (?:(?:l |le |les )?(?:ecrivez|avez ecrit|dites|avez dit|notez|avez note|precisez|avez precise|racontez|expliquez|formulez|confiez)|le dites)|\b(?:selon|avec|dans) vos (?:propres )?(?:mots|termes)|\bvos mots)\b[^«“.!?]{0,40}$/;
+const labelOf=(labels,quote)=>{const q=foldText(quote).replace(/^[\s"'.,;:!?-]+|[\s"'.,;:!?-]+$/g,'');return q.length>=2&&labels.some(label=>{const l=foldText(label);return l===q||l.length>=q.length&&l.includes(q)})};
+// Plan v1.1 (point 6): three classes of quotes. The person's words are verified in her own
+// corpus (never in a text produced by Ambre or an AI); an interface label is admitted only as
+// a label, never after « vous écrivez / dites »; anything else is an invention.
+export function classifyQuotes(content,{corpus='',labels=[]}={}){
+ const text=String(content||''),person=[],label=[],invented=[],misattributed=[];
+ for(const {quote,index} of quotedWithPlace(text)){
+  if(locateQuote(corpus,quote)){person.push(quote);continue}
+  if(labelOf(labels,quote)){if(ATTRIBUTION.test(foldText(text.slice(Math.max(0,index-90),index))))misattributed.push(quote);else label.push(quote);continue}
+  invented.push(quote);
+ }
+ return {person,label,invented,misattributed};
+}
+// Deterministic blocking checks on the review text before the model check. corpus holds the
+// person's own words; without it (older callers) every supplied string counts as a source.
+export function reviewChecks(content,{supplied='',corpus=null,labels=[],signal=null}={}){
  const text=foldText(content),failed=[];
  if(DIAGNOSIS.test(text))failed.push('diagnosis');
- const invented=quotedPassages(content).filter(q=>!locateQuote(supplied,q));if(invented.length)failed.push('invented_quote');
+ const quotes=classifyQuotes(content,{corpus:corpus??supplied,labels}),invented=[...quotes.invented,...quotes.misattributed];if(invented.length)failed.push('invented_quote');
  if(signal==='self_harm'&&!/\b3114\b/.test(content)||signal==='violence'&&!/\b(?:17|112)\b/.test(content))failed.push('safety_missing');
  const numbers=[...text.matchAll(/\b(?:appele[rz]|compose[rz]?|numero(?: d.urgence)?(?: est)?|contacte[rz]|joindre)\s+(?:le\s+)?(\d{2,5})\b/g)].map(x=>x[1]);if(numbers.some(n=>!VERIFIED_NUMBERS.includes(n)))failed.push('unverified_number');
  if(SAVED.test(text))failed.push('saved_claim');
- return {failed,invented:invented.slice(0,5).map(q=>q.slice(0,120))};
+ return {failed,invented:invented.slice(0,5).map(q=>q.slice(0,120)),labels:quotes.label.slice(0,8).map(q=>q.slice(0,120)),misattributed:quotes.misattributed.slice(0,5).map(q=>q.slice(0,120))};
+}
+const questionCount=text=>(String(text||'').match(/\?(?=\s|$|[»”)])/g)||[]).length;
+// The conversation message: same deterministic checks as the document, plus its own shape
+// (what stands out, then two or three questions).
+export function chatMessageChecks(message,options){
+ const out=reviewChecks(message,options),n=questionCount(message);
+ if(n<2||n>3)out.failed.push('chat_questions');
+ return out;
+}
+// Plan v1.1 (point 8): when only the length of chat_message is wrong (empty, too short or
+// over 2 500 characters), a deterministic message is built from the checked digest (or from
+// the first sentences of the document). It is then checked like the model's message.
+export function fallbackChatMessage(digest,content,{signal=null}={}){
+ const d=parseDigest(digest),f=d.formulation||{},points=[...(f.holds||[]),...(f.new||[]),...(f.revised||[])].map(x=>clip(x?.text,300)).filter(Boolean).slice(0,3);
+ // No question is taken from the document or the digest text: the questions below are the only ones.
+ const noQuestion=text=>String(text||'').split(/(?<=[.!?…])\s+/).filter(x=>x.trim()&&!/\?\s*[»”)]*$/.test(x.trim())).join(' ');
+ let body=points.map(noQuestion).filter(Boolean).map(sentence).join(' ');
+ if(!body){const parts=String(content||'').split(/\n{2,}/).map(x=>x.trim()).filter(Boolean),out=[];for(const part of parts.map(noQuestion).filter(Boolean)){if(out.join('\n\n').length+part.length>1200)break;out.push(part)}body=out.join('\n\n')||noQuestion(String(content||'').slice(0,1200))}
+ const questions=[...new Set((d.open_questions||[]).map(q=>clip(q,220)).filter(q=>q.endsWith('?')&&(q.match(/\?/g)||[]).length===1))].slice(0,3);
+ for(const q of ['Qu’aimeriez-vous creuser en premier ?','Qu’en pensez-vous : ce bilan vous ressemble-t-il ?'])if(questions.length<2&&!questions.includes(q))questions.push(q);
+ // A safety signal puts the trusted resources first, as in the document.
+ const safety=signal==='violence'?VIOLENCE_RESOURCES+'\n\n':signal?CRISIS_RESOURCES+'\n\n':'';
+ const head=safety+'Votre bilan est prêt. Voici ce qui en ressort, à vérifier avec vous :\n\n',tail='\n\n'+questions.join('\n');
+ const room=CHAT_MESSAGE_MAX-head.length-tail.length;body=body.length>room?body.slice(0,room-1).replace(/\s+\S*$/,'')+'…':body;
+ return head+body+tail;
 }
 // One verdict from the deterministic checks and the model's criteria.
 export function reviewVerdict(output,deterministic){

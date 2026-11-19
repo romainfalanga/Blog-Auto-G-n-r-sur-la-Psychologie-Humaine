@@ -60,7 +60,7 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  withFetch(t,async(_url,options)=>{requests.push(JSON.parse(options.body));return reply();});
  let state=await s.call('/api/chat');
  const {readiness,quotas,...emptyJourney}=state.journey;
- assert.deepEqual(emptyJourney,{started:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}},can_start:false,review:{running_id:null,last_at:null,next_point_at:null}});
+ assert.deepEqual(emptyJourney,{started:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}},can_start:false,review:{running_id:null,stage:null,blocks_done:0,blocks_total:null,started_at:null,last_failure:null,daily:{created:0,limit:8,resets_at:null},estimate:null,last_at:null,next_point_at:null}});
  assert.deepEqual(readiness.missing,['identity','people','events','childhood','symptoms']);
  assert.deepEqual(readiness.identity.missing_fields,['first_name','last_name','birth_date','gender']);assert.equal(readiness.childhood.required,60);
  assert.equal(quotas.messages.limit,100);assert.equal(quotas.reviews.limit,1);assert.equal(quotas.reviews.remaining,1);
@@ -100,11 +100,15 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  assert.equal(r.journey.review.last_at,s.now());assert.equal(r.journey.review.next_point_at,Date.parse('2026-11-30T23:00:00Z')/1000);
  assert.equal(r.access.allowed,true);assert.equal(r.quota.used,0,'a review is not a message of the monthly quota');
  assert.equal(r.quotas.reviews.used,1);assert.equal(r.quotas.reviews.reserved,0);assert.equal(r.quotas.reviews.remaining,0);
- assert.deepEqual(r.messages.map(m=>[m.role,m.review_id,m.review_kind]),[['assistant',initialId,'initial']]);assert.equal(r.messages[0].content,reviewText());
+ assert.deepEqual(r.messages.map(m=>[m.role,m.review_id,m.review_kind]),[['assistant',initialId,'initial']]);
+ // Plan v1.1 (lot 2): the conversation shows chat_message (here the deterministic fallback: the mock
+ // writer returns no chat_message); the complete document stays in Mes bilans.
+ assert.equal(r.messages[0].chat_message,r.messages[0].content);assert.match(r.messages[0].chat_message,/^Votre bilan est prêt/);assert.ok(r.messages[0].chat_message.length<=2500);assert.deepEqual(r.messages[0].links.map(l=>l.href),['/mes-bilans/','/mes-diagnostics/']);
+ assert.equal((await s.call('/api/reviews/'+initialId)).review.content,reviewText());
  assert.equal(requests.length,1);
  const initialRequest=requests[0],initialContext=contextOf(initialRequest);
  assert.match(initialRequest.messages[0].content,/ANALYSE INITIALE/);assert.doesNotMatch(initialRequest.messages[0].content,/POINT D’ÉTAPE/);
- assert.equal(initialRequest.max_tokens,4800,'A5-P1: the text and its digest');assert.equal(initialRequest.provider.zdr,true);assert.equal(initialRequest.provider.data_collection,'deny');assert.equal(initialRequest.response_format.json_schema.strict,true);
+ assert.equal(initialRequest.max_tokens,5600,'A5-P1: the text and its digest; plan v1.1 point 8: plus chat_message');assert.equal(initialRequest.provider.zdr,true);assert.equal(initialRequest.provider.data_collection,'deny');assert.equal(initialRequest.response_format.json_schema.strict,true);
  assert.deepEqual(initialContext.available,{cartography:{done:true,count:2},portrait:{done:true},people:{done:true,count:3},life_events:{done:true,count:3}});
  assert.equal(initialContext.kind,'initial');assert.equal(initialContext.childhood_cartography.cause_count,2);assert.equal(initialContext.childhood_cartography.person_notes[0].text,'Ce que j’en retiens.');assert.equal(initialContext.childhood_cartography.resources.length,1);
  assert.ok(initialContext.sources.some(x=>x.type==='profile'));assert.deepEqual(initialContext.people.map(p=>p.name).sort(),['Mila','Proche 2','Proche 3']);assert.equal(initialContext.current_identity.first_name,'Alix');
@@ -112,7 +116,7 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  assert.ok(JSON.stringify(initialContext).length<=34000);
  let row=review(s,initialId);
  assert.equal(row.status,'ready');assert.equal(row.kind,'initial');assert.equal(row.attempts,1);assert.equal(row.lease_token,null);assert.equal(row.completed_at,s.now());
- assert.deepEqual(JSON.parse(row.sources),{symptom_map_revision:[1,1,null,1],cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:0,previous_review_id:null,check:{passed:true,rewritten:false,failed:[]}});
+ assert.deepEqual(JSON.parse(row.sources),{symptom_map_revision:[1,1,null,1],cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:0,previous_review_id:null,blocks_total:0,check:{passed:true,rewritten:false,failed:[],chat_fallback:true}});
  const budget=s.raw.prepare("SELECT * FROM provider_budgets WHERE user_id='a'").get();
  assert.equal(budget.provider_calls,2,'the review and its separate check');assert.equal(budget.input_tokens,900);assert.equal(budget.output_tokens,1100);assert.ok(budget.reserved_tokens>3500);
 
@@ -128,6 +132,14 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  assert.equal(chatContext.last_review.kind,'initial');assert.ok(chatContext.last_review.text.length<=3900);assert.ok(chatContext.last_review.text.startsWith('Ce qui semble ressortir.'));
  assert.ok(chatRequest.messages.slice(2).every(m=>m.content!==''),'a review is not replayed as an empty dialogue turn');
  assert.equal(chatRequest.messages.length,3);
+ {// Plan v1.1 (relecture) : hors de la fenêtre des derniers échanges, last_review relit aussi le document complet, pas chat_message.
+  const week=s.raw.prepare("SELECT week_start FROM chat_turns WHERE user_id='a' LIMIT 1").get().week_start;
+  for(let i=0;i<14;i++)s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response) VALUES(?,'a',?,'h','completed','consumed',?,1,1,?,?)").run('old-'+i,'old_turn_'+i,week,'Échange ancien '+i,JSON.stringify({companion_reply:1,content:'Réponse '+i}));
+  const r2=await s.call('/api/chat/messages','POST',{content:'Je reviens sur ce bilan.',idempotency_key:'window_message_1'});assert.equal(r2.status,200,JSON.stringify(r2));
+  const windowContext=contextOf(requests.at(-1));assert.ok(windowContext.last_review.text.startsWith('Ce qui semble ressortir.'),'outside the window: the full review, not the conversation message');
+  const extra="SELECT id FROM chat_turns WHERE id LIKE 'old-%' OR idempotency_key='window_message_1'";
+  s.raw.prepare(`DELETE FROM monthly_usage WHERE operation_id IN (${extra})`).run();s.raw.prepare(`DELETE FROM chat_turn_traces WHERE turn_id IN (${extra})`).run();s.raw.prepare(`DELETE FROM chat_turns WHERE id IN (${extra})`).run();
+ }
 
  r=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_001'});
  assert.equal(r.status,429);assert.equal(r.code,'review_quota_exhausted');assert.equal(r.retry_at,renewal(s));assert.equal(typeof r.error,'string');
@@ -148,7 +160,7 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  assert.equal(pointContext.previous_review.kind,'initial');assert.ok(pointContext.previous_review.text.startsWith('Ce qui semble ressortir.'));
  assert.deepEqual(pointContext.conversation_since,[{vous:'J’aimerais comprendre pourquoi je me tais en réunion.',ambre:'Je vous écoute.'}]);
  assert.deepEqual(pointContext.conversation_coverage,{included_turns:1,total_turns:1,truncated:false});
- assert.deepEqual(JSON.parse(review(s,pointId).sources),{symptom_map_revision:[1,1,null,1],cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:1,previous_review_id:initialId,thread_reviews:1,check:{passed:true,rewritten:false,failed:[]}});
+ assert.deepEqual(JSON.parse(review(s,pointId).sources),{symptom_map_revision:[1,1,null,1],cartography:{present:true,version:3,causes:2},portrait:true,people:3,life_events:3,messages:1,previous_review_id:initialId,thread_reviews:1,blocks_total:0,check:{passed:true,rewritten:false,failed:[],chat_fallback:true}});
  assert.equal((await s.call('/api/chat/review','POST',{idempotency_key:'point_key_002'})).code,'review_quota_exhausted');
  const beforeReplay=requests.length;const replay=await s.call('/api/chat/review','POST',{idempotency_key:'point_key_001'});assert.equal(replay.status,200);assert.equal(replay.review_id,pointId);assert.equal(requests.length,beforeReplay,'replaying the point reuses the consumed monthly credit');
 
@@ -307,14 +319,21 @@ test('Worker: “Mes bilans” page, cron resumption, export and account deletio
  let r=await request(env,'/api/chat/start',{method:'POST',cookie:a.cookie,data:{idempotency_key:'start_key_001',accepted:true}});
  assert.equal(r.status,202);const body=await r.json(),id=body.review_id;assert.equal(body.journey.review.running_id,id);assert.equal(calls,0);
  r=await (await request(env,'/api/reviews/'+id,{cookie:a.cookie})).json();assert.equal(r.review.status,'running');
- const pending=[];const result=await worker.scheduled({},env,{waitUntil:p=>pending.push(p)});await Promise.all(pending);
+ // Plan v1.1 (point 5): the same cron queued a portrait refresh (failing here with 503): the first
+ // review run waits for it without counting an attempt; past three minutes the capture is taken
+ // without the portrait, and the review says so.
+ let pending=[];let result=await worker.scheduled({},env,{waitUntil:p=>pending.push(p)});await Promise.all(pending);
+ assert.deepEqual(result.reviews,{claimed:1,failed:0});assert.equal(calls,0);
+ const waiting=env.DB.raw.prepare('SELECT status,attempts,error_code FROM ambre_reviews WHERE id=?').get(id);assert.equal(waiting.status,'running');assert.equal(waiting.error_code,'portrait_pending');assert.equal(waiting.attempts,0);
+ env.DB.raw.prepare('UPDATE ambre_reviews SET created_at=created_at-200,lease_until=0 WHERE id=?').run(id);
+ pending=[];result=await worker.scheduled({},env,{waitUntil:p=>pending.push(p)});await Promise.all(pending);
  assert.deepEqual(result.reviews,{claimed:1,failed:0});assert.equal(calls,1);
  r=await (await request(env,'/api/chat',{cookie:a.cookie})).json();
  assert.equal(r.journey.started,true);assert.equal(r.messages[0].review_id,id);assert.equal(r.messages[0].review_kind,'initial');
  r=await (await request(env,'/api/reviews',{cookie:a.cookie})).json();assert.equal(r.reviews.length,1);
  const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();
  assert.equal(exported.ambre_reviews.length,1);assert.equal(exported.ambre_reviews[0].content,reviewText());assert.equal(exported.ambre_reviews[0].sources.snapshot_coverage.complete,true);
- const snapshot=await readReviewSnapshot(env,a.user.id,id);assert.equal(snapshot.payload.complete,true);assert.equal(snapshot.payload.sections.profile.length,1);assert.equal(snapshot.payload.sections.people.length,3);assert.equal(snapshot.payload.sections.events.length,3);
+ const snapshot=await readReviewSnapshot(env,a.user.id,id);assert.equal(snapshot.payload.complete,true);assert.deepEqual(snapshot.payload.omitted.map(x=>x.section),['portrait']);assert.deepEqual(snapshot.payload.sections.portrait,[]);assert.deepEqual(finalInput.omitted.map(x=>x.reason),['refresh_pending']);assert.equal(snapshot.payload.sections.profile.length,1);assert.equal(snapshot.payload.sections.people.length,3);assert.equal(snapshot.payload.sections.events.length,3);
  const refs=new Set(finalInput.blocks.flatMap(block=>block.source_refs.map(ref=>ref.path)));
  for(const [section,rows] of Object.entries(snapshot.payload.sections))for(const [index] of rows.entries())assert.ok(refs.has(section+'/'+index),'every archived item was analyzed: '+section+'/'+index);
  assert.equal((await request(env,'/api/account',{method:'DELETE',cookie:a.cookie,data:{password:'long secure password 123'}})).status,200);

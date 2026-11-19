@@ -308,9 +308,8 @@ html.is-navigating .person-card:has(.person-open[data-pending])::after { content
 .privacy-details > summary { color: var(--ink); }
 .self-identity-fields { margin-bottom: 0; }
 
-/* Conversation: the page is the conversation, the composer is the only fixed element. */
-/* Before the start (« Avant de commencer »), the page scrolls like every other page: no fixed
-   height, no inner scroller, the footer in place. Only a started conversation fills the screen. */
+/* Conversation: the page is the conversation, the composer is the only fixed element. From the
+   first message of Ambre on (before any review too), the thread fills the screen and scrolls inside. */
 .shell:has(> .conversation-page .chat-thread:not([hidden])) { padding-block: 0; }
 body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: none; }
 .conversation-page { display: flex; flex-direction: column; }
@@ -383,62 +382,68 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .journey-panel h2 { margin: var(--s2) 0 var(--s3); }
 .journey-panel h2:focus { outline: none; }
 .journey-panel p { max-width: 62ch; }
-/* Before the start: Ambre's name and role, one sentence, four steps with their state, then « Commencer ». */
-.conversation-page:has(.journey-panel[data-step="intro"]:not([hidden])) .conversation-toolbar { padding-bottom: var(--s4); }
-.conversation-page:has(.journey-panel[data-step="intro"]:not([hidden])) .conversation-toolbar h1 { font-size: clamp(var(--t-2xl), 4vw, var(--t-3xl)); }
-.conversation-page:has(.journey-panel[data-step="intro"]:not([hidden])) .conversation-role { margin-top: var(--s1); font-size: var(--t-sm); }
-.journey-panel[data-step="intro"] { padding-top: var(--s2); }
-.journey-panel[data-step="intro"] h2 { margin-bottom: var(--s2); }
-.journey-lead { margin: 0 0 var(--s5); color: var(--ink); }
-.journey-steps { margin: 0 0 var(--s5); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); overflow: hidden; }
-.journey-progress { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s1) var(--s3); max-width: none !important; margin: 0; padding: var(--s3) var(--s4); border-bottom: 1px solid var(--line); font-size: var(--t-sm); }
-.journey-progress-label { font-weight: 600; }
-.journey-progress-count { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; }
-.journey-meter { display: flex; gap: 4px; }
-.journey-meter i { width: 22px; height: 4px; border-radius: 2px; background: var(--line); }
-.journey-meter i.is-done { background: var(--accent); }
-.journey-sources { margin: 0; padding: 0; list-style: none; }
-.journey-source {
-  position: relative;
-  display: grid;
-  grid-template-columns: 28px minmax(0, 1fr) auto auto;
-  grid-template-areas: "mark text state link";
-  align-items: center;
-  gap: 2px var(--s3);
-  min-height: 64px;
-  padding: var(--s3) var(--s4);
-  border-top: 1px solid var(--line);
-  transition: background-color .12s;
-}
-.journey-source:first-child { border-top: 0; }
-.journey-step-mark { grid-area: mark; display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; border: 1.5px solid var(--line-strong); border-radius: 50%; color: var(--muted); font: 600 var(--t-sm)/1 var(--font-ui); font-variant-numeric: tabular-nums; }
-.journey-source.is-done .journey-step-mark { border-color: var(--accent); background: var(--accent); color: #fff; }
-.journey-source-text { grid-area: text; display: flex; flex-direction: column; min-width: 0; }
-.journey-source-name { font-weight: 600; }
-.journey-source-detail { color: var(--muted); font-size: var(--t-sm); line-height: 1.4; }
-.journey-source-state { grid-area: state; justify-self: start; padding: 2px var(--s2); border-radius: var(--r-control); background: var(--accent-wash); color: var(--ink); font-size: var(--t-xs); line-height: 1.5; white-space: nowrap; }
-.journey-source.is-done .journey-source-state { padding: 0; background: none; color: var(--muted); }
-.journey-source .journey-link { grid-area: link; flex: none; }
-.journey-source .text-link { min-height: 40px; font-size: var(--t-sm); }
-.journey-source .button.journey-link { min-height: 40px; padding: 0 var(--s4); font-size: var(--t-sm); }
-.journey-source .journey-link::after { content: ''; position: absolute; inset: 0; }
-.journey-source .journey-link:focus-visible { outline: none; }
-.journey-source:has(.journey-link:focus-visible) { outline: 2px solid var(--accent); outline-offset: -2px; }
-.journey-source:has(.journey-link:active) { background: var(--accent-wash); }
-@media (hover: hover) { .journey-source:hover { background: color-mix(in srgb, var(--accent-wash) 55%, var(--surface)); } }
-.journey-launch { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2) var(--s4); }
-.journey-launch #journey-start { min-height: 48px; padding-inline: var(--s6); font-size: var(--t-md); }
-.journey-launch .journey-hint { flex: 1 1 240px; margin: 0; font-size: var(--t-sm); }
 .journey-panel .actions { margin-top: var(--s4); }
-.journey-panel .journey-note { max-width: none; margin-top: var(--s6); padding-top: var(--s3); border-top: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); line-height: 1.5; }
+/* Plan 19/11 lot 3: Ambre's first message, the wait and the failure. Ambre's voice, in a quiet card
+   that stays distinct from her conversation replies (which have no bubble). */
+.chat-message.ambre-intro, .chat-message.ambre-progress, .chat-message.ambre-failure { width: min(100%, 640px); max-width: 100%; padding: var(--s4) var(--s5) var(--s5); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }
+.chat-message.ambre-intro { margin-top: var(--s2); }
+.chat-message.ambre-failure { border-color: color-mix(in srgb, var(--danger) 30%, var(--line)); }
+.ambre-from { margin: 0 0 var(--s1); color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); }
+.chat-message .ambre-intro-title, .chat-message .ambre-progress-title, .chat-message .ambre-failure-title { margin: 0 0 var(--s3); color: var(--ink); font: 400 var(--t-xl)/1.3 var(--font-title); }
+.chat-message .ambre-progress-title, .chat-message .ambre-failure-title { font-size: var(--t-lg); }
+.ambre-progress-title:focus, .ambre-failure-title:focus { outline: none; }
+.ambre-intro-lead p, .ambre-failure > p { max-width: 60ch; margin: 0 0 var(--s2); line-height: 1.6; }
+.chat-message .ambre-needs-title { margin: var(--s4) 0 var(--s1); color: var(--ink); font: 600 var(--t-sm)/1.4 var(--font-ui); }
+.ambre-needs { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+.ambre-need { position: relative; display: grid; grid-template-columns: 22px minmax(0, 1fr) auto auto; align-items: center; gap: 2px var(--s3); min-height: 56px; padding: var(--s2) 0; border-bottom: 1px solid var(--line); }
+.ambre-need-mark { display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; border: 1.5px solid var(--line-strong); border-radius: 50%; color: #fff; font: 700 12px/1 var(--font-ui); }
+.ambre-need.is-done .ambre-need-mark { border-color: var(--accent); background: var(--accent); }
+.ambre-need-text { display: flex; flex-direction: column; min-width: 0; }
+.ambre-need-link { color: var(--ink); font-weight: 600; text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 3px; }
+.ambre-need-link::after { content: ''; position: absolute; inset: 0; }
+.ambre-need-link:focus-visible { outline: none; }
+.ambre-need:has(.ambre-need-link:focus-visible) { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: var(--r-control); }
+.ambre-need:has(.ambre-need-link:active) { background: var(--accent-wash); }
+@media (hover: hover) { .ambre-need:hover .ambre-need-link { text-decoration-color: currentColor; } }
+.ambre-need-detail { color: var(--muted); font-size: var(--t-xs); line-height: 1.4; }
+.ambre-need-count { color: var(--muted); font-size: var(--t-sm); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.ambre-need-state { justify-self: end; padding: 2px var(--s2); border-radius: var(--r-control); background: var(--accent-wash); color: var(--ink); font-size: var(--t-xs); line-height: 1.5; white-space: nowrap; }
+.ambre-need.is-done .ambre-need-state { padding-inline: 0; background: none; color: var(--accent); }
+.ambre-need.is-save .ambre-need-state { box-shadow: inset 0 0 0 1px var(--line-strong); background: var(--surface); }
+.ambre-launch { margin-top: var(--s4); }
+.ambre-intro .check { font-size: var(--t-sm); line-height: 1.5; }
+.ambre-intro .check input { flex: none; width: 20px; height: 20px; margin-top: 1px; }
+#ambre-start, #ambre-retry { min-height: 48px; margin-top: var(--s2); padding-inline: var(--s6); }
+.ambre-start-reason, .ambre-retry-note { margin: var(--s2) 0 0; color: var(--muted); font-size: var(--t-sm); line-height: 1.45; }
+.ambre-launch-status { margin: var(--s2) 0 0; font-size: var(--t-sm); }
+.ambre-launch-status:empty { display: none; }
+.ambre-intro-status, .ambre-guest-note { margin: var(--s4) 0 0; font-size: var(--t-sm); }
+.ambre-intro-status { color: var(--muted); }
+.ambre-auth { margin-top: var(--s3); }
+.ambre-auth button { min-height: 48px; }
+.ambre-intro-note { margin: var(--s4) 0 0; padding-top: var(--s3); border-top: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); line-height: 1.5; }
+.ambre-bar { height: 8px; margin: var(--s1) 0 var(--s3); border-radius: 4px; background: var(--accent-wash); box-shadow: inset 0 0 0 1px var(--line); overflow: hidden; }
+.ambre-bar-fill { display: block; height: 100%; border-radius: inherit; background: var(--accent); }
+@media (prefers-reduced-motion: no-preference) { .ambre-bar-fill { transition: width .6s ease; } }
+.ambre-steps { display: flex; flex-wrap: wrap; gap: var(--s1) var(--s4); margin: 0 0 var(--s3); padding: 0; list-style: none; color: var(--muted); font-size: var(--t-sm); }
+.ambre-step::before { content: ''; display: inline-block; width: 8px; height: 8px; margin-right: 6px; border: 1.5px solid var(--line-strong); border-radius: 50%; vertical-align: 1px; }
+.ambre-step.is-done::before { border-color: var(--accent); background: var(--accent); }
+.ambre-step.is-current { color: var(--ink); font-weight: 600; }
+.ambre-step.is-current::before { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-wash); }
+.ambre-estimate, .ambre-late, .ambre-leave { max-width: 60ch; margin: 0 0 var(--s2); font-size: var(--t-sm); line-height: 1.5; }
+.ambre-late { font-weight: 600; }
+.ambre-leave { margin-bottom: 0; color: var(--muted); }
+.ambre-safe { font-weight: 600; }
+.chat-locked-note { margin: 0 0 var(--s2); color: var(--muted); font-size: var(--t-xs); line-height: 1.4; }
+.chat-composer textarea[aria-disabled="true"] { background: var(--bg); color: var(--muted); cursor: not-allowed; }
+.chat-review-links { display: flex; flex-wrap: wrap; gap: 0 var(--s4); margin: var(--s2) 0 0; }
+.chat-review-links .chat-review-link { align-items: center; min-height: 44px; margin: 0; }
 @media (max-width: 599px) {
-  .journey-source { grid-template-columns: 28px minmax(0, 1fr) auto; grid-template-areas: "mark text link" "mark state link"; padding: var(--s3); }
-  .journey-steps { margin-inline: 0; }
-  .journey-progress { padding-inline: var(--s3); }
-  .journey-meter { display: none; }
-  .journey-launch { flex-direction: column; align-items: stretch; }
-  .journey-launch #journey-start { width: 100%; }
-  .journey-launch .journey-hint { flex: none; }
+  .chat-message.ambre-intro, .chat-message.ambre-progress, .chat-message.ambre-failure { width: 100%; padding: var(--s3) var(--s4) var(--s4); }
+  .ambre-need { grid-template-columns: 22px minmax(0, 1fr) auto; }
+  .ambre-need-state { grid-column: 2 / -1; justify-self: start; }
+  #ambre-start, #ambre-retry { width: 100%; }
+  .ambre-auth { flex-direction: column; align-items: stretch; }
 }
 
 /* Reviews. */

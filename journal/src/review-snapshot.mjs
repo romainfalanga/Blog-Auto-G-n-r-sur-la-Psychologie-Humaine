@@ -39,6 +39,42 @@ export async function readSnapshotSource(env,userId,reviewId,query){
  return {query,stamp,sections};
 }
 export function snapshotGuard(source,userId,reviewId){return {sql:`(${source.query.sql.replace(' AS payload','')})=?`,args:[userId,reviewId,source.stamp]};}
+// Plan v1.1 (point 1-2): after the capture, a review works on its frozen snapshot only.
+// Changes and additions to the live sources are ignored (the review is a dated document);
+// an item the person entered and that the snapshot holds must still exist, otherwise the
+// review ends with sources_changed and its snapshot is erased (right to erasure).
+// Single-row sections are checked by owner; AI-produced sections (portrait, conversation
+// memory, change plan) are not person entries and are left out.
+const PRESENCE_BY_ID={people:['personal_people','id'],events:['life_events','id'],people_notes:['personal_notes','id'],event_notes:['personal_notes','id'],observations:['people_observations','id'],conversation:['chat_turns','id'," AND status='completed' AND purged=0"],previous_reviews:['ambre_reviews','id'," AND status='ready'"],care_sessions:['care_sessions','id'],personal_characters:['personal_characters','id'],personal_stories:['stories','id'],professional_assessments:['professional_assessments','id'],reading_choices:['article_likes','article_id'],inspiration_choices:['inspiration_selections','article_id'],story_feedback:['feedback','story_id']};
+const PRESENCE_SINGLE={childhood:['cartographies',' AND consent=1'],symptoms:['symptom_maps',' AND consent=1'],care:['care_settings','']};
+export function snapshotPresenceGuard(payload,userId){
+ const parts=[],args=[],sections=payload?.sections||{};
+ for(const [section,[table,key,extra='']] of Object.entries(PRESENCE_BY_ID)){
+  const ids=[...new Set((sections[section]||[]).map(row=>row?.[key]).filter(id=>id!==null&&id!==undefined))];if(!ids.length)continue;
+  parts.push(`(SELECT count(*) FROM ${table} WHERE user_id=? AND ${key} IN (SELECT value FROM json_each(?))${extra})=?`);args.push(userId,JSON.stringify(ids),ids.length);
+ }
+ for(const [section,[table,extra]] of Object.entries(PRESENCE_SINGLE))if(sections[section]?.length){parts.push(`EXISTS(SELECT 1 FROM ${table} WHERE user_id=?${extra})`);args.push(userId);}
+ return {sql:parts.length?'('+parts.join(' AND ')+')':'1=1',args};
+}
+// Interface labels shown to the person (questions, answers, themes, subjects). A review may
+// quote them only as labels (« à la question … vous avez répondu … »), never as her words.
+export const ANSWER_LABELS=Object.freeze(['Non','Oui','Souvent','Parfois','Je ne sais pas','Dans le passé','Je me reconnais','Pas moi','Non renseigné','Ces 12 derniers mois','avant ces 12 derniers mois']);
+export const INTERFACE_LABELS=Object.freeze([...new Set([...ANSWER_LABELS,...[CARTOGRAPHIE,SYMPTOMES_CARTE].flatMap(data=>['factors','outcomes','retired_outcomes','groups','domains','protections'].flatMap(key=>(Array.isArray(data[key])?data[key]:[]).map(x=>x?.label||x?.title).filter(x=>typeof x==='string'&&x.trim()))),SYMPTOMES_CARTE.period?.label].filter(Boolean))]);
+// The person's own words in a snapshot: what she typed (profile, people, moments, notes,
+// messages, accepted observations, feedback on reviews). Never a text produced by Ambre or
+// an AI (portrait, memory, previous review texts, chunk summaries, replies).
+export function snapshotPersonCorpus(captured){
+ const out=[],walk=v=>{if(typeof v==='string')out.push(v);else if(Array.isArray(v))v.forEach(walk);else if(v&&typeof v==='object')Object.values(v).forEach(walk)};
+ walk(captured?.profile);walk(captured?.people);walk(captured?.events);walk(captured?.people_notes);walk(captured?.event_notes);
+ for(const row of captured?.conversation||[])walk(row?.content);
+ for(const row of captured?.observations||[])walk(row?.quote);
+ // Mes précisions (memories.text) is typed by the person; proposals awaiting her answer are not.
+ for(const row of captured?.personal_memory||[])walk(row?.text);
+ for(const row of captured?.previous_reviews||[])walk(row?.feedback?.text);
+ for(const key of ['childhood','symptoms'])for(const row of captured?.[key]||[]){walk(row?.notes);walk(row?.resources);}
+ for(const row of captured?.care_sessions||[])walk(row);
+ return out.join('\n\n');
+}
 export async function readReviewSnapshot(env,userId,reviewId){
  if(!await snapshotStorageAvailable(env))return null;
  const row=await env.DB.prepare('SELECT * FROM review_snapshots WHERE review_id=? AND user_id=?').bind(reviewId,userId).first();

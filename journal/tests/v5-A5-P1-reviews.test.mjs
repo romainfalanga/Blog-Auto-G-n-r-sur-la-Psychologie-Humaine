@@ -107,12 +107,12 @@ test('legacy before 0031: a review is written with its digest, checked separatel
  let r=await start(s);assert.equal(r.status,202);const initialId=r.review_id;
  assert.deepEqual(calls.map(c=>c.purpose),['ambre_review','ambre_review_check']);
  const write=calls[0].body,check=calls[1].body;
- assert.equal(write.max_tokens,4800);assert.ok(write.response_format.json_schema.schema.properties.digest);assert.match(write.messages[0].content,/citation exacte et continue/);
+ assert.equal(write.max_tokens,5600,'plan v1.1 point 8: chat_message (≤ 2 500 characters) raises the writing cap');assert.ok(write.response_format.json_schema.schema.properties.chat_message);assert.ok(write.response_format.json_schema.schema.properties.digest);assert.match(write.messages[0].content,/citation exacte et continue/);
  assert.equal(check.max_tokens,1500);assert.equal(check.model,'openai/gpt-5-nano');assert.equal(check.reasoning.effort,'minimal');
  const checkInput=JSON.parse(check.messages[1].content);assert.equal(checkInput.review,text());assert.equal(checkInput.safety_signal,null);assert.equal(checkInput.digest.goals.length,1);
  let row=s.row(initialId);assert.equal(row.status,'ready');assert.equal(row.stage,'done');assert.equal(row.draft,'');
  const stored=JSON.parse(row.digest);assert.equal(stored.goals[0].key,'parler-reunion');assert.equal(stored.formulation.new.length,0,'the invented quote left the digest');assert.equal(stored.dropped,1);
- assert.deepEqual(JSON.parse(row.sources).check,{passed:true,rewritten:false,failed:[],digest_dropped:1});
+ assert.deepEqual(JSON.parse(row.sources).check,{passed:true,rewritten:false,failed:[],digest_dropped:1,chat_fallback:true},'the mock writer returns no chat_message: deterministic fallback');
  const budget=s.raw.prepare("SELECT provider_calls FROM provider_budgets WHERE user_id='a'").get();assert.equal(budget.provider_calls,2);
  const read=await s.call('/api/reviews/'+initialId);assert.match(read.review.digest_text,/Vos objectifs suivis\. « oser parler en réunion » : nouveau\./);assert.equal(read.review.feedback,null);
  // The next turn receives the thread, outside the details budget.

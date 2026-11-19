@@ -44,12 +44,17 @@ for(const strategy of ['ideal','none'])for(const [label,message] of MESSAGES)tes
 // of 34 000 characters is unchanged), and the separate check adds one small call. Measured:
 // initial 13 047 + check 2 629 tokens (+26 % in all), point 13 622 + 2 628 (+30 %); output cap
 // 3 200 → 4 800 (text and digest) + 1 500 (check). A rewrite at most doubles both calls.
+// Plan v1.1 (point 8, 19/11): the same writing call also returns chat_message (≤ 2 500 characters,
+// about 800 tokens), so the writing cap rises 4 800 → 5 600 (output cap 7 100 with the check) and
+// its reservation follows. No input ceiling is raised. Measured on this tree: writing input
+// initial 14 089 (+13.4 %), point 14 589 (+16.5 %); check 3 438 tokens (the check now also reads
+// chat_message, here the deterministic fallback); totals +41.1 % and +43.9 %, under the unchanged +45 %.
 for(const kind of ['initial','point'])test(`legacy before 0031 A5-P1 review cost ${kind}: writing within +20 %, check under 3 500 tokens, both published together`,async t=>{
  const content='BILAN '+'Vous écrivez que la critique réveille une vigilance ancienne ; cela peut se relier à votre histoire. '.repeat(55);
  const run=await replayReview(kind,{legacy:true,digests:true,write:()=>({content,digest:{formulation:{holds:[],revised:[],new:[]},goals:[],tried:[],alliance:{text:'',quote:''},open_questions:['Qu’aimeriez-vous travailler ?'],next_focus:'La suite',safety:''}})});
  const ref=REFERENCE.review[kind],total=run.tokens+run.checkTokens;
  t.diagnostic(JSON.stringify({write:run.tokens,check:run.checkTokens,total,ref,ratio:+(total/ref).toFixed(3),output_cap:run.outputCap}));
- assert.equal(run.r.status,202);assert.ok(run.check,'a separate check call');
+ assert.equal(run.r.status,202);assert.ok(run.check,'a separate check call');assert.equal(run.outputCap,5600+1500,'writing cap (document, conversation message, digest) + check cap');
  assert.ok(run.tokens<=ref*1.2);assert.ok(run.checkTokens<=3500);assert.ok(total<=ref*1.45);
  if(kind==='point')assert.ok(JSON.stringify(run.data.review_thread).length<=3000);
 });

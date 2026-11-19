@@ -17,9 +17,12 @@ test('a new review captures an immutable complete state and analyzes the final i
  assert.equal((await s.call('/api/reviews/'+r.review_id+'/snapshot','GET',undefined,'b')).status,404);
  assert.equal((await exportReviewSnapshots(s.env,'a')).length,1);await s.call('/api/chat/consent','PUT',{accepted:false});assert.equal(await readReviewSnapshot(s.env,'a',r.review_id),null);
 });
-test('snapshot sources changing after a chunk stop all subsequent provider calls and publication',async t=>{
+// Plan v1.1 (point 1): after the capture a review is a dated document; a modification of the live
+// sources is taken into account at the next review, it no longer stops this one.
+test('a live source modified after the capture no longer stops the review (dated snapshot)',async t=>{
  const s=await ready(t);let changed=false;const calls=mock(t,(purpose)=>{if(purpose==='ambre_snapshot_chunk'&&!changed){changed=true;s.raw.prepare("UPDATE profiles SET self_data=json_set(self_data,'$.first_name','Changed') WHERE user_id='a'").run();}});
- const r=await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-source-race'});const review=s.raw.prepare('SELECT * FROM ambre_reviews WHERE id=?').get(r.review_id);assert.equal(review.status,'failed');assert.equal(review.error_code,'context_changed');assert.equal(calls.length,1);assert.equal(review.content,'');
+ const r=await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-source-race'});const review=s.raw.prepare('SELECT * FROM ambre_reviews WHERE id=?').get(r.review_id);assert.equal(review.status,'ready',JSON.stringify(review));assert.ok(calls.length>2);
+ assert.notEqual((await readReviewSnapshot(s.env,'a',r.review_id)).payload.sections.profile[0].self_data.first_name,'Changed','the snapshot keeps the state at the capture');
 });
 test('legacy reviews are explicitly unavailable; oversized sources fail without provider calls',async t=>{
  const s=await ready(t);const old=await s.call('/api/reviews/seed-a/snapshot');assert.equal(old.available,false);assert.equal(old.reason,'legacy_review');
@@ -74,15 +77,25 @@ test('an explicit conversation-generation reset destroys archives that could ret
  s.raw.prepare("INSERT INTO change_plans(user_id,document_json,updated_at) VALUES('a','{}',0) ON CONFLICT(user_id) DO NOTHING").run();s.raw.prepare("UPDATE change_plans SET context_generation=context_generation+1 WHERE user_id='a'").run();
  assert.equal(await readReviewSnapshot(s.env,'a',r.review_id),null);const page=await s.call(`/api/reviews/${r.review_id}/snapshot`);assert.equal(page.available,false);assert.equal(page.reason,'snapshot_removed');
 });
+// Plan v1.1: the final source read before a call is now the presence guard of the snapshot items.
 for(const mutation of ['consent','lease'])test(`review provider rechecks ${mutation} after the final snapshot source read and refunds unsent reservations`,async t=>{
  const s=await ready(t),calls=mock(t),prepare=s.env.DB.prepare.bind(s.env.DB);let raced=false;
- s.env.DB.prepare=sql=>{const st=prepare(sql);if(sql.startsWith('WITH owner AS')){const first=st.first.bind(st);st.first=async()=>{const row=await first();const reserved=s.raw.prepare('SELECT sum(provider_calls) AS n FROM provider_budgets').get()?.n;if(reserved&&!raced){raced=true;if(mutation==='consent')s.raw.prepare("UPDATE chat_settings SET consent=0 WHERE user_id='a'").run();else s.raw.prepare("UPDATE ambre_reviews SET lease_token=NULL WHERE user_id='a' AND status='running'").run();}return row;};}return st;};
+ s.env.DB.prepare=sql=>{const st=prepare(sql);if(sql.startsWith('SELECT 1 AS ok WHERE')){const first=st.first.bind(st);st.first=async()=>{const row=await first();const reserved=s.raw.prepare('SELECT sum(provider_calls) AS n FROM provider_budgets').get()?.n;if(reserved&&!raced){raced=true;if(mutation==='consent')s.raw.prepare("UPDATE chat_settings SET consent=0 WHERE user_id='a'").run();else s.raw.prepare("UPDATE ambre_reviews SET lease_token=NULL WHERE user_id='a' AND status='running'").run();}return row;};}return st;};
  await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-final-guard-'+mutation});assert.equal(raced,true);assert.equal(calls.length,0);
  const budget=s.raw.prepare('SELECT sum(provider_calls) AS calls,sum(reserved_tokens) AS tokens FROM provider_budgets').get();assert.equal(budget.calls,0);assert.equal(budget.tokens,0);
 });
-test('unfinished and failed reviews keep internal snapshots but expose no assessment through owner API or export',async t=>{
+// Plan v1.1 (point 13): a running review keeps its internal snapshot (never exposed); a failed
+// review loses it (trigger 0033 and runReview); a ready review keeps it.
+test('a failed review keeps no snapshot; a running one keeps it unexposed; a ready one is untouched',async t=>{
+ const s=await ready(t);mock(t);const kept=await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-ready-kept'});assert.ok(await readReviewSnapshot(s.env,'a',kept.review_id));
+ s.tick(32*86400);const r=await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-unpublished'});
+ s.raw.prepare('UPDATE ambre_reviews SET status=? WHERE id=?').run('failed',r.review_id);
+ assert.equal(await readReviewSnapshot(s.env,'a',r.review_id),null,'failed review: snapshot erased');assert.ok(await readReviewSnapshot(s.env,'a',kept.review_id),'ready review untouched');
+ const failedPage=await s.call(`/api/reviews/${r.review_id}/snapshot?section=profile`);assert.equal(failedPage.available,false);assert.equal(failedPage.reason,'review_failed');
+});
+test('unfinished reviews keep internal snapshots but expose no assessment through owner API or export',async t=>{
  const s=await ready(t);mock(t);const r=await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-unpublished'});
- for(const status of ['running','failed']){
+ for(const status of ['running']){
   s.raw.prepare('UPDATE ambre_reviews SET status=? WHERE id=?').run(status,r.review_id);
   assert.ok(await readReviewSnapshot(s.env,'a',r.review_id));const response=await s.call(`/api/reviews/${r.review_id}/snapshot?section=profile`);
   assert.equal(response.available,false);assert.equal(response.reason,status==='running'?'review_in_progress':'review_failed');assert.equal(response.review_status,status);assert.equal(response.assessment,undefined);assert.equal(response.items,undefined);

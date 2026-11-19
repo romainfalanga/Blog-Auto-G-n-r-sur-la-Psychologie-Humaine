@@ -30,3 +30,33 @@
 - Relecture de code indépendante.
 - Recette réelle payante limitée : un compte de test complet (516 symptômes, enfance, 3 proches, 3 moments) → bilan réel jusqu'au bout ; mesurer la durée réelle et le nombre de blocs ; vérifier Mes bilans, Mes diagnostics, le message de conversation ; supprimer le compte.
 - Hors périmètre (à proposer) : e-mail « votre bilan est prêt ».
+
+---
+
+# Version 1.1 après relecture critique (fait foi)
+
+## Lot 1 (bilan fiable)
+1. Retirer seulement `snapshotGuard` (l.~851 et dans `cas` l.~925, 931, 972) ; garder `changeGuard`, bail, accord, accès, préparation, réservation mensuelle, budgets.
+2. Garde de suppression avant chaque appel et à la publication : les éléments saisis par la personne et présents dans l'instantané doivent toujours exister (modifications et ajouts ignorés) ; sinon échec `sources_changed` qui efface l'instantané (droit à l'effacement).
+3. Garde de sécurité vivante à la publication : un nouveau signal de sécurité apparu après la capture impose les ressources (3114, 15/112) dans le message, ou rejette le bilan.
+4. Capture tolérante : relire et réessayer jusqu'à 2 fois avant `context_changed`.
+5. Avant la capture, attendre au plus ~3 min qu'un travail de portrait en attente se termine ; sinon capturer sans portrait et le signaler dans le bilan. Le cron n'est pas suspendu.
+6. Citations en trois classes : mots de la personne (vérifiés dans `corpus`, pas dans le texte produit par l'IA) ; libellés de l'interface (`question_labels`) admis seulement présentés comme libellés (« à la question … vous avez répondu Oui »), jamais après « vous écrivez / dites » ; le reste = invention.
+7. Une seule règle partagée par rédaction et relecture : hypothèses nommées « hypothèse : X, appuyée par A et B ; il manque C », jamais « vous avez [trouble] » (unifier `no_diagnosis`, `REVIEW_COMMON`, `MAP_HYPOTHESIS_RULES`, `REVIEW_INITIAL`) ; tests des deux verdicts contradictoires observés.
+
+## Lot 2 (sortie)
+8. `chat_message` (≤ 2 500 caractères, ce qui ressort puis 2–3 questions) dans la même sortie ; `REVIEW_WRITE_TOKENS` et la réservation relevés ; contrôles déterministes et relecture du modèle sur `chat_message` ; repli déterministe construit depuis le résumé si seule la longueur pose problème ; stockage dans l'enveloppe `chat_turns` (`chat_message`, `review_id`) ; les anciennes enveloppes affichent `content` ; aucun faux message pour les anciens bilans ; Mes bilans garde `content`.
+
+## Lot 3 (page) — contrat d'API figé
+- `GET /api/chat` : `journey.review` = `{running_id, stage, blocks_done, blocks_total, started_at, estimate:{p50_seconds,p90_seconds,basis}, last_failure:{id,error_code,retryable,retry_at}|null}` ; `blocks_total` stocké à la capture ; `readiness` par page avec `complete` tenant compte de l'enregistrement (`consent`/`locked_at`) en plus des réponses.
+- Message de conversation après bilan : enveloppe `{review_id, chat_message}` ; liens vers `/mes-bilans/` et `/mes-diagnostics/`.
+9. Le premier message remplace `data.welcome` et la case `chat-gate` (un seul message, un seul accord) ; l'accord n'est enregistré qu'à la création réussie du bilan (ou annulé si la création échoue).
+10. Compteurs avec « enregistrez » si la page n'est pas enregistrée ; visiteur non connecté : même message sans compteurs, avec connexion.
+11. Échec affiché depuis `last_failure` (survit au rechargement) ; table de messages par code ; « Relancer » seulement si `retryable`, avec les limites quotidiennes affichées.
+12. Estimation en fourchette p50–p90 (données réelles quand ≥ 3 bilans, sinon valeurs initiales mesurées en recette, cron et réécriture inclus), mention « plus long que prévu » au-delà ; sondage toutes les 15 s, suspendu quand la page est masquée.
+13. Instantanés des bilans échoués supprimés (ou limités au dernier).
+14. Accessibilité : barre de progression avec valeurs, un seul `aria-live` poli, saisie `aria-disabled` reliée à son explication, mouvement réduit, focus.
+
+## Lot 4
+15. Tests : portrait modifié pendant le bilan (aboutit), suppression d'un proche (échoue), retrait d'accord, suppression du compte, signal de sécurité tardif, « Dans le passé » et libellés, coupure de longueur, ancienne enveloppe, rechargement pendant l'attente et après un échec, relance et quotas.
+16. Répétition locale avec fournisseur simulé, puis une seule recette payante (au plus une relance), coût mesuré par `provider_budgets.observed_cost` ; un agent pour les lots 1 puis 2 (même fichier), un agent pour l'interface en parallèle sur le contrat figé, puis relecture indépendante.
