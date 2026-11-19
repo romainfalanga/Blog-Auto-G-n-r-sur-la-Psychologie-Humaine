@@ -367,7 +367,7 @@ function drawReviewFeedback(review,current){
 function drawReviewItem(review,current){
  var item=el('article','review-item'),title=el('h2','review-title',reviewTitle(review)),meta=el('p','review-meta'),body=el('div','review-body'),actions=el('div','actions');
  item.dataset.reviewId=review.id;
- meta.textContent=review.status==='running'?'En préparation…':review.status==='failed'?'Ce bilan n’a pas abouti. Aucun message n’a été décompté.':'Rédigé le '+dateLabel(Number(review.completed_at||review.created_at))+(review.feedback&&review.feedback.verdict?' · Votre retour : '+(REVIEW_FEEDBACK.find(function(item){return item[0]===review.feedback.verdict})||['',''])[1]:'');
+ meta.textContent=review.status==='running'?'En préparation…':review.status==='failed'?(['snapshot_too_large','snapshot_analysis_limit'].includes(review.error_code)?'Ce dossier dépasse la capacité actuelle d’un bilan complet. Aucun bilan partiel n’a été publié. Vos données restent enregistrées.':'Ce bilan n’a pas abouti. Aucun message n’a été décompté.'):'Rédigé le '+dateLabel(Number(review.completed_at||review.created_at))+(review.feedback&&review.feedback.verdict?' · Votre retour : '+(REVIEW_FEEDBACK.find(function(item){return item[0]===review.feedback.verdict})||['',''])[1]:'');
  if(review.status==='ready'&&review.excerpt)body.append(el('p','review-excerpt',review.excerpt+(Number(review.length)>review.excerpt.length?'…':'')));
  var loaded=false;
  if(review.status==='ready'){

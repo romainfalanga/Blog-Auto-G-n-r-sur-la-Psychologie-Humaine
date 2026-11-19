@@ -4,16 +4,16 @@ Base publiée : e106deb, PR 105/106. Branche : codex/bilans-historique-nov19.
 
 | Exigence | Critère observable | Responsable | État |
 |---|---|---|---|
-| R1 | Tous les thèmes Mes symptômes fermés à l’arrivée | Interface | En cours |
-| R2 | Non / Oui / Je ne sais pas / Dans le passé ; précision exigée avant validation du passé ; annulation sans mutation | Interface | En cours |
-| R3 | Grille lisible à 390/1440 px, Mon enfance préservée ; passé distinct dans stockage, classement, export et contexte | Interface | En cours |
-| R4 | Chaque nouveau bilan possède un instantané privé immuable et consultable ; pas de reconstruction rétroactive | Backend | En cours |
-| R5 | Analyse de toutes les sections par blocs, couverture traçable et reprise ; aucun bilan complet annoncé si traitement partiel | Backend | En cours |
-| R6 | Mes diagnostics : évaluations datées, méthode et manques visibles ; hypothèses automatiques distinguées des conclusions professionnelles | Clinique + UI | En cours |
-| R7 | Recherche OMS/CDDR, HAS, NICE ; couverture explicite des sujets et absence de probabilité diagnostique inventée | Clinique | En cours |
-| R8 | Prochain rendez-vous saisissable/modifiable/supprimable depuis Mon compte, contexte Ambre actualisé | Principal + UI | En cours |
-| R9 | Dossier psychologue enrichi, accès révocable limité aux rubriques autorisées, provenance de la mémoire et des conclusions conservée | Principal | En cours |
-| R10 | Export, effacement, sécurité entre comptes, relecture indépendante, tests, migrations et déploiement vérifiés | Principal | À faire |
+| R1 | Tous les thèmes Mes symptômes fermés à l’arrivée | Interface | Réalisé, tests locaux réussis |
+| R2 | Non / Oui / Je ne sais pas / Dans le passé ; précision exigée avant validation du passé ; annulation sans mutation | Interface | Réalisé, tests locaux réussis |
+| R3 | Grille lisible à 390/1440 px, Mon enfance préservée ; passé distinct dans stockage, classement, export et contexte | Interface | Réalisé, tests locaux réussis |
+| R4 | Chaque nouveau bilan possède un instantané privé immuable et consultable ; pas de reconstruction rétroactive | Backend | Réalisé, tests locaux réussis |
+| R5 | Analyse de toutes les sections par blocs, couverture traçable et reprise ; aucun bilan complet annoncé si traitement partiel | Backend | Réalisé, tests locaux réussis |
+| R6 | Mes diagnostics : évaluations datées, méthode et manques visibles ; hypothèses automatiques distinguées des conclusions professionnelles | Clinique + UI | Réalisé, tests locaux réussis |
+| R7 | Recherche OMS/CDDR, HAS, NICE ; couverture explicite des sujets et absence de probabilité diagnostique inventée | Clinique | Réalisé, tests locaux réussis |
+| R8 | Prochain rendez-vous saisissable/modifiable/supprimable depuis Mon compte, contexte Ambre actualisé | Principal + UI | Réalisé, tests locaux réussis |
+| R9 | Dossier psychologue enrichi, accès révocable limité aux rubriques autorisées, provenance de la mémoire et des conclusions conservée | Principal | Réalisé, tests locaux réussis |
+| R10 | Export, effacement, sécurité entre comptes, relecture indépendante, tests, migrations et déploiement vérifiés | Principal | Tests locaux et relectures réussis ; publication et recette en ligne en cours |
 
 ## Décisions d’architecture
 
