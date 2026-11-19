@@ -7,11 +7,13 @@ import { WORKSPACE_STYLE } from './workspace-style.mjs';
 import { CHAT_INTERFACE_SCRIPT } from './chat-interface.mjs';
 import { PERSON_CHOICES, PERSON_TEXTS, EVENT_CHOICES, EVENT_TEXTS } from './context-fields.mjs';
 import { PEOPLE_AXES_UI } from './people-observations-ui.mjs';
+import { SYMPTOMES_INTERFACE_SCRIPT, SYMPTOMES_INTERFACE_STYLE } from './symptomes-interface.mjs';
 const DOCUMENT_HTML = String.raw`<!doctype html>
 <html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content"><meta name="theme-color" content="#F2F5F7"><title>Décode ton esprit</title><style>
 ${SITE_SYSTEM_CSS}
 ${WORKSPACE_STYLE}
 ${CHANGE_INTERFACE_STYLE}
+${SYMPTOMES_INTERFACE_STYLE}
 </style></head><body><header class="site-header">
   <div class="header-inner">
     ${HEADER_BRAND_HTML}
@@ -38,7 +40,7 @@ function clearSessionState(){
  resetChatSession();clearTimeout(state.chatTimer);clearTimeout(state.chatCooldownTimer);clearTimeout(state.journeyTimer);state.chatDraft='';state.chatData=null;state.chatRequest=null;state.chatSending=false;state.chatProposalDrafts.clear();state.journeyKey=null;state.journeyWaiting=false;state.journeyStep=null;preparedResponses={};state.navigationRequest=(state.navigationRequest||0)+1;
  state.sourceDrafts.clear();state.selfDraft=null;state.selfBase=null;state.selfRevision=null;if(state.noteDrafts)state.noteDrafts.clear();state.people=[];state.events=[];
 }
-var PAGES={chat:{path:'/mon-accompagnement/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},account:{path:'/mon-compte/',title:'Mon compte'},settings:{path:'/parametres/',title:'Paramètres'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
+var PAGES={chat:{path:'/mon-accompagnement/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},symptoms:{path:'/mes-symptomes/',title:'Mes symptômes'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},account:{path:'/mon-compte/',title:'Mon compte'},settings:{path:'/parametres/',title:'Paramètres'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
 var PAGE_DESCRIPTIONS={
  reviews:'',
  settings:'',
@@ -92,7 +94,7 @@ document.addEventListener('click',function(event){var link=event.target.closest(
 var initialPageData=/*INITIAL_PAGE_DATA*/null;
 var preparedResponses=initialPageData&&initialPageData.page===location.pathname.replace(/\/+$/,'')+'/'?initialPageData.responses||{}:{};
 async function preparePageData(tab,search,personId){
- var paths={account:['/api/self-profile'],people:['/api/people'],events:['/api/people','/api/life-events']}[tab]||[];
+ var paths={account:['/api/self-profile'],people:['/api/people'],events:['/api/people','/api/life-events'],symptoms:['/api/symptomes']}[tab]||[];
  if(tab==='person'){var base='/api/people/'+encodeURIComponent(personId);paths=[base,base+'/timeline']}
  if(tab==='events'){var filter=new URLSearchParams((search||'').split('#')[0]).get('person');if(filter)paths[1]+='?person_id='+encodeURIComponent(filter)}
  var entries=await Promise.all(paths.map(async function(path){try{return [path,{status:200,body:await api(path)}]}catch(error){return [path,{status:error.status||503,body:{error:error.message,code:error.code}}]}}));return Object.fromEntries(entries)
@@ -174,6 +176,7 @@ function renderApp(){
   messages.append(el('div','notice warn','Ambre est momentanément indisponible. Vos informations enregistrées restent accessibles.'))
  }
  if(state.tab==='settings')renderSettings(document.getElementById('view'),renderGuard(document.getElementById('view')));
+ else if(state.tab==='symptoms')renderSymptoms(document.getElementById('view'),renderGuard(document.getElementById('view')));
  else if(state.tab==='care')renderCareMember(document.getElementById('view'),renderGuard(document.getElementById('view')));
  else if(state.tab==='psychologist')renderCarePsychologist(document.getElementById('view'),renderGuard(document.getElementById('view')));
  else if(chat)return renderChat();
@@ -872,6 +875,7 @@ ${CHAT_INTERFACE_SCRIPT}
 ${CHANGE_INTERFACE_SCRIPT}
 ${CARE_INTERFACE_SCRIPT}
 ${SETTINGS_INTERFACE_SCRIPT}
+${SYMPTOMES_INTERFACE_SCRIPT}
 ${PEOPLE_AXES_UI}
 async function drawChatPeople(host,payload,current){host.append(el('p','helper','Chargement de vos proches…'));try{var result=await api('/api/people');if(!current()||!host.isConnected)return;host.replaceChildren(el('legend','','Proches associés'));var people=result.people||[];if(!people.length)host.append(el('p','helper','Aucun proche enregistré.'));people.forEach(function(person){var label=el('label','check'),input=el('input');input.type='checkbox';input.name='people_ids';input.value=person.id;input.checked=payload.people_ids.includes(person.id);input.addEventListener('change',function(){payload.people_ids=input.checked?Array.from(new Set(payload.people_ids.concat(person.id))):payload.people_ids.filter(function(id){return id!==person.id})});label.append(input,document.createTextNode(person.display_name||'Proche'));host.append(label)})}catch(err){if(current()){host.replaceChildren(el('legend','','Proches associés'),el('p','status error','Impossible de charger vos proches. Les associations proposées restent conservées.'),actionButton('Réessayer',function(){drawChatPeople(host,payload,current)},'secondary'))}}}
 function drawChatProposal(host,proposal,current){

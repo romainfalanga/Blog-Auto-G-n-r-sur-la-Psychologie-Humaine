@@ -10,6 +10,7 @@ import { createRecommender } from './recommendations.mjs';
 import { createPersonalBackend, hasPersonalizationSources } from './personal-backend.mjs';
 import { createCartographyBackend } from './cartographie.mjs';
 import { createSymptomsBackend } from './symptomes-backend.mjs';
+import { symptomsClientScript, SYMPTOMES_ENGINE_PATH } from './symptomes-interface.mjs';
 
 const encoder = new TextEncoder();
 const COOKIE = '__Host-dte_session';
@@ -206,6 +207,7 @@ const INITIAL_PAGES={
   people:{path:'/mes-proches/',routes:['/api/people']},
   events:{path:'/ma-ligne-de-vie/',routes:['/api/people','/api/life-events']},
   cartographie:{path:'/cartographie/',routes:['/api/cartographie']},
+  symptomes:{path:'/mes-symptomes/',routes:['/api/symptomes']},
 };
 function initialJSON(value) {
   return JSON.stringify(value).replace(/[<>&\u2028\u2029]/g,c=>'\\u'+c.charCodeAt(0).toString(16).padStart(4,'0'));
@@ -244,7 +246,9 @@ async function routes(request,env,ctx) {
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-compte/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-symptomes':'Mes symptômes','/mes-bilans':'Mes bilans','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  // « Mes symptômes »: the shared engine and the published questionnaires, no personal data.
+  if(['GET','HEAD'].includes(method)&&path===SYMPTOMES_ENGINE_PATH) return new Response(method==='HEAD'?null:symptomsClientScript(),{headers:{'Content-Type':'application/javascript; charset=utf-8'}});
   const pagePath=path.replace(/\/$/,'');
   // One close person has a page of their own. Its first render is prepared here; the two
   // reads are the ordinary authenticated routes, so another account's identifier is a 404.

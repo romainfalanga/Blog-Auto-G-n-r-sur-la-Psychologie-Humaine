@@ -30,6 +30,7 @@ jobs:
       - run: python scripts/build_coverage_status.py --check
       - run: python scripts/build_cartographie.py --check
       - run: python scripts/build_symptomes.py --check
+      - run: node scripts/build_symptomes_page_engine.mjs --check
       - run: python scripts/audit_cartographie.py --check
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test

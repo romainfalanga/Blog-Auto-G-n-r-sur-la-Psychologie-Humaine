@@ -78,6 +78,29 @@
 
 # Ambre s’ouvre depuis « / » (redirection ci-dessus) et depuis le premier lien du menu.
 
+# « Mes symptômes » : page privée et moteur du questionnaire servis par le Worker, jamais mis en cache.
+[[redirects]]
+  from = "/mes-symptomes"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-symptomes/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mes-symptomes/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-symptomes/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/mes-symptomes"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mes-symptomes/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
 [[redirects]]
   from = "/mes-bilans"
   to = "https://decode-journal.romainfalanga83.workers.dev/mes-bilans/"

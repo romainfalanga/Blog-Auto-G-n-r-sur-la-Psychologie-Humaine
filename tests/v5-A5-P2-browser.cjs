@@ -36,7 +36,7 @@ const fs=require('node:fs'),path=require('node:path'),os=require('node:os');cons
   await personCard.locator('.person-timeline-adds>.source-note-editor>summary').click();await personCard.locator('.person-timeline-adds>.source-note-editor textarea').fill('Ma note de relation '+width);await personCard.locator('.person-timeline-adds>.source-note-editor').getByRole('button',{name:'Enregistrer la note',exact:true}).click();await personCard.getByText('Ma note de relation '+width,{exact:true}).waitFor();
   await member.evaluate(()=>scrollTo(0,0));await member.screenshot({path:path.join(artifacts,'timeline-'+width+'.png'),fullPage:true});assert.ok(await member.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
   await member.goto('https://ambre.test/mon-compte/');await member.locator('#self-profile-form').waitFor();
-  assert.deepEqual(await member.locator('#site-navigation a').allTextContents(),['Ambre','Mon enfance','Mes proches','Ma ligne de vie','Mes bilans','Mon compte']);
+  assert.deepEqual(await member.locator('#site-navigation a').allTextContents(),['Ambre','Mon enfance','Mes symptômes','Mes proches','Ma ligne de vie','Mes bilans','Mon compte']);
   assert.equal(await member.locator('[data-portrait-tab], .portrait-tabs, #portrait-synthesis').count(),0);assert.equal(await member.locator('#self-profile').isVisible(),true);
   assert.deepEqual(await member.locator('#self-profile-form input,#self-profile-form select,#self-profile-form textarea').evaluateAll(nodes=>nodes.map(n=>n.name)),['first_name','last_name','birth_date','gender','gender_description']);
   assert.equal(await member.locator('#mes-articles,#self-text-dialog').count(),0);

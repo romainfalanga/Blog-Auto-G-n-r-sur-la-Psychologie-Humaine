@@ -9,7 +9,7 @@ const read = path => readFileSync(join(root, path), 'utf8');
 test('Ambre opens the shared menu and leads to the conversation page', async () => {
   const navigation = JSON.parse(read('data/navigation.json'));
   assert.deepEqual(navigation[0], { label: 'Ambre', href: '/mon-accompagnement/' });
-  assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Mon enfance', 'Mes proches', 'Ma ligne de vie', 'Mes bilans', 'Mon compte']);
+  assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Mon enfance', 'Mes symptômes', 'Mes proches', 'Ma ligne de vie', 'Mes bilans', 'Mon compte']);
   // The Worker menu is generated from the same file as the Hugo header.
   const generated = await import('../journal/src/navigation.generated.mjs');
   const links = [...generated.NAVIGATION_HTML.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match => ({ label: match[2], href: match[1] }));
@@ -61,4 +61,21 @@ test('Netlify proxies the list of close people and every person page to the Work
   assert.match(redirect('/mes-proches/*'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-proches\/:splat"\s+status = 200\s+force = true/);
   for (const path of ['/mes-proches', '/mes-proches/*', '/mon-accompagnement', '/mon-accompagnement/*']) assert.match(headers(path), /Cache-Control = "private, no-store"/, path);
   assert.match(redirect('/mon-accompagnement'), /workers\.dev\/mon-accompagnement\/"/);
+});
+
+test('Mes symptômes follows Mon enfance in the menu and is a private Worker page: proxied, never cached', () => {
+  const navigation = JSON.parse(read('data/navigation.json'));
+  const index = navigation.findIndex(item => item.label === 'Mon enfance');
+  assert.deepEqual(navigation[index + 1], { label: 'Mes symptômes', href: '/mes-symptomes/' });
+  const config = read('netlify.toml');
+  const blocks = config.split(/\n(?=\[\[)/);
+  const redirect = from => blocks.find(block => block.startsWith('[[redirects]]') && block.includes('from = "' + from + '"'));
+  const headers = path => blocks.find(block => block.startsWith('[[headers]]') && block.includes('for = "' + path + '"'));
+  assert.match(redirect('/mes-symptomes'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-symptomes\/"\s+status = 200\s+force = true/);
+  // "/mes-symptomes/*" also carries the engine script /mes-symptomes/moteur.js.
+  assert.match(redirect('/mes-symptomes/*'), /to = "https:\/\/decode-journal\.romainfalanga83\.workers\.dev\/mes-symptomes\/:splat"\s+status = 200\s+force = true/);
+  for (const path of ['/mes-symptomes', '/mes-symptomes/*']) assert.match(headers(path), /Cache-Control = "private, no-store"/, path);
+  const worker = read('journal/src/worker.mjs');
+  assert.match(worker, /'\/mes-symptomes':'Mes symptômes'/);
+  assert.match(worker, /symptomes:\{path:'\/mes-symptomes\/',routes:\['\/api\/symptomes'\]\}/);
 });
