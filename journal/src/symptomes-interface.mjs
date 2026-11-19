@@ -24,7 +24,23 @@ export function symptomsClientScript(){
 export const SYMPTOMES_MODULE_LABELS=Object.fromEntries(SYMPTOMES.modules.map(m=>[m.id,m.label]));
 
 export const SYMPTOMES_INTERFACE_SCRIPT=String.raw`
-var SY={page:null,work:{},open:{},acknowledged:{},sessionScreen:null,stopped:false,overlap:{},saved:{},sessionAnswers:{},chosen:null,loading:null,view:null,current:null};
+var SY={page:null,work:{},open:{},acknowledged:{},sessionScreen:null,stopped:false,overlap:{},saved:{},sessionAnswers:{},chosen:null,loading:null,view:null,current:null,user:null,redoEarly:{},declineKeys:{},posting:{}};
+// Everything this page remembers for one account; emptied at sign-out, account change or deletion.
+function syResetSession(){
+ Object.keys(SY.work||{}).forEach(function(id){var w=SY.work[id];if(w){clearTimeout(w.timer);clearTimeout(w.retryTimer)}});
+ SY.work={};SY.acknowledged={};SY.sessionScreen=null;SY.sessionAnswers={};SY.overlap={};SY.saved={};SY.open={};SY.redoEarly={};SY.declineKeys={};SY.posting={};
+ SY.stopped=false;SY.chosen=null;SY.chooserOpen=undefined;SY.page=null;SY.user=null;
+ var dialog=typeof document!=='undefined'&&document.getElementById&&document.getElementById('sy-safety-dialog');if(dialog){dialog.handled=true;if(dialog.open)dialog.close();dialog.remove()}
+}
+// Sign-out or account deletion: nothing of this page stays in memory or on the device.
+function syLeave(userId){syResetSession();if(userId)syPurgeStorage(userId)}
+function syUserId(){return state.me&&state.me.user&&state.me.user.id||''}
+// Device storage of this page: keys « symptomes-<kind>:<user>[:<passation>] ». keep(key) keeps a key.
+function syPurgeStorage(userId,keep){
+ try{var drop=[];for(var i=0;i<localStorage.length;i++){var key=localStorage.key(i);if(typeof key!=='string'||key.indexOf('symptomes-')!==0)continue;var owner=key.split(':')[1];if(userId&&owner!==userId)continue;if(keep&&keep(key))continue;drop.push(key)}drop.forEach(function(key){localStorage.removeItem(key)})}catch(e){}
+}
+// One live region for the whole page, never re-created by a render.
+function syAnnounce(text){var node=document.getElementById('sy-live');if(!node){node=el('p','visually-hidden');node.id='sy-live';node.setAttribute('aria-live','polite');node.setAttribute('role','status');document.body.append(node)}node.textContent='';node.textContent=text||''}
 var SY_DISCLAIMER='Ce n’est pas un diagnostic : seul un professionnel peut en poser un, en entretien.';
 var SY_PREF_LABEL='Je préfère ne pas répondre';
 function syEngine(){return typeof window!=='undefined'&&window.SymptomesEngine||null}
@@ -89,7 +105,7 @@ function syCurrentFlow(id){var w=SY.work[id];return syFlow(id,w?w.answers:{},{re
 // « Je préfère ne pas répondre » to an instrument item is sent as « no answer » (null, never 0).
 function syPayloadAnswers(id,work,flow){
  var out={},m=syModule(id);work=work||SY.work[id]||{answers:{}};flow=flow||syFlow(id,work.answers,{requested:work.requested,reuse:syReuse()});
- var allowed=flow.ids.slice();if(m.temps==='temps1'&&syData().safety.universal_question)allowed.push(syData().safety.universal_question.id);
+ var allowed=flow.ids.slice();if(m.temps==='temps1'&&syData().safety.universal_question&&work.safetyOwner!==false)allowed.push(syData().safety.universal_question.id);
  allowed.forEach(function(q){var v=work.answers[q];if(v!==undefined&&v!==null&&v!=='pref_local')out[q]=v});
  Object.keys(flow.reused).forEach(function(q){out[q]=flow.reused[q]});
  return out;
@@ -107,6 +123,10 @@ function syWork(id,create){
  (m.questions||[]).forEach(function(q){if(q.period==='vie'&&life[q.id]!=null){answers[q.id]=life[q.id];prefilled[q.id]=true}});
  if(m.temps==='temps1'){var shared=sySharedSafety();if(shared!==undefined)answers.securite_actuelle=shared}
  w=SY.work[id]={key:syKey(id),started_at:Math.floor(Date.now()/1000),answers:answers,prefilled:prefilled,requested:false,dirty:0,saving:false,status:'',error:false};
+ // The first-step passations in progress share the scope of the universal question: one screen per
+ // answer on screen. A first-step passation started when no other is in progress gets a new scope,
+ // so a new « oui » opens the blocking screen again.
+ if(m.temps==='temps1'){var peer=syTemps1().map(function(t){return t!==id&&SY.work[t]}).filter(Boolean)[0];w.safetyScope=peer&&peer.safetyScope||w.key;w.safetyOwner=!(peer&&peer.answers.securite_actuelle!==undefined)}
  return w;
 }
 function syAdoptDrafts(page){
@@ -115,6 +135,13 @@ function syAdoptDrafts(page){
   var w={key:d.passation_key,started_at:d.started_at,answers:answers,prefilled:{},requested:false,dirty:0,saving:false,status:'Brouillon repris.',error:false};syRestorePrefs(w);
   var m=syModule(row.id);if(m&&m.entry&&m.entry.deepen_on_request){var plain=syFlow(row.id,answers,{reuse:answers}).ids,asked=syFlow(row.id,answers,{requested:true,reuse:answers}).ids;w.requested=Object.keys(answers).some(function(k){return plain.indexOf(k)<0&&asked.indexOf(k)>=0})}
   SY.work[row.id]=w});
+ // First-step drafts: one shared scope; the universal answer is recorded by one module only.
+ var firsts=syTemps1().map(function(id){return SY.work[id]}).filter(Boolean),owner=firsts.filter(function(w){return w.answers.securite_actuelle!==undefined})[0];
+ firsts.forEach(function(w){w.safetyScope=firsts[0].key;w.safetyOwner=w===owner});
+ if(owner)firsts.forEach(function(w){if(w!==owner&&w.answers.securite_actuelle===undefined)w.answers.securite_actuelle=owner.answers.securite_actuelle});
+ // Orphan « ne pas répondre » keys (passations recorded or deleted elsewhere) are dropped.
+ var live=Object.keys(SY.work).map(function(id){return syPrefKey(SY.work[id])}),user=syUserId();
+ syPurgeStorage(user,function(key){return key.indexOf('symptomes-pref:')!==0||live.indexOf(key)>=0});
 }
 // « Je préfère ne pas répondre » to an official item is sent as no answer; the page keeps it on this
 // device for the passation in progress (best effort: storage may be unavailable).
@@ -128,7 +155,7 @@ function sySaveChosen(){try{localStorage.setItem(syChosenKey(),JSON.stringify(Ob
 
 // ---- Safety -----------------------------------------------------------------------------------
 function syTriggerDefs(){return syData().safety.triggers||[]}
-function syAckScope(trigger,work){return trigger.id.indexOf('securite')===0?'temps1':work.key}
+function syAckScope(trigger,work){return trigger.id.indexOf('securite')===0?(work.safetyScope||work.key):work.key}
 function syCheckSafety(id){
  var E=syEngine(),D=syData(),w=SY.work[id];if(!w)return false;
  var triggers=E.safetyTriggers(syPayloadAnswers(id,w),D),blocking=triggers.filter(function(t){return t.screen==='bloquant'});
@@ -137,7 +164,7 @@ function syCheckSafety(id){
  var screen=E.safetyScreen(blocking,D,{age:SY.page&&SY.page.age?SY.page.age.age:null});
  SY.sessionScreen=syMergeScreens(SY.sessionScreen,screen);sySafetyDialog(screen);return true;
 }
-function syMergeScreens(a,b){if(!a)return b;if(!b)return a;var seen={},resources=[];a.resources.concat(b.resources).forEach(function(r){if(!seen[r.id]){seen[r.id]=true;resources.push(r)}});var order=syData().safety.display.blocking_screen.order;resources.sort(function(x,y){return order.indexOf(x.id)-order.indexOf(y.id)});return {always:a.always||b.always,resources:resources,kinds:a.kinds.concat(b.kinds.filter(function(k){return a.kinds.indexOf(k)<0})),quick_exit:a.quick_exit||b.quick_exit}}
+function syMergeScreens(a,b){if(!a)return b;if(!b)return a;var seen={},resources=[];a.resources.concat(b.resources).forEach(function(r){if(!seen[r.id]){seen[r.id]=true;resources.push(r)}});var order=syData()?syData().safety.display.blocking_screen.order:[];resources.sort(function(x,y){return order.indexOf(x.id)-order.indexOf(y.id)});return {always:a.always||b.always,resources:resources,kinds:a.kinds.concat(b.kinds.filter(function(k){return a.kinds.indexOf(k)<0})),quick_exit:a.quick_exit||b.quick_exit}}
 function syResources(list){var ul=el('ul','sy-resources');(list||[]).forEach(function(r){var li=el('li'),a=el('a','sy-resource');a.href='tel:'+String(r.number).replace(/\s+/g,'');a.append(el('strong','',r.number),el('span','',r.label));li.append(a);ul.append(li)});return ul}
 function syQuickExit(){try{if(SY.view)SY.view.replaceChildren()}catch(e){}location.replace('https://www.google.fr/')}
 // Blocking screen: immediate, no delay, no score, never closed by a click outside or Escape.
@@ -153,12 +180,15 @@ function sySafetyDialog(screen){
  // « Écrire à Ambre » only when Ambre follows the deterministic safety protocol for this account (lot C).
  var ambre=Boolean(SY.page&&SY.page.safety&&SY.page.safety.ambre_available);
  (screen.buttons||[]).filter(function(label){return ambre||!/Ambre/.test(label)}).forEach(function(label){var kind=/Ambre/.test(label)?'ambre':/^Arr/.test(label)?'stop':'continue';
-  actions.append(actionButton(label,function(){dialog.close();dialog.remove();
+  actions.append(actionButton(label,function(){dialog.handled=true;dialog.close();dialog.remove();
    if(kind==='ambre'){if(typeof go==='function')go('chat');else location.assign('/mon-accompagnement/');return}
    if(kind==='stop'){SY.stopped=true;syRender();var top=document.getElementById('sy-safety-box');if(top&&top.scrollIntoView)top.scrollIntoView({block:'start'});return}
    syRender();
   },kind==='continue'?'':'secondary'))});
  dialog.append(actions);dialog.addEventListener('cancel',function(event){event.preventDefault()});
+ // Some browsers close a modal on a second Escape despite « cancel »: the box of resources then
+ // appears at once on the page.
+ dialog.addEventListener('close',function(){if(dialog.handled)return;dialog.handled=true;dialog.remove();syRender()});
  document.body.append(dialog);dialog.showModal();if(title.focus)title.focus({preventScroll:true});return dialog;
 }
 function sySoftTexts(id){
@@ -170,7 +200,7 @@ function sySoftTexts(id){
 // ---- Answers, autosave, recording ------------------------------------------------------------
 function syAnswer(id,question,value){
  var targets=id==='temps1'?sySafetyTargets():[id];
- targets.forEach(function(target){var w=syWork(target,true);
+ targets.forEach(function(target,i){var w=syWork(target,true);if(id==='temps1')w.safetyOwner=i===0;
   if(value==='pref'&&question.official)w.answers[question.id]='pref_local';else w.answers[question.id]=value;
   delete w.prefilled[question.id];w.status='';if(question.official)syStorePrefs(w);
   // An answer that no longer meets a trigger re-arms its screen for a later « oui ».
@@ -191,20 +221,33 @@ async function sySaveDraft(id){
   if(SY.work[id]!==w)return;
   // A late autosave of a passation already recorded: no draft is recreated, nothing to resume.
   if(result.finished){delete SY.work[id];syRender();return}
-  w.error=false;w.status='Brouillon enregistré.';if(w.dirty===revision)w.dirty=0;
+  w.error=false;w.status='Brouillon enregistré.';w.retries=0;clearTimeout(w.retryTimer);if(w.dirty===revision)w.dirty=0;
   var screen=result.safety&&result.safety.screen;
   if(screen&&screen.blocking&&!document.getElementById('sy-safety-dialog')){var fresh=(result.safety.triggers||[]).filter(function(t){return t.screen==='bloquant'&&!SY.acknowledged[syAckScope(t,w)+':'+t.id]});if(fresh.length){fresh.forEach(function(t){SY.acknowledged[syAckScope(t,w)+':'+t.id]=true});SY.sessionScreen=syMergeScreens(SY.sessionScreen,screen);sySafetyDialog(screen)}}
- }catch(err){if(SY.work[id]!==w)return;w.error=true;w.status=syErrorText(err)+' Vos réponses restent affichées ici.';if(['consent_required','minor','birth_date_required'].indexOf(err.code)>=0){w.saving=false;return syReload()}}
+ }catch(err){if(SY.work[id]!==w)return;w.error=true;w.status=syErrorText(err)+' Vos réponses restent affichées ici.';syAnnounce(w.status);if(['consent_required','minor','birth_date_required'].indexOf(err.code)>=0){w.saving=false;return syReload()}
+  // A safety answer is never lost: while a blocking trigger is not confirmed by the server, retry
+  // with a growing delay (2 s, 4 s, 8 s… up to one minute).
+  if(!err.status||err.status>=500||err.status===429){var pending=syEngine().safetyTriggers(syPayloadAnswers(id,w),syData()).some(function(t){return t.screen==='bloquant'});
+   if(pending){w.retries=(w.retries||0)+1;clearTimeout(w.retryTimer);w.retryTimer=setTimeout(function(){if(SY.work[id]===w){w.dirty++;sySaveDraft(id)}},Math.min(60000,1000*Math.pow(2,w.retries)))}}}
  finally{if(SY.work[id]===w){w.saving=false;syStatusUpdate(id);if(w.again||w.dirty&&w.dirty!==revision){w.again=false;syScheduleSave(id)}}}
 }
 function syStatusUpdate(id){var node=document.getElementById('sy-status-'+id),w=SY.work[id];if(node&&w){node.textContent=w.status||'';node.className='sy-save'+(w.error?' is-error':'')}}
 async function syComplete(id,declined){
- var w=SY.work[id]||null;if(w)clearTimeout(w.timer);
- var body={module:id,content_version:syData().version,instrument_versions:declined?{}:syVersions(id),answers:declined?{}:syPayloadAnswers(id,w),declined:Boolean(declined),passation_key:w?w.key:syKey(id),started_at:w?w.started_at:null};
- var result;
- try{result=await api('/api/symptomes/checks','POST',body)}
- catch(err){if(err.code!=='passation_conflict')throw err;body.passation_key=syKey(id);result=await api('/api/symptomes/checks','POST',body)}
- if(w)syDropPrefs(w);delete SY.work[id];SY.overlap[id]=Boolean(result.overlap);SY.saved[id]=true;SY.open[id]=true;
+ var w=SY.work[id]||null;if(w){clearTimeout(w.timer);clearTimeout(w.retryTimer)}
+ if(SY.posting[id])return;
+ // A refusal without passation keeps one key until it is recorded: a retry never makes a duplicate.
+ var key=w?w.key:SY.declineKeys[id]||(SY.declineKeys[id]=syKey(id));
+ var body={module:id,content_version:syData().version,instrument_versions:declined?{}:syVersions(id),answers:declined?{}:syPayloadAnswers(id,w),declined:Boolean(declined),passation_key:key,started_at:w?w.started_at:null};
+ var result;SY.posting[id]=true;
+ try{
+  try{result=await api('/api/symptomes/checks','POST',body)}
+  catch(err){if(err.code!=='passation_conflict')throw err;body.passation_key=syKey(id);if(!w)SY.declineKeys[id]=body.passation_key;result=await api('/api/symptomes/checks','POST',body)}
+ }finally{delete SY.posting[id]}
+ delete SY.declineKeys[id];
+ // The universal question of a recorded first-step passation is settled: once no first-step
+ // passation of its scope is in progress, a new « oui » opens the blocking screen again.
+ if(w&&w.safetyScope&&!syTemps1().some(function(t){return t!==id&&SY.work[t]&&SY.work[t].safetyScope===w.safetyScope}))Object.keys(SY.acknowledged).forEach(function(k){if(k.indexOf(w.safetyScope+':')===0)delete SY.acknowledged[k]});
+ if(w)syDropPrefs(w);delete SY.work[id];syAnnounce(declined?'Choix enregistré.':'Thème enregistré.');SY.overlap[id]=Boolean(result.overlap);SY.saved[id]=true;SY.open[id]=true;
  syApply(result.page,false);syRender();
 }
 async function syReload(){try{var page=await api('/api/symptomes');syApply(page,false)}catch(err){}syRender()}
@@ -259,21 +302,22 @@ function syRedo(id){var row=syRow(id);syWork(id,true);SY.open[id]=true;if(syModu
 
 // ---- Rendering -------------------------------------------------------------------------------
 function syQuestionRow(scope,question,value,extra){
- extra=extra||{};var row=el('div','sy-q');row.dataset.q=question.id;var labelId='sy-q-'+scope+'-'+question.id,label=el('p','sy-q-text',question.text);label.id=labelId;row.append(label);
+ extra=extra||{};var row=el('fieldset','sy-q');row.dataset.q=question.id;var legend=el('legend','sy-q-text',question.text);row.append(legend);
  if(question.hint)row.append(el('p','sy-q-hint',question.hint));
  var options=syOptions(question.scale);if(question.na)options.push({value:'na',label:question.na});
- var official=options.length,hasPref=options.some(function(o){return o.value==='pref'});
- if(question.official&&!hasPref)options.push({value:'pref',label:SY_PREF_LABEL,quiet:true});
- // A list of fine rows (one answer per row) on a phone; a fine segmented row on a computer when the
- // answers fit, else the same list. « Je préfère ne pas répondre » is a quiet link under the answers.
+ if(question.official&&!options.some(function(o){return o.value==='pref'}))options.push({value:'pref',label:SY_PREF_LABEL});
+ // Real radio buttons (one group, arrow keys), drawn as a list of fine rows on a phone and as a fine
+ // segmented row on a computer when the answers fit. « Je préfère ne pas répondre » is a quiet link
+ // under the answers, in the same group.
  var pref=options.filter(function(o){return o.value==='pref'})[0],main=options.filter(function(o){return o.value!=='pref'});
  var list=main.length>5||main.some(function(o){return String(o.label).length>30});
- var group=el('div','sy-choices'+(list?' is-list':''));group.setAttribute('role','group');group.setAttribute('aria-labelledby',labelId);group.style.setProperty('--n',String(main.length));
- var current=value==='pref_local'?'pref':value;
- function button(o,cls){var on=current!==undefined&&current!==null&&String(current)===String(o.value);var b=actionButton(o.label,function(){if(!on)syAnswer(scope,question,o.value)},cls+(on?' is-on':''));b.dataset.value=String(o.value);b.dataset.syFocus=scope+':'+question.id+':'+o.value;b.setAttribute('aria-pressed',String(on));return b}
- main.forEach(function(o){group.append(button(o,'sy-choice'))});
+ var group=el('div','sy-choices'+(list?' is-list':''));group.style.setProperty('--n',String(main.length));
+ var current=value==='pref_local'?'pref':value,name='sy-'+scope+'-'+question.id;
+ function radio(o,cls){var on=current!==undefined&&current!==null&&String(current)===String(o.value);var label=el('label',cls+(on?' is-on':'')),input=el('input');input.type='radio';input.name=name;input.value=String(o.value);input.checked=on;input.dataset.value=String(o.value);input.dataset.syFocus=scope+':'+question.id+':'+o.value;
+  input.addEventListener('change',function(){if(input.checked)syAnswer(scope,question,o.value)});label.append(input,el('span','',o.label));return label}
+ main.forEach(function(o){group.append(radio(o,'sy-choice'))});
  row.append(group);
- if(pref)row.append(button(pref,'text sy-pref'));
+ if(pref)row.append(radio(pref,'sy-pref'));
  if(extra.prefilled)row.append(el('p','sy-q-hint','Réponse reprise de votre dernière passation ; vous pouvez la changer.'));
  if(extra.soft)row.append(el('p','sy-soft',extra.soft));
  return row;
@@ -311,11 +355,11 @@ function syFormBody(body,id){
  if(flow.offer)body.append(actionButton('Répondre aussi au '+syInstrumentName(flow.offer)+' complet',function(){var work=syWork(id,true);work.requested=true;syScheduleSave(id);syRender()},'secondary sy-offer'));
  var payload=syPayloadAnswers(id,w),answered=Object.keys(payload).filter(function(k){return k!=='securite_actuelle'}).length,missing=flow.ids.some(function(q){return !w||w.answers[q]===undefined||w.answers[q]===null});
  if(answered&&missing)body.append(el('p','sy-notice','Certaines questions sont sans réponse : vous pouvez enregistrer quand même, le résultat pourra rester non lisible.'));
- var actions=el('div','sy-module-actions'),feedback=el('p','status');feedback.setAttribute('role','status');
- var save=actionButton('Enregistrer ce thème',async function(){save.disabled=true;feedback.textContent='Enregistrement…';feedback.className='status';try{await syComplete(id,false)}catch(err){feedback.textContent=syErrorText(err);feedback.className='status error';save.disabled=false}});save.disabled=!answered;
- var decline=actionButton('Ne pas faire ce thème',async function(){if(!await confirmDialog('Ne pas faire ce thème ?','Ce choix est enregistré ; vous pourrez faire ce thème plus tard.','Confirmer'))return;try{await syComplete(id,true)}catch(err){feedback.textContent=syErrorText(err);feedback.className='status error'}},'text');
+ var actions=el('div','sy-module-actions'),feedback=el('p','status');
+ var save=actionButton('Enregistrer ce thème',async function(){save.disabled=true;decline.disabled=true;feedback.textContent='Enregistrement…';feedback.className='status';try{await syComplete(id,false)}catch(err){feedback.textContent=syErrorText(err);feedback.className='status error';syAnnounce(feedback.textContent);save.disabled=false;decline.disabled=false}});save.disabled=!answered||Boolean(SY.posting[id]);
+ var decline=actionButton('Ne pas faire ce thème',async function(){if(!await confirmDialog('Ne pas faire ce thème ?','Ce choix est enregistré ; vous pourrez faire ce thème plus tard.','Confirmer'))return;save.disabled=true;decline.disabled=true;try{await syComplete(id,true)}catch(err){feedback.textContent=syErrorText(err);feedback.className='status error';syAnnounce(feedback.textContent);decline.disabled=false;save.disabled=!answered}},'text');decline.disabled=Boolean(SY.posting[id]);
  actions.append(save,decline);body.append(actions,feedback);
- var status=el('p','sy-save'+(w&&w.error?' is-error':''),w&&w.status||'');status.id='sy-status-'+id;status.setAttribute('aria-live','polite');body.append(status);
+ var status=el('p','sy-save'+(w&&w.error?' is-error':''),w&&w.status||'');status.id='sy-status-'+id;body.append(status);
 }
 function sySafetyQuestionBlock(){
  var D=syData(),q=D.safety.universal_question;if(!q||!sySafetyTargets().length)return null;var value=sySharedSafety();
@@ -324,7 +368,7 @@ function sySafetyQuestionBlock(){
  return box;
 }
 function sySafetyBox(){
- var banner=SY.page.safety&&SY.page.safety.banner,screen=syMergeScreens(banner,SY.sessionScreen);if(!screen)return null;
+ var banner=SY.page&&SY.page.safety&&SY.page.safety.banner,screen=syMergeScreens(banner,SY.sessionScreen);if(!screen)return null;
  var box=el('section','sy-safety-box');box.id='sy-safety-box';box.setAttribute('aria-label','Numéros utiles');
  if(SY.stopped)box.append(el('p','sy-safety-stopped','Vous avez arrêté. Vos réponses sont gardées en brouillon ; vous pourrez reprendre quand vous le voudrez.'));
  if(screen.quick_exit)box.append(actionButton(screen.quick_exit,syQuickExit,'danger sy-quick-exit'));
@@ -343,9 +387,9 @@ function syResultCard(row){
  if(SY.overlap[row.id])card.append(el('p','sy-result-note',syData().fixed_texts.overlap_note));
  if(model.notes.length){var notes=el('div','sy-result-notes');model.notes.forEach(function(text){notes.append(el('p','',text))});card.append(notes)}
  if(model.refs.length)card.append(el('p','sy-result-ref','Référence : '+model.refs.join(' ; ')+'.'));
- var actions=el('div','sy-result-actions'),feedback=el('p','status');feedback.setAttribute('role','status');
+ var actions=el('div','sy-result-actions'),feedback=el('p','status');
  if(!SY.work[row.id])actions.append(actionButton(row.last.declined?'Faire ce thème':'Refaire',function(){syRedo(row.id)},'secondary'));
- actions.append(actionButton('Supprimer ce résultat',async function(){if(!await confirmDialog('Supprimer ce résultat ?','Ce résultat sera effacé de votre compte. Cette action est définitive.','Supprimer',true))return;try{var result=await api('/api/symptomes/checks/'+encodeURIComponent(row.last.id),'DELETE');delete SY.overlap[row.id];delete SY.saved[row.id];syApply(result.page,false);syRender()}catch(err){feedback.textContent=err.message;feedback.className='status error'}},'text danger'));
+ actions.append(actionButton('Supprimer ce résultat',async function(){if(!await confirmDialog('Supprimer ce résultat ?','Ce résultat sera effacé de votre compte. Cette action est définitive.','Supprimer',true))return;try{var result=await api('/api/symptomes/checks/'+encodeURIComponent(row.last.id),'DELETE');delete SY.overlap[row.id];delete SY.saved[row.id];syApply(result.page,false);syRender()}catch(err){feedback.textContent=err.message;feedback.className='status error';syAnnounce(err.message)}},'text danger'));
  card.append(actions,feedback);
  return card;
 }
@@ -385,9 +429,9 @@ function syCrossingSection(){
 function syDataSection(){
  var section=el('section','sy-section sy-data');section.append(el('h2','','Mes données'));
  section.append(el('p','sy-section-intro','Vous pouvez effacer vos résultats et retirer votre accord à tout moment. L’export de vos données se fait depuis Mon compte.'));
- var actions=el('div','sy-data-actions'),feedback=el('p','status');feedback.setAttribute('role','status');
- if((SY.page.modules||[]).some(function(row){return row.last||row.draft})||Object.keys(SY.work).length)actions.append(actionButton('Supprimer tous mes résultats',async function(){if(!await confirmDialog('Supprimer tous vos résultats ?','Vos résultats, vos brouillons et les alertes de sécurité de cette page seront effacés. Votre accord reste tel quel.','Tout supprimer',true))return;try{var result=await api('/api/symptomes/checks','DELETE');SY.work={};SY.overlap={};SY.saved={};SY.sessionScreen=null;syApply(result.page,false);syRender()}catch(err){feedback.textContent=err.message;feedback.className='status error'}},'text danger'));
- if(SY.page.consent&&SY.page.consent.given)actions.append(actionButton('Retirer mon accord',async function(){if(!await confirmDialog('Retirer votre accord ?','Rien de nouveau ne sera enregistré et Ambre ne recevra plus de résumé. Vos résultats restent jusqu’à ce que vous les supprimiez.','Retirer',true))return;try{await api('/api/symptomes/consent','PUT',{consent:false});SY.work={};await syReload()}catch(err){feedback.textContent=err.message;feedback.className='status error'}},'text danger'));
+ var actions=el('div','sy-data-actions'),feedback=el('p','status');
+ if((SY.page.modules||[]).some(function(row){return row.last||row.draft})||Object.keys(SY.work).length)actions.append(actionButton('Supprimer tous mes résultats',async function(){if(!await confirmDialog('Supprimer tous vos résultats ?','Vos résultats, vos brouillons et les alertes de sécurité de cette page seront effacés. Votre accord reste tel quel.','Tout supprimer',true))return;try{var result=await api('/api/symptomes/checks','DELETE');Object.keys(SY.work).forEach(function(k){clearTimeout(SY.work[k].timer);clearTimeout(SY.work[k].retryTimer)});SY.work={};SY.overlap={};SY.saved={};SY.sessionScreen=null;SY.acknowledged={};SY.chosen=null;syPurgeStorage(syUserId());syApply(result.page,false);syRender();syAnnounce('Vos résultats ont été supprimés.')}catch(err){feedback.textContent=err.message;feedback.className='status error';syAnnounce(err.message)}},'text danger'));
+ if(SY.page.consent&&SY.page.consent.given)actions.append(actionButton('Retirer mon accord',async function(){if(!await confirmDialog('Retirer votre accord ?','Rien de nouveau ne sera enregistré et Ambre ne recevra plus de résumé. Vos résultats restent jusqu’à ce que vous les supprimiez.','Retirer',true))return;try{await api('/api/symptomes/consent','PUT',{consent:false});Object.keys(SY.work).forEach(function(k){clearTimeout(SY.work[k].timer);clearTimeout(SY.work[k].retryTimer)});SY.work={};SY.chosen=null;syPurgeStorage(syUserId());await syReload();syAnnounce('Votre accord est retiré.')}catch(err){feedback.textContent=err.message;feedback.className='status error';syAnnounce(err.message)}},'text danger'));
  var account=el('a','text-link','Exporter depuis Mon compte');account.href='/mon-compte/';actions.append(account);
  section.append(actions,feedback);return section;
 }
@@ -396,8 +440,8 @@ function syConsentSection(){
  var list=el('ul','sy-consent-list');
  [F.privacy_sensitive,'Ces questionnaires repèrent des difficultés ; ils ne posent pas de diagnostic.','Avec votre accord, Ambre reçoit seulement un résumé des thèmes au-dessus du repère, avec leur date ; jamais vos réponses ni aucun score. Paramètres vous montre ce résumé.','Vous pouvez retirer votre accord à tout moment.'].forEach(function(text){list.append(el('li','',text))});
  section.append(list);
- var feedback=el('p','status');feedback.setAttribute('role','status');
- var accept=actionButton('J’accepte et je commence',async function(){accept.disabled=true;try{await api('/api/symptomes/consent','PUT',{consent:true});await syReload()}catch(err){feedback.textContent=err.message;feedback.className='status error';accept.disabled=false;if(['minor','birth_date_required'].indexOf(err.code)>=0)syReload()}});
+ var feedback=el('p','status');
+ var accept=actionButton('J’accepte et je commence',async function(){accept.disabled=true;try{await api('/api/symptomes/consent','PUT',{consent:true});await syReload()}catch(err){feedback.textContent=err.message;feedback.className='status error';syAnnounce(err.message);accept.disabled=false;if(['minor','birth_date_required'].indexOf(err.code)>=0)syReload()}});
  var actions=el('div','actions');actions.append(accept);section.append(actions,feedback);return section;
 }
 function syThemeChooser(){
@@ -416,19 +460,21 @@ function syThemeChooser(){
 }
 function syRender(){
  var view=SY.view;if(!view||view.isConnected===false||SY.current&&!SY.current())return;
- var active=document.activeElement,focusKey=active&&active.dataset&&active.dataset.syFocus,root=el('div','sy');
+ var active=document.activeElement,focusKey=active&&active.dataset&&active.dataset.syFocus,root=el('div','sy'),keyboard=false;
+ try{keyboard=Boolean(active&&active.matches&&active.matches(':focus-visible'))}catch(e){keyboard=false}
  var page=SY.page||{};root.append(el('p','sy-disclaimer',SY_DISCLAIMER));
  if(!page.available){root.append(el('div','notice',page.message||'« Mes symptômes » sera bientôt disponible.'));view.replaceChildren(root);return}
  var age=page.age||{};
  if(age.status==='mineur'){var minor=el('section','sy-section sy-minor');minor.append(el('p','',age.text));minor.append(syResources(age.resources));root.append(minor);view.replaceChildren(root);return}
  if(age.status!=='adulte'){var unknown=el('section','sy-section');var p=el('p','','Cette page est réservée aux adultes : indiquez votre date de naissance dans Mon compte pour l’ouvrir. ');var a=el('a','','Compléter Mon compte');a.href='/mon-compte/#self-profile';p.append(a);unknown.append(p);root.append(unknown);view.replaceChildren(root);return}
- if(!syEngine()||!syData()){root.append(el('p','status error','Le questionnaire n’a pas pu être chargé.'),actionButton('Réessayer',function(){renderSymptoms(view,SY.current)},'secondary'));view.replaceChildren(root);return}
+ var box=sySafetyBox();
+ if(!syEngine()||!syData()){if(box)root.append(box);root.append(el('p','status error','Le questionnaire n’a pas pu être chargé.'),actionButton('Réessayer',function(){renderSymptoms(view,SY.current)},'secondary'));view.replaceChildren(root);return}
  if(!(page.consent&&page.consent.given)){
-  root.append(syConsentSection());
+  if(box)root.append(box);root.append(syConsentSection());
   if((page.modules||[]).some(function(row){return row.last})){root.append(syResultsSection(),syDataSection())}
   view.replaceChildren(root);return;
  }
- var safety=sySafetyBox();if(safety)root.append(safety);
+ if(box)root.append(box);
  if(!SY.stopped){
   var first=el('section','sy-section');first.append(el('h2','','Pour commencer'));
   var question=sySafetyQuestionBlock();if(question)first.append(question);
@@ -440,13 +486,17 @@ function syRender(){
  }
  root.append(syResultsSection(),syCrossingSection(),syDataSection());
  view.replaceChildren(root);
- if(focusKey){var again=view.querySelector('[data-sy-focus="'+focusKey+'"]');if(again&&again.focus)again.focus({preventScroll:true})}
+ // Focus comes back to the same answer for keyboard users only (no ring after a tap or a click).
+ if(focusKey&&keyboard){var again=view.querySelector('[data-sy-focus="'+focusKey+'"]');if(again&&again.focus)again.focus({preventScroll:true})}
 }
 async function renderSymptoms(view,current){
+ if(SY.user!==syUserId()){syResetSession();SY.user=syUserId()}
  SY.view=view;SY.current=current;SY.chosen=null;SY.stopped=false;
  view.replaceChildren(el('p','muted page-loading','Chargement…'));
  var engine=syLoadEngine().catch(function(err){return err}),page;
- try{page=await api('/api/symptomes')}catch(err){if(current&&!current())return;view.replaceChildren(el('p','status error',err.message),actionButton('Réessayer',function(){renderSymptoms(view,current)},'secondary'));return}
+ try{page=await api('/api/symptomes')}catch(err){if(current&&!current())return;
+  // Offline: the resources of this session stay on screen.
+  var box=sySafetyBox(),parts=[];if(box)parts.push(box);parts.push(el('p','status error',err.message),actionButton('Réessayer',function(){renderSymptoms(view,current)},'secondary'));view.replaceChildren.apply(view,parts);return}
  if(page&&page.available)await engine;
  if(current&&!current())return;
  if(page&&page.available&&syEngine()&&syData()){syApply(page,true)}else SY.page=page;
@@ -476,29 +526,38 @@ export const SYMPTOMES_INTERFACE_STYLE=String.raw`
 .sy-group { padding-top: var(--s2); }
 .sy-period { max-width: 62ch; margin: var(--s4) 0 0; padding-left: var(--s3); border-left: 2px solid var(--accent); color: var(--ink); font: 400 var(--t-sm)/1.45 var(--font-ui); font-style: italic; }
 .sy-safety-question { margin-bottom: var(--s3); }
-.sy-q { display: flex; flex-direction: column; gap: var(--s2); padding: var(--s4) 0 var(--s3); }
-.sy-q + .sy-q { border-top: 1px solid color-mix(in srgb, var(--line) 60%, transparent); }
+/* A fieldset per question: the legend floats into the content so that the separator and the spacing
+   behave like any block (a legend otherwise sits in the top border). */
+.sy-q { display: block; padding: var(--s4) 0 var(--s3); }
+.sy-q > * + * { margin-top: var(--s2); }
+.sy-q + .sy-q { box-shadow: inset 0 1px 0 color-mix(in srgb, var(--line) 60%, transparent); }
 .sy-q-text { max-width: 62ch; margin: 0; font: 600 var(--t-md)/1.4 var(--font-ui); }
 .sy-q-hint { max-width: 62ch; margin: 0; color: var(--muted); font-size: var(--t-sm); line-height: 1.5; }
 .sy-choices { display: grid; grid-template-columns: repeat(var(--n, 3), minmax(0, 1fr)); gap: 1px; width: min(100%, calc(var(--n, 3) * 11rem)); margin-top: var(--s1); padding: 0; border: 1px solid var(--line); border-radius: var(--r-control); background: var(--line); overflow: hidden; }
+.sy-choice, .sy-pref { position: relative; display: flex; align-items: center; justify-content: center; margin: 0; cursor: pointer; }
+.sy-choice > input, .sy-pref > input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.sy-q { min-width: 0; margin: 0; border: 0; }
+.sy-q > legend.sy-q-text { float: left; width: 100%; margin: 0 0 var(--s2); padding: 0; }
+.sy-q > legend + * { clear: both; margin-top: 0; }
+.sy-q > .sy-pref { display: flex; width: fit-content; }
+.sy-choice:has(input:focus-visible), .sy-pref:has(input:focus-visible) { outline: 2px solid var(--accent); outline-offset: -3px; }
 .sy-choice { min-width: 0; min-height: 44px; padding: 6px var(--s2); border: 0; border-radius: 0; background: var(--surface); color: var(--ink); font: 400 var(--t-sm)/1.25 var(--font-ui); white-space: normal; text-align: center; }
 @media (hover: hover) { .sy-choice:hover { background: var(--accent-wash); } }
 .sy-choice:not(:disabled):active { transform: none; background: var(--accent-wash); }
 .sy-choice:focus-visible { outline-offset: -3px; }
-.sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--accent); font-weight: 600; box-shadow: inset 0 -2px 0 var(--accent); }
-.sy-choice[aria-pressed="true"]::before { content: '✓' / ''; margin-right: 3px; font-weight: 700; }
+.sy-choice.is-on { background: var(--accent-wash); color: var(--accent); font-weight: 600; box-shadow: inset 0 -2px 0 var(--accent); }
+.sy-choice.is-on::before { content: '✓' / ''; margin-right: 3px; font-weight: 700; }
 /* The list: one answer per fine row, a radio dot, thin separators, no frame. */
 .sy-choices.is-list { display: flex; flex-direction: column; gap: 0; width: 100%; max-width: 32rem; border: 0; border-radius: 0; background: none; }
 .sy-choices.is-list > .sy-choice { justify-content: flex-start; gap: var(--s3); padding: 6px var(--s2); border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent); border-radius: 0; background: none; text-align: left; box-shadow: none; }
 .sy-choices.is-list > .sy-choice:first-child { border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
 .sy-choices.is-list > .sy-choice::before { content: '' / ''; flex: none; box-sizing: border-box; width: 18px; height: 18px; margin: 0; border: 1.5px solid var(--line-strong); border-radius: 50%; background: var(--surface); color: #fff; font: 700 11px/15px var(--font-ui); text-align: center; }
-.sy-choices.is-list > .sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--ink); font-weight: 600; }
-.sy-choices.is-list > .sy-choice[aria-pressed="true"]::before { content: '✓' / ''; border-color: var(--accent); background: var(--accent); }
+.sy-choices.is-list > .sy-choice.is-on { background: var(--accent-wash); color: var(--ink); font-weight: 600; }
+.sy-choices.is-list > .sy-choice.is-on::before { content: '✓' / ''; border-color: var(--accent); background: var(--accent); }
 .sy-choices.is-list > .sy-choice:not(:disabled):active { background: var(--accent-wash); }
 .sy-pref { align-self: flex-start; min-height: 44px; color: var(--muted); font-size: var(--t-xs); font-weight: 400; }
-.sy-pref[aria-pressed="true"] { color: var(--accent); font-weight: 600; }
-.sy-pref[aria-pressed="true"]::before { content: '✓' / ''; margin-right: 4px; }
-.sy-q > .sy-pref { margin-top: calc(-1 * var(--s2)); }
+.sy-pref.is-on { color: var(--accent); font-weight: 600; }
+.sy-pref.is-on::before { content: '✓' / ''; margin-right: 4px; }
 .sy-soft { max-width: 62ch; margin: 0; padding-left: var(--s3); border-left: 2px solid var(--danger); font-size: var(--t-sm); line-height: 1.5; }
 .sy-notice { max-width: 62ch; margin: var(--s3) 0 0; color: var(--muted); font-size: var(--t-xs); line-height: 1.45; }
 .sy-offer { margin-top: var(--s4); }
@@ -563,8 +622,8 @@ dialog.sy-safety h2:focus { outline: none; }
   .sy-choices > .sy-choice { justify-content: flex-start; gap: var(--s3); padding: 6px var(--s2); border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent); background: none; text-align: left; box-shadow: none; }
   .sy-choices > .sy-choice:first-child { border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
   .sy-choices > .sy-choice::before { content: '' / ''; flex: none; box-sizing: border-box; width: 18px; height: 18px; margin: 0; border: 1.5px solid var(--line-strong); border-radius: 50%; background: var(--surface); color: #fff; font: 700 11px/15px var(--font-ui); text-align: center; }
-  .sy-choices > .sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--ink); box-shadow: none; }
-  .sy-choices > .sy-choice[aria-pressed="true"]::before { content: '✓' / ''; margin: 0; border-color: var(--accent); background: var(--accent); }
+  .sy-choices > .sy-choice.is-on { background: var(--accent-wash); color: var(--ink); box-shadow: none; }
+  .sy-choices > .sy-choice.is-on::before { content: '✓' / ''; margin: 0; border-color: var(--accent); background: var(--accent); }
   .sy-result { padding: var(--s4); }
   .sy-safety-actions { flex-direction: column; }
   .sy-safety-actions > button, .sy-safety-box > button { width: 100%; margin-right: 0; }

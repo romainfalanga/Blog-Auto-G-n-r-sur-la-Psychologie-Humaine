@@ -41,17 +41,18 @@ class Node {
  querySelector(sel){return this.querySelectorAll(sel)[0]||null}
 }
 const button=(host,label)=>host.querySelectorAll('button').find(b=>b.textContent===label||b.textContent.startsWith(label));
-const choice=(host,q,value)=>host.querySelector('[data-sy-focus="'+q+':'+value+'"]')||host.querySelectorAll('button').find(b=>b.dataset.syFocus&&b.dataset.syFocus.endsWith(':'+q+':'+value));
+const choice=(host,q,value)=>host.querySelector('[data-sy-focus="'+q+':'+value+'"]')||host.querySelectorAll('input').find(b=>b.dataset.syFocus&&b.dataset.syFocus.endsWith(':'+q+':'+value));
 const plain=v=>JSON.parse(JSON.stringify(v));
+const tick=node=>{node.checked=true;return node.fire('change')};
 const flush=()=>new Promise(r=>setTimeout(r,0));
 
 function environment({handler}={}){
  const doc={modals:[],activeElement:null,createElement(tag){return new Node(tag,this)},getElementById(id){return this.body.querySelector('#'+id)||this.head.querySelector('#'+id)}};
  doc.body=new Node('body',doc);doc.head=new Node('head',doc);
- const calls=[],storage=new Map(),timers=[];
+ const calls=[],storage=new Map(),timers=[],delays=[];
  const ctx={document:doc,console,JSON,Math,Date,Promise,Object,Array,String,Number,Boolean,Error,Set,Map,WeakMap,RegExp,Uint8Array,crypto:globalThis.crypto,location:{replaced:null,replace(u){this.replaced=u},assign(){}},
-  localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,v)},
-  setTimeout:(fn,ms)=>{timers.push(fn);return timers.length},clearTimeout:()=>{},
+  localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,String(v)),removeItem:k=>storage.delete(k),key:i=>[...storage.keys()][i]??null,get length(){return storage.size}},
+  setTimeout:(fn,ms)=>{timers.push(fn);delays.push(ms);return timers.length},clearTimeout:()=>{},
   state:{me:{user:{id:'a'}}},dateLabel:v=>'date:'+v,
   el(tag,cls,text){const n=doc.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n},
   actionButton(text,fn,cls){const b=ctx.el('button',cls||'',text);b.type='button';b.addEventListener('click',fn);return b},
@@ -60,7 +61,7 @@ function environment({handler}={}){
  ctx.window=ctx;vm.createContext(ctx);
  vm.runInContext(symptomsClientScript(),ctx);vm.runInContext(SYMPTOMES_INTERFACE_SCRIPT,ctx);
  const view=doc.createElement('div');doc.body.append(view);
- return {ctx,doc,view,calls,timers,async runTimers(){while(timers.length){await timers.shift()();await flush()}}};
+ return {ctx,doc,view,calls,timers,delays,storage,async runTimers(){while(timers.length){await timers.shift()();await flush()}}};
 }
 
 // ---- Real backend for the page states ----------------------------------------------------------
@@ -153,9 +154,9 @@ test('safety: « oui » to item 9 opens the blocking screen at once, before the 
  const b=backend();b.birth('2003-05-04');
  const env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);await button(env.view,'J’accepte et je commence').fire('click');await flush();
  const writes=()=>env.calls.filter(c=>c.method==='PUT'&&c.path.startsWith('/api/symptomes/drafts')).length;
- await choice(env.view,'phq9_1','2').fire('click');await choice(env.view,'phq9_2','1').fire('click');
+ await tick(choice(env.view,'phq9_1','2'));await tick(choice(env.view,'phq9_2','1'));
  assert.ok(env.view.querySelector('[data-q="phq9_9"]'),'PHQ-9 opened');
- const before=writes();await choice(env.view,'phq9_9','1').fire('click');
+ const before=writes();await tick(choice(env.view,'phq9_9','1'));
  const dialog=env.doc.modals.at(-1);assert.ok(dialog&&dialog.open,'screen shown');assert.equal(writes(),before,'no wait for the API');
  assert.match(dialog.textContent,/Merci de l’avoir dit/);assert.match(dialog.textContent,/3114/);assert.match(dialog.textContent,/0 800 235 236/,'Fil Santé Jeunes for 18–25');
  assert.doesNotMatch(dialog.textContent,/risque|score/i);
@@ -169,25 +170,28 @@ test('safety: « oui » to item 9 opens the blocking screen at once, before the 
  assert.match(env.view.textContent,/Vous avez arrêté/);assert.ok(env.view.querySelector('#sy-safety-box').querySelector('a.sy-resource'));assert.ok(!env.view.querySelector('[data-module="humeur"]'));
  await button(env.view,'Reprendre le questionnaire').fire('click');assert.ok(env.view.querySelector('[data-module="humeur"]'));assert.ok(env.view.querySelector('#sy-safety-box'));
  // Same answer again: no second screen; violences: quick exit.
- const count=env.doc.modals.length;await choice(env.view,'phq9_8','0').fire('click');assert.equal(env.doc.modals.length,count);
+ const count=env.doc.modals.length;await tick(choice(env.view,'phq9_8','0'));assert.equal(env.doc.modals.length,count);
  env.ctx.SY.page.safety.ambre_available=true;
- env.ctx.syChosen().relations=true;env.ctx.syRender();await choice(env.view,'rel_violences','oui').fire('click');
+ env.ctx.syChosen().relations=true;env.ctx.syRender();await tick(choice(env.view,'rel_violences','oui'));
  const violence=env.doc.modals.at(-1);
  assert.deepEqual(plain(violence.querySelector('.sy-safety-actions').querySelectorAll('button').map(x=>x.textContent)),S.safety.display.blocking_screen.buttons,'Ambre shown when available');assert.match(violence.textContent,/3919/);await button(violence,'Quitter vite cette page').fire('click');assert.equal(env.ctx.location.replaced,'https://www.google.fr/');
 });
 
 test('the universal question is asked once on screen for the first step; « pref » shows the soft block only',async()=>{
  const b=backend();b.birth('1980-01-01');const env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);await button(env.view,'J’accepte et je commence').fire('click');await flush();
- await choice(env.view,'securite_actuelle','pref').fire('click');
+ await tick(choice(env.view,'securite_actuelle','pref'));
  assert.equal(env.doc.modals.length,0);assert.match(env.view.textContent,new RegExp(S.safety.display.soft_block.text.slice(0,40)));
  await env.runTimers();
  const drafts=b.raw.prepare('SELECT module,answers FROM symptom_drafts ORDER BY module').all();
- assert.deepEqual(drafts.map(d=>[d.module,JSON.parse(d.answers).securite_actuelle]),[['anxiete','pref'],['humeur','pref']]);
+ // One question on screen, recorded by one module only (no duplicate alert).
+ assert.deepEqual(drafts.map(d=>[d.module,JSON.parse(d.answers).securite_actuelle]),[['anxiete',undefined],['humeur','pref']]);
+ await tick(choice(env.view,'securite_actuelle','oui'));assert.equal(env.doc.modals.length,1);await env.runTimers();
+ assert.equal(b.raw.prepare("SELECT count(*) n FROM symptom_safety_alerts WHERE trigger_id='securite_oui'").get().n,1);
 });
 
 test('recording a theme: result « au-dessus / en dessous du repère publié », paliers, fixed sentences, delay, delete; late autosave is dropped',async()=>{
  const b=backend();b.birth('1980-01-01');const env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);await button(env.view,'J’accepte et je commence').fire('click');await flush();
- for(const [q,v] of [['phq9_1',2],['phq9_2',2],['phq9_3',2],['phq9_4',1],['phq9_5',1],['phq9_6',1],['phq9_7',1],['phq9_8',0],['phq9_9',0],['humeur_duree','non'],['humeur_perinatal','non'],['humeur_gene','nettement']])await choice(env.view.querySelector('[data-module="humeur"]'),q,String(v)).fire('click');
+ for(const [q,v] of [['phq9_1',2],['phq9_2',2],['phq9_3',2],['phq9_4',1],['phq9_5',1],['phq9_6',1],['phq9_7',1],['phq9_8',0],['phq9_9',0],['humeur_duree','non'],['humeur_perinatal','non'],['humeur_gene','nettement']])await tick(choice(env.view.querySelector('[data-module="humeur"]'),q,String(v)));
  assert.match(env.view.querySelector('[data-module="humeur"]').querySelector('.sy-module-sub').textContent,/^12 \/ 12$/);
  await button(env.view.querySelector('[data-module="humeur"]'),'Enregistrer ce thème').fire('click');await flush();
  const post=env.calls.find(c=>c.method==='POST');assert.equal(post.data.module,'humeur');assert.equal(post.data.answers.phq9_1,2);assert.equal(post.data.answers.securite_actuelle,undefined);
@@ -208,7 +212,7 @@ test('recording a theme: result « au-dessus / en dessous du repère publié »,
  env.ctx.SY.work.humeur={key:post.data.passation_key,started_at:null,answers:{phq9_1:2},prefilled:{},requested:false,dirty:1,saving:false,status:''};
  await env.ctx.sySaveDraft('humeur');assert.equal(env.ctx.SY.work.humeur,undefined);
  // Below the reference for anxiety (GAD-2 negative, GAD-7 not asked).
- await choice(env.view.querySelector('[data-module="anxiete"]'),'gad7_1','0').fire('click');await choice(env.view.querySelector('[data-module="anxiete"]'),'gad7_2','1').fire('click');
+ await tick(choice(env.view.querySelector('[data-module="anxiete"]'),'gad7_1','0'));await tick(choice(env.view.querySelector('[data-module="anxiete"]'),'gad7_2','1'));
  await button(env.view.querySelector('[data-module="anxiete"]'),'Enregistrer ce thème').fire('click');await flush();
  const below=env.view.querySelector('#sy-result-anxiete');assert.match(below.textContent,/En dessous du seuil d’entrée \(GAD-2\)/);assert.ok(below.textContent.includes(S.fixed_texts.negative_note));assert.ok(!below.textContent.includes(S.fixed_texts.what_next));
  await button(below,'Supprimer ce résultat').fire('click');await flush();
@@ -222,7 +226,7 @@ test('results of a draft resume, delete all and withdraw consent',async()=>{
  await b.handler('/api/symptomes/drafts/humeur','PUT',{passation_key:'humeur-draft-0001',content_version:S.version,instrument_versions:{phq9:S.instruments.phq9.version},answers:{phq9_1:1,securite_actuelle:'non'}});
  const env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);
  assert.equal(env.ctx.SY.work.humeur.key,'humeur-draft-0001');assert.match(env.view.querySelector('[data-module="humeur"]').querySelector('.sy-module-sub').textContent,/^1 \/ 2$/);
- assert.equal(choice(env.view,'phq9_1','1').getAttribute('aria-pressed'),'true');
+ assert.equal(choice(env.view,'phq9_1','1').checked,true);
  await button(env.view,'Supprimer tous mes résultats').fire('click');await flush();
  assert.equal(b.raw.prepare('SELECT count(*) n FROM symptom_drafts').get().n,0);
  await button(env.view,'Retirer mon accord').fire('click');await flush();assert.match(env.view.textContent,/Avant de commencer/);
@@ -258,9 +262,93 @@ test('Paramètres: « Mes symptômes » line shows verbatim the text Ambre recei
 test('« Je préfère ne pas répondre » to an official item: quiet link, sent as no answer, kept on this device after a reload',async()=>{
  const b=backend();b.birth('1980-01-01');await b.handler('/api/symptomes/consent','PUT',{consent:true});
  let env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);
- const pref=choice(env.view,'phq9_1','pref');assert.match(pref.className,/sy-pref/);assert.equal(pref.parent.className,'sy-q','outside the list of answers');
- await pref.fire('click');await choice(env.view,'phq9_2','1').fire('click');await env.runTimers();
+ const pref=choice(env.view,'phq9_1','pref');assert.equal(pref.type,'radio');assert.match(pref.parent.className,/sy-pref/);assert.equal(pref.parent.parent.className,'sy-q','outside the list of answers, in the same group');assert.equal(pref.parent.parent.tagName,'FIELDSET');
+ await tick(pref);await tick(choice(env.view,'phq9_2','1'));await env.runTimers();
  const draft=JSON.parse(b.raw.prepare("SELECT answers FROM symptom_drafts WHERE module='humeur'").get().answers);assert.equal(draft.phq9_1,undefined);assert.equal(draft.phq9_2,1);
  const storage=env.ctx.localStorage;env=environment({handler:b.handler});env.ctx.localStorage=storage;await env.ctx.renderSymptoms(env.view,()=>true);
- assert.equal(choice(env.view,'phq9_1','pref').getAttribute('aria-pressed'),'true');assert.equal(choice(env.view,'phq9_2','1').getAttribute('aria-pressed'),'true');
+ assert.equal(choice(env.view,'phq9_1','pref').checked,true);assert.equal(choice(env.view,'phq9_2','1').checked,true);
+});
+
+const adultEnv=async()=>{const b=backend();b.birth('1980-01-01');await b.handler('/api/symptomes/consent','PUT',{consent:true});const env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);return {b,env}};
+
+test('relecture: an account change or a sign-out empties the page memory and its device keys',async()=>{
+ const {env}=await adultEnv(),ctx=env.ctx;
+ await tick(choice(env.view,'securite_actuelle','oui'));assert.equal(env.doc.modals.length,1);
+ ctx.SY.overlap.humeur=true;ctx.SY.saved.humeur=true;ctx.SY.open.humeur=true;ctx.SY.redoEarly.humeur=true;
+ env.storage.set('symptomes-themes:a','["alcool"]');env.storage.set('symptomes-pref:a:k1','["phq9_1"]');env.storage.set('symptomes-themes:b','["soi"]');env.storage.set('autre','x');
+ ctx.syLeave('a');
+ for(const key of ['acknowledged','overlap','saved','open','redoEarly','work','sessionAnswers'])assert.deepEqual(Object.keys(ctx.SY[key]),[],key);
+ assert.equal(ctx.SY.sessionScreen,null);assert.equal(env.doc.getElementById('sy-safety-dialog'),null);
+ assert.deepEqual([...env.storage.keys()].sort(),['autre','symptomes-themes:b']);
+ // renderSymptoms for another account resets too.
+ ctx.SY.acknowledged['x:securite_oui']=true;ctx.state.me.user.id='b';await ctx.renderSymptoms(env.view,()=>true);assert.deepEqual(Object.keys(ctx.SY.acknowledged),[]);
+ assert.match(SYMPTOMES_INTERFACE_SCRIPT,/function syResetSession\(\)/);
+ assert.match(HTML,/state\.events=\[\];\n syResetSession\(\);\n\}/,'clearSessionState');
+ assert.equal((HTML.match(/syLeave\(leaving\)/g)||[]).length,2,'logout and account deletion');
+});
+
+test('relecture: after recording the first step, a new « oui » opens the blocking screen again',async()=>{
+ const {env}=await adultEnv();
+ await tick(choice(env.view,'securite_actuelle','oui'));assert.equal(env.doc.modals.length,1);
+ const dialog=env.doc.modals[0];await button(dialog,'Continuer').fire('click');
+ for(const id of ['humeur','anxiete']){const box=env.view.querySelector('[data-module="'+id+'"]');await tick(choice(box,id==='humeur'?'phq9_1':'gad7_1','0'));await button(env.view.querySelector('[data-module="'+id+'"]'),'Enregistrer ce thème').fire('click');await flush()}
+ await button(env.view.querySelector('[data-module="humeur"]'),'Refaire ce thème').fire('click');
+ await tick(choice(env.view,'securite_actuelle','oui'));assert.equal(env.doc.modals.length,2,'screen shown again');
+});
+
+test('relecture: a second Escape that closes the screen shows the box of resources at once',async()=>{
+ const {env}=await adultEnv();
+ await tick(choice(env.view,'securite_actuelle','oui'));const dialog=env.doc.getElementById('sy-safety-dialog');
+ assert.equal(env.view.querySelector('#sy-safety-box'),null);
+ dialog.close();await flush();
+ assert.equal(env.doc.getElementById('sy-safety-dialog'),null);assert.ok(env.view.querySelector('#sy-safety-box'));
+});
+
+test('relecture: device keys purged at « Supprimer tous mes résultats », « Retirer mon accord » and for orphan passations',async()=>{
+ const {b,env}=await adultEnv();
+ env.storage.set('symptomes-pref:a:ancienne-passation','["phq9_1"]');
+ await tick(choice(env.view,'phq9_1','pref'));await env.runTimers();
+ const key=[...env.storage.keys()].find(k=>k.startsWith('symptomes-pref:a:humeur'));assert.ok(key);
+ const reload=environment({handler:b.handler});for(const [k,v] of env.storage)reload.storage.set(k,v);await reload.ctx.renderSymptoms(reload.view,()=>true);
+ assert.ok(reload.storage.has(key));assert.ok(!reload.storage.has('symptomes-pref:a:ancienne-passation'),'orphan dropped');
+ reload.storage.set('symptomes-themes:a','["soi"]');
+ await button(reload.view,'Supprimer tous mes résultats').fire('click');await flush();
+ assert.deepEqual([...reload.storage.keys()].filter(k=>k.startsWith('symptomes-')),[]);
+ reload.storage.set('symptomes-themes:a','["soi"]');await button(reload.view,'Retirer mon accord').fire('click');await flush();
+ assert.deepEqual([...reload.storage.keys()].filter(k=>k.startsWith('symptomes-')),[]);
+});
+
+test('relecture: an unconfirmed blocking answer is retried with a growing delay; the box shows offline and without consent',async()=>{
+ const b=backend();b.birth('1980-01-01');await b.handler('/api/symptomes/consent','PUT',{consent:true});
+ let failing=3;const env=environment({handler:async(path,method,data)=>{if(method==='PUT'&&path==='/api/symptomes/drafts/humeur'&&failing>0){failing--;throw Object.assign(new Error('Réseau indisponible'),{status:0})}return b.handler(path,method,data)}});
+ await env.ctx.renderSymptoms(env.view,()=>true);
+ await tick(choice(env.view,'securite_actuelle','oui'));env.delays.length=0;
+ for(let i=0;i<12&&env.timers.length;i++){const fn=env.timers.shift();await fn();await flush()}
+ assert.deepEqual(env.delays.filter(ms=>ms>=1000),[2000,4000,8000]);
+ assert.equal(b.raw.prepare("SELECT count(*) n FROM symptom_safety_alerts WHERE trigger_id='securite_oui'").get().n,1,'recorded on the fourth try');
+ // Offline afterwards: the resources of this session stay on screen.
+ const offline=env.ctx;offline.api=async()=>{throw new Error('Hors ligne.')};await offline.renderSymptoms(env.view,()=>true);
+ assert.ok(env.view.querySelector('#sy-safety-box'));assert.match(env.view.textContent,/Hors ligne/);
+ // Without consent, the 14-day banner stays above the consent card.
+ await b.handler('/api/symptomes/consent','PUT',{consent:false});const again=environment({handler:b.handler});await again.ctx.renderSymptoms(again.view,()=>true);
+ assert.ok(again.view.querySelector('#sy-safety-box'));assert.match(again.view.textContent,/Avant de commencer/);
+});
+
+test('relecture: « Ne pas faire ce thème » keeps one key across a retry and never posts twice at once',async()=>{
+ const b=backend();b.birth('1980-01-01');await b.handler('/api/symptomes/consent','PUT',{consent:true});
+ let fail=true;const env=environment({handler:async(path,method,data)=>{if(method==='POST'&&fail){fail=false;throw Object.assign(new Error('Erreur temporaire'),{status:503})}return b.handler(path,method,data)}});
+ await env.ctx.renderSymptoms(env.view,()=>true);env.ctx.syChosen().soi=true;env.ctx.syRender();
+ await button(env.view.querySelector('[data-module="soi"]'),'Ne pas faire ce thème').fire('click');await flush();
+ const first=env.calls.filter(c=>c.method==='POST')[0].data.passation_key;
+ const second=env.ctx.syComplete('soi',true),third=env.ctx.syComplete('soi',true);await second;await third;
+ const posts=env.calls.filter(c=>c.method==='POST');assert.equal(posts.length,2,'the concurrent call is dropped');assert.equal(posts[1].data.passation_key,first);
+ assert.equal(b.raw.prepare("SELECT count(*) n FROM symptom_checks WHERE module='soi'").get().n,1);
+});
+
+test('relecture: answers are real radio buttons in a fieldset with its legend',async()=>{
+ const {env}=await adultEnv();const row=env.view.querySelector('[data-q="phq9_1"]');
+ assert.equal(row.tagName,'FIELDSET');assert.equal(row.children[0].tagName,'LEGEND');
+ const radios=row.querySelectorAll('input');assert.ok(radios.length>=5&&radios.every(r=>r.type==='radio'&&r.name===radios[0].name));
+ assert.equal(env.doc.getElementById('sy-live')?.getAttribute('aria-live')??'polite','polite');
+ assert.doesNotMatch(SYMPTOMES_INTERFACE_SCRIPT,/status\.setAttribute\('aria-live'/);
 });

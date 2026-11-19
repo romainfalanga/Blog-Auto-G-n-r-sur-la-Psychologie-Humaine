@@ -64,7 +64,7 @@ const LATEST_CHECKS='SELECT c.* FROM symptom_checks c WHERE c.user_id=? AND c.id
 const turnSeconds=value=>{const t=Date.parse(String(value||'').replace(' ','T')+(/[zZ]|[+-]\d\d:?\d\d$/.test(String(value||''))?'':'Z'));return Number.isFinite(t)?Math.floor(t/1000):null};
 export async function symptomsForAmbre(env,userId,t){
  if(!await symptomsReady(env))return null;
- const consent=await env.DB.prepare('SELECT consent FROM symptom_consents WHERE user_id=?').bind(userId).first();
+ const consent=await env.DB.prepare('SELECT consent,granted_at FROM symptom_consents WHERE user_id=?').bind(userId).first();
  if(consent?.consent!==1)return null;
  if(ageGate(await birthDate(env,userId),today(t),SYMPTOMES).status!=='adulte')return null;
  const checks=(await env.DB.prepare(LATEST_CHECKS).bind(userId).all()).results.map(checkView);
@@ -75,7 +75,8 @@ export async function symptomsForAmbre(env,userId,t){
  let safety=null;
  if(alerts.some(a=>a.created_at>t-window&&a.created_at<=t)){
   const turns=(await env.DB.prepare("SELECT created_at FROM chat_turns WHERE user_id=? AND status='completed' AND purged=0 AND idempotency_key NOT LIKE 'review-%' AND created_at>=datetime(?,'unixepoch') ORDER BY rowid DESC LIMIT 500").bind(userId,t-3*window).all()).results.map(r=>turnSeconds(r.created_at)).filter(Number.isFinite);
-  safety=symptomsSafetyState(alerts,turns,t);
+  // A turn counts as the question asked only if it was completed with the consent active.
+  safety=symptomsSafetyState(alerts,turns,t,{grantedAt:consent.granted_at??null});
  }
  const block=renderSymptomsBlock({checks,crossing,safety,now:t,data:SYMPTOMES});
  return block?{block,safety:safety?{...safetyPayload(safety),reported_at:safety.reported_at}:null}:null;

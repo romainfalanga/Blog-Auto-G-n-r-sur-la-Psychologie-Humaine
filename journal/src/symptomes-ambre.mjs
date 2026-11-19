@@ -10,22 +10,38 @@ const DAY=86400;
 
 // A label that still names a disorder is dropped rather than sent; parentheses (« (alexithymie) »,
 // « (insomnie, cauchemars) ») are removed first.
-export const DISORDER_NAME=/\b(?:troubles?|d[ée]pressions?|tspt|tspt-c|stress post-?traumatique|bipolaires?|borderline|schizo\w*|anorexie|boulimie|hyperphagie|agoraphobie|phobies?|hypocondrie|dysthymie|d[ée]pendances?|addictions?|insomnie|toc|psychoses?|alexithymie|tdah|autisme)\b/i;
+export const DISORDER_NAME=/\b(?:usages? probl[ée]matiques?|tabagisme|dissociati\w*|troubles?|d[ée]pressions?|tspt|tspt-c|stress post-?traumatique|bipolaires?|borderline|schizo\w*|anorexie|boulimie|hyperphagie|agoraphobie|phobies?|hypocondrie|dysthymie|d[ée]pendances?|addictions?|insomnie|toc|psychoses?|alexithymie|tdah|autisme)\b/i;
+// Only a parenthesis after a space is removed: « séparé(e) » keeps its inclusive ending intact.
 export function descriptiveLabel(label){
- const text=String(label||'').replace(/\s*\([^)]*\)/g,'').replace(/\s+/g,' ').trim();
+ const text=String(label||'').replace(/\s+\([^)]*\)/g,'').replace(/\s+/g,' ').trim();
  return text&&!DISORDER_NAME.test(text)?text:null;
 }
 const PARIS_DAY=new Intl.DateTimeFormat('fr-FR',{timeZone:'Europe/Paris',day:'numeric',month:'long',year:'numeric'});
 export const frenchDate=seconds=>PARIS_DAY.format(new Date(Number(seconds)*1000));
 
+// Descriptive wording for the crossing subjects whose label still reads as a diagnosis or a
+// judgement (« usage problématique », « tabagisme », « symptômes dissociatifs »).
+export const SUBJECT_WORDS={
+ ten_usage_cannabis:'Consommation de cannabis difficile à réguler',
+ ten_usage_substances:'Consommation d’alcool, de tabac ou d’autres produits difficile à réguler',
+ ten_tabagisme_persistant:'Tabac fumé chaque jour depuis longtemps',
+ ten_ecrans:'Écrans, internet ou jeux vidéo difficiles à limiter',
+ ten_dissociation:'Sentiment de détachement, trous de mémoire',
+ ten_impulsivite:'Agir sur un coup de tête',
+ ten_alexithymie:'Difficulté à identifier et exprimer ses émotions',
+ ten_sommeil:'Difficultés de sommeil'
+};
+export const subjectLabel=subject=>descriptiveLabel(SUBJECT_WORDS[subject?.id]||subject?.label);
 const STATE_WORDS={au_dessus:'au-dessus du repère publié'};
 const KIND_WORDS={suicide:'réponse positive à la question de sécurité (idées de mort ou de se faire du mal)',automutilation:'réponse signalant des gestes pour se faire du mal',violences:'réponse signalant des violences subies'};
 
 // Safety antecedent: the latest blocking alert of the last 14 days and whether Ambre asks the
-// direct safety question now. Ambre asks at most once per 14 days: a completed conversation turn
+// direct safety question now. Only turns completed while the « Mes symptômes » consent was active
+// count (the caller filters them with grantedAt). Ambre asks at most once per 14 days: a completed conversation turn
 // published while an alert was under 14 days old counts as the question asked (the published
 // reply always carries it, see ensureSymptomsSafetyQuestion).
-export function symptomsSafetyState(alerts,turnTimes,now){
+export function symptomsSafetyState(alerts,turnTimes,now,{grantedAt=null}={}){
+ if(Number.isFinite(grantedAt))turnTimes=(turnTimes||[]).filter(t=>t>=grantedAt);
  const window=SYMPTOMS_SAFETY_DAYS*DAY,list=(alerts||[]).filter(a=>Number.isFinite(a?.created_at)&&a.created_at<=now);
  const recent=list.filter(a=>a.created_at>now-window);if(!recent.length)return null;
  let asked=-Infinity;
@@ -42,7 +58,7 @@ export function symptomsSafetyState(alerts,turnTimes,now){
 // completed_at}); crossing: crossWithChildhood(...) or null; safety: symptomsSafetyState(...).
 export function renderSymptomsBlock({checks=[],crossing=null,safety=null,now,data,max=SYMPTOMS_BLOCK_MAX}){
  const order=new Map((data?.modules||[]).map(m=>[m.id,m]));
- const themes=[];
+ const themes=[],reperes=[];
  for(const c of [...checks].filter(c=>c&&order.has(c.module)).sort((a,b)=>order.get(a.module).order-order.get(b.module).order)){
   if(!['au_dessus','repere_present'].includes(c.state))continue;
   const label=descriptiveLabel(order.get(c.module).label);if(!label)continue;
@@ -56,15 +72,17 @@ export function renderSymptomsBlock({checks=[],crossing=null,safety=null,now,dat
    words=(n>=2?'plusieurs repères présents':'repère présent')+(site?' (façon de fonctionner décrite par le site, non validée)':' (repère non validé)');
   }
   const old=Number.isFinite(c.completed_at)&&now-c.completed_at>SYMPTOMS_OLD_DAYS*DAY;
-  themes.push('- '+label+' : '+words+' ; résultat du '+frenchDate(c.completed_at)+(old?' (ancien : plus de 90 jours, à revérifier avec la personne)':'')+'.');
+  (c.state==='au_dessus'?themes:reperes).push('- '+label+' : '+words+' ; résultat du '+frenchDate(c.completed_at)+(old?' (ancien : plus de 90 jours, à revérifier avec la personne)':'')+'.');
  }
- const both=(crossing?.lists?.deux||[]).map(s=>descriptiveLabel(s.label)).filter(Boolean);
+ const both=(crossing?.lists?.deux||[]).map(subjectLabel).filter(Boolean);
  const safetyLine=safety?'Sécurité : '+safety.kinds.map(k=>KIND_WORDS[k]).join(' ; ')+' dans « Mes symptômes », le '+frenchDate(safety.reported_at)+' (moins de 14 jours).':'';
- if(!themes.length&&!both.length&&!safetyLine)return null;
+ if(!themes.length&&!reperes.length&&!both.length&&!safetyLine)return null;
  const head='« Mes symptômes » : questionnaires de repérage remplis par la personne ; hypothèses à explorer, jamais un diagnostic.';
  const crossHead='Présents dans les deux questionnaires (Mon enfance et Mes symptômes ; un rapprochement, jamais une cause) : ';
- const build=(lines,cross,omitted)=>[head,...(safetyLine?[safetyLine]:[]),...(lines.length?['Thèmes au-dessus du repère :',...lines]:[]),...(omitted?['- et '+omitted+' autre'+(omitted>1?'s':'')+' thème'+(omitted>1?'s':'')+' au-dessus du repère, non détaillé'+(omitted>1?'s':'')+'.']:[]),...(cross.length?[crossHead+cross.join(' ; ')+(cross.length<both.length?' ; …':'')+'.']:[])].join('\n');
- let lines=themes.slice(),cross=both.slice(),omitted=0,text=build(lines,cross,omitted);
+ // Two lists, never mixed: a published reference reached (validated questionnaire), then the
+ // unvalidated repères written by the site from the ICD-11.
+ const build=(lines,cross,omitted)=>{const above=lines.filter(l=>l.kind==='above').map(l=>l.text),site=lines.filter(l=>l.kind==='repere').map(l=>l.text);return [head,...(safetyLine?[safetyLine]:[]),...(above.length?['Thèmes au-dessus du repère publié d’un questionnaire validé :',...above]:[]),...(site.length?['Repères présents (repères non validés, rédigés par le site) :',...site]:[]),...(omitted?['- et '+omitted+' autre'+(omitted>1?'s':'')+' thème'+(omitted>1?'s':'')+' signalé'+(omitted>1?'s':'')+', non détaillé'+(omitted>1?'s':'')+'.']:[]),...(cross.length?[crossHead+cross.join(' ; ')+(cross.length<both.length?' ; …':'')+'.']:[])].join('\n')};
+ let lines=[...themes.map(text=>({kind:'above',text})),...reperes.map(text=>({kind:'repere',text}))],cross=both.slice(),omitted=0,text=build(lines,cross,omitted);
  // The crossing shortens first (down to three subjects), then the last themes, then the crossing.
  while(text.length>max&&cross.length>3){cross.pop();text=build(lines,cross,omitted)}
  while(text.length>max&&lines.length>1){lines.pop();omitted++;text=build(lines,cross,omitted)}

@@ -4,7 +4,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {SYMPTOMES} from '../src/symptomes-data.generated.mjs';
 import {computeModuleResult} from '../src/symptomes-engine.mjs';
-import {renderSymptomsBlock,symptomsSafetyState,ensureSymptomsSafetyQuestion,descriptiveLabel,DISORDER_NAME,SYMPTOMS_BLOCK_MAX,SYMPTOMS_RULES} from '../src/symptomes-ambre.mjs';
+import {renderSymptomsBlock,symptomsSafetyState,ensureSymptomsSafetyQuestion,descriptiveLabel,subjectLabel,SUBJECT_WORDS,DISORDER_NAME,SYMPTOMS_BLOCK_MAX,SYMPTOMS_RULES} from '../src/symptomes-ambre.mjs';
 import {symptomsForAmbre,createSymptomsBackend} from '../src/symptomes-backend.mjs';
 import {reviewSafetySignal} from '../src/review-digest.mjs';
 import {replayTurn,replayReview,MESSAGES} from './v5-A-helper.mjs';
@@ -54,7 +54,7 @@ test('block: at most 1 200 characters with every module above the reference and 
  const deux=Object.keys(SYMPTOMES.subject_modules).map(id=>({id,label:'Sujet assez long pour remplir la liste '+id}));
  const block=renderSymptomsBlock({checks,crossing:{lists:{deux}},safety:{reported_at:now-DAY,kinds:['automutilation','suicide','violences'],ask_now:true},now,data:SYMPTOMES});
  assert.ok(block.length<=SYMPTOMS_BLOCK_MAX,String(block.length));
- assert.match(block,/^« Mes symptômes » :/);assert.match(block,/Sécurité : .*moins de 14 jours/);assert.match(block,/autres thèmes au-dessus du repère, non détaillés/);
+ assert.match(block,/^« Mes symptômes » :/);assert.match(block,/Sécurité : .*moins de 14 jours/);assert.match(block,/autres thèmes signalés, non détaillés/);
  assert.doesNotMatch(block,DISORDER_NAME);
 });
 
@@ -135,4 +135,25 @@ for(const kind of ['initial','point'])test(`review budget with a full « Mes sym
  assert.ok(run.data.symptoms.length>1000);assert.deepEqual(run.data.symptoms_safety,{kinds:['suicide']});assert.ok(run.system.includes(SYMPTOMS_RULES));
  assert.doesNotMatch(run.user,/phq9_\d/);assert.equal(reviewSafetySignal(run.data),'self_harm');
  assert.ok(run.tokens<=REFERENCE.review[kind]*1.1,`${run.tokens} > ${REFERENCE.review[kind]}*1.1`);
+});
+
+test('relecture: published reference and unvalidated repères are two lists; « séparé(e) » intact; descriptive subject labels',()=>{
+ const now=1794830400,humeur=computeModuleResult('humeur',{...PHQ9},SYMPTOMES);
+ const separation=SYMPTOMES.modules.find(m=>m.id==='separation'),sommeil=SYMPTOMES.modules.find(m=>m.id==='sommeil');
+ const checks=[{module:'humeur',state:'au_dessus',result:humeur,completed_at:now-DAY},{module:'separation',state:'repere_present',result:fullResult(separation),completed_at:now-DAY},{module:'sommeil',state:'repere_present',result:fullResult(sommeil),completed_at:now-DAY}];
+ const block=renderSymptomsBlock({checks,crossing:{lists:{deux:[{id:'ten_usage_cannabis',label:'Usage problématique du cannabis'},{id:'ten_tabagisme_persistant',label:'Tabagisme quotidien persistant'},{id:'icd_6b05',label:'Peur intense d’être séparé(e) de ses proches'}]}},now,data:SYMPTOMES});
+ const [published,site]=['Thèmes au-dessus du repère publié d’un questionnaire validé :','Repères présents (repères non validés, rédigés par le site) :'].map(h=>block.indexOf(h));
+ assert.ok(published>0&&site>published,block);
+ assert.ok(block.indexOf('Humeur basse')>published&&block.indexOf('Humeur basse')<site);assert.ok(block.indexOf('Peur d’être séparé(e) de ses proches')>site,block);
+ assert.match(block,/Consommation de cannabis difficile à réguler ; Tabac fumé chaque jour depuis longtemps ; Peur intense d’être séparé\(e\) de ses proches\./);
+ assert.doesNotMatch(block,DISORDER_NAME);assert.match('Usage problématique du cannabis',DISORDER_NAME);assert.match('Tabagisme quotidien',DISORDER_NAME);
+ assert.equal(descriptiveLabel('Peur d’être séparé(e) de ses proches'),'Peur d’être séparé(e) de ses proches');
+ for(const id of Object.keys(SUBJECT_WORDS))assert.ok(subjectLabel({id,label:'x'}),id);
+});
+
+test('relecture: the 14-day question counts only turns completed while the consent was active',()=>{
+ const now=1794830400,alert={created_at:now-5*DAY,kind:'suicide'};
+ assert.equal(symptomsSafetyState([alert],[now-2*DAY],now).ask_now,false);
+ assert.equal(symptomsSafetyState([alert],[now-2*DAY],now,{grantedAt:now-DAY}).ask_now,true,'a turn before the consent did not ask');
+ assert.equal(symptomsSafetyState([alert],[now-2*DAY],now,{grantedAt:now-3*DAY}).ask_now,false);
 });
