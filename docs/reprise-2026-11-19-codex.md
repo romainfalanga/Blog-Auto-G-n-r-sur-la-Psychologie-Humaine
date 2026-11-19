@@ -1,5 +1,9 @@
 # Reprise du 19 novembre 2026 (passage à Codex)
 
+> **Chantier terminé et publié le 19 novembre 2026.** Les PR 105 et 106 remplacent la v1 par Mes symptômes v2 ; les migrations 0029 et 0030 sont appliquées et inscrites. Lire désormais [la livraison v2](livraison-symptomes-v2-2026-11-19.md) pour l’état exact, les preuves et les décisions restantes. Le texte ci-dessous conserve l’état historique au démarrage : ses mentions « à faire », « non fait » et « v1 en ligne » ne décrivent plus la production. Ne pas rejouer les migrations.
+
+## État historique avant reprise
+
 État vérifié au commit qui ajoute ce fichier, branche `claude/affectionate-wright-eq5kgo` (publiée par la PR 104 : Worker redéployé avec `placement: smart` et le lot vitesse partiel ; banque v2 présente mais non branchée).
 Tests sur la branche : `npm --prefix journal test` 941/941 ; `node --test tests/*.test.cjs` 57/57 avec Hugo 0.140.
 
