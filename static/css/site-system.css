@@ -128,10 +128,17 @@ img { max-width: 100%; height: auto; }
   .site-header .nav-links a[aria-current="page"] { box-shadow: inset 2px 0 0 var(--accent); }
 }
 
-/* Footer: the site name, nothing else, below a hairline that closes the page. */
+/* A page that takes time to prepare: a thin bar under the header (set by the personal space while it waits). */
+html.is-navigating .site-header::after { content: ''; position: absolute; left: 0; bottom: -1px; width: 0; height: 2px; background: var(--accent); animation: navigating 1.2s ease-in-out infinite; }
+html.is-navigating, html.is-navigating * { cursor: progress; }
+@keyframes navigating { 0% { left: 0; width: 0; } 50% { left: 0; width: 100%; } 100% { left: 100%; width: 0; } }
+@media (prefers-reduced-motion: reduce) { html.is-navigating .site-header::after { width: 100%; opacity: .5; } }
+
+/* Footer: the site name (to Ambre) and the public catalogue, below a hairline that closes the page. */
 .site-footer { flex: none; padding-block: var(--s4); border-top: 1px solid var(--line); }
-.site-footer .site-logo { display: inline-flex; align-items: center; min-height: 44px; color: var(--muted); font: 400 var(--t-sm)/1.45 var(--font-ui); text-decoration: none; }
-.site-footer .site-logo:hover { text-decoration: underline; }
+.footer-minimal { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0 var(--s5); }
+.site-footer :where(.site-logo, .footer-link) { display: inline-flex; align-items: center; min-height: 44px; color: var(--muted); font: 400 var(--t-sm)/1.45 var(--font-ui); text-decoration: none; }
+.site-footer :where(.site-logo, .footer-link):hover { text-decoration: underline; }
 
 /* Buttons: primary by default, then secondary, text, and red for deletion only. */
 :where(button, .button) {
@@ -154,6 +161,12 @@ img { max-width: 100%; height: auto; }
 }
 @media (hover: hover) { :where(button, .button):hover { background: color-mix(in srgb, var(--accent) 86%, #000); } }
 :where(button, .button):disabled { opacity: .55; cursor: not-allowed; }
+/* Pressed: an immediate, quiet answer to a tap or a click (no tinted browser flash). */
+:where(button, .button):not(:disabled):active { transform: scale(.98); }
+:where(button, .button):where(:not(.secondary, .carto-btn, .carto-fb, .text, .text-link, .carto-btn-quiet, .carto-see, .carto-note-add, .carto-detail, .carto-scope-link, .carto-ambre-remove, .close, .carto-dialog-close, .danger)):not(:disabled):active { background: color-mix(in srgb, var(--accent) 80%, #000); }
+:where(button, .button):where(.secondary, .carto-btn, .carto-fb, .close, .carto-dialog-close):not(:disabled):active { background: var(--accent-wash); }
+:where(button, .button, a):where(.text, .text-link, .carto-btn-quiet, .carto-see, .carto-note-add, .carto-detail, .carto-scope-link, .carto-ambre-remove):active { opacity: .65; transform: none; }
+@media (prefers-reduced-motion: no-preference) { :where(button, .button) { transition: background-color .12s, color .12s, border-color .12s, transform .08s, opacity .12s; } }
 :where(button, .button):where(.secondary, .carto-btn, .carto-fb) { border-color: var(--line-strong); background: var(--surface); color: var(--ink); }
 @media (hover: hover) { :where(button, .button):where(.secondary, .carto-btn, .carto-fb):hover { background: var(--accent-wash); } }
 :where(button, .button, a):where(.text, .text-link, .carto-btn-quiet, .carto-see, .carto-note-add, .carto-detail, .carto-scope-link, .carto-ambre-remove) {

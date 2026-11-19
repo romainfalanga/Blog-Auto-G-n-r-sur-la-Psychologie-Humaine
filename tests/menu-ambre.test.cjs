@@ -27,8 +27,28 @@ test('the Ambre bubble is removed from the public site: no asset, no loader, no 
   const config = read('netlify.toml');
   assert.doesNotMatch(config, /bulle/);
   assert.match(config, /X-Frame-Options = "DENY"/);
-  // The home page stays public: Ambre is reached from the menu, never by a redirect of "/".
-  assert.ok(!config.split('[[redirects]]').slice(1).some(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block)));
+});
+
+test('opening the site lands on Ambre: "/" redirects (302) to /mon-accompagnement/, the catalogue stays at /personnages/', () => {
+  const config = read('netlify.toml');
+  const blocks = config.split(/\n(?=\[\[)/).filter(block => block.startsWith('[[redirects]]'));
+  const home = blocks.filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
+  assert.equal(home.length, 1);
+  // Temporary, and forced: Hugo still builds an index.html at "/", which Netlify would otherwise serve.
+  assert.match(home[0], /to = "\/mon-accompagnement\/"\s+status = 302\s+force = true/);
+  // The proxied Ambre page itself is never redirected back to "/", and nothing redirects the catalogue.
+  for (const from of ['/mon-accompagnement', '/mon-accompagnement/*']) assert.doesNotMatch(blocks.find(block => block.includes('from = "' + from + '"')), /to = "\/"/);
+  assert.ok(!blocks.some(block => /from\s*=\s*"\/personnages\/?"\s*$/m.test(block)));
+  assert.match(read('layouts/personnages/list.html'), /character-directory/);
+  // The logo and the footer lead straight to Ambre (no redirect hop); the footer keeps a link to the catalogue.
+  assert.match(read('layouts/partials/header-brand.html'), /^<a href="\/mon-accompagnement\/" class="site-logo"/);
+  const footer = read('layouts/partials/footer.html');
+  assert.match(footer, /href="\/mon-accompagnement\/" class="site-logo"/);
+  assert.match(footer, /href="\/personnages\/"[^>]*>Personnages</);
+  // No internal link of the site or of the personal space points at "/" any more.
+  for (const file of ['layouts/partials/header-brand.html', 'layouts/partials/footer.html', 'layouts/partials/breadcrumb.html', 'journal/src/ui.mjs', 'journal/src/navigation.generated.mjs']) {
+    assert.doesNotMatch(read(file), /href=\\?"\/\\?"|\.href='\/'/, file);
+  }
 });
 
 test('Netlify proxies the list of close people and every person page to the Worker, without caching', () => {

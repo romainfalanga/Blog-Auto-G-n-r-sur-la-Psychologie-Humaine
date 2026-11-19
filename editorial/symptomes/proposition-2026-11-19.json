@@ -1,0 +1,1159 @@
+{
+ "schema_version": 1,
+ "status": "proposition non publiée — 19 novembre 2026",
+ "report": "docs/recherche-mes-symptomes-2026-11-19.md",
+ "rules": [
+  "repères, jamais diagnostic",
+  "aucun texte d'item d'instrument dans ce fichier : text=null et text_source pointe le document officiel",
+  "les repères du site sont marqués repere_non_valide",
+  "aucun lien vécu → sujet créé ; correspondances = rapprochement d'affichage",
+  "un sujet marqué non dans Mon enfance n'est jamais présenté comme convergent"
+ ],
+ "scales": {
+  "non_oui_nsp": [
+   "Non",
+   "Oui",
+   "Je ne sais pas"
+  ],
+  "non_oui_pref": [
+   "Non",
+   "Oui",
+   "Je préfère ne pas répondre"
+  ],
+  "non_une_plusieurs": [
+   "Non",
+   "Une fois",
+   "Plusieurs fois"
+  ],
+  "non_un_peu_nettement": [
+   "Non",
+   "Un peu",
+   "Nettement"
+  ],
+  "phq_0_3": "officielle",
+  "itq_0_4": "officielle",
+  "pcl_0_4": "officielle"
+ },
+ "safety": {
+  "universal_question": {
+   "id": "securite_actuelle",
+   "text": "En ce moment ou ces derniers jours, avez-vous des idées de suicide ou de vous faire du mal ?",
+   "scale": "non_oui_pref",
+   "period": "ces derniers jours",
+   "validated": false,
+   "label": "repere_non_valide",
+   "basis": {
+    "source": "site",
+    "code": "—"
+   },
+   "role": "securite",
+   "scored": false
+  },
+  "triggers": [
+   "securite_actuelle = Oui",
+   "PHQ-9 #9 > 0",
+   "automutilation actuelle = Oui",
+   "violences subies actuellement = Oui"
+  ],
+  "soft_trigger": "securite_actuelle = Je préfère ne pas répondre",
+  "resources": [
+   {
+    "number": "15",
+    "label": "SAMU, urgence médicale"
+   },
+   {
+    "number": "112",
+    "label": "urgences, depuis tout téléphone"
+   },
+   {
+    "number": "3114",
+    "label": "prévention du suicide, 24 h/24, 7 j/7"
+   },
+   {
+    "number": "114",
+    "label": "urgences par SMS"
+   },
+   {
+    "number": "17",
+    "label": "police"
+   },
+   {
+    "number": "3919",
+    "label": "violences faites aux femmes"
+   },
+   {
+    "number": "119",
+    "label": "enfance en danger"
+   }
+  ],
+  "display": {
+   "blocking_screen": true,
+   "results_banner_days": 14,
+   "risk_score": false
+  },
+  "ambre": {
+   "field": "safety.reported_at",
+   "treatment": "antécédent récent : vigilance et une question directe ; jamais transmis à la vérification de risque"
+  }
+ },
+ "sources": {
+  "kroenke2001": {
+   "type": "etude",
+   "citation": "Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med 2001.",
+   "pmid": "11556941",
+   "url": "https://europepmc.org/article/MED/11556941",
+   "read": "resume"
+  },
+  "kroenke2003": {
+   "type": "etude",
+   "citation": "Kroenke K, Spitzer RL, Williams JB. The Patient Health Questionnaire-2: validity of a two-item depression screener. Med Care 2003.",
+   "pmid": "14583691",
+   "url": "https://europepmc.org/article/MED/14583691",
+   "read": "resume"
+  },
+  "kroenke2002": {
+   "type": "etude",
+   "citation": "Kroenke K, Spitzer RL, Williams JB. The PHQ-15: validity of a new measure for evaluating the severity of somatic symptoms. Psychosom Med 2002.",
+   "pmid": "11914441",
+   "url": "https://europepmc.org/article/MED/11914441",
+   "read": "resume"
+  },
+  "spitzer2006": {
+   "type": "etude",
+   "citation": "Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med 2006.",
+   "pmid": "16717171",
+   "url": "https://europepmc.org/article/MED/16717171",
+   "read": "resume"
+  },
+  "phqscreeners": {
+   "type": "licence",
+   "citation": "Pfizer, PHQ Screeners, page de téléchargement",
+   "url": "https://www.phqscreeners.com/select-screener",
+   "read": "lu"
+  },
+  "itq_global": {
+   "type": "licence",
+   "citation": "International Trauma Consortium, Trauma Measures Global",
+   "url": "https://www.traumameasuresglobal.com/",
+   "read": "lu"
+  },
+  "itq_fr_cn2r": {
+   "type": "instrument",
+   "citation": "ITQ, version française, Cloitre et al. ©2018 ; traduction et validation Peraud et al. 2022 ; diffusion Cn2r",
+   "url": "https://cn2r.fr/wp-content/uploads/2025/04/ITQ_VF_Cn2r.pdf",
+   "read": "notice_seulement"
+  },
+  "peraud2022": {
+   "type": "etude",
+   "citation": "Peraud W et al. Validation française de l'International Trauma Questionnaire. Eur J Psychotraumatol 2022.",
+   "doi": "10.1080/20008066.2022.2152109",
+   "url": "https://doi.org/10.1080/20008066.2022.2152109",
+   "read": "resume"
+  },
+  "pcl5_va": {
+   "type": "licence",
+   "citation": "National Center for PTSD, PTSD Checklist for DSM-5 (PCL-5)",
+   "url": "https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp",
+   "read": "lu"
+  },
+  "ashbaugh2016": {
+   "type": "etude",
+   "citation": "Ashbaugh AR et al. Psychometric validation of the English and French versions of the PCL-5. PLoS One 2016.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5056703/",
+   "read": "resume"
+  },
+  "icd11_licence": {
+   "type": "licence",
+   "citation": "OMS, ICD-11 License (CC BY-ND 3.0 IGO)",
+   "url": "https://icd.who.int/docs/icd-api/license",
+   "read": "lu"
+  },
+  "cddr2024": {
+   "type": "classification",
+   "citation": "OMS. Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR). Genève, 2024. ISBN 978-92-4-007726-3.",
+   "url": "https://www.who.int/publications-detail-redirect/9789240077263",
+   "read": "fiche_seulement",
+   "note": "licence affichée CC BY-NC-ND 3.0 IGO, lien vers BY-NC-SA : à vérifier dans le PDF"
+  }
+ },
+ "licences": {
+  "phq_gad": {
+   "status": "retenu",
+   "holder": "Pfizer (PHQ, GAD-7)",
+   "quote": "no permission is required to reproduce, translate, display or distribute them",
+   "source": "phqscreeners",
+   "conditions": [
+    "texte officiel français à l'identique",
+    "mention de copyright imprimée sur le formulaire officiel conservée",
+    "pas de modification des items"
+   ]
+  },
+  "itq": {
+   "status": "retenu",
+   "holder": "Cloitre et al. 2018",
+   "quote": "The ITQ is freely available in the public domain to all interested parties.",
+   "source": "itq_global",
+   "conditions": [
+    "citer Cloitre et al. 2018 et Peraud et al. 2022",
+    "version adulte uniquement"
+   ]
+  },
+  "pcl5": {
+   "status": "retenu",
+   "holder": "domaine public (VA)",
+   "quote": "is in the public domain and not copyrighted",
+   "source": "pcl5_va",
+   "conditions": [
+    "usage visé : professionnels et chercheurs (recommandation APA) : préciser qu'aucun professionnel n'évalue"
+   ]
+  },
+  "cddr": {
+   "status": "paraphrase_seulement",
+   "holder": "OMS",
+   "source": "cddr2024",
+   "conditions": [
+    "paraphrase courte, pas de traduction suivie",
+    "citation CDDR",
+    "usage non commercial"
+   ]
+  }
+ },
+ "instruments": {
+  "phq9": {
+   "name": "PHQ-9",
+   "measures": "intensité des symptômes dépressifs",
+   "items_count": 9,
+   "period": "2 dernières semaines",
+   "period_days": 14,
+   "scale": {
+    "id": "phq_0_3",
+    "values": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "labels": "libellés officiels français à importer"
+   },
+   "items": [
+    {
+     "ref": "PHQ-9 #1",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #2",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #3",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #4",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #5",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #6",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #7",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #8",
+     "text": null
+    },
+    {
+     "ref": "PHQ-9 #9",
+     "text": null
+    }
+   ],
+   "text_source": "PDF français officiel téléchargé depuis phqscreeners.com, archivé avec empreinte SHA-256",
+   "scoring": {
+    "type": "somme",
+    "min": 0,
+    "max": 27,
+    "missing": "pas de score si un item manque"
+   },
+   "thresholds": [
+    {
+     "min": 5,
+     "label": "léger"
+    },
+    {
+     "min": 10,
+     "label": "modéré",
+     "screening": true
+    },
+    {
+     "min": 15,
+     "label": "modérément sévère"
+    },
+    {
+     "min": 20,
+     "label": "sévère"
+    }
+   ],
+   "thresholds_source": "kroenke2001",
+   "safety_items": [
+    {
+     "ref": "PHQ-9 #9",
+     "rule": "valeur > 0",
+     "action": "parcours_securite"
+    }
+   ],
+   "licence": "phq_gad",
+   "french_validation": {
+    "status": "lacune",
+    "note": "équivalence anglais/français du score total au Canada (PMID 23251676, résumé) ; pas de validation en population générale française ouverte ici"
+   },
+   "status": "retenu"
+  },
+  "phq2": {
+   "name": "PHQ-2",
+   "derived_from": "phq9",
+   "items": [
+    "PHQ-9 #1",
+    "PHQ-9 #2"
+   ],
+   "period": "2 dernières semaines",
+   "scoring": {
+    "type": "somme",
+    "min": 0,
+    "max": 6
+   },
+   "thresholds": [
+    {
+     "min": 3,
+     "label": "entrée positive"
+    }
+   ],
+   "thresholds_source": "kroenke2003",
+   "licence": "phq_gad",
+   "status": "retenu"
+  },
+  "itq": {
+   "name": "International Trauma Questionnaire",
+   "measures": "symptômes de TSPT et de TSPT complexe selon la CIM-11",
+   "items_count": 18,
+   "period": "dernier mois",
+   "period_days": 30,
+   "scale": {
+    "id": "itq_0_4",
+    "values": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "labels": "libellés de la version française Cn2r"
+   },
+   "items": [
+    {
+     "ref": "ITQ #1",
+     "text": null
+    },
+    {
+     "ref": "ITQ #2",
+     "text": null
+    },
+    {
+     "ref": "ITQ #3",
+     "text": null
+    },
+    {
+     "ref": "ITQ #4",
+     "text": null
+    },
+    {
+     "ref": "ITQ #5",
+     "text": null
+    },
+    {
+     "ref": "ITQ #6",
+     "text": null
+    },
+    {
+     "ref": "ITQ #7",
+     "text": null
+    },
+    {
+     "ref": "ITQ #8",
+     "text": null
+    },
+    {
+     "ref": "ITQ #9",
+     "text": null
+    },
+    {
+     "ref": "ITQ #10",
+     "text": null
+    },
+    {
+     "ref": "ITQ #11",
+     "text": null
+    },
+    {
+     "ref": "ITQ #12",
+     "text": null
+    },
+    {
+     "ref": "ITQ #13",
+     "text": null
+    },
+    {
+     "ref": "ITQ #14",
+     "text": null
+    },
+    {
+     "ref": "ITQ #15",
+     "text": null
+    },
+    {
+     "ref": "ITQ #16",
+     "text": null
+    },
+    {
+     "ref": "ITQ #17",
+     "text": null
+    },
+    {
+     "ref": "ITQ #18",
+     "text": null
+    }
+   ],
+   "text_source": "PDF Cn2r (Peraud et al. 2022), archivé avec empreinte",
+   "scoring": {
+    "type": "grappes",
+    "rule": "chaque grappe positive si au moins un item ≥ 2 ; repère TSPT : ré-expérience, évitement, menace + atteinte fonctionnelle ; repère TSPT-C : TSPT + trois grappes de perturbation de l'organisation de soi + atteinte fonctionnelle",
+    "detail": "regroupement exact des items à recopier depuis la notice officielle, non reproduit ici"
+   },
+   "prerequisite": "exposition_evenement",
+   "licence": "itq",
+   "sources": [
+    "itq_fr_cn2r",
+    "peraud2022"
+   ],
+   "status": "retenu"
+  },
+  "pcl5": {
+   "name": "PCL-5",
+   "measures": "symptômes de TSPT selon le DSM-5",
+   "items_count": 20,
+   "period": "dernier mois",
+   "period_days": 30,
+   "scale": {
+    "id": "pcl_0_4",
+    "values": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "scoring": {
+    "type": "somme",
+    "min": 0,
+    "max": 80
+   },
+   "thresholds": [
+    {
+     "min": 31,
+     "max_band": 33,
+     "label": "zone de repère publiée 31–33"
+    }
+   ],
+   "change": {
+    "points": 10,
+    "label": "baisse indicative de réponse"
+   },
+   "thresholds_source": "pcl5_va",
+   "licence": "pcl5",
+   "sources": [
+    "ashbaugh2016"
+   ],
+   "status": "option"
+  }
+ },
+ "domains": [
+  {
+   "id": "humeur",
+   "label": "Humeur basse et perte d'intérêt",
+   "icd11": [
+    "6A70",
+    "6A71",
+    "6A72",
+    "6E20"
+   ],
+   "dsm5tr": [
+    "épisode dépressif caractérisé",
+    "trouble dépressif persistant"
+   ],
+   "entry": {
+    "type": "instrument_subset",
+    "instrument": "phq2",
+    "rule": "score ≥ 3 OU question de sécurité positive → approfondissement"
+   },
+   "deepen": {
+    "instrument": "phq9",
+    "reuse_entry_items": true
+   },
+   "reperes": [
+    {
+     "id": "humeur_duree",
+     "text": "Depuis au moins deux ans, votre humeur est-elle basse la plupart du temps, plus de jours que non ?",
+     "scale": "non_oui_nsp",
+     "period": "2 ans",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6A72"
+     }
+    },
+    {
+     "id": "humeur_perinatal",
+     "text": "Êtes-vous enceinte, ou avez-vous eu un enfant (ou votre partenaire) au cours des 12 derniers mois ?",
+     "scale": "non_oui_nsp",
+     "period": "12 mois",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6E20"
+     },
+     "role": "contexte",
+     "note": "ne change pas le score ; ajoute une orientation périnatale"
+    }
+   ],
+   "impact": {
+    "id": "humeur_gene",
+    "text": "Ces difficultés vous gênent-elles nettement dans votre travail, vos études, vos relations ou votre vie quotidienne ?",
+    "scale": "non_un_peu_nettement",
+    "label": "repere_non_valide"
+   },
+   "outcomes": [
+    "dep_generale",
+    "icd_6a72",
+    "ten_symptomes_depressifs_perinataux",
+    "ten_symptomes_premenstruels",
+    "ten_rumination",
+    "ten_inferences_negatives"
+   ],
+   "safety_outcomes": [
+    "ten_idees_suicidaires",
+    "ten_conduites_suicidaires",
+    "ten_tentatives_suicide"
+   ],
+   "results": {
+    "above": "Vos réponses au PHQ-9 sont au-dessus du repère publié (score {score} sur 27, palier « {level} », Kroenke et al. 2001). Ce palier décrit l'intensité des symptômes ces deux dernières semaines ; il ne pose pas de diagnostic.",
+    "below": "Vos réponses au PHQ-9 sont en dessous du repère publié de 10. Cela n'exclut pas une difficulté : si elle vous pèse, parlez-en."
+   }
+  },
+  {
+   "id": "trauma_stress",
+   "label": "Après un événement très éprouvant ; deuil ; adaptation",
+   "icd11": [
+    "6B40",
+    "6B41",
+    "6B42",
+    "6B43"
+   ],
+   "dsm5tr": [
+    "trouble de stress post-traumatique",
+    "trouble du deuil prolongé",
+    "trouble de l'adaptation"
+   ],
+   "entry": {
+    "type": "repere",
+    "items": [
+     "exposition_evenement",
+     "deuil_12mois",
+     "adaptation_evenement"
+    ],
+    "rule": "exposition Oui → ITQ ; deuil Oui → repères deuil ; adaptation Oui → repères adaptation"
+   },
+   "reperes": [
+    {
+     "id": "exposition_evenement",
+     "text": "Avez-vous vécu, à un moment de votre vie, un ou plusieurs événements extrêmement menaçants ou horribles, pour vous ou dont vous avez été témoin ? Vous n'avez pas à les décrire.",
+     "scale": "non_oui_pref",
+     "period": "vie entière",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B40"
+     },
+     "role": "prerequis"
+    },
+    {
+     "id": "deuil_12mois",
+     "text": "Une personne proche de vous est-elle décédée il y a plus de six mois, et son absence vous occupe-t-elle encore presque chaque jour avec une douleur intense ?",
+     "scale": "non_oui_nsp",
+     "period": "depuis le décès",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B42"
+     }
+    },
+    {
+     "id": "adaptation_evenement",
+     "text": "Depuis un changement ou un événement difficile survenu dans les derniers mois (séparation, perte d'emploi, maladie, déménagement…), êtes-vous très souvent envahi(e) par des pensées sur cet événement, au point d'avoir du mal à fonctionner ?",
+     "scale": "non_oui_nsp",
+     "period": "derniers mois",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B43"
+     }
+    }
+   ],
+   "deepen": {
+    "instrument": "itq",
+    "alternative": "pcl5",
+    "prerequisite": "exposition_evenement = Oui",
+    "note": "aucun récit demandé ; un champ libre n'est jamais proposé dans ce module"
+   },
+   "impact": {
+    "id": "trauma_gene",
+    "included_in": "itq",
+    "note": "l'ITQ comporte ses propres items d'atteinte fonctionnelle"
+   },
+   "outcomes": [
+    "icd_6b40",
+    "icd_6b41",
+    "icd_6b43",
+    "icd_6b42"
+   ],
+   "results": {
+    "above": "Vos réponses à l'ITQ correspondent au repère publié pour {cluster} (Cloitre et al. 2018 ; version française Peraud et al. 2022). C'est un repère de questionnaire, pas un diagnostic : un professionnel formé au psychotraumatisme peut faire le point avec vous.",
+    "below": "Vos réponses à l'ITQ ne remplissent pas le repère publié ce mois-ci."
+   }
+  },
+  {
+   "id": "panique",
+   "label": "Crises de peur soudaines et évitement des lieux",
+   "icd11": [
+    "6B01",
+    "6B02"
+   ],
+   "dsm5tr": [
+    "trouble panique",
+    "agoraphobie"
+   ],
+   "entry": {
+    "type": "repere",
+    "items": [
+     "panique_crises"
+    ],
+    "rule": "« Plusieurs fois » → approfondissement"
+   },
+   "reperes": [
+    {
+     "id": "panique_crises",
+     "text": "Au cours du dernier mois, avez-vous eu des épisodes soudains de peur ou de malaise très intenses, qui montent en quelques minutes, avec des sensations physiques fortes (cœur qui bat, souffle court, tremblements, vertiges, impression de perdre le contrôle) ?",
+     "scale": "non_une_plusieurs",
+     "period": "dernier mois",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B01"
+     }
+    },
+    {
+     "id": "panique_inattendues",
+     "text": "Certains de ces épisodes sont-ils survenus sans raison apparente, à un moment où vous ne vous y attendiez pas ?",
+     "scale": "non_oui_nsp",
+     "period": "dernier mois",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B01"
+     }
+    },
+    {
+     "id": "panique_inquietude",
+     "text": "Depuis, craignez-vous de façon persistante qu'ils reviennent ou ce qu'ils pourraient signifier, ou avez-vous changé vos habitudes pour les éviter ?",
+     "scale": "non_oui_nsp",
+     "period": "dernier mois",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B01"
+     }
+    },
+    {
+     "id": "agoraphobie_evitement",
+     "text": "Évitez-vous, ou ne supportez-vous qu'avec une forte peur, des situations comme les transports, la foule, les files d'attente ou sortir seul(e), parce qu'il serait difficile d'en partir ou d'obtenir de l'aide en cas de malaise ?",
+     "scale": "non_oui_nsp",
+     "period": "derniers mois",
+     "validated": false,
+     "label": "repere_non_valide",
+     "basis": {
+      "source": "cddr2024",
+      "code": "6B02"
+     }
+    }
+   ],
+   "impact": {
+    "id": "panique_gene",
+    "text": "Ces difficultés vous gênent-elles nettement dans votre vie (travail, études, relations, sorties) ?",
+    "scale": "non_un_peu_nettement",
+    "label": "repere_non_valide"
+   },
+   "rules": [
+    {
+     "id": "repere_panique",
+     "when": "panique_crises = plusieurs ET panique_inattendues = Oui ET panique_inquietude = Oui",
+     "band": "repere_positif",
+     "outcomes": [
+      "icd_6b01"
+     ]
+    },
+    {
+     "id": "repere_agoraphobie",
+     "when": "agoraphobie_evitement = Oui",
+     "band": "repere_positif",
+     "outcomes": [
+      "icd_6b02"
+     ]
+    }
+   ],
+   "outcomes": [
+    "icd_6b01",
+    "icd_6b02"
+   ],
+   "results": {
+    "positive": "Vos réponses ressemblent à certains éléments que la CIM-11 décrit pour des crises de panique répétées (repère non validé, rédigé par le site). Des sensations physiques fortes méritent aussi un avis médical, pour vérifier qu'aucune cause physique n'est en jeu.",
+    "negative": "Vos réponses ne correspondent pas à ce repère ce mois-ci."
+   }
+  }
+ ],
+ "domains_to_complete": [
+  {
+   "id": "bipolaire",
+   "label": "Périodes d'énergie ou d'humeur inhabituellement hautes",
+   "outcomes": [
+    "icd_6a60"
+   ],
+   "status": "a_completer",
+   "planned": "repère CIM-11 6A60 → MDQ sous réserve"
+  },
+  {
+   "id": "anxiete",
+   "label": "Inquiétude et tension",
+   "outcomes": [
+    "anx_generale",
+    "ten_hypervigilance",
+    "ten_nevrosisme"
+   ],
+   "status": "a_completer",
+   "planned": "GAD-2 → GAD-7 (retenu ; seuils à confirmer)"
+  },
+  {
+   "id": "anxiete_sociale",
+   "label": "Peur du regard des autres",
+   "outcomes": [
+    "icd_6b04"
+   ],
+   "status": "a_completer",
+   "planned": "repères CIM-11 6B04 (SPIN exclu)"
+  },
+  {
+   "id": "separation",
+   "label": "Peur d'être séparé des proches",
+   "outcomes": [
+    "icd_6b05"
+   ],
+   "status": "a_completer",
+   "planned": "repères CIM-11 6B05"
+  },
+  {
+   "id": "toc_apparentes",
+   "label": "Pensées qui s'imposent, rituels, apparence, santé",
+   "outcomes": [
+    "icd_6b20",
+    "ten_preoccupation_apparence",
+    "icd_6b23"
+   ],
+   "status": "a_completer",
+   "planned": "repères 6B20/6B21/6B23 → OCI-R sous réserve"
+  },
+  {
+   "id": "dissociation",
+   "label": "Sentiment de détachement, absences, symptômes fonctionnels",
+   "outcomes": [
+    "ten_dissociation",
+    "icd_6b60",
+    "icd_6b64"
+   ],
+   "status": "a_completer",
+   "planned": "repères 6B60/6B66 → DES-II sous réserve"
+  },
+  {
+   "id": "somatique",
+   "label": "Symptômes physiques qui pèsent",
+   "outcomes": [
+    "icd_6c20",
+    "ten_douleurs_persistantes",
+    "ten_fibromyalgie",
+    "ten_migraine"
+   ],
+   "status": "a_completer",
+   "planned": "PHQ-15 (retenu) + repère 6C20"
+  },
+  {
+   "id": "alimentation",
+   "label": "Alimentation, poids et image du corps",
+   "outcomes": [
+    "icd_6b81",
+    "icd_6b80",
+    "icd_6b81_boulimie",
+    "icd_6b82"
+   ],
+   "status": "a_completer",
+   "planned": "SCOFF sous réserve → repères 6B80–6B82"
+  },
+  {
+   "id": "alcool",
+   "label": "Alcool",
+   "outcomes": [
+    "icd_6c40_2",
+    "ten_usage_substances"
+   ],
+   "status": "a_completer",
+   "planned": "AUDIT-C → AUDIT (sous réserve : non commercial)"
+  },
+  {
+   "id": "cannabis",
+   "label": "Cannabis",
+   "outcomes": [
+    "ten_usage_cannabis"
+   ],
+   "status": "a_completer",
+   "planned": "CAST (sous réserve OFDT)"
+  },
+  {
+   "id": "autres_substances",
+   "label": "Tabac et autres produits",
+   "outcomes": [
+    "ten_tabagisme_persistant"
+   ],
+   "status": "a_completer",
+   "planned": "repère tabac quotidien ; DAST-10 sous réserve"
+  },
+  {
+   "id": "jeu_ecrans",
+   "label": "Jeux d'argent, jeux vidéo, écrans",
+   "outcomes": [
+    "ten_jeu_argent_problematique",
+    "ten_ecrans"
+   ],
+   "status": "a_completer",
+   "planned": "ICJE (sous réserve CCSA) ; repères 6C51"
+  },
+  {
+   "id": "sexualite",
+   "label": "Vie sexuelle",
+   "outcomes": [
+    "ten_sexualite_compulsive",
+    "ten_difficultes_sexuelles",
+    "ten_risques_sexuels"
+   ],
+   "status": "a_completer",
+   "planned": "repères 6C72 et chapitre 17"
+  },
+  {
+   "id": "sommeil",
+   "label": "Sommeil et cauchemars",
+   "outcomes": [
+    "ten_sommeil"
+   ],
+   "status": "a_completer",
+   "planned": "repères insomnie chronique et cauchemars (ISI exclu)"
+  },
+  {
+   "id": "perceptions",
+   "label": "Perceptions et pensées inhabituelles",
+   "outcomes": [
+    "icd_6a20",
+    "ten_traits_schizotypiques"
+   ],
+   "status": "a_completer",
+   "planned": "2 repères 6A20 sans score + orientation"
+  },
+  {
+   "id": "regulation",
+   "label": "Émotions qui débordent, colère, impulsivité",
+   "outcomes": [
+    "ten_dysregulation_emotionnelle",
+    "ten_colere",
+    "ten_impulsivite",
+    "ten_externalisation",
+    "sch_controle_insuffisant",
+    "ten_procrastination",
+    "sch_droits_excessifs"
+   ],
+   "status": "a_completer",
+   "planned": "repères (DERS-16 exclu) ; question automutilation = sécurité",
+   "safety_outcomes": [
+    "ten_automutilations_non_suicidaires"
+   ]
+  },
+  {
+   "id": "alexithymie",
+   "label": "Reconnaître et dire ses émotions et ses besoins",
+   "outcomes": [
+    "ten_alexithymie",
+    "pat_emotional_suppression",
+    "sch_surcontrole",
+    "pat_needs_expression"
+   ],
+   "status": "a_completer",
+   "planned": "TAS-20 sous réserve ; 3 repères sans score"
+  },
+  {
+   "id": "personnalite",
+   "label": "Façons durables d'être en relation avec soi et les autres",
+   "outcomes": [
+    "icd_6d11_5",
+    "ten_difficultes_personnalite",
+    "ten_narcissisme_vulnerable",
+    "ten_narcissisme_grandiose"
+   ],
+   "status": "a_completer",
+   "planned": "MSI-BPD sous réserve ; repères de sévérité CIM-11 6D10"
+  },
+  {
+   "id": "relations",
+   "label": "Liens proches, attachement, conflits",
+   "outcomes": [
+    "att_anxieux",
+    "att_evitant",
+    "pat_abandonment_fear",
+    "ten_peur_intimite",
+    "ten_codependance",
+    "pat_appeasement",
+    "pat_conflict",
+    "pat_overresponsibility",
+    "ten_qualite_relationnelle",
+    "pat_social_isolation",
+    "sch_abandon",
+    "sch_abnegation",
+    "sch_assujettissement",
+    "sch_isolement",
+    "sch_fusion",
+    "sch_mefiance",
+    "sch_recherche_approbation",
+    "sch_dependance",
+    "sch_carence_affective"
+   ],
+   "status": "a_completer",
+   "planned": "ECR-R sous réserve (dimensions, sans seuil) ; phrases de reconnaissance des schémas ; question violences subies = sécurité",
+   "safety_outcomes": [
+    "ten_violences_couple"
+   ]
+  },
+  {
+   "id": "soi",
+   "label": "Image de soi, exigences, honte et culpabilité",
+   "outcomes": [
+    "ten_estime_soi",
+    "ten_honte",
+    "pat_guilt",
+    "pat_self_criticism",
+    "pat_perfectionism",
+    "pat_impostor",
+    "pat_conditional_worth",
+    "ten_mode_parent_exigeant",
+    "sch_exigences_elevees",
+    "sch_imperfection",
+    "sch_echec",
+    "sch_negativite",
+    "sch_punition",
+    "sch_vulnerabilite",
+    "ten_surcompensation_schema"
+   ],
+   "status": "a_completer",
+   "planned": "Rosenberg sous réserve ; phrases de reconnaissance des schémas"
+  }
+ ],
+ "crosswalk": {
+  "symptom": {
+   "dep_generale": "humeur",
+   "icd_6a72": "humeur",
+   "ten_symptomes_depressifs_perinataux": "humeur",
+   "ten_symptomes_premenstruels": "humeur",
+   "ten_rumination": "humeur",
+   "ten_inferences_negatives": "humeur",
+   "icd_6a60": "bipolaire",
+   "anx_generale": "anxiete",
+   "ten_hypervigilance": "anxiete",
+   "ten_nevrosisme": "anxiete",
+   "icd_6b01": "panique",
+   "icd_6b02": "panique",
+   "icd_6b04": "anxiete_sociale",
+   "icd_6b05": "separation",
+   "icd_6b20": "toc_apparentes",
+   "ten_preoccupation_apparence": "toc_apparentes",
+   "icd_6b23": "toc_apparentes",
+   "icd_6b40": "trauma_stress",
+   "icd_6b41": "trauma_stress",
+   "icd_6b43": "trauma_stress",
+   "icd_6b42": "trauma_stress",
+   "ten_dissociation": "dissociation",
+   "icd_6b60": "dissociation",
+   "icd_6b64": "dissociation",
+   "icd_6c20": "somatique",
+   "ten_douleurs_persistantes": "somatique",
+   "ten_fibromyalgie": "somatique",
+   "ten_migraine": "somatique",
+   "icd_6b81": "alimentation",
+   "icd_6b80": "alimentation",
+   "icd_6b81_boulimie": "alimentation",
+   "icd_6b82": "alimentation",
+   "icd_6c40_2": "alcool",
+   "ten_usage_substances": "alcool",
+   "ten_usage_cannabis": "cannabis",
+   "ten_tabagisme_persistant": "autres_substances",
+   "ten_jeu_argent_problematique": "jeu_ecrans",
+   "ten_ecrans": "jeu_ecrans",
+   "ten_sexualite_compulsive": "sexualite",
+   "ten_difficultes_sexuelles": "sexualite",
+   "ten_risques_sexuels": "sexualite",
+   "ten_sommeil": "sommeil",
+   "icd_6a20": "perceptions",
+   "ten_traits_schizotypiques": "perceptions",
+   "ten_dysregulation_emotionnelle": "regulation",
+   "ten_colere": "regulation",
+   "ten_impulsivite": "regulation",
+   "ten_externalisation": "regulation",
+   "sch_controle_insuffisant": "regulation",
+   "ten_procrastination": "regulation",
+   "sch_droits_excessifs": "regulation",
+   "ten_alexithymie": "alexithymie",
+   "pat_emotional_suppression": "alexithymie",
+   "sch_surcontrole": "alexithymie",
+   "pat_needs_expression": "alexithymie",
+   "icd_6d11_5": "personnalite",
+   "ten_difficultes_personnalite": "personnalite",
+   "ten_narcissisme_vulnerable": "personnalite",
+   "ten_narcissisme_grandiose": "personnalite",
+   "att_anxieux": "relations",
+   "att_evitant": "relations",
+   "pat_abandonment_fear": "relations",
+   "ten_peur_intimite": "relations",
+   "ten_codependance": "relations",
+   "pat_appeasement": "relations",
+   "pat_conflict": "relations",
+   "pat_overresponsibility": "relations",
+   "ten_qualite_relationnelle": "relations",
+   "pat_social_isolation": "relations",
+   "sch_abandon": "relations",
+   "sch_abnegation": "relations",
+   "sch_assujettissement": "relations",
+   "sch_isolement": "relations",
+   "sch_fusion": "relations",
+   "sch_mefiance": "relations",
+   "sch_recherche_approbation": "relations",
+   "sch_dependance": "relations",
+   "sch_carence_affective": "relations",
+   "ten_estime_soi": "soi",
+   "ten_honte": "soi",
+   "pat_guilt": "soi",
+   "pat_self_criticism": "soi",
+   "pat_perfectionism": "soi",
+   "pat_impostor": "soi",
+   "pat_conditional_worth": "soi",
+   "ten_mode_parent_exigeant": "soi",
+   "sch_exigences_elevees": "soi",
+   "sch_imperfection": "soi",
+   "sch_echec": "soi",
+   "sch_negativite": "soi",
+   "sch_punition": "soi",
+   "sch_vulnerabilite": "soi",
+   "ten_surcompensation_schema": "soi"
+  },
+  "safety": {
+   "ten_idees_suicidaires": "humeur",
+   "ten_conduites_suicidaires": "humeur",
+   "ten_tentatives_suicide": "humeur",
+   "ten_automutilations_non_suicidaires": "regulation",
+   "ten_violences_couple": "relations"
+  },
+  "not_asked": {
+   "att_desorganisation_enfant": "catégorie de la petite enfance, non mesurable chez l'adulte",
+   "icd_6b44": "trouble réactionnel de l'attachement : diagnostic de l'enfance, non repérable par auto-questionnaire adulte",
+   "icd_6b45": "engagement social désinhibé : diagnostic de l'enfance",
+   "ten_souffrance_enfance": "porte sur l'enfance ; relève de Mon enfance",
+   "ten_difficultes_scolaires": "porte sur la scolarité passée",
+   "ten_recompense_immediate_jeunes": "repère de recherche chez les jeunes, pas un symptôme",
+   "ten_violences_amoureuses_jeunes": "vécu passé de l'adolescence, pas un symptôme",
+   "pat_parentification": "vécu de l'enfance, déjà dans Mon enfance",
+   "ten_revictimisation": "risque statistique de violences subies : jamais présenté comme un symptôme de la personne",
+   "ten_traits_personnalite_antisociale": "dimension de recherche ; pas d'auto-repérage proposé (risque de stigmatisation, pas d'instrument libre)",
+   "ten_diabete_type2": "état de santé physique, pas un symptôme psychologique",
+   "ten_maladies_cardiovasculaires": "état de santé physique",
+   "ten_sante_physique": "état de santé physique",
+   "ten_surpoids": "mesure corporelle ; ne pas demander poids/IMC sur cette page",
+   "ten_difficultes_professionnelles": "situation sociale ; abordée seulement par la question de retentissement"
+  }
+ },
+ "crossing": {
+  "convergent": "sujet signalé par un module au-dessus du repère ET présent dans computeCartography (sections top/other) ET feedback != non",
+  "order": [
+   "impact = nettement",
+   "associated_count décroissant",
+   "libellé"
+  ],
+  "integer_only": true,
+  "parity_test": true
+ },
+ "ambre_summary": {
+  "max_chars": 1200,
+  "max_domains": 8,
+  "max_convergent": 10,
+  "item_answers": false,
+  "fields": [
+   "as_of",
+   "domains[id,instrument,period,band,level,date,impact,validated]",
+   "below",
+   "not_assessed",
+   "declined",
+   "convergent_subjects",
+   "safety.reported_at"
+  ]
+ },
+ "storage": {
+  "table": "symptom_checks",
+  "history": true,
+  "consent": "distinct de Mon enfance, explicite",
+  "export": true,
+  "delete": [
+   "passation",
+   "module",
+   "tout"
+  ],
+  "retest_days": {
+   "phq9": 14,
+   "gad7": 14,
+   "itq": 30,
+   "pcl5": 30,
+   "annual_scales": 90
+  }
+ }
+}
