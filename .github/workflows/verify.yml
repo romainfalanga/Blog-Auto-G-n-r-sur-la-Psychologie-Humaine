@@ -29,6 +29,7 @@ jobs:
       - run: python scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed
       - run: python scripts/build_coverage_status.py --check
       - run: python scripts/build_cartographie.py --check
+      - run: python scripts/build_symptomes.py --check
       - run: python scripts/audit_cartographie.py --check
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test

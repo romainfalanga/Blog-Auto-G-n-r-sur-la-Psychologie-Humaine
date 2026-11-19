@@ -34,9 +34,12 @@ Une passation = un module, enregistrée dans `symptom_checks` (migration `0028`)
     "humeur_duree": "non", "humeur_perinatal": "pref", "humeur_gene": "un_peu"
   },
   "declined": false,
-  "started_at": 1763542800, "completed_at": 1763543100
+  "passation_key": "humeur-2026-11-19-7f3a9c",
+  "started_at": 1763542800
 }
 ```
+
+- `passation_key` (8 à 120 caractères `[A-Za-z0-9_-]`, choisi par la page au début de la passation) sert de clé d'idempotence et relie brouillon, alertes et passation. `completed_at` est l'heure du serveur ; une valeur envoyée est ignorée, comme tout champ `scores`, `state` ou `result`.
 
 - Valeurs : items d'instruments = entier de l'échelle officielle (`phq_frequence` 0–3, `phq_gene_4_semaines` 0–2, `itq_0_4` 0–4), `itq_quand` = code ; questions du site = code de l'échelle (`non` / `oui` / `nsp`, `non` / `oui` / `pref`, `non` / `une` / `plusieurs`, `non` / `un_peu` / `nettement`).
 - Toute question peut rester sans réponse (`null` ou absente) ; « Je préfère ne pas répondre » est toujours possible. **Aucune réponse manquante n'est comptée 0.** Seule exception : `phq15_d` accepte `"na"` (« Je ne suis pas concerné(e) »), compté 0 (point à confirmer, voir § 9).
@@ -129,3 +132,31 @@ Tri : ordre du premier module qui signale (ou peut signaler) le sujet, puis libe
 - Coquille officielle de l'item ITQ P1 (« se rejour ») recopiée telle quelle ; confirmation demandée au Cn2r (non bloquante).
 - Codes CIM-11 des chapitres 07 (sommeil : 7A00, 7B01.1) et 17 (santé sexuelle) à vérifier sur icd.who.int.
 - Budget Ambre (≤ 1 200 caractères, +10 %) et champs transmis : inchangés par rapport au plan v1.1 ; le résumé n'envoie jamais de réponse item par item.
+
+## 10. Contrat d'API figé (lot A, 19 novembre 2026)
+
+Moteur partagé : `journal/src/symptomes-engine.mjs` (aucune importation ; chaque fonction reçoit `SYMPTOMES`) — `validatePassation`, `computeModuleResult`, `computeScores`, `bandFor`, `evaluate`, `safetyTriggers`, `safetyScreen`, `ageGate`, `retestInfo`, `overlaps`, `crossWithChildhood`, `compareLabels`. La page l'utilise pour afficher l'écran de sécurité **dès la réponse, sans attendre l'API**, et pour l'aperçu ; le serveur recalcule tout avec le même code. Serveur : `journal/src/symptomes-backend.mjs`, tables de la migration `0028_symptom_checks.sql` (`symptom_consents`, `symptom_checks`, `symptom_drafts`, `symptom_safety_alerts`, suppression en cascade avec le compte).
+
+Toutes les routes : session requise (401 sinon), JSON (`Content-Type: application/json`, 415 sinon), même origine pour PUT/POST/DELETE (en-tête `Origin` = `PUBLIC_ORIGIN`, 403 sinon), corps ≤ 20 000 caractères (413), réponses `Cache-Control: private, no-store`. Erreurs : `{"error": "<phrase française>", "code": "<code>"}`.
+
+| Méthode et route | Entrée | Sortie (200 sauf mention) |
+| --- | --- | --- |
+| `GET /api/symptomes` | — | état de la page (ci-dessous) ; avant `0028` : `{"available": false, "message": "« Mes symptômes » sera bientôt disponible.", "content_version"}` |
+| `PUT /api/symptomes/consent` | `{"consent": true\|false}` | `{"ok": true, "consent": {given, content_version, granted_at, withdrawn_at}}` ; `true` exige un adulte ; `false` toujours possible (les résultats restent jusqu'à leur suppression, rien de nouveau n'est enregistré, Ambre ne les reçoit plus) |
+| `PUT /api/symptomes/drafts/<module>` | `{"passation_key", "content_version", "instrument_versions", "answers", "started_at"?}` (réponses partielles, mêmes règles) | `{"ok": true, "draft": {module, passation_key, content_version, current_version, answers, started_at, updated_at}, "safety": {"triggers": [{id, kind, screen}], "screen": <safetyScreen> \| null}}` ; **chaque déclencheur présent écrit une alerte datée**, une seule par passation et déclencheur, même si la passation est abandonnée |
+| `DELETE /api/symptomes/drafts/<module>` | — | `{"ok": true}` |
+| `POST /api/symptomes/checks` | forme du § 3 | **201** `{"ok": true, "check": <passation>, "overlap": bool, "safety": {...}, "page": <état>}` ; même `passation_key` et mêmes réponses : 200 avec `"replayed": true` ; le brouillon du module est supprimé et les alertes de la passation lui sont rattachées |
+| `GET /api/symptomes/checks[?module=<id>]` | — | `{"checks": [<passation>…]}` (100 au plus, plus récente d'abord) |
+| `DELETE /api/symptomes/checks/<id>` | — | `{"ok": true, "page"}` ; 404 `not_found` si la passation n'est pas à vous (l'alerte datée reste, `check_id` = null) |
+| `DELETE /api/symptomes/checks` | — | « Supprimer mes résultats » : passations, brouillons et alertes ; le consentement reste tel quel. `{"ok": true, "deleted": {checks, drafts, alerts}, "page"}` |
+
+Passation renvoyée : `{id, module, passation_key, content_version, current_version, instrument_versions, answers, scores, result, state, declined, started_at, completed_at}`. `result` = sortie de `computeModuleResult` **avec la version de la passation** : `{state, entry ('positif'|'negatif'|'indetermine'), scores {phq2, phq9…, itq: {result, clusters, sums}}, bands {<instrument>: {id, label, max}}, rules [{id, kind, result, subjects, instrument?, score?, level?, itq_result?, note?, forced?, display}], positive_count, several, module_negative, gene, gene_text, crossing_suspended, safety}`. La page affiche le texte des règles `display: true` (positif : `result_positive`, puis la phrase `note` = `positive_note` | `site_note` | `texte` | `high_note` | `aucune` ; négatif : `result_negative` puis `negative_note`), le texte de l'état sinon (`indetermine`, `module_negative`). Une passation d'une ancienne version affiche son état et les règles dont l'identifiant existe encore.
+
+Précisions du moteur : priorité des états `refuse` > `au_dessus` > `repere_present` > `en_dessous` > `indetermine` > `repere_absent` (un repère présent n'est jamais masqué par un score sous le seuil) ; une entrée négative rend négatives les règles non posées (`forced`, non affichées) ; PHQ-2 / GAD-2 négatif sans instrument complet = `en_dessous` (texte `entree`) ; entrée positive sans instrument complet = `indetermine` ; `refuse` = `declined` ou entrée inconnue avec au moins un « Je préfère ne pas répondre » à une question de `positive_if`. Les items d'instruments n'acceptent que l'échelle officielle (`null` = sans réponse) ; `phq15_sommeil` / `phq15_fatigue` sont envoyés dans le module `somatique` (la page y recopie `phq9_3` / `phq9_4` de la même séance). `securite_actuelle` est acceptée dans les modules du temps 1 seulement ; `itq_quand` dans `trauma_stress`.
+
+État de la page : `{available: true, content_version, consent, age: {status: 'adulte'|'mineur'|'inconnu', age, jeune_adulte, (mineur : save: false, text, resources)}, modules: [{id, order, state ('non_explore' sans passation), last: <passation>|null, count, retest: {days, never, next_at, due}, draft|null}], lifetime_answers: {<question vie>: dernière réponse}, safety: {banner: null | {until, kinds, …safetyScreen}, last_reported_at}, crossing: {childhood_available, lists: {deux, symptomes, enfance: [{id, label, modules}]}, subjects: [{id, label, state, childhood ('present'|'absent'|'pas_moi'|'inconnu'), modules}], suspended: [{module, text}], show_counts: false}, unpublished_modules}`. Le bandeau de sécurité dure 14 jours après la dernière alerte bloquante. Délai : `retest.due` faux = refaire reste permis, la réponse de l'enregistrement porte alors `overlap: true` (`overlap_note`) ; un refus ne lance aucun délai ; `never` = questions « vie entière ». Tri du croisement : ordre du module, puis libellé replié (accents et casse) puis binaire — identique côté page avec `compareLabels`.
+
+Codes d'erreur : 400 `unknown_module`, `module_unpublished`, `unknown_question`, `invalid_answer`, `unknown_version` (contenu ou instrument : recharger la page), `unknown_instrument`, `empty_passation`, `passation_key_required`, `invalid_symptoms`, `invalid_consent` ; 403 `minor` (rien n'est enregistré, afficher `age.text` et `age.resources`), `birth_date_required` (renvoyer vers Mon compte), `consent_required` ; 404 `not_found` ; 405 `method_not_allowed` ; 409 `passation_conflict` (même clé, autres réponses : créer une nouvelle clé) ; 429 (limite : 60 passations et 600 brouillons par heure) ; 503 `feature_unavailable` (avant `0028`). Export (`GET /api/export`) : clé `symptomes` = `{content_version, consent, checks, drafts, safety_alerts}` ou `null` avant `0028`. Suppression du compte : cascade sur les quatre tables.
+
+Pour Ambre (lot C) : `latestSafetyReport(env, userId)` → `{reported_at, kind}` | null (dernière alerte bloquante) ; `readState` donne les derniers résultats et le croisement. Restent au lot B : page `/mes-symptomes/` (route du Worker, menu, chargement initial) et embarquement du moteur dans la page.
+

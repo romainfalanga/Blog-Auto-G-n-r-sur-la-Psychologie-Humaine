@@ -9,6 +9,7 @@ import { EXAMPLES } from './examples.mjs';
 import { createRecommender } from './recommendations.mjs';
 import { createPersonalBackend, hasPersonalizationSources } from './personal-backend.mjs';
 import { createCartographyBackend } from './cartographie.mjs';
+import { createSymptomsBackend } from './symptomes-backend.mjs';
 
 const encoder = new TextEncoder();
 const COOKIE = '__Host-dte_session';
@@ -172,6 +173,7 @@ const care=createCareBackend({error,json,body,now,random,limit,chat});
 const change=createChangeBackend({error,json,body,now,random,limit});
 // The childhood map is not a portrait source: saving it does not bump profiles.version.
 const cartography=createCartographyBackend({error,json,body,now});
+const symptoms=createSymptomsBackend({error,json,body,now,random,limit});
 const readingContext=(env,userId)=>personal.context(env,userId);
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
 function withoutPsychologyMap(value){
@@ -320,6 +322,7 @@ async function routes(request,env,ctx) {
   const careResponse=await care.routes(request,env,user,path,url,ctx);if(careResponse)return careResponse;
   const changeResponse=await change.routes(request,env,user,path,url);if(changeResponse)return changeResponse;
   const cartographyResponse=await cartography.routes(request,env,user,path);if(cartographyResponse)return cartographyResponse;
+  const symptomsResponse=await symptoms.routes(request,env,user,path,url);if(symptomsResponse)return symptomsResponse;
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
   // F14: ends every session of the account (lost device, shared computer, password doubt).
@@ -470,7 +473,7 @@ async function routes(request,env,ctx) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await change.exportData(env,user.id),...await care.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id),...await cartography.exportData(env,user.id),...await symptoms.exportData(env,user.id),...await change.exportData(env,user.id),...await care.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);
@@ -481,7 +484,8 @@ async function routes(request,env,ctx) {
       const customer=await stripe(env,'customers/'+encodeURIComponent(sub.customer_id));
       if(!customer.deleted) await stripe(env,'customers/'+encodeURIComponent(sub.customer_id),'DELETE');
     } else if(sub?.subscription_id&&!['canceled','incomplete_expired'].includes(sub.status)) await stripe(env,'subscriptions/'+encodeURIComponent(sub.subscription_id),'DELETE');
-    // ON DELETE CASCADE also removes the saved childhood map (cartographies).
+    // ON DELETE CASCADE also removes the saved childhood map (cartographies) and every « Mes symptômes »
+    // row (symptom_consents, symptom_checks, symptom_drafts, symptom_safety_alerts, migration 0028).
     await run(env,'DELETE FROM users WHERE id=?',user.id);
     return json({ok:true},200,{'Set-Cookie':`${COOKIE}=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0`});
   }
