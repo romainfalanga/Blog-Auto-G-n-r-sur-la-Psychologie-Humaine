@@ -5,7 +5,7 @@ import vm from 'node:vm';
 import {readFileSync} from 'node:fs';
 import {setup,database} from './v4-R-helper.mjs';
 import {replayTurn,replayReview} from './v5-A-helper.mjs';
-import {knowledgeIndex,analysisIndex} from '../src/ambre-engine.mjs';
+import {knowledgeIndex,analysisIndex,selectDetails} from '../src/ambre-engine.mjs';
 import {byMomentTier,momentTier,significanceReady} from '../src/context-fields.mjs';
 import {HTML} from '../src/ui.mjs';
 
@@ -109,4 +109,30 @@ test('UI: accepting a proposed moment asks « Anecdotique / Marquant » and send
  const code=name=>{const start=script.search(new RegExp('function '+name+'\\('));let depth=0,i=script.indexOf('{',start);for(;i<script.length;i++){if(script[i]==='{')depth++;else if(script[i]==='}'&&!--depth)break}return script.slice(start,i+1)};
  const ctx=vm.createContext({});vm.runInContext(code('significanceClass'),ctx);
  assert.equal(ctx.significanceClass({significance:'major'}),'is-major');assert.equal(ctx.significanceClass({significance:'anecdotal'}),'is-anecdotal');assert.equal(ctx.significanceClass({significance:null}),'is-unset');
+});
+
+test('Relecture: an explicit null in a modification brings the moment back to « à préciser »; an empty value keeps it',async()=>{
+ const s=setup(),e=(await s.call('/api/life-events','POST',{...moment('a'),significance:'major',entry:'form'})).event;
+ const kept=await s.call('/api/life-events/'+e.id,'PATCH',{revision:1,significance:''});assert.equal(kept.event.significance,'major');assert.equal(kept.event.revision,1);
+ const cleared=await s.call('/api/life-events/'+e.id,'PATCH',{revision:1,significance:null});assert.equal(cleared.status,200);assert.equal(cleared.event.significance,null);assert.equal(cleared.event.revision,2);
+ const again=await s.call('/api/life-events/'+e.id,'PATCH',{revision:2,significance:null});assert.equal(again.event.revision,2,'already « à préciser »: no change');
+});
+
+test('Relecture: the « Marquants » filter is applied by the API and follows the pagination',async()=>{
+ const s=setup();let n=0;
+ for(const value of [...Array(7).fill('anecdotal'),'major',null,'major',...Array(5).fill('anecdotal'),null,'major']){n++;const r=await s.call('/api/life-events','POST',{...moment('p'+String(n).padStart(2,'0'),{date_start:String(1990+n)}),...(value?{significance:value}:{})});assert.equal(r.status,201)}
+ const seen=[];let cursor='';for(let page=0;page<10;page++){const r=await s.call('/api/life-events?significance=major&limit=2'+(cursor?'&cursor='+cursor:''));assert.equal(r.status,200);seen.push(...r.events);cursor=r.next_cursor;if(!cursor)break}
+ assert.deepEqual(seen.map(e=>e.significance).sort(),['major','major','major',null,null].sort());
+ assert.equal(new Set(seen.map(e=>e.id)).size,5);
+ assert.equal((await s.call('/api/life-events?significance=anecdotal')).code,'invalid_input');
+ const before=setup({until:'0027'});await before.call('/api/life-events','POST',moment('x'));assert.equal((await before.call('/api/life-events?significance=major')).events.length,1,'ignored before the migration');
+});
+
+test('Relecture: « marquant » stays out of the lexical ranking (« Quant à… », « marquant » in the message)',async()=>{
+ const s=setup();
+ for(const [id,value] of [['a','major'],['b','anecdotal'],['c',null]])await s.call('/api/life-events','POST',{...moment(id),title:'Souvenir '+id,description:'Un récit '+id+'.',...(value?{significance:value}:{})});
+ const index=knowledgeIndex(await s.personal.context(s.env,'a'));
+ assert.ok(index.filter(x=>x.kind==='event').every(x=>!/marquant|anecdotique/.test(x.label)),'labels without the word');
+ assert.match(index.find(x=>x.label==='Souvenir a').header,/Dans mon histoire : marquant/);
+ for(const message of ['Quant à mon travail, je ne sais plus où j’en suis.','Rien de marquant cette semaine, ni d’anecdotique.'])assert.deepEqual(selectDetails(index,[],message).filter(x=>x.kind==='event'),[],message);
 });
