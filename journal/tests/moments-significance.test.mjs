@@ -49,7 +49,7 @@ test('0027: API validation, form requirement, a modification without the field k
  const again=await s.call('/api/life-events','POST',{...moment('a'),entry:'form',significance:'major',current_importance:2});assert.equal(again.status,200,'idempotent retry');assert.equal(again.event.id,form.event.id);
  const other=await s.call('/api/life-events','POST',moment('b'));assert.equal(other.status,201,'an API creation outside the form stays « à préciser »');assert.equal(other.event.significance,null);
  const kept=await s.call('/api/life-events/'+form.event.id,'PATCH',{revision:1,description:'Récit précisé'});assert.equal(kept.event.significance,'major');assert.equal(kept.event.revision,2);
- const nulls=await s.call('/api/life-events/'+form.event.id,'PATCH',{revision:2,significance:null,description:'Récit précisé encore'});assert.equal(nulls.event.significance,'major','an empty value keeps the stored one');
+ const nulls=await s.call('/api/life-events/'+form.event.id,'PATCH',{revision:2,significance:'',description:'Récit précisé encore'});assert.equal(nulls.event.significance,'major','an empty value keeps the stored one');
  const changed=await s.call('/api/life-events/'+form.event.id,'PATCH',{revision:3,significance:'anecdotal'});assert.equal(changed.event.significance,'anecdotal');assert.equal(changed.event.current_importance,2);
  const same=await s.call('/api/life-events/'+form.event.id,'PATCH',{revision:4,significance:'anecdotal'});assert.equal(same.event.revision,4,'no change, no new revision');
  assert.equal((await s.call('/api/life-events/'+other.event.id,'PATCH',{revision:1,significance:'mineur'})).code,'invalid_input');
@@ -75,7 +75,7 @@ test('Ambre sort: cited first, then marking moments (and every exposure), then t
  const d=s.raw.prepare("SELECT id,revision FROM life_events WHERE title='Moment d'").get();await s.call('/api/life-events/'+d.id,'PATCH',{revision:d.revision,exposure:'witnessed'});
  const context=await s.personal.context(s.env,'a'),index=knowledgeIndex(context),titles=index.filter(x=>x.kind==='event').map(x=>x.label.split(' · ')[0]);
  assert.deepEqual(titles,['Moment c','Moment d','Moment a','Moment b','Voyage en Islande']);
- const major=index.find(x=>x.label.startsWith('Moment c'));assert.match(major.label,/marquant/);assert.match(major.header,/Dans mon histoire : marquant/);
+ const major=index.find(x=>x.label.startsWith('Moment c'));assert.doesNotMatch(major.label,/marquant/);assert.match(major.header,/Dans mon histoire : marquant/);
  assert.match(index.find(x=>x.label.startsWith('Moment b')).header,/Dans mon histoire : anecdotique/);
  assert.doesNotMatch(index.find(x=>x.label.startsWith('Moment a')).header,/Dans mon histoire/,'nothing said for a moment « à préciser »');
  // A moment cited in the message comes before a marking one.
@@ -102,8 +102,8 @@ test('Budget: every moment noted keeps the turn and the review within +10 %',asy
 test('UI: accepting a proposed moment asks « Anecdotique / Marquant » and sends the choice apart',async()=>{
  const script=HTML.match(/<script>([\s\S]*?)<\/script>/)[1];
  assert.match(script,/var SIGNIFICANCE_CHOICES=\[\['anecdotal','Anecdotique'\],\['major','Marquant'\]\];/);
- assert.match(script,/askSignificance\?\{significance:choices\.get\(proposal\.id\)\}/);
- assert.match(script,/significanceField\(grid,values\.significance,\{required:!draft\.id/);
+ assert.match(script,/askSignificance\?\{significance:choices\.get\(proposal\.id\),entry:'form'\}/);
+ assert.match(script,/significanceField\(grid,values\.significance,\{required:!draft\.id,allowUnset:Boolean\(draft\.id\)/);assert.match(script,/aria-labelledby/);
  assert.match(script,/payload\.entry='form'/);
  // Pure helpers, run in a sandbox.
  const code=name=>{const start=script.search(new RegExp('function '+name+'\\('));let depth=0,i=script.indexOf('{',start);for(;i<script.length;i++){if(script[i]==='{')depth++;else if(script[i]==='}'&&!--depth)break}return script.slice(start,i+1)};

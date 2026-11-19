@@ -62,7 +62,7 @@ function database(until){
    check(kind+' anecdotal card: hollow dot, lighter title',await member.locator('#event-'+old[1].id).evaluate(n=>getComputedStyle(n,'::before').backgroundColor!=='rgb(32, 94, 84)'&&Number(getComputedStyle(n.querySelector('h4')).fontWeight)<600));
    await shot('frise-tous');
    // « Tous / Marquants »: the anecdotal moment is hidden, the moments « à préciser » are listed apart.
-   await press(member.locator('.moment-filter').getByRole('button',{name:'Marquants',exact:true}));
+   await press(member.locator('.moment-filter').getByRole('button',{name:'Marquants',exact:true}));await member.locator('.moment-filter button[aria-pressed="true"]',{hasText:'Marquants'}).waitFor();
    check(kind+' filter: pressed state',await member.locator('.moment-filter button[aria-pressed="true"]').textContent()==='Marquants');
    check(kind+' filter: marking moment in the line',await member.locator('.event-timeline #event-'+born.id).count()===1);
    check(kind+' filter: anecdotal hidden',await member.locator('#event-'+old[1].id).count()===0);
@@ -76,7 +76,7 @@ function database(until){
    check(kind+' person frise: marking moment strong',await member.locator('[data-event-id="'+old[2].id+'"]').evaluate(n=>n.classList.contains('is-major')&&Number(getComputedStyle(n.querySelector('.frise-title')).fontWeight)>=700));
    check(kind+' person frise: « à préciser » choice',await member.locator('[data-event-id="'+old[0].id+'"] .significance-choice').count()===1);
    await shot('proche-tous');
-   await press(member.locator('.person-timeline .moment-filter').getByRole('button',{name:'Marquants',exact:true}));
+   await press(member.locator('.person-timeline .moment-filter').getByRole('button',{name:'Marquants',exact:true}));await member.locator('.person-timeline .moment-filter button[aria-pressed="true"]',{hasText:'Marquants'}).waitFor();
    check(kind+' person filter: « à préciser » apart',await member.locator('.person-timeline .pending-moments [data-event-id="'+old[0].id+'"]').count()===1);
    await shot('proche-marquants');
    await press(member.locator('[data-event-id="'+old[0].id+'"]').getByRole('button',{name:'Anecdotique',exact:true}));await member.locator('.moment-filter-hidden').waitFor();
@@ -93,6 +93,29 @@ function database(until){
    const kept=await api(member,'/api/life-events/'+born.id,'PATCH',{revision:born.revision,description:'Le jour où tout a changé, vraiment.'});check(kind+' PATCH without the field keeps « major »',kept.event.significance==='major',kept.event);
    // Export.
    const exported=await api(member,'/api/export');const rows=JSON.stringify(exported);check(kind+' export carries the field',rows.includes('"significance":"major"')&&rows.includes('"significance":"anecdotal"'));
+   if(kind==='d1440'){
+    // Modifier can bring a moment back to « À préciser » (explicit null).
+    await member.goto('https://ambre.test/ma-ligne-de-vie/');let row=(await api(member,'/api/life-events/'+old[1].id)).event;
+    await member.locator('#event-'+old[1].id).getByRole('button',{name:'Modifier',exact:true}).click();
+    check(kind+' edit form: three choices, current one checked',await member.locator('#events-form [name=significance]').count()===3&&await member.locator('#events-form [name=significance][value=anecdotal]').isChecked());
+    check(kind+' radiogroup labelled by its legend',await member.locator('#events-form [role=radiogroup]').evaluate(n=>document.getElementById(n.getAttribute('aria-labelledby'))?.textContent)==='Place dans votre histoire');
+    await member.locator('#events-form .segment',{hasText:'À préciser'}).click();await member.locator('#events-form').getByRole('button',{name:'Enregistrer',exact:true}).click();await member.locator('#events-form').waitFor({state:'detached'});
+    row=(await api(member,'/api/life-events/'+old[1].id)).event;check(kind+' back to « à préciser »',row.significance===null,row);
+    // Quick choice on the card while its edit form is open: the draft follows, no conflict on the next save.
+    await member.locator('#event-'+old[1].id).getByRole('button',{name:'Modifier',exact:true}).click();await member.locator('#events-form [name=description]').fill('Un souvenir ancien, précisé.');
+    await member.locator('#event-'+old[1].id).getByRole('button',{name:'Marquant',exact:true}).click();await member.locator('#event-'+old[1].id+'.is-major').waitFor();
+    check(kind+' open draft follows the quick choice',await member.locator('#events-form [name=significance][value=major]').isChecked()&&await member.locator('#events-form [name=description]').inputValue()==='Un souvenir ancien, précisé.');
+    await member.locator('#events-form').getByRole('button',{name:'Enregistrer',exact:true}).click();await member.locator('#events-form').waitFor({state:'detached'});
+    row=(await api(member,'/api/life-events/'+old[1].id)).event;check(kind+' saved after the quick choice without conflict',row.significance==='major'&&row.description==='Un souvenir ancien, précisé.',row);
+    // A long, paginated line: « Marquants » is filtered by the API, so moments beyond the first page appear.
+    for(let i=0;i<55;i++){const r=await api(member,'/api/life-events','POST',{creation_id:'bulk-moment-'+i,title:'Petit moment '+i,kind:'other',description:'Un détail.',date_precision:'year',date_start:String(2030+i),significance:'anecdotal',people_ids:[]});if(r.status!==201)throw new Error(JSON.stringify(r))}
+    await member.goto('https://ambre.test/ma-ligne-de-vie/');await member.locator('.moment-filter').waitFor();
+    check(kind+' all moments: the marking one is beyond the first page',await member.locator('#event-'+born.id).count()===0);
+    await member.locator('.moment-filter').getByRole('button',{name:'Marquants',exact:true}).click();await member.locator('#event-'+born.id).waitFor();
+    check(kind+' « Marquants » shows every marking moment of the line',await member.locator('.event-timeline .event-card.is-major').count()===3,await member.locator('.event-timeline .event-card.is-major').count());
+    check(kind+' « Marquants » loads no anecdotal moment',await member.locator('.event-card.is-anecdotal').count()===0);
+    await shot('filtre-marquants-pagine');
+   }
    await member.context().close();db.raw.close();
   }
   // Before migration 0027: no choice in the form, creation works, nothing about « à préciser ».
