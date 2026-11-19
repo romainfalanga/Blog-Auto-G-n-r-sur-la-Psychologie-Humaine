@@ -63,7 +63,6 @@ export function validateCartography(input,fail,data=CARTOGRAPHIE,{note_max=NOTE_
  for(const id of answerKeys.sort()){
   if(!factors.has(id))invalid('Élément de l’enfance inconnu.');
   if(answers[id]!==0&&answers[id]!==1&&answers[id]!==2&&answers[id]!=='unknown'&&!(historicalAnswers&&answers[id]==='past'))invalid(historicalAnswers?'Choisissez Non, Oui, Je ne sais pas ou Dans le passé.':'Choisissez Non, Oui, Souvent ou Je ne sais pas.');
-  if(answers[id]==='past'&&!notes.factors[id])invalid('Une précision est obligatoire pour une réponse « Dans le passé ».');
   cleanAnswers[id]=answers[id];
  }
  for(const group of data.exclusive||[])if(group.filter(id=>cleanAnswers[id]===1||cleanAnswers[id]===2).length>1)invalid('Ces réponses décrivent des situations alternatives : choisissez celle qui correspond à votre vécu.');

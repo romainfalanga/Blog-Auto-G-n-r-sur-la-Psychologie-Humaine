@@ -1,3 +1,5 @@
+> **Mise à jour du 19/11 (soir)** : « Dans le passé » n'exige plus de précision (page, serveur, prérequis d'Ambre, évaluation clinique) — voir `docs/symptomes-passe-sans-precision-2026-11-19.md`. Les problèmes de bilans (`context_changed`, `review_not_approved`) restent ouverts.
+
 # Reprise du 19 novembre 2026 (passage à Codex)
 
 > **Dernier complément publié : PR 108**, les 516 réponses de Mes symptômes sont désormais obligatoires pour Ambre, avec annonce publique et compteur. Voir [la livraison du prérequis](ambre-prerequis-symptomes-2026-11-19.md).

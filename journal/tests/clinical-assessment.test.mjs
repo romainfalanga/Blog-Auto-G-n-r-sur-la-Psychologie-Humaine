@@ -10,10 +10,10 @@ test('all subjects have explicit coverage; no clinical certainty from empty answ
  assert.ok(result.outcomes.every(o=>o.coverage_status&&o.hypothesis_state==='insufficient_information'&&o.dimensions.duration==='unknown'));
  assert.equal(result.diagnostic_status,'not_diagnostic');assert.equal(result.dataset_sha256,createHash('sha256').update(readFileSync(new URL('../../data/symptomes_carte.json',import.meta.url))).digest('hex'));
 });
-test('historical declarations need notes and never become current manifestations',()=>{
- const id=data.factors[0].id;assert.throws(()=>buildClinicalAssessment(snapshot({[id]:'past'})));
- const result=buildClinicalAssessment(snapshot({[id]:'past'},{[id]:'Il y a dix ans.'}));
- assert.ok(result.outcomes.some(o=>o.evidence.historical.length));assert.ok(result.outcomes.every(o=>o.evidence.current_window.length===0));
+test('historical declarations, with or without a note, never become current manifestations',()=>{
+ const id=data.factors[0].id;
+ for(const result of [buildClinicalAssessment(snapshot({[id]:'past'})),buildClinicalAssessment(snapshot({[id]:'past'},{[id]:'Il y a dix ans.'}))]){assert.ok(result.outcomes.some(o=>o.evidence.historical.length));assert.ok(result.outcomes.every(o=>o.evidence.current_window.length===0));}
+ assert.ok(buildClinicalAssessment(snapshot({[id]:'past'})).outcomes.flatMap(o=>o.evidence.historical).every(e=>e.note_ref===null));
 });
 test('unknown, unanswered and explicit no remain separate from diagnostic exclusion',()=>{
  const ids=data.factors.slice(0,2).map(x=>x.id),result=buildClinicalAssessment(snapshot({[ids[0]]:0,[ids[1]]:'unknown'}));

@@ -7,7 +7,7 @@ Demande : annoncer le questionnaire complet avant connexion et empêcher le lanc
 | Information publique | La page Ambre avant connexion indique les 516 questions, ainsi que les autres prérequis. |
 | Progression | Une cinquième étape « Mes symptômes » affiche le nombre de réponses sur 516 et un lien pour compléter. |
 | Contrôle effectif | Contrôle JavaScript serveur et garde SQL avant admission, appel fournisseur et publication ; les discussions déjà commencées suivent aussi cette règle. |
-| Réponses acceptées | Non, Oui, Je ne sais pas, Dans le passé avec précision non vide. Aucun préremplissage des vrais comptes. |
+| Réponses acceptées | Non, Oui, Je ne sais pas, Dans le passé (précision facultative depuis le 19/11, voir `docs/symptomes-passe-sans-precision-2026-11-19.md`). Aucun préremplissage des vrais comptes. |
 | Préservation | Les réponses, notes, historiques, autorisations et réglages de facturation existants sont conservés. |
 
 Tests ciblés : 140 tests serveur/interface réussis ; navigateur réel sur Worker local et SQLite à 390 et 1 440 px, annonce publique visible, 515 réponses bloquées, 516 réponses autorisées. Aucun appel IA payant dans cette recette. Relecture indépendante des contrôles JS/SQL sans défaut bloquant.

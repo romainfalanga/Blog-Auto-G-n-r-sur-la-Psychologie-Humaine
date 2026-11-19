@@ -23,7 +23,6 @@ export function buildClinicalAssessment(snapshot) {
  const factors=new Map(SYMPTOMES_CARTE.factors.map(f=>[f.id,f]));
  for (const [id,value] of Object.entries(answers)) {
   if (!factors.has(id)||![0,1,2,'unknown','past'].includes(value)) throw new TypeError('Réponse de symptômes inconnue.');
-  if (value==='past'&&(typeof notes[id]!=='string'||!notes[id].trim())) throw new TypeError('Une précision est requise pour le passé.');
  }
  const links=new Map();
  for(const link of SYMPTOMES_CARTE.links){if(!links.has(link.outcome))links.set(link.outcome,[]);links.get(link.outcome).push(link);}
