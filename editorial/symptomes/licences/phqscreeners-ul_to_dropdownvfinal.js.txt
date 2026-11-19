@@ -1,0 +1,1068 @@
+/**
+* JS for Select screener page
+*/
+
+jQuery(document).ready(function () {
+
+  /**
+   * JSON for screenrs and corresponding language 
+   */
+
+
+  var jsonObj = {
+    screeners: [
+
+      {
+        screenerID: 2,
+        "value": "PHQ",
+        language: [
+          {
+            name: "Czech for the Czech Republic",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Czech for the Czech Republic.pdf"
+          },
+          {
+            name: "Danish for Denmark",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Danish for Denmark.pdf"
+          },
+          {
+            name: "Dutch for the Netherlands",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Dutch for the Netherlands.pdf"
+          },
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/English_0.pdf"
+          },
+          {
+            name: "Finnish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ _Finnish for Finland.pdf"
+          },
+          {
+            name: "French for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_French for Canada.pdf"
+          },
+          {
+            name: "French for France",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_French for France.pdf"
+          },
+          {
+            name: "German for Germany",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_German for Germany.pdf"
+          },
+          {
+            name: "Hebrew for Israel",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Hebrew for Israel.pdf"
+          },
+          {
+            name: "Hungarian for Hungary",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Hungarian for Hungary.pdf"
+          },
+          {
+            name: "Italian for Italy",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Italian for Italy.pdf"
+          },
+          {
+            name: "Korean for Korea",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Korean for Korea.pdf"
+          },
+          {
+            name: "Malay for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Malay for Malaysia.pdf"
+          },
+          {
+            name: "Mandarin for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Mandarin for Malaysia.pdf"
+          },
+          {
+            name: "Norwegian for Norway",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Norwegian for Norway.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS.pdf"
+          },
+          {
+            name: "Polish for Poland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Polish for Poland.pdf"
+          },
+          {
+            name: "Portugese for Brazil",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Portuguese for Brazil.pdf"
+          },
+          {
+            name: "Russian for Russia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Russian for Russia.pdf"
+          },
+          {
+            name: "Spanish for Spain",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Spanish for Spain.pdf"
+          },
+          {
+            name: "Spanish for the USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Spanish for the USA.pdf"
+          },
+          {
+            name: "Swedish for Sweden",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Swedish for Sweden.pdf"
+          },
+          {
+            name: "Traditional Chinese for Hong Kong",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Traditional Chinese for Hong Kong.pdf"
+          },
+          {
+            name: "Traditional Chinese for Taiwan",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ_Traditional Chinese for Taiwan.pdf"
+          },
+        ]
+      },
+      {
+        screenerID: 3,
+        "value": "PHQ-9",
+        language: [
+          {
+            name: "Africaans for South Africa",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Africaans for South Africa.pdf"
+          },
+          {
+            name: "Arabic for Israel",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Arabic for Israel.pdf"
+          },
+          {
+            name: "Arabic for Tunisia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Arabic for Tunisia.pdf"
+          },
+          {
+            name: "Assamese for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Assamese for India.pdf"
+          },
+          {
+            name: "Bengali for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Bengali for India.pdf"
+          },
+          {
+            name: "Bulgarian for Bulgaria",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Bulgarian for Bulgaria.pdf"
+          },
+          {
+            name: "Cebuano for the Philippines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Cebuano for the Philippines.pdf"
+          },
+          {
+            name: "Cebuano-Davao for Philippines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Cebuano-Davao-Philippines.pdf"
+          },
+          {
+            name: "Chinese for Singapore",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Chinese-Singapore.pdf"
+          },
+          {
+            name: "Croatian for Croatia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Croatian for Croatia.pdf"
+          },
+          {
+            name: "Czech for the Czech Republic",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Czech for the Czech Republic.pdf"
+          },
+          {
+            name: "Danish for Denmark",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Danish for Denmark.pdf"
+          },
+          {
+            name: "Dutch for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Dutch for Belgium.pdf"
+          },
+          {
+            name: "Dutch for the Netherlands",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Dutch for the Netherlands.pdf"
+          },
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_English.pdf"
+          },
+          {
+            name: "English for Australia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for Australia_0.pdf"
+          },
+          {
+            name: "English for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for Canada_0.pdf"
+          },
+          {
+            name: "English for Hong Kong",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for Hong Kong.pdf"
+          },
+          {
+            name: "English for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for India.pdf"
+          },
+          {
+            name: "English for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for Malaysia.pdf"
+          },
+          {
+            name: "English for New Zealand",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for New Zealand.pdf"
+          },
+          {
+            name: "English for Philipines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for Phillipines.pdf"
+          },
+          {
+            name: "English for Singapore",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for Singapore.pdf"
+          },
+          {
+            name: "English for South Africa",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for South Africa_0.pdf"
+          },
+          {
+            name: "English for the UK",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_English for the UK.pdf"
+          },
+          {
+            name: "Estonian for Estonia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Estonian-Estonia.pdf"
+          },
+          {
+            name: "English for US original",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.0_English-US original.pdf"
+          },
+          {
+            name: "Filipino for the Philippines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Filipino for the Philippines.pdf"
+          },
+          {
+            name: "Finnish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Finnish for Finland.pdf"
+          },
+          {
+            name: "French for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_French for Belgium.pdf"
+          },
+
+          {
+            name: "French for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_French for Canada.pdf"
+          },
+
+          {
+            name: "French for France",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_French for France.pdf"
+          },
+
+          {
+            name: "French for Switzerland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_French for Switzerland.pdf"
+          },
+
+          {
+            name: "French for Tunisia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_French for Tunisia.pdf"
+          },
+          {
+            name: "German for Austria",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_German for Austria.pdf"
+          },
+          {
+            name: "German for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_German-Belgium.pdf"
+          },
+          {
+            name: "German for Germany",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_German for Germany.pdf"
+          },
+          {
+            name: "German for Switzerland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_German for Switzerland.pdf"
+          },
+          {
+            name: "Greek for Greece",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Greek for Greece.pdf"
+          },
+          {
+            name: "Gujarati for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Gujarati for India.pdf"
+          },
+          {
+            name: "HaitianCreole",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_HaitianCreole.pdf"
+          },
+          {
+            name: "Hebrew for Israel",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Hebrew_For Israel.pdf"
+          },
+          {
+            name: "Hindi for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Hindi for India.pdf"
+          },
+          {
+            name: "Hiligayno for Philippines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Hiligaynon-Philippines.pdf"
+          },
+          {
+            name: "Hungarian for Hungary",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Hungarian for Hungary.pdf"
+          },
+          {
+            name: "Indonesian for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Indonesian for Indonesia.pdf"
+          },
+          {
+            name: "Italian for Italy",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Italian for Italy.pdf"
+          },
+          {
+            name: "Italian for Switzerland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Italian for Switzerland.pdf"
+          },
+          {
+            name: "Japanese for Japan",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Japanese for Japan.pdf"
+          },
+          {
+            name: "Kannada for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Kannada for India.pdf"
+          },
+          {
+            name: "Korean for Korea",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Korean for Korea.pdf"
+          },
+          {
+            name: "Latvian for Latvia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_latviski_VPP_fin.pdf"
+          },
+          {
+            name: "Lithuanian for Lithuania",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Lithuanian for Lithuania.pdf"
+          },
+          {
+            name: "Malay for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Malay for Malaysia.pdf"
+          },
+          {
+            name: "Malay for Singapore",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Malay-Singapore.pdf"
+          },
+          {
+            name: "Malayalam for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Malayalam for India.pdf"
+          },
+          {
+            name: "Mandarin for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Mandarin for Malaysia.pdf"
+          },
+          {
+            name: "Marathi for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Marathi for India.pdf"
+          },
+
+          {
+            name: "Norwegian for Norway",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Norwegian for Norway.pdf"
+          },
+          {
+            name: "Oriya for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Oriya for India.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS_0.pdf"
+          },
+          {
+            name: "Polish for Poland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Polish for Poland.pdf"
+          },
+          {
+            name: "Portugese for Brazil",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Portuguese for Brazil.pdf"
+          },
+          {
+            name: "Portugese for Portugal",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Portuguese for Portugal.pdf"
+          },
+          {
+            name: "Punjabi for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Punjabi for India.pdf"
+          },
+          {
+            name: "Romanian for Romania",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Romanian for Romania.pdf"
+          },
+          {
+            name: "Russian for Estonia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Russian-Estonia.pdf"
+          },
+          {
+            name: "Russian for Israel",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Russian-Israel.pdf"
+          },
+          {
+            name: "Russian for Latvia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_krieviski_VPP_fin.pdf"
+          },
+          {
+            name: "Russian for Lithuania",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Russian-Lithuania.pdf"
+          },
+          {
+            name: "Russian for Russia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Russian for Russia.pdf"
+          },
+          {
+            name: "Russian for Ukraine",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Russian for Ukraine.pdf"
+          },
+          {
+            name: "Serbian for Serbia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Serbian for Serbia.pdf"
+          },
+          {
+            name: "Simplified Chinese for Mainland China",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Simplified Chinese for Mainland China.pdf"
+          },
+          {
+            name: "Slovakian for Slovakia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Slovakian for Slovakia.pdf"
+          },
+          {
+            name: "Spanish for Argentina",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Argentina.pdf"
+          },
+          {
+            name: "Spanish for Chile",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Chile.pdf"
+          },
+          {
+            name: "Spanish for Colombia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Colombia.pdf"
+          },
+          {
+            name: "Spanish for Mexico",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Mexico.pdf"
+          },
+          {
+            name: "Spanish for Peru",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Peru.pdf"
+          },
+          {
+            name: "Spanish for Puerto Rico",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Puerto Rico.pdf"
+          },
+          {
+            name: "Spanish for Spain",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for Spain.pdf"
+          },
+          {
+            name: "Spanish for the USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Spanish for the USA.pdf"
+          },
+          {
+            name: "Swahili for Africa",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Swahili for Africa.pdf"
+          },
+          {
+            name: "Swedish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Swedish-Finland.pdf"
+          },
+          {
+            name: "Swedish for Sweden",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Swedish for Sweden.pdf"
+          },
+          {
+            name: "Tamil for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Tamil for India.pdf"
+          },
+          {
+            name: "Tamil for Singapore",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-9_AU1.1_Tamil-Singapore.pdf"
+          },
+
+          {
+            name: "Telugu for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Telugu for India.pdf"
+          },
+          {
+            name: "Thai for Thailand",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Thai for Thailand.pdf"
+          },
+          {
+            name: "Traditional Chinese for Hong Kong",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Traditional Chinese for Hong Kong.pdf"
+          },
+          {
+            name: "Traditional Chinese for Taiwan",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Traditional Chinese for Taiwan.pdf"
+          },
+          {
+            name: "Turkish for Turkey",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Turkish for Turkey.pdf"
+          },
+          {
+            name: "Ukrainian for Ukraine",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ9_Ukrainian for Ukraine.pdf"
+          },
+
+        ]
+      },
+      {
+        screenerID: 4,
+        "value": "GAD-7",
+        language: [
+          {
+            name: "Africaans for South Africa",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Africaans for South Africa.pdf"
+          },
+          {
+            name: "Arabic for Tunisia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Arabic for Tunisia.pdf"
+          },
+          {
+            name: "Bulgarian for Bulgaria",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Bulgarian for Bulgaria.pdf"
+          },
+          {
+            name: "Cebuano for the Philippines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Cebuano for the Philippines.pdf"
+          },
+          {
+            name: "Chinese for China",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Chinese for China.pdf"
+          },
+          {
+            name: "Chinese for the USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Chinese for the USA.pdf"
+          },
+          {
+            name: "Croatian for Croatia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Croatian for Croatia.pdf"
+          },
+          {
+            name: "Czech for the Czech Republic",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Czech for the Czech Republic.pdf"
+          },
+          {
+            name: "Danish for Denmark",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Danish for Denmark.pdf"
+          },
+          {
+            name: "Dutch for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Dutch for Belgium.pdf"
+          },
+          {
+            name: "Dutch for the Netherlands",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Dutch for the Netherlands.pdf"
+          },
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf"
+          },
+          {
+            name: "English for Australia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for Australia.pdf"
+          },
+          {
+            name: "English for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for Canada.pdf"
+          },
+          {
+            name: "English for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for Malaysia.pdf"
+          },
+          {
+            name: "English for New Zealand",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for New Zealand.pdf"
+          },
+          {
+            name: "English for Philipines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for the Philippines.pdf"
+          },
+          {
+            name: "English for Singapore",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for Singapore.pdf"
+          },
+          {
+            name: "English for South Africa",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for South Africa.pdf"
+          },
+          {
+            name: "English for the UK",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for the UK.pdf"
+          },
+          {
+            name: "English for the USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_English for the USA_0.pdf"
+          },
+          {
+            name: "Filipino for the Philippines",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Filipino for the Philippines.pdf"
+          },
+          {
+            name: "Finnish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Finnish for Finland.pdf"
+          },
+          {
+            name: "French for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_French for Belgium.pdf"
+          },
+          {
+            name: "French for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_French for Canada.pdf"
+          },
+          {
+            name: "French for France",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_French for France.pdf"
+          },
+          {
+            name: "French for Switzerland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_French for Switzerland.pdf"
+          },
+          {
+            name: "French for Tunisia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_French for Tunisia.pdf"
+          },
+          {
+            name: "German for Austria",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_German for Austria.pdf"
+          },
+          {
+            name: "German for Switzerland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_German for Switzerland.pdf"
+          },
+          {
+            name: "Greek for Greece",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Greek for Greece.pdf"
+          },
+          {
+            name: "Gujarati for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Gujarati for India.pdf"
+          },
+          {
+            name: "Hebrew for Israel",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Hebrew for Israel.pdf"
+          },
+          {
+            name: "Hindi for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Hindi for India.pdf"
+          },
+          {
+            name: "Hungarian for Hungary",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Hungarian for Hungary.pdf"
+          },
+          {
+            name: "Indonesian for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Indonesian for India.pdf"
+          },
+          {
+            name: "Italian for Italy",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Italian for Italy.pdf"
+          },
+          {
+            name: "Italian for Switzerland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Italian for Switzerland.pdf"
+          },
+          {
+            name: "Kannada for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Kannada for India.pdf"
+          },
+          {
+            name: "Korean for Korea",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Korean for Korea.pdf"
+          },
+          {
+            name: "Latvian for Latvia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD-7_latv_VPP_fin.pdf"
+          },
+          {
+            name: "Lithuanian for Lithuania",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Lithuanian for Lithuania.pdf"
+          },
+          {
+            name: "Malay for Malaysia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD-7_AU1.0_may-MY.pdf"
+          },
+          {
+            name: "Malayalam for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Malayalam for India.pdf"
+          },
+          {
+            name: "Marathi for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Marathi for India.pdf"
+          },
+          {
+            name: "Norwegian for Norway",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Norwegian for Norway.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS_5.pdf"
+          },
+          {
+            name: "Polish for Poland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Polish for Poland.pdf"
+          },
+          {
+            name: "Portugese for Brazil",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Portuguese for Brazil.pdf"
+          },
+          {
+            name: "Portugese for Portugal",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Portuguese for Portugal.pdf"
+          },
+          {
+            name: "Punjabi for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Punjabi for India.pdf"
+          },
+          {
+            name: "Romanian for Romania",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Romanian for Romania.pdf"
+          },
+          {
+            name: "Russian for Latvia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD-7_rus_Vpp_fin.pdf"
+          },
+          {
+            name: "Russian for Russia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Russian for Russia.pdf"
+          },
+          {
+            name: "Russian for Ukraine",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Russian for Ukraine.pdf"
+          },
+          {
+            name: "Simplified Chinese for Mainland China",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Simplified Chinese for Mainland China.pdf"
+          },
+          {
+            name: "Slovakian for Slovakia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Slovakian for Slovakia.pdf"
+          },
+          {
+            name: "Spanish for Argentina",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for Argentina.pdf"
+          },
+          {
+            name: "Spanish for Colombia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for Colombia.pdf"
+          },
+          {
+            name: "Spanish for Mexico",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for Mexico.pdf"
+          },
+          {
+            name: "Spanish for Peru",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for Peru.pdf"
+          },
+          {
+            name: "Spanish for Puerto Rico",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for Puerto Rico.pdf"
+          },
+          {
+            name: "Spanish for Spain",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for Spain.pdf"
+          },
+          {
+            name: "Spanish for the USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Spanish for the USA.pdf"
+          },
+          {
+            name: "Swedish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Swedish for Finland.pdf"
+          },
+          {
+            name: "Swedish for Sweden",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Swedish for Sweden.pdf"
+          },
+          {
+            name: "Tamil for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Tamil for India.pdf"
+          },
+          {
+            name: "Telugu for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Telugu for India.pdf"
+          },
+          {
+            name: "Thai for Thailand",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Thai for Thailand.pdf"
+          },
+          {
+            name: "Traditional Chinese for Hong Kong",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Traditional Chinese for Hong Kong.pdf"
+          },
+          {
+            name: "Traditional Chinese for Taiwan",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Traditional Chinese for Taiwan.pdf"
+          },
+          {
+            name: "Turkish for Turkey",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Turkish for Turkey.pdf"
+          },
+          {
+            name: "Ukrainian for Ukraine",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Ukrainian for Ukraine.pdf"
+          },
+          {
+            name: "Urdu for India",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/GAD7_Urdu for India.pdf"
+          },
+
+        ]
+      },
+      {
+        screenerID: 5,
+        "value": "PHQ-15",
+        language: [
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/English_0 (1).pdf"
+          },
+          {
+            name: "English for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ15_English for Canada.pdf"
+          },
+          {
+            name: "English for South Africa",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ15_English for South Africa.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS_1.pdf"
+          },
+          {
+            name: "Russian for Russia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ15_Russian for Russia.pdf"
+          },
+          {
+            name: "Spanish for Chile",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ15_Spanish for Chile.pdf"
+          },
+          {
+            name: "Spanish for the USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ15_Spanish for the USA.pdf"
+          },
+          {
+            name: "Swedish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ15_Swedish for Finland.pdf"
+          },
+
+        ]
+      },
+      {
+        screenerID: 6,
+        "value": "PHQ-SADS",
+        language: [
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/English_1.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS_2.pdf"
+          },
+        ]
+      },
+      {
+        screenerID: 7,
+        "value": "Brief PHQ",
+        language: [
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/English_2.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS_3.pdf"
+          },
+        ]
+      },
+      {
+        screenerID: 8,
+        "value": "PHQ-4",
+        language: [
+          {
+            name: "English",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/English_3.pdf"
+          },
+          {
+            name: "OTHER TRANSLATIONS",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/ZZ_OTHER TRANSLATIONS_4.pdf"
+          },
+        ]
+      },
+	  {
+        screenerID: 9,
+        "value": "PHQ-8",
+        language: [
+          {
+            name: "Bulgarian for Bulgaria",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Bulgarian-Bulgaria.pdf"
+          },
+          {
+            name: "Czech for Czech Republic",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Czech-Czech Republic.pdf"
+          },
+          {
+            name: "Danish for Denmark",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Danish-Denmark.pdf"
+          },
+          {
+            name: "Dutch for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Dutch-Belgium.pdf"
+          },
+          {
+            name: "Dutch for Netherlands",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Dutch-Netherlands.pdf"
+          },
+          {
+            name: "English for Australia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_English-Australia.pdf"
+          },
+          {
+            name: "English for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_English-Canada.pdf"
+          },
+          {
+            name: "English for Singapore",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_English-Singapore.pdf"
+          },
+          {
+            name: "English for UK",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_English-UK.pdf"
+          },
+          {
+            name: "Finnish for Finland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Finnish-Finland.pdf"
+          },
+          {
+            name: "French for Belgium",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_French-Belgium.pdf"
+          },
+          {
+            name: "French for Canada",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_French-Canada.pdf"
+          },
+          {
+            name: "French for France",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_French-France.pdf"
+          },
+          {
+            name: "German for Germany",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_German-Germany.pdf"
+          },
+          {
+            name: "Hungarian for Hungary",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Hungarian-Hungary.pdf"
+          },
+          {
+            name: "Italian for Italy",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Italian-Italy.pdf"
+          },
+          {
+            name: "Japanese for Japan",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Japanese-Japan.pdf"
+          },
+          {
+            name: "Korean for Korea",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Korean-Korea.pdf"
+          },
+          {
+            name: "Latvian for Latvia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Latvian-Latvia.pdf"
+          },
+          {
+            name: "Polish for Poland",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Polish-Poland.pdf"
+          },
+          {
+            name: "Romanian for Romania",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Romanian-Romania.pdf"
+          },
+          {
+            name: "Russian for Latvia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Russian-Latvia.pdf"
+          },
+          {
+            name: "Russian for Russia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Russian-Russia.pdf"
+          },
+          {
+            name: "Simplified Chinese-Mainland for China ",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Simplified Chinese-Mainland China.pdf"
+          },
+          {
+            name: "Slovakian for Slovakia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Slovakian-Slovakia.pdf"
+          },
+          {
+            name: "Spanish for Argentina",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-Argentina.pdf"
+          },
+          {
+            name: "Spanish for Chile",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-Chile.pdf"
+          },
+          {
+            name: "Spanish for Colombia",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-Colombia.pdf"
+          },
+          {
+            name: "Spanish for Mexico",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-Mexico.pdf"
+          },
+          {
+            name: "Spanish for Peru",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-Peru.pdf"
+          },
+          {
+            name: "Spanish for Spain",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-Spain.pdf"
+          },
+          {
+            name: "Spanish for USA",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Spanish-USA.pdf"
+          },
+          {
+            name: "Swedish for Sweden",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Swedish-Sweden.pdf"
+          },
+          {
+            name: "Traditional Chinese for Taiwan",
+            pdfURL: "/images/sites/g/files/g10060481/f/201412/PHQ-8_Traditional Chinese-Taiwan.pdf"
+          },
+        ]
+      },
+
+    ]
+  }
+
+  var screenLength = jsonObj.screeners.length;
+  var screenHTML = '<option value="1">Select a Screener</option>';
+
+  for (let i = 0; i < screenLength; i++) {
+    screenHTML += '<option name="' + jsonObj.screeners[i].value + '" value="' + jsonObj.screeners[i].screenerID + '">' + jsonObj.screeners[i].value + '</option>'
+  }
+
+  jQuery('#item-select-screener').html(screenHTML);
+
+  jQuery("select#item-select-screener").change(function (event) {
+    var selectedScreener = jQuery(this).val();
+    var languages = jsonObj.screeners[selectedScreener - 2].language;
+    var langLength = languages.length;
+    var element = document.getElementById("select_language_dropdown");
+    element.disabled = false;
+    var langHTML = '<option value="1">Select language</option>';
+    for (let j = 0; j < langLength; j++) {
+      langHTML += '<option  value="' + languages[j].pdfURL + '">' + languages[j].name + '</option>'
+    }
+    jQuery('#select_language_dropdown').html(langHTML);
+    if (jQuery('#select_language_dropdown').val() === "1") {
+      jQuery("#divGoToScreener").css("display", "none");  
+    }
+  });
+
+  jQuery("select#select_language_dropdown").change(function (event) {
+    var selectedLang = jQuery(this).val();
+    jQuery('#aGoToScreener').attr('href', selectedLang); 
+    jQuery("#divGoToScreener").css("display", "block");
+  });
+});
+
+

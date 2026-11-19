@@ -1,0 +1,59 @@
+PHQ and GAD-7: OTHER TRANSLATIONS
+There are numerous translations of the PHQ as well as the PHQ-9 and GAD-7 available in many languages,
+which are freely downloadable on the PHQ website (www.phqscreeners.com). The abbreviated versions of
+these measures – PHQ-8, PHQ-2, GAD-2, and PHQ-4 – can simply be derived from the translations by
+selecting the relevant items (see Table 1 below). The PHQ-15 can also be simply derived by selecting the 13
+somatic items (1a-1m), plus the sleep and tired items (2c and 2c) from the PHQ translations.
+Many of the translations have been developed by the MAPI Research Institute using an internationally
+accepted translation methodology. Thus, most of the translations are linguistically valid. However, unlike the
+English versions of the PHQ and GAD-7, few of the translations have been psychometrically validated
+against an independent structured psychiatric interview.
+If a translation is not available for a language you are interested in using, and you have the interest and
+resources to develop a linguistically valid translation, please send an e-mail to questions@phqscreeners.com
+for instructions on how to proceed. One requirement is that we are provided a copy of the final translation as
+well as a description of the translation methodology.
+
+Table 1. Patient Health Questionnaire (PHQ) Family of Measures
+ Measure       Description                                   Scoring
+
+ Core
+
+ PRIME-MD      Predecessor of PHQ, now mainly of             Combined self-administered patient screener
+               historical interest.                          with clinician follow-up questions.
+
+ PHQ           Five modules covering 5 common types          Selected (but provisional) DSM-IV diagnoses
+               of mental disorders: depression, anxiety,     for all types of disorders except somatoform.
+               somatoform, alcohol, and eating.
+
+ PHQ-9         Depression scale from PHQ.                    Nine items, each of which is scored 0 to 3,
+                                                             providing a 0 to 27 severity score.
+
+ GAD-7         Anxiety measure developed after PHQ           Seven items, each of which is scored 0 to 3,
+               but incorporated into PHQ-SADS.               providing a 0 to 21 severity score.
+
+ PHQ-15        Somatic symptom scale from PHQ.               Fifteen items, each of which is scored 0 to 2,
+                                                             providing a 0 to 30 severity score.
+
+ PHQ-          PHQ-9, GAD-7, and PHQ-15 measures,            See scoring for these scales above.
+ SADS          plus panic measure from original PHQ.
+ Variants
+
+ Brief PHQ     PHQ-9 and panic measures from original        See scoring for PHQ above. Stressor and
+               PHQ plus items on stressors and               women’s health items are not diagnostic or
+               women’s health.                               scored.
+
+ PHQ-A         Substantially modified version of PHQ         Diagnostic scoring described in manual,
+               developed for use in adolescents.             available upon request.
+               Moderate data exists for validity but much
+               less than for original PHQ.
+ PHQ-2         First 2 items of PHQ-9. Ultra-brief           Two items scored 0 to 3 (total score of 0-6)
+               depression screener.
+
+ GAD-2         First 2 items of GAD-7. Ultra-brief anxiety   Two items scored 0 to 3 (total score of 0-6)
+               screener.
+ PHQ-4         PHQ-2 and GAD-2.                              See PHQ-2 and GAD-2 above.
+                                               th
+ PHQ-8         All items of PHQ-9 except the 9 item on       Eight items, each of which is scored 0 to 3,
+               self-harm. Mainly used in non-depression      providing a 0 to 24 severity score.
+               research studies.
+

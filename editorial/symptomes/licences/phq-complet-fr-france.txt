@@ -1,0 +1,168 @@
+      QUESTIONNAIRE SUR LA SANTE DU PATIENT (QSP)
+Ce questionnaire joue un rôle important pour nous aider à vous offrir les meilleurs soins possibles. Vos réponses
+nous permettront de comprendre les problèmes que vous pouvez avoir. Répondez à chaque question du mieux
+que vous le pouvez, à moins que l‟on ne vous demande de passer à la question suivante.
+
+Nom ______________________ Âge_____                             Sexe :  Féminin  Masculin                    Date ________
+
+1. Au cours des 4 dernières semaines, à quel point avez-vous été                                Pas du tout         Un peu            Très
+   gêné(e) par les problèmes suivants ?                                                          gêné(e)            gêné(e)          gêné(e)
+         a.    Maux d‟estomac                                                                                                        
+         b.    Mal au dos                                                                                                            
+         c.    Douleurs aux bras, aux jambes ou aux articulations
+               (genoux, hanches, etc.)                                                                                               
+         d.    Douleurs menstruelles ou autres problèmes menstruels                                                                  
+         e.    Douleurs ou problèmes pendant les rapports sexuels                                                                    
+         f.    Maux de tête                                                                                                          
+         g.    Douleur à la poitrine                                                                                                 
+         h.    Vertiges                                                                                                              
+         i.    Évanouissements                                                                                                       
+         j.    Sentir son cœur battre fort ou vite                                                                                   
+         k.    Essoufflement                                                                                                         
+         I.    Constipation, selles molles ou diarrhée                                                                               
+         m. Nausées, flatulence ou indigestion                                                                                       
+
+2. Au cours des 2 dernières semaines, selon quelle fréquence                                                          Plus de la Presque
+   avez-vous été gêné(e) par les problèmes suivants ?                                                       Plusieurs moitié du tous les
+                                                                                                Jamais        jours     temps     jours
+         a.    Peu d‟intérêt ou de plaisir à faire les choses                                                                         
+         b.    Être triste, déprimé(e) ou désespéré(e)                                                                                
+         c.    Difficultés à s‟endormir ou à rester endormi(e), ou dormir
+               trop                                                                                                                   
+         d.    Se sentir fatigué(e) ou manquer d‟énergie                                                                              
+         e.    Avoir peu d‟appétit ou manger trop                                                                                     
+         f.    Avoir une mauvaise opinion de soi-même, ou avoir le
+               sentiment d‟être nul(le), ou d‟avoir déçu sa famille ou s‟être
+               déçu(e) soi-même                                                                                                       
+         g.    Avoir du mal à se concentrer, par exemple, pour lire le
+               journal ou regarder la télévision                                                                                      
+         h.    Bouger ou parler si lentement que les autres auraient pu le
+               remarquer. Ou au contraire, être si agité(e) que vous avez
+               eu du mal à tenir en place par rapport à d‟habitude                                                                    
+         i.    Penser qu‟il vaudrait mieux mourir ou envisager de vous
+               faire du mal d‟une manière ou d‟une autre                                                                              
+
+FOR OFFICE CODING: Som Dis if at least 3 of #1a-m are “a lot” and lack an adequate biol explanation.
+Maj Dep Syn if answers to #2a or b and five or more of #2a-i are at least “More than half the days” (count #2i if present at all).
+Other Dep Syn if #2a or b and two, three, or four of #2a-i are at least “More than half the days” (count #2i if present at all).
+
+
+
+                                                                                                                                         PHQ 1/3
+3. Questions sur l’anxiété.
+        a.    Au cours des 4 dernières semaines, avez-vous eu une crise                           NON                   OUI
+              d‟anxiété, une sensation soudaine de peur ou de panique ?                                                 
+                                                                  o
+Si vous avez répondu « NON », allez à la question n 5
+        b.    Cela s‟est-il déjà produit avant ?                                                                        
+        c.    Certaines de ces crises surviennent-elles soudainement, de
+              façon inattendue, c‟est-à-dire dans des situations où vous ne
+              vous attendez pas à être nerveux(se) ou mal à l‟aise ?                                                    
+        d.    Ces crises vous gênent-elles beaucoup ou êtes-vous inquiet(e)
+              à l‟idée d‟en avoir une autre ?                                                                           
+
+
+4. Pensez à votre dernière grave crise d’anxiété.                                                 NON                   OUI
+        a.    Avez-vous été essoufflé(e) ?                                                                              
+        b.    Votre cœur a-t-il battu vite, fort ou a-t-il sauté des battements ?                                       
+        c.    Avez-vous eu une douleur à la poitrine ou vous êtes-vous
+              senti(e) oppressé(e) ?                                                                                    
+        d.    Avez-vous transpiré ?                                                                                     
+        e.    Avez-vous eu l‟impression de vous étouffer ?                                                              
+        f.    Avez-vous eu des bouffées de chaleur ou des frissons ?                                                    
+        g.    Avez-vous eu des nausées ou mal à l‟estomac, ou l‟impression
+              que vous alliez avoir une diarrhée ?                                                                      
+        h.    Avez-vous eu des vertiges, l‟impression de perdre l‟équilibre
+              ou avez-vous été sur le point de vous évanouir ?                                                          
+        i.    Avez-vous ressenti des picotements ou un engourdissement
+              dans certaines parties de votre corps ?...                                                                
+        j.    Avez-vous eu des tremblements ?                                                                           
+        k.    Avez-vous eu peur d‟être en train de mourir ?                                                             
+
+                                                                                                                       Plus de la
+5. Au cours des 4 dernières semaines, selon quelle fréquence                                            Plusieurs      moitié du
+   avez-vous été gêné(e) par les problèmes suivants ?                                    Jamais           jours          temps
+        a.    Se sentir nerveux(se), anxieux(se), tendu(e) ou être très
+              inquiet(e) à propos de différentes choses.                                                                   
+                                                                      o
+Si vous avez répondu « Jamais », allez à la question n 6
+        b.    Se sentir agité(e) au point d‟avoir du mal à se tenir tranquille                                             
+        c.    Se fatiguer très facilement.                                                                                 
+        d.    Avoir des tensions, des douleurs ou des courbatures                                                          
+              musculaires.
+        e.    Difficultés à s‟endormir ou à rester endormi(e), ou dormir                                                   
+              trop.
+        f.    Avoir du mal à se concentrer, par exemple pour lire un livre                                                 
+              ou regarder la télévision.
+        g.    Être facilement contrarié(e) ou irritable.                                                                   
+
+FOR OFFICE CODING: Pan Syn if all of #3a-d are „YES‟ and four or more of #4a-k are „YES‟. Other Anx Syn if #5a and answers to three or
+more of #5b-g are “More than half the days”.
+
+
+                                                                                                                               PHQ 2/3
+6. Questions sur l’alimentation.
+         a. Avez-vous souvent l‟impression de ne pas pouvoir contrôler ce que                                             NON           OUI
+             vous mangez ou les quantités de nourriture que vous mangez ?                                                              
+               b.     Mangez-vous souvent, sur une période de 2 heures, ce que la
+                      plupart des gens considéreraient comme une quantité
+                      anormalement importante de nourriture ?                                                                          
+                                                                                                               o
+Si vous avez répondu « NON » aux questions a) ou b), allez à la question n 9
+               c.     En moyenne, cela s‟est-il produit 2 fois par semaine au cours des 3
+                      derniers mois ?                                                                                                  
+
+
+7. Au cours des 3 derniers mois, avez-vous souvent agi de la manière
+                                                                                                                          NON           OUI
+   suivante pour éviter de prendre du poids ?
+               a.     Vous faire vomir ?                                                                                                
+               b.     Prendre plus de deux fois la dose recommandée de laxatifs ?                                                       
+               c.     Jeûner, ne rien manger du tout pendant au moins 24 heures ?                                                       
+               d.     Faire de l‟exercice pendant plus d‟une heure précisément pour
+                                                                                                                                        
+                      éviter de prendre du poids après avoir beaucoup trop mangé ?
+
+
+8. Si vous avez répondu « OUI » à l’un de ces moyens d’éviter de prendre                                                  NON           OUI
+   du poids, cela s’est-il produit en moyenne 2 fois par semaine ?                                                                      
+
+
+9. Vous arrive-t-il de boire de l’alcool (y compris de la bière ou du vin) ?                                              NON           OUI
+                                                                             o                                                          
+Si vous avez répondu « NON », allez à la question n 11.
+10. Avez-vous été dans l’une des situations suivantes
+    plus d’une fois au cours des derniers 6 mois ?                                                                        NON           OUI
+               a.     Vous avez bu de l‟alcool alors que votre médecin vous avait
+                      conseillé d‟arrêter d‟en boire à cause d‟un problème de
+                      santé.                                                                                                           
+               b.     Vous avez bu de l‟alcool, avez été ivre, ou avez eu la gueule de bois
+                      pendant que vous travailliez, étiez en cours, que vous vous
+                      occupiez des enfants ou aviez d‟autres responsabilités.                                                          
+               c.     Vous avez manqué le travail, l‟école ou d‟autres activités ou êtes
+                      arrivé(e) en retard parce que vous aviez bu ou aviez la gueule de
+                      bois.                                                                                                            
+               d.     Vous avez eu du mal à vous entendre avec les autres lorsque vous
+                      buviez.                                                                                                          
+               e.     Vous avez conduit une voiture après avoir pris plusieurs verres ou
+                      après avoir trop bu.                                                                                             
+11. Si vous avez coché au moins un des problèmes évoqués, à quel point ce(s) problème(s) a-t-il (ont-ils)
+    rendu votre travail, vos tâches à la maison ou votre capacité à vous entendre avec les autres
+    difficile(s) ?
+
+          Pas du tout                               Assez                                 Très                                Extrêmement
+           difficile(s)                           difficile(s)                         difficile(s)                            difficile(s)
+
+                                                                                                                                
+
+
+FOR OFFICE CODING: Bul Ner if #6a,b, and-c and #8 are all „YES‟; Bin Eat Dis the same but #8 either „NO‟ or left blank.
+Alc Abu if any of #10a-e is „YES‟.
+
+Développé par les Dr Robert L. Spitzer, Janet B.W. Williams, Kurt Kroenke et leurs collègues grâce à une allocation d‟études de
+Pfizer Inc. La reproduction, la traduction, l‟affichage ou la distribution de ce document sont autorisés.
+
+
+
+                                                                                                                                              PHQ 3/3
+

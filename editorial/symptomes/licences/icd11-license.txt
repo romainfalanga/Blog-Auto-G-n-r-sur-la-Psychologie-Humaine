@@ -1,0 +1,33 @@
+﻿
+ICD-11 License - ICD-API Homepage
+ ICD-API Homepage
+ -->
+ ICD-API Homepage
+ICD-API Documentation
+Release Notes
+API Documentation (version 2.x)
+API Reference (version 2.x)
+ICD API Authentication
+Supported Classification Versions
+ICD Schema
+DORIS Support (Underlying cause of Death Detection)
+FHIR support (prerelease)
+Samples Github Repository
+Embedded Classification Tools (ECT)
+Embedded Classification Tools
+Embedded Coding Tool
+Embedded Browser
+Advanced settings
+ECT samples
+Installing the ICD-API locally
+General Information on Installing the API locally
+Installing ICD-API as a Docker container
+Installing ICD-API as a Windows Service
+Installing ICD-API as a systemd Service in Linux
+ICD-API Homepage
+ICD-11 License
+ICD-11 is licensed under the Creative Commons Attribution-NoDerivs 3.0 IGO 
+license (CC BY-ND 3.0 IGO).
+More information on the license for the ICD-11 and related software can be found at our 
+ICD-11 Terms of Use and License Agreement
+ document.
