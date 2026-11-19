@@ -112,10 +112,16 @@ function syWork(id,create){
 function syAdoptDrafts(page){
  SY.work={};
  (page.modules||[]).forEach(function(row){var d=row.draft;if(!d||!d.current_version||!d.answers)return;var answers={};Object.keys(d.answers).forEach(function(k){answers[k]=d.answers[k]});
-  var w={key:d.passation_key,started_at:d.started_at,answers:answers,prefilled:{},requested:false,dirty:0,saving:false,status:'Brouillon repris.',error:false};
+  var w={key:d.passation_key,started_at:d.started_at,answers:answers,prefilled:{},requested:false,dirty:0,saving:false,status:'Brouillon repris.',error:false};syRestorePrefs(w);
   var m=syModule(row.id);if(m&&m.entry&&m.entry.deepen_on_request){var plain=syFlow(row.id,answers,{reuse:answers}).ids,asked=syFlow(row.id,answers,{requested:true,reuse:answers}).ids;w.requested=Object.keys(answers).some(function(k){return plain.indexOf(k)<0&&asked.indexOf(k)>=0})}
   SY.work[row.id]=w});
 }
+// « Je préfère ne pas répondre » to an official item is sent as no answer; the page keeps it on this
+// device for the passation in progress (best effort: storage may be unavailable).
+function syPrefKey(work){return 'symptomes-pref:'+(state.me&&state.me.user&&state.me.user.id||'')+':'+work.key}
+function syStorePrefs(work){try{var ids=Object.keys(work.answers).filter(function(k){return work.answers[k]==='pref_local'});if(ids.length)localStorage.setItem(syPrefKey(work),JSON.stringify(ids));else localStorage.removeItem(syPrefKey(work))}catch(e){}}
+function syRestorePrefs(work){try{var ids=JSON.parse(localStorage.getItem(syPrefKey(work))||'[]');if(Array.isArray(ids))ids.forEach(function(k){if(typeof k==='string'&&work.answers[k]===undefined)work.answers[k]='pref_local'})}catch(e){}}
+function syDropPrefs(work){try{localStorage.removeItem(syPrefKey(work))}catch(e){}}
 function syChosenKey(){return 'symptomes-themes:'+(state.me&&state.me.user&&state.me.user.id||'')}
 function syChosen(){if(!SY.chosen){SY.chosen={};try{var saved=JSON.parse(localStorage.getItem(syChosenKey())||'[]');if(Array.isArray(saved))saved.forEach(function(id){if(syModule(id))SY.chosen[id]=true})}catch(e){}}return SY.chosen}
 function sySaveChosen(){try{localStorage.setItem(syChosenKey(),JSON.stringify(Object.keys(SY.chosen).filter(function(id){return SY.chosen[id]})))}catch(e){}}
@@ -164,7 +170,7 @@ function syAnswer(id,question,value){
  var targets=id==='temps1'?sySafetyTargets():[id];
  targets.forEach(function(target){var w=syWork(target,true);
   if(value==='pref'&&question.official)w.answers[question.id]='pref_local';else w.answers[question.id]=value;
-  delete w.prefilled[question.id];w.status='';
+  delete w.prefilled[question.id];w.status='';if(question.official)syStorePrefs(w);
   // An answer that no longer meets a trigger re-arms its screen for a later « oui ».
   syTriggerDefs().forEach(function(t){if(t.when&&t.when.q===question.id&&!syEngine().evaluate(t.when,{answers:w.answers}))delete SY.acknowledged[syAckScope(t,w)+':'+t.id]});
  });
@@ -196,7 +202,7 @@ async function syComplete(id,declined){
  var result;
  try{result=await api('/api/symptomes/checks','POST',body)}
  catch(err){if(err.code!=='passation_conflict')throw err;body.passation_key=syKey(id);result=await api('/api/symptomes/checks','POST',body)}
- delete SY.work[id];SY.overlap[id]=Boolean(result.overlap);SY.saved[id]=true;SY.open[id]=true;
+ if(w)syDropPrefs(w);delete SY.work[id];SY.overlap[id]=Boolean(result.overlap);SY.saved[id]=true;SY.open[id]=true;
  syApply(result.page,false);syRender();
 }
 async function syReload(){try{var page=await api('/api/symptomes');syApply(page,false)}catch(err){}syRender()}
@@ -213,7 +219,7 @@ function syFill(text,rule){
 function syResultModel(id,check){
  var D=syData(),F=D.fixed_texts,m=syModule(id),r=check&&check.result||{},stateName=check&&(check.state||r.state)||'non_explore',defs={};
  (m.rules||[]).forEach(function(rule){defs[rule.id]=rule});
- var model={module:id,title:m.label,date:check?check.completed_at:null,state:stateName,phrase:'',flag:false,paragraphs:[],notes:[],what_next:false,gene:null,positives:0,id:check?check.id:null};
+ var model={module:id,title:m.label,date:check?check.completed_at:null,state:stateName,phrase:'',flag:false,paragraphs:[],notes:[],refs:[],what_next:false,gene:null,positives:0,id:check?check.id:null};
  if(stateName==='refuse'){model.phrase='Vous avez choisi de ne pas répondre à ce thème.';return model}
  var rules=r.rules||[],instrumentOf=function(rule){return rule?syInstrumentName(rule.instrument):''},levelOf=function(rule){return rule&&rule.instrument!=='itq'&&rule.level&&rule.level.label?' · palier « '+rule.level.label+' »':''};
  if(stateName==='au_dessus'){var above=rules.find(function(x){return x.kind==='instrument'&&x.result==='positif'});model.phrase=above?'Au-dessus du repère publié par '+instrumentOf(above)+levelOf(above):'Au-dessus du repère publié';model.flag=true}
@@ -223,18 +229,28 @@ function syResultModel(id,check){
  else if(stateName==='indetermine')model.phrase='Résultat non lisible';
  var negative=false,note=function(text){if(text&&model.notes.indexOf(text)<0)model.notes.push(text)};
  rules.forEach(function(rule){var def=defs[rule.id];if(!rule.display||!def)return;
-  if(rule.result==='positif'){model.paragraphs.push(syFill(def.result_positive,rule));if(rule.kind!=='contexte')model.positives++;
+  if(rule.result==='positif'){model.paragraphs.push(syShort(syFill(def.result_positive,rule),model.refs));if(rule.kind!=='contexte')model.positives++;
    var key=rule.note||def.positive_note;note(key==='positive_note'?F.positive_note:key==='site_note'?F.site_note:key==='high_note'?F.high_note:key==='texte'?def.positive_note_text:'');
    if(rule.kind==='repere')note(F.unvalidated_label);if(rule.kind==='repere_site')note(F.unvalidated_label_site)}
-  else if(rule.result==='negatif'&&def.result_negative){model.paragraphs.push(syFill(def.result_negative,rule));negative=true}
+  // One card, one conclusion: a card above the reference does not list the secondary negative texts.
+  else if(rule.result==='negatif'&&def.result_negative&&!model.flag){model.paragraphs.push(syShort(syFill(def.result_negative,rule),model.refs));negative=true}
  });
- if(r.module_negative&&m.module_negative){model.paragraphs.push(m.module_negative);negative=true}
+ if(r.module_negative&&m.module_negative&&!model.flag){model.paragraphs.push(m.module_negative);negative=true}
  if(stateName==='indetermine')model.paragraphs.push(F.indetermine);
- if(negative)note(F.negative_note);
+ if(negative&&!model.flag)note(F.negative_note);
  model.what_next=model.flag;
  if(r.gene_text&&F[r.gene_text])model.gene=F[r.gene_text];
  if(check&&check.current_version===false)model.notes.push('Résultat calculé avec une version précédente du questionnaire.');
  return model;
+}
+// « (score 10 sur 27, palier « modéré », Kroenke et al. 2001) » → « (score 10 sur 27) »: the level is
+// in the conclusion, the reference goes in small print under the card.
+function syShort(text,refs){
+ return String(text).replace(/\s*\(([^()]*)\)/g,function(all,inner){
+  var kept=[];inner.split(/\s*[,;]\s*/).forEach(function(part){if(/et al\.\s*\d{4}/.test(part)){if(refs.indexOf(part)<0)refs.push(part)}else if(!/^palier\s*«/.test(part)&&part)kept.push(part)});
+  if(kept.length===inner.split(/\s*[,;]\s*/).filter(Boolean).length)return all;
+  return kept.length?' ('+kept.join(', ')+')':'';
+ });
 }
 function syRetestText(row){var r=row&&row.retest||{};if(r.never)return 'Ces questions portent sur toute votre vie : elles ne sont pas reposées d’office.';if(!r.next_at)return '';return r.due?'Vous pouvez refaire ce thème.':'Vous pourrez le refaire à partir du '+dateLabel(r.next_at)+'.'}
 function syRedo(id){var row=syRow(id);syWork(id,true);SY.open[id]=true;if(syModule(id).temps!=='temps1'){syChosen()[id]=true;sySaveChosen()}SY.redoEarly=SY.redoEarly||{};SY.redoEarly[id]=Boolean(row&&row.retest&&!row.retest.due&&!row.retest.never);SY.stopped=false;syRender();var node=SY.view&&SY.view.querySelector('[data-module="'+id+'"]');if(node&&node.scrollIntoView)node.scrollIntoView({block:'start'})}
@@ -246,10 +262,16 @@ function syQuestionRow(scope,question,value,extra){
  var options=syOptions(question.scale);if(question.na)options.push({value:'na',label:question.na});
  var official=options.length,hasPref=options.some(function(o){return o.value==='pref'});
  if(question.official&&!hasPref)options.push({value:'pref',label:SY_PREF_LABEL,quiet:true});
- var group=el('div','sy-choices'+(options.length>3?' is-long':'')+(options.length%2?' is-odd':''));group.setAttribute('role','group');group.setAttribute('aria-labelledby',labelId);group.style.setProperty('--n',String(options.length));
+ // A list of fine rows (one answer per row) on a phone; a fine segmented row on a computer when the
+ // answers fit, else the same list. « Je préfère ne pas répondre » is a quiet link under the answers.
+ var pref=options.filter(function(o){return o.value==='pref'})[0],main=options.filter(function(o){return o.value!=='pref'});
+ var list=main.length>5||main.some(function(o){return String(o.label).length>30});
+ var group=el('div','sy-choices'+(list?' is-list':''));group.setAttribute('role','group');group.setAttribute('aria-labelledby',labelId);group.style.setProperty('--n',String(main.length));
  var current=value==='pref_local'?'pref':value;
- options.forEach(function(o){var on=current!==undefined&&current!==null&&String(current)===String(o.value);var b=actionButton(o.label,function(){if(!on)syAnswer(scope,question,o.value)},'sy-choice'+(o.quiet?' is-quiet':'')+(on?' is-on':''));b.dataset.value=String(o.value);b.dataset.syFocus=scope+':'+question.id+':'+o.value;b.setAttribute('aria-pressed',String(on));group.append(b)});
+ function button(o,cls){var on=current!==undefined&&current!==null&&String(current)===String(o.value);var b=actionButton(o.label,function(){if(!on)syAnswer(scope,question,o.value)},cls+(on?' is-on':''));b.dataset.value=String(o.value);b.dataset.syFocus=scope+':'+question.id+':'+o.value;b.setAttribute('aria-pressed',String(on));return b}
+ main.forEach(function(o){group.append(button(o,'sy-choice'))});
  row.append(group);
+ if(pref)row.append(button(pref,'text sy-pref'));
  if(extra.prefilled)row.append(el('p','sy-q-hint','Réponse reprise de votre dernière passation ; vous pouvez la changer.'));
  if(extra.soft)row.append(el('p','sy-soft',extra.soft));
  return row;
@@ -311,12 +333,14 @@ function sySafetyBox(){
 function syResultCard(row){
  var model=syResultModel(row.id,row.last),card=el('article','sy-result'+(model.flag?' is-flag':''));card.id='sy-result-'+row.id;
  card.append(el('h3','',model.title),el('p','sy-result-meta',dateLabel(model.date)));
+ // Conclusion, short explanation, « Et maintenant ? », fixed sentence, reference in small print, actions.
  card.append(el('p','sy-result-state',model.phrase));
- if(model.what_next)card.append(el('p','sy-next',syData().fixed_texts.what_next));
  model.paragraphs.forEach(function(text){card.append(el('p','',text))});
  if(model.gene)card.append(el('p','',model.gene));
+ if(model.what_next)card.append(el('p','sy-next',syData().fixed_texts.what_next));
  if(SY.overlap[row.id])card.append(el('p','sy-result-note',syData().fixed_texts.overlap_note));
  if(model.notes.length){var notes=el('div','sy-result-notes');model.notes.forEach(function(text){notes.append(el('p','',text))});card.append(notes)}
+ if(model.refs.length)card.append(el('p','sy-result-ref','Référence : '+model.refs.join(' ; ')+'.'));
  var actions=el('div','sy-result-actions'),feedback=el('p','status');feedback.setAttribute('role','status');
  if(!SY.work[row.id])actions.append(actionButton(row.last.declined?'Faire ce thème':'Refaire',function(){syRedo(row.id)},'secondary'));
  actions.append(actionButton('Supprimer ce résultat',async function(){if(!await confirmDialog('Supprimer ce résultat ?','Ce résultat sera effacé de votre compte. Cette action est définitive.','Supprimer',true))return;try{var result=await api('/api/symptomes/checks/'+encodeURIComponent(row.last.id),'DELETE');delete SY.overlap[row.id];delete SY.saved[row.id];syApply(result.page,false);syRender()}catch(err){feedback.textContent=err.message;feedback.className='status error'}},'text danger'));
@@ -454,14 +478,25 @@ export const SYMPTOMES_INTERFACE_STYLE=String.raw`
 .sy-q + .sy-q { border-top: 1px solid color-mix(in srgb, var(--line) 60%, transparent); }
 .sy-q-text { max-width: 62ch; margin: 0; font: 600 var(--t-md)/1.4 var(--font-ui); }
 .sy-q-hint { max-width: 62ch; margin: 0; color: var(--muted); font-size: var(--t-sm); line-height: 1.5; }
-.sy-choices { display: grid; grid-template-columns: repeat(var(--n, 3), minmax(0, 1fr)); gap: 1px; width: min(100%, calc(var(--n, 3) * 9rem)); margin-top: var(--s1); padding: 0; border: 1px solid var(--line-strong); border-radius: var(--r-control); background: var(--line); overflow: hidden; }
+.sy-choices { display: grid; grid-template-columns: repeat(var(--n, 3), minmax(0, 1fr)); gap: 1px; width: min(100%, calc(var(--n, 3) * 11rem)); margin-top: var(--s1); padding: 0; border: 1px solid var(--line); border-radius: var(--r-control); background: var(--line); overflow: hidden; }
 .sy-choice { min-width: 0; min-height: 44px; padding: 6px var(--s2); border: 0; border-radius: 0; background: var(--surface); color: var(--ink); font: 400 var(--t-sm)/1.25 var(--font-ui); white-space: normal; text-align: center; }
-.sy-choice.is-quiet { color: var(--muted); font-size: var(--t-xs); }
 @media (hover: hover) { .sy-choice:hover { background: var(--accent-wash); } }
 .sy-choice:not(:disabled):active { transform: none; background: var(--accent-wash); }
 .sy-choice:focus-visible { outline-offset: -3px; }
-.sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--accent); font-weight: 600; box-shadow: inset 0 0 0 2px var(--accent); }
+.sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--accent); font-weight: 600; box-shadow: inset 0 -2px 0 var(--accent); }
 .sy-choice[aria-pressed="true"]::before { content: '✓' / ''; margin-right: 3px; font-weight: 700; }
+/* The list: one answer per fine row, a radio dot, thin separators, no frame. */
+.sy-choices.is-list { display: flex; flex-direction: column; gap: 0; width: 100%; max-width: 32rem; border: 0; border-radius: 0; background: none; }
+.sy-choices.is-list > .sy-choice { justify-content: flex-start; gap: var(--s3); padding: 6px var(--s2); border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent); border-radius: 0; background: none; text-align: left; box-shadow: none; }
+.sy-choices.is-list > .sy-choice:first-child { border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
+.sy-choices.is-list > .sy-choice::before { content: '' / ''; flex: none; box-sizing: border-box; width: 18px; height: 18px; margin: 0; border: 1.5px solid var(--line-strong); border-radius: 50%; background: var(--surface); color: #fff; font: 700 11px/15px var(--font-ui); text-align: center; }
+.sy-choices.is-list > .sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--ink); font-weight: 600; }
+.sy-choices.is-list > .sy-choice[aria-pressed="true"]::before { content: '✓' / ''; border-color: var(--accent); background: var(--accent); }
+.sy-choices.is-list > .sy-choice:not(:disabled):active { background: var(--accent-wash); }
+.sy-pref { align-self: flex-start; min-height: 44px; color: var(--muted); font-size: var(--t-xs); font-weight: 400; }
+.sy-pref[aria-pressed="true"] { color: var(--accent); font-weight: 600; }
+.sy-pref[aria-pressed="true"]::before { content: '✓' / ''; margin-right: 4px; }
+.sy-q > .sy-pref { margin-top: calc(-1 * var(--s2)); }
 .sy-soft { max-width: 62ch; margin: 0; padding-left: var(--s3); border-left: 2px solid var(--danger); font-size: var(--t-sm); line-height: 1.5; }
 .sy-notice { max-width: 62ch; margin: var(--s3) 0 0; color: var(--muted); font-size: var(--t-xs); line-height: 1.45; }
 .sy-offer { margin-top: var(--s4); }
@@ -493,6 +528,7 @@ export const SYMPTOMES_INTERFACE_STYLE=String.raw`
 .sy-result > p { font-size: var(--t-sm); line-height: 1.55; }
 .sy-next { padding: var(--s3) var(--s4); border-radius: var(--r-control); background: var(--accent-wash); }
 .sy-result-notes p, .sy-result-note { margin: 0 0 var(--s2); color: var(--muted); font-size: var(--t-xs); line-height: 1.45; }
+.sy-result-ref { margin: var(--s2) 0 0; color: var(--muted); font-size: 12px; line-height: 1.4; }
 .sy-result-actions { margin-top: var(--s3); padding-top: var(--s2); border-top: 1px solid var(--line); }
 .sy-result-actions .text, .sy-data-actions .text, .sy-data-actions .text-link { font-size: var(--t-sm); }
 .sy-resources { display: grid; gap: var(--s2); margin: var(--s3) 0 0; padding: 0; list-style: none; }
@@ -520,9 +556,13 @@ dialog.sy-safety h2:focus { outline: none; }
 .sy-consent-list li + li { margin-top: var(--s2); }
 .sy-minor p { max-width: 62ch; }
 @media (max-width: 599px) {
-  .sy-choices { width: 100%; }
-  .sy-choices.is-long { grid-template-columns: 1fr 1fr; }
-  .sy-choices.is-long.is-odd > :last-child { grid-column: 1 / -1; }
+  /* Phone: always the list of fine rows. */
+  .sy-choices, .sy-choices.is-list { display: flex; flex-direction: column; gap: 0; width: 100%; max-width: none; border: 0; border-radius: 0; background: none; }
+  .sy-choices > .sy-choice { justify-content: flex-start; gap: var(--s3); padding: 6px var(--s2); border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent); background: none; text-align: left; box-shadow: none; }
+  .sy-choices > .sy-choice:first-child { border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
+  .sy-choices > .sy-choice::before { content: '' / ''; flex: none; box-sizing: border-box; width: 18px; height: 18px; margin: 0; border: 1.5px solid var(--line-strong); border-radius: 50%; background: var(--surface); color: #fff; font: 700 11px/15px var(--font-ui); text-align: center; }
+  .sy-choices > .sy-choice[aria-pressed="true"] { background: var(--accent-wash); color: var(--ink); box-shadow: none; }
+  .sy-choices > .sy-choice[aria-pressed="true"]::before { content: '✓' / ''; margin: 0; border-color: var(--accent); background: var(--accent); }
   .sy-result { padding: var(--s4); }
   .sy-safety-actions { flex-direction: column; }
   .sy-safety-actions > button, .sy-safety-box > button { width: 100%; margin-right: 0; }

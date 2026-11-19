@@ -191,6 +191,12 @@ test('recording a theme: result « au-dessus / en dessous du repère publié »,
  assert.match(card.textContent,/Au-dessus du repère publié par PHQ-9 · palier « modéré »/);
  assert.match(card.textContent,/score 10 sur 27/);assert.ok(card.textContent.includes(S.fixed_texts.positive_note));assert.ok(card.textContent.includes(S.fixed_texts.what_next));assert.ok(card.textContent.includes(S.fixed_texts.gene_nettement));
  assert.doesNotMatch(card.textContent,/vous avez un trouble|diagnostic probable|dépression/i);
+ // One card, one conclusion: no secondary negative text, no negative fixed sentence, reference in small print.
+ assert.ok(!card.textContent.includes('humeur basse durable'));assert.ok(!card.textContent.includes(S.fixed_texts.negative_note));
+ assert.match(card.textContent,/\(score 10 sur 27\)\./);assert.doesNotMatch(card.querySelectorAll('p').filter(p=>!p.className).map(p=>p.textContent).join(' '),/Kroenke/);
+ assert.match(card.querySelector('.sy-result-ref').textContent,/Kroenke et al\. 2001/);
+ const order=['sy-result-state','sy-next','sy-result-notes','sy-result-ref','sy-result-actions'].map(c=>card.children.findIndex(n=>n.className===c));
+ assert.deepEqual(order,[...order].sort((x,y)=>x-y));
  assert.match(env.view.querySelector('[data-module="humeur"]').textContent,/Vous pourrez le refaire à partir du date:/);
  // Late autosave of the recorded passation: finished, the draft is not resumed.
  const late=await b.handler('/api/symptomes/drafts/humeur','PUT',{passation_key:post.data.passation_key,content_version:S.version,instrument_versions:post.data.instrument_versions,answers:{phq9_1:2}});
@@ -241,4 +247,14 @@ test('Paramètres: « Mes symptômes » line says what Ambre will receive, never
  assert.match(body.textContent,/Humeur basse et perte d’intérêt · au-dessus du repère publié · le 5/);assert.doesNotMatch(body.textContent,/Inquiétude/);assert.match(body.textContent,/Jamais vos réponses/);
  assert.match(ctx.settingsSymptomsSummary({available:true,consent:{given:false}}).textContent,/Ambre ne recevra rien/);
  assert.match(SETTINGS_INTERFACE_SCRIPT,/elsewhere\.append\(settingsSymptoms\(current\)\)/);
+});
+
+test('« Je préfère ne pas répondre » to an official item: quiet link, sent as no answer, kept on this device after a reload',async()=>{
+ const b=backend();b.birth('1980-01-01');await b.handler('/api/symptomes/consent','PUT',{consent:true});
+ let env=environment({handler:b.handler});await env.ctx.renderSymptoms(env.view,()=>true);
+ const pref=choice(env.view,'phq9_1','pref');assert.match(pref.className,/sy-pref/);assert.equal(pref.parent.className,'sy-q','outside the list of answers');
+ await pref.fire('click');await choice(env.view,'phq9_2','1').fire('click');await env.runTimers();
+ const draft=JSON.parse(b.raw.prepare("SELECT answers FROM symptom_drafts WHERE module='humeur'").get().answers);assert.equal(draft.phq9_1,undefined);assert.equal(draft.phq9_2,1);
+ const storage=env.ctx.localStorage;env=environment({handler:b.handler});env.ctx.localStorage=storage;await env.ctx.renderSymptoms(env.view,()=>true);
+ assert.equal(choice(env.view,'phq9_1','pref').getAttribute('aria-pressed'),'true');assert.equal(choice(env.view,'phq9_2','1').getAttribute('aria-pressed'),'true');
 });
