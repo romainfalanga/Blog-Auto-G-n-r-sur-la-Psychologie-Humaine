@@ -1,0 +1,498 @@
+{
+  "outcomes": [
+    {
+      "id": "sym_6a02",
+      "code": "6A02",
+      "label": "Troubles du spectre de l'autisme",
+      "description": "Des différences durables dans la communication et les échanges sociaux, avec des intérêts, routines et réactions sensorielles très marqués.",
+      "domain": "relations",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a03",
+      "code": "6A03",
+      "label": "Trouble développemental de l'apprentissage",
+      "description": "Des difficultés durables et marquées pour lire, écrire ou calculer, malgré un enseignement adapté, parfois repérées seulement à l'âge adulte.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a05",
+      "code": "6A05",
+      "label": "Trouble du déficit de l'attention avec ou sans hyperactivité",
+      "description": "Une inattention et/ou une agitation et une impulsivité durables, présentes depuis l'enfance, qui gênent le travail, les études ou la vie sociale.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_8a05",
+      "code": "8A05",
+      "label": "Tics",
+      "description": "Des mouvements ou des sons soudains, rapides et répétés, faits sans le vouloir, apparus pendant l'enfance ou l'adolescence.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a21",
+      "code": "6A21",
+      "label": "Trouble schizoaffectif",
+      "description": "Des voix, des idées inhabituelles ou une pensée désorganisée qui surviennent en même temps qu'une forte dépression ou exaltation.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a22",
+      "code": "6A22",
+      "label": "Trouble schizotypique",
+      "description": "Une façon durable de percevoir, croire, parler ou se comporter qui surprend les autres, avec méfiance et distance dans les relations.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a23",
+      "code": "6A23",
+      "label": "Trouble psychotique aigu et transitoire",
+      "description": "Des voix, des idées très inhabituelles ou une confusion qui apparaissent en quelques jours, changent vite et disparaissent en moins de trois mois.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a24",
+      "code": "6A24",
+      "label": "Trouble délirant",
+      "description": "Une conviction ferme et durable (être visé, trompé, malade, aimé en secret…) que l'entourage ne partage pas, sans autres troubles marqués.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a61",
+      "code": "6A61",
+      "label": "Trouble bipolaire de type II",
+      "description": "Des périodes de dépression qui alternent avec des périodes d'élan, d'énergie et d'assurance inhabituelles, moins intenses qu'une manie.",
+      "domain": "humeur",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a62",
+      "code": "6A62",
+      "label": "Trouble cyclothymique",
+      "description": "Une humeur instable depuis au moins deux ans, avec de nombreux hauts et bas plus légers que de vrais épisodes.",
+      "domain": "humeur",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a70",
+      "code": "6A70",
+      "label": "Épisode dépressif unique",
+      "description": "Une seule période d'au moins deux semaines de tristesse ou de perte de plaisir, avec d'autres signes de dépression.",
+      "domain": "humeur",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a71",
+      "code": "6A71",
+      "label": "Trouble dépressif récurrent",
+      "description": "Au moins deux périodes de dépression, séparées par plusieurs mois sans difficulté marquée de l'humeur.",
+      "domain": "humeur",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6a73",
+      "code": "6A73",
+      "label": "Trouble anxieux et dépressif mixte",
+      "description": "Une tristesse et une anxiété présentes ensemble pendant au moins deux semaines, sans être assez fortes pour un autre trouble.",
+      "domain": "humeur",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b00",
+      "code": "6B00",
+      "label": "Trouble d'anxiété généralisée",
+      "description": "Une inquiétude ou une appréhension présente la plupart des jours depuis des mois, avec tension, nervosité, fatigue ou troubles du sommeil.",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b03",
+      "code": "6B03",
+      "label": "Phobie spécifique",
+      "description": "Une peur intense et disproportionnée d'un objet ou d'une situation précise (animal, hauteur, sang, avion…), évitée ou subie avec angoisse.",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b21",
+      "code": "6B21",
+      "label": "Trouble de la perception du corps",
+      "description": "Une préoccupation durable pour un défaut d'apparence que les autres voient peu ou pas, avec vérifications, camouflage ou évitement.",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b22",
+      "code": "6B22",
+      "label": "Trouble de perception olfactive",
+      "description": "Une préoccupation durable à l'idée de dégager une mauvaise odeur que les autres ne sentent pas, avec vérifications ou évitement.",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b24",
+      "code": "6B24",
+      "label": "Trouble d'accumulation compulsive",
+      "description": "Une accumulation d'objets et une grande difficulté à s'en séparer, au point d'encombrer le logement et d'en gêner l'usage.",
+      "domain": "anxiete",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b250",
+      "code": "6B25.0",
+      "label": "Trichotillomanie",
+      "description": "Le fait de s'arracher les cheveux ou les poils de façon répétée, malgré des efforts pour arrêter, au point qu'il en manque.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b251",
+      "code": "6B25.1",
+      "label": "Trouble d'excoriation compulsive",
+      "description": "Le fait de gratter ou triturer sa peau de façon répétée, malgré des efforts pour arrêter, au point de laisser des plaies.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b61",
+      "code": "6B61",
+      "label": "Amnésie dissociative",
+      "description": "Une incapacité à se souvenir de moments importants de sa vie, souvent liés à un événement très dur, bien au-delà d'un oubli ordinaire.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b65",
+      "code": "6B65",
+      "label": "Trouble dissociatif de l'identité partiel",
+      "description": "Une part de soi qui semble parfois s'imposer (pensées, émotions, gestes), sans prendre durablement le contrôle de la vie quotidienne.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b66",
+      "code": "6B66",
+      "label": "Trouble dépersonnalisation-déréalisation",
+      "description": "Des moments répétés où l'on se sent étranger à soi-même ou au monde qui entoure, tout en sachant que ce n'est pas réel.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b83",
+      "code": "6B83",
+      "label": "Trouble de l’apport alimentaire évitant-restrictif",
+      "description": "Une alimentation très limitée en quantité ou en variété, sans souci de poids, par dégoût, peur ou manque d'intérêt, avec des effets sur la santé.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b84",
+      "code": "6B84",
+      "label": "Pica",
+      "description": "Le fait de manger régulièrement des choses qui ne sont pas des aliments, ou de grandes quantités d'ingrédients crus.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6b85",
+      "code": "6B85",
+      "label": "Trouble de rumination-régurgitation",
+      "description": "Le fait de faire remonter volontairement des aliments déjà avalés pour les remâcher, les ravaler ou les recracher.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c21",
+      "code": "6C21",
+      "label": "Dysphorie de l'intégrité corporelle",
+      "description": "Un désir intense et durable d'avoir un corps handicapé (perte d'un membre, de la vue…), avec un malaise face à son corps actuel.",
+      "domain": "soi",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c42",
+      "code": "6C42",
+      "label": "Troubles dus à l'utilisation de cannabinoïdes de synthèse",
+      "description": "Une consommation répétée de cannabinoïdes de synthèse devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c43",
+      "code": "6C43",
+      "label": "Troubles dus à la consommation d’opioïdes",
+      "description": "Une consommation répétée d'opioïdes (héroïne, antidouleurs opioïdes…) devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c44",
+      "code": "6C44",
+      "label": "Troubles dus à la consommation de sédatifs, d’hypnotiques ou d’anxiolytiques",
+      "description": "Une consommation répétée de calmants, somnifères ou anxiolytiques devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c45",
+      "code": "6C45",
+      "label": "Troubles dus à la consommation de cocaïne",
+      "description": "Une consommation répétée de cocaïne ou de crack devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c46",
+      "code": "6C46",
+      "label": "Troubles dus à l'utilisation de stimulants, comprenant les amphétamines, la méthamphétamine ou la méthcathinone",
+      "description": "Une consommation répétée d'amphétamines ou d'autres stimulants devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c47",
+      "code": "6C47",
+      "label": "Troubles dus à l'utilisation de cathinones de synthèse",
+      "description": "Une consommation répétée de cathinones de synthèse (méphédrone, 3-MMC…) devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c49",
+      "code": "6C49",
+      "label": "Troubles dus à la consommation d’hallucinogènes",
+      "description": "Une consommation répétée d'hallucinogènes (LSD, champignons…) devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c4b",
+      "code": "6C4B",
+      "label": "Troubles dus à l'utilisation de produits volatils inhalés",
+      "description": "Une inhalation répétée de colles, solvants ou autres produits volatils devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c4c",
+      "code": "6C4C",
+      "label": "Troubles dus à la consommation de methylene-dioxymethamphetamine [MDMA] ou de drogues apparentées, y compris le methylene-dioxyamphetamine [MDA]",
+      "description": "Une consommation répétée de MDMA, d'ecstasy ou de produits apparentés devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c4d",
+      "code": "6C4D",
+      "label": "Troubles dus à l'utilisation de médicaments dissociatifs, notamment la kétamine ou la phencyclidine [PCP]",
+      "description": "Une consommation répétée de kétamine ou d'autres produits dissociatifs devenue difficile à contrôler ou nuisible.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c51",
+      "code": "6C51",
+      "label": "Trouble du jeu",
+      "description": "Une pratique des jeux vidéo difficile à limiter, qui passe avant le reste et continue malgré ses conséquences, pendant longtemps.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c70",
+      "code": "6C70",
+      "label": "Pyromanie",
+      "description": "Des envies difficiles à contrôler d'allumer des feux, sans but précis, avec fascination pour le feu et soulagement après l'acte.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c71",
+      "code": "6C71",
+      "label": "Kleptomanie",
+      "description": "Des envies difficiles à contrôler de prendre des objets dont on n'a pas besoin, avec tension avant et soulagement après.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6c73",
+      "code": "6C73",
+      "label": "Trouble explosif intermittent",
+      "description": "Des accès de colère brefs et explosifs, verbaux ou physiques, sans commune mesure avec ce qui les déclenche, qui se répètent.",
+      "domain": "emotions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d10",
+      "code": "6D10",
+      "label": "Trouble de la personnalité",
+      "description": "Des difficultés durables dans la façon de se voir et d'être en lien avec les autres, présentes dans de nombreuses situations.",
+      "domain": "relations",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d110",
+      "code": "6D11.0",
+      "label": "Affectivité négative dans un trouble de la personnalité ou une difficulté de la personnalité",
+      "description": "Une tendance à ressentir souvent et fortement des émotions pénibles (anxiété, colère, honte…), avec une image de soi fragile.",
+      "domain": "emotions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d111",
+      "code": "6D11.1",
+      "label": "Détachement dans un trouble de la personnalité ou une difficulté de la personnalité",
+      "description": "Une tendance à garder ses distances avec les autres et à montrer peu ses émotions, même avec ses proches.",
+      "domain": "relations",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d112",
+      "code": "6D11.2",
+      "label": "Dissocialité dans un trouble de la personnalité ou une difficulté de la personnalité",
+      "description": "Une tendance à faire passer ses besoins avant ceux des autres et à être peu touché par ce qu'ils ressentent.",
+      "domain": "relations",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d113",
+      "code": "6D11.3",
+      "label": "Désinhibition dans un trouble de la personnalité ou une difficulté de la personnalité",
+      "description": "Une tendance à agir sur le moment sans penser aux conséquences, à se laisser distraire et à mal tenir ses engagements.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d114",
+      "code": "6D11.4",
+      "label": "Anankastie dans un trouble de la personnalité ou une difficulté de la personnalité",
+      "description": "Une tendance à viser une perfection rigide, à tout contrôler et à suivre des règles strictes, pour soi comme pour les autres.",
+      "domain": "soi",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d50",
+      "code": "6D50",
+      "label": "Trouble factice imposé à soi-même",
+      "description": "Le fait d'inventer, de provoquer ou d'aggraver soi-même des symptômes pour être soigné, sans chercher d'avantage matériel.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_6d71",
+      "code": "6D71",
+      "label": "Trouble neurocognitif léger",
+      "description": "Une baisse légère mais nette de la mémoire, du langage ou de l'organisation par rapport à avant, qui ne gêne pas encore l'autonomie.",
+      "domain": "perceptions",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_7a00",
+      "code": "7A00",
+      "label": "Insomnie chronique",
+      "description": "Des difficultés à s'endormir ou à rester endormi plusieurs fois par semaine depuis au moins trois mois, avec une gêne en journée.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_7a20",
+      "code": "7A20",
+      "label": "Narcolepsie",
+      "description": "Un besoin irrésistible de dormir dans la journée ou des endormissements soudains, avec des phénomènes particuliers au bord du sommeil.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_7a21",
+      "code": "7A21",
+      "label": "Hypersomnie idiopathique",
+      "description": "Un besoin irrésistible de dormir dans la journée depuis des mois, souvent avec de très longues nuits et un réveil difficile.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_7a26",
+      "code": "7A26",
+      "label": "Syndrome d'insuffisance de sommeil",
+      "description": "Une somnolence liée au fait de dormir régulièrement moins que son besoin, qui disparaît quand on peut dormir assez.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_ha00",
+      "code": "HA00",
+      "label": "Trouble du désir sexuel hypoactif",
+      "description": "Un désir sexuel absent ou nettement réduit depuis plusieurs mois, qui préoccupe ou fait souffrir.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_ha01",
+      "code": "HA01",
+      "label": "Trouble de l'excitation sexuelle",
+      "description": "Des difficultés d'excitation sexuelle, ressentie ou physique (lubrification, érection), qui préoccupent ou font souffrir.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_ha02",
+      "code": "HA02",
+      "label": "Troubles de l'orgasme",
+      "description": "Des difficultés à atteindre l'orgasme ou un orgasme très atténué, malgré une excitation suffisante, qui font souffrir.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_ha03",
+      "code": "HA03",
+      "label": "Troubles de l'éjaculation",
+      "description": "Une éjaculation qui survient bien plus tôt ou bien plus tard que souhaité, de façon répétée, et qui fait souffrir.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    },
+    {
+      "id": "sym_ha20",
+      "code": "HA20",
+      "label": "Trouble de la pénétration sexuelle douloureuse",
+      "description": "Des difficultés, douleurs ou peurs répétées lors de la pénétration, malgré le désir, qui font souffrir.",
+      "domain": "comportements",
+      "category": "diagnosis"
+    }
+  ],
+  "sources": [
+    {
+      "id": "oms_cddr",
+      "type": "classification",
+      "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+      "url": "https://www.who.int/publications/i/item/9789240077263",
+      "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
+    },
+    {
+      "id": "icd11_mms",
+      "type": "classification",
+      "citation": "OMS, Classification internationale des maladies, 11e révision (CIM-11), statistiques de mortalité et de morbidité (MMS), version 2026-01, chapitre 06",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr",
+      "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
+    },
+    {
+      "id": "icd11_mms_tabulation_fr",
+      "type": "classification",
+      "citation": "OMS, CIM-11 MMS, version 2026-01, tabulation simple en français (SimpleTabulation-ICD-11-MMS-fr) : codes et intitulés officiels",
+      "url": "https://icdcdn.who.int/static/releasefiles/2026-01/SimpleTabulation-ICD-11-MMS-fr.zip",
+      "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
+    },
+    {
+      "id": "icd11_mms_autres_chapitres",
+      "type": "classification",
+      "citation": "OMS, CIM-11 MMS, version 2026-01, chapitre 07 (7A00, 7A20, 7A21, 7A26), chapitre 08 (8A05) et chapitre 17 (HA00–HA03, HA20) : intitulés et descriptions des catégories",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr",
+      "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique ; descriptions seulement paraphrasées, jamais traduites ni recopiées"
+    }
+  ]
+}

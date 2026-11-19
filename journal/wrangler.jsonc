@@ -3,6 +3,8 @@
   "main": "src/worker.mjs",
   "compatibility_date": "2026-10-01",
   "workers_dev": true,
+  // Lot P: run the Worker near D1 (several reads per page). API upload: metadata "placement": {"mode": "smart"}.
+  "placement": { "mode": "smart" },
   "d1_databases": [
     {
       "binding": "DB",

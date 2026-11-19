@@ -15,7 +15,7 @@ function deferred(){let resolve;const promise=new Promise(r=>resolve=r);return {
  function hold(url,method='GET'){const gate={arrived:deferred(),release:deferred()},key=method+' '+url;gates.set(key,gate);return {arrived:gate.arrived.promise,release(){gates.delete(key);gate.release.resolve()}}}
  await page.route('https://loading.test/**',async route=>{
   const r=route.request(),url=new URL(r.url());requests.push({path:url.pathname,method:r.method(),type:r.resourceType()});
-  if(!url.pathname.startsWith('/api/')&&r.resourceType()!=='document')return route.fulfill({status:204,body:''});
+  if(!/^\/(?:api|app)\//.test(url.pathname)&&r.resourceType()!=='document')return route.fulfill({status:204,body:''});
   const gate=gates.get(r.method()+' '+url.pathname);if(gate){gate.arrived.resolve();await gate.release.promise}
   if(failure&&url.pathname==='/api/self-profile'&&r.method()==='GET'){failure=false;return route.fulfill({status:503,contentType:'application/json',body:JSON.stringify({error:'Indisponibilité de test'})})}
   const result=await worker.fetch(new Request(r.url(),{method:r.method(),headers:r.headers(),body:r.postData()||undefined}),env,ctx);await route.fulfill({status:result.status,headers:Object.fromEntries(result.headers),body:await result.text()});
