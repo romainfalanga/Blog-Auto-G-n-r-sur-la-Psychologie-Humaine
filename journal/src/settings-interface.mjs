@@ -1,23 +1,22 @@
 import { PERSON_CHOICES, EVENT_CHOICES } from './context-fields.mjs';
 import { CARTOGRAPHIE } from './cartographie.generated.mjs';
 import { CHANGE_STRATEGIES } from './change-strategies.generated.mjs';
-import { SYMPTOMES_MODULE_LABELS } from './symptomes-interface.mjs';
 export const SETTINGS_INTERFACE_SCRIPT=String.raw`
-// « Mes symptômes » : what Ambre will receive (lot C) — the themes above the published reference and
-// their date, never the answers. Read from the page state, computed by the server.
-var SETTINGS_SYMPTOM_LABELS=${JSON.stringify(SYMPTOMES_MODULE_LABELS)};
+// « Mes symptômes » : what Ambre receives (lot C). The text is rendered by the server with the very
+// function that builds Ambre's context (symptomes-ambre.mjs) and is shown here verbatim.
 function settingsSymptomsSummary(page){
  var body=el('div','settings-extra');
- body.append(el('p','','Ce qu’Ambre recevra quand elle pourra tenir compte de cette page : un résumé des thèmes au-dessus du repère, avec leur date, et le rapprochement avec Mon enfance. Jamais vos réponses, question par question. Pour l’instant, Ambre ne reçoit pas ce résumé.'));
+ body.append(el('p','','Ce qu’Ambre reçoit, dans la conversation et les bilans : un résumé des thèmes au-dessus du repère, avec leur date, et le rapprochement avec Mon enfance. Jamais vos réponses, question par question, ni aucun score.'));
  if(!page||!page.available){body.append(el('p','helper',page&&page.message||'« Mes symptômes » sera bientôt disponible.'));return body}
- if(!(page.consent&&page.consent.given)){body.append(el('p','helper','Vous n’avez pas donné votre accord : Ambre ne recevra rien de cette page.'));return body}
- var above=(page.modules||[]).filter(function(row){return row.last&&['au_dessus','repere_present'].indexOf(row.last.state)>=0});
- if(!above.length)body.append(el('p','helper','Aucun thème au-dessus du repère pour le moment : le résumé serait vide.'));
- else{var list=el('ul','');above.forEach(function(row){list.append(el('li','',(SETTINGS_SYMPTOM_LABELS[row.id]||row.id)+' · '+(row.last.state==='au_dessus'?'au-dessus du repère publié':'repère présent')+' · '+careDate(row.last.completed_at)))});body.append(list)}
+ if(!(page.consent&&page.consent.given)){body.append(el('p','helper','Vous n’avez pas donné votre accord : Ambre ne reçoit rien de cette page.'));return body}
+ var text=page.ambre&&page.ambre.block;
+ if(!text){body.append(el('p','helper','Aucun thème au-dessus du repère pour le moment : Ambre ne reçoit rien de cette page.'));return body}
+ body.append(el('p','helper','Texte exact transmis à Ambre :'));
+ var quote=el('blockquote','settings-symptoms-block');String(text).split('\n').forEach(function(line){quote.append(el('p','',line))});body.append(quote);
  return body;
 }
 function settingsSymptoms(current){
- var box=settingsDisclosure('Mes symptômes : ce qu’Ambre recevra',null,false),body=el('div','settings-extra'),loaded=false;box.append(body);
+ var box=settingsDisclosure('Mes symptômes : ce qu’Ambre reçoit',null,false),body=el('div','settings-extra'),loaded=false;box.append(body);
  box.addEventListener('toggle',async function(){if(!box.open||loaded)return;loaded=true;var wait=el('p','helper','Chargement…');body.replaceChildren(wait);try{var page=await api('/api/symptomes');if(!current())return;body.replaceChildren(settingsSymptomsSummary(page),settingsLink('Ouvrir Mes symptômes','/mes-symptomes/'))}catch(err){wait.textContent=err.message;loaded=false}});
  return box;
 }

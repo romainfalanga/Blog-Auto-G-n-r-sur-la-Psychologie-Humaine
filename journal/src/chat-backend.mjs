@@ -7,6 +7,8 @@ import {REVIEW_OUTPUT_SCHEMA,REVIEW_CHECK_SCHEMA,REVIEW_CHECK_CRITERIA,FEEDBACK_
 import {CHANGE_DRAFT_FIELDS,changePublication} from './change-engine.mjs';
 import {limitQuestions,responseSentences} from './chat-text.mjs';
 import {crisisSignal,riskSignal,safetyReply,ensureSafetyResources} from './chat-safety.mjs';
+import {symptomsForAmbre} from './symptomes-backend.mjs';
+import {SYMPTOMS_RULES} from './symptomes-ambre.mjs';
 import {parisWeek} from './personal-backend.mjs';
 import {contextHash} from './private-context.mjs';
 import {PROVIDER_URL,REFUSAL_STATUSES,providerBlock,recordRefusal,reserveDaily,releaseDaily,dailyCapReached,countMetric} from './provider-access.mjs';
@@ -740,10 +742,13 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
  async function reviewContext(env,userId,review,context){
   const changeState=await readChangeState(env,userId),includedTurnIds=[];
   // E (audit v5): the map arrives already bounded (cartographie.mjs keeps recognized, top and frequent subjects).
-  const base=promptContext(context,'',{review:true}),map=cartographyPromptBlock(context.cartography,REVIEW_CARTOGRAPHY_CHARS),available=journeySources(await capabilities(env,userId),null);
+  // Lot C « Mes symptômes »: the bounded summary (≤ 1 200 characters) and its rules are taken from the
+  // share of the childhood map; a blocking alert under 14 days is a recent safety antecedent.
+  const symptoms=await symptomsForAmbre(env,userId,now()),symptomsShare=symptoms?.block?symptoms.block.length+SYMPTOMS_RULES.length+80:0;
+  const base=promptContext(context,'',{review:true}),map=cartographyPromptBlock(context.cartography,REVIEW_CARTOGRAPHY_CHARS-symptomsShare),available=journeySources(await capabilities(env,userId),null);
   available.cartography={done:Boolean(map),count:map?map.cause_count:0};
   const observations=await peopleObservationReady(env)?await all(env,"SELECT person_id,axis,quote FROM people_observations WHERE user_id=? AND origin='accepted' ORDER BY created_at DESC,id DESC LIMIT 24",userId):[];
-  const data={kind:review.kind,available,current_identity:base.current_identity,sources:base.sources,portrait:base.portrait,psychological_hypotheses:base.psychological_hypotheses,people:base.people,events:base.events,...(map?{childhood_cartography:map}:{}),...(observations.length?{people_observations:observations}:{}),coverage:base.coverage};
+  const data={kind:review.kind,available,current_identity:base.current_identity,sources:base.sources,portrait:base.portrait,psychological_hypotheses:base.psychological_hypotheses,people:base.people,events:base.events,...(map?{childhood_cartography:map}:{}),...(symptoms?.block?{symptoms:symptoms.block}:{}),...(symptoms?.safety?{symptoms_safety:{kinds:symptoms.safety.kinds}}:{}),...(observations.length?{people_observations:observations}:{}),coverage:base.coverage};
   const meta={cartography:{present:Boolean(map),version:map?map.version:null,causes:map?map.cause_count:0},portrait:available.portrait.done,people:available.people.count,life_events:available.life_events.count,messages:0,previous_review_id:null};
   if(review.kind==='point'){
    const previous=await first(env,"SELECT id,kind,content,completed_at FROM ambre_reviews WHERE user_id=? AND status='ready' AND id!=? ORDER BY completed_at DESC,id DESC LIMIT 1",userId,review.id);
@@ -777,10 +782,12 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   // E (audit v5): the map shrinks first, then each source excerpt, then the oldest exchanges;
   // the accounts of people and moments keep a reserved share of the ceiling until the very end.
   const size=()=>JSON.stringify(data).length,storyChars=()=>data.sources.filter(x=>['person','event'].includes(x.type)).reduce((n,x)=>n+JSON.stringify(x).length,0);
-  let mapBudget=REVIEW_CARTOGRAPHY_CHARS;const shrunk={};
-  while(size()>REVIEW_CONTEXT_LIMIT){
+  let mapBudget=REVIEW_CARTOGRAPHY_CHARS-symptomsShare;const shrunk={};
+  // Lot C: the rules sent with the summary are paid for inside the same ceiling.
+  const contextLimit=REVIEW_CONTEXT_LIMIT-(data.symptoms?SYMPTOMS_RULES.length+1:0);
+  while(size()>contextLimit){
    if(data.conversation_since?.length>6){data.conversation_since.shift();includedTurnIds.shift();data.conversation_coverage.included_turns--;data.conversation_coverage.truncated=true;meta.messages--;continue;}
-   if(map&&mapBudget>REVIEW_CARTOGRAPHY_MIN){mapBudget=Math.max(REVIEW_CARTOGRAPHY_MIN,mapBudget-1500);data.childhood_cartography=cartographyPromptBlock(context.cartography,mapBudget);continue;}
+   if(map&&mapBudget>REVIEW_CARTOGRAPHY_MIN-symptomsShare){mapBudget=Math.max(REVIEW_CARTOGRAPHY_MIN-symptomsShare,mapBudget-1500);data.childhood_cartography=cartographyPromptBlock(context.cartography,mapBudget);continue;}
    if(data.people_observations?.length>6){data.people_observations.pop();continue;}
    if(data.previous_review&&data.previous_review.text.length>2100){const text=excerpt(data.previous_review.full,2000,600);data.previous_review.text=text.text;data.previous_review.excerpt=true;continue;}
    if(data.review_thread&&!shrunk.thread&&JSON.stringify(data.review_thread).length>1800){shrunk.thread=true;data.review_thread=reviewThread(data.thread_rows,{maxChars:1600});continue;}
@@ -881,7 +888,7 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    // Register inherited plan dependencies before sending any conversation copy.
    const registered=await env.DB.batch([stmt(env,`UPDATE ambre_reviews SET sources=? WHERE ${held} AND ${cas.sql}`,JSON.stringify(meta),...sourceArgs),...changeArtifactStatements(env,userId,'review',review.id,refs,changeState.context_generation,sourceGuard,sourceArgs)]);
    if(!registered[0].meta.changes)throw Object.assign(new Error('Sources changed'),{code:'context_changed'});
-   const supplied=suppliedText(data),corpus=reviewCorpus(data),signal=reviewSafetySignal(data),knownGoals=threadGoals(data.review_thread),system=buildReviewSystemPrompt(review.kind)+(context.people?.some(unsafePerson)?'\n'+SIGNAL_GUIDANCE.unsafe_relation:''),payload='Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data);
+   const supplied=suppliedText(data),corpus=reviewCorpus(data),signal=reviewSafetySignal(data),knownGoals=threadGoals(data.review_thread),system=buildReviewSystemPrompt(review.kind)+(context.people?.some(unsafePerson)?'\n'+SIGNAL_GUIDANCE.unsafe_relation:'')+(data.symptoms?'\n'+SYMPTOMS_RULES:''),payload='Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(data);
    const call=(options)=>reviewCall(env,{userId,review,held,deadline,...options});
    // The draft is saved under the same guard as the publication: a plan or context change between
    // two calls ends the review before the next call is bought.

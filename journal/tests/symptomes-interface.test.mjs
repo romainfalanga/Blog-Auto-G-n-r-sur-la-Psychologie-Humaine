@@ -239,13 +239,15 @@ test('crossing with Mon enfance: three lists with the display labels, the fixed 
  ctx.SY.page.crossing={childhood_available:false,lists:{}};ctx.syRender();assert.match(env.view.querySelector('.sy-cross').textContent,/Quand vous aurez rempli Mon enfance/);
 });
 
-test('Paramètres: « Mes symptômes » line says what Ambre will receive, never the answers',async()=>{
+test('Paramètres: « Mes symptômes » line shows verbatim the text Ambre receives, never the answers',async()=>{
  const doc={createElement:tag=>new Node(tag,doc)};doc.body=new Node('body',doc);
- const ctx={document:doc,JSON,el(tag,cls,text){const n=doc.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n},actionButton(){},careDate:v=>'le '+v};
+ const ctx={document:doc,JSON,String,el(tag,cls,text){const n=doc.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n},actionButton(){},careDate:v=>'le '+v};
  vm.createContext(ctx);vm.runInContext(SETTINGS_INTERFACE_SCRIPT,ctx);
- const body=ctx.settingsSymptomsSummary({available:true,consent:{given:true},modules:[{id:'humeur',last:{state:'au_dessus',completed_at:5,answers:{phq9_1:3}}},{id:'anxiete',last:{state:'en_dessous',completed_at:6}}]});
- assert.match(body.textContent,/Humeur basse et perte d’intérêt · au-dessus du repère publié · le 5/);assert.doesNotMatch(body.textContent,/Inquiétude/);assert.match(body.textContent,/Jamais vos réponses/);
- assert.match(ctx.settingsSymptomsSummary({available:true,consent:{given:false}}).textContent,/Ambre ne recevra rien/);
+ const block='« Mes symptômes » : questionnaires de repérage.\nThèmes au-dessus du repère :\n- Humeur basse et perte d’intérêt : au-dessus du repère publié ; résultat du 5 novembre 2026.';
+ const body=ctx.settingsSymptomsSummary({available:true,consent:{given:true},modules:[{id:'humeur',last:{state:'au_dessus',completed_at:5,answers:{phq9_1:3}}}],ambre:{block}});
+ assert.ok(body.textContent.includes(block.split('\n').join('')),'the exact text, line by line');assert.match(body.textContent,/Jamais vos réponses/);assert.doesNotMatch(body.textContent,/phq9_1/);
+ assert.match(ctx.settingsSymptomsSummary({available:true,consent:{given:true},modules:[],ambre:{block:null}}).textContent,/Ambre ne reçoit rien/);
+ assert.match(ctx.settingsSymptomsSummary({available:true,consent:{given:false}}).textContent,/Ambre ne reçoit rien/);
  assert.match(SETTINGS_INTERFACE_SCRIPT,/elsewhere\.append\(settingsSymptoms\(current\)\)/);
 });
 

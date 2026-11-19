@@ -58,6 +58,8 @@ export function reviewSafetySignal(data){
  let violence=false,self=false;
  for(const text of texts){const signal=riskSignal(text);if(signal?.signal==='violence')violence=true;else if(signal)self=true}
  if(data?.memory?.safety_seen)self=true;
+ // Lot C: a « Mes symptômes » alert under 14 days (suicide, self-harm or violence) is a recent antecedent.
+ for(const kind of data?.symptoms_safety?.kinds||[]){if(kind==='violences')violence=true;else self=true}
  const map=data?.childhood_cartography;if(map&&(map.suicide_recognized||(map.recognized||[]).some(x=>/suicid/i.test(String(x?.id||'')+' '+String(x?.label||'')))))self=true;
  return self?'self_harm':violence?'violence':null;
 }

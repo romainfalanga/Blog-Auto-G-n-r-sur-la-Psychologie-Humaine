@@ -6,6 +6,10 @@ import {SYMPTOMES} from './symptomes-data.generated.mjs';
 import {CARTOGRAPHIE} from './cartographie.generated.mjs';
 import {computeCartography,readCartography} from './cartographie.mjs';
 import {validatePassation,computeModuleResult,safetyTriggers,safetyScreen,ageGate,retestInfo,overlaps,crossWithChildhood,symptomsIndex,PASSATION_KEY} from './symptomes-engine.mjs';
+import {renderSymptomsBlock,symptomsSafetyState,safetyPayload,SYMPTOMS_SAFETY_DAYS} from './symptomes-ambre.mjs';
+import {platformAccess} from './entitlements.mjs';
+import {readCompanionReadiness} from './companion-readiness.mjs';
+import {readMonthlyQuotas} from './monthly-quotas.mjs';
 
 export const SYMPTOMS_BODY_LIMIT=20000;
 export const SYMPTOMS_HISTORY_LIMIT=100;
@@ -52,6 +56,49 @@ export async function latestSafetyReport(env,userId){
  return row?{reported_at:row.created_at,kind:row.kind}:null;
 }
 
+// Lot C: what Ambre receives (conversation and reviews), rendered once (symptomes-ambre.mjs) and
+// shown verbatim in Paramètres. Nothing without the « Mes symptômes » consent, nothing for a
+// minor or without birth date. The crossing reads Mon enfance only when it is locked with consent,
+// as Ambre does. Returns null or {block, safety: {kinds, ask_now, reported_at} | null}.
+const LATEST_CHECKS='SELECT c.* FROM symptom_checks c WHERE c.user_id=? AND c.id=(SELECT id FROM symptom_checks x WHERE x.user_id=c.user_id AND x.module=c.module ORDER BY completed_at DESC,rowid DESC LIMIT 1)';
+const turnSeconds=value=>{const t=Date.parse(String(value||'').replace(' ','T')+(/[zZ]|[+-]\d\d:?\d\d$/.test(String(value||''))?'':'Z'));return Number.isFinite(t)?Math.floor(t/1000):null};
+export async function symptomsForAmbre(env,userId,t){
+ if(!await symptomsReady(env))return null;
+ const consent=await env.DB.prepare('SELECT consent FROM symptom_consents WHERE user_id=?').bind(userId).first();
+ if(consent?.consent!==1)return null;
+ if(ageGate(await birthDate(env,userId),today(t),SYMPTOMES).status!=='adulte')return null;
+ const checks=(await env.DB.prepare(LATEST_CHECKS).bind(userId).all()).results.map(checkView);
+ const map=await readCartography(env,userId),side=map?.locked_at!=null?childhoodSide(map):null;
+ const crossing=crossWithChildhood(Object.fromEntries(checks.map(c=>[c.module,c.result])),side,SYMPTOMES,{labels:subjectLabels()});
+ const window=SYMPTOMS_SAFETY_DAYS*86400;
+ const alerts=(await env.DB.prepare("SELECT created_at,kind FROM symptom_safety_alerts WHERE user_id=? AND screen='bloquant' AND created_at>? ORDER BY created_at LIMIT 500").bind(userId,t-4*window).all()).results;
+ let safety=null;
+ if(alerts.some(a=>a.created_at>t-window&&a.created_at<=t)){
+  const turns=(await env.DB.prepare("SELECT created_at FROM chat_turns WHERE user_id=? AND status='completed' AND purged=0 AND idempotency_key NOT LIKE 'review-%' AND created_at>=datetime(?,'unixepoch') ORDER BY rowid DESC LIMIT 500").bind(userId,t-3*window).all()).results.map(r=>turnSeconds(r.created_at)).filter(Number.isFinite);
+  safety=symptomsSafetyState(alerts,turns,t);
+ }
+ const block=renderSymptomsBlock({checks,crossing,safety,now:t,data:SYMPTOMES});
+ return block?{block,safety:safety?{...safetyPayload(safety),reported_at:safety.reported_at}:null}:null;
+}
+// The « Parler à Ambre » button of the safety screen leads to a conversation where this protocol
+// applies only when Ambre can answer now: prerequisites, an active access, a provider, the chat
+// consent, the journey started (initial analysis ready, no review being written) and a message left
+// this month. The same gates as the chat state (chat-backend.mjs), read without side effects; a
+// provider cooldown or the daily cap can still defer a reply (the lexical safety reply stays).
+export async function ambreFollowsProtocol(env,userId,t){
+ try{
+  if(!env?.OPENROUTER_API_KEY||['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase()))return false;
+  if(!(await readCompanionReadiness(env,userId)).complete)return false;
+  const subscription=await env.DB.prepare('SELECT * FROM subscriptions WHERE user_id=?').bind(userId).first();
+  if(!platformAccess(env,subscription,t).allowed)return false;
+  const settings=await env.DB.prepare('SELECT consent FROM chat_settings WHERE user_id=?').bind(userId).first();
+  if(!settings?.consent)return false;
+  const journey=await env.DB.prepare("SELECT EXISTS(SELECT 1 FROM ambre_reviews WHERE user_id=? AND kind='initial' AND status='ready') AS started,EXISTS(SELECT 1 FROM ambre_reviews WHERE user_id=? AND status='running') AS running").bind(userId,userId).first();
+  if(!journey?.started||journey.running)return false;
+  return (await readMonthlyQuotas(env,userId,t)).messages.remaining>0;
+ }catch{return false}
+}
+
 export function createSymptomsBackend({error,json,body,now,random,limit}){
  const fail=(status,message,code)=>error(status,message,code);
  const stmt=(env,sql,...args)=>env.DB.prepare(sql).bind(...args);
@@ -96,7 +143,10 @@ export function createSymptomsBackend({error,json,body,now,random,limit}){
   const banner=bannerKinds.length?{until:report.created_at+bannerDays*86400,kinds:bannerKinds,...safetyScreen(bannerKinds.map(kind=>({id:'banner',kind,screen:'bloquant'})),SYMPTOMES,{age:gate.age})}:null;
   const results=Object.fromEntries([...latest].map(([id,c])=>[id,c.result]));
   const crossing=crossWithChildhood(results,childhoodSide(await readCartography(env,userId)),SYMPTOMES,{labels:subjectLabels()});
-  return {available:true,content_version:SYMPTOMES.version,consent,age:gate,modules,lifetime_answers:lifetime,safety:{banner,last_reported_at:report?.created_at??null},crossing,unpublished_modules:(SYMPTOMES.unpublished_modules||[]).slice()};
+  // Lot C: the exact text Ambre receives (Paramètres shows it verbatim), and whether the « Parler à
+  // Ambre » button leads to a conversation that applies the safety protocol.
+  const ambre=await symptomsForAmbre(env,userId,t);
+  return {available:true,content_version:SYMPTOMES.version,consent,age:gate,modules,lifetime_answers:lifetime,safety:{banner,last_reported_at:report?.created_at??null,ambre_available:await ambreFollowsProtocol(env,userId,t)},crossing,ambre:{block:ambre?.block??null},unpublished_modules:(SYMPTOMES.unpublished_modules||[]).slice()};
  }
 
  async function setConsent(request,env,user){
