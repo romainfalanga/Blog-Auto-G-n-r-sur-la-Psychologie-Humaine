@@ -49,9 +49,10 @@ const flush=()=>new Promise(r=>setTimeout(r,0));
 function environment({handler}={}){
  const doc={modals:[],activeElement:null,createElement(tag){return new Node(tag,this)},getElementById(id){return this.body.querySelector('#'+id)||this.head.querySelector('#'+id)}};
  doc.body=new Node('body',doc);doc.head=new Node('head',doc);
- const calls=[],storage=new Map(),timers=[],delays=[];
+ const calls=[],storage=new Map(),session=new Map(),timers=[],delays=[];
+ const store=map=>({getItem:k=>map.get(k)??null,setItem:(k,v)=>map.set(k,String(v)),removeItem:k=>map.delete(k),key:i=>[...map.keys()][i]??null,get length(){return map.size}});
  const ctx={document:doc,console,JSON,Math,Date,Promise,Object,Array,String,Number,Boolean,Error,Set,Map,WeakMap,RegExp,Uint8Array,crypto:globalThis.crypto,location:{replaced:null,replace(u){this.replaced=u},assign(){}},
-  localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,String(v)),removeItem:k=>storage.delete(k),key:i=>[...storage.keys()][i]??null,get length(){return storage.size}},
+  localStorage:store(storage),sessionStorage:store(session),
   setTimeout:(fn,ms)=>{timers.push(fn);delays.push(ms);return timers.length},clearTimeout:()=>{},
   state:{me:{user:{id:'a'}}},dateLabel:v=>'date:'+v,
   el(tag,cls,text){const n=doc.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n},
@@ -61,12 +62,14 @@ function environment({handler}={}){
  ctx.window=ctx;vm.createContext(ctx);
  vm.runInContext(symptomsClientScript(),ctx);vm.runInContext(SYMPTOMES_INTERFACE_SCRIPT,ctx);
  const view=doc.createElement('div');doc.body.append(view);
- return {ctx,doc,view,calls,timers,delays,storage,async runTimers(){while(timers.length){await timers.shift()();await flush()}}};
+ return {ctx,doc,view,calls,timers,delays,storage,session,async runTimers(){while(timers.length){await timers.shift()();await flush()}}};
 }
 
 // ---- Real backend for the page states ----------------------------------------------------------
 function backend(){
- const s=setup({until:'9999',users:['a']});let clock=Date.UTC(2026,10,19,12)/1000,serial=0;
+ const s=setup({until:'9999',users:['a']});// The page dates its passations with Date.now(): the server clock starts from the real time (a fixed
+ // clock rejected every « started_at » once the real time passed it by five minutes).
+ let clock=Math.floor(Date.now()/1000),serial=0;
  const utils={error(status,message,code){throw Object.assign(new Error(message),{status,code})},json:(v,status=200)=>new Response(JSON.stringify(v),{status}),body:async req=>JSON.parse(await req.text()),now:()=>clock,random:()=>'sym_'+String(++serial).padStart(6,'0'),limit:async()=>{}};
  const b=createSymptomsBackend(utils);
  async function handler(path,method,data){
@@ -197,7 +200,7 @@ test('recording a theme: result « au-dessus / en dessous du repère publié »,
  const post=env.calls.find(c=>c.method==='POST');assert.equal(post.data.module,'humeur');assert.equal(post.data.answers.phq9_1,2);assert.equal(post.data.answers.securite_actuelle,undefined);
  const card=env.view.querySelector('#sy-result-humeur');assert.ok(card);
  assert.match(card.textContent,/Au-dessus du repère publié par PHQ-9 · palier « modéré »/);
- assert.match(card.textContent,/score 10 sur 27/);assert.ok(card.textContent.includes(S.fixed_texts.positive_note));assert.ok(card.textContent.includes(S.fixed_texts.what_next));assert.ok(card.textContent.includes(S.fixed_texts.gene_nettement));
+ assert.match(card.textContent,/score 10 sur 27/);assert.ok(card.textContent.includes(S.fixed_texts.positive_note));assert.ok(card.textContent.includes(S.fixed_texts.what_next.replace(', en parler avec Ambre','')),'no Ambre without its safety protocol');assert.ok(card.textContent.includes(S.fixed_texts.gene_nettement));
  assert.doesNotMatch(card.textContent,/vous avez un trouble|diagnostic probable|dépression/i);
  // One card, one conclusion: no secondary negative text, no negative fixed sentence, reference in small print.
  assert.ok(!card.textContent.includes('humeur basse durable'));assert.ok(!card.textContent.includes(S.fixed_texts.negative_note));
@@ -351,4 +354,80 @@ test('relecture: answers are real radio buttons in a fieldset with its legend',a
  const radios=row.querySelectorAll('input');assert.ok(radios.length>=5&&radios.every(r=>r.type==='radio'&&r.name===radios[0].name));
  assert.equal(env.doc.getElementById('sy-live')?.getAttribute('aria-live')??'polite','polite');
  assert.doesNotMatch(SYMPTOMES_INTERFACE_SCRIPT,/status\.setAttribute\('aria-live'/);
+});
+
+test('recette: « Et maintenant ? » proposes Ambre only when Ambre follows the safety protocol',()=>{
+ const env=environment({handler:()=>({})}),ctx=env.ctx;ctx.SY.view=env.view;ctx.SY.current=()=>true;
+ const text=S.fixed_texts.what_next;assert.match(text,/, en parler avec Ambre,/,'published sentence unchanged');
+ ctx.SY.page={safety:{ambre_available:false}};
+ const without=ctx.syWhatNext(text);
+ assert.doesNotMatch(without,/Ambre/);assert.doesNotMatch(without,/,\s*,|\s,|\s{2}|,\./);
+ assert.equal(without,text.replace(', en parler avec Ambre',''));assert.match(without,/\(CMP, gratuit\), ou refaire ce module plus tard\.$/);
+ assert.equal(ctx.syWhatNext('Vous pouvez en parler à votre médecin, ou en parler avec Ambre.'),'Vous pouvez en parler à votre médecin.');
+ ctx.SY.page.safety.ambre_available=true;assert.equal(ctx.syWhatNext(text),text);
+ ctx.SY.page=null;assert.doesNotMatch(ctx.syWhatNext(text),/Ambre/,'unknown availability: not proposed');
+});
+
+test('recette: the result card « Et maintenant ? » follows ambre_available',async()=>{
+ const {env}=await adultEnv(),ctx=env.ctx;assert.equal(ctx.SY.page.safety.ambre_available,false);
+ for(const [q,v] of [['phq9_1',2],['phq9_2',2],['phq9_3',2],['phq9_4',1],['phq9_5',1],['phq9_6',1],['phq9_7',1],['phq9_8',0],['phq9_9',0],['humeur_duree','non'],['humeur_perinatal','non'],['humeur_gene','nettement']])await tick(choice(env.view.querySelector('[data-module="humeur"]'),q,String(v)));
+ await button(env.view.querySelector('[data-module="humeur"]'),'Enregistrer ce thème').fire('click');await flush();
+ const next=()=>env.view.querySelector('#sy-result-humeur').querySelector('.sy-next').textContent;
+ assert.match(next(),/^Et maintenant \?/);assert.doesNotMatch(next(),/Ambre/);
+ ctx.SY.page.safety.ambre_available=true;ctx.syRender();assert.equal(next(),S.fixed_texts.what_next);
+});
+
+test('recette: a confirmed blocking screen stays confirmed after a reload, in this tab, for its passation only',async()=>{
+ const {b,env}=await adultEnv();
+ await tick(choice(env.view,'securite_actuelle','oui'));assert.equal(env.doc.modals.length,1);
+ assert.deepEqual([...env.session.keys()],[],'not kept before it is confirmed');
+ await button(env.doc.modals[0],'Continuer').fire('click');
+ const keys=[...env.session.keys()];assert.ok(keys.length>=1&&keys.every(k=>/^symptomes-ack:a:/.test(k)));assert.ok(keys.every(k=>JSON.parse(env.session.get(k)).includes('securite_oui')));
+ await env.runTimers();
+ // Reload: a new page, same tab (sessionStorage kept), the draft is resumed; the next answer does not reopen the screen.
+ const reload=environment({handler:b.handler});for(const [k,v] of env.session)reload.session.set(k,v);await reload.ctx.renderSymptoms(reload.view,()=>true);
+ await tick(choice(reload.view,'phq9_1','1'));assert.equal(reload.doc.modals.length,0,'no blocking screen at the next answer');
+ // Another tab (no sessionStorage): the screen opens again, as before.
+ const other=environment({handler:b.handler});await other.ctx.renderSymptoms(other.view,()=>true);await tick(choice(other.view,'phq9_1','1'));assert.equal(other.doc.modals.length,1);
+ // Unavailable storage: the page still works (memory only).
+ const broken=environment({handler:b.handler});broken.ctx.sessionStorage={get length(){throw new Error('blocked')},getItem(){throw new Error('blocked')},setItem(){throw new Error('blocked')},removeItem(){},key(){return null}};
+ await broken.ctx.renderSymptoms(broken.view,()=>true);await tick(choice(broken.view,'phq9_1','1'));assert.equal(broken.doc.modals.length,1);await button(broken.doc.modals[0],'Continuer').fire('click');
+});
+
+test('recette: confirmations purged at recording, « Refaire », sign-out, delete all and withdrawn consent',async()=>{
+ const {b,env}=await adultEnv();
+ await tick(choice(env.view,'securite_actuelle','oui'));await button(env.doc.modals[0],'Continuer').fire('click');
+ assert.ok(env.session.size>=1);
+ for(const id of ['humeur','anxiete']){await tick(choice(env.view.querySelector('[data-module="'+id+'"]'),id==='humeur'?'phq9_1':'gad7_1','0'));await button(env.view.querySelector('[data-module="'+id+'"]'),'Enregistrer ce thème').fire('click');await flush()}
+ assert.deepEqual([...env.session.keys()],[],'recorded passations leave no key');
+ // « Refaire » then « oui »: the screen opens again, even with the old keys of another passation around.
+ env.session.set('symptomes-ack:a:passation-ancienne','["securite_oui"]');
+ await button(env.view.querySelector('[data-module="humeur"]'),'Refaire ce thème').fire('click');
+ await tick(choice(env.view,'securite_actuelle','oui'));assert.equal(env.doc.modals.length,2,'screen shown again');
+ await button(env.doc.modals[1],'Continuer').fire('click');assert.ok([...env.session.keys()].some(k=>k!=='symptomes-ack:a:passation-ancienne'));
+ // Reload drops orphan keys.
+ await env.runTimers();const reload=environment({handler:b.handler});for(const [k,v] of env.session)reload.session.set(k,v);await reload.ctx.renderSymptoms(reload.view,()=>true);
+ assert.ok(!reload.session.has('symptomes-ack:a:passation-ancienne'));assert.ok(reload.session.size>=1);
+ // Delete all, withdraw consent, sign-out: nothing left (other accounts untouched).
+ const keep='symptomes-ack:b:x';reload.session.set(keep,'["securite_oui"]');
+ await button(reload.view,'Supprimer tous mes résultats').fire('click');await flush();assert.deepEqual([...reload.session.keys()],[keep]);
+ reload.session.set('symptomes-ack:a:y','["securite_oui"]');await button(reload.view,'Retirer mon accord').fire('click');await flush();assert.deepEqual([...reload.session.keys()],[keep]);
+ reload.session.set('symptomes-ack:a:z','["securite_oui"]');reload.ctx.syLeave('a');assert.deepEqual([...reload.session.keys()],[keep]);
+ // An answer that no longer meets the trigger re-arms it: its key goes too.
+ const {env:e2}=await adultEnv();await tick(choice(e2.view,'securite_actuelle','oui'));await button(e2.doc.modals[0],'Continuer').fire('click');assert.ok(e2.session.size>=1);
+ await tick(choice(e2.view,'securite_actuelle','non'));assert.equal(e2.session.size,0);
+});
+
+test('recette: Paramètres shows French labels for people, links and sources, and the gender as chosen',()=>{
+ const doc={createElement:tag=>new Node(tag,doc)};doc.body=new Node('body',doc);
+ const ctx={document:doc,JSON,String,Set,el(tag,cls,text){const n=doc.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n},actionButton(){},careDate:v=>'le '+v};
+ vm.createContext(ctx);vm.runInContext(SETTINGS_INTERFACE_SCRIPT.slice(0,SETTINGS_INTERFACE_SCRIPT.indexOf('async function renderSettings(')),ctx);
+ ctx.settingsDisclosure=(label,body)=>{const d=ctx.el('details');d.append(ctx.el('summary','',label));if(body)d.append(body);return d};
+ const shown=ctx.settingsValue({people_ids:['p1'],people:['Camille'],links:[{label:'Lien'}],sources:[{label:'Source'}],gender:'unspecified'}).textContent;
+ for(const label of ['Proches liés','Proches','Liens','Sources'])assert.ok(shown.includes(label),label);
+ assert.doesNotMatch(shown,/people ids|\bpeople\b|\blinks\b|\bsources\b|—/);
+ assert.match(shown,/GenreJe préfère ne pas le préciser/);
+ // Every gender reads as the choice offered in « Mon compte ».
+ const choices=Object.fromEntries(JSON.parse(HTML.match(/var genderChoices=(\[\[.*?\]\]);/)[1].replace(/'/g,'"')).filter(([v])=>v));
+ for(const [value,label] of Object.entries(choices))assert.equal(ctx.settingsValue(value,0,'gender',true).textContent,label,value);
 });
