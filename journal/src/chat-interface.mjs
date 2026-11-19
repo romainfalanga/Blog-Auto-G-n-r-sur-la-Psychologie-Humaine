@@ -1,4 +1,5 @@
 // Embedded in the app shell: no framework, network client or persisted history.
+import {REQUIRED_SYMPTOMS} from './companion-readiness.mjs';
 export const CHAT_INTERFACE_SCRIPT=String.raw`
 function chatConsent(data){return data.consent===true||!!(data.consent&&data.consent.accepted)}
 function chatFailureMessage(data){var error=data&&data.last_error;return (error&&error.message||'La réponse n’a pas pu être préparée.')+' Votre texte reste disponible.'}
@@ -29,13 +30,18 @@ function chatCapabilityMessage(kind){
 }
 function updateChatControls(){
  var data=state.chatData||{},form=document.getElementById('chat-form');if(!form)return;
- var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!!state.chatVoice?.isActive()||!chatConsent(data)||!data.access||!data.access.allowed||chatJourneyBlocked(data)||!!(data.quota&&Number(data.quota.remaining||0)<=0);
- var point=document.getElementById('chat-point'),pointNote=document.getElementById('chat-point-note'),journey=chatJourney(data);if(point){var reason=chatPointNote(data);point.hidden=!(journey&&journey.started);point.disabled=!!reason||chatHasPending()||!chatConsent(data);if(pointNote){var hint=reason||(point.disabled?'':chatPointSuggestion(data));pointNote.textContent=hint;pointNote.hidden=!hint||point.hidden}}
+ var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!!state.chatVoice?.isActive()||!chatConsent(data)||!data.access||!data.access.allowed||chatJourneyBlocked(data)||!!ambreComposerLock(data)||!!(data.quota&&Number(data.quota.remaining||0)<=0);
+ var point=document.getElementById('chat-point'),pointNote=document.getElementById('chat-point-note'),journey=chatJourney(data);if(point){var reason=chatPointNote(data);point.hidden=!(journey&&journey.started)||chatInitialPending(data);point.disabled=!!reason||chatHasPending()||!chatConsent(data);if(pointNote){var hint=reason||(point.disabled?'':chatPointSuggestion(data));pointNote.textContent=hint;pointNote.hidden=!hint||point.hidden}}
  var mounted=document.getElementById('view'),shell=mounted&&mounted.chatShell;if(shell)shell.thread.querySelectorAll('button').forEach(function(button){if(button.dataset.chatRetry)button.disabled=!!(state.chatSending||!data.access||!data.access.allowed||data.quota&&Number(data.quota.remaining||0)<=0)});
- var input=form.elements.content;if(input)input.disabled=!!(data.access&&data.access.reason==='authentication_required');
- var notice=document.getElementById('chat-memory-notice');if(notice){notice.hidden=!(chatConsent(data)&&data.people_observations_enabled);if(notice.hidden)input.removeAttribute('aria-describedby');else input.setAttribute('aria-describedby',notice.id)}
+ // Before the first review the composer stays visible but unusable, with its reason attached.
+ var input=form.elements.content,lock=ambreComposerLock(data),lockNote=document.getElementById('chat-locked-note'),notice=document.getElementById('chat-memory-notice'),described=[];
+ if(lockNote){lockNote.textContent=lock;lockNote.hidden=!lock}
+ if(notice)notice.hidden=!!lock||!(chatConsent(data)&&data.people_observations_enabled);
+ if(input){input.disabled=false;input.readOnly=!!lock;if(lock){input.setAttribute('aria-disabled','true');described.push('chat-locked-note')}else input.removeAttribute('aria-disabled');if(notice&&!notice.hidden)described.push(notice.id);if(described.length)input.setAttribute('aria-describedby',described.join(' '));else input.removeAttribute('aria-describedby')}
+ var mic=form.querySelector('.chat-microphone');if(mic){if(lock){mic.disabled=true;mic.dataset.ambreLocked='true'}else if(mic.dataset.ambreLocked==='true'){mic.dataset.ambreLocked='';mic.disabled=!state.chatVoice||!(typeof SpeechRecognition!=='undefined'||typeof webkitSpeechRecognition!=='undefined')}}
  var quota=document.getElementById('chat-quota');
  if(quota&&data.quota)quota.textContent=data.quota.used+' / '+data.quota.limit;
+ if(quota&&quota.parentElement)quota.parentElement.hidden=chatGuest(data);
 }
 function disposeChatInterface(){
  if(state.chatVoice){state.chatVoice.dispose();state.chatVoice=null}
@@ -96,13 +102,14 @@ function createChatShell(view,current){
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var panel=el('section','journey-panel');panel.id='journey-panel';panel.hidden=true;panel.setAttribute('aria-labelledby','journey-title');scroll.append(panel);var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
  var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);
  var gate=el('div');gate.id='chat-gates';surface.append(gate);
- var form=el('form','chat-composer');form.id='chat-form';var row=el('div','composer-row'),label=el('label','visually-hidden','Votre message');label.htmlFor='chat-content';var input=el('textarea');input.id='chat-content';input.name='content';input.maxLength=6000;input.required=true;input.placeholder=guest?'Connectez-vous pour écrire…':'Votre message…';input.value=state.chatDraft||'';input.disabled=guest;
+ var form=el('form','chat-composer');form.id='chat-form';var row=el('div','composer-row'),label=el('label','visually-hidden','Votre message');label.htmlFor='chat-content';var input=el('textarea');input.id='chat-content';input.name='content';input.maxLength=6000;input.required=true;input.placeholder='Votre message…';input.value=state.chatDraft||'';
  input.addEventListener('input',function(){state.chatDraft=input.value});var mic=el('button','chat-microphone');mic.type='button';mic.setAttribute('aria-label','Dicter un message');mic.setAttribute('aria-describedby','chat-voice-status');mic.title='Dicter un message';
  mic.innerHTML='<svg class="microphone-glyph" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="12" rx="3"/><path d="M5 11v1a7 7 0 0 0 14 0v-1M12 19v3m-3 0h6"/></svg><svg class="stop-glyph" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="5" width="14" height="14" rx="2"/></svg>';
  var send=el('button','','Envoyer');send.type='submit';input.addEventListener('keydown',function(event){if(event.key==='Enter'&&!event.shiftKey&&!event.isComposing&&!send.disabled){event.preventDefault();form.requestSubmit()}});
  var feedback=el('p','status');feedback.id='chat-status';feedback.setAttribute('role','status');var voiceStatus=el('p','chat-voice-status');voiceStatus.id='chat-voice-status';voiceStatus.setAttribute('role','status');
  var notice=el('p','chat-memory-notice','Ambre peut retenir des repères sur les proches déjà ajoutés.');notice.id='chat-memory-notice';notice.hidden=true;
- row.append(label,input,mic,send);form.append(notice,row,voiceStatus,feedback);form.addEventListener('submit',async function(event){event.preventDefault();await sendChat(form,current)});surface.append(form);
+ var lockNote=el('p','chat-locked-note');lockNote.id='chat-locked-note';lockNote.hidden=true;
+ row.append(label,input,mic,send);form.append(notice,lockNote,row,voiceStatus,feedback);form.addEventListener('submit',async function(event){event.preventDefault();await sendChat(form,current)});surface.append(form);
  var announcement=el('p','visually-hidden');announcement.setAttribute('role','status');surface.append(announcement);
  var next=actionButton('Nouvelle réponse',function(){if(shell.latestResponse){scrollChatTo(shell,shell.latestResponse,false);next.hidden=true}},'chat-new-response');next.hidden=true;surface.append(next);
  var shell={surface:surface,scroll:scroll,thread:thread,proposals:proposals,gate:gate,form:form,input:input,mic:mic,voiceStatus:voiceStatus,feedback:feedback,announcement:announcement,next:next,messages:new Map(),proposalNodes:new Map(),follow:true};
@@ -111,10 +118,9 @@ function createChatShell(view,current){
  return shell;
 }
 function drawChatGate(shell,data,current){
- var signature=JSON.stringify([data.consent,data.access,chatJourney(data)&&chatJourney(data).started]);if(shell.gateSignature===signature)return;shell.gateSignature=signature;shell.gate.replaceChildren();
- var guest=data.access&&data.access.reason==='authentication_required';
- if(guest){var guestBox=el('div','chat-gate'),actions=el('div','actions');['login','register'].forEach(function(mode){var button=el('button',mode==='register'?'secondary':'',mode==='register'?'Créer mon compte':'Me connecter');button.type='button';button.dataset.auth=mode;actions.append(button)});guestBox.append(actions);shell.gate.append(guestBox);return}
- if(!chatConsent(data)&&!(chatJourney(data)&&!chatJourney(data).started)){var box=el('div','chat-gate'),consent=el('label','check'),checkbox=el('input');checkbox.type='checkbox';consent.append(checkbox,document.createTextNode('J’accepte le traitement de mes messages et du contexte personnel utile par OpenRouter. Ambre peut retenir des repères concrets tirés de mes échanges sur les proches que j’ai déjà ajoutés.'));var activate=actionButton('Activer la conversation',async function(){activate.disabled=true;try{await api('/api/chat/consent','PUT',{accepted:true});if(current())renderChat()}catch(err){if(current()){box.append(el('p','status error',err.message));activate.disabled=!checkbox.checked}}});activate.disabled=true;checkbox.addEventListener('change',function(){activate.disabled=!checkbox.checked});box.append(consent,activate);shell.gate.append(box)}
+ var journey=chatJourney(data),signature=JSON.stringify([data.access,journey&&journey.started]);if(shell.gateSignature===signature)return;shell.gateSignature=signature;shell.gate.replaceChildren();
+ // Before the first review, the first message of Ambre explains every blocking reason itself.
+ if(chatGuest(data)||journey&&!journey.started)return;
  var reason=data.access&&data.access.reason,reasons={quota_exhausted:'Vos 100 messages sont utilisés. Reprise au prochain renouvellement.',provider_missing:'Ambre est momentanément indisponible.',generation_paused:'Les réponses sont momentanément en pause.',provider_cooldown:'Le fournisseur est temporairement indisponible. La disponibilité sera vérifiée automatiquement.',subscription_required:'Un abonnement ou un essai actif est nécessaire.'};
  if(reason&&reason!=='consent_required'&&reason!=='journey_not_started'&&reason!=='prerequisites_required'){var blocked=el('div','chat-gate');blocked.id='chat-access-gate';blocked.append(el('p','',reasons[reason]||'L’envoi est momentanément indisponible.'));if(reason==='subscription_required'){var link=el('a','text-link','Voir mon abonnement');link.href='/mon-compte/';blocked.append(link)}shell.gate.append(blocked)}
 }
@@ -138,12 +144,17 @@ function chatMessageEntry(shell,message,current,animate){
  if(!entry&&client){entry=shell.messages.get('client:'+client);if(entry)shell.messages.delete('client:'+client)}
  if(!entry){var item=el('article','chat-message '+(message.role==='user'?'chat-user':'chat-assistant')),heading=el('h3','',message.role==='user'?'Vous':message.review_id?(message.review_kind==='point'?'Ambre · Point d’étape':'Ambre · Analyse initiale'):'Ambre'),content=el('p','chat-content'),meta=el('div','chat-turn-state');item.append(heading,content,meta);entry={item:item,content:content,meta:meta};}
  shell.messages.set(id,entry);entry.item.dataset.chatTurnId=id.replace(/-(user|assistant)$/,'');if(client)entry.item.dataset.clientKey=client;
- if(entry.text!==message.content){entry.text=message.content;entry.content.textContent=message.content;
+ // Lot 2/3: a review publishes its short conversation message (chat_message); older envelopes keep content.
+ var shown=message.role==='assistant'&&message.review_id&&typeof message.chat_message==='string'&&message.chat_message.trim()?message.chat_message:message.content;
+ if(entry.text!==shown){entry.text=shown;entry.content.textContent=shown;
   if(message.role==='assistant'){
    if(!state.chatSeenResponses)state.chatSeenResponses=new Set();var unseen=!state.chatSeenResponses.has(id);state.chatSeenResponses.add(id);
-   if(animate&&unseen){revealChatResponse(entry,message.content,current);shell.latestResponse=entry.item;shell.responseToAnchor=entry.item;shell.announcement.textContent='Nouvelle réponse d’Ambre.'}
+   if(animate&&unseen){revealChatResponse(entry,shown,current);shell.latestResponse=entry.item;shell.responseToAnchor=entry.item;shell.announcement.textContent='Nouvelle réponse d’Ambre.'}
    if(Array.isArray(message.cartography_notes))drawChatNotes(entry.item,message.cartography_notes);
-   if(message.review_id&&!entry.reviewLink){var bilans=el('a','text-link chat-review-link','Retrouver ce bilan dans Mes bilans');bilans.href='/mes-bilans/';entry.reviewLink=bilans;entry.item.append(bilans)}
+   if(message.review_id){var summary=shown!==message.content,linkKind=summary?'summary':'legacy';if(entry.reviewLinkKind!==linkKind){if(entry.reviewLink)entry.reviewLink.remove();entry.reviewLinkKind=linkKind;
+    if(summary){var links=el('p','chat-review-links'),full=el('a','text-link chat-review-link','Lire le bilan complet'),diagnoses=el('a','text-link chat-review-link','Voir Mes diagnostics');full.href='/mes-bilans/';diagnoses.href='/mes-diagnostics/';links.append(full,diagnoses);entry.reviewLink=links}
+    else{var bilans=el('a','text-link chat-review-link','Retrouver ce bilan dans Mes bilans');bilans.href='/mes-bilans/';entry.reviewLink=bilans}
+    entry.item.append(entry.reviewLink)}}
   }
  }
  if(message.role==='assistant'&&typeof renderChatChangeProposal==='function'){
@@ -154,9 +165,10 @@ function chatMessageEntry(shell,message,current,animate){
 }
 function drawChat(view,current,options){
  if(!current())return;var data=state.chatData||{},shell=view.chatShell||createChatShell(view,current),animate=!!(options&&options.animate),messages=(data.messages||[]).map(function(message,index){return Object.assign({},message,{id:message.id||'history-'+index+'-'+message.role})}),box=state.chatOutbox,keys=new Set();
- if(data.welcome){messages=messages.filter(function(message){return !/^ambre-welcome-/.test(message.id)});messages.unshift(data.welcome)}
+ // The first message of Ambre (code-written) replaces the former welcome text.
+ messages=messages.filter(function(message){return !/^ambre-welcome-/.test(message.id)});drawAmbreIntro(shell,data,current);
  if(box&&!messages.some(function(message){return message.role==='user'&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')}))messages.push({id:'client:'+box.client_key,client_key:box.client_key,role:'user',content:box.content,status:box.status});
- messages.forEach(function(message){var entry=chatMessageEntry(shell,message,current,animate&&message.id!==data.welcome?.id);keys.add(String(message.id));entry.meta.replaceChildren();shell.thread.append(entry.item);
+ messages.forEach(function(message){var entry=chatMessageEntry(shell,message,current,animate);keys.add(String(message.id));entry.meta.replaceChildren();shell.thread.append(entry.item);
   if(message.role==='user'&&['failed','expired','cancelled'].includes(message.status)&&!(box&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')))entry.meta.append(el('p','helper','Réponse non aboutie.'));
   if(message.role==='user'&&box&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')&&['uncertain','failed'].includes(box.status)){
    var retryButton=actionButton('Réessayer ce message',function(){retryChatMessage(box,current)},'text');retryButton.dataset.chatRetry=box.client_key;var errorLine=el('p','status error'+(box.safety?' chat-safety-error':''),box.error||'Ce message n’a pas abouti.');if(box.safety){if(errorLine.style)errorLine.style.whiteSpace='pre-line';if(errorLine.setAttribute)errorLine.setAttribute('role','alert')}entry.meta.append(errorLine,retryButton);
@@ -164,7 +176,7 @@ function drawChat(view,current,options){
  });
  shell.messages.forEach(function(entry,id){if(!keys.has(id)){entry.item.remove();shell.messages.delete(id)}});
  if(state.chatSending){if(!shell.waiting){var waiting=el('article','chat-message chat-assistant chat-thinking');waiting.id='chat-pending-indicator';waiting.setAttribute('role','status');waiting.append(el('h3','','Ambre'),el('span','','Ambre réfléchit…'));var dots=el('span','thinking-dots');dots.setAttribute('aria-hidden','true');for(var i=0;i<3;i++)dots.append(el('i'));waiting.append(dots);shell.waiting=waiting}shell.thread.append(shell.waiting)}else if(shell.waiting){shell.waiting.remove();shell.waiting=null}
- if(chatReviewRunning(data)&&!chatInitialPending(data)){if(!shell.reviewWaiting){var preparing=el('article','chat-message chat-assistant chat-thinking');preparing.id='chat-review-indicator';preparing.setAttribute('role','status');preparing.append(el('h3','','Ambre'),el('span','','Ambre prépare votre bilan…'));var reviewDots=el('span','thinking-dots');reviewDots.setAttribute('aria-hidden','true');for(var d=0;d<3;d++)reviewDots.append(el('i'));preparing.append(reviewDots);shell.reviewWaiting=preparing}shell.thread.append(shell.reviewWaiting)}else if(shell.reviewWaiting){shell.reviewWaiting.remove();shell.reviewWaiting=null}
+ drawAmbreReviewStatus(shell,data,current);
  var proposals=(data.proposals||[]).filter(function(proposal){return proposal.status==='pending'&&proposal.kind!=='story_request'}),proposalIds=new Set();proposals.forEach(function(proposal){proposalIds.add(proposal.id);var signature=JSON.stringify(proposal),stored=shell.proposalNodes.get(proposal.id);if(!stored){var host=el('div');shell.proposals.append(host);drawChatProposal(host,proposal,current);shell.proposalNodes.set(proposal.id,{host:host,signature:signature})}var mounted=shell.proposalNodes.get(proposal.id),note=mounted.host.querySelector('.chat-capability'),form=mounted.host.querySelector('form'),submit=form&&form.querySelector('button[type=submit]'),unavailable=chatCapabilityMessage(proposal.kind);if(note){note.textContent=unavailable;note.hidden=!unavailable}if(submit&&form.dataset.submitting!=='true')submit.disabled=!!unavailable;});shell.proposalNodes.forEach(function(stored,id){if(!proposalIds.has(id)){stored.host.remove();shell.proposalNodes.delete(id)}});
  if(shell.responseToAnchor){if(shell.follow){scrollChatTo(shell,shell.responseToAnchor,false);shell.follow=false}else shell.next.hidden=false;shell.responseToAnchor=null}
  drawChatGate(shell,data,current);updateChatControls();if(!state.chatSending){if(box&&box.error&&['failed','uncertain'].includes(box.status)){shell.feedback.textContent=box.error;shell.feedback.className='status error'}else if(data.last_error){shell.feedback.textContent=chatFailureMessage(data);shell.feedback.className='status error'}else{shell.feedback.textContent=state.chatFollowupNotice||'';shell.feedback.className='status'}}scheduleChatCooldown(current,data);
@@ -225,6 +237,197 @@ function pollChat(request,current,sentDraft,delay){
  },delay||1500);
 }
 function chatInitialPending(data){var journey=chatJourney(data);return !!(journey&&journey.review&&journey.review.running_id&&journey.review.last_at==null)}
+// Plan 19/11, lot 3: Ambre's first message is written by the code (no model, no storage). It replaces
+// the former welcome text, the « Avant de commencer » card and the consent gate: one message, one
+// agreement, one launch button. Missing fields keep the former behaviour (no journey: no message).
+var AMBRE_CONSENT_TEXT='J’accepte que mes messages et les informations que j’ai renseignées soient traités par OpenRouter pour l’analyse et la conversation. Ambre peut retenir des repères concrets sur les proches que j’ai déjà ajoutés et écrire de courtes notes dans Mon enfance.';
+var AMBRE_DAILY_LAUNCHES=8;
+var AMBRE_FAILURES={context_changed:'Vos informations ont changé pendant que je les lisais.',sources_changed:'Une information que j’utilisais a été supprimée pendant la préparation ; par précaution, j’ai effacé ce que j’avais préparé.',review_not_approved:'La relecture n’a pas validé mon texte, et je préfère ne pas publier un bilan qui ne serait pas fiable.',invalid_response:'La réponse reçue du service de rédaction était incomplète.',invalid_check:'La relecture n’a pas pu être menée jusqu’au bout.',provider_timeout:'Le service de rédaction a mis trop de temps à répondre.',provider_cooldown:'Le service de rédaction est momentanément saturé.',provider_error:'Le service de rédaction a rencontré une erreur.',provider_refused:'Le service de rédaction a refusé la demande.',provider_missing:'La rédaction des bilans est momentanément suspendue.',generation_paused:'La rédaction des bilans est momentanément suspendue.',attempts_exhausted:'La préparation a été interrompue plusieurs fois.',lease_lost:'La préparation a été interrompue.',request_expired:'La préparation a dépassé le délai prévu.',review_deferred:'La préparation a dépassé le délai prévu.',snapshot_analysis_limit:'La limite d’utilisation du service est atteinte pour aujourd’hui.',generation_budget:'La limite d’utilisation du service est atteinte pour aujourd’hui.',daily_cap:'La limite d’utilisation du service est atteinte pour aujourd’hui.',request_limit:'Trop de bilans ont été demandés aujourd’hui.',consent_withdrawn:'Votre accord a été retiré pendant la préparation.',consent_required:'Votre accord est nécessaire pour que je lise vos informations.',prerequisites_required:'Une des pages nécessaires n’est plus complète.',quota_reservation_missing:'Votre bilan du mois n’était plus disponible.',review_quota_exhausted:'Votre bilan du mois est déjà utilisé.',subscription_required:'Un abonnement ou un essai actif est nécessaire.',nothing_to_analyze:'Je n’ai trouvé aucune information à lire.'};
+function ambreFailureReason(code){code=String(code||'');if(AMBRE_FAILURES[code])return AMBRE_FAILURES[code];if(code==='provider_http_429')return AMBRE_FAILURES.provider_cooldown;if(/^provider_http_/.test(code))return AMBRE_FAILURES.provider_error;return 'Une erreur inattendue a interrompu la préparation.'}
+function chatGuest(data){return !!(data&&data.access&&data.access.reason==='authentication_required')}
+function ambreReview(data){var journey=chatJourney(data);return journey&&journey.review||{}}
+function ambreFailure(data){var review=ambreReview(data);return !chatReviewRunning(data)&&review.last_failure&&typeof review.last_failure==='object'?review.last_failure:null}
+function ambreReadiness(data){var journey=chatJourney(data);return data&&(data.readiness||journey&&journey.readiness)||null}
+function ambreClock(seconds){return new Date(seconds*1000).toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})}
+// The five pages of « Ce dont j’ai besoin », in the order a person usually fills them.
+function ambreNeeds(readiness){
+ var r=readiness||{},n=function(value){return Math.max(0,Number(value)||0)};
+ function need(key,label,href,page,done,total,detail){
+  var known=!!(page&&typeof page==='object'),complete=known&&page.complete===true,counted=known&&done!=null&&total>0;
+  // « Enregistrez » only when every answer is given but the page is not recorded yet.
+  var save=known&&!complete&&(counted?done>=total&&page.saved!==true:page.saved===false||page.needs_save===true);
+  return {key:key,label:label,href:href,known:known,complete:complete,save:save,done:counted?Math.min(done,total):null,total:counted?total:null,detail:detail};
+ }
+ // The server may send its own list (readiness.pages); its counters are then used as given.
+ var pages=Array.isArray(r.pages)?r.pages:null,DETAILS={account:'Prénom, nom, date de naissance et genre',people:'Au moins trois personnes qui comptent pour vous',timeline:'Au moins trois moments de votre vie',childhood:'Toutes les questions, « Je ne sais pas » compris',symptoms:'Les ${REQUIRED_SYMPTOMS} questions, « Je ne sais pas » compris'},KEYS={account:'identity',timeline:'events'};
+ if(pages&&pages.length&&pages.every(function(page){return page&&typeof page.label==='string'&&typeof page.href==='string'&&/^\/[\w-]+\/$/.test(page.href)}))return pages.map(function(page){return need(KEYS[page.id]||page.id,page.label,page.href,page,page.done==null?null:n(page.done),n(page.total),DETAILS[page.id]||'')});
+ var identity=r.identity,fields=identity&&Array.isArray(identity.missing_fields)?4-Math.min(4,identity.missing_fields.length):identity&&identity.complete===true?4:null;
+ return [
+  need('identity','Mon compte','/mon-compte/',identity,fields,4,'Prénom, nom, date de naissance et genre'),
+  need('people','Mes proches','/mes-proches/',r.people,r.people&&n(r.people.count),r.people&&n(r.people.required)||3,'Au moins trois personnes qui comptent pour vous'),
+  need('events','Ma ligne de vie','/ma-ligne-de-vie/',r.events,r.events&&n(r.events.count),r.events&&n(r.events.required)||3,'Au moins trois moments de votre vie'),
+  need('childhood','Mon enfance','/cartographie/',r.childhood,r.childhood&&n(r.childhood.answered),r.childhood&&n(r.childhood.required),'Toutes les questions, « Je ne sais pas » compris'),
+  need('symptoms','Mes symptômes','/mes-symptomes/',r.symptoms,r.symptoms&&n(r.symptoms.answered),r.symptoms&&n(r.symptoms.required)||${REQUIRED_SYMPTOMS},'Les ${REQUIRED_SYMPTOMS} questions, « Je ne sais pas » compris')
+ ];
+}
+function ambreNeedItem(need,guest){
+ var stateText=guest||!need.known?'':need.complete?'Complet':need.save?'Enregistrez la page':'À compléter';
+ var item=el('li','ambre-need'+(need.complete?' is-done':need.save?' is-save':'')),mark=el('span','ambre-need-mark',need.complete?'✓':'');mark.setAttribute('aria-hidden','true');
+ var text=el('span','ambre-need-text'),link=el('a','ambre-need-link',need.label);link.href=need.href;text.append(link);
+ if(guest||!need.known||need.done==null)text.append(el('span','ambre-need-detail',need.detail));
+ else if(need.save)text.append(el('span','ambre-need-detail','Toutes les réponses sont données : il reste à les enregistrer.'));
+ item.append(mark,text);
+ if(!guest&&need.done!=null){var count=el('span','ambre-need-count',need.done+'/'+need.total);count.setAttribute('aria-hidden','true');item.append(count)}
+ if(stateText)item.append(el('span','ambre-need-state',stateText));
+ link.setAttribute('aria-label',need.label+(stateText?' : '+stateText.toLowerCase():'')+(!guest&&need.done!=null?', '+need.done+' sur '+need.total:''));
+ return item;
+}
+function ambreLaunchReason(data,needs,checked){
+ var journey=chatJourney(data)||{},access=data.access||{},quotas=data.quotas||journey.quotas||{},reviews=quotas.reviews;
+ var missing=needs.filter(function(need){return need.known&&!need.complete&&!need.save}).map(function(need){return need.label}),save=needs.filter(function(need){return need.save}).map(function(need){return need.label});
+ if(missing.length||save.length)return [missing.length?'Complétez d’abord '+missing.join(', ')+'.':'',save.length?'Enregistrez '+save.join(', ')+'.':''].filter(Boolean).join(' ');
+ if(reviews&&Number(reviews.remaining)<=0)return 'Votre bilan du mois est utilisé.'+(reviews.renews_at?' Prochain bilan possible le '+dateLabel(reviews.renews_at)+'.':'');
+ var reasons={subscription_required:'Un abonnement ou un essai actif est nécessaire.',provider_missing:'Les bilans sont momentanément indisponibles.',generation_paused:'Les bilans sont momentanément en pause.',provider_cooldown:'Le service de rédaction est momentanément saturé. Réessayez dans quelques minutes.',daily_cap:'Le service a atteint sa limite pour aujourd’hui. Réessayez demain.'};
+ if(reasons[access.reason])return reasons[access.reason];
+ if(journey.can_start===false)return 'Le bilan ne peut pas être lancé pour le moment.';
+ if(!checked)return 'Cochez la case d’accord pour lancer votre bilan.';
+ return '';
+}
+async function ambreRequestReview(kind,current,button,feedback){
+ if(!chatIsCurrent(current)||button.dataset.busy==='true')return;button.dataset.busy='true';button.disabled=true;feedback.textContent='Lancement…';feedback.className='status ambre-launch-status';
+ var path=kind==='point'?'/api/chat/review':'/api/chat/start';
+ try{
+  if(!state.journeyKey)state.journeyKey=newClientId();
+  var result=await api(path,'POST',kind==='point'?{idempotency_key:state.journeyKey}:{idempotency_key:state.journeyKey,accepted:true});if(!chatIsCurrent(current))return;
+  state.journeyKey=null;state.ambreFocusProgress=true;state.chatData=Object.assign({},state.chatData||{},result);
+  var view=document.getElementById('view');if(view)drawChat(view,current,{animate:true});
+ }catch(err){
+  if(!chatIsCurrent(current))return;if(Number(err.status)>=400&&Number(err.status)<500)state.journeyKey=null;
+  button.dataset.busy='';button.disabled=false;feedback.textContent=err.message||'Le bilan n’a pas pu être lancé.';feedback.className='status error ambre-launch-status';
+  var gateBox=document.getElementById('ambre-consent');if(gateBox&&kind!=='point')button.disabled=!gateBox.checked;
+ }
+}
+function ambreLaunchArea(data,current,needs){
+ var journey=chatJourney(data)||{},area=el('div','ambre-launch');
+ var box=el('label','check ambre-consent'),checkbox=el('input');checkbox.type='checkbox';checkbox.id='ambre-consent';checkbox.checked=!!state.ambreConsentChecked;box.append(checkbox,document.createTextNode(AMBRE_CONSENT_TEXT));
+ var resume=journey.started&&!chatConsent(data),button=actionButton(resume?'Reprendre la conversation':'Lancer mon bilan',async function(){
+  if(button.disabled)return;
+  if(!resume)return ambreRequestReview('initial',current,button,feedback);
+  button.disabled=true;try{await api('/api/chat/consent','PUT',{accepted:true});if(current())renderChat()}catch(err){if(current()){feedback.textContent=err.message;feedback.className='status error ambre-launch-status';button.disabled=!checkbox.checked}}
+ });button.id='ambre-start';
+ var reason=el('p','helper ambre-start-reason');reason.id='ambre-start-reason';var feedback=el('p','status ambre-launch-status');feedback.id='ambre-launch-status';
+ function refresh(){var why=resume?(checkbox.checked?'':'Cochez la case d’accord pour reprendre la conversation.'):ambreLaunchReason(data,needs,checkbox.checked);button.disabled=!!why||button.dataset.busy==='true';reason.textContent=why;reason.hidden=!why;if(why)button.setAttribute('aria-describedby',reason.id);else button.removeAttribute('aria-describedby')}
+ checkbox.addEventListener('change',function(){state.ambreConsentChecked=checkbox.checked;refresh()});refresh();
+ area.append(box,button,reason,feedback);return area;
+}
+function ambreIntroStatus(data){
+ var journey=chatJourney(data)||{},readiness=ambreReadiness(data),failure=ambreFailure(data);
+ if(chatReviewRunning(data))return journey.started&&!chatInitialPending(data)?'':'Votre bilan est lancé : je vous montre l’avancement plus bas.';
+ if(!journey.started&&failure&&chatConsent(data))return 'Votre bilan n’a pas abouti : je vous explique pourquoi plus bas.';
+ if(journey.started&&readiness&&readiness.complete===false)return 'Pour reprendre la conversation, complétez les pages indiquées ci-dessus.';
+ if(journey.started&&chatConsent(data))return 'Votre premier bilan est fait : vous le retrouvez dans Mes bilans.';
+ return null;
+}
+function ambreIntroMessage(data,current){
+ var guest=chatGuest(data),needs=ambreNeeds(guest?null:ambreReadiness(data));
+ var item=el('article','chat-message chat-assistant ambre-intro');item.id='ambre-intro';item.setAttribute('aria-labelledby','ambre-intro-title');
+ var from=el('p','ambre-from','Ambre · premier message'),title=el('h2','ambre-intro-title','Je commence par un bilan');title.id='ambre-intro-title';
+ var lead=el('div','ambre-intro-lead');
+ lead.append(el('p','','Je commence par un bilan complet de ce que vous avez renseigné, pour vous aider à mieux vous comprendre.'),el('p','','Ensuite, nous en discutons ensemble : vous me dites ce qui vous parle et ce que vous voulez creuser.'));
+ var needsTitle=el('h3','ambre-needs-title','Ce dont j’ai besoin');needsTitle.id='ambre-needs-title';
+ var list=el('ul','ambre-needs');list.setAttribute('aria-labelledby',needsTitle.id);needs.forEach(function(need){list.append(ambreNeedItem(need,guest))});
+ item.append(from,title,lead,needsTitle,list);
+ if(guest){
+  var actions=el('div','actions ambre-auth');[['login','Se connecter',''],['register','Créer un compte','secondary']].forEach(function(entry){var button=el('button',entry[2],entry[1]);button.type='button';button.dataset.auth=entry[0];actions.append(button)});
+  item.append(el('p','ambre-guest-note','Connectez-vous pour remplir ces pages : elles restent privées.'),actions);
+ }else{
+  var statusLine=ambreIntroStatus(data);
+  if(statusLine===null)item.append(ambreLaunchArea(data,current,needs));else if(statusLine)item.append(el('p','ambre-intro-status',statusLine));
+ }
+ item.append(el('p','ambre-intro-note','Je suis une assistante psychologue IA : je propose des hypothèses sur ce qui est probable, à partir de tout ce que vous avez renseigné.'));
+ return item;
+}
+function ambreIntroSignature(data){var journey=chatJourney(data)||{};return JSON.stringify([chatGuest(data),ambreReadiness(data),chatConsent(data),journey.started,journey.can_start,journey.quotas||data.quotas,data.access&&data.access.reason,chatReviewRunning(data),chatInitialPending(data),!!ambreFailure(data)])}
+function drawAmbreIntro(shell,data,current){
+ if(!chatGuest(data)&&!chatJourney(data)){if(shell.intro){shell.intro.remove();shell.intro=null;shell.introSignature=null}return}
+ var signature=ambreIntroSignature(data);
+ if(!shell.intro||shell.introSignature!==signature){var fresh=ambreIntroMessage(data,current);if(shell.intro)shell.intro.remove();shell.intro=fresh;shell.introSignature=signature}
+ shell.thread.append(shell.intro);
+}
+function ambreProgress(review){
+ var stage=String(review.stage||''),total=Math.max(0,Number(review.blocks_total)||0),done=Math.min(total,Math.max(0,Number(review.blocks_done)||0));
+ var phase=stage==='write'||stage==='rewrite'?'write':stage==='check'||stage==='publish'||stage==='done'?'check':'read';
+ var value=phase==='read'?Math.round(5+60*(total?done/total:0)):phase==='write'?(stage==='rewrite'?82:72):(stage==='check'?90:97);
+ var reading='Lecture de vos informations'+(total?' : '+done+' sur '+total:'');
+ var text=phase==='read'?reading:phase==='write'?(stage==='rewrite'?'Rédaction : je reprends quelques passages':'Rédaction de votre bilan'):'Relecture de votre bilan';
+ return {phase:phase,value:value,text:text,reading:reading};
+}
+function ambreEstimate(review,nowMs){
+ var estimate=review.estimate||{},p50=Number(estimate.p50_seconds)||0,p90=Number(estimate.p90_seconds)||0;if(!p50&&!p90)return null;if(!p50)p50=p90;if(!p90||p90<p50)p90=p50;
+ var low=Math.max(1,Math.round(p50/60)),high=Math.max(low,Math.ceil(p90/60)),started=Number(review.started_at)||0;
+ var range=low===high?'environ '+low+' minute'+(low>1?'s':''):'entre '+low+' et '+high+' minutes';
+ return {range:range,late:!!started&&nowMs/1000-started>p90,until:started?started+p90:0};
+}
+// Built once per review and updated in place, so a poll never moves the focus or the reading position.
+function ambreProgressMessage(){
+ var item=el('article','chat-message chat-assistant ambre-progress');item.id='chat-review-indicator';item.setAttribute('aria-labelledby','ambre-progress-title');
+ var title=el('h3','ambre-progress-title','Je prépare votre bilan');title.id='ambre-progress-title';title.tabIndex=-1;
+ var bar=el('div','ambre-bar');bar.setAttribute('role','progressbar');bar.setAttribute('aria-labelledby',title.id);bar.setAttribute('aria-valuemin','0');bar.setAttribute('aria-valuemax','100');
+ var fill=el('span','ambre-bar-fill');bar.append(fill);
+ var steps=el('ol','ambre-steps'),stepItems=[0,1,2].map(function(){var li=el('li','ambre-step');steps.append(li);return li});
+ var estimate=el('p','ambre-estimate'),late=el('p','ambre-late','C’est plus long que prévu : je continue, rien n’est perdu.');estimate.hidden=true;late.hidden=true;
+ item.append(el('p','ambre-from','Ambre'),title,bar,steps,estimate,late,el('p','ambre-leave','Vous pouvez fermer cette page : votre bilan apparaîtra ici et dans Mes bilans.'));
+ return {item:item,title:title,update:function(data){
+  var review=ambreReview(data),progress=ambreProgress(review),timing=ambreEstimate(review,Date.now()),at=['read','write','check'].indexOf(progress.phase);
+  bar.setAttribute('aria-valuenow',String(progress.value));bar.setAttribute('aria-valuetext',progress.text);if(fill.style)fill.style.width=progress.value+'%';
+  [progress.reading,'Rédaction','Relecture'].forEach(function(text,index){var li=stepItems[index];li.textContent=text;li.className='ambre-step'+(index<at?' is-done':index===at?' is-current':'');if(index===at)li.setAttribute('aria-current','step');else li.removeAttribute('aria-current')});
+  estimate.hidden=!timing;late.hidden=!(timing&&timing.late);if(timing)estimate.textContent='Durée estimée : '+timing.range+(timing.until&&!timing.late?', prêt au plus tard vers '+ambreClock(timing.until):'')+'.';
+  return progress;
+ }};
+}
+function ambreFailureMessage(data,current,failure){
+ var journey=chatJourney(data)||{},kind=failure.kind==='point'||failure.kind==='initial'?failure.kind:journey.started?'point':'initial',retryAt=Number(failure.retry_at||0),waiting=retryAt*1000>Date.now();
+ var item=el('article','chat-message chat-assistant ambre-failure');item.id='ambre-review-failure';item.setAttribute('aria-labelledby','ambre-failure-title');
+ var title=el('h3','ambre-failure-title','Le bilan n’a pas pu aboutir');title.id='ambre-failure-title';title.tabIndex=-1;
+ item.append(el('p','ambre-from','Ambre'),title,el('p','',ambreFailureReason(failure.error_code)),el('p','ambre-safe','Rien n’a été perdu : vos informations sont intactes.'+(/quota/.test(String(failure.error_code||''))?'':' Un bilan qui n’aboutit pas n’est pas décompté de votre bilan du mois.')));
+ if(failure.retryable===true){
+  var feedback=el('p','status ambre-launch-status'),retry=actionButton('Relancer',function(){return ambreRequestReview(kind,current,retry,feedback)});retry.id='ambre-retry';retry.disabled=waiting;
+  var limit=Number(failure.daily_limit)||AMBRE_DAILY_LAUNCHES,left=failure.daily_remaining!=null?Number(failure.daily_remaining):null;
+  var note=el('p','helper ambre-retry-note',(waiting?'Relance possible à partir de '+ambreClock(retryAt)+'. ':'')+'Vous pouvez lancer jusqu’à '+limit+' bilans par 24 heures'+(left!=null&&Number.isFinite(left)?' (il en reste '+Math.max(0,left)+')':'')+'.');note.id='ambre-retry-note';retry.setAttribute('aria-describedby',note.id);
+  if(waiting)setTimeout(function(){if(chatIsCurrent(current)&&retry.isConnected&&retry.dataset.busy!=='true'){retry.disabled=false;note.textContent=note.textContent.replace(/^Relance possible à partir de [^.]*\. /,'')}},Math.min(2147483000,retryAt*1000-Date.now()+500));
+  item.append(retry,note,feedback);
+ }else item.append(el('p','helper',retryAt?'Un nouveau bilan sera possible à partir du '+dateLabel(retryAt)+' à '+ambreClock(retryAt)+'.':'Un nouveau bilan n’est pas possible pour le moment.'));
+ return {item:item,title:title};
+}
+// The wait, the failure and the announcements of the review; one polite live region (the shell's).
+function drawAmbreReviewStatus(shell,data,current){
+ var running=chatReviewRunning(data),failure=ambreFailure(data),review=ambreReview(data),wasRunning=!!shell.reviewKey,announce='';
+ if(running){
+  if(shell.reviewFailure){shell.reviewFailure.item.remove();shell.reviewFailure=null}
+  if(!shell.reviewWaiting||shell.reviewWaiting.id!==String(review.running_id)){if(shell.reviewWaiting)shell.reviewWaiting.view.item.remove();shell.reviewWaiting={id:String(review.running_id),view:ambreProgressMessage()}}
+  var view=shell.reviewWaiting.view,progress=view.update(data),key=review.running_id+':'+progress.phase;shell.thread.append(view.item);
+  if(shell.reviewKey!==key){announce=wasRunning&&shell.reviewKey.split(':')[0]===String(review.running_id)?progress.text+'.':'Je prépare votre bilan. '+progress.text+'.';shell.reviewKey=key}
+  if(state.ambreFocusProgress){state.ambreFocusProgress=false;if(view.title.focus)view.title.focus()}
+ }else{
+  if(shell.reviewWaiting){shell.reviewWaiting.view.item.remove();shell.reviewWaiting=null}
+  shell.reviewKey=null;
+  var failureKey=failure&&!chatGuest(data)?JSON.stringify([failure,chatJourney(data)&&chatJourney(data).started]):null;
+  if(shell.reviewFailure&&shell.reviewFailure.key!==failureKey){shell.reviewFailure.item.remove();shell.reviewFailure=null}
+  if(failureKey){if(!shell.reviewFailure)shell.reviewFailure={key:failureKey,item:ambreFailureMessage(data,current,failure).item};shell.thread.append(shell.reviewFailure.item);if(wasRunning)announce='Le bilan n’a pas pu aboutir. '+ambreFailureReason(failure.error_code)}
+  else if(wasRunning)announce='Votre bilan est prêt.';
+ }
+ if(announce)shell.announcement.textContent=announce;
+}
+// The composer stays visible; while it cannot be used it says why (aria-disabled + description).
+function ambreComposerLock(data){
+ if(chatGuest(data))return 'Connectez-vous pour écrire à Ambre.';
+ var journey=chatJourney(data);if(!journey)return '';
+ if(chatReviewRunning(data))return journey.started&&!chatInitialPending(data)?'Vous pourrez écrire à Ambre quand votre bilan sera prêt.':'Vous pourrez écrire à Ambre après votre premier bilan.';
+ if(!journey.started)return 'Vous pourrez écrire à Ambre après votre premier bilan.';
+ var readiness=ambreReadiness(data);if(readiness&&readiness.complete===false)return 'Complétez les pages indiquées dans le premier message d’Ambre pour reprendre la conversation.';
+ if(!chatConsent(data))return 'Cochez l’accord dans le premier message d’Ambre pour reprendre la conversation.';
+ return '';
+}
 function journeyPanel(){
  var panel=document.getElementById('journey-panel'),scroll=document.getElementById('conversation-scroll');
  if(!panel&&scroll){panel=el('section','journey-panel');panel.id='journey-panel';panel.hidden=true;panel.setAttribute('aria-labelledby','journey-title');scroll.append(panel)}
@@ -235,63 +438,11 @@ function showJourneyPanel(panel,step,nodes){
  var changed=panel.dataset.step!==step;panel.dataset.step=step;panel.replaceChildren.apply(panel,nodes);panel.hidden=false;
  if(changed){var target=panel.querySelector('h2');if(target){target.tabIndex=-1;target.focus()}var scroll=document.getElementById('conversation-scroll');if(scroll)scroll.scrollTop=0}
 }
-function journeySourceItem(label,href,source,detail,step){
- var done=!!(source&&source.done),item=el('li','journey-source'+(done?' is-done':'')),mark=el('span','journey-step-mark',done?'✓':String(step||'')),name=el('span','journey-source-name',label),badge=el('span','journey-source-state',done?'Renseigné':'À compléter'),link=el('a',done?'text-link journey-link':'button secondary journey-link',done?'Modifier':'Compléter');
- mark.setAttribute('aria-hidden','true');link.href=href;link.setAttribute('aria-label',(done?'Modifier : ':'Compléter : ')+label);
- var text=el('span','journey-source-text');text.append(name);if(detail)text.append(el('span','journey-source-detail',detail));
- item.append(mark,text,badge,link);return item;
-}
-function journeyCount(count,one,many){count=Number(count)||0;return count?count+' '+(count>1?many:one):''}
+// The panel now only hosts the « Faire le point » confirmation; the first message replaces the rest.
 function drawJourneyPanel(current){
- var data=state.chatData||{},journey=chatJourney(data),guest=data.access&&data.access.reason==='authentication_required';
- if(!journey||guest||!chatIsCurrent(current)){if(state.journeyStep!=='point')closeJourneyPanel();return}
- if(state.journeyStep==='point'){if(chatReviewRunning(data)||!journey.started){state.journeyStep=null;closeJourneyPanel()}else return}
- var readiness=data.readiness||journey.readiness,incomplete=!!(readiness&&!readiness.complete),pending=chatInitialPending(data),view=document.getElementById('view'),shell=view&&view.chatShell;if(shell){shell.thread.hidden=!journey.started||pending;shell.form.hidden=!journey.started||pending||incomplete}
- if(journey.started&&!pending&&!incomplete){state.journeyStep=null;state.journeyWaiting=false;state.journeyKey=null;closeJourneyPanel();return}
- var dialog=journeyPanel(),title=el('h2');title.id='journey-title';
- if(pending){
-  state.journeyWaiting=true;title.textContent='Ambre prépare votre analyse…';
-  var wait=el('p','journey-wait');wait.setAttribute('role','status');wait.append(document.createTextNode('Elle relit ce que vous avez renseigné et rédige votre analyse initiale. Cela prend en général une à deux minutes. Vous pouvez laisser cette page ouverte : l’analyse apparaîtra dans la conversation.'));
-  var dots=el('span','thinking-dots');dots.setAttribute('aria-hidden','true');for(var i=0;i<3;i++)dots.append(el('i'));
-  showJourneyPanel(dialog,'waiting',[title,wait,dots]);return;
- }
- var failed=state.journeyWaiting;if(failed){state.journeyWaiting=false;state.journeyKey=null;state.journeyStep=null;state.journeyError='L’analyse n’a pas pu être préparée. Rien n’a été perdu : vous pouvez la relancer.'}
- if(state.journeyStep==='confirm'&&journey.can_start){
-  title.textContent='Voulez-vous lancer la discussion ?';
-  var consent=el('label','check'),checkbox=el('input');checkbox.type='checkbox';checkbox.id='journey-consent';
-  consent.append(checkbox,document.createTextNode('J’accepte que mes messages et les informations que j’ai renseignées soient traités par OpenRouter pour l’analyse et la conversation. Ambre peut retenir des repères concrets sur les proches que j’ai déjà ajoutés et écrire de courtes notes dans Mon enfance.'));
-  var feedback=el('p','status');feedback.setAttribute('role','status');
-  var yes=actionButton('Oui, lancer',async function(){
-   yes.disabled=true;no.disabled=true;feedback.textContent='Lancement…';feedback.className='status';
-   try{
-    if(!state.journeyKey)state.journeyKey=newClientId();
-    var result=await api('/api/chat/start','POST',{idempotency_key:state.journeyKey,accepted:true});if(!chatIsCurrent(current))return;
-    state.journeyError=null;state.chatData=Object.assign({},state.chatData||{},result);state.journeyWaiting=true;
-    var view=document.getElementById('view');if(view)drawChat(view,current,{animate:true});else drawJourneyPanel(current);
-   }catch(err){
-    if(!chatIsCurrent(current))return;if(Number(err.status)>=400&&Number(err.status)<500)state.journeyKey=null;
-    feedback.textContent=err.message;feedback.className='status error';no.disabled=false;yes.disabled=!checkbox.checked;
-   }
-  });
-  var no=actionButton('Pas encore',function(){state.journeyStep=null;drawJourneyPanel(current)},'secondary');
-  yes.disabled=true;checkbox.addEventListener('change',function(){yes.disabled=!checkbox.checked});
-  var actions=el('div','actions');actions.append(yes,no);
-  showJourneyPanel(dialog,'confirm',[title,el('p','','Cela va initier la conversation à partir des informations que vous avez renseignées.'),consent,actions,feedback]);return;
- }
- state.journeyStep=null;title.textContent='Avant de commencer';
- var sources=journey.sources||{},list;if(readiness)sources={cartography:{done:readiness.childhood.complete,count:readiness.childhood.answered},symptoms:{done:!!readiness.symptoms&&readiness.symptoms.complete,count:readiness.symptoms&&readiness.symptoms.answered},portrait:{done:readiness.identity.complete},people:{done:readiness.people.complete,count:readiness.people.count},life_events:{done:readiness.events.complete,count:readiness.events.count}};
- list=el('ol','journey-sources');var steps=[['Mes symptômes','/mes-symptomes/',sources.symptoms,readiness&&readiness.symptoms?readiness.symptoms.answered+' réponses sur '+readiness.symptoms.required:'Toutes les 516 questions'],['Mon enfance','/cartographie/',sources.cartography,readiness?readiness.childhood.answered+' réponse'+(readiness.childhood.answered>1?'s':'')+' sur '+readiness.childhood.required:journeyCount(sources.cartography&&sources.cartography.count,'réponse','réponses')],['Mon compte','/mon-compte/',sources.portrait,'Prénom, nom, date de naissance et genre'],['Mes proches','/mes-proches/',sources.people,readiness?readiness.people.count+' proche'+(readiness.people.count>1?'s':'')+' sur '+readiness.people.required:journeyCount(sources.people&&sources.people.count,'proche','proches')],['Ma ligne de vie','/ma-ligne-de-vie/',sources.life_events,readiness?readiness.events.count+' moment'+(readiness.events.count>1?'s':'')+' sur '+readiness.events.required:journeyCount(sources.life_events&&sources.life_events.count,'moment','moments')]];
- steps.forEach(function(step,index){list.append(journeySourceItem(step[0],step[1],step[2],step[3],index+1))});
- var missing=steps.filter(function(step){return !(step[2]&&step[2].done)}).map(function(step){return step[0]});
- var stepsBox=el('div','journey-steps'),progress=el('p','journey-progress');progress.append(el('span','journey-progress-label','Vos informations'),el('span','journey-progress-count',(steps.length-missing.length)+' sur '+steps.length+' complétées'));
- var meter=el('span','journey-meter');meter.setAttribute('aria-hidden','true');steps.forEach(function(step){meter.append(el('i',step[2]&&step[2].done?'is-done':''))});progress.append(meter);stepsBox.append(progress,list);
- var start=actionButton(journey.started?'Actualiser mes informations':'Commencer',function(){if(journey.started){renderChat();return}state.journeyError=null;state.journeyStep='confirm';drawJourneyPanel(current)});start.id='journey-start';start.disabled=!journey.started&&!journey.can_start;
- var hint=el('p','helper journey-hint',readiness&&missing.length?'Il reste à compléter : '+missing.join(', ')+'.'+((missing.indexOf('Mon enfance')>=0||missing.indexOf('Mes symptômes')>=0)?' Dans Mon enfance et Mes symptômes, « Je ne sais pas » est une réponse possible.':''):'Complétez vos informations avant de lancer la discussion.');hint.hidden=!start.disabled||!!(readiness&&!missing.length);hint.id='journey-hint';start.setAttribute('aria-describedby',hint.id);
- var nodes=[title,el('p','journey-lead','Ambre commence par une analyse approfondie de ce que vous avez renseigné, puis la conversation se poursuit autour de ce que vous voulez comprendre et changer.'),stepsBox];
- var reviewQuota=data.quotas&&data.quotas.reviews||journey.quotas&&journey.quotas.reviews;
- if(!journey.started&&reviewQuota&&reviewQuota.remaining<=0)nodes.push(el('p','status','Votre bilan mensuel est utilisé. Prochain bilan disponible le '+dateLabel(reviewQuota.renews_at)+'.'));
- if(state.journeyError){var error=el('p','status error',state.journeyError);error.setAttribute('role','alert');nodes.push(error)}
- var launch=el('div','journey-launch');launch.append(start,hint);nodes.push(launch,el('p','journey-note','Ambre est une assistante psychologue IA. La meilleure manière de l’utiliser est d’avoir à vos côtés un professionnel de santé. Elle ne pose pas de diagnostic et ne remplace pas un suivi professionnel.'));showJourneyPanel(dialog,'intro',nodes);
+ var data=state.chatData||{},journey=chatJourney(data);
+ if(state.journeyStep==='point'&&(!journey||!journey.started||chatReviewRunning(data)||!chatIsCurrent(current)))state.journeyStep=null;
+ if(state.journeyStep!=='point')closeJourneyPanel();
 }
 function openPointDialog(current){
  var data=state.chatData||{};if(!chatIsCurrent(current)||chatPointNote(data)||!chatJourney(data)||!chatJourney(data).started)return;
@@ -313,9 +464,13 @@ function openPointDialog(current){
  var no=actionButton('Pas maintenant',close,'secondary'),actions=el('div','actions');actions.append(yes,no);
  showJourneyPanel(dialog,'point',[title,el('p','','Ambre rédige un nouveau bilan à partir de vos informations et de vos échanges depuis le dernier bilan. Cela prend en général une à deux minutes ; il sera aussi conservé dans Mes bilans.'),actions,feedback]);
 }
+// While a review is prepared the state is read every 15 s, never while the page is hidden.
 function pollJourney(current){
- if(!chatIsCurrent(current))return;clearTimeout(state.journeyTimer);state.journeyTimer=setTimeout(async function(){
+ if(!chatIsCurrent(current))return;clearTimeout(state.journeyTimer);state.journeyPollCurrent=current;
+ if(!state.journeyVisibility&&document.addEventListener){state.journeyVisibility=true;document.addEventListener('visibilitychange',function(){var pending=state.journeyPollCurrent;if(!document.hidden&&state.journeyPollPaused&&pending&&chatIsCurrent(pending)&&chatReviewRunning(state.chatData)){state.journeyPollPaused=false;pollJourney(pending)}})}
+ state.journeyTimer=setTimeout(async function(){
   if(!chatIsCurrent(current))return;
+  if(document.hidden){state.journeyPollPaused=true;return}
   try{
    var result=await api('/api/chat');if(!chatIsCurrent(current))return;state.journeyPollFailures=0;
    state.chatData=Object.assign({},state.chatData||{},result);reconcileChatTurn(result);
@@ -324,7 +479,7 @@ function pollJourney(current){
    if(!chatIsCurrent(current))return;state.journeyPollFailures=(state.journeyPollFailures||0)+1;
    if(state.journeyPollFailures<=5)pollJourney(current);else status('chat-status','L’avancement du bilan n’a pas pu être vérifié. Rechargez la page pour le retrouver.',true);
   }
- },3000);
+ },15000);
 }
 function reviewTitle(review){return review.kind==='point'?'Point du '+dateLabel(Number(review.created_at)):'Analyse initiale'}
 async function renderReviews(){

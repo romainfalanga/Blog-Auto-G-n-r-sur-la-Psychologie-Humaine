@@ -60,7 +60,7 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  withFetch(t,async(_url,options)=>{requests.push(JSON.parse(options.body));return reply();});
  let state=await s.call('/api/chat');
  const {readiness,quotas,...emptyJourney}=state.journey;
- assert.deepEqual(emptyJourney,{started:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}},can_start:false,review:{running_id:null,last_at:null,next_point_at:null}});
+ assert.deepEqual(emptyJourney,{started:false,sources:{cartography:{done:false,count:0},portrait:{done:false},people:{done:false,count:0},life_events:{done:false,count:0}},can_start:false,review:{running_id:null,stage:null,blocks_done:0,blocks_total:null,started_at:null,last_failure:null,daily:{created:0,limit:8,resets_at:null},estimate:null,last_at:null,next_point_at:null}});
  assert.deepEqual(readiness.missing,['identity','people','events','childhood','symptoms']);
  assert.deepEqual(readiness.identity.missing_fields,['first_name','last_name','birth_date','gender']);assert.equal(readiness.childhood.required,60);
  assert.equal(quotas.messages.limit,100);assert.equal(quotas.reviews.limit,1);assert.equal(quotas.reviews.remaining,1);
@@ -100,7 +100,11 @@ test('legacy before 0031 journey (generate() path, inactive in production): prer
  assert.equal(r.journey.review.last_at,s.now());assert.equal(r.journey.review.next_point_at,Date.parse('2026-11-30T23:00:00Z')/1000);
  assert.equal(r.access.allowed,true);assert.equal(r.quota.used,0,'a review is not a message of the monthly quota');
  assert.equal(r.quotas.reviews.used,1);assert.equal(r.quotas.reviews.reserved,0);assert.equal(r.quotas.reviews.remaining,0);
- assert.deepEqual(r.messages.map(m=>[m.role,m.review_id,m.review_kind]),[['assistant',initialId,'initial']]);assert.equal(r.messages[0].content,reviewText());
+ assert.deepEqual(r.messages.map(m=>[m.role,m.review_id,m.review_kind]),[['assistant',initialId,'initial']]);
+ // Plan v1.1 (lot 2): the conversation shows chat_message (here the deterministic fallback: the mock
+ // writer returns no chat_message); the complete document stays in Mes bilans.
+ assert.equal(r.messages[0].chat_message,r.messages[0].content);assert.match(r.messages[0].chat_message,/^Votre bilan est prêt/);assert.ok(r.messages[0].chat_message.length<=2500);assert.deepEqual(r.messages[0].links.map(l=>l.href),['/mes-bilans/','/mes-diagnostics/']);
+ assert.equal((await s.call('/api/reviews/'+initialId)).review.content,reviewText());
  assert.equal(requests.length,1);
  const initialRequest=requests[0],initialContext=contextOf(initialRequest);
  assert.match(initialRequest.messages[0].content,/ANALYSE INITIALE/);assert.doesNotMatch(initialRequest.messages[0].content,/POINT D’ÉTAPE/);
@@ -307,14 +311,21 @@ test('Worker: “Mes bilans” page, cron resumption, export and account deletio
  let r=await request(env,'/api/chat/start',{method:'POST',cookie:a.cookie,data:{idempotency_key:'start_key_001',accepted:true}});
  assert.equal(r.status,202);const body=await r.json(),id=body.review_id;assert.equal(body.journey.review.running_id,id);assert.equal(calls,0);
  r=await (await request(env,'/api/reviews/'+id,{cookie:a.cookie})).json();assert.equal(r.review.status,'running');
- const pending=[];const result=await worker.scheduled({},env,{waitUntil:p=>pending.push(p)});await Promise.all(pending);
+ // Plan v1.1 (point 5): the same cron queued a portrait refresh (failing here with 503): the first
+ // review run waits for it without counting an attempt; past three minutes the capture is taken
+ // without the portrait, and the review says so.
+ let pending=[];let result=await worker.scheduled({},env,{waitUntil:p=>pending.push(p)});await Promise.all(pending);
+ assert.deepEqual(result.reviews,{claimed:1,failed:0});assert.equal(calls,0);
+ const waiting=env.DB.raw.prepare('SELECT status,attempts,error_code FROM ambre_reviews WHERE id=?').get(id);assert.equal(waiting.status,'running');assert.equal(waiting.error_code,'portrait_pending');assert.equal(waiting.attempts,0);
+ env.DB.raw.prepare('UPDATE ambre_reviews SET created_at=created_at-200,lease_until=0 WHERE id=?').run(id);
+ pending=[];result=await worker.scheduled({},env,{waitUntil:p=>pending.push(p)});await Promise.all(pending);
  assert.deepEqual(result.reviews,{claimed:1,failed:0});assert.equal(calls,1);
  r=await (await request(env,'/api/chat',{cookie:a.cookie})).json();
  assert.equal(r.journey.started,true);assert.equal(r.messages[0].review_id,id);assert.equal(r.messages[0].review_kind,'initial');
  r=await (await request(env,'/api/reviews',{cookie:a.cookie})).json();assert.equal(r.reviews.length,1);
  const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();
  assert.equal(exported.ambre_reviews.length,1);assert.equal(exported.ambre_reviews[0].content,reviewText());assert.equal(exported.ambre_reviews[0].sources.snapshot_coverage.complete,true);
- const snapshot=await readReviewSnapshot(env,a.user.id,id);assert.equal(snapshot.payload.complete,true);assert.equal(snapshot.payload.sections.profile.length,1);assert.equal(snapshot.payload.sections.people.length,3);assert.equal(snapshot.payload.sections.events.length,3);
+ const snapshot=await readReviewSnapshot(env,a.user.id,id);assert.equal(snapshot.payload.complete,true);assert.deepEqual(snapshot.payload.omitted.map(x=>x.section),['portrait']);assert.deepEqual(snapshot.payload.sections.portrait,[]);assert.deepEqual(finalInput.omitted.map(x=>x.reason),['refresh_pending']);assert.equal(snapshot.payload.sections.profile.length,1);assert.equal(snapshot.payload.sections.people.length,3);assert.equal(snapshot.payload.sections.events.length,3);
  const refs=new Set(finalInput.blocks.flatMap(block=>block.source_refs.map(ref=>ref.path)));
  for(const [section,rows] of Object.entries(snapshot.payload.sections))for(const [index] of rows.entries())assert.ok(refs.has(section+'/'+index),'every archived item was analyzed: '+section+'/'+index);
  assert.equal((await request(env,'/api/account',{method:'DELETE',cookie:a.cookie,data:{password:'long secure password 123'}})).status,200);

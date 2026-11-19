@@ -33,8 +33,18 @@ export async function readCompanionReadiness(env,userId) {
  const symptomAnswers=parse(row?.symptoms_answers),symptomNotes=parse(row?.symptoms_notes);
  const symptomMissing=SYMPTOMS.filter(id=>!Object.hasOwn(symptomAnswers,id)||![0,1,'unknown','past'].includes(symptomAnswers[id]));
  const symptoms={complete:row?.symptoms_consent===1&&row?.symptoms_locked_at!=null&&!symptomMissing.length,answered:SYMPTOMS.length-symptomMissing.length,required:SYMPTOMS.length,missing_ids:symptomMissing,persisted:row?.symptoms_answers!=null};
+ childhood.saved=row?.consent===1&&row?.locked_at!=null;symptoms.saved=row?.symptoms_consent===1&&row?.symptoms_locked_at!=null;
  const missing=Object.entries({identity,people,events,childhood,symptoms}).filter(([,value])=>!value.complete).map(([key])=>key);
- return {version:2,complete:!missing.length,identity,people,events,childhood,symptoms,missing};
+ // Plan v1.1 (lot 3 contract): one counter per page of the first message. complete requires the
+ // answers AND the recording of the page (consent and locked_at for Mon enfance and Mes symptômes);
+ // saved=false with done=total means « enregistrez ». Same verdict as the SQL guard above.
+ const pages=[
+  {id:'account',label:'Mon compte',href:'/mon-compte/',done:4-missing_fields.length,total:4,saved:true,complete:identity.complete},
+  {id:'people',label:'Mes proches',href:'/mes-proches/',done:Math.min(people.count,3),total:3,saved:true,complete:people.complete},
+  {id:'timeline',label:'Ma ligne de vie',href:'/ma-ligne-de-vie/',done:Math.min(events.count,3),total:3,saved:true,complete:events.complete},
+  {id:'childhood',label:'Mon enfance',href:'/cartographie/',done:childhood.answered,total:childhood.required,saved:childhood.saved,complete:childhood.complete},
+  {id:'symptoms',label:'Mes symptômes',href:'/mes-symptomes/',done:symptoms.answered,total:symptoms.required,saved:symptoms.saved,complete:symptoms.complete}];
+ return {version:2,complete:!missing.length,identity,people,events,childhood,symptoms,missing,pages};
 }
 export async function requireCompanionReadiness(env,userId) {
  const readiness=await readCompanionReadiness(env,userId);
