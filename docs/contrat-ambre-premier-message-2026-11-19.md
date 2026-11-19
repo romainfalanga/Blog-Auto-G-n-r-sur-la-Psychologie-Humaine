@@ -132,15 +132,30 @@ L'accord n'est plus enregistré avant la création du bilan. Il est écrit dans 
    - un contrôle déterministe, `internal_process`, sur le document et sur le message ;
    - un critère de relecture, `no_internal`.
 
-   Une première détection impose l'unique réécriture. Si la mention persiste après la réécriture, les phrases concernées sont retirées à la publication (`sources.check.internal_removed`) au lieu de faire échouer tout le bilan.
-4. **Première réponse de conversation.** Le « critère 13 » de la trace est numéroté à partir de 1 dans `REVIEW_CRITERIA` : c'est « Posture adaptée au besoin », et non « Mots simples et longueur proportionnée » (n° 14). C'est aussi le code du contrôle déterministe bloquant `missingReferral`, qui exige la ressource d'un signal actif. Hypothèse retenue : la ligne 3919 du repli prouve qu'un signal `ipv` était actif, alors que le message n'en contient aucun indice (le détecteur lexical renvoie `none`). Ce signal venait donc du modèle d'analyse, nourri par le contexte riche d'après bilan. Faute de 3919, les deux brouillons échouaient au contrôle 13. Ce contrôle ne pouvait pas être corrigé par une réécriture pertinente. Cette hypothèse a été rejouée localement avec un fournisseur simulé, sans appel payant. Corrections :
-   - un signal `ipv` de contrôle ou physique proposé par le modèle n'est gardé que si le message ou l'un des deux messages précédents de la personne parle d'un partenaire ou de violence ;
-   - un signal `ipv` grave du modèle est toujours gardé ;
-   - le signal écarté est tracé dans `analysis.unanchored_signals`.
+   Une première détection impose l'unique réécriture. Si la mention persiste après la réécriture, la publication retire les phrases concernées (`sources.check.internal_removed`) au lieu de faire échouer tout le bilan. Ce retrait obéit à quatre règles :
+   - une phrase qui contient une citation entre guillemets ou un numéro de ressource (3114, 3919, 15, 17, 112, 114, 119) n'est jamais retirée ;
+   - le découpage ne coupe jamais une citation ;
+   - après le nettoyage, les ressources et les contrôles déterministes sont revérifiés : le texte nettoyé ne doit ajouter aucun nouvel échec ;
+   - « bloc » n'est visé que dans « N blocs » et « blocs de données ».
 
-   Le repli ne contient donc plus la ligne 3919 sans signal ancré. Il répond au message : il reprend les mots exacts de la personne s'ils tiennent en 220 caractères, puis pose une question ouverte. En posture de calme (stabilisation, réparation, détresse, `no_questions`, `no_exploration`), il ne pose pas de question. Le texte générique reste réservé aux messages longs. Les consignes de longueur sont aussi explicites et cohérentes avec le critère 14 :
-   - rédacteur : 60 à 180 mots, jamais plus de 220 ; 40 à 100 mots pour un message court ou en posture de stabilisation ; une seule piste ; un exemple de réponse ;
-   - relecteur : le critère 14 est en échec seulement au-delà de 220 mots (100 pour un message court), en cas de jargon ou au-delà de deux pistes.
+   Si une phrase ne peut pas être retirée, le document approuvé la garde (`internal_left`) et le message passe au repli déterministe. Le découpage ne déplace pas une citation « … ? » parmi les questions finales.
+4. **Première réponse de conversation.** Le « critère 13 » de la trace est numéroté à partir de 1 dans `REVIEW_CRITERIA` : c'est « Posture adaptée au besoin », et non « Mots simples et longueur proportionnée » (n° 14). C'est aussi le code du contrôle déterministe bloquant `missingReferral`, qui exige la ressource d'un signal actif. Hypothèse retenue : la ligne 3919 du repli prouve qu'un signal `ipv` était actif, alors que le message n'en contient aucun indice (le détecteur lexical renvoie `none`). Ce signal venait donc du modèle d'analyse, nourri par le contexte riche d'après bilan. Faute de 3919, les deux brouillons échouaient au contrôle 13. Ce contrôle ne pouvait pas être corrigé par une réécriture pertinente. Cette hypothèse a été rejouée localement avec un fournisseur simulé, sans appel payant. Corrections :
+   - après relecture indépendante, le signal `ipv` proposé par le modèle est **toujours gardé** : consigne IPV au rédacteur, contrôle anti-confrontation (critère 2) ;
+   - seule l'exigence bloquante du 3919 (`missingReferral`, critère 13) et sa ligne dans le repli dépendent d'un ancrage. Il y a ancrage dans l'un de ces cas :
+     - le détecteur lexical renvoie un signal ;
+     - le message ou l'un des deux messages précédents de la personne contient un indice (pousser, bousculer, attraper, serrer, enfermer, obliger, forcer, « n'ose plus rentrer », « peur de sa réaction », permission, codes, salaire, « me suit partout », surveiller, contrôler mon téléphone, « des coups », « coup de poing », « au cou », etc.). « Du coup », « tout à coup », « coup de fil » et « contrôle continu » n'en sont pas ;
+     - le signal est grave, ce qui inclut les violences sexuelles et la séquestration ;
+     - une violence est déjà enregistrée : partenaire marqué comme non sûr, ou violence dans la mémoire de sécurité ;
+   - sans ancrage : `signals.ipv_unanchored`, `analysis.unanchored_signals` dans la trace et métrique `ipv_unanchored_referral`.
+
+   Le repli répond au message : il reprend les mots exacts de la personne s'ils tiennent en 220 caractères, puis pose une seule question ouverte. Quand un signal de violence est actif ou que la posture demande le calme, il garde une variante calme, sans question. Le texte générique reste réservé aux messages longs.
+
+   Les bornes de longueur sont communes au rédacteur et au relecteur :
+   - 60 à 180 mots, jamais plus de 220 ;
+   - 40 à 100 mots pour un message d'une ou deux phrases ou en posture `stabilize`, les ressources de sécurité n'étant pas comptées ;
+   - une seule piste.
+
+   Le rédacteur reçoit un exemple de réponse.
 
    Aucun critère n'est désactivé. Cette hypothèse n'a pas été vérifiée sur la trace réelle complète (`analysis.signals`) : la vérifier à la prochaine recette.
 

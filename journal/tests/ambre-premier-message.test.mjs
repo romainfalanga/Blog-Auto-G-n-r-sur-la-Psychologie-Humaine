@@ -298,3 +298,23 @@ test('a review that keeps mentioning its internal process after the rewrite is p
  assert.match(message.chat_message,/\n\nQu’aimeriez-vous creuser en premier \?\nQu’est-ce qui vous semble juste, ou à corriger \?\nQu’en pensez-vous \?$/);assert.ok(message.chat_message.split('\n\n').length>=3);
  assert.deepEqual(message.links.map(l=>l.href),['/mes-bilans/','/mes-diagnostics/']);
 });
+
+// Independent review of the corrections: removal never touches a quote or a resource number, never
+// cuts a quote, and a quoted « … ? » is not taken for one of Ambre's questions.
+test('removal of the internal process keeps quotes and resources intact, and only aims at blocks of data',async()=>{
+ const {withoutInternalProcess,mentionsInternalProcess,structureChatMessage,splitSentences}=await import('../src/review-digest.mjs');
+ assert.deepEqual(splitSentences('Vous écrivez « Je n’en peux plus. Vraiment ? » et cela pèse. Ensuite.'),['Vous écrivez « Je n’en peux plus. Vraiment ? » et cela pèse. ','Ensuite.']);
+ let out=withoutInternalProcess('Vous écrivez « Je n’en peux plus. » '+INTERNAL+' Vos appuis comptent.');
+ assert.equal(out.text,'Vous écrivez « Je n’en peux plus. » Vos appuis comptent.');assert.equal(out.removed,1);
+ out=withoutInternalProcess('Selon l’instantané, vous écrivez « je me tais ». Selon l’instantané, appelez le 3114 si besoin.');assert.equal(out.removed,0);assert.equal(out.kept,2);
+ for(const [text,expected] of [['Je refuse en bloc.',false],['Il y a des blocs de pierre dans le jardin.',false],['Le bilan lit six blocs.',true],['Les blocs de données sont lus.',true],[INTERNAL,true]])assert.equal(mentionsInternalProcess(text),expected,text);
+ const quoted=structureChatMessage('Hypothèse : une forte exigence, appuyée par vos mots : vous écrivez « Pourquoi moi ? »');assert.deepEqual(quoted.questions,[]);assert.equal(quoted.paragraphs.length,1);
+ const mixed=structureChatMessage('Vous écrivez « Pourquoi moi ? » Qu’en pensez-vous ?');assert.deepEqual(mixed.questions,['Qu’en pensez-vous ?']);assert.deepEqual(mixed.paragraphs,['Vous écrivez « Pourquoi moi ? »']);
+});
+test('an internal sentence holding a quote stays in the approved document (counted) and the message falls back',async t=>{
+ const s=await fresh(t);const quotedInternal='Selon l’instantané, vous écrivez « '+SELF+' ».';
+ mock(t,{write:()=>({content:quotedInternal+'\n\n'+CONTENT,chat_message:quotedInternal+'\n\n'+CHAT,digest:DIGEST})});
+ const r=await start(s),row=review(s,r.review_id);assert.equal(row.status,'ready',row.error_code);const check=JSON.parse(row.sources).check;
+ assert.ok(row.content.includes(quotedInternal),'a sentence with a quote is never cut out');assert.ok(check.internal_left>=1);
+ const message=(await s.call('/api/chat')).messages.at(-1);assert.doesNotMatch(message.chat_message,/instantané/);assert.match(message.chat_message,/^Votre bilan est prêt/);
+});

@@ -35,34 +35,55 @@ export const REVIEW_CHECK_SCHEMA=object({criteria:object(Object.fromEntries(Obje
 // Corrections 19/11: the person never reads how the review is produced (blocks, snapshot,
 // summaries, quote checks, model). Detected on the folded text; a first detection forces the
 // single rewrite, and any sentence still detected after it is removed before publication.
-const INTERNAL_PROCESS=/\b(?:des|les|du|un|ce|ces|chaque|par|plusieurs|six|\d+) blocs?\b|\bblocs? (?:de donnees|d analyse|analyses?)\b|\b(?:l|un|d un|cet|de l|les|des|chaque|votre) instantanes?\b|\bresumes? (?:de |des |d )?(?:blocs?|intermediaires?|automatiques?|produits?)|\bcitations? (?:sont |y sont |restent )?(?:verifiables|verifiees|rares|peu nombreuses)|\bverification (?:des|de vos) citations\b|\b(?:modele de langage|modele d ia|llm|prompt|pipeline|tokens?|json|openrouter|digest|chat_message)\b|\b(?:relecture|controle|analyse) automatiques?\b|\bpas sur vos mots directs\b/;
+const INTERNAL_PROCESS=/\b(?:\d+|deux|trois|quatre|cinq|six|sept|huit|neuf|dix|onze|douze|plusieurs) blocs\b|\bblocs? de donnees\b|\b(?:l|un|d un|cet|de l|les|des|chaque|votre) instantanes?\b|\bresumes? (?:de |des |d )?(?:blocs?|intermediaires?|automatiques?|produits?)|\bcitations? (?:sont |y sont |restent )?(?:verifiables|verifiees|rares|peu nombreuses)|\bverification (?:des|de vos) citations\b|\b(?:modele de langage|modele d ia|llm|prompt|pipeline|tokens?|json|openrouter|digest|chat_message)\b|\b(?:relecture|controle|analyse) automatiques?\b|\bpas sur vos mots directs\b/;
 export const REWRITE_FIRST_CHECKS=['internal_process','no_internal'];
 const foldPlain=value=>foldText(value).replace(/['’-]/g,' ');
 export const mentionsInternalProcess=text=>INTERNAL_PROCESS.test(foldPlain(text));
+// Sentences of a line; a quote («…», “…») is never cut, whatever punctuation it holds.
+export function splitSentences(text){
+ const t=String(text||''),out=[];let depth=0,start=0;
+ for(let i=0;i<t.length;i++){
+  const c=t[i];
+  if(c==='«'||c==='“'){depth++;continue}
+  if((c==='»'||c==='”')&&depth>0){
+   depth--;
+   // « Je n’en peux plus. » Ensuite… : a quote ending a sentence closes it when a capital follows.
+   if(!depth){let k=i-1;while(k>start&&/\s/.test(t[k]))k--;let j=i+1;while(j<t.length&&/[\s)]/.test(t[j]))j++;if(/[.!?…]/.test(t[k])&&j<t.length&&/[A-ZÀ-ÖØ-Þ]/.test(t[j])&&j>i+1){out.push(t.slice(start,j));start=j;i=j-1}}
+   continue;
+  }
+  if(depth===0&&/[.!?…]/.test(c)){let j=i+1;while(j<t.length&&/[.!?…)]/.test(t[j]))j++;while(j<t.length&&/\s/.test(t[j]))j++;out.push(t.slice(start,j));start=j;i=j-1}
+ }
+ if(start<t.length)out.push(t.slice(start));
+ return out;
+}
+const RESOURCE_NUMBER=/\b(?:3114|3919|15|17|112|114|119)\b/;
 // Removes the sentences that describe the internal process; paragraphs and line breaks are kept.
+// A sentence holding a quote or a resource number is kept (counted in kept) and left to the rewrite
+// or the fallback.
 export function withoutInternalProcess(text){
- let removed=0;
- const out=String(text||'').split(/\n{2,}/).map(block=>block.split('\n').map(line=>{const parts=line.match(/[^.!?…]+(?:[.!?…]+[»”)]*|$)\s*/g)||[line];const kept=parts.filter(part=>{if(INTERNAL_PROCESS.test(foldPlain(part))){removed++;return false}return true});return kept.join('').trim()}).filter(Boolean).join('\n')).filter(Boolean).join('\n\n');
- return {text:out,removed};
+ let removed=0,kept=0;
+ const out=String(text||'').split(/\n{2,}/).map(block=>block.split('\n').map(line=>splitSentences(line).filter(part=>{if(!INTERNAL_PROCESS.test(foldPlain(part)))return true;if(/[«»“”"]/.test(part)||RESOURCE_NUMBER.test(part)){kept++;return true}removed++;return false}).join('').trim()).filter(Boolean).join('\n')).filter(Boolean).join('\n\n');
+ return {text:out,removed,kept};
 }
 // Corrections 19/11: the conversation message is 2 to 4 short paragraphs, then its questions at
 // the end, one per line. A message written as one long block is restructured without changing
 // a word: trailing questions go on their own lines, long paragraphs are cut at sentence ends.
 const PARAGRAPH_SOFT_MAX=360;
-const isQuestion=value=>/\?\s*[»”)]*$/.test(String(value).trim());
+// A question ends with « ? » outside any quote: « Vous écrivez « Pourquoi moi ? » » is not one.
+const isQuestion=value=>/\?\)?$/.test(String(value).trim());
 export function structureChatMessage(text){
  const blocks=String(text||'').replace(/\r\n?/g,'\n').split(/\n{2,}/).map(x=>x.trim()).filter(Boolean),questions=[];
  // Questions at the end of the message, line by line, then sentence by sentence.
  while(blocks.length){
   const lines=blocks[blocks.length-1].split('\n').map(x=>x.trim()).filter(Boolean);
-  while(lines.length&&isQuestion(lines.at(-1))){const sentences=lines.at(-1).match(/[^.!?…]+(?:[.!?…]+[»”)]*|$)\s*/g)||[lines.at(-1)];const tail=[];while(sentences.length&&isQuestion(sentences.at(-1)))tail.unshift(sentences.pop().trim());if(!tail.length)break;questions.unshift(...tail);const rest=sentences.join('').trim();lines.pop();if(rest){lines.push(rest);break}}
+  while(lines.length&&isQuestion(lines.at(-1))){const sentences=splitSentences(lines.at(-1));const tail=[];while(sentences.length&&isQuestion(sentences.at(-1)))tail.unshift(sentences.pop().trim());if(!tail.length)break;questions.unshift(...tail);const rest=sentences.join('').trim();lines.pop();if(rest){lines.push(rest);break}}
   if(lines.length){blocks[blocks.length-1]=lines.join('\n');break}
   blocks.pop();
  }
  const paragraphs=[];
  for(const block of blocks){
   if(block.length<=PARAGRAPH_SOFT_MAX||block.includes('\n')){paragraphs.push(block);continue}
-  let current='';for(const part of (block.match(/[^.!?…]+(?:[.!?…]+[»”)]*|$)\s*/g)||[block]).map(x=>x.trim()).filter(Boolean)){if(current&&current.length+part.length+1>PARAGRAPH_SOFT_MAX){paragraphs.push(current);current=part}else current=current?current+' '+part:part}
+  let current='';for(const part of splitSentences(block).map(x=>x.trim()).filter(Boolean)){if(current&&current.length+part.length+1>PARAGRAPH_SOFT_MAX){paragraphs.push(current);current=part}else current=current?current+' '+part:part}
   if(current)paragraphs.push(current);
  }
  return {paragraphs,questions,text:[paragraphs.join('\n\n'),questions.join('\n')].filter(Boolean).join('\n\n')};
@@ -261,7 +282,7 @@ export function fallbackChatMessage(digest,content,{signal=null}={}){
  // No question is taken from the document or the digest text: the questions below are the only ones.
  const noQuestion=text=>String(text||'').split(/(?<=[.!?…])\s+/).filter(x=>x.trim()&&!/\?\s*[»”)]*$/.test(x.trim())).join(' ');
  let body=points.map(noQuestion).filter(Boolean).map(sentence).join('\n\n');
- if(!body){const parts=String(content||'').split(/\n{2,}/).map(x=>x.trim()).filter(Boolean),out=[];for(const part of parts.map(noQuestion).map(x=>withoutInternalProcess(x).text).filter(Boolean)){if(out.length>=3||out.join('\n\n').length+part.length>1200)break;out.push(part)}body=out.join('\n\n')||noQuestion(String(content||'').slice(0,1200))}
+ if(!body){const parts=String(content||'').split(/\n{2,}/).map(x=>x.trim()).filter(Boolean).map(noQuestion).map(x=>withoutInternalProcess(x)).filter(x=>!x.kept).map(x=>x.text).filter(Boolean),out=[];for(const part of parts){if(out.length>=3||out.join('\n\n').length+part.length>1200)break;out.push(part)}if(!out.length&&parts.length){let first='';for(const part of splitSentences(parts[0])){if(first.length+part.length>1200)break;first+=part}out.push(first.trim())}body=out.filter(Boolean).join('\n\n')}
  const questions=[...new Set((d.open_questions||[]).map(q=>clip(q,220)).filter(q=>q.endsWith('?')&&(q.match(/\?/g)||[]).length===1))].slice(0,3);
  for(const q of ['Qu’aimeriez-vous creuser en premier ?','Qu’en pensez-vous : ce bilan vous ressemble-t-il ?'])if(questions.length<2&&!questions.includes(q))questions.push(q);
  // A safety signal puts the trusted resources first, as in the document.

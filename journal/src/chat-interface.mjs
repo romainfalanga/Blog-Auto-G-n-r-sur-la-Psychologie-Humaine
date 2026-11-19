@@ -143,8 +143,10 @@ function revealChatResponse(entry,text,current){
 }
 // Corrections 19/11: a review message is shown as short paragraphs, then its questions in a
 // separate block (one per line), even when it was written as one long block (older messages).
-function chatSentences(text){return String(text).match(/[^.!?…]+(?:[.!?…]+[»”)]*|$)\s*/g)||[String(text)]}
-function chatIsQuestion(text){return /\?\s*[»”)]*$/.test(String(text).trim())}
+// Same rules as the server (review-digest.mjs): a quote is never cut, and a question ends with « ? »
+// outside any quote.
+function chatSentences(text){var t=String(text),out=[],depth=0,start=0;for(var i=0;i<t.length;i++){var c=t[i];if(c==='«'||c==='“'){depth++;continue}if((c==='»'||c==='”')&&depth>0){depth--;if(!depth){var k=i-1;while(k>start&&/\s/.test(t[k]))k--;var m=i+1;while(m<t.length&&/[\s)]/.test(t[m]))m++;if(/[.!?…]/.test(t[k])&&m<t.length&&/[A-ZÀ-ÖØ-Þ]/.test(t[m])&&m>i+1){out.push(t.slice(start,m));start=m;i=m-1}}continue}if(depth===0&&/[.!?…]/.test(c)){var j=i+1;while(j<t.length&&/[.!?…)]/.test(t[j]))j++;while(j<t.length&&/\s/.test(t[j]))j++;out.push(t.slice(start,j));start=j;i=j-1}}if(start<t.length)out.push(t.slice(start));return out}
+function chatIsQuestion(text){return /\?\)?$/.test(String(text).trim())}
 function chatReviewParts(text){
  var blocks=String(text||'').replace(/\r\n?/g,'\n').split(/\n{2,}/).map(function(x){return x.trim()}).filter(Boolean),questions=[],paragraphs=[];
  while(blocks.length){

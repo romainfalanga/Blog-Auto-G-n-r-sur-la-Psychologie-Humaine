@@ -1112,11 +1112,15 @@ const REVIEW_FINAL=['prerequisites_required','quota_reservation_missing','consen
     }
    }
    // Corrections 19/11: a sentence still describing the internal process after the rewrite is
-   // removed from the document and the message (never shown to the person).
-   const cleanContent=withoutInternalProcess(content),cleanChat=withoutInternalProcess(chatMessage);let internalRemoved=0;
-   if(cleanContent.removed&&cleanContent.text.length>=600){content=cleanContent.text;internalRemoved+=cleanContent.removed}
-   if(cleanChat.removed){internalRemoved+=cleanChat.removed;const text=structureChatMessage(cleanChat.text).text;chatMessage=text.length>=CHAT_MESSAGE_MIN&&text.includes('?')?text:fallbackChatMessage(draft.digest,content,{signal:safetyAdded||signal})}
-   meta.check={passed:true,rewritten:Boolean(check.rewritten),failed:check.failed,...(internalRemoved?{internal_removed:internalRemoved}:{}),...(draft.digest?.dropped?{digest_dropped:draft.digest.dropped}:{}),...(draft.chat_fallback?{chat_fallback:true}:{}),...(safetyAdded?{safety_added:safetyAdded}:{})};
+   // removed from the document and the message. A sentence holding a quote or a resource number
+   // is never removed; the cleaned text must keep its resources and add no new check failure,
+   // otherwise the document stays as approved (internal_left) and the message uses the fallback.
+   const resourceSignal=safetyAdded||signal,cleanOptions={supplied,corpus,labels:INTERFACE_LABELS,signal:resourceSignal};
+   const cleaned=text=>{const c=withoutInternalProcess(text);if(!c.removed)return {...c,safe:!c.kept};const before=reviewChecks(text,cleanOptions).failed,after=reviewChecks(c.text,cleanOptions).failed;const safe=after.every(code=>code==='internal_process'||before.includes(code))&&(!resourceSignal||hasResources(c.text,resourceSignal)||!hasResources(text,resourceSignal));return {...c,safe};};
+   const cleanContent=cleaned(content),cleanChat=cleaned(chatMessage);let internalRemoved=0,internalLeft=0;
+   if(cleanContent.removed&&cleanContent.safe&&cleanContent.text.length>=600){content=cleanContent.text;internalRemoved+=cleanContent.removed;internalLeft+=cleanContent.kept}else if(cleanContent.removed||cleanContent.kept)internalLeft+=cleanContent.removed+cleanContent.kept;
+   if(cleanChat.removed||cleanChat.kept){const text=structureChatMessage(cleanChat.text).text;if(cleanChat.safe&&!cleanChat.kept&&text.length>=CHAT_MESSAGE_MIN&&text.includes('?')&&(!resourceSignal||hasResources(text,resourceSignal)||!hasResources(chatMessage,resourceSignal))){chatMessage=text;internalRemoved+=cleanChat.removed}else{chatMessage=fallbackChatMessage(draft.digest,content,{signal:resourceSignal});internalRemoved+=cleanChat.removed+cleanChat.kept}}
+   meta.check={passed:true,rewritten:Boolean(check.rewritten),failed:check.failed,...(internalRemoved?{internal_removed:internalRemoved}:{}),...(internalLeft?{internal_left:internalLeft}:{}),...(draft.digest?.dropped?{digest_dropped:draft.digest.dropped}:{}),...(draft.chat_fallback?{chat_fallback:true}:{}),...(safetyAdded?{safety_added:safetyAdded}:{})};
    const turnKey='review-'+review.id,envelope=JSON.stringify({companion_reply:1,content:chatMessage,chat_message:chatMessage,review_id:review.id,review_kind:review.kind}),t=now(),week=parisWeek(new Date(t*1000)).week_start;
    // The review and its message in the conversation are published together, only
    // while the lease is held and the agreement stands.
