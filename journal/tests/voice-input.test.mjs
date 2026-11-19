@@ -22,7 +22,7 @@ test('dictation replaces only the selected text and preserves following text',as
  const f=setup();f.input.value='Avant erreur, après';f.input.selectionStart=6;f.input.selectionEnd=12;await f.click();f.instances[0].emit([['correction',true]]);assert.equal(f.input.value,'Avant correction, après');
 });
 test('installed local French recognition is preferred and missing packs trigger no download',async()=>{
- for(const value of ['available','downloadable','unavailable']){let options;const f=setup({available:async v=>{options=v;return value}});await Promise.resolve();await f.click();assert.deepEqual(options,{langs:['fr-FR'],processLocally:true});assert.equal(f.instances[0].processLocally,value==='available');f.controller.dispose();}
+ for(const value of ['available','downloadable','unavailable']){let options;const f=setup({available:async v=>{options=v;return value}});assert.equal(options,undefined,'not asked while the page loads');f.button.dispatchEvent(new Event('pointerdown'));await Promise.resolve();await f.click();assert.deepEqual(options,{langs:['fr-FR'],processLocally:true});assert.equal(f.instances[0].processLocally,value==='available');f.controller.dispose();}
 });
 test('permission refusal and unsupported browsers preserve the editor with a useful state',async()=>{
  const f=setup();f.input.value='À conserver';await f.click();f.instances[0].onerror({error:'not-allowed'});assert.equal(f.input.value,'À conserver');assert.match(f.status.textContent,/Autorisez/);assert.equal(f.controller.isActive(),false);
@@ -61,4 +61,18 @@ test('a recognition engine that never starts releases the composer with its draf
  assert.equal(f.controller.isActive(),false);
  assert.ok(f.instances[0].aborted);
  assert.match(f.status.textContent,/n’a pas démarré/);
+});
+
+test('lot P: availability is asked once, only when the microphone is used, and a failing probe never breaks dictation',async()=>{
+ let calls=0;const f=setup({available:async()=>{calls++;return 'available'}});
+ await Promise.resolve();assert.equal(calls,0,'loading the composer does not query the browser');
+ f.button.dispatchEvent(new Event('keydown'));f.button.dispatchEvent(new Event('pointerdown'));assert.equal(calls,1);
+ await f.click();assert.equal(calls,1);assert.equal(f.instances.length,1);
+ // A first use without pointer or key (assistive click) asks at start and still starts at once.
+ const direct=setup({available:async()=>{calls++;return 'available'}});await direct.click();assert.equal(calls,2);assert.equal(direct.instances.length,1);assert.equal(direct.instances[0].processLocally,false);
+ for(const available of [()=>{throw new Error('crash')},async()=>{throw new Error('rejected')}]){
+  const g=setup({available});g.button.dispatchEvent(new Event('pointerdown'));await Promise.resolve();await g.click();
+  assert.equal(g.instances.length,1);assert.equal(g.instances[0].processLocally,false);assert.equal(g.controller.isActive(),true);
+ }
+ const disposed=setup({available:async()=>{calls++;return 'available'}});disposed.controller.dispose();disposed.button.dispatchEvent(new Event('pointerdown'));assert.equal(calls,2,'no probe after dispose');
 });
