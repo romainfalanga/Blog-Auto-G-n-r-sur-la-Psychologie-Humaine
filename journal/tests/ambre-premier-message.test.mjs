@@ -178,6 +178,16 @@ test('point 9: the agreement is recorded only with a created review; a refused l
  const r=await start(s,'start-key-0003');assert.equal(r.status,202);assert.equal(consent(s),1);
 });
 
+test('no agreement box: « Lancer mon bilan » alone records the agreement, and the conversation then accepts messages',async t=>{
+ const s=await fresh(t);mock(t);
+ const before=await s.call('/api/chat');assert.equal(before.consent,false);assert.equal(before.journey.started,false);
+ const missing=await s.call('/api/chat/start','POST',{idempotency_key:'start-key-no-accept'});assert.equal(missing.status,400,'the client sends accepted:true with the launch');assert.equal(consent(s),null);
+ const r=await start(s,'start-key-0009');assert.equal(r.status,202,JSON.stringify(r));assert.equal(review(s,r.review_id).status,'ready');
+ const state=await s.call('/api/chat');assert.equal(state.consent,true);assert.equal(consent(s),1);assert.equal(state.journey.started,true);assert.equal(state.access.allowed,true,JSON.stringify(state.access));assert.equal(state.access.reason,null);
+ const sent=await s.call('/api/chat/messages','POST',{content:'Merci pour ce bilan, je me reconnais dans le silence.',idempotency_key:'first-message-0009'});
+ assert.ok(sent.status===200||sent.status===202,JSON.stringify({status:sent.status,code:sent.code}));assert.notEqual(sent.code,'consent_required');
+});
+
 test('lot 3 contract: readiness.pages requires the answers and the recording; reload during the wait, failure, relaunch and quotas',async t=>{
  const s=await fresh(t,{env:{REVIEW_INLINE_TIMEOUT_MS:'0'}});
  s.raw.prepare("UPDATE symptom_maps SET locked_at=NULL WHERE user_id='a'").run();

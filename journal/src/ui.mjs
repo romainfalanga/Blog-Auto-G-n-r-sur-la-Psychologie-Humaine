@@ -641,7 +641,6 @@ function drawSourceSection(kind){
 }
 function noteTarget(kind,id){return '/api/'+(kind==='person'?'people':'life-events')+'/'+encodeURIComponent(id)+'/notes'}
 function applyNoteRevision(target,result){var match=target.match(/^\/api\/(people|life-events)\/([^/]+)\/notes$/);if(!match)return;var row=state[match[1]==='people'?'people':'events'].find(function(item){return item.id===decodeURIComponent(match[2])});if(row&&result.parent_revision)row.revision=result.parent_revision;var open=match[1]==='people'&&state.person&&state.person.id===decodeURIComponent(match[2])?state.person:null;if(open&&result.parent_revision){var draft=state.sourceDrafts.get('people');if(draft&&draft.id===open.id&&draft.revision===open.revision)draft.revision=result.parent_revision;open.revision=result.parent_revision}}
-function noteTimestamp(value){var date=new Date(value);return Number.isNaN(date.getTime())?'':date.toLocaleString('fr-FR',{dateStyle:'medium',timeStyle:'short'})}
 function sourceNoteEditor(target,note,onSaved,addLabel){
  var drafts=state.noteDrafts||(state.noteDrafts=new Map()),key=target+':'+(note?note.id:'new'),draft=drafts.get(key);
  if(!draft){draft={text:note?note.text:'',revision:note&&note.revision,creation_id:newClientId()};drafts.set(key,draft)}
@@ -666,9 +665,10 @@ function sourceNoteEditor(target,note,onSaved,addLabel){
  });return details
 }
 function sourceNoteCard(target,note,onSaved,label){
- var deletionId=newClientId(),row=el('article','timeline-note');row.dataset.noteId=note.id;row.append(el('p','source-meta',label||'Note ajoutée le '+noteTimestamp(note.created_at)),el('p','source-note',note.text));
- if(note.updated_at&&note.updated_at!==note.created_at)row.append(el('p','source-meta','Modifiée le '+noteTimestamp(note.updated_at)));
- row.append(sourceNoteEditor(target,note,onSaved));var feedback=el('p','status');feedback.setAttribute('role','status');
+ var deletionId=newClientId(),row=el('article','timeline-note'),dates=el('p','source-meta note-dates');dates.append(el('span','note-added',label||'Note ajoutée le '+shortDay(note.created_at)));row.dataset.noteId=note.id;
+ if((note.revision>1||note.updated_at!==note.created_at)&&shortDay(note.updated_at))dates.append(el('span','note-edited',' · modifiée le '+shortDay(note.updated_at)));
+ row.append(dates,el('p','source-note',note.text));
+ row.append(sourceNoteEditor(target,note,onSaved),historyButton('note',note.id,'Note du '+shortDay(note.created_at)));var feedback=el('p','status');feedback.setAttribute('role','status');
  row.append(actionButton('Supprimer la note',async function(event){var button=event.currentTarget;if(!await confirmDialog('Supprimer cette note ?','','Supprimer',true))return;button.disabled=true;
   try{var result=await api(target+'/'+encodeURIComponent(note.id),'DELETE',{revision:note.revision,mutation_id:deletionId});if(!row.isConnected)return;applyNoteRevision(target,result);if(state.noteDrafts)state.noteDrafts.delete(target+':'+note.id);if(row.isConnected)await onSaved()}catch(error){feedback.textContent=error.status===409?'Cette note a changé. Rechargez les notes avant de la supprimer.':error.message;button.disabled=false}
  },'text danger'),feedback);return row
@@ -684,6 +684,58 @@ function eventNotes(item,options){
  draw();return section
 }
 function noteDay(value){var date=new Date(value);return Number.isNaN(date.getTime())?'':date.toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'})}
+// Migration 0034: the date an element was added and the history of its modifications.
+// People and moments keep SQLite UTC text (« 2026-11-19 10:42:00 »), notes and history an ISO date.
+function parseStamp(value){if(value==null||value==='')return null;var text=String(value),date=new Date(/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}(:\d{2})?$/.test(text)?text.replace(' ','T')+'Z':text);return Number.isNaN(date.getTime())?null:date}
+function shortDay(value){var date=parseStamp(value);return date?date.toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'}):''}
+function addedOn(item,feminine){var day=shortDay(item&&item.created_at);return day?(feminine?'Ajoutée':'Ajouté')+' le '+day:''}
+// A discreet link: the history opens in a dialog, read on demand, never sent to Ambre.
+function historyButton(type,id,subject){var button=actionButton('Historique',function(){openHistory(type,id,subject)},'text history-link');button.setAttribute('aria-haspopup','dialog');return button}
+function historyValue(type,field,value,values){
+ if(field==='meeting')return values.meeting_date_precision&&values.meeting_date_precision!=='unknown'?sourceDate({date_precision:values.meeting_date_precision,date_start:values.meeting_date_start,date_end:values.meeting_date_end,age_text:values.meeting_age_text}):'';
+ if(field==='date')return values.date_precision&&values.date_precision!=='unknown'?sourceDate(values):'';
+ var pick=function(list){var found=list.find(function(entry){return entry[0]===value});return found?found[1]:value||''};
+ if(field==='role')return pick(PERSON_ROLES);if(field==='kind')return pick(EVENT_KINDS);
+ if(field==='significance')return value==='major'?'Marquant':value==='anecdotal'?'Anecdotique':'À préciser';
+ if(field==='current_importance')return value==null||value===''?'':value+' sur 5';
+ if(field==='people_ids')return (value||[]).map(function(id){var known=(state.people||[]).concat(state.person?[state.person]:[]).find(function(person){return person.id===id});return known?known.display_name:'un proche'}).join(', ');
+ var choices=(SOURCE_CONTEXT_CHOICES[type==='person'?'people':'events']||{})[field];if(choices)return choices[value]||'';
+ return value==null?'':String(value)
+}
+function historyRows(type,values,changed){
+ var labels={display_name:'Prénom ou pseudonyme',role:'Lien',custom_role:'Lien précisé',relationship_text:'Comment vous vivez cette relation',period_start:'Ancien repère de début',period_end:'Ancien repère de fin',meeting:'Date de rencontre',title:'Titre',kind:'Type',description:'Récit',meaning_now:'Ce que cela représente aujourd’hui',date:'Date',current_importance:'Poids aujourd’hui',significance:'Place dans votre histoire',people_ids:'Proches associés',text:'Texte'};
+ var group=function(field){return /^meeting_/.test(field)?'meeting':['date_precision','date_start','date_end','age_text'].includes(field)?'date':field},seen=[];
+ changed.forEach(function(field){var key=group(field);if(!seen.includes(key))seen.push(key)});
+ return seen.map(function(key){return {key:key,label:labels[key]||SOURCE_CONTEXT_LABELS[key]||key}})
+}
+function historyEntry(type,version){
+ var feminine=type==='note',item=el('li','history-entry'),when=el('p','history-when',(version.action==='create'?(feminine?'Ajoutée':'Ajouté'):(feminine?'Modifiée':'Modifié'))+' le '+shortDay(version.at));
+ var time=parseStamp(version.at);if(time)when.append(el('span','history-time',' à '+time.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})));item.append(when);
+ var list=el('dl','history-changes');
+ if(version.action==='create'){var values=version.values||{};historyRows(type,values,Object.keys(values)).forEach(function(row){var text=historyValue(type,row.key,values[row.key],values);if(!text)return;list.append(el('dt','',row.label),el('dd','history-value',text))});if(!list.children.length)list.append(el('dd','muted','Sans contenu.'))}
+ else{var before={},after={};(version.changes||[]).forEach(function(change){before[change.field]=change.before;after[change.field]=change.after});
+  historyRows(type,after,Object.keys(after)).forEach(function(row){var old=historyValue(type,row.key,before[row.key],before),next=historyValue(type,row.key,after[row.key],after);if(old===next)return;
+   if(type!=='note')list.append(el('dt','',row.label));var dd=el('dd','history-diff'),was=el('p','history-before'),now=el('p','history-after');
+   was.append(el('span','history-tag',type==='note'?'Texte précédent':'Avant'),document.createTextNode(old||'(vide)'));now.append(el('span','history-tag',type==='note'?'Nouveau texte':'Après'),document.createTextNode(next||'(vide)'));
+   dd.append(was,now);list.append(dd)})}
+ if(version.action!=='create'&&!list.children.length)return null;
+ if(list.children.length)item.append(list);return item
+}
+async function openHistory(type,id,subject){
+ var opener=document.activeElement,dialog=el('dialog','history-dialog'),top=el('div','dialog-top'),heading=el('h2','','Historique'),close=actionButton('×',function(){dialog.close()},'close'),body=el('div','history-body');
+ heading.id='history-dialog-title';dialog.setAttribute('aria-labelledby',heading.id);close.setAttribute('aria-label','Fermer l’historique');top.append(heading,close);dialog.append(top);
+ if(subject)dialog.append(el('p','history-subject',subject));body.append(el('p','muted','Chargement…'));body.setAttribute('aria-busy','true');dialog.append(body);
+ dialog.addEventListener('close',function(){dialog.remove();if(opener&&opener.isConnected&&opener.focus)opener.focus()});
+ document.body.append(dialog);dialog.showModal();close.focus();
+ try{
+  var result=await api('/api/history?type='+encodeURIComponent(type)+'&id='+encodeURIComponent(id));if(!dialog.isConnected)return;body.removeAttribute('aria-busy');body.replaceChildren();
+  if(result.available!==true){body.append(el('p','helper','L’historique des modifications n’est pas encore disponible.'));return}
+  var versions=result.versions||[],entries=versions.map(function(version){return historyEntry(type,version)}).filter(Boolean);
+  if(entries.length){var list=el('ol','history-list');entries.forEach(function(entry){list.append(entry)});body.append(list)}
+  else body.append(el('p','muted',type==='note'?'Cette note n’a pas été modifiée.':'Aucune modification enregistrée.'));
+  if(!result.complete){var since=shortDay(result.created_at);body.append(el('p','helper history-gap',(since?(type==='note'?'Ajoutée':'Ajouté')+' le '+since+'. ':'')+(versions.length>=(result.limit||50)?'Seules les '+(result.limit||50)+' dernières versions sont conservées.':'Les modifications faites avant la mise en place de l’historique ne sont pas connues.')))}
+ }catch(err){if(!dialog.isConnected)return;body.removeAttribute('aria-busy');body.replaceChildren(el('p','status error',err.status===404?'Cet élément n’existe plus.':err.message))}
+}
 // « Votre histoire avec … » : one vertical line, one dot per step, the date above in small type.
 // The meeting comes first, then the linked moments with their notes, the personal notes and the
 // validated observations. The single general note form closes the line.
@@ -747,10 +799,11 @@ function drawPersonPage(){
  title.textContent=person.display_name;description.textContent=personRoleLabel(person);description.hidden=false;
  var info=el('section','person-info'),actions=el('div','actions source-actions'),editor=el('div','source-editor-host'),feedback=el('p','status');
  editor.id='people-editor';feedback.setAttribute('role','status');info.append(el('h2','','Informations'));
+ var added=addedOn(person);if(added)info.append(el('p','source-meta added-on',added));
  if(person.relationship_text)info.append(el('p','source-note',person.relationship_text));
  if(person.period_start||person.period_end)info.append(el('p','source-meta',[person.period_start,person.period_end].filter(Boolean).join(' – ')));
  appendSourceContextText(info,'people',person);
- if(info.children.length===1)info.append(el('p','muted','Aucune information ajoutée pour le moment.'));
+ if(info.children.length===(added?2:1))info.append(el('p','muted','Aucune information ajoutée pour le moment.'));
  var edit=actionButton('Modifier',async function(){
   var open=document.querySelector('[data-source-form="people"]');if(open)captureSourceDraft(open);
   var old=state.sourceDrafts.get('people');
@@ -758,7 +811,7 @@ function drawPersonPage(){
   if(!old||old.id!==person.id)state.sourceDrafts.set('people',{id:person.id,revision:person.revision,values:Object.assign({},person)});
   drawSourceEditor('people',true)
  },'secondary');edit.dataset.personEdit='true';
- actions.append(edit,actionButton('Supprimer',async function(e){
+ actions.append(edit,historyButton('person',person.id,person.display_name),actionButton('Supprimer',async function(e){
   var button=e.currentTarget;
   if(!await confirmDialog('Supprimer '+person.display_name+' ?','Ses liens avec les événements seront retirés. Les événements et vos textes resteront conservés.','Supprimer',true))return;
   button.disabled=true;feedback.textContent='';
@@ -829,6 +882,7 @@ function drawSourceItem(kind,item,box){
   // The directory stays short: the details and the timeline live on the person page.
   var open=el('a','person-open',item.display_name);open.href=pagePath('person',item.id);title.append(open);var head=el('div','person-head');head.append(title,el('span','source-tag',personRoleLabel(item)));content.append(head);
   if(item.relationship_text)content.append(el('p','source-note person-line',item.relationship_text));
+  var addedPerson=addedOn(item);if(addedPerson)content.append(el('p','source-meta added-on',addedPerson));
   article.append(content);return article
  }
  var eventKind=EVENT_KINDS.find(function(entry){return entry[0]===item.kind});
@@ -841,6 +895,7 @@ function drawSourceItem(kind,item,box){
   meta.append(connections)
  }
  content.append(title,meta);
+ var addedEvent=addedOn(item);if(addedEvent)content.append(el('p','source-meta added-on',addedEvent));
  if(state.eventsSignificanceReady){article.className+=' '+significanceClass(item);content.append(significanceView(item,function(saved){var open=document.querySelector('[data-source-form="events"]');if(open)captureSourceDraft(open);var editing=state.sourceDrafts.get('events');if(editing&&editing.id===saved.id){editing.revision=saved.revision;editing.values.significance=saved.significance}state.events=state.events.map(function(row){return row.id===saved.id?saved:row});drawSourceSection('events');var entry=document.getElementById('event-'+saved.id)||document.querySelector('.moment-filter button[aria-pressed="true"]');if(entry)entry.focus({preventScroll:true});status('source-page-status','Enregistré.')}))}
  content.append(el('p','source-note',item.description));
  appendSourceContextText(content,kind,item);
@@ -850,7 +905,7 @@ function drawSourceItem(kind,item,box){
   var old=state.sourceDrafts.get(kind);
   if(old&&old.id!==item.id&&!await confirmDialog('Remplacer le brouillon ouvert ?','Le brouillon en cours sera remplacé par cet élément enregistré.','Remplacer'))return;
   state.sourceDrafts.set(kind,{id:item.id,revision:item.revision,values:Object.assign({},item)});drawSourceEditor(kind,true)
- },'text'),actionButton('Supprimer',async function(e){
+ },'text'),historyButton('event',item.id,item.title),actionButton('Supprimer',async function(e){
   var button=e.currentTarget;
   if(!await confirmDialog('Supprimer ce moment ?','Il sera retiré de votre ligne de vie et des prochaines analyses.','Supprimer',true))return;
   button.disabled=true;

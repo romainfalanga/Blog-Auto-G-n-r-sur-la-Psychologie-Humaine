@@ -381,7 +381,6 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .chat-turn-state button { min-height: 44px; padding: 0; font-size: var(--t-sm); }
 .chat-gate { flex: none; padding: var(--s3) 0; border-top: 1px solid var(--line); font-size: var(--t-sm); }
 .chat-gate p { margin: 0; }
-.chat-gate .check { font-size: var(--t-sm); }
 .chat-gate .actions { margin-top: var(--s2); }
 .chat-new-response { position: absolute; bottom: 96px; left: 50%; transform: translateX(-50%); }
 .journey-panel h2 { margin: var(--s2) 0 var(--s3); }
@@ -416,8 +415,7 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .ambre-need.is-done .ambre-need-state { padding-inline: 0; background: none; color: var(--accent); }
 .ambre-need.is-save .ambre-need-state { box-shadow: inset 0 0 0 1px var(--line-strong); background: var(--surface); }
 .ambre-launch { margin-top: var(--s4); }
-.ambre-intro .check { font-size: var(--t-sm); line-height: 1.5; }
-.ambre-intro .check input { flex: none; width: 20px; height: 20px; margin-top: 1px; }
+.ambre-consent-info { max-width: 60ch; margin: var(--s3) 0 0; color: var(--muted); font-size: var(--t-xs); line-height: 1.5; }
 #ambre-start, #ambre-retry { min-height: 48px; margin-top: var(--s2); padding-inline: var(--s6); }
 .ambre-start-reason, .ambre-retry-note { margin: var(--s2) 0 0; color: var(--muted); font-size: var(--t-sm); line-height: 1.45; }
 .ambre-launch-status { margin: var(--s2) 0 0; font-size: var(--t-sm); }
@@ -426,7 +424,6 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .ambre-intro-status { color: var(--muted); }
 .ambre-auth { margin-top: var(--s3); }
 .ambre-auth button { min-height: 48px; }
-.ambre-intro-note { margin: var(--s4) 0 0; padding-top: var(--s3); border-top: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); line-height: 1.5; }
 .ambre-bar { height: 8px; margin: var(--s1) 0 var(--s3); border-radius: 4px; background: var(--accent-wash); box-shadow: inset 0 0 0 1px var(--line); overflow: hidden; }
 .ambre-bar-fill { display: block; height: 100%; border-radius: inherit; background: var(--accent); }
 @media (prefers-reduced-motion: no-preference) { .ambre-bar-fill { transition: width .6s ease; } }
@@ -440,6 +437,8 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .ambre-leave { margin-bottom: 0; color: var(--muted); }
 .ambre-safe { font-weight: 600; }
 .chat-locked-note { margin: 0 0 var(--s2); color: var(--muted); font-size: var(--t-xs); line-height: 1.4; }
+/* Before the conversation is open the input bar is not shown: only the sentence remains. */
+.chat-composer[data-closed="true"] .chat-locked-note { margin: 0; color: var(--muted); font-size: var(--t-sm); line-height: 1.5; text-align: center; }
 .chat-composer textarea[aria-disabled="true"] { background: var(--bg); color: var(--muted); cursor: not-allowed; }
 .chat-review-links { display: flex; flex-wrap: wrap; gap: 0 var(--s4); margin: var(--s2) 0 0; }
 .chat-review-links .chat-review-link { align-items: center; min-height: 44px; margin: 0; }
@@ -570,5 +569,33 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
 @media (max-height: 560px) {
   .conversation-toolbar { padding-block: var(--s2); }
   .chat-composer textarea { max-height: 100px; }
+}
+/* Migration 0034: the date an element was added, and its history in a dialog. */
+.added-on { margin: 2px 0 0; }
+.person-info > .added-on { margin: calc(-1 * var(--s2)) 0 var(--s3); }
+.note-dates > span { white-space: nowrap; }
+.history-link { font-size: var(--t-sm); }
+.timeline-note > .history-link { vertical-align: top; margin-right: var(--s4); }
+.history-dialog { width: min(640px, calc(100% - 2 * var(--gutter))); }
+.history-dialog .dialog-top h2 { margin-bottom: var(--s1); }
+.history-subject { margin: 0 0 var(--s4); color: var(--muted); font-size: var(--t-sm); line-height: 1.4; overflow-wrap: anywhere; }
+.history-list { margin: 0; padding: 0; list-style: none; }
+.history-entry { padding: var(--s4) 0; border-top: 1px solid var(--line); }
+.history-entry:first-child { padding-top: 0; border-top: 0; }
+.history-when { margin: 0 0 var(--s2); font: 600 var(--t-sm)/1.4 var(--font-ui); }
+.history-time { color: var(--muted); font-weight: 400; }
+.history-changes { margin: 0; }
+.history-changes dt { margin: var(--s3) 0 var(--s1); color: var(--muted); font: 600 var(--t-xs)/1.4 var(--font-ui); letter-spacing: .01em; }
+.history-changes dt:first-child { margin-top: 0; }
+.history-changes dd { margin: 0; }
+.history-value, .history-before, .history-after { margin: 0; font-size: var(--t-sm); line-height: 1.5; white-space: pre-wrap; overflow-wrap: anywhere; }
+.history-diff { display: grid; gap: var(--s2); }
+.history-before, .history-after { padding-left: var(--s3); border-left: 2px solid var(--line); }
+.history-before { color: var(--muted); }
+.history-after { border-left-color: var(--accent); }
+.history-tag { display: block; color: var(--muted); font: 600 var(--t-xs)/1.4 var(--font-ui); letter-spacing: .01em; }
+.history-gap { margin: var(--s4) 0 0; }
+@media (max-width: 599px) {
+  .history-dialog { width: 100%; }
 }
 `;

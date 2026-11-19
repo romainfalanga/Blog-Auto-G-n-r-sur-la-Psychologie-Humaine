@@ -59,9 +59,9 @@ function environment(extra={}) {
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
   // The site confirmation window is answered by the same hook as the former confirm().
   if(!ctx.confirmDialog)ctx.confirmDialog=(title,text)=>Promise.resolve(ctx.confirm([title,text].filter(Boolean).join(' ')));
-  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerClosed','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var MOMENT_FOR_PERSON=.*\n/)[0],ctx);
-  vm.runInContext(['AMBRE_CONSENT_TEXT','AMBRE_DAILY_LAUNCHES','AMBRE_FAILURES'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join(''),ctx);
+  vm.runInContext(['AMBRE_INTRO','AMBRE_DAILY_LAUNCHES','AMBRE_FAILURES'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join(''),ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -500,12 +500,12 @@ const partialReadiness=()=>({version:2,complete:false,identity:{complete:false,m
 const ambreState=(readiness,journey={},extra={})=>journeyState({started:false,can_start:readiness.complete,readiness,quotas:{reviews:{remaining:1,limit:1,renews_at:'2026-12-01'}},...journey,review:{running_id:null,last_at:null,next_point_at:null,last_failure:null,...journey.review}},{readiness,welcome:{id:'ambre-welcome-v9',role:'assistant',content:'Ancien message d’accueil.'},...extra});
 const runningReview=(review={})=>({running_id:'r1',last_at:null,next_point_at:null,stage:'snapshot',blocks_done:5,blocks_total:12,started_at:Math.floor(Date.now()/1000)-120,estimate:{p50_seconds:540,p90_seconds:780,basis:'initial'},last_failure:null,...review});
 
-test('Ambre’s first message lists the five pages with counters, asks one agreement and launches the review',async()=>{
+test('Ambre’s first message introduces her, lists the five pages with counters and launches the review without an agreement box',async()=>{
  const calls=[];let next;const env=chatFixture({api:async(path,method,data)=>{calls.push([path,method||'GET',data]);return next;}});
  env.ctx.state.chatData=ambreState(partialReadiness());env.ctx.drawChat(env.view,()=>true);
  const thread=env.view.querySelector('.chat-thread'),intro=env.doc.getElementById('ambre-intro');
  assert.equal(thread.hidden,false);assert.equal(env.form.hidden,false);assert.ok(thread.children[0]===intro,'the first message opens the thread');assert.equal(env.doc.getElementById('journey-panel').hidden,true);
- assert.equal(intro.querySelector('h2').textContent,'Je commence par un bilan');assert.match(intro.textContent,/bilan complet de ce que vous avez renseigné/);assert.match(intro.textContent,/nous en discutons ensemble/);assert.match(intro.textContent,/Ce dont j’ai besoin/);
+ assert.equal(intro.querySelector('h2').textContent,'Bonjour, je suis Ambre.');assert.deepEqual(intro.querySelector('.ambre-intro-lead').children.map(p=>p.textContent),['Je suis une assistante psychologue IA, et je suis là pour vous aider à mieux vous comprendre, à votre rythme.','Pour commencer, je lis tout ce que vous avez renseigné et je vous prépare un premier bilan : ce que je comprends de votre histoire, avec des hypothèses sur ce qui me paraît probable.','Ensuite, nous en parlons ensemble : vous me dites ce qui vous parle, ce qui vous ressemble moins, et ce que vous aimeriez approfondir.']);assert.match(intro.textContent,/Ce dont j’ai besoin/);
  assert.doesNotMatch(env.view.textContent,/Ancien message d’accueil|Avant de commencer/,'the former welcome and card are gone');assert.equal(env.view.querySelectorAll('.chat-assistant').length,1);
  const items=intro.querySelectorAll('.ambre-need');assert.deepEqual(items.map(i=>i.querySelector('a').href),['/mon-compte/','/mes-proches/','/ma-ligne-de-vie/','/cartographie/','/mes-symptomes/']);
  assert.deepEqual(items.map(i=>i.querySelector('.ambre-need-count').textContent),['3/4','1/3','3/3','60/60','212/516']);
@@ -513,14 +513,14 @@ test('Ambre’s first message lists the five pages with counters, asks one agree
  assert.equal(items[2].querySelector('.ambre-need-mark').textContent,'✓');assert.equal(items[0].querySelector('.ambre-need-mark').textContent,'');assert.equal(items[4].querySelector('a').getAttribute('aria-label'),'Mes symptômes : à compléter, 212 sur 516');
  let start=env.doc.getElementById('ambre-start'),reason=env.doc.getElementById('ambre-start-reason');assert.equal(start.textContent,'Lancer mon bilan');assert.equal(start.disabled,true);
  assert.equal(reason.textContent,'Complétez d’abord Mon compte, Mes proches, Mes symptômes. Enregistrez Mon enfance.');assert.equal(start.getAttribute('aria-describedby'),reason.id);
- assert.ok(env.view.querySelector('.chat-gate')===null,'one agreement only, in the first message');assert.match(env.doc.getElementById('ambre-consent').parentElement.textContent,/traités par OpenRouter/);
- assert.equal(env.input.getAttribute('aria-disabled'),'true');assert.equal(env.input.readOnly,true);assert.equal(env.input.disabled,true);assert.match(env.input.getAttribute('aria-describedby'),/chat-locked-note/);
+ assert.ok(env.view.querySelector('.chat-gate')===null,'no agreement gate in the conversation');assert.ok(env.doc.getElementById('ambre-consent')===null&&env.doc.getElementById('chat-consent')===null,'no agreement box');assert.equal(env.view.querySelectorAll('input').filter(i=>i.type==='checkbox').length,0);
+ assert.equal(env.doc.getElementById('chat-composer-row').hidden,true,'no input bar before the first review');assert.equal(env.form.dataset.closed,'true');assert.equal(env.doc.getElementById('chat-memory-notice').hidden,true);
  assert.equal(env.doc.getElementById('chat-locked-note').textContent,'Vous pourrez écrire à Ambre après votre premier bilan.');assert.equal(env.doc.getElementById('chat-locked-note').hidden,false);
  env.input.value='Bonjour';assert.equal(env.send.disabled,true);assert.ok(env.doc.activeElement!==env.input,'no keyboard is opened');
  env.ctx.state.chatData=ambreState(fullReadiness());env.ctx.drawChat(env.view,()=>true);
- start=env.doc.getElementById('ambre-start');reason=env.doc.getElementById('ambre-start-reason');assert.equal(start.disabled,true);assert.equal(reason.textContent,'Cochez la case d’accord pour lancer votre bilan.');
+ start=env.doc.getElementById('ambre-start');reason=env.doc.getElementById('ambre-start-reason');assert.equal(start.disabled,false,'the launch button alone is enough');assert.equal(reason.hidden,true);assert.equal(start.getAttribute('aria-describedby'),undefined);assert.equal(env.doc.getElementById('ambre-consent-info'),null);
  assert.ok(env.doc.getElementById('ambre-intro').querySelectorAll('.ambre-need').every(i=>i.querySelector('.ambre-need-mark').textContent==='✓'));
- const box=env.doc.getElementById('ambre-consent');box.checked=true;await box.fire('change');assert.equal(start.disabled,false);assert.equal(reason.hidden,true);assert.equal(calls.length,0);
+ assert.equal(calls.length,0);
  next=ambreState(fullReadiness(),{started:true,can_start:false,review:runningReview()},{consent:true,access:{allowed:true,reason:null},review_id:'r1'});
  await start.fire('click');
  assert.equal(calls.length,1);assert.deepEqual([calls[0][0],calls[0][1],calls[0][2].accepted],['/api/chat/start','POST',true]);assert.match(calls[0][2].idempotency_key,/^[\w-]{8,}$/);
@@ -528,6 +528,7 @@ test('Ambre’s first message lists the five pages with counters, asks one agree
  const bar=progress.querySelector('.ambre-bar');assert.equal(bar.getAttribute('role'),'progressbar');assert.equal(bar.getAttribute('aria-valuemin'),'0');assert.equal(bar.getAttribute('aria-valuemax'),'100');assert.equal(bar.getAttribute('aria-valuetext'),'Lecture de vos informations : 5 sur 12');assert.ok(Number(bar.getAttribute('aria-valuenow'))>5&&Number(bar.getAttribute('aria-valuenow'))<70);
  assert.equal(progress.getAttribute('role'),undefined,'the wait is not a second live region');assert.equal(env.view.chatShell.announcement.textContent,'Je prépare votre bilan. Lecture de vos informations : 5 sur 12.');
  assert.match(progress.textContent,/Durée estimée : entre 9 et 13 minutes, prêt au plus tard vers \d\d:\d\d\./);assert.match(progress.textContent,/Vous pouvez fermer cette page : votre bilan apparaîtra ici et dans Mes bilans\./);assert.equal(progress.querySelector('.ambre-late').hidden,true);
+ assert.equal(env.doc.getElementById('chat-composer-row').hidden,true,'still no input bar during the first review');
  assert.ok(env.doc.activeElement===progress.querySelector('h3'),'focus follows the launch');assert.match(env.doc.getElementById('ambre-intro').textContent,/Votre bilan est lancé/);assert.equal(env.doc.getElementById('ambre-intro').querySelectorAll('button').length,0);
  assert.equal(env.doc.getElementById('chat-point').hidden,true,'no « Faire le point » during the first review');assert.equal(env.send.disabled,true);
  env.ctx.state.chatData=ambreState(fullReadiness(),{started:true,review:runningReview({stage:'write',blocks_done:12})},{consent:true,access:{allowed:true}});env.ctx.drawChat(env.view,()=>true);
@@ -539,6 +540,7 @@ test('Ambre’s first message lists the five pages with counters, asks one agree
  assert.equal(current.isConnected,false);assert.equal(env.view.chatShell.announcement.textContent,'Votre bilan est prêt.');
  const reply=thread.children.at(-1);assert.deepEqual(reply.querySelectorAll('.chat-paragraph').map(p=>p.textContent),['Ce qui ressort : vous vous taisez pour protéger le lien.']);assert.deepEqual(reply.querySelector('.chat-questions').querySelectorAll('li').map(li=>li.textContent),['Qu’aimeriez-vous creuser ?']);assert.doesNotMatch(reply.textContent,/très long/);
  assert.deepEqual(reply.querySelectorAll('a').map(a=>[a.textContent,a.href]),[['Lire le bilan complet','/mes-bilans/'],['Voir Mes diagnostics','/mes-diagnostics/']]);
+ assert.equal(env.doc.getElementById('chat-composer-row').hidden,false,'the input bar appears once the review is ready');assert.equal(env.form.dataset.closed,'');
  assert.equal(env.input.getAttribute('aria-disabled'),undefined);assert.equal(env.input.readOnly,false);assert.equal(env.input.disabled,false);assert.equal(env.doc.getElementById('chat-locked-note').hidden,true);assert.equal(env.send.disabled,false);
  assert.match(env.doc.getElementById('ambre-intro').textContent,/Votre premier bilan est fait/);assert.equal(thread.children[0].id,'ambre-intro');
 });
@@ -581,11 +583,11 @@ test('the server list of pages (readiness.pages) gives the counters; « enregist
 
 test('a visitor sees the same first message without counters and signs in from it',()=>{
  const env=chatFixture();env.ctx.state.chatData={access:{allowed:false,reason:'authentication_required'},messages:[],proposals:[]};env.ctx.drawChat(env.view,()=>true);
- const intro=env.doc.getElementById('ambre-intro');assert.equal(intro.querySelector('h2').textContent,'Je commence par un bilan');assert.equal(intro.querySelectorAll('.ambre-need').length,5);
+ const intro=env.doc.getElementById('ambre-intro');assert.equal(intro.querySelector('h2').textContent,'Bonjour, je suis Ambre.');assert.match(intro.textContent,/assistante psychologue IA/);assert.equal(intro.querySelectorAll('.ambre-need').length,5);
  assert.equal(intro.querySelectorAll('.ambre-need-count').length,0);assert.equal(intro.querySelectorAll('.ambre-need-state').length,0);assert.match(intro.textContent,/Les 516 questions/);
  assert.deepEqual(intro.querySelectorAll('button').map(b=>[b.textContent,b.dataset.auth]),[['Se connecter','login'],['Créer un compte','register']]);
  assert.ok(env.doc.getElementById('ambre-consent')===null);assert.ok(env.doc.getElementById('ambre-start')===null);assert.ok(env.view.querySelector('.chat-gate')===null);
- assert.equal(env.doc.getElementById('chat-locked-note').textContent,'Connectez-vous pour écrire à Ambre.');assert.equal(env.input.getAttribute('aria-disabled'),'true');assert.equal(env.send.disabled,true);assert.equal(env.doc.getElementById('chat-quota').parentElement.hidden,true);
+ assert.equal(env.doc.getElementById('chat-locked-note').textContent,'Connectez-vous pour écrire à Ambre.');assert.equal(env.doc.getElementById('chat-composer-row').hidden,true,'no input bar for a visitor');assert.equal(env.send.disabled,true);assert.equal(env.doc.getElementById('chat-quota').parentElement.hidden,true);
 });
 
 test('the review state is read every 15 seconds and never while the page is hidden',async()=>{
@@ -599,17 +601,17 @@ test('the review state is read every 15 seconds and never while the page is hidd
 });
 
 test('an old review envelope keeps its content and link, and the former welcome text is not shown',()=>{
- const env=chatFixture();env.ctx.state.chatData=ambreState(fullReadiness(),{started:true,review:{last_at:100}},{consent:true,access:{allowed:true},messages:[{id:'ambre-welcome-v3',role:'assistant',content:'Bonjour, je suis Ambre.'},{id:'t1-assistant',role:'assistant',content:'Votre analyse initiale.',review_id:'r1',review_kind:'initial'}]});env.ctx.drawChat(env.view,()=>true);
- const thread=env.view.querySelector('.chat-thread');assert.equal(thread.children.length,2);assert.equal(thread.children[0].id,'ambre-intro');assert.doesNotMatch(thread.textContent,/Bonjour, je suis Ambre|Ancien message/);
+ const env=chatFixture();env.ctx.state.chatData=ambreState(fullReadiness(),{started:true,review:{last_at:100}},{consent:true,access:{allowed:true},messages:[{id:'ambre-welcome-v3',role:'assistant',content:'Ancien accueil v3 : bonjour.'},{id:'t1-assistant',role:'assistant',content:'Votre analyse initiale.',review_id:'r1',review_kind:'initial'}]});env.ctx.drawChat(env.view,()=>true);
+ const thread=env.view.querySelector('.chat-thread');assert.equal(thread.children.length,2);assert.equal(thread.children[0].id,'ambre-intro');assert.doesNotMatch(thread.textContent,/Ancien accueil v3|Ancien message/);
  const legacy=thread.children[1];assert.equal(legacy.querySelector('h3').textContent,'Ambre · Analyse initiale');assert.equal(legacy.querySelector('.chat-content').textContent,'Votre analyse initiale.');assert.deepEqual(legacy.querySelectorAll('a').map(a=>[a.textContent,a.href]),[['Retrouver ce bilan dans Mes bilans','/mes-bilans/']]);
  env.ctx.state.chatData.messages[1].chat_message='   ';env.ctx.drawChat(env.view,()=>true);assert.equal(legacy.querySelector('.chat-content').textContent,'Votre analyse initiale.','an empty chat_message keeps content');
 });
 
-test('after a withdrawn agreement the first message asks it again before the conversation resumes',async()=>{
+test('after a withdrawn agreement « Reprendre la conversation » gives it again, without any box',async()=>{
  const calls=[];const env=chatFixture({api:async(path,method,data)=>{calls.push([path,method,data]);return {}}});env.ctx.renderChat=()=>calls.push(['render']);
  env.ctx.state.chatData=ambreState(fullReadiness(),{started:true,review:{last_at:100}},{consent:false,access:{allowed:false,reason:'consent_required'}});env.ctx.drawChat(env.view,()=>true);
- const resume=env.doc.getElementById('ambre-start');assert.equal(resume.textContent,'Reprendre la conversation');assert.equal(resume.disabled,true);assert.match(env.doc.getElementById('chat-locked-note').textContent,/Cochez l’accord/);
- const box=env.doc.getElementById('ambre-consent');box.checked=true;await box.fire('change');assert.equal(resume.disabled,false);await resume.fire('click');assert.equal(JSON.stringify(calls[0]),JSON.stringify(['/api/chat/consent','PUT',{accepted:true}]));
+ const resume=env.doc.getElementById('ambre-start');assert.equal(resume.textContent,'Reprendre la conversation');assert.equal(resume.disabled,false);assert.ok(env.doc.getElementById('ambre-consent')===null);assert.match(env.doc.getElementById('chat-locked-note').textContent,/Touchez « Reprendre la conversation »/);assert.equal(env.doc.getElementById('chat-composer-row').hidden,false,'the conversation is open: the bar stays, disabled');
+ await resume.fire('click');assert.equal(JSON.stringify(calls[0]),JSON.stringify(['/api/chat/consent','PUT',{accepted:true}]));
 });
 
 test('“Faire le point” explains why it is unavailable, confirms lightly and shows the wait in the thread',async()=>{
@@ -1035,7 +1037,7 @@ test('an already-started conversation is blocked when the strict readiness check
 });
 
 function noteFixture(note,api){
- let saved=0;const env=environment({api});for(const name of ['noteTarget','noteTimestamp','applyNoteRevision','sourceNoteEditor','sourceNoteCard'])vm.runInContext(functionCode(name),env.ctx);
+ let saved=0;const env=environment({api});for(const name of ['noteTarget','parseStamp','shortDay','addedOn','historyButton','applyNoteRevision','sourceNoteEditor','sourceNoteCard'])vm.runInContext(functionCode(name),env.ctx);
  const target='/api/life-events/event-1/notes',editor=env.ctx.sourceNoteEditor(target,note,async()=>saved++);env.host('notes').append(editor);return {...env,target,editor,form:editor.querySelector('form'),input:editor.querySelector('textarea'),get saved(){return saved}};
 }
 
@@ -1075,7 +1077,7 @@ test('a close person has an address of their own, prepared and opened like the o
 });
 function personFixture(api,extra={}){
  const env=environment({api,location:{pathname:'/mes-proches/p1/'},history:{replaceState(){}},queueMicrotask(fn){fn()},...extra});
- for(const name of ['personRoleLabel','personIdForPath','pagePath','noteTarget','noteTimestamp','noteDay','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
+ for(const name of ['personRoleLabel','personIdForPath','pagePath','noteTarget','parseStamp','shortDay','addedOn','historyButton','noteDay','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
  Object.assign(env.ctx.state,{tab:'person',personId:'p1',peopleFieldsReady:false});
  const head=env.doc.createElement('div'),title=env.doc.createElement('h1'),description=env.doc.createElement('p');title.id='private-page-title';title.textContent='Mes proches';description.id='page-description';description.hidden=true;head.append(title,description);
  const view=env.host('view');let html='';Object.defineProperty(view,'innerHTML',{set(value){html=value;const status=env.doc.createElement('p'),box=env.doc.createElement('div');status.id='source-page-status';box.id='person-content';view.replaceChildren(status,box)},get(){return html}});
@@ -1091,7 +1093,7 @@ test('the person page shows the name, role, information, edit action and the com
  const back=env.head.children[0];assert.equal(back.tagName,'A');assert.equal(back.href,'/mes-proches/');assert.equal(back.textContent,'Mes proches');
  const text=env.box.textContent;for(const expected of ['Informations','On se parle chaque semaine.','Votre histoire avec Léa','Rencontre','2012','Un voyage ensemble','Trois jours en Bretagne.','Une note à moi','Léa me rappelle toujours.','Repère validé','Ajouter une note à ce moment','Votre note'])assert.ok(text.includes(expected),expected);
  assert.doesNotMatch(text,/Repères sur cette relation|Chargement/);assert.equal(env.box.querySelector('details.person-timeline'),null,'the timeline is no longer a disclosure');
- const buttons=env.box.querySelector('.person-info').querySelectorAll('button').map(button=>button.textContent);assert.deepEqual(buttons.slice(0,2),['Modifier','Supprimer']);
+ const buttons=env.box.querySelector('.person-info').querySelectorAll('button').map(button=>button.textContent);assert.deepEqual(buttons.slice(0,3),['Modifier','Historique','Supprimer']);
  assert.equal(env.ctx.state.peopleFieldsReady,true);
  await env.box.querySelector('.person-info').querySelector('button').fire('click');
  const form=env.doc.getElementById('people-form');assert.ok(form,'Modifier opens the editor on the person page');assert.equal(form.elements.display_name.value,'Léa');assert.equal(env.ctx.state.sourceDrafts.get('people').revision,3);
@@ -1198,13 +1200,13 @@ test('every review failure code has its own plain message; definitive limits say
  for(const code of ['snapshot_too_large','snapshot_analysis_limit'])assert.match(F[code],/limite fixe : relancer ne changerait rien/);
  assert.doesNotMatch(F.snapshot_analysis_limit,/aujourd’hui/);assert.doesNotMatch(F.generation_budget,/aujourd’hui/);assert.match(F.generation_budget,/semaine/);
 });
-test('the launch feedback is announced, and a state without journey keeps the agreement box',async()=>{
+test('the launch feedback is announced, and no state shows an agreement box',async()=>{
  const calls=[];const env=chatFixture({api:async(...args)=>{calls.push(args);return {consent:true,access:{allowed:true},messages:[]}}});
  env.ctx.state.chatData=ambreState(fullReadiness(),{},{consent:false,access:{allowed:false,reason:'consent_required'}});env.ctx.drawChat(env.view,()=>true);
  assert.equal(env.doc.getElementById('ambre-launch-status').getAttribute('role'),'status');
  env.ctx.state.chatData={consent:false,access:{allowed:false,reason:'consent_required'},messages:[]};env.ctx.drawChatGate(env.view.chatShell,env.ctx.state.chatData,()=>true);
- const box=env.doc.getElementById('chat-consent'),accept=env.doc.getElementById('chat-consent-accept');assert.ok(box&&accept);assert.equal(accept.disabled,true);
- box.checked=true;box.fire('change');assert.equal(accept.disabled,false);await accept.fire('click');assert.equal(calls[0][0],'/api/chat/consent');assert.equal(calls[0][1],'PUT');assert.equal(calls[0][2].accepted,true);
+ assert.ok(env.doc.getElementById('chat-consent')===null&&env.doc.getElementById('chat-consent-accept')===null&&env.doc.getElementById('chat-consent-gate')===null);assert.equal(env.view.chatShell.gate.children.length,0);assert.equal(calls.length,0);
+ assert.doesNotMatch(script,/chat-consent-gate|chat-consent-accept|ambre-consent'|type='checkbox';checkbox\.id/,'no agreement box anywhere in the conversation');
 });
 
 // Corrections 19/11 (recette réelle): in the new envelopes content equals chat_message and the
