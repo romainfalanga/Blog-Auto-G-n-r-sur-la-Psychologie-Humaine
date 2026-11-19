@@ -1760,7 +1760,7 @@
       "description": "Terre, craie, papier, plâtre ou autres matières non comestibles, de façon régulière.",
       "examples": [],
       "safety": null,
-      "overlap_group": "pica_non_aliments",
+      "overlap_group": "pica_ingestion_non_nutritive",
       "links": [
         {
           "outcome": "sym_6b84",
@@ -1781,7 +1781,7 @@
       "description": "Avaler régulièrement beaucoup de sel, de farine, de fécule ou d'autres ingrédients non cuisinés.",
       "examples": [],
       "safety": null,
-      "overlap_group": "pica_ingredients",
+      "overlap_group": "pica_ingestion_non_nutritive",
       "links": [
         {
           "outcome": "sym_6b84",
@@ -1844,7 +1844,7 @@
       "description": "Mâcher à nouveau puis ravaler, ou recracher, la nourriture qu'on a fait remonter.",
       "examples": [],
       "safety": null,
-      "overlap_group": "rumination_alimentaire",
+      "overlap_group": "regurgitation",
       "links": [
         {
           "outcome": "sym_6b85",
@@ -1865,7 +1865,7 @@
       "description": "Des remontées d'aliments qui se font sans effort de vomissement, ni haut-le-cœur, ni maladie connue.",
       "examples": [],
       "safety": null,
-      "overlap_group": "regurgitation_sans_nausee",
+      "overlap_group": "regurgitation",
       "links": [
         {
           "outcome": "sym_6b85",
@@ -2366,8 +2366,8 @@
       "links": [
         {
           "outcome": "sym_6c42",
-          "strength": "critere",
-          "basis": "CDDR 6C42 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2379,16 +2379,16 @@
       "id": "sup_conso_opioides",
       "canonical": false,
       "theme": "consommations_ecrans",
-      "label": "Prendre des opioïdes en dehors d'une prescription",
-      "description": "Héroïne, ou morphine, codéine, tramadol, oxycodone… pris sans ordonnance ou au-delà de la dose prescrite.",
+      "label": "Prendre des opioïdes",
+      "description": "Prendre un médicament opioïde ou un autre opioïde, avec ou sans prescription.",
       "examples": [],
       "safety": null,
       "overlap_group": "conso_6c43",
       "links": [
         {
           "outcome": "sym_6c43",
-          "strength": "critere",
-          "basis": "CDDR 6C43 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2400,16 +2400,16 @@
       "id": "sup_conso_calmants",
       "canonical": false,
       "theme": "consommations_ecrans",
-      "label": "Prendre des calmants ou somnifères au-delà de la prescription",
-      "description": "Benzodiazépines, somnifères ou autres calmants pris plus longtemps, plus souvent ou plus fort que prévu.",
+      "label": "Prendre des calmants ou des somnifères",
+      "description": "Prendre des calmants ou somnifères, avec ou sans prescription.",
       "examples": [],
       "safety": null,
       "overlap_group": "conso_6c44",
       "links": [
         {
           "outcome": "sym_6c44",
-          "strength": "critere",
-          "basis": "CDDR 6C44 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2429,8 +2429,8 @@
       "links": [
         {
           "outcome": "sym_6c45",
-          "strength": "critere",
-          "basis": "CDDR 6C45 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2450,8 +2450,8 @@
       "links": [
         {
           "outcome": "sym_6c46",
-          "strength": "critere",
-          "basis": "CDDR 6C46 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2471,8 +2471,8 @@
       "links": [
         {
           "outcome": "sym_6c47",
-          "strength": "critere",
-          "basis": "CDDR 6C47 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2492,8 +2492,8 @@
       "links": [
         {
           "outcome": "sym_6c49",
-          "strength": "critere",
-          "basis": "CDDR 6C49 (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2513,8 +2513,8 @@
       "links": [
         {
           "outcome": "sym_6c4b",
-          "strength": "critere",
-          "basis": "CDDR 6C4B (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2534,8 +2534,8 @@
       "links": [
         {
           "outcome": "sym_6c4c",
-          "strength": "critere",
-          "basis": "CDDR 6C4C (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -2555,8 +2555,8 @@
       "links": [
         {
           "outcome": "sym_6c4d",
-          "strength": "critere",
-          "basis": "CDDR 6C4D (dépendance), caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR p.467 : usage seul insuffisant ; porte de contexte produit, non signe de dépendance",
           "summary": "Un usage répété de ce produit est la base de tout trouble lié à sa consommation ; seul, il ne suffit pas.",
           "sources": [
             "oms_cddr"
@@ -3292,8 +3292,8 @@
       "links": [
         {
           "outcome": "sym_6d50",
-          "strength": "critere",
-          "basis": "CDDR 6D50, caractéristique essentielle",
+          "strength": "limitee",
+          "basis": "CDDR 6D50 : les consultations seules ne vérifient pas une tromperie ; signe non spécifique",
           "summary": "Se présenter comme malade et rechercher des soins sur cette base est requis.",
           "sources": [
             "oms_cddr"

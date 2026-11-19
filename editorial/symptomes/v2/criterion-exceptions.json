@@ -1,0 +1,16 @@
+{
+  "exceptions": {
+    "icd_6b43": {
+      "expected_count": 2,
+      "reason": "La relecture indépendante distingue les deux dimensions essentielles, préoccupation liée au stresseur et difficulté d'adaptation. Une rumination générique ne démontre pas le lien au stresseur et reste associée, sans inventer de troisième critère.",
+      "source": "oms_cddr",
+      "pages": "352"
+    },
+    "sym_6d50": {
+      "expected_count": 2,
+      "reason": "Feindre ou provoquer des symptômes avec tromperie sont essentiels. Chercher des soins seul ne démontre pas une tromperie et reste non spécifique ; aucun troisième critère inventé.",
+      "source": "oms_cddr",
+      "pages": "593–594"
+    }
+  }
+}

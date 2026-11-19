@@ -1,0 +1,39 @@
+{
+  "domain": "usage",
+  "symptoms": [
+    {
+      "id": "usage_alcool",
+      "canonical": false,
+      "theme": "produits_utilises",
+      "label": "Avoir bu de l’alcool",
+      "description": "Au moins une fois au cours de ces 12 derniers mois. Cet usage seul ne signifie pas une difficulté.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "usage_alcool",
+      "links": []
+    },
+    {
+      "id": "usage_cannabis",
+      "canonical": false,
+      "theme": "produits_utilises",
+      "label": "Avoir consommé du cannabis",
+      "description": "Au moins une fois au cours de ces 12 derniers mois. Cet usage seul ne signifie pas une difficulté.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "usage_cannabis",
+      "links": []
+    },
+    {
+      "id": "usage_tabac",
+      "canonical": false,
+      "theme": "produits_utilises",
+      "label": "Avoir consommé du tabac ou de la nicotine",
+      "description": "Au moins une fois au cours de ces 12 derniers mois. Cet usage seul ne signifie pas une difficulté.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "usage_tabac",
+      "links": []
+    }
+  ],
+  "sources": []
+}

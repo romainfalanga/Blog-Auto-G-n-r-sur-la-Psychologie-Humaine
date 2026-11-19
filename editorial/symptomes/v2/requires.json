@@ -1,0 +1,44 @@
+{
+  "requires": {
+    "sym_6c42": [
+      "sup_conso_cannabinoides_synthese"
+    ],
+    "sym_6c43": [
+      "sup_conso_opioides"
+    ],
+    "sym_6c44": [
+      "sup_conso_calmants"
+    ],
+    "sym_6c45": [
+      "sup_conso_cocaine"
+    ],
+    "sym_6c46": [
+      "sup_conso_stimulants"
+    ],
+    "sym_6c47": [
+      "sup_conso_cathinones"
+    ],
+    "sym_6c49": [
+      "sup_conso_hallucinogenes"
+    ],
+    "sym_6c4b": [
+      "sup_conso_produits_inhales"
+    ],
+    "sym_6c4c": [
+      "sup_conso_mdma"
+    ],
+    "sym_6c4d": [
+      "sup_conso_ketamine"
+    ],
+    "icd_6c40_2": [
+      "usage_alcool"
+    ],
+    "ten_usage_cannabis": [
+      "usage_cannabis"
+    ],
+    "ten_tabagisme_persistant": [
+      "usage_tabac"
+    ]
+  },
+  "note": "Toutes les questions listées doivent être Oui ; un symptôme commun de dépendance ne suffit jamais à identifier le produit."
+}

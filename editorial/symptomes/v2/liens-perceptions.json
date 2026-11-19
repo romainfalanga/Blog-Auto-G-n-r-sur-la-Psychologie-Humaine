@@ -1,1599 +1,1599 @@
 {
- "domain": "perceptions",
- "symptoms": [
-  {
-   "id": "per_absorption",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Être absorbé au point de ne plus percevoir ce qui entoure",
-   "description": "Être si pris par une pensée ou une activité qu'on perd le contact avec l'entourage, ou fixer le vide un long moment.",
-   "examples": [
-    "Ne pas entendre qu'on vous parle",
-    "Rester figé devant un écran sans rien suivre"
-   ],
-   "safety": null,
-   "overlap_group": "absorption",
-   "links": [
+  "domain": "perceptions",
+  "symptoms": [
     {
-     "outcome": "ten_dissociation",
-     "strength": "critere",
-     "basis": "Wülfing et al., 2025 : l'absorption est l'une des trois dimensions stables de la dissociation",
-     "summary": "Se couper de ce qui entoure en étant absorbé fait partie des expériences dissociatives.",
-     "sources": [
-      "wulfing2025"
-     ]
+      "id": "per_absorption",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être absorbé au point de ne plus percevoir ce qui entoure",
+      "description": "Être si pris par une pensée ou une activité qu'on perd le contact avec l'entourage, ou fixer le vide un long moment.",
+      "examples": [
+        "Ne pas entendre qu'on vous parle",
+        "Rester figé devant un écran sans rien suivre"
+      ],
+      "safety": null,
+      "overlap_group": "absorption",
+      "links": [
+        {
+          "outcome": "ten_dissociation",
+          "strength": "critere",
+          "basis": "Wülfing et al., 2025 : l'absorption est l'une des trois dimensions stables de la dissociation",
+          "summary": "Se couper de ce qui entoure en étant absorbé fait partie des expériences dissociatives.",
+          "sources": [
+            "wulfing2025"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_emotions_eteintes",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Avoir l'impression que ses émotions sont éteintes",
+      "description": "Ne plus ressentir joie, peine ou affection comme avant, même quand on sait que la situation devrait toucher.",
+      "examples": [
+        "Rester sans réaction à une bonne nouvelle",
+        "Sentir de l'affection en pensée mais pas dans le cœur"
+      ],
+      "safety": null,
+      "overlap_group": "engourdissement_emotionnel",
+      "links": [
+        {
+          "outcome": "sym_6b66",
+          "strength": "critere",
+          "basis": "CDDR 6B66, caractéristique essentielle (émotions vécues comme détachées) ; Medford et al., 2005",
+          "summary": "Sentir ses émotions éteintes ou lointaines fait partie du détachement de soi.",
+          "sources": [
+            "oms_cddr",
+            "medford2005"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "critere",
+          "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
+          "summary": "L'engourdissement des émotions est une forme courante de détachement.",
+          "sources": [
+            "wulfing2025",
+            "medford2005"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_corps_peu_ressenti",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Moins sentir son corps",
+      "description": "Sentir à peine son corps, comme s'il était absent, ou percevoir moins la faim, la soif ou la douleur.",
+      "examples": [
+        "Ne pas sentir qu'on a froid",
+        "Avoir l'impression de flotter"
+      ],
+      "safety": null,
+      "overlap_group": "corps_peu_ressenti",
+      "links": [
+        {
+          "outcome": "sym_6b66",
+          "strength": "critere",
+          "basis": "CDDR 6B66, caractéristique essentielle (corps vécu comme étranger) ; Medford et al., 2005",
+          "summary": "Percevoir son corps comme absent ou lointain est une forme de dépersonnalisation.",
+          "sources": [
+            "oms_cddr",
+            "medford2005"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "critere",
+          "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
+          "summary": "Se sentir coupé de son corps fait partie des expériences dissociatives.",
+          "sources": [
+            "wulfing2025",
+            "medford2005"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_agir_en_automate",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir l'impression d'agir comme un automate",
+      "description": "Faire les gestes du quotidien comme un robot, sans avoir le sentiment que c'est vraiment soi qui agit.",
+      "examples": [
+        "Parler en s'entendant comme de loin"
+      ],
+      "safety": null,
+      "overlap_group": "automate",
+      "links": [
+        {
+          "outcome": "sym_6b66",
+          "strength": "critere",
+          "basis": "CDDR 6B66, caractéristique essentielle (sentiment d'être étranger à ses actes) ; Medford et al., 2005",
+          "summary": "Se vivre comme un automate est une description fréquente de la dépersonnalisation.",
+          "sources": [
+            "oms_cddr",
+            "medford2005"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "moderee",
+          "basis": "Medford et al., 2005",
+          "summary": "Ce sentiment accompagne souvent le détachement de soi.",
+          "sources": [
+            "medford2005"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_savoir_que_c_est_une_impression",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Savoir que l'irréalité n'est qu'une impression",
+      "description": "Quand soi ou le monde paraît étrange ou irréel, savoir que c'est une impression et que tout est bien réel.",
+      "examples": [
+        "Se dire « je sais que c'est réel, mais je ne le sens pas »"
+      ],
+      "safety": null,
+      "overlap_group": "realite_preservee",
+      "links": [
+        {
+          "outcome": "sym_6b66",
+          "strength": "critere",
+          "basis": "CDDR 6B66, caractéristique essentielle (contact avec la réalité préservé) ; Medford et al., 2005",
+          "summary": "Garder conscience que l'irréalité est ressentie distingue ce détachement d'une perte de contact avec la réalité.",
+          "sources": [
+            "oms_cddr",
+            "medford2005"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_temps_perdu",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Perdre des moments sans en garder de souvenir",
+      "description": "Constater des heures ou des jours sans souvenir, bien au-delà des oublis ordinaires, sans alcool ni drogue.",
+      "examples": [
+        "Ne pas savoir ce qu'on a fait de son après-midi"
+      ],
+      "safety": null,
+      "overlap_group": "amnesie_episodes",
+      "links": [
+        {
+          "outcome": "icd_6b64",
+          "strength": "critere",
+          "basis": "CDDR 6B64, caractéristique essentielle (épisodes d'amnésie)",
+          "summary": "Des moments vécus sans souvenir peuvent accompagner des changements d'état de soi.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6b61",
+          "strength": "critere",
+          "basis": "CDDR 6B61, caractéristique essentielle (souvenirs personnels inaccessibles)",
+          "summary": "Ne pas retrouver le souvenir de toute une période dépasse l'oubli ordinaire.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6b65",
+          "strength": "limitee",
+          "basis": "CDDR 6B65 : amnésie absente ou brève",
+          "summary": "Ces trous de mémoire restent rares ou courts dans ce cas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "moderee",
+          "basis": "Wülfing et al., 2025 : l'amnésie est une dimension de la dissociation ; poids abaissé d'un cran par prudence",
+          "summary": "Les trous de mémoire font partie des expériences dissociatives mais ont aussi bien d'autres causes.",
+          "sources": [
+            "wulfing2025"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_actes_oublies",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Apprendre qu'on a fait des choses dont on ne se souvient pas",
+      "description": "Entendre qu'on a dit ou fait des choses sans aucun souvenir, ou trouver des objets ou écrits inconnus chez soi.",
+      "examples": [
+        "Trouver un achat qu'on ne se rappelle pas",
+        "Un proche cite une conversation oubliée"
+      ],
+      "safety": null,
+      "overlap_group": "amnesie_episodes",
+      "links": [
+        {
+          "outcome": "icd_6b64",
+          "strength": "critere",
+          "basis": "CDDR 6B64, caractéristique essentielle (épisodes d'amnésie)",
+          "summary": "Des actes sans souvenir peuvent signaler qu'un autre état de soi a pris la main.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6b61",
+          "strength": "moderee",
+          "basis": "CDDR 6B61, caractéristique associée",
+          "summary": "L'oubli peut porter sur ce qu'on a fait pendant une période.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "moderee",
+          "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
+          "summary": "Ces oublis font partie des expériences dissociatives mais ont d'autres causes possibles.",
+          "sources": [
+            "wulfing2025"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_oubli_evenement_important",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Ne pas se souvenir d'un événement important récent",
+      "description": "Un événement marquant de ces derniers mois, souvent pénible, dont il ne reste aucun souvenir ou seulement des fragments.",
+      "examples": [
+        "Ne rien se rappeler d'une journée très éprouvante"
+      ],
+      "safety": null,
+      "overlap_group": "amnesie_autobiographique",
+      "links": [
+        {
+          "outcome": "sym_6b61",
+          "strength": "critere",
+          "basis": "CDDR 6B61, caractéristique essentielle",
+          "summary": "Ne pas retrouver un souvenir personnel important, souvent lié à un choc, est le cœur de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "moderee",
+          "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
+          "summary": "Un oubli de ce type peut être dissociatif, mais il a aussi d'autres causes.",
+          "sources": [
+            "wulfing2025"
+          ]
+        },
+        {
+          "outcome": "icd_6b64",
+          "strength": "moderee",
+          "basis": "CDDR 6B64, caractéristique associée",
+          "summary": "Des oublis de moments importants se rencontrent aussi dans ce cas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_fugue",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Se retrouver loin sans savoir comment on y est arrivé",
+      "description": "Se retrouver dans un lieu éloigné sans souvenir du trajet, parfois sans savoir un moment qui l'on est.",
+      "examples": [
+        "Reprendre ses esprits dans une autre ville"
+      ],
+      "safety": null,
+      "overlap_group": "fugue",
+      "links": [
+        {
+          "outcome": "sym_6b61",
+          "strength": "moderee",
+          "basis": "CDDR 6B61 : forme avec fugue, non exigée pour toute amnésie dissociative",
+          "summary": "Un départ sans souvenir, parfois avec perte de son identité, définit une forme de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6b64",
+          "strength": "moderee",
+          "basis": "CDDR 6B64, caractéristique associée",
+          "summary": "Ces départs sans souvenir peuvent aussi survenir dans ce cas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "moderee",
+          "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
+          "summary": "C'est une forme intense de trou de mémoire dissociatif.",
+          "sources": [
+            "wulfing2025"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_parties_distinctes",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Sentir en soi des façons d'être très distinctes",
+      "description": "Avoir en soi des parties si différentes qu'elles semblent des personnes à part, avec leurs goûts, leur voix, leur âge.",
+      "examples": [
+        "Une partie se sent enfant, une autre adulte"
+      ],
+      "safety": null,
+      "overlap_group": "identite_parties",
+      "links": [
+        {
+          "outcome": "icd_6b64",
+          "strength": "critere",
+          "basis": "CDDR 6B64, caractéristique essentielle (plusieurs états de soi distincts)",
+          "summary": "Plusieurs façons d'être bien distinctes sont au centre de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6b65",
+          "strength": "critere",
+          "basis": "CDDR 6B65, caractéristique essentielle (un état principal et d'autres états)",
+          "summary": "Une façon d'être domine mais d'autres existent à côté.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_dissociation",
+          "strength": "moderee",
+          "basis": "CIM-11, définition du groupe dissociatif (identité) ; CDDR",
+          "summary": "Une identité vécue en morceaux est une forme de dissociation.",
+          "sources": [
+            "icd11_mms",
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_partie_prend_le_controle",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Se sentir mis de côté pendant qu'une autre partie agit",
+      "description": "Assister de loin, ou sans souvenir ensuite, à des moments où une autre façon d'être de soi parle et décide.",
+      "examples": [
+        "Se voir répondre d'une voix qui ne semble pas la sienne"
+      ],
+      "safety": null,
+      "overlap_group": "controle_partie",
+      "links": [
+        {
+          "outcome": "icd_6b64",
+          "strength": "critere",
+          "basis": "CDDR 6B64, caractéristique essentielle (prise de contrôle répétée par un autre état)",
+          "summary": "Qu'un autre état de soi prenne la main à plusieurs reprises est caractéristique de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6b65",
+          "strength": "moderee",
+          "basis": "CDDR 6B65 : prises de contrôle rares et brèves",
+          "summary": "Une autre partie peut parfois agir brièvement, sans prendre la main de façon répétée.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_pensees_d_une_autre_partie",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir des pensées qui semblent venir d'une autre partie de soi",
+      "description": "Des pensées, émotions ou envies qui surgissent comme si elles appartenaient à une autre partie de soi.",
+      "examples": [
+        "Une colère qui ne semble pas la sienne",
+        "Une voix intérieure qui commente"
+      ],
+      "safety": null,
+      "overlap_group": "intrusion_pensees",
+      "links": [
+        {
+          "outcome": "sym_6b65",
+          "strength": "critere",
+          "basis": "CDDR 6B65, caractéristique essentielle (intrusions d'un autre état)",
+          "summary": "Ces intrusions venues d'une autre partie de soi sont au centre de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6b64",
+          "strength": "moderee",
+          "basis": "CDDR 6B64, caractéristique associée",
+          "summary": "Ces intrusions se rencontrent aussi entre deux prises de contrôle.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_gestes_d_une_autre_partie",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Dire ou faire des choses vécues comme venant d'une autre partie de soi",
+      "description": "Des paroles ou des gestes qui échappent, vécus comme venus d'une autre partie de soi, en gardant conscience de la scène.",
+      "examples": [
+        "Écrire ou parler d'une façon qui ne semble pas la sienne"
+      ],
+      "safety": null,
+      "overlap_group": "intrusion_actes",
+      "links": [
+        {
+          "outcome": "sym_6b65",
+          "strength": "critere",
+          "basis": "CDDR 6B65, caractéristique essentielle (intrusions d'un autre état dans les actes)",
+          "summary": "Des actes vécus comme venus d'une autre partie de soi, sans perte de souvenir, sont typiques de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6b64",
+          "strength": "moderee",
+          "basis": "CDDR 6B64, caractéristique associée",
+          "summary": "Ces intrusions se rencontrent aussi dans ce cas.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_faiblesse_membre",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir un bras ou une jambe qui faiblit sans cause trouvée",
+      "description": "Un membre qui perd sa force ou ne répond plus par moments, sans cause trouvée par un médecin.",
+      "examples": [
+        "Lâcher des objets",
+        "Une jambe qui se dérobe"
+      ],
+      "safety": null,
+      "overlap_group": "fonctionnel_faiblesse",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.6 ; Hallett et al., 2022",
+          "summary": "Une faiblesse réelle mais sans lésion retrouvée est une forme fréquente de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_crises_perte_controle",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir des crises avec perte de contrôle du corps",
+      "description": "Des malaises avec secousses, chute ou perte de contact, sans épilepsie ni autre cause trouvée par un médecin.",
+      "examples": [
+        "Des secousses lors d'un moment de stress"
+      ],
+      "safety": null,
+      "overlap_group": "fonctionnel_crises",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.4 ; Hallett et al., 2022",
+          "summary": "Des crises qui ressemblent à l'épilepsie sans en être sont une forme courante de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_perte_sensation",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Perdre la sensation d'une partie du corps",
+      "description": "Un engourdissement, des fourmis ou une insensibilité d'une zone du corps, sans cause trouvée par un médecin.",
+      "examples": [
+        "Une main qui ne sent plus le toucher"
+      ],
+      "safety": null,
+      "overlap_group": "fonctionnel_sensation",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.3 ; Hallett et al., 2022",
+          "summary": "Une perte de sensation sans lésion retrouvée fait partie des formes de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_vue_perturbee",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir la vue qui se trouble ou disparaît sans cause trouvée",
+      "description": "Voir flou, double, en tunnel ou ne plus voir par moments, alors que les examens des yeux sont normaux.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "fonctionnel_vue",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.0 ; Hallett et al., 2022",
+          "summary": "Une gêne de la vue sans cause retrouvée est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_audition_perturbee",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Entendre moins bien par moments sans cause trouvée",
+      "description": "Une baisse ou une perte de l'audition qui va et vient, alors que les examens des oreilles sont normaux.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "fonctionnel_audition",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.1 ; Hallett et al., 2022",
+          "summary": "Une baisse d'audition sans cause retrouvée est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_vertiges_persistants",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir des vertiges ou une instabilité qui durent",
+      "description": "Se sentir instable ou tanguer presque chaque jour, surtout debout ou dans la foule, sans cause trouvée.",
+      "examples": [
+        "Gêne dans les rayons d'un supermarché"
+      ],
+      "safety": null,
+      "overlap_group": "fonctionnel_vertiges",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.2 ; Hallett et al., 2022",
+          "summary": "Des vertiges durables sans lésion de l'oreille interne sont une forme reconnue de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_marche_difficile",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir une marche devenue difficile sans cause trouvée",
+      "description": "Marcher de façon hésitante, traîner une jambe ou perdre l'équilibre, sans cause trouvée par un médecin.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "fonctionnel_marche",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.7 ; Hallett et al., 2022",
+          "summary": "Des troubles de la marche sans lésion retrouvée sont l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_mouvements_involontaires",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Avoir des mouvements involontaires sans cause trouvée",
+      "description": "Des tremblements, secousses, spasmes ou postures figées qui échappent au contrôle, sans cause trouvée.",
+      "examples": [
+        "Une main qui tremble par épisodes"
+      ],
+      "safety": null,
+      "overlap_group": "fonctionnel_mouvements",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.8 ; Hallett et al., 2022",
+          "summary": "Des mouvements involontaires sans lésion retrouvée sont une forme fréquente de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_parole_perturbee",
+      "canonical": false,
+      "theme": "corps_energie_sommeil",
+      "label": "Perdre sa voix ou sa parole sans cause trouvée",
+      "description": "Ne plus pouvoir parler, chuchoter seulement ou bégayer soudain, sans cause trouvée par un médecin.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "fonctionnel_parole",
+      "links": [
+        {
+          "outcome": "icd_6b60",
+          "strength": "critere",
+          "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.5 ; Hallett et al., 2022",
+          "summary": "Une perte de la voix ou de la parole sans lésion retrouvée est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr",
+            "icd11_mms",
+            "hallett2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_entendre_voix",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Entendre des voix que les autres n'entendent pas",
+      "description": "Entendre parler, commenter ou appeler alors que personne n'est là, en dehors de l'endormissement et du réveil.",
+      "examples": [
+        "Une voix qui commente ce qu'on fait"
+      ],
+      "safety": null,
+      "overlap_group": "hallucinations_auditives",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (hallucinations) ; McGrath et al., 2015",
+          "summary": "Entendre des voix fait partie des expériences psychotiques, qui restent souvent passagères.",
+          "sources": [
+            "oms_cddr",
+            "mcgrath2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle (symptômes de la schizophrénie)",
+          "summary": "Ce type de perception fait partie des signes requis pour ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Des perceptions de ce type apparaissent brusquement dans ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "moderee",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive, des illusions aux hallucinations",
+          "summary": "Ces perceptions sont l'extrémité forte des perceptions inhabituelles.",
+          "sources": [
+            "kwapil2015"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_percevoir_choses_absentes",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Voir, sentir ou toucher des choses que les autres ne perçoivent pas",
+      "description": "Voir une personne ou une forme, sentir une odeur ou un contact sur la peau que personne d'autre ne perçoit.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "hallucinations_autres",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (hallucinations) ; McGrath et al., 2015",
+          "summary": "Ces perceptions sans objet font partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr",
+            "mcgrath2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Des perceptions de ce type apparaissent brusquement dans ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "moderee",
+          "basis": "CDDR 6A21",
+          "summary": "Ces perceptions peuvent faire partie des signes de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "moderee",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive",
+          "summary": "Ces perceptions sont l'extrémité forte des perceptions inhabituelles.",
+          "sources": [
+            "kwapil2015"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_perceptions_inhabituelles",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir des impressions sensorielles étranges",
+      "description": "Sentir une présence, prendre une ombre pour quelqu'un, percevoir des sons déformés, puis constater que rien n'était là.",
+      "examples": [
+        "Croire entendre son prénom dans un bruit"
+      ],
+      "safety": null,
+      "overlap_group": "perceptions_inhabituelles",
+      "links": [
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "critere",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (perceptions inhabituelles)",
+          "summary": "Ces impressions passagères font partie de la définition de ces traits.",
+          "sources": [
+            "kwapil2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle (perceptions inhabituelles)",
+          "summary": "Des perceptions déformées durables font partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "McGrath et al., 2015 ; CDDR 6A20",
+          "summary": "Ces impressions sont plus légères que les expériences psychotiques et bien plus fréquentes.",
+          "sources": [
+            "oms_cddr",
+            "mcgrath2015"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_conviction_persecution",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être convaincu qu'on cherche à vous nuire",
+      "description": "Être certain d'être suivi, surveillé ou visé par un complot, sans élément que d'autres puissent constater.",
+      "examples": [
+        "Penser que les voisins vous espionnent"
+      ],
+      "safety": null,
+      "overlap_group": "conviction_persecution",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (idées délirantes) ; McGrath et al., 2015",
+          "summary": "Une conviction de menace que rien d'extérieur ne confirme fait partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr",
+            "mcgrath2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Ce type de conviction fait partie des signes requis pour ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle",
+          "summary": "Ce type de conviction apparaît brusquement dans ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle (conviction persistante)",
+          "summary": "Une conviction de persécution durable est la forme la plus fréquente de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_signes_adresses",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Penser que des choses banales vous sont adressées",
+      "description": "Avoir l'impression qu'une émission, des inconnus ou des détails du quotidien parlent de vous ou vous font signe.",
+      "examples": [
+        "Croire qu'une chanson à la radio vous vise"
+      ],
+      "safety": null,
+      "overlap_group": "idees_reference",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle (idées de référence)",
+          "summary": "Ces impressions qu'on parle de soi font partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "moderee",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (croyances inhabituelles)",
+          "summary": "Ces impressions relèvent des croyances inhabituelles décrites par ces traits.",
+          "sources": [
+            "kwapil2015"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "CDDR 6A20",
+          "summary": "Quand elles deviennent des certitudes, ces impressions rejoignent les expériences psychotiques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a24",
+          "strength": "moderee",
+          "basis": "CDDR 6A24",
+          "summary": "Ces impressions accompagnent souvent une conviction durable.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_conviction_mission",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être certain d'avoir une mission ou des pouvoirs à part",
+      "description": "Être sûr d'avoir un rôle exceptionnel, un don ou un lien spécial avec une force, que d'autres ne constatent pas.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_grandeur",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (idées délirantes)",
+          "summary": "Une certitude de ce type, non partagée, fait partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle (forme de grandeur)",
+          "summary": "Une conviction de grandeur durable est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "moderee",
+          "basis": "CDDR 6A21",
+          "summary": "Cette certitude peut faire partie des signes de ce sujet, parfois avec une humeur exaltée.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_conviction_jalousie",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être certain que son partenaire est infidèle sans preuve",
+      "description": "Être sûr d'une infidélité à partir de détails, et le rester même quand les faits la contredisent.",
+      "examples": [
+        "Voir une preuve dans une tasse déplacée"
+      ],
+      "safety": null,
+      "overlap_group": "conviction_jalousie",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle (forme jalouse)",
+          "summary": "Une conviction d'infidélité que les faits ne changent pas est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "CDDR 6A20",
+          "summary": "Ce type de conviction peut faire partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_conviction_etre_aime",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être certain qu'une personne vous aime en secret",
+      "description": "Être sûr qu'une personne, souvent peu connue ou célèbre, vous aime en secret, même si elle dit le contraire.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_amour",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle (forme érotomaniaque)",
+          "summary": "Cette conviction amoureuse durable est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "CDDR 6A20",
+          "summary": "Ce type de conviction peut faire partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_conviction_corps",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Être certain d'avoir quelque chose d'étranger dans le corps",
+      "description": "Être sûr d'abriter un parasite, un objet ou une transformation que les examens et les proches ne retrouvent pas.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "conviction_corporelle",
+      "links": [
+        {
+          "outcome": "sym_6a24",
+          "strength": "critere",
+          "basis": "CDDR 6A24, caractéristique essentielle (forme somatique)",
+          "summary": "Une conviction durable sur son corps, que rien ne vient confirmer, est l'une des formes de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "CDDR 6A20",
+          "summary": "Ce type de conviction peut faire partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_pensees_influencees",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Sentir ses pensées ou ses gestes contrôlés de l'extérieur",
+      "description": "Sentir que des pensées sont mises, retirées ou lues dans sa tête, ou qu'une force extérieure guide ses gestes.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "influence_controle",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (expériences d'influence ou de contrôle)",
+          "summary": "Ce sentiment d'être piloté de l'extérieur fait partie des expériences psychotiques.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Ce sentiment fait partie des signes requis pour ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "moderee",
+          "basis": "CDDR 6A23",
+          "summary": "Ce sentiment peut apparaître lors de l'épisode.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_pensee_desorganisee",
+      "canonical": false,
+      "theme": "attention_impulsivite",
+      "label": "Avoir des pensées qui s'embrouillent en parlant",
+      "description": "Perdre le fil, sauter d'une idée à l'autre sans lien, au point que d'autres disent ne plus suivre.",
+      "examples": [
+        "Des phrases qui partent dans tous les sens"
+      ],
+      "safety": null,
+      "overlap_group": "pensee_desorganisee",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (pensée désorganisée)",
+          "summary": "Une pensée qui se désorganise au point de gêner l'échange fait partie de ces troubles.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "critere",
+          "basis": "CDDR 6A21, caractéristique essentielle",
+          "summary": "Ce signe fait partie de ceux requis pour ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a22",
+          "strength": "moderee",
+          "basis": "CDDR 6A22 : discours inhabituel sans incohérence majeure ; cette formulation plus intense ne constitue pas un critère spécifique",
+          "summary": "Une façon de parler qui se perd en détails ou en flou fait partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "critere",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension désorganisée",
+          "summary": "Une pensée ou un discours qui s'organise mal relève de la dimension désorganisée de ces traits.",
+          "sources": [
+            "kwapil2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a23",
+          "strength": "moderee",
+          "basis": "CDDR 6A23",
+          "summary": "La pensée peut se désorganiser pendant l'épisode.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_emotions_peu_exprimees",
+      "canonical": false,
+      "theme": "emotions_colere",
+      "label": "Montrer peu ses émotions sur le visage ou dans la voix",
+      "description": "Avoir un visage ou une voix qui varient peu, au point que d'autres remarquent qu'on paraît peu ému.",
+      "examples": [
+        "Entendre « on ne sait jamais ce que tu ressens »"
+      ],
+      "safety": null,
+      "overlap_group": "affect_emousse",
+      "links": [
+        {
+          "outcome": "icd_6a20",
+          "strength": "critere",
+          "basis": "CDDR 6A20, caractéristique essentielle (symptômes négatifs)",
+          "summary": "Une expression émotionnelle réduite fait partie des signes dits négatifs.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle (affect restreint)",
+          "summary": "Des émotions peu montrées font partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "critere",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension négative (affect émoussé)",
+          "summary": "Une expression émotionnelle réduite relève de la dimension négative de ces traits.",
+          "sources": [
+            "kwapil2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a21",
+          "strength": "moderee",
+          "basis": "CDDR 6A21",
+          "summary": "Ce signe peut faire partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_peu_d_interet_pour_les_liens",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Avoir peu d'envie de liens proches",
+      "description": "Préférer être seul et trouver peu de plaisir aux relations proches, que cela pèse ou non.",
+      "examples": [
+        "Ne pas chercher à revoir des connaissances agréables"
+      ],
+      "safety": null,
+      "overlap_group": "anhedonie_sociale",
+      "links": [
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "critere",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension négative (désintérêt pour les autres)",
+          "summary": "Le peu d'intérêt pour les liens relève de la dimension négative de ces traits.",
+          "sources": [
+            "kwapil2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle (relations proches réduites)",
+          "summary": "Peu de liens proches et peu d'aisance dans les relations font partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "CDDR 6A20 (retrait social parmi les signes négatifs)",
+          "summary": "Le retrait des relations peut accompagner ces troubles.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_pensee_magique",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Croire que ses pensées peuvent faire arriver des choses",
+      "description": "Penser deviner l'avenir, lire dans les pensées ou agir à distance par la pensée, au-delà des croyances de son entourage.",
+      "examples": [
+        "Se sentir responsable d'un accident pour y avoir pensé"
+      ],
+      "safety": null,
+      "overlap_group": "pensee_magique",
+      "links": [
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "critere",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (pensée magique)",
+          "summary": "Ces croyances inhabituelles font partie de la définition de ces traits.",
+          "sources": [
+            "kwapil2015"
+          ]
+        },
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle (croyances inhabituelles)",
+          "summary": "Des croyances singulières durables font partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_remarques_sur_singularite",
+      "canonical": false,
+      "theme": "place_relations",
+      "label": "Entendre souvent qu'on se comporte de façon inhabituelle",
+      "description": "Recevoir des remarques répétées sur sa façon de parler, de s'habiller ou d'agir, jugée étonnante par d'autres.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "comportement_singulier",
+      "links": [
+        {
+          "outcome": "sym_6a22",
+          "strength": "critere",
+          "basis": "CDDR 6A22, caractéristique essentielle (comportement ou apparence singuliers)",
+          "summary": "Une manière d'être que d'autres trouvent étonnante fait partie de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "ten_traits_schizotypiques",
+          "strength": "moderee",
+          "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension désorganisée (comportement singulier)",
+          "summary": "Un comportement surprenant pour les autres relève de la dimension désorganisée.",
+          "sources": [
+            "kwapil2015"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per_episode_soudain_bref",
+      "canonical": false,
+      "theme": "perceptions_realite",
+      "label": "Avoir vécu une période brève où tout a basculé",
+      "description": "Quelques jours ou semaines où perceptions et convictions ont changé d'un coup, puis se sont apaisées.",
+      "examples": [],
+      "safety": null,
+      "overlap_group": "episode_bref",
+      "links": [
+        {
+          "outcome": "sym_6a23",
+          "strength": "critere",
+          "basis": "CDDR 6A23, caractéristique essentielle (début soudain, durée courte)",
+          "summary": "Un épisode qui commence brusquement et cède en quelques semaines est le cœur de ce sujet.",
+          "sources": [
+            "oms_cddr"
+          ]
+        },
+        {
+          "outcome": "icd_6a20",
+          "strength": "moderee",
+          "basis": "CDDR 6A20",
+          "summary": "Un tel épisode peut aussi marquer le début d'autres troubles de ce groupe.",
+          "sources": [
+            "oms_cddr"
+          ]
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "per_emotions_eteintes",
-   "canonical": false,
-   "theme": "emotions_colere",
-   "label": "Avoir l'impression que ses émotions sont éteintes",
-   "description": "Ne plus ressentir joie, peine ou affection comme avant, même quand on sait que la situation devrait toucher.",
-   "examples": [
-    "Rester sans réaction à une bonne nouvelle",
-    "Sentir de l'affection en pensée mais pas dans le cœur"
-   ],
-   "safety": null,
-   "overlap_group": "engourdissement_emotionnel",
-   "links": [
+  ],
+  "links_to_canonical": [
     {
-     "outcome": "sym_6b66",
-     "strength": "critere",
-     "basis": "CDDR 6B66, caractéristique essentielle (émotions vécues comme détachées) ; Medford et al., 2005",
-     "summary": "Sentir ses émotions éteintes ou lointaines fait partie du détachement de soi.",
-     "sources": [
-      "oms_cddr",
-      "medford2005"
-     ]
+      "outcome": "ten_dissociation",
+      "strength": "critere",
+      "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; définition du sujet",
+      "summary": "Se sentir détaché de soi ou du monde est au cœur des expériences dissociatives.",
+      "sources": [
+        "wulfing2025"
+      ],
+      "symptom": "detachement_irrealite"
     },
     {
-     "outcome": "ten_dissociation",
-     "strength": "critere",
-     "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
-     "summary": "L'engourdissement des émotions est une forme courante de détachement.",
-     "sources": [
-      "wulfing2025",
-      "medford2005"
-     ]
+      "outcome": "sym_6b66",
+      "strength": "critere",
+      "basis": "CDDR 6B66, caractéristique essentielle ; Medford et al., 2005",
+      "summary": "Se sentir étranger à soi ou au monde est le cœur de ce sujet.",
+      "sources": [
+        "oms_cddr",
+        "medford2005"
+      ],
+      "symptom": "detachement_irrealite"
+    },
+    {
+      "outcome": "icd_6b64",
+      "strength": "moderee",
+      "basis": "CDDR 6B64, caractéristique associée",
+      "summary": "Ce détachement accompagne souvent les changements d'état de soi.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "detachement_irrealite"
+    },
+    {
+      "outcome": "sym_6b65",
+      "strength": "moderee",
+      "basis": "CDDR 6B65, caractéristique associée",
+      "summary": "Ce détachement accompagne souvent les intrusions d'autres parties de soi.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "detachement_irrealite"
+    },
+    {
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "limitee",
+      "basis": "Kwapil et Barrantes-Vidal, 2015",
+      "summary": "Ce détachement est fréquent et non propre à ces traits.",
+      "sources": [
+        "kwapil2015"
+      ],
+      "symptom": "detachement_irrealite"
+    },
+    {
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "critere",
+      "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (méfiance)",
+      "summary": "La méfiance envers les intentions d'autrui fait partie de la dimension positive de ces traits.",
+      "sources": [
+        "kwapil2015"
+      ],
+      "symptom": "se_mefier_des_autres"
+    },
+    {
+      "outcome": "sym_6a22",
+      "strength": "critere",
+      "basis": "CDDR 6A22, caractéristique essentielle (méfiance, idées de persécution)",
+      "summary": "Une méfiance durable fait partie de ce sujet.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "se_mefier_des_autres"
+    },
+    {
+      "outcome": "icd_6a20",
+      "strength": "limitee",
+      "basis": "McGrath et al., 2015",
+      "summary": "La méfiance est fréquente en population générale et bien moins forte qu'une conviction.",
+      "sources": [
+        "mcgrath2015"
+      ],
+      "symptom": "se_mefier_des_autres"
+    },
+    {
+      "outcome": "sym_6a24",
+      "strength": "limitee",
+      "basis": "CDDR 6A24",
+      "summary": "La méfiance accompagne souvent la conviction mais n'est pas propre à ce sujet.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "se_mefier_des_autres"
+    },
+    {
+      "outcome": "sym_6a22",
+      "strength": "moderee",
+      "basis": "CDDR 6A22, caractéristique associée (gêne sociale qui persiste)",
+      "summary": "Une gêne avec les autres qui ne diminue pas avec l'habitude accompagne ce sujet.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "peur_du_jugement"
+    },
+    {
+      "outcome": "ten_traits_schizotypiques",
+      "strength": "moderee",
+      "basis": "Kwapil et Barrantes-Vidal, 2015",
+      "summary": "L'inconfort social est souvent associé à ces traits.",
+      "sources": [
+        "kwapil2015"
+      ],
+      "symptom": "peur_du_jugement"
+    },
+    {
+      "outcome": "sym_6a21",
+      "strength": "critere",
+      "basis": "CDDR 6A21, caractéristique essentielle (épisode thymique en même temps)",
+      "summary": "Une humeur triste durable en même temps que les signes psychotiques fait partie de ce sujet.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "tristesse_persistante"
+    },
+    {
+      "outcome": "sym_6a21",
+      "strength": "critere",
+      "basis": "CDDR 6A21, caractéristique essentielle (épisode thymique en même temps)",
+      "summary": "La perte de plaisir peut faire partie de l'épisode d'humeur requis pour ce sujet.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "perte_interet_plaisir"
+    },
+    {
+      "outcome": "icd_6a20",
+      "strength": "moderee",
+      "basis": "CDDR 6A20 (symptômes négatifs) ; Kwapil et Barrantes-Vidal, 2015",
+      "summary": "Le manque de plaisir fait partie des signes négatifs mais reste peu spécifique.",
+      "sources": [
+        "oms_cddr",
+        "kwapil2015"
+      ],
+      "symptom": "perte_interet_plaisir"
+    },
+    {
+      "outcome": "icd_6a20",
+      "strength": "limitee",
+      "basis": "CDDR 6A20",
+      "summary": "Le retrait social est fréquent et peu spécifique.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "se_retirer_des_autres"
+    },
+    {
+      "outcome": "icd_6a20",
+      "strength": "limitee",
+      "basis": "CDDR 6A20 (perturbations psychomotrices)",
+      "summary": "Un ralentissement ou une agitation peuvent accompagner ces troubles, comme beaucoup d'autres.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "ralentissement_agitation"
+    },
+    {
+      "outcome": "icd_6a20",
+      "strength": "limitee",
+      "basis": "CDDR 6A20 (atteintes cognitives)",
+      "summary": "Les difficultés de concentration sont fréquentes et peu spécifiques.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "difficultes_concentration"
+    },
+    {
+      "outcome": "icd_6b60",
+      "strength": "limitee",
+      "basis": "CDDR 6B60 ; sous-catégorie CIM-11 6B60.9",
+      "summary": "Des troubles de la concentration sans cause retrouvée existent dans ce sujet mais sont très courants.",
+      "sources": [
+        "oms_cddr",
+        "icd11_mms",
+        "hallett2022"
+      ],
+      "symptom": "difficultes_concentration"
+    },
+    {
+      "outcome": "sym_6a23",
+      "strength": "limitee",
+      "basis": "CDDR 6A23 (changements rapides de l'état)",
+      "summary": "Des variations rapides de l'humeur accompagnent souvent l'épisode, comme bien d'autres situations.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "humeur_qui_change_vite"
+    },
+    {
+      "outcome": "sym_6a22",
+      "strength": "limitee",
+      "basis": "CDDR 6A22",
+      "summary": "Des ruminations peuvent accompagner ce sujet sans lui être propres.",
+      "sources": [
+        "oms_cddr"
+      ],
+      "symptom": "pensees_en_boucle"
     }
-   ]
-  },
-  {
-   "id": "per_corps_peu_ressenti",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Moins sentir son corps",
-   "description": "Sentir à peine son corps, comme s'il était absent, ou percevoir moins la faim, la soif ou la douleur.",
-   "examples": [
-    "Ne pas sentir qu'on a froid",
-    "Avoir l'impression de flotter"
-   ],
-   "safety": null,
-   "overlap_group": "corps_peu_ressenti",
-   "links": [
+  ],
+  "sources": [
     {
-     "outcome": "sym_6b66",
-     "strength": "critere",
-     "basis": "CDDR 6B66, caractéristique essentielle (corps vécu comme étranger) ; Medford et al., 2005",
-     "summary": "Percevoir son corps comme absent ou lointain est une forme de dépersonnalisation.",
-     "sources": [
-      "oms_cddr",
-      "medford2005"
-     ]
+      "id": "oms_cddr",
+      "type": "classification",
+      "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
+      "url": "https://www.who.int/publications/i/item/9789240077263",
+      "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
     },
     {
-     "outcome": "ten_dissociation",
-     "strength": "critere",
-     "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; Medford et al., 2005",
-     "summary": "Se sentir coupé de son corps fait partie des expériences dissociatives.",
-     "sources": [
-      "wulfing2025",
-      "medford2005"
-     ]
+      "id": "icd11_mms",
+      "type": "classification",
+      "citation": "OMS, Classification internationale des maladies, 11e révision (CIM-11), statistiques de mortalité et de morbidité (MMS), version 2026-01, chapitre 06",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr",
+      "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
+    },
+    {
+      "id": "kwapil2015",
+      "type": "revue",
+      "citation": "Kwapil TR, Barrantes-Vidal N, 2015, Schizotypy: looking back and moving forward, Schizophrenia Bulletin 41(Suppl 2):S366-S373, doi:10.1093/schbul/sbu186",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4373633/",
+      "licence": "Texte intégral en libre accès (PMC) ; droits de l'éditeur, citation et paraphrase seulement"
+    },
+    {
+      "id": "mcgrath2015",
+      "type": "etude",
+      "citation": "McGrath JJ, Saha S, Al-Hamzawi A, et al., 2015, Psychotic experiences in the general population: a cross-national analysis based on 31 261 respondents from 18 countries, JAMA Psychiatry 72(7):697-705",
+      "url": "https://doi.org/10.1001/jamapsychiatry.2015.0575",
+      "licence": "Tous droits réservés ; résumé lu (dépôt https://hdl.handle.net/2445/174787), citation seulement"
+    },
+    {
+      "id": "medford2005",
+      "type": "revue",
+      "citation": "Medford N, Sierra M, Baker D, David AS, 2005, Understanding and treating depersonalisation disorder, Advances in Psychiatric Treatment 11(2):92-100",
+      "url": "https://doi.org/10.1192/apt.11.2.92",
+      "licence": "Droits de l'éditeur (Cambridge University Press), texte lu en accès libre, citation et paraphrase seulement"
+    },
+    {
+      "id": "wulfing2025",
+      "type": "etude",
+      "citation": "Wülfing P, Spitzer C, Leibowitz J, et al., 2025, Dissociation in focus: replicating and extending network analytic insights based on the dissociative experiences scale, European Journal of Psychotraumatology 16(1):2586981",
+      "url": "https://doi.org/10.1080/20008066.2025.2586981",
+      "licence": "© 2025 les auteurs, article en libre accès (Taylor & Francis) ; résumé lu, citation seulement"
+    },
+    {
+      "id": "hallett2022",
+      "type": "revue",
+      "citation": "Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J, 2022, Functional neurological disorder: new subtypes and shared mechanisms, Lancet Neurology 21(6):537-550",
+      "url": "https://doi.org/10.1016/S1474-4422(21)00422-1",
+      "licence": "Version auteur lue (Edinburgh Research Explorer), droits conservés par les auteurs ou l'éditeur, citation seulement"
     }
-   ]
-  },
-  {
-   "id": "per_agir_en_automate",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Avoir l'impression d'agir comme un automate",
-   "description": "Faire les gestes du quotidien comme un robot, sans avoir le sentiment que c'est vraiment soi qui agit.",
-   "examples": [
-    "Parler en s'entendant comme de loin"
-   ],
-   "safety": null,
-   "overlap_group": "automate",
-   "links": [
-    {
-     "outcome": "sym_6b66",
-     "strength": "critere",
-     "basis": "CDDR 6B66, caractéristique essentielle (sentiment d'être étranger à ses actes) ; Medford et al., 2005",
-     "summary": "Se vivre comme un automate est une description fréquente de la dépersonnalisation.",
-     "sources": [
-      "oms_cddr",
-      "medford2005"
-     ]
-    },
-    {
-     "outcome": "ten_dissociation",
-     "strength": "moderee",
-     "basis": "Medford et al., 2005",
-     "summary": "Ce sentiment accompagne souvent le détachement de soi.",
-     "sources": [
-      "medford2005"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_savoir_que_c_est_une_impression",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Savoir que l'irréalité n'est qu'une impression",
-   "description": "Quand soi ou le monde paraît étrange ou irréel, savoir que c'est une impression et que tout est bien réel.",
-   "examples": [
-    "Se dire « je sais que c'est réel, mais je ne le sens pas »"
-   ],
-   "safety": null,
-   "overlap_group": "realite_preservee",
-   "links": [
-    {
-     "outcome": "sym_6b66",
-     "strength": "critere",
-     "basis": "CDDR 6B66, caractéristique essentielle (contact avec la réalité préservé) ; Medford et al., 2005",
-     "summary": "Garder conscience que l'irréalité est ressentie distingue ce détachement d'une perte de contact avec la réalité.",
-     "sources": [
-      "oms_cddr",
-      "medford2005"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_temps_perdu",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Perdre des moments sans en garder de souvenir",
-   "description": "Constater des heures ou des jours sans souvenir, bien au-delà des oublis ordinaires, sans alcool ni drogue.",
-   "examples": [
-    "Ne pas savoir ce qu'on a fait de son après-midi"
-   ],
-   "safety": null,
-   "overlap_group": "amnesie_episodes",
-   "links": [
-    {
-     "outcome": "icd_6b64",
-     "strength": "critere",
-     "basis": "CDDR 6B64, caractéristique essentielle (épisodes d'amnésie)",
-     "summary": "Des moments vécus sans souvenir peuvent accompagner des changements d'état de soi.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6b61",
-     "strength": "critere",
-     "basis": "CDDR 6B61, caractéristique essentielle (souvenirs personnels inaccessibles)",
-     "summary": "Ne pas retrouver le souvenir de toute une période dépasse l'oubli ordinaire.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6b65",
-     "strength": "limitee",
-     "basis": "CDDR 6B65 : amnésie absente ou brève",
-     "summary": "Ces trous de mémoire restent rares ou courts dans ce cas.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_dissociation",
-     "strength": "moderee",
-     "basis": "Wülfing et al., 2025 : l'amnésie est une dimension de la dissociation ; poids abaissé d'un cran par prudence",
-     "summary": "Les trous de mémoire font partie des expériences dissociatives mais ont aussi bien d'autres causes.",
-     "sources": [
-      "wulfing2025"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_actes_oublies",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Apprendre qu'on a fait des choses dont on ne se souvient pas",
-   "description": "Entendre qu'on a dit ou fait des choses sans aucun souvenir, ou trouver des objets ou écrits inconnus chez soi.",
-   "examples": [
-    "Trouver un achat qu'on ne se rappelle pas",
-    "Un proche cite une conversation oubliée"
-   ],
-   "safety": null,
-   "overlap_group": "amnesie_episodes",
-   "links": [
-    {
-     "outcome": "icd_6b64",
-     "strength": "critere",
-     "basis": "CDDR 6B64, caractéristique essentielle (épisodes d'amnésie)",
-     "summary": "Des actes sans souvenir peuvent signaler qu'un autre état de soi a pris la main.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6b61",
-     "strength": "moderee",
-     "basis": "CDDR 6B61, caractéristique associée",
-     "summary": "L'oubli peut porter sur ce qu'on a fait pendant une période.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_dissociation",
-     "strength": "moderee",
-     "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
-     "summary": "Ces oublis font partie des expériences dissociatives mais ont d'autres causes possibles.",
-     "sources": [
-      "wulfing2025"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_oubli_evenement_important",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Ne pas se souvenir d'un événement important récent",
-   "description": "Un événement marquant de ces derniers mois, souvent pénible, dont il ne reste aucun souvenir ou seulement des fragments.",
-   "examples": [
-    "Ne rien se rappeler d'une journée très éprouvante"
-   ],
-   "safety": null,
-   "overlap_group": "amnesie_autobiographique",
-   "links": [
-    {
-     "outcome": "sym_6b61",
-     "strength": "critere",
-     "basis": "CDDR 6B61, caractéristique essentielle",
-     "summary": "Ne pas retrouver un souvenir personnel important, souvent lié à un choc, est le cœur de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_dissociation",
-     "strength": "moderee",
-     "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
-     "summary": "Un oubli de ce type peut être dissociatif, mais il a aussi d'autres causes.",
-     "sources": [
-      "wulfing2025"
-     ]
-    },
-    {
-     "outcome": "icd_6b64",
-     "strength": "moderee",
-     "basis": "CDDR 6B64, caractéristique associée",
-     "summary": "Des oublis de moments importants se rencontrent aussi dans ce cas.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_fugue",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Se retrouver loin sans savoir comment on y est arrivé",
-   "description": "Se retrouver dans un lieu éloigné sans souvenir du trajet, parfois sans savoir un moment qui l'on est.",
-   "examples": [
-    "Reprendre ses esprits dans une autre ville"
-   ],
-   "safety": null,
-   "overlap_group": "fugue",
-   "links": [
-    {
-     "outcome": "sym_6b61",
-     "strength": "critere",
-     "basis": "CDDR 6B61.0, caractéristique qui définit la forme avec fugue",
-     "summary": "Un départ sans souvenir, parfois avec perte de son identité, définit une forme de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6b64",
-     "strength": "moderee",
-     "basis": "CDDR 6B64, caractéristique associée",
-     "summary": "Ces départs sans souvenir peuvent aussi survenir dans ce cas.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_dissociation",
-     "strength": "moderee",
-     "basis": "Wülfing et al., 2025 (dimension amnésie) ; poids abaissé d'un cran par prudence",
-     "summary": "C'est une forme intense de trou de mémoire dissociatif.",
-     "sources": [
-      "wulfing2025"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_parties_distinctes",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Sentir en soi des façons d'être très distinctes",
-   "description": "Avoir en soi des parties si différentes qu'elles semblent des personnes à part, avec leurs goûts, leur voix, leur âge.",
-   "examples": [
-    "Une partie se sent enfant, une autre adulte"
-   ],
-   "safety": null,
-   "overlap_group": "identite_parties",
-   "links": [
-    {
-     "outcome": "icd_6b64",
-     "strength": "critere",
-     "basis": "CDDR 6B64, caractéristique essentielle (plusieurs états de soi distincts)",
-     "summary": "Plusieurs façons d'être bien distinctes sont au centre de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6b65",
-     "strength": "critere",
-     "basis": "CDDR 6B65, caractéristique essentielle (un état principal et d'autres états)",
-     "summary": "Une façon d'être domine mais d'autres existent à côté.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_dissociation",
-     "strength": "moderee",
-     "basis": "CIM-11, définition du groupe dissociatif (identité) ; CDDR",
-     "summary": "Une identité vécue en morceaux est une forme de dissociation.",
-     "sources": [
-      "icd11_mms",
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_partie_prend_le_controle",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Se sentir mis de côté pendant qu'une autre partie agit",
-   "description": "Assister de loin, ou sans souvenir ensuite, à des moments où une autre façon d'être de soi parle et décide.",
-   "examples": [
-    "Se voir répondre d'une voix qui ne semble pas la sienne"
-   ],
-   "safety": null,
-   "overlap_group": "controle_partie",
-   "links": [
-    {
-     "outcome": "icd_6b64",
-     "strength": "critere",
-     "basis": "CDDR 6B64, caractéristique essentielle (prise de contrôle répétée par un autre état)",
-     "summary": "Qu'un autre état de soi prenne la main à plusieurs reprises est caractéristique de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6b65",
-     "strength": "moderee",
-     "basis": "CDDR 6B65 : prises de contrôle rares et brèves",
-     "summary": "Une autre partie peut parfois agir brièvement, sans prendre la main de façon répétée.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_pensees_d_une_autre_partie",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Avoir des pensées qui semblent venir d'une autre partie de soi",
-   "description": "Des pensées, émotions ou envies qui surgissent comme si elles appartenaient à une autre partie de soi.",
-   "examples": [
-    "Une colère qui ne semble pas la sienne",
-    "Une voix intérieure qui commente"
-   ],
-   "safety": null,
-   "overlap_group": "intrusion_pensees",
-   "links": [
-    {
-     "outcome": "sym_6b65",
-     "strength": "critere",
-     "basis": "CDDR 6B65, caractéristique essentielle (intrusions d'un autre état)",
-     "summary": "Ces intrusions venues d'une autre partie de soi sont au centre de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6b64",
-     "strength": "moderee",
-     "basis": "CDDR 6B64, caractéristique associée",
-     "summary": "Ces intrusions se rencontrent aussi entre deux prises de contrôle.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_gestes_d_une_autre_partie",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Dire ou faire des choses vécues comme venant d'une autre partie de soi",
-   "description": "Des paroles ou des gestes qui échappent, vécus comme venus d'une autre partie de soi, en gardant conscience de la scène.",
-   "examples": [
-    "Écrire ou parler d'une façon qui ne semble pas la sienne"
-   ],
-   "safety": null,
-   "overlap_group": "intrusion_actes",
-   "links": [
-    {
-     "outcome": "sym_6b65",
-     "strength": "critere",
-     "basis": "CDDR 6B65, caractéristique essentielle (intrusions d'un autre état dans les actes)",
-     "summary": "Des actes vécus comme venus d'une autre partie de soi, sans perte de souvenir, sont typiques de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6b64",
-     "strength": "moderee",
-     "basis": "CDDR 6B64, caractéristique associée",
-     "summary": "Ces intrusions se rencontrent aussi dans ce cas.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_faiblesse_membre",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Avoir un bras ou une jambe qui faiblit sans cause trouvée",
-   "description": "Un membre qui perd sa force ou ne répond plus par moments, sans cause trouvée par un médecin.",
-   "examples": [
-    "Lâcher des objets",
-    "Une jambe qui se dérobe"
-   ],
-   "safety": null,
-   "overlap_group": "fonctionnel_faiblesse",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.6 ; Hallett et al., 2022",
-     "summary": "Une faiblesse réelle mais sans lésion retrouvée est une forme fréquente de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_crises_perte_controle",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Avoir des crises avec perte de contrôle du corps",
-   "description": "Des malaises avec secousses, chute ou perte de contact, sans épilepsie ni autre cause trouvée par un médecin.",
-   "examples": [
-    "Des secousses lors d'un moment de stress"
-   ],
-   "safety": null,
-   "overlap_group": "fonctionnel_crises",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.4 ; Hallett et al., 2022",
-     "summary": "Des crises qui ressemblent à l'épilepsie sans en être sont une forme courante de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_perte_sensation",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Perdre la sensation d'une partie du corps",
-   "description": "Un engourdissement, des fourmis ou une insensibilité d'une zone du corps, sans cause trouvée par un médecin.",
-   "examples": [
-    "Une main qui ne sent plus le toucher"
-   ],
-   "safety": null,
-   "overlap_group": "fonctionnel_sensation",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.3 ; Hallett et al., 2022",
-     "summary": "Une perte de sensation sans lésion retrouvée fait partie des formes de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_vue_perturbee",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Avoir la vue qui se trouble ou disparaît sans cause trouvée",
-   "description": "Voir flou, double, en tunnel ou ne plus voir par moments, alors que les examens des yeux sont normaux.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "fonctionnel_vue",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.0 ; Hallett et al., 2022",
-     "summary": "Une gêne de la vue sans cause retrouvée est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_audition_perturbee",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Entendre moins bien par moments sans cause trouvée",
-   "description": "Une baisse ou une perte de l'audition qui va et vient, alors que les examens des oreilles sont normaux.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "fonctionnel_audition",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.1 ; Hallett et al., 2022",
-     "summary": "Une baisse d'audition sans cause retrouvée est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_vertiges_persistants",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Avoir des vertiges ou une instabilité qui durent",
-   "description": "Se sentir instable ou tanguer presque chaque jour, surtout debout ou dans la foule, sans cause trouvée.",
-   "examples": [
-    "Gêne dans les rayons d'un supermarché"
-   ],
-   "safety": null,
-   "overlap_group": "fonctionnel_vertiges",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.2 ; Hallett et al., 2022",
-     "summary": "Des vertiges durables sans lésion de l'oreille interne sont une forme reconnue de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_marche_difficile",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Avoir une marche devenue difficile sans cause trouvée",
-   "description": "Marcher de façon hésitante, traîner une jambe ou perdre l'équilibre, sans cause trouvée par un médecin.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "fonctionnel_marche",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.7 ; Hallett et al., 2022",
-     "summary": "Des troubles de la marche sans lésion retrouvée sont l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_mouvements_involontaires",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Avoir des mouvements involontaires sans cause trouvée",
-   "description": "Des tremblements, secousses, spasmes ou postures figées qui échappent au contrôle, sans cause trouvée.",
-   "examples": [
-    "Une main qui tremble par épisodes"
-   ],
-   "safety": null,
-   "overlap_group": "fonctionnel_mouvements",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.8 ; Hallett et al., 2022",
-     "summary": "Des mouvements involontaires sans lésion retrouvée sont une forme fréquente de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_parole_perturbee",
-   "canonical": false,
-   "theme": "corps_energie_sommeil",
-   "label": "Perdre sa voix ou sa parole sans cause trouvée",
-   "description": "Ne plus pouvoir parler, chuchoter seulement ou bégayer soudain, sans cause trouvée par un médecin.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "fonctionnel_parole",
-   "links": [
-    {
-     "outcome": "icd_6b60",
-     "strength": "critere",
-     "basis": "CDDR 6B60, caractéristique essentielle ; sous-catégorie CIM-11 6B60.5 ; Hallett et al., 2022",
-     "summary": "Une perte de la voix ou de la parole sans lésion retrouvée est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr",
-      "icd11_mms",
-      "hallett2022"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_entendre_voix",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Entendre des voix que les autres n'entendent pas",
-   "description": "Entendre parler, commenter ou appeler alors que personne n'est là, en dehors de l'endormissement et du réveil.",
-   "examples": [
-    "Une voix qui commente ce qu'on fait"
-   ],
-   "safety": null,
-   "overlap_group": "hallucinations_auditives",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (hallucinations) ; McGrath et al., 2015",
-     "summary": "Entendre des voix fait partie des expériences psychotiques, qui restent souvent passagères.",
-     "sources": [
-      "oms_cddr",
-      "mcgrath2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "critere",
-     "basis": "CDDR 6A21, caractéristique essentielle (symptômes de la schizophrénie)",
-     "summary": "Ce type de perception fait partie des signes requis pour ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a23",
-     "strength": "critere",
-     "basis": "CDDR 6A23, caractéristique essentielle",
-     "summary": "Des perceptions de ce type apparaissent brusquement dans ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "moderee",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive, des illusions aux hallucinations",
-     "summary": "Ces perceptions sont l'extrémité forte des perceptions inhabituelles.",
-     "sources": [
-      "kwapil2015"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_percevoir_choses_absentes",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Voir, sentir ou toucher des choses que les autres ne perçoivent pas",
-   "description": "Voir une personne ou une forme, sentir une odeur ou un contact sur la peau que personne d'autre ne perçoit.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "hallucinations_autres",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (hallucinations) ; McGrath et al., 2015",
-     "summary": "Ces perceptions sans objet font partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr",
-      "mcgrath2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a23",
-     "strength": "critere",
-     "basis": "CDDR 6A23, caractéristique essentielle",
-     "summary": "Des perceptions de ce type apparaissent brusquement dans ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "moderee",
-     "basis": "CDDR 6A21",
-     "summary": "Ces perceptions peuvent faire partie des signes de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "moderee",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive",
-     "summary": "Ces perceptions sont l'extrémité forte des perceptions inhabituelles.",
-     "sources": [
-      "kwapil2015"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_perceptions_inhabituelles",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Avoir des impressions sensorielles étranges",
-   "description": "Sentir une présence, prendre une ombre pour quelqu'un, percevoir des sons déformés, puis constater que rien n'était là.",
-   "examples": [
-    "Croire entendre son prénom dans un bruit"
-   ],
-   "safety": null,
-   "overlap_group": "perceptions_inhabituelles",
-   "links": [
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "critere",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (perceptions inhabituelles)",
-     "summary": "Ces impressions passagères font partie de la définition de ces traits.",
-     "sources": [
-      "kwapil2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (perceptions inhabituelles)",
-     "summary": "Des perceptions déformées durables font partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "McGrath et al., 2015 ; CDDR 6A20",
-     "summary": "Ces impressions sont plus légères que les expériences psychotiques et bien plus fréquentes.",
-     "sources": [
-      "oms_cddr",
-      "mcgrath2015"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_conviction_persecution",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Être convaincu qu'on cherche à vous nuire",
-   "description": "Être certain d'être suivi, surveillé ou visé par un complot, sans élément que d'autres puissent constater.",
-   "examples": [
-    "Penser que les voisins vous espionnent"
-   ],
-   "safety": null,
-   "overlap_group": "conviction_persecution",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (idées délirantes) ; McGrath et al., 2015",
-     "summary": "Une conviction de menace que rien d'extérieur ne confirme fait partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr",
-      "mcgrath2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "critere",
-     "basis": "CDDR 6A21, caractéristique essentielle",
-     "summary": "Ce type de conviction fait partie des signes requis pour ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a23",
-     "strength": "critere",
-     "basis": "CDDR 6A23, caractéristique essentielle",
-     "summary": "Ce type de conviction apparaît brusquement dans ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a24",
-     "strength": "critere",
-     "basis": "CDDR 6A24, caractéristique essentielle (conviction persistante)",
-     "summary": "Une conviction de persécution durable est la forme la plus fréquente de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_signes_adresses",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Penser que des choses banales vous sont adressées",
-   "description": "Avoir l'impression qu'une émission, des inconnus ou des détails du quotidien parlent de vous ou vous font signe.",
-   "examples": [
-    "Croire qu'une chanson à la radio vous vise"
-   ],
-   "safety": null,
-   "overlap_group": "idees_reference",
-   "links": [
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (idées de référence)",
-     "summary": "Ces impressions qu'on parle de soi font partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "moderee",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (croyances inhabituelles)",
-     "summary": "Ces impressions relèvent des croyances inhabituelles décrites par ces traits.",
-     "sources": [
-      "kwapil2015"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "CDDR 6A20",
-     "summary": "Quand elles deviennent des certitudes, ces impressions rejoignent les expériences psychotiques.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a24",
-     "strength": "moderee",
-     "basis": "CDDR 6A24",
-     "summary": "Ces impressions accompagnent souvent une conviction durable.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_conviction_mission",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Être certain d'avoir une mission ou des pouvoirs à part",
-   "description": "Être sûr d'avoir un rôle exceptionnel, un don ou un lien spécial avec une force, que d'autres ne constatent pas.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "conviction_grandeur",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (idées délirantes)",
-     "summary": "Une certitude de ce type, non partagée, fait partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a24",
-     "strength": "critere",
-     "basis": "CDDR 6A24, caractéristique essentielle (forme de grandeur)",
-     "summary": "Une conviction de grandeur durable est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "moderee",
-     "basis": "CDDR 6A21",
-     "summary": "Cette certitude peut faire partie des signes de ce sujet, parfois avec une humeur exaltée.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_conviction_jalousie",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Être certain que son partenaire est infidèle sans preuve",
-   "description": "Être sûr d'une infidélité à partir de détails, et le rester même quand les faits la contredisent.",
-   "examples": [
-    "Voir une preuve dans une tasse déplacée"
-   ],
-   "safety": null,
-   "overlap_group": "conviction_jalousie",
-   "links": [
-    {
-     "outcome": "sym_6a24",
-     "strength": "critere",
-     "basis": "CDDR 6A24, caractéristique essentielle (forme jalouse)",
-     "summary": "Une conviction d'infidélité que les faits ne changent pas est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "CDDR 6A20",
-     "summary": "Ce type de conviction peut faire partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_conviction_etre_aime",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Être certain qu'une personne vous aime en secret",
-   "description": "Être sûr qu'une personne, souvent peu connue ou célèbre, vous aime en secret, même si elle dit le contraire.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "conviction_amour",
-   "links": [
-    {
-     "outcome": "sym_6a24",
-     "strength": "critere",
-     "basis": "CDDR 6A24, caractéristique essentielle (forme érotomaniaque)",
-     "summary": "Cette conviction amoureuse durable est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "CDDR 6A20",
-     "summary": "Ce type de conviction peut faire partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_conviction_corps",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Être certain d'avoir quelque chose d'étranger dans le corps",
-   "description": "Être sûr d'abriter un parasite, un objet ou une transformation que les examens et les proches ne retrouvent pas.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "conviction_corporelle",
-   "links": [
-    {
-     "outcome": "sym_6a24",
-     "strength": "critere",
-     "basis": "CDDR 6A24, caractéristique essentielle (forme somatique)",
-     "summary": "Une conviction durable sur son corps, que rien ne vient confirmer, est l'une des formes de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "CDDR 6A20",
-     "summary": "Ce type de conviction peut faire partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_pensees_influencees",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Sentir ses pensées ou ses gestes contrôlés de l'extérieur",
-   "description": "Sentir que des pensées sont mises, retirées ou lues dans sa tête, ou qu'une force extérieure guide ses gestes.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "influence_controle",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (expériences d'influence ou de contrôle)",
-     "summary": "Ce sentiment d'être piloté de l'extérieur fait partie des expériences psychotiques.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "critere",
-     "basis": "CDDR 6A21, caractéristique essentielle",
-     "summary": "Ce sentiment fait partie des signes requis pour ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a23",
-     "strength": "moderee",
-     "basis": "CDDR 6A23",
-     "summary": "Ce sentiment peut apparaître lors de l'épisode.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_pensee_desorganisee",
-   "canonical": false,
-   "theme": "attention_impulsivite",
-   "label": "Avoir des pensées qui s'embrouillent en parlant",
-   "description": "Perdre le fil, sauter d'une idée à l'autre sans lien, au point que d'autres disent ne plus suivre.",
-   "examples": [
-    "Des phrases qui partent dans tous les sens"
-   ],
-   "safety": null,
-   "overlap_group": "pensee_desorganisee",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (pensée désorganisée)",
-     "summary": "Une pensée qui se désorganise au point de gêner l'échange fait partie de ces troubles.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "critere",
-     "basis": "CDDR 6A21, caractéristique essentielle",
-     "summary": "Ce signe fait partie de ceux requis pour ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (discours vague ou détaillé à l'excès)",
-     "summary": "Une façon de parler qui se perd en détails ou en flou fait partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "critere",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension désorganisée",
-     "summary": "Une pensée ou un discours qui s'organise mal relève de la dimension désorganisée de ces traits.",
-     "sources": [
-      "kwapil2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a23",
-     "strength": "moderee",
-     "basis": "CDDR 6A23",
-     "summary": "La pensée peut se désorganiser pendant l'épisode.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_emotions_peu_exprimees",
-   "canonical": false,
-   "theme": "emotions_colere",
-   "label": "Montrer peu ses émotions sur le visage ou dans la voix",
-   "description": "Avoir un visage ou une voix qui varient peu, au point que d'autres remarquent qu'on paraît peu ému.",
-   "examples": [
-    "Entendre « on ne sait jamais ce que tu ressens »"
-   ],
-   "safety": null,
-   "overlap_group": "affect_emousse",
-   "links": [
-    {
-     "outcome": "icd_6a20",
-     "strength": "critere",
-     "basis": "CDDR 6A20, caractéristique essentielle (symptômes négatifs)",
-     "summary": "Une expression émotionnelle réduite fait partie des signes dits négatifs.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (affect restreint)",
-     "summary": "Des émotions peu montrées font partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "critere",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension négative (affect émoussé)",
-     "summary": "Une expression émotionnelle réduite relève de la dimension négative de ces traits.",
-     "sources": [
-      "kwapil2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a21",
-     "strength": "moderee",
-     "basis": "CDDR 6A21",
-     "summary": "Ce signe peut faire partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_peu_d_interet_pour_les_liens",
-   "canonical": false,
-   "theme": "place_relations",
-   "label": "Avoir peu d'envie de liens proches",
-   "description": "Préférer être seul et trouver peu de plaisir aux relations proches, que cela pèse ou non.",
-   "examples": [
-    "Ne pas chercher à revoir des connaissances agréables"
-   ],
-   "safety": null,
-   "overlap_group": "anhedonie_sociale",
-   "links": [
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "critere",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension négative (désintérêt pour les autres)",
-     "summary": "Le peu d'intérêt pour les liens relève de la dimension négative de ces traits.",
-     "sources": [
-      "kwapil2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (relations proches réduites)",
-     "summary": "Peu de liens proches et peu d'aisance dans les relations font partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "CDDR 6A20 (retrait social parmi les signes négatifs)",
-     "summary": "Le retrait des relations peut accompagner ces troubles.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_pensee_magique",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Croire que ses pensées peuvent faire arriver des choses",
-   "description": "Penser deviner l'avenir, lire dans les pensées ou agir à distance par la pensée, au-delà des croyances de son entourage.",
-   "examples": [
-    "Se sentir responsable d'un accident pour y avoir pensé"
-   ],
-   "safety": null,
-   "overlap_group": "pensee_magique",
-   "links": [
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "critere",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (pensée magique)",
-     "summary": "Ces croyances inhabituelles font partie de la définition de ces traits.",
-     "sources": [
-      "kwapil2015"
-     ]
-    },
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (croyances inhabituelles)",
-     "summary": "Des croyances singulières durables font partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_remarques_sur_singularite",
-   "canonical": false,
-   "theme": "place_relations",
-   "label": "Entendre souvent qu'on se comporte de façon inhabituelle",
-   "description": "Recevoir des remarques répétées sur sa façon de parler, de s'habiller ou d'agir, jugée étonnante par d'autres.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "comportement_singulier",
-   "links": [
-    {
-     "outcome": "sym_6a22",
-     "strength": "critere",
-     "basis": "CDDR 6A22, caractéristique essentielle (comportement ou apparence singuliers)",
-     "summary": "Une manière d'être que d'autres trouvent étonnante fait partie de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "ten_traits_schizotypiques",
-     "strength": "moderee",
-     "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension désorganisée (comportement singulier)",
-     "summary": "Un comportement surprenant pour les autres relève de la dimension désorganisée.",
-     "sources": [
-      "kwapil2015"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "per_episode_soudain_bref",
-   "canonical": false,
-   "theme": "perceptions_realite",
-   "label": "Avoir vécu une période brève où tout a basculé",
-   "description": "Quelques jours ou semaines où perceptions et convictions ont changé d'un coup, puis se sont apaisées.",
-   "examples": [],
-   "safety": null,
-   "overlap_group": "episode_bref",
-   "links": [
-    {
-     "outcome": "sym_6a23",
-     "strength": "critere",
-     "basis": "CDDR 6A23, caractéristique essentielle (début soudain, durée courte)",
-     "summary": "Un épisode qui commence brusquement et cède en quelques semaines est le cœur de ce sujet.",
-     "sources": [
-      "oms_cddr"
-     ]
-    },
-    {
-     "outcome": "icd_6a20",
-     "strength": "moderee",
-     "basis": "CDDR 6A20",
-     "summary": "Un tel épisode peut aussi marquer le début d'autres troubles de ce groupe.",
-     "sources": [
-      "oms_cddr"
-     ]
-    }
-   ]
-  }
- ],
- "links_to_canonical": [
-  {
-   "outcome": "ten_dissociation",
-   "strength": "critere",
-   "basis": "Wülfing et al., 2025 (dimension dépersonnalisation-déréalisation) ; définition du sujet",
-   "summary": "Se sentir détaché de soi ou du monde est au cœur des expériences dissociatives.",
-   "sources": [
-    "wulfing2025"
-   ],
-   "symptom": "detachement_irrealite"
-  },
-  {
-   "outcome": "sym_6b66",
-   "strength": "critere",
-   "basis": "CDDR 6B66, caractéristique essentielle ; Medford et al., 2005",
-   "summary": "Se sentir étranger à soi ou au monde est le cœur de ce sujet.",
-   "sources": [
-    "oms_cddr",
-    "medford2005"
-   ],
-   "symptom": "detachement_irrealite"
-  },
-  {
-   "outcome": "icd_6b64",
-   "strength": "moderee",
-   "basis": "CDDR 6B64, caractéristique associée",
-   "summary": "Ce détachement accompagne souvent les changements d'état de soi.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "detachement_irrealite"
-  },
-  {
-   "outcome": "sym_6b65",
-   "strength": "moderee",
-   "basis": "CDDR 6B65, caractéristique associée",
-   "summary": "Ce détachement accompagne souvent les intrusions d'autres parties de soi.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "detachement_irrealite"
-  },
-  {
-   "outcome": "ten_traits_schizotypiques",
-   "strength": "limitee",
-   "basis": "Kwapil et Barrantes-Vidal, 2015",
-   "summary": "Ce détachement est fréquent et non propre à ces traits.",
-   "sources": [
-    "kwapil2015"
-   ],
-   "symptom": "detachement_irrealite"
-  },
-  {
-   "outcome": "ten_traits_schizotypiques",
-   "strength": "critere",
-   "basis": "Kwapil et Barrantes-Vidal, 2015 : dimension positive (méfiance)",
-   "summary": "La méfiance envers les intentions d'autrui fait partie de la dimension positive de ces traits.",
-   "sources": [
-    "kwapil2015"
-   ],
-   "symptom": "se_mefier_des_autres"
-  },
-  {
-   "outcome": "sym_6a22",
-   "strength": "critere",
-   "basis": "CDDR 6A22, caractéristique essentielle (méfiance, idées de persécution)",
-   "summary": "Une méfiance durable fait partie de ce sujet.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "se_mefier_des_autres"
-  },
-  {
-   "outcome": "icd_6a20",
-   "strength": "limitee",
-   "basis": "McGrath et al., 2015",
-   "summary": "La méfiance est fréquente en population générale et bien moins forte qu'une conviction.",
-   "sources": [
-    "mcgrath2015"
-   ],
-   "symptom": "se_mefier_des_autres"
-  },
-  {
-   "outcome": "sym_6a24",
-   "strength": "limitee",
-   "basis": "CDDR 6A24",
-   "summary": "La méfiance accompagne souvent la conviction mais n'est pas propre à ce sujet.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "se_mefier_des_autres"
-  },
-  {
-   "outcome": "sym_6a22",
-   "strength": "moderee",
-   "basis": "CDDR 6A22, caractéristique associée (gêne sociale qui persiste)",
-   "summary": "Une gêne avec les autres qui ne diminue pas avec l'habitude accompagne ce sujet.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "peur_du_jugement"
-  },
-  {
-   "outcome": "ten_traits_schizotypiques",
-   "strength": "moderee",
-   "basis": "Kwapil et Barrantes-Vidal, 2015",
-   "summary": "L'inconfort social est souvent associé à ces traits.",
-   "sources": [
-    "kwapil2015"
-   ],
-   "symptom": "peur_du_jugement"
-  },
-  {
-   "outcome": "sym_6a21",
-   "strength": "critere",
-   "basis": "CDDR 6A21, caractéristique essentielle (épisode thymique en même temps)",
-   "summary": "Une humeur triste durable en même temps que les signes psychotiques fait partie de ce sujet.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "tristesse_persistante"
-  },
-  {
-   "outcome": "sym_6a21",
-   "strength": "critere",
-   "basis": "CDDR 6A21, caractéristique essentielle (épisode thymique en même temps)",
-   "summary": "La perte de plaisir peut faire partie de l'épisode d'humeur requis pour ce sujet.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "perte_interet_plaisir"
-  },
-  {
-   "outcome": "icd_6a20",
-   "strength": "moderee",
-   "basis": "CDDR 6A20 (symptômes négatifs) ; Kwapil et Barrantes-Vidal, 2015",
-   "summary": "Le manque de plaisir fait partie des signes négatifs mais reste peu spécifique.",
-   "sources": [
-    "oms_cddr",
-    "kwapil2015"
-   ],
-   "symptom": "perte_interet_plaisir"
-  },
-  {
-   "outcome": "icd_6a20",
-   "strength": "limitee",
-   "basis": "CDDR 6A20",
-   "summary": "Le retrait social est fréquent et peu spécifique.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "se_retirer_des_autres"
-  },
-  {
-   "outcome": "icd_6a20",
-   "strength": "limitee",
-   "basis": "CDDR 6A20 (perturbations psychomotrices)",
-   "summary": "Un ralentissement ou une agitation peuvent accompagner ces troubles, comme beaucoup d'autres.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "ralentissement_agitation"
-  },
-  {
-   "outcome": "icd_6a20",
-   "strength": "limitee",
-   "basis": "CDDR 6A20 (atteintes cognitives)",
-   "summary": "Les difficultés de concentration sont fréquentes et peu spécifiques.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "difficultes_concentration"
-  },
-  {
-   "outcome": "icd_6b60",
-   "strength": "limitee",
-   "basis": "CDDR 6B60 ; sous-catégorie CIM-11 6B60.9",
-   "summary": "Des troubles de la concentration sans cause retrouvée existent dans ce sujet mais sont très courants.",
-   "sources": [
-    "oms_cddr",
-    "icd11_mms",
-    "hallett2022"
-   ],
-   "symptom": "difficultes_concentration"
-  },
-  {
-   "outcome": "sym_6a23",
-   "strength": "limitee",
-   "basis": "CDDR 6A23 (changements rapides de l'état)",
-   "summary": "Des variations rapides de l'humeur accompagnent souvent l'épisode, comme bien d'autres situations.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "humeur_qui_change_vite"
-  },
-  {
-   "outcome": "sym_6a22",
-   "strength": "limitee",
-   "basis": "CDDR 6A22",
-   "summary": "Des ruminations peuvent accompagner ce sujet sans lui être propres.",
-   "sources": [
-    "oms_cddr"
-   ],
-   "symptom": "pensees_en_boucle"
-  }
- ],
- "sources": [
-  {
-   "id": "oms_cddr",
-   "type": "classification",
-   "citation": "OMS, 2024, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), Genève, ISBN 978-92-4-007726-3",
-   "url": "https://www.who.int/publications/i/item/9789240077263",
-   "licence": "CC BY-NC-ND 3.0 IGO : paraphrase courte et indépendante seulement, aucune traduction suivie ni adaptation, usage non commercial, citation, aucune suggestion d'aval de l'OMS"
-  },
-  {
-   "id": "icd11_mms",
-   "type": "classification",
-   "citation": "OMS, Classification internationale des maladies, 11e révision (CIM-11), statistiques de mortalité et de morbidité (MMS), version 2026-01, chapitre 06",
-   "url": "https://icd.who.int/browse/2026-01/mms/fr",
-   "licence": "CC BY-ND 3.0 IGO : codes et intitulés cités à l'identique, aucune modification"
-  },
-  {
-   "id": "kwapil2015",
-   "type": "revue",
-   "citation": "Kwapil TR, Barrantes-Vidal N, 2015, Schizotypy: looking back and moving forward, Schizophrenia Bulletin 41(Suppl 2):S366-S373, doi:10.1093/schbul/sbu186",
-   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4373633/",
-   "licence": "Texte intégral en libre accès (PMC) ; droits de l'éditeur, citation et paraphrase seulement"
-  },
-  {
-   "id": "mcgrath2015",
-   "type": "etude",
-   "citation": "McGrath JJ, Saha S, Al-Hamzawi A, et al., 2015, Psychotic experiences in the general population: a cross-national analysis based on 31 261 respondents from 18 countries, JAMA Psychiatry 72(7):697-705",
-   "url": "https://doi.org/10.1001/jamapsychiatry.2015.0575",
-   "licence": "Tous droits réservés ; résumé lu (dépôt https://hdl.handle.net/2445/174787), citation seulement"
-  },
-  {
-   "id": "medford2005",
-   "type": "revue",
-   "citation": "Medford N, Sierra M, Baker D, David AS, 2005, Understanding and treating depersonalisation disorder, Advances in Psychiatric Treatment 11(2):92-100",
-   "url": "https://doi.org/10.1192/apt.11.2.92",
-   "licence": "Droits de l'éditeur (Cambridge University Press), texte lu en accès libre, citation et paraphrase seulement"
-  },
-  {
-   "id": "wulfing2025",
-   "type": "etude",
-   "citation": "Wülfing P, Spitzer C, Leibowitz J, et al., 2025, Dissociation in focus: replicating and extending network analytic insights based on the dissociative experiences scale, European Journal of Psychotraumatology 16(1):2586981",
-   "url": "https://doi.org/10.1080/20008066.2025.2586981",
-   "licence": "© 2025 les auteurs, article en libre accès (Taylor & Francis) ; résumé lu, citation seulement"
-  },
-  {
-   "id": "hallett2022",
-   "type": "revue",
-   "citation": "Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J, 2022, Functional neurological disorder: new subtypes and shared mechanisms, Lancet Neurology 21(6):537-550",
-   "url": "https://doi.org/10.1016/S1474-4422(21)00422-1",
-   "licence": "Version auteur lue (Edinburgh Research Explorer), droits conservés par les auteurs ou l'éditeur, citation seulement"
-  }
- ]
+  ]
 }
