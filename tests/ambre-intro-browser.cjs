@@ -56,10 +56,10 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
  try{
   for(const [width,touch] of [[390,true],[1440,false]]){
    const {ctx,page}=await context(width,touch),tag=String(width);
-   guest=true;scenario='incomplete';await page.goto('https://archive.test/mon-accompagnement/');await page.locator('#ambre-intro').waitFor();
+   guest=true;scenario='incomplete';await page.goto('https://archive.test/ambre/');await page.locator('#ambre-intro').waitFor();
    assert.equal(await page.locator('.ambre-need-count').count(),0);assert.equal(await page.locator('[data-auth=login]').innerText(),'Se connecter');assert.equal(await page.locator('[data-auth=register]').innerText(),'Créer un compte');await check(page,'guest '+tag);await shot(page,'guest-'+tag);
    guest=false;
-   await page.goto('https://archive.test/mon-accompagnement/');await page.locator('#ambre-intro').waitFor();
+   await page.goto('https://archive.test/ambre/');await page.locator('#ambre-intro').waitFor();
    assert.match(await page.locator('#ambre-intro').innerText(),/3\/4/);assert.match(await page.locator('#ambre-intro').innerText(),/Enregistrez la page/);assert.equal(await page.locator('#ambre-start').isDisabled(),true);
    assert.equal(await page.locator('#ambre-intro-title').innerText(),'Bonjour, je suis Ambre.');assert.match(await page.locator('.ambre-intro-lead').innerText(),/assistante psychologue IA/);
    assert.equal(await page.locator('#chat-locked-note').innerText(),'Vous pourrez écrire à Ambre après votre premier bilan.');await check(page,'incomplete '+tag);await shot(page,'incomplete-'+tag);

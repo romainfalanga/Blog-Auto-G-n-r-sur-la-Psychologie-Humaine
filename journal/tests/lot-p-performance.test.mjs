@@ -58,16 +58,16 @@ test('personal shells keep safe JSON bootstrap, with review lists now prepared a
 
 test('Ambre is prepared with its page: /api/me and /api/chat arrive in the HTML, for the owner only',async t=>{
   const s=fixture(t);
-  for(const path of ['/mon-accompagnement/','/mon-accompagnement']){
+  for(const path of ['/ambre/','/ambre']){
     const response=await s.request(path,'a'),html=await response.text(),data=initialData(html);
     assert.equal(response.status,200);assert.equal(response.headers.get('Cache-Control'),'private, no-store');
-    assert.equal(data.page,'/mon-accompagnement/');assert.deepEqual(Object.keys(data.responses),['/api/me','/api/chat']);
+    assert.equal(data.page,'/ambre/');assert.deepEqual(Object.keys(data.responses),['/api/me','/api/chat']);
     assert.equal(data.responses['/api/me'].body.user.id,'a');
     const direct=await s.request('/api/chat','a');assert.deepEqual(data.responses['/api/chat'],{status:direct.status,body:await direct.json()});
     assert.doesNotMatch(html,/Prénom b|Secret b/);
   }
   for(const user of [null,'expired']){
-    const data=initialData(await (await s.request('/mon-accompagnement/',user)).text());
+    const data=initialData(await (await s.request('/ambre/',user)).text());
     assert.deepEqual(Object.keys(data.responses),['/api/me']);assert.equal(data.responses['/api/me'].body.user,null);
   }
   const data=await (await s.request('/api/initial-state?page=chat','b')).json();

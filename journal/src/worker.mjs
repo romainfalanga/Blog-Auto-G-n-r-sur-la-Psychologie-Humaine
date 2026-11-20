@@ -217,7 +217,7 @@ const INITIAL_PAGES={
   reviews:{path:'/mes-bilans/',routes:['/api/reviews']},
   diagnoses:{path:'/mes-diagnostics/',routes:['/api/reviews']},
   // Ambre: the conversation state arrives with the page instead of after /api/me.
-  chat:{path:'/mon-accompagnement/',routes:['/api/chat']},
+  chat:{path:'/ambre/',routes:['/api/chat']},
   account:{path:'/mon-compte/',routes:['/api/self-profile']},
   people:{path:'/mes-proches/',routes:['/api/people']},
   events:{path:'/ma-ligne-de-vie/',routes:['/api/people','/api/life-events']},
@@ -266,9 +266,9 @@ async function routes(request,env,ctx) {
   }
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-compte/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
+  if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/ambre/'}});
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
-  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  const pageTitles={'/ambre':'Ambre','/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/parametres':'Paramètres','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   // « Mes symptômes »: the shared engine and the published questionnaires, no personal data.
   const pagePath=path.replace(/\/$/,'');
   // One close person has a page of their own. Its first render is prepared here; the two
@@ -304,7 +304,7 @@ async function routes(request,env,ctx) {
       for(const key of ['article','like'])if(query.has(key))params.set(key,query.get(key));
       return new Response(null,{status:302,headers:{Location:'/mon-compte/'+(params.size?'?'+params:'')+'#mes-articles'}});
     }
-    const destination=tab==='portrait'?'/mon-compte/':tab==='account'?'/mon-compte/':'/mon-accompagnement/';
+    const destination=tab==='portrait'?'/mon-compte/':tab==='account'?'/mon-compte/':'/ambre/';
     return new Response(null,{status:302,headers:{Location:destination}});
   }
   if(/^\/api\/(?:characters|stories|story-requests)(?:\/|$)/.test(path)) error(410,'Cette fonctionnalité a été retirée.','feature_retired');

@@ -144,7 +144,7 @@ test('a late source-save response cannot replace another editor opened in the sa
 
 test('personal pages keep the declared portrait without a synthesis subpage',()=>{
   const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('pageForPath'),env.ctx);
-  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/mes-proches/'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-accompagnement/'),'chat');
+  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/mes-proches/'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/ambre/'),'chat');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
   assert.doesNotMatch(HTML,/À propos de moi/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab|portrait-synthesis|portrait-body/);
@@ -237,7 +237,7 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,8);assert.deepEqual(links[0],{href:'/mon-accompagnement/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Ma ligne de vie','Mes proches','Mon enfance','Mes symptômes','Mes bilans','Mes diagnostics','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,8);assert.deepEqual(links[0],{href:'/ambre/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Ma ligne de vie','Mes proches','Mon enfance','Mes symptômes','Mes bilans','Mes diagnostics','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
@@ -386,7 +386,7 @@ test('the lists of close people and of moments repeat neither the page title nor
 });
 
 test('the application footer holds the site name (to Ambre) and the catalogue link, and liked articles stay out of the portrait menu',()=>{
- assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/mon-accompagnement\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
+ assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/ambre\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
  assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
@@ -724,7 +724,7 @@ test('V7 legacy direct descriptions stay grammatical without inferring a gender 
 
 
 test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
- const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · assistante psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
+ const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/ambre/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · assistante psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
 });
 
 test('the single portrait renders only its presentation without requesting readings or a synthesis',async()=>{
@@ -747,7 +747,7 @@ test('portrait transport failures leave useful options and a retry, while a fail
  const body=env.host('portrait-body'),statusBox=env.host('portrait-status');
  await env.ctx.refreshPortraitData();
  assert.match(body.textContent,/Voir ma présentation/);assert.doesNotMatch(body.textContent,/Voir mes articles aimés/);
- assert.equal(body.querySelector('a').href,'/mon-accompagnement/');assert.doesNotMatch(statusBox.textContent,/Backend transport details/);
+ assert.equal(body.querySelector('a').href,'/ambre/');assert.doesNotMatch(statusBox.textContent,/Backend transport details/);
  const retry=statusBox.querySelector('button');assert.equal(retry.className,'text');
  unavailable=false;await retry.fire('click');
  const reading=body.querySelector('.portrait-reading');assert.match(reading.textContent,/Piste liée à mes lectures/);
@@ -1060,7 +1060,7 @@ test('note conflict shows the remote text and adopts its revision only after exp
 
 test('the Ambre bubble is gone: no launcher, iframe bridge or embedded mode remains in the shell',()=>{
  assert.doesNotMatch(HTML,/ambre-launcher|ambre-panel|ambre-embedded|ambre-widget|dte-ambre|postMessage|embedded|BroadcastChannel|dte:session/);
- assert.doesNotMatch(HTML,/<iframe/);assert.match(HTML,/<li><a href="\/mon-accompagnement\/">Ambre<\/a><\/li>/);
+ assert.doesNotMatch(HTML,/<iframe/);assert.match(HTML,/<li><a href="\/ambre\/">Ambre<\/a><\/li>/);
  for(const file of ['../../static/js/ambre-widget.js','../../static/css/ambre-widget.css'])assert.throws(()=>readFileSync(new URL(file,import.meta.url)),{code:'ENOENT'});
  assert.doesNotMatch(readFileSync(new URL('../../layouts/_default/baseof.html',import.meta.url),'utf8'),/ambre-widget/);
  assert.doesNotMatch(readFileSync(new URL('../../scripts/build_navigation.mjs',import.meta.url),'utf8'),/AMBRE_WIDGET/);

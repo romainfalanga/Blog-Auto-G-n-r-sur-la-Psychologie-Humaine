@@ -328,29 +328,28 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .conversation-toolbar .chat-point + .message-quota { margin-left: 0; }
 .chat-point-note { margin: 0; padding: var(--s2) 0; border-bottom: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); }
 .conversation-scroll { padding: var(--s4) 0 0; }
-/* One scrolling area once the conversation runs, with a thin, quiet bar kept off the text. */
+/* One scrolling area once the conversation runs; its scrollbar stays hidden (owner request). */
 .conversation-page:has(.chat-thread:not([hidden])) .conversation-scroll {
   flex: 1;
   min-height: 0;
-  margin-right: calc(-1 * var(--s3));
-  padding: var(--s4) var(--s3) var(--s4) 0;
+  padding: var(--s4) 0;
   overflow-y: auto;
   overscroll-behavior-y: contain;
   scroll-padding: var(--s4);
-  scrollbar-width: thin;
-  scrollbar-color: var(--line-strong) transparent;
+  scrollbar-width: none;
 }
-.conversation-scroll::-webkit-scrollbar { width: 6px; }
-.conversation-scroll::-webkit-scrollbar-thumb { border-radius: 3px; background: var(--line-strong); }
-.conversation-scroll::-webkit-scrollbar-track { background: transparent; }
+.conversation-scroll::-webkit-scrollbar { display: none; }
 .chat-thread[hidden], .chat-composer[hidden], .journey-panel[hidden] { display: none; }
-.chat-message { max-width: 92%; margin: var(--s4) 0; scroll-margin-top: var(--s4); }
+.chat-message { width: fit-content; max-width: 86%; margin: var(--s3) 0; scroll-margin-top: var(--s4); }
+/* Real conversation look: Ambre speaks in bubbles on the left, the person answers on the right. */
+.chat-assistant, .ambre-bubble { padding: var(--s3) var(--s4); border: 1px solid var(--line); border-radius: 18px 18px 18px 4px; background: var(--surface); }
+.chat-user h3 { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .chat-message h3 { margin: 0 0 var(--s1); color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); }
-.chat-user { width: fit-content; margin-left: auto; padding: var(--s3) var(--s4); border-radius: var(--r-card); background: var(--accent-wash); }
+.chat-user { margin-left: auto; padding: var(--s3) var(--s4); border-radius: 18px 18px 4px 18px; background: var(--accent-wash); }
 .chat-content { margin: 0; line-height: 1.65; white-space: pre-wrap; overflow-wrap: anywhere; }
 .chat-structured { white-space: normal; }
 .chat-structured .chat-paragraph { margin: 0 0 var(--s3); white-space: pre-line; }
-.chat-questions { margin: var(--s3) 0 0; padding: var(--s3) var(--s4); list-style: none; border-left: 3px solid var(--line); background: var(--surface); border-radius: var(--r-card); }
+.chat-questions { margin: var(--s3) 0 0; padding: var(--s3) var(--s4); list-style: none; border-left: 3px solid var(--line); background: var(--bg); border-radius: var(--r-card); }
 .chat-questions li { margin: 0; line-height: 1.6; }
 .chat-questions li + li { margin-top: var(--s2); }
 .chat-noted { margin: var(--s3) 0 0; padding-top: var(--s2); border-top: 1px solid var(--line); color: var(--muted); font-size: var(--t-xs); }
@@ -389,15 +388,18 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .journey-panel .actions { margin-top: var(--s4); }
 /* Plan 19/11 lot 3: Ambre's first message, the wait and the failure. Ambre's voice, in a quiet card
    that stays distinct from her conversation replies (which have no bubble). */
-.chat-message.ambre-intro, .chat-message.ambre-progress, .chat-message.ambre-failure { width: min(100%, 640px); max-width: 100%; padding: var(--s4) var(--s5) var(--s5); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }
+.chat-message.ambre-progress, .chat-message.ambre-failure { width: min(100%, 560px); max-width: 100%; padding: var(--s3) var(--s4) var(--s4); }
+.chat-message.ambre-intro { width: min(100%, 560px); max-width: 100%; padding: 0; border: 0; border-radius: 0; background: none; }
+.ambre-bubble + .ambre-bubble { margin-top: var(--s3); }
+.ambre-bubble:first-of-type { width: fit-content; }
 .chat-message.ambre-intro { margin-top: var(--s2); }
 .chat-message.ambre-failure { border-color: color-mix(in srgb, var(--danger) 30%, var(--line)); }
 .ambre-from { margin: 0 0 var(--s1); color: var(--muted); font: 400 var(--t-xs)/1.4 var(--font-ui); }
-.chat-message .ambre-intro-title, .chat-message .ambre-progress-title, .chat-message .ambre-failure-title { margin: 0 0 var(--s3); color: var(--ink); font: 400 var(--t-xl)/1.3 var(--font-title); }
-.chat-message .ambre-progress-title, .chat-message .ambre-failure-title { font-size: var(--t-lg); }
+.chat-message .ambre-intro-title { margin: 0 0 var(--s2); color: var(--ink); font: inherit; line-height: 1.6; }
+.chat-message .ambre-progress-title, .chat-message .ambre-failure-title { margin: 0 0 var(--s3); color: var(--ink); font: 600 var(--t-md)/1.5 var(--font-ui); }
 .ambre-progress-title:focus, .ambre-failure-title:focus { outline: none; }
 .ambre-intro-lead p, .ambre-failure > p { max-width: 60ch; margin: 0 0 var(--s2); line-height: 1.6; }
-.chat-message .ambre-needs-title { margin: var(--s4) 0 var(--s1); color: var(--ink); font: 600 var(--t-sm)/1.4 var(--font-ui); }
+.chat-message .ambre-needs-title { margin: 0 0 var(--s1); color: var(--ink); font: 600 var(--t-sm)/1.4 var(--font-ui); }
 .ambre-needs { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
 .ambre-need { position: relative; display: grid; grid-template-columns: 22px minmax(0, 1fr) auto auto; align-items: center; gap: 2px var(--s3); min-height: 56px; padding: var(--s2) 0; border-bottom: 1px solid var(--line); }
 .ambre-need-mark { display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; border: 1.5px solid var(--line-strong); border-radius: 50%; color: #fff; font: 700 12px/1 var(--font-ui); }
@@ -443,7 +445,7 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .chat-review-links { display: flex; flex-wrap: wrap; gap: 0 var(--s4); margin: var(--s2) 0 0; }
 .chat-review-links .chat-review-link { align-items: center; min-height: 44px; margin: 0; }
 @media (max-width: 599px) {
-  .chat-message.ambre-intro, .chat-message.ambre-progress, .chat-message.ambre-failure { width: 100%; padding: var(--s3) var(--s4) var(--s4); }
+  .chat-message.ambre-intro, .chat-message.ambre-progress, .chat-message.ambre-failure { width: 100%; }
   .ambre-need { grid-template-columns: 22px minmax(0, 1fr) auto; }
   .ambre-need-state { grid-column: 2 / -1; justify-self: start; }
   #ambre-start, #ambre-retry { width: 100%; }
@@ -564,7 +566,7 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
   .settings-turn-list { max-height: 200px; }
   .settings-data-row { grid-template-columns: minmax(0, 1fr); gap: 2px; }
   .settings-disclosure .settings-disclosure { margin-left: var(--s2); }
-  .chat-message { max-width: 96%; }
+  .chat-message { max-width: 92%; }
 }
 @media (max-height: 560px) {
   .conversation-toolbar { padding-block: var(--s2); }
