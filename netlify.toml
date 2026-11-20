@@ -198,6 +198,11 @@
   force = true
 
 [[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
   for = "/accueil"
   [headers.values]
     Cache-Control = "private, no-store"

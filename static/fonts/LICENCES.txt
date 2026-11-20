@@ -1,0 +1,3 @@
+Instrument Serif — Copyright the Instrument Serif Project Authors — SIL Open Font License 1.1
+Geist — Copyright Vercel, in collaboration with basement.studio — SIL Open Font License 1.1
+Fichiers issus des paquets @fontsource/instrument-serif et @fontsource-variable/geist (sous-ensemble latin).
