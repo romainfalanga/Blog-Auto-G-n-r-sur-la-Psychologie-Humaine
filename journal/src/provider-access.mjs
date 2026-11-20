@@ -44,7 +44,6 @@ export async function recordRefusal(env,{status,headers,metadata,model,now}){
 // A refusal is a deferral: callers that already rethrow `stage_deferred` keep the
 // durable stage untouched; the engine decides whether the turn can still wait.
 export const refusalError=(providerCode,retryAt,{wait=true}={})=>Object.assign(Error('Provider refused or cooling down'),{code:'stage_deferred',provider_code:providerCode,deferred_until:retryAt,refusal:true,wait});
-export const isRefusal=error=>Boolean(error?.refusal);
 export const parisDay=now=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(now*1000));
 // Global daily token cap (DAILY_PROVIDER_TOKEN_CAP, 0 or unset = disabled).
 // Background work (memory, reviews, care, portrait) may use 80 % of the cap so

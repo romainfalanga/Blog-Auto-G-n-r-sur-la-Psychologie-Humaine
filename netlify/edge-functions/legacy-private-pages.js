@@ -10,12 +10,9 @@ export default function legacyPrivatePages(request) {
     const tab = query.get('tab');
     if (query.has('payment')) {
       location = '/mon-compte/?' + new URLSearchParams({ payment: query.get('payment') });
-    } else if (query.has('article') || tab === 'likes') {
-      const reading = new URLSearchParams();
-      for (const key of ['article', 'like']) if (query.has(key)) reading.set(key, query.get(key));
-      location = '/mon-compte/' + (reading.size ? '?' + reading : '') + '#mes-articles';
-    } else if (tab === 'portrait' || tab === 'account') {
-      location = tab === 'portrait' ? '/mon-compte/' : '/mon-compte/';
+    } else if (query.has('article') || tab === 'likes' || tab === 'portrait' || tab === 'account') {
+      // Liked articles are retired: their old links open the account page, without parameters.
+      location = '/mon-compte/';
     }
   }
 

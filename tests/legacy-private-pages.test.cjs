@@ -20,7 +20,8 @@ test('legacy page redirects drop retired identifiers and retain public article o
     ['/mes-personnages?character=old', '/ambre/'],
     ['/mes-histoires/old?story=old', '/ambre/'],
     ['/journal/?story=old', '/ambre/'],
-    ['/journal/?article=public&like=1&story=old', '/mon-compte/?article=public&like=1#mes-articles'],
+    ['/journal/?article=public&like=1&story=old', '/mon-compte/'],
+    ['/journal/?tab=likes', '/mon-compte/'],
     ['/journal/?payment=success&character=old', '/mon-compte/?payment=success'],
     ['/journal/?tab=portrait&character=old', '/mon-compte/'],
   ]) {

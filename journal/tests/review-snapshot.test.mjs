@@ -102,3 +102,34 @@ test('unfinished reviews keep internal snapshots but expose no assessment throug
   const exported=(await exportReviewSnapshots(s.env,'a'))[0];assert.equal(exported.review_status,status);assert.equal(exported.assessment,null);assert.ok(exported.payload.sections.profile.length);
  }
 });
+// The public catalogue left the Worker: a new review no longer captures liked articles or the
+// retired personal stories, while an archive captured before still opens, pages, exports and
+// keeps its labels in « Mes bilans ».
+test('new snapshots no longer capture readings or retired stories; an archive that holds them still loads and displays',async t=>{
+ const {snapshotPresenceGuard}=await import('../src/review-snapshot.mjs'),{REVIEW_ARCHIVE_SCRIPT}=await import('../src/review-archive-interface.mjs'),{sharedSnapshotPage}=await import('../src/shared-review-snapshot.mjs');
+ const s=await ready(t);s.raw.prepare("INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES('a','posts/c/ancien-recit','LECTURE_AIMEE_PRIVEE','')").run();
+ const calls=mock(t),r=await s.call('/api/chat/review','POST',{idempotency_key:'snapshot-without-catalogue'});assert.equal(s.raw.prepare('SELECT status FROM ambre_reviews WHERE id=?').get(r.review_id).status,'ready');
+ const retired=['reading_choices','personal_characters','personal_stories','story_feedback','inspiration_choices'],fresh=await readReviewSnapshot(s.env,'a',r.review_id);
+ for(const section of retired)assert.equal(Object.hasOwn(fresh.payload.sections,section),false,section);
+ assert.ok(fresh.payload.sections.profile.length&&fresh.payload.sections.people.length);assert.doesNotMatch(JSON.stringify(calls),/LECTURE_AIMEE_PRIVEE|ancien-recit/);
+ // The same archive as it was stored before the retirement (rows are immutable: it is re-inserted).
+ const stored=s.raw.prepare('SELECT * FROM review_snapshots WHERE review_id=?').get(r.review_id),payload=JSON.parse(stored.payload);
+ payload.sections={...payload.sections,reading_choices:[{article_id:'posts/c/ancien-recit',reason:'LECTURE_AIMEE_PRIVEE',differences:'',revision:1,created_at:'2026-10-01 10:00:00',updated_at:'2026-10-01 10:00:00'}],personal_characters:[],personal_stories:[],story_feedback:[],inspiration_choices:[]};
+ s.raw.prepare('DELETE FROM review_snapshots WHERE review_id=?').run(r.review_id);
+ s.raw.prepare('INSERT INTO review_snapshots(review_id,user_id,captured_at,schema_version,payload,assessment,source_stamp) VALUES(?,?,?,?,?,?,?)').run(stored.review_id,stored.user_id,stored.captured_at,stored.schema_version,JSON.stringify(payload),stored.assessment,stored.source_stamp);
+ const old=await readReviewSnapshot(s.env,'a',r.review_id);assert.equal(old.payload.sections.reading_choices[0].reason,'LECTURE_AIMEE_PRIVEE');
+ const overview=await s.call('/api/reviews/'+r.review_id+'/snapshot');assert.equal(overview.available,true);assert.deepEqual(overview.sections.find(x=>x.id==='reading_choices'),{id:'reading_choices',count:1});
+ const page=await s.call('/api/reviews/'+r.review_id+'/snapshot?section=reading_choices');assert.equal(page.total,1);assert.equal(page.items[0].article_id,'posts/c/ancien-recit');assert.equal(page.items[0].reason,'LECTURE_AIMEE_PRIVEE');
+ for(const section of retired.slice(1))assert.equal((await s.call('/api/reviews/'+r.review_id+'/snapshot?section='+section)).total,0,section);
+ assert.ok(snapshotChunks(old.payload).some(chunk=>chunk.items.some(item=>item.path==='reading_choices/0'&&item.text.includes('LECTURE_AIMEE_PRIVEE'))));
+ assert.equal((await exportReviewSnapshots(s.env,'a'))[0].payload.sections.reading_choices.length,1);
+ // The entry the archive holds is still checked against the table, which stays in the database.
+ const guard=snapshotPresenceGuard(old.payload,'a');assert.match(guard.sql,/FROM article_likes WHERE user_id=\? AND article_id IN/);
+ const holds=()=>s.raw.prepare('SELECT '+guard.sql+' AS ok').get(...guard.args).ok;assert.equal(holds(),1);
+ s.raw.prepare("DELETE FROM article_likes WHERE user_id='a'").run();assert.equal(holds(),0);
+ // A professional never receives these sections, and the page still names them.
+ const shared=sharedSnapshotPage(old,['portrait','people','life_events','conversation','reviews','plan','memory','cartography','symptoms','diagnoses']);
+ assert.equal(shared.sections.some(x=>retired.includes(x.id)),false);assert.ok(shared.sections.some(x=>x.id==='people'));
+ const labels=new Function(REVIEW_ARCHIVE_SCRIPT.match(/var ARCHIVE_SECTION_LABELS=\{[^}]*\}/)[0]+';return ARCHIVE_SECTION_LABELS')();
+ assert.deepEqual(retired.map(id=>labels[id]),['Articles aimés','Personnages personnels','Histoires personnelles','Retours sur les histoires','Choix d’inspiration']);
+});

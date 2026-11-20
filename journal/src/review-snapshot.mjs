@@ -8,7 +8,7 @@ export const SNAPSHOT_SCHEMA_VERSION=1;
 export const SNAPSHOT_MAX_BYTES=512*1024;
 export const SNAPSHOT_MAX_ROWS=10000;
 export const SNAPSHOT_ANALYSIS_MAX_CHARS=40000;
-const TABLES={profile:'profiles',childhood:'cartographies',symptoms:'symptom_maps',people:'personal_people',events:'life_events',event_people:'life_event_people',people_notes:'personal_notes',event_notes:'personal_notes',observations:'people_observations',plan:'change_plans',memory:'chat_memory',personal_memory:'memories',conversation:'chat_turns',previous_reviews:'ambre_reviews',care:'care_settings',care_sessions:'care_sessions',portrait:'user_portraits',reading_choices:'article_likes',personal_characters:'personal_characters',personal_stories:'stories',story_feedback:'feedback',inspiration_choices:'inspiration_selections',professional_assessments:'professional_assessments'};
+const TABLES={profile:'profiles',childhood:'cartographies',symptoms:'symptom_maps',people:'personal_people',events:'life_events',event_people:'life_event_people',people_notes:'personal_notes',event_notes:'personal_notes',observations:'people_observations',plan:'change_plans',memory:'chat_memory',personal_memory:'memories',conversation:'chat_turns',previous_reviews:'ambre_reviews',care:'care_settings',care_sessions:'care_sessions',portrait:'user_portraits',professional_assessments:'professional_assessments'};
 const HIDDEN=new Set(['user_id','password_hash','password_salt','creation_id','payload_hash','lease_token','lease_until','checkout_session_id','apply_token','draft','input_tokens','output_tokens','observed_cost','error_code']);
 const JSON_FIELDS=new Set(['data','self_data','answers','feedback','notes','resources','ambre_notes','document_json','summary','portrait','digest','sources','response','result_json']);
 const failure=(code,message)=>Object.assign(Error(message),{code,status:code==='snapshot_too_large'?413:409});
@@ -45,6 +45,9 @@ export function snapshotGuard(source,userId,reviewId){return {sql:`(${source.que
 // review ends with sources_changed and its snapshot is erased (right to erasure).
 // Single-row sections are checked by owner; AI-produced sections (portrait, conversation
 // memory, change plan) are not person entries and are left out.
+// Snapshots captured before the catalogue was retired may still hold reading_choices,
+// inspiration_choices, personal_characters, personal_stories and story_feedback: their
+// rows stay checked here (the tables remain) although new captures no longer read them.
 const PRESENCE_BY_ID={people:['personal_people','id'],events:['life_events','id'],people_notes:['personal_notes','id'],event_notes:['personal_notes','id'],observations:['people_observations','id'],conversation:['chat_turns','id'," AND status='completed' AND purged=0"],previous_reviews:['ambre_reviews','id'," AND status='ready'"],care_sessions:['care_sessions','id'],personal_characters:['personal_characters','id'],personal_stories:['stories','id'],professional_assessments:['professional_assessments','id'],reading_choices:['article_likes','article_id'],inspiration_choices:['inspiration_selections','article_id'],story_feedback:['feedback','story_id']};
 const PRESENCE_SINGLE={childhood:['cartographies',' AND consent=1'],symptoms:['symptom_maps',' AND consent=1'],care:['care_settings','']};
 export function snapshotPresenceGuard(payload,userId){

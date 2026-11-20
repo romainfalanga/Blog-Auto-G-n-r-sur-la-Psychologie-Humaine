@@ -1,8 +1,7 @@
 import { PSYCHOLOGY_CATALOG } from './psychology-catalog.generated.mjs';
-import {hasReviewedStoryLinks} from './recommendations.mjs';
 export { PSYCHOLOGY_CATALOG };
 const patterns=new Map(PSYCHOLOGY_CATALOG.patterns.map(p=>[p.id,p]));
-const PERSONAL={profile:['self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm'],like:['reason','differences'],person:['relationship_text','user_notes_text','helps','hurts','evolution'],event:['description','user_notes_text','meaning_now','felt_then','felt_now','impact'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
+const PERSONAL={profile:['self_description','self_perception','recurring_patterns','emotions','current_context','what_brings_me','what_helps_me','life_rhythm'],person:['relationship_text','user_notes_text','helps','hurts','evolution'],event:['description','user_notes_text','meaning_now','felt_then','felt_now','impact'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
 function personalQuote(source,quote){return !!source?.explicit&&(PERSONAL[source.type]||[]).some(key=>{const value=source.fields?.[key];return typeof value==='string'&&value.trim()&&value.includes(quote)});}
 const fingerprint=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 function independentProofs(ids,allowed,citations){const groups=[];for(const id of ids){const source=allowed.get(id),text=fingerprint((PERSONAL[source.type]||[]).map(k=>source.fields?.[k]||'').join(' ')),quotes=citations.filter(c=>c.source_id===id&&personalQuote(source,c.quote)).map(c=>fingerprint(c.quote));if(groups.some(g=>g.text===text||g.quotes.some(q=>quotes.some(v=>q===v||Math.min(q.length,v.length)>=20&&(q.includes(v)||v.includes(q))))))continue;groups.push({text,quotes})}return groups.length;}
@@ -18,7 +17,7 @@ export function validatePsychologicalMap(value,sources,citations,invalid=message
   const evidence=refs(h.evidence,true),counter_evidence=refs(h.counter_evidence||[]),types=new Set(evidence.map(id=>allowed.get(id).type));
   if(['mixed','contradicted'].includes(h.status)&&!counter_evidence.length)return invalid('Une piste nuancée doit citer ses contre-indices.');
   if(!Array.isArray(h.alternatives)||!h.alternatives.length||h.alternatives.length>4)return invalid('Explications alternatives requises.');
-  // Multiple copies of a source or many likes never constitute independent support.
+  // Multiple copies of a source never constitute independent support.
   const status=h.status==='supported'&&(independentProofs(evidence,allowed,citations)<2||types.size<2)?'exploring':h.status;
   const output={pattern_id:h.pattern_id,status,observation:clean(h.observation,1800),possible_function:clean(h.possible_function,1200),alternatives:h.alternatives.map(x=>clean(x,500)),next_question:clean(h.next_question,500),evidence,counter_evidence};
   const ownProofs=new Set([...evidence,...counter_evidence]);
@@ -41,15 +40,4 @@ export function validatePsychologicalMap(value,sources,citations,invalid=message
   }
   return output;
  });
-}
-const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-const words=s=>new Set(norm(s).match(/[a-z]{4,}/g)||[]);
-function relatedArticles(pattern,examples){const keys=words([pattern.label,...pattern.keywords].join(' '));return examples.map(e=>{const text=words([e.title,e.sujet,e.canonical_concept,...(e.keywords||[])].join(' '));const reviewed=hasReviewedStoryLinks(e)&&e.pattern_ids.includes(pattern.id);return {e,reviewed,n:[...keys].filter(k=>text.has(k)).length}}).filter(x=>x.reviewed||x.n>0).sort((a,b)=>Number(b.reviewed)-Number(a.reviewed)||b.n-a.n||a.e.id.localeCompare(b.e.id)).slice(0,3).map(({e})=>({id:e.id,title:e.title,url:e.url,character:e.character}));}
-export function buildPsychologyMap(context,examples=[]){
- const portrait=context.portrait,allowed=new Map((context.sources||[]).map(s=>[s.id,s]));
- let active=[];
- // Fail closed for stale/legacy maps. Unknown patterns remain available to explore.
- try{active=validatePsychologicalMap(portrait?.psychological_map,context.sources||[],portrait?.citations||[])}catch{active=[]}
- const hypotheses=active.map(h=>{const ids=[...new Set([...h.evidence,...h.counter_evidence])],citations=(portrait.citations||[]).filter(c=>ids.includes(c.source_id));const articles=relatedArticles(patterns.get(h.pattern_id),examples),characters=new Map();for(const a of articles)if(a.character){const slug=norm(a.character).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');characters.set(a.character,{name:a.character,url:'/personnages/'+slug+'/'})}return {...h,support_level:h.status==='mixed'?'mixed':h.status==='contradicted'?'contradicted':h.status==='supported'?'convergent':'emerging',source_count:independentProofs(h.evidence,allowed,portrait.citations||[]),source_types:[...new Set(h.evidence.map(id=>allowed.get(id)?.type))],citations,related_articles:articles,related_characters:[...characters.values()]};});
- return {catalog_version:PSYCHOLOGY_CATALOG.version,domains:PSYCHOLOGY_CATALOG.domains,subdomains:PSYCHOLOGY_CATALOG.subdomains||[],patterns:PSYCHOLOGY_CATALOG.patterns,hypotheses,source_version:context.source_version,analyzed_version:context.portrait_version,outdated:!context.portrait_complete||!portrait?.psychological_map,scope:PSYCHOLOGY_CATALOG.scope};
 }
