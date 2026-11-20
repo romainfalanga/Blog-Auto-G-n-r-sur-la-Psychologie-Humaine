@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "node scripts/build_navigation.mjs --check && node scripts/build_cartographie_module.mjs --check && python3 scripts/build_article_intros.py --check && python3 scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed && python3 scripts/build_coverage_status.py --check && python3 scripts/build_symptomes_carte.py --check && hugo --minify"
+  command = "node scripts/build_navigation.mjs --check && node scripts/build_cartographie_module.mjs --check && python3 scripts/build_symptomes_carte.py --check && hugo --minify"
 
 [build.environment]
   HUGO_VERSION = "0.140.0"
@@ -22,7 +22,7 @@
   status = 301
   force = true
 
-# L’accueil ouvre Ambre ; le catalogue public des personnages reste à /personnages/.
+# L’accueil ouvre Ambre.
 # 302 (temporaire) et force : la page d’accueil Hugo existe et serait sinon servie.
 [[redirects]]
   from = "/"
@@ -30,10 +30,40 @@
   status = 302
   force = true
 
+# Anciennes adresses du catalogue public (personnages, articles, flux) : elles renvoient vers Ambre.
+[[redirects]]
+  from = "/personnages"
+  to = "/ambre/"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "/personnages/page/*"
-  to = "/personnages/"
+  from = "/personnages/*"
+  to = "/ambre/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts"
+  to = "/ambre/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/*"
+  to = "/ambre/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/feed.xml"
+  to = "/ambre/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index.xml"
+  to = "/ambre/"
   status = 301
   force = true
 
@@ -387,9 +417,8 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
-# Lot P : chaque script est appelé avec ?v=<empreinte du contenu> (head.html) et l’index de
-# recherche des personnages porte son empreinte dans son nom ; un test refuse toute référence
-# /js/ sans version dans les gabarits.
+# Lot P : chaque script est appelé avec ?v=<empreinte du contenu> (head.html) ; un test refuse
+# toute référence /js/ sans version dans les gabarits.
 [[headers]]
   for = "/js/*"
   [headers.values]
@@ -409,12 +438,6 @@
   for = "/*.svg"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
-
-# Fichier llms.txt
-[[headers]]
-  for = "/llms.txt"
-  [headers.values]
-    Content-Type = "text/plain; charset=utf-8"
 
 [[headers]]
   for = "/ambre"

@@ -7,7 +7,6 @@ import unittest
 from unittest.mock import patch
 sys.path.insert(0,str(pathlib.Path(__file__).parents[2]/'scripts'))
 import generate_personal_articles as personal
-import build_examples
 import run_journals as runner
 
 
@@ -558,18 +557,6 @@ class V2Tests(unittest.TestCase):
             broken=copy.deepcopy(p)
             broken[path]=[{'text':'Courage','evidence':['memory:gone']}] if path=='strengths' else ['memory:gone'] if path=='summary_evidence' else {'summary':'État actuel','evidence':['memory:gone']}
             with self.subTest(path=path),self.assertRaises(ValueError):personal.validate_portrait_v2(broken,[s])
-
-
-    def test_catalogue_extracts_are_exact_substrings_with_correct_offsets(self):
-        root=pathlib.Path(__file__).parents[2]
-        for file in (root/'content/posts').rglob('*.md'):
-            if file.name=='_index.md':continue
-            import yaml
-            _,front,text=file.read_text().split('---',2);meta=yaml.safe_load(front)
-            if meta.get('draft'):continue
-            data=build_examples.extractive_metadata(text,meta)
-            for q in data['summary_evidence']:self.assertEqual(text[q['start']:q['end']],q['quote'])
-            self.assertEqual(data['content_hash'],hashlib.sha256(text.encode()).hexdigest())
 
 
 if __name__=='__main__':unittest.main()

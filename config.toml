@@ -4,39 +4,15 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 title = "Décode ton esprit"
 
+# Le site Hugo ne porte plus que Mon enfance, Mes symptômes, l'accueil (redirigé vers Ambre) et la page 404.
+disableKinds = ["taxonomy", "term", "section", "rss"]
+
 [params]
-  description = "Un blog de psychologie vulgarisée pour mieux se comprendre soi-même. Découvrez vos biais cognitifs, apprenez à gérer vos émotions et libérez-vous de vos schémas répétitifs."
+  description = "Un espace personnel pour mieux se comprendre : Ambre, ta ligne de vie, ton enfance et tes symptômes."
   author = "Décode ton esprit"
   siteName = "Décode ton esprit"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    style = "friendly"
-
-[outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-
-[outputFormats]
-  [outputFormats.RSS]
-    mediaType = "application/rss+xml"
-    baseName = "feed"
 
 [sitemap]
   changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-
-[pagination]
-  pagerSize = 10
-
-[permalinks]
-  posts = "/:sections/:slug/"
-  personnages = "/personnages/:slug/"

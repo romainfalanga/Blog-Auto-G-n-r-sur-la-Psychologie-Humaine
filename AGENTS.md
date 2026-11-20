@@ -1,13 +1,32 @@
-# Reprendre le chantier éditorial
+# Décode ton esprit — consignes de reprise
 
-Avant d’écrire, lire `docs/reprise-2026-11-12.md`, `docs/agents-editoriaux.md`, `docs/etat-couverture.md` et `editorial/automation/state.json`. Ces fichiers et les manuscrits actuels font foi pour la progression ; un ancien résumé de conversation peut être périmé. Examiner `git status` et les brouillons existants avant toute reprise. Le fichier d’état contient des instantanés volumineux : le lire avec un parseur JSON et n’extraire que les cas, missions et champs utiles ; ne jamais afficher tout le fichier dans la conversation. Lire aussi `docs/reprise-2026-11-07.md` pour les preuves du dernier déploiement. Ne pas écraser ni recommencer des épisodes déjà sauvegardés.
+## Le produit aujourd’hui
 
-Pour le catalogue public, utiliser de vrais sous-agents distincts pour la création du personnage, la rédaction de sa série et la relecture indépendante. Suivre les cartes `editorial/agents/characters.md`, `stories.md` et `review.md`. Travailler sur plusieurs personnages en parallèle ; les douze épisodes d'un personnage restent écrits dans l'ordre par son rédacteur. Le contrôleur `scripts/editorial_pipeline.py` attribue et valide les missions ; il n'exécute aucun modèle. Ne pas présenter un simple brief ou une commande `claim` comme un agent qui rédige effectivement.
+Un espace personnel, sans catalogue public. Le menu (`data/navigation.json`) comprend : Ambre (`/ambre/`), Ma ligne de vie, Mes proches, Mon enfance (`/cartographie/`), Mes symptômes (`/mes-symptomes/`), Mes sujets, Mes bilans, Mes diagnostics et Mon compte. Netlify redirige `/` vers `/ambre/`.
 
-La consigne établie est de produire ces histoires ici, sans appel d'API de génération ni GitHub Actions de production publique. Le fournisseur existant du service personnel reste séparé. Les tests CI et l'analyse privée du portrait ne constituent pas des générateurs du catalogue public.
+- **Hugo 0.140 + Netlify** (racine du dépôt) : Mon enfance et Mes symptômes (`layouts/_default/cartographie.html`, `static/js/cartographie*.js`), la page 404, les redirections et les relais vers le Worker (`netlify.toml`, `netlify/edge-functions/`).
+- **Cloudflare Worker + D1** (`journal/`) : Ambre, les comptes et toutes les autres pages. Les migrations sont dans `journal/migrations/`.
+- Les données `data/cartographie.json`, `data/symptomes_*.json` et les modules `journal/src/*.generated.mjs` sont générés par `scripts/build_*` à partir de `editorial/cartographie/` et `editorial/symptomes/` : modifier les sources, relancer le script, ne jamais éditer la sortie à la main.
 
-Respecter la charte et le modèle d'alexithymie en couple. Chaque épisode doit illustrer un aspect réel et distinct du trouble, fondé sur le dossier de sources. Les contrôles de format, citations et empreintes ne remplacent pas la relecture des faits, des raccords et des conseils aux proches.
+Le catalogue public (personnages, articles, pipeline éditorial) a été retiré ; ses anciennes adresses redirigent vers `/ambre/`. Ne pas le recréer.
 
-Sauvegarder régulièrement le code et les brouillons dans Git, et vérifier les empreintes transférées. Un manuscrit en cours peut être sauvegardé sur une branche de travail sans être publié. Après une panne, vérifier ce qui est réellement présent et restaurer les sources sauvegardées ; une écriture lancée sans résultat ne prouve pas une sauvegarde.
+## Avant de travailler
 
-Une publication nécessite le rapport indépendant accepté, l'intégration, les vérifications du projet et la vérification du déploiement distant. `publish` contrôle les fichiers locaux et ne déploie pas lui-même le site. Ne pas confondre un code de classification couvert par renvoi, un concept indexé, un plan prêt et un épisode effectivement rédigé et publié. Conserver toutes les lacunes restantes dans l'état de couverture.
+Lire `docs/reprise-2026-11-19-codex.md` (note de reprise), puis examiner l’état du dépôt et les derniers commits. Les fichiers du dépôt font foi ; un ancien résumé de conversation peut être périmé.
+
+## Tests
+
+```sh
+npm --prefix journal test
+HUGO_BIN=<chemin de hugo 0.140> node --test tests/*.test.cjs
+```
+
+Les autres contrôles (scripts `--check`, tests Python) sont listés dans `.github/workflows/verify.yml` ; les faire tous passer avant de livrer.
+
+## Règles
+
+- Ne jamais utiliser les données d’une personne réelle dans les tests : uniquement des comptes et des textes fictifs.
+- Aucun appel IA payant sans l’accord explicite du propriétaire.
+- Aucun secret dans le dépôt (clés, jetons, mots de passe) : ils restent dans les secrets Cloudflare, Netlify ou GitHub.
+- Les migrations D1 sont additives : ajouter des tables ou des colonnes, ne pas supprimer ni réécrire de données sans demande explicite ; ne pas rejouer une migration déjà appliquée.
+- Une mise en ligne n’est acquise qu’après vérification du déploiement distant.

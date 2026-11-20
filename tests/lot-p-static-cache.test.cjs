@@ -22,7 +22,7 @@ test('/js/* is cached immutably and every template reference to /js/ carries a c
     }
     assert.doesNotMatch(readFileSync(file, 'utf8'), /(?:src|href)="\/js\/[^"?{]*"/, file);
   }
-  assert.ok(references >= 3);
+  assert.ok(references >= 1);
 });
 
 test('the application files are proxied to the Worker, which alone decides their cache', () => {
