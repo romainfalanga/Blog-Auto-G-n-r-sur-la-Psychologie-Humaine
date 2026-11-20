@@ -53,10 +53,17 @@ export function createGraphBackend({error,json}){
   for(const r of reviews){const at=new Date(Number(r.completed_at||r.created_at)*1000),label=(r.kind==='point'?'Point d’étape':'Bilan initial')+(Number.isNaN(at.getTime())?'':' du '+at.getUTCDate()+' '+MONTHS[at.getUTCMonth()]+' '+at.getUTCFullYear());node('review:'+r.id,'review',label,{href:'/mes-bilans/',detail:'Un bilan préparé par Ambre.'});edge('page:reviews','review:'+r.id)}
   return {nodes,edges,truncated:nodes.length>=GRAPH_LIMIT};
  }
+ // The dashboard only needs a few counts; the readiness in /api/me gives the others.
+ async function summary(env,userId){
+  const one=async sql=>Number((await all(env,sql,userId))[0]?.n||0);
+  const [topics,reviews,running,graph]=await Promise.all([one('SELECT count(*) n FROM personal_topics WHERE user_id=?'),one("SELECT count(*) n FROM ambre_reviews WHERE user_id=? AND status='ready'"),one("SELECT count(*) n FROM ambre_reviews WHERE user_id=? AND status='running'"),build(env,userId)]);
+  return {topics,reviews,review_running:running>0,elements:graph.nodes.filter(node=>node.type!=='me'&&node.type!=='page').length};
+ }
  async function routes(request,env,user,path){
+  if(path==='/api/dashboard'){if(request.method!=='GET')error(405,'Méthode non autorisée.','method_not_allowed');return json(await summary(env,user.id))}
   if(path!=='/api/graph')return null;
   if(request.method!=='GET')error(405,'Méthode non autorisée.','method_not_allowed');
   return json(await build(env,user.id));
  }
- return {routes,build};
+ return {routes,build,summary};
 }

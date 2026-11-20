@@ -12,10 +12,12 @@ test('Ambre opens the shared menu and leads to the conversation page', async () 
   assert.deepEqual(navigation.map(item => item.label), ['Ambre', 'Ma ligne de vie', 'Mes proches', 'Mon enfance', 'Mes symptômes', 'Mes sujets', 'Ma cartographie', 'Mes bilans', 'Mes diagnostics', 'Mon compte']);
   // The Worker menu is generated from the same file as the Hugo header.
   const generated = await import('../journal/src/navigation.generated.mjs');
-  const links = [...generated.NAVIGATION_HTML.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match => ({ label: match[2], href: match[1] }));
-  assert.deepEqual(links, navigation);
-  assert.match(read('layouts/partials/header.html'), /range \.Site\.Data\.navigation/);
-  assert.deepEqual(Object.keys(generated).sort(), ['HEADER_BRAND_HTML', 'NAVIGATION_HTML', 'SITE_FOOTER_HTML', 'SITE_NAVIGATION_SCRIPT', 'SITE_SYSTEM_CSS']);
+  assert.deepEqual(generated.NAVIGATION, navigation);
+  // No menu any more: the shared header only holds the button back to the dashboard and the eye.
+  assert.doesNotMatch(read('layouts/partials/header.html'), /<nav|navigation/);
+  assert.match(read('layouts/partials/header-brand.html'), /^<a href="\/accueil\/" class="site-back">/);
+  assert.doesNotMatch(read('static/css/site-system.css'), /nav-links|site-menu-toggle|site-navigation/);
+  assert.deepEqual(Object.keys(generated).sort(), ['HEADER_BRAND_HTML', 'NAVIGATION', 'SITE_FOOTER_HTML', 'SITE_NAVIGATION_SCRIPT', 'SITE_SYSTEM_CSS']);
 });
 
 test('the Ambre bubble is removed from the public site: no asset, no loader, no framing exception', () => {
@@ -35,7 +37,7 @@ test('opening the site lands on Ambre: "/" redirects (302) to /ambre/, the retir
   const home = blocks.filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
   assert.equal(home.length, 1);
   // Temporary, and forced: Hugo still builds an index.html at "/", which Netlify would otherwise serve.
-  assert.match(home[0], /to = "\/ambre\/"\s+status = 302\s+force = true/);
+  assert.match(home[0], /to = "\/accueil\/"\s+status = 302\s+force = true/);
   // The proxied Ambre page itself is never redirected back to "/".
   for (const from of ['/ambre', '/ambre/*']) assert.doesNotMatch(blocks.find(block => block.includes('from = "' + from + '"')), /to = "\/"/);
   // The public catalogue is removed: its old addresses lead to Ambre and no template, page or script of it remains.
@@ -46,9 +48,9 @@ test('opening the site lands on Ambre: "/" redirects (302) to /ambre/, the retir
     assert.equal(existsSync(join(root, path)), false, path);
   }
   // The logo and the footer lead straight to Ambre (no redirect hop).
-  assert.match(read('layouts/partials/header-brand.html'), /^<a href="\/ambre\/" class="site-logo"/);
+  assert.match(read('layouts/partials/header-brand.html'), /<a href="\/accueil\/" class="site-logo"/);
   const footer = read('layouts/partials/footer.html');
-  assert.match(footer, /href="\/ambre\/" class="site-logo"/);
+  assert.match(footer, /href="\/accueil\/" class="site-logo"/);
   assert.doesNotMatch(footer, /Personnages/);
   // No internal link of the site or of the personal space points at "/" any more.
   for (const file of ['layouts/partials/header-brand.html', 'layouts/partials/footer.html', 'journal/src/ui.mjs', 'journal/src/navigation.generated.mjs']) {

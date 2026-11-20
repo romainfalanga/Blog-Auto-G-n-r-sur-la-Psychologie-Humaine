@@ -2,9 +2,8 @@ import {readFileSync, writeFileSync} from 'node:fs';
 const navigation=JSON.parse(readFileSync(new URL('../data/navigation.json',import.meta.url),'utf8'));
 const escape=value=>String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 if(!Array.isArray(navigation)||navigation.some(item=>!item.label||!/^\/(?!\/)/.test(item.href)))throw new Error('Invalid navigation');
-const markup=navigation.map(item=>'<li><a href="'+escape(item.href)+'">'+escape(item.label)+'</a></li>').join('\n');
 const shared = {
-  NAVIGATION_HTML: markup,
+  NAVIGATION: navigation,
   HEADER_BRAND_HTML: readFileSync(new URL('../layouts/partials/header-brand.html', import.meta.url), 'utf8').trim(),
   SITE_SYSTEM_CSS: readFileSync(new URL('../static/css/site-system.css', import.meta.url), 'utf8'),
   SITE_FOOTER_HTML: readFileSync(new URL('../layouts/partials/footer.html', import.meta.url), 'utf8').trim(),

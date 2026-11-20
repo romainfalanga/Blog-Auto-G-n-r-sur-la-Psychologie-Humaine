@@ -86,58 +86,29 @@ img { max-width: 100%; height: auto; }
 .site-logo-mark img { display: block; flex: none; width: 64px; height: 64px; max-width: none; }
 /* The header shows the eye only, never the site name (owner's decision); the name stays for screen readers. */
 .site-header .site-wordmark { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
-.site-header .site-menu-toggle {
-  display: none;
-  flex: none;
-  width: 44px;
-  height: 44px;
-  padding: 0;
+/* No menu: every page shows the eye, centred, and a button back to the dashboard (hidden on the dashboard itself). */
+.header-inner { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); }
+.site-header .site-logo { grid-column: 2; grid-row: 1; min-width: 44px; justify-content: center; }
+.site-header .site-back {
+  grid-column: 1;
+  grid-row: 1;
+  justify-self: start;
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  border: 1px solid var(--line);
-  border-radius: 9px;
-  background: var(--surface);
-  color: var(--ink);
-}
-@media (hover: hover) { .site-header .site-menu-toggle:hover { background: var(--accent-wash); } }
-.site-header .nav-links { display: flex; align-items: center; gap: 0; margin: 0; padding: 0; list-style: none; }
-.site-header .nav-links li { margin: 0; }
-.site-header .nav-links a {
-  display: flex;
-  align-items: center;
+  gap: 2px;
   min-height: 44px;
-  padding: 0 6px;
-  border-radius: var(--r-control);
+  margin-left: -4px;
+  padding: 0 10px 0 0;
   color: var(--muted);
-  font: 500 var(--t-sm)/1.3 var(--font-ui);
+  font: 500 var(--t-sm)/1 var(--font-ui);
+  letter-spacing: .01em;
   text-decoration: none;
-  white-space: nowrap;
 }
-@media (hover: hover) { .site-header .nav-links a:hover { color: var(--ink); background: var(--accent-wash); } }
-.site-header .nav-links a[aria-current="page"] { color: var(--ink); font-weight: 600; box-shadow: inset 0 -2px 0 var(--accent); border-radius: 0; }
-.site-header .nav-links a:active, .site-header .site-menu-toggle:active, .site-logo:active { background: var(--accent-wash); }
-/* Phone: the eye centred, the menu button on the right (as before the redesign). */
-@media (max-width: 640px) {
-  .header-inner { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); }
-  .site-header .site-logo { grid-column: 2; grid-row: 1; min-width: 44px; justify-content: center; }
-  .site-header .site-menu-toggle { grid-column: 3; grid-row: 1; justify-self: end; }
-}
-@media (max-width: 1099px) {
-  .site-header .site-menu-toggle { display: inline-flex; }
-  .site-navigation {
-    position: absolute;
-    inset: 100% 0 auto;
-    max-height: calc(100dvh - var(--header-height));
-    padding: var(--s2) var(--gutter) var(--s4);
-    overflow: auto;
-    background: var(--surface);
-    border-bottom: 1px solid var(--line);
-  }
-  .site-navigation:not(.is-open) { display: none; }
-  .site-header .nav-links { flex-direction: column; align-items: stretch; gap: 0; }
-  .site-header .nav-links a { min-height: 48px; padding: 0 var(--s3); font-size: var(--t-md); border-radius: 0; }
-  .site-header .nav-links a[aria-current="page"] { box-shadow: inset 2px 0 0 var(--accent); }
-}
+.site-header .site-back svg { width: 16px; height: 16px; }
+@media (hover: hover) { .site-header .site-back:hover { color: var(--ink); } }
+.site-header .site-back:active { color: var(--accent); }
+.site-logo:active { background: var(--accent-wash); }
+html[data-home] .site-header .site-back { visibility: hidden; }
 
 /* A page that takes time to prepare: a thin bar under the header (set by the personal space while it waits). */
 html.is-navigating .site-header::after { content: ''; position: absolute; left: 0; bottom: -1px; width: 0; height: 2px; background: var(--accent); animation: navigating 1.2s ease-in-out infinite; }

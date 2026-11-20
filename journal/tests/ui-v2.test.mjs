@@ -230,12 +230,14 @@ test('gender details appear when requested and preserve previously declared word
  description.value='Mes mots';await description.fire('input');await env.form.fire('input');gender.value='female';await gender.fire('change');await env.form.fire('change');assert.equal(description.parentElement.hidden,true);assert.equal(description.value,'Mes mots');assert.equal(env.ctx.state.selfDraft.gender_description,'Mes mots');
 });
 
-test('V4 global navigation has exactly the shared public links in source order',()=>{
+test('there is no menu: the header holds the back button and the eye, and the dashboard lists every page in order',()=>{
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
-  const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
-  const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,10);assert.deepEqual(links[0],{href:'/ambre/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Ma ligne de vie','Mes proches','Mon enfance','Mes symptômes','Mes sujets','Ma cartographie','Mes bilans','Mes diagnostics','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
-  assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
+  assert.doesNotMatch(HTML,/site-navigation"|nav-links|site-menu-toggle/);
+  assert.match(HTML,/<a href="\/accueil\/" class="site-back">[\s\S]*?<span>Accueil<\/span>\s*<\/a>\s*<a href="\/accueil\/" class="site-logo"/);
+  assert.deepEqual(JSON.parse(script.match(/var HOME_PAGES=(\[.*?\]);/)[1]),navigation);
+  assert.deepEqual(navigation.map(link=>link.label),['Ambre','Ma ligne de vie','Mes proches','Mon enfance','Mes symptômes','Mes sujets','Ma cartographie','Mes bilans','Mes diagnostics','Mon compte']);
+  for(const link of navigation)assert.match(script,new RegExp("'"+link.href.replace(/\//g,'\\/')+"':\\["),'the tile of '+link.href+' has its icon and sentence');
+  assert.doesNotMatch(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/<nav|navigation/);
 });
 
 function navigationFixture(preparePageData){
@@ -376,7 +378,7 @@ test('the lists of close people and of moments repeat neither the page title nor
 });
 
 test('the application footer holds the site name (to Ambre), and no reading tab stays in the portrait menu',()=>{
- assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/ambre\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);
+ assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/accueil\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);
  assert.doesNotMatch(script,/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
@@ -835,7 +837,7 @@ test('note conflict shows the remote text and adopts its revision only after exp
 
 test('the Ambre bubble is gone: no launcher, iframe bridge or embedded mode remains in the shell',()=>{
  assert.doesNotMatch(HTML,/ambre-launcher|ambre-panel|ambre-embedded|ambre-widget|dte-ambre|postMessage|embedded|BroadcastChannel|dte:session/);
- assert.doesNotMatch(HTML,/<iframe/);assert.match(HTML,/<li><a href="\/ambre\/">Ambre<\/a><\/li>/);
+ assert.doesNotMatch(HTML,/<iframe/);
  for(const file of ['../../static/js/ambre-widget.js','../../static/css/ambre-widget.css'])assert.throws(()=>readFileSync(new URL(file,import.meta.url)),{code:'ENOENT'});
  assert.doesNotMatch(readFileSync(new URL('../../layouts/_default/baseof.html',import.meta.url),'utf8'),/ambre-widget/);
  assert.doesNotMatch(readFileSync(new URL('../../scripts/build_navigation.mjs',import.meta.url),'utf8'),/AMBRE_WIDGET/);

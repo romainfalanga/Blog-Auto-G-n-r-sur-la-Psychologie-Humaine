@@ -31,4 +31,7 @@ test('people, moments, notes, topics, childhood, symptoms and reviews become one
  const other=await graph.build(s.env,'b');assert.deepEqual(other.nodes.map(n=>n.type).sort(),['me','page','page','page','page','page','page'].sort());
  const response=await graph.routes(new Request('https://example.test/api/graph'),s.env,{id:'a'},'/api/graph');assert.equal((await response.json()).nodes.length,g.nodes.length);
  assert.equal(await graph.routes(new Request('https://example.test/api/other'),s.env,{id:'a'},'/api/other'),null);
+ // The dashboard counts come from the same rows.
+ assert.deepEqual(await (await graph.routes(new Request('https://example.test/api/dashboard'),s.env,{id:'a'},'/api/dashboard')).json(),{topics:1,reviews:1,review_running:false,elements:g.nodes.length-7});
+ assert.deepEqual(await graph.summary(s.env,'b'),{topics:0,reviews:0,review_running:false,elements:0});
 });

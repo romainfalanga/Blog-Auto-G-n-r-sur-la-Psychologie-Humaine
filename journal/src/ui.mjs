@@ -1,7 +1,8 @@
 import {REQUIRED_SYMPTOMS} from './companion-readiness.mjs';
 import {CARE_INTERFACE_SCRIPT} from './care-interface.mjs';
 import { CHANGE_INTERFACE_SCRIPT, CHANGE_INTERFACE_STYLE } from './change-interface.mjs';
-import { HEADER_BRAND_HTML, NAVIGATION_HTML, SITE_FOOTER_HTML, SITE_SYSTEM_CSS, SITE_NAVIGATION_SCRIPT } from './navigation.generated.mjs';
+import { HEADER_BRAND_HTML, NAVIGATION, SITE_FOOTER_HTML, SITE_SYSTEM_CSS, SITE_NAVIGATION_SCRIPT } from './navigation.generated.mjs';
+import { HOME_INTERFACE_SCRIPT, HOME_INTERFACE_STYLE } from './home-interface.mjs';
 import { VOICE_INPUT_SCRIPT } from './voice-input.mjs';
 import { WORKSPACE_STYLE } from './workspace-style.mjs';
 import { CHAT_INTERFACE_SCRIPT } from './chat-interface.mjs';
@@ -17,15 +18,11 @@ ${WORKSPACE_STYLE}
 ${CHANGE_INTERFACE_STYLE}
 ${TOPICS_INTERFACE_STYLE}
 ${GRAPH_INTERFACE_STYLE}
+${HOME_INTERFACE_STYLE}
 ${REVIEW_ARCHIVE_STYLE}
 </style></head><body><header class="site-header">
   <div class="header-inner">
     ${HEADER_BRAND_HTML}
-    <nav class="site-navigation" id="site-navigation" aria-label="Navigation principale">
-      <ul class="nav-links">
-        ${NAVIGATION_HTML}
-      </ul>
-    </nav>
   </div>
 </header>
 <div class="shell">
@@ -45,7 +42,7 @@ function clearSessionState(){
  resetChatSession();clearTimeout(state.chatTimer);clearTimeout(state.chatCooldownTimer);clearTimeout(state.journeyTimer);state.chatDraft='';state.chatData=null;state.chatRequest=null;state.chatSending=false;state.chatProposalDrafts.clear();state.journeyKey=null;state.journeyWaiting=false;state.journeyStep=null;preparedResponses={};state.navigationRequest=(state.navigationRequest||0)+1;
  state.sourceDrafts.clear();state.selfDraft=null;state.selfBase=null;state.selfRevision=null;if(state.noteDrafts)state.noteDrafts.clear();state.people=[];state.events=[];
 }
-var PAGES={chat:{path:'/ambre/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},graph:{path:'/ma-cartographie/',title:'Ma cartographie'},topics:{path:'/mes-sujets/',title:'Mes sujets'},topic:{path:'/mes-sujets/',title:'Mes sujets'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},diagnoses:{path:'/mes-diagnostics/',title:'Mes diagnostics'},account:{path:'/mon-compte/',title:'Mon compte'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
+var PAGES={home:{path:'/accueil/',title:'Accueil'},chat:{path:'/ambre/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},graph:{path:'/ma-cartographie/',title:'Ma cartographie'},topics:{path:'/mes-sujets/',title:'Mes sujets'},topic:{path:'/mes-sujets/',title:'Mes sujets'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},diagnoses:{path:'/mes-diagnostics/',title:'Mes diagnostics'},account:{path:'/mon-compte/',title:'Mon compte'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
 var PAGE_DESCRIPTIONS={
  reviews:'',
  care:'',
@@ -73,7 +70,7 @@ function pagePath(tab,personId){return tab==='person'?'/mes-proches/'+encodeURIC
 function pageForPath(path){if(personIdForPath(path))return 'person';if(topicIdForPath(path))return 'topic';var normalizedPath=path.replace(/\/+$/,'')+'/';if(normalizedPath==='/mon-portrait/')return 'account';return Object.keys(PAGES).find(function(key){return PAGES[key].path===normalizedPath})||'chat'}
 function capturePageDrafts(){var chatInput=document.getElementById('chat-content');if(chatInput)state.chatDraft=chatInput.value;document.querySelectorAll('[data-source-form]').forEach(function(form){captureSourceDraft(form)})}
 function syncPageLocation(){query=new URLSearchParams(location.search);state.tab=pageForPath(location.pathname);state.personId=personIdForPath(location.pathname);state.topicId=topicIdForPath(location.pathname);syncPageChrome()}
-function syncPageChrome(){document.title='Décode ton esprit';document.querySelectorAll('#site-navigation a').forEach(function(link){if(link.getAttribute('href')===PAGES[state.tab].path)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')})}
+function syncPageChrome(){document.title='Décode ton esprit';var root=document.documentElement;if(root&&root.dataset){if(state.tab==='home')root.dataset.home='';else delete root.dataset.home}}
 
 function navigationPending(on){var root=document.documentElement;if(root&&root.classList)root.classList.toggle('is-navigating',on);if(!on&&document.querySelectorAll)document.querySelectorAll('[data-pending]').forEach(function(node){node.removeAttribute('data-pending')})}
 async function go(tab,search,personId){
@@ -133,6 +130,7 @@ function landing(){
  syncPageChrome();
  // Plan 19/11 lot 3: a visitor sees Ambre's first message (without counters) and signs in from it.
  if(state.tab==='chat'&&typeof drawChat==='function'){main.className='conversation-page';main.innerHTML='<div id="app-messages"></div><div id="view"></div>';var guestView=document.getElementById('view');guestView.chatShell=null;state.chatData={access:{allowed:false,reason:'authentication_required'},messages:[],proposals:[]};drawChat(guestView,renderGuard(guestView));return}
+ if(state.tab==='home'){main.className='';main.innerHTML='<div class="app-head"><h1>Accueil</h1></div><div id="app-messages"></div><div id="view"></div>';renderHome();return}
  main.className='';
  main.innerHTML='<section class="journal-welcome"><h1 id="public-page-title"></h1><p>Connectez-vous pour ouvrir votre espace.</p><div class="actions"><button type="button" data-auth="login">Me connecter</button><button type="button" class="secondary" data-auth="register">Créer mon compte</button></div></section>';
  document.getElementById('public-page-title').textContent=PAGES[state.tab].title;
@@ -143,11 +141,7 @@ function renderPageLoading(){
  main.replaceChildren();if(state.tab!=='chat'){var head=el('div','app-head');head.append(el('h1','',PAGES[state.tab].title));main.append(head)}main.append(content)
 }
 async function refresh(){var request=++sessionRefreshRequest,me=await api('/api/me');if(request!==sessionRefreshRequest)return;if(state.me&&state.me.user&&(!me.user||state.me.user.id!==me.user.id))clearSessionState();state.me=me;syncRoleNavigation();if(state.me.user)await renderApp();else landing();}
-function syncRoleNavigation(){
- var professional=state.me&&state.me.user&&state.me.user.role==='psychologist',list=document.querySelector('#site-navigation .nav-links');if(!list)return;
- list.querySelectorAll('li').forEach(function(item){var link=item.querySelector('a');if(link)item.hidden=professional&&link.getAttribute('href')!=='/espace-psychologue/'});
- var existing=document.getElementById('professional-nav');if(professional&&!existing){var item=el('li'),link=el('a','','Espace psychologue');item.id='professional-nav';link.href='/espace-psychologue/';item.append(link);list.append(item)}else if(existing)existing.hidden=!professional;
-}
+function syncRoleNavigation(){}
 function updateAuthRole(){var register=state.authMode==='register',role=document.getElementById('auth-role'),fields=document.getElementById('auth-register-fields'),professional=document.getElementById('auth-professional');fields.hidden=!register;professional.hidden=!register||role.value!=='psychologist';var toggle=document.getElementById('auth-role-toggle');toggle.textContent=role.value==='psychologist'?'Je ne suis pas psychologue':'Je suis psychologue';document.getElementById('auth-password-help').hidden=!register;professional.querySelectorAll('input').forEach(function(input){input.required=!professional.hidden;input.disabled=professional.hidden})}
 function openAuth(mode){state.authMode=mode;updateAuthRole();var register=mode==='register';document.getElementById('auth-title').textContent=register?'Créer mon compte':'Me connecter';document.getElementById('auth-description').textContent='';document.getElementById('auth-submit').textContent=register?'Créer mon compte':'Se connecter';document.getElementById('auth-password').autocomplete=register?'new-password':'current-password';document.getElementById('auth-password').minLength=12;document.getElementById('auth-switch').replaceChildren(document.createTextNode(register?'Déjà un compte ? ':'Pas encore de compte ? '),actionButton(register?'Se connecter':'Créer un compte',function(){openAuth(register?'login':'register')},'text'));status('auth-status','');var dialog=document.getElementById('auth-dialog');if(!dialog.open){dialog.showModal();focusEntry(document.getElementById('auth-email'),document.getElementById('auth-title'))}}
 function renderApp(){
@@ -185,6 +179,7 @@ function renderApp(){
  else if(state.tab==='reviews')renderReviews();
  else if(state.tab==='diagnoses')renderDiagnoses();
  else if(state.tab==='person')renderPerson();
+ else if(state.tab==='home')renderHome();
  else if(state.tab==='graph')renderGraph();
  else if(state.tab==='topics')renderTopics();
  else if(state.tab==='topic')renderTopic();
@@ -741,6 +736,8 @@ function setupPortraitViews(view){
 ${CHAT_INTERFACE_SCRIPT}
 ${TOPICS_INTERFACE_SCRIPT}
 ${GRAPH_INTERFACE_SCRIPT}
+var HOME_PAGES=${JSON.stringify(NAVIGATION)};
+${HOME_INTERFACE_SCRIPT}
 ${REVIEW_ARCHIVE_SCRIPT}
 ${CHANGE_INTERFACE_SCRIPT}
 ${CARE_INTERFACE_SCRIPT}
