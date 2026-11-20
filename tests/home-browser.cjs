@@ -24,14 +24,14 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
      return route.fulfill({status:204,body:''});
     });
     const page=await ctx.newPage(),tag=width+'x'+height+(guest?'-guest':'');page.on('pageerror',e=>errors.push(e.message));
-    await page.goto('https://archive.test/accueil/');await page.locator('.home-grid').waitFor();await page.waitForTimeout(300);
+    await page.goto('https://archive.test/accueil/');await page.locator('.home-index').waitFor();await page.waitForTimeout(300);
     const links=await page.locator('.home-tile').evaluateAll(nodes=>nodes.map(n=>({label:n.querySelector('strong').textContent,href:n.getAttribute('href')})));
     assert.deepEqual(links,navigation,tag+': every page of the former menu has its tile, in order');
     const report=await page.evaluate(()=>({scrollY:document.documentElement.scrollHeight-innerHeight,scrollX:document.documentElement.scrollWidth-innerWidth,nav:document.querySelectorAll('.site-navigation, .nav-links, .site-menu-toggle').length,back:getComputedStyle(document.querySelector('.site-back')).visibility,tiles:[...document.querySelectorAll('.home-tile')].map(n=>{const r=n.getBoundingClientRect();return {b:Math.round(r.bottom),h:Math.round(r.height),w:Math.round(r.width),clipped:n.scrollHeight>n.clientHeight+1||n.scrollWidth>n.clientWidth+1}})}));
     assert.equal(report.nav,0,tag+': no menu');assert.equal(report.back,'hidden',tag+': no back button on the dashboard');assert.ok(report.scrollX<=0,tag+': no horizontal scroll');
     assert.ok(report.tiles.every(t=>t.h>=44&&t.w>=44&&!t.clipped),tag+': tiles large enough and not clipped '+JSON.stringify(report.tiles.filter(t=>t.h<44||t.clipped)));
-    if(width<900){assert.ok(report.scrollY<=0,tag+': everything fits on one screen ('+report.scrollY+' px over)');assert.ok(report.tiles.every(t=>t.b<=height),tag+': every tile is on screen')}
-    if(!guest){assert.match(await page.locator('.home-head').innerText(),/Bonjour Alex/);if(width>=900)assert.match(await page.locator('.home-grid').innerText(),/4 proches[\s\S]*212 \/ 516 réponses[\s\S]*3 sujets[\s\S]*87 éléments reliés[\s\S]*1 bilan/)}
+    if(width<900){await page.mouse.wheel(0,400);await page.evaluate(()=>window.scrollTo(0,400));assert.equal(await page.evaluate(()=>window.scrollY),0,tag+': the page cannot be scrolled');assert.ok(report.scrollY<=0,tag+': everything fits on one screen ('+report.scrollY+' px over)');assert.ok(report.tiles.every(t=>t.b<=height),tag+': every tile is on screen')}
+    assert.doesNotMatch(await page.locator('.home').innerText(),/Bonjour|Où souhaitez-vous/,tag+': no greeting');if(width===1440)assert.ok(report.scrollY<=0,tag+': the whole dashboard fits a laptop screen');if(await page.locator('#view svg').count())assert.fail(tag+': no icon on the dashboard');if(!guest){assert.equal(await page.locator('.home-head h2').innerText(),'Décode ton esprit');if(width>=900)assert.match(await page.locator('.home').innerText(),/4 proches[\s\S]*212 \/ 516 réponses[\s\S]*3 sujets[\s\S]*87 éléments reliés[\s\S]*1 bilan/)}
     else{assert.equal(await page.locator('.home-auth button').count(),2)}
     const file=path.join(out,'home-'+tag+'.png');await page.screenshot({path:file});shots.push(file);
     if(!guest&&(width===390||width===1440)){
@@ -40,7 +40,7 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
      assert.equal(await page.evaluate(()=>getComputedStyle(document.querySelector('.site-back')).visibility),'visible');assert.equal(await page.evaluate(()=>document.querySelectorAll('.site-navigation, .nav-links, .site-menu-toggle').length),0);
      const back=await page.locator('.site-back').boundingBox();assert.ok(back.height>=44&&back.width>=44,'back button large enough');
      const shot=path.join(out,'page-'+tag+'.png');await page.screenshot({path:shot});shots.push(shot);
-     await page.locator('.site-back').click();await page.waitForFunction(()=>location.pathname==='/accueil/');await page.locator('.home-grid').waitFor();
+     await page.locator('.site-back').click();await page.waitForFunction(()=>location.pathname==='/accueil/');await page.locator('.home-index').waitFor();
      await page.locator('.home-tile').filter({hasText:'Ma ligne de vie'}).click();await page.waitForFunction(()=>location.pathname==='/ma-ligne-de-vie/');await page.locator('.site-header .site-logo').click();await page.waitForFunction(()=>location.pathname==='/accueil/');
     }
     await ctx.close();
