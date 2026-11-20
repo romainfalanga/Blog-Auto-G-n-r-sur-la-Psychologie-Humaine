@@ -9,7 +9,6 @@ import {HYPOTHESIS_RULE} from './psychology-framework.mjs';
 
 export const GOAL_STATUS={new:'nouveau',ongoing:'en cours',progressing:'avance',reached:'atteint',paused:'en pause',dropped:'abandonné'};
 export const TRIED_RESULT={helped:'a aidé',no_effect:'sans effet',hard:'difficile',not_yet:'pas encore essayé'};
-export const FORMULATION_LABELS={holds:'se confirme',revised:'révisé',new:'nouveau'};
 export const FEEDBACK_VERDICTS={resembles:'Ce bilan me ressemble',not_really:'Pas vraiment',to_correct:'À corriger'};
 export const FEEDBACK_TEXT_MAX=600,DIGEST_MAX_CHARS=2400,THREAD_TURN_CHARS=1200,THREAD_REVIEW_CHARS=3000,THREAD_REVIEWS=12;
 const s={type:'string'},list=items=>({type:'array',items});
@@ -237,7 +236,6 @@ export const threadGoals=thread=>(thread?.goals||[]).map(g=>({key:g.key,words:g.
 const DIAGNOSIS=/\bvous (?:etes|souffrez (?:de|d')|avez|presentez) (?:un |une |des |de la |du |d')?(?:trouble|depression|bipolaire|borderline|schizophren|narciss|tdah|autis|tspt|stress post-?traumatique|phobie sociale|personnalite (?:borderline|narciss|dependante|evitante|histrionique))|\bvotre (?:diagnostic|pathologie)\b|\b(?:votre|vos) (?:mere|pere|soeur|frere|conjoint|conjointe|partenaire|compagnon|compagne|mari|femme|parents?) (?:est|sont) (?:un |une |des )?(?:narciss|pervers|bipolaire|borderline|psychopathe|sociopathe)|\bje (?:suis|reste) (?:votre )?(?:psychologue|therapeute|medecin)\b/;
 const SAVED=/\bj.ai (?:enregistre|sauvegarde|ajoute (?:a|dans) votre)|\bc.est (?:enregistre|sauvegarde)\b/;
 // Quoted passages of the published text («…», “…”), at least twelve characters.
-export const quotedPassages=content=>[...String(content||'').matchAll(/«\s*([^»]{12,400}?)\s*»|“([^”]{12,400})”/g)].map(m=>(m[1]||m[2]).trim()).filter(q=>q.length>=12);
 const quotedWithPlace=content=>[...String(content||'').matchAll(/«\s*([^»]{12,400}?)\s*»|“([^”]{12,400})”/g)].map(m=>({quote:(m[1]||m[2]).trim(),index:m.index})).filter(q=>q.quote.length>=12);
 // « vous écrivez / dites … » attributes the next quote to the person.
 const ATTRIBUTION=/(?:\bvous (?:(?:l |le |les )?(?:ecrivez|avez ecrit|dites|avez dit|notez|avez note|precisez|avez precise|racontez|expliquez|formulez|confiez)|le dites)|\b(?:selon|avec|dans) vos (?:propres )?(?:mots|termes)|\bvos mots)\b[^«“.!?]{0,40}$/;

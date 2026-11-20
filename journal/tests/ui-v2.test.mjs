@@ -83,6 +83,7 @@ function chatFixture(extra={}) {
 
 test('the generated application script parses without personal story controls',()=>{
   new vm.Script(script);
+  assert.doesNotMatch(script,/\/api\/(?:likes|examples|recommendations|inspirations)|renderLikes|drawLikedArticles|safeArticleLink|applyPendingLike|pendingArticle|likeVersion/);
   assert.doesNotMatch(HTML,/Mon personnage|Mes histoires|une histoire chaque jour/);
 });
 
@@ -334,13 +335,13 @@ test('V5 blocked sends retain editable draft, history and proposals for all acce
   }
 });
 
-test('all removed portrait and reading subpage links lead to the single presentation',()=>{
- for(const hash of ['#ma-cartographie','#cartographie','#mon-portrait','#synthese','#correction-form','#self-profile','#mes-articles','#suggestions','']){
+test('all removed portrait subpage links lead to the single presentation',()=>{
+ for(const hash of ['#ma-cartographie','#cartographie','#mon-portrait','#synthese','#correction-form','#self-profile','']){
   const location={hash,pathname:'/mon-portrait/',search:'?article=old'};const historyCalls=[];
   const env=environment({location,history:{replaceState(a,b,url){historyCalls.push(url);location.hash=url.includes('#')?url.slice(url.indexOf('#')):''}}});
   const view=env.host('view'),form=env.doc.createElement('form');view.append(form);
   vm.runInContext(functionCode('setupPortraitViews'),env.ctx);env.ctx.setupPortraitViews(view);
-  const obsolete=['#ma-cartographie','#cartographie','#mon-portrait','#synthese','#correction-form','#mes-articles','#suggestions'].includes(hash);
+  const obsolete=['#ma-cartographie','#cartographie','#mon-portrait','#synthese','#correction-form'].includes(hash);
   assert.equal(location.hash,obsolete?'#self-profile':hash);assert.equal(historyCalls.length,obsolete?1:0);assert.equal(view.children[0],form);
   if(obsolete)assert.equal(historyCalls[0],'/mon-portrait/?article=old#self-profile');
  }
@@ -374,14 +375,13 @@ test('the lists of close people and of moments repeat neither the page title nor
  assert.doesNotMatch(HTML,/source-count/);assert.doesNotMatch(functionCode('drawSourceSection'),/affichés|' proches'|' moments'/);assert.match(HTML,/\.source-tag \{/);
 });
 
-test('the application footer holds the site name (to Ambre) and the catalogue link, and liked articles stay out of the portrait menu',()=>{
+test('the application footer holds the site name (to Ambre), and no reading tab stays in the portrait menu',()=>{
  assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/ambre\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);
+ assert.doesNotMatch(script,/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
 });
 
-function likedFixture(api){const env=environment({api,location:{origin:'https://example.test',hash:''},refreshPortraitData(){}});Object.assign(env.ctx.state,{tab:'portrait',me:{},likes:[{article_id:'a',reason:'Mon ancien retour',differences:'Une différence ancienne'},{article_id:'b',reason:''}],examples:[{id:'a',title:'Article A',url:'/a/'},{id:'b',title:'Article B',url:'/b/'},{id:'c',title:'Non aimé',url:'/c/'}],drafts:new Map(),differencesDrafts:new Map()});vm.runInContext(functionCode('safeArticleLink')+'\n'+functionCode('updateLikeState')+'\n'+functionCode('drawLikedArticles'),env.ctx);const list=env.host('likes-list');env.ctx.drawLikedArticles(list,()=>true);return {...env,list};}
-
 const psychologyFixture={catalog_version:1,domains:[{id:'ties',label:'Mes relations'},{id:'self',label:'Mon regard sur moi'}],patterns:[{id:'belong',domain:'ties',label:'Besoin d’appartenance',description:'Chercher sa place.',signals:['Faire attention au groupe.'],questions:['Comment trouvez-vous votre place ?'],alternatives:['Un contexte nouveau.']},{id:'autonomy',domain:'self',label:'Besoin d’autonomie',description:'Choisir pour soi.',questions:['Quand choisissez-vous librement ?']}],hypotheses:[{pattern_id:'belong',status:'exploring',observation:'Vous évoquez votre place dans le groupe.',possible_function:'Préserver les liens.',evidence:['person:p1'],counter_evidence:['profile:self'],citations:[{source_id:'person:p1',quote:'Mes mots exacts'}],related_articles:[{title:'Une lecture',url:'/article/'},{title:'Lien refusé',url:'javascript:alert(1)'}],related_characters:[{name:'Nina',url:'/personnages/nina/'}],next_question:'Que souhaitez-vous préciser ?'}],source_version:4,analyzed_version:4,outdated:false};
-function mapFixture(extra={}){const env=environment({refreshPortraitData(){},location:{origin:'https://example.test'},...extra});Object.assign(env.ctx.state,{tab:'portrait',likes:[],examples:[],mapReturnDrafts:new Map()});for(const name of ['normalized','personalizePortraitText','safeArticleLink','portraitEvidence','mapStateLabel','selectMapPattern','renderMapExplorer','drawMapPattern','drawMapReturn','drawPsychologyMap'])vm.runInContext(functionCode(name),env.ctx);const host=env.host('ma-cartographie');env.ctx.drawPsychologyMap(host,psychologyFixture,()=>true);return {...env,host};}
+function mapFixture(extra={}){const env=environment({refreshPortraitData(){},location:{origin:'https://example.test'},...extra});Object.assign(env.ctx.state,{tab:'portrait',mapReturnDrafts:new Map()});for(const name of ['normalized','personalizePortraitText','portraitEvidence','mapStateLabel','selectMapPattern','renderMapExplorer','drawMapPattern','drawMapReturn','drawPsychologyMap'])vm.runInContext(functionCode(name),env.ctx);const host=env.host('ma-cartographie');env.ctx.drawPsychologyMap(host,psychologyFixture,()=>true);return {...env,host};}
 
 test('V6 free preview account displays access and quotas without checkout or subscription offers',()=>{
  const env=environment();const host=env.host('view'),accountRow=env.host('account-row');host.querySelector=()=>accountRow;for(const id of ['account-appointment','account-email','account-price','subscription-copy','account-progress','billing-action','export-button','delete-button'])env.host(id);env.ctx.state.me={user:{email:'test@example.test'},access:{mode:'free_preview',allowed:true},subscription:{active:false,trial_eligible:true},configuration:{billing:true,ai:true}};env.doc.getElementById('account-email').parentElement=accountRow;vm.runInContext(functionCode('appendAccountQuota'),env.ctx);env.ctx.setupPortraitViews=()=>{};env.ctx.renderSelfProfile=()=>{};env.ctx.logout=()=>{};vm.runInContext(functionCode('renderAccount'),env.ctx);env.ctx.renderAccount();assert.equal(env.doc.getElementById('account-price').hidden,true);assert.match(env.doc.getElementById('subscription-copy').textContent,/Accès gratuit/);assert.doesNotMatch(env.doc.getElementById('billing-action').textContent,/abonner|essai|factur|29/);assert.doesNotMatch(env.doc.getElementById('account-progress').textContent,/29|7 jours d’essai/);

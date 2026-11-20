@@ -29,12 +29,6 @@ export function appendTraceStage(trace,{stage,model,input,system,source_version,
  if(size(details)>LIMIT){details.values.length=before;delete entry.system_ref;delete entry.input_refs;entry.details_available=false;entry.unavailable_reason='snapshot_limit';details.truncated=true}
  return {trace:result,id};
 }
-export function finishTraceStage(trace,id,{status,usage,error_code}){
- if(!trace.details||!id)return trace;
- const result={...trace,details:copy(trace.details)},entry=result.details.stages.find(s=>s.id===id);
- if(entry){entry.status=status;if(usage)entry.usage=usage;if(error_code)entry.error_code=error_code}
- return result;
-}
 const CRITERION_LABELS=new Map(CHANGE_REVIEW_CRITERIA.map(item=>[item.id,item.label]));
 // Retention drops the fixed criterion labels; they are restored on read.
 const withLabels=review=>Array.isArray(review?.change?.criteria)&&review.change.criteria.some(item=>item&&item.label===undefined)?{...review,change:{...review.change,criteria:review.change.criteria.map(item=>item&&item.label===undefined&&CRITERION_LABELS.has(item.id)?{...item,label:CRITERION_LABELS.get(item.id)}:item)}}:review;

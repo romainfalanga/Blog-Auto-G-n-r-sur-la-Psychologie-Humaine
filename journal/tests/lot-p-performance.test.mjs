@@ -1,9 +1,9 @@
 // Lot P (page speed): content-addressed application files, Ambre prepared with its page,
-// concurrent bootstrap reads and a catalogue imported only when a route needs it.
+// concurrent bootstrap reads, and no public catalogue left in the Worker.
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
-import {readFileSync} from 'node:fs';
+import {existsSync,readFileSync} from 'node:fs';
 import worker from '../src/worker.mjs';
 import {HTML,APP_ASSETS,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
 import {setup} from './v4-S-helper.mjs';
@@ -88,19 +88,13 @@ test('the page routes start before /api/me has answered, and /api/me starts its 
   assert.equal(data.responses['/api/me'].status,200);assert.equal(data.responses['/api/people'].status,200);
 });
 
-test('the catalogue module is imported only by routes that read it, once per isolate',async t=>{
-  let imports;
-  const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8')
-    .replace("const importExamples=()=>import('./examples.mjs');","const importExamples=async()=>{globalThis.__lotPImports=(globalThis.__lotPImports||0)+1;return import("+JSON.stringify(new URL('../src/examples.mjs',import.meta.url).href)+");};")
-    .replace(/from '(\.\/[^']+)'/g,(_,specifier)=>'from '+JSON.stringify(new URL('../src/'+specifier.slice(2),import.meta.url).href));
-  assert.ok(source.includes('__lotPImports'),'the lazy import is still the single entry point');
-  const isolated=(await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'))).default;
-  const s=fixture(t),call=(path,user='a')=>isolated.fetch(new Request('https://example.test'+path,{headers:user?{Cookie:'__Host-dte_session=token-'+user}:undefined}),s.env,{waitUntil(){}});
-  imports=()=>globalThis.__lotPImports||0;
-  for(const [path,user] of [[APP_ASSETS.script.path,null],[APP_ASSETS.style.path,'a'],['/api/health',null],['/mon-compte/',null],['/api/me',null],['/mon-suivi/','a']])assert.equal((await call(path,user)).status,200,path);
-  assert.equal(imports(),0,'static files, shells and anonymous pages do not import the catalogue');
-  const me=await (await call('/api/me')).json();assert.equal(me.user.id,'a');assert.equal(imports(),1);
-  const list=await (await call('/api/examples',null)).json();assert.ok(list.examples.length>100);
-  await call('/api/me','b');assert.equal(imports(),1,'the module is imported once per isolate');
-  delete globalThis.__lotPImports;
+test('the Worker no longer carries the public catalogue',async t=>{
+  const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8');
+  assert.doesNotMatch(source,/examples\.mjs|loadExamples|createRecommender|recommendations\.mjs/);
+  assert.equal(existsSync(new URL('../src/examples.mjs',import.meta.url)),false);
+  const s=fixture(t),me=await (await s.request('/api/me')).json();
+  assert.equal(me.user.id,'a');assert.equal('readiness' in me,false);assert.equal('inspirations_count' in me,false);assert.ok(me.companion_readiness);
+  for(const path of ['/api/examples','/api/recommendations','/api/likes','/api/likes/x','/api/inspirations']){
+    const response=await s.request(path);assert.equal(response.status,410,path);assert.equal((await response.json()).code,'feature_retired',path);
+  }
 });

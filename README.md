@@ -8,9 +8,9 @@ Pour reprendre le travail : lire [les consignes du projet](AGENTS.md) et [la not
 
 ## Personnalisation
 
-Dans **Mon portrait**, chacun se présente avec ses propres mots : perception de soi, émotions, schémas récurrents et contexte actuel. Le questionnaire d’identité est facultatif. Les déclarations alimentent le portrait et les recommandations ; le prénom déclaré personnalise les échanges, tandis que le nom de famille et la date de naissance exacte restent hors des prompts IA. L’âge et le genre servent de contexte, jamais de preuve psychologique. **Mes proches** et **Ma ligne de vie** sont deux pages autonomes. Les dates des événements peuvent rester approximatives.
+Dans **Mon portrait**, chacun se présente avec ses propres mots : perception de soi, émotions, schémas récurrents et contexte actuel. Le questionnaire d’identité est facultatif. Les déclarations alimentent le portrait ; le prénom déclaré personnalise les échanges, tandis que le nom de famille et la date de naissance exacte restent hors des prompts IA. L’âge et le genre servent de contexte, jamais de preuve psychologique. **Mes proches** et **Ma ligne de vie** sont deux pages autonomes. Les dates des événements peuvent rester approximatives.
 
-Le portrait distingue déclarations, hypothèses et intérêts de lecture. Ses éléments sont rattachés aux sources originales et à leur révision. Une correction ou suppression invalide les anciennes déductions ; la fiction ne devient jamais une biographie réelle. Les recommandations exploitent séparément résonance, différences, préférences de lecture et sujets à éviter.
+Le portrait distingue déclarations et hypothèses. Ses éléments sont rattachés aux sources originales et à leur révision. Une correction ou suppression invalide les anciennes déductions ; la fiction ne devient jamais une biographie réelle. L’espace personnel ne propose plus d’articles à aimer ni de suggestions de lecture : le Worker n’embarque plus le catalogue, et les anciens articles aimés restent uniquement dans l’export du compte.
 
 Le mode de test `FREE_ACCESS_ENABLED=true` permet actuellement d’utiliser la plateforme sans paiement. Le tarif configuré pour une future activation est de 29 EUR/mois après sept jours gratuits. Le paiement dépend de la configuration Stripe.
 

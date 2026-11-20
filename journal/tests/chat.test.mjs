@@ -24,13 +24,13 @@ test('an empty chat welcomes without consent, provider call, turn, quota or priv
  state=await s.call('/api/chat');assert.match(state.welcome.content,/Bonjour Alix/);assert.match(state.welcome.content,/déjà renseignées/);assert.doesNotMatch(state.welcome.content,/PRIVATE/);assert.match(state.welcome.content,/ligne de vie/i);assert.doesNotMatch(state.welcome.content,/article|catalogue|lecture|personnage|histoire personnalisée/);assert.equal(calls,0);
 });
 
-test('capabilities report personal tools and existing readings without a character prerequisite',async()=>{
+test('capabilities report personal tools, without any reading lookup or character prerequisite',async()=>{
  const s=setup();s.raw.prepare("UPDATE memories SET text=? WHERE user_id='a'").run('🙂'.repeat(5000));
  const state=await s.call('/api/chat'),cap=state.capabilities;
  assert.equal(cap.memory_append.allowed,false);assert.equal(cap.memory_append.remaining_characters,0);
  assert.equal(cap.person_create.limit,50);assert.equal(cap.life_event_create.limit,500);
  assert.equal(cap.person_update.allowed,false);assert.equal(cap.life_event_update.allowed,false);
- assert.equal(cap.reading_lookup.allowed,true);
+ assert.equal(Object.hasOwn(cap,'reading_lookup'),false);
  assert.equal(Object.hasOwn(cap,'story_request'),false);assert.equal(Object.hasOwn(cap,'character_preparation'),false);
 });
 

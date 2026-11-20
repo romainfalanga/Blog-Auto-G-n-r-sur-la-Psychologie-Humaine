@@ -3,17 +3,9 @@ import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
 import {seedCompanionPrerequisites} from './companion-ready-helper.mjs';
 import { DatabaseSync } from 'node:sqlite';
-import { createRecommender } from '../src/recommendations.mjs';
 import {loadContext} from '../src/private-context.mjs';
-import {createPersonalBackend} from '../src/personal-backend.mjs';
 const examples=Array.from({length:14},(_,i)=>({id:`category/example-${i+1}`,title:`Exemple ${i+1}`,url:`https://decodetonesprit.fr/posts/example-${i+1}/`,character:'Personnage '+i,keywords:['confiance','relations'],description:`Résumé canonique ${i+1}`}));
-const recommendationContexts=[];
-// Use the real recommendation engine while recording its authenticated input.
-globalThis.__backendRecommendationFactory=items=>{
- const engine=createRecommender(items);
- return {recommend(context,options){recommendationContexts.push(structuredClone(context));return engine.recommend(context,options);},provisionalPortrait(context){recommendationContexts.push(structuredClone(context));return engine.provisionalPortrait(context);}};
-};
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { APP_ASSETS, INITIAL_PAGE_DATA_MARKER } from './ui.mjs';","const APP_ASSETS={},INITIAL_PAGE_DATA_MARKER='/*INITIAL_PAGE_DATA*/null';").replace("const importExamples=()=>import('./examples.mjs');",'const importExamples=async()=>({EXAMPLES:'+JSON.stringify(examples)+'});').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;').replace("'./change-backend.mjs'",JSON.stringify(new URL('../src/change-backend.mjs',import.meta.url).href)).replace("'./care-backend.mjs'",JSON.stringify(new URL('../src/care-backend.mjs',import.meta.url).href)).replace("'./chat-backend.mjs'",JSON.stringify(new URL('../src/chat-backend.mjs',import.meta.url).href)).replace("'./entitlements.mjs'",JSON.stringify(new URL('../src/entitlements.mjs',import.meta.url).href)).replace("'./personal-backend.mjs'",JSON.stringify(new URL('../src/personal-backend.mjs',import.meta.url).href)).replace(/from '(\.\/[^']+)'/g,(_,specifier)=>'from '+JSON.stringify(new URL('../src/'+specifier.slice(2),import.meta.url).href));
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { APP_ASSETS, INITIAL_PAGE_DATA_MARKER } from './ui.mjs';","const APP_ASSETS={},INITIAL_PAGE_DATA_MARKER='/*INITIAL_PAGE_DATA*/null';").replace("'./change-backend.mjs'",JSON.stringify(new URL('../src/change-backend.mjs',import.meta.url).href)).replace("'./care-backend.mjs'",JSON.stringify(new URL('../src/care-backend.mjs',import.meta.url).href)).replace("'./chat-backend.mjs'",JSON.stringify(new URL('../src/chat-backend.mjs',import.meta.url).href)).replace("'./entitlements.mjs'",JSON.stringify(new URL('../src/entitlements.mjs',import.meta.url).href)).replace("'./personal-backend.mjs'",JSON.stringify(new URL('../src/personal-backend.mjs',import.meta.url).href)).replace(/from '(\.\/[^']+)'/g,(_,specifier)=>'from '+JSON.stringify(new URL('../src/'+specifier.slice(2),import.meta.url).href));
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,failJob,runGenerationBatch,refreshUserPortrait}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false,v2=false,beforeRetirement=false}={}) {
  const db=new DatabaseSync(':memory:');
@@ -27,8 +19,6 @@ const origin='https://journal.example';
 const request=(env,path,{method='GET',data,cookie,originHeader=origin,context}={})=>worker.fetch(new Request(origin+path,{method,headers:{...(data?{'Content-Type':'application/json'}:{}),...(cookie?{Cookie:cookie}:{}),...(originHeader?{Origin:originHeader}:{}),'CF-Connecting-IP':'192.0.2.8'},body:data?JSON.stringify(data):undefined}),env,context);
 async function register(env,email='a@example.com'){const r=await request(env,'/api/auth/register',{method:'POST',data:{email,password:'long secure password 123'}});assert.equal(r.status,200);assert.match(r.headers.get('set-cookie'),/HttpOnly; Secure; SameSite=Lax/);return {cookie:r.headers.get('set-cookie').split(';')[0],user:(await r.json()).user};}
 async function registerPrepared(env,email){const account=await register(env,email);seedCompanionPrerequisites(env.DB.raw,account.user.id);return account;}
-const like=(env,a,index,reason)=>request(env,'/api/likes/'+encodeURIComponent(examples[index].id),{method:'PUT',cookie:a.cookie,data:{liked:true,...(reason!==undefined?{reason}:{})}});
-async function prepareUser(env,a,count=10){await request(env,'/api/consent',{method:'PUT',cookie:a.cookie,data:{consent_ai:true}});for(let i=0;i<count;i++)assert.equal((await like(env,a,i)).status,200);}
 function pay(env,a){env.DB.raw.prepare("UPDATE subscriptions SET status='active',paid_until=? WHERE user_id=?").run(Math.floor(Date.now()/1000)+86400,a.user.id);}
 const claim=async env=>(await (await claimJobs(env)).json()).jobs[0];
 const complete=(env,j,data)=>completeJob(env,j.id,{...data,lease_token:j.lease_token,source_version:j.source_version,memory_version:j.memory.version});
@@ -41,26 +31,12 @@ test('Stripe signature and paid entitlement verification',async()=>{const secret
 
 test('legacy inspirations migrate losslessly without deleting source rows',()=>{const db=database({legacy:true});db.raw.prepare('INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,?,?)').run('u','legacy@example.com','hash','salt');db.raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run('u');db.raw.prepare('INSERT INTO inspiration_selections(user_id,article_id,reason,differences) VALUES(?,?,?,?)').run('u',examples[0].id,'Cela me parle','Mais ma vie diffère');db.raw.exec(readFileSync(new URL('../migrations/0003_likes_portraits.sql',import.meta.url),'utf8'));const row=db.raw.prepare('SELECT * FROM article_likes').get();assert.equal(row.reason,'Cela me parle');assert.equal(row.differences,'Mais ma vie diffère');assert.equal(db.raw.prepare('SELECT count(*) n FROM inspiration_selections').get().n,1);});
 
-test('unlimited likes and optional explanations invalidate source only on actual changes',async()=>{
- const env={DB:database()};const a=await register(env),b=await register(env,'b@example.com');await prepareUser(env,a,14);
- let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.readiness,{likes_count:14,explained_count:0});assert.equal(me.profile.display_name,undefined);const source=me.source_version;
- await like(env,a,0);me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.source_version,source);
- let r=await like(env,a,0,'Je me reconnais dans cette réaction.');let likes=await r.json();assert.equal(likes.count,14);assert.equal(likes.explained_count,1);assert.equal(likes.source_version,source+1);
- await like(env,a,0,'Je me reconnais dans cette réaction.');me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.source_version,source+1);
- assert.deepEqual((await (await request(env,'/api/likes',{cookie:b.cookie})).json()).likes,[]);
- assert.equal((await request(env,'/api/likes/made-up',{method:'PUT',cookie:a.cookie,data:{liked:true}})).status,404);
- r=await request(env,'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',cookie:a.cookie,data:{liked:false}});likes=await r.json();assert.equal(likes.count,13);assert.equal(likes.source_version,source+2);
- const p=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(p.status,'queued');assert.equal(p.portrait,null);assert.ok(p.provisional_portrait);
-});
-
-test('backward inspiration API has no three-item cap or explanation requirement',async()=>{const env={DB:database()};const a=await register(env);const selections=examples.slice(0,12).map(e=>({article_id:e.id}));let r=await request(env,'/api/inspirations',{method:'PUT',cookie:a.cookie,data:{selections}});assert.equal(r.status,200);const result=await r.json();assert.equal(result.count,12);const v=result.source_version;r=await request(env,'/api/inspirations',{method:'PUT',cookie:a.cookie,data:{selections}});assert.equal((await r.json()).source_version,v);assert.equal((await (await request(env,'/api/inspirations',{cookie:a.cookie})).json()).selections.length,12);});
-
 test('Cloudflare scheduler is inert and GitHub claims skip absent provider',async()=>{const env={DB:{prepare(){throw new Error('No database work');}}};assert.deepEqual(await runGenerationBatch(env),{status:'workflow-managed',claimed:0,completed:0,failed:0});assert.equal((await worker.scheduled({},env,{})).status,'workflow-managed');assert.deepEqual(await (await claimJobs(env)).json(),{jobs:[],status:'provider_missing'});});
 
 
 test('Checkout reuses durable attempts, rotates expired sessions, reconciles subscriptions and deletes Stripe customer first',async()=>{
  const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'webhook-test',STRIPE_PRICE_ID:'price_29',OPENROUTER_API_KEY:'test-only'};
- const a=await register(env,'billing@example.com');await prepareUser(env,a);const originalFetch=globalThis.fetch;
+ const a=await register(env,'billing@example.com');const originalFetch=globalThis.fetch;
  const sessions=new Map(),idempotency=new Map();let serial=0,live=null,deleteFail=false,customerDeleted=false;
  const keys=[];
  globalThis.fetch=async(url,options={})=>{
@@ -98,27 +74,10 @@ test('Checkout reuses durable attempts, rotates expired sessions, reconciles sub
 
 
 
-test('Checkout needs configured AI and billing but no likes or profile gate',async()=>{
+test('Checkout needs configured AI and billing but no profile gate',async()=>{
  const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'test',STRIPE_PRICE_ID:'price_29'};const a=await register(env,'readiness@example.com');let calls=0;const originalFetch=globalThis.fetch;
  globalThis.fetch=async()=>{calls++;return new Response('{}',{status:503});};
  try {const checkout=()=>request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await checkout()).status,503);assert.equal(calls,0);env.OPENROUTER_API_KEY='test';assert.equal((await checkout()).status,502);assert.equal(calls,1);} finally {globalThis.fetch=originalFetch;}
-});
-
-
-test('likes response collection and source_version belong to one snapshot during concurrent mutation',async()=>{
- const db=database(),env={DB:db};const a=await register(env,'snapshot@example.com');await like(env,a,0);
- const before=db.raw.prepare('SELECT version FROM profiles WHERE user_id=?').get(a.user.id).version;
- const prepare=db.prepare.bind(db);let injected=false;
- db.prepare=sql=>{
-  const statement=prepare(sql);
-  if(sql.includes('AS likes_json')) {
-   const first=statement.first.bind(statement);statement.first=async()=>{const snapshot=await first();if(!injected){injected=true;db.raw.prepare('INSERT INTO article_likes(user_id,article_id,reason) VALUES(?,?,?)').run(a.user.id,examples[1].id,'A concurrent explanation');}return snapshot;};
-  }
-  return statement;
- };
- const response=await request(env,'/api/likes',{cookie:a.cookie});const snapshot=await response.json();assert.equal(snapshot.count,1);assert.equal(snapshot.source_version,before);
- assert.equal(db.raw.prepare('SELECT version FROM profiles WHERE user_id=?').get(a.user.id).version,before+1);
- const newer=await (await request(env,'/api/likes',{cookie:a.cookie})).json();assert.equal(newer.count,2);assert.equal(newer.source_version,before+1);
 });
 
 
@@ -139,51 +98,31 @@ test('internal endpoints verify a real RSA GitHub OIDC signature and reject forg
 
 
 
-test('four thousand accented characters fit the documented optional reason with real UTF-8 content length',async()=>{
- const env={DB:database()}; const a=await register(env,'unicode@example.com'); const payload=JSON.stringify({liked:true,reason:'é'.repeat(4000)});
- const response=await worker.fetch(new Request(origin+'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',headers:{'Content-Type':'application/json','Content-Length':String(Buffer.byteLength(payload)),'Origin':origin,'Cookie':a.cookie},body:payload}),env);
- assert.equal(response.status,200);assert.equal((await response.json()).likes[0].reason.length,4000);
-});
-
-
-test('former collection page redirects to portrait collection and preserves all intent',async()=>{
- const env={PUBLIC_ORIGIN:origin};
+test('the former collection page and the retired catalogue routes no longer open anything',async()=>{
+ const env={DB:database(),PUBLIC_ORIGIN:origin},a=await register(env);
  for(const path of ['/mes-articles','/mes-articles/'])for(const method of ['GET','HEAD']){
- const query='?article=posts%2Fexample&character=Camille&like=1&tab=likes';
- const response=await request(env,path+query,{method});assert.equal(response.status,302);
- const target=new URL(response.headers.get('location'));assert.equal(target.pathname,'/mon-compte/');assert.equal(target.search,query);assert.equal(target.hash,'#mes-articles');
- assert.equal((await request(env,target.pathname+target.search)).status,200);
+ const response=await request(env,path+'?article=posts%2Fexample&character=Camille&like=1&tab=likes',{method});assert.equal(response.status,302);
+ assert.equal(response.headers.get('location'),'/mon-compte/');assert.equal((await request(env,'/mon-compte/')).status,200);
  }
+ env.DB.raw.prepare('INSERT INTO article_likes(user_id,article_id,reason) VALUES(?,?,?)').run(a.user.id,examples[0].id,'Je me reconnais.');const version=versionOf(env,a);
+ const calls=[['/api/examples','GET'],['/api/recommendations','GET'],['/api/likes','GET'],['/api/likes/'+encodeURIComponent(examples[1].id),'PUT',{liked:true,reason:'Un retour'}],['/api/likes/'+encodeURIComponent(examples[0].id),'PUT',{liked:false}],['/api/inspirations','GET'],['/api/inspirations','PUT',{selections:[]}]];
+ for(const cookie of [a.cookie,undefined])for(const [path,method,data] of calls){
+  const response=await request(env,path,{method,cookie,data});assert.equal(response.status,410,method+' '+path);assert.equal((await response.json()).code,'feature_retired');
+ }
+ assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM article_likes').get().n,1);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM recommendation_exposures').get().n,0);assert.equal(versionOf(env,a),version);
+ const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal('readiness' in me,false);assert.equal('inspirations_count' in me,false);assert.equal(typeof me.companion_readiness.complete,'boolean');
+ for(const [path,method,data] of [['/api/profile','PUT',{consent_ai:true,display_name:'Ancien'}],['/api/consent','PUT',{consent_ai:true}]])assert.equal((await request(env,path,{method,cookie:a.cookie,data})).status,404,path);
 });
 
-
-test('like explanations preserve independent reason and differences, version actual edits and isolate users',async()=>{
- const env={DB:database()},a=await register(env),b=await register(env,'different@example.com');
- const path='/api/likes/'+encodeURIComponent(examples[0].id);
- const put=async(data,cookie=a.cookie)=>request(env,path,{method:'PUT',cookie,data:{liked:true,...data}});
- let r=await (await put({reason:'Une ressemblance',differences:'Une différence'})).json();const version=r.source_version;
- assert.equal(r.likes[0].reason,'Une ressemblance');assert.equal(r.likes[0].differences,'Une différence');
- r=await (await put({reason:'Une ressemblance'})).json();assert.equal(r.source_version,version);assert.equal(r.likes[0].differences,'Une différence');
- r=await (await put({differences:'Autre différence'})).json();assert.equal(r.source_version,version+1);assert.equal(r.likes[0].reason,'Une ressemblance');
- r=await (await put({})).json();assert.equal(r.source_version,version+1);assert.equal(r.likes[0].differences,'Autre différence');
- r=await (await put({differences:''})).json();assert.equal(r.likes[0].differences,'');assert.equal(r.likes[0].reason,'Une ressemblance');assert.equal(r.source_version,version+2);
- assert.equal((await put({differences:'é'.repeat(4001)})).status,400);
- r=await (await put({reason:'à'.repeat(4000),differences:'é'.repeat(4000)})).json();assert.equal(r.likes[0].reason.length,4000);assert.equal(r.likes[0].differences.length,4000);
- assert.deepEqual((await (await request(env,'/api/likes',{cookie:b.cookie})).json()).likes,[]);
- await put({reason:'Compte B',differences:'Autre vécu'},b.cookie);
- assert.equal((await (await request(env,'/api/likes',{cookie:a.cookie})).json()).likes[0].differences,'é'.repeat(4000));
-});
-
-
-
-test('differences alone count as an explanation in likes and account readiness',async()=>{
- const env={DB:database()},a=await register(env);
- const path='/api/likes/'+encodeURIComponent(examples[0].id);
- const put=async differences=>(await (await request(env,path,{method:'PUT',cookie:a.cookie,data:{liked:true,differences}})).json());
- let result=await put('Ma situation est différente.');assert.equal(result.likes[0].reason,'');assert.equal(result.explained_count,1);
- let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.explained_count,1);
- result=await put('   ');assert.equal(result.explained_count,0);
- me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.explained_count,0);
+test('the account export keeps the liked articles as stored, without catalogue titles',async()=>{
+ const env={DB:database()},a=await register(env),b=await register(env,'export-other@example.com');
+ env.DB.raw.prepare('INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES(?,?,?,?)').run(a.user.id,examples[0].id,'Je me reconnais.','Ma situation diffère.');
+ env.DB.raw.prepare('INSERT INTO article_likes(user_id,article_id) VALUES(?,?)').run(a.user.id,'posts/retired/unknown-article');
+ const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();
+ assert.deepEqual(exported.likes.map(row=>Object.keys(row).sort()),Array(2).fill(['article_id','created_at','differences','reason','updated_at']));
+ assert.deepEqual(exported.likes.map(({article_id,reason,differences})=>({article_id,reason,differences})).sort((x,y)=>x.article_id.localeCompare(y.article_id)),[{article_id:examples[0].id,reason:'Je me reconnais.',differences:'Ma situation diffère.'},{article_id:'posts/retired/unknown-article',reason:'',differences:''}]);
+ assert.equal('selections' in exported,false);assert.equal(exported.portrait.status,'collecting');assert.equal(exported.portrait.provisional_portrait,null);
+ assert.deepEqual((await (await request(env,'/api/export',{cookie:b.cookie})).json()).likes,[]);
 });
 
 const {parisWeek}=await import('../src/personal-backend.mjs');
@@ -191,7 +130,7 @@ const versionOf=(env,a)=>env.DB.raw.prepare('SELECT version FROM profiles WHERE 
 async function addEvent(env,a,extra={}){const r=await request(env,'/api/life-events',{method:'POST',cookie:a.cookie,data:{creation_id:crypto.randomUUID(),title:'Un nouveau départ',kind:'positive',description:'J’ai repris confiance après avoir retrouvé mes amis.',date_precision:'year',date_start:'2020',...extra}});assert.equal(r.status,201,JSON.stringify(await r.clone().json()));return (await r.json()).event;}
 async function addPerson(env,a,extra={}){const r=await request(env,'/api/people',{method:'POST',cookie:a.cookie,data:{creation_id:crypto.randomUUID(),display_name:'Mon proche',role:'friend',relationship_text:'Cette amitié me rassure quand je doute.',...extra}});assert.equal(r.status,201,JSON.stringify(await r.clone().json()));return (await r.json()).person;}
 function portraitV2(job,{pending=[]}={}){const sources=job.sources.filter(s=>!pending.includes(s.id)),refs=sources.slice(0,1).map(s=>s.id),explicit=sources.find(s=>s.explicit);return {schema_version:2,psychological_map:[],summary:'Des pistes à explorer depuis les éléments exprimés.',summary_evidence:refs,axes:[{label:'Confiance et liens',why:'Une piste exprimée ou un intérêt de lecture.',claim_type:sources[0].explicit?'hypothesis':'interest',confidence:sources[0].explicit?0.5:0.2,evidence:refs}],strengths:explicit?[{text:'Une ressource évoquée dans les liens.',evidence:[explicit.id]}]:[],uncertainties:['Ces éléments ne définissent pas toute votre vie.'],citations:sources.map(s=>({source_id:s.id,revision:s.revision,quote:s.text.slice(0,Math.min(120,s.text.length))})),coverage:{processed:sources.map(s=>s.id),pending}};}
-async function readyInputs(env,a,likes=10){await prepareUser(env,a,likes);const current=await (await request(env,'/api/self-profile',{cookie:a.cookie})).json();assert.equal((await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:current.revision,self_description:'Je souhaite apprendre à poser mes limites.',recurring_patterns:'Je réponds oui trop vite quand un proche me sollicite.'}})).status,200);}
+async function readyInputs(env,a){const current=await (await request(env,'/api/self-profile',{cookie:a.cookie})).json();assert.equal((await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:current.revision,self_description:'Je souhaite apprendre à poser mes limites.',recurring_patterns:'Je réponds oui trop vite quand un proche me sollicite.'}})).status,200);}
 
 test('V2 people/events CRUD is private, idempotent, bounded, versioned and keeps events when person deleted',async()=>{
  const env={DB:database()},a=await register(env),b=await register(env,'b@example.com');const key=crypto.randomUUID(),data={creation_id:key,display_name:'Pseudonyme',role:'father',relationship_text:'Une relation apaisée aujourd’hui.'};let r=await request(env,'/api/people',{method:'POST',cookie:a.cookie,data});assert.equal(r.status,201);const p=(await r.json()).person,v=versionOf(env,a);r=await request(env,'/api/people',{method:'POST',cookie:a.cookie,data});assert.equal((await r.json()).person.id,p.id);assert.equal(versionOf(env,a),v);
@@ -209,9 +148,12 @@ test('V2 people/events CRUD is private, idempotent, bounded, versioned and keeps
 
 test('two editors and double creation cannot overwrite revisions or increment versions twice',async()=>{const env={DB:database()},a=await register(env);const key=crypto.randomUUID(),data={creation_id:key,display_name:'Alias',role:'other',relationship_text:'Un contexte.'},v=versionOf(env,a);const results=await Promise.all([1,2].map(()=>request(env,'/api/people',{method:'POST',cookie:a.cookie,data})));const rows=await Promise.all(results.map(r=>r.json()));assert.equal(rows[0].person.id,rows[1].person.id);assert.equal(versionOf(env,a),v+1);const id=rows[0].person.id,edits=await Promise.all(['A','B'].map(relationship_text=>request(env,'/api/people/'+id,{method:'PATCH',cookie:a.cookie,data:{revision:1,relationship_text}})));assert.deepEqual(edits.map(r=>r.status).sort(),[200,409]);assert.equal(versionOf(env,a),v+2);});
 
-test('a declared event with zero likes produces source-backed portrait; a role alone does not',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);await addPerson(env,a,{relationship_text:'',role:'mother'});assert.equal(await claim(env),undefined);assert.equal((await (await request(env,'/api/portrait',{cookie:a.cookie})).json()).status,'collecting');const e=await addEvent(env,a);const j=await claim(env);assert.equal(j.kind,'portrait');assert.equal(j.likes.length,0);assert.equal(j.sources.length,1);assert.equal(j.sources[0].id,'event:'+e.id);assert.equal(j.sources[0].revision,1);assert.equal(j.sources[0].hash.length,64);await complete(env,j,{portrait:portraitV2(j)});const p=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(p.status,'ready');assert.equal(p.portrait.schema_version,2);assert.equal(p.portrait.fictional_character,undefined);});
+test('a declared event produces a source-backed portrait; a role alone does not',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);await addPerson(env,a,{relationship_text:'',role:'mother'});assert.equal(await claim(env),undefined);assert.equal((await (await request(env,'/api/portrait',{cookie:a.cookie})).json()).status,'collecting');const e=await addEvent(env,a);const j=await claim(env);assert.equal(j.kind,'portrait');assert.equal('likes' in j,false);assert.equal(j.sources.length,1);assert.equal(j.sources[0].id,'event:'+e.id);assert.equal(j.sources[0].revision,1);assert.equal(j.sources[0].hash.length,64);await complete(env,j,{portrait:portraitV2(j)});const p=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(p.status,'ready');assert.equal(p.portrait.schema_version,2);assert.equal(p.portrait.fictional_character,undefined);});
 
-test('portrait rejects missing summary evidence, forged citations, stale revisions and bare-like biography',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);await like(env,a,0);const j=await claim(env);const valid=portraitV2(j);for(const mutate of [p=>p.summary_evidence=[],p=>p.citations[0].quote='INVENTED EVIDENCE',p=>p.citations[0].revision++,p=>p.axes[0].confidence=0.26,p=>p.axes[0].claim_type='declaration',p=>p.strengths=[{text:'Un trait inventé',evidence:[j.sources.find(s=>s.type==='event')?.id||j.sources[0].id]}]]){const p=structuredClone(valid);mutate(p);await assert.rejects(complete(env,j,{portrait:p}),e=>e.status===400);}await complete(env,j,{portrait:valid});});
+test('portrait rejects missing summary evidence, forged citations, stale revisions and a biography drawn from a bare title',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);await addEvent(env,a);const j=await claim(env);const valid=portraitV2(j);for(const mutate of [p=>p.summary_evidence=[],p=>p.citations[0].quote='INVENTED EVIDENCE',p=>p.citations[0].revision++]){const p=structuredClone(valid);mutate(p);await assert.rejects(complete(env,j,{portrait:p}),e=>e.status===400);}
+ // A quote of the title alone holds no personal words: an interest at most, never a declaration or a strength.
+ const bare=structuredClone(valid);bare.citations[0].quote='title: Un nouveau départ';bare.axes[0]={...bare.axes[0],claim_type:'interest',confidence:0.2};bare.strengths=[];assert.ok(j.sources[0].text.startsWith(bare.citations[0].quote));
+ for(const mutate of [p=>p.axes[0].confidence=0.26,p=>p.axes[0].claim_type='declaration',p=>p.strengths=[{text:'Un trait inventé',evidence:[j.sources[0].id]}]]){const p=structuredClone(bare);mutate(p);await assert.rejects(complete(env,j,{portrait:p}),e=>e.status===400);}await complete(env,j,{portrait:valid});});
 
 test('Paris calendar weeks handle midnight and both DST changes independently from 168 hours',()=>{assert.equal(parisWeek(new Date('2026-11-01T22:59:59Z')).week_start,'2026-10-26');assert.equal(parisWeek(new Date('2026-11-01T23:00:00Z')).week_start,'2026-11-02');assert.equal(parisWeek(new Date('2026-03-23T10:00:00Z')).renews_at,'2026-03-29T22:00:00.000Z');assert.equal(parisWeek(new Date('2026-10-19T10:00:00Z')).renews_at,'2026-10-25T23:00:00.000Z');});
 
@@ -226,8 +168,6 @@ test('partial dates reject zero segments without inventing missing day or month'
 test('reading-context snapshots retry concurrent source edits instead of mixing source revisions',async()=>{const {loadContext}=await import('../src/private-context.mjs');const env={DB:database()},a=await register(env);await addEvent(env,a);const before=versionOf(env,a),prepare=env.DB.prepare.bind(env.DB);let injected=false;env.DB.prepare=sql=>{const statement=prepare(sql);if(sql.includes('FROM life_events e')){const all=statement.all.bind(statement);statement.all=async()=>{const result=await all();if(!injected){injected=true;env.DB.raw.prepare('UPDATE memories SET text=?,version=version+1 WHERE user_id=?').run('A new source arriving during reading.',a.user.id);env.DB.raw.prepare('UPDATE profiles SET version=version+1 WHERE user_id=?').run(a.user.id);}return result;};}return statement;};const c=await loadContext(env,a.user.id);assert.equal(c.source_version,before+1);assert.equal(c.memory.text,'A new source arriving during reading.');assert.ok(c.sources.some(s=>s.type==='memory'&&s.revision===2));});
 
 test('the bounded five-hundred-event collection remains complete without a giant aggregate cell',async()=>{const {loadContext}=await import('../src/private-context.mjs');const env={DB:database()},a=await register(env);const insert=env.DB.raw.prepare('INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,kind,description) VALUES(?,?,?,?,?,?,?)');for(let i=0;i<500;i++)insert.run('event-'+i,a.user.id,'creation-'+i,'hash','Event '+i,'other','x'.repeat(5970)+' END MARKER '+i);const c=await loadContext(env,a.user.id);assert.equal(c.events.length,500);assert.equal(c.sources.length,500);assert.ok(c.sources.find(s=>s.id==='event:event-499').text.endsWith('END MARKER 499'));const r=await request(env,'/api/life-events',{method:'POST',cookie:a.cookie,data:{creation_id:crypto.randomUUID(),title:'Too many',description:'No silent loss'}});assert.equal(r.status,400);assert.equal((await r.json()).code,'collection_limit');});
-
-test('recommendation exposure stores bounded public IDs without changing personal source versions',async()=>{const env={DB:database()},a=await register(env);await like(env,a,0,'Je souhaite explorer la confiance et les relations.');const v=versionOf(env,a);for(let i=0;i<150;i++)env.DB.raw.prepare('INSERT INTO recommendation_exposures(user_id,article_id,shown_at) VALUES(?,?,?)').run(a.user.id,'old-'+i,i<20?'2020-01-01 00:00:00':'2026-11-03 00:00:00');const r=await request(env,'/api/recommendations',{cookie:a.cookie});assert.equal(r.status,200);assert.equal(versionOf(env,a),v);assert.ok(env.DB.raw.prepare('SELECT count(*) n FROM recommendation_exposures WHERE user_id=?').get(a.user.id).n<=100);assert.equal(env.DB.raw.prepare("SELECT count(*) n FROM recommendation_exposures WHERE shown_at<'2021'").get().n,0);});
 
 test('self profile validates optional fields, isolates identity from analysis and uses compare-and-swap revisions',async()=>{
  const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),b=await register(env,'other-profile@example.com');
@@ -244,15 +184,10 @@ test('self profile validates optional fields, isolates identity from analysis an
 });
 
 test('demographics and occupation alone provide no psychological evidence',async()=>{
- const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);pay(env,a);await prepareUser(env,a);
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);pay(env,a);await addEvent(env,a);
  await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:1,occupation:'Psychologue',gender:'female',birth_date:'1980-01-01'}});
  const j=await claim(env);assert.equal(j.sources.some(s=>s.type==='profile'),false);await complete(env,j,{portrait:portraitV2(j)});
  assert.equal(await claim(env),undefined);
-});
-
-test('legacy questionnaire edits preserve the self profile and invalidate an in-flight portrait',async()=>{
- const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await registerPrepared(env);await readyInputs(env,a);const before=await (await request(env,'/api/self-profile',{cookie:a.cookie})).json(),j=await claim(env);
- const r=await request(env,'/api/profile',{method:'PUT',cookie:a.cookie,data:{consent_ai:true,display_name:'Pseudonyme historique'}});assert.equal(r.status,200);const after=await (await request(env,'/api/self-profile',{cookie:a.cookie})).json();assert.deepEqual(after.profile,before.profile);assert.equal(after.revision,before.revision);assert.ok(after.source_version>before.source_version);await assert.rejects(complete(env,j,{portrait:portraitV2(j)}),e=>e.status===409);
 });
 
 test('self-profile removal deletes its extraction cache and invalidates the portrait',async()=>{
@@ -331,32 +266,10 @@ test('free preview bypasses free portrait start/cooldown limits and each source 
  state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'ready');assert.equal(state.retry_after,null);
 });
 
-function internalPortraitFeedback(env,account,data){
- const backend=createPersonalBackend({error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:value=>value,text:value=>String(value||''),body:request=>request.json(),now:()=>Math.floor(Date.now()/1000),random:()=>crypto.randomUUID(),decorateLikes:value=>value,recommender:createRecommender(examples),examples});
- const url=new URL('/api/portrait/feedback',origin);
- return backend.routes(new Request(url,{method:'POST',body:JSON.stringify(data)}),env,account.user,url.pathname,url);
-}
-
 test('the former cartography feedback endpoint rejects account requests without changing the portrait',async()=>{
  const env={DB:database()},a=await register(env),version=versionOf(env,a);
  const response=await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data:{pattern_id:'rumination',kind:'nuance',text:'Une précision.',creation_id:crypto.randomUUID()}});
  assert.equal(response.status,404);assert.equal(versionOf(env,a),version);
-});
-
-test('internal portrait corrections append atomically, remain private and replay without duplicate versions',async()=>{
- const env={DB:database(),FREE_ACCESS_ENABLED:'true'},a=await register(env),b=await register(env,'feedback-other@example.com');
- await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'Une correction déjà écrite par moi.'}});const before=versionOf(env,a);
- const first={pattern_id:'rumination',kind:'nuance',text:'Cela arrive surtout quand je manque de sommeil.',creation_id:crypto.randomUUID()};
- const second={pattern_id:'rumination',kind:'not_concerned',text:'En vacances cette piste ne me correspond pas.',creation_id:crypto.randomUUID()};
- const responses=await Promise.all([first,second].map(data=>internalPortraitFeedback(env,a,data)));for(const response of responses)assert.equal(response.ok,true);
- let memory=await (await request(env,'/api/memory',{cookie:a.cookie})).json();assert.ok(memory.text.startsWith('Une correction déjà écrite par moi.'));assert.ok(memory.text.includes(first.text));assert.ok(memory.text.includes(second.text));assert.equal(versionOf(env,a),before+2);
- const after=versionOf(env,a),replay=await internalPortraitFeedback(env,a,first);assert.equal(replay.replayed,true);assert.equal(versionOf(env,a),after);
- await assert.rejects(internalPortraitFeedback(env,a,{...first,text:'Un autre retour.'}),error=>error.status===409);
- await assert.rejects(internalPortraitFeedback(env,a,{...first,creation_id:crypto.randomUUID(),pattern_id:'invented'}),error=>error.status===400);
- assert.equal((await (await request(env,'/api/memory',{cookie:b.cookie})).json()).text,'');
- memory=await (await request(env,'/api/memory',{cookie:a.cookie})).json();assert.equal(memory.text.split(first.text).length-1,1);
- await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'x'.repeat(9950)}});const fullVersion=versionOf(env,a);
- await assert.rejects(internalPortraitFeedback(env,a,{...first,creation_id:crypto.randomUUID()}),error=>error.code==='memory_limit');assert.equal(versionOf(env,a),fullVersion);assert.equal((await (await request(env,'/api/memory',{cookie:a.cookie})).json()).text.length,9950);
 });
 
 test('source writes debounce a durable native refresh and latest source version wins without duplicate provider calls',async t=>{
@@ -369,7 +282,7 @@ test('source writes debounce a durable native refresh and latest source version 
  assert.equal(env.DB.raw.prepare('SELECT status FROM journal_jobs WHERE id=?').get(old.id).status,'obsolete');
  assert.equal(calls,0);assert.ok(tasks.length>=2);await Promise.all(tasks);
  const state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'ready');assert.equal(state.analyzed_version,versionOf(env,a));assert.equal(calls,2);assert.equal(state.psychology_map,undefined);assert.equal(state.portrait.psychological_map,undefined);
- const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();assert.equal(exported.portrait.psychology_map.outdated,false);assert.ok(Array.isArray(exported.portrait.portrait.psychological_map));
+ const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();assert.equal(exported.portrait.psychology_map,undefined);assert.equal(exported.portrait.outdated,false);assert.ok(Array.isArray(exported.portrait.portrait.psychological_map));
 });
 
 test('cron refresh recovers a persisted portrait queue and rejects stale model results after an intervening source write',async t=>{
@@ -388,9 +301,9 @@ test('current-version legacy portraits are queued for map upgrade and claims can
  assert.equal(env.DB.raw.prepare("SELECT status FROM journal_jobs WHERE user_id=? AND kind='portrait' ORDER BY created_at LIMIT 1").get(a.user.id).status,'pending');
 });
 
-test('versioned memory editors cannot overwrite a concurrently appended portrait correction',async()=>{
+test('versioned memory editors cannot overwrite a precision saved meanwhile from another tab',async()=>{
  const env={DB:database()},a=await register(env);const memory=await (await request(env,'/api/memory',{cookie:a.cookie})).json();
- const data={pattern_id:'rumination',kind:'nuance',text:'Un contexte précis à conserver.',creation_id:crypto.randomUUID()};assert.equal((await internalPortraitFeedback(env,a,data)).ok,true);
+ const data={text:'Un contexte précis à conserver.'};assert.equal((await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data})).status,200);
  const version=versionOf(env,a);let response=await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'Mon ancien brouillon.',expected_version:memory.version}});assert.equal(response.status,409);assert.equal((await response.json()).code,'revision_conflict');assert.equal(versionOf(env,a),version);
  const latest=await (await request(env,'/api/memory',{cookie:a.cookie})).json();assert.ok(latest.text.includes(data.text));response=await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:latest.text+' Une précision ajoutée.',expected_version:latest.version}});assert.equal(response.status,200);
 });
@@ -440,7 +353,7 @@ test('a semantic rejection can retry automatically with a new guarded synthesis,
  const retry=await refreshUserPortrait(env,a.user.id);assert.equal(retry.completed,1);assert.equal(calls,4);
 });
 
-test('portrait display identity is current and separate from evidence; chat readings stay canonical and transient',async()=>{
+test('portrait display identity is current and separate from evidence',async()=>{
  const env={DB:database(),PUBLIC_ORIGIN:origin,FREE_ACCESS_ENABLED:'true'},a=await register(env);
  env.DB.raw.prepare('UPDATE profiles SET self_data=? WHERE user_id=?').run(JSON.stringify({first_name:'Romain',last_name:'Nom privé',gender:'male',self_description:'Je cherche à mieux comprendre mes relations et ma confiance.'}),a.user.id);
  const c=await loadContext(env,a.user.id);
@@ -450,12 +363,6 @@ test('portrait display identity is current and separate from evidence; chat read
  assert.ok(!JSON.stringify(c.sources).includes('Nom privé'));
  const result=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();
  assert.deepEqual(result.subject,c.subject);
- const personal=createPersonalBackend({error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:v=>v,text:v=>String(v||''),body:r=>r.json(),now:()=>Math.floor(Date.now()/1000),random:()=>crypto.randomUUID(),decorateLikes:v=>v,recommender:createRecommender(examples),examples});
- const before=env.DB.raw.prepare('SELECT version,self_revision,self_data FROM profiles WHERE user_id=?').get(a.user.id);
- const readings=await personal.readingSuggestions(env,a.user.id,{query:'Un article pour explorer la confiance dans les relations',limit:30});
- assert.ok(readings.length>0&&readings.length<=6);
- for(const r of readings){const original=examples.find(e=>e.id===r.id);assert.equal(r.url,original.url);assert.equal(r.title,original.title);assert.ok(r.reason);}
- assert.deepEqual(env.DB.raw.prepare('SELECT version,self_revision,self_data FROM profiles WHERE user_id=?').get(a.user.id),before);
  env.DB.raw.prepare('UPDATE profiles SET self_data=? WHERE user_id=?').run(JSON.stringify({first_name:'Autre prénom',gender:'non_binary'}),a.user.id);
  assert.equal((await (await request(env,'/api/portrait',{cookie:a.cookie})).json()).subject.first_name,'Autre prénom');
 });
@@ -510,7 +417,7 @@ test('retired personal story links go to Ambre and discard private query paramet
   }
  }
  const likes=await request({},'/journal/?tab=likes&article=example&like=1&story=private');
- assert.equal(likes.headers.get('location'),'/mon-compte/?article=example&like=1#mes-articles');
+ assert.equal(likes.headers.get('location'),'/mon-compte/');
  const billing=await request({},'/journal/?payment=success&personnage=private');
  assert.equal(billing.headers.get('location'),'/mon-compte/?payment=success');
  assert.equal((await request({},'/ambre/')).status,200);

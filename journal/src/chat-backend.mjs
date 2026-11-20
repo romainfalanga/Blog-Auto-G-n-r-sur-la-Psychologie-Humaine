@@ -197,7 +197,7 @@ export function observedReviewEstimate(durations){
 const OBSERVED_ESTIMATES=new WeakMap();
 // Plan v5.1: marker of a completed turn left out of the weekly quota (cautious reply after a double outage).
 export const UNCOUNTED_REPLY='uncounted_cautious_reply';
-export function createChatBackend({error,json,text,body,now,random,personal:basePersonal,catalogue=new Map(),engineEnabled=false}) {
+export function createChatBackend({error,json,text,body,now,random,personal:basePersonal,engineEnabled=false}) {
  // F23 (active engine): one full read of the personal context per version for the
  // request and every engine stage; other personal methods are read through the proxy.
  const sharedContext=cachedContext((env,userId)=>basePersonal.context(env,userId),{now});
@@ -389,9 +389,9 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
    const related=(s.type==='person'&&relevantPeople.has(id)||s.type==='event'&&relatedEvents.has(id))?terms.length+1:0;
    return {s,score:related+terms.reduce((n,t)=>n+(hay.includes(t)?1:0),0),updated:String(s.updated_at||s.created_at||'')};
   }).sort((a,b)=>b.score-a.score||b.updated.localeCompare(a.updated)||a.s.id.localeCompare(b.s.id));
-  // Each source family gets a first slot before a long list of likes can fill
-  // the budget. Explicit personal accounts outrank unexplained reading likes.
-  const order=['memory','profile','person','event','feedback','like'],groups=Object.fromEntries(order.map(k=>[k,ranked.filter(x=>x.s.type===k).sort((a,b)=>Number(b.s.explicit)-Number(a.s.explicit)||b.score-a.score||(k==='event'?momentTier(a.s)-momentTier(b.s):0)||(review?(b.s.current_importance||0)-(a.s.current_importance||0):0)||b.updated.localeCompare(a.updated))]));
+  // Each source family gets a first slot before a long list of another family can fill
+  // the budget.
+  const order=['memory','profile','person','event','feedback'],groups=Object.fromEntries(order.map(k=>[k,ranked.filter(x=>x.s.type===k).sort((a,b)=>Number(b.s.explicit)-Number(a.s.explicit)||b.score-a.score||(k==='event'?momentTier(a.s)-momentTier(b.s):0)||(review?(b.s.current_importance||0)-(a.s.current_importance||0):0)||b.updated.localeCompare(a.updated))]));
   const queue=[];for(let n=0;order.some(k=>groups[k][n]);n++)for(const k of order)if(groups[k][n])queue.push(groups[k][n]);
   const chosen=[];let size=0;for(const {s} of queue){const hay=fold(s.text),positions=terms.map(t=>hay.indexOf(t)).filter(n=>n>=0),start=positions.length?Math.max(0,Math.min(...positions)-300):0;
    // Memory additions are chronological. Keep the latest accepted fragment
@@ -669,7 +669,6 @@ export function createChatBackend({error,json,text,body,now,random,personal:base
   if(!columns)return null;const thread=reviewThread(await threadRows(env,userId),{maxChars:THREAD_REVIEW_CHARS});
   return thread?{thread,text:threadProse(thread),note:'Fil des bilans : dérivé des bilans prêts et de vos retours, recalculé à chaque lecture. Un extrait plus court (1 200 caractères) accompagne chaque message.'}:null;
  }
- const purgePeopleObservations=(env,userId)=>stmt(env,'DELETE FROM people_observations WHERE user_id=?',userId);
 
  // ---- Journey and written reviews -------------------------------------------------
  // A review is generated asynchronously under a lease. The request makes one bounded
