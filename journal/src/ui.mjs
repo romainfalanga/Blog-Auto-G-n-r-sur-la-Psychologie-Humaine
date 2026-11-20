@@ -6,6 +6,7 @@ import { HEADER_BRAND_HTML, NAVIGATION_HTML, SITE_FOOTER_HTML, SITE_SYSTEM_CSS, 
 import { VOICE_INPUT_SCRIPT } from './voice-input.mjs';
 import { WORKSPACE_STYLE } from './workspace-style.mjs';
 import { CHAT_INTERFACE_SCRIPT } from './chat-interface.mjs';
+import { TOPICS_INTERFACE_SCRIPT, TOPICS_INTERFACE_STYLE } from './topics-interface.mjs';
 import { REVIEW_ARCHIVE_SCRIPT, REVIEW_ARCHIVE_STYLE } from './review-archive-interface.mjs';
 import { PERSON_CHOICES, PERSON_TEXTS, EVENT_CHOICES, EVENT_TEXTS } from './context-fields.mjs';
 import { PEOPLE_AXES_UI } from './people-observations-ui.mjs';
@@ -14,6 +15,7 @@ const DOCUMENT_HTML = String.raw`<!doctype html>
 ${SITE_SYSTEM_CSS}
 ${WORKSPACE_STYLE}
 ${CHANGE_INTERFACE_STYLE}
+${TOPICS_INTERFACE_STYLE}
 ${REVIEW_ARCHIVE_STYLE}
 </style></head><body><header class="site-header">
   <div class="header-inner">
@@ -42,7 +44,7 @@ function clearSessionState(){
  resetChatSession();clearTimeout(state.chatTimer);clearTimeout(state.chatCooldownTimer);clearTimeout(state.journeyTimer);state.chatDraft='';state.chatData=null;state.chatRequest=null;state.chatSending=false;state.chatProposalDrafts.clear();state.journeyKey=null;state.journeyWaiting=false;state.journeyStep=null;preparedResponses={};state.navigationRequest=(state.navigationRequest||0)+1;
  state.sourceDrafts.clear();state.selfDraft=null;state.selfBase=null;state.selfRevision=null;if(state.noteDrafts)state.noteDrafts.clear();state.people=[];state.events=[];
 }
-var PAGES={chat:{path:'/ambre/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},diagnoses:{path:'/mes-diagnostics/',title:'Mes diagnostics'},account:{path:'/mon-compte/',title:'Mon compte'},settings:{path:'/parametres/',title:'Paramètres'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
+var PAGES={chat:{path:'/ambre/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},topics:{path:'/mes-sujets/',title:'Mes sujets'},topic:{path:'/mes-sujets/',title:'Mes sujets'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},diagnoses:{path:'/mes-diagnostics/',title:'Mes diagnostics'},account:{path:'/mon-compte/',title:'Mon compte'},settings:{path:'/parametres/',title:'Paramètres'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
 var PAGE_DESCRIPTIONS={
  reviews:'',
  settings:'',
@@ -65,16 +67,19 @@ function prepareMomentForPerson(){
 function momentReturn(kind,draft){return kind==='events'&&draft&&draft.returnTo&&query.get(MOMENT_FOR_PERSON)===draft.returnTo?draft.returnTo:null}
 // One close person has an address of their own: /mes-proches/<id>/.
 function personIdForPath(path){var match=String(path).match(/^\/mes-proches\/([\w-]+)\/?$/);return match?match[1]:null}
-function pagePath(tab,personId){return tab==='person'?'/mes-proches/'+encodeURIComponent(personId)+'/':PAGES[tab].path}
-function pageForPath(path){if(personIdForPath(path))return 'person';var normalizedPath=path.replace(/\/+$/,'')+'/';if(normalizedPath==='/mon-portrait/')return 'account';return Object.keys(PAGES).find(function(key){return PAGES[key].path===normalizedPath})||'chat'}
+// One topic of « Mes sujets » has an address of its own: /mes-sujets/<id>/.
+function topicIdForPath(path){var match=String(path).match(/^\/mes-sujets\/([\w-]+)\/?$/);return match?match[1]:null}
+function pagePath(tab,personId){return tab==='person'?'/mes-proches/'+encodeURIComponent(personId)+'/':tab==='topic'?'/mes-sujets/'+encodeURIComponent(personId)+'/':PAGES[tab].path}
+function pageForPath(path){if(personIdForPath(path))return 'person';if(topicIdForPath(path))return 'topic';var normalizedPath=path.replace(/\/+$/,'')+'/';if(normalizedPath==='/mon-portrait/')return 'account';return Object.keys(PAGES).find(function(key){return PAGES[key].path===normalizedPath})||'chat'}
 function capturePageDrafts(){var chatInput=document.getElementById('chat-content');if(chatInput)state.chatDraft=chatInput.value;document.querySelectorAll('[data-source-form]').forEach(function(form){captureSourceDraft(form)})}
-function syncPageLocation(){query=new URLSearchParams(location.search);state.tab=pageForPath(location.pathname);state.personId=personIdForPath(location.pathname);state.pendingArticle=query.get('article');state.pendingLike=query.get('like')==='1';state.pendingError=null;syncPageChrome()}
+function syncPageLocation(){query=new URLSearchParams(location.search);state.tab=pageForPath(location.pathname);state.personId=personIdForPath(location.pathname);state.topicId=topicIdForPath(location.pathname);state.pendingArticle=query.get('article');state.pendingLike=query.get('like')==='1';state.pendingError=null;syncPageChrome()}
 function syncPageChrome(){document.title='Décode ton esprit';document.querySelectorAll('#site-navigation a').forEach(function(link){if(link.getAttribute('href')===PAGES[state.tab].path)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')})}
 
 function navigationPending(on){var root=document.documentElement;if(root&&root.classList)root.classList.toggle('is-navigating',on);if(!on&&document.querySelectorAll)document.querySelectorAll('[data-pending]').forEach(function(node){node.removeAttribute('data-pending')})}
 async function go(tab,search,personId){
  if(tab==='likes'||tab==='portrait'){tab='account';search=(search||'').split('#')[0]+'#self-profile'}
  if(tab==='person'&&!personId)tab='people';
+ if(tab==='topic'&&!personId)tab='topics';
  if(!PAGES[tab])return;
  capturePageDrafts();
  var request=state.navigationRequest=(state.navigationRequest||0)+1,owner=state.me&&state.me.user&&state.me.user.id;
@@ -90,20 +95,21 @@ async function go(tab,search,personId){
  else renderApp();
  window.scrollTo({top:0,behavior:'instant'})
 }
-window.addEventListener('popstate',function(){go(pageForPath(location.pathname),location.search+location.hash,personIdForPath(location.pathname))});
-document.addEventListener('click',function(event){var link=event.target.closest('a[href]');if(!link||event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey||link.target==='_blank'||link.hasAttribute('download'))return;var url=new URL(link.href,location.href);if(url.origin!==location.origin)return;var personId=personIdForPath(url.pathname),page=personId?'person':Object.keys(PAGES).find(function(key){return PAGES[key].path===url.pathname.replace(/\/+$/,'')+'/'});if(!page)return;event.preventDefault();navigationPending(false);link.setAttribute('data-pending','');go(page,url.search+url.hash,personId)});
+window.addEventListener('popstate',function(){go(pageForPath(location.pathname),location.search+location.hash,personIdForPath(location.pathname)||topicIdForPath(location.pathname))});
+document.addEventListener('click',function(event){var link=event.target.closest('a[href]');if(!link||event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey||link.target==='_blank'||link.hasAttribute('download'))return;var url=new URL(link.href,location.href);if(url.origin!==location.origin)return;var personId=personIdForPath(url.pathname),topicId=topicIdForPath(url.pathname),page=personId?'person':topicId?'topic':Object.keys(PAGES).find(function(key){return PAGES[key].path===url.pathname.replace(/\/+$/,'')+'/'});if(!page)return;event.preventDefault();navigationPending(false);link.setAttribute('data-pending','');go(page,url.search+url.hash,personId||topicId)});
 
 var initialPageData=readInitialPageData();
 function readInitialPageData(){var node=document.getElementById('initial-page-data');if(!node)return null;try{return JSON.parse(node.textContent)}catch(error){return null}}
 var preparedResponses=initialPageData&&initialPageData.page===location.pathname.replace(/\/+$/,'')+'/'?initialPageData.responses||{}:{};
 async function preparePageData(tab,search,personId){
- var paths={account:['/api/self-profile'],people:['/api/people'],events:['/api/people','/api/life-events']}[tab]||[];
+ var paths={account:['/api/self-profile'],people:['/api/people'],topics:['/api/topics'],events:['/api/people','/api/life-events']}[tab]||[];
  if(tab==='person'){var base='/api/people/'+encodeURIComponent(personId);paths=[base,base+'/timeline']}
+ if(tab==='topic')paths=['/api/topics/'+encodeURIComponent(personId)];
  if(tab==='events'){var filter=new URLSearchParams((search||'').split('#')[0]).get('person');if(filter)paths[1]+='?person_id='+encodeURIComponent(filter)}
  var entries=await Promise.all(paths.map(async function(path){try{return [path,{status:200,body:await api(path)}]}catch(error){return [path,{status:error.status||503,body:{error:error.message,code:error.code}}]}}));return Object.fromEntries(entries)
 }
 var query=new URLSearchParams(location.search);
-var state={chatOutbox:null,chatSeenResponses:new Set(),chatDraft:'',chatProposalDrafts:new Map(),chatSendKey:null,chatSending:false,me:null,tab:pageForPath(location.pathname),personId:personIdForPath(location.pathname),authMode:'login',examples:null,likes:[],drafts:new Map(),differencesDrafts:new Map(),people:[],events:[],sourceDrafts:new Map(),selfDraft:null,selfRevision:null,mapReturnDrafts:new Map(),pendingArticle:query.get('article'),pendingLike:query.get('like')==='1',pendingError:null};
+var state={chatOutbox:null,chatSeenResponses:new Set(),chatDraft:'',chatProposalDrafts:new Map(),chatSendKey:null,chatSending:false,me:null,tab:pageForPath(location.pathname),personId:personIdForPath(location.pathname),topicId:topicIdForPath(location.pathname),authMode:'login',examples:null,likes:[],drafts:new Map(),differencesDrafts:new Map(),people:[],events:[],sourceDrafts:new Map(),selfDraft:null,selfRevision:null,mapReturnDrafts:new Map(),pendingArticle:query.get('article'),pendingLike:query.get('like')==='1',pendingError:null};
 var main=document.getElementById('main');
 function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n}
 function actionButton(text,fn,cls){var b=el('button',cls||'',text);b.type='button';b.addEventListener('click',fn);return b}
@@ -189,6 +195,8 @@ function renderApp(){
  else if(state.tab==='reviews')renderReviews();
  else if(state.tab==='diagnoses')renderDiagnoses();
  else if(state.tab==='person')renderPerson();
+ else if(state.tab==='topics')renderTopics();
+ else if(state.tab==='topic')renderTopic();
  else renderPersonalSources()
 }
 function updateLikeState(result){if(typeof result.source_version==='number'&&typeof state.likeVersion==='number'&&result.source_version<state.likeVersion)return;if(typeof result.source_version==='number')state.likeVersion=result.source_version;state.likes=result.likes||state.likes}
@@ -932,6 +940,7 @@ function setupPortraitViews(view){
 }
 
 ${CHAT_INTERFACE_SCRIPT}
+${TOPICS_INTERFACE_SCRIPT}
 ${REVIEW_ARCHIVE_SCRIPT}
 ${CHANGE_INTERFACE_SCRIPT}
 ${CARE_INTERFACE_SCRIPT}

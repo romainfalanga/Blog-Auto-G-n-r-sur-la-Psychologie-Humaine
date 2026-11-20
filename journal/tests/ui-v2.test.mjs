@@ -143,7 +143,7 @@ test('a late source-save response cannot replace another editor opened in the sa
 });
 
 test('personal pages keep the declared portrait without a synthesis subpage',()=>{
-  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('pageForPath'),env.ctx);
+  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('topicIdForPath')+'\n'+functionCode('pageForPath'),env.ctx);
   assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/mes-proches/'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/ambre/'),'chat');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
@@ -237,14 +237,14 @@ test('V4 global navigation has exactly the shared public links in source order',
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,8);assert.deepEqual(links[0],{href:'/ambre/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Ma ligne de vie','Mes proches','Mon enfance','Mes symptômes','Mes bilans','Mes diagnostics','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,9);assert.deepEqual(links[0],{href:'/ambre/',label:'Ambre'});assert.deepEqual(links.map(link=>link.label),['Ambre','Ma ligne de vie','Mes proches','Mon enfance','Mes symptômes','Mes sujets','Mes bilans','Mes diagnostics','Mon compte']);assert.equal(links.some(link=>link.label==='Mon portrait'),false);assert.equal(links.some(link=>link.href==='/parametres/'),false);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
 function navigationFixture(preparePageData){
  const location={pathname:'/mon-portrait/',search:'',hash:''},rendered=[];
  const env=environment({location,preparedResponses:{},preparePageData,history:{pushState(_state,_unused,path){location.pathname=path}},window:{scrollTo(){}},capturePageDrafts(){},syncPageLocation(){env.ctx.state.tab=env.ctx.pageForPath(location.pathname)},renderApp(){rendered.push(env.ctx.state.tab)}});
- env.ctx.state.me={user:{id:'owner'}};env.ctx.state.tab='portrait';vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('pagePath')+'\n'+functionCode('pageForPath')+'\n'+functionCode('go'),env.ctx);
+ env.ctx.state.me={user:{id:'owner'}};env.ctx.state.tab='portrait';vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('topicIdForPath')+'\n'+functionCode('pagePath')+'\n'+functionCode('pageForPath')+'\n'+functionCode('go'),env.ctx);
  return {...env,location,rendered};
 }
 
@@ -922,7 +922,7 @@ test('V10 an outbox provider cooldown keeps the precise error and automatically 
 
 test('a liked article renders from the real application state and preserves its note draft',async()=>{
  const env=environment({location:{origin:'https://example.test',pathname:'/mon-portrait/'},query:new URLSearchParams()});
- vm.runInContext(functionCode('personIdForPath')+'\n'+functionCode('pageForPath')+'\n'+script.match(/var PAGES=.*\n/)[0]+'\n'+script.match(/var state=.*\n/)[0],env.ctx);
+ vm.runInContext(functionCode('personIdForPath')+'\n'+functionCode('topicIdForPath')+'\n'+functionCode('pageForPath')+'\n'+script.match(/var PAGES=.*\n/)[0]+'\n'+script.match(/var state=.*\n/)[0],env.ctx);
  for(const name of ['safeArticleLink','drawLikedArticles'])vm.runInContext(functionCode(name),env.ctx);
  env.ctx.state.examples=[{id:'a',title:'Une lecture',url:'/posts/une-lecture/'}];
  env.ctx.state.likes=[{article_id:'a',reason:'Mon retour'}];
@@ -1077,7 +1077,7 @@ test('a close person has an address of their own, prepared and opened like the o
 });
 function personFixture(api,extra={}){
  const env=environment({api,location:{pathname:'/mes-proches/p1/'},history:{replaceState(){}},queueMicrotask(fn){fn()},...extra});
- for(const name of ['personRoleLabel','personIdForPath','pagePath','noteTarget','parseStamp','shortDay','addedOn','historyButton','noteDay','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
+ for(const name of ['personRoleLabel','personIdForPath','topicIdForPath','pagePath','noteTarget','parseStamp','shortDay','addedOn','historyButton','noteDay','sourceNoteEditor','sourceNoteCard','eventNotes','personTimeline','renderPerson','drawPersonPage','personSaved','drawSourceItem'])vm.runInContext(functionCode(name),env.ctx);
  Object.assign(env.ctx.state,{tab:'person',personId:'p1',peopleFieldsReady:false});
  const head=env.doc.createElement('div'),title=env.doc.createElement('h1'),description=env.doc.createElement('p');title.id='private-page-title';title.textContent='Mes proches';description.id='page-description';description.hidden=true;head.append(title,description);
  const view=env.host('view');let html='';Object.defineProperty(view,'innerHTML',{set(value){html=value;const status=env.doc.createElement('p'),box=env.doc.createElement('div');status.id='source-page-status';box.id='person-content';view.replaceChildren(status,box)},get(){return html}});
