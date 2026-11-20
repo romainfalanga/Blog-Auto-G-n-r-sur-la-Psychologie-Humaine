@@ -20,6 +20,10 @@
     "href": "/mes-symptomes/"
   },
   {
+    "label": "Mes sujets",
+    "href": "/mes-sujets/"
+  },
+  {
     "label": "Mes bilans",
     "href": "/mes-bilans/"
   },

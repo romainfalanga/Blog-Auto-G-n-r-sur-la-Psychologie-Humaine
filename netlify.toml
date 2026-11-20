@@ -155,6 +155,28 @@
     Cache-Control = "private, no-store"
 
 [[redirects]]
+  from = "/mes-sujets"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-sujets/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mes-sujets/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-sujets/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/mes-sujets"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mes-sujets/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[redirects]]
   from = "/mes-proches"
   to = "https://decode-journal.romainfalanga83.workers.dev/mes-proches/"
   status = 200

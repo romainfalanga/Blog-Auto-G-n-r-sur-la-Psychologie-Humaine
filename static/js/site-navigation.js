@@ -20,7 +20,7 @@
     toggle.focus();
     event.preventDefault();
   });
-  var breakpoint = window.matchMedia('(max-width: 840px)');
+  var breakpoint = window.matchMedia('(max-width: 1099px)');
   if (breakpoint.addEventListener) breakpoint.addEventListener('change', close);
   else if (breakpoint.addListener) breakpoint.addListener(close);
 })();
