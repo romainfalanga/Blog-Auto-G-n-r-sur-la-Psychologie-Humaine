@@ -366,18 +366,18 @@ function ambreIntroStatus(data){
 function ambreIntroMessage(data,current){
  var guest=chatGuest(data),needs=ambreNeeds(guest?null:ambreReadiness(data));
  var item=el('article','chat-message chat-assistant ambre-intro');item.id='ambre-intro';item.setAttribute('aria-labelledby','ambre-intro-title');
- var from=el('p','ambre-from','Ambre · premier message'),title=el('h2','ambre-intro-title','Bonjour, je suis Ambre.');title.id='ambre-intro-title';
+ var title=el('h2','ambre-intro-title','Bonjour, je suis Ambre.');title.id='ambre-intro-title';var hello=el('div','ambre-bubble'),ask=el('div','ambre-bubble');
  var lead=el('div','ambre-intro-lead');
  lead.append(el('p','',AMBRE_INTRO[0]),el('p','',AMBRE_INTRO[1]),el('p','',AMBRE_INTRO[2]));
  var needsTitle=el('h3','ambre-needs-title','Ce dont j’ai besoin');needsTitle.id='ambre-needs-title';
  var list=el('ul','ambre-needs');list.setAttribute('aria-labelledby',needsTitle.id);needs.forEach(function(need){list.append(ambreNeedItem(need,guest))});
- item.append(from,title,lead,needsTitle,list);
+ hello.append(title,lead);ask.append(needsTitle,list);item.append(hello,ask);
  if(guest){
   var actions=el('div','actions ambre-auth');[['login','Se connecter',''],['register','Créer un compte','secondary']].forEach(function(entry){var button=el('button',entry[2],entry[1]);button.type='button';button.dataset.auth=entry[0];actions.append(button)});
-  item.append(el('p','ambre-guest-note','Connectez-vous pour remplir ces pages : elles restent privées.'),actions);
+  ask.append(el('p','ambre-guest-note','Connectez-vous pour remplir ces pages : elles restent privées.'),actions);
  }else{
   var statusLine=ambreIntroStatus(data);
-  if(statusLine===null)item.append(ambreLaunchArea(data,current,needs));else if(statusLine)item.append(el('p','ambre-intro-status',statusLine));
+  if(statusLine===null)ask.append(ambreLaunchArea(data,current,needs));else if(statusLine)ask.append(el('p','ambre-intro-status',statusLine));
  }
  return item;
 }

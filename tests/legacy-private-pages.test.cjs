@@ -10,16 +10,16 @@ test('legacy page redirects drop retired identifiers and retain public article o
   // "/" now opens Ambre (302); that rule is its only redirect and it never carries legacy identifiers.
   const home = config.split('[[redirects]]').slice(1).filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
   assert.equal(home.length, 1);
-  assert.match(home[0], /to = "\/mon-accompagnement\/"\s+status = 302/);
+  assert.match(home[0], /to = "\/ambre\/"\s+status = 302/);
   const [, pattern] = config.match(/pattern = "([^"]+)"\s+function = "legacy-private-pages"/);
   const route = new RegExp('^(?:' + pattern + ')$');
   assert.equal(route.test('/personnages/camille/'), false);
   assert.equal(route.test('/'), false);
   for (const [path, location] of [
-    ['/mon-personnage/?story=old', '/mon-accompagnement/'],
-    ['/mes-personnages?character=old', '/mon-accompagnement/'],
-    ['/mes-histoires/old?story=old', '/mon-accompagnement/'],
-    ['/journal/?story=old', '/mon-accompagnement/'],
+    ['/mon-personnage/?story=old', '/ambre/'],
+    ['/mes-personnages?character=old', '/ambre/'],
+    ['/mes-histoires/old?story=old', '/ambre/'],
+    ['/journal/?story=old', '/ambre/'],
     ['/journal/?article=public&like=1&story=old', '/mon-compte/?article=public&like=1#mes-articles'],
     ['/journal/?payment=success&character=old', '/mon-compte/?payment=success'],
     ['/journal/?tab=portrait&character=old', '/mon-compte/'],

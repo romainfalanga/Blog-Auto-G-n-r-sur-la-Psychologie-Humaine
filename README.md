@@ -1,6 +1,6 @@
 # Décode ton esprit
 
-[Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
+[Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/ambre/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
 
 Le catalogue associe les 387 récits des 33 personnages d’origine aux parcours cliniques de 12 épisodes. Les effectifs vérifiés et les lacunes restantes sont tenus à jour dans [l’état de couverture](docs/etat-couverture.md). Chaque article commence par une scène. Viennent ensuite l’explication, les manifestations, les appuis et la résolution de la scène. « Du côté des proches » termine le récit. Les références sont conservées dans les données éditoriales. La recherche combine mots-clés et formulations proches. L’accueil réunit les personnages dans une même liste, avec le trouble sur les cartes et dans les présentations des personnages concernés.
 

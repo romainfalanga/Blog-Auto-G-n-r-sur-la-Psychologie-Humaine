@@ -505,7 +505,7 @@ test('retired personal story links go to Ambre and discard private query paramet
   for(const method of ['GET','HEAD']){
    const response=await request({},path+'?story=old-story&personnage=private-character',{method});
    assert.equal(response.status,302,path);
-   assert.equal(response.headers.get('location'),'/mon-accompagnement/');
+   assert.equal(response.headers.get('location'),'/ambre/');
    assert.match(response.headers.get('cache-control'),/private, no-store/);
   }
  }
@@ -513,7 +513,7 @@ test('retired personal story links go to Ambre and discard private query paramet
  assert.equal(likes.headers.get('location'),'/mon-compte/?article=example&like=1#mes-articles');
  const billing=await request({},'/journal/?payment=success&personnage=private');
  assert.equal(billing.headers.get('location'),'/mon-compte/?payment=success');
- assert.equal((await request({},'/mon-accompagnement/')).status,200);
+ assert.equal((await request({},'/ambre/')).status,200);
 });
 
 function seedRetiredStory(db,userId){

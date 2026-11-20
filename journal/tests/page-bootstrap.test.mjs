@@ -83,7 +83,7 @@ test('personal HTML embeds escaped data in a non-executable JSON block beside th
 });
 test('no HTML may be framed any more, even with the retired embedded parameter; old portrait redirects to account',async t=>{
   const s=fixture(t);
-  for(const path of ['/mon-accompagnement/?embedded=1','/mon-accompagnement?embedded=1','/mon-accompagnement/','/mon-compte/?embedded=1','/mes-proches/person-a/?embedded=1','/api/me?embedded=1']){
+  for(const path of ['/ambre/?embedded=1','/ambre?embedded=1','/ambre/','/mon-compte/?embedded=1','/mes-proches/person-a/?embedded=1','/api/me?embedded=1']){
     const response=await s.request(path);
     assert.equal(response.status,200);
     assert.equal(response.headers.get('X-Frame-Options'),'DENY');
