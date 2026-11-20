@@ -58,7 +58,7 @@ function environment(extra={}) {
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
   // The site confirmation window is answered by the same hook as the former confirm().
   if(!ctx.confirmDialog)ctx.confirmDialog=(title,text)=>Promise.resolve(ctx.confirm([title,text].filter(Boolean).join(' ')));
-  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerClosed','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','monthNames','periodLength','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerClosed','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var MOMENT_FOR_PERSON=.*\n/)[0],ctx);
   vm.runInContext(['AMBRE_INTRO','AMBRE_DAILY_LAUNCHES','AMBRE_FAILURES'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join(''),ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
@@ -111,7 +111,7 @@ test('life-event form preserves an approximate age, and associated people',async
 test('saving a year never invents a month or day, and changing precision updates required fields',async()=>{
   let sent;const env=editFixture('events',{title:'2020',kind:'positive',date_precision:'unknown',description:'Un souvenir',people_ids:[]},{api:async(p,m,d)=>{sent=d;throw new Error('offline')}});
   const precision=field(env.form,'date_precision','year');await precision.fire('change');field(env.form,'date_start','2020');
-  assert.equal(env.form.elements.date_start.required,true);assert.equal(env.form.elements.age_text.required,false);
+  assert.equal(env.form.elements.date_start.type,'hidden','dates are chosen in lists, never typed');assert.equal(env.form.elements.age_text.type,'hidden');
   await env.form.fire('submit');assert.equal(sent.date_start,'2020');assert.equal(sent.date_precision,'year');assert.equal(sent.age_text,'');
 });
 
@@ -789,18 +789,18 @@ test('A5-P2 observation proposals require an explicit decision and retain edited
  await form.querySelectorAll('button').find(button=>button.textContent==='Refuser').fire('click');assert.equal(calls[1].path,'/api/chat/proposals/obs1/reject');assert.equal(calls[1].payload.revision,2);assert.equal(calls[1].payload.payload,undefined);
 });
 
-test('date controls keep precision drafts without manufacturing a month or a day',async()=>{
+test('date pickers never manufacture a month or a day when the precision changes',async()=>{
  const env=editFixture('events',{title:'Souvenir',description:'Récit',kind:'positive',date_precision:'year',date_start:'1998',people_ids:[]});
- const {date_precision:precision,date_start:start}=env.form.elements;assert.equal(start.type,'text');assert.equal(start.value,'1998');
- precision.value='day';await precision.fire('change');assert.equal(start.type,'date');assert.equal(start.value,'');start.value='1998-06-17';
- precision.value='month';await precision.fire('change');assert.equal(start.type,'month');assert.equal(start.value,'');start.value='1998-06';
- precision.value='year';await precision.fire('change');assert.equal(start.value,'1998');precision.value='day';await precision.fire('change');assert.equal(start.value,'1998-06-17');
- await env.form.fire('input');env.ctx.drawSourceEditor('events');assert.equal(env.doc.getElementById('events-form').elements.date_start.value,'1998-06-17');
+ const {date_precision:precision,date_start:start}=env.form.elements;assert.equal(start.type,'hidden');assert.equal(start.value,'1998');
+ precision.value='day';await precision.fire('change');assert.equal(start.value,'','a day needs its month and its day');
+ precision.value='month';await precision.fire('change');assert.equal(start.value,'','a month needs its month');
+ precision.value='year';await precision.fire('change');assert.equal(start.value,'1998');precision.value='range';await precision.fire('change');assert.equal(start.value,'1998');assert.equal(env.form.elements.date_end.value,'');
+ precision.value='year';await precision.fire('change');await env.form.fire('input');env.ctx.drawSourceEditor('events');assert.equal(env.doc.getElementById('events-form').elements.date_start.value,'1998');
 });
 
 test('meeting dates use the same partial controls and preserve legacy period text',async()=>{
  let sent;const env=editFixture('people',{display_name:'Camille',role:'friend',meeting_date_precision:'month',meeting_date_start:'2010-05',period_start:'Pendant mes études',period_end:''},{api:async(p,m,data)=>{sent=data;throw new Error('offline')}});
- assert.equal(env.form.elements.meeting_date_start.type,'month');assert.equal(env.form.elements.meeting_date_start.value,'2010-05');await env.form.fire('submit');assert.equal(sent.meeting_date_start,'2010-05');assert.equal(sent.period_start,'Pendant mes études');
+ assert.equal(env.form.elements.meeting_date_start.type,'hidden');assert.equal(env.form.elements.meeting_date_start.value,'2010-05');await env.form.fire('submit');assert.equal(sent.meeting_date_start,'2010-05');assert.equal(sent.period_start,'Pendant mes études');
 });
 
 test('an already-started conversation is blocked when the strict readiness checklist becomes incomplete',()=>{

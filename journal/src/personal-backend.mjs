@@ -45,7 +45,7 @@ export function createPersonalBackend({error,json,text,body,now,random}) {
  if(e.current_importance!==null&&(!Number.isInteger(e.current_importance)||e.current_importance<1||e.current_importance>5))fail(400,'Importance invalide.','invalid_input');
  const validDate=v=>{if(!/^\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(v))return false;const parts=v.split('-'),[y,m,d]=parts.map(Number),end=new Date(0);end.setUTCFullYear(y,m||1,0);return y>=1&&y<=9999&&(parts.length<2||m>=1&&m<=12)&&(parts.length<3||d>=1&&d<=end.getUTCDate());};
  if(e.date_start&&!validDate(e.date_start)||e.date_end&&!validDate(e.date_end))fail(400,'Date partielle invalide.','invalid_date');
- const lengths={year:4,month:7,day:10};if(lengths[e.date_precision]&&e.date_start.length!==lengths[e.date_precision]||e.date_precision==='range'&&(!e.date_start||!e.date_end||e.date_start>e.date_end)||e.date_precision==='age'&&!e.age_text)fail(400,'La date ne correspond pas à sa précision.','invalid_date');
+ const lengths={year:4,month:7,day:10};if(lengths[e.date_precision]&&e.date_start.length!==lengths[e.date_precision]||e.date_precision==='range'&&(!e.date_start||e.date_end&&(e.date_start+'-01-01').slice(0,10)>(e.date_end+'-12-31').slice(0,10))||e.date_precision==='age'&&!e.age_text)fail(400,'La date ne correspond pas à sa précision.','invalid_date');
  if(!Array.isArray(data.people_ids??[])||(data.people_ids??[]).length>10||(data.people_ids??[]).some(id=>typeof id!=='string'||id.length>120))fail(400,'Associations invalides.','invalid_people');
  optionalFields(e,data,EVENT_CHOICES,EVENT_TEXTS);
  // Migration 0027: kept only when chosen, so a moment « à préciser » keeps its payload hash.
