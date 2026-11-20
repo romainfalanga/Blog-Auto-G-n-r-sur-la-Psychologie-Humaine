@@ -39,23 +39,6 @@ DETERMINISTIC = re.compile(r"\b(provoque|cause directement|entraîne forcément|
 PERCENT = re.compile(r"\d+\s?%")
 
 
-def page_exists(url: str) -> bool:
-    if url.startswith("/personnages/"):
-        slug = url.strip("/").split("/")[1]
-        return (ROOT / "content" / "personnages" / f"{slug}.md").exists()
-    if url.startswith("/posts/"):
-        parts = url.strip("/").split("/")
-        if len(parts) != 3:
-            return False
-        section, slug = parts[1], parts[2]
-        for path in (ROOT / "content" / "posts" / section).glob("*.md"):
-            head = path.read_text(encoding="utf-8")[:1500]
-            match = re.search(r'^slug:\s*"?([^"\n]+)"?\s*$', head, re.M)
-            if (match and match.group(1).strip() == slug) or path.stem == slug:
-                return True
-    return False
-
-
 DOMAINS = [
     ("perceptions", "Perceptions et dissociation", r"psychot|6a2|dissoci|6b6"),
     ("humeur", "Humeur", r"dep_|dysthym|bipolaire|suicid|6a7|6a6|deuil|6b42"),
@@ -187,10 +170,6 @@ def build(*, check_audit: bool = True) -> tuple[dict, list[str]]:
                 errors.append(f"{name} : type inconnu pour {o.get('id')}")
             if o["id"].startswith(FORBIDDEN_OUTCOME_PREFIXES):
                 errors.append(f"{name} : {o['id']} ne doit pas être relié à l'enfance vécue")
-            url = o.get("url")
-            if url and not page_exists(url):
-                errors.append(f"{name} : page absente pour {o['id']} ({url})")
-                o = dict(o, url=None)
             outcomes.setdefault(o["id"], o)
         for p in part.get("protections", []):
             protections.append(p)

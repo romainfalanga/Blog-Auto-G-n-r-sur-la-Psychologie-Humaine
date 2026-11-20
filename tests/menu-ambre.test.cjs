@@ -29,24 +29,29 @@ test('the Ambre bubble is removed from the public site: no asset, no loader, no 
   assert.match(config, /X-Frame-Options = "DENY"/);
 });
 
-test('opening the site lands on Ambre: "/" redirects (302) to /ambre/, the catalogue stays at /personnages/', () => {
+test('opening the site lands on Ambre: "/" redirects (302) to /ambre/, the retired catalogue addresses redirect (301) to /ambre/', () => {
   const config = read('netlify.toml');
   const blocks = config.split(/\n(?=\[\[)/).filter(block => block.startsWith('[[redirects]]'));
   const home = blocks.filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
   assert.equal(home.length, 1);
   // Temporary, and forced: Hugo still builds an index.html at "/", which Netlify would otherwise serve.
   assert.match(home[0], /to = "\/ambre\/"\s+status = 302\s+force = true/);
-  // The proxied Ambre page itself is never redirected back to "/", and nothing redirects the catalogue.
+  // The proxied Ambre page itself is never redirected back to "/".
   for (const from of ['/ambre', '/ambre/*']) assert.doesNotMatch(blocks.find(block => block.includes('from = "' + from + '"')), /to = "\/"/);
-  assert.ok(!blocks.some(block => /from\s*=\s*"\/personnages\/?"\s*$/m.test(block)));
-  assert.match(read('layouts/personnages/list.html'), /character-directory/);
-  // The logo and the footer lead straight to Ambre (no redirect hop); the footer keeps a link to the catalogue.
+  // The public catalogue is removed: its old addresses lead to Ambre and no template, page or script of it remains.
+  for (const from of ['/personnages', '/personnages/*', '/posts', '/posts/*', '/feed.xml', '/index.xml']) {
+    assert.match(blocks.find(block => block.includes('from = "' + from + '"')), /to = "\/ambre\/"\s+status = 301\s+force = true/, from);
+  }
+  for (const path of ['content/posts', 'content/personnages', 'layouts/personnages', 'layouts/_default/single.html', 'layouts/_default/list.html', 'static/js/article-likes.js', 'static/js/character-search.js', 'static/llms.txt']) {
+    assert.equal(existsSync(join(root, path)), false, path);
+  }
+  // The logo and the footer lead straight to Ambre (no redirect hop).
   assert.match(read('layouts/partials/header-brand.html'), /^<a href="\/ambre\/" class="site-logo"/);
   const footer = read('layouts/partials/footer.html');
   assert.match(footer, /href="\/ambre\/" class="site-logo"/);
   assert.doesNotMatch(footer, /Personnages/);
   // No internal link of the site or of the personal space points at "/" any more.
-  for (const file of ['layouts/partials/header-brand.html', 'layouts/partials/footer.html', 'layouts/partials/breadcrumb.html', 'journal/src/ui.mjs', 'journal/src/navigation.generated.mjs']) {
+  for (const file of ['layouts/partials/header-brand.html', 'layouts/partials/footer.html', 'journal/src/ui.mjs', 'journal/src/navigation.generated.mjs']) {
     assert.doesNotMatch(read(file), /href=\\?"\/\\?"|\.href='\/'/, file);
   }
 });

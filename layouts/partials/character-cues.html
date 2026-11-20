@@ -1,4 +1,0 @@
-{{- $name := (.Params.prenom | default .Title) | lower -}}
-{{- with index .Site.Data.character_keywords $name -}}
-<ul class="keyword-list character-keywords" aria-label="Repères récurrents de {{ .name }}">{{ range .keywords }}<li>{{ . }}</li>{{ end }}</ul>
-{{- end -}}

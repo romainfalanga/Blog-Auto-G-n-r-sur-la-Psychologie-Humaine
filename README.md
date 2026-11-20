@@ -1,10 +1,10 @@
 # Décode ton esprit
 
-[Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/ambre/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
+[Décode ton esprit](https://decodetonesprit.fr) est un espace personnel. Le menu comprend Ambre (`/ambre/`), Ma ligne de vie, Mes proches, Mon enfance (`/cartographie/`), Mes symptômes (`/mes-symptomes/`), Mes sujets, Mes bilans, Mes diagnostics et Mon compte. L’adresse `/` redirige vers Ambre.
 
-Le catalogue associe les 387 récits des 33 personnages d’origine aux parcours cliniques de 12 épisodes. Les effectifs vérifiés et les lacunes restantes sont tenus à jour dans [l’état de couverture](docs/etat-couverture.md). Chaque article commence par une scène. Viennent ensuite l’explication, les manifestations, les appuis et la résolution de la scène. « Du côté des proches » termine le récit. Les références sont conservées dans les données éditoriales. La recherche combine mots-clés et formulations proches. L’accueil réunit les personnages dans une même liste, avec le trouble sur les cartes et dans les présentations des personnages concernés.
+Le catalogue public (personnages et articles) a été retiré en novembre 2026 : ses anciennes adresses (`/personnages/…`, `/posts/…`) redirigent vers `/ambre/`. Le retrait des restes côté Worker (exemples, articles aimés, recommandations) fait l’objet d’un lot séparé.
 
-Pour reprendre la production : lire [les consignes du projet](AGENTS.md), [le pilotage des agents](docs/agents-editoriaux.md) et `editorial/automation/state.json`. Créateurs, rédacteurs et relecteurs sont de vrais sous-agents ChatGPT distincts ; le contrôleur conserve les remises et les reprises sans appeler de modèle ni programmer une exécution de fond.
+Pour reprendre le travail : lire [les consignes du projet](AGENTS.md) et [la note de reprise](docs/reprise-2026-11-19-codex.md).
 
 ## Personnalisation
 
@@ -22,28 +22,28 @@ La cartographie présente d’abord les pistes personnelles, puis leurs élémen
 
 ## Architecture
 
-Hugo/Netlify sert le catalogue public. Cloudflare Worker/D1 gère les comptes, les sources personnelles, la conversation et l’analyse du portrait. GitHub Actions relaie l’analyse du portrait pour les contextes longs. Les retards du planificateur sont possibles.
+Hugo/Netlify sert Mon enfance (`/cartographie/`), Mes symptômes (`/mes-symptomes/`) et la page 404, et relaie les autres pages vers le Worker. Cloudflare Worker/D1 (`journal/`) gère les comptes, les sources personnelles, la conversation et l’analyse du portrait. GitHub Actions relaie l’analyse du portrait pour les contextes longs. Les retards du planificateur sont possibles.
 
-La clé OpenRouter d’Ambre reste un secret Cloudflare. Pour l’analyse des portraits, les Actions s’authentifient par OIDC auprès d’une passerelle qui vérifie versions, bail, droits et budgets avant chaque appel. Les textes privés ne sont écrits ni dans Git, ni dans les articles publics, ni dans les logs Actions. Les parcours publics sont rédigés directement par des agents de rédaction dédiés, avec une fiche individuelle et une relecture avant intégration.
+La clé OpenRouter d’Ambre reste un secret Cloudflare. Pour l’analyse des portraits, les Actions s’authentifient par OIDC auprès d’une passerelle qui vérifie versions, bail, droits et budgets avant chaque appel. Les textes privés ne sont écrits ni dans Git, ni dans les articles publics, ni dans les logs Actions.
 
 ## Validation
 
 ```sh
 node scripts/build_navigation.mjs --check
-python scripts/check_editorial_pack.py
-python scripts/integrate_editorial_pack.py --check
-python scripts/clinical_editorial.py check
+node scripts/build_cartographie_module.mjs --check
+python scripts/build_cartographie.py --check
+python scripts/build_symptomes_carte.py --check
 hugo --minify
-node --test tests/*.test.cjs
+HUGO_BIN=<chemin de hugo> node --test tests/*.test.cjs
 npm --prefix journal test
 python -m unittest discover -s journal/tests -p 'test_personal*.py'
-node journal/tests/evaluate-recommendations.mjs
+python -m unittest discover -s journal/tests -p 'test_symptomes*.py'
 ```
 
 Voir [le plan et les décisions V4](docs/plan-accompagnement-v4.md), [le guide backend](journal/README.md), [les contrats V2](docs/contrats-implementation-v2.md), [les résultats algorithmiques et leurs limites](docs/implementation-algorithmique-v2.md) et [la recette de mise en ligne](docs/suivi-implementation-v2.md).
 
-V10 : [plan, revue et validation](docs/plan-ambre-v10.md), [audit de couverture](docs/couverture-v10-proposition.md), [contrat de capacités](docs/plan-capacites-v10.md), [interface](docs/plan-interface-v10.md), [manifeste des 156 récits](data/editorial_pack_v10.json).
+V10 : [plan, revue et validation](docs/plan-ambre-v10.md), [contrat de capacités](docs/plan-capacites-v10.md), [interface](docs/plan-interface-v10.md).
 
 [Plan de refonte de l’espace personnel](docs/plan-espace-ambre-v14.md).
 
-[Plan de navigation, proches et parcours cliniques](docs/plan-v17.md) · [Cartographie clinique](docs/cartographie-clinique-v17.md) · [Audit comparatif des troubles et des mécanismes](docs/audit-comparatif-couverture.md).
+[Plan de navigation, proches et parcours cliniques](docs/plan-v17.md).

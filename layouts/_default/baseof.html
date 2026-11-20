@@ -4,7 +4,7 @@
   {{ partial "head.html" . }}
   {{ block "head-end" . }}{{ end }}
 </head>
-<body class="{{ if or .IsHome (and (eq .Kind "section") (eq .Section "personnages")) }}home-page{{ else if and .IsPage (eq .Section "posts") }}reading-page{{ end }}">
+<body>
   <a class="skip-link" href="#main-content">Aller au contenu</a>
   {{ partial "header.html" . }}
   <main id="main-content" tabindex="-1">
