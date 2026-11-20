@@ -43,7 +43,7 @@ test('anonymous and expired sessions contain only me; methods and unknown page k
   for(const key of ['','other','__proto__','constructor','https://evil.test/'])assert.equal((await s.request('/api/initial-state?page='+encodeURIComponent(key))).status,400);
   for(const method of ['POST','PUT','DELETE','HEAD','OPTIONS'])assert.equal((await s.request('/api/initial-state?page=account','a',method)).status,405);
   for(const page of ['account','people','events']){const response=await s.request(paths[page],'a','HEAD');assert.equal(response.status,200);assert.equal(await response.text(),'')}
-  for(const path of ['/parametres/','/mes-bilans/'])assert.equal((await s.request(path)).status,200,'Other HTML routes remain shells without database reads');
+  for(const path of ['/mon-suivi/','/mes-bilans/'])assert.equal((await s.request(path)).status,200,'Other HTML routes remain shells without database reads');
 });
 test('event bootstrap starts both independent business reads before either has completed',{timeout:3000},async t=>{
   const s=fixture(t),prepare=s.env.DB.prepare.bind(s.env.DB),started=new Set();let release;

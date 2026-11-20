@@ -482,63 +482,9 @@ body:has(.conversation-page .chat-thread:not([hidden])) .site-footer { display: 
 .care-section button { max-width: 100%; white-space: normal; }
 
 /* Settings (Paramètres). */
-#view > .settings-workspace { max-width: var(--page-wide); }
-.settings-toolbar { display: flex; align-items: center; justify-content: space-between; gap: var(--s4); margin-bottom: var(--s5); border-bottom: 1px solid var(--line); }
-.settings-tabs { display: flex; flex-wrap: wrap; gap: 0 var(--s5); min-width: 0; }
-button.settings-tab { flex: none; min-height: 48px; padding: 0; border: 0; border-bottom: 2px solid transparent; border-radius: 0; background: none; color: var(--muted); font-size: var(--t-sm); }
-button.settings-tab:hover { background: none; color: var(--ink); }
-button.settings-tab[aria-selected=true] { border-bottom-color: var(--accent); color: var(--ink); }
-.settings-toolbar > button { flex: none; }
-.settings-pane > *, .settings-section > * { max-width: var(--page); }
-.settings-section { margin: 0 0 var(--s6); }
-.settings-section > h2 { margin: 0 0 var(--s3); }
 /* A sentence never sticks to the fold or the button above it. */
 .settings-workspace :where(.change-section, .settings-disclosure) + :where(p),
 .settings-workspace :where(button) + :where(p),
-.settings-workspace :where(button) + .status + :where(p) { margin-top: var(--s3); }
-.settings-intro, .settings-extra > p, .settings-footnote { color: var(--muted); font-size: var(--t-sm); }
-.settings-context, .settings-source-area { margin: var(--s5) 0; padding: var(--s5) 0 0; border-top: 1px solid var(--line); }
-.settings-context > h3, .settings-source-area h3 { margin: 0 0 var(--s2); }
-.settings-disclosure { min-width: 0; margin: 0; border-bottom: 1px solid var(--line); }
-.settings-disclosure > :not(summary) { margin-bottom: var(--s4); }
-.settings-disclosure .settings-disclosure { margin-left: var(--s3); border-bottom: 0; border-top: 1px solid var(--line); }
-.settings-disclosure .settings-disclosure > summary { min-height: 44px; font-size: var(--t-sm); }
-.settings-value { min-width: 0; font-size: var(--t-sm); }
-.settings-value-item + .settings-value-item { margin-top: var(--s3); padding-top: var(--s3); border-top: 1px solid var(--line); }
-.settings-data-row { display: grid; grid-template-columns: minmax(100px, .65fr) minmax(0, 1.7fr); gap: var(--s2) var(--s5); padding: var(--s2) 0; }
-.settings-data-label { color: var(--muted); font-size: var(--t-xs); overflow-wrap: anywhere; }
-.settings-prose { max-width: 68ch; margin: 0; line-height: 1.7; white-space: pre-wrap; overflow-wrap: anywhere; }
-.settings-json { max-height: 480px; padding: var(--s3); overflow-y: auto; border: 1px solid var(--line); border-radius: var(--r-control); background: var(--surface); font-size: var(--t-xs); white-space: pre-wrap; overflow-wrap: anywhere; word-break: break-word; }
-.settings-pipeline { margin: var(--s5) 0; padding: 0; list-style: none; counter-reset: pipeline; }
-.settings-step { position: relative; margin: 0; padding: 0 0 var(--s5) var(--s6); counter-increment: pipeline; }
-.settings-step::before { content: counter(pipeline) '.'; position: absolute; left: 0; top: 0; color: var(--muted); font: 600 var(--t-md)/1.35 var(--font-ui); }
-.settings-step h3 { margin: 0 0 var(--s2); }
-.settings-step > p { max-width: 68ch; font-size: var(--t-sm); }
-.settings-model { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px var(--s2); margin: 0 0 var(--s2); color: var(--muted); font-size: var(--t-xs); }
-.settings-model > strong { font-weight: 400; overflow-wrap: anywhere; }
-.settings-footnote { padding-top: var(--s4); border-top: 1px solid var(--line); }
-.settings-source-area .field { max-width: 560px; }
-.settings-source-area > button { margin-top: var(--s4); }
-.settings-source-content { padding-left: var(--s4); border-left: 2px solid var(--line); }
-.settings-links { display: flex; flex-wrap: wrap; gap: 0 var(--s5); }
-.settings-links .text-link, .settings-source-content .text-link, .settings-section > .text-link { padding: 0; }
-.settings-extra > .settings-value { padding-top: var(--s4); }
-#view .settings-turn-layout { display: grid; grid-template-columns: 230px minmax(0, 1fr); align-items: start; gap: var(--s5); max-width: none; }
-.settings-turn-list { display: grid; gap: 0; max-height: 580px; overflow-y: auto; }
-button.settings-turn-button { display: block; width: 100%; min-height: 48px; padding: var(--s3); border: 0; border-bottom: 1px solid var(--line); border-radius: 0; background: none; color: var(--ink); font: 400 var(--t-sm)/1.45 var(--font-ui); text-align: left; }
-button.settings-turn-button:hover { background: var(--accent-wash); }
-button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash); box-shadow: inset 2px 0 0 var(--accent); }
-.settings-turn-button > span { display: block; margin-top: 2px; color: var(--muted); font-size: var(--t-xs); }
-.settings-turn-detail { min-width: 0; }
-.settings-turn-detail:empty { display: none; }
-.settings-turn-detail > h3 { margin: 0 0 var(--s4); }
-.settings-message { margin: 0 0 var(--s4); padding: var(--s3) var(--s4); border-left: 2px solid var(--accent); background: var(--accent-wash); white-space: pre-wrap; overflow-wrap: anywhere; }
-.settings-turn-outcome { color: var(--muted); font-size: var(--t-sm); }
-.settings-stage-content h4 { margin: var(--s4) 0 var(--s3); font-size: var(--t-sm); }
-.settings-stage-content > .settings-value > .settings-disclosure { margin-left: 0; }
-.settings-empty { color: var(--muted); }
-.settings-rules { padding-left: var(--s5); font-size: var(--t-sm); }
-.settings-rules li { margin-bottom: var(--s2); }
 .engine-steps li { margin: var(--s3) 0; }
 
 @media (min-width: 600px) {
@@ -561,11 +507,6 @@ button.settings-turn-button[aria-pressed=true] { background: var(--accent-wash);
   .person-info .source-editor form > .actions { margin-inline: calc(-1 * var(--s4)); padding-inline: var(--s4); border-radius: 0 0 var(--r-card) var(--r-card); background: var(--surface); }
   .source-editor:not([open]) > summary { display: flex; width: 100%; }
   form > .actions > :where(button, .button):not(.text) { flex: 1 1 auto; }
-  .settings-toolbar { flex-wrap: wrap; gap: 0 var(--s4); }
-  #view .settings-turn-layout { grid-template-columns: minmax(0, 1fr); }
-  .settings-turn-list { max-height: 200px; }
-  .settings-data-row { grid-template-columns: minmax(0, 1fr); gap: 2px; }
-  .settings-disclosure .settings-disclosure { margin-left: var(--s2); }
   .chat-message { max-width: 92%; }
 }
 @media (max-height: 560px) {

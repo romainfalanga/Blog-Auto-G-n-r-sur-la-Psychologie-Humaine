@@ -661,7 +661,7 @@ test('professional registration persists a declared role, exposes complete pages
  assert.equal(env.DB.raw.prepare('SELECT name FROM professional_profiles WHERE user_id=?').get(me.user.id).name,'Camille Test');
  assert.equal((await request(env,'/api/care',{cookie})).status,403);assert.equal((await request(env,'/api/care/patients',{cookie})).status,200);assert.equal((await request(env,'/api/care/patients',{cookie:member.cookie})).status,403);
  const login=await (await request(env,'/api/auth/login',{method:'POST',data:{email:credentials.email,password:credentials.password}})).json();assert.equal(login.user.role,'psychologist');
- for(const path of ['/parametres','/parametres/','/mon-suivi','/mon-suivi/','/espace-psychologue','/espace-psychologue/','/mon-compte/'])assert.equal((await request(env,path)).status,200,path);
+ for(const path of ['/mon-suivi','/mon-suivi/','/espace-psychologue','/espace-psychologue/','/mon-compte/'])assert.equal((await request(env,path)).status,200,path);
  for(const data of [{...credentials,email:'invalid-role@example.test',role:'admin'},{...credentials,email:'incomplete@example.test',professional:{name:'Camille'}}])assert.equal((await request(env,'/api/auth/register',{method:'POST',data})).status,400);
  assert.equal((await request(env,'/api/account',{method:'DELETE',cookie,data:{password:credentials.password}})).status,200);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM professional_profiles').get().n,0);
 });
