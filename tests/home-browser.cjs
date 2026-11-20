@@ -17,7 +17,6 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
      const r=route.request(),url=new URL(r.url());
      if(url.pathname===APP_ASSETS.script.path)return route.fulfill({status:200,contentType:'application/javascript',body:APP_ASSETS.script.body});
      if(url.pathname===APP_ASSETS.style.path)return route.fulfill({status:200,contentType:'text/css',body:APP_ASSETS.style.body});
-     if(url.pathname.startsWith('/fonts/'))return route.fulfill({status:200,contentType:'font/woff2',body:fs.readFileSync(path.join(root,'static',url.pathname))});
      if(url.pathname==='/api/me')return route.fulfill({json:guest?{user:null,configuration:{ai:true}}:{user:{id:'u1',email:'test@example.test',role:'member'},profile:{first_name:'Alex'},companion_readiness:readiness,configuration:{ai:true}}});
      if(url.pathname==='/api/dashboard')return route.fulfill({json:{topics:3,reviews:1,review_running:false,elements:87}});
      if(url.pathname==='/api/people')return route.fulfill({json:{people:[],fields_ready:true}});
@@ -25,14 +24,14 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
      return route.fulfill({status:204,body:''});
     });
     const page=await ctx.newPage(),tag=width+'x'+height+(guest?'-guest':'');page.on('pageerror',e=>errors.push(e.message));
-    await page.goto('https://archive.test/accueil/');await page.locator('.home-index').waitFor();await page.waitForTimeout(300);
+    await page.goto('https://archive.test/accueil/');await page.locator('.home-grid').waitFor();await page.waitForTimeout(300);
     const links=await page.locator('.home-tile').evaluateAll(nodes=>nodes.map(n=>({label:n.querySelector('strong').textContent,href:n.getAttribute('href')})));
     assert.deepEqual(links,navigation,tag+': every page of the former menu has its tile, in order');
     const report=await page.evaluate(()=>({scrollY:document.documentElement.scrollHeight-innerHeight,scrollX:document.documentElement.scrollWidth-innerWidth,nav:document.querySelectorAll('.site-navigation, .nav-links, .site-menu-toggle').length,back:getComputedStyle(document.querySelector('.site-back')).visibility,tiles:[...document.querySelectorAll('.home-tile')].map(n=>{const r=n.getBoundingClientRect();return {b:Math.round(r.bottom),h:Math.round(r.height),w:Math.round(r.width),clipped:n.scrollHeight>n.clientHeight+1||n.scrollWidth>n.clientWidth+1}})}));
     assert.equal(report.nav,0,tag+': no menu');assert.equal(report.back,'hidden',tag+': no back button on the dashboard');assert.ok(report.scrollX<=0,tag+': no horizontal scroll');
     assert.ok(report.tiles.every(t=>t.h>=44&&t.w>=44&&!t.clipped),tag+': tiles large enough and not clipped '+JSON.stringify(report.tiles.filter(t=>t.h<44||t.clipped)));
     if(width<900){await page.mouse.wheel(0,400);await page.evaluate(()=>window.scrollTo(0,400));assert.equal(await page.evaluate(()=>window.scrollY),0,tag+': the page cannot be scrolled');assert.ok(report.scrollY<=0,tag+': everything fits on one screen ('+report.scrollY+' px over)');assert.ok(report.tiles.every(t=>t.b<=height),tag+': every tile is on screen')}
-    assert.doesNotMatch(await page.locator('.home').innerText(),/Bonjour|Où souhaitez-vous/,tag+': no greeting');if(width===1440)assert.ok(report.scrollY<=0,tag+': the whole dashboard fits a laptop screen');if(await page.locator('#view svg').count())assert.fail(tag+': no icon on the dashboard');if(!guest){assert.equal((await page.locator('.home-head h2').innerText()).replace(/\s+/g,' '),'Décode ton esprit');assert.equal(await page.evaluate(()=>document.fonts.check('40px "Instrument Serif"')&&document.fonts.check('14px "Geist"')),true,tag+': the site typefaces are loaded');if(width>=900)assert.match(await page.locator('.home').innerText(),/12\s*MOMENTS[\s\S]*4\s*PROCHES[\s\S]*212\s*SUR 516[\s\S]*3\s*SUJETS[\s\S]*87\s*ÉLÉMENTS RELIÉS[\s\S]*1\s*BILAN/i)}
+    assert.doesNotMatch(await page.locator('.home').innerText(),/Bonjour|Où souhaitez-vous/,tag+': no greeting');if(width===1440)assert.ok(report.scrollY<=0,tag+': the whole dashboard fits a laptop screen');if(await page.locator('#view svg').count())assert.fail(tag+': no icon on the dashboard');if(!guest){assert.equal((await page.locator('.home-head h2').innerText()).replace(/\s+/g,' '),'Décode ton esprit');assert.match(await page.evaluate(()=>getComputedStyle(document.querySelector('.home-tile strong')).fontFamily),/^system-ui/,tag+': the dashboard uses the interface sans-serif');assert.equal(await page.evaluate(()=>[...document.styleSheets].some(sheet=>[...sheet.cssRules].some(rule=>rule.type===5))),false,tag+': no added typeface');if(width>=900)assert.match(await page.locator('.home').innerText(),/12\s*MOMENTS[\s\S]*4\s*PROCHES[\s\S]*212\s*SUR 516[\s\S]*3\s*SUJETS[\s\S]*87\s*ÉLÉMENTS[\s\S]*1\s*BILAN/i)}
     else{assert.equal(await page.locator('.home-auth button').count(),2)}
     const file=path.join(out,'home-'+tag+'.png');await page.screenshot({path:file});shots.push(file);
     if(!guest&&(width===390||width===1440)){
@@ -41,7 +40,7 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
      assert.equal(await page.evaluate(()=>getComputedStyle(document.querySelector('.site-back')).visibility),'visible');assert.equal(await page.evaluate(()=>document.querySelectorAll('.site-navigation, .nav-links, .site-menu-toggle').length),0);
      const back=await page.locator('.site-back').boundingBox();assert.ok(back.height>=44&&back.width>=44,'back button large enough');
      const shot=path.join(out,'page-'+tag+'.png');await page.screenshot({path:shot});shots.push(shot);
-     await page.locator('.site-back').click();await page.waitForFunction(()=>location.pathname==='/accueil/');await page.locator('.home-index').waitFor();
+     await page.locator('.site-back').click();await page.waitForFunction(()=>location.pathname==='/accueil/');await page.locator('.home-grid').waitFor();
      await page.locator('.home-tile').filter({hasText:'Ma ligne de vie'}).click();await page.waitForFunction(()=>location.pathname==='/ma-ligne-de-vie/');await page.locator('.site-header .site-logo').click();await page.waitForFunction(()=>location.pathname==='/accueil/');
     }
     await ctx.close();
