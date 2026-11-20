@@ -184,6 +184,29 @@
   [headers.values]
     Cache-Control = "private, no-store"
 
+# Tableau de bord : la page d’accueil de l’espace personnel, servie par le Worker.
+[[redirects]]
+  from = "/accueil"
+  to = "https://decode-journal.romainfalanga83.workers.dev/accueil/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/accueil/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/accueil/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/accueil"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/accueil/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
 [[redirects]]
   from = "/ma-cartographie"
   to = "https://decode-journal.romainfalanga83.workers.dev/ma-cartographie/"
