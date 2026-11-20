@@ -10,3 +10,6 @@ editorial/automation/.pipeline.lock
 
 # Captures des suites navigateur (tests/*-browser.cjs)
 /work/
+
+# Copies de travail temporaires des agents
+/.claude/worktrees/
