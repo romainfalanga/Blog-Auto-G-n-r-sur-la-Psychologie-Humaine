@@ -6,6 +6,7 @@ import { VOICE_INPUT_SCRIPT } from './voice-input.mjs';
 import { WORKSPACE_STYLE } from './workspace-style.mjs';
 import { CHAT_INTERFACE_SCRIPT } from './chat-interface.mjs';
 import { TOPICS_INTERFACE_SCRIPT, TOPICS_INTERFACE_STYLE } from './topics-interface.mjs';
+import { GRAPH_INTERFACE_SCRIPT, GRAPH_INTERFACE_STYLE } from './graph-interface.mjs';
 import { REVIEW_ARCHIVE_SCRIPT, REVIEW_ARCHIVE_STYLE } from './review-archive-interface.mjs';
 import { PERSON_CHOICES, PERSON_TEXTS, EVENT_CHOICES, EVENT_TEXTS } from './context-fields.mjs';
 import { PEOPLE_AXES_UI } from './people-observations-ui.mjs';
@@ -15,6 +16,7 @@ ${SITE_SYSTEM_CSS}
 ${WORKSPACE_STYLE}
 ${CHANGE_INTERFACE_STYLE}
 ${TOPICS_INTERFACE_STYLE}
+${GRAPH_INTERFACE_STYLE}
 ${REVIEW_ARCHIVE_STYLE}
 </style></head><body><header class="site-header">
   <div class="header-inner">
@@ -43,7 +45,7 @@ function clearSessionState(){
  resetChatSession();clearTimeout(state.chatTimer);clearTimeout(state.chatCooldownTimer);clearTimeout(state.journeyTimer);state.chatDraft='';state.chatData=null;state.chatRequest=null;state.chatSending=false;state.chatProposalDrafts.clear();state.journeyKey=null;state.journeyWaiting=false;state.journeyStep=null;preparedResponses={};state.navigationRequest=(state.navigationRequest||0)+1;
  state.sourceDrafts.clear();state.selfDraft=null;state.selfBase=null;state.selfRevision=null;if(state.noteDrafts)state.noteDrafts.clear();state.people=[];state.events=[];
 }
-var PAGES={chat:{path:'/ambre/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},topics:{path:'/mes-sujets/',title:'Mes sujets'},topic:{path:'/mes-sujets/',title:'Mes sujets'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},diagnoses:{path:'/mes-diagnostics/',title:'Mes diagnostics'},account:{path:'/mon-compte/',title:'Mon compte'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
+var PAGES={chat:{path:'/ambre/',title:'Ambre'},people:{path:'/mes-proches/',title:'Mes proches'},person:{path:'/mes-proches/',title:'Mes proches'},graph:{path:'/ma-cartographie/',title:'Ma cartographie'},topics:{path:'/mes-sujets/',title:'Mes sujets'},topic:{path:'/mes-sujets/',title:'Mes sujets'},events:{path:'/ma-ligne-de-vie/',title:'Ma ligne de vie'},reviews:{path:'/mes-bilans/',title:'Mes bilans'},diagnoses:{path:'/mes-diagnostics/',title:'Mes diagnostics'},account:{path:'/mon-compte/',title:'Mon compte'},care:{path:'/mon-suivi/',title:'Mon suivi'},psychologist:{path:'/espace-psychologue/',title:'Espace psychologue'}};
 var PAGE_DESCRIPTIONS={
  reviews:'',
  care:'',
@@ -99,7 +101,7 @@ var initialPageData=readInitialPageData();
 function readInitialPageData(){var node=document.getElementById('initial-page-data');if(!node)return null;try{return JSON.parse(node.textContent)}catch(error){return null}}
 var preparedResponses=initialPageData&&initialPageData.page===location.pathname.replace(/\/+$/,'')+'/'?initialPageData.responses||{}:{};
 async function preparePageData(tab,search,personId){
- var paths={account:['/api/self-profile'],people:['/api/people'],topics:['/api/topics'],events:['/api/people','/api/life-events']}[tab]||[];
+ var paths={account:['/api/self-profile'],people:['/api/people'],topics:['/api/topics'],graph:['/api/graph'],events:['/api/people','/api/life-events']}[tab]||[];
  if(tab==='person'){var base='/api/people/'+encodeURIComponent(personId);paths=[base,base+'/timeline']}
  if(tab==='topic')paths=['/api/topics/'+encodeURIComponent(personId)];
  if(tab==='events'){var filter=new URLSearchParams((search||'').split('#')[0]).get('person');if(filter)paths[1]+='?person_id='+encodeURIComponent(filter)}
@@ -183,6 +185,7 @@ function renderApp(){
  else if(state.tab==='reviews')renderReviews();
  else if(state.tab==='diagnoses')renderDiagnoses();
  else if(state.tab==='person')renderPerson();
+ else if(state.tab==='graph')renderGraph();
  else if(state.tab==='topics')renderTopics();
  else if(state.tab==='topic')renderTopic();
  else renderPersonalSources()
@@ -737,6 +740,7 @@ function setupPortraitViews(view){
 
 ${CHAT_INTERFACE_SCRIPT}
 ${TOPICS_INTERFACE_SCRIPT}
+${GRAPH_INTERFACE_SCRIPT}
 ${REVIEW_ARCHIVE_SCRIPT}
 ${CHANGE_INTERFACE_SCRIPT}
 ${CARE_INTERFACE_SCRIPT}
