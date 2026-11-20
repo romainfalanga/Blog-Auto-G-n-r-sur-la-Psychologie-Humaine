@@ -32,25 +32,29 @@ const {chromium}=require('playwright'),fs=require('node:fs'),path=require('node:
    const page=await ctx.newPage(),tag=String(width);page.on('pageerror',e=>errors.push(e.message));
    const shot=async name=>{const file=path.join(out,name+'-'+tag+'.png');await page.screenshot({path:file,fullPage:false});shots.push(file)};
    const overflow=async name=>assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,name+': horizontal scroll');
-   await page.goto('https://archive.test/ma-cartographie/');await page.locator('.graph-stage canvas').waitFor();await page.waitForTimeout(1500);
-   assert.equal(await page.locator('h1').innerText(),'Ma cartographie');assert.match(await page.locator('.graph-panel').innerText(),new RegExp(nodes.length+' éléments et '+edges.length+' liens'));
-   const painted=await page.evaluate(()=>{const c=document.querySelector('.graph-stage canvas'),d=c.getContext('2d').getImageData(0,0,c.width,c.height).data;let n=0;for(let i=3;i<d.length;i+=4)if(d[i])n++;return n});assert.ok(painted>2000,'the graph is drawn ('+painted+' pixels)');
+   await page.goto('https://archive.test/ma-cartographie/');await page.locator('.graph-app canvas').waitFor();await page.waitForTimeout(2600);
+   const stage=await page.locator('.graph-app').boundingBox(),view=page.viewportSize();
+   assert.ok(stage.width>=view.width-1&&stage.height>=view.height-140,'the map fills the screen under the menu');assert.equal(await page.evaluate(()=>document.documentElement.scrollHeight>innerHeight+1),false,'no page scroll');
+   const painted=await page.evaluate(()=>{const c=document.querySelector('.graph-app canvas'),d=c.getContext('2d').getImageData(0,0,c.width,c.height).data;let n=0;for(let i=3;i<d.length;i+=4)if(d[i])n++;return n});assert.ok(painted>4000,'the graph is drawn ('+painted+' pixels)');
+   assert.equal(await page.locator('.graph-card').isVisible(),false);assert.equal(await page.locator('.graph-empty').count(),0);
    await overflow('graph');await shot('graph');
-   // Search, then open a result: the panel shows what it is linked to.
-   await page.locator('.graph-tools input').fill('lea');await page.locator('.graph-results button').first().waitFor();assert.match(await page.locator('.graph-results').innerText(),/Léa/);
-   await page.locator('.graph-results button').first().click();
-   assert.match(await page.locator('.graph-panel').innerText(),/Proches[\s\S]*Léa[\s\S]*Ouvrir[\s\S]*Relié à \(\d+\)[\s\S]*Mes proches[\s\S]*Moment fictif/);await shot('selected');
-   await page.locator('.graph-panel .graph-links button').filter({hasText:'Moment fictif 1'}).first().click();assert.match(await page.locator('.graph-panel h2').innerText(),/Moment fictif 1/);
-   await page.locator('.graph-tools input').fill('');
-   // A kind can be hidden: its elements leave the lists.
-   await page.locator('.graph-filters summary').click();
-   await page.locator('.graph-kind').filter({hasText:'Proches'}).click();assert.equal(await page.locator('.graph-kind').filter({hasText:'Proches'}).getAttribute('aria-pressed'),'false');
-   assert.doesNotMatch(await page.locator('.graph-panel .graph-links').innerText(),/Léa/);
-   await page.locator('.graph-kind').filter({hasText:'Proches'}).click();
-   // Tapping the centre of the stage selects or clears without error; every control is large enough.
-   const box=await page.locator('.graph-stage').boundingBox();if(touch)await page.touchscreen.tap(box.x+box.width/2,box.y+box.height/2);else{await page.mouse.move(box.x+box.width/2,box.y+box.height/2);await page.mouse.wheel(0,-300);await page.mouse.click(box.x+box.width/2,box.y+box.height/2)}
-   const small=await page.evaluate(()=>[...document.querySelectorAll('#view button, #view a')].filter(n=>n.offsetParent).map(n=>({t:n.textContent.trim().slice(0,20),h:Math.round(n.getBoundingClientRect().height)})).filter(x=>x.h<44));assert.deepEqual(small,[],'targets under 44 px');
-   await overflow('end');await page.locator('.graph-tools button').click();await shot('recentred');
+   // Search, then open a result: the card shows what it is linked to and the map glides to it.
+   await page.locator('.graph-top input').fill('lea');await page.locator('.graph-drop button').first().waitFor();await page.locator('.graph-drop button').filter({hasText:'Léa'}).first().click();
+   await page.locator('.graph-card').waitFor();assert.match(await page.locator('.graph-card').innerText(),/Proches[\s\S]*Léa[\s\S]*Ouvrir[\s\S]*Relié à \d+ éléments[\s\S]*Mes proches[\s\S]*Moment fictif/);
+   await page.waitForTimeout(700);await shot('selected');
+   await page.locator('.graph-card-links button').filter({hasText:'Moment fictif 1'}).first().click();assert.match(await page.locator('.graph-card h2').innerText(),/Moment fictif 1/);
+   await page.locator('.graph-top input').fill('');
+   // Filters: a kind can be hidden, its elements leave the card.
+   await page.locator('.graph-top .graph-pill').click();await page.locator('.graph-drop button').filter({hasText:'Proches'}).click();
+   assert.equal(await page.locator('.graph-drop button').filter({hasText:'Proches'}).getAttribute('aria-pressed'),'false');assert.doesNotMatch(await page.locator('.graph-card-links').innerText(),/Léa/);await shot('filters');
+   await page.locator('.graph-drop button').filter({hasText:'Proches'}).click();await page.locator('.graph-top .graph-pill').click();
+   // Close the card, zoom with the buttons, recentre; every control is large enough.
+   await page.locator('.graph-card-close').click();assert.equal(await page.locator('.graph-card').isVisible(),false);
+   await page.getByRole('button',{name:'Zoomer',exact:true}).click();await page.getByRole('button',{name:'Zoomer',exact:true}).click();await page.waitForTimeout(500);await shot('zoomed');
+   const box=await page.locator('.graph-app').boundingBox();if(touch)await page.touchscreen.tap(box.x+box.width/2,box.y+box.height/2);else{await page.mouse.move(box.x+box.width/2,box.y+box.height/2);await page.mouse.wheel(0,300);await page.mouse.click(box.x+box.width/2,box.y+box.height/2)}
+   const small=await page.evaluate(()=>[...document.querySelectorAll('#view button, #view a')].filter(n=>n.offsetParent).map(n=>({t:n.textContent.trim().slice(0,20),h:Math.round(n.getBoundingClientRect().height),w:Math.round(n.getBoundingClientRect().width)})).filter(x=>x.h<44||x.w<44));assert.deepEqual(small,[],'targets under 44 px');
+   if(await page.locator('.graph-card').isVisible())await page.locator('.graph-card-close').click();
+   await page.getByRole('button',{name:'Recentrer la carte'}).click();await page.waitForTimeout(700);await overflow('end');await shot('recentred');
    await ctx.close();
   }
   assert.deepEqual(errors,[]);console.log('Graph bench passed: '+shots.length+' captures in '+out);
