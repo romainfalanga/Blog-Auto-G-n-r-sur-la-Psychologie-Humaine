@@ -185,6 +185,28 @@
     Cache-Control = "private, no-store"
 
 [[redirects]]
+  from = "/ma-cartographie"
+  to = "https://decode-journal.romainfalanga83.workers.dev/ma-cartographie/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/ma-cartographie/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/ma-cartographie/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/ma-cartographie"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/ma-cartographie/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[redirects]]
   from = "/mes-sujets"
   to = "https://decode-journal.romainfalanga83.workers.dev/mes-sujets/"
   status = 200

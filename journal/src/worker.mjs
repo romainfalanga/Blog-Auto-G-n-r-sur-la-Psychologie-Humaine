@@ -9,6 +9,7 @@ import { readMonthlyQuotas } from './monthly-quotas.mjs';
 import { createPersonalBackend } from './personal-backend.mjs';
 import { createCartographyBackend } from './cartographie.mjs';
 import { createTopicsBackend } from './topics.mjs';
+import { createGraphBackend } from './graph.mjs';
 import { SYMPTOMES_CARTE } from './symptomes-carte.generated.mjs';
 
 const encoder = new TextEncoder();
@@ -155,6 +156,7 @@ const change=createChangeBackend({error,json,body,now,random,limit});
 // The childhood map is not a portrait source: saving it does not bump profiles.version.
 const cartography=createCartographyBackend({error,json,body,now});
 const topics=createTopicsBackend({error,json,body,now,random});
+const graph=createGraphBackend({error,json});
 const symptoms=createCartographyBackend({error,json,body,now,table:'symptom_maps',data:SYMPTOMES_CARTE,route:'/api/symptomes',body_limit:120000});
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
 function withoutPsychologyMap(value){
@@ -190,6 +192,7 @@ const INITIAL_PAGES={
   account:{path:'/mon-compte/',routes:['/api/self-profile']},
   people:{path:'/mes-proches/',routes:['/api/people']},
   topics:{path:'/mes-sujets/',routes:['/api/topics']},
+  graph:{path:'/ma-cartographie/',routes:['/api/graph']},
   events:{path:'/ma-ligne-de-vie/',routes:['/api/people','/api/life-events']},
   cartographie:{path:'/cartographie/',routes:['/api/cartographie']},
   symptomes:{path:'/mes-symptomes/',routes:['/api/symptomes']},
@@ -239,7 +242,7 @@ async function routes(request,env,ctx) {
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/ambre/'}});
   if(['GET','HEAD'].includes(method)&&['/parametres','/parametres/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'}});
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
-  const pageTitles={'/ambre':'Ambre','/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/mes-sujets':'Mes sujets','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  const pageTitles={'/ambre':'Ambre','/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/mes-sujets':'Mes sujets','/ma-cartographie':'Ma cartographie','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   // « Mes symptômes »: the shared engine and the published questionnaires, no personal data.
   const pagePath=path.replace(/\/$/,'');
   // One close person has a page of their own. Its first render is prepared here; the two
@@ -327,6 +330,7 @@ async function routes(request,env,ctx) {
   const cartographyResponse=await cartography.routes(request,env,user,path);if(cartographyResponse)return cartographyResponse;
   const symptomsResponse=await symptoms.routes(request,env,user,path,url);if(symptomsResponse)return symptomsResponse;
   const topicsResponse=await topics.routes(request,env,user,path);if(topicsResponse)return topicsResponse;
+  const graphResponse=await graph.routes(request,env,user,path);if(graphResponse)return graphResponse;
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
   // F14: ends every session of the account (lost device, shared computer, password doubt).
