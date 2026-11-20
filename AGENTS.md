@@ -12,7 +12,7 @@ Le catalogue public (personnages, articles, pipeline éditorial) a été retiré
 
 ## Avant de travailler
 
-Lire `docs/reprise-2026-11-19-codex.md` (note de reprise), puis examiner l’état du dépôt et les derniers commits. Les fichiers du dépôt font foi ; un ancien résumé de conversation peut être périmé.
+Lire `docs/reprise-2026-11-20.md (puis docs/reprise-2026-11-19-codex.md)` (note de reprise), puis examiner l’état du dépôt et les derniers commits. Les fichiers du dépôt font foi ; un ancien résumé de conversation peut être périmé.
 
 ## Tests
 
