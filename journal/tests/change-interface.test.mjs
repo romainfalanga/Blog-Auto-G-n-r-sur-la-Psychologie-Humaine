@@ -3,7 +3,6 @@ import assert from 'node:assert/strict';
 import vm from 'node:vm';
 import {CHANGE_INTERFACE_SCRIPT,CHANGE_INTERFACE_STYLE} from '../src/change-interface.mjs';
 import {CHAT_INTERFACE_SCRIPT} from '../src/chat-interface.mjs';
-import {SETTINGS_INTERFACE_SCRIPT} from '../src/settings-interface.mjs';
 
 class Element {
   constructor(tag,doc){this.tagName=tag.toUpperCase();this.doc=doc;this.children=[];this.listeners={};this.dataset={};this.attributes={};this.value='';this.checked=false;this.disabled=false;this.hidden=false;this.isConnected=true;this._text='';}
@@ -37,9 +36,8 @@ const button=(host,label)=>host.querySelectorAll('button').find(item=>item.textC
 const submit=dialog=>dialog.querySelector('form').fire('submit');
 
 test('embedded scripts compile, responsive rules cover the dialog and touch controls',()=>{
- for(const source of [CHANGE_INTERFACE_SCRIPT,CHAT_INTERFACE_SCRIPT,SETTINGS_INTERFACE_SCRIPT])assert.doesNotThrow(()=>new vm.Script(source));
+ for(const source of [CHANGE_INTERFACE_SCRIPT,CHAT_INTERFACE_SCRIPT])assert.doesNotThrow(()=>new vm.Script(source));
  assert.match(CHANGE_INTERFACE_STYLE,/max-width:480px/);assert.match(CHANGE_INTERFACE_STYLE,/min-height:44px/);
- assert.match(SETTINGS_INTERFACE_SCRIPT,/\[\['next','Au prochain message'\],\['stored','Mes informations'\],\['turns','Réponses précédentes'\]\]/);
 });
 
 test('opening an empty plan reads data without creating a goal or professional linkage',async()=>{

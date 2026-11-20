@@ -48,7 +48,7 @@ test('the application script and style are content-addressed public files, ident
 
 test('personal shells keep safe JSON bootstrap, with review lists now prepared and no inline script or nonce',async t=>{
   const s=fixture(t);
-  for(const [path,user] of [['/parametres/','a'],['/mes-bilans/','a'],['/mes-diagnostics/','a'],['/mon-compte/',null]]){
+  for(const [path,user] of [['/mon-suivi/','a'],['/mes-bilans/','a'],['/mes-diagnostics/','a'],['/mon-compte/',null]]){
     const response=await s.request(path,user),html=await response.text();
     assert.equal(response.headers.get('Cache-Control'),'private, no-store');assert.doesNotMatch(html,/INITIAL_PAGE_DATA/);
     assert.doesNotMatch(html,/<script(?: nonce="[^"]*")?>/);assert.doesNotMatch(response.headers.get('Content-Security-Policy'),/nonce-/);
@@ -97,7 +97,7 @@ test('the catalogue module is imported only by routes that read it, once per iso
   const isolated=(await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'))).default;
   const s=fixture(t),call=(path,user='a')=>isolated.fetch(new Request('https://example.test'+path,{headers:user?{Cookie:'__Host-dte_session=token-'+user}:undefined}),s.env,{waitUntil(){}});
   imports=()=>globalThis.__lotPImports||0;
-  for(const [path,user] of [[APP_ASSETS.script.path,null],[APP_ASSETS.style.path,'a'],['/api/health',null],['/mon-compte/',null],['/api/me',null],['/parametres/','a']])assert.equal((await call(path,user)).status,200,path);
+  for(const [path,user] of [[APP_ASSETS.script.path,null],[APP_ASSETS.style.path,'a'],['/api/health',null],['/mon-compte/',null],['/api/me',null],['/mon-suivi/','a']])assert.equal((await call(path,user)).status,200,path);
   assert.equal(imports(),0,'static files, shells and anonymous pages do not import the catalogue');
   const me=await (await call('/api/me')).json();assert.equal(me.user.id,'a');assert.equal(imports(),1);
   const list=await (await call('/api/examples',null)).json();assert.ok(list.examples.length>100);

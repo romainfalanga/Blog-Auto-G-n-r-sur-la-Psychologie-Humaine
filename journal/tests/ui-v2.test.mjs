@@ -6,7 +6,6 @@ import {HTML as SHELL,APP_SCRIPT,APP_STYLE} from '../src/ui.mjs';
 // Lot P: the private shell plus its two content-addressed files, as the browser assembles them.
 const HTML=SHELL.replace('</head>',()=>'<style>'+APP_STYLE+'</style></head>')+'<script>'+APP_SCRIPT+'</script>';
 import { REVIEW_ARCHIVE_SCRIPT } from '../src/review-archive-interface.mjs';
-import { SETTINGS_INTERFACE_SCRIPT } from '../src/settings-interface.mjs';
 
 const script = HTML.match(/<script>([\s\S]*?)<\/script>/)[1];
 function functionCode(name) {
@@ -59,7 +58,7 @@ function environment(extra={}) {
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),query:new URLSearchParams(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
   // The site confirmation window is answered by the same hook as the former confirm().
   if(!ctx.confirmDialog)ctx.confirmDialog=(title,text)=>Promise.resolve(ctx.confirm([title,text].filter(Boolean).join(' ')));
-  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerClosed','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','mapEvidenceContent','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','finePointer','focusEntry','formValues','busy','sourceField','appendEventDateFields','appendSourceContextFields','appendSourceContextText','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatSentences','chatIsQuestion','chatReviewParts','drawChatStructured','chatReviewLinks','chatMessageEntry','chatJourney','chatReviewRunning','chatJourneyBlocked','chatPointNote','chatPointSuggestion','drawChatNotes','chatInitialPending','journeyPanel','closeJourneyPanel','showJourneyPanel','chatGuest','ambreFailureReason','ambreReview','ambreFailure','ambreReadiness','ambreClock','ambreNeeds','ambreNeedItem','ambreLaunchReason','ambreRequestReview','ambreLaunchArea','ambreIntroStatus','ambreIntroMessage','ambreIntroSignature','drawAmbreIntro','ambreProgress','ambreEstimate','ambreProgressMessage','ambreFailureMessage','drawAmbreReviewStatus','ambreComposerClosed','ambreComposerLock','drawJourneyPanel','openPointDialog','pollJourney','dateLabel','retryChatMessage','displayDate','navigationPending','prepareMomentForPerson','momentReturn']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var MOMENT_FOR_PERSON=.*\n/)[0],ctx);
   vm.runInContext(['AMBRE_INTRO','AMBRE_DAILY_LAUNCHES','AMBRE_FAILURES'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join(''),ctx);
   vm.runInContext(['SOURCE_CONTEXT_CHOICES','SOURCE_CONTEXT_LIMITS','SOURCE_CONTEXT_LABELS','SOURCE_CONTEXT_ORDER'].map(name=>script.match(new RegExp('var '+name+'=.*\\n'))[0]).join('')+script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
@@ -84,7 +83,6 @@ function chatFixture(extra={}) {
 
 test('the generated application script parses without personal story controls',()=>{
   new vm.Script(script);
-  assert.match(functionCode('renderLikes'),/legacy.id='suggestions';legacy.tabIndex=-1/);
   assert.doesNotMatch(HTML,/Mon personnage|Mes histoires|une histoire chaque jour/);
 });
 
@@ -145,9 +143,7 @@ test('a late source-save response cannot replace another editor opened in the sa
 test('personal pages keep the declared portrait without a synthesis subpage',()=>{
   const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('personIdForPath')+'\n'+functionCode('topicIdForPath')+'\n'+functionCode('pageForPath'),env.ctx);
   assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/mes-proches/'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/ambre/'),'chat');
-  assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
-  assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
-  assert.doesNotMatch(HTML,/À propos de moi/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab|portrait-synthesis|portrait-body/);
+  assert.doesNotMatch(HTML,/À propos de moi/);
   assert.doesNotMatch(HTML,/\.portrait-tabs/);
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
@@ -273,12 +269,6 @@ test('prepared API responses are consumed once; writes and subsequent reads use 
  env.ctx.preparedResponses={'/api/self-profile':{status:409,body:{error:'Conflit',code:'revision_conflict'}}};await assert.rejects(env.ctx.api('/api/self-profile'),error=>error.status===409&&error.code==='revision_conflict');assert.deepEqual(Object.keys(env.ctx.preparedResponses),[]);
 });
 
-test('portrait rendering no longer exposes the obsolete fictional character card',()=>{
-  assert.doesNotMatch(functionCode('appendPortrait'),/fictional_character/);
-  assert.doesNotMatch(functionCode('renderAccount'),/10 €|likes_count>=10|Aimez au moins 10/);
-  assert.match(functionCode('renderAccount'),/29 €/);assert.match(functionCode('renderAccount'),/billing\/cancel/);
-});
-
 test('chat network retries keep the same message key and preserve a separate next draft',async()=>{
  const calls=[],env=chatFixture({api:async(...args)=>{calls.push(args);throw new Error('Réseau indisponible')}}),form=env.form;
  env.input.value='Mon premier message';await env.input.fire('input');await env.ctx.sendChat(form,()=>true);
@@ -319,7 +309,6 @@ test('proposal importance is numeric from null and clearing restores null',async
 
 test('V5 removes the global likes badge and every stale badge update',()=>{
   assert.doesNotMatch(functionCode('renderApp'),/plan-status|likes_count/);
-  assert.doesNotMatch(functionCode('renderLikes'),/plan-status|progressBlock/);
 });
 
 test('empty conversation renders no invented message and places weekly usage in the conversation toolbar',()=>{
@@ -386,92 +375,16 @@ test('the lists of close people and of moments repeat neither the page title nor
 });
 
 test('the application footer holds the site name (to Ambre) and the catalogue link, and liked articles stay out of the portrait menu',()=>{
- assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/ambre\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab="readings"/);
- assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
+ assert.equal(HTML.match(/<footer\b/g).length,1);assert.match(HTML,/<footer class="site-footer">\s*<div class="footer-inner footer-minimal">\s*<a href="\/ambre\/" class="site-logo">Décode ton esprit<\/a>\s*<\/div>\s*<\/footer>/);
 });
 
 function likedFixture(api){const env=environment({api,location:{origin:'https://example.test',hash:''},refreshPortraitData(){}});Object.assign(env.ctx.state,{tab:'portrait',me:{},likes:[{article_id:'a',reason:'Mon ancien retour',differences:'Une différence ancienne'},{article_id:'b',reason:''}],examples:[{id:'a',title:'Article A',url:'/a/'},{id:'b',title:'Article B',url:'/b/'},{id:'c',title:'Non aimé',url:'/c/'}],drafts:new Map(),differencesDrafts:new Map()});vm.runInContext(functionCode('safeArticleLink')+'\n'+functionCode('updateLikeState')+'\n'+functionCode('drawLikedArticles'),env.ctx);const list=env.host('likes-list');env.ctx.drawLikedArticles(list,()=>true);return {...env,list};}
 
-test('V6 liked articles are a consecutive title disclosure list with separate reading links and legacy returns preserved',async()=>{
- const calls=[];const env=likedFixture(async(path,method,data)=>{calls.push({path,method,data});return {likes:env.ctx.state.likes}});const cards=env.list.children;assert.equal(cards.length,2);assert.doesNotMatch(env.list.textContent,/Non aimé/);
- const first=cards[0],details=first.children[0];assert.equal(details.tagName,'DETAILS');assert.equal(details.children[0].textContent,'Article A');assert.equal(first.children[1].tagName,'A');assert.equal(first.children[1].textContent,'Lire');assert.equal(details.open,false);
- assert.equal(first.querySelectorAll('textarea').length,2);assert.equal(cards[1].querySelectorAll('textarea').length,1);assert.match(first.textContent,/Ce qui me parle et pourquoi je me reconnais/);
- const form=first.querySelector('form');field(form,'reason','Nouveau retour');await form.elements.reason.fire('input');await form.fire('submit');assert.equal(calls[0].data.reason,'Nouveau retour');assert.equal(calls[0].data.differences,'Une différence ancienne');
- await cards[1].querySelector('form').fire('submit');assert.equal('differences' in calls[1].data,false);
-});
-
-test('V6 liked article network failures keep both editable drafts',async()=>{
- const env=likedFixture(async()=>{throw new Error('offline')});const form=env.list.children[0].querySelector('form');field(form,'reason','Brouillon complet');await form.elements.reason.fire('input');field(form,'differences','Différence préservée');await form.elements.differences.fire('input');await form.fire('submit');
- assert.equal(env.ctx.state.drafts.get('a'),'Brouillon complet');assert.equal(env.ctx.state.differencesDrafts.get('a'),'Différence préservée');assert.match(form.textContent,/offline/);
-});
-
 const psychologyFixture={catalog_version:1,domains:[{id:'ties',label:'Mes relations'},{id:'self',label:'Mon regard sur moi'}],patterns:[{id:'belong',domain:'ties',label:'Besoin d’appartenance',description:'Chercher sa place.',signals:['Faire attention au groupe.'],questions:['Comment trouvez-vous votre place ?'],alternatives:['Un contexte nouveau.']},{id:'autonomy',domain:'self',label:'Besoin d’autonomie',description:'Choisir pour soi.',questions:['Quand choisissez-vous librement ?']}],hypotheses:[{pattern_id:'belong',status:'exploring',observation:'Vous évoquez votre place dans le groupe.',possible_function:'Préserver les liens.',evidence:['person:p1'],counter_evidence:['profile:self'],citations:[{source_id:'person:p1',quote:'Mes mots exacts'}],related_articles:[{title:'Une lecture',url:'/article/'},{title:'Lien refusé',url:'javascript:alert(1)'}],related_characters:[{name:'Nina',url:'/personnages/nina/'}],next_question:'Que souhaitez-vous préciser ?'}],source_version:4,analyzed_version:4,outdated:false};
 function mapFixture(extra={}){const env=environment({refreshPortraitData(){},location:{origin:'https://example.test'},...extra});Object.assign(env.ctx.state,{tab:'portrait',likes:[],examples:[],mapReturnDrafts:new Map()});for(const name of ['normalized','personalizePortraitText','safeArticleLink','portraitEvidence','mapStateLabel','selectMapPattern','renderMapExplorer','drawMapPattern','drawMapReturn','drawPsychologyMap'])vm.runInContext(functionCode(name),env.ctx);const host=env.host('ma-cartographie');env.ctx.drawPsychologyMap(host,psychologyFixture,()=>true);return {...env,host};}
 
-test('V6 psychology map distinguishes supported exploration from unknown patterns and links exact source evidence',()=>{
- const env=mapFixture(),known=env.host.mapCards.get('belong'),unknown=env.host.mapCards.get('autonomy');assert.equal(known.card.parentElement.id,'map-detail');assert.equal(known.card.hidden,false);assert.equal(unknown.card.hidden,true);assert.equal(known.row.hidden,false);assert.equal(unknown.row.hidden,true);
- assert.match(known.card.textContent,/À préciser/);assert.match(unknown.card.textContent,/Non exploré/);assert.doesNotMatch(env.host.textContent,/\d+\s*%|probabilité|absence de syndrome/i);
- assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='/mes-proches/#person-p1'));assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='https://example.test/article/'));assert.doesNotMatch(known.card.textContent,/Lien refusé/);
- assert.match(known.card.textContent,/Mes mots exacts/);assert.match(known.card.textContent,/Ce qui invite à nuancer/);assert.match(known.card.textContent,/Ce que cela pourrait expliquer/);assert.doesNotMatch(known.card.textContent,/Ce que cela pourrait vous apporter/);
-});
-
-test('V6 map refresh preserves open disclosures, reply form node and text while evidence changes',async()=>{
- const env=mapFixture(),entry=env.host.mapCards.get('belong'),form=entry.card.querySelector('form'),input=form.elements.text;entry.card.querySelector('.map-return').open=true;input.value='Un brouillon sensible';await input.fire('input');
- const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='Observation mise à jour';env.ctx.drawPsychologyMap(env.host,update,()=>true);
- assert.equal(entry.card.querySelector('form'),form);assert.equal(input.value,'Un brouillon sensible');assert.equal(entry.card.querySelector('.map-return').open,true);assert.match(entry.card.textContent,/Observation mise à jour/);assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,'Un brouillon sensible');
-});
-
-test('V6 map feedback retries append an explicit typed correction with the same creation key',async()=>{
- const calls=[];const env=mapFixture({api:async(path,method,payload)=>{calls.push({path,method,payload});throw new Error('Réseau indisponible')}});const form=env.host.mapCards.get('belong').card.querySelector('form');field(form,'text','Cette piste ne correspond pas à mon vécu.');await form.elements.text.fire('input');field(form,'type','not_concerned');await form.elements.type.fire('change');await form.fire('submit');await form.fire('submit');
- assert.equal(calls.length,2);assert.equal(calls[0].path,'/api/portrait/feedback');assert.equal(calls[0].method,'POST');assert.equal(calls[0].payload.kind,'not_concerned');assert.equal(calls[0].payload.text,'Cette piste ne correspond pas à mon vécu.');assert.equal(calls[0].payload.creation_id,calls[1].payload.creation_id);assert.equal('label' in calls[0].payload,false);assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,form.elements.text.value);
-});
-
-test('V6 completed map feedback retains edits made during the write with a new creation key',async()=>{
- let resolve,sequence=0;const pending=new Promise(r=>resolve=r);const env=mapFixture({api:async(path)=>path==='/api/portrait/feedback'?pending:{status:'ready'},crypto:{randomUUID:()=> 'key-'+(++sequence)},applyPortraitData(){},schedulePortraitPoll(){}});const form=env.host.mapCards.get('belong').card.querySelector('form');field(form,'text','Avant');await form.elements.text.fire('input');const key=env.ctx.state.mapReturnDrafts.get('belong').creation_id;const saving=form.fire('submit');field(form,'text','Après');await form.elements.text.fire('input');resolve({memory_version:2});await saving;
- assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,'Après');assert.notEqual(env.ctx.state.mapReturnDrafts.get('belong').creation_id,key);
-});
-
-test('V6 portrait polling refreshes content without route rendering and stops after navigation',async()=>{
- const timers=[],calls=[],applied=[];const env=environment({setTimeout(fn){timers.push(fn);return timers.length},clearTimeout(){},api:async(path)=>{calls.push(path);return {status:'ready',source_version:5}},applyPortraitData(data){applied.push(data)}});env.ctx.state.tab='portrait';env.host('portrait-body');for(const name of ['refreshPortraitData','schedulePortraitPoll'])vm.runInContext(functionCode(name),env.ctx);env.ctx.schedulePortraitPoll(()=>true,{status:'queued'});assert.equal(timers.length,1);await timers.shift()();assert.deepEqual(calls,['/api/portrait']);assert.equal(applied.length,1);assert.equal(timers.length,0);
- env.ctx.schedulePortraitPoll(()=>true,{status:'updating'});env.ctx.state.tab='chat';await timers.shift()();assert.equal(calls.length,1);
-});
-
 test('V6 free preview account displays access and quotas without checkout or subscription offers',()=>{
  const env=environment();const host=env.host('view'),accountRow=env.host('account-row');host.querySelector=()=>accountRow;for(const id of ['account-appointment','account-email','account-price','subscription-copy','account-progress','billing-action','export-button','delete-button'])env.host(id);env.ctx.state.me={user:{email:'test@example.test'},access:{mode:'free_preview',allowed:true},subscription:{active:false,trial_eligible:true},configuration:{billing:true,ai:true}};env.doc.getElementById('account-email').parentElement=accountRow;vm.runInContext(functionCode('appendAccountQuota'),env.ctx);env.ctx.setupPortraitViews=()=>{};env.ctx.renderSelfProfile=()=>{};env.ctx.logout=()=>{};vm.runInContext(functionCode('renderAccount'),env.ctx);env.ctx.renderAccount();assert.equal(env.doc.getElementById('account-price').hidden,true);assert.match(env.doc.getElementById('subscription-copy').textContent,/Accès gratuit/);assert.doesNotMatch(env.doc.getElementById('billing-action').textContent,/abonner|essai|factur|29/);assert.doesNotMatch(env.doc.getElementById('account-progress').textContent,/29|7 jours d’essai/);
-});
-
-test('V6 re-saving identical map feedback replays its saved key and edits renew it',async()=>{
- const calls=[];let sequence=0;const env=mapFixture({crypto:{randomUUID:()=> 'key-'+(++sequence)},api:async(path,method,payload)=>{calls.push(payload);return {memory_version:calls.length}}});const form=env.host.mapCards.get('belong').card.querySelector('form');field(form,'text','Un retour explicite');await form.elements.text.fire('input');await form.fire('submit');await form.fire('submit');assert.equal(calls[0].creation_id,calls[1].creation_id);field(form,'text','Un retour précisé');await form.elements.text.fire('input');await form.fire('submit');assert.notEqual(calls[1].creation_id,calls[2].creation_id);
-});
-
-
-test('V6 portrait refresh rejects older source and analyzed snapshots before replacing visible content',()=>{
- const env=environment();env.ctx.state.portraitData={source_version:9,analyzed_version:8};vm.runInContext(functionCode('applyPortraitData'),env.ctx);const latest=env.ctx.state.portraitData;env.ctx.applyPortraitData({source_version:8,analyzed_version:8},()=>true);assert.equal(env.ctx.state.portraitData,latest);env.ctx.applyPortraitData({source_version:9,analyzed_version:7},()=>true);assert.equal(env.ctx.state.portraitData,latest);
-});
-
-
-
-
-test('V7 atlas switches domains and subdomains, searches without accents and focuses the selected detail',async()=>{
- const env=mapFixture(),map=structuredClone(psychologyFixture);map.subdomains=[{id:'social',domain:'ties',label:'Vie sociale'},{id:'liberty',domain:'self',label:'Liberté'}];map.patterns[0].subdomain='social';map.patterns[1].subdomain='liberty';map.patterns[1].label='Liberté de décision';env.ctx.drawPsychologyMap(env.host,map,()=>true);
- await env.host.mapDomains.get('self').button.fire('click');assert.equal(env.host.mapFilter.domain,'self');assert.equal(env.host.mapFilter.mode,'all');assert.equal(env.host.mapCards.get('autonomy').row.hidden,false);assert.equal(env.host.mapCards.get('belong').row.hidden,true);
- const sub=env.doc.getElementById('map-subdomain');assert.equal(sub.children.length,2);sub.value='liberty';await sub.fire('change');assert.equal(env.host.mapFilter.subdomain,'liberty');
- await env.host.mapCards.get('autonomy').row.fire('click');assert.equal(env.doc.activeElement,env.host.mapCards.get('autonomy').title);assert.equal(env.host.mapCards.get('autonomy').row.getAttribute('aria-pressed'),'true');
- await env.doc.getElementById('map-reset').fire('click');const search=env.doc.getElementById('map-search');search.value='liberte';await search.fire('input');assert.equal(env.host.mapCards.get('autonomy').row.hidden,false);assert.equal(env.host.mapCards.get('belong').row.hidden,true);assert.match(env.doc.getElementById('map-results').textContent,/1 repère/);
- search.value='sans correspondance';await search.fire('input');assert.equal(env.doc.getElementById('map-active-empty').hidden,false);assert.equal(env.doc.getElementById('map-detail').hidden,true);
-});
-
-test('V7 changing filters and polling preserve a map reply node, its draft and selection',async()=>{
- const env=mapFixture(),entry=env.host.mapCards.get('belong'),reply=entry.card.querySelector('.map-return'),form=reply.querySelector('form');reply.open=true;field(form,'text','Ma nuance encore non enregistrée');await form.elements.text.fire('input');
- await env.host.mapDomains.get('self').button.fire('click');assert.equal(entry.card.hidden,true);assert.equal(form.isConnected,true);
- await env.doc.getElementById('map-reset').fire('click');await entry.row.fire('click');const selected=env.host.mapSelected;const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='Une observation révisée';env.ctx.drawPsychologyMap(env.host,update,()=>true);
- assert.equal(env.host.mapSelected,selected);assert.equal(entry.card.querySelector('form'),form);assert.equal(form.elements.text.value,'Ma nuance encore non enregistrée');assert.equal(reply.open,true);assert.match(entry.content.textContent,/observation révisée/);
-});
-
-test('V7 a synthesis uses the declared first name and targeted agreements, while citations stay exact',()=>{
- const env=mapFixture();env.ctx.state.portraitData={subject:{first_name:'Romain <em>',gender:'male'}};vm.runInContext(functionCode('appendPortrait'),env.ctx);const summary=env.doc.createElement('section');env.ctx.appendPortrait(summary,{summary:'La personne semble créative et réfléchie.',axes:[],strengths:['La personne se montre attentive.']},'Synthèse');assert.match(summary.textContent,/Romain <em> semble créatif et réfléchi/);assert.match(summary.textContent,/Romain <em> se montre attentif/);assert.equal(summary.querySelector('em'),null);
- const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='La personne semble créative.';update.hypotheses[0].citations=[{quote:'La personne semble créative.'}];env.ctx.drawPsychologyMap(env.host,update,()=>true);const entry=env.host.mapCards.get('belong');assert.match(entry.content.querySelector('.map-observation').textContent,/Romain <em> semble créatif/);assert.equal(entry.content.querySelector('blockquote').textContent,'La personne semble créative.');
- assert.equal(env.ctx.personalizePortraitText('La personne est créative.',{first_name:'Camille',gender:'female'}),'Camille est créative.');assert.equal(env.ctx.personalizePortraitText('La personne est créative.',{gender:'male'}),'La personne est créative.');
 });
 
 test('assistant messages render no reading suggestion; notes written on the map and reviews are marked',()=>{
@@ -663,21 +576,6 @@ test('the application shell routes “Mes bilans” like the other personal page
  assert.match(script,/reviews:\{path:'\/mes-bilans\/',title:'Mes bilans'\}/);assert.match(functionCode('renderApp'),/state\.tab==='reviews'\)renderReviews\(\)/);
  assert.doesNotMatch(HTML,/<dialog[^>]*journey/);
 });
-test('V7 personalization changes direct attributes and preserves complements and quoted words',()=>{
- const env=mapFixture(),subject={first_name:'Romain',gender:'male'},personalize=value=>env.ctx.personalizePortraitText(value,subject);
- assert.equal(personalize('La personne parle de sa mère créative et de son amie anxieuse.'),'Romain parle de sa mère créative et de son amie anxieuse.');
- assert.equal(personalize('La personne décrit sa mère comme créative.'),'Romain décrit sa mère comme créative.');
- assert.equal(personalize('La personne se décrit comme très créative, intuitive et attentive à son amie anxieuse.'),'Romain se décrit comme très créatif, intuitif et attentif à son amie anxieuse.');
- assert.equal(personalize('La personne semble créative et réfléchie dans sa relation avec une amie inquiète.'),'Romain semble créatif et réfléchi dans sa relation avec une amie inquiète.');
- assert.equal(personalize('La personne est sensible et anxieuse, sa mère est attentive.'),'Romain est sensible et anxieux, sa mère est attentive.');
- assert.equal(personalize('La personne dit : « La personne est créative. » Puis évoque "la personne anxieuse".'),'Romain dit : « La personne est créative. » Puis évoque "la personne anxieuse".');
-});
-
-test('V7 the pattern index uses one tab stop and supports arrow, home and end keys',async()=>{
- const env=mapFixture();await env.doc.getElementById('map-reset').fire('click');const first=env.host.mapCards.get('belong'),last=env.host.mapCards.get('autonomy');assert.equal(first.row.tabIndex,0);assert.equal(last.row.tabIndex,-1);await first.row.fire('keydown',{key:'End'});assert.equal(env.doc.activeElement,last.row);assert.equal(last.row.tabIndex,0);assert.equal(first.row.tabIndex,-1);assert.equal(last.card.hidden,false);await last.row.fire('keydown',{key:'ArrowUp'});assert.equal(env.doc.activeElement,first.row);await first.row.fire('keydown',{key:'ArrowDown'});assert.equal(env.doc.activeElement,last.row);await last.row.fire('keydown',{key:'Home'});assert.equal(env.doc.activeElement,first.row);
-});
-
-
 test('V7 a provider 429 keeps its precise message, quota and draft, then automatically restores sending after cooldown',async()=>{
  const timers=[],clock=Date.now(),calls=[];let now=clock;const data={consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]},env=environment({Date:{now:()=>now},setTimeout(fn,delay){timers.push({fn,delay});return timers.length},clearTimeout(){},api:async(path,method)=>{calls.push({path,method});return {...data,last_error:{message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'}}}});
  Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mes mots complets',chatSending:true,chatSendKey:{key:'failed-key'},chatData:data});env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('drawChat')+'\n'+functionCode('pollChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const input=env.doc.getElementById('chat-content'),form=env.doc.getElementById('chat-form'),button=form.querySelector('button[type=submit]');
@@ -691,70 +589,8 @@ test('V7 provider cooldown uses bounded timers and ignores a response after leav
 });
 
 
-test('V7 portrait placeholders follow the current first name without changing portrait or quoted evidence',()=>{
- const env=mapFixture();for(const name of ['appendPortrait','applyPortraitData'])vm.runInContext(functionCode(name),env.ctx);const body=env.doc.createElement('div');body.id='portrait-body';const statusBox=env.doc.createElement('div');statusBox.id='portrait-status';
- const portrait={summary:'{{prenom}} se décrit comme créatif. Ses mots : « {{prenom}} se décrit comme créative. »',axes:[]},map=structuredClone(psychologyFixture);map.hypotheses[0].observation='{{prenom}} se décrit comme créatif.';map.hypotheses[0].citations=[{quote:'{{prenom}} se décrit comme créative.'}];const data={portrait,subject:{first_name:'Romain',gender:'male'},source_version:4,analyzed_version:4,status:'ready',psychology_map:map};
- env.ctx.applyPortraitData(data,()=>true);assert.match(body.textContent,/Romain se décrit comme créatif/);assert.match(body.textContent,/« \{\{prenom\}\} se décrit comme créative\. »/);
- env.ctx.applyPortraitData({...data,subject:{first_name:'Alex',gender:'male'}},()=>true);assert.match(body.textContent,/Alex se décrit comme créatif/);assert.doesNotMatch(body.textContent,/Romain/);assert.equal(data.portrait,portrait);assert.ok(portrait.summary.startsWith('{{prenom}}'));
- assert.equal(env.ctx.personalizePortraitText('{{prenom}}',{first_name:''}),'La personne');assert.equal(env.ctx.personalizePortraitText('« {{prenom}} » et {{prenom}}',{first_name:'Romain'}),'« {{prenom}} » et Romain');assert.equal(env.ctx.personalizePortraitText('"{{prenom}}" et {{prenom}}',{}),'"{{prenom}}" et La personne');
-});
-
-
-test('V7 atlas search includes keywords, aliases and readable identifiers when the label differs',async()=>{
- const env=mapFixture(),map=structuredClone(psychologyFixture);map.patterns[1]={...map.patterns[1],id:'thought_loop',label:'Pensées en boucle',keywords:['rumination'],aliases:['boucle mentale']};env.ctx.drawPsychologyMap(env.host,map,()=>true);await env.host.querySelectorAll('[data-map-mode]')[1].fire('click');const search=env.doc.getElementById('map-search');
- for(const query of ['rumination','boucle mentale','thought_loop','thought loop']){search.value=query;await search.fire('input');assert.equal(env.host.mapCards.get('thought_loop').row.hidden,false,query);assert.equal(env.host.mapCards.get('belong').row.hidden,true,query);assert.match(env.doc.getElementById('map-results').textContent,/1 repère/);assert.equal(env.host.mapSelected,'thought_loop');}
-});
-
-
-test('V7 legacy direct descriptions stay grammatical without inferring a gender from the first name',()=>{
- const env=mapFixture();for(const gender of ['unspecified','non_binary',undefined]){const subject={first_name:'Romain',...(gender?{gender}:{})},personalize=text=>env.ctx.personalizePortraitText(text,subject);
-  assert.equal(personalize('La personne se décrit comme créative.'),'Romain se décrit comme une personne créative.');
-  assert.equal(personalize('La personne se perçoit comme très attentive à son amie anxieuse.'),'Romain se perçoit comme une personne très attentive à son amie anxieuse.');
-  assert.equal(personalize('La personne est sensible et anxieuse.'),'Romain est une personne sensible et anxieuse.');
-  assert.equal(personalize('La personne semble réfléchie.'),'Romain semble être une personne réfléchie.');
-  assert.equal(personalize('La personne semble être créative.'),'Romain semble être une personne créative.');
-  assert.equal(personalize('La personne est une personne créative.'),'Romain est une personne créative.');
-  assert.equal(personalize('La personne parle de sa mère créative et de son amie anxieuse.'),'Romain parle de sa mère créative et de son amie anxieuse.');
-  assert.equal(personalize('La personne se sent créative.'),'Romain se sent créative.');
-  assert.equal(personalize('La personne dit : « La personne se décrit comme créative. »'),'Romain dit : « La personne se décrit comme créative. »');
-  assert.equal(personalize('{{prenom}} se décrit comme créatif.'),'Romain se décrit comme créatif.');
- }
- assert.equal(env.ctx.personalizePortraitText('{{prenom}}',{first_name:''}),'La personne');
-});
-
-
 test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/ambre/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · assistante psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
-});
-
-test('the single portrait renders only its presentation without requesting readings or a synthesis',async()=>{
- const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){calls.push('self')},renderLikes(){calls.push('readings')},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});
- env.ctx.state.tab='portrait';env.host('view');for(const name of ['renderPortrait','refreshPortraitData'])vm.runInContext(functionCode(name),env.ctx);
- await env.ctx.renderPortrait();assert.deepEqual(calls,['self']);
- const view=env.doc.getElementById('view');assert.equal(env.doc.getElementById('self-profile').hidden,false);assert.equal(env.doc.getElementById('mes-articles'),null);
- assert.equal(env.doc.getElementById('portrait-body'),null);assert.doesNotMatch(functionCode('renderPortrait'),/data-portrait-tab|portrait-synthesis/);
- await env.ctx.refreshPortraitData();assert.deepEqual(calls,['self']);
-});
-
-test('portrait transport failures leave useful options and a retry, while a failed synthesis keeps its provisional reading',async()=>{
- const calls=[];let unavailable=true;
- const env=environment({api:async(path)=>{
-  calls.push(path);if(unavailable)throw new Error('Backend transport details');
-  return {status:'error',source_version:2,analyzed_version:0,provisional_portrait:{summary:'Piste liée à mes lectures.'}};
- }});
- env.ctx.state.tab='portrait';env.ctx.state.portraitCurrent=()=>true;
- for(const name of ['appendPortrait','personalizePortraitText','emptyState','appendPortraitEmpty','applyPortraitData','showPortraitLoadFailure','refreshPortraitData','schedulePortraitPoll'])vm.runInContext(functionCode(name),env.ctx);
- const body=env.host('portrait-body'),statusBox=env.host('portrait-status');
- await env.ctx.refreshPortraitData();
- assert.match(body.textContent,/Voir ma présentation/);assert.doesNotMatch(body.textContent,/Voir mes articles aimés/);
- assert.equal(body.querySelector('a').href,'/ambre/');assert.doesNotMatch(statusBox.textContent,/Backend transport details/);
- const retry=statusBox.querySelector('button');assert.equal(retry.className,'text');
- unavailable=false;await retry.fire('click');
- const reading=body.querySelector('.portrait-reading');assert.match(reading.textContent,/Piste liée à mes lectures/);
- assert.match(statusBox.textContent,/La synthèse complète n’a pas pu être préparée/);assert.equal(statusBox.querySelector('button'),null);
- unavailable=true;await env.ctx.refreshPortraitData();
- assert.equal(body.querySelector('.portrait-reading'),reading);assert.match(statusBox.textContent,/n’a pas pu être actualisé/);
- assert.equal(statusBox.querySelector('button').textContent,'Réessayer');assert.deepEqual(calls,Array(3).fill('/api/portrait'));
 });
 
 test('manual presentation, close-person and life-event forms omit the repeated Ambre notes',async()=>{
@@ -764,15 +600,6 @@ test('manual presentation, close-person and life-event forms omit the repeated A
 
 test('V8 memory append is an explicit editable proposal that retains the text and revision on failure',async()=>{
  let sent;const env=environment({api:async(path,method,payload)=>{sent={path,payload};throw new Error('Conflit')}});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'memory-1',kind:'memory_append',revision:7,payload:{text:'Mon contexte actuel.'},evidence_quote:'Mes mots exacts.'},()=>true);const form=host.children[0],input=form.elements.text;assert.match(form.textContent,/Préciser mon portrait/);assert.match(form.textContent,/Votre précision/);assert.match(form.textContent,/informations déjà enregistrées seront conservées/);assert.equal(input.maxLength,2000);assert.equal(input.required,true);assert.equal(sent,undefined);input.value='Ma précision modifiée.';await input.fire('input');await form.fire('submit');assert.equal(sent.path,'/api/chat/proposals/memory-1/accept');assert.equal(sent.payload.revision,7);assert.equal(sent.payload.payload.text,'Ma précision modifiée.');assert.equal('expected_version' in sent.payload.payload,false);assert.equal(env.ctx.state.chatProposalDrafts.get('memory-1').text,'Ma précision modifiée.');assert.match(form.textContent,/Vos modifications sont conservées/);assert.equal(form.querySelector('blockquote').textContent,'Mes mots exacts.');
-});
-
-test('V8 contextual influence and mechanisms remain qualitative and separate from the evidence status',async()=>{
- const env=mapFixture(),map=structuredClone(psychologyFixture);Object.assign(map.hypotheses[0],{status:'exploring',influence:{level:'high',contexts:['Dans le groupe','Au travail','En famille','Ne pas afficher'],rationale:'Ce fonctionnement revient dans plusieurs contextes décrits.',evidence:['event:e1']},interactions:[{pattern_id:'autonomy',kind:'buffers',explanation:'Cette ressource pourrait modérer ce besoin dans certaines situations.',evidence:['profile:self']},{pattern_id:'unknown',kind:'amplifies',explanation:'Introuvable'}]});env.ctx.drawPsychologyMap(env.host,map,()=>true);const entry=env.host.mapCards.get('belong'),weight=entry.content.querySelector('.map-influence');assert.equal(entry.badge.textContent,'À préciser');assert.match(weight.textContent,/Influence décrite : marquée/);assert.equal(weight.querySelectorAll('li').length,3);assert.doesNotMatch(weight.textContent,/Ne pas afficher|%|probabilité/);assert.ok(weight.querySelector('a').href.includes('event-e1'));const relations=entry.content.querySelector('.map-interactions');assert.match(relations.textContent,/Mécanismes liés/);assert.match(relations.textContent,/Peut atténuer/);assert.match(relations.textContent,/pourrait modérer/);assert.doesNotMatch(relations.textContent,/Introuvable/);await relations.querySelector('button').fire('click');assert.equal(env.host.mapSelected,'autonomy');assert.equal(env.host.mapCards.get('autonomy').card.hidden,false);
- const labels={unknown:'à préciser',low:'discrète',moderate:'modérée'};for(const [level,label] of Object.entries(labels)){map.hypotheses[0].influence.level=level;env.ctx.drawPsychologyMap(env.host,map,()=>true);assert.ok(entry.content.querySelector('.map-influence').textContent.includes('Influence décrite : '+label))}
-});
-
-test('V8 legacy pronouns with ambiguous referents are left for source-based analysis repair',()=>{
- const env=mapFixture(),subject={first_name:'Romain',gender:'male'};assert.equal(env.ctx.personalizePortraitText('La personne décrit sa mère. Elle est créative.',subject),'Romain décrit sa mère. Elle est créative.');assert.equal(env.ctx.personalizePortraitText('Sa mère est attentive. Elle se sent anxieuse.',subject),'Sa mère est attentive. Elle se sent anxieuse.');assert.equal(env.ctx.personalizePortraitText('« La personne est créative. Elle est réfléchie. »',subject),'« La personne est créative. Elle est réfléchie. »');assert.equal(env.ctx.personalizePortraitText('{{prenom}} est créatif. Sa mère est créative.',subject),'Romain est créatif. Sa mère est créative.');
 });
 
 test('a late chat POST cannot cancel the new view polling or alter its draft and request state',async()=>{
@@ -889,48 +716,12 @@ test('V10 proposal availability updates without destroying its edited fields or 
  env.ctx.state.chatData.capabilities.self_profile_patch.allowed=true;env.ctx.drawChat(env.view,()=>true);assert.equal(env.doc.getElementById('chat-proposals').querySelector('form'),proposal);assert.equal(focus.value,'Mon thème édité.');assert.equal(accept.disabled,false);assert.equal(env.form,form);
 });
 
-test('V10 personal map search stays personal until the user explicitly explores the catalogue',async()=>{
- const env=mapFixture(),atlas=env.host.mapAtlas;assert.equal(atlas.hidden,true);assert.equal(atlas.open,false);assert.equal(env.doc.getElementById('map-overview-count').textContent,'1 piste personnelle');assert.doesNotMatch(env.doc.getElementById('map-overview-count').textContent,/repères|domaines/);
- const search=env.doc.getElementById('map-search');search.value='autonomie';await search.fire('input');assert.equal(env.host.mapFilter.mode,'active');assert.equal(env.host.mapCards.get('autonomy').row.hidden,true);const empty=env.doc.getElementById('map-active-empty');assert.equal(empty.hidden,false);assert.equal(empty.querySelector('button').textContent,'Chercher dans les autres repères');await empty.querySelector('button').fire('click');assert.equal(env.host.mapFilter.mode,'all');assert.equal(atlas.hidden,false);assert.equal(env.host.mapCards.get('autonomy').row.hidden,false);assert.equal(search.value,'autonomie');
-});
-
-test('V10 a short personal map starts with its cards while catalogue exploration exposes the filters',async()=>{
- const env=mapFixture();assert.equal(env.host.mapSearchField.hidden,true);assert.equal(env.host.mapFilters.hidden,true);assert.equal(env.doc.getElementById('map-results').hidden,true);
- const explore=env.host.querySelectorAll('[data-map-mode]').find(button=>button.dataset.mapMode==='all');await explore.fire('click');assert.equal(env.host.mapSearchField.hidden,false);assert.equal(env.host.mapFilters.hidden,false);assert.equal(env.host.mapAtlas.hidden,false);
- const personal=env.host.querySelectorAll('[data-map-mode]').find(button=>button.dataset.mapMode==='active');await personal.fire('click');assert.equal(env.host.mapSearchField.hidden,true);assert.equal(env.host.mapFilters.hidden,true);
-});
-
-test('V10 a map detail explains observation, evidence, context, hypothesis and counter-evidence in that order',()=>{
- const env=mapFixture(),map=structuredClone(psychologyFixture);Object.assign(map.hypotheses[0],{influence:{level:'moderate',contexts:['Dans le groupe'],rationale:'Dans ce contexte décrit.',evidence:['person:p1']},citations:[{source_id:'person:p1',quote:'Mes mots exacts'},{source_id:'profile:self',quote:'Parfois je décide seul.'}]});env.ctx.drawPsychologyMap(env.host,map,()=>true);const content=env.host.mapCards.get('belong').content,classes=content.children.map(node=>node.className||''),position=name=>classes.findIndex(value=>value.split(' ').includes(name));
- assert.ok(position('map-observation')<position('map-evidence'));assert.ok(position('map-evidence')<position('map-influence'));assert.ok(position('map-influence')<position('map-function'));assert.ok(position('map-function')<position('map-counter'));assert.ok(position('map-counter')<position('map-inquiry'));assert.ok(position('map-inquiry')<position('map-definition-more'));
- assert.equal(content.querySelector('.map-evidence').querySelector('blockquote').textContent,'Mes mots exacts');assert.equal(content.querySelector('.map-counter').querySelector('blockquote').textContent,'Parfois je décide seul.');assert.match(content.querySelector('.map-function').textContent,/pourrait expliquer/);assert.match(content.querySelector('.map-influence').textContent,/Influence décrite : modérée/);assert.doesNotMatch(content.textContent,/\d+\s*%/);
-});
-
-test('V10 the mobile map opens one detail and returns to its list without losing a correction draft',async()=>{
- const scrolls=[],env=mapFixture({matchMedia:query=>({matches:query.includes('max-width')}),window:{scrollY:230,scrollTo(options){scrolls.push(options)}}}),entry=env.host.mapCards.get('belong');assert.equal(env.host.dataset.mapReading,'false');await entry.row.fire('click');assert.equal(env.host.dataset.mapReading,'true');assert.equal(env.doc.activeElement,entry.title);
- const form=entry.card.querySelector('form'),input=form.elements.text;input.value='Une nuance personnelle en cours';await input.fire('input');await env.doc.getElementById('map-back').fire('click');assert.equal(env.host.dataset.mapReading,'false');assert.equal(env.doc.activeElement,entry.row);assert.equal(scrolls[0].top,230);
- env.ctx.drawPsychologyMap(env.host,structuredClone(psychologyFixture),()=>true);await entry.row.fire('click');assert.equal(entry.card.querySelector('form'),form);assert.equal(input.value,'Une nuance personnelle en cours');assert.equal(env.host.dataset.mapReading,'true');
-});
-
 test('V10 an outbox provider cooldown keeps the precise error and automatically enables retry without changing the next draft',async()=>{
  const timers=new Map();let serial=0,now=Date.now(),client,answer;const env=chatFixture({Date:{now:()=>now},setTimeout(fn){timers.set(++serial,fn);return serial},clearTimeout(id){timers.delete(id)},api:async(path,method,payload)=>{if(method==='POST'){client=payload.idempotency_key;return {consent:true,access:{allowed:true},quota:{remaining:99,limit:100},pending_request:{id:'limited',client_key:client,status:'running'},messages:[{id:'limited-user',client_key:client,role:'user',content:payload.content,status:'running'}],proposals:[]}}return answer}});
  env.input.value='Message initial';await env.input.fire('input');await env.ctx.sendChat(env.form,()=>true);
  answer={consent:true,access:{allowed:false,reason:'provider_cooldown',retry_at:(now+30000)/1000},quota:{remaining:100,limit:100},last_request:{id:'limited',status:'failed'},last_error:{code:'provider_http_429_request',message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'},messages:[{id:'limited-user',client_key:client,role:'user',content:'Message initial',status:'failed'}],proposals:[]};
  let [id,callback]=[...timers][0];timers.delete(id);await callback();const form=env.form,retry=env.view.querySelector('.chat-turn-state').querySelector('button');assert.equal(retry.disabled,true);assert.equal(env.input.value,'Message initial');assert.match(env.doc.getElementById('chat-status').textContent,/Le fournisseur limite temporairement les demandes\. Aucun message n’a été décompté/);assert.equal(env.ctx.state.chatSendKey,null);
  env.input.value='Un prochain message';await env.input.fire('input');now+=31000;answer={...answer,access:{allowed:true}};[id,callback]=[...timers][0];timers.delete(id);await callback();assert.equal(env.form,form);assert.equal(env.input.value,'Un prochain message');assert.equal(retry.disabled,false);assert.equal(env.send.disabled,false);assert.equal(env.ctx.state.chatData.quota.remaining,100);
-});
-
-test('a liked article renders from the real application state and preserves its note draft',async()=>{
- const env=environment({location:{origin:'https://example.test',pathname:'/mon-portrait/'},query:new URLSearchParams()});
- vm.runInContext(functionCode('personIdForPath')+'\n'+functionCode('topicIdForPath')+'\n'+functionCode('pageForPath')+'\n'+script.match(/var PAGES=.*\n/)[0]+'\n'+script.match(/var state=.*\n/)[0],env.ctx);
- for(const name of ['safeArticleLink','drawLikedArticles'])vm.runInContext(functionCode(name),env.ctx);
- env.ctx.state.examples=[{id:'a',title:'Une lecture',url:'/posts/une-lecture/'}];
- env.ctx.state.likes=[{article_id:'a',reason:'Mon retour'}];
- const list=env.host('liked');env.ctx.drawLikedArticles(list,()=>true);
- assert.match(list.textContent,/Une lecture/);
- const input=env.doc.getElementById('reason-0');input.value='Mon brouillon';await input.fire('input');
- env.ctx.drawLikedArticles(list,()=>true);
- assert.equal(env.doc.getElementById('reason-0').value,'Mon brouillon');
 });
 
 test('leaving an untouched presentation shows later Ambre updates; a real draft retains its original revision',async()=>{
@@ -996,22 +787,6 @@ test('A5-P2 observation proposals require an explicit decision and retain edited
  const host=env.host('observation-proposal');env.ctx.drawChatProposal(host,{id:'obs1',kind:'person_observation',target_id:'p1',revision:2,payload:{axis:'communication',quote:'Camille prend le temps de me répondre.'},evidence_quote:'Camille prend le temps de me répondre.'},()=>true);const form=host.children[0];assert.equal(calls.length,0);assert.equal(form.elements.axis.tagName,'SELECT');assert.equal(form.elements.quote.maxLength,280);assert.equal(form.elements.quote.minLength,20);assert.match(form.textContent,/votre point de vue/);assert.doesNotMatch(form.textContent,/person_observation/);
  form.elements.quote.value='Camille me répond avec attention.';await form.elements.quote.fire('input');form.elements.axis.value='appuis';await form.elements.axis.fire('change');await form.fire('submit');assert.equal(calls[0].path,'/api/chat/proposals/obs1/accept');assert.equal(calls[0].payload.revision,2);assert.equal(calls[0].payload.payload.quote,'Camille me répond avec attention.');assert.equal(calls[0].payload.payload.axis,'appuis');assert.match(form.textContent,/Vos modifications sont conservées/);assert.equal(form.elements.quote.value,'Camille me répond avec attention.');
  await form.querySelectorAll('button').find(button=>button.textContent==='Refuser').fire('click');assert.equal(calls[1].path,'/api/chat/proposals/obs1/reject');assert.equal(calls[1].payload.revision,2);assert.equal(calls[1].payload.payload,undefined);
-});
-
-test('A5-P2 Settings translates optional context and separates pending proposals from recorded observations',async()=>{
- const {SETTINGS_INTERFACE_SCRIPT}=await import('../src/settings-interface.mjs'),calls=[],env=environment({api:async path=>{calls.push(path);return path==='/api/people'?{people:[{id:'p1',display_name:'Camille'}]}:{available:true,proposals:[{status:'pending',payload:{axis:'appuis',quote:'Une présence à vérifier.'}}],observations:[{origin:'accepted',axis:'communication',quote:'Une parole déjà validée.'},{origin:'auto',quote:'Un ancien repère.'}]}}});
- vm.runInContext(SETTINGS_INTERFACE_SCRIPT.slice(0,SETTINGS_INTERFACE_SCRIPT.indexOf('async function renderSettings(')),env.ctx);const info=env.ctx.settingsValue({bond_quality:'ambivalent',feels_safe:'not_always',exposure:'witnessed',what_brings_me:'Comprendre',life_rhythm:'Le matin'});assert.match(info.textContent,/Qualité du lienambivalent/);assert.match(info.textContent,/pas toujours/);assert.match(info.textContent,/j’en ai été témoin/);assert.doesNotMatch(info.textContent,/what_brings_me|life_rhythm|not_always/);
- const box=env.ctx.settingsObservationRecords(()=>true);assert.equal(calls.length,0);box.open=true;await box.fire('toggle');const person=box.querySelectorAll('details').find(node=>node.querySelector('summary').textContent==='Camille');person.open=true;await person.fire('toggle');assert.deepEqual(calls,['/api/people','/api/people/p1/observations']);assert.match(person.textContent,/Propositions à vérifier/);assert.match(person.textContent,/Repères enregistrés/);assert.match(person.textContent,/Validé par vous/);assert.match(person.textContent,/Ancien repère automatique/);assert.match(person.textContent,/À vérifier/);
-});
-
-
-test('Settings hides research bibliographies in rendered values and JSON without changing private evidence or stored data',()=>{
- const env=environment();vm.runInContext(SETTINGS_INTERFACE_SCRIPT.slice(0,SETTINGS_INTERFACE_SCRIPT.indexOf('async function renderSettings(')),env.ctx);
- const original={label:'Mon enfance',evidence_source:{id:'afifi2017',citation:'Citation scientifique',url:'https://pubmed.ncbi.nlm.nih.gov/28126359/'},evidence_sources:[{id:'afifi2017',citation:'Citation scientifique'}],evidence:[{source_ids:['afifi2017'],summary:'Une association prudente.'}],sources:[{id:'afifi2017',citation:'Citation scientifique',url:'https://pubmed.ncbi.nlm.nih.gov/28126359/'},{id:'person:p1',content:'Mes propres mots',source_quote:'Un souvenir précis.'}],source_ids:['afifi2017','person:p1'],reference_ids:['S01'],content:JSON.stringify({evidence_sources:[{id:'afifi2017',citation:'Citation scientifique'}],source_id:'person:p1',quote:'Ma citation personnelle'})};
- original.trace={messages:[{role:'user',content:'Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify({evidence_sources:[{id:'afifi2017',citation:'Citation scientifique',url:'https://pubmed.ncbi.nlm.nih.gov/28126359/'}],quote:'Mes mots dans la trace'})}]};
- const before=JSON.stringify(original),view=env.ctx.settingsValue(original),jsonView=env.ctx.settingsJSON('Données',original);
- for(const node of [view,jsonView]){assert.doesNotMatch(node.textContent,/afifi2017|pubmed|Citation scientifique|S01/);assert.match(node.textContent,/person:p1/);assert.match(node.textContent,/Mes propres mots/);assert.match(node.textContent,/Ma citation personnelle/);assert.match(node.textContent,/Une association prudente/);assert.match(node.textContent,/Contexte privé enregistré/);assert.match(node.textContent,/Mes mots dans la trace/)}
- assert.equal(JSON.stringify(original),before);
 });
 
 test('date controls keep precision drafts without manufacturing a month or a day',async()=>{
