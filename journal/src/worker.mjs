@@ -242,7 +242,7 @@ async function routes(request,env,ctx) {
   if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/ambre/'}});
   if(['GET','HEAD'].includes(method)&&['/parametres','/parametres/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'}});
   if(['GET','HEAD'].includes(method)&&['/mon-portrait','/mon-portrait/'].includes(path)) return new Response(null,{status:302,headers:{Location:'/mon-compte/'+url.search}});
-  const pageTitles={'/ambre':'Ambre','/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/mes-sujets':'Mes sujets','/ma-cartographie':'Ma cartographie','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
+  const pageTitles={'/accueil':'Accueil','/ambre':'Ambre','/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/mes-sujets':'Mes sujets','/ma-cartographie':'Ma cartographie','/ma-ligne-de-vie':'Ma ligne de vie','/mes-bilans':'Mes bilans','/mes-diagnostics':'Mes diagnostics','/mon-compte':'Mon compte','/mon-suivi':'Mon suivi','/espace-psychologue':'Espace psychologue'};
   // « Mes symptômes »: the shared engine and the published questionnaires, no personal data.
   const pagePath=path.replace(/\/$/,'');
   // One close person has a page of their own. Its first render is prepared here; the two

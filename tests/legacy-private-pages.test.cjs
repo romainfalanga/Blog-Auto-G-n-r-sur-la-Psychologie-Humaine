@@ -10,7 +10,7 @@ test('legacy page redirects drop retired identifiers and retain public article o
   // "/" now opens Ambre (302); that rule is its only redirect and it never carries legacy identifiers.
   const home = config.split('[[redirects]]').slice(1).filter(block => /^\s*from\s*=\s*"\/"\s*$/m.test(block));
   assert.equal(home.length, 1);
-  assert.match(home[0], /to = "\/ambre\/"\s+status = 302/);
+  assert.match(home[0], /to = "\/accueil\/"\s+status = 302/);
   const [, pattern] = config.match(/pattern = "([^"]+)"\s+function = "legacy-private-pages"/);
   const route = new RegExp('^(?:' + pattern + ')$');
   assert.equal(route.test('/personnages/camille/'), false);

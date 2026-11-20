@@ -22,11 +22,11 @@
   status = 301
   force = true
 
-# L’accueil ouvre Ambre.
+# L’accueil ouvre le tableau de bord (/accueil/), d’où partent toutes les pages : il n’y a plus de menu.
 # 302 (temporaire) et force : la page d’accueil Hugo existe et serait sinon servie.
 [[redirects]]
   from = "/"
-  to = "/ambre/"
+  to = "/accueil/"
   status = 302
   force = true
 
