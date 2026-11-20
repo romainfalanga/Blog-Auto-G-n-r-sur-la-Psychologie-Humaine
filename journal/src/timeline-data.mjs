@@ -17,7 +17,7 @@ export function meetingData(data,fail){
  if(!['unknown','year','month','day','range','age'].includes(precision))fail(400,'Précision de rencontre invalide.','invalid_date');
  const valid=value=>{if(!/^\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(value))return false;const [y,m,d]=value.split('-').map(Number),last=new Date(0);last.setUTCFullYear(y,m||1,0);return y>=1&&y<=9999&&(!m||m>=1&&m<=12)&&(!value.includes('-')||m>=1)&&(!d||d>=1&&d<=last.getUTCDate())&&(value.length<10||d>=1)};
  if(['unknown','age'].includes(precision)){out.meeting_date_start='';out.meeting_date_end='';}
- else if(!valid(start)||precision==='range'&&(!valid(end)||start>end)||({year:4,month:7,day:10}[precision]&&start.length!=={year:4,month:7,day:10}[precision]))fail(400,'La date de rencontre ne correspond pas à sa précision.','invalid_date');
+ else if(!valid(start)||precision==='range'&&end&&(!valid(end)||(start+'-01-01').slice(0,10)>(end+'-12-31').slice(0,10))||({year:4,month:7,day:10}[precision]&&start.length!=={year:4,month:7,day:10}[precision]))fail(400,'La date de rencontre ne correspond pas à sa précision.','invalid_date');
  if(precision!=='range')out.meeting_date_end='';
  if(precision!=='age')out.meeting_age_text='';else if(!out.meeting_age_text.trim())fail(400,'Indiquez l’âge ou choisissez une date inconnue.','invalid_date');
  return out;

@@ -159,6 +159,17 @@ html.is-navigating .person-card:has(.person-open[data-pending])::after { content
 .event-timeline::before { content: ''; position: absolute; inset: 14px auto 0 3px; width: 1px; background: var(--line-strong); }
 .timeline-year { position: relative; margin: var(--s2) 0 calc(-1 * var(--s2)); font: 400 var(--t-lg)/1.3 var(--font-title); }
 .event-timeline .timeline-year::before { content: ''; position: absolute; top: .5em; left: calc(-1 * var(--s5)); width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+.timeline-month { margin: var(--s2) 0 calc(-1 * var(--s2)); color: var(--muted); font: 600 var(--t-sm)/1.4 var(--font-ui); }
+.timeline-running { margin: 0; padding: var(--s2) var(--s3); border-radius: var(--r-control); background: var(--accent-wash); color: var(--ink); font-size: var(--t-sm); line-height: 1.5; }
+.timeline-running a { color: inherit; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+.date-picker { min-width: 0; margin: 0; padding: 0; border: 0; }
+.date-picker[hidden], .date-ongoing[hidden] { display: none; }
+.date-picker legend { margin: 0 0 var(--s1); padding: 0; color: var(--ink); font: 600 var(--t-sm)/1.4 var(--font-ui); }
+.date-picker-row { display: flex; flex-wrap: wrap; gap: var(--s2); }
+.date-picker-row select { flex: 1 1 96px; min-width: 0; min-height: 48px; }
+.date-picker-row select[hidden] { display: none; }
+.date-picker-row select:first-child { flex-basis: 100%; }
+@media (min-width: 600px) { .date-picker-row select:first-child { flex-basis: 160px; } }
 .undated-events { display: grid; gap: var(--s4); margin-top: var(--s6); padding-top: var(--s5); border-top: 1px solid var(--line); }
 /* Each moment is a card on the line, its notes nested under a thin rule. */
 .event-card { min-width: 0; padding: var(--s4); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }

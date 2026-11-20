@@ -260,29 +260,57 @@ var SIGNIFICANCE_CHOICES=[['anecdotal','Anecdotique'],['major','Marquant']];
 function newClientId(){return crypto.randomUUID()}
 function captureSourceDraft(form){var kind=form.dataset.sourceForm,previous=state.sourceDrafts.get(kind);if(!previous)return;var values=formValues(form);if(!state[kind+'FieldsReady'])SOURCE_CONTEXT_ORDER[kind].forEach(function(name){if(Object.prototype.hasOwnProperty.call(previous.values,name))values[name]=previous.values[name]});if(kind==='events'){values.people_ids=Array.from(form.querySelectorAll('[name=people_ids]:checked')).map(function(input){return input.value});if(form.querySelector('[name=significance]')){var significance=chosenSignificance(form);if(significance)values.significance=significance;else delete values.significance}}state.sourceDrafts.set(kind,Object.assign({},previous,{values:values}))}
 function sourceField(form,name,label,value,options){options=options||{};var field=el('div','field'+(options.full?' full':'')),caption=el('label','',label),input=el(options.choices?'select':options.multiline?'textarea':'input');input.id=form.id+'-'+name;input.name=name;caption.htmlFor=input.id;if(options.choices){options.choices.forEach(function(choice){var option=el('option','',choice[1]);option.value=choice[0];input.append(option)})}else{if(!options.multiline)input.type=options.type||'text';if(options.max)input.maxLength=options.max;if(options.placeholder)input.placeholder=options.placeholder;}if(options.required)input.required=true;input.value=value==null?'':String(value);field.append(caption,input);if(options.help){var help=el('small','field-hint',options.help);help.id=input.id+'-help';input.setAttribute('aria-describedby',help.id);field.append(help)}form.append(field);return input}
+function monthNames(){return ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']}
+// A date is chosen in lists, never typed: a day, a month, a year, or a period whose two ends each
+// have their own precision. The hidden fields keep the stored format (YYYY, YYYY-MM, YYYY-MM-DD).
 function appendEventDateFields(grid,values,draft,prefix){
- prefix=prefix||'';var key=function(name){return prefix+name},cache=draft.dateDrafts||(draft.dateDrafts={});
- function granularity(value){return value&&value.length===10?'day':value&&value.length===7?'month':'year'}
- var modes=[['unknown','Sans date'],['year','Une année'],['month','Un mois'],['day','Un jour'],['range','Une période'],['age','Un âge approximatif']];
- var precision=sourceField(grid,key('date_precision'),prefix?'Date de rencontre':'Date',values[key('date_precision')]||'unknown',{choices:modes});
- var startKind=sourceField(grid,'','Précision du début',granularity(values[key('date_start')]),{choices:modes.slice(1,4)});startKind.id=grid.id+'-'+prefix+'start-granularity';startKind.parentElement.querySelector('label').htmlFor=startKind.id;
- var start=sourceField(grid,key('date_start'),'Date ou début de période',values[key('date_start')],{max:10});
- var endKind=sourceField(grid,'','Précision de la fin',granularity(values[key('date_end')]),{choices:modes.slice(1,4)});endKind.id=grid.id+'-'+prefix+'end-granularity';endKind.parentElement.querySelector('label').htmlFor=endKind.id;
- var end=sourceField(grid,key('date_end'),'Fin de période',values[key('date_end')],{max:10});
- var age=sourceField(grid,key('age_text'),'Âge ou période de vie',values[key('age_text')],{max:80,placeholder:'Vers 15 ans, pendant mon adolescence…'});
- function control(input,mode,visible){
-  var previous=input.dataset.dateMode;if(previous)cache[input.name+':'+previous]=input.value;
-  var remembered=cache[input.name+':'+mode],original=values[input.name]||'',length={year:4,month:7,day:10}[mode];
-  input.type=mode==='day'?'date':mode==='month'?'month':'text';input.inputMode=mode==='year'?'numeric':'';
-  if(previous!==mode)input.value=remembered!==undefined?remembered:original.length===length?original:'';
-  input.dataset.dateMode=mode;input.parentElement.hidden=!visible;input.required=visible;
-  if(mode==='year'){input.pattern='[0-9]{4}';input.maxLength=4;input.placeholder='2020'}else{input.removeAttribute('pattern');input.removeAttribute('maxlength');input.placeholder=''}
+ prefix=prefix||'';var key=function(name){return prefix+name},stored=values[key('date_precision')]||'unknown';
+ var modes=[['unknown','Sans date'],['day','Un jour précis'],['month','Un mois'],['year','Une année'],['range','Une période']];
+ // Earlier entries could hold an age written in words: it is kept as it is until another choice is made.
+ if(stored==='age')modes.push(['age','Un âge (ancienne saisie)']);
+ var precision=sourceField(grid,key('date_precision'),prefix?'Date de rencontre':'Date',stored,{choices:modes});
+ var start=sourceField(grid,key('date_start'),'Date',values[key('date_start')],{type:'hidden'}),end=sourceField(grid,key('date_end'),'Fin',values[key('date_end')],{type:'hidden'}),age=sourceField(grid,key('age_text'),'Âge',values[key('age_text')],{type:'hidden'});
+ [start,end,age].forEach(function(input){input.parentElement.hidden=true});
+ var ageNote=el('p','helper full date-age-note',age.value?'Âge indiqué : '+age.value:'');ageNote.hidden=true;grid.append(ageNote);
+ function picker(caption,target,own){
+  var box=el('fieldset','field full date-picker'),legend=el('legend','',caption),row=el('div','date-picker-row'),unit=el('select'),day=el('select'),month=el('select'),year=el('select'),value=target.value||'',mode='year';
+  var dayOptions=[];function option(select,v,text){var o=el('option','',text);o.value=v;select.append(o);return o}
+  [['day','Au jour près'],['month','Au mois près'],['year','À l’année près']].forEach(function(entry){option(unit,entry[0],entry[1])});
+  option(day,'','Jour');for(var d=1;d<=31;d++)dayOptions.push(option(day,String(d).padStart(2,'0'),String(d)));
+  option(month,'','Mois');monthNames().forEach(function(name,index){option(month,String(index+1).padStart(2,'0'),name)});
+  var thisYear=new Date().getFullYear(),first=Math.min(thisYear-110,Number(value.slice(0,4))||thisYear);option(year,'','Année');for(var y=thisYear;y>=first;y--)option(year,String(y),String(y));
+  unit.setAttribute('aria-label',caption+' : précision');day.setAttribute('aria-label',caption+' : jour');month.setAttribute('aria-label',caption+' : mois');year.setAttribute('aria-label',caption+' : année');
+  unit.value=value.length===10?'day':value.length===7?'month':'year';year.value=value.slice(0,4);month.value=value.slice(5,7);day.value=value.slice(8,10);
+  function refresh(){
+   var unitNow=own?unit.value:mode,shown=!box.hidden;unit.hidden=!own;month.hidden=unitNow==='year';day.hidden=unitNow!=='day';
+   year.required=shown;month.required=shown&&unitNow!=='year';day.required=shown&&unitNow==='day';
+   var days=year.value&&month.value?new Date(Number(year.value),Number(month.value),0).getDate():31;
+   dayOptions.forEach(function(o){o.hidden=Number(o.value)>days;o.disabled=o.hidden});if(Number(day.value)>days)day.value='';
+   if(!shown)return;
+   target.value=!year.value?'':unitNow==='year'?year.value:!month.value?'':unitNow==='month'?year.value+'-'+month.value:!day.value?'':year.value+'-'+month.value+'-'+day.value;
+  }
+  [unit,day,month,year].forEach(function(select){select.addEventListener('change',refresh)});
+  row.append(unit,day,month,year);box.append(legend,row);grid.append(box);
+  return {box:box,legend:legend,show:function(visible,unitMode){box.hidden=!visible;if(unitMode)mode=unitMode;refresh()}};
  }
- function show(){var mode=precision.value,range=mode==='range';startKind.parentElement.hidden=!range;endKind.parentElement.hidden=!range;
-  control(start,range?startKind.value:['year','month','day'].includes(mode)?mode:start.dataset.dateMode||'year',!['unknown','age'].includes(mode));
-  control(end,endKind.value,range);age.parentElement.hidden=mode!=='age';age.required=mode==='age';
+ var from=picker('Date',start,false),range=picker('Début de la période',start,true),to=picker('Fin de la période',end,true);
+ var ongoingField=el('label','check full date-ongoing'),ongoing=el('input');ongoing.type='checkbox';ongoing.checked=stored==='range'&&!!start.value&&!end.value;ongoingField.append(ongoing,el('span','','Cette période est toujours en cours'));grid.append(ongoingField);
+ function show(){
+  var mode=precision.value,isRange=mode==='range',single=['day','month','year'].includes(mode);
+  from.show(single,single?mode:null);range.show(isRange);ongoingField.hidden=!isRange;to.show(isRange&&!ongoing.checked);
+  if(!isRange||ongoing.checked)end.value='';
+  if(!single&&!isRange)start.value=mode==='age'?start.value:'';
+  ageNote.hidden=mode!=='age'||!age.value;
  }
- precision.addEventListener('change',show);startKind.addEventListener('change',show);endKind.addEventListener('change',show);show();
+ precision.addEventListener('change',show);ongoing.addEventListener('change',show);show();
+}
+// « 2 ans et 3 mois », « 5 mois », « 12 jours »: how long a period lasted, from its two partial dates.
+function periodLength(startValue,endValue){
+ var from=new Date((startValue+'-01-01').slice(0,10)+'T12:00:00Z'),until=endValue?new Date((endValue.length===4?endValue+'-12-31':endValue.length===7?endValue+'-'+String(new Date(Date.UTC(Number(endValue.slice(0,4)),Number(endValue.slice(5,7)),0)).getUTCDate()).padStart(2,'0'):endValue)+'T12:00:00Z'):new Date();
+ var days=Math.round((until-from)/86400000)+1;if(!Number.isFinite(days)||days<1)return '';
+ if(days<60)return days+(days>1?' jours':' jour');
+ var next=new Date(until.getTime()+86400000),months=(next.getUTCFullYear()-from.getUTCFullYear())*12+next.getUTCMonth()-from.getUTCMonth()-(next.getUTCDate()<from.getUTCDate()?1:0);if(months<24)return months+' mois';
+ var years=Math.floor(months/12),rest=months%12;return years+' ans'+(rest?' et '+rest+' mois':'');
 }
 function appendSourceContextFields(grid,kind,values){
  SOURCE_CONTEXT_ORDER[kind].forEach(function(name){var choices=SOURCE_CONTEXT_CHOICES[kind][name],options=choices?{choices:[['','—']].concat(Object.entries(choices))}:{multiline:true,max:SOURCE_CONTEXT_LIMITS[kind][name],full:true};sourceField(grid,name,SOURCE_CONTEXT_LABELS[name],values[name],options)})
@@ -308,11 +336,13 @@ function eventDateInYear(event){
   var date=new Date(event.date_start+(event.date_start.length===7?'-01':'')+'T12:00:00Z');
   if(Number.isFinite(date.getTime())){var options={month:'long',timeZone:'UTC'};if(event.date_start.length===10)options.day='numeric';return date.toLocaleDateString('fr-FR',options)}
  }
+ if(event.date_precision==='range'){var length=periodLength(event.date_start,event.date_end);return sourceDate(event)+(length?' · '+length:'')}
  return sourceDate(event);
 }
 function sourceDate(event){
  if(event.date_precision==='age')return event.age_text||'Âge non précisé';
  if(event.date_precision==='unknown'||!event.date_start)return 'Sans date';
+ if(event.date_precision==='range'&&!event.date_end)return 'Depuis '+displayDate(event.date_start);
  return displayDate(event.date_start)+(event.date_end?' – '+displayDate(event.date_end):'');
 }
 function emptyState(kind,title,description){
@@ -375,11 +405,18 @@ function drawSourceSection(kind){
   var undated=rows.filter(function(item){return !dated.includes(item)});
   dated.sort(function(a,b){return b.date_start.localeCompare(a.date_start)});
   if(dated.length){
-   var timeline=el('div','event-timeline'),year='';
-   dated.forEach(function(item){
-    var nextYear=item.date_start.slice(0,4);
-    if(nextYear!==year){year=nextYear;timeline.append(el('h3','timeline-year',year))}
-    timeline.append(drawSourceItem(kind,item,box))
+   // Each year lists first what is only dated by the year, then its months, most recent first.
+   // A period is drawn where it starts and recalled in every later year it runs through.
+   var timeline=el('div','event-timeline'),today=new Date().toISOString().slice(0,10),years=[];
+   dated.forEach(function(item){var y=item.date_start.slice(0,4);if(years.indexOf(y)<0)years.push(y)});
+   years.forEach(function(year){
+    timeline.append(el('h3','timeline-year',year));
+    var running=dated.filter(function(item){return item.date_precision==='range'&&item.date_start.slice(0,4)<year&&(item.date_end||today).slice(0,4)>=year});
+    if(running.length){var recall=el('p','timeline-running','Se poursuit cette année : ');running.forEach(function(item,index){var link=el('a','',item.title);link.href='#event-'+item.id;recall.append(link);if(index<running.length-1)recall.append(', ')});timeline.append(recall)}
+    var inYear=dated.filter(function(item){return item.date_start.slice(0,4)===year}),whole=inYear.filter(function(item){return item.date_start.length===4}),rest=inYear.filter(function(item){return item.date_start.length>4});
+    if(whole.length&&rest.length)timeline.append(el('p','timeline-month','Au cours de l’année'));
+    whole.forEach(function(item){timeline.append(drawSourceItem(kind,item,box))});
+    var month='';rest.forEach(function(item){var m=item.date_start.slice(5,7);if(m!==month){month=m;var name=monthNames()[Number(m)-1]||'';timeline.append(el('p','timeline-month',name.charAt(0).toUpperCase()+name.slice(1)))}timeline.append(drawSourceItem(kind,item,box))});
    });
    box.append(timeline)
   }
